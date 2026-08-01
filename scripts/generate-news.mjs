@@ -12,6 +12,8 @@ const today = new Date().toLocaleDateString("en-CA", { timeZone: "Asia/Bangkok" 
 const QUERIES = [
   "อุตสาหกรรมยานยนต์ไทย ผลิตรถยนต์ ส่งออก ชิ้นส่วน EV ลงทุน",
   "การบินไทย MRO อู่ตะเภา อุตสาหกรรมการบิน ฝูงบิน",
+  "อุตสาหกรรมเหล็กไทย โรงงานโลหะ ผลิตเหล็ก แปรรูปโลหะ",
+  "อุตสาหกรรมเฟอร์นิเจอร์ไทย ส่งออกเฟอร์นิเจอร์ งานไม้",
 ];
 
 function decodeEnt(s) {
@@ -66,13 +68,13 @@ const prompt = `คุณคือผู้ช่วยข่าวกรอง�
 ด้านล่างคือพาดหัวข่าวจริงล่าสุดจาก Google News:
 ${listText}
 
-เลือก 5-7 ข่าวที่เกี่ยวกับอุตสาหกรรมเรามากที่สุด (ยานยนต์/การบิน/โลหะ/โรงงาน) — ข้ามข่าวที่ไม่เกี่ยว (รีวิวรถ ราคารถมือสอง โปรโมชั่น ฯลฯ)
+เลือก 5-8 ข่าวที่เกี่ยวกับอุตสาหกรรมเรามากที่สุด (ยานยนต์/การบิน/เหล็ก-โลหะ/เฟอร์นิเจอร์-งานไม้ส่งออก/โรงงาน) — ข้ามข่าวที่ไม่เกี่ยว (รีวิวรถ ราคารถมือสอง โปรโมชั่น ฯลฯ). จัด tag: auto=ยานยนต์, aero=การบิน, steel=เหล็ก/โลหะ/โรงงานทั่วไป, furniture=เฟอร์นิเจอร์/งานไม้
 ใช้ url/source/date จากรายการข้างบน "ตามจริง" ห้ามแต่ง url เอง
 
 สำคัญ — ภาษา: เขียน title/summary/why/action เป็น "ภาษาอังกฤษ" เป็นหลัก (business English กระชับ ชัดเจน ระดับผู้เรียนกลางๆ อ่านเข้าใจได้ ไม่ซับซ้อนเกินไป) แล้วใส่คำแปลไทยของทุก field ไว้ใน object "th" ของข่าวนั้น (แปลเป็นธรรมชาติ ครบความหมาย)
 
 ตอบกลับเป็น JSON object เดียวเท่านั้น (ไม่มี markdown ไม่มีข้อความอื่น):
-{"date":"${today}","summary":"<English executive summary 1-2 sentences: does today affect us, what stands out>","directCount":<green count>,"th":{"summary":"<คำแปลไทยของ executive summary>"},"items":[{"id":"${today.replace(/-/g, "")}-1","tag":"auto|aero","rating":"green|amber|white","source":"...","date":"YYYY-MM-DD","url":"https://...","title":"<English headline>","summary":"<English 1-2 sentences>","why":"<English: why it matters to us>","action":"<English: 1-line action>","th":{"title":"<ไทย>","summary":"<ไทย>","why":"<ไทย>","action":"<ไทย>"}}]}
+{"date":"${today}","summary":"<English executive summary 1-2 sentences: does today affect us, what stands out>","directCount":<green count>,"th":{"summary":"<คำแปลไทยของ executive summary>"},"items":[{"id":"${today.replace(/-/g, "")}-1","tag":"auto|aero|steel|furniture","rating":"green|amber|white","source":"...","date":"YYYY-MM-DD","url":"https://...","title":"<English headline>","summary":"<English 1-2 sentences>","why":"<English: why it matters to us>","action":"<English: 1-line action>","th":{"title":"<ไทย>","summary":"<ไทย>","why":"<ไทย>","action":"<ไทย>"}}]}
 rating: green=directly affects our abrasive/metal-finishing demand, amber=indirect (affects our customers/market), white=just FYI`;
 
 const url = `https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent?key=${KEY}`;

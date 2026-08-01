@@ -167,8 +167,14 @@ function toggleStar(item,dayDate){
   saveStore(); renderAll();
 }
 
-const TAG={auto:{emo:'🚗'}, aero:{emo:'✈️'}};
-const RATE={green:{cls:'green',txt:'Direct'}, amber:{cls:'amber',txt:'Indirect'}, white:{cls:'grey',txt:'FYI'}, grey:{cls:'grey',txt:'FYI'}};
+const TAG={auto:{emo:'🚗'}, aero:{emo:'✈️'}, steel:{emo:'🏭'}, furniture:{emo:'🪑'}};
+const GROUPS=[
+  {tag:'auto',emo:'🚗',en:'Automotive',th:'ยานยนต์'},
+  {tag:'aero',emo:'✈️',en:'Aviation',th:'การบิน'},
+  {tag:'steel',emo:'🏭',en:'Steel & Metal',th:'เหล็ก & โลหะ'},
+  {tag:'furniture',emo:'🪑',en:'Furniture',th:'เฟอร์นิเจอร์'},
+];
+const RATE={green:{cls:'green',en:'Direct',th:'เกี่ยวตรง'}, amber:{cls:'amber',en:'Indirect',th:'ทางอ้อม'}, white:{cls:'grey',en:'FYI',th:'รู้ไว้'}, grey:{cls:'grey',en:'FYI',th:'รู้ไว้'}};
 function esc(s){return (s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));}
 function fmtThai(dateStr){
   const dt=new Date(dateStr+'T00:00:00');
@@ -180,23 +186,30 @@ let selDate=null, tab='daily';
 function cardHTML(it,dayDate){
   const r=RATE[it.rating]||RATE.grey, t=TAG[it.tag]||{emo:''};
   const th=it.th||{};
-  const showTh = globalThai || thaiShown.has(it.id);
   const hasTh = !!(th.title||th.summary||th.why);
+  const showThai = globalThai;                                  // global TH mode = Thai only
+  const peek = !showThai && hasTh && thaiShown.has(it.id);      // per-card peek in EN mode
+  const title   = showThai&&th.title   ? th.title   : it.title;
+  const summary = showThai&&th.summary ? th.summary : it.summary;
+  const why     = showThai&&th.why     ? th.why     : it.why;
+  const action  = showThai ? (th.action||it.action) : it.action;
+  const whyLbl  = showThai ? 'สำคัญกับเรา' : 'Why it matters';
+  const readLbl = showThai ? 'อ่านข่าวเต็ม' : 'read more';
   return `<article class="card">
     <div class="ctop">
-      <span class="rate ${r.cls}"><span class="dot"></span>${r.txt}</span>
+      <span class="rate ${r.cls}"><span class="dot"></span>${showThai?r.th:r.en}</span>
       <button class="star ${isStarred(it.id)?'on':''}" data-id="${it.id}" data-day="${dayDate}" aria-label="save">${isStarred(it.id)?'★':'☆'}</button>
     </div>
-    <h3>${esc(it.title)}</h3>
+    <h3>${esc(title)}</h3>
     <div class="src">${t.emo} ${esc(it.source)} · ${esc(it.date)}</div>
-    <p class="summary">${esc(it.summary)}</p>
-    <div class="why"><span class="k">Why it matters</span>${esc(it.why)}
-      ${it.action?`<span class="act">→ ${esc(it.action)}</span>`:''}</div>
+    <p class="summary">${esc(summary)}</p>
+    <div class="why"><span class="k">${whyLbl}</span>${esc(why)}
+      ${action?`<span class="act">→ ${esc(action)}</span>`:''}</div>
     <div class="cardfoot">
-      ${hasTh?`<button class="xlate" data-id="${it.id}">${showTh?'🇬🇧 hide Thai':'🇹🇭 แปลไทย'}</button>`:''}
-      <a class="link" href="${esc(it.url)}" target="_blank" rel="noopener">read more</a>
+      ${!showThai&&hasTh?`<button class="xlate" data-id="${it.id}">${peek?'🇬🇧 ซ่อนไทย':'🇹🇭 แปลไทย'}</button>`:''}
+      <a class="link" href="${esc(it.url)}" target="_blank" rel="noopener">${readLbl}</a>
     </div>
-    ${showTh&&hasTh?`<div class="thai">
+    ${peek?`<div class="thai">
       <div class="tt">${esc(th.title||'')}</div>
       <div>${esc(th.summary||'')}</div>
       <div class="tw"><b>สำคัญกับเรา:</b> ${esc(th.why||'')}${th.action?` → ${esc(th.action)}`:''}</div>
@@ -211,14 +224,19 @@ function renderDaily(){
   dates.innerHTML=days.map(d=>{const f=fmtThai(d.date);
     return `<button class="chip ${d.date===selDate?'on':''}" data-date="${d.date}"><span class="d">${f.wd}</span> ${f.day} ${f.mon}</button>`;}).join('');
   const day=store.days[selDate], vis=visibleItems(day);
-  const auto=vis.filter(i=>i.tag==='auto'), aero=vis.filter(i=>i.tag==='aero');
   const dth=day.th||{};
-  let html=`<div class="exec"><span class="lbl">Executive summary</span><p>${esc(day.summary)}</p>`;
-  if(globalThai&&dth.summary) html+=`<p style="color:var(--muted);border-top:1px dashed var(--line);padding-top:9px">${esc(dth.summary)}</p>`;
-  if(day.directCount!=null) html+=`<span class="cnt">🟢 ${day.directCount} directly relevant</span>`;
+  const dsum = globalThai&&dth.summary?dth.summary:day.summary;
+  const execLbl = globalThai?'สรุปผู้บริหาร':'Executive summary';
+  const relLbl = globalThai?'ข่าวเกี่ยวตรง':'directly relevant';
+  let html=`<div class="exec"><span class="lbl">${execLbl}</span><p>${esc(dsum)}</p>`;
+  if(day.directCount!=null) html+=`<span class="cnt">🟢 ${day.directCount} ${relLbl}</span>`;
   html+=`</div>`;
-  if(auto.length) html+=`<div class="grouphead">🚗 Automotive</div>`+auto.map(i=>cardHTML(i,day.date)).join('');
-  if(aero.length) html+=`<div class="grouphead">✈️ Aviation</div>`+aero.map(i=>cardHTML(i,day.date)).join('');
+  for(const g of GROUPS){
+    const items=vis.filter(i=>i.tag===g.tag);
+    if(items.length) html+=`<div class="grouphead">${g.emo} ${globalThai?g.th:g.en}</div>`+items.map(i=>cardHTML(i,day.date)).join('');
+  }
+  const other=vis.filter(i=>!GROUPS.some(g=>g.tag===i.tag));
+  if(other.length) html+=`<div class="grouphead">📌 ${globalThai?'อื่นๆ':'Other'}</div>`+other.map(i=>cardHTML(i,day.date)).join('');
   dayView.innerHTML=html;
 }
 function renderSaved(){
