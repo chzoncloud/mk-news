@@ -81,12 +81,22 @@ const body = {
   generationConfig: { temperature: 0.4, maxOutputTokens: 8192, responseMimeType: "application/json" },
 };
 
-let resp;
-try { resp = await fetch(url, { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(body) }); }
-catch (e) { console.error("fetch failed:", e.message); process.exit(1); }
+async function callGemini() {
+  for (let attempt = 1; attempt <= 4; attempt++) {
+    try {
+      const r = await fetch(url, { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(body) });
+      const d = await r.json();
+      if (r.ok) return d;
+      const retryable = [429, 500, 502, 503].includes(r.status);
+      console.error(`Gemini attempt ${attempt}/4 failed: ${r.status} ${JSON.stringify(d).slice(0, 200)}`);
+      if (!retryable) process.exit(1);
+    } catch (e) { console.error(`attempt ${attempt}/4 network error: ${e.message}`); }
+    if (attempt < 4) { const wait = attempt * 20000; console.error(`retrying in ${wait / 1000}s...`); await new Promise((res) => setTimeout(res, wait)); }
+  }
+  console.error("Gemini failed after 4 attempts (likely temporary overload) — no update today"); process.exit(1);
+}
 
-const data = await resp.json();
-if (!resp.ok) { console.error("Gemini API error:", JSON.stringify(data).slice(0, 600)); process.exit(1); }
+const data = await callGemini();
 
 let text = (data.candidates?.[0]?.content?.parts || []).map(p => p.text || "").join("");
 text = text.replace(/```json/gi, "").replace(/```/g, "").trim();
