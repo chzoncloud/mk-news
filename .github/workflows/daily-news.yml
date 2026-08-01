@@ -1,0 +1,34 @@
+name: ข่าวเช้า MK (daily)
+
+# รันทุกวัน 06:00 เวลาไทย (= 23:00 UTC วันก่อนหน้า) + กดรันเองได้จากแท็บ Actions
+on:
+  schedule:
+    - cron: "0 23 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Generate news via Gemini
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: node scripts/generate-news.mjs
+      - name: Commit & push if changed
+        run: |
+          git config user.name "MKIS News Bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data.js
+          if git diff --cached --quiet; then
+            echo "no change"
+          else
+            git commit -m "ข่าวเช้า $(TZ=Asia/Bangkok date +%Y-%m-%d)"
+            git push
+          fi
