@@ -105,6 +105,28 @@
   .empty{text-align:center;color:var(--muted);padding:60px 20px;font-size:16px}
   .empty .e{font-size:42px;margin-bottom:12px}
   .foot{text-align:center;color:var(--muted);font-size:13px;margin-top:26px;line-height:1.6}
+  .luckcard{background:var(--surface);border:1px solid var(--line);border-radius:16px;padding:18px 17px;margin-bottom:16px;box-shadow:var(--shadow)}
+  .luckcard>.lh{font-size:18px;font-weight:800;margin-bottom:3px}
+  .luckcard>.lsub{color:var(--muted);font-size:14px;margin-bottom:13px}
+  .drawbtn{width:100%;background:linear-gradient(135deg,var(--accent),#b85510);color:#fff;border:none;border-radius:14px;
+    padding:20px;font-size:18px;font-weight:800;cursor:pointer;letter-spacing:.3px}
+  .drawbtn:active{transform:scale(.98)}
+  .reveal{animation:pop .25s ease}
+  @keyframes pop{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+  .bigname{font-size:22px;font-weight:800;color:var(--accent);line-height:1.3;margin:4px 0 2px}
+  .catchip{display:inline-block;background:var(--surface2);border:1px solid var(--line);border-radius:20px;padding:4px 11px;font-size:13px;font-weight:700;margin-bottom:8px}
+  .opener{background:var(--surface2);border:1px solid var(--line);border-radius:11px;padding:12px 14px;margin-top:10px;font-size:15.5px;line-height:1.55}
+  .opener .ol{font-size:12px;font-weight:800;color:var(--accent);text-transform:uppercase;letter-spacing:.4px;display:block;margin-bottom:5px}
+  .lrow{display:flex;gap:10px;flex-wrap:wrap;margin-top:12px}
+  .lbtn{background:var(--accent);color:#fff;border:none;border-radius:10px;padding:9px 14px;font-size:14px;font-weight:800;cursor:pointer}
+  .lbtn.sec{background:var(--surface2);color:var(--ink);border:1px solid var(--line)}
+  .fline{font-size:17px;line-height:1.5;margin:2px 0 12px}
+  .fchips{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:12px}
+  .fchip{background:var(--surface2);border:1px solid var(--line);border-radius:20px;padding:7px 13px;font-size:15px;font-weight:700}
+  .fmission{background:color-mix(in srgb,var(--green) 12%,transparent);border-radius:11px;padding:11px 14px;font-size:15.5px;color:var(--ink)}
+  .fmission b{color:var(--green)}
+  .fphrase{margin-top:12px;padding-top:12px;border-top:1px dashed var(--line);font-size:15.5px}
+  .fphrase .pe{font-weight:800;color:var(--accent)}
   :focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:6px}
   @media (prefers-reduced-motion:no-preference){.card,.chip,.tab,.tbtn{transition:background .15s,color .15s,border-color .15s}}
 </style>
@@ -127,6 +149,7 @@
   <div class="tabs">
     <button class="tab on" id="tabDaily">📅 News</button>
     <button class="tab" id="tabSaved">⭐ Saved</button>
+    <button class="tab" id="tabLuck">🎲 ดวง</button>
   </div>
 </header>
 <div class="wrap">
@@ -135,6 +158,7 @@
     <div id="dayView"></div>
   </div>
   <div id="saved" style="display:none"></div>
+  <div id="luck" style="display:none"></div>
   <div class="foot" id="foot"></div>
 </div>
 
@@ -245,7 +269,86 @@ function renderSaved(){
   if(!items.length){ saved.innerHTML=`<div class="empty"><div class="e">⭐</div>No saved news yet<br>tap ☆ on a card to keep it (saved items never expire)</div>`; return; }
   saved.innerHTML=`<div class="grouphead" style="margin-top:16px">⭐ Saved (${items.length})</div>`+items.map(i=>cardHTML(i,i.day)).join('');
 }
-function renderAll(){ if(tab==='daily') renderDaily(); else renderSaved(); updateFoot(); }
+/* ---------- 🎲 ดวง ---------- */
+function pick(a){ return a[Math.floor(Math.random()*a.length)]; }
+const CAT={auto:{emo:'🚗',label:'ยานยนต์',op:'metal'}, metal:{emo:'🏭',label:'เหล็ก/โลหะ',op:'metal'}, aero:{emo:'✈️',label:'การบิน',op:'aero'}, wood:{emo:'🪑',label:'เฟอร์นิเจอร์/ไม้',op:'wood'}};
+const OPENERS={
+  metal:'สวัสดีครับ ผมจาก MK จำหน่ายกระดาษทราย/จานขัด/สายพานขัดสำหรับงานโลหะ (เจียร ลบครีบ ขัดเงา) อยากขอเข้าไปเสนอตัวอย่างให้ฝ่ายผลิต/จัดซื้อทดลองใช้ครับ',
+  wood:'สวัสดีครับ ผมจาก MK จำหน่ายกระดาษทราย/วัสดุขัดสำหรับงานไม้และเฟอร์นิเจอร์ (เตรียมผิวก่อนเคลือบ ขัดเงา) อยากขอเสนอตัวอย่างให้ทีมผลิตลองทดสอบครับ',
+  aero:'สวัสดีครับ ผมจาก MK จัดจำหน่ายวัสดุขัดเกรดการบิน (ขัดสี ลอกสี เตรียมผิวโลหะผสม/คอมโพสิต) อยากขอนำเสนอผลิตภัณฑ์ให้ฝ่ายจัดซื้อ/ช่างพิจารณาครับ'
+};
+const COMPANIES=[
+  ['Toyota Motor Thailand','auto'],['Honda Automobile (Thailand)','auto'],['Isuzu Motors (Thailand)','auto'],
+  ['Mitsubishi Motors Thailand','auto'],['Nissan Motor Thailand','auto'],['AutoAlliance (Mazda/Ford)','auto'],
+  ['Suzuki Motor (Thailand)','auto'],['Denso (Thailand)','auto'],['Aisin Thailand','auto'],
+  ['NSK Bearings (Thailand)','auto'],['Somboon Advance Technology','auto'],['Thai Summit Group','auto'],
+  ['AAPICO Hitech','auto'],['Sammitr Motors','auto'],['Thai Stanley Electric','auto'],
+  ['Bridgestone (Thailand)','auto'],['Sumitomo Rubber (Thailand)','auto'],
+  ['Sahaviriya Steel (SSI)','metal'],['Tata Steel (Thailand)','metal'],['G J Steel','metal'],
+  ['Millcon Steel','metal'],['NS BlueScope (Thailand)','metal'],['POSCO-Thainox','metal'],
+  ['Siam Yamato Steel','metal'],['Thai Metal Trade','metal'],['Kang Yong Electric','metal'],
+  ['Mitsubishi Electric (Thailand)','metal'],['Haier Electric (Thailand)','metal'],['Somic (Thailand)','metal'],
+  ['Thai Airways (ฝ่ายช่าง)','aero'],['Bangkok Airways Engineering','aero'],['Triumph Aviation Services Asia','aero'],
+  ['Senior Aerospace (Thailand)','aero'],['Thai Aviation Industries (TAI)','aero'],['Chromalloy (Thailand)','aero'],
+  ['SB Furniture','wood'],['Index Living Mall','wood'],['Modernform Group','wood'],
+  ['Koncept Furniture','wood'],['Deesawat Industries','wood'],['East Coast Furnitech','wood'],['Rockworth','wood']
+];
+const F_LUCK=['วันนี้ดวงงานพุ่ง! ยิงดีลไหนก็เข้าเป้า 🎯','ดวงเจรจาแข็งมาก เหมาะปิดการขายวันนี้ 🤝','มีเกณฑ์ได้ข่าวดีจากลูกค้าเก่า ลองทักไปหา ☎️','พลังงานล้น เหมาะเริ่มอะไรใหม่ๆ ลุยเลย 🚀','วันนี้เงียบๆ แต่เป็นวันวางแผนที่ดี 🧠','ดวงการเงินสีเขียว ใช้จ่ายมีสติจะเฮงยาว 🍀','มีคนคิดถึงอยู่ ตอบแชทที่ค้างไว้ซะ 😏','เช้าอาจติดขัดนิดหน่อย แต่บ่ายฟ้าเปิด ☀️','วันนี้เหมาะขอบคุณคนรอบตัว บุญพาวาสนาส่ง 🙏','ระวังเผลอรับปากงานเยอะ แต่รับทรัพย์แน่ 💰'];
+const F_COLOR=['ส้ม','น้ำเงิน','เขียว','ทอง','ขาว','แดง','ฟ้า','ม่วง','เหลือง','ชมพู'];
+const F_MISSION=['โทรหาลูกค้าเก่า 1 เจ้าที่ไม่ได้คุยนาน','จุ่มบริษัทมั่วๆ แล้วลองส่งข้อความจริง 1 เจ้า','ส่งข้อความขอบคุณลูกทีม 1 คน','ลุกจากโต๊ะ ยืดเส้น 5 นาที','ดื่มน้ำเพิ่มอีก 2 แก้ว','อ่านข่าวเช้าให้จบอย่างน้อย 3 ข่าว','เขียนเป้าที่อยากทำสำเร็จวันนี้ 1 ข้อ','ชมใครสักคนแบบจริงใจ 1 ครั้ง','ปิดมือถือ 30 นาที โฟกัสงานสำคัญ','พูดวลีอังกฤษวันนี้ให้คล่อง 3 รอบ'];
+const F_PHRASE=[["Let's close the deal.","ปิดดีลกันเลย"],["I'll follow up with you.","เดี๋ยวผมจะติดตามต่อให้นะ"],["What's your best price?","ราคาดีที่สุดเท่าไหร่ครับ"],["We can deliver on time.","เราส่งของได้ตรงเวลา"],["Let me send you a sample.","เดี๋ยวผมส่งตัวอย่างไปให้"],["It's a win-win.","ได้ประโยชน์ทั้งสองฝ่าย"],["Let's touch base next week.","สัปดาห์หน้ามาคุยกันอีกที"],["I appreciate your time.","ขอบคุณที่สละเวลาครับ"],["Let's think long-term.","มองกันยาวๆ ดีกว่า"],["That works for me.","อันนั้นโอเคเลยครับ"]];
+
+let curLead=null, curCo=null, curFortune=null;
+function leadDraw(){
+  const d=TODAY||Object.values(store.days).sort((a,b)=>b.date.localeCompare(a.date))[0];
+  if(!d||!d.items||!d.items.length) return null;
+  const greens=d.items.filter(i=>i.rating==='green');
+  return pick(greens.length?greens:d.items);
+}
+function doDraw(kind){
+  if(kind==='lead') curLead=leadDraw();
+  else if(kind==='co') curCo=pick(COMPANIES);
+  else if(kind==='fortune'){ const ph=pick(F_PHRASE); curFortune={luck:pick(F_LUCK),color:pick(F_COLOR),num:Math.floor(Math.random()*9)+1,mission:pick(F_MISSION),pe:ph[0],pt:ph[1]}; }
+  renderLuck();
+}
+function leadCard(){
+  let body;
+  if(!curLead) body=`<button class="drawbtn" data-draw="lead">🎯 จุ่มลูกค้าแห่งวัน</button>`;
+  else{ const it=curLead;
+    body=`<div class="reveal"><div class="bigname">${esc(it.title)}</div>
+      <div class="catchip">${(TAG[it.tag]||{emo:'📌'}).emo} ${esc(it.source)}</div>
+      <div style="font-size:15.5px">${esc(it.why)}</div>
+      <div class="opener"><span class="ol">ไม้เด็ดวันนี้</span>${esc(it.action||'')}</div>
+      <div class="lrow"><a class="lbtn sec" href="${esc(it.url)}" target="_blank" rel="noopener">อ่านข่าว</a>
+        <button class="lbtn" data-draw="lead">🎲 จุ่มใหม่</button></div></div>`; }
+  return `<div class="luckcard"><div class="lh">🎯 ลูกค้าแห่งวัน</div><div class="lsub">บริษัทที่อยู่ในข่าววันนี้ = กำลังเคลื่อนไหว ลองยิงไปเลย!</div>${body}</div>`;
+}
+function coCard(){
+  let body;
+  if(!curCo) body=`<button class="drawbtn" data-draw="co">🎰 สุ่มบริษัทเป้าหมาย</button>`;
+  else{ const c=CAT[curCo[1]]||CAT.metal, op=OPENERS[c.op];
+    body=`<div class="reveal"><div class="bigname">${esc(curCo[0])}</div>
+      <div class="catchip">${c.emo} ${c.label}</div>
+      <div class="opener"><span class="ol">ข้อความเปิด (ก๊อปได้)</span>${esc(op)}</div>
+      <div class="lrow"><button class="lbtn" data-copy="${esc(op)}">📋 คัดลอก</button>
+        <button class="lbtn sec" data-draw="co">🎲 จุ่มใหม่</button></div>
+      <div style="font-size:12.5px;color:var(--muted);margin-top:9px">💡 เช็กข้อมูลบริษัทก่อนติดต่อจริงนะครับ</div></div>`; }
+  return `<div class="luckcard"><div class="lh">🎰 สุ่มบริษัทมั่วๆ</div><div class="lsub">สุ่มจากลิสต์บริษัทเป้าหมายจริง จิ้มใหม่ได้เรื่อยๆ เหมือนกาชา</div>${body}</div>`;
+}
+function fortuneCard(){
+  let body;
+  if(!curFortune) body=`<button class="drawbtn" data-draw="fortune">🔮 เปิดดวงวันนี้</button>`;
+  else{ const f=curFortune;
+    body=`<div class="reveal"><div class="fline">${esc(f.luck)}</div>
+      <div class="fchips"><span class="fchip">🎨 สีมงคล: ${esc(f.color)}</span><span class="fchip">🔢 เลขมงคล: ${f.num}</span></div>
+      <div class="fmission"><b>💪 ภารกิจวันนี้:</b> ${esc(f.mission)}</div>
+      <div class="fphrase"><span class="pe">🔤 ${esc(f.pe)}</span> — ${esc(f.pt)}</div>
+      <div class="lrow"><button class="lbtn sec" data-draw="fortune">🎲 จุ่มใหม่</button></div></div>`; }
+  return `<div class="luckcard"><div class="lh">🔮 ดวงวันนี้</div><div class="lsub">ขำๆ เอาฮา + ฝึกอังกฤษวันละวลี</div>${body}</div>`;
+}
+function renderLuck(){ document.getElementById('luck').innerHTML = leadCard()+coCard()+fortuneCard(); }
+
+function renderAll(){ if(tab==='daily') renderDaily(); else if(tab==='saved') renderSaved(); else renderLuck(); updateFoot(); }
 function updateFoot(){
   const u=TODAY?fmtThai(TODAY.date):null;
   document.getElementById('foot').innerHTML=`Unsaved news auto-clears in 14 days · ⭐ saved stays`+(u?`<br>updated ${u.day} ${u.mon} ${u.year}`:'');
@@ -253,16 +356,21 @@ function updateFoot(){
 
 document.getElementById('dates').addEventListener('click',e=>{const b=e.target.closest('.chip');if(b){selDate=b.dataset.date;renderDaily();}});
 document.body.addEventListener('click',e=>{
+  const dr=e.target.closest('[data-draw]'); if(dr){ doDraw(dr.dataset.draw); return; }
+  const cp=e.target.closest('[data-copy]'); if(cp){ if(navigator.clipboard) navigator.clipboard.writeText(cp.dataset.copy); const o=cp.textContent; cp.textContent='✓ คัดลอกแล้ว'; setTimeout(()=>{cp.textContent=o;},1500); return; }
   const x=e.target.closest('.xlate'); if(x){ const id=x.dataset.id; if(thaiShown.has(id))thaiShown.delete(id); else thaiShown.add(id); renderAll(); return; }
   const s=e.target.closest('.star'); if(s){const day=store.days[s.dataset.day];const it=(day&&day.items.find(x=>x.id===s.dataset.id))||store.stars[s.dataset.id];if(it)toggleStar(it,s.dataset.day);return;}
 });
 document.getElementById('tabDaily').addEventListener('click',()=>switchTab('daily'));
 document.getElementById('tabSaved').addEventListener('click',()=>switchTab('saved'));
+document.getElementById('tabLuck').addEventListener('click',()=>switchTab('luck'));
 function switchTab(t){tab=t;
   document.getElementById('tabDaily').classList.toggle('on',t==='daily');
   document.getElementById('tabSaved').classList.toggle('on',t==='saved');
+  document.getElementById('tabLuck').classList.toggle('on',t==='luck');
   document.getElementById('daily').style.display=t==='daily'?'':'none';
   document.getElementById('saved').style.display=t==='saved'?'':'none';
+  document.getElementById('luck').style.display=t==='luck'?'':'none';
   renderAll();
 }
 const langBtn=document.getElementById('langBtn');
