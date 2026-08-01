@@ -1,0 +1,225 @@
+<!doctype html>
+<html lang="th">
+<head>
+<meta charset="utf-8">
+<title>ข่าวเช้า MK</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<link rel="icon" type="image/png" href="app-icon-192.png">
+<link rel="apple-touch-icon" href="app-icon-192.png">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#0e131a">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="ข่าว MKIS">
+<style>
+  :root{
+    --bg:#f6f7f9; --surface:#ffffff; --surface2:#eef1f5; --ink:#152130; --muted:#5c6775;
+    --line:#e2e7ee; --accent:#d9761a; --accent-ink:#ffffff;
+    --green:#15a34a; --amber:#c08600; --grey:#8a94a2; --star:#f0a500;
+    --shadow:0 1px 3px rgba(20,30,45,.08),0 1px 2px rgba(20,30,45,.04);
+  }
+  @media (prefers-color-scheme:dark){
+    :root{
+      --bg:#0e131a; --surface:#161d26; --surface2:#1e2732; --ink:#eef3f9; --muted:#93a1b2;
+      --line:#26313f; --accent:#ff9a3c; --accent-ink:#1a1206;
+      --green:#34d17f; --amber:#e5b544; --grey:#8894a3; --star:#ffc23d;
+      --shadow:0 1px 3px rgba(0,0,0,.3);
+    }
+  }
+  :root[data-theme="light"]{
+    --bg:#f6f7f9; --surface:#ffffff; --surface2:#eef1f5; --ink:#152130; --muted:#5c6775;
+    --line:#e2e7ee; --accent:#d9761a; --accent-ink:#ffffff;
+    --green:#15a34a; --amber:#c08600; --grey:#8a94a2; --star:#f0a500;
+    --shadow:0 1px 3px rgba(20,30,45,.08),0 1px 2px rgba(20,30,45,.04);
+  }
+  :root[data-theme="dark"]{
+    --bg:#0e131a; --surface:#161d26; --surface2:#1e2732; --ink:#eef3f9; --muted:#93a1b2;
+    --line:#26313f; --accent:#ff9a3c; --accent-ink:#1a1206;
+    --green:#34d17f; --amber:#e5b544; --grey:#8894a3; --star:#ffc23d;
+    --shadow:0 1px 3px rgba(0,0,0,.3);
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+    font-family:"Segoe UI Variable","Segoe UI",system-ui,-apple-system,"Sarabun","Noto Sans Thai",sans-serif;
+    font-size:18px;line-height:1.55;-webkit-text-size-adjust:100%}
+  .wrap{max-width:640px;margin:0 auto;padding:0 16px 60px}
+  header{position:sticky;top:0;z-index:10;background:var(--bg);
+    padding:16px 16px 12px;border-bottom:1px solid var(--line);max-width:640px;margin:0 auto}
+  .brandrow{display:flex;align-items:center;justify-content:space-between;gap:12px}
+  .brand{display:flex;align-items:center;gap:11px;min-width:0}
+  .logo{width:40px;height:40px;border-radius:11px;overflow:hidden;flex-shrink:0}
+  .logo img{width:100%;height:100%;object-fit:cover;display:block}
+  .brand h1{margin:0;font-size:20px;font-weight:800;letter-spacing:-.2px}
+  .brand p{margin:1px 0 0;font-size:13px;color:var(--muted)}
+  .tbtn{background:var(--surface2);border:1px solid var(--line);color:var(--ink);
+    width:40px;height:40px;border-radius:11px;font-size:19px;cursor:pointer;flex-shrink:0}
+  .tabs{display:flex;gap:8px;margin-top:14px}
+  .tab{flex:1;background:var(--surface2);border:1px solid var(--line);color:var(--muted);
+    padding:10px;border-radius:11px;font-size:16px;font-weight:700;cursor:pointer}
+  .tab.on{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
+  .dates{display:flex;gap:8px;overflow-x:auto;padding:14px 0 4px;scrollbar-width:none}
+  .dates::-webkit-scrollbar{display:none}
+  .chip{flex-shrink:0;background:var(--surface);border:1px solid var(--line);color:var(--ink);
+    padding:8px 14px;border-radius:20px;font-size:15px;font-weight:700;cursor:pointer;white-space:nowrap;
+    font-variant-numeric:tabular-nums}
+  .chip .d{font-size:12px;color:var(--muted);font-weight:600}
+  .chip.on{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+  .chip.on .d{color:var(--bg);opacity:.7}
+  .exec{background:var(--surface);border:1px solid var(--line);border-radius:14px;
+    padding:15px 17px;margin:14px 0;box-shadow:var(--shadow)}
+  .exec .lbl{font-size:12px;font-weight:800;letter-spacing:.8px;color:var(--accent);text-transform:uppercase}
+  .exec p{margin:7px 0 0;font-size:16.5px;line-height:1.5}
+  .exec .cnt{display:inline-flex;align-items:center;gap:6px;margin-top:10px;font-size:14px;font-weight:700;color:var(--green)}
+  .grouphead{display:flex;align-items:center;gap:8px;margin:22px 4px 10px;font-size:17px;font-weight:800;color:var(--muted)}
+  .card{background:var(--surface);border:1px solid var(--line);border-radius:14px;
+    padding:16px 17px;margin-bottom:12px;box-shadow:var(--shadow)}
+  .ctop{display:flex;align-items:flex-start;justify-content:space-between;gap:12px}
+  .rate{display:inline-flex;align-items:center;gap:6px;font-size:13px;font-weight:800;padding:4px 10px;border-radius:20px;white-space:nowrap}
+  .rate .dot{width:9px;height:9px;border-radius:50%}
+  .rate.green{color:var(--green);background:color-mix(in srgb,var(--green) 14%,transparent)}
+  .rate.green .dot{background:var(--green)}
+  .rate.amber{color:var(--amber);background:color-mix(in srgb,var(--amber) 16%,transparent)}
+  .rate.amber .dot{background:var(--amber)}
+  .rate.grey{color:var(--grey);background:color-mix(in srgb,var(--grey) 16%,transparent)}
+  .rate.grey .dot{background:var(--grey)}
+  .star{background:none;border:none;font-size:24px;cursor:pointer;line-height:1;padding:0;color:var(--grey);flex-shrink:0}
+  .star.on{color:var(--star)}
+  .card h3{margin:11px 0 6px;font-size:19px;line-height:1.35;font-weight:800;text-wrap:balance}
+  .src{font-size:13px;color:var(--muted);font-variant-numeric:tabular-nums}
+  .summary{margin:9px 0 0;font-size:16.5px;color:var(--ink)}
+  .why{margin-top:11px;background:var(--surface2);border:1px solid var(--line);border-radius:10px;padding:11px 13px;font-size:15.5px}
+  .why .k{font-size:12px;font-weight:800;letter-spacing:.4px;color:var(--accent);text-transform:uppercase;display:block;margin-bottom:3px}
+  .why .act{display:block;margin-top:7px;color:var(--muted)}
+  .link{display:inline-block;margin-top:11px;font-size:15px;font-weight:700;color:var(--accent);text-decoration:none}
+  .link:after{content:" ↗"}
+  .empty{text-align:center;color:var(--muted);padding:60px 20px;font-size:16px}
+  .empty .e{font-size:42px;margin-bottom:12px}
+  .foot{text-align:center;color:var(--muted);font-size:13px;margin-top:26px;line-height:1.6}
+  :focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:6px}
+  @media (prefers-reduced-motion:no-preference){.card,.chip,.tab{transition:background .15s,color .15s,border-color .15s}}
+</style>
+</head>
+<body>
+<header>
+  <div class="brandrow">
+    <div class="brand">
+      <div class="logo"><img src="app-icon-192.png" alt="MKIS"></div>
+      <div>
+        <h1>ข่าวเช้า MK</h1>
+        <p>ยานยนต์ + การบิน · วิเคราะห์ให้ทุกเช้า</p>
+      </div>
+    </div>
+    <button class="tbtn" id="themeBtn" title="สลับธีม" aria-label="สลับธีม">◐</button>
+  </div>
+  <div class="tabs">
+    <button class="tab on" id="tabDaily">📅 รายวัน</button>
+    <button class="tab" id="tabSaved">⭐ ที่เก็บไว้</button>
+  </div>
+</header>
+<div class="wrap">
+  <div id="daily">
+    <div class="dates" id="dates"></div>
+    <div id="dayView"></div>
+  </div>
+  <div id="saved" style="display:none"></div>
+  <div class="foot" id="foot"></div>
+</div>
+
+<script src="data.js?v=1"></script>
+<script>
+const LS='mk_news_v1';
+const TODAY = (window.TODAY_DATA && window.TODAY_DATA.date) ? window.TODAY_DATA : null;
+
+function ageDays(dateStr){ return (Date.now()-new Date(dateStr+'T00:00:00').getTime())/86400000; }
+function loadStore(){
+  let s; try{ s=JSON.parse(localStorage.getItem(LS)); }catch(e){}
+  if(!s||typeof s!=='object') s={days:{},stars:{}};
+  s.days=s.days||{}; s.stars=s.stars||{};
+  return s;
+}
+let store=loadStore();
+if(TODAY){ store.days[TODAY.date]=TODAY; }
+Object.keys(store.days).forEach(d=>{ if(ageDays(d)>40) delete store.days[d]; });
+function saveStore(){ localStorage.setItem(LS,JSON.stringify(store)); }
+saveStore();
+
+function visibleItems(day){ return day.items.filter(it=> ageDays(day.date)<=14 || store.stars[it.id]); }
+function isStarred(id){ return !!store.stars[id]; }
+function toggleStar(item,dayDate){
+  if(store.stars[item.id]) delete store.stars[item.id];
+  else store.stars[item.id]={...item,day:dayDate};
+  saveStore(); renderAll();
+}
+
+const TAG={auto:{emo:'🚗',name:'ยานยนต์'}, aero:{emo:'✈️',name:'การบิน'}};
+const RATE={green:{cls:'green',txt:'เกี่ยวตรง'}, amber:{cls:'amber',txt:'เกี่ยวทางอ้อม'}, white:{cls:'grey',txt:'รู้ไว้'}, grey:{cls:'grey',txt:'รู้ไว้'}};
+function esc(s){return (s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));}
+function fmtThai(dateStr){
+  const dt=new Date(dateStr+'T00:00:00');
+  const m=['ม.ค.','ก.พ.','มี.ค.','เม.ย.','พ.ค.','มิ.ย.','ก.ค.','ส.ค.','ก.ย.','ต.ค.','พ.ย.','ธ.ค.'];
+  return {day:dt.getDate(),mon:m[dt.getMonth()],year:dt.getFullYear()+543,wd:['อา','จ','อ','พ','พฤ','ศ','ส'][dt.getDay()]};
+}
+let selDate=null, tab='daily';
+
+function cardHTML(it,dayDate){
+  const r=RATE[it.rating]||RATE.grey, t=TAG[it.tag]||{emo:'',name:''};
+  return `<article class="card">
+    <div class="ctop">
+      <span class="rate ${r.cls}"><span class="dot"></span>${r.txt}</span>
+      <button class="star ${isStarred(it.id)?'on':''}" data-id="${it.id}" data-day="${dayDate}" aria-label="เก็บข่าวนี้">${isStarred(it.id)?'★':'☆'}</button>
+    </div>
+    <h3>${esc(it.title)}</h3>
+    <div class="src">${t.emo} ${esc(it.source)} · ${esc(it.date)}</div>
+    <p class="summary">${esc(it.summary)}</p>
+    <div class="why"><span class="k">สำคัญกับเรา</span>${esc(it.why)}
+      ${it.action?`<span class="act">→ ${esc(it.action)}</span>`:''}</div>
+    <a class="link" href="${esc(it.url)}" target="_blank" rel="noopener">อ่านข่าวเต็ม</a>
+  </article>`;
+}
+function renderDaily(){
+  const days=Object.values(store.days).filter(d=>visibleItems(d).length>0).sort((a,b)=>b.date.localeCompare(a.date));
+  const dates=document.getElementById('dates'), dayView=document.getElementById('dayView');
+  if(!days.length){ dates.innerHTML=''; dayView.innerHTML=`<div class="empty"><div class="e">🗞️</div>ยังไม่มีข่าว เปิดแอปทุกเช้าแล้วข่าวจะสะสมที่นี่</div>`; return; }
+  if(!selDate||!days.some(d=>d.date===selDate)) selDate=days[0].date;
+  dates.innerHTML=days.map(d=>{const f=fmtThai(d.date);
+    return `<button class="chip ${d.date===selDate?'on':''}" data-date="${d.date}"><span class="d">${f.wd}</span> ${f.day} ${f.mon}</button>`;}).join('');
+  const day=store.days[selDate], vis=visibleItems(day);
+  const auto=vis.filter(i=>i.tag==='auto'), aero=vis.filter(i=>i.tag==='aero');
+  let html=`<div class="exec"><span class="lbl">สรุปผู้บริหาร</span><p>${esc(day.summary)}</p>`;
+  if(day.directCount!=null) html+=`<span class="cnt">🟢 เกี่ยวตรงกับเรา ${day.directCount} ข่าว</span>`;
+  html+=`</div>`;
+  if(auto.length) html+=`<div class="grouphead">🚗 ยานยนต์</div>`+auto.map(i=>cardHTML(i,day.date)).join('');
+  if(aero.length) html+=`<div class="grouphead">✈️ การบิน</div>`+aero.map(i=>cardHTML(i,day.date)).join('');
+  dayView.innerHTML=html;
+}
+function renderSaved(){
+  const saved=document.getElementById('saved');
+  const items=Object.values(store.stars).sort((a,b)=>(b.day||'').localeCompare(a.day||''));
+  if(!items.length){ saved.innerHTML=`<div class="empty"><div class="e">⭐</div>ยังไม่มีข่าวที่เก็บไว้<br>กด ☆ บนข่าวเพื่อเก็บ (ข่าวที่เก็บจะไม่ถูกลบทิ้ง)</div>`; return; }
+  saved.innerHTML=`<div class="grouphead" style="margin-top:16px">⭐ ข่าวที่เก็บไว้ (${items.length})</div>`+items.map(i=>cardHTML(i,i.day)).join('');
+}
+function renderAll(){ if(tab==='daily') renderDaily(); else renderSaved(); updateFoot(); }
+function updateFoot(){
+  const u=TODAY?fmtThai(TODAY.date):null;
+  document.getElementById('foot').innerHTML=`ข่าวที่ไม่ติดดาว จะถูกลบเองภายใน 14 วัน · ข่าวติดดาว ⭐ เก็บถาวร`+(u?`<br>อัปเดตล่าสุด ${u.day} ${u.mon} ${u.year}`:'');
+}
+document.getElementById('dates').addEventListener('click',e=>{const b=e.target.closest('.chip');if(b){selDate=b.dataset.date;renderDaily();}});
+document.body.addEventListener('click',e=>{const s=e.target.closest('.star');if(s){const day=store.days[s.dataset.day];const it=(day&&day.items.find(x=>x.id===s.dataset.id))||store.stars[s.dataset.id];if(it)toggleStar(it,s.dataset.day);}});
+document.getElementById('tabDaily').addEventListener('click',()=>switchTab('daily'));
+document.getElementById('tabSaved').addEventListener('click',()=>switchTab('saved'));
+function switchTab(t){tab=t;
+  document.getElementById('tabDaily').classList.toggle('on',t==='daily');
+  document.getElementById('tabSaved').classList.toggle('on',t==='saved');
+  document.getElementById('daily').style.display=t==='daily'?'':'none';
+  document.getElementById('saved').style.display=t==='saved'?'':'none';
+  renderAll();
+}
+const tb=document.getElementById('themeBtn');
+tb.addEventListener('click',()=>{
+  const cur=document.documentElement.getAttribute('data-theme')||(matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light');
+  document.documentElement.setAttribute('data-theme',cur==='dark'?'light':'dark');
+});
+renderAll();
+</script>
+</body>
+</html>
