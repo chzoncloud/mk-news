@@ -1,17 +1,125 @@
-/* data.js — ข้อมูลข่าววันนี้ (หุ่นยนต์คลาวด์เขียนทับไฟล์นี้ทุกเช้า 6 โมง แล้ว push)
-   ไทยเป็นหลัก + หย่อดศัพท์อังกฤษ (แตะแปลได้) · terms = คำอังกฤษ→คำแปลไทย */
+/* auto-generated ทุกเช้าโดย GitHub Actions — อย่าแก้มือ */
 window.TODAY_DATA = {
   "date": "2026-08-01",
-  "summary": "วันนี้มีข่าว ‘เกี่ยวตรง’ กับเรา 3 ข่าว เด่นสุดคือการบินไทยเซ็น MRO อู่ตะเภา (ตรงกับดีล Hanko) และทุนญี่ปุ่น/ชิ้นส่วน EV ยังขยาย = โอกาสลูกค้าใหม่. จุดเสี่ยง: การผลิตรถ ICE หด ควรเฝ้าลูกค้ากลุ่มประกอบรถเดิม.",
-  "directCount": 3,
-  "terms": {"MRO":"ศูนย์ซ่อมบำรุงอากาศยาน"},
+  "summary": "ข่าวเช้าวันนี้มีสัญญาณบวกระดับสูงจากอุตสาหกรรม MRO อากาศยาน และการลงทุนผลิต EV ของค่ายรถญี่ปุ่น ซึ่งช่วยสร้างโอกาสใหม่ในงานขัดเตรียมผิวโลหะ ขณะที่ฝั่งยานยนต์สันดาปเดิมยังคงเผชิญความท้าทายในการปรับตัว",
+  "directCount": 4,
+  "terms": {
+    "investment": "การลงทุน",
+    "production base": "ฐานการผลิต",
+    "EV (Electric Vehicle)": "ยานยนต์ไฟฟ้า",
+    "components": "ชิ้นส่วนประกอบ",
+    "demand": "อุปสงค์/ความต้องการ",
+    "supply chain": "ห่วงโซ่อุปทาน",
+    "maintenance": "การซ่อมบำรุง",
+    "hangar": "โรงเก็บและซ่อมบำรุงเครื่องบิน",
+    "fleet": "ฝูงบิน",
+    "OEM (Original Equipment Manufacturer)": "ผู้ผลิตอุปกรณ์ดั้งเดิม/โรงงานประกอบหลัก"
+  },
   "items": [
-    {"id":"20260801-a1","tag":"aero","rating":"green","title":"การบินไทยเซ็น contract ตั้งศูนย์ maintenance (MRO) อากาศยานที่อู่ตะเภา มูลค่าหมื่นล้าน","source":"Nation Thailand","date":"2026-07-28","url":"https://www.nationthailand.com/news/general/40069171","summary":"เช่าที่ EEC 50 ปี ตั้ง smart hangar ซ่อมเครื่องลำใหญ่ 3 ลำพร้อมกัน เริ่ม construction ปี 2027 เปิดปี 2030.","why":"MRO = งานลอก/ขัด/refinish ผิวเครื่องบิน ตลาด demand วัสดุขัดเกรดการบินกำลังเกิดในไทย ตรงกับดีล Hanko.","action":"เร่งดัน Hanko ให้จบ + วางตัวเป็น supplier วัสดุขัดตั้งแต่เฟส construction.","terms":{"contract":"สัญญา","maintenance":"การซ่อมบำรุง","MRO":"ศูนย์ซ่อมบำรุงอากาศยาน","hangar":"โรงซ่อมเครื่องบิน","construction":"การก่อสร้าง","refinish":"ขัด/พ่นผิวใหม่","demand":"ความต้องการ (ดีมานด์)","supplier":"ผู้ผลิต/ผู้จัดหา"}},
-    {"id":"20260801-au2","tag":"auto","rating":"green","title":"Mitsubishi ทุ่ม investment เพิ่ม 1.6 หมื่นล้าน ปั้นฐาน production รถ EV กระบะ + e-Pajero","source":"Kaohoon","date":"2026-07-24","url":"https://www.kaohooninternational.com/economics/587469","summary":"ลงทุนถึงปี 2030 ใช้ไทยเป็นฐาน production หลัก ศึกษาผลิต/export กระบะไฟฟ้าและ Pajero ไฟฟ้า.","why":"ทุนญี่ปุ่น (ICP เรา) ยังปักหลัก ชิ้นส่วน EV รุ่นใหม่ = งานขัด/finishing ใหม่ๆ.","action":"หาช่องเข้าเสนอชิ้นส่วนสาย EV ของ supply chain Mitsubishi.","terms":{"investment":"การลงทุน","production":"การผลิต","export":"การส่งออก","finishing":"งานเก็บผิวงานให้เรียบ","supply chain":"ห่วงโซ่อุปทาน"}},
-    {"id":"20260801-au3","tag":"auto","rating":"green","title":"ชิ้นส่วนยานยนต์ 2026–2028 โตจาก EV components","source":"Krungsri Research","date":"2026-07-01","url":"https://www.krungsri.com/en/research/industry/industry-outlook/hi-tech-industries/auto-parts/io/auto-parts-2026","summary":"capacity ผลิตชิ้นส่วน EV เพิ่ม หนุนด้วยนโยบายส่งเสริมและการใช้ local content.","why":"ชิ้นส่วน EV = งานเจียร/ขัด/surface finishing ดีมานด์วัสดุขัด B2B ตามเทรนด์นี้.","action":"ทำลิสต์โรงงานชิ้นส่วน EV รายใหม่ ไล่เข้าเสนอ.","terms":{"components":"ชิ้นส่วน","capacity":"กำลังการผลิต","local content":"สัดส่วนชิ้นส่วนในประเทศ","surface finishing":"การตกแต่งผิวงาน"}},
-    {"id":"20260801-au4","tag":"auto","rating":"amber","title":"ส.อ.ท. หั่นเป้า production รถเหลือ 1.45 ล้านคัน EV จีนตี export","source":"Nation Thailand","date":"2026-07-24","url":"https://www.nationthailand.com/business/economy/40069108","summary":"มิ.ย. ผลิต 120,391 คัน ลด 7.6% export หด EV import >50% แย่งรถผลิตในไทย.","why":"โรงงาน assembly/ชิ้นส่วน ICE หดตัว = ลูกค้ากลุ่มนี้ของเราเสี่ยงลด order.","action":"กระจายความเสี่ยง เร่งย้ายน้ำหนักไปกลุ่ม EV + การบิน + DIY.","terms":{"production":"การผลิต","export":"การส่งออก","import":"การนำเข้า","assembly":"การประกอบ","order":"คำสั่งซื้อ (ออเดอร์)"}},
-    {"id":"20260801-au5","tag":"auto","rating":"amber","title":"BYD แซง Toyota ขึ้นเบอร์ 1 ยอด booking EV+hybrid กิน 43.8%","source":"Bangkok Biznews","date":"2026-07-15","url":"https://www.bangkokbiznews.com/world/economics/1215044","summary":"ยอดจอง BYD 17,354 คัน แซงแชมป์เก่า Toyota market เอียงไปทางจีน/EV.","why":"supply chain เปลี่ยนขั้ว ใครเป็น supplier โรงงานจีนได้ก่อนได้เปรียบ.","action":"ศึกษาช่องเข้าโรงงาน BYD/ค่ายจีนในไทย.","terms":{"booking":"การจอง","hybrid":"รถไฮบริด (เครื่องยนต์+ไฟฟ้า)","market":"ตลาด","supply chain":"ห่วงโซ่อุปทาน","supplier":"ผู้จัดหา"}},
-    {"id":"20260801-ae6","tag":"aero","rating":"amber","title":"การบินไทยรับ aircraft ใหม่ 28 ลำปีนี้ fleet แตะ 102 ลำ","source":"Kaohoon","date":"2026-07-20","url":"https://www.kaohooninternational.com/markets/583459","summary":"รับ Boeing 787 14 ลำ + A321neo 14 ลำ fleet โตจาก 80 เป็น 102.","why":"fleet โต = งาน maintenance ในประเทศโตตาม demand วัสดุซ่อม/ขัดเพิ่มระยะยาว.","action":"เก็บไว้ประกอบภาพตลาด MRO ที่กำลังโต.","terms":{"aircraft":"อากาศยาน/เครื่องบิน","fleet":"ฝูงบิน","maintenance":"การซ่อมบำรุง","demand":"ความต้องการ","MRO":"ศูนย์ซ่อมบำรุงอากาศยาน"}},
-    {"id":"20260801-ae7","tag":"aero","rating":"amber","title":"บางกอกแอร์เวย์สลงทุน ~2 พันล้าน ตั้ง hangar ซ่อมเครื่อง narrow-body","source":"Nation Thailand","date":"2026-07-10","url":"https://www.nationthailand.com/business/corporate/40058574","summary":"สร้าง hangar ซ่อมเครื่องลำแคบเสริม ecosystem การบินไทยที่อู่ตะเภา.","why":"ผู้เล่น MRO เพิ่ม = customer base วัสดุขัดการบินขยาย ไม่ได้มีแค่การบินไทย.","action":"ทำรายชื่อผู้เล่น MRO ทั้งไซต์อู่ตะเภาไว้ตามทีหลัง.","terms":{"hangar":"โรงซ่อมเครื่องบิน","narrow-body":"เครื่องบินลำแคบ","ecosystem":"ระบบนิเวศ/เครือข่ายธุรกิจ","customer base":"ฐานลูกค้า","MRO":"ศูนย์ซ่อมบำรุงอากาศยาน"}}
+    {
+      "id": "20260801-1",
+      "tag": "auto",
+      "rating": "green",
+      "title": "Mitsubishi Motors ทุ่มลงทุนเพิ่ม 1.6 หมื่นล้านบาทในไทยถึงปี 2573 ปักฐานผลิต EV-กระบะไฟฟ้า",
+      "source": "LINE TODAY",
+      "date": "2026-07-24",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9oTE9yNVFnSld0cWliallxVHRUaGQzWEtIZVZTOGhDSzFrdk1EbmpKeHdLZlVkMURyTWpiaGpZeDRBVU1QbTJsUmxmYjh0Z3FJSmtwUHdqaHluLTJBNWxvZjlXc1MyaXZkWTBPYlplWDVfbzc0ZDFTdlUxUDFxdw?oc=5",
+      "summary": "ค่ายรถยนต์ญี่ปุ่นรายใหญ่เพิ่ม investment ในไทยมูลค่า 1.6 หมื่นล้านบาท เพื่อยกระดับ production base สู่การผลิต EV และกระบะไฟฟ้า",
+      "why": "ลูกค้าระดับ OEM ญี่ปุ่นเป็นเป้าหมายหลักของเรา การขยายสายการผลิตรถรุ่นใหม่จะเพิ่ม demand วัสดุขัดและจานขัดโลหะสำหรับขัดตัวถังและชิ้นส่วน",
+      "action": "เร่งเข้าพบทีมวิศวกรโรงงานประกอบ Mitsubishi เพื่อเสนอตัวอย่างกระดาษทรายและสายพานขัดสำหรับสายการผลิตใหม่",
+      "terms": {
+        "investment": "การลงทุน",
+        "production base": "ฐานการผลิต",
+        "EV": "ยานยนต์ไฟฟ้า",
+        "OEM": "ผู้ผลิตอุปกรณ์ดั้งเดิม"
+      }
+    },
+    {
+      "id": "20260801-2",
+      "tag": "auto",
+      "rating": "amber",
+      "title": "ชิ้นส่วน \"EV\" ฟื้น สวนทางยอดผลิตรถยนต์ทรุด หุ้นยานยนต์ไทยท้าทายหนัก",
+      "source": "TNN Thailand",
+      "date": "2026-07-29",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB1V2x5eTF2YjhxVkJsdVhpS2g2YWJxejBJNjAwWWlJeW50NWlCMUpNcm03QVF1eGF2eVNva3BwYjBscDQwZk16bTBrUy1STGpSYTNRdmt4RTNtOTI2elR2eklWaw?oc=5",
+      "summary": "ภาพรวมยอดผลิตรถยนต์ลดลง แต่โรงงานผลิต components สำหรับ EV เริ่มส่งสัญญาณฟื้นตัวและเติบโตขึ้น",
+      "why": "เกิดการย้าย demand จากชิ้นส่วนเครื่องยนต์เดิมไปสู่ชิ้นส่วนโครงสร้างเบาและเคสแบตเตอรี่ EV ที่ต้องใช้กระบวนการ deburring และงานเจียรผิว aluminum สูงขึ้น",
+      "action": "ปรับพอร์ตสินค้าเน้นจานขัดและผ้าทรายสำหรับงานขัดอลูมิเนียมเพื่อรองรับ Tier-1 และ Tier-2 suppliers",
+      "terms": {
+        "components": "ชิ้นส่วนประกอบ",
+        "demand": "ความต้องการตลาด",
+        "deburring": "การลบครีบคมโลหะ",
+        "suppliers": "ผู้ผลิตชิ้นส่วนส่งโรงงาน"
+      }
+    },
+    {
+      "id": "20260801-3",
+      "tag": "aero",
+      "rating": "green",
+      "title": "EECO ระดมทุน ดันอุตสาหกรรม MRO ปั้นอู่ตะเภาสู่ศูนย์กลางซ่อมอากาศยานภูมิภาค",
+      "source": "posttoday",
+      "date": "2026-07-27",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lak5sZXQtNktSd3dqWTVQcmdhN2JJdGVhSEUxUzk5RFI5TUs4T3kzMzBqVDdNUnp4N2k3M2FBalNXd0UwaS1XeUxkczM4Rzg4QnVBQXJR?oc=5",
+      "summary": "อีอีซีเดินหน้าระดมทุนพัฒนาโครงการ MRO ในพื้นที่อู่ตะเภาเพื่อผลักดันไทยเป็นศูนย์กลาง maintenance ด้านการบิน",
+      "why": "งานซ่อมบำรุงอากาศยานต้องใช้กระดาษทรายเกรดการบินความแม่นยำสูงสำหรับการขัดสี ลอกสี และเตรียมผิวโลหะผสม/คอมโพสิต ซึ่งตรงกับเป้าหมายขยายตลาดใหม่ของเรา",
+      "action": "ติดต่อพันธมิตรผู้รับเหมาพัฒนา hangar เพื่อนำเสนอผลิตภัณฑ์ขัดเกรดการบิน mksanding",
+      "terms": {
+        "MRO": "ศูนย์ซ่อมบำรุงอากาศยาน",
+        "maintenance": "การซ่อมบำรุง",
+        "hangar": "โรงเก็บและซ่อมบำรุงเครื่องบิน",
+        "composite": "วัสดุผสมความแข็งแรงสูง"
+      }
+    },
+    {
+      "id": "20260801-4",
+      "tag": "aero",
+      "rating": "green",
+      "title": "'การบินไทย' ติดปีก จัดทัพฝูงบิน 100 ลำ ปี 2569 ทุ่ม 1 หมื่นล้าน ดัน MRO อู่ตะเภา",
+      "source": "thansettakij",
+      "date": "2026-02-22",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WYk9IRDVDZTBaVk54WmhwM0g4RjhJR3hBT19NaG1kZ2x6UGtobHU2bXBoYV9ZeXIxb2NSdENWR1BoVGFndXhTSWt3cjFQcFUyWS1EdEhpb1loV1R0dXUtbnpn?oc=5",
+      "summary": "การบินไทยวางแผนขยาย fleet เครื่องบินแตะ 100 ลำ พร้อมลงทุนหมื่นล้านบาทในโครงการ MRO อู่ตะเภา",
+      "why": "จำนวน fleet เครื่องบินที่เพิ่มขึ้นนำมาซึ่งงานขัดลบครีบ ขัดเงาใบพัด turbine และงานเตรียมผิวโครงสร้างเครื่องบินในปริมาณมหาศาล",
+      "action": "จัดทำ catalog ผลิตภัณฑ์ abrasive เกรดการบินส่งเข้าฝ่ายจัดซื้อฝ่ายช่างการบินไทย",
+      "terms": {
+        "fleet": "ฝูงบิน",
+        "MRO": "งานซ่อมบำรุงและยกเครื่องอากาศยาน",
+        "abrasive": "วัสดุขัดถู",
+        "turbine": "กังหันเครื่องยนต์"
+      }
+    },
+    {
+      "id": "20260801-5",
+      "tag": "aero",
+      "rating": "green",
+      "title": "EECO ดึง ‘เวียตเจ็ท’ ปักหมุดร่วมพัฒนาศูนย์ซ่อมอู่ตะเภา ยกระดับอาชีพคนไทย",
+      "source": "thansettakij",
+      "date": "2026-05-29",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFSElmenNfbV9JTnV2dUV3WklDZ05NcEN3ZkdQOTFmT1lzcEpKRUpSbkNISHFUYnczSnZBeDFCSlhYbW00SHZTLTlBVEs3bUJaYzBTZllB?oc=5",
+      "summary": "เวียตเจ็ทเข้าร่วมศึกษาและร่วมทุนศูนย์ซ่อมบำรุงอู่ตะเภา เสริมความคึกคักให้อุตสาหกรรม aviation maintenance",
+      "why": "สายการบินต่างชาติเริ่มเข้ามาตั้งฐานซ่อมบำรุง เพิ่มโอกาสกระจายสินค้ากลุ่มกระดาษทรายขัดน้ำและอุปกรณ์ขัดเงาให้สายการบินภายนอกประเทศ",
+      "action": "ขึ้นระบบสินค้าเกรด MRO บนแพลตฟอร์ม B2B และเตรียมแคตตาล็อกภาษาอังกฤษเพื่อรองรับลูกค้าสายการบินต่างชาติ",
+      "terms": {
+        "aviation": "การบิน",
+        "maintenance": "การบำรุงรักษา",
+        "B2B": "การค้าขายระหว่างธุรกิจกับธุรกิจ"
+      }
+    },
+    {
+      "id": "20260801-6",
+      "tag": "auto",
+      "rating": "white",
+      "title": "ยานยนต์ไทยสะดุด TAIA ขอรัฐบาลเร่งกู้วิกฤต อุ้มฐานผลิต สู้ศึก EV และรถนำเข้า",
+      "source": "Thairath.co.th",
+      "date": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oZkVpVTV1azdfSm9vemFvOWNsNEtNcmtfMld1Q0lNUkhrSjNTLW9RcXgyS04yZEJVTUdYMUV6TGNKYktEcXFkbmFqU1Ffby1iX3F2bXhYMWRSRFM0Snc?oc=5",
+      "summary": "สมาคมอุตสาหกรรมยานยนต์ไทยเรียกร้องมาตรการพยุง supply chain และโรงงานผลิตรถยนต์สันดาปในประเทศ",
+      "why": "เตือนให้เราต้องระวังความเสี่ยงจากโรงงานผลิตชิ้นส่วนเครื่องยนต์เดิมที่อาจชะลอคำสั่งซื้อวัสดุขัดเหล็ก/โลหะ",
+      "action": "ติดตามลูกค้ารายเดิมในกลุ่มเครื่องยนต์สันดาปเพื่อประเมินความเสี่ยงและทยอยเปลี่ยนสัดส่วนยอดขายไปสู่อุตสาหกรรม MRO และ EV",
+      "terms": {
+        "supply chain": "ห่วงโซ่อุปทาน",
+        "EV": "รถยนต์ไฟฟ้า"
+      }
+    }
   ]
 };
