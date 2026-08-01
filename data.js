@@ -1,10 +1,10 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — อย่าแก้มือ */
 window.TODAY_DATA = {
   "date": "2026-08-02",
-  "summary": "Today's intelligence highlights strong long-term expansion in EV manufacturing investments and aerospace MRO initiatives in Thailand. Major commitments from Mitsubishi Motors, BOI EV incentives, and Thai Airways' MRO expansion signal growing opportunities for industrial surface finishing and precision abrasive consumables.",
-  "directCount": 3,
+  "summary": "Today's briefing highlights strong growth opportunities in automotive manufacturing and aviation MRO, driven by Mitsubishi's 16 billion baht EV expansion and Thai Airways' 10 billion baht U-Tapao MRO hub. While steel fabricators face import pressures, EV component recovery and aviation maintenance offer immediate high-value demand for specialized abrasives.",
+  "directCount": 2,
   "th": {
-    "summary": "ข่าวกรองวันนี้ชี้ให้เห็นถึงการขยายตัวของการลงทุนในอุตสาหกรรม EV และโครงการศูนย์ซ่อมบำรุงอากาศยาน (MRO) ในไทย โดยการลงทุนจากมิตซูบิชิ มอเตอร์ส, สิทธิประโยชน์จากบีโอไอ และการลงทุน MRO ของการบินไทย เป็นสัญญาณบวกต่อความต้องการวัสดุขัดพื้นผิวและขัดงานโลหะในระดับโรงงานอุตสาหกรรม"
+    "summary": "รายงานข่าวกรองวันนี้ชี้ให้เห็นโอกาสเติบโตเด่นในกลุ่มยานยนต์และซ่อมบำรุงอากาศยาน จากการลงทุน EV 1.6 หมื่นล้านบาทของมิตซูบิชิ และศูนย์ MRO อู่ตะเภา 1 หมื่นล้านบาทของการบินไทย แม้ผู้ผลิตเหล็กจะเผชิญความกดดันจากการนำเข้า แต่ชิ้นส่วน EV และ MRO เป็นโอกาสทองสำหรับวัสดุขัดเกรดประสิทธิภาพสูง"
   },
   "items": [
     {
@@ -14,33 +14,33 @@ window.TODAY_DATA = {
       "source": "LINE TODAY",
       "date": "2026-07-24",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1d29pcVRMMUxSTVRTUkR4bkRWT2tSM09YQjNEWjhHeGF4VTZINWlvdjU5TzZsRFIzWmRuRllrMWpuYlIxakQ0N2hqOEdhay1DOERseUl3?oc=5",
-      "title": "Mitsubishi Motors to Invest 16 Billion Baht in Thailand for EV and Electric Pickup Production Hub",
-      "summary": "Mitsubishi Motors announces an additional investment of 16 billion baht through 2030 to establish Thailand as a primary production hub for EVs and electric pickup trucks.",
-      "why": "Expanding local automotive manufacturing directly increases demand for grinding discs, sanding belts, and surface preparation consumables across Japanese OEM supply chains.",
-      "action": "Target Japanese Tier-1 metal stamping and chassis suppliers within Mitsubishi's network to offer specialized abrasive products.",
+      "title": "Mitsubishi Motors Invests 16 Billion Baht to Make Thailand EV and Pickup Production Hub",
+      "summary": "Mitsubishi Motors is committing 16 billion baht through 2030 to expand its manufacturing facilities in Thailand for electric vehicles and electric pickup trucks.",
+      "why": "Expansion of Japanese automotive manufacturing lines directly increases demand for metal deburring, grinding, and surface preparation abrasives.",
+      "action": "Target Tier-1 Japanese OEM suppliers supporting Mitsubishi's new EV pickup lines with specialized grinding wheels and finishing belts.",
       "th": {
-        "title": "Mitsubishi Motors ทุ่มลงทุนเพิ่ม 1.6 หมื่นล้านบาทในไทยถึงปี 2573 ปักฐานผลิต EV-กระบะไฟฟ้า",
-        "summary": "มิตซูบิชิ มอเตอร์ส ประกาศลงทุนเพิ่ม 1.6 หมื่นล้านบาทจนถึงปี 2573 เพื่อสร้างไทยเป็นฐานการผลิตรถยนต์ไฟฟ้าและรถกระบะไฟฟ้าหลัก",
-        "why": "การขยายสายการผลิตรถยนต์ในไทยส่งผลเพิ่มความต้องการจานขัด สายพานขัด และวัสดุเตรียมผิวในห่วงโซ่อุปทานของค่ายรถญี่ปุ่นโดยตรง",
-        "action": "เข้าพบซัพพลายเออร์ปั๊มขึ้นรูปโลหะและแชสซีส์ระดับ Tier-1 ในเครือข่ายมิตซูบิชิเพื่อนำเสนอวัสดุขัดสำหรับชิ้นส่วน EV"
+        "title": "Mitsubishi Motors ทุ่มลงทุน 1.6 หมื่นล้านบาทในไทย ปักฐานผลิต EV และกระบะไฟฟ้าถึงปี 2573",
+        "summary": "มิตซูบิชิ มอเตอร์ส เตรียมลงทุนเพิ่ม 1.6 หมื่นล้านบาทในไทยจนถึงปี 2573 เพื่อขยายฐานการผลิตรถยนต์ไฟฟ้าและรถกระบะไฟฟ้า",
+        "why": "การขยายสายการผลิตของค่ายรถยนต์ญี่ปุ่นสร้างอุปสงค์โดยตรงต่อวัสดุขัด ลบครีบ และเตรียมผิวโลหะในโรงงานประกอบ",
+        "action": "เข้าพบซัพพลายเออร์ Tier-1 สัญชาติญี่ปุ่นที่ป้อนชิ้นส่วนให้มิตซูบิชิ เพื่อนำเสนอลูกขัดและสายพานขัดสำหรับสายผลิต EV ใหม่"
       }
     },
     {
       "id": "20260802-2",
       "tag": "auto",
-      "rating": "green",
-      "source": "สำนักข่าวอินโฟเควสท์",
-      "date": "2026-07-03",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1NUlZGbGZRUTRKbzd1N0pwSWJCYU9wdlFhel9mQnpISmNIS0RuakpWQ1AxUm5XdnpJN0l2SzdmWGRCdjdSdE45aGMwZW00OE5F?oc=5",
-      "title": "BOI Reports EV Investment Exceeds 130 Billion Baht to Build Comprehensive Production Base",
-      "summary": "Thailand's Board of Investment reveals that total approved EV investments have topped 130 billion baht, helping position the country as an integrated EV hub.",
-      "why": "Large-scale capacity expansion in the auto sector drives long-term consumption of metal deburring, polishing, and sanding tools.",
-      "action": "Cross-reference BOI-approved EV component projects in the Eastern Economic Corridor (EEC) for direct sales outreach.",
+      "rating": "amber",
+      "source": "TNN Thailand",
+      "date": "2026-07-29",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB1V2x5eTF2YjhxVkJsdVhpS2g2YWJxejBJNjAwWWlJeW50NWlCMUpNcm03QVF1eGF2eVNva3BwYjBscDQwZk16bTBrUy1STGpSYTNRdmt4RTNtOTI2elR2eklWaw?oc=5",
+      "title": "EV Parts Segment Recovers Despite Overall Automotive Production Slump",
+      "summary": "Thai automotive component manufacturing shows recovery in the EV sector, bucking the broader slump in internal combustion engine vehicle production.",
+      "why": "Abrasive usage is shifting from traditional engine casting grinding to EV structural component and battery enclosure polishing.",
+      "action": "Adjust product mix offered to auto part clients towards precision finishing solutions suitable for aluminum EV components.",
       "th": {
-        "title": "บีโอไอ เผยยอดลงทุน EV ทะลุ 1.3 แสนล้าน หนุนไทยสู่เป้าหมายฐานผลิตยานยนต์ไฟฟ้าครบวงจร",
-        "summary": "บีโอไอเผยยอดขอรับส่งเสริมการลงทุนในอุตสาหกรรม EV ทะลุ 1.3 แสนล้านบาท ผลักดันไทยสู่การเป็นศูนย์กลางผลิตยานยนต์ไฟฟ้าครบวงจร",
-        "why": "การขยายกำลังการผลิตระดับใหญ่ในภาคยานยนต์จะช่วยเพิ่มการใช้วัสดุขัด ลบครีบ และตกแต่งผิวโลหะในระยะยาว",
-        "action": "นำรายชื่อโครงการชิ้นส่วน EV ที่ได้รับการส่งเสริมจาก BOI ในพื้นที่ EECมาทำรายชื่อผู้มุ่งหวังเพื่อเข้าเสนอขายสินค้า"
+        "title": "ชิ้นส่วน EV ฟื้นตัว สวนทางยอดผลิตรถยนต์รวมที่ยังชะลอตัว",
+        "summary": "การผลิตชิ้นส่วนยานยนต์ไฟฟ้าในไทยเริ่มส่งสัญญาณฟื้นตัว สวนทางกับยอดผลิตรถยนต์เครื่องยนต์สันดาปที่ยังคงซบเซา",
+        "why": "การใช้วัสดุขัดย้ายจากการเจียรเครื่องยนต์แบบเดิมไปสู่การขัดเงาและเตรียมผิวชิ้นส่วนอลูมิเนียม/แบตเตอรี่ EV",
+        "action": "ปรับพอร์ตสินค้าเข้าโรงงานชิ้นส่วน โดยเน้นกระดาษทรายและจานขัดความละเอียดสูงสำหรับงานโลหะน้ำหนักเบา"
       }
     },
     {
@@ -49,52 +49,70 @@ window.TODAY_DATA = {
       "rating": "green",
       "source": "thansettakij",
       "date": "2026-02-22",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WYk9IRDVDZTBaVk54WmhwM0g4RjhJR3hBT19NaG1kZ2x6UGtobHU2bXBoYV9ZeXIxb2NSdENWR1BoVGFndXhTSWt3cjFQcFUyWS1EdEhpb1loV1R0dXUtbnpn?oc=5",
-      "title": "Thai Airways Expands Fleet to 100 Aircraft and Commits 10 Billion Baht to U-Tapao MRO Center",
-      "summary": "Thai Airways plans to expand its operational fleet to 100 aircraft by 2026 and invest 10 billion baht to develop a major MRO center at U-Tapao.",
-      "why": "Fleet growth and dedicated MRO infrastructure generate high-value demand for specialized aviation-grade abrasives and precision polishing solutions.",
-      "action": "Prepare high-precision aerospace abrasive catalogs and sample kits to engage purchasing contacts at aviation MRO facilities.",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WYk9IRDVDZTBaVk54WmhwM0g4RjhJR3hBT1_NaG1kZ2x6UGtobLU2mPhvX1p4UjFi29NSdENWR1BoVGFndXhTSWt3cjFQcFUyWS1EdEhpb1loV1R0dXUtbnpn?oc=5",
+      "title": "Thai Airways Allocates 10 Billion Baht for U-Tapao Aircraft MRO Center",
+      "summary": "Thai Airways is expanding its fleet to 100 aircraft by 2026 and investing 10 billion baht to develop a full-scale MRO facility at U-Tapao airport.",
+      "why": "Major investment in aviation maintenance creates ongoing demand for certified aerospace-grade surface preparation and polishing consumables.",
+      "action": "Accelerate sourcing and certification of specialized aerospace abrasives to establish vendor status with local MRO operations.",
       "th": {
-        "title": "'การบินไทย' ติดปีก จัดทัพฝูงบิน 100 ลำ ปี 2569 ทุ่ม 1 หมื่นล้าน ดัน MRO อู่ตะเภา",
-        "summary": "การบินไทยเตรียมขยายฝูงบินเป็น 100 ลำภายในปี 2569 พร้อมทุ่มงบ 1 หมื่นล้านบาทพัฒนาศูนย์ซ่อมบำรุงอากาศยาน (MRO) ที่อู่ตะเภา",
-        "why": "การเติบโตของฝูงบินและการลงทุนศูนย์ซ่อม MRO สร้างโอกาสสูงในการขายวัสดุขัดและงานขัดเงาความละเอียดสูงเกรดการบิน",
-        "action": "จัดทำแคตตาล็อกและชุดตัวอย่างวัสดุขัดเกรดการบินเพื่อเข้าเสนอฝ่ายจัดซื้อของศูนย์ซ่อมบำรุงอากาศยาน"
+        "title": "การบินไทย ทุ่ม 1 หมื่นล้านบาท ดันศูนย์ซ่อมบำรุงอากาศยาน MRO อู่ตะเภา",
+        "summary": "การบินไทยเตรียมจัดทัพฝูงบิน 100 ลำภายในปี 2569 พร้อมทุ่มงบ 1 หมื่นล้านบาท เพื่อพัฒนาศูนย์ซ่อมอากาศยาน MRO ที่สนามบินอู่ตะเภา",
+        "why": "การเติบโตของศูนย์ซ่อมเครื่องบินสร้างอุปสงค์ระยะยาวต่อวัสดุขัดเกรดการบินสำหรับงานขัดเตรียมผิวและซ่อมบำรุงชิ้นส่วน",
+        "action": "เร่งขึ้นทะเบียนและทดสอบเกรดสินค้าวัสดุขัดสำหรับการบิน เพื่อเตรียมพร้อมเข้าเป็นผู้แต่งตั้งในงบจัดซื้อ MRO อู่ตะเภา"
       }
     },
     {
       "id": "20260802-4",
-      "tag": "auto",
+      "tag": "aero",
       "rating": "amber",
-      "source": "TNN Thailand",
-      "date": "2026-07-29",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB1V2x5eTF2YjhxVkJsdVhpS2g2YWJxejBJNjAwWWlJeW50NWlCMUpNcm03QVF1eGF2eVNva3BwYjBscDQwZk16bTBrUy1STGpSYTNRdmt4RTNtOTI2elR2eklWaw?oc=5",
-      "title": "EV Component Sector Recovers Despite Overall Car Production Slump",
-      "summary": "While overall internal combustion car production faces a slowdown, the EV component manufacturing sector shows clear signs of recovery.",
-      "why": "A product shift from traditional ICE parts to EV components alters factory surface finishing requirements toward aluminum and lightweight metal processing.",
-      "action": "Adjust sales portfolio to emphasize abrasive solutions for aluminum machining, battery housings, and lightweight alloys.",
+      "source": "thansettakij",
+      "date": "2026-05-29",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFSElmenNfbV9JTnV2dUV3WklDZ05NcEN3ZkdQOTFmT1lzcEpKRUpSbkNISHFUYnczSnZBeDFCSlhYbW00SHZTLTlBVEs3bUJaYzBTZllB?oc=5",
+      "title": "EECO Partners with VietJet to Establish Maintenance Hub at U-Tapao",
+      "summary": "The Eastern Economic Corridor Office (EECO) signed an agreement with VietJet to study and develop an aircraft maintenance center at U-Tapao airport.",
+      "why": "Multiple airline investments reinforce U-Tapao as an emerging aerospace hub, broadening prospective customer bases beyond national carriers.",
+      "action": "Initiate sales contacts with VietJet's regional engineering teams and third-party MRO contractors in Eastern Thailand.",
       "th": {
-        "title": "ชิ้นส่วน EV ฟื้น สวนทางยอดผลิตรถยนต์ทรุด หุ้นยานยนต์ไทยท้าทายหนัก",
-        "summary": "แม้ภาพรวมการผลิตรถยนต์เครื่องยนต์สันดาปจะชะลอตัวลง แต่ภาคการผลิตชิ้นส่วนยานยนต์ไฟฟ้าส่งสัญญาณฟื้นตัวชัดเจน",
-        "why": "การเปลี่ยนผ่านจากรถยนต์สันดาปสู่ EV ทำให้ความต้องการวัสดุขัดเปลี่ยนจากงานเหล็กหล่อไปสู่งานขัดอลูมิเนียมและโลหะน้ำหนักเบา",
-        "action": "ปรับสัดส่วนการนำเสนอสินค้าเน้นโซลูชันการขัดงานอลูมิเนียม เสื้อแบตเตอรี่ และโลหะผสมน้ำหนักเบา"
+        "title": "EECO ดึง เวียตเจ็ท ร่วมปักหมุดพัฒนาศูนย์ซ่อมบำรุงอากาศยานอู่ตะเภา",
+        "summary": "สำนักงาน EEC จับมือเวียตเจ็ทศึกษาแผนลงทุนจัดตั้งศูนย์ซ่อมบำรุงอากาศยานแห่งใหม่ในพื้นที่อู่ตะเภา",
+        "why": "การเข้าร่วมของสายการบินต่างชาติช่วยยืนยันการเติบโตของนิคม MRO และเพิ่มฐานลูกค้าภาคการบินนอกเหนือจากสายการบินแห่งชาติ",
+        "action": "เริ่มติดต่อฝ่ายวิศวกรรมและซัพพลายเชนของเวียตเจ็ทเพื่อนำเสนอวัสดุขัดสำหรับการซ่อมบำรุงเบื้องต้น"
       }
     },
     {
       "id": "20260802-5",
-      "tag": "aero",
-      "rating": "amber",
-      "source": "posttoday",
-      "date": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lak5sZXQtNktSd3dqWTVQcmdhN2JJdGVhSEUxUzk5RFI5TUs4T3kzMzBqVDdNUnp4N2k3M2FBalNXd0UwaS1XeUxkczM4Rzg4QnVBQXJR?oc=5",
-      "title": "EECO Mobilizes Funds to Develop U-Tapao MRO into Regional Aviation Hub",
-      "summary": "The Eastern Economic Corridor Office is raising investment capital to establish the U-Tapao MRO center as a regional aircraft maintenance hub.",
-      "why": "Government-driven infrastructure backing confirms a growing long-term market for specialized maintenance tools and high-grade abrasives in Eastern Thailand.",
-      "action": "Monitor EEC aerospace park tenant developments to target new aviation maintenance sub-contractors early.",
+      "tag": "steel",
+      "rating": "white",
+      "source": "Matichon Online",
+      "date": "2026-05-21",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UYW10Tk1DUVRKUmhSc0EtelBFYk5QMlZpSE5XTGR1S1FEaGFuVExkWVVjZ3Fyc3dnek5ZNlozMWNUNWxSQTVrY3FmOTVDT0MzX0E2SjZkYm1QQ28?oc=5",
+      "title": "Steel Associations Urge Ministry Action on Cheap Imports and Substandard Induction Furnaces",
+      "summary": "Ten Thai steel trade associations petitioned the Ministry of Industry to enforce stricter quality standards and curb low-priced steel dumping from abroad.",
+      "why": "Price competition weakens profitability for local steel fabricators, potentially squeezing their budget for grinding and cutting consumables.",
+      "action": "Focus sales efforts on high-margin specialized metal fabricators rather than price-sensitive commodity steel mills.",
       "th": {
-        "title": "EECO ระดมทุน ดันอุตสาหกรรม MRO ปั้นอู่ตะเภาสู่ศูนย์กลางซ่อมอากาศยานภูมิภาค",
-        "summary": "สำนักงาน EEC เร่งระดมทุนเพื่อดันศูนย์ซ่อม MRO อู่ตะเภาให้เป็นศูนย์กลางการซ่อมบำรุงอากาศยานในระดับภูมิภาค",
-        "why": "การสนับสนุน MRO จากภาครัฐยืนยันถึงศักยภาพระยะยาวของตลาดวัสดุซ่อมบำรุงและวัสดุขัดเฉพาะทางในพื้นที่ภาคตะวันออก",
-        "action": "ติดตามการเข้ามาตั้งโรงงานของซัพพลายเออร์ในเขตนิคมการบิน EEC เพื่อเข้าเสนอตัวเป็นผู้ผลิต/จัดส่งวัสดุขัดตั้งแต่เริ่มต้น"
+        "title": "10 สมาคมเหล็ก ร้องกระทรวงอุตสาหกรรม แก้ปัญหาเหล็กนำเข้าและเข้มมาตรฐานเตา IF",
+        "summary": "10 สมาคมอุตสาหกรรมเหล็กไทยยื่นหนังสือร้องเรียนให้ภาครัฐกวาดล้างโรงงานเหล็กไม่ได้มาตรฐานและสกัดการทุ่มตลาดเหล็กราคาถูก",
+        "why": "ความกดดันด้านราคาในตลาดเหล็กทำให้โรงงานแปรรูปเหล็กทั่วไปชะลอการซื้อ consumables หรือกดราคาวัสดุขัด",
+        "action": "เน้นทำตลาดกับโรงงานแปรรูปโลหะเฉพาะทางและงานโครงสร้างเกรดสูง ที่ยังต้องการวัสดุขัดคุณภาพดีมากกว่าสู้ราคา"
+      }
+    },
+    {
+      "id": "20260802-6",
+      "tag": "furniture",
+      "rating": "amber",
+      "source": "เดลินิวส์",
+      "date": "2026-07-14",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9adEFrWDVzcmYtTHp3ajZROXkzYjBRdHh4bHRwVm51UG54VkIwZ0w0Zm5NS1VLQWZVZFVyTmM4UTF5QW9tUm53MDRHZUVHVG9CR0xF?oc=5",
+      "title": "TIWF 2026 Set as Regional Platform for Woodworking and Furniture Manufacturing",
+      "summary": "The Thailand International Woodworking & Furniture Exhibition 2026 aims to boost ASEAN wood processing and furniture exporters through new technology adoption.",
+      "why": "Furniture export processing is a major consumer of wide abrasive belts, sanding papers, and wood finishing tools.",
+      "action": "Plan exhibition participation and targeted sales promotions for wide sanding belts aimed at participating furniture manufacturers.",
+      "th": {
+        "title": "TIWF 2026 ปักหมุดงานใหญ่ ยกระดับอุตสาหกรรมงานไม้และเฟอร์นิเจอร์สู่อาเซียน",
+        "summary": "งานแสดงสินค้าเครื่องจักรงาไม้และเฟอร์นิเจอร์ระดับสากลเตรียมจัดขึ้นเพื่อยกระดับการผลิตและส่งออกเฟอร์นิเจอร์ในภูมิภาค",
+        "why": "โรงงานผลิตเฟอร์นิเจอร์ส่งออกเป็นกลุ่มผู้ใช้วัสดุขัดกลุ่มสายพานกว้าง (Wide Belts) และกระดาษทรายม้วนจำนวนมาก",
+        "action": "วางแผนออกบูธและจัดโปรโมชั่นสายพานขัดไม้ราคาพิเศษเพื่อเจาะกลุ่มผู้ผลิตเฟอร์นิเจอร์ที่เข้าร่วมงาน"
       }
     }
   ],
