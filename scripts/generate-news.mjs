@@ -76,7 +76,10 @@ ${listText}
 rating: green=เกี่ยวตรงกับดีมานด์งานขัดของเรา, amber=เกี่ยวทางอ้อม(กระทบลูกค้า/ตลาด), white=แค่รู้ไว้`;
 
 const url = `https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent?key=${KEY}`;
-const body = { contents: [{ parts: [{ text: prompt }] }], generationConfig: { temperature: 0.4 } };
+const body = {
+  contents: [{ parts: [{ text: prompt }] }],
+  generationConfig: { temperature: 0.4, maxOutputTokens: 8192, responseMimeType: "application/json" },
+};
 
 let resp;
 try { resp = await fetch(url, { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(body) }); }
