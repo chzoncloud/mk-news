@@ -66,14 +66,14 @@ const prompt = `คุณคือผู้ช่วยข่าวกรอง�
 ด้านล่างคือพาดหัวข่าวจริงล่าสุดจาก Google News:
 ${listText}
 
-เลือก 5-7 ข่าวที่เกี่ยวกับอุตสาหกรรมเรามากที่สุด (ยานยนต์/การบิน/โลหะ/โรงงาน) — ข้ามข่าวที่ไม่เกี่ยว (รีวิวรถ ราค่ารถมือสอง โปรโมชั่น ฯลฯ)
+เลือก 5-7 ข่าวที่เกี่ยวกับอุตสาหกรรมเรามากที่สุด (ยานยนต์/การบิน/โลหะ/โรงงาน) — ข้ามข่าวที่ไม่เกี่ยว (รีวิวรถ ราคารถมือสอง โปรโมชั่น ฯลฯ)
 ใช้ url/source/date จากรายการข้างบน "ตามจริง" ห้ามแต่ง url เอง
 
-รูปแบบ 2 ภาษา: เขียน title/summary/why/action เป็น "ไทยเป็นหลัก" (≥80%) แต่แทรกศัพท์ธุรกิจ/อุตสาหกรรมภาษาอังกฤษ 3-6 คำต่อข่าว (production, export, investment, demand, supply chain, maintenance, hangar, fleet, components ฯลฯ) แล้วทุกคำอังกฤษที่ใช้ต้องมีคำแปลใน terms ของข่าวนั้น
+สำคัญ — ภาษา: เขียน title/summary/why/action เป็น "ภาษาอังกฤษ" เป็นหลัก (business English กระชับ ชัดเจน ระดับผู้เรียนกลางๆ อ่านเข้าใจได้ ไม่ซับซ้อนเกินไป) แล้วใส่คำแปลไทยของทุก field ไว้ใน object "th" ของข่าวนั้น (แปลเป็นธรรมชาติ ครบความหมาย)
 
 ตอบกลับเป็น JSON object เดียวเท่านั้น (ไม่มี markdown ไม่มีข้อความอื่น):
-{"date":"${today}","summary":"สรุปผู้บริหาร 1-2 ประโยค วันนี้กระทบเราไหม เด่นอะไร","directCount":<จำนวนข่าว rating green>,"terms":{},"items":[{"id":"${today.replace(/-/g, "")}-1","tag":"auto|aero","rating":"green|amber|white","title":"...","source":"...","date":"YYYY-MM-DD","url":"https://...","summary":"1-2 ประโยค","why":"สำคัญกับเรายังไง","action":"ควรทำอะไร 1 บรรทัด","terms":{"english":"คำแปลไทย"}}]}
-rating: green=เกี่ยวตรงกับดีมานด์งานขัดของเรา, amber=เกี่ยวทางอ้อม(กระทบลูกค้า/ตลาด), white=แค่รู้ไว้`;
+{"date":"${today}","summary":"<English executive summary 1-2 sentences: does today affect us, what stands out>","directCount":<green count>,"th":{"summary":"<คำแปลไทยของ executive summary>"},"items":[{"id":"${today.replace(/-/g, "")}-1","tag":"auto|aero","rating":"green|amber|white","source":"...","date":"YYYY-MM-DD","url":"https://...","title":"<English headline>","summary":"<English 1-2 sentences>","why":"<English: why it matters to us>","action":"<English: 1-line action>","th":{"title":"<ไทย>","summary":"<ไทย>","why":"<ไทย>","action":"<ไทย>"}}]}
+rating: green=directly affects our abrasive/metal-finishing demand, amber=indirect (affects our customers/market), white=just FYI`;
 
 const url = `https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent?key=${KEY}`;
 const body = {

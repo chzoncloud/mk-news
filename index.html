@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="th">
+<html lang="en">
 <head>
 <meta charset="utf-8">
 <title>ข่าวเช้า MK</title>
@@ -51,11 +51,13 @@
   .logo img{width:100%;height:100%;object-fit:cover;display:block}
   .brand h1{margin:0;font-size:20px;font-weight:800;letter-spacing:-.2px}
   .brand p{margin:1px 0 0;font-size:13px;color:var(--muted)}
+  .hbtns{display:flex;gap:8px;flex-shrink:0}
   .tbtn{background:var(--surface2);border:1px solid var(--line);color:var(--ink);
-    width:40px;height:40px;border-radius:11px;font-size:19px;cursor:pointer;flex-shrink:0}
-  .tabs{display:flex;gap:7px;margin-top:14px}
+    height:40px;min-width:40px;padding:0 12px;border-radius:11px;font-size:15px;font-weight:700;cursor:pointer}
+  .tbtn.on{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
+  .tabs{display:flex;gap:8px;margin-top:14px}
   .tab{flex:1;background:var(--surface2);border:1px solid var(--line);color:var(--muted);
-    padding:10px 6px;border-radius:11px;font-size:15px;font-weight:700;cursor:pointer;white-space:nowrap}
+    padding:10px;border-radius:11px;font-size:16px;font-weight:700;cursor:pointer}
   .tab.on{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
   .dates{display:flex;gap:8px;overflow-x:auto;padding:14px 0 4px;scrollbar-width:none}
   .dates::-webkit-scrollbar{display:none}
@@ -90,31 +92,20 @@
   .why{margin-top:11px;background:var(--surface2);border:1px solid var(--line);border-radius:10px;padding:11px 13px;font-size:15.5px}
   .why .k{font-size:12px;font-weight:800;letter-spacing:.4px;color:var(--accent);text-transform:uppercase;display:block;margin-bottom:3px}
   .why .act{display:block;margin-top:7px;color:var(--muted)}
-  .link{display:inline-block;margin-top:11px;font-size:15px;font-weight:700;color:var(--accent);text-decoration:none}
+  .cardfoot{display:flex;align-items:center;gap:14px;margin-top:12px;flex-wrap:wrap}
+  .xlate{background:none;border:1px solid var(--line);color:var(--accent);border-radius:9px;
+    padding:7px 12px;font-size:14px;font-weight:800;cursor:pointer}
+  .link{font-size:15px;font-weight:700;color:var(--accent);text-decoration:none}
   .link:after{content:" ↗"}
-  /* tappable English term */
-  .term{background:color-mix(in srgb,var(--accent) 13%,transparent);color:var(--accent);border:none;
-    border-bottom:1.5px dashed var(--accent);border-radius:4px;padding:0 3px;margin:0 1px;
-    font:inherit;font-weight:800;cursor:pointer;line-height:1.25}
-  .pop-bg{position:fixed;inset:0;z-index:49}
-  .pop{position:fixed;z-index:50;background:var(--surface);border:1px solid var(--line);border-radius:12px;
-    box-shadow:0 8px 30px rgba(0,0,0,.28);padding:13px 15px;max-width:270px}
-  .pop .en{font-size:19px;font-weight:800;color:var(--accent)}
-  .pop .th{margin:3px 0 11px;font-size:17px;color:var(--ink)}
-  .pop .sv{background:var(--accent);color:var(--accent-ink);border:none;border-radius:9px;padding:9px 12px;
-    font-size:14px;font-weight:800;cursor:pointer;width:100%}
-  .pop .sv.on{background:var(--surface2);color:var(--muted)}
-  .vhint{font-size:14px;color:var(--muted);margin:4px 4px 16px;line-height:1.5}
-  .vitem{display:flex;align-items:center;justify-content:space-between;gap:12px;background:var(--surface);
-    border:1px solid var(--line);border-radius:11px;padding:12px 15px;margin-bottom:9px}
-  .vitem .en{font-weight:800;color:var(--accent);font-size:17px}
-  .vitem .th{color:var(--muted);font-size:15px;margin-top:1px}
-  .vitem .rm{background:none;border:none;color:var(--muted);font-size:20px;cursor:pointer;flex-shrink:0}
+  .thai{margin-top:12px;padding-top:12px;border-top:1px dashed var(--line);color:var(--muted)}
+  .thai .tt{font-weight:800;color:var(--ink);font-size:16px;margin-bottom:5px}
+  .thai .tw{margin-top:7px;font-size:15px}
+  .thai .tw b{color:var(--ink)}
   .empty{text-align:center;color:var(--muted);padding:60px 20px;font-size:16px}
   .empty .e{font-size:42px;margin-bottom:12px}
   .foot{text-align:center;color:var(--muted);font-size:13px;margin-top:26px;line-height:1.6}
   :focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:6px}
-  @media (prefers-reduced-motion:no-preference){.card,.chip,.tab{transition:background .15s,color .15s,border-color .15s}}
+  @media (prefers-reduced-motion:no-preference){.card,.chip,.tab,.tbtn{transition:background .15s,color .15s,border-color .15s}}
 </style>
 </head>
 <body>
@@ -123,16 +114,18 @@
     <div class="brand">
       <div class="logo"><img src="app-icon-192.png" alt="MKIS"></div>
       <div>
-        <h1>ข่าวเช้า MK</h1>
-        <p>แตะคำ <b style="color:var(--accent)">สีส้ม</b> เพื่อดูคำแปล</p>
+        <h1>MKIS Morning News</h1>
+        <p>English news · tap แปลไทย if you get stuck</p>
       </div>
     </div>
-    <button class="tbtn" id="themeBtn" title="สลับธีม" aria-label="สลับธีม">◐</button>
+    <div class="hbtns">
+      <button class="tbtn" id="langBtn" title="แสดงไทยทั้งหมด">TH</button>
+      <button class="tbtn" id="themeBtn" title="สลับธีม" aria-label="theme">◐</button>
+    </div>
   </div>
   <div class="tabs">
-    <button class="tab on" id="tabDaily">📅 ข่าว</button>
-    <button class="tab" id="tabSaved">⭐ เก็บ</button>
-    <button class="tab" id="tabVocab">📚 ศัพท์</button>
+    <button class="tab on" id="tabDaily">📅 News</button>
+    <button class="tab" id="tabSaved">⭐ Saved</button>
   </div>
 </header>
 <div class="wrap">
@@ -141,20 +134,19 @@
     <div id="dayView"></div>
   </div>
   <div id="saved" style="display:none"></div>
-  <div id="vocab" style="display:none"></div>
   <div class="foot" id="foot"></div>
 </div>
 
-<script src="data.js?v=2"></script>
+<script src="data.js?v=3"></script>
 <script>
-const LS='mk_news_v1';
+const LS='mk_news_v1', LKEY='mk_news_lang';
 const TODAY = (window.TODAY_DATA && window.TODAY_DATA.date) ? window.TODAY_DATA : null;
 
 function ageDays(dateStr){ return (Date.now()-new Date(dateStr+'T00:00:00').getTime())/86400000; }
 function loadStore(){
   let s; try{ s=JSON.parse(localStorage.getItem(LS)); }catch(e){}
-  if(!s||typeof s!=='object') s={days:{},stars:{},vocab:{}};
-  s.days=s.days||{}; s.stars=s.stars||{}; s.vocab=s.vocab||{};
+  if(!s||typeof s!=='object') s={days:{},stars:{}};
+  s.days=s.days||{}; s.stars=s.stars||{};
   return s;
 }
 let store=loadStore();
@@ -162,6 +154,9 @@ if(TODAY){ store.days[TODAY.date]=TODAY; }
 Object.keys(store.days).forEach(d=>{ if(ageDays(d)>40) delete store.days[d]; });
 function saveStore(){ localStorage.setItem(LS,JSON.stringify(store)); }
 saveStore();
+
+let globalThai = localStorage.getItem(LKEY)==='1';
+let thaiShown = new Set();   // per-card overrides (ephemeral)
 
 function visibleItems(day){ return day.items.filter(it=> ageDays(day.date)<=14 || store.stars[it.id]); }
 function isStarred(id){ return !!store.stars[id]; }
@@ -171,20 +166,9 @@ function toggleStar(item,dayDate){
   saveStore(); renderAll();
 }
 
-const TAG={auto:{emo:'🚗',name:'ยานยนต์'}, aero:{emo:'✈️',name:'การบิน'}};
-const RATE={green:{cls:'green',txt:'เกี่ยวตรง'}, amber:{cls:'amber',txt:'เกี่ยวทางอ้อม'}, white:{cls:'grey',txt:'รู้ไว้'}, grey:{cls:'grey',txt:'รู้ไว้'}};
+const TAG={auto:{emo:'🚗'}, aero:{emo:'✈️'}};
+const RATE={green:{cls:'green',txt:'Direct'}, amber:{cls:'amber',txt:'Indirect'}, white:{cls:'grey',txt:'FYI'}, grey:{cls:'grey',txt:'FYI'}};
 function esc(s){return (s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));}
-function reEsc(s){return s.replace(/[.*+?^${}()|[\]\\]/g,'\\$&');}
-/* แปลงคำอังกฤษใน terms ให้แตะได้ */
-function termify(text, terms){
-  let html = esc(text);
-  if(!terms) return html;
-  Object.keys(terms).sort((a,b)=>b.length-a.length).forEach(k=>{
-    const re = new RegExp('(^|[^A-Za-z])('+reEsc(k)+')(?![A-Za-z])','gi');
-    html = html.replace(re,(m,pre,w)=>pre+`<button class="term" data-en="${esc(w)}" data-th="${esc(terms[k])}">${esc(w)}</button>`);
-  });
-  return html;
-}
 function fmtThai(dateStr){
   const dt=new Date(dateStr+'T00:00:00');
   const m=['ม.ค.','ก.พ.','มี.ค.','เม.ย.','พ.ค.','มิ.ย.','ก.ค.','ส.ค.','ก.ย.','ต.ค.','พ.ย.','ธ.ค.'];
@@ -193,106 +177,84 @@ function fmtThai(dateStr){
 let selDate=null, tab='daily';
 
 function cardHTML(it,dayDate){
-  const r=RATE[it.rating]||RATE.grey, t=TAG[it.tag]||{emo:'',name:''};
+  const r=RATE[it.rating]||RATE.grey, t=TAG[it.tag]||{emo:''};
+  const th=it.th||{};
+  const showTh = globalThai || thaiShown.has(it.id);
+  const hasTh = !!(th.title||th.summary||th.why);
   return `<article class="card">
     <div class="ctop">
       <span class="rate ${r.cls}"><span class="dot"></span>${r.txt}</span>
-      <button class="star ${isStarred(it.id)?'on':''}" data-id="${it.id}" data-day="${dayDate}" aria-label="เก็บข่าวนี้">${isStarred(it.id)?'★':'☆'}</button>
+      <button class="star ${isStarred(it.id)?'on':''}" data-id="${it.id}" data-day="${dayDate}" aria-label="save">${isStarred(it.id)?'★':'☆'}</button>
     </div>
-    <h3>${termify(it.title,it.terms)}</h3>
+    <h3>${esc(it.title)}</h3>
     <div class="src">${t.emo} ${esc(it.source)} · ${esc(it.date)}</div>
-    <p class="summary">${termify(it.summary,it.terms)}</p>
-    <div class="why"><span class="k">สำคัญกับเรา</span>${termify(it.why,it.terms)}
-      ${it.action?`<span class="act">→ ${termify(it.action,it.terms)}</span>`:''}</div>
-    <a class="link" href="${esc(it.url)}" target="_blank" rel="noopener">อ่านข่าวเต็ม</a>
+    <p class="summary">${esc(it.summary)}</p>
+    <div class="why"><span class="k">Why it matters</span>${esc(it.why)}
+      ${it.action?`<span class="act">→ ${esc(it.action)}</span>`:''}</div>
+    <div class="cardfoot">
+      ${hasTh?`<button class="xlate" data-id="${it.id}">${showTh?'🇬🇧 hide Thai':'🇹🇭 แปลไทย'}</button>`:''}
+      <a class="link" href="${esc(it.url)}" target="_blank" rel="noopener">read more</a>
+    </div>
+    ${showTh&&hasTh?`<div class="thai">
+      <div class="tt">${esc(th.title||'')}</div>
+      <div>${esc(th.summary||'')}</div>
+      <div class="tw"><b>สำคัญกับเรา:</b> ${esc(th.why||'')}${th.action?` → ${esc(th.action)}`:''}</div>
+    </div>`:''}
   </article>`;
 }
 function renderDaily(){
   const days=Object.values(store.days).filter(d=>visibleItems(d).length>0).sort((a,b)=>b.date.localeCompare(a.date));
   const dates=document.getElementById('dates'), dayView=document.getElementById('dayView');
-  if(!days.length){ dates.innerHTML=''; dayView.innerHTML=`<div class="empty"><div class="e">🗞️</div>ยังไม่มีข่าว เปิดแอปทุกเช้าแล้วข่าวจะสะสมที่นี่</div>`; return; }
+  if(!days.length){ dates.innerHTML=''; dayView.innerHTML=`<div class="empty"><div class="e">🗞️</div>No news yet — open every morning and it stacks up here</div>`; return; }
   if(!selDate||!days.some(d=>d.date===selDate)) selDate=days[0].date;
   dates.innerHTML=days.map(d=>{const f=fmtThai(d.date);
     return `<button class="chip ${d.date===selDate?'on':''}" data-date="${d.date}"><span class="d">${f.wd}</span> ${f.day} ${f.mon}</button>`;}).join('');
   const day=store.days[selDate], vis=visibleItems(day);
   const auto=vis.filter(i=>i.tag==='auto'), aero=vis.filter(i=>i.tag==='aero');
-  let html=`<div class="exec"><span class="lbl">สรุปผู้บริหาร</span><p>${termify(day.summary,day.terms)}</p>`;
-  if(day.directCount!=null) html+=`<span class="cnt">🟢 เกี่ยวตรงกับเรา ${day.directCount} ข่าว</span>`;
+  const dth=day.th||{};
+  let html=`<div class="exec"><span class="lbl">Executive summary</span><p>${esc(day.summary)}</p>`;
+  if(globalThai&&dth.summary) html+=`<p style="color:var(--muted);border-top:1px dashed var(--line);padding-top:9px">${esc(dth.summary)}</p>`;
+  if(day.directCount!=null) html+=`<span class="cnt">🟢 ${day.directCount} directly relevant</span>`;
   html+=`</div>`;
-  if(auto.length) html+=`<div class="grouphead">🚗 ยานยนต์</div>`+auto.map(i=>cardHTML(i,day.date)).join('');
-  if(aero.length) html+=`<div class="grouphead">✈️ การบิน</div>`+aero.map(i=>cardHTML(i,day.date)).join('');
+  if(auto.length) html+=`<div class="grouphead">🚗 Automotive</div>`+auto.map(i=>cardHTML(i,day.date)).join('');
+  if(aero.length) html+=`<div class="grouphead">✈️ Aviation</div>`+aero.map(i=>cardHTML(i,day.date)).join('');
   dayView.innerHTML=html;
 }
 function renderSaved(){
   const saved=document.getElementById('saved');
   const items=Object.values(store.stars).sort((a,b)=>(b.day||'').localeCompare(a.day||''));
-  if(!items.length){ saved.innerHTML=`<div class="empty"><div class="e">⭐</div>ยังไม่มีข่าวที่เก็บไว้<br>กด ☆ บนข่าวเพื่อเก็บ (ข่าวที่เก็บจะไม่ถูกลบทิ้ง)</div>`; return; }
-  saved.innerHTML=`<div class="grouphead" style="margin-top:16px">⭐ ข่าวที่เก็บไว้ (${items.length})</div>`+items.map(i=>cardHTML(i,i.day)).join('');
+  if(!items.length){ saved.innerHTML=`<div class="empty"><div class="e">⭐</div>No saved news yet<br>tap ☆ on a card to keep it (saved items never expire)</div>`; return; }
+  saved.innerHTML=`<div class="grouphead" style="margin-top:16px">⭐ Saved (${items.length})</div>`+items.map(i=>cardHTML(i,i.day)).join('');
 }
-function renderVocab(){
-  const v=document.getElementById('vocab');
-  const words=Object.values(store.vocab).sort((a,b)=>b.ts-a.ts);
-  let head=`<div class="grouphead" style="margin-top:16px">📚 คลังศัพท์ของฉัน (${words.length})</div>
-    <div class="vhint">แตะคำอังกฤษสีส้มในข่าว แล้วกด "เก็บคำนี้" คำจะมาอยู่ที่นี่ · เจอบ่อยๆ เดี๋ยวจำได้เอง 💪</div>`;
-  if(!words.length){ v.innerHTML=head+`<div class="empty"><div class="e">📚</div>ยังไม่มีคำศัพท์ที่เก็บ</div>`; return; }
-  v.innerHTML=head+words.map(w=>`<div class="vitem">
-    <div><div class="en">${esc(w.en)}</div><div class="th">${esc(w.th)}</div></div>
-    <button class="rm" data-rm="${esc(w.en.toLowerCase())}" aria-label="ลบ">✕</button></div>`).join('');
-}
-function renderAll(){
-  if(tab==='daily') renderDaily(); else if(tab==='saved') renderSaved(); else renderVocab();
-  updateFoot();
-}
+function renderAll(){ if(tab==='daily') renderDaily(); else renderSaved(); updateFoot(); }
 function updateFoot(){
   const u=TODAY?fmtThai(TODAY.date):null;
-  document.getElementById('foot').innerHTML=`ข่าวไม่ติดดาว ลบเองใน 14 วัน · ติดดาว ⭐ เก็บถาวร`+(u?`<br>อัปเดตล่าสุด ${u.day} ${u.mon} ${u.year}`:'');
-}
-
-/* ---------- popup แปลศัพท์ ---------- */
-function closePop(){ document.querySelectorAll('.pop,.pop-bg').forEach(e=>e.remove()); }
-function openPop(btn){
-  closePop();
-  const en=btn.dataset.en, th=btn.dataset.th, key=en.toLowerCase();
-  const bg=document.createElement('div'); bg.className='pop-bg'; bg.onclick=closePop;
-  const pop=document.createElement('div'); pop.className='pop';
-  const saved=!!store.vocab[key];
-  pop.innerHTML=`<div class="en">${esc(en)}</div><div class="th">${esc(th)}</div>
-    <button class="sv ${saved?'on':''}">${saved?'✓ เก็บแล้ว':'⭐ เก็บคำนี้'}</button>`;
-  document.body.appendChild(bg); document.body.appendChild(pop);
-  const r=btn.getBoundingClientRect(), pw=pop.offsetWidth, ph=pop.offsetHeight;
-  let left=Math.min(Math.max(8,r.left), innerWidth-pw-8);
-  let top=r.bottom+8; if(top+ph>innerHeight-8) top=Math.max(8,r.top-ph-8);
-  pop.style.left=left+'px'; pop.style.top=top+'px';
-  pop.querySelector('.sv').onclick=()=>{
-    if(store.vocab[key]){ delete store.vocab[key]; } else { store.vocab[key]={en,th,ts:Date.now()}; }
-    saveStore(); closePop(); if(tab==='vocab') renderVocab();
-  };
+  document.getElementById('foot').innerHTML=`Unsaved news auto-clears in 14 days · ⭐ saved stays`+(u?`<br>updated ${u.day} ${u.mon} ${u.year}`:'');
 }
 
 document.getElementById('dates').addEventListener('click',e=>{const b=e.target.closest('.chip');if(b){selDate=b.dataset.date;renderDaily();}});
 document.body.addEventListener('click',e=>{
-  const term=e.target.closest('.term'); if(term){ e.stopPropagation(); openPop(term); return; }
+  const x=e.target.closest('.xlate'); if(x){ const id=x.dataset.id; if(thaiShown.has(id))thaiShown.delete(id); else thaiShown.add(id); renderAll(); return; }
   const s=e.target.closest('.star'); if(s){const day=store.days[s.dataset.day];const it=(day&&day.items.find(x=>x.id===s.dataset.id))||store.stars[s.dataset.id];if(it)toggleStar(it,s.dataset.day);return;}
-  const rm=e.target.closest('.rm'); if(rm){ delete store.vocab[rm.dataset.rm]; saveStore(); renderVocab(); return; }
 });
 document.getElementById('tabDaily').addEventListener('click',()=>switchTab('daily'));
 document.getElementById('tabSaved').addEventListener('click',()=>switchTab('saved'));
-document.getElementById('tabVocab').addEventListener('click',()=>switchTab('vocab'));
 function switchTab(t){tab=t;
   document.getElementById('tabDaily').classList.toggle('on',t==='daily');
   document.getElementById('tabSaved').classList.toggle('on',t==='saved');
-  document.getElementById('tabVocab').classList.toggle('on',t==='vocab');
   document.getElementById('daily').style.display=t==='daily'?'':'none';
   document.getElementById('saved').style.display=t==='saved'?'':'none';
-  document.getElementById('vocab').style.display=t==='vocab'?'':'none';
-  closePop(); renderAll();
+  renderAll();
 }
+const langBtn=document.getElementById('langBtn');
+function syncLangBtn(){ langBtn.textContent = globalThai?'EN':'TH'; langBtn.classList.toggle('on',globalThai); langBtn.title = globalThai?'กลับเป็นอังกฤษ':'แสดงไทยทั้งหมด'; }
+langBtn.addEventListener('click',()=>{ globalThai=!globalThai; localStorage.setItem(LKEY,globalThai?'1':'0'); thaiShown.clear(); syncLangBtn(); renderAll(); });
 const tb=document.getElementById('themeBtn');
 tb.addEventListener('click',()=>{
   const cur=document.documentElement.getAttribute('data-theme')||(matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light');
   document.documentElement.setAttribute('data-theme',cur==='dark'?'light':'dark');
 });
-addEventListener('scroll',()=>closePop(),{passive:true});
+syncLangBtn();
 renderAll();
 </script>
 </body>
