@@ -68,10 +68,10 @@ const prompt = `คุณคือผู้ช่วยข่าวกรอง�
 ด้านล่างคือพาดหัวข่าวจริงล่าสุดจาก Google News:
 ${listText}
 
-เลือก 5-8 ข่าวที่เกี่ยวกับอุตสาหกรรมเรามากที่สุด (ยานยนต์/การบิน/เหล็ก-โลหะ/เฟอร์นิเจอร์-งานไม้ส่งออก/โรงงาน) — ข้ามข่าวที่ไม่เกี่ยว (รีวิวรถ ราคารถมือสอง โปรโมชั่น ฯลฯ). จัด tag: auto=ยานยนต์, aero=การบิน, steel=เหล็ก/โลหะ/โรงงานทั่วไป, furniture=เฟอร์นิเจอร์/งานไม้
+เลือก 5-6 ข่าวที่เกี่ยวกับอุตสาหกรรมเรามากที่สุด (ยานยนต์/การบิน/เหล็ก-โลหะ/เฟอร์นิเจอร์-งานไม้ส่งออก/โรงงาน) — ข้ามข่าวที่ไม่เกี่ยว (รีวิวรถ ราคารถมือสอง โปรโมชั่น ฯลฯ). จัด tag: auto=ยานยนต์, aero=การบิน, steel=เหล็ก/โลหะ/โรงงานทั่วไป, furniture=เฟอร์นิเจอร์/งานไม้
 ใช้ url/source/date จากรายการข้างบน "ตามจริง" ห้ามแต่ง url เอง
 
-สำคัญ — ภาษา: เขียน title/summary/why/action เป็น "ภาษาอังกฤษ" เป็นหลัก (business English กระชับ ชัดเจน ระดับผู้เรียนกลางๆ อ่านเข้าใจได้ ไม่ซับซ้อนเกินไป) แล้วใส่คำแปลไทยของทุก field ไว้ใน object "th" ของข่าวนั้น (แปลเป็นธรรมชาติ ครบความหมาย)
+สำคัญ — ภาษา: เขียน title/summary/why/action เป็น "ภาษาอังกฤษ" เป็นหลัก (business English กระชับ ชัดเจน ระดับผู้เรียนกลางๆ อ่านเข้าใจได้ ไม่ซับซ้อนเกินไป) แล้วใส่คำแปลไทยของทุก field ไว้ใน object "th" ของข่าวนั้น (แปลเป็นธรรมชาติ ครบความหมาย). เขียนสั้นกระชับ: summary/why/action อย่างละ 1-2 ประโยคพอ อย่ายืดยาว
 
 ตอบกลับเป็น JSON object เดียวเท่านั้น (ไม่มี markdown ไม่มีข้อความอื่น):
 {"date":"${today}","summary":"<English executive summary 1-2 sentences: does today affect us, what stands out>","directCount":<green count>,"th":{"summary":"<คำแปลไทยของ executive summary>"},"items":[{"id":"${today.replace(/-/g, "")}-1","tag":"auto|aero|steel|furniture","rating":"green|amber|white","source":"...","date":"YYYY-MM-DD","url":"https://...","title":"<English headline>","summary":"<English 1-2 sentences>","why":"<English: why it matters to us>","action":"<English: 1-line action>","th":{"title":"<ไทย>","summary":"<ไทย>","why":"<ไทย>","action":"<ไทย>"}}]}
@@ -80,7 +80,7 @@ rating: green=directly affects our abrasive/metal-finishing demand, amber=indire
 const url = `https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent?key=${KEY}`;
 const body = {
   contents: [{ parts: [{ text: prompt }] }],
-  generationConfig: { temperature: 0.4, maxOutputTokens: 8192, responseMimeType: "application/json" },
+  generationConfig: { temperature: 0.4, maxOutputTokens: 16384, responseMimeType: "application/json" },
 };
 
 async function callGemini() {
@@ -102,12 +102,25 @@ const data = await callGemini();
 
 let text = (data.candidates?.[0]?.content?.parts || []).map(p => p.text || "").join("");
 text = text.replace(/```json/gi, "").replace(/```/g, "").trim();
-const a = text.indexOf("{"), b = text.lastIndexOf("}");
-if (a < 0 || b < 0) { console.error("no JSON in response:", text.slice(0, 300)); process.exit(1); }
+const a = text.indexOf("{");
+if (a < 0) { console.error("no JSON in response:", text.slice(0, 300)); process.exit(1); }
+const jsonStr = text.slice(a);
 
-let obj;
-try { obj = JSON.parse(text.slice(a, b + 1)); }
-catch (e) { console.error("JSON parse failed:", e.message, "\n", text.slice(0, 300)); process.exit(1); }
+function safeParse(s) { try { return JSON.parse(s); } catch (e) { return null; } }
+// ถ้า JSON ถูกตัดกลางคัน: ไล่หา '}' จากท้าย ตัดข่าวที่ไม่ครบทิ้ง แล้วปิดวงเล็บให้ถูก
+function salvage(s) {
+  const suffixes = ["]}", "}]}", "}}]}", "\"}]}", "\"}}]}"];
+  for (let i = s.length - 1; i > 0; i--) {
+    if (s[i] !== "}") continue;
+    const head = s.slice(0, i + 1);
+    for (const suf of suffixes) { const o = safeParse(head + suf); if (o && Array.isArray(o.items) && o.items.length) return o; }
+  }
+  return null;
+}
+
+let obj = safeParse(jsonStr);
+if (!obj) { obj = salvage(jsonStr); if (obj) console.error("NOTE: JSON was truncated — salvaged " + obj.items.length + " items"); }
+if (!obj) { console.error("JSON parse failed even after salvage:", jsonStr.slice(0, 300)); process.exit(1); }
 if (!obj.date || !Array.isArray(obj.items) || obj.items.length === 0) { console.error("invalid shape"); process.exit(1); }
 obj.date = today;
 obj.terms = obj.terms || {};
