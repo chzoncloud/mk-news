@@ -2,7 +2,7 @@
 // 1) ดึงข่าวจริงล่าสุดจาก Google News RSS (ฟรี ไม่ต้องคีย์)
 // 2) ให้ Gemini (แบบธรรมดา ฟรี ไม่ใช้ grounding) คัด+วิเคราะห์+แปล 2 ภาษา
 // 3) เขียนทับ data.js
-import { writeFileSync } from "fs";
+import { readFileSync, writeFileSync, existsSync } from "fs";
 
 const KEY = process.env.GEMINI_API_KEY;
 if (!KEY) { console.error("ERROR: no GEMINI_API_KEY secret"); process.exit(1); }
@@ -125,5 +125,26 @@ if (!obj.date || !Array.isArray(obj.items) || obj.items.length === 0) { console.
 obj.date = today;
 obj.terms = obj.terms || {};
 
-writeFileSync("data.js", "/* auto-generated ทุกเช้าโดย GitHub Actions — อย่าแก้มือ */\nwindow.TODAY_DATA = " + JSON.stringify(obj, null, 2) + ";\n");
-console.log(`OK: wrote data.js — ${obj.items.length} items, directCount=${obj.directCount}`);
+// ---- คลังย้อนหลัง 14 วัน (เก็บบนเซิร์ฟเวอร์ ไม่พึ่ง localStorage) ----
+let archive = { days: [] };
+try {
+  if (existsSync("data.js")) {
+    const prev = readFileSync("data.js", "utf8");
+    let m = prev.match(/window\.NEWS_ARCHIVE\s*=\s*([\s\S]*?);?\s*$/);
+    if (m) { archive = JSON.parse(m[1]); }
+    else { // ย้ายจากรูปแบบเก่า window.TODAY_DATA = {วันเดียว}
+      m = prev.match(/window\.TODAY_DATA\s*=\s*([\s\S]*?);?\s*$/);
+      if (m) { const one = JSON.parse(m[1]); if (one && one.date) archive.days = [one]; }
+    }
+  }
+} catch (e) { console.error("archive read failed, starting fresh:", e.message); archive = { days: [] }; }
+if (!Array.isArray(archive.days)) archive.days = [];
+
+archive.days = archive.days.filter(d => d && d.date && d.date !== today); // กันซ้ำวันนี้
+archive.days.unshift(obj);
+archive.days.sort((x, y) => (y.date || "").localeCompare(x.date || ""));
+archive.days = archive.days.filter(d => (Date.now() - new Date(d.date + "T00:00:00Z").getTime()) / 86400000 <= 14).slice(0, 14);
+archive.updated = today;
+
+writeFileSync("data.js", "/* auto-generated ทุกเช้าโดย GitHub Actions — เก็บย้อนหลัง 14 วัน อย่าแก้มือ */\nwindow.NEWS_ARCHIVE = " + JSON.stringify(archive, null, 2) + ";\n");
+console.log(`OK: archive has ${archive.days.length} day(s); today=${obj.items.length} items, directCount=${obj.directCount}`);

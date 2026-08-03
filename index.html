@@ -165,20 +165,24 @@
 <script>document.write('<scr'+'ipt src="data.js?t='+Date.now()+'"><\/scr'+'ipt>');</script>
 <script>
 const LS='mk_news_v1', LKEY='mk_news_lang';
-const TODAY = (window.TODAY_DATA && window.TODAY_DATA.date) ? window.TODAY_DATA : null;
+// ประวัติมาจากคลังบนเซิร์ฟเวอร์ (ย้อนหลัง ≤14 วัน) — เก่ารองรับ TODAY_DATA เดี่ยวด้วย
+let ARCH=[];
+if(window.NEWS_ARCHIVE && Array.isArray(window.NEWS_ARCHIVE.days)) ARCH=window.NEWS_ARCHIVE.days.slice();
+else if(window.TODAY_DATA && window.TODAY_DATA.date) ARCH=[window.TODAY_DATA];
+ARCH=ARCH.filter(d=>d&&d.date).sort((a,b)=>b.date.localeCompare(a.date));
+const TODAY = ARCH[0] || null;
 
 function ageDays(dateStr){ return (Date.now()-new Date(dateStr+'T00:00:00').getTime())/86400000; }
 function loadStore(){
   let s; try{ s=JSON.parse(localStorage.getItem(LS)); }catch(e){}
-  if(!s||typeof s!=='object') s={days:{},stars:{}};
-  s.days=s.days||{}; s.stars=s.stars||{};
+  if(!s||typeof s!=='object') s={};
+  s.stars=s.stars||{};
   return s;
 }
 let store=loadStore();
-if(TODAY){ store.days[TODAY.date]=TODAY; }
-Object.keys(store.days).forEach(d=>{ if(ageDays(d)>40) delete store.days[d]; });
-function saveStore(){ localStorage.setItem(LS,JSON.stringify(store)); }
-saveStore();
+store.days={};
+ARCH.forEach(d=>{ store.days[d.date]=d; });
+function saveStore(){ localStorage.setItem(LS,JSON.stringify({stars:store.stars})); }
 
 let globalThai = localStorage.getItem(LKEY)==='1';
 let thaiShown = new Set();   // per-card overrides (ephemeral)
