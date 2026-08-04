@@ -9,6 +9,25 @@ if (!KEY) { console.error("ERROR: no GEMINI_API_KEY secret"); process.exit(1); }
 const MODEL = process.env.GEMINI_MODEL || "gemini-flash-latest";
 const today = new Date().toLocaleDateString("en-CA", { timeZone: "Asia/Bangkok" });
 
+// อ่านคลังเดิม (ใช้ทั้งกันข่าวซ้ำ + ต่อคลัง 14 วัน)
+function readArchive() {
+  try {
+    if (existsSync("data.js")) {
+      const prev = readFileSync("data.js", "utf8");
+      let m = prev.match(/window\.NEWS_ARCHIVE\s*=\s*([\s\S]*?);?\s*$/);
+      if (m) return JSON.parse(m[1]);
+      m = prev.match(/window\.TODAY_DATA\s*=\s*([\s\S]*?);?\s*$/);
+      if (m) { const one = JSON.parse(m[1]); if (one && one.date) return { days: [one] }; }
+    }
+  } catch (e) { console.error("archive read failed:", e.message); }
+  return { days: [] };
+}
+const existingArchive = readArchive();
+if (!Array.isArray(existingArchive.days)) existingArchive.days = [];
+// หัวข้อข่าวที่เคยลงไปแล้ว 5 วันล่าสุด (กันเลือกซ้ำ)
+const recentTitles = existingArchive.days.slice(0, 5)
+  .flatMap(d => (d.items || []).map(i => i.title)).filter(Boolean).slice(0, 40);
+
 const QUERIES = [
   "อุตสาหกรรมยานยนต์ไทย ผลิตรถยนต์ ส่งออก ชิ้นส่วน EV ลงทุน",
   "การบินไทย MRO อู่ตะเภา อุตสาหกรรมการบิน ฝูงบิน",
@@ -70,6 +89,7 @@ ${listText}
 
 เลือก 5-6 ข่าวที่เกี่ยวกับอุตสาหกรรมเรามากที่สุด (ยานยนต์/การบิน/เหล็ก-โลหะ/เฟอร์นิเจอร์-งานไม้ส่งออก/โรงงาน) — ข้ามข่าวที่ไม่เกี่ยว (รีวิวรถ ราคารถมือสอง โปรโมชั่น ฯลฯ). จัด tag: auto=ยานยนต์, aero=การบิน, steel=เหล็ก/โลหะ/โรงงานทั่วไป, furniture=เฟอร์นิเจอร์/งานไม้
 ใช้ url/source/date จากรายการข้างบน "ตามจริง" ห้ามแต่ง url เอง
+${recentTitles.length ? `\nข่าวที่ลงไปแล้วใน 5 วันก่อน (อย่าเลือกซ้ำ เว้นแต่มีอัปเดตใหม่จริงๆ):\n- ${recentTitles.join("\n- ")}\nให้เลือกเฉพาะข่าว "ใหม่" ที่ยังไม่เคยลง ถ้าวันนี้ข่าวใหม่น้อยจริงๆ เลือกน้อยลงได้ (2-3 ข่าว) แล้วเขียนใน summary ว่า "วันนี้มีข่าวใหม่ไม่มาก"\n` : ""}
 
 สำคัญ — ภาษา: เขียน title/summary/why/action เป็น "ภาษาอังกฤษ" เป็นหลัก (business English กระชับ ชัดเจน ระดับผู้เรียนกลางๆ อ่านเข้าใจได้ ไม่ซับซ้อนเกินไป) แล้วใส่คำแปลไทยของทุก field ไว้ใน object "th" ของข่าวนั้น (แปลเป็นธรรมชาติ ครบความหมาย). เขียนสั้นกระชับ: summary/why/action อย่างละ 1-2 ประโยคพอ อย่ายืดยาว
 
@@ -125,21 +145,8 @@ if (!obj.date || !Array.isArray(obj.items) || obj.items.length === 0) { console.
 obj.date = today;
 obj.terms = obj.terms || {};
 
-// ---- คลังย้อนหลัง 14 วัน (เก็บบนเซิร์ฟเวอร์ ไม่พึ่ง localStorage) ----
-let archive = { days: [] };
-try {
-  if (existsSync("data.js")) {
-    const prev = readFileSync("data.js", "utf8");
-    let m = prev.match(/window\.NEWS_ARCHIVE\s*=\s*([\s\S]*?);?\s*$/);
-    if (m) { archive = JSON.parse(m[1]); }
-    else { // ย้ายจากรูปแบบเก่า window.TODAY_DATA = {วันเดียว}
-      m = prev.match(/window\.TODAY_DATA\s*=\s*([\s\S]*?);?\s*$/);
-      if (m) { const one = JSON.parse(m[1]); if (one && one.date) archive.days = [one]; }
-    }
-  }
-} catch (e) { console.error("archive read failed, starting fresh:", e.message); archive = { days: [] }; }
-if (!Array.isArray(archive.days)) archive.days = [];
-
+// ---- คลังย้อนหลัง 14 วัน (ใช้ที่อ่านไว้ตั้งแต่ต้น) ----
+const archive = existingArchive;
 archive.days = archive.days.filter(d => d && d.date && d.date !== today); // กันซ้ำวันนี้
 archive.days.unshift(obj);
 archive.days.sort((x, y) => (y.date || "").localeCompare(x.date || ""));
