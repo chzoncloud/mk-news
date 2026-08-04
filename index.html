@@ -58,7 +58,7 @@
   .tbtn.on{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
   .tabs{display:flex;gap:8px;margin-top:14px}
   .tab{flex:1;background:var(--surface2);border:1px solid var(--line);color:var(--muted);
-    padding:10px;border-radius:11px;font-size:16px;font-weight:700;cursor:pointer}
+    padding:9px 3px;border-radius:10px;font-size:13.5px;font-weight:700;cursor:pointer;white-space:nowrap}
   .tab.on{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
   .dates{display:flex;gap:8px;overflow-x:auto;padding:14px 0 4px;scrollbar-width:none}
   .dates::-webkit-scrollbar{display:none}
@@ -150,10 +150,11 @@
     </div>
   </div>
   <div class="tabs">
-    <button class="tab on" id="tabDaily">📅 News</button>
-    <button class="tab" id="tabSaved">⭐ Saved</button>
+    <button class="tab on" id="tabDaily">📅 ข่าว</button>
+    <button class="tab" id="tabSaved">⭐ เก็บ</button>
     <button class="tab" id="tabLuck">🎲 ดวง</button>
     <button class="tab" id="tabNotes">📝 โน้ต</button>
+    <button class="tab" id="tabFairs">🎪 แฟร์</button>
   </div>
 </header>
 <div class="wrap">
@@ -164,6 +165,7 @@
   <div id="saved" style="display:none"></div>
   <div id="luck" style="display:none"></div>
   <div id="notes" style="display:none"></div>
+  <div id="fairs" style="display:none"></div>
   <div class="foot" id="foot"></div>
 </div>
 
@@ -357,7 +359,33 @@ function fortuneCard(){
 }
 function renderLuck(){ document.getElementById('luck').innerHTML = leadCard()+coCard()+fortuneCard(); }
 
-function renderAll(){ if(tab==='daily') renderDaily(); else if(tab==='saved') renderSaved(); else if(tab==='luck') renderLuck(); updateFoot(); }
+function renderAll(){ if(tab==='daily') renderDaily(); else if(tab==='saved') renderSaved(); else if(tab==='luck') renderLuck(); else if(tab==='fairs') renderFairs(); updateFoot(); }
+
+/* ---------- 🎪 งานแฟร์ กทม. (ที่เหลือปีนี้) ---------- */
+const FAIRS=[
+  {name:'BCT Expo 2026 — เทคโนโลยีก่อสร้าง', rating:'amber', date:'16–18 ก.ย. 2026', venue:'IMPACT เมืองทอง', cat:'ก่อสร้าง/โครงสร้างเหล็ก', why:'สายก่อสร้าง/โครงสร้างเหล็ก มีงานโลหะบ้าง เผื่อเจอผู้รับเหมา/โรงงานเหล็ก', url:'https://www.allthaievent.com/venue/impact/'},
+  {name:'TIWF 2026 — งานไม้ & เฟอร์นิเจอร์', rating:'green', date:'29–31 ต.ค. 2026', venue:'IMPACT เมืองทอง', cat:'งานไม้/เฟอร์นิเจอร์', why:'ผู้ผลิตเฟอร์นิเจอร์/งานไม้ = ใช้กระดาษทรายหนัก ตรงกลุ่ม B2C DIY + โรงงานไม้ที่เราจะเจาะ', url:'https://www.thailandexhibition.com/'},
+  {name:'METALEX 2026 — โลหะ/เครื่องมือกล', rating:'green', date:'18–21 พ.ย. 2026', venue:'BITEC บางนา', cat:'โลหะ/เครื่องมือกล', why:'งานโลหะ-เครื่องมือกล อันดับ 1 อาเซียน 3,000+ แบรนด์ ลูกค้า/คู่แข่งวัสดุขัดอยู่ครบ — มัสต์โก', url:'https://www.metalex.co.th/'},
+  {name:'Motor Expo 2026 (ครั้งที่ 43)', rating:'amber', date:'2–13 ธ.ค. 2026', venue:'IMPACT Challenger', cat:'ยานยนต์', why:'โชว์รถผู้บริโภค ไม่ได้ขายตรง แต่คนวงการยานยนต์มาครบ อัพเดทเทรนด์ + เน็ตเวิร์ก', url:'https://www.motorexpo.co.th/'},
+];
+function renderFairs(){
+  const RL={green:'🟢 ควรไป', amber:'🟡 น่าดู', white:'⚪ เผื่อ', grey:'⚪ เผื่อ'};
+  let html=`<div class="grouphead" style="margin-top:16px">🎪 งานแฟร์ที่เหลือปีนี้ (กทม.)</div>
+    <div class="vhint">เรียงตามวันที่ · สีบอกความเหมาะกับธุรกิจเรา · เจ้าของตัดสินใจไป/ไม่ไปเอง</div>`;
+  FAIRS.forEach(f=>{
+    const r=RATE[f.rating]||RATE.grey;
+    html+=`<div class="card">
+      <div class="ctop"><span class="rate ${r.cls}"><span class="dot"></span>${RL[f.rating]||RL.grey}</span>
+        <span style="font-size:13.5px;font-weight:800;color:var(--accent);white-space:nowrap">${esc(f.date)}</span></div>
+      <h3>${esc(f.name)}</h3>
+      <div class="src">📍 ${esc(f.venue)} · ${esc(f.cat)}</div>
+      <p class="summary">${esc(f.why)}</p>
+      <div class="cardfoot"><a class="link" href="${esc(f.url)}" target="_blank" rel="noopener">เว็บงาน</a></div>
+    </div>`;
+  });
+  html+=`<div class="vhint" style="margin-top:16px">📌 ปีหน้าจดไว้: <b>Manufacturing Expo</b> (~มิ.ย. ที่ BITEC) มีโซน surface prep &amp; coating ตรงงานเรามาก · <b>งานสถาปนิก</b> (~เม.ย.–พ.ค.) ที่เจ้าของเคยไป</div>`;
+  document.getElementById('fairs').innerHTML=html;
+}
 /* ---------- 📝 โน้ต (พิมพ์เอง บันทึกในเครื่อง) ---------- */
 const NOTESKEY='mk_notes';
 function initNotes(){
@@ -389,15 +417,17 @@ document.getElementById('tabDaily').addEventListener('click',()=>switchTab('dail
 document.getElementById('tabSaved').addEventListener('click',()=>switchTab('saved'));
 document.getElementById('tabLuck').addEventListener('click',()=>switchTab('luck'));
 document.getElementById('tabNotes').addEventListener('click',()=>switchTab('notes'));
+document.getElementById('tabFairs').addEventListener('click',()=>switchTab('fairs'));
 function switchTab(t){tab=t;
-  document.getElementById('tabDaily').classList.toggle('on',t==='daily');
-  document.getElementById('tabSaved').classList.toggle('on',t==='saved');
-  document.getElementById('tabLuck').classList.toggle('on',t==='luck');
-  document.getElementById('tabNotes').classList.toggle('on',t==='notes');
+  ['Daily','Saved','Luck','Notes','Fairs'].forEach(n=>{
+    const key=n.toLowerCase();
+    document.getElementById('tab'+n).classList.toggle('on',t===key);
+  });
   document.getElementById('daily').style.display=t==='daily'?'':'none';
   document.getElementById('saved').style.display=t==='saved'?'':'none';
   document.getElementById('luck').style.display=t==='luck'?'':'none';
   document.getElementById('notes').style.display=t==='notes'?'':'none';
+  document.getElementById('fairs').style.display=t==='fairs'?'':'none';
   renderAll();
 }
 const langBtn=document.getElementById('langBtn');
