@@ -127,6 +127,9 @@
   .fmission b{color:var(--green)}
   .fphrase{margin-top:12px;padding-top:12px;border-top:1px dashed var(--line);font-size:15.5px}
   .fphrase .pe{font-weight:800;color:var(--accent)}
+  #noteArea{width:100%;min-height:55vh;background:var(--surface);border:1px solid var(--line);border-radius:12px;
+    padding:14px 16px;font-family:inherit;font-size:17px;line-height:1.65;color:var(--ink);resize:vertical;box-shadow:var(--shadow)}
+  #noteArea:focus{outline:2px solid var(--accent);outline-offset:1px}
   :focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:6px}
   @media (prefers-reduced-motion:no-preference){.card,.chip,.tab,.tbtn{transition:background .15s,color .15s,border-color .15s}}
 </style>
@@ -150,6 +153,7 @@
     <button class="tab on" id="tabDaily">📅 News</button>
     <button class="tab" id="tabSaved">⭐ Saved</button>
     <button class="tab" id="tabLuck">🎲 ดวง</button>
+    <button class="tab" id="tabNotes">📝 โน้ต</button>
   </div>
 </header>
 <div class="wrap">
@@ -159,6 +163,7 @@
   </div>
   <div id="saved" style="display:none"></div>
   <div id="luck" style="display:none"></div>
+  <div id="notes" style="display:none"></div>
   <div class="foot" id="foot"></div>
 </div>
 
@@ -352,7 +357,22 @@ function fortuneCard(){
 }
 function renderLuck(){ document.getElementById('luck').innerHTML = leadCard()+coCard()+fortuneCard(); }
 
-function renderAll(){ if(tab==='daily') renderDaily(); else if(tab==='saved') renderSaved(); else renderLuck(); updateFoot(); }
+function renderAll(){ if(tab==='daily') renderDaily(); else if(tab==='saved') renderSaved(); else if(tab==='luck') renderLuck(); updateFoot(); }
+/* ---------- 📝 โน้ต (พิมพ์เอง บันทึกในเครื่อง) ---------- */
+const NOTESKEY='mk_notes';
+function initNotes(){
+  const saved = localStorage.getItem(NOTESKEY) || '';
+  document.getElementById('notes').innerHTML =
+    `<div class="grouphead" style="margin-top:16px">📝 โน้ตของฉัน</div>
+     <div class="vhint">พิมพ์อะไรก็ได้ เช่น ชื่อลูกค้า สิ่งที่ต้องทำ — บันทึกอัตโนมัติในเครื่องนี้</div>
+     <textarea id="noteArea" placeholder="พิมพ์โน้ตที่นี่...">${esc(saved)}</textarea>
+     <div id="noteStatus" style="font-size:13px;color:var(--muted);margin-top:8px"></div>`;
+  const ta=document.getElementById('noteArea'), st=document.getElementById('noteStatus');
+  ta.addEventListener('input',()=>{
+    localStorage.setItem(NOTESKEY, ta.value);
+    st.textContent='บันทึกอัตโนมัติแล้ว ✓ '+new Date().toLocaleTimeString('th-TH',{hour:'2-digit',minute:'2-digit'});
+  });
+}
 function updateFoot(){
   const u=TODAY?fmtThai(TODAY.date):null;
   document.getElementById('foot').innerHTML=`Unsaved news auto-clears in 14 days · ⭐ saved stays`+(u?`<br>updated ${u.day} ${u.mon} ${u.year}`:'');
@@ -368,13 +388,16 @@ document.body.addEventListener('click',e=>{
 document.getElementById('tabDaily').addEventListener('click',()=>switchTab('daily'));
 document.getElementById('tabSaved').addEventListener('click',()=>switchTab('saved'));
 document.getElementById('tabLuck').addEventListener('click',()=>switchTab('luck'));
+document.getElementById('tabNotes').addEventListener('click',()=>switchTab('notes'));
 function switchTab(t){tab=t;
   document.getElementById('tabDaily').classList.toggle('on',t==='daily');
   document.getElementById('tabSaved').classList.toggle('on',t==='saved');
   document.getElementById('tabLuck').classList.toggle('on',t==='luck');
+  document.getElementById('tabNotes').classList.toggle('on',t==='notes');
   document.getElementById('daily').style.display=t==='daily'?'':'none';
   document.getElementById('saved').style.display=t==='saved'?'':'none';
   document.getElementById('luck').style.display=t==='luck'?'':'none';
+  document.getElementById('notes').style.display=t==='notes'?'':'none';
   renderAll();
 }
 const langBtn=document.getElementById('langBtn');
@@ -386,6 +409,7 @@ tb.addEventListener('click',()=>{
   document.documentElement.setAttribute('data-theme',cur==='dark'?'light':'dark');
 });
 syncLangBtn();
+initNotes();
 renderAll();
 </script>
 </body>
