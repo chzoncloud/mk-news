@@ -2,6 +2,89 @@
 window.NEWS_ARCHIVE = {
   "days": [
     {
+      "date": "2026-08-05",
+      "summary": "Today features limited new developments; key highlights focus on long-term production growth in Thailand's automotive sector supported by EV 3.5 incentives, sustained BOI investments, and progress in U-Tapao MRO initiatives.",
+      "directCount": 3,
+      "th": {
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยข่าวสำคัญเน้นไปที่แนวโน้มการขยายตัวของการผลิตยานยนต์ไทยปี 2569-2571 จากมาตรการ EV 3.5 การสนับสนุนลงทุนจาก BOI และความคืบหน้าการพัฒนาศูนย์ MRO อู่ตะเภา"
+      },
+      "items": [
+        {
+          "id": "20260805-1",
+          "tag": "auto",
+          "rating": "green",
+          "source": "thansettakij",
+          "date": "2026-08-02",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wNWVNY0xIZjBsSmFaT1lidHlmTklnZE43TlhGbGt1R3ZSNXh0S1p4VE51Q1NjUVhfa3l4RElGWG4telc3YjFuVG44cW9OeUt6VmZz?oc=5",
+          "title": "Thai Auto Outlook 2026-2028 Projects Production Growth Driven by 200 Billion Baht Loan and EV 3.5 Package",
+          "summary": "Thailand's vehicle production is forecast to grow between 2026 and 2028, boosted by a 200 billion baht financial support program and EV 3.5 policy incentives.",
+          "why": "Higher auto production volumes directly boost factory demand for metal grinding, deburring, and surface finishing abrasives.",
+          "action": "Target Tier-1 automotive metal component manufacturers to secure long-term abrasive supply agreements for new production cycles.",
+          "th": {
+            "title": "เจาะอนาคตยานยนต์ไทย 2569-2571 ยอดผลิตโต รับแรงหนุนเงินกู้ 2 แสนล้าน-มาตรการ EV 3.5",
+            "summary": "คาดการณ์ยอดผลิตยานยนต์ไทยช่วงปี 2569-2571 จะกลับมาขยายตัวจากแรงหนุนซอฟต์โลน 2 แสนล้านบาทและมาตรการ EV 3.5",
+            "why": "การขยายตัวของการผลิตรถยนต์ช่วยเพิ่มความต้องการใช้วัสดุขัด เจียร และตกแต่งผิวโลหะในโรงงานสายการผลิตโดยตรง",
+            "action": "เร่งเข้าพบผู้ผลิตชิ้นส่วนโลหะยานยนต์ Tier-1 เพื่อเสนอสัญญาจัดหาวัสดุขัดรองรับกำลังการผลิตใหม่"
+          }
+        },
+        {
+          "id": "20260805-2",
+          "tag": "auto",
+          "rating": "green",
+          "source": "Thaigov",
+          "date": "2026-07-02",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83OHo0X01meExtendzNTNja1RMTUxKa2dWM0hFZ1JrRzJ4dmJPLWhSdHVwb19IU01fVTRVOWtaX2lkMVJUSlRPb3FCNVg5UQ?oc=5",
+          "title": "BOI Reports EV Investments Exceed 130 Billion Baht, Supporting Multi-Technology Hub Goals",
+          "summary": "Thailand's BOI revealed that total investments in the EV supply chain have crossed 130 billion baht, reinforcing the country's push to become an EV production hub.",
+          "why": "Continued inflows into EV supply chains create new tooling and surface treatment requirements for specialized EV metal parts and body frames.",
+          "action": "Introduce specialized non-woven and precision grinding products to newly established foreign EV parts suppliers in Thailand.",
+          "th": {
+            "title": "บีโอไอเผยยอดลงทุน EV ทะลุ 1.3 แสนล้าน หนุนเป้าฐานผลิตยานยนต์ไฟฟ้าทุกเทคโนโลยี",
+            "summary": "บีโอไอเปิดเผยยอดขอรับการส่งเสริมการลงทุนในอุตสาหกรรม EV สะสมทะลุ 1.3 แสนล้านบาท ผลักดันไทยสู่ศูนย์กลางการผลิตยานยนต์ไฟฟ้า",
+            "why": "การลงทุนสายการผลิต EV ใหม่สร้างโอกาสการใช้วัสดุขัดตระกูล Non-woven และงานขัดละเอียดสำหรับชิ้นส่วนโลหะและตัวถังรถไฟฟ้า",
+            "action": "นำเสนอผลิตภัณฑ์ขัดเงาและขัดไร้รอยต่อแก่โรงงานซัพพลายเออร์ EV ทุนต่างชาติที่เพิ่งตั้งไข่ในไทย"
+          }
+        },
+        {
+          "id": "20260805-3",
+          "tag": "aero",
+          "rating": "green",
+          "source": "thansettakij",
+          "date": "2026-06-16",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pbFFnQlhiSG5UMVBfTjVmMUZtNXc4ZkYyOFljMVFtQlQwalZ5WUpidFlzX3prejlBWGoydDYzUUZXMlY4bE56VFUwZnZrLVJfWlRtV2t0Wi0xOWkzeVFLTUFJOVIwUQ?oc=5",
+          "title": "EECO Advances U-Tapao MRO Hub Plans Awaiting VietJet Investment Study",
+          "summary": "The Eastern Economic Corridor Office is moving forward with the U-Tapao aviation MRO center development, waiting for investment proposals from VietJet.",
+          "why": "Expansion of commercial aviation maintenance infrastructure expands the addressable market for high-precision aerospace-grade abrasives.",
+          "action": "Prepare product technical compliance sheets for high-grade aviation sanding and surface prep abrasives to pitch to MRO contractors.",
+          "th": {
+            "title": "EECO ปักหมุดศูนย์ซ่อมฯ อู่ตะเภา รอ ‘เวียตเจ็ท’ ศึกษาชงแผนลงทุน",
+            "summary": "สกพอ. เร่งขับเคลื่อนโครงการศูนย์ซ่อมบำรุงอากาศยาน (MRO) อู่ตะเภา โดยรอผลศึกษาแผนลงทุนจากสายการบินเวียตเจ็ท",
+            "why": "การขยายศูนย์ซ่อมบำรุงอากาศยานช่วยเพิ่มอุปสงค์การใช้วัสดุขัดเกรดการบินความแม่นยำสูงสำหรับการขัดผิวโลหะและคอมโพสิต",
+            "action": "จัดทำเอกสารรับรองมาตรฐานเทคนิคสินค้ากระดาษทราย/จานขัดเกรดการบินเพื่อเตรียมเข้าเสนอผู้รับเหมาศูนย์ซ่อม MRO"
+          }
+        },
+        {
+          "id": "20260805-4",
+          "tag": "furniture",
+          "rating": "amber",
+          "source": "kasikornresearch.com",
+          "date": "2025-10-09",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR0I3LUFaeENxbzdDQVF4UDdVMFlmRWp4Y3BBdFZ6OGFQeUdZZ3Y5dHA5Q2ZxRXJIaTUtLVNVY29QM3RuSk1RMmpaeXhucHEwLWRiMFlsbkJRNEtYY3RWSDZNNXRBUXdfb0hDV0IzR1pkRW5ERC1xSkQtN21WZTVveUNtdURRYmN3QjQxUDRHS2g1dDNkSGdRVVJGU2tBNGJ3WDREpGh1N2VrdnN6MExB?oc=5",
+          "title": "Thai Furniture Exports Forecast to Contract 4.5% in 2026 Following 2025 US Import Rush",
+          "summary": "Research projects Thai furniture exports will decline 4.5% in 2026 as US buyers slow down ordering following front-loaded stock purchases in 2025.",
+          "why": "A slowdown in export furniture production could temporarily reduce bulk sandpaper and sanding belt usage in woodworking factories.",
+          "action": "Shift sales focus toward domestic furniture makers and promote cost-effective sanding belt solutions to help factories lower operating costs.",
+          "th": {
+            "title": "ปี’68 ไทยส่งออกเฟอร์นิเจอร์โต 9.3% จากการเร่งนำเข้าของสหรัฐฯ ก่อนพลิกหดตัว 4.5% ในปี’69",
+            "summary": "ศูนย์วิจัยกสิกรไทยคาดการส่งออกเฟอร์นิเจอร์ไทยจะพลิกกลับมาหดตัว 4.5% ในปี 2569 เนื่องจากสหรัฐฯ เร่งนำเข้าล่วงหน้าไปแล้ว",
+            "why": "การชะลอตัวของการส่งออกเฟอร์นิเจอร์อาจกระทบต่อปริมาณการใช้สายพานขัดและกระดาษทรายงานไม้ในโรงงานขนาดใหญ่",
+            "action": "ปรับจุดขายเน้นเสนอกระดาษทรายสายพานรุ่นประหยัดต้นทุนเพื่อช่วยโรงงานไม้ลดต้นทุนการผลิตในช่วงตลาดชะลอตัว"
+          }
+        }
+      ],
+      "terms": {}
+    },
+    {
       "date": "2026-08-04",
       "summary": "Today's briefing highlights growth in airline fleet expansion driving aerospace MRO demand, alongside ongoing structural shifts in the auto and steel sectors as Japanese OEMs and domestic steelmakers adapt to market pressures.",
       "directCount": 1,
@@ -204,5 +287,5 @@ window.NEWS_ARCHIVE = {
       "terms": {}
     }
   ],
-  "updated": "2026-08-04"
+  "updated": "2026-08-05"
 };
