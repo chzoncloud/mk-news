@@ -3,7 +3,9 @@ name: ข่าวเช้า MK (daily)
 # รันทุกวัน 06:00 เวลาไทย (= 23:00 UTC วันก่อนหน้า) + กดรันเองได้จากแท็บ Actions
 on:
   schedule:
-    - cron: "0 23 * * *"
+    - cron: "0 20 * * *"   # 03:00 ไทย
+    - cron: "0 21 * * *"   # 04:00 ไทย
+    - cron: "0 22 * * *"   # 05:00 ไทย
   workflow_dispatch: {}
 
 permissions:
