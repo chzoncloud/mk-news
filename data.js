@@ -2,6 +2,107 @@
 window.NEWS_ARCHIVE = {
   "days": [
     {
+      "date": "2026-08-06",
+      "summary": "Today features limited new headlines as major automotive and MRO stories were previously covered. Key new updates highlight expanding EV investments, Thai Airways MRO fleet expansion, metallurgical sector growth, and export challenges in furniture manufacturing.",
+      "directCount": 3,
+      "th": {
+        "summary": "วันนี้มีข่าวใหม่จำนวนไม่มากเนื่องจากพาดหัวใหญ่ด้านยานยนต์และ MRO ถูกรายงานไปแล้ว ประเด็นใหม่ที่น่าสนใจครอบคลุมการลงทุน EV ที่เติบโตอย่างต่อเนื่อง การขยายศูนย์ซ่อม MRO ของการบินไทย การพัฒนาภาคโลหะวิทยา และการชะลอตัวของการส่งออกเฟอร์นิเจอร์"
+      },
+      "items": [
+        {
+          "id": "20260806-1",
+          "tag": "auto",
+          "rating": "green",
+          "source": "Techsauce",
+          "date": "2026-05-13",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSUh5a1RYRHhRZVM5dmliakJOVDhPMGs2dDZPdFdTSEw4TU5yRHNQT1R2dk1uSXQzOWFjNXZ4bGhESGxFUEZpWWNxOEpXNFNDZWI1NDdDaUJTZVZMbmVGckk3VXhDRFMyWkJ1LVd3Q0VDS0ZfaENUcGdjajJXaFViQndkVQ?oc=5",
+          "title": "BOI Partners with Global Automakers to Drive 182 Billion Baht EV Investment Base",
+          "summary": "BOI collaborates with Chinese, Japanese, and European EV manufacturers, bringing cumulative investment in Thailand's EV ecosystem to over 182 billion baht.",
+          "why": "Increased local EV assembly and part manufacturing generate high demand for precision sanding and metal finishing abrasives.",
+          "action": "Target newly established EV OEM tier-1 suppliers with specialized polishing and deburring solutions.",
+          "th": {
+            "title": "บีโอไอผนึกค่ายรถยนต์ระดับโลก ดันยอดลงทุน EV ทะลุ 1.82 แสนล้านบาท",
+            "summary": "บีโอไอร่วมมือกับผู้ผลิต EV จีน ญี่ปุ่น และยุโรป ดันยอดลงทุนสะสมในระบบนิเวศ EV ไทยทะลุ 1.82 แสนล้านบาท",
+            "why": "การขยายฐานประกอบ EV และชิ้นส่วนในไทยช่วยเพิ่มความต้องการใช้วัสดุขัดและเตรียมผิวโลหะความแม่นยำสูง",
+            "action": "นำเสนอโซลูชันขัดเงาและลบครีบแก่โรงงานผู้ผลิตชิ้นส่วน EV ระดับ Tier-1 รายใหม่"
+          }
+        },
+        {
+          "id": "20260806-2",
+          "tag": "aero",
+          "rating": "green",
+          "source": "thansettakij",
+          "date": "2026-02-22",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WYk9IRDVDZTBaVk54WmhwM0g4RjhJR3hBT19NaG1kZ2x6UGtobHU2bXBoYV9ZeXIxb2NSdENWR1BoVGFndXhTSWt3cjFQcFUyWS1EdEhpb1loV1R0dXUtbnpn?oc=5",
+          "title": "Thai Airways Allocates 10 Billion Baht to Expand Fleet and Boost U-Tapao MRO Hub",
+          "summary": "Thai Airways plans to expand its fleet to 100 aircraft and invest 10 billion baht to develop its MRO center at U-Tapao.",
+          "why": "Expansion of aircraft maintenance operations creates direct demand for high-grade aviation sanding and surface preparation tools.",
+          "action": "Prepare aviation-grade abrasive product catalogs and initiate contact with MRO procurement teams.",
+          "th": {
+            "title": "การบินไทยทุ่ม 1 หมื่นล้านบาท ดันศูนย์ซ่อม MRO อู่ตะเภา พร้อมขยายฝูงบิน",
+            "summary": "การบินไทยตั้งเป้าขยายฝูงบินเป็น 100 ลำ และลงทุน 1 หมื่นล้านบาทเพื่อพัฒนาศูนย์ซ่อมบำรุงอากาศยาน MRO ที่อู่ตะเภา",
+            "why": "การขยายศูนย์ซ่อมบำรุงเครื่องบินสร้างอุปสงค์โดยตรงสำหรับวัสดุขัดเกรดการบินและการเตรียมผิวโลหะ",
+            "action": "จัดทำแคตตาล็อกสินค้าวัสดุขัดเกรดการบินและเข้าพบทีมจัดซื้อศูนย์ซ่อม MRO"
+          }
+        },
+        {
+          "id": "20260806-3",
+          "tag": "steel",
+          "rating": "green",
+          "source": "Vietnam.vn",
+          "date": "2026-08-04",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5US1N3OEdieEkyZklmZkp4SzZIcDhxM2dlaXdOd1FZZDNHLXpFQURrdGV1Y2RzRVFsUU9VUGE1WTIwREdTWklEQmRlNnU3VmIxQmRobGtlY0o3eEJJTDNzYk5tYVNsRElmNkJPMzVB?oc=5",
+          "title": "Rapid Development in Metallurgy Industry Boosts Industrial Metal Processing",
+          "summary": "Regional metallurgical and metal processing sectors are experiencing rapid technology upgrades and production expansion.",
+          "why": "Growth in heavy metal fabrication directly increases consumption of grinding discs, cut-off wheels, and heavy-duty sanding belts.",
+          "action": "Promote heavy-duty grinding discs and sanding belts to local metal fabrication and structural steel plants.",
+          "th": {
+            "title": "อุตสาหกรรมโลหะวิทยาเร่งพัฒนาอย่างรวดเร็ว หนุนการแปรรูปโลหะภาคอุตสาหกรรม",
+            "summary": "ภาคโลหะวิทยาและการแปรรูปโลหะในภูมิภาคกำลังเติบโตและปรับปรุงเทคโนโลยีการผลิตอย่างรวดเร็ว",
+            "why": "การเติบโตของการแปรรูปโลหะเพิ่มปริมาณการใช้จานขัด ใบตัด และสายพานขัดงานหนักโดยตรง",
+            "action": "รุกตลาดโรงงานแปรรูปโลหะและโครงสร้างเหล็กด้วยจานขัดและสายพานขัดรุ่นรองรับงานหนัก"
+          }
+        },
+        {
+          "id": "20260806-4",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Thairath.co.th",
+          "date": "2026-07-15",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oZkVpVTV1azdfSm9vemFvOWNsNEtNcmtfMld1Q0lNUkhrSjNTLW9RcXgyS04yZEJVTUdYMUV6TGNKYktEcXFkbmFqU1Ffby1iX3F2bXhYMWRSRFM0Snc?oc=5",
+          "title": "Thai Auto Association Urges Government Action to Protect Domestic Supply Chain",
+          "summary": "TAIA calls for urgent government intervention to support traditional auto parts makers struggling against cheap EV imports.",
+          "why": "A slowdown in traditional combustion engine part production could reduce abrasive usage among local Tier-2 and Tier-3 suppliers.",
+          "action": "Monitor credit risks of traditional auto parts clients and assist them in transitioning surface finishing processes to EV parts.",
+          "th": {
+            "title": "สมาคมยานยนต์ไทยจี้รัฐเร่งกู้วิกฤต อุ้มฐานผลิตชิ้นส่วนสู้ศึก EV นำเข้า",
+            "summary": "TAIA ขอให้รัฐบาลเร่งออกมาตรการช่วยเหลือผู้ผลิตชิ้นส่วนยานยนต์สันดาปเดิมที่ได้รับผลกระทบจากการทะลักของ EV นำเข้า",
+            "why": "การชะลอตัวของการผลิตชิ้นส่วนรถยนต์สันดาปอาจลดการใช้วัสดุขัดในกลุ่มผู้ผลิต Tier-2 และ Tier-3",
+            "action": "เฝ้าระวังความเสี่ยงสินเชื่อลูกค้ารายเดิม พร้อมช่วยนำเสนอโซลูชันปรับกระบวนการขัดเพื่อรองรับชิ้นส่วน EV"
+          }
+        },
+        {
+          "id": "20260806-5",
+          "tag": "furniture",
+          "rating": "amber",
+          "source": "kasikornresearch.com",
+          "date": "2025-10-09",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR0I3LUFaeENxbzdDQVF4UDdVMFlmRWp4Y3BBdFZ6OGFQeUdZZ3Y5dHA5Q2ZxRXJIaTUtLVNVY29QM3RuSk1RMmpaeXhucHEwLWRiMFlsbkJRNEtYY3RWSDZNNXRBUXdfb0hDV0IzR1pkRW5ERC1xSkQtN21WZTVveUNtdURRYmN3QjQxUDRHS2g1dDNkSGdRVVJGU2tBNGJ3WDREpGh1N2VrdnN6MExB?oc=5",
+          "title": "Thai Furniture Exports Projected to Decline 4.5% in 2026 Amid US Market Slowdown",
+          "summary": "Kasikorn Research forecasts Thai furniture exports to contract 4.5% in 2026 due to weakening demand and US tariff pressures.",
+          "why": "Contraction in furniture exports may slow down sandpaper and abrasive belt orders from woodworking exporters.",
+          "action": "Shift sales focus toward local DIY/home renovation markets and expand B2C channels via Shopee and TikTok.",
+          "th": {
+            "title": "คาดส่งออกเฟอร์นิเจอร์ไทยปี 2569 หดตัว 4.5% หลังตลาดสหรัฐฯ ชะลอตัว",
+            "summary": "ศูนย์วิจัยกสิกรไทยประเมินการส่งออกเฟอร์นิเจอร์ไทยปี 2569 จะหดตัว 4.5% จากกำลังซื้อและภาษีนำเข้าในตลาดสหรัฐฯ",
+            "why": "การหดตัวของส่งออกเฟอร์นิเจอร์อาจลดคำสั่งซื้อกระดาษทรายและสายพานขัดจากโรงงานไม้ส่งออก",
+            "action": "เบนเข็มรุกตลาด DIY/ตกแต่งบ้านในประเทศ พร้อมเร่งขยายช่องทาง B2C บน Shopee และ TikTok"
+          }
+        }
+      ],
+      "terms": {}
+    },
+    {
       "date": "2026-08-05",
       "summary": "Today has limited new updates. Key highlights include long-term optimistic forecasts for Thai auto production in 2026-2028 backed by soft loans, total BOI EV investment figures exceeding 130 billion Baht, and ongoing MRO development plans at U-Tapao with VietJet.",
       "directCount": 2,
@@ -269,5 +370,5 @@ window.NEWS_ARCHIVE = {
       "terms": {}
     }
   ],
-  "updated": "2026-08-05"
+  "updated": "2026-08-06"
 };
