@@ -3,100 +3,64 @@ window.NEWS_ARCHIVE = {
   "days": [
     {
       "date": "2026-08-05",
-      "summary": "Today's news highlights strategic opportunities in aerospace MRO expansion alongside ongoing structural pressures in the automotive and export furniture sectors. Diversifying sales efforts toward high-value MRO applications and compliant steel fabricators remains essential.",
-      "directCount": 1,
+      "summary": "Today has limited new updates. Key highlights include long-term optimistic forecasts for Thai auto production in 2026-2028 backed by soft loans, total BOI EV investment figures exceeding 130 billion Baht, and ongoing MRO development plans at U-Tapao with VietJet.",
+      "directCount": 2,
       "th": {
-        "summary": "รายงานข่าวเช้าวันนี้ชี้ให้เห็นโอกาสสำคัญจากการขยายศูนย์ซ่อมบำรุงอากาศยาน (MRO) ขณะที่ภาคยานยนต์และเฟอร์นิเจอร์ส่งออกยังเผชิญแรงกดดันเชิงโครงสร้าง บริษัทควรเร่งรุกตลาดวัสดุขัดเกรดการบินและกลุ่มผู้ผลิตเหล็กที่ได้มาตรฐาน"
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก รายงานสำคัญได้แก่ แนวโน้มการผลิตยานยนต์ไทยปี 2569-2571 ที่คาดว่าจะเติบโตจากเงินกู้ซอฟต์โลนและนโยบาย EV ยอดเงินลงทุน EV สะสมจากบีโอไอที่ทะลุ 1.3 แสนล้านบาท และความคืบหน้าการพัฒนาศูนย์ MRO อู่ตะเภาของเวียตเจ็ท"
       },
       "items": [
         {
           "id": "20260805-1",
-          "tag": "aero",
+          "tag": "auto",
           "rating": "green",
-          "source": "ข่าวหุ้นธุรกิจออนไลน์",
-          "date": "2025-11-24",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE42a2hzRUp5Ym5zcXp0aGt2WGlITkMxTFJlMG92X09weHFjSlgzc3pOT2Z3dWJVR1h5NDFUeEtLZXNCaWhnemNWUURfWQ?oc=5",
-          "title": "Thai Airways and Bangkok Airways Partner for 10 Billion Baht U-Tapao MRO Project",
-          "summary": "Thai Airways and Bangkok Airways are jointly investing 10 billion baht to develop and operate the aircraft maintenance hub at U-Tapao Airport.",
-          "why": "The expansion of major aircraft MRO facilities directly generates high-value demand for specialized aviation-grade abrasives and precision finishing tools.",
-          "action": "Prepare product catalogs for aviation-grade sanding and polishing materials and establish contact with procurement teams at both airlines.",
+          "source": "thansettakij",
+          "date": "2026-08-02",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wNWVNY0xIZjBsSmFaT1lidHlmTklnZE43TlhGbGt1R3ZSNXh0S1p4VE51Q1NjUVhfa3l4RElGWG4telc3YjFuVG44cW9OeUt6VmZz?oc=5",
+          "title": "Thailand Auto Production Outlook 2026-2028 Forecasts Growth Supported by 200 Billion Baht Loans and EV 3.5 Policy",
+          "summary": "Thailand's automotive production is projected to expand between 2026 and 2028, supported by 200 billion Baht in soft loans and ongoing EV 3.5 incentives.",
+          "why": "Increased automobile production directly boosts factory consumption of surface preparation abrasives, grinding wheels, and sanding belts.",
+          "action": "Prepare inventory of automotive-grade abrasives and contact Tier-1/Tier-2 automotive component suppliers to capture upcoming demand.",
           "th": {
-            "title": "การบินไทยจับมือบางกอกแอร์เวย์ส ทุ่มหมื่นล้านลุยศูนย์ซ่อมอากาศยานอู่ตะเภา",
-            "summary": "สองสายการบินยักษ์ใหญ่ร่วมทุน 1 หมื่นล้านบาท บริหารและพัฒนาพื้นที่ศูนย์ซ่อมบำรุงอากาศยาน (MRO) ณ สนามบินอู่ตะเภา",
-            "why": "การขยายศูนย์ซ่อมบำรุงอากาศยานขนาดใหญ่จะสร้างอุปสงค์โดยตรงต่อกระดาษทรายและอุปกรณ์ขัดเงาความแม่นยำสูงเกรดการบิน",
-            "action": "จัดทำแคตตาล็อกสินค้าวัสดุขัดเกรดการบินและเริ่มประสานงานกับฝ่ายจัดซื้อของทั้งสองสายการบิน"
+            "title": "เจาะอนาคตยานยนต์ไทย 2569-2571 ยอดผลิตโต รับแรงหนุนเงินกู้ 2 แสนล้าน-มาตรการ EV 3.5",
+            "summary": "คาดการณ์การผลิตรถยนต์ในไทยปี 2569-2571 จะกลับมาเติบโต โดยได้อานิสงส์จากสินเชื่อดอกเบี้ยต่ำ 2 แสนล้านบาทและนโยบายสนับสนุน EV 3.5",
+            "why": "การฟื้นตัวของยอดผลิตยานยนต์จะส่งผลดีโดยตรงต่อความต้องการใช้วัสดุขัดเตรียมผิว จานขัด และสายพานขัดในสายการผลิต",
+            "action": "เตรียมสต็อกสินค้ากลุ่มยานยนต์และเร่งเข้าพบผู้ผลิตชิ้นส่วนยานยนต์ Tier-1 และ Tier-2 เพื่อรองรับกำลังการผลิตที่จะเพิ่มขึ้น"
           }
         },
         {
           "id": "20260805-2",
           "tag": "auto",
           "rating": "amber",
-          "source": "Thairath.co.th",
-          "date": "2026-07-15",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oZkVpVTV1azdfSm9vemFvOWNsNEtNcmtfMld1Q0lNUkhrSjNTLW9RcXgyS04yZEJVTUdYMUV6TGNKYktEcXFkbmFqU1Ffby1iX3F2bXhYMWRSRFM0Snc?oc=5",
-          "title": "TAIA Urges Government Assistance to Protect Domestic Auto Manufacturing",
-          "summary": "The Thai Automotive Industry Association (TAIA) has petitioned the government for urgent relief measures as local vehicle production lines face severe pressure from imported EVs.",
-          "why": "Slowdowns in traditional vehicle assembly reduce the volume consumption of body polishing discs and deburring abrasives.",
-          "action": "Shift sales focus toward tier-1 suppliers adapting their lines for localized EV component manufacturing.",
+          "source": "Thaigov",
+          "date": "2026-07-02",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83OHo0X01meExtendzNTNja1RMTUxKa2dWM0hFZ1JrRzJ4dmJPLWhSdHVwb19IU01fVTRVOWtaX2lkMVJUSlRPb3FCNVg5UQ?oc=5",
+          "title": "BOI Reports EV Investment Surpasses 130 Billion Baht, Strengthening Local Manufacturing Hub",
+          "summary": "The Board of Investment reported total investment promotion applications in the EV sector exceeding 130 billion Baht across various electric vehicle technologies.",
+          "why": "High investment inflows demonstrate long-term expansion of local supply chains, which will require specialized metal grinding and polishing products.",
+          "action": "Monitor newly approved EV component plants and establish initial connections with their procurement teams.",
           "th": {
-            "title": "TAIA ร้องรัฐบาลออกมาตรการอุ้มฐานผลิตยานยนต์ไทยสู้ศึกรถนำเข้า",
-            "summary": "สมาคมอุตสาหกรรมยานยนต์ไทยยื่นหนังสือขอให้รัฐบาลเร่งช่วยเหลือโรงงานประกอบรถยนต์ในประเทศที่ได้รับผลกระทบจากรถยนต์ไฟฟ้านำเข้า",
-            "why": "การชะลอตัวของสายการผลิตรถยนต์ดั้งเดิมส่งผลให้ปริมาณการใช้จานขัดและวัสดุตกแต่งผิวในอุตสาหกรรมยานยนต์ลดลง",
-            "action": "ปรับแผนขายมุ่งเน้นกลุ่มผู้ผลิตชิ้นส่วน Tier-1 ที่กำลังปรับตัวผลิตชิ้นส่วน EV ภายในประเทศ"
+            "title": "บีโอไอเผยยอดลงทุน EV ทะลุ 1.3 แสนล้าน หนุนเป้าฐานผลิตยานยนต์ไฟฟ้าทุกเทคโนโลยี",
+            "summary": "บีโอไอเปิดเผยยอดขอรับการส่งเสริมการลงทุนในอุตสาหกรรม EV ทะลุ 1.3 แสนล้านบาท ครอบคลุมเทคโนโลยียานยนต์ไฟฟ้าทุกประเภท",
+            "why": "มูลค่าการลงทุนที่สูงสะท้อนการขยายตัวของห่วงโซ่อุปทานในระยะยาว ซึ่งจะสร้างความต้องการใช้อุปกรณ์ขัดและเจียรโลหะเพิ่มเติม",
+            "action": "ติดตามการตั้งโรงงานใหม่ในซัพพลายเชน EV ที่ได้รับการอนุมัติ และสร้างคอนเนกชันกับฝ่ายจัดซื้อของโรงงานเหล่านั้น"
           }
         },
         {
           "id": "20260805-3",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "SondhiX",
-          "date": "2026-06-13",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kY19SS2JXYVZSUF9XVnpPaDVoeTVXdGQ1cHVqUzBLNmdaWjZwT0kzY3pVaERuenhNelpxQlZEZ2hOS2pmajZ0OHN4VnZvUDBpOFpmc2hn?oc=5",
-          "title": "Xin Ke Yuan Faces Upstream Battle to Re-Enter Thai Steel Market",
-          "summary": "Reopening attempts by controversial steel maker Xin Ke Yuan face heavy opposition and regulatory scrutiny over manufacturing standards.",
-          "why": "Strict enforcement against sub-standard steel factories protects compliant domestic mills, stabilizing grinding wheel and deburring demand.",
-          "action": "Target marketing efforts toward certified, high-standard metal fabrication plants that prioritize safety and consistent abrasive quality.",
+          "tag": "aero",
+          "rating": "green",
+          "source": "thansettakij",
+          "date": "2026-06-16",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pbFFnQlhiSG5UMVBfTjVmMUZtNXc4ZkYyOFljMVFtQlQwalZ5WUpidFlzX3prejlBWGoydDYzUUZXMlY4bE56VFUwZnZrLVJfWlRtV2t0Wi0xOWkzeVFLTUFJOVIwUQ?oc=5",
+          "title": "EECO Targets U-Tapao MRO Hub as VietJet Studies Investment Proposal",
+          "summary": "EECO is advancing the development of U-Tapao's MRO hub, awaiting VietJet's study results to formally submit the investment plan.",
+          "why": "New MRO centers require high-precision, aviation-grade abrasives for aircraft hull sanding and turbine component maintenance.",
+          "action": "Introduce mksanding's aviation-grade abrasive line to prospective MRO operators and aerospace maintenance contractors.",
           "th": {
-            "title": "ซิน เคอ หยวน เจอศึกหนักในการกลับมายึดตลาดเหล็กไทย",
-            "summary": "การพยายามกลับมาเปิดโรงงานของซินเคอหยวนเผชิญการคัดค้านอย่างหนักและการเข้มงวดตรวจสอบมาตรฐานจากภาครัฐ",
-            "why": "การปราบปรามโรงงานเหล็กไม่ได้มาตรฐานช่วยคุ้มครองโรงงานไทยที่ทำถูกกฎหมาย ส่งผลให้ความต้องการใช้ใบเจียรและวัสดุขัดเหล็กมีเสถียรภาพ",
-            "action": "เน้นเจาะกลุ่มโรงงานแปรรูปโลหะและเหล็กที่ได้มาตรฐาน ISO ซึ่งต้องการสินค้าขัดเกรดคุณภาพสูง"
-          }
-        },
-        {
-          "id": "20260805-4",
-          "tag": "auto",
-          "rating": "white",
-          "source": "bangkokbiznews",
-          "date": "2026-07-23",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PUTNGRUtWSnNpMFZPdkx2cHJYRkh1Q3RZUS05SEdGQ2JzT3VYTTR2MmdBRWZiZjlWak1YdmpKeTlWX0JDM21BUEZCaTF0Y0ZaRGhHRW5CRnRMUQ?oc=5",
-          "title": "Structural Challenges Persist in Thailand's Automotive Industry",
-          "summary": "Analysis indicates Thailand's auto sector faces deep structural issues beyond EV disruption, including shifting domestic demand and global supply realignments.",
-          "why": "Long-term structural shifts in auto manufacturing necessitate expanding our footprint in non-automotive metalworking segments.",
-          "action": "Expand sales strategies into general machinery, structural metal fabrication, and B2C DIY segments.",
-          "th": {
-            "title": "วิกฤติยานยนต์ไทย ปัญหาที่มีมาก่อน EV",
-            "summary": "บทวิเคราะห์ระบุว่าอุตสาหกรรมยานยนต์ไทยเผชิญปัญหาเชิงโครงสร้างเรื้อรังนอกเหนือจากการเข้ามาของ EV ทั้งกำลังซื้อในประเทศและการปรับเปลี่ยนห่วงโซ่อุปทานโลก",
-            "why": "การเปลี่ยนแปลงเชิงโครงสร้างระยะยาวของภาคยานยนต์เป็นสัญญาณให้บริษัทต้องกระจายความเสี่ยงไปยังอุตสาหกรรมโลหะอื่น",
-            "action": "ขยายตลาดไปยังกลุ่มเครื่องจักรทั่วไป งานโครงสร้างเหล็ก และตลาด DIY B2C ผ่านแพลตฟอร์มออนไลน์"
-          }
-        },
-        {
-          "id": "20260805-5",
-          "tag": "furniture",
-          "rating": "amber",
-          "source": "ditp.go.th",
-          "date": "2025-10-03",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1POEtpRnZGbG56RGtyRHp5YUhwS0NlU2tKZ3dEM0o4V3lXYUZudUFZMkNTS0pOZXBxRm12TzZ2Z3FKVDJIa3ZXNGxFdDJjd25hczN3SVJTT1RaLThRczlTcllR?oc=5",
-          "title": "US Tariff Changes Impact Furniture Export Outlook",
-          "summary": "New US tariff policies on furniture imports create trade uncertainty, impacting export order volumes for regional furniture producers.",
-          "why": "Fluctuations in furniture exports directly affect sanding belt and abrasive paper consumption among Thai woodworking exporters.",
-          "action": "Offer durable, cost-effective sanding paper belts to help furniture manufacturers reduce production costs during export slowdowns.",
-          "th": {
-            "title": "ภาษีศุลกากรเฟอร์นิเจอร์ใหม่กระทบแนวโน้มการส่งออก",
-            "summary": "นโยบายภาษีนำเข้าเฟอร์นิเจอร์ใหม่ของสหรัฐฯ สร้างความไม่แน่นอนทางการค้าและส่งผลกระทบต่อยอดสั่งซื้อเฟอร์นิเจอร์ส่งออก",
-            "why": "ความผันผวนของการส่งออกเฟอร์นิเจอร์ส่งผลกระทบโดยตรงต่อปริมาณการใช้สายพานกระดาษทรายในโรงงานไม้และเฟอร์นิเจอร์",
-            "action": "นำเสนอสายพานกระดาษทรายรุ่นคุ้มค่าและทนทานสูง เพื่อช่วยโรงงานไม้ลดต้นทุนการผลิตในช่วงส่งออกชะลอตัว"
+            "title": "EECO ปักหมุดศูนย์ซ่อมฯ อู่ตะเภา รอ ‘เวียตเจ็ท’ ศึกษาชงแผนลงทุน",
+            "summary": "สกพอ. เดินหน้าดันศูนย์ซ่อมบำรุงอากาศยานอู่ตะเภา โดยรอผลการศึกษาจากสายการบินเวียตเจ็ทเพื่อเสนอแผนการลงทุนอย่างเป็นทางการ",
+            "why": "ศูนย์ MRO แห่งใหม่จำเป็นต้องใช้วัสดุขัดเกรดการบินความแม่นยำสูงสำหรับการขัดผิวลำตัวเครื่องบินและชิ้นส่วนเทอร์ไบน์",
+            "action": "นำเสนอผลิตภัณฑ์วัสดุขัดเกรดการบินของ mksanding ให้กับผู้ประกอบการศูนย์ MRO และผู้รับเหมางานซ่อมบำรุง"
           }
         }
       ],
