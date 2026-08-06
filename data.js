@@ -3,64 +3,82 @@ window.NEWS_ARCHIVE = {
   "days": [
     {
       "date": "2026-08-06",
-      "summary": "Today features limited new coverage as key topics were addressed in recent days. Analysis highlights structural risks in traditional automotive manufacturing and regulatory enforcement in the domestic steel sector.",
-      "directCount": 0,
+      "summary": "Limited new updates today. Key highlights include local airlines partnering on U-Tapao MRO hub development and automotive industry bodies urging government support for traditional manufacturing bases.",
+      "directCount": 1,
       "th": {
-        "summary": "วันนี้มีข่าวใหม่จำนวนไม่มากเนื่องจากประเด็นหลักถูกรายงานไปแล้วในช่วงก่อนหน้า การวิเคราะห์วันนี้มุ่งเน้นไปที่ความเสี่ยงเชิงโครงสร้างของภาคยานยนต์ดั้งเดิมและการบังคับใช้กฎหมายในอุตสาหกรรมเหล็ก"
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก ประเด็นสำคัญคือสายการบินในประเทศร่วมลงทุนพัฒนาศูนย์ซ่อม MRO อู่ตะเภา และสมาคมยานยนต์ไทยจี้รัฐเร่งอุ้มฐานการผลิตเดิมเพื่อรับมือรถนำเข้า"
       },
       "items": [
         {
           "id": "20260806-1",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "bangkokbiznews",
-          "date": "2026-07-23",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PUTNGRUtWSnNpMFZPdkx2cHJYRkh1Q3RZUS05SEdGQ2JzT3VYTTR2MmdBRWZiZjlWak1YdmpKeTlWX0JDM21BUEZCaTF0Y0ZaRGhHRW5CRnRMUQ?oc=5",
-          "title": "Underlying Structural Crisis Facing Thailand Automotive Sector Beyond EV Transition",
-          "summary": "Reports highlight that Thailand's traditional automotive manufacturing supply chain faces deep structural headwinds that predate the EV transition.",
-          "why": "Slowdown in traditional ICE vehicle production reduces immediate grinding and finishing consumable consumption among Tier-1 and Tier-2 parts suppliers.",
-          "action": "Shift sales focus toward emerging EV component lines and non-automotive precision metal fabrication clients.",
+          "tag": "aero",
+          "rating": "green",
+          "source": "ข่าวหุ้นธุรกิจออนไลน์",
+          "date": "2025-11-24",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4ya2hzRUp5Ym5zcXp0aGt2WGlITkMxTFJlMG92X09weHFjSlgzc3pOT2Z3dWJVR1h5NDFUeEtLZXNCaWhgemNWUURfWQ?oc=5",
+          "title": "THAI and Bangkok Airways Partner to Develop 10-Billion-Baht U-Tapao MRO Hub",
+          "summary": "Thai Airways and Bangkok Airways are collaborating to invest 10 billion baht in the U-Tapao MRO project, sharing management areas for aircraft maintenance.",
+          "why": "Directly expands local aircraft maintenance capacity, creating high-value demand for aerospace-grade polishing and deburring abrasives.",
+          "action": "Target procurement teams at THAI and Bangkok Airways MRO divisions to present high-precision aerospace abrasives.",
           "th": {
-            "title": "วิกฤตเชิงโครงสร้างในอุตสาหกรรมยานยนต์ไทย ปัญหาเรื้อรังที่เกิดขึ้นก่อนการมาถึงของ EV",
-            "summary": "รายงานชี้ว่าห่วงโซ่อุปทานการผลิตยานยนต์เครื่องยนต์สันดาปดั้งเดิมของไทยกำลังเผชิญปัญหาเชิงโครงสร้างอย่างสะสมมาตั้งแต่ก่อนยุค EV",
-            "why": "ชิ้นส่วนยานยนต์แบบเดิมที่ชะลอตัวจะส่งผลให้ปริมาณการใช้วัสดุขัดและเตรียมผิวหน้าโลหะในกลุ่มผู้ผลิต Tier-1 และ Tier-2 ลดลง",
-            "action": "ปรับการเสนอบริการเชิงรุกไปยังสายการผลิตชิ้นส่วน EV และกลุ่มโรงงานแปรรูปโลหะนอกอุตสาหกรรมยานยนต์"
+            "title": "THAI-BA จับมือลุยศูนย์ซ่อมอากาศยานอู่ตะเภา 1 หมื่นล้าน ร่วมแบ่งพื้นที่บริหาร",
+            "summary": "การบินไทยและบางกอกแอร์เวย์สร่วมมือลงทุนโครงการศูนย์ซ่อม MRO อู่ตะเภา มูลค่า 1 แสนล้านบาท โดยแบ่งพื้นที่การบริหารจัดการงานซ่อมบำรุง",
+            "why": "เพิ่มศักยภาพการซ่อมบำรุงอากาศยานในประเทศโดยตรง ซึ่งสร้างอุปสงค์วัสดุขัดเกรดการบินสำหรับงานเจียรและตกแต่งผิวความละเอียดสูง",
+            "action": "เข้าพบทีมจัดซื้อและวิศวกรฝ่ายซ่อมบำรุงของ THAI และ Bangkok Airways เพื่อนำเสนอสินค้าวัสดุขัดสำหรับ MRO"
           }
         },
         {
           "id": "20260806-2",
-          "tag": "steel",
+          "tag": "auto",
           "rating": "amber",
-          "source": "SondhiX",
-          "date": "2026-06-13",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kY19SS2JXYVZSUF9XVnpPaDVoeTVXdGQ1cHVqUzBLNmdaWjZwT0kzY3pVaERuenhNelpxQlZEZ2hOS2pmajZ0OHN4VnZvUDBpOFpmc2hn?oc=5",
-          "title": "Re-entry of Controversial Steel Maker Faces Heavy Resistance in Thai Market",
-          "summary": "Controversial steel producer Xin Ke Yuan faces strong opposition and strict regulatory scrutiny as it attempts to resume domestic manufacturing operations.",
-          "why": "Tightened control and disputes in the steel sector create operational uncertainty for affected mills, fluctuating local raw material supply and processing activities.",
-          "action": "Target reliable, fully compliant steel fabricators and structural metal manufacturers who require stable abrasive supplies.",
+          "source": "Thairath.co.th",
+          "date": "2026-07-15",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oZkVpVTV1azdfSm9vemFvOWNsNEtNcmtfMld1Q0lNUkhrSjNTLW9RcXgyS04yZEJVTUdYMUV6TGNKYktEcXFkbmFqU1Ffby1iX3F2bXhYMWRSRFM0Snc?oc=5",
+          "title": "TAIA Urges Government Action to Rescue Auto Sector Amid EV and Import Competition",
+          "summary": "The Thai Auto Parts Manufacturers Association (TAIA) is calling for urgent government measures to protect local production bases against cheap EV imports and market slowdowns.",
+          "why": "Slowdowns in traditional auto assembly directly impact high-volume sales of grinding wheels and sanding belts in local tier-1/tier-2 factories.",
+          "action": "Shift sales focus toward Tier-1 Japanese parts makers adapting to new EV component production lines.",
           "th": {
-            "title": "ซิน เคอ หยวน เจอด่านหินในการกลับมาทำตลาดเหล็กไทยท่ามกลางการคัดค้าน",
-            "summary": "ผู้ผลิตเหล็กรายใหญ่อย่าง ซิน เคอ หยวน เผชิญแรงคัดค้านหนักและการตรวจสอบเข้มงวดจากภาครัฐในการพยายามกลับมาเดินสายการผลิตในไทย",
-            "why": "ความไม่แน่นอนและการควบคุมในอุตสาหกรรมเหล็กอาจส่งผลต่อกำลังการผลิตของโรงงานบางกลุ่มและกระทบความต้องการวัสดุขัดงานเหล็ก",
-            "action": "เน้นเจาะกลุ่มโรงงานแปรรูปเหล็กและโครงสร้างโลหะที่ดำเนินงานถูกต้องตามมาตรฐานและมีกำลังการผลิตสม่ำเสมอ"
+            "title": "ยานยนต์ไทยสะดุด TAIA ขอรัฐบาลเร่งกู้วิกฤต อุ้มฐานผลิต สู้ศึก EV และรถนำเข้า",
+            "summary": "สมาคมอุตสาหกรรมยานยนต์ไทย (TAIA) เรียกร้องให้รัฐบาลออกมาตรการด่วนเพื่อคุ้มครองฐานการผลิตในประเทศจากวิกฤตยอดผลิตตกต่ำและการทะลักของ EV นำเข้า",
+            "why": "การชะลอตัวของโรงงานประกอบรถยนต์และชิ้นส่วนส่งผลกระทบต่อยอดใช้กระดาษทรายและจานขัดในโรงงานผลิตชิ้นส่วน",
+            "action": "ปรับจุดขายเน้นเจาะกลุ่มผู้ผลิตชิ้นส่วนญี่ปุ่น Tier-1 ที่กำลังปรับตัวไปผลิตชิ้นส่วนสำหรับโครงสร้าง EV"
           }
         },
         {
           "id": "20260806-3",
           "tag": "steel",
-          "rating": "white",
-          "source": "LINE TODAY",
-          "date": "2026-02-19",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfQ09FRHo1Z2lvY21mQmlOMUs2enllSTJNQ0hMd0hYN3ZsdV9Wbm9wem9yWm0tUFJ4ejVqNDVsTkA2MzZKT0JaWGppclAydURHVDRYd2FR?oc=5",
-          "title": "Ministry of Industry Maintains Enforcement Action Against Sub-Standard Factories",
-          "summary": "The Ministry of Industry continues its policy focus on shutting down non-compliant and sub-standard manufacturing plants nationwide.",
-          "why": "Stricter regulatory enforcement favors legitimate, quality-focused Japanese and multinational factories that prioritize standardized abrasive tools.",
-          "action": "Highlight MK's product certification and quality assurance when pitching to top-tier foreign-invested factories.",
+          "rating": "amber",
+          "source": "Vietnam.vn",
+          "date": "2026-08-04",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5US1N3OEdieEkyZklmZkp4SzZIcDhxM2dlaXdOd1FZZDNHLXpFQURrdGV1Y2RzRVFsUU9VUGE1WTIwREdTWklEQmRlNnU3VmIxQmRobGtlY0o3eEJJTDNzYk5tYVNsRElmNkJPMzVB?oc=5",
+          "title": "Regional Metallurgy Industry Rapidly Expands Amid Technological Upgrades",
+          "summary": "Regional metallurgical developments are accelerating with modern processing standards and increased heavy industrial metalworking demand.",
+          "why": "Growth in regional metallurgy and heavy metal processing boosts consumption of heavy-duty grinding discs and cutoff wheels.",
+          "action": "Promote heavy-duty grinding wheels and cutting discs to steel fabrication and heavy machinery clients.",
           "th": {
-            "title": "กระทรวงอุตสาหกรรมเดินหน้าภารกิจปราบปรามโรงงานไม่ได้มาตรฐาน",
-            "summary": "กระทรวงอุตสาหกรรมยังคงให้ความสำคัญกับการเข้มงวดตรวจจับและสั่งปิดโรงงานผลิตไม่ได้มาตรฐานทั่วประเทศอย่างต่อเนื่อง",
-            "why": "การกวาดล้างโรงงานไม่ได้มาตรฐานช่วยส่งเสริมกลุ่มโรงงานต่างชาติและญี่ปุ่นที่ได้มาตรฐานซึ่งเป็นลูกค้ารายใหญ่ของ MK",
-            "action": "ใช้จุดแข็งเรื่องมาตรฐานการรับรองคุณภาพสินค้าของ MK เข้าเจรจากับโรงงานทุนต่างชาติเพื่อสร้างความมั่นใจในการใช้งาน"
+            "title": "อุตสาหกรรมโลหะวิทยาเร่งพัฒนาอย่างรวดเร็ว รับเทคโนโลยีและมาตรฐานใหม่",
+            "summary": "ภาคอุตสาหกรรมโลหะวิทยาในภูมิภาคกำลังเติบโตอย่างรวดเร็วจากการยกระดับมาตรฐานการแปรรูปและความต้องการงานโลหะหนัก",
+            "why": "การเติบโตของงานแปรรูปโลหะหนักช่วยเพิ่มปริมาณการใช้งานใบเจียรและใบตัดความทนทานสูง",
+            "action": "เสนอขายสินค้ากลุ่มใบเจียรหนาและใบตัดเกรดอุตสาหกรรมให้แก่โรงงานโครงสร้างเหล็กและแปรรูปโลหะ"
+          }
+        },
+        {
+          "id": "20260806-4",
+          "tag": "furniture",
+          "rating": "white",
+          "source": "kasikornresearch.com",
+          "date": "2025-10-09",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR0I3LUFaeENxbzdDQVF4UDdVMFlmRWp4Y3BBdFZ6OGFQeUdZZ3Y5dHA5Q2ZxRXJIaTUtLVNVY29QM3RuSk1RMmpaeXhucHEwLWRiMFlsbkJRNEtYY3RWSDZNNXRBUXdfb0hDV0IzR1pkRW5ERC1xSkQtN21WZTVveUNtdURRYmN3QjQxUDRHS2g1dDNkSGdRVVJGU2tBNGJ3WDREcGh1N2VrdnN6MExB?oc=5",
+          "title": "Thai Furniture Exports Projected to Contract 4.5% in 2026 Following 2025 Spike",
+          "summary": "Kasikorn Research forecasts Thai furniture exports to decline by 4.5% in 2026 due to front-loaded US imports in 2025 and global economic uncertainty.",
+          "why": "Export contractions in wood and furniture factories may soften demand for wide sanding belts and wood-polishing abrasives.",
+          "action": "Maintain relationships with top wood furniture exporters while boosting retail DIY sales via Shopee/TikTok.",
+          "th": {
+            "title": "ส่งออกเฟอร์นิเจอร์ไทยปี 2569 ส่อหดตัว 4.5% หลังเร่งส่งออกไปสหรัฐฯ ในปี 2568",
+            "summary": "ศูนย์วิจัยกสิกรไทยคาดการณ์การส่งออกเฟอร์นิเจอร์ไทยปี 2569 จะพลิกกลับมาหดตัว 4.5% หลังจากที่สหรัฐฯ เร่งนำเข้าล่วงหน้าไปแล้วในปี 2568",
+            "why": "การหดตัวของส่งออกเฟอร์นิเจอร์อาจทำให้โรงงานไม้ลดปริมาณการใช้สายพานขัดไม้และกระดาษทรายงานไม้",
+            "action": "รักษาฐานลูกค้ารายใหญ่ในกลุ่มเฟอร์นิเจอร์ส่งออก พร้อมกระตุ้นยอดขายกลุ่ม DIY ขัดไม้ผ่าน Shopee/TikTok เพื่อชดเชย"
           }
         }
       ],
