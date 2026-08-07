@@ -2,6 +2,71 @@
 window.NEWS_ARCHIVE = {
   "days": [
     {
+      "date": "2026-08-08",
+      "summary": "Today features limited new updates as most major headlines were previously covered. Uncovered news focuses on ongoing challenges for local auto supply chains and domestic steel producers amid influxes of cheap Chinese imports.",
+      "directCount": 0,
+      "th": {
+        "summary": "วันนี้มีข่าวใหม่ไม่มากเนื่องจากข่าวหลักส่วนใหญ่ถูกวิเคราะห์ไปแล้ว ข้อมูลเพิ่มเติมเน้นย้ำถึงความท้าทายของห่วงโซ่อุปทานยานยนต์และโรงงานเหล็กในประเทศที่ต้องรับมือกับการทะลักของสินค้าราคาถูกจากจีน"
+      },
+      "items": [
+        {
+          "id": "20260808-1",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "The Momentum",
+          "date": "2026-07-14",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE89SGw2d2pzajkyX3JzZTRnVDJrelc3RU1VcmQwWldHcVQ1TlE3UDUyRDFnVHJrdXM4MUtPZmVRNFFNLWZacm1jLTJmT0hGczlXRE1RblBZd3BJRzQ?oc=5",
+          "title": "Exploring Opportunities and Risks as Chinese EVs Surge into ASEAN",
+          "summary": "Analyses highlight Thailand's critical balance between attracting Chinese EV investment and protecting local supply chain manufacturers from market disruption.",
+          "why": "Shift toward imported Chinese EV components could reduce machining and grinding operations at traditional Tier-1/Tier-2 Japanese auto part suppliers in Thailand.",
+          "action": "Target newly established Chinese EV factories in Thailand while maintaining support for Japanese suppliers transitioning their production lines.",
+          "th": {
+            "title": "สำรวจโอกาสและความเสี่ยง ในวันที่ EV จีนทะลักเข้าอาเซียน",
+            "summary": "บทวิเคราะห์ชี้โจทย์ใหญ่ของไทยในการรักษาสมดุลระหว่างการดึงดูดการลงทุน EV จากจีน กับการคุ้มครองผู้ผลิตชิ้นส่วนในประเทศไม่ให้ได้รับผลกระทบหนัก",
+            "why": "การพึ่งพาชิ้นส่วน EV นำเข้าจากจีนอาจลดปริมาณงานขัดแปรรูปโลหะในกลุ่มผู้ผลิตชิ้นส่วนยานยนต์สันปาบ (ICE) เดิมของญี่ปุ่นในไทย",
+            "action": "รุกเจาะกลุ่มโรงงานผลิต EV จีนที่มาตั้งฐานในไทย ควบคู่กับการประคองฐานลูกค้าโรงงานชิ้นส่วนญี่ปุ่นที่กำลังปรับตัว"
+          }
+        },
+        {
+          "id": "20260808-2",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "เดลินิวส์",
+          "date": "2026-05-21",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3cWgyMzlsVU90VjFUWTJ4czV4U2ZIZi1QbnBzeUR5ZzNHQ21jTzR6RmVpaDFDVVF2ODVsTlFmYVZLbUlCdGhEUXExQTdSbng0U29n?oc=5",
+          "title": "Thai Steel Sector Faces Severe Pressure from Low Demand and Cheap Imports",
+          "summary": "Thai steel producers urge government intervention against low-cost imported steel and non-compliant Induction Furnace (IF) factories.",
+          "why": "Sluggish domestic steel production directly reduces consumption of industrial grinding wheels and heavy-duty abrasives used in steel mills and fabrication.",
+          "action": "Pivot sales efforts toward high-precision metal fabricating plants and structural steel fabricators that require specialized abrasives.",
+          "th": {
+            "title": "เหล็กไทยเหมือนอยู่สนามรบ ยอดใช้ต่ำ แถมของถูกจีนถล่มซ้ำ",
+            "summary": "ผู้ประกอบการเหล็กไทยจี้รัฐเร่งแก้ปัญหาเหล็กราคาถูกจากจีนทะลักตลาด และเข้มงวดการตรวจสอบโรงงานเตาหลอม IF ที่ไม่ได้มาตรฐาน",
+            "why": "ภาวะการผลิตเหล็กในประเทศที่ซบเซาทำให้การใช้วัสดุขัดอุตสาหกรรมและจานเจียรงานหนักในโรงงานเหล็กและงานแปรรูปโลหะลดลง",
+            "action": "เน้นทำตลาดกับโรงงานแปรรูปโลหะความละเอียดสูงและโรงงานขึ้นรูปโครงสร้างเหล็กที่ยังต้องการวัสดุขัดเกรดพรีเมียม"
+          }
+        },
+        {
+          "id": "20260808-3",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Autolifethailand.tv",
+          "date": "2026-05-14",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdGZtd0FxZndrSmF6U3FKWkd2cy1wY1Y1dExQbXJOcWdrYkhoNVVRLURBWThkV0U5cG8xUHkzM2ZNajJianFsYTUtVjFrNHl4Ym1JbnhyVVRuQkxCWkNYVWFUSnd0QUVpM05JMGFLM0tnTm80bXdEbWdCYjk2NFhIa29rNzFJSkFsSXFHME1B?oc=5",
+          "title": "Ten Auto Associations Submit Proposals to Protect Local Manufacturers",
+          "summary": "Ten automotive industry associations submitted urgent measures requesting government protection for domestic supply chains against unfair import competition.",
+          "why": "Protective government policies could stabilize local auto part manufacturing volumes, securing baseline demand for surface preparation abrasives.",
+          "action": "Monitor government policy responses and build relationships with key tier-1 suppliers benefiting from protection measures.",
+          "th": {
+            "title": "10 สมาคมอุตฯ ยานยนต์ ยื่นข้อเสนอต่อรัฐบาลปกป้องผู้ประกอบการไทย",
+            "summary": "10 สมาคมในอุตสาหกรรมยานยนต์ร่วมกันยื่นข้อเสนอขอมาตรการเยียวยาและปกป้องห่วงโซ่อุปทานชิ้นส่วนในประเทศจากการทุ่มตลาดของรถนำเข้า",
+            "why": "หากรัฐออกมาตรการปกป้องสำเร็จจะช่วยรักษาปริมาณการผลิตชิ้นส่วนในประเทศ ซึ่งช่วยประคองความต้องการกระดาษทรายและวัสดุเตรียมผิว",
+            "action": "ติดตามผลการพิจารณามาตรการของภาครัฐ และเร่งสร้างความสัมพันธ์กับผู้ผลิตชิ้นส่วน Tier-1 ที่ได้รับอานิสงส์"
+          }
+        }
+      ],
+      "terms": {}
+    },
+    {
       "date": "2026-08-07",
       "summary": "Today has limited new updates; key developments include BOI highlighting cumulative EV investments of 182 billion baht, Thai Airways setting a 200 billion baht revenue target driving MRO activity, and steady wooden furniture export volumes supporting woodworking abrasive demand.",
       "directCount": 2,
@@ -417,5 +482,5 @@ window.NEWS_ARCHIVE = {
       "terms": {}
     }
   ],
-  "updated": "2026-08-07"
+  "updated": "2026-08-08"
 };
