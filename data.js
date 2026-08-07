@@ -3,82 +3,64 @@ window.NEWS_ARCHIVE = {
   "days": [
     {
       "date": "2026-08-08",
-      "summary": "Today's updates highlight major investments in Thailand's EV assembly lines and aerospace MRO infrastructure, signaling growing demand for high-performance metal grinding and surface finishing tools. Meanwhile, regional woodworking events open secondary opportunities in the furniture sector.",
-      "directCount": 3,
+      "summary": "Today has limited new news; key reports highlight structural downturns in Thailand's traditional auto and steel sectors while emphasizing opportunities in the localizing Chinese EV supply chain.",
+      "directCount": 1,
       "th": {
-        "summary": "ข่าววันนี้เน้นย้ำถึงการลงทุนใหญ่ในสายการประกอบ EV และโครงสร้างพื้นฐานศูนย์ซ่อมบำรุงอากาศยาน (MRO) ในไทย ซึ่งส่งสัญญาณบวกต่อความต้องการวัสดุขัดและเตรียมผิวโลหะประสิทธิภาพสูง ขณะที่กิจกรรมอุตสาหกรรมไม้ในภูมิภาคช่วยสร้างโอกาสเสริมในกลุ่มเฟอร์นิเจอร์"
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยรายงานสำคัญเน้นย้ำถึงสภาวะชะลอตัวเชิงโครงสร้างในภาคยานยนต์เดิมและอุตสาหกรรมเหล็กของไทย ขณะเดียวกันก็ชี้ให้เห็นโอกาสในห่วงโซ่อุปทาน EV จีนที่กำลังขยายตัว"
       },
       "items": [
         {
           "id": "20260808-1",
           "tag": "auto",
-          "rating": "green",
-          "source": "LINE TODAY",
-          "date": "2026-07-24",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1d29pcVRMMUxSTVRTUkR4bkRWT2tSM09YQjNEWjhHeGF4VTZINWlvdjU5TzZsRFIzWmRuRllrMWpuYlIxakQ0N2hqOEdhay1DOERseUl3?oc=5",
-          "title": "Mitsubishi Motors Invests 16 Billion Baht in Thailand Through 2030 for EV and Pickup Production",
-          "summary": "Mitsubishi Motors is committing 16 billion baht to expand EV and electric pickup manufacturing lines in Thailand by 2030.",
-          "why": "Expansion by a major Japanese automaker directly increases factory line setup and component deburring/polishing demand for our B2B abrasives.",
-          "action": "Target Japanese Tier-1 suppliers associated with Mitsubishi to pitch high-durability sanding belts and grinding discs.",
+          "rating": "amber",
+          "source": "thestandard.co",
+          "date": "2026-06-19",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YalRoMTl2X0tHWDRyY3ZvSGdIU3Zma3FqR3NVeGNTWHJnelFWZVRSZWlzd2laMHRUVnl3T1FQVTYzWlVQTGFuMjFHRlVQMm1oTVZ1MENDX0lOUXZfb0l5YzNPVlBoWjJ5MzQtdA?oc=5",
+          "title": "Thailand Automotive Sector Faces Cliff Crisis Amid Sluggish Recovery",
+          "summary": "Thailand's traditional automotive manufacturing is struggling with a deep downturn as recovery remains slow and production reaches critical lows.",
+          "why": "Slowing internal combustion engine vehicle production reduces usage of metal-finishing abrasives among legacy Japanese Tier-1 and Tier-2 suppliers.",
+          "action": "Reallocate sales resources toward newly active EV component plants to offset declining traditional auto factory accounts.",
           "th": {
-            "title": "Mitsubishi Motors ทุ่มลงทุนเพิ่ม 1.6 หมื่นล้านบาทในไทยถึงปี 2573 ปักฐานผลิต EV-กระบะไฟฟ้า",
-            "summary": "มิตซูบิชิ มอเตอร์ส อัดฉีดเงินลงทุน 1.6 หมื่นล้านบาท ยกระดับสายการผลิตรถยนต์ไฟฟ้าและกระบะไฟฟ้าในไทยยาวถึงปี 2573",
-            "why": "การขยายฐานผลิตของค่ายรถญี่ปุ่นรายใหญ่เพิ่มปริมาณงานขัดลบครีบและเตรียมผิวชิ้นส่วนยานยนต์โดยตรง",
-            "action": "เข้าพบซัพพลายเออร์ Tier-1 สายญี่ปุ่นของมิตซูบิชิเพื่อนำเสนอสายพานขัดและจานขัดความทนทานสูง"
+            "title": "วิกฤตหน้าผาอุตสาหกรรมยานยนต์ไทย เมื่อการฟื้นตัวอาจเป็นแค่ภาพลวงตา",
+            "summary": "การผลิตยานยนต์เครื่องยนต์สันดาปแบบดั้งเดิมของไทยกำลังเผชิญภาวะชะลอตัวอย่างหนัก เนื่องจากการฟื้นตัวเป็นไปอย่างเชื่องช้าและการผลิตลดลงอย่างมาก",
+            "why": "ยอดการผลิตรถยนต์เครื่องยนต์สันดาปที่ลดลง ส่งผลให้ปริมาณการใช้กระดาษทรายและลูกขัดในซัพพลายเออร์ญี่ปุ่น Tier-1 และ Tier-2 ลดลงตาม",
+            "action": "ปรับกำลังทีมขายมุ่งเข้าหาโรงงานผู้ผลิตชิ้นส่วน EV ที่กำลังเดินสายการผลิต เพื่อชดเชยยอดสั่งซื้อที่ลดลงจากกลุ่มยานยนต์ดั้งเดิม"
           }
         },
         {
           "id": "20260808-2",
-          "tag": "auto",
-          "rating": "green",
-          "source": "springnews",
-          "date": "2026-08-02",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tOExFampnTDY0ZjcyeVdGekZJdXFqZllBSmRGTUVHaFNRTVRrU1FfSnN3dVNUaXd0d1BYRWtNcjhHRzhVS0FfRUt0aG1wUVIxYkxYUVBkLW9ZbVdQMEtyckRIS0lBVjRrQzRn?oc=5",
-          "title": "BYD EV Plant Positioned to Drive Thailand as ASEAN Regional EV Hub",
-          "summary": "BYD's manufacturing operations are ramping up to cement Thailand's role as the primary EV export and production hub in ASEAN.",
-          "why": "Higher local EV output increases demand for body sanding, panel prep, and welding-joint grinding materials.",
-          "action": "Develop tailored abrasive packages for EV body assembly lines and metal enclosure finishing.",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "เดลินิวส์",
+          "date": "2026-05-21",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3cWgyMzlsVU90VjFUWTJ4czV4U2ZIZi1QbnBzeUR5ZzNHQ21jTzR6RmVpaDFDVVF2ODVsTlFmYVZLbUlCdGhEUXExQTdSbng0U29n?oc=5",
+          "title": "Thai Steel Sector Struggles Under Low Consumption and Cheap Imports",
+          "summary": "Domestic steel manufacturers face severe headwinds from weak local demand and heavy price competition from cheap imported Chinese steel.",
+          "why": "Sluggish steel fabrication and metal processing directly reduces factory consumption of heavy grinding wheels and sanding belts.",
+          "action": "Target specialized precision metal fabricators and structural steel plants requiring high-durability abrasives rather than price-sensitive commodity sectors.",
           "th": {
-            "title": "โรงงานยานยนต์ไฟฟ้า BYD ดันประเทศไทยสู่ฮับ EV แห่งภูมิภาคอาเซียน",
-            "summary": "โรงงานผลิต EV ของ BYD เร่งกำลังการผลิตเต็มรูปแบบเพื่อผลักดันไทยเป็นศูนย์กลางการผลิตและส่งออก EV ในอาเซียน",
-            "why": "ยอดการผลิต EV ที่เพิ่มขึ้นช่วยเพิ่มการใช้วัสดุขัดเตรียมผิว ตัวถัง และงานเจียรเก็บรอยเชื่อมโลหะ",
-            "action": "จัดชุดสินค้าวัสดุขัดเฉพาะสำหรับงานเตรียมผิวตัวถัง EV และงานประกอบโครงสร้างโลหะ"
+            "title": "อุตสาหกรรมเหล็กไทยวิกฤต ยอดใช้ต่ำโดนสินค้าถูกจากจีนถล่มซ้ำ",
+            "summary": "ผู้ผลิตเหล็กในประเทศเผชิญความยากลำบากอย่างหนักจากความต้องการในประเทศที่ซบเซา และการทุ่มตลาดจากสินค้านำเข้าจากจีน",
+            "why": "งานแปรรูปโลหะและโครงสร้างเหล็กที่ลดลง ส่งผลให้การใช้งานจานขัด หินเจียร และสายพานขัดในโรงงานเหล็กซบเซา",
+            "action": "เจาะกลุ่มผู้ผลิตชิ้นส่วนโลหะความแม่นยำสูงและงานแปรรูปโลหะเฉพาะทางที่เน้นคุณภาพและความทนทานของวัสดุขัดมากกว่าตลาดเหล็กทั่วไป"
           }
         },
         {
           "id": "20260808-3",
-          "tag": "aero",
+          "tag": "auto",
           "rating": "green",
-          "source": "posttoday",
-          "date": "2026-07-27",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lak5sZXQtNktSd3dqWTVQcmdhaN2JJdGVhSEUxUzk5RFI5TUs4T3kzMzBqVDdNUnp4N2k3M2FBalNXd0UwaS1XeUxkczM4Rzg4QnVBQXJR?oc=5",
-          "title": "EECO Mobilizes Funds to Build U-Tapao into Regional Aircraft MRO Hub",
-          "summary": "EECO is securing funding to accelerate the development of U-Tapao airport as a premier aviation maintenance and repair hub.",
-          "why": "Growing MRO infrastructure expands high-margin opportunities for specialized aviation-grade polishing and deburring abrasives.",
-          "action": "Connect with aerospace procurement teams in the EEC region to introduce specialized polishing tools.",
+          "source": "The Momentum",
+          "date": "2026-07-14",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE89SGw2d2pzajkyX3JzZTRnVDJrelc3RU1VcmQwWldHcVQ1TlE3UDUyRDFnVHJrdXM4MUtPZmVRNFFNLWZacm1jLTJmT0hGczlXRE1RblBZd3BJRzQ?oc=5",
+          "title": "Chinese EV Influx into ASEAN: Opportunities and Risks for Thailand",
+          "summary": "The rapid expansion of Chinese EV manufacturers reshapes Thailand's automotive landscape, creating new localized supply chain opportunities.",
+          "why": "Expanding local EV assembly lines create direct demand for surface prep, deburring, and polishing abrasives for aluminum body parts and battery casings.",
+          "action": "Approach Tier-1 suppliers of Chinese EV OEMs with product samples suited for lightweight metal and aluminum finishing.",
           "th": {
-            "title": "EECO ระดมทุน ดันอุตสาหกรรม MRO ปั้นอู่ตะเภาสู่ศูนย์กลางซ่อมอากาศยานภูมิภาค",
-            "summary": "อีอีซีเดินหน้าระดมทุนเพื่อเร่งพัฒนาอู่ตะเภาให้เป็นศูนย์กลางการซ่อมบำรุงอากาศยานระดับภูมิภาค",
-            "why": "การเติบโตของศูนย์ซ่อม MRO ขยายโอกาสการขายกระดาษทรายและหัวขัดเกรดการบินที่มีอัตรากำไรสูง",
-            "action": "สร้างคอนเนกชันกับฝ่ายจัดซื้ออุตสาหกรรมบินในพื้นที่ EEC เพื่อนำเสนอสินค้าวัสดุขัดเกรดการบิน"
-          }
-        },
-        {
-          "id": "20260808-4",
-          "tag": "furniture",
-          "rating": "amber",
-          "source": "Matichon Online",
-          "date": "2026-07-13",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tSExWNjZuc1BjdTBOM2F6OWVuN1J4bWo1R1hDUjk4VWdqelZnSy1xTjN4UllKcTFmSjRFck9HVW5NMGlJTTUyQWJ2STVJR096aXd0YnhjUHdaczA?oc=5",
-          "title": "TIWF 2026 Set to Elevate ASEAN Woodworking and Furniture Industry",
-          "summary": "The upcoming TIWF 2026 exposition aims to connect regional suppliers and upgrade manufacturing technologies for furniture makers.",
-          "why": "Regional trade focus signals demand for wood-sanding belts and polishing rolls among furniture exporters.",
-          "action": "Prepare promotional campaigns for B2B wood-sanding paper and belts targeting expo participants.",
-          "th": {
-            "title": "TIWF 2026 ปักหมุดงานใหญ่แห่งปี ยกระดับอุตสาหกรรมงานไม้และเฟอร์นิเจอร์สู่ภูมิภาคอาเซียน",
-            "summary": "งานแสดงสินค้า TIWF 2026 เตรียมเชื่อมโยงซัพพลายเออร์และยกระดับเทคโนโลยีการผลิตในกลุ่มเฟอร์นิเจอร์ไม้ระดับภูมิภาค",
-            "why": "ความเคลื่อนไหวในอุตสาหกรรมไม้สะท้อนความต้องการใช้กระดาษทรายม้วนและสายพานขัดไม้ของผู้ผลิตเฟอร์นิเจอร์",
-            "action": "จัดแคมเปญส่งเสริมการขายสายพานขัดไม้ B2B เจาะกลุ่มโรงงานที่จะเข้าร่วมงาน exhibition"
+            "title": "สำรวจโอกาสและความเสี่ยง เมื่อ EV จีนทะลักเข้าอาเซียนกับโจทย์ใหญ่ของไทย",
+            "summary": "การรุกตลาดอย่างรวดเร็วของค่ายรถยนต์ไฟฟ้าจีนกำลังยกเครื่องโครงสร้างยานยนต์ไทย ซึ่งสร้างโอกาสใหม่ในซัพพลายเออร์ที่เริ่มตั้งฐานผลิตในประเทศ",
+            "why": "สายการประกอบ EV ที่เพิ่มขึ้นสร้างความต้องการใช้วัสดุขัด ลบครีบ และเตรียมผิวอลูมิเนียม รวมถึงชิ้นส่วนกล่องแบตเตอรี่โดยตรง",
+            "action": "นำเสนอตัวอย่างสินค้าวัสดุขัดสำหรับงานอลูมิเนียมและโลหะน้ำหนักเบาแก่ซัพพลายเออร์ Tier-1 ของค่าย EV จีน"
           }
         }
       ],
