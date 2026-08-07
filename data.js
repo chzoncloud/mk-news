@@ -3,64 +3,64 @@ window.NEWS_ARCHIVE = {
   "days": [
     {
       "date": "2026-08-07",
-      "summary": "Limited new updates today. Key reports highlight structural challenges in the Thai automotive supply chain and ongoing margin pressures in the local steel sector, requiring cautious credit and inventory management.",
-      "directCount": 0,
+      "summary": "Today has limited new updates; key developments include BOI highlighting cumulative EV investments of 182 billion baht, Thai Airways setting a 200 billion baht revenue target driving MRO activity, and steady wooden furniture export volumes supporting woodworking abrasive demand.",
+      "directCount": 2,
       "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มาก รายงานสำคัญเน้นย้ำถึงปัญหาเชิงโครงสร้างในห่วงโซ่อุปทานยานยนต์ไทยและแรงกดดันด้านกำไรในอุตสาหกรรมเหล็กในประเทศ ซึ่งต้องระมัดระวังเรื่องการให้สินเชื่อและการบริหารสต็อกสินค้า"
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก ข้อมูลสำคัญเน้นไปที่ยอดลงทุน EV สะสมของบีโอไอที่แตะ 1.82 แสนล้านบาท การเป้ารายได้ของสายการบินไทยที่ส่งผลดีต่อศูนย์ซ่อมบำรุง และยอดส่งออกเฟอร์นิเจอร์ไม้ที่ยังคงสร้างความต้องการวัสดุขัดอย่างต่อเนื่อง"
       },
       "items": [
         {
           "id": "20260807-1",
           "tag": "auto",
-          "rating": "amber",
-          "source": "bangkokbiznews",
-          "date": "2026-07-23",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PUTNGRUtWSnNpMFZPdkx2cHJYRkh1Q3RZUS05SEdGQ2JzT3VYTTR2MmdBRWZiZjlWak1YdmpKeTlWX0JDM21BUEZCaTF0Y0ZaRGhHRW5CRnRMUQ?oc=5",
-          "title": "Thai Automotive Crisis Highlights Deep Structural Challenges Beyond EV Transition",
-          "summary": "Analyses indicate that Thailand's automotive slump is driven by pre-existing structural issues and weak local demand, not just disruption from electric vehicles.",
-          "why": "Slow production volumes at Traditional OEM Tier-1/Tier-2 suppliers directly reduce consumption of surface preparation and deburring abrasives.",
-          "action": "Monitor factory utilization rates among Tier-1 automotive suppliers and pivot sales focus toward EV-specific component manufacturing lines.",
+          "rating": "green",
+          "source": "Techsauce",
+          "date": "2026-05-13",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSUh5a1RYRHhRZVM5dmliakJOVDhPMGs2dDZPdFdTSEw4TU5yRHNQT1R2dk1uSXQzOWFjNXZ4bGhESGxFUEZpWWNxOEpXNFNDZWI1NDdDaUJTZVZMbmVGckk3VXhDRFMyWkJ1LVd3Q0VDS0ZfaENUcGdjajJXaFViQndkVQ?oc=5",
+          "title": "BOI Partners with Global EV Makers as Cumulative Investment Surpasses 182 Billion Baht",
+          "summary": "Thailand's BOI collaborates with Chinese, Japanese, and European automakers under the Smart & Green Mobility framework, pushing cumulative EV investments past 182 billion baht.",
+          "why": "Expanding EV manufacturing lines from diverse global brands fuels continuous demand for surface preparation and deburring abrasives in tier-1 auto parts factories.",
+          "action": "Target Japanese and Chinese auto component suppliers in Thailand with specialized metal grinding and sanding solutions for EV parts.",
           "th": {
-            "title": "วิกฤตยานยนต์ไทยสะท้อนปัญหาเชิงโครงสร้างลึกซึ้งที่เกิดขึ้นก่อนการเปลี่ยนผ่านสู่ EV",
-            "summary": "ผลวิเคราะห์ชี้ว่าภาวะชะลอตัวของอุตสาหกรรมยานยนต์ไทยเกิดจากปัญหาเชิงโครงสร้างเดิมและความต้องการในประเทศที่ซบเซา ไม่ใช่เพียงผลกระทบจากการเข้ามาของรถยนต์ไฟฟ้า",
-            "why": "ยอดการผลิตที่ชะลอตัวของซัพพลายเออร์ Tier-1/Tier-2 ในกลุ่มรถยนต์เครื่องยนต์สันดาป ส่งผลให้ความต้องการใช้วัสดุขัดเตรียมผิวและลบครีบลดลงโดยตรง",
-            "action": "ติดตามอัตราการเดินเครื่องของโรงงานลูกค้า Tier-1 อย่างใกล้ชิด และเพิ่มน้ำหนักการขายไปยังสายการผลิตชิ้นส่วนยานยนต์ไฟฟ้า"
+            "title": "บีโอไอผนึก EV จีน-ญี่ปุ่น-ยุโรป ดันยอดลงทุนสะสมทะลุ 1.82 แสนล้านบาท",
+            "summary": "บีโอไอร่วมมือกับค่ายรถยนต์จากจีน ญี่ปุ่น และยุโรป ผลักดันวิสัยทัศน์ Smart & Green Mobility ดันยอดลงทุน EV สะสมทะลุ 1.82 แสนล้านบาท",
+            "why": "การขยายฐานผลิต EV ของค่ายรถยนต์ระดับโลกช่วยเพิ่มความต้องการใช้วัสดุขัดเตรียมผิวและลบครีบชิ้นส่วนโลหะในโรงงานซัพพลายเออร์",
+            "action": "รุกเสนอขายกระดาษทรายและจานขัดเกรดอุตสาหกรรมแก่โรงงานผลิตชิ้นส่วนยานยนต์ทุนญี่ปุ่นและจีนในไทย"
           }
         },
         {
           "id": "20260807-2",
-          "tag": "steel",
+          "tag": "aero",
           "rating": "amber",
-          "source": "เดลินิวส์",
-          "date": "2026-05-21",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3cWgyMzlsVU90VjFUWTJ4czV4U2ZIZi1QbnBzeUR5ZzNHQ21jTzR6RmVpaDFDVVF2ODVsTlFmYVZLbUlCdGhEUXExQTdSbng0U29n?oc=5",
-          "title": "Thai Steel Industry Struggles Under Low Domestic Demand and Cheap Imports",
-          "summary": "Thai steel manufacturers face severe margin compression due to sluggish domestic construction activity and an influx of low-priced imported steel products.",
-          "why": "Financial strain on local metal fabrication factories increases credit risk and may lead to reduced order sizes for industrial grinding belts and discs.",
-          "action": "Review credit terms for local metalworking clients and promote cost-efficient, long-lasting abrasive solutions to help them save operating costs.",
+          "source": "TNN Thailand",
+          "date": "2026-02-26",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBha29MM3ZjeEN0VWprRzBNMnh3dnBlZUNmMVh4bnR5NnBPN21ENFU4bUlNOHBsbHdiNnJEX1lFRW9DMmFqVHZmSmtEbHdnZWh3VmNYR1lZbkswMTZRNUtr?oc=5",
+          "title": "Thai Airways Targets 5% Revenue Growth to Reach 200 Billion Baht",
+          "summary": "Thai Airways sets a 2026 revenue target of 200 billion baht, up 5% year-on-year, driven by route expansions and steady operational recovery.",
+          "why": "Higher aircraft flight frequencies accelerate maintenance schedules, indirectly driving demand for specialized aviation MRO surface finishing tools.",
+          "action": "Monitor aerospace MRO procurement tenders and introduce high-precision aviation sanding products to maintenance facilities.",
           "th": {
-            "title": "อุตสาหกรรมเหล็กไทยระส่ำ เจอศึกสองด้านจากอุปสงค์ในประเทศต่ำและเหล็กนำเข้าหนีบราคา",
-            "summary": "ผู้ผลิตเหล็กในไทยเผชิญแรงกดดันด้านกำไรอย่างหนักจากกิจกรรมการก่อสร้างในประเทศที่ซบเซา ประกอบกับการทุ่มตลาดของสินค้านำเข้าราคาถูก",
-            "why": "สภาวะทางการเงินที่ตึงตัวของโรงงานแปรรูปโลหะเพิ่มความเสี่ยงด้านสินเชื่อ และอาจทำให้ยอดสั่งซื้อสายพานขัดและจานเจียรชะลอตัว",
-            "action": "ทบทวนเครดิตเทอมของลูกค้าโรงงานโลหะการ และนำเสนอวัสดุขัดเกรดคุ้มค่าที่ช่วยลดต้นทุนการต่อชิ้นงานเพื่อช่วยลูกค้าประหยัดค่าใช้จ่าย"
+            "title": "การบินไทยตั้งเป้ารายได้ปีนี้โต 5% แตะ 2 แสนล้านบาท",
+            "summary": "การบินไทยตั้งเป้ารายได้ปี 2569 แตะ 2 แสนล้านบาท เติบโต 5% จากการขยายเส้นทางบินและการฟื้นตัวของธุรกิจการบินอย่างต่อเนื่อง",
+            "why": "เที่ยวบินที่เพิ่มขึ้นส่งผลให้รอบการซ่อมบำรุงรักษาเครื่องบินถี่ขึ้น ซึ่งเป็นโอกาสเพิ่มการใช้งานวัสดุขัดเกรดการบินในศูนย์ MRO",
+            "action": "ติดตามการประมูลงานซ่อมบำรุงอากาศยานและนำเสนอสินค้าวัสดุขัดมาตรฐานการบินสำหรับงานซ่อมบำรุง"
           }
         },
         {
           "id": "20260807-3",
-          "tag": "steel",
-          "rating": "white",
-          "source": "SondhiX",
-          "date": "2026-06-13",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kY19SS2JXYVZSUF9XVnpPaDVoeTVXdGQ1cHVqUzBLNmdaWjZwT0kzY3pVaERuenhNelpxQlZEZ2hOS2pmajZ0OHN4VnZvUDBpOFpmc2hn?oc=5",
-          "title": "Reopened Steel Mill Faces Uphill Battle in Thailand Steel Market",
-          "summary": "Controversial steel producer Xin Ke Yuan faces strong market resistance and strict regulatory checks upon attempting to resume operations in Thailand.",
-          "why": "Provides market context on regulatory enforcement within local metal manufacturing, affecting overall mill activity and standard compliance.",
-          "action": "Keep track of regulatory developments in local steel plants for informational purposes without altering current sales strategy.",
+          "tag": "furniture",
+          "rating": "green",
+          "source": "workpointtoday.com",
+          "date": "2024-06-06",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ2ZsVk4wb0swZFhVcGhUeFJlSEtSeTliVHZIbmJlNkpTWDdxQ1hPaHJTMmtsT0lqNlFndVJmUzVJNy1VcVM5a2NWNFdaSGh5RkNBemF3MHp4ZUp3SklUZThNNUhWbm5hXzhYV1M3WjdLSWxNdXpZQ0JtajFBbHN4dWVJeElzZlNhV1BRSGp3cnlGOGpDMlE?oc=5",
+          "title": "Thailand Maintains 12 Million Annual Wooden Furniture Export Volume",
+          "summary": "Thailand exports around 12 million wooden furniture pieces annually, demonstrating sustained foreign demand for Thai woodworking craftsmanship.",
+          "why": "High-volume wooden furniture production requires large quantities of wide sanding belts and sanding discs for surface preparation before finishing.",
+          "action": "Promote heavy-duty sanding belts and abrasive rolls to export-oriented furniture and woodworking factories.",
           "th": {
-            "title": "โรงงานเหล็ก ซิน เคอ หยวน เจอศึกหนักในการกลับมายึดตลาดเหล็กไทย",
-            "summary": "โรงงานเหล็ก ซิน เคอ หยวน เผชิญการต่อต้านจากตลาดและการเข้มงวดด้านกฎระเบียบอย่างหนัก หลังพยายามกลับมาเปิดดำเนินการในประเทศไทย",
-            "why": "เป็นข้อมูลบริบทตลาดเกี่ยวกับการเข้มงวดด้านมาตรฐานโรงงานโลหะ ซึ่งส่งผลต่อการดำเนินงานและระดับการผลิตของโรงงานในอุตสาหกรรม",
-            "action": "ติดตามความเคลื่อนไหวทางกฎหมายของโรงงานเหล็กเพื่อเป็นข้อมูลประกอบ โดยยังไม่ต้องปรับแผนการขาย"
+            "title": "ไทยส่งออกเฟอร์นิเจอร์ไม้ปีละ 12 ล้านชิ้น ชูศักยภาพอุตสาหกรรมงานไม้",
+            "summary": "อุตสาหกรรมเฟอร์นิเจอร์ไม้ไทยยังคงศักยภาพการส่งออกระดับ 12 ล้านชิ้นต่อปี สะท้อนความต้องการสินค้างานไม้ของไทยในต่างประเทศ",
+            "why": "การผลิตเฟอร์นิเจอร์ไม้ส่งออกปริมาณมากต้องใช้สายพานขัดและจานขัดในการปรับเรียบผิวก่อนลงสีทำชิ้นงาน",
+            "action": "เสนอขายสายพานขัดทนทานสูงและม้วนกระดาษทรายให้แก่โรงงานผลิตเฟอร์นิเจอร์ไม้เพื่อการส่งออก"
           }
         }
       ],
