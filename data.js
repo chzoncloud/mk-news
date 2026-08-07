@@ -2,6 +2,89 @@
 window.NEWS_ARCHIVE = {
   "days": [
     {
+      "date": "2026-08-07",
+      "summary": "Today features limited brand-new headlines, but highlights BOI's cumulative EV investment exceeding 182 billion baht alongside ongoing restructuring in the auto and steel sectors. Expanding EV supply chains remain a key driver for our metal finishing and surface preparation products.",
+      "directCount": 1,
+      "th": {
+        "summary": "ข่าวเช้าวันนี้มีข่าวใหม่จำนวนไม่มาก โดยมีประเด็นสำคัญคือยอดลงทุน EV จาก BOI ทะลุ 1.82 แสนล้านบาท และการปรับตัวของห่วงโซ่อุปทานในอุตสาหกรรมยานยนต์และเหล็ก ซึ่งยังคงเป็นโอกาสหลักสำหรับสินค้าวัสดุขัดเตรียมผิวโลหะของเรา"
+      },
+      "items": [
+        {
+          "id": "20260807-1",
+          "tag": "auto",
+          "rating": "green",
+          "source": "Techsauce",
+          "date": "2026-05-13",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSUh5a1RYRHhRZVM5dmliakJOVDhPMGs2dDZPdFdTSEw4TU5yRHNQT1R2dk1uSXQzOWFjNXZ4bGhESGxFUEZpWWNxOEpXNFNDZWI1NDdDaUJTZVZMbmVGckk3VXhDRFMyWkJ1LVd3Q0VDS0ZfaCHUcGdjajJXaFViQndkVQ?oc=5",
+          "title": "BOI Partners with Global EV Makers as Cumulative Investment Exceeds 182 Billion Baht",
+          "summary": "The Board of Investment (BOI) is collaborating with Chinese, Japanese, and European EV automakers to transform Thailand into a smart mobility hub, bringing total EV investments above 182 billion baht.",
+          "why": "Expansion of new EV assembly lines directly increases factory-level demand for metal sanding, body polishing, and deburring abrasives.",
+          "action": "Target newly established EV manufacturing facilities and Tier-1 parts suppliers with high-performance sanding belts and grinding discs.",
+          "th": {
+            "title": "บีโอไอผนึกค่าย EV ชาติหลัก ดันยอดลงทุนสะสมพุ่งทะลุ 1.82 แสนล้านบาท",
+            "summary": "บีโอไอจับมือผู้ผลิต EV จีน ญี่ปุ่น และยุโรป ร่วมยกระดับไทยสู่ศูนย์กลางยานยนต์สะอาด ผลักดันยอดเงินลงทุนสะสมทะลุ 1.82 แสนล้านบาท",
+            "why": "การขยายโรงงานผลิตและประกอบ EV เพิ่มความต้องการใช้วัสดุขัด ผิวโลหะ และการลบครีบชิ้นส่วนในสายการผลิตโดยตรง",
+            "action": "นำเสนอโซลูชันกระดาษทรายและสายพานขัดอุตสาหกรรมแก่โรงงานประกอบ EV และผู้ผลิตชิ้นส่วน Tier-1 รายใหม่"
+          }
+        },
+        {
+          "id": "20260807-2",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "The Momentum",
+          "date": "2026-07-14",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE89SGw2d2pzajkyX3JzZTRnVDJrelc3RU1VcmQwWldHcVQ1TlE3UDUyRDFnVHJrdXM4MUtPZmVRNFFNLWZacm1jLTJmT0hGczlXRE1RblBZd3BJRzQ?oc=5",
+          "title": "Chinese EV Influx in ASEAN Brings Opportunities and Supply Chain Shifts to Thailand",
+          "summary": "The rapid market expansion of Chinese EV makers across ASEAN is restructuring local automotive supply chains, affecting existing OEM dynamics in Thailand.",
+          "why": "Structural shifts between Japanese and Chinese automakers alter purchasing patterns and volume requirements for industrial abrasives.",
+          "action": "Monitor production schedule changes among Japanese OEM clients while expanding sales outreach to incoming Chinese supply chain vendors.",
+          "th": {
+            "title": "กระแส EV จีนบุกอาเซียน สร้างโอกาสและความท้าทายใหม่ต่อซัพพลายเชนยานยนต์ไทย",
+            "summary": "การขยายตลาดอย่างรวดเร็วของรถยนต์ไฟฟ้าจีนเปลี่ยนโครงสร้างซัพพลายเชนยานยนต์ในไทยและภูมิภาคอาเซียน",
+            "why": "การปรับเปลี่ยนฐานการผลิตของค่ายรถส่งผลต่อปริมาณการใช้วัสดุขัดของโรงงานซัพพลายเออร์สัญชาติญี่ปุ่นและไทย",
+            "action": "ติดตามการปรับกำลังการผลิตของลูกค้ารายเดิม พร้อมเร่งสร้างคอนเนกชันกับซัพพลายเออร์ในห่วงโซ่ผลิต EV จีน"
+          }
+        },
+        {
+          "id": "20260807-3",
+          "tag": "aero",
+          "rating": "amber",
+          "source": "TNN Thailand",
+          "date": "2026-02-26",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBha29MM3ZjeEN0VWprRzBNMnh3dnBlZUNmMVh4bnR5NnBPN21ENFU4bUlNOHBsbHdiNnJEX1lFRW9DMmFqVHZmSmtEbHdnZWh3VmNYR1lZbkswMTZRNUtr?oc=5",
+          "title": "Thai Airways Targets 5% Revenue Growth to 200 Billion Baht in 2026",
+          "summary": "Thai Airways is forecasting 5% revenue growth to reach 200 billion baht in 2026, driven by fleet expansion and rising flight frequencies.",
+          "why": "Active fleet expansion supports steady long-term demand for MRO services and precision polishing tools required for aircraft maintenance.",
+          "action": "Prepare specialized product catalogs for precision aerospace abrasives to present to MRO procurement teams.",
+          "th": {
+            "title": "การบินไทยตั้งเป้ารายได้ปี 2569 โต 5% แตะ 2 แสนล้านบาท รับท่องเที่ยวฟื้น",
+            "summary": "การบินไทยตั้งเป้ารายได้ปี 2569 ขยายตัว 5% แตลระดับ 2 แสนล้านบาท จากการเพิ่มฝูงบินและการฟื้นตัวของเที่ยวบิน",
+            "why": "การขยายฝูงบินช่วยสนับสนุนความต้องการงานซ่อมบำรุงอากาศยาน (MRO) ซึ่งจำเป็นต้องใช้วัสดุขัดและขัดเงาเกรดความแม่นยำสูง",
+            "action": "จัดทำแคตตาล็อกสินค้าวัสดุขัดสำหรับการซ่อมบำรุงอากาศยานเพื่อเข้าเสนอแผนกจัดซื้อของศูนย์ซ่อม MRO"
+          }
+        },
+        {
+          "id": "20260807-4",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "เดลินิวส์",
+          "date": "2026-05-21",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3cWgyMzlsVU90VjFUWTJ4czV4U2ZIZi1QbnBzeUR5ZzNHQ21jTzR6RmVpaDFDVVF2ODVsTlFmYVZLbUlCdGhEUXExQTdSbng0U29n?oc=5",
+          "title": "Thai Steel Sector Struggles Amid Sluggish Domestic Demand and Cheap Imports",
+          "summary": "Thai steel mills face reduced capacity utilization due to weak domestic construction activity and competitive pressure from low-cost Chinese imports.",
+          "why": "Slowing steel processing activity reduces factory consumption of heavy grinding discs and metal sanding belts.",
+          "action": "Focus sales efforts on specialized high-value metal fabrication shops rather than general structural steel makers.",
+          "th": {
+            "title": "อุตสาหกรรมเหล็กไทยเผชิญภาวะซบเซาจากยอดใช้ในประเทศต่ำและเหล็กนำเข้าจากจีน",
+            "summary": "ผู้ผลิตเหล็กในประเทศประสบปัญหากำลังการผลิตตกต่ำจากภาคการก่อสร้างที่ชะลอตัวและการแข่งขันกับเหล็กราคาถูกจากจีน",
+            "why": "ปริมาณการแปรรูปโลหะและเหล็กที่ลดลงส่งผลให้ยอดใช้วัสดุขัดหยาบและจานขัดเหล็กในโรงงานลดลงตาม",
+            "action": "เน้นเจาะกลุ่มโรงงานแปรรูปโลหะเฉพาะทางและงานวิศวกรรมโครงสร้างชิ้นส่วนที่มีมูลค่าสูงแทน"
+          }
+        }
+      ],
+      "terms": {}
+    },
+    {
       "date": "2026-08-06",
       "summary": "Limited new updates today. Key highlights include local airlines partnering on U-Tapao MRO hub development and automotive industry bodies urging government support for traditional manufacturing bases.",
       "directCount": 1,
@@ -352,5 +435,5 @@ window.NEWS_ARCHIVE = {
       "terms": {}
     }
   ],
-  "updated": "2026-08-06"
+  "updated": "2026-08-07"
 };
