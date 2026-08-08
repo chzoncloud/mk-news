@@ -3,100 +3,64 @@ window.NEWS_ARCHIVE = {
   "days": [
     {
       "date": "2026-08-09",
-      "summary": "Today's news highlights significant capacity expansions in Thailand's EV assembly and woodworking sectors, driving new demand for industrial abrasives despite policy shifts around EV import tariffs.",
-      "directCount": 3,
+      "summary": "Today features limited new coverage, highlighting Thai Airways' major fleet expansion which presents long-term demand for aviation MRO abrasives. Meanwhile, government crackdowns on substandard steel mills and ASEAN furniture growth offer steady indirect opportunities.",
+      "directCount": 1,
       "th": {
-        "summary": "ข่าววันนี้ชี้ให้เห็นการขยายกำลังการผลิตที่สำคัญในกลุ่มประกอบรถยนต์ไฟฟ้าและงานไม้/เฟอร์นิเจอร์ ซึ่งช่วยหนุนความต้องการวัสดุขัดอุตสาหกรรม แม้จะมีความไม่แน่นอนเรื่องนโยบายภาษีนำเข้า EV"
+        "summary": "วันนี้มีข่าวใหม่จำนวนไม่มาก โดยมีประเด็นสำคัญคือการบินไทยทุ่มงบขยายฝูงบินขนาดใหญ่ซึ่งสร้างโอกาสให้อุตสาหกรรม MRO และวัสดุขัดเกรดการบิน ขณะที่การปราบปรามโรงงานเหล็กไม่ได้มาตรฐานและการเติบโตของเฟอร์นิเจอร์อาเซียนช่วยหนุนตลาดทางอ้อม"
       },
       "items": [
         {
           "id": "20260809-1",
-          "tag": "auto",
-          "rating": "amber",
+          "tag": "aero",
+          "rating": "green",
           "source": "thansettakij",
-          "date": "2026-08-08",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SbFVXMm9mcTAtMkRLMzlrT3I5NGk1eHNwSlZPQVVaUXFuTGI2RnpzTXNkLTB3VnllYTMxd2szYkFEVXRnTUc0Skt4cmlmLWlTYzc0T0dqVQ?oc=5",
-          "title": "Government Considers EV Import Tax Hikes as Traditional Automakers Request Adjustment Time",
-          "summary": "The Thai government is considering raising tariffs on imported EVs to protect local production, while traditional carmakers ask for transition time amid fierce market competition.",
-          "why": "Higher tariffs on imported CBU EVs could accelerate local manufacturing and assembly lines, benefiting abrasive suppliers serving OEM plants.",
-          "action": "Monitor policy changes and engage Tier-1/Tier-2 automotive suppliers preparing for localized EV part production.",
+          "date": "2026-08-02",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJbG91NDM0Z1ZuZmRPYUc4dlRzSXYwVXRnb1l5dGZyZUJLSDZqUXhOSnVzSXVQeTdRME04Y1c5TVB5SC0wOENDcm9VeDhaT3Fha0ZocE90aEgzNXpNOGVmYklR?oc=5",
+          "title": "Thai Airways Invests 100 Billion Baht to Expand Fleet to 150 Aircraft",
+          "summary": "Thai Airways plans a 100-billion-Baht investment to expand its fleet to 150 aircraft, aiming to reclaim its position as a leading global airline.",
+          "why": "A larger aircraft fleet directly increases demand for routine maintenance, surface preparation, and MRO-grade polishing materials.",
+          "action": "Target aerospace MRO facilities and sub-contractors with specialized high-precision abrasive products.",
           "th": {
-            "title": "จับตารัฐบาลขึ้นภาษี EV นำเข้า ค่ายรถขอเวลาปรับตัว หวั่นแข่งยาก พับแผนกลับบ้าน",
-            "summary": "รัฐบาลไทยพิจารณาปรับขึ้นภาษีนำเข้ารถยนต์ไฟฟ้าเพื่อปกป้องการผลิตในประเทศ ขณะที่ค่ายรถยนต์เดิมขอเวลาปรับตัวท่ามกลางการแข่งขันที่รุนแรง",
-            "why": "การขึ้นภาษีรถ EV นำเข้าสำเร็จรูปจะเร่งให้เกิดการผลิตและประกอบในประเทศมากขึ้น ซึ่งเป็นบวกต่อยอดใช้วัสดุขัดในโรงงานประกอบ",
-            "action": "ติดตามนโยบายใกล้ชิด และเข้าพบซัพพลายเออร์ Tier-1/Tier-2 ที่เตรียมเพิ่มสายการผลิตชิ้นส่วน EV ในไทย"
+            "title": "การบินไทยทุ่มแสนล้าน ดันฝูงบิน 150 ลำ ทวงบัลลังก์สายการบินระดับโลก",
+            "summary": "การบินไทยเตรียมลงทุน 1 แสนล้านบาท ขยายฝูงบินเพิ่มเป็น 150 ลำ เพื่อยกระดับความสามารถในการแข่งขันสู่สายการบินชั้นนำระดับโลก",
+            "why": "การเพิ่มจำนวนเครื่องบินจะส่งผลให้งานซ่อมบำรุงและงานขัดเตรียมผิวชิ้นส่วนอากาศยานเพิ่มขึ้นอย่างมีนัยสำคัญในระยะยาว",
+            "action": "เร่งติดต่อศูนย์ซ่อมบำรุงอากาศยานและซัพพลายเออร์ที่เกี่ยวข้องเพื่อเสนอตัวเป็นผู้จัดหาวัสดุขัดเกรดการบิน"
           }
         },
         {
           "id": "20260809-2",
-          "tag": "auto",
-          "rating": "green",
-          "source": "LINE TODAY",
-          "date": "2026-07-24",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1d29pcVRMMUxSTVRTUkR4bkRWT2tSM09YQjNEWjhHeGF4VTZINWlvdjU5TzZsRFIzWmRuRllrMWpuYlIxakQ0N2hqOEdhay1DOERseUl3?oc=5",
-          "title": "Mitsubishi Motors Injects 16 Billion Baht in Thailand to Establish EV and Electric Pickup Production Base",
-          "summary": "Mitsubishi Motors announced an additional 16-billion-baht investment in Thailand through 2030 to establish production lines for EVs and electric pickup trucks.",
-          "why": "Direct investment from a major Japanese OEM ensures long-term stamping, body polishing, and metal deburring abrasive demand in Japanese supply chains.",
-          "action": "Target Mitsubishi's key Japanese OEM part suppliers in Chonburi and Rayong to supply high-performance sanding belts and discs.",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "Thairath.co.th",
+          "date": "2026-05-22",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5yOEdKVkRNRnBpc1dWRGRuNzNtN1NHR09mSlc3eHpQem1iLUg4TVY0bkN2eDF4bWhhZ3JfTU5idGxKN2trZUJfS1hRMlkxZHQ5T29sTVBMdU5fTHR0V09GQ2h0c19ZSGRrVU9oaTI3eVQydWc?oc=5",
+          "title": "Steel Associations Praise Ministry Crackdown on Substandard Steel Mills",
+          "summary": "Ten steel associations expressed strong support for the Ministry of Industry's strict enforcement against non-compliant steel manufacturing plants.",
+          "why": "Eliminating illegal steel producers protects standardized local manufacturers, stabilizing demand for metal grinding discs and finishing products.",
+          "action": "Focus sales efforts on certified, compliant steel fabrication plants that benefit from market cleanup.",
           "th": {
-            "title": "Mitsubishi Motors ทุ่มลงทุนเพิ่ม 1.6 หมื่นล้านบาทในไทยถึงปี 2573 ปักฐานผลิต EV-กระบะไฟฟ้า",
-            "summary": "มิตซูบิชิ มอเตอร์ส ประกาศลงทุนเพิ่ม 1.6 หมื่นล้านบาทในไทยถึงปี 2573 เพื่อสร้างฐานการผลิตรถยนต์ไฟฟ้าและรถกระบะไฟฟ้า",
-            "why": "การลงทุนตรงจากค่ายรถญี่ปุ่นชั้นนำช่วยประกันความต้องการวัสดุขัดแต่งผิวโลหะและขัดเงาตัวถังในห่วงโซ่อุปทานญี่ปุ่นในระยะยาว",
-            "action": "รุกตลาดโรงงานซัพพลายเออร์ชิ้นส่วนของมิตซูบิชิในชลบุรีและระยองเพื่อเสนอสายพานขัดและจานขัดประสิทธิภาพสูง"
+            "title": "10 สมาคมเหล็กหนุนกระทรวงอุตสาหกรรม ลุยปราบโรงงานเหล็กไม่ได้มาตรฐาน",
+            "summary": "สมาคมอุตสาหกรรมเหล็ก 10 แห่ง แสดงความชื่นชมกระทรวงอุตสาหกรรมที่เข้มงวดในการกวาดล้างและปิดโรงงานผลิตเหล็กที่ไม่ได้มาตรฐาน",
+            "why": "การปราบปรามโรงงานผิดกฎหมายช่วยสร้างความเป็นธรรมในตลาด และส่งผลดีต่อโรงงานเหล็กคุณภาพดีที่เป็นลูกค้ารายหลักของเรา",
+            "action": "เน้นเจาะกลุ่มลูกค้าโรงงานเหล็กที่ได้มาตรฐาน ISO และ มอก. ซึ่งจะได้รับออเดอร์เพิ่มขึ้นจากการจัดระเบียบตลาด"
           }
         },
         {
           "id": "20260809-3",
-          "tag": "auto",
-          "rating": "green",
-          "source": "springnews",
-          "date": "2026-08-02",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tOExFampnTDY0ZjcyeVdGekZJdXFqZllBSmRGTUVHaFNRTVRrU1FfJnN3dVNUaXd0d1BYRWtNcjhHRzhVS0FfRUt0aG1wUVIxYkxYUVBkLW9ZbVdQMEtyckRIS0lBVjRrQzRn?oc=5",
-          "title": "BYD EV Plant Positioned to Drive Thailand as Regional ASEAN Production Hub",
-          "summary": "BYD's fully operational EV plant in Thailand is accelerating local production to serve both domestic adoption and ASEAN export markets.",
-          "why": "Ramping up local BYD car assembly directly boosts consumption of automotive refinishing, body sanding, and mold grinding abrasives.",
-          "action": "Promote fine-grit sanding paper and automated robotic polishing abrasives to EV body and mold manufacturing sub-contractors.",
-          "th": {
-            "title": "โรงงานยานยนต์ไฟฟ้า BYD ดันประเทศไทยสู่ฮับ EV แห่งภูมิภาคอาเซียน",
-            "summary": "โรงงานผลิตรถยนต์ไฟฟ้า BYD ในไทยเร่งเดินหน้าการผลิตเต็มกำลังเพื่อรองรับตลาดในประเทศและการส่งออกไปยังอาเซียน",
-            "why": "การเร่งการผลิตของ BYD เพิ่มการใช้วัสดุขัดเตรียมผิวตัวถัง รถยนต์ และขัดแม่พิมพ์โลหะโดยตรง",
-            "action": "นำเสนอกระดาษทรายเบอร์ละเอียดและหัวขัดสำหรับหุ่นยนต์อุตสาหกรรมให้กับผู้รับเหมาช่วงงานแม่พิมพ์และตัวถัง EV"
-          }
-        },
-        {
-          "id": "20260809-4",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "SondhiX",
-          "date": "2026-06-13",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kY19SS2JXYVZSUF9XVnpPaDVoeTVXdGQ1cHVqUzBLNmdaWjZwT0kzY3pVaERuenhNelpxQlZEZ2hOS2pmajZ0OHN4VnZvUDBpOFpmc2hn?oc=5",
-          "title": "Steel Producer Xin Ke Yuan Attempts Comeback, Facing Tough Market Barriers in Thailand",
-          "summary": "Re-opening efforts by controversy-plagued steel maker Xin Ke Yuan face heavy resistance from local industry groups and strict regulatory enforcement.",
-          "why": "Strict enforcement against non-compliant steel plants favors compliant, high-quality steel fabricators who are regular consumers of industrial grinding discs.",
-          "action": "Maintain focus on certified, high-standard metal fabrication plants that prioritize quality grinding and safety standards.",
-          "th": {
-            "title": "“ซิน เคอ หยวน” ฟื้นคืนชีพ แต่กลับมายึด “ตลาดเหล็กไทย” โคตรยากกกก",
-            "summary": "การพยายามกลับมาเปิดโรงงานอีกครั้งของ ซิน เคอ หยวน เผชิญแรงต้านหนักจากสมาคมเหล็กในประเทศและการบังคับใช้กฎหมายที่เข้มงวด",
-            "why": "การกวาดล้างโรงงานเหล็กไม่ได้มาตรฐานช่วยส่งผลดีต่อโรงงานแปรรูปเหล็กมาตรฐานสูงที่เป็นลูกค้าหลักของจานเจียรคุณภาพ",
-            "action": "เน้นเจาะกลุ่มโรงงานโครงสร้างเหล็กและแปรรูปโลหะมาตรฐานสูงที่ให้ความสำคัญกับความปลอดภัยและคุณภาพงานขัด"
-          }
-        },
-        {
-          "id": "20260809-5",
           "tag": "furniture",
-          "rating": "green",
-          "source": "Matichon Online",
-          "date": "2026-07-13",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tSExWNjZuc1BjdTBOM2F6OWVuN1J4bWo1R1hDUjk4VWdqelZnSy1xTjN4UllKcTFmSjRFck9HVW5NMGlJTTUyQWJ2STVJR096aXd0YnhjUHdaczA?oc=5",
-          "title": "TIWF 2026 Trade Exhibition Aimed at Upgrading Regional Woodworking and Furniture Sector",
-          "summary": "Thailand International Woodworking & Furniture Exhibition (TIWF 2026) is set to connect regional manufacturers and boost adoption of advanced machinery.",
-          "why": "Growth and modernization in wood and furniture processing directly drive demand for wide sanding belts, disc rolls, and surface finishing abrasives.",
-          "action": "Prepare targeted promotional campaigns for wide sanding belts and woodworking abrasives ahead of the TIWF 2026 exhibition.",
+          "rating": "amber",
+          "source": "posttoday",
+          "date": "2026-02-20",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxXzVZOHRNaDlMYzJBM2F6S1FPc0Vkcy1Sc2JWRnl1VklJY2ZCSEpsOUJ0RG13b0I1cHBpXzBUOUhlSHdpdV9uV1cyZGJHT2pNaF83cw?oc=5",
+          "title": "ASEAN Furniture Sector Expands with Top Four Nations Controlling 90% Exports",
+          "summary": "The ASEAN furniture industry is expanding steadily, driven by design and sustainability trends, with four major exporting nations leading the market.",
+          "why": "Export-oriented furniture makers require reliable supplies of coated abrasives and sanding belts for high-quality wood finishing.",
+          "action": "Promote durable sanding belts and fine-grit sandpaper tailored for export-grade wood manufacturers.",
           "th": {
-            "title": "TIWF 2026 ปักหมุดงานใหญ่แห่งปี ยกระดับอุตสาหกรรมงานไม้และเฟอร์นิเจอร์สู่ภูมิภาคอาเซียน",
-            "summary": "งานแสดงสินค้างานไม้และเฟอร์นิเจอร์ TIWF 2026 เตรียมเชื่อมโยงผู้ผลิตในภูมิภาคและผลักดันการใช้เครื่องจักรงานไม้ขั้นสูง",
-            "why": "การเติบโตและการยกระดับโรงงานเฟอร์นิเจอร์ไม้ช่วยเพิ่มปริมาณการใช้สายพานขัดแถบกว้าง (Wide Belts) และกระดาษทรายม้วนโดยตรง",
-            "action": "จัดแคมเปญส่งเสริมการขายสายพานขัดงานไม้และกระดาษทรายม้วนล่วงหน้าเพื่อรองรับความต้องการช่วงงาน TIWF 2026"
+            "title": "อุตสาหกรรมเฟอร์นิเจอร์อาเซียนขยายตัว 4 ชาติครองส่งออก 90%",
+            "summary": "อุตสาหกรรมเฟอร์นิเจอร์ในภูมิภาคอาเซียนเติบโตต่อเนื่อง โดยเน้นการพัฒนาดีไซน์และความยั่งยืน ดันมูลค่าส่งออกรวมพุ่งสูง",
+            "why": "โรงงานผลิตเฟอร์นิเจอร์เพื่อการส่งออกต้องการกระดาษทรายและสายพานขัดคุณภาพสูงเพื่อความเรียบเนียนของชิ้นงานไม้",
+            "action": "นำเสนอสายพานขัดไม้และกระดาษทรายม้วนสำหรับโรงงานเฟอร์นิเจอร์ไม้ส่งออกขนาดใหญ่"
           }
         }
       ],
