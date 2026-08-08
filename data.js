@@ -2,6 +2,107 @@
 window.NEWS_ARCHIVE = {
   "days": [
     {
+      "date": "2026-08-09",
+      "summary": "Today's news highlights significant capacity expansions in Thailand's EV assembly and woodworking sectors, driving new demand for industrial abrasives despite policy shifts around EV import tariffs.",
+      "directCount": 3,
+      "th": {
+        "summary": "ข่าววันนี้ชี้ให้เห็นการขยายกำลังการผลิตที่สำคัญในกลุ่มประกอบรถยนต์ไฟฟ้าและงานไม้/เฟอร์นิเจอร์ ซึ่งช่วยหนุนความต้องการวัสดุขัดอุตสาหกรรม แม้จะมีความไม่แน่นอนเรื่องนโยบายภาษีนำเข้า EV"
+      },
+      "items": [
+        {
+          "id": "20260809-1",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "thansettakij",
+          "date": "2026-08-08",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SbFVXMm9mcTAtMkRLMzlrT3I5NGk1eHNwSlZPQVVaUXFuTGI2RnpzTXNkLTB3VnllYTMxd2szYkFEVXRnTUc0Skt4cmlmLWlTYzc0T0dqVQ?oc=5",
+          "title": "Government Considers EV Import Tax Hikes as Traditional Automakers Request Adjustment Time",
+          "summary": "The Thai government is considering raising tariffs on imported EVs to protect local production, while traditional carmakers ask for transition time amid fierce market competition.",
+          "why": "Higher tariffs on imported CBU EVs could accelerate local manufacturing and assembly lines, benefiting abrasive suppliers serving OEM plants.",
+          "action": "Monitor policy changes and engage Tier-1/Tier-2 automotive suppliers preparing for localized EV part production.",
+          "th": {
+            "title": "จับตารัฐบาลขึ้นภาษี EV นำเข้า ค่ายรถขอเวลาปรับตัว หวั่นแข่งยาก พับแผนกลับบ้าน",
+            "summary": "รัฐบาลไทยพิจารณาปรับขึ้นภาษีนำเข้ารถยนต์ไฟฟ้าเพื่อปกป้องการผลิตในประเทศ ขณะที่ค่ายรถยนต์เดิมขอเวลาปรับตัวท่ามกลางการแข่งขันที่รุนแรง",
+            "why": "การขึ้นภาษีรถ EV นำเข้าสำเร็จรูปจะเร่งให้เกิดการผลิตและประกอบในประเทศมากขึ้น ซึ่งเป็นบวกต่อยอดใช้วัสดุขัดในโรงงานประกอบ",
+            "action": "ติดตามนโยบายใกล้ชิด และเข้าพบซัพพลายเออร์ Tier-1/Tier-2 ที่เตรียมเพิ่มสายการผลิตชิ้นส่วน EV ในไทย"
+          }
+        },
+        {
+          "id": "20260809-2",
+          "tag": "auto",
+          "rating": "green",
+          "source": "LINE TODAY",
+          "date": "2026-07-24",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1d29pcVRMMUxSTVRTUkR4bkRWT2tSM09YQjNEWjhHeGF4VTZINWlvdjU5TzZsRFIzWmRuRllrMWpuYlIxakQ0N2hqOEdhay1DOERseUl3?oc=5",
+          "title": "Mitsubishi Motors Injects 16 Billion Baht in Thailand to Establish EV and Electric Pickup Production Base",
+          "summary": "Mitsubishi Motors announced an additional 16-billion-baht investment in Thailand through 2030 to establish production lines for EVs and electric pickup trucks.",
+          "why": "Direct investment from a major Japanese OEM ensures long-term stamping, body polishing, and metal deburring abrasive demand in Japanese supply chains.",
+          "action": "Target Mitsubishi's key Japanese OEM part suppliers in Chonburi and Rayong to supply high-performance sanding belts and discs.",
+          "th": {
+            "title": "Mitsubishi Motors ทุ่มลงทุนเพิ่ม 1.6 หมื่นล้านบาทในไทยถึงปี 2573 ปักฐานผลิต EV-กระบะไฟฟ้า",
+            "summary": "มิตซูบิชิ มอเตอร์ส ประกาศลงทุนเพิ่ม 1.6 หมื่นล้านบาทในไทยถึงปี 2573 เพื่อสร้างฐานการผลิตรถยนต์ไฟฟ้าและรถกระบะไฟฟ้า",
+            "why": "การลงทุนตรงจากค่ายรถญี่ปุ่นชั้นนำช่วยประกันความต้องการวัสดุขัดแต่งผิวโลหะและขัดเงาตัวถังในห่วงโซ่อุปทานญี่ปุ่นในระยะยาว",
+            "action": "รุกตลาดโรงงานซัพพลายเออร์ชิ้นส่วนของมิตซูบิชิในชลบุรีและระยองเพื่อเสนอสายพานขัดและจานขัดประสิทธิภาพสูง"
+          }
+        },
+        {
+          "id": "20260809-3",
+          "tag": "auto",
+          "rating": "green",
+          "source": "springnews",
+          "date": "2026-08-02",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tOExFampnTDY0ZjcyeVdGekZJdXFqZllBSmRGTUVHaFNRTVRrU1FfJnN3dVNUaXd0d1BYRWtNcjhHRzhVS0FfRUt0aG1wUVIxYkxYUVBkLW9ZbVdQMEtyckRIS0lBVjRrQzRn?oc=5",
+          "title": "BYD EV Plant Positioned to Drive Thailand as Regional ASEAN Production Hub",
+          "summary": "BYD's fully operational EV plant in Thailand is accelerating local production to serve both domestic adoption and ASEAN export markets.",
+          "why": "Ramping up local BYD car assembly directly boosts consumption of automotive refinishing, body sanding, and mold grinding abrasives.",
+          "action": "Promote fine-grit sanding paper and automated robotic polishing abrasives to EV body and mold manufacturing sub-contractors.",
+          "th": {
+            "title": "โรงงานยานยนต์ไฟฟ้า BYD ดันประเทศไทยสู่ฮับ EV แห่งภูมิภาคอาเซียน",
+            "summary": "โรงงานผลิตรถยนต์ไฟฟ้า BYD ในไทยเร่งเดินหน้าการผลิตเต็มกำลังเพื่อรองรับตลาดในประเทศและการส่งออกไปยังอาเซียน",
+            "why": "การเร่งการผลิตของ BYD เพิ่มการใช้วัสดุขัดเตรียมผิวตัวถัง รถยนต์ และขัดแม่พิมพ์โลหะโดยตรง",
+            "action": "นำเสนอกระดาษทรายเบอร์ละเอียดและหัวขัดสำหรับหุ่นยนต์อุตสาหกรรมให้กับผู้รับเหมาช่วงงานแม่พิมพ์และตัวถัง EV"
+          }
+        },
+        {
+          "id": "20260809-4",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "SondhiX",
+          "date": "2026-06-13",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kY19SS2JXYVZSUF9XVnpPaDVoeTVXdGQ1cHVqUzBLNmdaWjZwT0kzY3pVaERuenhNelpxQlZEZ2hOS2pmajZ0OHN4VnZvUDBpOFpmc2hn?oc=5",
+          "title": "Steel Producer Xin Ke Yuan Attempts Comeback, Facing Tough Market Barriers in Thailand",
+          "summary": "Re-opening efforts by controversy-plagued steel maker Xin Ke Yuan face heavy resistance from local industry groups and strict regulatory enforcement.",
+          "why": "Strict enforcement against non-compliant steel plants favors compliant, high-quality steel fabricators who are regular consumers of industrial grinding discs.",
+          "action": "Maintain focus on certified, high-standard metal fabrication plants that prioritize quality grinding and safety standards.",
+          "th": {
+            "title": "“ซิน เคอ หยวน” ฟื้นคืนชีพ แต่กลับมายึด “ตลาดเหล็กไทย” โคตรยากกกก",
+            "summary": "การพยายามกลับมาเปิดโรงงานอีกครั้งของ ซิน เคอ หยวน เผชิญแรงต้านหนักจากสมาคมเหล็กในประเทศและการบังคับใช้กฎหมายที่เข้มงวด",
+            "why": "การกวาดล้างโรงงานเหล็กไม่ได้มาตรฐานช่วยส่งผลดีต่อโรงงานแปรรูปเหล็กมาตรฐานสูงที่เป็นลูกค้าหลักของจานเจียรคุณภาพ",
+            "action": "เน้นเจาะกลุ่มโรงงานโครงสร้างเหล็กและแปรรูปโลหะมาตรฐานสูงที่ให้ความสำคัญกับความปลอดภัยและคุณภาพงานขัด"
+          }
+        },
+        {
+          "id": "20260809-5",
+          "tag": "furniture",
+          "rating": "green",
+          "source": "Matichon Online",
+          "date": "2026-07-13",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tSExWNjZuc1BjdTBOM2F6OWVuN1J4bWo1R1hDUjk4VWdqelZnSy1xTjN4UllKcTFmSjRFck9HVW5NMGlJTTUyQWJ2STVJR096aXd0YnhjUHdaczA?oc=5",
+          "title": "TIWF 2026 Trade Exhibition Aimed at Upgrading Regional Woodworking and Furniture Sector",
+          "summary": "Thailand International Woodworking & Furniture Exhibition (TIWF 2026) is set to connect regional manufacturers and boost adoption of advanced machinery.",
+          "why": "Growth and modernization in wood and furniture processing directly drive demand for wide sanding belts, disc rolls, and surface finishing abrasives.",
+          "action": "Prepare targeted promotional campaigns for wide sanding belts and woodworking abrasives ahead of the TIWF 2026 exhibition.",
+          "th": {
+            "title": "TIWF 2026 ปักหมุดงานใหญ่แห่งปี ยกระดับอุตสาหกรรมงานไม้และเฟอร์นิเจอร์สู่ภูมิภาคอาเซียน",
+            "summary": "งานแสดงสินค้างานไม้และเฟอร์นิเจอร์ TIWF 2026 เตรียมเชื่อมโยงผู้ผลิตในภูมิภาคและผลักดันการใช้เครื่องจักรงานไม้ขั้นสูง",
+            "why": "การเติบโตและการยกระดับโรงงานเฟอร์นิเจอร์ไม้ช่วยเพิ่มปริมาณการใช้สายพานขัดแถบกว้าง (Wide Belts) และกระดาษทรายม้วนโดยตรง",
+            "action": "จัดแคมเปญส่งเสริมการขายสายพานขัดงานไม้และกระดาษทรายม้วนล่วงหน้าเพื่อรองรับความต้องการช่วงงาน TIWF 2026"
+          }
+        }
+      ],
+      "terms": {}
+    },
+    {
       "date": "2026-08-08",
       "summary": "Today has limited new news; key reports highlight structural downturns in Thailand's traditional auto and steel sectors while emphasizing opportunities in the localizing Chinese EV supply chain.",
       "directCount": 1,
@@ -482,5 +583,5 @@ window.NEWS_ARCHIVE = {
       "terms": {}
     }
   ],
-  "updated": "2026-08-08"
+  "updated": "2026-08-09"
 };
