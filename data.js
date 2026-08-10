@@ -3,64 +3,82 @@ window.NEWS_ARCHIVE = {
   "days": [
     {
       "date": "2026-08-11",
-      "summary": "Limited new headlines today. Regional growth in metallurgy offers new demand for metal-grinding abrasives, while structural challenges in local auto manufacturing highlight the need to diversify toward compliant factories and MRO sectors.",
-      "directCount": 1,
+      "summary": "Today has limited new developments; key focus centers on long-term aerospace MRO expansion in Thailand alongside ASEAN furniture strategy shifts and steel dumping challenges.",
+      "directCount": 2,
       "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มาก การเติบโตของอุตสาหกรรมโลหะวิทยาในภูมิภาคสร้างโอกาสให้แก่วัสดุขัดเจียรโลหะ ขณะที่ปัญหาโครงสร้างในภาคยานยนต์ไทยย้ำเตือนให้กระจายตลาดไปยังโรงงานที่ได้มาตรฐานและกลุ่ม MRO"
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก นักวิเคราะห์เน้นติดตามการขยายตัวของศูนย์ซ่อมอากาศยาน (MRO) ในไทย รวมถึงการปรับกลยุทธ์เฟอร์นิเจอร์อาเซียนและแรงกดดันเหล็กจีนทุ่มตลาด"
       },
       "items": [
         {
           "id": "20260811-1",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "bangkokbiznews",
-          "date": "2026-07-23",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Ia3BQamVvR0x1WW9iOVZQdXYxSmxRckVHcWFLajE4dE9WUDh1T1lPZElDQXBjLTZQb2JRSElrUzJLZ0tVX2JFeFVtNzJRb0YyaVpab3RSQlNJbnlCVElCNU13?oc=5",
-          "title": "Thai Automotive Crisis Reflects Structural Issues Beyond the EV Shift",
-          "summary": "Analysis indicates that the Thai automotive slowdown stems from high household debt and shrinking domestic purchasing power, not solely EV disruption.",
-          "why": "Declining automotive production reduces abrasive and sanding tool usage among Tier-1 and Tier-2 automotive component suppliers.",
-          "action": "Shift focus toward aftermarket parts manufacturers, export-oriented metal fabricators, and aerospace MRO accounts.",
+          "tag": "aero",
+          "rating": "green",
+          "source": "thansettakij.com",
+          "date": "2026-08-01",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJbG91NDM0Z1ZuZmRPYUc4dlRzSXYwVXRnb1l5dGZyZUJLSDZqUXhOSnVzSXVQeTdRME04Y1c5TVB5SC0wOENDcm9VeDhaT3Fha0ZocE90aEgzNXpNOGVmYklR?oc=5",
+          "title": "Thai Airways Invests 100 Billion Baht to Expand Fleet to 150 Aircraft",
+          "summary": "Thai Airways plans a 100 billion baht investment to expand its fleet to 150 aircraft, aiming to reclaim its global airline standing.",
+          "why": "A significantly larger active aircraft fleet drives continuous maintenance and overhaul work, increasing demand for high-grade surface prep abrasives.",
+          "action": "Prepare specialized aerospace-grade abrasive product catalogs to target airlines and MRO service contractors.",
           "th": {
-            "title": "วิกฤตยานยนต์ไทยสะท้อนปัญหาเชิงโครงสร้างที่ลึกซึ้งกว่าแค่การมาของ EV",
-            "summary": "ผลวิเคราะห์ระบุว่าการชะลอตัวของอุตสาหกรรมยานยนต์ไทยเกิดจากหนี้ครัวเรือนและกำลังซื้อในประเทศที่ซบเซา ซึ่งเป็นปัญหาสั่งสมมาก่อนการเปลี่ยนผ่านสู่ EV",
-            "why": "ยอดผลิตรถยนต์ที่ลดลงส่งผลกระทบโดยตรงต่อปริมาณการใช้งานกระดาษทรายและจานขัดในกลุ่มผู้ผลิตชิ้นส่วนยานยนต์ Tier-1 และ Tier-2",
-            "action": "กระจายความเสี่ยงด้วยการเพิ่มยอดขายในกลุ่มผู้ผลิตชิ้นส่วนทดแทน งานโลหะส่งออก และศูนย์ซ่อมบำรุงอากาศยาน (MRO)"
+            "title": "การบินไทยทุ่มแสนล้าน ขยายฝูงบิน 150 ลำ ทวงบัลลังก์สายการบินระดับโลก",
+            "summary": "การบินไทยเตรียมงบลงทุนแสนล้านบาทจัดทัพฝูงบินแตะ 150 ลำ เพื่อรองรับการเติบโตและยกระดับสู่สายการบินชั้นนำ",
+            "why": "จำนวนเครื่องบินที่เพิ่มขึ้นจะช่วยเพิ่มปริมาณงานซ่อมบำรุงและขัดเตรียมผิวอากาศยานอย่างต่อเนื่อง",
+            "action": "จัดทำแคตตาล็อกสินค้าวัสดุขัดเกรดการบินเพื่อเข้าเสนอขายผู้รับเหมางาน MRO และสายการบิน"
           }
         },
         {
           "id": "20260811-2",
-          "tag": "steel",
+          "tag": "aero",
           "rating": "green",
-          "source": "Vietnam.vn",
-          "date": "2026-08-04",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1US1N3OEdieEkyZklmZkp4SzZIcDhxM2dlaXdOd1FZZDNHLXpFQURrdGV1Y2RzRVFsUU9VUGE1WTIwREdTWklEQmRlNnU3VmIxQmRobGtlY0o3eEJJTDNzYk5tYVNsRElmNkJPMzVB?oc=5",
-          "title": "Regional Metallurgy Sector Accelerates Expansion and Modernization",
-          "summary": "Metallurgical and heavy metalworking industries in the region are rapidly upgrading capabilities to support high-precision industrial output.",
-          "why": "Factory upgrades and increased metal production directly drive demand for heavy-duty grinding discs, deburring products, and sanding belts.",
-          "action": "Target expanding regional metal processing plants with high-durability grinding wheel and abrasive belt solutions.",
+          "source": "LINE TODAY",
+          "date": "2025-11-23",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGRUZSdllROFR5LVMtQ1plTjJMNkFvRmNCeEtsWTJCNGxBbHFYNndUcWc0VVc4s00QVjdrdEIzVlZ3MXZWMGN0TWZ2RzFycWFyODBCYVdR?oc=5",
+          "title": "Thai Airways and Bangkok Airways Partner for 10 Billion Baht U-Tapao MRO Hub",
+          "summary": "Thai Airways and Bangkok Airways are jointly investing 10 billion baht to build and operate an MRO facility at U-Tapao Airport.",
+          "why": "Establishing a major aerospace MRO hub generates steady long-term demand for high-precision sanding and polishing tools.",
+          "action": "Connect with procurement teams and engineering vendors associated with the U-Tapao MRO development project.",
           "th": {
-            "title": "อุตสาหกรรมโลหะวิทยาในภูมิภาคเร่งพัฒนาและยกระดับกำลังการผลิตอย่างรวดเร็ว",
-            "summary": "อุตสาหกรรมโลหะวิทยาและงานแปรรูปโลหะหนักในภูมิภาคกำลังเร่งยกระดับเทคโนโลยีเพื่อรองรับการผลิตงานอุตสาหกรรมความละเอียดสูง",
-            "why": "การขยายตัวและการปรับปรุงโรงงานโลหะสร้างความต้องการโดยตรงสำหรับจานขัดเหล็ก สายพานขัด และวัสดุลบครีบคมเกรดอุตสาหกรรม",
-            "action": "เชิงรุกนำเสนอโซลูชันจานเจียรและสายพานขัดความทนทานสูงแก่โรงงานแปรรูปโลหะที่กำลังขยายกำลังการผลิต"
+            "title": "การบินไทย-บางกอกแอร์เวย์ส ร่วมทุน 1 หมื่นล้าน ผุดศูนย์ซ่อมอากาศยานอู่ตะเภา",
+            "summary": "สองสายการบินใหญ่ผนึกกำลังร่วมทุนหมื่นล้านบาทในการบริหารพื้นที่ศูนย์ซ่อมอากาศยาน MRO ณ สนามบินอู่ตะเภา",
+            "why": "การเกิดศูนย์ซ่อม MRO ขนาดใหญ่ในไทยจะสร้างความต้องการใช้วัสดุขัดละเอียดและลบครีบชิ้นส่วนเครื่องบินอย่างยั่งยืน",
+            "action": "เริ่มสร้างคอนเนกชันกับฝ่ายจัดซื้อและผู้รับเหมาวิศวกรรมในโครงการศูนย์ซ่อมอู่ตะเภา"
           }
         },
         {
           "id": "20260811-3",
-          "tag": "steel",
+          "tag": "furniture",
           "rating": "amber",
           "source": "LINE TODAY",
           "date": "2026-02-19",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfQ09FRHo1Z2lvY21mQmlOMUs2enllSTJNQ0hMd0hYN3ZsdV9Wbm9wem9yWm0tUFJ4ejVqNDVsTkE2MzZKT0JaWGppclAydURHVDRYd2FR?oc=5",
-          "title": "Ministry of Industry Pushes Forward Crackdown on Substandard Factories",
-          "summary": "The Ministry of Industry continues strict enforcement against illegal and non-standard industrial plants to safeguard quality manufacturers.",
-          "why": "Strict enforcement helps legal Japanese and foreign factories maintain fair competition, stabilizing overall industrial abrasive consumption.",
-          "action": "Focus direct B2B marketing on fully compliant, ISO-certified industrial plants that demand consistent quality abrasives.",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SdnFHbkI2cC12bTVyU0ZpODZiODNrZ2xoV1BtT2dIQ2hZN3AwVTcyRzVtY3ByN2tjazdNWGQ5VmphbXlMQU5iOEU4dVNGMU9iQW5QRUFB?oc=5",
+          "title": "ASEAN Furniture Sector Targets 1.6 Trillion Baht Market via Design and Sustainability",
+          "summary": "ASEAN furniture manufacturers are aligning strategies toward high-value designs and sustainable wood processing to capture global market share.",
+          "why": "Upgrading to premium wood furniture production requires advanced sanding belts and smooth finishing solutions.",
+          "action": "Promote premium anti-clogging wood sanding belts to export-oriented furniture manufacturers.",
           "th": {
-            "title": "กระทรวงอุตสาหกรรมเดินหน้ากวาดล้างโรงงานไร้มาตรฐานอย่างต่อเนื่อง",
-            "summary": "กระทรวงอุตสาหกรรมยังคงเข้มงวดในการตรวจจับและปิดโรงงานผิดกฎหมายที่ไม่ได้มาตรฐาน เพื่อปกป้องผู้ประกอบการที่ทำถูกต้อง",
-            "why": "การปราบปรามโรงงานไร้มาตรฐานช่วยให้โรงงานทุนต่างชาติและญี่ปุ่นที่ได้มาตรฐานแข่งขันได้อย่างเป็นธรรม และรักษาฐานการใช้วัสดุขัดคุณภาพสูง",
-            "action": "มุ่งเน้นทำตลาด B2B กับโรงงานที่ได้มาตรฐาน ISO และมีระบบการผลิตถูกต้อง ซึ่งต้องการวัสดุขัดที่มีคุณภาพและได้มาตรฐานความปลอดภัย"
+            "title": "อาเซียนผนึกกำลังรุกตลาดเฟอร์นิเจอร์โลก ชูดีไซน์และความยั่งยืนดันมูลค่าแตะ 1.6 ล้านล้าน",
+            "summary": "ผู้ผลิตเฟอร์นิเจอร์ในอาเซียนร่วมมือปรับกลยุทธ์เน้นงานดีไซน์มูลค่าสูงและกระบวนการผลิตไม้ที่เป็นมิตรต่อสิ่งแวดล้อม",
+            "why": "การยกระดับสู่เฟอร์นิเจอร์เกรดพรีเมียมต้องพึ่งพาการขัดเรียบเนียนคุณภาพสูงด้วยกระดาษทรายสายพานลดการตัน",
+            "action": "นำเสนอกระดาษทรายสายพานเกรดพิเศษสำหรับโรงงานไม้และเฟอร์นิเจอร์ส่งออก"
+          }
+        },
+        {
+          "id": "20260811-4",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "LINE TODAY",
+          "date": "2025-12-27",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MbDY2SkFDN1VRQXdMaUF1Nmhlb3U0dTZLVzlMUkVDTTJlTy1UMFhMWFctVHJzWEhCd1lZUXZzaGpCMnJoNDBFOXRUclB2TXZ1ZkVlbjZB?oc=5",
+          "title": "Thai Steel Associations Warn of Crisis as Chinese Imports Surge",
+          "summary": "Ten local steel trade associations urge government intervention against severe dumping of Chinese finished steel products.",
+          "why": "Reduced production at local primary steel factories lowers abrasive consumption in heavy grinding and cutting operations.",
+          "action": "Diversify sales targeting away from primary steel makers toward downstream metal fabricators and secondary processing units.",
+          "th": {
+            "title": "10 สมาคมเหล็กรับวิกฤต จีนทุ่มตลาด-จี้รัฐคุมเข้มนำเข้าเหล็กสำเร็จรูป",
+            "summary": "10 สมาคมอุตสาหกรรมเหล็กไทยร้องรัฐเร่งแก้ปัญหาเหล็กจีนทุ่มตลาดและทะลักเข้าไทยซึ่งกระทบโรงงานผลิตในประเทศอย่างหนัก",
+            "why": "การชะลอตัวของโรงงานเหล็กขั้นต้นทำให้ยอดการใช้จานขัดและใบตัดงานหนักในกลุ่มเหล็กซบเซา",
+            "action": "กระจายความเสี่ยงโดยขยายฐานลูกค้าไปสู่กลุ่มผู้ป้อนงานแปรรูปโลหะและโรงงานโครงสร้างเหล็กขั้นปลาย"
           }
         }
       ],
