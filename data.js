@@ -2,6 +2,107 @@
 window.NEWS_ARCHIVE = {
   "days": [
     {
+      "date": "2026-08-11",
+      "summary": "Today's intelligence highlights expansion at Thai Airways driving aviation MRO demand, strong BOI EV investments, and steady growth in ASEAN furniture exports, creating key opportunities across MRO, automotive, and woodworking sectors.",
+      "directCount": 3,
+      "th": {
+        "summary": "รายงานข่าวเช้าวันนี้ชี้โอกาสสำคัญจากแผนขยายฝูงบินของการบินไทยที่ช่วยหนุนอุตสาหกรรมซ่อมบำรุง MRO ยอดลงทุน EV สะสมจากบีโอไอ และการเติบโตของตลาดเฟอร์นิเจอร์ส่งออก ซึ่งเป็นโอกาสขยายการขายวัสดุขัดแก่โรงงานลูกค้ากลุ่มการบิน ยานยนต์ และงานไม้"
+      },
+      "items": [
+        {
+          "id": "20260811-1",
+          "tag": "aero",
+          "rating": "green",
+          "source": "thansettakij.com",
+          "date": "2026-08-01",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJbG91NDM0Z1ZuZmRPYUc4dlRzSXYwVXRnb1l5dGZyZUJLSDZqUXhOSnVzSXVQeTdRME04Y1c5TVB5SC0wOENDcm9VeDhaT3Fha0ZocE90aEgzNXpNOGVmYklR?oc=5",
+          "title": "Thai Airways Invests THB 100 Billion to Expand Fleet to 150 Aircraft",
+          "summary": "Thai Airways plans to expand its operational fleet to 150 aircraft with a 100-billion-baht budget to reclaim its global airline standing.",
+          "why": "Fleet expansion drives significant long-term demand for aviation MRO services and precision surface conditioning abrasives.",
+          "action": "Target MRO maintenance centers and aerospace component suppliers with high-precision aviation-grade abrasives.",
+          "th": {
+            "title": "การบินไทยทุ่มแสนล้านขยายฝูงบินเป็น 150 ลำ ทวงบัลลังก์สายการบินระดับโลก",
+            "summary": "การบินไทยเตรียมขยายฝูงบินเป็น 150 ลำ ด้วยงบลงทุน 1 แสนล้านบาท เพื่อรองรับการเติบโตและยกระดับการให้บริการระดับโลก",
+            "why": "การขยายฝูงบินช่วยเพิ่มอุปสงค์ด้านการซ่อมบำรุงอากาศยาน (MRO) และการขัดเตรียมผิวชิ้นส่วนเครื่องบินในระยะยาว",
+            "action": "รุกเข้าเสนอขายวัสดุขัดเกรดการบินความแม่นยำสูงแก่ศูนย์ซ่อมบำรุง MRO และผู้ผลิตชิ้นส่วนอากาศยาน"
+          }
+        },
+        {
+          "id": "20260811-2",
+          "tag": "auto",
+          "rating": "green",
+          "source": "Thaigov",
+          "date": "2026-07-02",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zOHo0X01meExtendzNTNja1RMTUxKa2dWM0hFZ1JrRzJ4dmJPLWhSdHVwb1_IU01fVTRVOWtaX2lkMVJUSlRPb3FCNVg5UQ?oc=5",
+          "title": "BOI Reports EV Investments Exceed THB 130 Billion Supporting Multi-Tech Auto Base",
+          "summary": "Thailand BOI revealed cumulative EV investments have surpassed 130 billion baht, reinforcing Thailand as a multi-technology automotive production hub.",
+          "why": "Expanding EV manufacturing lines require specialized surface preparation, deburring, and metal polishing abrasives.",
+          "action": "Approach EV OEM plants and Tier-1 suppliers to present industrial grinding wheels and sanding discs.",
+          "th": {
+            "title": "บีโอไอเผยยอดลงทุน EV ทะลุ 1.3 แสนล้าน หนุนเป้าฐานผลิตยานยนต์ไฟฟ้าทุกเทคโนโลยี",
+            "summary": "บีโอไอเผยยอดเงินลงทุนในอุตสาหกรรม EV สะสมทะลุ 1.3 แสนล้านบาท ผลักดันไทยสู่การเป็นฐานการผลิตยานยนต์ไฟฟ้าหลากหลายเทคโนโลยี",
+            "why": "โรงงานประกอบ EV และชิ้นส่วนที่เพิ่มขึ้นจำเป็นต้องใช้วัสดุขัดสำหรับการลบครีบและเจียรเตรียมผิวโลหะ",
+            "action": "เข้าพบโรงงานประกอบ EV และผู้ผลิตชิ้นส่วน Tier-1 เพื่อนำเสนอผลิตภัณฑ์กระดาษทรายและจานขัดอุตสาหกรรม"
+          }
+        },
+        {
+          "id": "20260811-3",
+          "tag": "furniture",
+          "rating": "green",
+          "source": "posttoday",
+          "date": "2026-02-20",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxXzVZOHRNaDlMYzJBM2F6S1FPc0Vkcy1Sc2JWRnl1VklJY2ZCSEpsOUJ0RG13b0I1cHBpXzBUOUhlSHdpdV9uV1cyZGJHT2pNaF83cw?oc=5",
+          "title": "ASEAN Furniture Industry Expands as Top 4 Exporters Control 90% Market Share",
+          "summary": "The ASEAN furniture sector continues to grow, with four major exporters capturing 90% of regional exports through design and sustainable manufacturing.",
+          "why": "Active furniture production and export volume boost consumption of sanding belts and woodworking abrasives.",
+          "action": "Offer bulk supply packages of high-durability sanding belts to export-oriented furniture manufacturers.",
+          "th": {
+            "title": "อุตสาหกรรมเฟอร์นิเจอร์อาเซียนขยายตัว 4 ชาติครองส่งออก 90%",
+            "summary": "ตลาดเฟอร์นิเจอร์ในอาเซียนเติบโตอย่างต่อเนื่อง โดย 4 ประเทศหลักครองสัดส่วนการส่งออกถึง 90% ผ่านการเน้นดีไซน์และความยั่งยืน",
+            "why": "การเติบโตของโรงงานผลิตและส่งออกเฟอร์นิเจอร์ช่วยดันความต้องการใช้สายพานขัดและกระดาษทรายงานไม้",
+            "action": "จัดทำแพ็กเกจราคาส่งสายพานขัดความคงทนสูงเสนอขายโรงงานผลิตเฟอร์นิเจอร์ส่งออก"
+          }
+        },
+        {
+          "id": "20260811-4",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "thestandard.co",
+          "date": "2026-05-26",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QRllPRTEzdHpyNldCaWtwODlMX2ZQRmgzdXN0WDc3ZFdVbUZvdkZoT1RtN1N3d1hN?oc=5",
+          "title": "Japanese Automakers Reevaluate Thailand Strategy Amid Chinese EV Disruptions",
+          "summary": "Japanese automakers are adjusting their long-term Thai production strategies to cope with rapid market expansion by Chinese EV competitors.",
+          "why": "Shifts in Japanese OEM supply chains impact our key Japanese Tier-1 and Tier-2 automotive customer base.",
+          "action": "Monitor Japanese supplier production volumes and offer cost-efficiency abrasive solutions to keep their business.",
+          "th": {
+            "title": "ญี่ปุ่นมองอนาคตอุตสาหกรรมรถยนต์ไทยอย่างไร ในวันที่จีนกำลังเปลี่ยนเกม",
+            "summary": "ค่ายรถยนต์ญี่ปุ่นเร่งปรับแผนการผลิตระยะยาวในไทยเพื่อรับมือกับการรุกตลาดอย่างรวดเร็วของรถยนต์ไฟฟ้าจีน",
+            "why": "การเปลี่ยนแปลงของซัพพลายเชนค่ายญี่ปุ่นส่งผลกระทบต่อกลุ่มลูกค้าโรงงานญี่ปุ่น Tier-1/2 ซึ่งเป็นลูกค้าหลักของเรา",
+            "action": "ติดตามการปรับกำลังการผลิตของโรงงานญี่ปุ่นพร้อมนำเสนอโซลูชันวัสดุขัดที่ช่วยลดต้นทุนเพื่อรักษาฐานลูกค้า"
+          }
+        },
+        {
+          "id": "20260811-5",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "Thairath.co.th",
+          "date": "2026-05-22",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5yOEdKVkRNRnBpc1dWRGRuNzNtN1NHR09mSlc3eHpQem1iLUg4TVY0bkN2x1x1MDAxM2N2eDF4bWhhZ3JfTU5idGxKN2trZUJfS1hRMlkxZHQ5T29sTVBMdU5fTHR0V09GQ2h0c19ZSGRrVU9oaTI3eVQydWc?oc=5",
+          "title": "Steel Associations Back Ministry Crackdown on Substandard Metal Plants",
+          "summary": "Ten steel trade associations praised the Ministry of Industry for enforcing strict standards and closing down non-compliant steel mills.",
+          "why": "Enforcing standards protects compliant metal fabricators, stabilizing market demand for quality grinding tools.",
+          "action": "Partner with standardized steel fabricators to promote high-performance grinding and finishing wheels.",
+          "th": {
+            "title": "10 สมาคมเหล็กปลื้มกระทรวงอุตสาหกรรม กล้าเชือดโรงงานผลิตเหล็กไม่ได้มาตรฐาน",
+            "summary": "สมาคมอุตสาหกรรมเหล็ก 10 แห่งแสดงความเห็นชอบที่กระทรวงอุตสาหกรรมเร่งปราบปรามและสั่งปิดโรงงานเหล็กที่ไม่ผ่านเกณฑ์มาตรฐาน",
+            "why": "การเข้มงวดมาตรฐานช่วยคุ้มครองโรงงานแปรรูปโลหะที่สุจริต ซึ่งเป็นกลุ่มลูกค้าหลักที่ซื้อวัสดุขัดคุณภาพดี",
+            "action": "เสนอโปรโมชันและนวัตกรรมจานขัดโลหะแก่กลุ่มโรงงานเหล็กที่ได้รับมาตรฐานเพื่อเพิ่มประสิทธิภาพการผลิต"
+          }
+        }
+      ],
+      "terms": {}
+    },
+    {
       "date": "2026-08-10",
       "summary": "Today features limited new developments, highlighted by VietJet studying MRO investments at U-Tapao, tighter regulatory pressure on substandard steel mills, and US tariffs shifting regional furniture supply chains.",
       "directCount": 1,
@@ -648,5 +749,5 @@ window.NEWS_ARCHIVE = {
       "terms": {}
     }
   ],
-  "updated": "2026-08-10"
+  "updated": "2026-08-11"
 };
