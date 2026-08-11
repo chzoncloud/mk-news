@@ -3,64 +3,64 @@ window.NEWS_ARCHIVE = {
   "days": [
     {
       "date": "2026-08-12",
-      "summary": "There are limited new news updates today as many major industry headlines were previously reported. Key developments focus on automotive trade groups proposing emergency relief measures, government crackdowns on non-standard steel factories, and export headwinds for the furniture sector.",
+      "summary": "Today has relatively few new updates; key highlights include BOI reporting over 130 billion Baht in EV investments, regional metallurgy expansion, and ASEAN's growing dominance in furniture exports.",
       "directCount": 1,
       "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มากเนื่องจากพาดหัวข่าวหลักส่วนใหญ่ถูกรายงานไปแล้ว ประเด็นสำคัญยังคงเน้นไปที่สมาคมยานยนต์ยื่นมาตรการฉุกเฉินอุ้มห่วงโซ่อุปทาน การกวาดล้างโรงงานเหล็กไม่ได้มาตรฐานของภาครัฐ และแรงกดดันการส่งออกของภาคเฟอร์นิเจอร์"
+        "summary": "วันนี้มีข่าวใหม่จำนวนไม่มาก โดยมีประเด็นสำคัญคือ BOI เผยยอดลงทุน EV ทะลุ 1.3 แสนล้านบาท การเติบโตของอุตสาหกรรมโลหะวิทยาในภูมิภาค และการขยายตัวของส่งออกเฟอร์นิเจอร์อาเซียน"
       },
       "items": [
         {
           "id": "20260812-1",
           "tag": "auto",
-          "rating": "amber",
-          "source": "Techsauce",
-          "date": "2026-05-14",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPblR1TlAxY2Q1X0RUaUtyUjY3ZF9peGVaLUNmclNaZmZpMGktRXhlRzFqZnlqd204b2RTdE9MTEJ3TjFIVHJKRDBQeHFtWG5BWDliZVgzOUNXUWtUNGlPcXNiNmZmNFhfME5mRjFqdHRQaVNrSDROZFFRTXFNempETmtmZDJYSWlmMmpKNUdXSDQyM2ZJN08xSEw1QXpRSXVmSTVYWEFpY1pMSHVCbVpwc2J5WG1Nc1BTNVFxcEVaWXAwZHJ2azVr?oc=5",
-          "title": "10 Automotive Associations Propose 8 Emergency Measures to Protect Supply Chain",
-          "summary": "Ten automotive trade groups submitted eight urgent policy requests to the government to safeguard domestic auto parts manufacturers and maintain supply chain strength.",
-          "why": "Stagnation or operational risks in the auto supply chain directly impact metal component production volume and abrasive usage.",
-          "action": "Monitor government responses and proactively target tier-1 auto parts manufacturers with cost-reduction grinding solutions.",
+          "rating": "green",
+          "source": "Thaigov",
+          "date": "2026-07-02",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zOHo0X01meExtendzNTNja1RMTUxKa2dWM0hFZ1JrRzJ4dmJPLWhSdHVwb19IU01fVTRVOWtaX2lkMVJUSlRPb3FCNVg5UQ?oc=5",
+          "title": "BOI Reports EV Investment Exceeds 130 Billion Baht to Drive Regional Hub Goals",
+          "summary": "Thailand's Board of Investment revealed that total investment in EV manufacturing has surpassed 130 billion Baht across multiple technology platforms.",
+          "why": "Increased EV factory setups and supply chain localized production directly generate high demand for metal grinding, surface preparation, and polishing abrasives.",
+          "action": "Target tier-1 and tier-2 EV component suppliers and offer specialized grinding belts and sanding discs tailored for lightweight EV metals.",
           "th": {
-            "title": "10 สมาคมยานยนต์ยื่น 8 มาตรการฉุกเฉินต่อรัฐเร่งรักษาห่วงโซ่อุปทาน",
-            "summary": "10 สมาคมอุตสาหกรรมยานยนต์ไทยยื่น 8 มาตรการเร่งด่วนต่อรัฐบาล เพื่อปกป้องผู้ผลิตชิ้นส่วนในประเทศและรักษาความแข็งแกร่งของห่วงโซ่อุปทาน",
-            "why": "ความชะลอตัวของห่วงโซ่อุปทานยานยนต์ส่งผลกระทบโดยตรงต่อปริมาณการผลิตของโรงงานและความต้องการใช้กระดาษทราย/จานขัด",
-            "action": "ติดตามการตอบรับจากภาครัฐ พร้อมรุกเสนอขายวัสดุขัดลดต้นทุนให้แก่ผู้ผลิตชิ้นส่วนยานยนต์ Tier-1"
+            "title": "บีโอไอเผยยอดลงทุน EV ทะลุ 1.3 แสนล้านบาท หนุนเป้าหมายฐานผลิตยานยนต์ไฟฟ้าภูมิภาค",
+            "summary": "สำนักงานคณะกรรมการส่งเสริมการลงทุน (BOI) เผยยอดเงินลงทุนรวมในอุตสาหกรรม EV ของไทยทะลุ 1.3 แสนล้านบาท ครอบคลุมทุกเทคโนโลยีการผลิต",
+            "why": "การขยายโรงงานผลิตรถยนต์ EV และซัพพลายเชนชิ้นส่วน ช่วยเพิ่มความต้องการใช้วัสดุขัด เจียร และตกแต่งผิวโลหะในกระบวนการผลิตโดยตรง",
+            "action": "เข้าพบผู้ผลิตชิ้นส่วน EV ระดับ Tier-1 และ Tier-2 เพื่อนำเสนอสายพานขัดและจานขัดเกรดเฉพาะสำหรับโลหะน้ำหนักเบา"
           }
         },
         {
           "id": "20260812-2",
           "tag": "steel",
-          "rating": "green",
-          "source": "Thairath.co.th",
-          "date": "2026-05-22",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5yOEdKVkRNRnBpc1dWRGRuNzNtN1NHR09mSlc3eHpQem1iLUg4TVY0bkN2eDF4bWhhZ3JfTU5idGxKN2trZUJfS1hRMlkxZHQ5T29sTVBMdU5fTHR0V09GQ2h0c19ZSGRrVU9oaTI3eVQydWc?oc=5",
-          "title": "Steel Associations Back Government Crackdown on Sub-Standard Factories",
-          "summary": "Ten steel industry associations voiced strong support for the Ministry of Industry's strict enforcement against non-standard steel manufacturers to ensure fair competition.",
-          "why": "Shutting down non-standard operators protects compliant metal/steel factories, stabilizing legitimate manufacturing demand for surface preparation tools.",
-          "action": "Strengthen relationships with standardized steel fabrication plants and Japanese-invested metal processors requiring high-quality abrasives.",
+          "rating": "amber",
+          "source": "vietnam.vn",
+          "date": "2026-08-04",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5US1N3OEdieEkyZklmZkp4SzZIcDhxM2dlaXdOd1FZZDNHLXpFQURrdGV1Y2RzRVFsUU9VUGE1WTIwREdTWklEQmRlNnU3VmIxQmRobGtlY0o3eEJJTDNzYk5tYVNsRElmNkJPMzVB?oc=5",
+          "title": "Regional Metallurgy Industry Accelerates Rapid Growth",
+          "summary": "Regional metallurgical sector is expanding rapidly, driven by industrial infrastructure developments and growing demand for processed metals.",
+          "why": "Growth in regional metallurgy signals higher demand for heavy-duty grinding tools, deburring abrasives, and metal surface treatment products.",
+          "action": "Monitor regional export-oriented metal processing plants in Thailand to supply heavy-duty grinding belts and wheels.",
           "th": {
-            "title": "10 สมาคมเหล็กหนุนกระทรวงอุตสาหกรรมเดินหน้ากวาดล้างโรงงานไร้มาตรฐาน",
-            "summary": "10 สมาคมอุตสาหกรรมเหล็กแสดงจุดยืนสนับสนุนกระทรวงอุตสาหกรรมในการบังคับใช้กฎหมายอย่างเข้มงวดกับโรงงานผลิตเหล็กไม่ได้มาตรฐาน เพื่อสร้างการแข่งขันที่เป็นธรรม",
-            "why": "การกวาดล้างผู้ประกอบการผิดกฎหมายช่วยปกป้องโรงงานเหล็กและโลหะมาตรฐาน ซึ่งช่วยรักษาฐานความต้องการใช้วัสดุขัดตกแต่งผิวชิ้นงาน",
-            "action": "กระชับความสัมพันธ์กับโรงงานแปรรูปโลหะและเหล็กมาตรฐาน โดยเฉพาะกลุ่มทุนญี่ปุ่นที่ต้องการใช้วัสดุขัดเกรดมาตรฐานสูง"
+            "title": "อุตสาหกรรมโลหะวิทยาในภูมิภาคเร่งพัฒนาและเติบโตอย่างรวดเร็ว",
+            "summary": "ภาคอุตสาหกรรมโลหะวิทยาในภูมิภาคขยายตัวอย่างรวดเร็ว ตอบรับการพัฒนาโครงสร้างพื้นฐานอุตสาหกรรมและความต้องการแปรรูปโลหะที่เพิ่มขึ้น",
+            "why": "การเติบโตของงานแปรรูปโลหะสะท้อนถึงความต้องการวัสดุขัดลบครีบ งานเจียรหนัก และตกแต่งผิวโลหะที่เพิ่มขึ้น",
+            "action": "ติดตามโรงงานแปรรูปโลหะเพื่อส่งออกในไทย เพื่อนำเสนอผลิตภัณฑ์กระดาษทรายและหินเจียรงานหนัก"
           }
         },
         {
           "id": "20260812-3",
           "tag": "furniture",
           "rating": "amber",
-          "source": "kasikornresearch.com",
-          "date": "2025-10-09",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR0I3LUFaeENxbzdDQVF4UDdVMFlmRWp4Y3BBdFZ6OGFQeUdZZ3Y5dHA5Q2ZxRXJIaTUtLVNVY29QM3RuSk1RMmpaeXhucHEwLWRiMFlsbkJRNEtYY3RWSDZNNXRBUXdfb0hDV0IzR1pkRW5ERC1xSkQtN21WZTVveUNtdURRYmN3QjQxUDRHS2g1dDNkSGdRVVJGU2tBNGJ3WDREcGh1N2VrdnN6MExB?oc=5",
-          "title": "Thai Furniture Exports Forecast to Drop 4.5% in 2026 Amid US Tariff Shifts",
-          "summary": "Following a surge in 2025 due to front-loaded US imports, Thai furniture exports are projected to shrink 4.5% in 2026 as tariff adjustments take full effect.",
-          "why": "A contraction in furniture export orders directly reduces sandpaper and belt sanding usage in woodworking factories.",
-          "action": "Pivot marketing strategies to emphasize durable, cost-effective sanding belts for furniture exporters seeking operational efficiency.",
+          "source": "posttoday",
+          "date": "2026-02-20",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxXzVZOHRNaDlMYzJBM2F6S1FPc0Vkcy1Sc2JWRnl1VklJY2ZCSEpsOUJ0RG13b0I1cHBpXzBUOUhlSHdpdV9uV1cyZGJHT2pNaF83cw?oc=5",
+          "title": "ASEAN Furniture Sector Expands as Top Four Nations Command 90% of Exports",
+          "summary": "The ASEAN furniture sector is experiencing steady growth, with four major exporting nations driving 90% of regional global shipments.",
+          "why": "Continued export momentum in ASEAN furniture factories sustains stable demand for wood sanding belts and fine finishing paper.",
+          "action": "Promote high-durability wood sanding belts and finishing papers to export-oriented furniture manufacturers.",
           "th": {
-            "title": "ส่งออกเฟอร์นิเจอร์ไทยปี 2569 ส่อหดตัว 4.5% หลังสหรัฐฯ ปรับเกณฑ์ภาษี",
-            "summary": "หลังจากขยายตัวได้ในปี 2568 จากการเร่งนำเข้าของสหรัฐฯ คาดว่ายอดส่งออกเฟอร์นิเจอร์ไทยจะพลิกกลับมาหดตัว 4.5% ในปี 2569 จากผลกระทบของมาตรการภาษี",
-            "why": "คำสั่งซื้อส่งออกเฟอร์นิเจอร์ที่ลดลงส่งผลกระทบโดยตรงต่อปริมาณการใช้กระดาษทรายและสายพานขัดในโรงงานไม้",
-            "action": "ปรับกลยุทธ์การตลาดเน้นเสนอสายพานขัดรุ่นความคุ้มค่าสูงแก่โรงงานส่งออกเฟอร์นิเจอร์เพื่อช่วยควบคุมต้นทุน"
+            "title": "อุตสาหกรรมเฟอร์นิเจอร์อาเซียนขยายตัว โดย 4 ชาติหลักครองสัดส่วนส่งออก 90%",
+            "summary": "ภาคอุตสาหกรรมเฟอร์นิเจอร์ในอาเซียนเติบโตอย่างต่อเนื่อง โดยมี 4 ประเทศหลักเป็นผู้ขับเคลื่อนมูลค่าการส่งออกถึง 90% ของภูมิภาค",
+            "why": "การเติบโตของการส่งออกเฟอร์นิเจอร์ช่วยหนุนความต้องการใช้วัสดุขัดไม้ สายพานขัด และกระดาษทรายขัดละเอียดอย่างสม่ำเสมอ",
+            "action": "นำเสนอสายพานขัดไม้ความทนทานสูงและกระดาษทรายงานเก็บละเอียดให้กับโรงงานผลิตเฟอร์นิเจอร์เพื่อการส่งออก"
           }
         }
       ],
