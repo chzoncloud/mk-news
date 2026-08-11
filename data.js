@@ -2,6 +2,71 @@
 window.NEWS_ARCHIVE = {
   "days": [
     {
+      "date": "2026-08-12",
+      "summary": "There are limited new news updates today as many major industry headlines were previously reported. Key developments focus on automotive trade groups proposing emergency relief measures, government crackdowns on non-standard steel factories, and export headwinds for the furniture sector.",
+      "directCount": 1,
+      "th": {
+        "summary": "วันนี้มีข่าวใหม่ไม่มากเนื่องจากพาดหัวข่าวหลักส่วนใหญ่ถูกรายงานไปแล้ว ประเด็นสำคัญยังคงเน้นไปที่สมาคมยานยนต์ยื่นมาตรการฉุกเฉินอุ้มห่วงโซ่อุปทาน การกวาดล้างโรงงานเหล็กไม่ได้มาตรฐานของภาครัฐ และแรงกดดันการส่งออกของภาคเฟอร์นิเจอร์"
+      },
+      "items": [
+        {
+          "id": "20260812-1",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Techsauce",
+          "date": "2026-05-14",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPblR1TlAxY2Q1X0RUaUtyUjY3ZF9peGVaLUNmclNaZmZpMGktRXhlRzFqZnlqd204b2RTdE9MTEJ3TjFIVHJKRDBQeHFtWG5BWDliZVgzOUNXUWtUNGlPcXNiNmZmNFhfME5mRjFqdHRQaVNrSDROZFFRTXFNempETmtmZDJYSWlmMmpKNUdXSDQyM2ZJN08xSEw1QXpRSXVmSTVYWEFpY1pMSHVCbVpwc2J5WG1Nc1BTNVFxcEVaWXAwZHJ2azVr?oc=5",
+          "title": "10 Automotive Associations Propose 8 Emergency Measures to Protect Supply Chain",
+          "summary": "Ten automotive trade groups submitted eight urgent policy requests to the government to safeguard domestic auto parts manufacturers and maintain supply chain strength.",
+          "why": "Stagnation or operational risks in the auto supply chain directly impact metal component production volume and abrasive usage.",
+          "action": "Monitor government responses and proactively target tier-1 auto parts manufacturers with cost-reduction grinding solutions.",
+          "th": {
+            "title": "10 สมาคมยานยนต์ยื่น 8 มาตรการฉุกเฉินต่อรัฐเร่งรักษาห่วงโซ่อุปทาน",
+            "summary": "10 สมาคมอุตสาหกรรมยานยนต์ไทยยื่น 8 มาตรการเร่งด่วนต่อรัฐบาล เพื่อปกป้องผู้ผลิตชิ้นส่วนในประเทศและรักษาความแข็งแกร่งของห่วงโซ่อุปทาน",
+            "why": "ความชะลอตัวของห่วงโซ่อุปทานยานยนต์ส่งผลกระทบโดยตรงต่อปริมาณการผลิตของโรงงานและความต้องการใช้กระดาษทราย/จานขัด",
+            "action": "ติดตามการตอบรับจากภาครัฐ พร้อมรุกเสนอขายวัสดุขัดลดต้นทุนให้แก่ผู้ผลิตชิ้นส่วนยานยนต์ Tier-1"
+          }
+        },
+        {
+          "id": "20260812-2",
+          "tag": "steel",
+          "rating": "green",
+          "source": "Thairath.co.th",
+          "date": "2026-05-22",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5yOEdKVkRNRnBpc1dWRGRuNzNtN1NHR09mSlc3eHpQem1iLUg4TVY0bkN2eDF4bWhhZ3JfTU5idGxKN2trZUJfS1hRMlkxZHQ5T29sTVBMdU5fTHR0V09GQ2h0c19ZSGRrVU9oaTI3eVQydWc?oc=5",
+          "title": "Steel Associations Back Government Crackdown on Sub-Standard Factories",
+          "summary": "Ten steel industry associations voiced strong support for the Ministry of Industry's strict enforcement against non-standard steel manufacturers to ensure fair competition.",
+          "why": "Shutting down non-standard operators protects compliant metal/steel factories, stabilizing legitimate manufacturing demand for surface preparation tools.",
+          "action": "Strengthen relationships with standardized steel fabrication plants and Japanese-invested metal processors requiring high-quality abrasives.",
+          "th": {
+            "title": "10 สมาคมเหล็กหนุนกระทรวงอุตสาหกรรมเดินหน้ากวาดล้างโรงงานไร้มาตรฐาน",
+            "summary": "10 สมาคมอุตสาหกรรมเหล็กแสดงจุดยืนสนับสนุนกระทรวงอุตสาหกรรมในการบังคับใช้กฎหมายอย่างเข้มงวดกับโรงงานผลิตเหล็กไม่ได้มาตรฐาน เพื่อสร้างการแข่งขันที่เป็นธรรม",
+            "why": "การกวาดล้างผู้ประกอบการผิดกฎหมายช่วยปกป้องโรงงานเหล็กและโลหะมาตรฐาน ซึ่งช่วยรักษาฐานความต้องการใช้วัสดุขัดตกแต่งผิวชิ้นงาน",
+            "action": "กระชับความสัมพันธ์กับโรงงานแปรรูปโลหะและเหล็กมาตรฐาน โดยเฉพาะกลุ่มทุนญี่ปุ่นที่ต้องการใช้วัสดุขัดเกรดมาตรฐานสูง"
+          }
+        },
+        {
+          "id": "20260812-3",
+          "tag": "furniture",
+          "rating": "amber",
+          "source": "kasikornresearch.com",
+          "date": "2025-10-09",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR0I3LUFaeENxbzdDQVF4UDdVMFlmRWp4Y3BBdFZ6OGFQeUdZZ3Y5dHA5Q2ZxRXJIaTUtLVNVY29QM3RuSk1RMmpaeXhucHEwLWRiMFlsbkJRNEtYY3RWSDZNNXRBUXdfb0hDV0IzR1pkRW5ERC1xSkQtN21WZTVveUNtdURRYmN3QjQxUDRHS2g1dDNkSGdRVVJGU2tBNGJ3WDREcGh1N2VrdnN6MExB?oc=5",
+          "title": "Thai Furniture Exports Forecast to Drop 4.5% in 2026 Amid US Tariff Shifts",
+          "summary": "Following a surge in 2025 due to front-loaded US imports, Thai furniture exports are projected to shrink 4.5% in 2026 as tariff adjustments take full effect.",
+          "why": "A contraction in furniture export orders directly reduces sandpaper and belt sanding usage in woodworking factories.",
+          "action": "Pivot marketing strategies to emphasize durable, cost-effective sanding belts for furniture exporters seeking operational efficiency.",
+          "th": {
+            "title": "ส่งออกเฟอร์นิเจอร์ไทยปี 2569 ส่อหดตัว 4.5% หลังสหรัฐฯ ปรับเกณฑ์ภาษี",
+            "summary": "หลังจากขยายตัวได้ในปี 2568 จากการเร่งนำเข้าของสหรัฐฯ คาดว่ายอดส่งออกเฟอร์นิเจอร์ไทยจะพลิกกลับมาหดตัว 4.5% ในปี 2569 จากผลกระทบของมาตรการภาษี",
+            "why": "คำสั่งซื้อส่งออกเฟอร์นิเจอร์ที่ลดลงส่งผลกระทบโดยตรงต่อปริมาณการใช้กระดาษทรายและสายพานขัดในโรงงานไม้",
+            "action": "ปรับกลยุทธ์การตลาดเน้นเสนอสายพานขัดรุ่นความคุ้มค่าสูงแก่โรงงานส่งออกเฟอร์นิเจอร์เพื่อช่วยควบคุมต้นทุน"
+          }
+        }
+      ],
+      "terms": {}
+    },
+    {
       "date": "2026-08-11",
       "summary": "Today has limited new developments; key focus centers on long-term aerospace MRO expansion in Thailand alongside ASEAN furniture strategy shifts and steel dumping challenges.",
       "directCount": 2,
@@ -731,5 +796,5 @@ window.NEWS_ARCHIVE = {
       "terms": {}
     }
   ],
-  "updated": "2026-08-11"
+  "updated": "2026-08-12"
 };
