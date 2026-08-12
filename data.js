@@ -3,82 +3,64 @@ window.NEWS_ARCHIVE = {
   "days": [
     {
       "date": "2026-08-13",
-      "summary": "Today features limited new news. Key updates highlight Toyota's warning over Japanese automakers facing pressure to relocate from Thailand, offset by BOI reporting over 130 billion Baht in EV investments.",
+      "summary": "Limited new updates today. Key highlights include BOI's cumulative 182 billion baht EV investment partnership across global automakers and ongoing steel industry pressure from low domestic demand and Chinese imports.",
       "directCount": 1,
       "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มาก ประเด็นสำคัญคือโตโยต้าส่งสารเตือนรัฐบาลเรื่องค่ายรถญี่ปุ่นระส่ำหลังอินโดนีเซียจีบย้ายฐานผลิต ขณะที่ BOI รายงานยอดลงทุน EV สะสมทะลุ 1.3 แสนล้านบาท"
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก ประเด็นสำคัญคือ BOI เผยยอดลงทุน EV สะสมทะลุ 1.82 แสนล้านบาทจากการร่วมมือหลายสัญชาติ และอุตสาหกรรมเหล็กยังเผชิญความท้าทายจากความต้องการในประเทศที่ชะลอตัวและการทุ่มตลาด"
       },
       "items": [
         {
           "id": "20260813-1",
           "tag": "auto",
-          "rating": "amber",
-          "source": "thansettakij",
-          "date": "2026-08-12",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwX1MySkh6Y0pRUktLRFpmSUl1dUZKd0NTUGp1LVZfbi1PN2lKellaR3RtVHdGaTBPUUEwQ0cwSlItbWxON1kxWjNHbXlITHZwOU1OcnhQOXgwZkE?oc=5",
-          "title": "Toyota Chief Warns Thai Government Over Auto Sector Crisis as Indonesia Woos Relocation",
-          "summary": "Toyota Thailand's executive issued a warning to the Thai government regarding severe pressures on the automotive supply chain, with Indonesia actively enticing Japanese automakers to relocate production bases.",
-          "why": "Japanese automotive OEMs and tier-1 suppliers are core B2B abrasive customers; potential base shifts threat long-term abrasive consumption.",
-          "action": "Monitor tier-1 Japanese auto parts customers and offer cost-efficiency abrasive solutions to support their operational retainment.",
+          "rating": "green",
+          "source": "Techsauce",
+          "date": "2026-05-13",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSUh5a1RYRHhRZVM5dmliakJOVDhPMGs2dDZPdFdTSEw4TU5yRHNQT1R2dk1uSXQzOWFjNXZ4bGhESGxFUEZpWWNxOEpXNFNDZWI1NDdDaUJTZVZMbmVGckk3VXhDRFMyWkJ1LVd3Q0VDS0ZfaENUcGdjajJXaFViQndkVQ?oc=5",
+          "title": "BOI Partners with Global EV Makers to Build 'Smart & Green Mobility' Hub as Investment Reaches 182 Billion Baht",
+          "summary": "BOI has joined forces with Chinese, Japanese, and European EV manufacturers to establish Thailand as a Smart & Green Mobility hub, bringing cumulative EV investment to over 182 billion baht.",
+          "why": "Expansion in EV manufacturing setups creates direct opportunities to supply high-precision sanding belts and polishing discs to new auto assembly lines.",
+          "action": "Target tier-1 and tier-2 auto parts suppliers entering these new EV supply chains for precision metal finishing tools.",
           "th": {
-            "title": "แม่ทัพโตโยต้าส่งสารเตือนรัฐบาล อุตฯ ยานยนต์ไทยระส่ำ หลังอินโดนีเซียเร่งจีบย้ายฐานผลิต",
-            "summary": "ผู้บริหารโตโยต้าประเทศไทยส่งสารเตือนรัฐบาลถึงความระส่ำในห่วงโซ่อุปทานยานยนต์ไทย ท่ามกลางการรุกหนักของอินโดนีเซียที่พยายามดึงฐานการผลิตรถยนต์ไปจากไทย",
-            "why": "ค่ายรถและผู้ผลิตชิ้นส่วนยานยนต์ญี่ปุ่นเป็นลูกค้าหลักของกระดาษทราย/จานขัด B2B หากมีการย้ายฐานผลิตจะกระทบยอดสั่งซื้อระยะยาว",
-            "action": "ติดตามสถานะการผลิตของลูกค้ายานยนต์ญี่ปุ่นอย่างใกล้ชิด และนำเสนอสินค้าวัสดุขัดที่ช่วยลดต้นทุนการผลิตเพื่อช่วยลูกค้าคงสายการผลิตในไทย"
+            "title": "BOI ผนึก EV จีน-ญี่ปุ่น-ยุโรป ปั้นไทยสู่ฐาน Smart & Green Mobility เผยยอดลงทุน EV สะสมทะลุ 1.82 แสนล้านบาท",
+            "summary": "บีโอไอร่วมมือกับผู้ผลิตรถยนต์ไฟฟ้าจากจีน ญี่ปุ่น และยุโรป ยกระดับไทยเป็นศูนย์กลางยานยนต์สะอาด โดยมียอดลงทุนสะสมในกลุ่ม EV กว่า 1.82 แสนล้านบาท",
+            "why": "การขยายฐานผลิต EV เพิ่มอุปสงค์การใช้สายพานขัดและจานขัดความละเอียดสูงในสายการผลิตชิ้นส่วนยานยนต์ใหม่",
+            "action": "เร่งเสนอขายวัสดุขัดผิวให้กับโรงงานซัพพลายเออร์ Tier 1 และ Tier 2 ที่ป้อนชิ้นส่วนให้ค่ายรถ EV"
           }
         },
         {
           "id": "20260813-2",
-          "tag": "auto",
-          "rating": "green",
-          "source": "Thaigov",
-          "date": "2026-07-02",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zOHo0X01meExtendzNTNja1RMTUxKa2dWM0hFZ1JrRzJ4dmJPLWhSdHVwb19IU01fVTRVOWtaX2lkMVJUSlRPb3FCNVg5UQ?oc=5",
-          "title": "BOI Reports EV Investments Exceed 130 Billion Baht, Strengthening Thailand's Production Hub",
-          "summary": "Thailand's Board of Investment revealed cumulative investment promotion for EV supply chains has surpassed 130 billion Baht across multiple vehicle technologies.",
-          "why": "New EV manufacturing lines require metal surface preparation, deburring, and body sanding abrasives.",
-          "action": "Target newly established EV factories and tier-1 suppliers to introduce heavy-duty grinding discs and specialized sanding belts.",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "เดลินิวส์",
+          "date": "2026-05-21",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3cWgyMzlsVU90VjFUWTJ4czV4U2ZIZi1QbnBzeUR5ZzNHQ21jTzR6RmVpaDFDVVF2ODVsTlFmYVZLbUlCdGhEUXExQTdSbng0U29n?oc=5",
+          "title": "Thai Steel Sector Faces Severe Pressure from Low Domestic Consumption and Chinese Import Dumping",
+          "summary": "10 steel industry associations urge government intervention regarding sub-standard induction furnace (IF) plants and cheap Chinese imports impacting domestic steelmakers.",
+          "why": "Slowing domestic steel production may weaken abrasive tool demand among local structural steel and metal fabrication workshops.",
+          "action": "Shift sales focus toward higher-value industrial fabricators and foreign-invested factories that maintain steady production standards.",
           "th": {
-            "title": "บีโอไอเผยยอดลงทุน EV ทะลุ 1.3 แสนล้านบาท หนุนไทยสู่ฐานผลิตยานยนต์ไฟฟ้าครบวงจร",
-            "summary": "บีโอไอเผยยอดขอรับการส่งเสริมการลงทุนในอุตสาหกรรม EV และซัพพลายเชนทะลุ 1.3 แสนล้านบาท ครอบคลุมเทคโนโลยียานยนต์ไฟฟ้าทุกประเภท",
-            "why": "การตั้งและขยายโรงงาน EV ใหม่เพิ่มความต้องการใช้วัสดุขัดในงานเตรียมผิวโลหะ ลบครีบ และขัดเงาตัวถังรถยนต์",
-            "action": "เจาะกลุ่มโรงงาน EV และผู้ผลิตชิ้นส่วนที่ได้รับอนุมัติ BOI เพื่อเสนอขายจานขัดและสายพานขัดเกรดอุตสาหกรรม"
+            "title": "เหล็กไทยเหมือนอยู่สนามรบ ยอดใช้ต่ำ แถมของถูกจีนถล่มซ้ำ จี้รัฐเร่งแก้ เตาไอเอฟ",
+            "summary": "10 สมาคมเหล็กเรียกร้องรัฐแก้ปัญหาการทุ่มตลาดจากเหล็กจีนและกวดขันโรงงานเตาไอเอฟที่ไม่ได้มาตรฐาน ท่ามกลางอุปสงค์ในประเทศที่ชะลอตัว",
+            "why": "กำลังการผลิตเหล็กในประเทศที่ลดลงส่งผลกระทบต่อปริมาณการใช้วัสดุขัดเจียรในกลุ่มโรงงานแปรรูปโลหะทั่วไป",
+            "action": "เน้นทำตลาดกับกลุ่มโรงงานโครงสร้างโลหะเกรดพรีเมียมและทุนต่างชาติที่มีกำลังการผลิตสม่ำเสมอ"
           }
         },
         {
           "id": "20260813-3",
-          "tag": "furniture",
+          "tag": "auto",
           "rating": "amber",
-          "source": "posttoday",
-          "date": "2026-02-20",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxXzVZOHRNaDlMYzJBM2F6S1FPc0Vkcy1Sc2JWRnl1VklJY2ZCSEpsOUJ0RG13b0I1cHBpXzBUOUhlSHdpdV9uV1cyZGJHT2pNaF83cw?oc=5",
-          "title": "ASEAN Furniture Sector Expands with Top 4 Exporting Nations Controlling 90% Market Share",
-          "summary": "The ASEAN furniture market continues regional expansion with four major exporting countries driving 90% of total export volume to global markets.",
-          "why": "Woodworking and furniture manufacturing rely heavily on coated abrasives and sanding paper for surface finishing.",
-          "action": "Expand product offerings in wood-sanding belts and paper rolls targeting export-oriented furniture manufacturers.",
+          "source": "Krungsri.com",
+          "date": "2025-12-02",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMTRod1N3TFVORU1iVFlidUUzTU1BSzZjRkh0NkFDTFFSV2M2MXR2UUJCeHMtUUlnX3FfTzhjTEFwUl9teW5uZ0s2eUtTRDZEcktJVWNfWlZSWnhpZHhVTUkyQjRpS09xNm9UUURPUU5KVlhXandPaWplenlBVGhmSnc5T0NxaDRwVVRXcmlETlJyNy1mdmdSM3M2MHRFXzBNSENUcUtKNjdwTWxCcjgzbEZuNlJ4OU02bGxzREw5am82OTh3bkZJUnhNYy0?oc=5",
+          "title": "Krungsri Research Outlines 2026-2028 EV Industry Outlook During Supply Chain Shift",
+          "summary": "Krungsri Research forecasts medium-term EV sector growth driven by government incentives and rising regional production, despite structural shifts in conventional auto manufacturing.",
+          "why": "Understanding long-term EV transition timelines helps MK align abrasive product inventories for new lightweight metal alloys.",
+          "action": "Prepare specialized non-woven and polishing abrasive product lineups tailored for lightweight EV alloy finishing.",
           "th": {
-            "title": "อุตสาหกรรมเฟอร์นิเจอร์อาเซียนขยายตัว 4 ชาติหลักครองสัดส่วนส่งออกสูงถึง 90%",
-            "summary": "ตลาดเฟอร์นิเจอร์ในอาเซียนขยายตัวต่อเนื่อง โดยประเทศส่งออกหลัก 4 ประเทศครองสัดส่วนการส่งออกรวมกันถึง 90% ของภูมิภาค",
-            "why": "โรงงานเฟอร์นิเจอร์และงานไม้เป็นกลุ่มผู้ใช้วัสดุขัดชนิดม้วนและกระดาษทรายสายพานรายใหญ่ในการขัดเรียบและปรับผิวไม้",
-            "action": "นำเสนอสินค้ากระดาษทรายม้วนและสายพานขัดงานไม้แก่โรงงานผู้ผลิตเฟอร์นิเจอร์เพื่อการส่งออก"
-          }
-        },
-        {
-          "id": "20260813-4",
-          "tag": "steel",
-          "rating": "white",
-          "source": "Vietnam.vn",
-          "date": "2026-08-04",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5US1N3OEdieEkyZklmZkp4SzZIcDhxM2dlaXdOd1FZZDNHLXpFQURrdGV1Y2RzRVFsUU9VUGE1WTIwREdTWklEQmRlNnU3VmIxQmRobGtlY0o3eEJJTDNzYk5tYVNsRElmNkJPMzVB?oc=5",
-          "title": "Metallurgy and Metalworking Industry Accelerates Growth in Regional Supply Chains",
-          "summary": "Regional metallurgy and metalworking sectors are accelerating technological upgrades and production efficiency to meet industrial demand.",
-          "why": "General growth in regional metalworking reflects baseline demand for heavy-duty grinding tools.",
-          "action": "Maintain stock readiness for high-demand grinding wheels and flap discs for standard metal fabrication shops.",
-          "th": {
-            "title": "อุตสาหกรรมโลหะวิทยาและงานโลหะเร่งพัฒนาอย่างรวดเร็วในห่วงโซ่อุปทานภูมิภาค",
-            "summary": "ภาคอุตสาหกรรมโลหะวิทยาและงานแปรรูปโลหะในภูมิภาคเร่งปรับตัวด้านเทคโนโลยีเพื่อเพิ่มประสิทธิภาพการผลิตรองรับความต้องการอุตสาหกรรม",
-            "why": "การเติบโตของงานแปรรูปโลหะสะท้อนถึงความต้องการพื้นฐานของใบเจียรและจานขัดโลหะ",
-            "action": "สำรองสต็อกสินค้ากลุ่มใบเจียรและใบผ่าขัดสำหรับงานโลหะทั่วไปให้เพียงพอต่อความต้องการ"
+            "title": "แนวโน้มธุรกิจ/อุตสาหกรรม ปี 2569-2571: อุตสาหกรรมรถยนต์ไฟฟ้า",
+            "summary": "วิจัยกรุงศรีประเมินอุตสาหกรรม EV ปี 2569-2571 เติบโตต่อเนื่องจากมาตรการสนับสนุนและฐานการผลิตที่ขยายตัว แม้อุตสาหกรรมรถยนต์เครื่องยนต์สันดาปจะปรับตัวลง",
+            "why": "แนวโน้มระยะปานกลางช่วยให้วางแผนสต็อกกระดาษทรายและหัวขัดโลหะน้ำหนักเบาที่ใช้ในรถ EV ได้แม่นยำขึ้น",
+            "action": "เตรียมโปรโมตสินค้าขัดเงาและลบครีบสำหรับอะลูมิเนียมและโลหะผสมน้ำหนักเบาที่ใช้ใน EV"
           }
         }
       ],
