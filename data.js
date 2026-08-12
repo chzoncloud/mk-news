@@ -3,64 +3,46 @@ window.NEWS_ARCHIVE = {
   "days": [
     {
       "date": "2026-08-13",
-      "summary": "Limited new updates today. Key highlights include BOI's cumulative 182 billion baht EV investment partnership across global automakers and ongoing steel industry pressure from low domestic demand and Chinese imports.",
-      "directCount": 1,
+      "summary": "Today features limited new industry updates. Key news highlights warnings from Toyota regarding potential production base shifts to Indonesia, posing risks to MK's core Japanese automotive customer base in Thailand.",
+      "directCount": 0,
       "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มาก ประเด็นสำคัญคือ BOI เผยยอดลงทุน EV สะสมทะลุ 1.82 แสนล้านบาทจากการร่วมมือหลายสัญชาติ และอุตสาหกรรมเหล็กยังเผชิญความท้าทายจากความต้องการในประเทศที่ชะลอตัวและการทุ่มตลาด"
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยข่าวสำคัญคือคำเตือนจากผู้บริหารโตโยต้าถึงความเสี่ยงในการย้ายฐานผลิตไปอินโดนีเซีย ซึ่งส่งผลกระทบโดยตรงต่อกลุ่มลูกค้าโรงงานประกอบรถยนต์และชิ้นส่วนญี่ปุ่นในไทย"
       },
       "items": [
         {
           "id": "20260813-1",
           "tag": "auto",
-          "rating": "green",
-          "source": "Techsauce",
-          "date": "2026-05-13",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSUh5a1RYRHhRZVM5dmliakJOVDhPMGs2dDZPdFdTSEw4TU5yRHNQT1R2dk1uSXQzOWFjNXZ4bGhESGxFUEZpWWNxOEpXNFNDZWI1NDdDaUJTZVZMbmVGckk3VXhDRFMyWkJ1LVd3Q0VDS0ZfaENUcGdjajJXaFViQndkVQ?oc=5",
-          "title": "BOI Partners with Global EV Makers to Build 'Smart & Green Mobility' Hub as Investment Reaches 182 Billion Baht",
-          "summary": "BOI has joined forces with Chinese, Japanese, and European EV manufacturers to establish Thailand as a Smart & Green Mobility hub, bringing cumulative EV investment to over 182 billion baht.",
-          "why": "Expansion in EV manufacturing setups creates direct opportunities to supply high-precision sanding belts and polishing discs to new auto assembly lines.",
-          "action": "Target tier-1 and tier-2 auto parts suppliers entering these new EV supply chains for precision metal finishing tools.",
+          "rating": "amber",
+          "source": "thansettakij",
+          "date": "2026-08-12",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwX1MySkh6Y0pRUktLRFpmSUl1dUZKd0NTUGp1LVZfbi1PN2lKellaR3RtVHdGaTBPUUEwQ0cwSlItbWxON1kxWjNHbXlITHZwOU1OcnhQOXgwZkE?oc=5",
+          "title": "Toyota Executive Warns Government over Thai Automotive Instability as Indonesia Woos Production Relocation",
+          "summary": "Toyota Thailand leadership issued a formal message to the Thai government regarding instability in the local automotive industry as Indonesia actively entices automakers to relocate production bases.",
+          "why": "A potential shift of Japanese auto manufacturing to Indonesia threatens MK's core revenue base from Japanese Tier-1 and Tier-2 auto parts factories in Thailand.",
+          "action": "Strengthen relationships with key Japanese Tier-1 suppliers and accelerate customer diversification into aerospace MRO and general metal fabrication.",
           "th": {
-            "title": "BOI ผนึก EV จีน-ญี่ปุ่น-ยุโรป ปั้นไทยสู่ฐาน Smart & Green Mobility เผยยอดลงทุน EV สะสมทะลุ 1.82 แสนล้านบาท",
-            "summary": "บีโอไอร่วมมือกับผู้ผลิตรถยนต์ไฟฟ้าจากจีน ญี่ปุ่น และยุโรป ยกระดับไทยเป็นศูนย์กลางยานยนต์สะอาด โดยมียอดลงทุนสะสมในกลุ่ม EV กว่า 1.82 แสนล้านบาท",
-            "why": "การขยายฐานผลิต EV เพิ่มอุปสงค์การใช้สายพานขัดและจานขัดความละเอียดสูงในสายการผลิตชิ้นส่วนยานยนต์ใหม่",
-            "action": "เร่งเสนอขายวัสดุขัดผิวให้กับโรงงานซัพพลายเออร์ Tier 1 และ Tier 2 ที่ป้อนชิ้นส่วนให้ค่ายรถ EV"
+            "title": "แม่ทัพโตโยต้าส่งสารเตือนรัฐบาล ยานยนต์ไทยระส่ำขณะอินโดนีเซียเร่งจีบย้ายฐานผลิต",
+            "summary": "ผู้บริหารระดับสูงของโตโยต้า ประเทศไทย ส่งสารเตือนรัฐบาลเกี่ยวกับสถานการณ์อุตสาหกรรมยานยนต์ไทยที่กำลังระส่ำ ท่ามกลางการรุกหนักของอินโดนีเซียที่ดึงดูดค่ายรถให้ย้ายฐานการผลิต",
+            "why": "หากค่ายรถญี่ปุ่นชะลอหรือย้ายกำลังการผลิตไปอินโดนีเซีย จะส่งผลกระทบโดยตรงต่อปริมาณการใช้วัสดุขัดในโรงงานซัพพลายเออร์ชิ้นส่วนยานยนต์ญี่ปุ่นซึ่งเป็นลูกค้าหลักของ MK",
+            "action": "เข้าพบเพื่อกระชับความสัมพันธ์กับลูกค้ารายใหญ่กลุ่ม Tier-1 ญี่ปุ่น พร้อมเร่งขยายตลาดไปยังกลุ่ม MRO การบินและโรงงานแปรรูปโลหะอื่นๆ"
           }
         },
         {
           "id": "20260813-2",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "เดลินิวส์",
-          "date": "2026-05-21",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3cWgyMzlsVU90VjFUWTJ4czV4U2ZIZi1QbnBzeUR5ZzNHQ21jTzR6RmVpaDFDVVF2ODVsTlFmYVZLbUlCdGhEUXExQTdSbng0U29n?oc=5",
-          "title": "Thai Steel Sector Faces Severe Pressure from Low Domestic Consumption and Chinese Import Dumping",
-          "summary": "10 steel industry associations urge government intervention regarding sub-standard induction furnace (IF) plants and cheap Chinese imports impacting domestic steelmakers.",
-          "why": "Slowing domestic steel production may weaken abrasive tool demand among local structural steel and metal fabrication workshops.",
-          "action": "Shift sales focus toward higher-value industrial fabricators and foreign-invested factories that maintain steady production standards.",
-          "th": {
-            "title": "เหล็กไทยเหมือนอยู่สนามรบ ยอดใช้ต่ำ แถมของถูกจีนถล่มซ้ำ จี้รัฐเร่งแก้ เตาไอเอฟ",
-            "summary": "10 สมาคมเหล็กเรียกร้องรัฐแก้ปัญหาการทุ่มตลาดจากเหล็กจีนและกวดขันโรงงานเตาไอเอฟที่ไม่ได้มาตรฐาน ท่ามกลางอุปสงค์ในประเทศที่ชะลอตัว",
-            "why": "กำลังการผลิตเหล็กในประเทศที่ลดลงส่งผลกระทบต่อปริมาณการใช้วัสดุขัดเจียรในกลุ่มโรงงานแปรรูปโลหะทั่วไป",
-            "action": "เน้นทำตลาดกับกลุ่มโรงงานโครงสร้างโลหะเกรดพรีเมียมและทุนต่างชาติที่มีกำลังการผลิตสม่ำเสมอ"
-          }
-        },
-        {
-          "id": "20260813-3",
           "tag": "auto",
           "rating": "amber",
-          "source": "Krungsri.com",
-          "date": "2025-12-02",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMTRod1N3TFVORU1iVFlidUUzTU1BSzZjRkh0NkFDTFFSV2M2MXR2UUJCeHMtUUlnX3FfTzhjTEFwUl9teW5uZ0s2eUtTRDZEcktJVWNfWlZSWnhpZHhVTUkyQjRpS09xNm9UUURPUU5KVlhXandPaWplenlBVGhmSnc5T0NxaDRwVVRXcmlETlJyNy1mdmdSM3M2MHRFXzBNSENUcUtKNjdwTWxCcjgzbEZuNlJ4OU02bGxzREw5am82OTh3bkZJUnhNYy0?oc=5",
-          "title": "Krungsri Research Outlines 2026-2028 EV Industry Outlook During Supply Chain Shift",
-          "summary": "Krungsri Research forecasts medium-term EV sector growth driven by government incentives and rising regional production, despite structural shifts in conventional auto manufacturing.",
-          "why": "Understanding long-term EV transition timelines helps MK align abrasive product inventories for new lightweight metal alloys.",
-          "action": "Prepare specialized non-woven and polishing abrasive product lineups tailored for lightweight EV alloy finishing.",
+          "source": "thestandard.co",
+          "date": "2026-05-26",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QRllPRTEzdHpyNldCaWtwODlMX2ZQRmgzdXN0WDc3ZFdVbUZvdkZoT1RtTjNkVEhmR3VVTjVUVzB2Y3FjNEpaUEVLZWxQZGNfRVM5amJIVVdCdDl4?oc=5",
+          "title": "Japan Re-evaluates Future of Thai Auto Industry Amid Chinese EV Disruption",
+          "summary": "Japanese automakers are reviewing their long-term investment strategies in Thailand as aggressive Chinese EV expansion rapidly shifts market dynamics.",
+          "why": "Transition from traditional ICE auto parts to Chinese EV supply chains may reduce demand for traditional metal polishing unless MK adapts to new EV component surface preparation requirements.",
+          "action": "Identify emerging Chinese EV component manufacturers in Thailand and offer specialized abrasive solutions tailored for EV structural parts.",
           "th": {
-            "title": "แนวโน้มธุรกิจ/อุตสาหกรรม ปี 2569-2571: อุตสาหกรรมรถยนต์ไฟฟ้า",
-            "summary": "วิจัยกรุงศรีประเมินอุตสาหกรรม EV ปี 2569-2571 เติบโตต่อเนื่องจากมาตรการสนับสนุนและฐานการผลิตที่ขยายตัว แม้อุตสาหกรรมรถยนต์เครื่องยนต์สันดาปจะปรับตัวลง",
-            "why": "แนวโน้มระยะปานกลางช่วยให้วางแผนสต็อกกระดาษทรายและหัวขัดโลหะน้ำหนักเบาที่ใช้ในรถ EV ได้แม่นยำขึ้น",
-            "action": "เตรียมโปรโมตสินค้าขัดเงาและลบครีบสำหรับอะลูมิเนียมและโลหะผสมน้ำหนักเบาที่ใช้ใน EV"
+            "title": "ญี่ปุ่นประเมินอนาคตอุตสาหกรรมรถยนต์ไทยใหม่ ท่ามกลางการเปลี่ยนเกมของ EV จีน",
+            "summary": "ค่ายรถยนต์ญี่ปุ่นกำลังทบทวนกลยุทธ์การลงทุนระยะยาวในประเทศไทย เนื่องจากค่ายรถ EV จีนรุกตลาดอย่างหนักและเปลี่ยนโครงสร้างการแข่งขัน",
+            "why": "การปรับเปลี่ยนฐานผลิตจากรถยนต์เครื่องยนต์สันดาปไปสู่ EV จีน อาจทำให้ความต้องการใช้วัสดุขัดโลหะแบบเดิมลดลง หาก MK ไม่ปรับตัวเข้าสู่ห่วงโซ่อุปทานใหม่",
+            "action": "เร่งสำรวจโรงงานซัพพลายเออร์ในห่วงโซ่ EV จีน และนำเสนอวัสดุขัดที่เหมาะกับชิ้นส่วนอลูมิเนียมและโลหะน้ำหนักเบาของ EV"
           }
         }
       ],
