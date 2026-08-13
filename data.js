@@ -3,100 +3,64 @@ window.NEWS_ARCHIVE = {
   "days": [
     {
       "date": "2026-08-14",
-      "summary": "Today features limited new headlines, highlighting long-term structural shifts: BOI reports EV investments surpassing THB 130B, while traditional automotive and domestic steel mills face ongoing market and trade pressures.",
-      "directCount": 1,
+      "summary": "Today has limited new news, but major capital commitments from Mitsubishi Motors, BYD, and the EEC MRO hub offer strong fresh demand for automotive and aerospace surface finishing abrasives.",
+      "directCount": 3,
       "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยเน้นไปที่ทิศทางเชิงโครงสร้างระยะยาว: บีโอไอเผยยอดลงทุน EV ทะลุ 1.3 แสนล้านบาท ขณะที่กลุ่มยานยนต์ดั้งเดิมและโรงงานเหล็กในประเทศยังเผชิญแรงกดดันด้านตลาดและการค้าต่อเนื่อง"
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก แต่งบลงทุนก้อนใหญ่จากมิตซูบิชิ บีวายดี และโครงการศูนย์ซ่อม MRO ในอีอีซี เป็นโอกาสสำคัญที่จะเพิ่มความต้องการใช้วัสดุขัดในกลุ่มยานยนต์และการบิน"
       },
       "items": [
         {
           "id": "20260814-1",
           "tag": "auto",
           "rating": "green",
-          "source": "thaigov.go.th",
-          "date": "2026-07-02",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zOHo0X01meExtendzNTNja1RMTUxKa2dWM0hFZ1JrRzJ4dmJPLWhSdHVwb19IU01fVTRVOWtaX2lkMVJUSlRPb3FCNVg5UQ?oc=5",
-          "title": "BOI Reports EV Investment Value Surpassing THB 130 Billion",
-          "summary": "The Board of Investment announced cumulative EV investment promotion applications exceeding THB 130 billion, supporting Thailand as a comprehensive EV manufacturing hub.",
-          "why": "New EV assembly lines and component fabricators create direct demand for surface prep, deburring, and metal finishing abrasives.",
-          "action": "Approach newly approved EV supply chain factories with specialized abrasive solutions for aluminum and lightweight alloys.",
+          "source": "today.line.me",
+          "date": "2026-07-24",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1d29pcVRMMUxSTVRTUkR4bkRWT2tSM09YQjNEWjhHeGF4VTZINWlvdjU5TzZsRFIzWmRuRllrMWpuYlIxakQ0N2hqOEdhay1DOERseUl3?oc=5",
+          "title": "Mitsubishi Motors Injects THB 16 Billion to Build EV and Electric Pickup Base in Thailand",
+          "summary": "Mitsubishi Motors has committed 16 billion baht through 2030 to upgrade its Thai manufacturing facilities for electric vehicles and electric pickups.",
+          "why": "Reaffirms Japanese OEM commitment and will boost abrasive tooling and sanding belt demand across Tier-1 and Tier-2 metal stamping suppliers.",
+          "action": "Target Mitsubishi Japanese Tier-1 parts suppliers with automated robotic deburring and metal grinding solutions.",
           "th": {
-            "title": "บีโอไอเผยยอดลงทุน EV ทะลุ 1.3 แสนล้าน หนุนเป้าฐานผลิตยานยนต์ไฟฟ้าครบวงจร",
-            "summary": "บีโอไอเปิดเผยยอดขอรับการส่งเสริมการลงทุนยานยนต์ไฟฟ้าสะสมทะลุ 1.3 แสนล้านบาท เดินหน้าดันไทยสู่ฐานการผลิต EV ทุกเทคโนโลยี",
-            "why": "การตั้งสายการผลิต EV และชิ้นส่วนใหม่สร้างความต้องการใช้วัสดุขัดเตรียมผิว ลบครีบ และขัดเงาโลหะโดยตรง",
-            "action": "รุกเจาะโรงงานซัพพลายเชน EV ที่เพิ่งได้รับอนุมัติลงทุนด้วยสินค้าวัสดุขัดสำหรับงานอะลูมิเนียมและโลหะน้ำหนักเบา"
+            "title": "มิตซูบิชิ มอเตอร์ส ทุ่ม 1.6 หมื่นล้าน ปักหมุดไทยฐานผลิต EV และกระบะไฟฟ้าถึงปี 2573",
+            "summary": "มิตซูบิชิ มอเตอร์ส ประกาศแผนลงทุน 1.6 หมื่นล้านบาทในไทยถึงปี 2573 เพื่อปรับปรุงโรงงานรองรับการผลิตยานยนต์ไฟฟ้าและกระบะไฟฟ้า",
+            "why": "ช่วยตอกย้ำความเชื่อมั่นของค่ายรถญี่ปุ่น และกระตุ้นยอดใช้วัสดุขัด/สายพานขัดในกลุ่มโรงงานปั๊มขึ้นรูปโลหะ Tier-1 และ Tier-2",
+            "action": "เข้าเจาะโรงงานซัพพลายเออร์ชิ้นส่วนสัญชาติญี่ปุ่นของมิตซูบิชิ นำเสนอจานขัดและผ้าทรายสำหรับงานขัดลบครีบอัตโนมัติ"
           }
         },
         {
           "id": "20260814-2",
           "tag": "auto",
-          "rating": "amber",
-          "source": "bangkokbiznews",
-          "date": "2026-07-23",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Ia3BQamVvR0x1WW9iOVZQdXYxSmxRckVHcWFLajE4dE9WUDh1T1lPZElDQXBjLTZQb2JRSElrUzJLZ0tVX2JFeFVtNzJRb0YyaVpab3RSQlNJbnlCVElCNU13?oc=5",
-          "title": "Thai Automotive Crisis Rooted in Structural Issues Pre-dating EV Shift",
-          "summary": "Industry analysis highlights that challenges in Thailand's automotive supply chain stem from domestic debt and slowing legacy demand, beyond just the EV disruption.",
-          "why": "Stagnant output at traditional Tier-2/3 auto parts suppliers poses downside risk to regular abrasive repeat orders.",
-          "action": "Monitor credit terms closely for traditional auto parts clients and introduce cost-effective abrasive products to help them reduce production costs.",
+          "rating": "green",
+          "source": "springnews",
+          "date": "2026-08-02",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tOExFampnTDY0ZjcyeVdGekZJdXFqZllBSmRGTUVHaFNRTVRrU1FfSnN3dVNUaXd0d1BYRWtNcjhHRzhVS0FfRUt0aG1wUVIxYkxYUVBkLW9ZbVdQMEtyckRIS0lBVjRrQzRn?oc=5",
+          "title": "BYD Passenger EV Facility Strengthens Thailand's Position as Regional EV Hub",
+          "summary": "BYD's operational manufacturing plant in Rayong is scaling production volume to serve both domestic sales and regional exports.",
+          "why": "Ramping up assembly volume creates steady consumption of aluminum deburring, weld seam grinding, and paint-shop polishing abrasives.",
+          "action": "Approach BYD body shops and chassis component vendors with specialized aluminum oxide and ceramic finishing abrasives.",
           "th": {
-            "title": "วิกฤติยานยนต์ไทย ปัญหาเชิงโครงสร้างที่มีมาก่อนกระแส EV",
-            "summary": "บทวิเคราะห์ชี้ปัญหาห่วงโซ่อุปทานยานยนต์ไทยเผชิญแรงกดดันจากหนี้ครัวเรือนและยอดผลิตรถสันดาปที่ชะลอตัว ซึ่งเป็นปัญหาสะสมมาก่อนการมาของ EV",
-            "why": "ยอดผลิตที่ลดลงในกลุ่มผู้ผลิตชิ้นส่วนยานยนต์ Tier-2/3 ดั้งเดิม อาจกระทบต่อยอดสั่งซื้อซ้ำของวัสดุขัดสิ้นเปลือง",
-            "action": "ติดตามความเสี่ยงด้านเครดิตของลูกค้ากลุ่มชิ้นส่วนดั้งเดิม พร้อมนำเสนอสินค้ารุ่นประหยัดต้นทุนเพื่อช่วยโรงงานลดค่าใช้จ่ายต่อชิ้นงาน"
+            "title": "โรงงานยานยนต์ไฟฟ้า BYD ดันประเทศไทยสู่ฮับ EV แห่งภูมิภาคอาเซียน",
+            "summary": "โรงงานผลิตรถยนต์ไฟฟ้า BYD ในระยองเดินหน้าเร่งกำลังการผลิตเต็มสูบเพื่อป้อนตลาดในประเทศและส่งออกสู่อาเซียน",
+            "why": "การเพิ่มกำลังผลิตตัวถังรถยนต์ทำให้มีความต้องการใช้วัสดุขัดรอยเชื่อม ขัดลบครีบอลูมิเนียม และขัดสีก่อนพ่นเพิ่มขึ้นต่อเนื่อง",
+            "action": "นำเสนอจานทรายเซรามิกและกระดาษทรายขัดอลูมิเนียมแก่โรงงานประกอบตัวถังและผู้ผลิตโครงแชสซีของ BYD"
           }
         },
         {
           "id": "20260814-3",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "เดลินิวส์",
-          "date": "2026-05-21",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3cWgyMzlsVU90VjFUWTJ4czV4U2ZIZi1QbnBzeUR5ZzNHQ21jTzR6RmVpaDFDVVF2ODVsTlFmYVZLbUlCdGhEUXExQTdSbng0U29n?oc=5",
-          "title": "Thai Steel Mills Face Intense Struggle Amid Weak Consumption and Cheap Imports",
-          "summary": "Domestic steel producers report severe operating pressure caused by low domestic consumption and prolonged competition from low-priced Chinese steel.",
-          "why": "Lower production runs across local steel mills reduce the ongoing consumption of heavy grinding wheels and cutting discs.",
-          "action": "Shift abrasive sales focus toward downstream steel fabricators and specialized metal workshops requiring precision finishing.",
-          "th": {
-            "title": "เหล็กไทยเผชิญศึกหนัก ยอดใช้ชะลอตัวพร้อมแรงกดดันจากสินค้าราคาถูกนำเข้า",
-            "summary": "กลุ่มผู้ผลิตเหล็กในประเทศชี้อุตสาหกรรมเผชิญแรงกดดันหนักจากความต้องการใช้ในประเทศที่ต่ำและสินค้าเหล็กราคาถูกจากต่างประเทศ",
-            "why": "การลดกำลังผลิตของโรงงานเหล็กในประเทศส่งผลให้การใช้วัสดุขัดหนัก เช่น ใบเจียรและใบตัดลดลง",
-            "action": "ปรับโฟกัสทีมขายไปยังโรงงานแปรรูปโครงสร้างเหล็กขั้นปลายและงานโลหะเฉพาะทางที่เน้นงานขัดแต่งคุณภาพสูง"
-          }
-        },
-        {
-          "id": "20260814-4",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "ditp.go.th",
-          "date": "2025-06-06",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE90ZHE5Qk8yNVFBYnRlQmR6emM0aVdZZ3VLY1N0YmFLdGk5VjFiczVRNGh4dlppaDBrZzM1ZnkwZW8tb0NtMVFwSUl4MjJMemdSd0tOVmhWSThzV1pUUVJXYlh3?oc=5",
-          "title": "United States Imposes 50% Tariffs on Steel and Aluminum Imports",
-          "summary": "The US raised tariffs on imported steel and aluminum products to 50%, intensifying trade barriers and shifting global metal trade flows.",
-          "why": "Export-oriented metal and aluminum part fabricators in Thailand may face export hurdles, impacting overall factory utilization.",
-          "action": "Support export-oriented metal fabricators with high-grade abrasives to help them achieve the surface quality required for non-US premium markets.",
-          "th": {
-            "title": "สหรัฐฯ ประกาศขึ้นภาษีนำเข้าเหล็กและอะลูมิเนียมเป็น 50%",
-            "summary": "สหรัฐฯ ปรับขึ้นอัตราภาษีนำเข้าสินค้าเหล็กและอะลูมิเนียมเป็น 50% เพิ่มอุปสรรคทางการค้าและส่งผลกระทบต่อทิศทางการค้าโลหะทั่วโลก",
-            "why": "โรงงานแปรรูปโลหะและอะลูมิเนียมเพื่อการส่งออกในไทยอาจเผชิญแรงกดดันด้านยอดส่งออก ซึ่งกระทบต่ออัตราการใช้เครื่องจักร",
-            "action": "สนับสนุนลูกค้าผู้ผลิตชิ้นงานโลหะส่งออกด้วยวัสดุขัดเกรดพรีเมียม เพื่อยกระดับผิวงานให้ตรงตามมาตรฐานตลาดส่งออกทางเลือก"
-          }
-        },
-        {
-          "id": "20260814-5",
-          "tag": "furniture",
-          "rating": "amber",
+          "tag": "aero",
+          "rating": "green",
           "source": "posttoday",
-          "date": "2026-02-20",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxXzVZOHRNaDlMYzJBM2F6S1FPc0Vkcy1Sc2JWRnl1VklJY2ZCSEpsOUJ0RG13b0I1cHBpXzBUOUhlSHdpdV9uV1cyZGJHT2pNaF83cw?oc=5",
-          "title": "ASEAN Furniture Industry Expands with Top Four Nations Controlling 90% of Exports",
-          "summary": "The ASEAN furniture manufacturing sector continues to expand, with Thailand among the four key countries dominating 90% of regional exports.",
-          "why": "Steady wood furniture export production maintains consistent baseline consumption of wide sanding belts and surface finishing papers.",
-          "action": "Expand promotion of wide sanding belts and specialized wood-finishing abrasives to medium and large furniture exporters.",
+          "date": "2026-07-27",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lak5sZXQtNktSd3dqWTVQcmdhN2JJdGVhSEUxUzk5RFI5TUs4T3kzMzBqVDdNUnp4N2k3M2FBalNXd0UwaS1XeUxkczM4Rzg4QnVBQXJR?oc=5",
+          "title": "EECO Secures Funding to Position U-Tapao as Regional Aircraft MRO Hub",
+          "summary": "The Eastern Economic Corridor Office is mobilizing investment to develop full-scale aircraft maintenance, repair, and overhaul facilities at U-Tapao Airport.",
+          "why": "The development of regional hangars and MRO workshops will drive sustained local demand for certified aerospace abrasives.",
+          "action": "Prepare aviation-grade abrasive sample kits and establish compliance documentation for incoming hangar contractors.",
           "th": {
-            "title": "อุตสาหกรรมเฟอร์นิเจอร์อาเซียนขยายตัว 4 ชาติหลักครองสัดส่วนส่งออก 90%",
-            "summary": "อุตสาหกรรมผลิตเฟอร์นิเจอร์ในอาเซียนขยายตัวต่อเนื่อง โดยมี 4 ประเทศหลักรวมถึงไทยครองสัดส่วนการส่งออกกว่า 90% ของภูมิภาค",
-            "why": "การผลิตเฟอร์นิเจอร์ไม้ส่งออกที่ต่อเนื่องช่วยรักษาฐานการใช้วัสดุขัดสายพานหน้ากว้างและกระดาษทรายขัดผิวไม้",
-            "action": "เร่งทำตลาดกระดาษทรายสายพานหน้ากว้างและวัสดุขัดละเอียดสำหรับงานไม้ไปยังกลุ่มโรงงานเฟอร์นิเจอร์ส่งออกขนาดกลางถึงใหญ่"
+            "title": "EECO ระดมทุน ดันอุตสาหกรรม MRO ปั้นอู่ตะเภาสู่ศูนย์กลางซ่อมอากาศยานภูมิภาค",
+            "summary": "สำนักงานอีอีซีเร่งจัดโครงสร้างระดมทุนเพื่อพัฒนาศูนย์ซ่อมบำรุงอากาศยาน (MRO) ครบวงจรที่สนามบินอู่ตะเภา",
+            "why": "การขยายศูนย์ซ่อมอากาศยานในพื้นที่ EEC จะสร้างความต้องการใช้วัสดุขัดเตรียมผิวโลหะและชิ้นส่วนเครื่องบินมาตรฐานการบินในระยะยาว",
+            "action": "จัดเตรียมชุดตัวอย่างวัสดุขัดเกรดการบิน พร้อมเอกสารรับรองมาตรฐานเพื่อเข้าเสนอกลุ่มผู้รับเหมาและศูนย์ซ่อมบำรุง"
           }
         }
       ],
