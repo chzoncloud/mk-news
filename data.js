@@ -3,64 +3,82 @@ window.NEWS_ARCHIVE = {
   "days": [
     {
       "date": "2026-08-14",
-      "summary": "Today has limited new news, but major capital commitments from Mitsubishi Motors, BYD, and the EEC MRO hub offer strong fresh demand for automotive and aerospace surface finishing abrasives.",
-      "directCount": 3,
+      "summary": "Today has limited new breaking news; key focus remains on ongoing BOI-backed EV investments and regional woodworking expos that could drive demand for precision finishing abrasives.",
+      "directCount": 1,
       "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มาก แต่งบลงทุนก้อนใหญ่จากมิตซูบิชิ บีวายดี และโครงการศูนย์ซ่อม MRO ในอีอีซี เป็นโอกาสสำคัญที่จะเพิ่มความต้องการใช้วัสดุขัดในกลุ่มยานยนต์และการบิน"
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก ประเด็นสำคัญยังคงเป็นการลงทุน EV จากบีโอไอและงานแสดงสินค้าอุตสาหกรรมไม้ที่ช่วยสร้างโอกาสให้สินค้ากลุ่มวัสดุขัดผิวละเอียด"
       },
       "items": [
         {
           "id": "20260814-1",
-          "tag": "auto",
+          "tag": "furniture",
           "rating": "green",
-          "source": "today.line.me",
-          "date": "2026-07-24",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1d29pcVRMMUxSTVRTUkR4bkRWT2tSM09YQjNEWjhHeGF4VTZINWlvdjU5TzZsRFIzWmRuRllrMWpuYlIxakQ0N2hqOEdhay1DOERseUl3?oc=5",
-          "title": "Mitsubishi Motors Injects THB 16 Billion to Build EV and Electric Pickup Base in Thailand",
-          "summary": "Mitsubishi Motors has committed 16 billion baht through 2030 to upgrade its Thai manufacturing facilities for electric vehicles and electric pickups.",
-          "why": "Reaffirms Japanese OEM commitment and will boost abrasive tooling and sanding belt demand across Tier-1 and Tier-2 metal stamping suppliers.",
-          "action": "Target Mitsubishi Japanese Tier-1 parts suppliers with automated robotic deburring and metal grinding solutions.",
+          "source": "มติชนออนไลน์",
+          "date": "2026-07-13",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tSExWNjZuc1BjdTBOM2F6OWVuN1J4bWo1R1hDUjk4VWdqelZnSy1xTjN4UllKcTFmSjRFck9HVW5NMGlJTTUyQWJ2STVJR096aXd0YnhjUHdaczA?oc=5",
+          "title": "TIWF 2026 Set to Elevate Woodworking and Furniture Industries Across ASEAN",
+          "summary": "Thailand is hosting TIWF 2026, positioning the country as a regional hub for woodworking machinery, materials, and furniture production technology.",
+          "why": "Woodworking and furniture factories require extensive sanding belts, wide belts, and abrasive discs for surface preparation.",
+          "action": "Plan marketing outreach or booth presence targeting furniture makers preparing for upgrade cycles.",
           "th": {
-            "title": "มิตซูบิชิ มอเตอร์ส ทุ่ม 1.6 หมื่นล้าน ปักหมุดไทยฐานผลิต EV และกระบะไฟฟ้าถึงปี 2573",
-            "summary": "มิตซูบิชิ มอเตอร์ส ประกาศแผนลงทุน 1.6 หมื่นล้านบาทในไทยถึงปี 2573 เพื่อปรับปรุงโรงงานรองรับการผลิตยานยนต์ไฟฟ้าและกระบะไฟฟ้า",
-            "why": "ช่วยตอกย้ำความเชื่อมั่นของค่ายรถญี่ปุ่น และกระตุ้นยอดใช้วัสดุขัด/สายพานขัดในกลุ่มโรงงานปั๊มขึ้นรูปโลหะ Tier-1 และ Tier-2",
-            "action": "เข้าเจาะโรงงานซัพพลายเออร์ชิ้นส่วนสัญชาติญี่ปุ่นของมิตซูบิชิ นำเสนอจานขัดและผ้าทรายสำหรับงานขัดลบครีบอัตโนมัติ"
+            "title": "TIWF 2026 ปักหมุดงานใหญ่ ยกระดับอุตสาหกรรมงานไม้และเฟอร์นิเจอร์สู่ภูมิภาคอาเซียน",
+            "summary": "ไทยจัดงาน TIWF 2026 เพื่อผลักดันให้ประเทศเป็นศูนย์กลางเครื่องจักร วัสดุ และเทคโนโลยีการผลิตเฟอร์นิเจอร์ในภูมิภาค",
+            "why": "โรงงานแปรรูปไม้และเฟอร์นิเจอร์จำเป็นต้องใช้กระดาษทรายสายพานและจานขัดจำนวนมากในการเตรียมผิวก่อนทำสี",
+            "action": "เตรียมแผนเข้าพบลูกค้าหรือร่วมงานแสดงสินค้าเพื่อเจาะกลุ่มโรงงานเฟอร์นิเจอร์ที่เตรียมลงทุนปรับปรุงสายการผลิต"
           }
         },
         {
           "id": "20260814-2",
           "tag": "auto",
-          "rating": "green",
-          "source": "springnews",
-          "date": "2026-08-02",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tOExFampnTDY0ZjcyeVdGekZJdXFqZllBSmRGTUVHaFNRTVRrU1FfSnN3dVNUaXd0d1BYRWtNcjhHRzhVS0FfRUt0aG1wUVIxYkxYUVBkLW9ZbVdQMEtyckRIS0lBVjRrQzRn?oc=5",
-          "title": "BYD Passenger EV Facility Strengthens Thailand's Position as Regional EV Hub",
-          "summary": "BYD's operational manufacturing plant in Rayong is scaling production volume to serve both domestic sales and regional exports.",
-          "why": "Ramping up assembly volume creates steady consumption of aluminum deburring, weld seam grinding, and paint-shop polishing abrasives.",
-          "action": "Approach BYD body shops and chassis component vendors with specialized aluminum oxide and ceramic finishing abrasives.",
+          "rating": "amber",
+          "source": "Thaigov",
+          "date": "2026-07-02",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zOHo0X01meExtendzNTNja1RMTUxKa2dWM0hFZ1JrRzJ4dmJPLWhSdHVwb19IU01fVTRVOWtaX2lkMVJUSlRPb3FCNVg5UQ?oc=5",
+          "title": "BOI Reports EV Investment Exceeding THB 130 Billion Across All Technologies",
+          "summary": "The Board of Investment announced cumulative EV investment commitments surpassing 130 billion Baht, covering battery packs, parts, and full vehicle assembly.",
+          "why": "New manufacturing lines require deburring tools and fine finishing abrasives for motor casings, battery trays, and body panels.",
+          "action": "Audit product portfolio to ensure adequate supply of specialized non-woven and aluminum-safe deburring abrasives.",
           "th": {
-            "title": "โรงงานยานยนต์ไฟฟ้า BYD ดันประเทศไทยสู่ฮับ EV แห่งภูมิภาคอาเซียน",
-            "summary": "โรงงานผลิตรถยนต์ไฟฟ้า BYD ในระยองเดินหน้าเร่งกำลังการผลิตเต็มสูบเพื่อป้อนตลาดในประเทศและส่งออกสู่อาเซียน",
-            "why": "การเพิ่มกำลังผลิตตัวถังรถยนต์ทำให้มีความต้องการใช้วัสดุขัดรอยเชื่อม ขัดลบครีบอลูมิเนียม และขัดสีก่อนพ่นเพิ่มขึ้นต่อเนื่อง",
-            "action": "นำเสนอจานทรายเซรามิกและกระดาษทรายขัดอลูมิเนียมแก่โรงงานประกอบตัวถังและผู้ผลิตโครงแชสซีของ BYD"
+            "title": "บีโอไอเผยยอดลงทุน EV ทะลุ 1.3 แสนล้าน หนุนฐานผลิตยานยนต์ไฟฟ้าครบวงจร",
+            "summary": "บีโอไอเผยยอดส่งเสริมการลงทุน EV ทะลุ 1.3 แสนล้านบาท ครอบคลุมทั้งการผลิตแบตเตอรี่ ชิ้นส่วนสำคัญ และการประกอบรถยนต์",
+            "why": "สายการผลิตใหม่ต้องการวัสดุลบครีบและขัดเงาสำหรับเคสมอเตอร์ ถาดแบตเตอรี่ และชิ้นส่วนอลูมิเนียมน้ำหนักเบา",
+            "action": "ตรวจสอบสต็อกสินค้ากลุ่ม Non-woven และวัสดุขัดสำหรับงานอลูมิเนียมเพื่อพร้อมรองรับไลน์ผลิตใหม่"
           }
         },
         {
           "id": "20260814-3",
-          "tag": "aero",
-          "rating": "green",
-          "source": "posttoday",
-          "date": "2026-07-27",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lak5sZXQtNktSd3dqWTVQcmdhN2JJdGVhSEUxUzk5RFI5TUs4T3kzMzBqVDdNUnp4N2k3M2FBalNXd0UwaS1XeUxkczM4Rzg4QnVBQXJR?oc=5",
-          "title": "EECO Secures Funding to Position U-Tapao as Regional Aircraft MRO Hub",
-          "summary": "The Eastern Economic Corridor Office is mobilizing investment to develop full-scale aircraft maintenance, repair, and overhaul facilities at U-Tapao Airport.",
-          "why": "The development of regional hangars and MRO workshops will drive sustained local demand for certified aerospace abrasives.",
-          "action": "Prepare aviation-grade abrasive sample kits and establish compliance documentation for incoming hangar contractors.",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "เดลินิวส์",
+          "date": "2026-05-21",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3cWgyMzlsVU90VjFUWTJ4czV4U2ZIZi1QbnBzeUR5ZzNHQ21jTzR6RmVpaDFDVVF2ODVsTlFmYVZLbUlCdGhEUXExQTdSbng0U29n?oc=5",
+          "title": "Domestic Steel Sector Faces Severe Pressure from Low Demand and Cheap Chinese Dumping",
+          "summary": "Thai steel manufacturers urge authorities to strictly regulate sub-standard induction furnace mills and curb surging cheap imported steel.",
+          "why": "Struggling domestic steel fabricators may reduce work shifts, lowering immediate consumption of heavy grinding wheels and flap discs.",
+          "action": "Monitor credit terms closely for traditional metal fabricators while offering high-durability abrasives to help them cut operational costs.",
           "th": {
-            "title": "EECO ระดมทุน ดันอุตสาหกรรม MRO ปั้นอู่ตะเภาสู่ศูนย์กลางซ่อมอากาศยานภูมิภาค",
-            "summary": "สำนักงานอีอีซีเร่งจัดโครงสร้างระดมทุนเพื่อพัฒนาศูนย์ซ่อมบำรุงอากาศยาน (MRO) ครบวงจรที่สนามบินอู่ตะเภา",
-            "why": "การขยายศูนย์ซ่อมอากาศยานในพื้นที่ EEC จะสร้างความต้องการใช้วัสดุขัดเตรียมผิวโลหะและชิ้นส่วนเครื่องบินมาตรฐานการบินในระยะยาว",
-            "action": "จัดเตรียมชุดตัวอย่างวัสดุขัดเกรดการบิน พร้อมเอกสารรับรองมาตรฐานเพื่อเข้าเสนอกลุ่มผู้รับเหมาและศูนย์ซ่อมบำรุง"
+            "title": "อุตสาหกรรมเหล็กไทยเผชิญแรงกดดันหนักจากความต้องการชะลอตัวและเหล็กนำเข้าราคาถูก",
+            "summary": "ผู้ผลิตเหล็กไทยเรียกร้องให้ภาครัฐคุมเข้มมาตรฐานเตาหลอม IF และสกัดกั้นการทุ่มตลาดของเหล็กนำเข้าราคาถูก",
+            "why": "โรงงานแปรรูปโลหะในประเทศที่เผชิญปัญหายอดขายอาจลดกะการทำงาน ซึ่งกระทบต่อการใช้วัสดุเจียรและใบขัดหนัก",
+            "action": "ติดตามความเสี่ยงด้านสินเชื่อของกลุ่มโรงงานโครงสร้างเหล็ก พร้อมเสนอสินค้ารุ่นประหยัดต้นทุนต่อรอบการขัด"
+          }
+        },
+        {
+          "id": "20260814-4",
+          "tag": "furniture",
+          "rating": "white",
+          "source": "posttoday",
+          "date": "2026-02-20",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxXzVZOHRNaDlMYzJBM2F6S1FPc0Vkcy1Sc2JWRnl1VklJY2ZCSEpsOUJ0RG13b0I1cHBpXzBUOUhlSHdpdV9uV1cyZGJHT2pNaF83cw?oc=5",
+          "title": "ASEAN Furniture Industry Expands as Top Four Exporters Control 90% Market Share",
+          "summary": "ASEAN furniture manufacturing maintains steady global footprint, with Vietnam, Malaysia, Indonesia, and Thailand driving the vast majority of regional exports.",
+          "why": "Reflects broader regional manufacturing dynamics in wood finishing and surface treatment.",
+          "action": "Maintain monitoring of regional furniture trade trends to benchmark domestic export health.",
+          "th": {
+            "title": "อุตสาหกรรมเฟอร์นิเจอร์อาเซียนขยายตัว โดย 4 ชาติหลักครองส่วนแบ่งส่งออกกว่า 90%",
+            "summary": "อุตสาหกรรมเฟอร์นิเจอร์ในอาเซียนยังเติบโตในตลาดโลก โดยมีเวียดนาม มาเลเซีย อินโดนีเซีย และไทย ครองส่วนแบ่งส่งออกหลัก",
+            "why": "สะท้อนภาพรวมการแข่งขันของอุตสาหกรรมงานไม้และงานขัดผิวเฟอร์นิเจอร์ในระดับภูมิภาค",
+            "action": "ติดตามทิศทางการค้าเพื่อประเมินแนวโน้มกำลังการผลิตของผู้ส่งออกเฟอร์นิเจอร์ไทย"
           }
         }
       ],
