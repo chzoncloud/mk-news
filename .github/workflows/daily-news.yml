@@ -22,7 +22,7 @@ jobs:
       - name: Generate Thai news via Gemini
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: node scripts/generate-news.mjs
+        run: node scripts/generate-news.mjs || echo "Thai news generation failed (likely Gemini overload) — keeping previous data.js"
       - name: Generate World trends via Gemini
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
