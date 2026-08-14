@@ -19,15 +19,19 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: "20"
-      - name: Generate news via Gemini
+      - name: Generate Thai news via Gemini
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: node scripts/generate-news.mjs
+      - name: Generate World trends via Gemini
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: node scripts/generate-world.mjs || echo "world generation failed — keeping previous world.js"
       - name: Commit & push if changed
         run: |
           git config user.name "MKIS News Bot"
           git config user.email "bot@users.noreply.github.com"
-          git add data.js
+          git add data.js world.js
           if git diff --cached --quiet; then
             echo "no change"
           else
