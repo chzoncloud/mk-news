@@ -2,6 +2,71 @@
 window.NEWS_ARCHIVE = {
   "days": [
     {
+      "date": "2026-08-15",
+      "summary": "News volume is light today; focus remains on Thailand's EV investment surge crossing 130 billion baht and policy debates over retaining Japanese automakers.",
+      "directCount": 1,
+      "th": {
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยประเด็นหลักยังอยู่ที่ยอดลงทุน EV ในไทยทะลุ 1.3 แสนล้านบาท และข้อถกเถียงเชิงนโยบายเพื่อรักษาฐานผลิตของค่ายรถยนต์ญี่ปุ่น"
+      },
+      "items": [
+        {
+          "id": "20260815-1",
+          "tag": "auto",
+          "rating": "green",
+          "source": "thaigov.go.th",
+          "date": "2026-07-02",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zOHo0X01meExtendzNTNja1RMTUxKa2dWM0hFZ1JrRzJ4dmJPLWhSdHVwb19IU01fVTRVOWtaX2lkMVJUSlRPb3FCNVg5UQ?oc=5",
+          "title": "BOI Reports EV Investment Exceeds THB 130 Billion, Boosting Multi-Tech Auto Hub",
+          "summary": "The Board of Investment (BOI) announced total EV manufacturing and supply chain investments in Thailand have surpassed 130 billion baht across all electrified technologies.",
+          "why": "Rising investment in EV assembly and battery packaging increases local demand for precision grinding, sheet metal deburring, and surface finishing abrasives.",
+          "action": "Target newly registered EV Tier 1 and Tier 2 suppliers for specialized metal deburring and finishing abrasive trials.",
+          "th": {
+            "title": "บีโอไอเผยยอดลงทุน EV ทะลุ 1.3 แสนล้าน หนุนเป้าฐานผลิตยานยนต์ไฟฟ้าทุกเทคโนโลยี",
+            "summary": "บีโอไอเผยยอดส่งเสริมการลงทุนยานยนต์ไฟฟ้าและชิ้นส่วนเกี่ยวเนื่องในไทยทะลุ 1.3 แสนล้านบาท ครอบคลุมเทคโนโลยียานยนต์ไฟฟ้าทุกระบบ",
+            "why": "การขยายตัวของโรงงานประกอบ EV และกล่องแบตเตอรี่ช่วยเพิ่มความต้องการใช้วัสดุขัดลบครีบ เจียรแต่งรอยเชื่อม และเตรียมผิวโลหะในประเทศโดยตรง",
+            "action": "เร่งเข้าพบซัพพลายเออร์ Tier 1-2 ในสายการผลิตชิ้นส่วน EV เพื่อนำเสนอจานขัดและสายพานขัดสำหรับงานเจียรแต่งผิว"
+          }
+        },
+        {
+          "id": "20260815-2",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Brand Inside",
+          "date": "2026-08-14",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNnp5aUZLY2RzNjVBTHl1dVozcFVRLS1hZUtiY1lBOFlOZXJFX3RoMU11dm9ISDBVMG40Y09JOUJ2QmVGV3hHWjNPdFRySDVRYmZWLXd0UjJlUGh1Z0gzaUFPcUpXT0Z1Y0h0TkN3S19wYVp0QVhVdnlrd0NUbjZSUm9qRQ?oc=5",
+          "title": "Indonesia Woos Toyota to Relocate as Analysts Question Thailand's EV-Centric Policy",
+          "summary": "Indonesia is offering aggressive incentives to attract Toyota's main manufacturing footprint, sparking debate over whether Thailand's heavy support for Chinese EVs neglects traditional Japanese partners.",
+          "why": "If Japanese OEMs slow ICE or hybrid output in Thailand, parts stamping and metal fabrication volumes could contract, reducing long-term abrasive consumption.",
+          "action": "Balance our customer portfolio across both traditional Japanese supply chains and emerging Chinese EV manufacturers to mitigate relocation risks.",
+          "th": {
+            "title": "เมื่อ ‘อินโดนีเซีย’ ชวน Toyota ย้ายประเทศ พร้อมให้ทุกอย่าง ส่วน ‘ไทย’ พึ่งแต่บุญเก่า อุ้มแค่ EV จีน?",
+            "summary": "อินโดนีเซียเดินหน้ายื่นสิทธิประโยชน์จูงใจให้โตโยต้าย้ายฐานผลิต จุดกระแสวิพากษ์ว่านโยบายไทยกำลังเอื้อ EV จีนจนอาจกระทบพันธมิตรญี่ปุ่นดั้งเดิม",
+            "why": "หากค่ายรถญี่ปุ่นชะลอการผลิตรถยนต์สันดาปและไฮบริดในไทย อาจกระทบต่อโรงงานปั๊มขึ้นรูปและแปรรูปชิ้นส่วนโลหะ ซึ่งลดทอนการใช้วัสดุขัดในระยะยาว",
+            "action": "กระจายพอร์ตลูกค้าไปยังทั้งซัพพลายเชนญี่ปุ่นเดิมและโรงงาน EV จีนแห่งใหม่ เพื่อลดความเสี่ยงจากการย้ายฐานผลิต"
+          }
+        },
+        {
+          "id": "20260815-3",
+          "tag": "furniture",
+          "rating": "amber",
+          "source": "ditp.go.th",
+          "date": "2025-10-03",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1POEtpRnZGbG56RGtyRHp5YUhwS0NlU2tKZ3dEM0o4V3lXYUZudUFZMkNTS0pOZXBxRm12TzZ2Z3FKVDJIa3ZXNGxFdDJjd25hczN3SVJTT1RaLThRczlTcllR?oc=5",
+          "title": "New US Furniture Tariffs Threaten to Disrupt Global Export Supply Chains",
+          "summary": "Department of International Trade Promotion reports that prospective US tariffs on imported furniture may reshape global manufacturing and supply chains.",
+          "why": "Tariff-driven export volume shifts could pressure Thai export-oriented wood and metal furniture producers, directly affecting wide-belt sandpaper consumption.",
+          "action": "Strengthen our abrasive offerings for domestic woodworking workshops and DIY segments via Shopee and TikTok to buffer export volatility.",
+          "th": {
+            "title": "ภาษีศุลกากรสินค้าเฟอร์นิเจอร์ใหม่อาจทำให้วิกฤตที่อยู่อาศัยในสหรัฐฯ รุนแรงขึ้น",
+            "summary": "กรมส่งเสริมการค้าระหว่างประเทศระบุว่า มาตรการภาษีศุลกากรนำเข้าเฟอร์นิเจอร์ใหม่ของสหรัฐฯ อาจส่งผลกระทบต่อห่วงโซ่อุปทานและการส่งออกเฟอร์นิเจอร์ทั่วโลก",
+            "why": "ความไม่แน่นอนด้านภาษีส่งออกอาจกดดันกำลังการผลิตของโรงงานเฟอร์นิเจอร์ไม้และโลหะในไทย ส่งผลกระทบต่อยอดสั่งซื้อกระดาษทรายสายพานกว้าง",
+            "action": "เร่งผลักดันสินค้ากระดาษทรายสำหรับงานไม้และงาน DIY เจาะตลาดช่างและรายย่อยผ่าน Shopee/TikTok เพื่อชดเชยความผันผวนของภาคส่งออก"
+          }
+        }
+      ],
+      "terms": {}
+    },
+    {
       "date": "2026-08-14",
       "summary": "Limited fresh news today. Key highlights include Mitsubishi Motors committing THB 16 billion for EV/e-pickup production in Thailand and EECO pushing MRO funding at U-Tapao, both supporting industrial abrasive demand.",
       "directCount": 2,
@@ -908,5 +973,5 @@ window.NEWS_ARCHIVE = {
       "terms": {}
     }
   ],
-  "updated": "2026-08-14"
+  "updated": "2026-08-15"
 };
