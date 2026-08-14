@@ -364,11 +364,14 @@ function renderAll(){ if(tab==='daily') renderDaily(); else if(tab==='saved') re
 
 /* ---------- 🎪 งานแฟร์ กทม. (ที่เหลือปีนี้) ---------- */
 const FAIRS=[
+  {name:'Big Motor Sale 2026', rating:'white', start:'2026-08-21', end:'2026-08-30', date:'21–30 ส.ค. 2026', venue:'BITEC บางนา', cat:'ยานยนต์ (ขายรถ)', why:'มหกรรมขายรถครึ่งปีหลัง 30 แบรนด์ — เป็นงานผู้บริโภค ไม่ใช่ B2B แต่ไปเดินดูเทรนด์/เจอคนวงการยานยนต์ได้', url:'https://www.bitec.co.th/event/big-motor-sale-2026'},
   {name:'BCT Expo 2026 — เทคโนโลยีก่อสร้าง', rating:'amber', start:'2026-09-16', end:'2026-09-18', date:'16–18 ก.ย. 2026', venue:'IMPACT เมืองทอง', cat:'ก่อสร้าง/โครงสร้างเหล็ก', why:'สายก่อสร้าง/โครงสร้างเหล็ก มีงานโลหะบ้าง เผื่อเจอผู้รับเหมา/โรงงานเหล็ก', url:'https://www.allthaievent.com/venue/impact/'},
+  {name:'TIWF 2026 — งานไม้ & เฟอร์นิเจอร์', rating:'green', start:'2026-09-16', end:'2026-09-18', date:'16–18 ก.ย. 2026', venue:'IMPACT เมืองทอง (ฮอลล์ 5-6)', cat:'งานไม้/เฟอร์นิเจอร์', why:'ผู้ผลิตเฟอร์นิเจอร์/งานไม้ = ใช้กระดาษทรายหนัก ตรงกลุ่ม B2C DIY + โรงงานไม้ที่เราจะเจาะ', url:'https://thailandwoodworking.com/'},
   {name:'Metal Thailand 2026 — โลหะ/หล่อ/เชื่อม', rating:'green', start:'2026-10-14', end:'2026-10-16', date:'14–16 ต.ค. 2026', venue:'BITEC บางนา', cat:'หล่อ/ตีขึ้นรูป/ชุบ/เชื่อม', why:'ครบวงจรงานหล่อ–ตีขึ้นรูป–ชุบผิว–เชื่อม–แปรรูปโลหะ 200+ บูธ สายยานยนต์/เครื่องจักร ผู้ผลิตชิ้นส่วนโลหะ = ใช้วัสดุขัดหนัก ตรงกลุ่มเป้าหมายมาก', url:'https://www.metalap.com/en/exhibition/about_thailand'},
-  {name:'TIWF 2026 — งานไม้ & เฟอร์นิเจอร์', rating:'green', start:'2026-10-29', end:'2026-10-31', date:'29–31 ต.ค. 2026', venue:'IMPACT เมืองทอง', cat:'งานไม้/เฟอร์นิเจอร์', why:'ผู้ผลิตเฟอร์นิเจอร์/งานไม้ = ใช้กระดาษทรายหนัก ตรงกลุ่ม B2C DIY + โรงงานไม้ที่เราจะเจาะ', url:'https://www.thailandexhibition.com/'},
   {name:'METALEX 2026 — โลหะ/เครื่องมือกล', rating:'green', start:'2026-11-18', end:'2026-11-21', date:'18–21 พ.ย. 2026', venue:'BITEC บางนา', cat:'โลหะ/เครื่องมือกล', why:'งานโลหะ-เครื่องมือกล อันดับ 1 อาเซียน 3,000+ แบรนด์ ลูกค้า/คู่แข่งวัสดุขัดอยู่ครบ — มัสต์โก', url:'https://www.metalex.co.th/'},
   {name:'Motor Expo 2026 (ครั้งที่ 43)', rating:'amber', start:'2026-12-02', end:'2026-12-13', date:'2–13 ธ.ค. 2026', venue:'IMPACT Challenger', cat:'ยานยนต์', why:'โชว์รถผู้บริโภค ไม่ได้ขายตรง แต่คนวงการยานยนต์มาครบ อัพเดทเทรนด์ + เน็ตเวิร์ก', url:'https://www.motorexpo.co.th/'},
+  {name:'Bangkok Int\'l Motor Show 2027', rating:'amber', start:'2027-03-22', end:'2027-04-04', date:'22 มี.ค.–4 เม.ย. 2027', venue:'IMPACT Challenger', cat:'ยานยนต์', why:'งานรถใหญ่สุดของไทย ~1.6 ล้านคน — งานผู้บริโภค แต่คนวงการยานยนต์/สื่อมาครบ ไว้ดูเทรนด์ + เน็ตเวิร์ก', url:'https://www.bangkok-motorshow.com/'},
+  {name:'Manufacturing Expo 2027 — Surface & Coatings + ชิ้นส่วนยานยนต์', rating:'green', start:'2027-06-16', end:'2027-06-19', date:'16–19 มิ.ย. 2027', venue:'BITEC บางนา', cat:'ผลิต/ชุบผิว/coating/ยานยนต์', why:'งานใหญ่สุดสายผลิต 7 งานรวมกัน (Surface & Coatings + Automotive Manufacturing + Intermach) 2,000+ บูธ — โซนเตรียมผิว/พ่นสี/ขัด ตรงธุรกิจเราที่สุด มัสต์โก', url:'https://www.manufacturing-expo.com/'},
 ];
 /* เวลาไทยวันนี้ (YYYY-MM-DD) + จำนวนวันจนถึงงาน */
 function bkkToday(){ return new Date().toLocaleDateString('en-CA',{timeZone:'Asia/Bangkok'}); }
@@ -390,8 +393,8 @@ function calLink(f){
 }
 function renderFairs(){
   const RL={green:'🟢 ควรไป', amber:'🟡 น่าดู', white:'⚪ เผื่อ', grey:'⚪ เผื่อ'};
-  let html=`<div class="grouphead" style="margin-top:16px">🎪 งานแฟร์ที่เหลือปีนี้ (กทม.)</div>
-    <div class="vhint">เรียงตามวันที่ · สีบอกความเหมาะกับธุรกิจเรา · กด <b>➕ ปฏิทิน</b> เพื่อให้มือถือเตือนก่อนถึงวันงาน</div>`;
+  let html=`<div class="grouphead" style="margin-top:16px">🎪 ปฏิทินงานแฟร์ (BITEC + เมืองทอง)</div>
+    <div class="vhint">งานใหญ่ของไทยจัดที่ 2 สนามนี้เป็นหลัก · เรียงตามวันที่ · สีบอกความเหมาะกับธุรกิจเรา · กด <b>➕ ปฏิทิน</b> ให้มือถือเตือนก่อนถึงวันงาน</div>`;
   const list=FAIRS.slice().sort((a,b)=>a.start<b.start?-1:1);
   list.forEach(f=>{
     const r=RATE[f.rating]||RATE.grey, st=fairStatus(f);
@@ -407,7 +410,7 @@ function renderFairs(){
       <div class="cardfoot"><a class="link" href="${esc(f.url)}" target="_blank" rel="noopener">เว็บงาน</a>${past?'':` · <a class="link" href="${esc(calLink(f))}" target="_blank" rel="noopener">➕ ปฏิทิน</a>`}</div>
     </div>`;
   });
-  html+=`<div class="vhint" style="margin-top:16px">📌 ปีหน้าจดไว้: <b>Manufacturing Expo</b> (~มิ.ย. ที่ BITEC) มีโซน surface prep &amp; coating ตรงงานเรามาก · <b>งานสถาปนิก</b> (~เม.ย.–พ.ค.) ที่เจ้าของเคยไป</div>`;
+  html+=`<div class="vhint" style="margin-top:16px">📌 รอประกาศวันปี 2027: <b>งานสถาปนิก (ASA Expo)</b> ~ปลาย เม.ย.–พ.ค. ที่เมืองทอง (วัสดุ/ก่อสร้าง/DIY) — จะเพิ่มให้เมื่อผู้จัดประกาศวันแน่นอน</div>`;
   document.getElementById('fairs').innerHTML=html;
 }
 /* ---------- 📝 โน้ต (พิมพ์เอง บันทึกในเครื่อง) ---------- */
