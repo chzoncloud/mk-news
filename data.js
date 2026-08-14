@@ -3,64 +3,64 @@ window.NEWS_ARCHIVE = {
   "days": [
     {
       "date": "2026-08-15",
-      "summary": "Today has few new breaking updates. Key developments highlight ongoing MRO facility expansion at U-Tapao with VietJet, alongside mid-term growth in localized EV component fabrication and ASEAN furniture exports.",
+      "summary": "Today has limited breaking news; market attention centers on long-term EV investment realization from BOI and defensive trade measures in domestic steel and furniture sectors.",
       "directCount": 1,
       "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มาก ประเด็นสำคัญอยู่ที่ความคืบหน้าการศึกษาศูนย์ซ่อมบำรุงอากาศยาน (MRO) อู่ตะเภาของเวียตเจ็ท รวมถึงแนวโน้มการขยายตัวของการผลิตชิ้นส่วนยานยนต์ไฟฟ้าและโรงงานเฟอร์นิเจอร์ส่งออกในภูมิภาค"
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยภาพรวมตลาดเน้นติดตามเม็ดเงินลงทุน EV จากบีโอไอและมาตรการรับมือแรงกดดันทางการค้าในภาคการผลิตเหล็กและเฟอร์นิเจอร์ส่งออก"
       },
       "items": [
         {
           "id": "20260815-1",
-          "tag": "aero",
+          "tag": "auto",
           "rating": "green",
-          "source": "thansettakij",
-          "date": "2026-06-16",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pbFFnQlhiSG5UMVBfTjVmMUZtNXc4ZkYyOFljMVFtQlQwalZ5WUpidFlzX3prejlBWGoydDYzUUZXMlY4bE56VFUwZnZrLVJfWlRtV2t0Wi0xOWkzeVFLTUFJOVIwUQ?oc=5",
-          "title": "EECO Advances U-Tapao MRO Hub Awaiting VietJet Investment Proposal",
-          "summary": "EECO prepares the U-Tapao aviation maintenance zone while reviewing an investment feasibility study from VietJet to establish regional MRO hangars.",
-          "why": "New airline maintenance hangars create direct, recurring demand for certified aerospace-grade abrasives, surface conditioning belts, and paint-stripping discs.",
-          "action": "Engage EEC aviation contractors and MRO engineering teams to test and pre-qualify MK fine-grit abrasive products for aircraft fuselage maintenance.",
+          "source": "Thaigov",
+          "date": "2026-07-02",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zOHo0X01meExtendzNTNja1RMTUxKa2dWM0hFZ1JrRzJ4dmJPLWhSdHVwb19IU01fVTRVOWtaX2lkMVJUSlRPb3FCNVg5UQ?oc=5",
+          "title": "BOI Reports EV Investments Exceed 130 Billion Baht to Strengthen Production Hub",
+          "summary": "Thailand Board of Investment confirmed cumulative EV sector investment applications have surpassed 130 billion baht, covering vehicle assembly and core component manufacturing.",
+          "why": "Expanding local component lines directly creates new manufacturing volume and demand for precision deburring, grinding, and surface preparation abrasives.",
+          "action": "Target Tier-1 and Tier-2 auto parts makers receiving BOI incentives with specialized grinding and polishing consumable packages.",
           "th": {
-            "title": "EECO ปักหมุดศูนย์ซ่อมฯ อู่ตะเภา รอ ‘เวียตเจ็ท’ ศึกษาชงแผนลงทุน",
-            "summary": "EECO เดินหน้าเตรียมพื้นที่ศูนย์ซ่อมอากาศยานอู่ตะเภา โดยรอผลการศึกษาแผนลงทุนจัดตั้งศูนย์ MRO ประจำภูมิภาคจากสายการบินเวียตเจ็ท",
-            "why": "การเพิ่มศูนย์ซ่อมบำรุงอากาศยานใหม่จะสร้างอุปสงค์โดยตรงต่อวัสดุขัดเกรดการบิน จานขัดลอกสี และสายพานเตรียมผิวชิ้นส่วนเครื่องบิน",
-            "action": "เข้าพบผู้รับเหมาและทีมวิศวกรรมศูนย์ซ่อมในเขต EEC เพื่อนำเสนอวัสดุขัดผิวและกระดาษทรายเกรดอากาศยานของ MK สำหรับงานบำรุงรักษาลำตัวเครื่องบิน"
+            "title": "บีโอไอเผยยอดลงทุน EV ทะลุ 1.3 แสนล้าน หนุนเป้าฐานผลิตยานยนต์ไฟฟ้าครบวงจร",
+            "summary": "สำนักงานคณะกรรมการส่งเสริมการลงทุน (บีโอไอ) เผยยอดขอรับการส่งเสริมการลงทุนในอุตสาหกรรม EV พุ่งเกิน 1.3 แสนล้านบาท ครอบคลุมทั้งการประกอบรถยนต์และการผลิตชิ้นส่วนสำคัญ",
+            "why": "การขยายฐานการผลิตชิ้นส่วนยานยนต์ในประเทศช่วยเพิ่มปริมาณงานขัด เจียร และลบครีบชิ้นงานโลหะสำหรับวัสดุขัดของ MK",
+            "action": "เร่งติดต่อซัพพลายเออร์ชิ้นส่วน Tier-1/2 ที่ได้รับสิทธิประโยชน์ BOI เพื่อนำเสนอโซลูชันจานขัดและสายพานขัดสำหรับไลน์การผลิตใหม่"
           }
         },
         {
           "id": "20260815-2",
-          "tag": "auto",
+          "tag": "steel",
           "rating": "amber",
-          "source": "Krungsri.com",
-          "date": "2025-12-02",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMTRod1N3TFVORU1iVFlidUUzTU1BSzZjRkh0NkFDTFFSV2M2MXR2UUJCeHMtUUlnX3FfTzhjTEFwUl9teW5uZ0s2eUtTRDZEcktJVWNfWlZSWnhpZHhVTUkyQjRpS09xNm9UUURPUU5KVlhXandPaWplenlBVGhmSnc5T0NxaDRwVVRXcmlETlJyNy1mdmdSM3M2MHRFXzBNSENUcUtKNjdwTWxCcjgzbEZuNlJ4OU02bGxzREw5am82OTh3bkZJUnhNYy0?oc=5",
-          "title": "EV Industry Outlook 2026-2028: Accelerating Localized Auto Parts Machining",
-          "summary": "Krungsri Research forecasts strong EV assembly expansion in Thailand through 2028, driving supply chain adaptation toward battery enclosures and lightweight chassis parts.",
-          "why": "Localized production of aluminum battery casings, motor housings, and robotic weld seams requires specialized non-ferrous grinding discs and deburring abrasives.",
-          "action": "Target Tier 1 and Tier 2 EV aluminum fabricators with MK non-loading abrasive discs and flap wheels tailored for aluminum finishing.",
+          "source": "มติชนออนไลน์",
+          "date": "2026-05-21",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UYW10Tk1DUVRKUmhSc0EtelBFYk5QMlZpSE5XTGR1S1FEaGFuVExkWVVjZ3Fyc3dnek5ZNlozMWNUNWxSQTVrY3FmOTVDT0MzX0E2SjZkYm1QQ28?oc=5",
+          "title": "Ten Steel Associations Petition Ministry to Halt Substandard IF Furnaces and Cheap Imports",
+          "summary": "Domestic steel industry groups urged the Ministry of Industry to enforce strict manufacturing standards and curb the influx of low-priced Chinese steel.",
+          "why": "Unfair import competition strains domestic steel mill utilization, which indirectly limits abrasive cutting and heavy grinding wheel consumption in local mills.",
+          "action": "Shift sales focus toward premium structural metal fabricators and specialized industrial workshops that maintain consistent operational runs.",
           "th": {
-            "title": "แนวโน้มธุรกิจยานยนต์ไฟฟ้าปี 2569-2571: เร่งเครื่องผลิตและแปรรูปชิ้นส่วนในประเทศ",
-            "summary": "วิจัยกรุงศรีประเมินการประกอบ EV ในไทยเติบโตต่อเนื่องถึงปี 2571 ส่งผลให้ซัพพลายเชนเร่งปรับตัวสู่การผลิตโครงใส่แบตเตอรี่และชิ้นส่วนน้ำหนักเบา",
-            "why": "การผลิตถาดแบตเตอรี่อะลูมิเนียม โครงมอเตอร์ และงานลบรอยเชื่อมโครงสร้าง EV ต้องใช้วัสดุขัดชนิดไม่อุดตันและจานขัดลบครีบเฉพาะทางสำหรับโลหะนอกกลุ่มเหล็ก",
-            "action": "นำเสนอจานทรายซ้อนและกระดาษทรายกันฝุ่นเกาะสำหรับงานขัดอะลูมิเนียมแก่โรงงานชิ้นส่วน EV เทียร์ 1 และ 2"
+            "title": "10 สมาคมเหล็ก ร้องก.อุตฯ แก้ปัญหาเหล็กจีนทะลัก พร้อมคุมเข้มมาตรฐานเตา IF",
+            "summary": "กลุ่มผู้ผลิตเหล็กในประเทศ 10 สมาคม ยื่นหนังสือต่อกระทรวงอุตสาหกรรม จี้บังคับใช้มาตรฐานเข้มงวดกับโรงงานเตา IF และสกัดเหล็กราคาถูกนำเข้าจากจีน",
+            "why": "การทุ่มตลาดส่งผลให้กำลังการผลิตของโรงงานเหล็กในไทยชะลอตัว กระทบต่อยอดใช้งานใบตัดและหินเจียรขนาดใหญ่",
+            "action": "กระจายความเสี่ยงโดยมุ่งขยายฐานลูกค้าสู่งานแปรรูปโครงสร้างเหล็กคุณภาพสูงและโรงงานกลึงโลหะเฉพาะทางที่มีการผลิตสม่ำเสมอ"
           }
         },
         {
           "id": "20260815-3",
           "tag": "furniture",
           "rating": "amber",
-          "source": "posttoday",
-          "date": "2026-02-20",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxXzVZOHRNaDlMYzJBM2F6S1FPc0Vkcy1Sc2JWRnl1VklJY2ZCSEpsOUJ0RG13b0I1cHBpXzBUOUhlSHdpdV9uV1cyZGJHT2pNaF83cw?oc=5",
-          "title": "ASEAN Furniture Sector Expands as Top 4 Exporters Dominate 90% Share",
-          "summary": "ASEAN furniture manufacturers, led by Thailand and neighboring nations, maintain solid international market share via high-value wooden and metal fabrication.",
-          "why": "Steady export manufacturing ensures ongoing high-volume consumption of wide sanding belts, orbital paper discs, and wood finishing materials.",
-          "action": "Promote wide sanding belt custom-splicing services and wood orbital discs to export-oriented furniture plants in Chonburi and Samut Sakhon.",
+          "source": "ditp.go.th",
+          "date": "2025-10-03",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1POEtpRnZGbG56RGtyRHp5YUhwS0NlU2tKZ3dEM0o4V3lXYUZudUFZMkNTS0pOZXBxRm12TzZ2Z3FKVDJIa3ZXNGxFdDJjd25hczN3SVJTT1RaLThRczlTcllR?oc=5",
+          "title": "US Tariff Adjustments on Furniture Put Pressure on Export Manufacturing Costs",
+          "summary": "Trade analyses indicate new US tariff policies on furniture imports could disrupt market demand and squeeze manufacturing margins worldwide.",
+          "why": "Export-focused wood and furniture manufacturers in Thailand must optimize tooling costs, presenting an opening to replace costly European abrasives with MK products.",
+          "action": "Offer cost-efficient wide sanding belts and customized woodworking abrasive trials to export furniture factories seeking cost reductions.",
           "th": {
-            "title": "อุตสาหกรรมเฟอร์นิเจอร์อาเซียนขยายตัว 4 ชาติครองสัดส่วนส่งออก 90%",
-            "summary": "ผู้ผลิตเฟอร์นิเจอร์ในอาเซียนนำโดยไทยและประเทศเพื่อนบ้านยังคงครองส่วนแบ่งตลาดโลกด้วยงานดีไซน์ไม้และโครงสร้างโลหะมูลค่าสูง",
-            "why": "ปริมาณการผลิตเพื่อส่งออกที่สม่ำเสมอช่วยรักษาอุปสงค์การใช้สายพานกระดาษทรายหน้ากว้างและจานขัดกลมสำหรับงานขัดไม้และผิวเคลือบ",
-            "action": "รุกตลาดโรงงานเฟอร์นิเจอร์ส่งออกในชลบุรีและสมุทรสาครด้วยบริการตัดต่อสายพานผ้าทรายหน้ากว้างและจานขัดกลมสำหรับงานไม้ประณีต"
+            "title": "การปรับภาษีศุลกากรเฟอร์นิเจอร์ของสหรัฐฯ อาจกดดันต้นทุนภาคการผลิตส่งออก",
+            "summary": "รายงานวิเคราะห์การค้าชี้ว่าการปรับนโยบายภาษีนำเข้าเฟอร์นิเจอร์ของสหรัฐฯ อาจส่งผลกระทบต่อคำสั่งซื้อและบีบมาร์จิ้นของโรงงานผู้ผลิตทั่วโลก",
+            "why": "โรงงานเฟอร์นิเจอร์ไม้ส่งออกในไทยจำเป็นต้องลดต้นทุนวัสดุสิ้นเปลือง เป็นจังหวะดีในการนำเสนอกระดาษทรายสายพานของ MK เพื่อทดแทนสินค้าราคาแพง",
+            "action": "นำเสนอตัวอย่างกระดาษทรายสายพานหน้ากว้างและผ้าทรายสำหรับงานไม้ที่คุ้มราคาให้แก่โรงงานเฟอร์นิเจอร์ส่งออกเพื่อช่วยลดต้นทุนการผลิต"
           }
         }
       ],
