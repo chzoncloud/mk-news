@@ -158,6 +158,7 @@
   </div>
 </header>
 <div class="wrap">
+  <div id="fairAlert"></div>
   <div id="daily">
     <div class="dates" id="dates"></div>
     <div id="dayView"></div>
@@ -363,24 +364,47 @@ function renderAll(){ if(tab==='daily') renderDaily(); else if(tab==='saved') re
 
 /* ---------- 🎪 งานแฟร์ กทม. (ที่เหลือปีนี้) ---------- */
 const FAIRS=[
-  {name:'BCT Expo 2026 — เทคโนโลยีก่อสร้าง', rating:'amber', date:'16–18 ก.ย. 2026', venue:'IMPACT เมืองทอง', cat:'ก่อสร้าง/โครงสร้างเหล็ก', why:'สายก่อสร้าง/โครงสร้างเหล็ก มีงานโลหะบ้าง เผื่อเจอผู้รับเหมา/โรงงานเหล็ก', url:'https://www.allthaievent.com/venue/impact/'},
-  {name:'TIWF 2026 — งานไม้ & เฟอร์นิเจอร์', rating:'green', date:'29–31 ต.ค. 2026', venue:'IMPACT เมืองทอง', cat:'งานไม้/เฟอร์นิเจอร์', why:'ผู้ผลิตเฟอร์นิเจอร์/งานไม้ = ใช้กระดาษทรายหนัก ตรงกลุ่ม B2C DIY + โรงงานไม้ที่เราจะเจาะ', url:'https://www.thailandexhibition.com/'},
-  {name:'METALEX 2026 — โลหะ/เครื่องมือกล', rating:'green', date:'18–21 พ.ย. 2026', venue:'BITEC บางนา', cat:'โลหะ/เครื่องมือกล', why:'งานโลหะ-เครื่องมือกล อันดับ 1 อาเซียน 3,000+ แบรนด์ ลูกค้า/คู่แข่งวัสดุขัดอยู่ครบ — มัสต์โก', url:'https://www.metalex.co.th/'},
-  {name:'Motor Expo 2026 (ครั้งที่ 43)', rating:'amber', date:'2–13 ธ.ค. 2026', venue:'IMPACT Challenger', cat:'ยานยนต์', why:'โชว์รถผู้บริโภค ไม่ได้ขายตรง แต่คนวงการยานยนต์มาครบ อัพเดทเทรนด์ + เน็ตเวิร์ก', url:'https://www.motorexpo.co.th/'},
+  {name:'BCT Expo 2026 — เทคโนโลยีก่อสร้าง', rating:'amber', start:'2026-09-16', end:'2026-09-18', date:'16–18 ก.ย. 2026', venue:'IMPACT เมืองทอง', cat:'ก่อสร้าง/โครงสร้างเหล็ก', why:'สายก่อสร้าง/โครงสร้างเหล็ก มีงานโลหะบ้าง เผื่อเจอผู้รับเหมา/โรงงานเหล็ก', url:'https://www.allthaievent.com/venue/impact/'},
+  {name:'Metal Thailand 2026 — โลหะ/หล่อ/เชื่อม', rating:'green', start:'2026-10-14', end:'2026-10-16', date:'14–16 ต.ค. 2026', venue:'BITEC บางนา', cat:'หล่อ/ตีขึ้นรูป/ชุบ/เชื่อม', why:'ครบวงจรงานหล่อ–ตีขึ้นรูป–ชุบผิว–เชื่อม–แปรรูปโลหะ 200+ บูธ สายยานยนต์/เครื่องจักร ผู้ผลิตชิ้นส่วนโลหะ = ใช้วัสดุขัดหนัก ตรงกลุ่มเป้าหมายมาก', url:'https://www.metalap.com/en/exhibition/about_thailand'},
+  {name:'TIWF 2026 — งานไม้ & เฟอร์นิเจอร์', rating:'green', start:'2026-10-29', end:'2026-10-31', date:'29–31 ต.ค. 2026', venue:'IMPACT เมืองทอง', cat:'งานไม้/เฟอร์นิเจอร์', why:'ผู้ผลิตเฟอร์นิเจอร์/งานไม้ = ใช้กระดาษทรายหนัก ตรงกลุ่ม B2C DIY + โรงงานไม้ที่เราจะเจาะ', url:'https://www.thailandexhibition.com/'},
+  {name:'METALEX 2026 — โลหะ/เครื่องมือกล', rating:'green', start:'2026-11-18', end:'2026-11-21', date:'18–21 พ.ย. 2026', venue:'BITEC บางนา', cat:'โลหะ/เครื่องมือกล', why:'งานโลหะ-เครื่องมือกล อันดับ 1 อาเซียน 3,000+ แบรนด์ ลูกค้า/คู่แข่งวัสดุขัดอยู่ครบ — มัสต์โก', url:'https://www.metalex.co.th/'},
+  {name:'Motor Expo 2026 (ครั้งที่ 43)', rating:'amber', start:'2026-12-02', end:'2026-12-13', date:'2–13 ธ.ค. 2026', venue:'IMPACT Challenger', cat:'ยานยนต์', why:'โชว์รถผู้บริโภค ไม่ได้ขายตรง แต่คนวงการยานยนต์มาครบ อัพเดทเทรนด์ + เน็ตเวิร์ก', url:'https://www.motorexpo.co.th/'},
 ];
+/* เวลาไทยวันนี้ (YYYY-MM-DD) + จำนวนวันจนถึงงาน */
+function bkkToday(){ return new Date().toLocaleDateString('en-CA',{timeZone:'Asia/Bangkok'}); }
+function daysUntil(iso){ const t=new Date(bkkToday()+'T00:00:00Z'), d=new Date(iso+'T00:00:00Z'); return Math.round((d-t)/86400000); }
+function fairStatus(f){
+  const dS=daysUntil(f.start), dE=daysUntil(f.end);
+  if(dE<0) return {kind:'past', txt:'จบแล้ว', d:dE};
+  if(dS<=0) return {kind:'now', txt:'🔴 กำลังจัด!', d:0};
+  if(dS===1) return {kind:'soon', txt:'⏰ พรุ่งนี้!', d:1};
+  if(dS<=14) return {kind:'soon', txt:'⏰ อีก '+dS+' วัน', d:dS};
+  return {kind:'up', txt:'อีก '+dS+' วัน', d:dS};
+}
+/* ลิงก์เพิ่มลง Google ปฏิทิน (มือถือเด้งเตือนเองแม้ไม่เปิดแอป) */
+function calLink(f){
+  const s=f.start.replace(/-/g,''); const eD=new Date(f.end+'T00:00:00Z'); eD.setUTCDate(eD.getUTCDate()+1);
+  const e=eD.toISOString().slice(0,10).replace(/-/g,'');
+  const q=new URLSearchParams({action:'TEMPLATE', text:f.name, dates:s+'/'+e, details:f.why+'\n'+f.url, location:f.venue});
+  return 'https://calendar.google.com/calendar/render?'+q.toString();
+}
 function renderFairs(){
   const RL={green:'🟢 ควรไป', amber:'🟡 น่าดู', white:'⚪ เผื่อ', grey:'⚪ เผื่อ'};
   let html=`<div class="grouphead" style="margin-top:16px">🎪 งานแฟร์ที่เหลือปีนี้ (กทม.)</div>
-    <div class="vhint">เรียงตามวันที่ · สีบอกความเหมาะกับธุรกิจเรา · เจ้าของตัดสินใจไป/ไม่ไปเอง</div>`;
-  FAIRS.forEach(f=>{
-    const r=RATE[f.rating]||RATE.grey;
-    html+=`<div class="card">
+    <div class="vhint">เรียงตามวันที่ · สีบอกความเหมาะกับธุรกิจเรา · กด <b>➕ ปฏิทิน</b> เพื่อให้มือถือเตือนก่อนถึงวันงาน</div>`;
+  const list=FAIRS.slice().sort((a,b)=>a.start<b.start?-1:1);
+  list.forEach(f=>{
+    const r=RATE[f.rating]||RATE.grey, st=fairStatus(f);
+    const cdColor = st.kind==='now'?'#e11d48' : st.kind==='soon'?'#e11d48' : st.kind==='past'?'var(--muted)' : 'var(--accent)';
+    const cdBadge = `<span style="font-size:12.5px;font-weight:800;color:${cdColor}">${st.txt}</span>`;
+    const past = st.kind==='past';
+    html+=`<div class="card"${past?' style="opacity:.5"':''}>
       <div class="ctop"><span class="rate ${r.cls}"><span class="dot"></span>${RL[f.rating]||RL.grey}</span>
         <span style="font-size:13.5px;font-weight:800;color:var(--accent);white-space:nowrap">${esc(f.date)}</span></div>
       <h3>${esc(f.name)}</h3>
-      <div class="src">📍 ${esc(f.venue)} · ${esc(f.cat)}</div>
+      <div class="src">📍 ${esc(f.venue)} · ${esc(f.cat)} · ${cdBadge}</div>
       <p class="summary">${esc(f.why)}</p>
-      <div class="cardfoot"><a class="link" href="${esc(f.url)}" target="_blank" rel="noopener">เว็บงาน</a></div>
+      <div class="cardfoot"><a class="link" href="${esc(f.url)}" target="_blank" rel="noopener">เว็บงาน</a>${past?'':` · <a class="link" href="${esc(calLink(f))}" target="_blank" rel="noopener">➕ ปฏิทิน</a>`}</div>
     </div>`;
   });
   html+=`<div class="vhint" style="margin-top:16px">📌 ปีหน้าจดไว้: <b>Manufacturing Expo</b> (~มิ.ย. ที่ BITEC) มีโซน surface prep &amp; coating ตรงงานเรามาก · <b>งานสถาปนิก</b> (~เม.ย.–พ.ค.) ที่เจ้าของเคยไป</div>`;
@@ -438,8 +462,22 @@ tb.addEventListener('click',()=>{
   const cur=document.documentElement.getAttribute('data-theme')||(matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light');
   document.documentElement.setAttribute('data-theme',cur==='dark'?'light':'dark');
 });
+/* ---------- 🔔 แบนเนอร์เตือนงานแฟร์ใกล้ถึง (โผล่ทุกแท็บ) ---------- */
+function renderFairAlert(){
+  const el=document.getElementById('fairAlert'); if(!el) return;
+  const up=FAIRS.map(f=>({f,st:fairStatus(f)})).filter(x=>x.st.kind!=='past').sort((a,b)=>a.st.d-b.st.d);
+  if(!up.length){ el.innerHTML=''; return; }
+  const {f,st}=up[0]; const near=st.d<=14||st.kind==='now';
+  const bg=near?'#e11d48':'var(--accent)';
+  el.innerHTML=`<div onclick="switchTab('fairs')" style="cursor:pointer;background:${bg};color:#fff;border-radius:12px;padding:11px 14px;margin:12px 0 4px;font-size:15px;font-weight:700;display:flex;align-items:center;gap:9px;line-height:1.35">
+    <span style="font-size:19px">🎪</span>
+    <span style="flex:1">${st.txt} · <b>${esc(f.name.split(' — ')[0])}</b><br><span style="font-weight:500;opacity:.92;font-size:13.5px">${esc(f.date)} · ${esc(f.venue)}</span></span>
+    <span style="font-size:18px;opacity:.85">›</span>
+  </div>`;
+}
 syncLangBtn();
 initNotes();
+renderFairAlert();
 renderAll();
 </script>
 </body>
