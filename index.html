@@ -151,6 +151,7 @@
   </div>
   <div class="tabs">
     <button class="tab on" id="tabDaily">📅 ข่าว</button>
+    <button class="tab" id="tabWorld">🌍 โลก</button>
     <button class="tab" id="tabSaved">⭐ เก็บ</button>
     <button class="tab" id="tabLuck">🎲 ดวง</button>
     <button class="tab" id="tabNotes">📝 โน้ต</button>
@@ -163,6 +164,7 @@
     <div class="dates" id="dates"></div>
     <div id="dayView"></div>
   </div>
+  <div id="world" style="display:none"></div>
   <div id="saved" style="display:none"></div>
   <div id="luck" style="display:none"></div>
   <div id="notes" style="display:none"></div>
@@ -171,6 +173,7 @@
 </div>
 
 <script>document.write('<scr'+'ipt src="data.js?t='+Date.now()+'"><\/scr'+'ipt>');</script>
+<script>document.write('<scr'+'ipt src="world.js?t='+Date.now()+'"><\/scr'+'ipt>');</script>
 <script>
 const LS='mk_news_v1', LKEY='mk_news_lang';
 // ประวัติมาจากคลังบนเซิร์ฟเวอร์ (ย้อนหลัง ≤14 วัน) — เก่ารองรับ TODAY_DATA เดี่ยวด้วย
@@ -179,6 +182,10 @@ if(window.NEWS_ARCHIVE && Array.isArray(window.NEWS_ARCHIVE.days)) ARCH=window.N
 else if(window.TODAY_DATA && window.TODAY_DATA.date) ARCH=[window.TODAY_DATA];
 ARCH=ARCH.filter(d=>d&&d.date).sort((a,b)=>b.date.localeCompare(a.date));
 const TODAY = ARCH[0] || null;
+// คลังข่าวเทรนด์โลก (world.js)
+let WARCH=[];
+if(window.WORLD_ARCHIVE && Array.isArray(window.WORLD_ARCHIVE.days)) WARCH=window.WORLD_ARCHIVE.days.slice();
+WARCH=WARCH.filter(d=>d&&d.date).sort((a,b)=>b.date.localeCompare(a.date));
 
 function ageDays(dateStr){ return (Date.now()-new Date(dateStr+'T00:00:00').getTime())/86400000; }
 function loadStore(){
@@ -203,7 +210,13 @@ function toggleStar(item,dayDate){
   saveStore(); renderAll();
 }
 
-const TAG={auto:{emo:'🚗'}, aero:{emo:'✈️'}, steel:{emo:'🏭'}, furniture:{emo:'🪑'}};
+const TAG={auto:{emo:'🚗'}, aero:{emo:'✈️'}, steel:{emo:'🏭'}, furniture:{emo:'🪑'}, coating:{emo:'🎨'}, abrasive:{emo:'💿'}};
+const WGROUPS=[
+  {tag:'coating',emo:'🎨',en:'Coatings',th:'สี & Coatings'},
+  {tag:'abrasive',emo:'💿',en:'Abrasives',th:'วัสดุขัด'},
+  {tag:'auto',emo:'🚗',en:'Automotive & EV',th:'ยานยนต์ & EV'},
+  {tag:'steel',emo:'🏭',en:'Steel & Metal',th:'เหล็ก & โลหะ'},
+];
 const GROUPS=[
   {tag:'auto',emo:'🚗',en:'Automotive',th:'ยานยนต์'},
   {tag:'aero',emo:'✈️',en:'Aviation',th:'การบิน'},
@@ -280,6 +293,30 @@ function renderSaved(){
   const items=Object.values(store.stars).sort((a,b)=>(b.day||'').localeCompare(a.day||''));
   if(!items.length){ saved.innerHTML=`<div class="empty"><div class="e">⭐</div>No saved news yet<br>tap ☆ on a card to keep it (saved items never expire)</div>`; return; }
   saved.innerHTML=`<div class="grouphead" style="margin-top:16px">⭐ Saved (${items.length})</div>`+items.map(i=>cardHTML(i,i.day)).join('');
+}
+/* ---------- 🌍 เทรนด์โลก ---------- */
+let selWDate=null;
+function renderWorld(){
+  const el=document.getElementById('world');
+  const days=WARCH.filter(d=>d.items&&d.items.length).sort((a,b)=>b.date.localeCompare(a.date));
+  if(!days.length){ el.innerHTML=`<div class="empty"><div class="e">🌍</div>${globalThai?'ยังไม่มีข่าวเทรนด์โลก — รอรอบข่าวเช้าพรุ่งนี้':'No world trends yet — check back after the morning run'}</div>`; return; }
+  if(!selWDate||!days.some(d=>d.date===selWDate)) selWDate=days[0].date;
+  const dates = days.length>1 ? `<div class="dates">`+days.map(d=>{const f=fmtThai(d.date);
+    return `<button class="chip ${d.date===selWDate?'on':''}" data-wdate="${d.date}"><span class="d">${f.wd}</span> ${f.day} ${f.mon}</button>`;}).join('')+`</div>` : '';
+  const day=days.find(d=>d.date===selWDate)||days[0];
+  const dth=day.th||{};
+  const dsum=globalThai&&dth.summary?dth.summary:day.summary;
+  const execLbl=globalThai?'สรุปเทรนด์โลกวันนี้':"Today's world signals";
+  let html=`<div class="grouphead" style="margin-top:16px">🌍 ${globalThai?'เทรนด์โลก':'World Trends'}</div>
+    <div class="vhint">${globalThai?'ข่าวอุตสาหกรรมโลก (สี/วัสดุขัด/ยานยนต์/เหล็ก) วิเคราะห์+แปลไทย — ไว้ดูเทรนด์ล่วงหน้า':'Global industry news (coatings / abrasives / auto / steel), analyzed & translated — read the trend ahead'}</div>`+dates;
+  if(dsum) html+=`<div class="exec"><span class="lbl">${execLbl}</span><p>${esc(dsum)}</p></div>`;
+  for(const g of WGROUPS){
+    const items=day.items.filter(i=>i.tag===g.tag);
+    if(items.length) html+=`<div class="grouphead">${g.emo} ${globalThai?g.th:g.en}</div>`+items.map(i=>cardHTML(i,day.date)).join('');
+  }
+  const other=day.items.filter(i=>!WGROUPS.some(g=>g.tag===i.tag));
+  if(other.length) html+=`<div class="grouphead">📌 ${globalThai?'อื่นๆ':'Other'}</div>`+other.map(i=>cardHTML(i,day.date)).join('');
+  el.innerHTML=html;
 }
 /* ---------- 🎲 ดวง ---------- */
 function pick(a){ return a[Math.floor(Math.random()*a.length)]; }
@@ -360,7 +397,7 @@ function fortuneCard(){
 }
 function renderLuck(){ document.getElementById('luck').innerHTML = leadCard()+coCard()+fortuneCard(); }
 
-function renderAll(){ if(tab==='daily') renderDaily(); else if(tab==='saved') renderSaved(); else if(tab==='luck') renderLuck(); else if(tab==='fairs') renderFairs(); updateFoot(); }
+function renderAll(){ if(tab==='daily') renderDaily(); else if(tab==='world') renderWorld(); else if(tab==='saved') renderSaved(); else if(tab==='luck') renderLuck(); else if(tab==='fairs') renderFairs(); updateFoot(); }
 
 /* ---------- 🎪 งานแฟร์ กทม. (ที่เหลือปีนี้) ---------- */
 const FAIRS=[
@@ -434,23 +471,26 @@ function updateFoot(){
 }
 
 document.getElementById('dates').addEventListener('click',e=>{const b=e.target.closest('.chip');if(b){selDate=b.dataset.date;renderDaily();}});
+document.getElementById('world').addEventListener('click',e=>{const b=e.target.closest('[data-wdate]');if(b){selWDate=b.dataset.wdate;renderWorld();}});
 document.body.addEventListener('click',e=>{
   const dr=e.target.closest('[data-draw]'); if(dr){ doDraw(dr.dataset.draw); return; }
   const cp=e.target.closest('[data-copy]'); if(cp){ if(navigator.clipboard) navigator.clipboard.writeText(cp.dataset.copy); const o=cp.textContent; cp.textContent='✓ คัดลอกแล้ว'; setTimeout(()=>{cp.textContent=o;},1500); return; }
   const x=e.target.closest('.xlate'); if(x){ const id=x.dataset.id; if(thaiShown.has(id))thaiShown.delete(id); else thaiShown.add(id); renderAll(); return; }
-  const s=e.target.closest('.star'); if(s){const day=store.days[s.dataset.day];const it=(day&&day.items.find(x=>x.id===s.dataset.id))||store.stars[s.dataset.id];if(it)toggleStar(it,s.dataset.day);return;}
+  const s=e.target.closest('.star'); if(s){const day=store.days[s.dataset.day];let it=(day&&day.items.find(x=>x.id===s.dataset.id));if(!it){for(const d of WARCH){const f=d.items&&d.items.find(x=>x.id===s.dataset.id);if(f){it=f;break;}}}it=it||store.stars[s.dataset.id];if(it)toggleStar(it,s.dataset.day);return;}
 });
 document.getElementById('tabDaily').addEventListener('click',()=>switchTab('daily'));
+document.getElementById('tabWorld').addEventListener('click',()=>switchTab('world'));
 document.getElementById('tabSaved').addEventListener('click',()=>switchTab('saved'));
 document.getElementById('tabLuck').addEventListener('click',()=>switchTab('luck'));
 document.getElementById('tabNotes').addEventListener('click',()=>switchTab('notes'));
 document.getElementById('tabFairs').addEventListener('click',()=>switchTab('fairs'));
 function switchTab(t){tab=t;
-  ['Daily','Saved','Luck','Notes','Fairs'].forEach(n=>{
+  ['Daily','World','Saved','Luck','Notes','Fairs'].forEach(n=>{
     const key=n.toLowerCase();
     document.getElementById('tab'+n).classList.toggle('on',t===key);
   });
   document.getElementById('daily').style.display=t==='daily'?'':'none';
+  document.getElementById('world').style.display=t==='world'?'':'none';
   document.getElementById('saved').style.display=t==='saved'?'':'none';
   document.getElementById('luck').style.display=t==='luck'?'':'none';
   document.getElementById('notes').style.display=t==='notes'?'':'none';
