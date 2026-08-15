@@ -1,0 +1,37 @@
+name: เทรนด์โลก MK (daily)
+
+# รันทุกเช้า ~20 นาทีหลังข่าวไทย เพื่อไม่ให้แย่งโควตา Gemini นาทีเดียวกัน
+# 03:20/04:20/05:20 เวลาไทย (GitHub cron ดีเลย์บ่อย เลยยิง 3 ครั้ง)
+on:
+  schedule:
+    - cron: "20 20 * * *"   # 03:20 ไทย
+    - cron: "20 21 * * *"   # 04:20 ไทย
+    - cron: "20 22 * * *"   # 05:20 ไทย
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Generate World trends via Gemini
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: node scripts/generate-world.mjs
+      - name: Commit & push if changed
+        run: |
+          git config user.name "MKIS World Bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add world.js
+          if git diff --cached --quiet; then
+            echo "no change"
+          else
+            git commit -m "เทรนด์โลก $(TZ=Asia/Bangkok date +%Y-%m-%d)"
+            git push
+          fi
