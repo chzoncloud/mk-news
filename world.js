@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-08-15",
+  "updated": "2026-08-16",
   "days": [
+    {
+      "date": "2026-08-16",
+      "summary": "Today's briefing highlights niche shifts in advanced coatings, automotive joint ventures, and steel trade frictions that directly impact global surface finishing and metal fabrication demand.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปข่าววันนี้เน้นการเปลี่ยนแปลงในตลาดสารเคลือบขั้นสูง การร่วมมือในอุตสาหกรรมยานยนต์ และข้อพิพาททางการค้าเหล็ก ซึ่งส่งผลกระทบโดยตรงต่อความต้องการขัดผิวและงานแปรรูปโลหะทั่วโลก"
+      },
+      "items": [
+        {
+          "id": "20260816-w1",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "PR Newswire UK",
+          "date": "2026-05-08",
+          "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQLWJCTzl4bnlhbUl3c2o5aXByM0Mxc3k0cUtGTHJQak5MYVNSNDk1bk50b29XS3BJbS1ySXFhV3dhWXRuMXB0bVB2Z2Q1WVN6UjRJY0N2LWpsNFRvU2o0aUU2dkx3d2htTVMxYURkLWxINlcydFRqdG1PV1ZaRWxtNndMMkc2T1hNenN2R0tBdlFaUllWV1d1N2huRTE2TlNOM0lxSEhlbkw5ajhSR0YtZWFVb01TZXlJS1VCbXNibWRreEVWQnVOUk5halB6YzBJdnNBZTJrOWxwdHppOG5jZWVETWJ0XzJuOE1mb2JqNEpmXzAxcDF4TGtRRWxaaW9DTzFPYUZCa28wbmp1ZGhtRVZ0X19lZ1ZqSUotLW1GaC0xRHRJNmNLdXVqOXNJdlpHQkF1NklvTXJOOWM?oc=5",
+          "title": "Coil Coatings Market to Reach USD 9.2 Billion by 2035 as Sustainable, High-Performance Coating Technologies Transform Construction and Industrial Applications",
+          "summary": "The coil coatings market is expanding rapidly due to demand for sustainable, high-performance coatings in construction and general industrial sectors.",
+          "why": "Coil coating lines require intensive metal preparation, cleaning, and surface conditioning before coating application, signaling steady demand for heavy-duty industrial abrasive rolls and brushes.",
+          "action": "Monitor coil coating trends to identify OEM partners who supply pre-finished metal sheets.",
+          "th": {
+            "title": "ตลาดเคลือบผิวคอยล์ (Coil Coatings) มีมูลค่าแตะ 9.2 พันล้านดอลลาร์ภายในปี 2035 จากเทคโนโลยีสีเคลือบประสิทธิภาพสูง",
+            "summary": "ตลาดสีเคลือบแผ่นเหล็กม้วนกำลังขยายตัวอย่างรวดเร็ว ตามความต้องการสารเคลือบประสิทธิภาพสูงและยั่งยืนในภาคการก่อสร้างและอุตสาหกรรม",
+            "why": "กระบวนการเคลือบเหล็กม้วนต้องผ่านการเตรียมผิว การทำความสะอาด และการปรับสภาพโลหะอย่างเข้มข้นก่อนเคลือบ ซึ่งสะท้อนถึงความต้องการม้วนกระดาษทรายและแปรงขัดอุตสาหกรรมอย่างต่อเนื่อง",
+            "action": "ติดตามแนวโน้มการเคลือบผิวคอยล์เพื่อหาพาร์ทเนอร์กลุ่มโรงงานผลิตแผ่นโลหะเคลือบ"
+          }
+        },
+        {
+          "id": "20260816-w2",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "automotivemanufacturingsolutions.com",
+          "date": "2026-07-23",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZDRQV1lyajBPaFY5UV9pQkxKcXpvRzQ5ejJOcEM5QzgyaXByMHg4MWtaX0pHT3VtV2tPRFVPUjJFdGhBcTNoWDRKOTZ4ekkzeGpOamJMT2R6M2psbHBoNEV6dlMyWW5yM3hkVjZjM0xCV1FNQ2dLamFSTHcyNTB4dEdJZkpsRmtBSUZJeF9FYW9sT0ZHdGNhV2F3RHpOLXp6RUI0SWY0SWNSM0hxM19pYS1DeEZ5ZGdhZHpyUg?oc=5",
+          "title": "Ford and Geely unite in Valencia: smart-factory momentum!",
+          "summary": "Ford and Geely are combining forces in Valencia, driving new smart-factory automation and collaborative manufacturing strategies.",
+          "why": "Major automotive joint ventures and smart factory transitions alter supply chains and tooling specifications for body-in-white (BiW) finishing and robotic deburring.",
+          "action": "Keep an eye on how European automotive partnerships adapt their local tier-supplier tooling requirements.",
+          "th": {
+            "title": "Ford และ Geely ร่วมมือกันที่บาเลนเซีย: พลังขับเคลื่อนโรงงานอัจฉริยะ!",
+            "summary": "Ford และ Geely ผนกำลังกันในบาเลนเซีย ขับเคลื่อนระบบอัตโนมัติในโรงงานอัจฉริยะและกลยุทธ์การผลิตร่วมกัน",
+            "why": "การร่วมทุนยานยนต์รายใหญ่และการเปลี่ยนผ่านสู่โรงงานอัจฉริยะ ส่งผลต่อห่วงโซ่อุปทานและสเปกเครื่องมือสำหรับงานตกแต่งโครงสร้างตัวถังรถยนต์และการลบคมด้วยหุ่นยนต์",
+            "action": "จับตาดูว่าพันธมิตรยานยนต์ยุโรปปรับเปลี่ยนข้อกำหนดเครื่องมือสำหรับซัพพลายเออร์ชิ้นส่วนอย่างไร"
+          }
+        },
+        {
+          "id": "20260816-w3",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "The Guardian",
+          "date": "2025-10-08",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdjhOdzFOdlRNQ3JIYVNXcTZkNEpHTURMRmFJbk9jbEl0MGNLNUJaTDN0ZTVqLURxVWs4alVZbllfQzVXSHNZOE9UN0pSWTNjMWt4ZXFfTGp4LWIxT3NILXNYUTBId3ZHalF2QVZkX0JOQmpVd1F1ODJtTTB4SXJySkIwVFpuTlJqR3M3Z1l3c1BmM25IRERwWmFhZmY2MU1ZajI2N2hibG1PcWREaHBDVQ?oc=5",
+          "title": "‘Existential threat’: what do EU’s 50% steel tariffs mean for UK industry?",
+          "summary": "Stf and heavy trade tariffs like the EU's proposed measures create serious operational and cost pressures for metal manufacturers.",
+          "why": "Tariffs and regional steel supply shifts force local fabricators to optimize their production costs, pushing them to seek reliable, cost-effective cutting, grinding, and surface prep consumables.",
+          "action": "Emphasize durability and cost-efficiency in our abrasive product pitches to counter local margin squeezes.",
+          "th": {
+            "title": "ภัยคุกคามที่มีอยู่จริง: มาตรการภาษีเหล็ก 50% ของ EU หมายความว่าอย่างไรสำหรับอุตสาหกรรมสหราชอาณาจักร?",
+            "summary": "มาตรการภาษีการค้าเหล็กที่รุนแรงสร้างความกดดันด้านต้นทุนและการดำเนินงานอย่างมากต่อผู้ผลิตโลหะ",
+            "why": "กำแพงภาษีและการย้ายถิ่นฐานของอุปทานเหล็กระดับภูมิภาค บีบให้ผู้ผลิตท้องถิ่นต้องรีดต้นทุนการผลิต มองหาวัสดุสิ้นเปลืองสำหรับตัด เจียร และเตรียมผิวที่คุ้มค่าและเชื่อถือได้",
+            "action": "เน้นจุดขายด้านความทนทานและความคุ้มค่าของสินค้ากลุ่มกระดาษทรายเพื่อรับมือกับแรงกดดันด้านต้นทุน"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-08-15",
       "summary": "Global manufacturing signals highlight surging demand for specialized abrasives driven by EV battery manufacturing, advanced micro-electronics packaging, and shifting automotive-steel production hubs.",
