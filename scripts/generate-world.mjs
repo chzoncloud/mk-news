@@ -6,7 +6,8 @@ import { readFileSync, writeFileSync, existsSync } from "fs";
 
 const KEY = process.env.GEMINI_API_KEY;
 if (!KEY) { console.error("ERROR: no GEMINI_API_KEY secret"); process.exit(1); }
-const MODEL = process.env.GEMINI_MODEL || "gemini-flash-latest";
+// ใช้ flash-lite แยกถังโควตาจากบอทข่าวไทย (flash) + free tier ให้โควตาเยอะกว่า
+const MODEL = process.env.WORLD_GEMINI_MODEL || "gemini-flash-lite-latest";
 const today = new Date().toLocaleDateString("en-CA", { timeZone: "Asia/Bangkok" });
 
 function readArchive() {
