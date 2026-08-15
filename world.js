@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-08-16",
-      "summary": "Today's briefing highlights steady growth in automotive OEM and architectural coatings, advanced diamond tooling demand, and structural steel market pressures. These signals point to continuous evolution in surface prep requirements.",
+      "summary": "Today's briefing highlights critical niche shifts in advanced micro-abrasives for electronics packaging, rising automation strategies in European EV plants, and persistent structural surplus challenges in the global steel market.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปสถานการณ์ประจำวันนี้เน้นการเติบโตอย่างต่อเนื่องของสีเคลือบรถยนต์ OEM และงานสถาปัตยกรรม ความต้องการเครื่องมือเพชรขั้นสูง และแรงกดดันในตลาดเหล็กโครงสร้าง ซึ่งบ่งชี้ถึงวิวัฒนาการอย่างต่อเนื่องในความต้องการเตรียมพื้นผิว"
+        "summary": "สรุปรายงานวันนี้เน้นการเปลี่ยนแปลงของตลาดไมโครแบรสิฟสำหรับการบรรจุภัณฑ์อิเล็กทรอนิกส์ กลยุทธ์ระบบอัตโนมัติในโรงงาน EV ยุโรป และความท้าทายจากภาวะอุปทานส่วนเกินในตลาดเหล็กโลก"
       },
       "items": [
         {
           "id": "20260816-w1",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "Fortune Business Insights",
-          "date": "2026-07-27",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXJjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
-          "title": "Automotive OEM Coatings Market Size, Share | Growth [2034]",
-          "summary": "The automotive OEM coatings sector continues its steady expansion toward 2034, driven by technological demands in vehicle manufacturing and finish durability.",
-          "why": "Higher standards in automotive coatings mean tighter paint prep, sanding, and defect-removal requirements on metal and composite bodies.",
-          "action": "Monitor finishing specifications for new automotive OEM coating lines.",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-08-09",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYklHUkZHWF93dUcyanVidE0xc2dMbzR6dE9XYjhiRnAzUEtJcjZlOFljc3V5M01MMlRHT2Q4Y0gwNFVTdEJ4MGxlcnZYNE5OSER0clV0Rzhna2VGNk4wbm1IVHgzZGkzMU81Z3lSSThhZG9lbTlUd0RNbVhYTG9jTUdSOUxHNFJqcm5KZ2todUJVVHRrNzktYXdORFFzTzVGb3FUbGU3cG96am5HSTJkZnlXdVMtNTFmTmM1SUdn?oc=5",
+          "title": "Lapping Film Micro Abrasive Market Demand to Surge on Advanced Packaging Needs Through 2035",
+          "summary": "Demand for lapping film and micro-abrasives is growing rapidly, driven by strict surface finishing requirements in advanced semiconductor and chip packaging.",
+          "why": "Signals strong high-margin growth in ultra-precise finishing applications beyond traditional metal and wood sanding.",
+          "action": "Monitor high-tech micro-abrasive film suppliers and electronic-grade finishing demand trends.",
           "th": {
-            "title": "ขนาดและส่วนแบ่งตลาดสีเคลือบ OEM ยานยนต์ | การเติบโต [2034]",
-            "summary": "ภาคส่วนสีเคลือบ OEM สำหรับยานยนต์ยังคงขยายตัวอย่างต่อเนื่องจนถึงปี 2034 ขับเคลื่อนด้วยความต้องการทางเทคโนโลยีในการผลิตรถยนต์และความทนทานของพื้นผิว",
-            "why": "มาตรฐานที่สูงขึ้นในสีเคลือบรถยนต์หมายถึงความต้องการที่เข้มงวดขึ้นในการเตรียมพื้นผิว การขัดกระดาษทราย และการกำจัดตำหนิบนตัวถังโลหะและคอมโพสิต",
-            "action": "ติดตามข้อกำหนดด้านการขัดตกแต่งสำหรับไลน์เคลือบสี OEM ยานยนต์ใหม่ๆ"
+            "title": "ความต้องการตลาดฟิล์มขัดผิวไมโครแบรสิฟพุ่งสูงตามความต้องการบรรจุภัณฑ์ขั้นสูงถึงปี 2035",
+            "summary": "ความต้องการฟิล์มแลปปิ้งและไมโครแบรสิฟเติบโตอย่างรวดเร็ว ขับเคลื่อนด้วยข้อกำหนดการตกแต่งพื้นผิวที่เข้มงวดในเซมิคอนดักเตอร์และบรรจุภัณฑ์ชิปขั้นสูง",
+            "why": "บ่งชี้การเติบโตที่มีอัตรากำไรสูงในการใช้งานขัดผิวที่มีความแม่นยำสูง นอกเหนือจากการขัดโลหะและไม้แบบดั้งเดิม",
+            "action": "ติดตามซัพพลายเออร์ฟิล์มไมโครแบรสิฟไฮเทคและแนวโน้มความต้องการการขัดผิวระดับอิเล็กทรอนิกส์"
           }
         },
         {
           "id": "20260816-w2",
-          "tag": "abrasive",
+          "tag": "auto",
           "rating": "green",
-          "source": "einpresswire.com",
-          "date": "2026-07-17",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQ2tzbUVzemVBLUxLMTFXbThzUk1aZEV5cDBQeE1HWmNUbW1PNzZTUXo0bnFpcjA5Yk1XRUtMOEFyakZfaXdVUTlPM3pSVno5dk5kRXUzM000ZFo5WG1mcGV4U1NzV1hLWVlpY3p6LVZtcTN4X3hWd2tDRVJoemVydnNIZFdNTjZmYk9uTGJEd0hTdTlpY3RlaGtHemZ6VWNTOEZoWk92eU1rQU5UdjFMLVdjWmV1U0w0czdncEJnWmkzYmZlRFdOVWpXMFN5RkZTRDh4bUxBdTV1WmpFLVJ1dDRJTUdmdw?oc=5",
-          "title": "Five Reputable Diamond Sanding Belts Manufacturers in China 2026: Optimizing Superhard Abrasive Machining",
-          "summary": "An analysis of top superhard abrasive manufacturers highlights growing optimization in diamond sanding belts for hard material machining.",
-          "why": "Superhard abrasives like diamond belts are increasingly crucial for heavy-duty grinding of hard metals, carbides, and advanced composites.",
-          "action": "Evaluate the viability of expanding superhard diamond abrasive product offerings.",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-07-23",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZDRQV1lyajBPaFY5UV9pQkxKcXpvRzQ5ejJOcEM5QzgyaXByMHg4MWtaX0pHT3VtV2tPRFVPUjJFdGhBcTNoWDRKOTZ4ekkzeGpOamJMT2R6M2psbHBoNEV6dlMyWW5yM3hkVjZjM0xCV1FNQ2dLamFSTHcyNTB4dEdJZkpsRmtBSUZJeF9FYW9sT0ZHdGNhV2F3RHpOLXp6RUI0SWY0SWNSM0hxM19pYS1DeEZ5ZGdhZHpyUg?oc=5",
+          "title": "Ford and Geely unite in Valencia: smart-factory momentum!",
+          "summary": "Major automotive players are joining forces to build smart factories and leverage shared manufacturing hubs in Europe, optimizing production resilience.",
+          "why": "Consolidated smart automotive plants change how Tier suppliers source automated surface prep and robotic grinding tools.",
+          "action": "Keep track of how joint-venture smart plants specify automated finishing and deburring lines.",
           "th": {
-            "title": "5 ผู้ผลิตสายพานขัดเพชรที่มีชื่อเสียงในจีนปี 2026: การเพิ่มประสิทธิภาพการตัดเฉือนสารขัดถูแข็งพิเศษ",
-            "summary": "การวิเคราะห์ผู้ผลิตสารขัดถูแข็งพิเศษชั้นนำเน้นย้ำถึงการเพิ่มประสิทธิภาพที่เติบโตขึ้นในสายพานขัดเพชรสำหรับการตัดเฉือนวัสดุแข็ง",
-            "why": "สารขัดถูแข็งพิเศษเช่นสายพานเพชรมีความสำคัญมากขึ้นเรื่อยๆ สำหรับการเจียรงานหนักของโลหะแข็ง คาร์ไบด์ และคอมโพสิตขั้นสูง",
-            "action": "ประเมินความเป็นไปได้ในการขยายกลุ่มผลิตภัณฑ์สารขัดถูเพชรแข็งพิเศษ"
+            "title": "ฟอร์ดและจีลี่ร่วมมือกันในบาเลนเซีย: แรงขับเคลื่อนโรงงานอัจฉริยะ!",
+            "summary": "ค่ายรถยนต์รายใหญ่ร่วมมือกันสร้างโรงงานอัจฉริยะและใช้ฐานการผลิตร่วมกันในยุโรป เพื่อเพิ่มความยืดหยุ่นในการผลิต",
+            "why": "โรงงานรถยนต์อัจฉริยะที่ควบรวมกันจะเปลี่ยนวิธีที่ซัพพลายเออร์จัดหาเครื่องมือเตรียมพื้นผิวอัตโนมัติและเครื่องขัดหุ่นยนต์",
+            "action": "ติดตามวิธีที่โรงงานอัจฉริยะร่วมทุนกำหนดสเปกสายงานขัดและลบคมอัตโนมัติ"
           }
         },
         {
           "id": "20260816-w3",
           "tag": "steel",
-          "rating": "green",
-          "source": "Recycling International",
-          "date": "2026-05-06",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUGx0eVkxRzJXY2ZfWGV0VWstUVozcnFnRjRpQnEydThVWTdhdno0NEhVNVFLYzRIal85T0h4b0hqNjNBclVpY1lteGZDWFZSdGhhcG9LVlhYN3ZucHRDOWFvOXFkTjhYYjVibTNsM3Y5ZVFjeFhoQW13anV4RE56emVzQUFESDlWRnB4LVpuSFNEb1FoOXRvNU9KY1pfYmxEYlA3RUhqQzY0RDMzSHF1dHE5U0w?oc=5",
-          "title": "Conflicts’ ‘serious’ impact on global steel industry",
-          "summary": "Global conflicts continue to exert pressure on the steel supply chain, altering raw material flows and regional pricing structures.",
-          "why": "Steel volume and processing activity directly dictate the consumption of industrial grinding wheels, deburring discs, and metal sanding supplies.",
-          "action": "Keep buffer stock for key metal-finishing abrasives in case of raw material cost volatility.",
+          "rating": "amber",
+          "source": "S&P Global",
+          "date": "2026-01-12",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
+          "title": "Global steel industry battles surplus supply, protectionism",
+          "summary": "The global steel sector continues to face overcapacity and rising trade protectionism, putting pressure on regional mills and pricing stability.",
+          "why": "Steel mill operating margins directly affect local metal fabricators' purchasing power for heavy-duty grinding belts and cutting discs.",
+          "action": "Adjust inventory forecasting for metal-industry abrasives based on local steel fabrication output rather than global mill headlines.",
           "th": {
-            "title": "ผลกระทบที่ 'รุนแรง' ของความขัดแย้งต่ออุตสาหกรรมเหล็กโลก",
-            "summary": "ความขัดแย้งระดับโลกยังคงสร้างแรงกดดันต่อห่วงโซ่อุปทานเหล็ก เปลี่ยนแปลงการไหลของวัตถุดิบและโครงสร้างราคาในแต่ละภูมิภาค",
-            "why": "ปริมาณเหล็กและกิจกรรมการแปรรูปส่งผลโดยตรงต่อการบริโภคหินเจียรอุตสาหกรรม แผ่นลบคม และวัสดุขัดโลหะ",
-            "action": "รักษาสต็อกสำรองสำหรับวัสดุขัดงานโลหะหลักเพื่อรับมือกับความผันผวนของต้นทุนวัตถุดิบ"
+            "title": "อุตสาหกรรมเหล็กโลกต่อสู้กับภาวะอุปทานล้นเกินและการกีดกันทางการค้า",
+            "summary": "ภาคอุตสาหกรรมเหล็กทั่วโลกยังคงเผชิญกับกำลังการผลิตส่วนเกินและการกีดกันทางการค้าที่เพิ่มขึ้น สร้างแรงกดดันต่อโรงงานเหล็กภูมิภาคและเสถียรภาพราคา",
+            "why": "อัตรากำไรของโรงงานเหล็กส่งผลโดยตรงต่ออำนาจซื้อของผู้ผลิตชิ้นงานโลหะในท้องถิ่นสำหรับสายพานขัดและแผ่นตัดงานหนัก",
+            "action": "ปรับการคาดการณ์สินค้าคงคลังสำหรับวัสดุขัดโลหะตามผลผลิตการผลิตเหล็กในท้องถิ่นแทนที่จะดูแค่ข่าวโรงงานเหล็กโลก"
           }
         }
       ]
