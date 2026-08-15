@@ -1,6 +1,6 @@
 name: ข่าวเช้า MK (daily)
 
-# รันทุกวัน 06:00 เวลาไทย (= 23:00 UTC วันก่อนหน้า) + กดรันเองได้จากแท็บ Actions
+# รันทุกเช้า 03:00/04:00/05:00 เวลาไทย (GitHub cron ดีเลย์บ่อย เลยยิง 3 ครั้ง)
 on:
   schedule:
     - cron: "0 20 * * *"   # 03:00 ไทย
@@ -22,16 +22,12 @@ jobs:
       - name: Generate Thai news via Gemini
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: node scripts/generate-news.mjs || echo "Thai news generation failed (likely Gemini overload) — keeping previous data.js"
-      - name: Generate World trends via Gemini
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: node scripts/generate-world.mjs || echo "world generation failed — keeping previous world.js"
+        run: node scripts/generate-news.mjs
       - name: Commit & push if changed
         run: |
           git config user.name "MKIS News Bot"
           git config user.email "bot@users.noreply.github.com"
-          git add data.js world.js
+          git add data.js
           if git diff --cached --quiet; then
             echo "no change"
           else
