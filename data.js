@@ -2,6 +2,89 @@
 window.NEWS_ARCHIVE = {
   "days": [
     {
+      "date": "2026-08-16",
+      "summary": "Today has limited new developments; multinational warnings on household debt impacting auto parts manufacturing highlight potential headwinds, while upcoming woodworking industrial expos present targeted opportunities for abrasive product lines.",
+      "directCount": 1,
+      "th": {
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยมีคำเตือนเรื่องหนี้ครัวเรือนฉุดยอดผลิตชิ้นส่วนยานยนต์ซึ่งเป็นความเสี่ยงระยะสั้น ขณะที่งานแสดงสินค้าอุตสาหกรรมงานไม้และเฟอร์นิเจอร์เปิดโอกาสเจาะตลาดสายพานและกระดาษทรายขัดไม้"
+      },
+      "items": [
+        {
+          "id": "20260816-1",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "thansettakij",
+          "date": "2026-08-15",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EYVc4ZnhkX0VKd1hRU3N1REVNM09QYk9fR0RQV2xwbDFHaW52ZnlVQ3R2b3NJMlpIMzhZMU9ZZC1CRFhjYThhRnNhd05ZU1QySzAzbXp5aGxKaHhJRXFOR3MwZjUxOUQweHVlQg?oc=5",
+          "title": "Multinationals Warn High Household Debt Squeezes Thai Auto Parts Production",
+          "summary": "Foreign automakers warn that elevated domestic household debt and strict car loan approvals are suppressing local vehicle demand, affecting auto parts suppliers' production volume.",
+          "why": "A slowdown in OEM auto parts manufacturing reduces daily consumption of grinding wheels and deburring abrasives in Tier-1 and Tier-2 factories.",
+          "action": "Monitor inventory turnover at Tier-1 automotive clients and offer cost-saving abrasive solutions to help factories manage margin pressure.",
+          "th": {
+            "title": "ทุนข้ามชาติเตือน หนี้ครัวเรือนฉุดยอดผลิตและลงทุนชิ้นส่วนยานยนต์ในไทย",
+            "summary": "ค่ายรถข้ามชาติเตือนปัญหาหนี้ครัวเรือนสูงและความเข้มงวดของสินเชื่อฉุดยอดขายรถในประเทศ กระทบต่อแผนการผลิตของโรงงานชิ้นส่วนยานยนต์",
+            "why": "การผลิตชิ้นส่วนยานยนต์ที่ชะลอตัวจะทำให้การใช้วัสดุขัดเจียรและลบครีบโลหะในโรงงานซัพพลายเออร์ลดลงตามไปด้วย",
+            "action": "ติดตามปริมาณการสั่งซื้อของโรงงานผลิตชิ้นส่วนยานยนต์ Tier 1-2 พร้อมนำเสนอวัสดุขัดรุ่นคุ้มราคาเพื่อช่วยลูกค้าประหยัดต้นทุน"
+          }
+        },
+        {
+          "id": "20260816-2",
+          "tag": "furniture",
+          "rating": "green",
+          "source": "มติชนออนไลน์",
+          "date": "2026-07-13",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tSExWNjZuc1BjdTBOM2F6OWVuN1J4bWo1R1hDUjk4VWdqelZnSy1xTjN4UllKcTFmSjRFck9HVW5NMGlJTTUyQWJ2STVJR096aXd0YnhjUHdaczA?oc=5",
+          "title": "TIWF 2026 Expo Set to Drive Thailand and ASEAN Woodworking and Furniture Hub",
+          "summary": "Thailand is preparing to host TIWF 2026, showcasing woodworking machinery, surface processing technology, and materials for furniture manufacturers across ASEAN.",
+          "why": "Woodworking and furniture manufacturing heavily rely on wide abrasive sanding belts, sanding discs, and finishing rolls, offering direct B2B customer acquisition opportunities.",
+          "action": "Evaluate participating or visiting TIWF 2026 to showcase MK wide sanding belts and establish direct contacts with export-oriented furniture makers.",
+          "th": {
+            "title": "TIWF 2026 ปักหมุดงานใหญ่ ยกระดับอุตสาหกรรมงานไม้และเฟอร์นิเจอร์สู่อาเซียน",
+            "summary": "ไทยเตรียมจัดงานแสดงสินค้า TIWF 2026 รวมเทคโนโลยีเครื่องจักรงานไม้ การปรับสภาพผิว และวัสดุอุปกรณ์สำหรับโรงงานเฟอร์นิเจอร์ทั่วภูมิภาค",
+            "why": "โรงงานเฟอร์นิเจอร์ไม้ใช้งานกระดาษทรายสายพานหน้ากว้างและจานขัดจำนวนมาก ถือเป็นช่องทางเจาะกลุ่มโรงงานผลิตงานไม้โดยตรง",
+            "action": "พิจารณาเข้าร่วมออกบูธหรือเข้าชมงาน TIWF 2026 เพื่อนำเสนอสายพานขัดไม้ MK และเปิดดีลกับโรงงานเฟอร์นิเจอร์ส่งออก"
+          }
+        },
+        {
+          "id": "20260816-3",
+          "tag": "aero",
+          "rating": "amber",
+          "source": "thansettakij",
+          "date": "2026-06-16",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pbFFnQlhiSG5UMVBfTjVmMUZtNXc4ZkYyOFljMVFtQlQwalZ5WUpidFlzX3prejlBWGoydDYzUUZXMlY4bE56VFUwZnZrLVJfWlRtV2t0Wi0xOWkzeVFLTUFJOVIwUQ?oc=5",
+          "title": "EECO Advances U-Tapao MRO Project, Awaiting Airline Feasibility Proposals",
+          "summary": "The EEC Policy Committee continues zoning preparation for the U-Tapao Aviation MRO center while awaiting detailed joint investment proposals from regional airlines.",
+          "why": "Long-term expansion of commercial aircraft maintenance facilities in Thailand will generate steady demand for aerospace-certified precision surface preparation abrasives.",
+          "action": "Compile and verify international aerospace standard certifications for MK high-precision polishing and deburring product lines.",
+          "th": {
+            "title": "อีอีซีเดินหน้าศูนย์ซ่อมฯ อู่ตะเภา รอข้อเสนอร่วมทุนพัฒนา MRO",
+            "summary": "สำนักงานอีอีซีเดินหน้าจัดสรรพื้นที่ศูนย์ซ่อมอากาศยานอู่ตะเภาต่อเนื่อง โดยอยู่ระหว่างรอข้อเสนอและผลศึกษาการร่วมทุนจากสายการบินพาณิชย์",
+            "why": "การขยายศูนย์ซ่อมบำรุงอากาศยานในระยะยาวจะสร้างอุปสงค์วัสดุขัดผิวเกรดการบินความละเอียดสูงในไทยอย่างต่อเนื่อง",
+            "action": "เตรียมความพร้อมด้านเอกสารรับรองมาตรฐานผลิตภัณฑ์ขัดเงาและปรับสภาพผิวเกรดการบินเพื่อรองรับผู้รับเหมาซ่อมบำรุง"
+          }
+        },
+        {
+          "id": "20260816-4",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "เดลินิวส์",
+          "date": "2026-05-21",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3cWgyMzlsVU90VjFUWTJ4czV4U2ZIZi1QbnBzeUR5ZzNHQ21jTzR6RmVpaDFDVVF2ODVsTlFmYVZLbUlCdGhEUXExQTdSbng0U29n?oc=5",
+          "title": "Thai Steel Fabricators Struggle with Low Domestic Demand and Cheap Imports",
+          "summary": "Domestic metal and steel processors face intense pressure from slowing local construction and manufacturing activity alongside price-undercutting steel imports.",
+          "why": "Lower production utilization at local steel fabrication shops reduces abrasive cutting and grinding disc consumption.",
+          "action": "Position durable, high-efficiency cutting and grinding wheels for general metal fabrication shops to improve their cost-per-cut ratio.",
+          "th": {
+            "title": "โรงงานเหล็กและแปรรูปโลหะไทยเผชิญแรงกดดัน ยอดใช้ต่ำและสินค้าทุ่มตลาด",
+            "summary": "กลุ่มอุตสาหกรรมแปรรูปเหล็กและโลหะในประเทศเผชิญแรงกดดันจากการชะลอตัวของงานก่อสร้างและโรงงานผลิต รวมถึงการแข่งขันจากสินค้าราคาถูกจากต่างประเทศ",
+            "why": "อัตราการผลิตงานโครงสร้างและโลหะแปรรูปที่ลดลงกระทบต่อปริมาณการใช้ใบตัดและใบเจียรเหล็กในกลุ่มโรงงานทั่วไป",
+            "action": "ชูจุดเด่นใบตัดและใบเจียร MK ที่มีความทนทานและคุ้มค่า เพื่อช่วยโรงงานโครงสร้างโลหะลดต้นทุนต่อชิ้นงาน"
+          }
+        }
+      ],
+      "terms": {}
+    },
+    {
       "date": "2026-08-15",
       "summary": "Today has limited breaking news; market attention centers on long-term EV investment realization from BOI and defensive trade measures in domestic steel and furniture sectors.",
       "directCount": 1,
@@ -973,5 +1056,5 @@ window.NEWS_ARCHIVE = {
       "terms": {}
     }
   ],
-  "updated": "2026-08-15"
+  "updated": "2026-08-16"
 };
