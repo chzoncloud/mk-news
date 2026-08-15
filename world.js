@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-08-16",
-      "summary": "Today's briefing highlights niche shifts in advanced coatings, automotive joint ventures, and steel trade frictions that directly impact global surface finishing and metal fabrication demand.",
+      "summary": "Today's briefing highlights steady growth in automotive OEM and architectural coatings, advanced diamond tooling demand, and structural steel market pressures. These signals point to continuous evolution in surface prep requirements.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปข่าววันนี้เน้นการเปลี่ยนแปลงในตลาดสารเคลือบขั้นสูง การร่วมมือในอุตสาหกรรมยานยนต์ และข้อพิพาททางการค้าเหล็ก ซึ่งส่งผลกระทบโดยตรงต่อความต้องการขัดผิวและงานแปรรูปโลหะทั่วโลก"
+        "summary": "สรุปสถานการณ์ประจำวันนี้เน้นการเติบโตอย่างต่อเนื่องของสีเคลือบรถยนต์ OEM และงานสถาปัตยกรรม ความต้องการเครื่องมือเพชรขั้นสูง และแรงกดดันในตลาดเหล็กโครงสร้าง ซึ่งบ่งชี้ถึงวิวัฒนาการอย่างต่อเนื่องในความต้องการเตรียมพื้นผิว"
       },
       "items": [
         {
           "id": "20260816-w1",
-          "tag": "steel",
+          "tag": "coating",
           "rating": "amber",
-          "source": "PR Newswire UK",
-          "date": "2026-05-08",
-          "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQLWJCTzl4bnlhbUl3c2o5aXByM0Mxc3k0cUtGTHJQak5MYVNSNDk1bk50b29XS3BJbS1ySXFhV3dhWXRuMXB0bVB2Z2Q1WVN6UjRJY0N2LWpsNFRvU2o0aUU2dkx3d2htTVMxYURkLWxINlcydFRqdG1PV1ZaRWxtNndMMkc2T1hNenN2R0tBdlFaUllWV1d1N2huRTE2TlNOM0lxSEhlbkw5ajhSR0YtZWFVb01TZXlJS1VCbXNibWRreEVWQnVOUk5halB6YzBJdnNBZTJrOWxwdHppOG5jZWVETWJ0XzJuOE1mb2JqNEpmXzAxcDF4TGtRRWxaaW9DTzFPYUZCa28wbmp1ZGhtRVZ0X19lZ1ZqSUotLW1GaC0xRHRJNmNLdXVqOXNJdlpHQkF1NklvTXJOOWM?oc=5",
-          "title": "Coil Coatings Market to Reach USD 9.2 Billion by 2035 as Sustainable, High-Performance Coating Technologies Transform Construction and Industrial Applications",
-          "summary": "The coil coatings market is expanding rapidly due to demand for sustainable, high-performance coatings in construction and general industrial sectors.",
-          "why": "Coil coating lines require intensive metal preparation, cleaning, and surface conditioning before coating application, signaling steady demand for heavy-duty industrial abrasive rolls and brushes.",
-          "action": "Monitor coil coating trends to identify OEM partners who supply pre-finished metal sheets.",
+          "source": "Fortune Business Insights",
+          "date": "2026-07-27",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXJjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
+          "title": "Automotive OEM Coatings Market Size, Share | Growth [2034]",
+          "summary": "The automotive OEM coatings sector continues its steady expansion toward 2034, driven by technological demands in vehicle manufacturing and finish durability.",
+          "why": "Higher standards in automotive coatings mean tighter paint prep, sanding, and defect-removal requirements on metal and composite bodies.",
+          "action": "Monitor finishing specifications for new automotive OEM coating lines.",
           "th": {
-            "title": "ตลาดเคลือบผิวคอยล์ (Coil Coatings) มีมูลค่าแตะ 9.2 พันล้านดอลลาร์ภายในปี 2035 จากเทคโนโลยีสีเคลือบประสิทธิภาพสูง",
-            "summary": "ตลาดสีเคลือบแผ่นเหล็กม้วนกำลังขยายตัวอย่างรวดเร็ว ตามความต้องการสารเคลือบประสิทธิภาพสูงและยั่งยืนในภาคการก่อสร้างและอุตสาหกรรม",
-            "why": "กระบวนการเคลือบเหล็กม้วนต้องผ่านการเตรียมผิว การทำความสะอาด และการปรับสภาพโลหะอย่างเข้มข้นก่อนเคลือบ ซึ่งสะท้อนถึงความต้องการม้วนกระดาษทรายและแปรงขัดอุตสาหกรรมอย่างต่อเนื่อง",
-            "action": "ติดตามแนวโน้มการเคลือบผิวคอยล์เพื่อหาพาร์ทเนอร์กลุ่มโรงงานผลิตแผ่นโลหะเคลือบ"
+            "title": "ขนาดและส่วนแบ่งตลาดสีเคลือบ OEM ยานยนต์ | การเติบโต [2034]",
+            "summary": "ภาคส่วนสีเคลือบ OEM สำหรับยานยนต์ยังคงขยายตัวอย่างต่อเนื่องจนถึงปี 2034 ขับเคลื่อนด้วยความต้องการทางเทคโนโลยีในการผลิตรถยนต์และความทนทานของพื้นผิว",
+            "why": "มาตรฐานที่สูงขึ้นในสีเคลือบรถยนต์หมายถึงความต้องการที่เข้มงวดขึ้นในการเตรียมพื้นผิว การขัดกระดาษทราย และการกำจัดตำหนิบนตัวถังโลหะและคอมโพสิต",
+            "action": "ติดตามข้อกำหนดด้านการขัดตกแต่งสำหรับไลน์เคลือบสี OEM ยานยนต์ใหม่ๆ"
           }
         },
         {
           "id": "20260816-w2",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "automotivemanufacturingsolutions.com",
-          "date": "2026-07-23",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZDRQV1lyajBPaFY5UV9pQkxKcXpvRzQ5ejJOcEM5QzgyaXByMHg4MWtaX0pHT3VtV2tPRFVPUjJFdGhBcTNoWDRKOTZ4ekkzeGpOamJMT2R6M2psbHBoNEV6dlMyWW5yM3hkVjZjM0xCV1FNQ2dLamFSTHcyNTB4dEdJZkpsRmtBSUZJeF9FYW9sT0ZHdGNhV2F3RHpOLXp6RUI0SWY0SWNSM0hxM19pYS1DeEZ5ZGdhZHpyUg?oc=5",
-          "title": "Ford and Geely unite in Valencia: smart-factory momentum!",
-          "summary": "Ford and Geely are combining forces in Valencia, driving new smart-factory automation and collaborative manufacturing strategies.",
-          "why": "Major automotive joint ventures and smart factory transitions alter supply chains and tooling specifications for body-in-white (BiW) finishing and robotic deburring.",
-          "action": "Keep an eye on how European automotive partnerships adapt their local tier-supplier tooling requirements.",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "einpresswire.com",
+          "date": "2026-07-17",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQ2tzbUVzemVBLUxLMTFXbThzUk1aZEV5cDBQeE1HWmNUbW1PNzZTUXo0bnFpcjA5Yk1XRUtMOEFyakZfaXdVUTlPM3pSVno5dk5kRXUzM000ZFo5WG1mcGV4U1NzV1hLWVlpY3p6LVZtcTN4X3hWd2tDRVJoemVydnNIZFdNTjZmYk9uTGJEd0hTdTlpY3RlaGtHemZ6VWNTOEZoWk92eU1rQU5UdjFMLVdjWmV1U0w0czdncEJnWmkzYmZlRFdOVWpXMFN5RkZTRDh4bUxBdTV1WmpFLVJ1dDRJTUdmdw?oc=5",
+          "title": "Five Reputable Diamond Sanding Belts Manufacturers in China 2026: Optimizing Superhard Abrasive Machining",
+          "summary": "An analysis of top superhard abrasive manufacturers highlights growing optimization in diamond sanding belts for hard material machining.",
+          "why": "Superhard abrasives like diamond belts are increasingly crucial for heavy-duty grinding of hard metals, carbides, and advanced composites.",
+          "action": "Evaluate the viability of expanding superhard diamond abrasive product offerings.",
           "th": {
-            "title": "Ford และ Geely ร่วมมือกันที่บาเลนเซีย: พลังขับเคลื่อนโรงงานอัจฉริยะ!",
-            "summary": "Ford และ Geely ผนกำลังกันในบาเลนเซีย ขับเคลื่อนระบบอัตโนมัติในโรงงานอัจฉริยะและกลยุทธ์การผลิตร่วมกัน",
-            "why": "การร่วมทุนยานยนต์รายใหญ่และการเปลี่ยนผ่านสู่โรงงานอัจฉริยะ ส่งผลต่อห่วงโซ่อุปทานและสเปกเครื่องมือสำหรับงานตกแต่งโครงสร้างตัวถังรถยนต์และการลบคมด้วยหุ่นยนต์",
-            "action": "จับตาดูว่าพันธมิตรยานยนต์ยุโรปปรับเปลี่ยนข้อกำหนดเครื่องมือสำหรับซัพพลายเออร์ชิ้นส่วนอย่างไร"
+            "title": "5 ผู้ผลิตสายพานขัดเพชรที่มีชื่อเสียงในจีนปี 2026: การเพิ่มประสิทธิภาพการตัดเฉือนสารขัดถูแข็งพิเศษ",
+            "summary": "การวิเคราะห์ผู้ผลิตสารขัดถูแข็งพิเศษชั้นนำเน้นย้ำถึงการเพิ่มประสิทธิภาพที่เติบโตขึ้นในสายพานขัดเพชรสำหรับการตัดเฉือนวัสดุแข็ง",
+            "why": "สารขัดถูแข็งพิเศษเช่นสายพานเพชรมีความสำคัญมากขึ้นเรื่อยๆ สำหรับการเจียรงานหนักของโลหะแข็ง คาร์ไบด์ และคอมโพสิตขั้นสูง",
+            "action": "ประเมินความเป็นไปได้ในการขยายกลุ่มผลิตภัณฑ์สารขัดถูเพชรแข็งพิเศษ"
           }
         },
         {
           "id": "20260816-w3",
           "tag": "steel",
-          "rating": "amber",
-          "source": "The Guardian",
-          "date": "2025-10-08",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdjhOdzFOdlRNQ3JIYVNXcTZkNEpHTURMRmFJbk9jbEl0MGNLNUJaTDN0ZTVqLURxVWs4alVZbllfQzVXSHNZOE9UN0pSWTNjMWt4ZXFfTGp4LWIxT3NILXNYUTBId3ZHalF2QVZkX0JOQmpVd1F1ODJtTTB4SXJySkIwVFpuTlJqR3M3Z1l3c1BmM25IRERwWmFhZmY2MU1ZajI2N2hibG1PcWREaHBDVQ?oc=5",
-          "title": "‘Existential threat’: what do EU’s 50% steel tariffs mean for UK industry?",
-          "summary": "Stf and heavy trade tariffs like the EU's proposed measures create serious operational and cost pressures for metal manufacturers.",
-          "why": "Tariffs and regional steel supply shifts force local fabricators to optimize their production costs, pushing them to seek reliable, cost-effective cutting, grinding, and surface prep consumables.",
-          "action": "Emphasize durability and cost-efficiency in our abrasive product pitches to counter local margin squeezes.",
+          "rating": "green",
+          "source": "Recycling International",
+          "date": "2026-05-06",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUGx0eVkxRzJXY2ZfWGV0VWstUVozcnFnRjRpQnEydThVWTdhdno0NEhVNVFLYzRIal85T0h4b0hqNjNBclVpY1lteGZDWFZSdGhhcG9LVlhYN3ZucHRDOWFvOXFkTjhYYjVibTNsM3Y5ZVFjeFhoQW13anV4RE56emVzQUFESDlWRnB4LVpuSFNEb1FoOXRvNU9KY1pfYmxEYlA3RUhqQzY0RDMzSHF1dHE5U0w?oc=5",
+          "title": "Conflicts’ ‘serious’ impact on global steel industry",
+          "summary": "Global conflicts continue to exert pressure on the steel supply chain, altering raw material flows and regional pricing structures.",
+          "why": "Steel volume and processing activity directly dictate the consumption of industrial grinding wheels, deburring discs, and metal sanding supplies.",
+          "action": "Keep buffer stock for key metal-finishing abrasives in case of raw material cost volatility.",
           "th": {
-            "title": "ภัยคุกคามที่มีอยู่จริง: มาตรการภาษีเหล็ก 50% ของ EU หมายความว่าอย่างไรสำหรับอุตสาหกรรมสหราชอาณาจักร?",
-            "summary": "มาตรการภาษีการค้าเหล็กที่รุนแรงสร้างความกดดันด้านต้นทุนและการดำเนินงานอย่างมากต่อผู้ผลิตโลหะ",
-            "why": "กำแพงภาษีและการย้ายถิ่นฐานของอุปทานเหล็กระดับภูมิภาค บีบให้ผู้ผลิตท้องถิ่นต้องรีดต้นทุนการผลิต มองหาวัสดุสิ้นเปลืองสำหรับตัด เจียร และเตรียมผิวที่คุ้มค่าและเชื่อถือได้",
-            "action": "เน้นจุดขายด้านความทนทานและความคุ้มค่าของสินค้ากลุ่มกระดาษทรายเพื่อรับมือกับแรงกดดันด้านต้นทุน"
+            "title": "ผลกระทบที่ 'รุนแรง' ของความขัดแย้งต่ออุตสาหกรรมเหล็กโลก",
+            "summary": "ความขัดแย้งระดับโลกยังคงสร้างแรงกดดันต่อห่วงโซ่อุปทานเหล็ก เปลี่ยนแปลงการไหลของวัตถุดิบและโครงสร้างราคาในแต่ละภูมิภาค",
+            "why": "ปริมาณเหล็กและกิจกรรมการแปรรูปส่งผลโดยตรงต่อการบริโภคหินเจียรอุตสาหกรรม แผ่นลบคม และวัสดุขัดโลหะ",
+            "action": "รักษาสต็อกสำรองสำหรับวัสดุขัดงานโลหะหลักเพื่อรับมือกับความผันผวนของต้นทุนวัตถุดิบ"
           }
         }
       ]
