@@ -22,7 +22,7 @@ jobs:
       - name: Generate Thai news via Gemini
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: node scripts/generate-news.mjs
+        run: node scripts/generate-news.mjs || echo "Gemini ดึงไม่ได้ (503/429 ชั่วคราว) — ใช้ data.js เดิมไปก่อน ไม่นับว่าล้มเหลว"
       - name: Commit & push if changed
         run: |
           git config user.name "MKIS News Bot"
