@@ -2,6 +2,107 @@
 window.NEWS_ARCHIVE = {
   "days": [
     {
+      "date": "2026-08-17",
+      "summary": "Today has limited new breaking news; key highlights include the THB 10B Thai-Bangkok Airways MRO joint project opening aerospace abrasive opportunities, while high household debt continues to pressure domestic auto parts manufacturing.",
+      "directCount": 1,
+      "th": {
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก ประเด็นเด่นคือโครงการศูนย์ซ่อม MRO อู่ตะเภา 1 หมื่นล้านบาทของบินไทยร่วมกับบางกอกแอร์เวย์สที่เปิดโอกาสตลาดการบิน ขณะที่ปัญหาหนี้ครัวเรือนยังกดดันยอดผลิตชิ้นส่วนยานยนต์ในประเทศ"
+      },
+      "items": [
+        {
+          "id": "20260817-1",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "thansettakij",
+          "date": "2026-08-15",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EYVc4ZnhkX0VKd1hRU3N1REVNM09QYk9fR0RQV2xwbDFHaW52ZnlVQ3R2b3NJMlpIMzhZMU9ZZC1CRFhjYThhRnNhd05ZU1QySzAzbXp5aGxKaHhJRXFOR3MwZjUxOUQweHVlQg?oc=5",
+          "title": "Multinational Automakers Warn Rising Household Debt Strains Thai Parts Manufacturing",
+          "summary": "High household debt and strict loan approvals are contracting domestic vehicle sales, forcing automakers to adjust local parts production and investment schedules.",
+          "why": "Reduced domestic car assembly directly slows down production lines at Tier-1 and Tier-2 stamping/metal machining plants, softening cutting and grinding abrasive demand.",
+          "action": "Track production schedules among Japanese Tier-1 suppliers and prioritize accounts focused on export models.",
+          "th": {
+            "title": "ทุนข้ามชาติเตือน หนี้ครัวเรือนฉุดตลาดรถ กระทบแผนผลิตและลงทุนชิ้นส่วนในไทย",
+            "summary": "หนี้ครัวเรือนที่สูงและความเข้มงวดในการปล่อยสินเชื่อฉุดยอดขายรถในประเทศ ส่งผลให้ค่ายรถยนต์ต้องปรับลดแผนการผลิตและการลงทุนชิ้นส่วน",
+            "why": "ยอดประกอบรถยนต์ในประเทศที่ลดลงกระทบต่อปริมาณการผลิตของโรงงานปั๊มขึ้นรูปและกลึงชิ้นส่วนโลหะ Tier-1/2 ทำให้ความต้องการใช้วัสดุขัดและเจียรชะลอตัว",
+            "action": "ติดตามรอบการผลิตของโรงงานชิ้นส่วนญี่ปุ่น Tier-1 อย่างใกล้ชิด และเน้นกลุ่มลูกค้าที่เน้นผลิตเพื่อการส่งออก"
+          }
+        },
+        {
+          "id": "20260817-2",
+          "tag": "aero",
+          "rating": "green",
+          "source": "ข่าวหุ้นธุรกิจออนไลน์",
+          "date": "2025-11-24",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4ya2hzRUp5Ym5zcXp0aGt2WGlITkMxTFJlMG92X09weHFjSlgzc3pOT2Z3dWJVR1h5NDFUeEtLZXNCaWhnemNWUURfWQ?oc=5",
+          "title": "Thai Airways and Bangkok Airways Move Forward on THB 10 Billion U-Tapao MRO Project",
+          "summary": "Thai Airways and Bangkok Airways are partnering to develop a 10-billion-baht heavy maintenance and overhaul (MRO) facility across shared zones at U-Tapao Airport.",
+          "why": "New large-scale aircraft hangars directly generate sustained demand for specialized aviation abrasives used in paint stripping, engine overhaul, and metal surface finishing.",
+          "action": "Establish contacts with procurement and engineering teams of both airlines to prepare aviation-grade abrasive product trials.",
+          "th": {
+            "title": "บินไทย จับมือ บางกอกแอร์เวย์ส ลุยศูนย์ซ่อมอากาศยานอู่ตะเภา 1 หมื่นล้าน",
+            "summary": "การบินไทยและบางกอกแอร์เวย์สจับมือร่วมทุน 1 หมื่นล้านบาท พัฒนาศูนย์ซ่อมบำรุงอากาศยาน (MRO) ครบวงจร ณ สนามบินอู่ตะเภา",
+            "why": "ศูนย์ซ่อมบำรุงอากาศยานขนาดใหญ่จะสร้างความต้องการใช้วัสดุขัดเกรดการบินสำหรับงานลอกสี ลบครีบใบพัดเครื่องยนต์ และเตรียมผิวโลหะโดยตรง",
+            "action": "เข้าพบทีมจัดซื้อและวิศวกรรมซ่อมบำรุงของทั้งสองสายการบินเพื่อนำเสนอตัวอย่างวัสดุขัดเกรดมาตรฐานการบิน"
+          }
+        },
+        {
+          "id": "20260817-3",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "ThaiPublica",
+          "date": "2025-05-11",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeGdXNGRGSzBwQnlaWkY3aGgxNWtJbXpEQjljbXU1elFkZFVwUFZfVFNsMUtHWUY5S3REWnpXOU9zdlNDTFpQU2FneEsyQ1RMRDdncDFYVFpSSFZQdUM0ekQ1ZnBTSlVPMkEtYjhfT1NXdmtXVG9zU2VaRlJIWGlGSThR?oc=5",
+          "title": "SCB EIC Analyzes Tariff Spillover Risks on Steel Influx into Thailand",
+          "summary": "International tariff changes risk deflecting surplus steel from major Asian producers into Southeast Asia, maintaining price pressure across local supply chains.",
+          "why": "While downstream metal fabricators gain access to cheaper steel feedstock, margin pressures on primary mills may alter their heavy grinding abrasive consumption patterns.",
+          "action": "Target downstream steel structure fabricators and equipment makers who are ramping up fabrication using competitive raw materials.",
+          "th": {
+            "title": "EIC วิเคราะห์แนวโน้มเหล็ก หวั่นสินค้าทะลักเข้าไทยจากผลกระทบภาษีการค้า",
+            "summary": "กำแพงภาษีในตลาดหลักเสี่ยงผลักดันให้เหล็กส่วนเกินจากเอเชียไหลเข้าสู่อาเซียนและไทย กดดันโครงสร้างราคาของอุตสาหกรรมในประเทศ",
+            "why": "แม้ผู้แปรรูปโลหะขั้นปลายจะได้ประโยชน์จากต้นทุนวัตถุดิบที่ถูกลง แต่โรงงานผลิตเหล็กขั้นต้นต้องเผชิญแรงกดดันด้านกำไร ซึ่งอาจกระทบต่อการจัดซื้อหินเจียรและวัสดุขัดหนัก",
+            "action": "มุ่งขยายตลาดไปยังกลุ่มผู้แปรรูปโครงสร้างเหล็กและประกอบเครื่องจักรปลายน้ำที่กำลังเพิ่มกำลังการผลิต"
+          }
+        },
+        {
+          "id": "20260817-4",
+          "tag": "furniture",
+          "rating": "amber",
+          "source": "เดลินิวส์",
+          "date": "2026-07-14",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9adEFrWDVzcmYtTHp3ajZROXkzYjBRdHh4bHRwVm51UG54VkIwZ0w0Zm5NS1VLQWZVZFVyTmM4UTF5QW9tUm53MDRHZUVHVG9CR0xF?oc=5",
+          "title": "TIWF 2026 Set to Boost Woodworking Automation and Modern Furniture Manufacturing",
+          "summary": "The Thailand International Woodworking & Furniture Exhibition (TIWF 2026) aims to accelerate technological transformation and high-precision production across ASEAN.",
+          "why": "Modern automated woodworking machinery requires high-specification wide sanding belts and precision abrasive discs to achieve export-grade surface finishes.",
+          "action": "Prepare product packages for wide abrasive sanding belts and identify machine distributors to partner with ahead of the exhibition.",
+          "th": {
+            "title": "TIWF 2026 ปักหมุดงานใหญ่ ยกระดับอุตสาหกรรมงานไม้และเฟอร์นิเจอร์สู่อาเซียน",
+            "summary": "งาน TIWF 2026 เตรียมจัดแสดงเทคโนโลยีเครื่องจักรงานไม้และเฟอร์นิเจอร์ เพื่อผลักดันการปรับปรุงสายการผลิตอัตโนมัติในระดับภูมิภาค",
+            "why": "การใช้เครื่องจักรงานไม้อัตโนมัติเพิ่มความต้องการกระดาษทรายสายพานหน้ากว้างและจานขัดความแม่นยำสูงสำหรับการขัดผิวเกรดส่งออก",
+            "action": "เตรียมแพ็กเกจสินค้าสายพานขัดหน้ากว้างและสร้างพันธมิตรกับตัวแทนจำหน่ายเครื่องจักรงานไม้เพื่อร่วมขยายตลาด"
+          }
+        },
+        {
+          "id": "20260817-5",
+          "tag": "auto",
+          "rating": "white",
+          "source": "krungsri.com",
+          "date": "2025-12-02",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMTRod1N3TFVORU1iVFlidUUzTU1BSzZjRkh0NkFDTFFSV2M2MXR2UUJCeHMtUUlnX3FfTzhjTEFwUl9teW5uZ0s2eUtTRDZEcktJVWNfWlZSWnhpZHhVTUkyQjRpS09xNm9UUURPUU5KVlhXandPaWplenlBVGhmSnc5T0NxaDRwVVRXcmlETlJyNy1mdmdSM3M2MHRFXzBNSENUcUtKNjdwTWxCcjgzbEZuNlJ4OU02bGxzREw5am82OTh3bkZJUnhNYy0?oc=5",
+          "title": "Krungsri Research Outlines 2026-2028 EV Growth and Supply Chain Restructuring",
+          "summary": "Krungsri Research forecasts continuous expansion of electric vehicle manufacturing in Thailand through 2028, driving changes in component sourcing and metal processing.",
+          "why": "Provides strategic macro context on how EV chassis and battery casing fabrication will replace traditional engine component polishing over the next three years.",
+          "action": "Keep developing abrasive product lineups specifically tailored for lightweight aluminum and EV battery tray deburring.",
+          "th": {
+            "title": "วิจัยกรุงศรี เผยแนวโน้มอุตสาหกรรมรถยนต์ไฟฟ้า ปี 2569-2571",
+            "summary": "วิจัยกรุงศรีประเมินการผลิตยานยนต์ไฟฟ้าในไทยจะขยายตัวต่อเนื่องถึงปี 2571 ส่งผลให้เกิดการปรับโครงสร้างห่วงโซ่การผลิตชิ้นส่วนและการแปรรูปโลหะ",
+            "why": "เป็นข้อมูลเชิงกลยุทธ์ระยะยาวที่ชี้ว่างานขัดถาดแบตเตอรี่และโครงสร้างอะลูมิเนียมของ EV จะเข้ามาทดแทนงานขัดชิ้นส่วนเครื่องยนต์สันดาปเดิม",
+            "action": "พัฒนาและทดสอบไลน์สินค้าวัสดุขัดสำหรับงานลบครีบอะลูมิเนียมน้ำหนักเบาและโครงสร้างแบตเตอรี่ EV อย่างต่อเนื่อง"
+          }
+        }
+      ],
+      "terms": {}
+    },
+    {
       "date": "2026-08-16",
       "summary": "Today has limited new breaking news, with focus on Thai Airways expanding its long-term fleet supporting aerospace MRO, alongside regional furniture and steel industry movements.",
       "directCount": 0,
@@ -935,108 +1036,7 @@ window.NEWS_ARCHIVE = {
         }
       ],
       "terms": {}
-    },
-    {
-      "date": "2026-08-03",
-      "summary": "Today's news shows strong growth opportunities driven by Mitsubishi's 16-billion-baht investment in Thailand, BYD's EV hub expansion, and U-Tapao's MRO development. Abrasive demand in auto parts, aviation maintenance, and woodworking remains highly active.",
-      "directCount": 4,
-      "th": {
-        "summary": "ข่าววันนี้ชี้โอกาสเติบโตเด่นชัดจากการลงทุน 1.6 หมื่นล้านของมิตซูบิชิ การขยายฮับ EV ของ BYD และการผลักดันศูนย์ซ่อม MRO อู่ตะเภา ส่งผลให้ความต้องการวัสดุขัดในกลุ่มยานยนต์ การบิน และงานไม้เฟอร์นิเจอร์อยู่ในเกณฑ์สดใส"
-      },
-      "items": [
-        {
-          "id": "20260803-1",
-          "tag": "auto",
-          "rating": "green",
-          "source": "LINE TODAY",
-          "date": "2026-07-24",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1d29pcVRMMUxSTVRTUkR4bkRWT2tSM09YQjNEWjhHeGF4VTZINWlvdjU5TzZsRFIzWmRuRllrMWpuYlIxakQ0N2hqOEdhay1DOERseUl3?oc=5",
-          "title": "Mitsubishi Motors Invests 16 Billion Baht in Thailand for EV and Pickup Production",
-          "summary": "Mitsubishi Motors announced a 16-billion-baht investment plan through 2030 to establish Thailand as a manufacturing base for EVs and electric pickups.",
-          "why": "Major investment from Japanese carmakers directly expands production lines and increases demand for sanding belts and grinding discs in local OEM supply chains.",
-          "action": "Target Japanese Tier-1 automotive parts suppliers supplying Mitsubishi with high-performance metal deburring abrasives.",
-          "th": {
-            "title": "Mitsubishi Motors ทุ่มลงทุนเพิ่ม 1.6 หมื่นล้านบาทในไทยถึงปี 2573 ปักฐานผลิต EV-กระบะไฟฟ้า",
-            "summary": "มิตซูบิชิ มอเตอร์ส ประกาศแผนลงทุน 1.6 หมื่นล้านบาทจนถึงปี 2573 เพื่อใช้ไทยเป็นฐานผลิตรถยนต์ไฟฟ้าและรถกระบะไฟฟ้า",
-            "why": "การลงทุนเพิ่มจากค่ายรถญี่ปุ่นซึ่งเป็นลูกค้าเป้าหมายหลัก ช่วยเพิ่มสายการผลิตและปริมาณการใช้วัสดุขัดเจียรในห่วงโซ่อุปทาน",
-            "action": "เร่งเข้าพบโรงงานผลิตชิ้นส่วนยานยนต์ญี่ปุ่น (Tier-1) ที่ส่งป้อนมิตซูบิชิเพื่อนำเสนอจานขัดและสายพานขัดเกรดอุตสาหกรรม"
-          }
-        },
-        {
-          "id": "20260803-2",
-          "tag": "auto",
-          "rating": "green",
-          "source": "springnews",
-          "date": "2026-08-02",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tOExFampnTDY0ZjcyeVdGekZJdXFqZllBSmRGTUVHaFNRTVRrU1FfSnN3dVNUaXd0d1BYRWtNcjhHRzhVS0FfRUt0aG1wUVIxYkxYUVBkLW9ZbVdQMEtyckRIS0lBVjRrQzRn?oc=5",
-          "title": "BYD EV Factory Positions Thailand as Regional EV Hub",
-          "summary": "BYD's EV manufacturing plant in Thailand is driving the country toward becoming a regional EV manufacturing powerhouse.",
-          "why": "Ramping up EV assembly increases consumption of fine sanding paper and polishing compounds for body surface preparation.",
-          "action": "Offer specialized automotive sanding sheets and polishing solutions to BYD sub-contractors and body paint shops.",
-          "th": {
-            "title": "โรงงานยานยนต์ไฟฟ้า BYD ดันประเทศไทยสู่ฮับ EV แห่งภูมิภาคอาเซียน",
-            "summary": "โรงงานผลิตรถยนต์ไฟฟ้า BYD ในไทยกำลังเดินหน้าผลิตเต็มกำลัง ผลักดันให้ไทยกลายเป็นศูนย์กลางผลิต EV ของอาเซียน",
-            "why": "การเร่งประกอบรถยนต์ EV เพิ่มปริมาณการใช้วัสดุขัดละเอียดและอุปกรณ์ขัดเงาสำหรับงานเตรียมผิวตัวถัง",
-            "action": "นำเสนอกระดาษทรายขัดน้ำละเอียดและหัวขัดเงาแก่ซัพพลายเออร์และอู่พ่นสีในเครือข่าย EV"
-          }
-        },
-        {
-          "id": "20260803-3",
-          "tag": "aero",
-          "rating": "green",
-          "source": "posttoday",
-          "date": "2026-07-27",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lak5sZXQtNktSd3dqWTVQcmdhN2JJdGVhSEUxUzk5RFI5TUs4T3kzMzBqVDdNUnp4N2k3M2FBalNXd0UwaS1XeUxkczM4Rzg4QnVBQXJR?oc=5",
-          "title": "EECO Mobilizes Funds for U-Tapao Aviation MRO Hub",
-          "summary": "The EEC Office is raising capital to develop the U-Tapao Aircraft Maintenance, Repair, and Overhaul (MRO) center as a regional aerospace hub.",
-          "why": "Growth in MRO activities drives high-margin demand for aerospace-grade non-woven abrasives and precision grinding tools.",
-          "action": "Accelerate product certification and partner with aerospace MRO operators in the Eastern Seaboard zone.",
-          "th": {
-            "title": "EECO ระดมทุน ดันอุตสาหกรรม MRO ปั้นอู่ตะเภาสู่ศูนย์กลางซ่อมอากาศยานภูมิภาค",
-            "summary": "สกพอ. เร่งระดมทุนพัฒนาศูนย์ซ่อมบำรุงอากาศยาน (MRO) อู่ตะเภา หวังยกระดับเป็นศูนย์กลางการบินระดับภูมิภาค",
-            "why": "การขยายตัวของอุตสาหกรรมซ่อมบำรุงอากาศยานเป็นโอกาสสร้างยอดขายวัสดุขัดเกรดการบินที่มีอัตรากำไรสูง",
-            "action": "เร่งเตรียมเอกสารรับรองมาตรฐานสินค้า (Aerospace grade) และเข้าพบผู้ประกอบการ MRO ในพื้นที่ EEC"
-          }
-        },
-        {
-          "id": "20260803-4",
-          "tag": "furniture",
-          "rating": "green",
-          "source": "เดลินิวส์",
-          "date": "2026-07-14",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9adEFrWDVzcmYtTHp3ajZROXkzYjBRdHh4bHRwVm51UG54VkIwZ0w0Zm5NS1VLQWZVZFVyTmM4UTF5QW9tUm53MDRHZUVHVG9CR0xF?oc=5",
-          "title": "TIWF 2026 Sets Stage to Elevate ASEAN Woodworking and Furniture Industry",
-          "summary": "The Thailand International Woodworking & Furniture Exhibition (TIWF 2026) highlights expanding regional demand and sustainable wood manufacturing.",
-          "why": "Woodworking and furniture factories require steady supplies of wide sanding belts and abrasive rolls for surface finishing.",
-          "action": "Prepare promotional campaigns for wood sanding belts and schedule factory visits with exhibitors prior to the event.",
-          "th": {
-            "title": "TIWF 2026 ปักหมุดงานใหญ่แห่งปี ยกระดับอุตสาหกรรมงานไม้และเฟอร์นิเจอร์สู่ภูมิภาคอาเซียน",
-            "summary": "การจัดงาน TIWF 2026 ตอกย้ำการเติบโตของอุตสาหกรรมไม้และเฟอร์นิเจอร์ในอาเซียนที่มุ่งเน้นนวัตกรรมและความยั่งยืน",
-            "why": "โรงงานผลิตเฟอร์นิเจอร์และงานไม้มีความต้องการใช้วัสดุขัด เช่น สายพานขัดกว้างและม้วนกระดาษทรายอย่างต่อเนื่อง",
-            "action": "จัดโปรโมชั่นสายพานขัดงานไม้ และติดต่อโรงงานเฟอร์นิเจอร์ที่จะมาร่วมงานเพื่อเสนอขายก่อนวันงานจริง"
-          }
-        },
-        {
-          "id": "20260803-5",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "bangkokbiznews",
-          "date": "2026-06-09",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1BZE5wSV9tN3JIMkxoeTBjenRHaWFGTThOMkNUWUgwUm4ybm02TTlNLWJ5U1RFdVFRQVBwSldqVWEyUHBIVXhfTnNiSHpzQXhoVDhUYjJoMVAyakhp?oc=5",
-          "title": "Thai Steel Manufacturers Urge Strict Standards Against Non-Compliant Factories",
-          "summary": "Local steel associations have petitioned the Ministry of Industry to enforce strict quality standards and crack down on sub-standard steel plants.",
-          "why": "Market disruption from cheap, low-grade steel affects local metal fabricators and steel processing plants.",
-          "action": "Monitor credit risk among small metal fabrication clients and emphasize cost-saving abrasive solutions.",
-          "th": {
-            "title": "‘ซิน เคอ หยวน’ ปมร้อนกรมโรงงาน ผู้ผลิตไทยร้องสกัดไร้มาตรฐาน",
-            "summary": "สมาคมผู้ผลิตเหล็กไทยร้องเรียนกระทรวงอุตสาหกรรมให้เข้มงวดตรวจสอบและปราบปรามโรงงานเหล็กที่ไม่ได้มาตรฐาน",
-            "why": "สภาวะแข่งขันไม่เป็นธรรมในตลาดเหล็กอาจกระทบต่อกำลังการผลิตและสภาพคล่องของโรงงานแปรรูปโลหะในประเทศ",
-            "action": "ประเมินความเสี่ยงด้านสินเชื่อของลูกค้ารายย่อยในกลุ่มโลหะ พร้อมเสนอสินค้าวัสดุขัดรุ่นที่ช่วยลดต้นทุนให้ลูกค้า"
-          }
-        }
-      ],
-      "terms": {}
     }
   ],
-  "updated": "2026-08-16"
+  "updated": "2026-08-17"
 };
