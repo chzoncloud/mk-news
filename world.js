@@ -4,64 +4,46 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-08-17",
-      "summary": "Today's briefing highlights shifts in abrasive cloth roll automation, China's superhard diamond belt manufacturing for high-end machining, and EV battery finishing driving specialized waterproof sheet demand.",
-      "directCount": 3,
+      "summary": "Today's briefing focuses on automotive OEM coatings and advanced coating additives, highlighting continuous surface treatment demand in vehicle manufacturing despite shifting powertrain trends.",
+      "directCount": 2,
       "th": {
-        "summary": "สรุปข้อมูลวันนี้เน้นการเติบโตของม้วนผ้าทรายอัตโนมัติ การผลิตสายพานขัดเพชรความแข็งสูงจากจีน และความต้องการกระดาษทรายน้ำสำหรับการผลิตแบตเตอรี่ EV"
+        "summary": "สรุปรายงานวันนี้เน้นไปที่ตลาดสารเคลือบยานยนต์ OEM และสารเติมแต่งสารเคลือบขั้นสูง ซึ่งสะท้อนความต้องการการเตรียมพื้นผิวในภาคการผลิตยานยนต์อย่างต่อเนื่อง ท่ามกลางกระแสการเปลี่ยนแปลงของระบบขับเคลื่อน"
       },
       "items": [
         {
           "id": "20260817-w1",
-          "tag": "abrasive",
+          "tag": "coating",
           "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-08-16",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUXZZSEZqNzVRV2VWbE81MzNPSVlmeWpoMFI2RUhWYktFbktXWnBuU0h5VFBTbl9haHhXX0xwU0VwMm5mRHFtNDFMZXFGR2hpRjVwZU1BUl90c0hJNnBMYm9GWnFxWUJzTGNQREI5Vl9pSE84dDB6RkkyTFNWNHN0WFRxSXFpdFBFX3VuR0YtY29BSHFjdlRsdEFXNzRnQ1REMWYzRzE0TzZ4Mi1ZX1p1cTlCMnZ0NWhaR0g0?oc=5",
-          "title": "Abrasive Cloth Rolls Market Growth Driven by Automation in Surface Finishing Through 2035",
-          "summary": "Global demand for abrasive cloth rolls is accelerating due to increased adoption of factory automation in metal surface finishing.",
-          "why": "Automation requires consistent, high-performance abrasive rolls. If industrial clients in Thailand upgrade to automated grinding lines, their purchasing preferences will shift toward roll stock with superior tensile strength and uniform grain distribution.",
-          "action": "Monitor inventory and explore partnerships with suppliers offering specialized abrasive cloth rolls suited for automated robotic finishing systems.",
+          "source": "Fortune Business Insights",
+          "date": "2026-07-27",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXJjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
+          "title": "Automotive OEM Coatings Market Size, Share | Growth [2034]",
+          "summary": "The global automotive OEM coatings market continues its steady expansion toward 2034, driven by high aesthetic and protective standards in vehicle manufacturing.",
+          "why": "Higher standards in automotive coatings require flawless surface preparation, meaning consistent demand for industrial sandpaper, sanding discs, and polishing abrasives.",
+          "action": "Maintain strong inventory of fine-grade automotive sanding and finishing products.",
           "th": {
-            "title": "ตลาดม้วนผ้าทรายเติบโตจากระบบอัตโนมัติในการขัดผิวชิ้นงานถึงปี 2035",
-            "summary": "ความต้องการม้วนผ้าทรายทั่วโลกกำลังเร่งตัวขึ้น เนื่องจากการนำระบบอัตโนมัติมาใช้ในโรงงานสำหรับการขัดผิวโลหะเพิ่มขึ้น",
-            "why": "ระบบอัตโนมัติ・หุ่นยนต์ต้องการม้วนผ้าทรายที่มีคุณภาพสม่ำเสมอ หากลูกค้าอุตสาหกรรมในไทยอัปเกรดไลน์ผลิตเป็นระบบอัตโนมัติ ความต้องการจะเปลี่ยนไปเน้นสินค้าที่มีความทนทานสูง",
-            "action": "ติดตามสต็อกสินค้าและศึกษาหาพันธมิตรผู้ผลิตม้วนผ้าทรายที่เหมาะสำหรับระบบขัดผิวอัตโนมัติ"
+            "title": "ขนาดและส่วนแบ่งตลาดสารเคลือบรถยนต์ OEM แนวโน้มการเติบโตถึงปี 2034",
+            "summary": "ตลาดสารเคลือบรถยนต์ OEM ทั่วโลกยังคงขยายตัวอย่างต่อเนื่องจนถึงปี 2034 ขับเคลื่อนด้วยมาตรฐานความสวยงามและการปกป้องที่สูงขึ้นในการผลิตยานยนต์",
+            "why": "มาตรฐานสารเคลือบยานยนต์ที่สูงขึ้นต้องอาศัยการเตรียมผิวที่ไร้ที่ติ ส่งผลให้มีความต้องการกระดาษทรายอุตสาหกรรม แผ่นขัด และวัสดุขัดเงาอย่างต่อเนื่อง",
+            "action": "รักษาระดับสินค้าคงคลังกลุ่มกระดาษทรายและผลิตภัณฑ์ขัดแต่งผิวรถยนต์เบอร์ละเอียดให้พร้อมเสมอ"
           }
         },
         {
           "id": "20260817-w2",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "einpresswire.com",
-          "date": "2026-07-17",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQ2tzbUVzemVBLUxLMTFXbThzUk1aZEV5cDBQeE1HWmNUbW1PNzZTUXo0bnFpcjA5Yk1XRUtMOEFyakZfaXdVUTlPM3pSVno5dk5kRXUzM000ZFo5WG1mcGV4U1NzV1hLWVlpY3p6LVZtcTN4X3hWd2tDRVJoemVydnNIZFdNTjZmYk9uTGJEd0hTdTlpY3RlaGtHemZ6VWNTOEZoWk92eU1rQU5UdjFMLVdjWmV1U0w0czdncEJnWmkzYmZlRFdOVWpXMFN5RkZTRDh4bUxBdTV1WmpFLVJ1dDRJTUdmdw?oc=5",
-          "title": "Five Reputable Diamond Sanding Belts Manufacturers in China 2026: Optimizing Superhard Abrasive Machining",
-          "summary": "The report highlights key Chinese manufacturers focusing on diamond sanding belts to optimize superhard abrasive machining processes.",
-          "why": "Superhard abrasives like diamond belts are taking over precision machining for hard alloys, ceramics, and advanced composites. As advanced manufacturing grows in Southeast Asia, high-end workshops may demand these specialized belts.",
-          "action": "Evaluate sourcing channels for diamond or superhard abrasive belts to test high-margin niche segments in the local market.",
-          "th": {
-            "title": "5 ผู้ผลิตสายพานขัดเพชรชั้นนำในจีนปี 2026: การเพิ่มประสิทธิภาพการขัดวัสดุความแข็งสูง",
-            "summary": "รายงานระบุถึงผู้ผลิตจีนสำคัญที่เน้นการผลิตสายพานขัดเพชรเพื่อเพิ่มประสิทธิภาพกระบวนการขัดวัสดุที่มีความแข็งเป็นพิเศษ",
-            "why": "วัสดุขัดความแข็งสูงเช่นสายพานเพชร กำลังเข้ามาแทนที่ในงานกลึงและขัดโลหะแข็งพิเศษ เซรามิก และวัสดุคอมโพสิต หากอุตสาหกรรมขั้นสูงในภูมิภาคเติบโต ความต้องการสินค้าเหล่านี้จะตามมา",
-            "action": "ประเมินช่องทางการจัดหา (Sourcing) สายพานขัดเพชร เพื่อเจาะตลาดกลุ่มเฉพาะที่มีอัตรากำไรสูงในประเทศ"
-          }
-        },
-        {
-          "id": "20260817-w3",
-          "tag": "auto",
+          "tag": "coating",
           "rating": "amber",
-          "source": "IndexBox",
-          "date": "2026-08-13",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOajhLYXZEcDFTbWdQSXl1ekYwYlRmOENGOHA3NWxvOFJJVGk0WDBfZV9vYnhmUzByZU9oWktINGpjd0hIY1dXZjZPQ2xNVzJrNXhBTTc5WENRZWVQc19JQkNGM3lVYnltZDJLdkx4VWJQbXdlN0J5RmJrNWpvOGIwSmoyUHVDZzB1bUJYZ0dDY2NDczR6clVGeUF1dnMyd1J3TU05SmxqbjFJVC0yck80bmg0WVVKWFI4aVo1amdWQzBEbldCVGlySkZR?oc=5",
-          "title": "Waterproof Abrasive Sheets Market 1.8 Billion Sheets by 2035 on EV Battery Finishing Demand",
-          "summary": "The waterproof abrasive sheet market is projected to reach 1.8 billion sheets by 2035, heavily driven by surface preparation needs in EV battery manufacturing.",
-          "why": "EV battery component manufacturing requires precise wet sanding and surface finishing. This represents a structural shift in automotive supply chains affecting demand for waterproof paper and sheets.",
-          "action": "Keep waterproof abrasive sheets well-stocked and target Tier-1 automotive component suppliers transitioning to EV parts production in Thailand.",
+          "source": "Market Research Future",
+          "date": "2026-04-17",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ba0tmUlRkYkJmVEY1cExVdklJN3JZdlRhdWI5eG92clVCSWhkcW9EWVRRaXFhQ1huc2pEZkxlaVJDR0dxR2xHVThCNHotU1pOaFFKVXVhLVZUTkZuY1pENzZ5ZHY5Tkg4Ujh3VWN3TExLeVJia2hCb1FuZmhUUWs?oc=5",
+          "title": "Coating Additives Market Size, Share & Industry Forecast 2035",
+          "summary": "The coating additives market is projected for solid long-term growth through 2035, boosting the performance and durability of industrial and protective coatings.",
+          "why": "Advanced coating formulations affect how substrates are primed and sanded, influencing surface roughness requirements before and after coating applications.",
+          "action": "Monitor how new coating formulations alter surface prep and sanding requirements in industrial applications.",
           "th": {
-            "title": "ตลาดกระดาษทรายน้ำแตะ 1,800 ล้านแผ่นในปี 2035 จากความต้องการขัดชิ้นส่วนแบตเตอรี่ EV",
-            "summary": "ตลาดกระดาษทรายน้ำคาดว่าจะเติบโตถึง 1,800 ล้านแผ่นภายในปี 2035 ขับเคลื่อนโดยความต้องการเตรียมพื้นผิวในการผลิตแบตเตอรี่รถยนต์ไฟฟ้า",
-            "why": "การผลิตชิ้นส่วนแบตเตอรี่ EV ต้องอาศัยกระบวนการขัดน้ำและความละเอียดสูง สะท้อนการเปลี่ยนแปลงของห่วงโซ่อุปทานยานยนต์ที่ส่งผลต่อยอดขายกระดาษทรายน้ำ",
-            "action": "เตรียมสต็อกกระดาษทรายน้ำให้พร้อม และเจาะกลุ่มโรงงานผลิตชิ้นส่วนยานยนต์ในไทยที่เปลี่ยนผ่านสู่สายการผลิต EV"
+            "title": "ขนาด ส่วนแบ่ง และคาดการณ์อุตสาหกรรมตลาดสารเติมแต่งสารเคลือบ ถึงปี 2035",
+            "summary": "ตลาดสารเติมแต่งสารเคลือบคาดว่าจะเติบโตอย่างแข็งแกร่งในระยะยาวถึงปี 2035 ช่วยยกระดับประสิทธิภาพและความทนทานของสารเคลือบอุตสาหกรรมและสารเคลือบป้องกัน",
+            "why": "สูตรสารเคลือบขั้นสูงส่งผลต่อวิธีการเตรียมพื้นผิวและการขัด ซึ่งมีอิทธิพลต่อข้อกำหนดความหยาบของพื้นผิวก่อนและหลังการเคลือบ",
+            "action": "ติดตามว่าสูตรสารเคลือบใหม่ๆ จะเปลี่ยนแปลงข้อกำหนดการเตรียมผิวและการขัดในงานอุตสาหกรรมอย่างไร"
           }
         }
       ]
