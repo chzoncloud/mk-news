@@ -4,46 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-08-17",
-      "summary": "Today's briefing focuses on automotive OEM coatings and advanced coating additives, highlighting continuous surface treatment demand in vehicle manufacturing despite shifting powertrain trends.",
-      "directCount": 2,
+      "summary": "Today's briefing focuses on automation driving growth in abrasive cloth rolls, superhard diamond sanding belts expanding in China, and regional steel protectionism creating shifts in metal processing demand.",
+      "directCount": 3,
       "th": {
-        "summary": "สรุปรายงานวันนี้เน้นไปที่ตลาดสารเคลือบยานยนต์ OEM และสารเติมแต่งสารเคลือบขั้นสูง ซึ่งสะท้อนความต้องการการเตรียมพื้นผิวในภาคการผลิตยานยนต์อย่างต่อเนื่อง ท่ามกลางกระแสการเปลี่ยนแปลงของระบบขับเคลื่อน"
+        "summary": "สรุปข่าววันนี้เน้นเรื่องระบบอัตโนมัติที่ผลักดันการเติบโตของผ้าทรายม้วน, เข็มขัดขัดเพชรความแข็งสูงที่ขยายตัวในจีน และมาตรการปกป้องทางการค้าเหล็กระดับภูมิภาคที่สร้างการเปลี่ยนแปลงในความต้องการแปรรูปโลหะ"
       },
       "items": [
         {
           "id": "20260817-w1",
-          "tag": "coating",
+          "tag": "abrasive",
           "rating": "green",
-          "source": "Fortune Business Insights",
-          "date": "2026-07-27",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXJjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
-          "title": "Automotive OEM Coatings Market Size, Share | Growth [2034]",
-          "summary": "The global automotive OEM coatings market continues its steady expansion toward 2034, driven by high aesthetic and protective standards in vehicle manufacturing.",
-          "why": "Higher standards in automotive coatings require flawless surface preparation, meaning consistent demand for industrial sandpaper, sanding discs, and polishing abrasives.",
-          "action": "Maintain strong inventory of fine-grade automotive sanding and finishing products.",
+          "source": "IndexBox",
+          "date": "2026-08-16",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUXZZSEZqNzVRV2VWbE81MzNPSVlmeWpoMFI2RUhWYktFbktWWnBuU0h5VFBTbl9haHhXX0xwU0VwMm5mRHFtNDFMZXFGR2hpRjVwZU1BUl90c0hJNnBMYm9GWnFxWUJzTGNQREI5Vl9pSE84dDB6RkkyTFNWNHN0WFRxSXFpdFBFX3VuR0YtY29BSHFjdlRsdEFXNzRnQ1REMWYzRzE0TzZ4Mi1ZX1p1cTlCMnZ0NWhaR0g0?oc=5",
+          "title": "Abrasive Cloth Rolls Market Growth Driven in Surface Finishing Through 2035",
+          "summary": "The global market for abrasive cloth rolls is expanding significantly, driven by the rapid adoption of automation in industrial surface finishing.",
+          "why": "Highlights how automated machinery is shaping the demand for continuous abrasive cloth products in modern factories.",
+          "action": "Ensure our inventory and supplier network can support automated and robotic sanding applications requiring cloth rolls.",
           "th": {
-            "title": "ขนาดและส่วนแบ่งตลาดสารเคลือบรถยนต์ OEM แนวโน้มการเติบโตถึงปี 2034",
-            "summary": "ตลาดสารเคลือบรถยนต์ OEM ทั่วโลกยังคงขยายตัวอย่างต่อเนื่องจนถึงปี 2034 ขับเคลื่อนด้วยมาตรฐานความสวยงามและการปกป้องที่สูงขึ้นในการผลิตยานยนต์",
-            "why": "มาตรฐานสารเคลือบยานยนต์ที่สูงขึ้นต้องอาศัยการเตรียมผิวที่ไร้ที่ติ ส่งผลให้มีความต้องการกระดาษทรายอุตสาหกรรม แผ่นขัด และวัสดุขัดเงาอย่างต่อเนื่อง",
-            "action": "รักษาระดับสินค้าคงคลังกลุ่มกระดาษทรายและผลิตภัณฑ์ขัดแต่งผิวรถยนต์เบอร์ละเอียดให้พร้อมเสมอ"
+            "title": "ตลาดผ้าทรายม้วนเติบโตจากระบบอัตโนมัติในการขัดแต่งผิวถึงปี 2035",
+            "summary": "ตลาดโลกสำหรับผ้าทรายม้วนกำลังขยายตัวอย่างมีนัยสำคัญ ขับเคลื่อนโดยการนำระบบอัตโนมัติมาใช้อย่างรวดเร็วในการขัดแต่งผิวอุตสาหกรรม",
+            "why": "เน้นย้ำถึงวิธีที่เครื่องจักรอัตโนมัติกำลังกำหนดความต้องการผลิตภัณฑ์ผ้าทรายแบบต่อเนื่องในโรงงานสมัยใหม่",
+            "action": "ตรวจสอบให้แน่ใจว่าสินค้าคงคลังและเครือข่ายผู้จัดจำหน่ายของเราสามารถรองรับงานขัดอัตโนมัติและหุ่นยนต์ที่ต้องใช้ผ้าทรายม้วนได้"
           }
         },
         {
           "id": "20260817-w2",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "Market Research Future",
-          "date": "2026-04-17",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ba0tmUlRkYkJmVEY1cExVdklJN3JZdlRhdWI5eG92clVCSWhkcW9EWVRRaXFhQ1huc2pEZkxlaVJDR0dxR2xHVThCNHotU1pOaFFKVXVhLVZUTkZuY1pENzZ5ZHY5Tkg4Ujh3VWN3TExLeVJia2hCb1FuZmhUUWs?oc=5",
-          "title": "Coating Additives Market Size, Share & Industry Forecast 2035",
-          "summary": "The coating additives market is projected for solid long-term growth through 2035, boosting the performance and durability of industrial and protective coatings.",
-          "why": "Advanced coating formulations affect how substrates are primed and sanded, influencing surface roughness requirements before and after coating applications.",
-          "action": "Monitor how new coating formulations alter surface prep and sanding requirements in industrial applications.",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "EIN Presswire",
+          "date": "2026-07-17",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQ2tzbUVzemVBLUxLMTFXbThzUk1aZEV5cDBQeE1HWmNUbW1PNzZTUXo0bnFpcjA5Yk1XRUtMOEFyakZfaXdVUTlPM3pSVno5dk5kRXUzM000ZFo5WG1mcGV4U1NzV1hLWVlpY3p6LVZtcTN4X3hWd2tDRVJoemVydnNIZFdNTjZmYk9uTGJEd0hTdTlpY3RlaGtHemZ6VWNTOEZoWk92eU1rQU5UdjFMLVdjWmV1U0w0czdncEJnWmkzYmZlRFdOVWpXMFN5RkZTRDh4bUxBdTV1WmpFLVJ1dDRJTUdmdw?oc=5",
+          "title": "Five Reputable Diamond Sanding Belts Manufacturers in China 2026: Optimizing Superhard Abrasive Machining",
+          "summary": "Chinese manufacturers are optimizing production of superhard diamond sanding belts, targeting high-performance machining sectors.",
+          "why": "Superhard abrasives like diamond belts represent the cutting edge for grinding hard metals, advanced ceramics, and specialized alloys.",
+          "action": "Monitor sourcing trends and quality standards of superhard diamond abrasive belts originating from Asian manufacturing hubs.",
           "th": {
-            "title": "ขนาด ส่วนแบ่ง และคาดการณ์อุตสาหกรรมตลาดสารเติมแต่งสารเคลือบ ถึงปี 2035",
-            "summary": "ตลาดสารเติมแต่งสารเคลือบคาดว่าจะเติบโตอย่างแข็งแกร่งในระยะยาวถึงปี 2035 ช่วยยกระดับประสิทธิภาพและความทนทานของสารเคลือบอุตสาหกรรมและสารเคลือบป้องกัน",
-            "why": "สูตรสารเคลือบขั้นสูงส่งผลต่อวิธีการเตรียมพื้นผิวและการขัด ซึ่งมีอิทธิพลต่อข้อกำหนดความหยาบของพื้นผิวก่อนและหลังการเคลือบ",
-            "action": "ติดตามว่าสูตรสารเคลือบใหม่ๆ จะเปลี่ยนแปลงข้อกำหนดการเตรียมผิวและการขัดในงานอุตสาหกรรมอย่างไร"
+            "title": "5 ผู้ผลิตสายพานขัดเพชรที่มีชื่อเสียงในจีนปี 2026: การเพิ่มประสิทธิภาพการตัดเฉือนด้วยวัสดุขัดความแข็งสูงพิเศษ",
+            "summary": "ผู้ผลิตจีนกำลังเพิ่มประสิทธิภาพการผลิตสายพานขัดเพชรความแข็งสูง โดยเจาะกลุ่มภาคการตัดเฉือนประสิทธิภาพสูง",
+            "why": "วัสดุขัดความแข็งสูงพิเศษ เช่น สายพานเพชร ถือเป็นเทคโนโลยีล้ำสมัยสำหรับการเจียรโลหะแข็ง เซรามิกขั้นสูง และโลหะผสมพิเศษ",
+            "action": "ติดตามแนวโน้มการจัดซื้อและมาตรฐานคุณภาพของสายพานขัดเพชรความแข็งสูงที่มาจากแหล่งผลิตในเอเชีย"
+          }
+        },
+        {
+          "id": "20260817-w3",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "The Guardian",
+          "date": "2025-10-08",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdjhOdzFOdlRNQ3JIYVNXcTZkNEpHTURMRmFJbk9jbEl0MGNLNUJaTDN0ZTVqLURxVWs4alVZbllfQzVXSHNZOE9UN0pSWTNjMWt4ZXFfTGp4LWIxT3NILXNYUTBId3ZHalF2QVZkX0JOQmpVd1F1ODJtTTB4SXJySkIwVFpuTlJqR3M3Z1l3c1BmM25IRERwWmFhZmY2MU1ZajI2N2hibG1PcWREaHBDVQ?oc=5",
+          "title": "'Existential threat': what do EU’s 50% steel tariffs mean for UK industry?",
+          "summary": "New trade barriers and steep tariffs in Western markets are forcing steel and metal processors to adjust supply chains and regional production costs.",
+          "why": "Tariffs and trade shifts directly impact metal fabrication volume, operational margins, and local finishing material consumption.",
+          "action": "Stay flexible with metal-industry clients who may shift production locations or face margin pressures due to tariff changes.",
+          "th": {
+            "title": "ภัยคุกคามที่มีอยู่จริง: ภาษีนำเข้าเหล็ก 50% ของ EU หมายถึงอะไรสำหรับอุตสาหกรรมสหราชอาณาจักร?",
+            "summary": "อุปสรรคทางการค้าและกำแพงภาษีที่สูงในตลาดตะวันตกกำลังบีบให้ผู้แปรรูปเหล็กและโลหะต้องปรับห่วงโซ่อุปทานและต้นทุนการผลิตระดับภูมิภาค",
+            "why": "อัตราภาษีและการเปลี่ยนแปลงทางการค้าส่งผลกระทบโดยตรงต่อปริมาณการผลิตโลหะ อัตรากำไรจากการดำเนินงาน และการใช้วัสดุขัดแต่งในท้องถิ่น",
+            "action": "รักษาความยืดหยุ่นกับลูกค้ากลุ่มอุตสาหกรรมโลหะที่อาจย้ายฐานการผลิตหรือเผชิญแรงกดดันด้านกำไรจากปัญหาภาษี"
           }
         }
       ]
