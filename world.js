@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-08-17",
+  "updated": "2026-08-18",
   "days": [
+    {
+      "date": "2026-08-18",
+      "summary": "Today's intelligence highlights emerging opportunities in ceramic flap discs and EV battery-driven abrasive sheet demand, alongside ongoing global steel surplus and protectionism challenges.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปข้อมูลเชิงลึกประจำวันนี้เน้นย้ำถึงโอกาสใหม่ๆ ในตลาดจานทรายซ้อนเซรามิกและความต้องการกระดาษทรายกันน้ำสำหรับแบตเตอรี่ EV ควบคู่ไปกับความท้าทายเรื่องภาวะล้นตลาดและมาตรการกีดกันทางการค้าเหล็กทั่วโลก"
+      },
+      "items": [
+        {
+          "id": "20260818-w1",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "Market Research Future",
+          "date": "2026-04-06",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY0JpWXlQSC1LeGU2eUdGRW1zTEZ4amNoRXAyUWcxcnpWbEdzWmprSTBFM1htcllTNmQtdlRENmZ2NlhXbV9oNTlJbnJ0UjV5cENzZC1yTUdwM21YRi0wZUxBd1l6ODNDM1NxSUdQcFMwMGpCRnJuY041elNoT1RSRA?oc=5",
+          "title": "Ceramic Flap Disc Market Size, Share & Growth Report 2035",
+          "summary": "The ceramic flap disc market is expanding steadily through 2035, driven by high-performance metal fabrication and heavy-duty grinding requirements.",
+          "why": "Ceramic grain abrasives represent high-value, premium segments with better margins for industrial distributors.",
+          "action": "Ensure our MKSANDING catalog highlights premium ceramic flap discs for heavy metal fabrication clients.",
+          "th": {
+            "title": "รายงานขนาด ส่วนแบ่ง และการเติบโตของตลาดจานทรายซ้อนเซรามิก ถึงปี 2035",
+            "summary": "ตลาดจานทรายซ้อนเซรามิกกำลังขยายตัวอย่างต่อเนื่องจนถึงปี 2035 ขับเคลื่อนโดยงานขึ้นรูปโลหะประสิทธิภาพสูงและความต้องการงานขัดหรืองานหนัก",
+            "why": "วัสดุขัดเม็ดทรายเซรามิกถือเป็นกลุ่มผลิตภัณฑ์มูลค่าสูงและมีอัตรากำไรที่ดีกว่าสำหรับผู้จัดจำหน่ายอุตสาหกรรม",
+            "action": "ตรวจสอบให้แน่ใจว่าแคตตาล็อกของ MKSANDING มีการนำเสนอจานทรายซ้อนเซรามิกเกรดพรีเมียมสำหรับลูกค้างานโลหะหนัก"
+          }
+        },
+        {
+          "id": "20260818-w2",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "S&P Global",
+          "date": "2026-01-12",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
+          "title": "Global steel industry battles surplus supply, protectionism",
+          "summary": "The global steel sector continues to face overcapacity issues and rising trade protectionism, impacting regional manufacturing costs and material flows.",
+          "why": "Fluctuations in steel production directly impact local metal fabrication activity and the baseline demand for grinding and deburring consumables.",
+          "action": "Monitor steel import trends in Thailand as a leading indicator for local metalworking workshop activity.",
+          "th": {
+            "title": "อุตสาหกรรมเหล็กโลกต่อสู้กับภาวะอุปทานส่วนเกินและลัทธิคุ้มครองทางการค้า",
+            "summary": "ภาคอุตสาหกรรมเหล็กทั่วโลกยังคงเผชิญกับปัญหา 0กำลังการผลิตส่วนเกินและมาตรการกีดกันทางการค้าที่เพิ่มขึ้น ซึ่งส่งผลกระทบต่อต้นทุนการผลิตระดับภูมิภาคและการไหลเวียนของวัสดุ",
+            "why": "ความผันผวนของการผลิตเหล็กส่งผลโดยตรงต่อกิจกรรมการขึ้นรูปโลหะในท้องถิ่นและความต้องการขั้นพื้นฐานสำหรับวัสดุสิ้นเปลืองประเภทการเจียรและลบคม",
+            "action": "ติดตามแนวโน้มการนำเข้าเหล็กในประเทศไทย เพื่อใช้เป็นดัชนีชี้วัดกิจกรรมของร้านค้าและโรงงานแปรรูปโลหะในท้องถิ่น"
+          }
+        },
+        {
+          "id": "20260818-w3",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Market Research Future",
+          "date": "2026-08-07",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mZllSOV9OY2h5RnNMTk54ZmNTQVdqcVJsR2FzMHZBUHVQZHdzVkRXUlZlU1pRVU9BU1ZzZExoT19uRmRFQllDblVySEstdXptY1U0R3pDUWRqN2pkVmg5dTF2QzJud1pMS1BwTDdxVGFXcHB2WWsxZA?oc=5",
+          "title": "Automotive Industry 2026, Size, Company, Growth, Trends 2035 Market Size, Share & Growth Report 2035",
+          "summary": "Global automotive markets are navigating changing supply chains, EV transition pressures, and smart manufacturing adoption through 2035.",
+          "why": "Automotive manufacturing is a major consuming sector for coated abrasives, sanding belts, and surface finishing tools.",
+          "action": "Keep track of shifting automotive component manufacturing methods to anticipate specialized finishing requirements.",
+          "th": {
+            "title": "รายงานขนาด ส่วนแบ่ง และการเติบโตของอุตสาหกรรมยานยนต์ ปี 2026 ถึง 2035",
+            "summary": "ตลาดรถยนต์ทั่วโลกกำลังปรับตัวผ่านห่วงโซ่อุปทานที่เปลี่ยนแปลง แรงกดดันจากการเปลี่ยนผ่านสู่รถยนต์ EV และการนำการผลิตอัจฉริยะมาใช้จนถึงปี 2035",
+            "why": "การผลิตยานยนต์เป็นภาคส่วนผู้บริโภครายใหญ่สำหรับกระดาษทรายขัด สายพานทราย และเครื่องมือตกแต่งพื้นผิว",
+            "action": "ติดตามวิธีการผลิตชิ้นส่วนยานยนต์ที่เปลี่ยนแปลงไป เพื่อคาดการณ์ความต้องการผลิตภัณฑ์งานขัดเฉพาะทาง"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-08-17",
       "summary": "Today's briefing focuses on automation driving growth in abrasive cloth rolls, superhard diamond sanding belts expanding in China, and regional steel protectionism creating shifts in metal processing demand.",
