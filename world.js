@@ -4,82 +4,82 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-08-18",
-      "summary": "Today's global briefing focuses on advanced coating technologies, EV battery production scaling up, and automotive supply chain dynamics. These developments signal shifting demands for specialized surface preparation and precision finishing materials.",
-      "directCount": 3,
+      "summary": "Today's briefing highlights shifts in architectural coatings, glass surface finishes, automotive logistics expansion, and global metal/steel supply chain pressures that impact heavy industrial surface preparation demand.",
+      "directCount": 1,
       "th": {
-        "summary": "สรุปทิศทางโลกประจำวันนี้เน้นไปที่เทคโนโลยีสารเคลือบขั้นสูง การขยายตัวของการผลิตแบตเตอรี่ EV และพลวัตห่วงโซ่อุปทานยานยนต์ ซึ่งส่งสัญญาณความต้องการที่เปลี่ยนไปสำหรับวัสดุเตรียมพื้นผิวและการขัดแต่งความละเอียดสูง"
+        "summary": "สรุปสถานการณ์โลกประจำวันนี้เน้นไปที่การเติบโตของตลาดสารเคลือบสถาปัตยกรรม การเคลือบกระจก การขยายตัวของโลจิสติกส์ยานยนต์ และแรงกดดันในห่วงโซ่อุปทานเหล็กโลก ซึ่งส่งผลต่อความต้องการเตรียมพื้นผิวในภาคอุตสาหกรรม"
       },
       "items": [
         {
           "id": "20260818-w1",
-          "tag": "auto",
-          "rating": "green",
-          "source": "precedenceresearch.com",
-          "date": "2026-07-21",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOU01tbEkxd3pyNFhxa1NWeFM2QlRlMUFjeWVJRmFMTTF0R3VweWotbFY4WGVtMUhEcFotMlNjZWxRNHFQOUQwcVB2ZzQ2TU11WFBUcWctazlBSjV1aVBlUENkZk9XLWZKd1FUMl93?oc=5",
-          "title": "Paints and Coatings Market Size to Hit USD 293.54 Bn by 2035",
-          "summary": "The global paints and coatings market is projected to reach significant growth by 2035, driven by industrial and automotive demand.",
-          "why": "Higher paint and coating volumes mean increased surface preparation, sanding, and polishing requirements across manufacturing sectors.",
-          "action": "Monitor coating trends to align our abrasive grit offerings with modern industrial surface finishing needs.",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "Fortune Business Insights",
+          "date": "2026-07-13",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdGlLanRSako2bGdzMUM3NGswUTFoT1BRa0ZrWjl6VDFrdDhxSUpMOVRXeFY1REtlRmwyaUhQb1pZSzdfOVNFa2NwbmRqM2Y5aElwRnBuV3hhVkpBVWt3cE8zRC02b1kzaUY3bHVucmdOYzNoQlc5aG9QVllpQ3lsQWJ3?oc=5",
+          "title": "Architectural Coatings Market Size, Trends & Latest Report [2034]",
+          "summary": "The architectural coatings market continues its steady expansion toward 2034, driven by increasing construction and urbanization demands globally.",
+          "why": "Growth in architectural coatings translates to higher demand for preparatory surface sanding, wall smoothing, and finishing tools in the construction sector.",
+          "action": "Monitor building and construction contractor trends for potential demand in manual and power sanding accessories.",
           "th": {
-            "title": "ตลาดสีและสารเคลือบมีมูลค่าพุ่งแตะ 2.9354 แสนล้านดอลลาร์สหรัฐภายในปี 2035",
-            "summary": "ตลาดสีและสารเคลือบระดับโลกคาดว่าจะเติบโตอย่างมีนัยสำคัญภายในปี 2035 ขับเคลื่อนโดยความต้องการจากภาคอุตสาหกรรมและยานยนต์",
-            "why": "ปริมาณสีและสารเคลือบที่เพิ่มขึ้นหมายถึงความต้องการในการเตรียมพื้นผิว การขัด และการขัดเงาที่สูงขึ้นในภาคการผลิต",
-            "action": "ติดตามแนวโน้มสารเคลือบเพื่อปรับกลุ่มผลิตภัณฑ์กระดาษทรายและวัสดุขัดให้สอดคล้องกับความต้องการขัดผิวอุตสาหกรรมสมัยใหม่"
+            "title": "ขนาด แนวโน้ม และรายงานล่าสุดของตลาดสารเคลือบสถาปัตยกรรม [2034]",
+            "summary": "ตลาดสารเคลือบสถาปัตยกรรมยังคงขยายตัวอย่างต่อเนื่องจนถึงปี 2034 ขับเคลื่อนโดยความต้องการด้านการก่อสร้างและการเติบโตของเมืองทั่วโลก",
+            "why": "การเติบโตของสีและสารเคลือบอาคารส่งผลให้มีความต้องการใช้งานอุปกรณ์เตรียมพื้นผิว ขัดเรียบผนัง และอุปกรณ์ตกแต่งในภาคการก่อสร้างเพิ่มขึ้น",
+            "action": "ติดตามแนวโน้มของผู้รับเหมาก่อสร้างเพื่อจับตาความต้องการอุปกรณ์ขัดและกระดาษทรายที่เกี่ยวข้อง"
           }
         },
         {
           "id": "20260818-w2",
           "tag": "coating",
           "rating": "amber",
-          "source": "aws.amazon.com",
-          "date": "2025-10-22",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UMG9rVURtamVSUnVYZzhtYjBPZUVWNDdCb0J1V3lEd09EV1JsS3dsU0ZwNkRxbmc4MVlwcXRPZW5aQklBRGxEWWxVRmVzUUJEZUNfOXZfT0d3cnVPaW5ydjZ3bjBlS1NyRGhWSw?oc=5",
-          "title": "AI in Paints and Coatings Market: Trends, Growth, and Opportunities",
-          "summary": "Artificial intelligence is increasingly integrated into the formulation and application processes of paints and coatings.",
-          "why": "Smart coating manufacturing leads to more uniform finishes and specialized surface specifications, affecting how components are prepped.",
-          "action": "Keep an eye on automated coating standards that may require higher precision in pre-painting abrasive processes.",
+          "source": "Market Research Future",
+          "date": "2026-04-30",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9weTg1MVk4bzRDaF8tQUdGUlVHTWp5WkgtcTRuOUNaSG90YWRyMVR6bzUwUzRiRV9SZjgwa2ZXNUs2OWkyejhMR0QtZDRRSnpLR21XSDhmU1NfR19mOUdHLUNCMklEQm9PX2d4clZHUnRBdE5kYUU1ZlBR?oc=5",
+          "title": "Glass Coating Market Size, Share & Growth Report 2035 | MRFR",
+          "summary": "The glass coating market is projected for strong growth through 2035, driven by architectural, automotive, and electronic display applications.",
+          "why": "Advanced glass coatings require extremely precise surface preparation, cleaning, and edge finishing where micro-abrasives and fine polishing tools are vital.",
+          "action": "Keep an eye on specialized high-precision polishing media used for glass and optical surface finishing.",
           "th": {
-            "title": "ปัญญาประดิษฐ์ในตลาดสีและสารเคลือบ: แนวโน้ม การเติบโต และโอกาส",
-            "summary": "ปัญญาประดิษฐ์ถูกบูรณาการเข้ากับกระบวนการผสมสูตรและการใช้งานสีและสารเคลือบมากขึ้นเรื่อยๆ",
-            "why": "การผลิตสารเคลือบอัจฉริยะช่วยให้พื้นผิวมีความสม่ำเสมอและมีข้อกำหนดเฉพาะตัวสูง ซึ่งส่งผลต่อวิธีการเตรียมชิ้นงานก่อนเคลือบ",
-            "action": "จับตามองมาตรฐานสารเคลือบอัตโนมัติที่อาจต้องใช้กระบวนการขัดเตรียมผิวที่มีความแม่นยำสูงขึ้น"
+            "title": "รายงานขนาด ส่วนแบ่ง และการเติบโตของตลาดสารเคลือบกระจก ปี 2035",
+            "summary": "ตลาดสารเคลือบกระจกมีแนวโน้มเติบโตอย่างแข็งแกร่งจนถึงปี 2035 จากการใช้งานในสถาปัตยกรรม ยานยนต์ และจอแสดงผลอิเล็กทรอนิกส์",
+            "why": "การเคลือบกระจกขั้นสูงต้องอาศัยการเตรียมพื้นผิว การทำความสะอาด และการขัดแต่งขอบที่แม่นยำสูง ซึ่งต้องใช้วัสดุขัดละเอียดและอุปกรณ์ขัดเงา",
+            "action": "ติดตามตลาดวัสดุขัดเงาความละเอียดสูงที่ใช้สำหรับงานกระจกและพื้นผิวออปติคอล"
           }
         },
         {
           "id": "20260818-w3",
           "tag": "auto",
-          "rating": "green",
-          "source": "Fortune Business Insights",
-          "date": "2026-07-27",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
-          "title": "Automotive OEM Coatings Market Size, Share | Growth [2034]",
-          "summary": "The automotive OEM coatings sector is evolving rapidly with new environmental standards and lightweight material adoption.",
-          "why": "Automotive manufacturing shifts directly impact the demand for precision body sanding, metal deburring, and surface finishing products.",
-          "action": "Evaluate our product lineup for automotive OEM suppliers focusing on lightweight metal and specialized body coatings.",
+          "rating": "amber",
+          "source": "precedenceresearch.com",
+          "date": "2026-07-16",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1KaUg2VENsLXNiLURlZnFJd2x6SHQwWTVFeFRYLV95WFVTeUpYeWFZcFh0UUxBT2tIVTl3YmFha0JOeDRQa0MwNE9qS280cnFoeUFRRU9xSGI2NlRJWmNhUHBUQTVmb0c0bmJaRjZ6WQ?oc=5",
+          "title": "Automotive Logistics Market Size to Reach USD 813.84 Bn by 2035",
+          "summary": "The global automotive logistics market is expanding significantly, reflecting robust vehicle manufacturing output and supply chain adaptations.",
+          "why": "Higher vehicle production and movement indicate sustained factory activity, ensuring steady baseline demand for automotive body shop abrasives and metal deburring consumables.",
+          "action": "Maintain strong inventory levels for core automotive body repair and metal fabrication abrasives.",
           "th": {
-            "title": "ขนาด ส่วนแบ่ง และการเติบโตของตลาดสารเคลือบ OEM ยานยนต์ [2034]",
-            "summary": "กลุ่มสารเคลือบ OEM ยานยนต์กำลังพัฒนาอย่างรวดเร็วด้วยมาตรฐานสิ่งแวดล้อมใหม่และการใช้วัสดุน้ำหนักเบา",
-            "why": "การเปลี่ยนแปลงของการผลิตยานยนต์ส่งผลโดยตรงต่อความต้องการผลิตภัณฑ์ขัดผิวตัวถัง ขัดลบคมโลหะ และงานตกแต่งพื้นผิว",
-            "action": "ประเมินกลุ่มผลิตภัณฑ์ของเราสำหรับซัพพลายเออร์ OEM ยานยนต์ที่เน้นโลหะน้ำหนักเบาและสารเคลือบตัวถังเฉพาะทาง"
+            "title": "ตลาดโลจิสติกส์ยานยนต์คาดว่าจะพุ่งถึง 8.1384 แสนล้านดอลลาร์ภายในปี 2035",
+            "summary": "ตลาดโลจิสติกส์ยานยนต์ทั่วโลกกำลังขยายตัวอย่างมีนัยสำคัญ สะท้อนถึงปริมาณการผลิตรถยนต์ที่แข็งแกร่งและการปรับตัวของห่วงโซ่อุปทาน",
+            "why": "การผลิตและการขนส่งรถยนต์ที่เพิ่มขึ้นบ่งชี้ถึงกิจกรรมในโรงงานที่ต่อเนื่อง ส่งผลให้มีความต้องการใช้วัสดุขัดและอุปกรณ์ลบคมโลหะในอุตสาหกรรมยานยนต์อย่างสม่ำเสมอ",
+            "action": "รักษาระดับสต็อกสินค้ากลุ่มกระดาษทรายและวัสดุขัดสำหรับงานซ่อมตัวถังและอุตสาหกรรมยานยนต์ให้เพียงพอ"
           }
         },
         {
           "id": "20260818-w4",
-          "tag": "coating",
+          "tag": "steel",
           "rating": "amber",
-          "source": "marketresearchfuture.com",
-          "date": "2026-04-17",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ba0tmUlRkYkJmVEY1cExVdklJN3JZdlRhdWI5eG92clVCSWhkcW9EWVRRaXFhQ1huc2pEZkxlaVJDR0dxR2xHVThCNHotU1pOaFFKVXVhLVZUTkZuY1pENzZ5ZHY5Tkg4Ujh3VWN3TExLeVJia2hCb1FuZmhUUWs?oc=5",
-          "title": "Coating Additives Market Size, Share & Industry Forecast 2035",
-          "summary": "The coating additives market is expanding due to demands for enhanced scratch resistance, durability, and special textures.",
-          "why": "Harder, more durable coatings require advanced industrial abrasives capable of cutting through tougher treated surfaces.",
-          "action": "Ensure our abrasive grit types (like ceramic and diamond) are positioned for high-durability treated surfaces.",
+          "source": "Recycling International",
+          "date": "2026-05-06",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUGx0eVkxRzJXY2ZfWGV0VWstUVozcnFnRjRpQnEydThVWTdhdno0NEhVNVFLYzRIal85T0h4b0hqNjNBclVpY1lteGZDWFZSdGhhcG9LVlhYN3ZucHRDOWFvOXFkTjhYYjVibTNsM3Y5ZVFjeFhoQW13anV4RE56emVzQUFESDlWRnB4LVpuSFNEb1FoOXRvNU9KY1pfYmxEYlA3RUhqQzY0RDMzSHF1dHE5U0w?oc=5",
+          "title": "Conflicts’ ‘serious’ impact on global steel industry",
+          "summary": "Geopolitical conflicts continue to create supply chain disruptions and cost volatility within the global steel manufacturing sector.",
+          "why": "Steel production adjustments directly influence metal fabrication plants, heavy machinery builders, and structural steel processors—all primary B2B buyers of grinding wheels and abrasive belts.",
+          "action": "Stay flexible with metal-grinding product pricing and monitor local steel fabrication sentiment.",
           "th": {
-            "title": "ขนาด ส่วนแบ่ง และการคาดการณ์อุตสาหกรรมสารเติมแต่งสารเคลือบปี 2035",
-            "summary": "ตลาดสารเติมแต่งสารเคลือบกำลังขยายตัวเนื่องจากความต้องการความต้านทานรอยขีดข่วน ความทนทาน และพื้นผิวพิเศษที่ดีขึ้น",
-            "why": "สารเคลือบที่แข็งและทนทานขึ้นจำเป็นต้องใช้วัสดุขัดอุตสาหกรรมขั้นสูงที่มีความสามารถในการตัดผ่านพื้นผิวที่ผ่านการบำบัดอย่างแข็งแกร่ง",
-            "action": "ตรวจสอบให้แน่ใจว่าประเภทเม็ดทรายขัดของเรา (เช่น เซรามิกและเพชร) เหมาะสมสำหรับพื้นผิวที่ผ่านการเคลือบความทนทานสูง"
+            "title": "ผลกระทบอย่างรุนแรงของความขัดแย้งต่ออุตสาหกรรมเหล็กโลก",
+            "summary": "ความขัดแย้งทางภูมิรัฐศาสตร์ยังคงสร้างความปั่นป่วนในห่วงโซ่อุปทานและความผันผวนด้านต้นทุนในภาคการผลิตเหล็กทั่วโลก",
+            "why": "การปรับเปลี่ยนการผลิตเหล็กส่งผลโดยตรงต่อโรงงานแปรรูปโลหะ ผู้สร้างเครื่องจักรหนัก และผู้แปรรูปเหล็กโครงสร้าง ซึ่งเป็นลูกค้ากลุ่ม B2B หลักของล้อเจียรและสายพานขัด",
+            "action": "ยืดหยุ่นเรื่องราคาสินค้ากลุ่มงานเจียรโลหะและคอยติดตามความรู้สึกของตลาดแปรรูปเหล็กในท้องถิ่น"
           }
         }
       ]
