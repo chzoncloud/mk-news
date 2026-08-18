@@ -1,7 +1,107 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-08-18",
+  "updated": "2026-08-19",
   "days": [
+    {
+      "date": "2026-08-19",
+      "summary": "Today's global trend briefing highlights new market projections for coatings, EV-driven demand for specialised surface prep, and structural shifts in the global steel sector.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปแนวโน้มโลกประจำวันนี้เน้นย้ำการคาดการณ์ตลาดเคลือบผิว ความต้องการเตรียมพื้นผิวที่ขับเคลื่อนด้วย EV และการเปลี่ยนแปลงเชิงโครงสร้างในอุตสาหกรรมเหล็กโลก"
+      },
+      "items": [
+        {
+          "id": "20260819-w1",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "marketresearchfuture.com",
+          "date": "2026-04-06",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY0JpWXlQSC1LeGU2eUdGRW1zTEZ4amNoRXAyUWcxcnpWbEdzWmprSTBFM1htcllTNmQtdlRENmZ2NlhXbV9oNTlJbnJ0UjV5cENzZC1yTUdwM21YRi0wZUxBd1l6ODNDM1NxSUdQcFMwMGpCRnJuY041elNoT1RSRA?oc=5",
+          "title": "Ceramic Flap Disc Market Size, Share & Growth Report 2035 | MRFR",
+          "summary": "The ceramic flap disc market is expanding steadily through 2035, driven by high demand for efficient metal removal and heavy-duty surface finishing.",
+          "why": "Ceramic grain abrasives are a key high-margin product line for metal fabrication and heavy industry; tracking this growth helps us align our stock and product positioning.",
+          "action": "Review our current inventory and supplier pricing for ceramic flap discs to capture higher-end metal fabrication demand.",
+          "th": {
+            "title": "รายงานขนาด ส่วนแบ่ง และการเติบโตของตลาดแผ่นเจียรผ้าทรายเซรามิก (Ceramic Flap Disc) ถึงปี 2035",
+            "summary": "ตลาดแผ่นเจียรผ้าทรายเซรามิกขยายตัวอย่างต่อเนื่องจนถึงปี 2035 ขับเคลื่อนโดยความต้องการสูงในการขจัดเนื้อโลหะที่มีประสิทธิภาพและการตกแต่งพื้นผิวงานหนัก",
+            "why": "กระดาษทรายเม็ดเซรามิกเป็นกลุ่มผลิตภัณฑ์ที่มีอัตรากำไรสูงสำหรับงานขึ้นรูปโลหะและอุตสาหกรรมหนัก การติดตามการเติบโตนี้ช่วยให้เราจัดสินค้าคงคลังและวางตำแหน่งผลิตภัณฑ์ได้ดีขึ้น",
+            "action": "ทบทวนสินค้าคงคลังและราคาจากซัพพลายเออร์สำหรับแผ่นเจียรผ้าทรายเซรามิก เพื่อรองรับความต้องการงานโลหะระดับบน"
+          }
+        },
+        {
+          "id": "20260819-w2",
+          "tag": "steel",
+          "rating": "green",
+          "source": "Shanghai Metals Market",
+          "date": "2026-05-19",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMmw1akRRMFZCQ2I5NGhHdE1NOXhoaE1GY0h5UmxlQVNUVGxHTko2U0NBQ0o0Q19ZYmZ1VnBCTTB6a2JJQTFNOUpDSUtpWXdaR3hkeGhlOXF4dF9yUElCd1ZkWTl4MmZGOWhVeUlXc2VCMXFCOHQzZ0ZGZ1RtZ3p6aUNObEczWFhKMkdKQ3JuRWF5SjVNZmpOQVBaSGs4TWJKS1lVa0VTdmoxdDBQTF8zRDlxME1qeEtOUzJzSTBERURobWltWTlVUlpaZ3d2WlFRNEY1b0UwbVVfLXc0cXBZ?oc=5",
+          "title": "[SMM Global Steel Company Special] Nucor: 100% EAF, High Profits, and Vertical Integration Mitigating Costs",
+          "summary": "Nucor's 100% Electric Arc Furnace (EAF) model and vertical integration demonstrate strong profitability and cost resilience in the evolving steel landscape.",
+          "why": "EAF steel production and structural metal processing directly influence local demand for heavy-duty grinding, deburring, and cutting abrasives.",
+          "action": "Monitor EAF steel mill expansions and steel structural fabricators as key target segments for industrial abrasive consumption.",
+          "th": {
+            "title": "[SMM Global Steel Company Special] Nucor: เตาอาร์คไฟฟ้า 100%, กำไรสูง และการบูรณาการในแนวดิ่งเพื่อลดต้นทุน",
+            "summary": "โมเดลเตาอาร์คไฟฟ้า (EAF) 100% และการบูรณาการในแนวดิ่งของ Nucor แสดงให้เห็นถึงความสามารถในการทำกำไรและความยืดหยุ่นด้านต้นทุนที่แข็งแกร่งในภูมิทัศน์เหล็กที่เปลี่ยนไป",
+            "why": "การผลิตเหล็กด้วยเตา EAF และการแปรรูปโลหะโครงสร้างส่งผลโดยตรงต่อความต้องการใช้หินเจียร ลบคม และตัดชิ้นงานในอุตสาหกรรม",
+            "action": "ติดตามการขยายตัวของโรงงานเหล็ก EAF และผู้ผลิตโครงสร้างเหล็ก เพื่อเป็นกลุ่มเป้าหมายหลักในการใช้วัสดุขัด"
+          }
+        },
+        {
+          "id": "20260819-w3",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "Fact.MR",
+          "date": "2026-04-13",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QdlVWYkhUUHFMQ042anhjZWhnN25NSnZfX2F3QU1IVnpHdHVIeWpSS2R0RnVCQjBHVVgwQjhTR21WeThVSF9Td2p5LUxpN3dKekd0UXJpdHMxWENF?oc=5",
+          "title": "Steel Scrap Market, Global Market Analysis Report - 2036",
+          "summary": "The global steel scrap market is projected to see steady growth as recycling and sustainable metal production gain regulatory and economic momentum.",
+          "why": "Scrap metal processing, recycling yards, and structural cut-ups require high-speed cutting wheels and heavy-duty grinding discs.",
+          "action": "Keep an eye on metal recycling and scrap yard sectors as steady consumers of cut-off and grinding wheels.",
+          "th": {
+            "title": "รายงานวิเคราะห์ตลาดเศษเหล็กระดับโลก ปี 2036",
+            "summary": "ตลาดเศษเหล็กทั่วโลกคาดว่าจะเติบโตอย่างมั่นคง เนื่องจากการรีไซเคิลและการผลิตโลหะที่ยั่งยืนได้รับแรงผลักดันด้านกฎระเบียบและเศรษฐกิจ",
+            "why": "กระบวนการแปรรูปเศษโลหะ ลานรีไซเคิล และการตัดโครงสร้างเหล็ก ล้วนต้องใช้ใบตัดความเร็วสูงและแผ่นเจียรสำหรับงานหนัก",
+            "action": "จับตาดูภาคธุรกิจรีไซเคิลโลหะและลานเศษเหล็กในฐานะผู้บริโภคใบตัดและใบเจียรอย่างสม่ำเสมอ"
+          }
+        },
+        {
+          "id": "20260819-w4",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "marketresearchfuture.com",
+          "date": "2026-08-07",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mZllSOV9OY2h5RnNMTk54ZmNTQVdqcVJsR2FzMHZBUHVQZHdzVkRXUlZlU1pRVU9BU1ZzZExoT19uRmRFQllDblVySEstdXptY1U0R3pDUWRqN2pkVmg5dTF2QzJud1pMS1BwTDdxVGFXcHB2WWsxZA?oc=5",
+          "title": "Automotive Industry 2026, Size, Company, Growth, Trends 2035 Market Size, Share & Growth Report 2035 | MRFR",
+          "summary": "The global automotive industry is navigating production adjustments, technology shifts, and supply chain updates toward 2035.",
+          "why": "Automotive manufacturing is a major consuming sector for precision surface prep, body shop sanding, and robotic deburring systems.",
+          "action": "Anticipate continuous shifts in Tier-1 and Tier-2 automotive component finishing requirements.",
+          "th": {
+            "title": "รายงานขนาด ส่วนแบ่ง และการเติบโตของอุตสาหกรรมยานยนต์ ปี 2026 ถึง 2035 | MRFR",
+            "summary": "อุตสาหกรรมยานยนต์ทั่วโลกกำลังปรับตัวด้านการผลิต การเปลี่ยนแปลงทางเทคโนโลยี และห่วงโซ่อุปทานมุ่งสู่ปี 2035",
+            "why": "การผลิตยานยนต์เป็นภาคส่วนผู้บริโภครายใหญ่สำหรับการเตรียมพื้นผิวที่มีความแม่นยำ การขัดสีตัวถัง และระบบลบคมอัตโนมัติ",
+            "action": "คาดการณ์การเปลี่ยนแปลงอย่างต่อเนื่องในข้อกำหนดการตกแต่งชิ้นส่วนยานยนต์สำหรับซัพพลายเออร์ Tier-1 และ Tier-2"
+          }
+        },
+        {
+          "id": "20260819-w5",
+          "tag": "coating",
+          "rating": "white",
+          "source": "Precedence Research",
+          "date": "2026-07-21",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOU01tbEkxd3pyNFhxa1NWeFM2QlRlMUFjeWVJRmFMTTF0R3VweWotbFY4WGVtMUhEcFotMlNjZWxRNHFQOUQwcVB2ZzQ2TU11WFBUcWctazlBSjV1aVBlUENkZk9XLWZKd1FUMl93?oc=5",
+          "title": "Paints and Coatings Market Size to Hit USD 293.54 Bn by 2035",
+          "summary": "The global paints and coatings market is projected to reach nearly USD 294 billion by 2035, driven by industrial and construction expansion.",
+          "why": "Surface coating applications require rigorous pre-painting surface preparation, sanding, and profiling.",
+          "action": "Note the long-term growth of the coatings sector as a proxy for surface treatment and sanding activity.",
+          "th": {
+            "title": "ตลาดสีและสารเคลือบผิวคาดว่าจะแตะ 2.9354 แสนล้านดอลลาร์ภายในปี 2035",
+            "summary": "ตลาดสีและสารเคลือบผิวทั่วโลกคาดว่าจะสูงถึงเกือบ 2.94 หมื่นล้านดอลลาร์ภายในปี 2035 ขับเคลื่อนโดยการขยายตัวของอุตสาหกรรมและการก่อสร้าง",
+            "why": "การเคลือบพื้นผิวต้องอาศัยการเตรียมพื้นผิว การขัดกระดาษทราย และการทำโปรไฟล์ก่อนทาสีอย่างเข้มงวด",
+            "action": "บันทึกการเติบโตระยะยาวของภาคส่วนสารเคลือบผิว เพื่อใช้เป็นตัวบ่งชี้กิจกรรมการเตรียมพื้นผิวและการขัด"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-08-18",
       "summary": "Today's briefing highlights shifts in architectural coatings, glass surface finishes, automotive logistics expansion, and global metal/steel supply chain pressures that impact heavy industrial surface preparation demand.",
