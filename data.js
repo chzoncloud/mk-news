@@ -2,6 +2,71 @@
 window.NEWS_ARCHIVE = {
   "days": [
     {
+      "date": "2026-08-19",
+      "summary": "Today has limited new updates. Key developments highlight government confidence in retaining Thailand's 30-year Japanese automotive supply chain, alongside export expansion drives in the wood processing sector.",
+      "directCount": 1,
+      "th": {
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยประเด็นสำคัญมุ่งเน้นไปที่ความเชื่อมั่นของภาครัฐต่อการรักษาฐานห่วงโซ่อุปทานยานยนต์ญี่ปุ่นในไทย และการเร่งขยายตลาดส่งออกของอุตสาหกรรมแปรรูปไม้"
+      },
+      "items": [
+        {
+          "id": "20260819-1",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "thansettakij",
+          "date": "2026-08-17",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WWEV1UnZlanVnUFR0RHUyNk9GbjE1dXlxbFpJNThfWER4NVoxQjI4bWVJWnhXc1lZOXdVelhzcFF4UTdQWlF4NGhkcVlkazBtaE80bGZ3?oc=5",
+          "title": "NESDC Confident Toyota Will Retain Thai Base, Citing 30-Year Supply Chain Strength",
+          "summary": "The National Economic and Social Development Council (NESDC) dismissed relocation fears, emphasizing that Toyota's deeply rooted 30-year local component supply chain gives Thailand an irreplaceable competitive advantage over regional peers.",
+          "why": "Reassurance of Toyota's long-term presence protects production volumes among tier-1 and tier-2 Japanese auto-parts makers, which are our core abrasive customers.",
+          "action": "Maintain active engagement and stable abrasive supply agreements with Tier-1/2 Japanese stamping and machining vendors.",
+          "th": {
+            "title": "สศช. มั่นใจโตโยต้าไม่ย้ายฐานหนีไทย ชูจุดแข็งห่วงโซ่อุปทานแกร่ง 30 ปี",
+            "summary": "สศช. ยืนยันความเชื่อมั่นว่าโตโยต้าจะไม่ย้ายฐานการผลิตไปอินโดนีเซีย โดยชี้ว่าห่วงโซ่อุปทานชิ้นส่วนยานยนต์ในไทยที่สั่งสมมากว่า 30 ปี เป็นจุดแข็งที่คู่แข่งในภูมิภาคทดแทนได้ยาก",
+            "why": "ความชัดเจนว่าโตโยต้ายังคงปักหลักในไทยช่วยพยุงเสถียรภาพยอดผลิตของโรงงานชิ้นส่วนยานยนต์ค่ายญี่ปุ่น ซึ่งเป็นกลุ่มลูกค้าหลักของวัสดุขัดเรา",
+            "action": "รักษาความสัมพันธ์และเดินหน้าทำสัญญาคู่ค้ากับโรงงานปั๊มขึ้นรูปและกลึงโลหะของซัพพลายเออร์ญี่ปุ่นอย่างต่อเนื่อง"
+          }
+        },
+        {
+          "id": "20260819-2",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "pptvhd36",
+          "date": "2026-08-17",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VVXpZQTNMcElKdnRFaFZYMWJoVl9iZUlPOC15UlV3aHFZZHR5aU9CSTU5aU1DM2tNWFp1cjh3TXJzSmhrLTB4ZHZZNUFQTEtBTHktSWhVajBYUkk?oc=5",
+          "title": "Analysis Compares Industrial Impact of Japanese Automakers vs Chinese EV Entrants",
+          "summary": "Industry analysis contrasts the broad domestic value added by traditional Japanese auto ecosystems with newcomer Chinese EV makers that rely heavily on imported integrated sub-assemblies.",
+          "why": "Japanese automakers drive far higher domestic mechanical finishing and grinding demand than localized Chinese EV assembly plants.",
+          "action": "Target abrasives promotion at Japanese hybrid/ICE component factories while developing specialized surface-finishing kits for new EV sheet metal lines.",
+          "th": {
+            "title": "วิเคราะห์ผลประโยชน์อุตสาหกรรม 'ค่ายญี่ปุ่น vs ค่ายจีน' บนสมรภูมิยานยนต์ไทย",
+            "summary": "บทวิเคราะห์เปรียบเทียบมูลค่าทางเศรษฐกิจ พบว่าค่ายญี่ปุ่นสร้างการจ้างงานและใช้วัตถุดิบในประเทศสูงกว่า ขณะที่ค่ายรถยนต์ไฟฟ้าจีนยังพึ่งพาการนำเข้าชิ้นส่วนสำเร็จรูปเป็นหลัก",
+            "why": "โรงงานซัพพลายเออร์ค่ายญี่ปุ่นก่อให้เกิดการเจียร ขัดแต่งผิว และลบครีบชิ้นงานโลหะในประเทศมากกว่าสายการประกอบ EV ของจีน",
+            "action": "เน้นทำตลาดวัสดุขัดกับโรงงานชิ้นส่วน ICE/Hybrid ค่ายญี่ปุ่น ควบคู่กับการพัฒนาชุดขัดผิวเฉพาะทางสำหรับงานตัวถัง EV"
+          }
+        },
+        {
+          "id": "20260819-3",
+          "tag": "furniture",
+          "rating": "green",
+          "source": "thansettakij",
+          "date": "2026-07-12",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTbVhNaVNKdGxyaVdOOEpkRmV6YnRxaEVaMk1FdFdsTUNFLXZBZFR2YVBCS09LSGxzX3BtMG14VEZjVVRVZnhxMURPWXlxdUhPak5hay1R?oc=5",
+          "title": "Thai Wood Industry Accelerates Global Business Linkages to Boost Export Value",
+          "summary": "The Thai timber and wood processing sector is aggressively establishing international trade networks to expand exports of high-value engineered wood and finished furniture.",
+          "why": "Increased output of processed wood and furniture directly elevates factory consumption of wide sanding belts, abrasive paper, and orbital sanding discs.",
+          "action": "Deploy specialized wood-sanding abrasive belt solutions to export-focused wood processing and furniture manufacturing plants.",
+          "th": {
+            "title": "อุตสาหกรรมไม้ไทยเร่งเครื่อง เชื่อมเครือข่ายธุรกิจโลก ดันมูลค่าส่งออกโต",
+            "summary": "กลุ่มอุตสาหกรรมไม้และแปรรูปไม้ของไทยเร่งขยายเครือข่ายพันธมิตรการค้าในตลาดต่างประเทศ เพื่อผลักดันการส่งออกผลิตภัณฑ์ไม้แปรรูปและเฟอร์นิเจอร์มูลค่าสูง",
+            "why": "การเร่งกำลังผลิตไม้แปรรูปและเฟอร์นิเจอร์ส่งผลให้เกิดการใช้กระดาษทรายสายพานกว้าง (Wide Belts) และกระดาษทรายกลมสำหรับงานขัดไม้เพิ่มขึ้นโดยตรง",
+            "action": "นำเสนอโซลูชันสายพานขัดและจานขัดไม้ประสิทธิภาพสูงแก่โรงงานแปรรูปไม้และผู้ผลิตเฟอร์นิเจอร์ส่งออก"
+          }
+        }
+      ],
+      "terms": {}
+    },
+    {
       "date": "2026-08-18",
       "summary": "Today has limited new breaking headlines. Key focus remains on automotive supply chain defense against regional competitors and industrial readiness across woodworking and standardized steel production.",
       "directCount": 1,
@@ -917,72 +982,7 @@ window.NEWS_ARCHIVE = {
         }
       ],
       "terms": {}
-    },
-    {
-      "date": "2026-08-05",
-      "summary": "Today has limited new updates. Key highlights include long-term optimistic forecasts for Thai auto production in 2026-2028 backed by soft loans, total BOI EV investment figures exceeding 130 billion Baht, and ongoing MRO development plans at U-Tapao with VietJet.",
-      "directCount": 2,
-      "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มาก รายงานสำคัญได้แก่ แนวโน้มการผลิตยานยนต์ไทยปี 2569-2571 ที่คาดว่าจะเติบโตจากเงินกู้ซอฟต์โลนและนโยบาย EV ยอดเงินลงทุน EV สะสมจากบีโอไอที่ทะลุ 1.3 แสนล้านบาท และความคืบหน้าการพัฒนาศูนย์ MRO อู่ตะเภาของเวียตเจ็ท"
-      },
-      "items": [
-        {
-          "id": "20260805-1",
-          "tag": "auto",
-          "rating": "green",
-          "source": "thansettakij",
-          "date": "2026-08-02",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wNWVNY0xIZjBsSmFaT1lidHlmTklnZE43TlhGbGt1R3ZSNXh0S1p4VE51Q1NjUVhfa3l4RElGWG4telc3YjFuVG44cW9OeUt6VmZz?oc=5",
-          "title": "Thailand Auto Production Outlook 2026-2028 Forecasts Growth Supported by 200 Billion Baht Loans and EV 3.5 Policy",
-          "summary": "Thailand's automotive production is projected to expand between 2026 and 2028, supported by 200 billion Baht in soft loans and ongoing EV 3.5 incentives.",
-          "why": "Increased automobile production directly boosts factory consumption of surface preparation abrasives, grinding wheels, and sanding belts.",
-          "action": "Prepare inventory of automotive-grade abrasives and contact Tier-1/Tier-2 automotive component suppliers to capture upcoming demand.",
-          "th": {
-            "title": "เจาะอนาคตยานยนต์ไทย 2569-2571 ยอดผลิตโต รับแรงหนุนเงินกู้ 2 แสนล้าน-มาตรการ EV 3.5",
-            "summary": "คาดการณ์การผลิตรถยนต์ในไทยปี 2569-2571 จะกลับมาเติบโต โดยได้อานิสงส์จากสินเชื่อดอกเบี้ยต่ำ 2 แสนล้านบาทและนโยบายสนับสนุน EV 3.5",
-            "why": "การฟื้นตัวของยอดผลิตยานยนต์จะส่งผลดีโดยตรงต่อความต้องการใช้วัสดุขัดเตรียมผิว จานขัด และสายพานขัดในสายการผลิต",
-            "action": "เตรียมสต็อกสินค้ากลุ่มยานยนต์และเร่งเข้าพบผู้ผลิตชิ้นส่วนยานยนต์ Tier-1 และ Tier-2 เพื่อรองรับกำลังการผลิตที่จะเพิ่มขึ้น"
-          }
-        },
-        {
-          "id": "20260805-2",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Thaigov",
-          "date": "2026-07-02",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83OHo0X01meExtendzNTNja1RMTUxKa2dWM0hFZ1JrRzJ4dmJPLWhSdHVwb19IU01fVTRVOWtaX2lkMVJUSlRPb3FCNVg5UQ?oc=5",
-          "title": "BOI Reports EV Investment Surpasses 130 Billion Baht, Strengthening Local Manufacturing Hub",
-          "summary": "The Board of Investment reported total investment promotion applications in the EV sector exceeding 130 billion Baht across various electric vehicle technologies.",
-          "why": "High investment inflows demonstrate long-term expansion of local supply chains, which will require specialized metal grinding and polishing products.",
-          "action": "Monitor newly approved EV component plants and establish initial connections with their procurement teams.",
-          "th": {
-            "title": "บีโอไอเผยยอดลงทุน EV ทะลุ 1.3 แสนล้าน หนุนเป้าฐานผลิตยานยนต์ไฟฟ้าทุกเทคโนโลยี",
-            "summary": "บีโอไอเปิดเผยยอดขอรับการส่งเสริมการลงทุนในอุตสาหกรรม EV ทะลุ 1.3 แสนล้านบาท ครอบคลุมเทคโนโลยียานยนต์ไฟฟ้าทุกประเภท",
-            "why": "มูลค่าการลงทุนที่สูงสะท้อนการขยายตัวของห่วงโซ่อุปทานในระยะยาว ซึ่งจะสร้างความต้องการใช้อุปกรณ์ขัดและเจียรโลหะเพิ่มเติม",
-            "action": "ติดตามการตั้งโรงงานใหม่ในซัพพลายเชน EV ที่ได้รับการอนุมัติ และสร้างคอนเนกชันกับฝ่ายจัดซื้อของโรงงานเหล่านั้น"
-          }
-        },
-        {
-          "id": "20260805-3",
-          "tag": "aero",
-          "rating": "green",
-          "source": "thansettakij",
-          "date": "2026-06-16",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pbFFnQlhiSG5UMVBfTjVmMUZtNXc4ZkYyOFljMVFtQlQwalZ5WUpidFlzX3prejlBWGoydDYzUUZXMlY4bE56VFUwZnZrLVJfWlRtV2t0Wi0xOWkzeVFLTUFJOVIwUQ?oc=5",
-          "title": "EECO Targets U-Tapao MRO Hub as VietJet Studies Investment Proposal",
-          "summary": "EECO is advancing the development of U-Tapao's MRO hub, awaiting VietJet's study results to formally submit the investment plan.",
-          "why": "New MRO centers require high-precision, aviation-grade abrasives for aircraft hull sanding and turbine component maintenance.",
-          "action": "Introduce mksanding's aviation-grade abrasive line to prospective MRO operators and aerospace maintenance contractors.",
-          "th": {
-            "title": "EECO ปักหมุดศูนย์ซ่อมฯ อู่ตะเภา รอ ‘เวียตเจ็ท’ ศึกษาชงแผนลงทุน",
-            "summary": "สกพอ. เดินหน้าดันศูนย์ซ่อมบำรุงอากาศยานอู่ตะเภา โดยรอผลการศึกษาจากสายการบินเวียตเจ็ทเพื่อเสนอแผนการลงทุนอย่างเป็นทางการ",
-            "why": "ศูนย์ MRO แห่งใหม่จำเป็นต้องใช้วัสดุขัดเกรดการบินความแม่นยำสูงสำหรับการขัดผิวลำตัวเครื่องบินและชิ้นส่วนเทอร์ไบน์",
-            "action": "นำเสนอผลิตภัณฑ์วัสดุขัดเกรดการบินของ mksanding ให้กับผู้ประกอบการศูนย์ MRO และผู้รับเหมางานซ่อมบำรุง"
-          }
-        }
-      ],
-      "terms": {}
     }
   ],
-  "updated": "2026-08-18"
+  "updated": "2026-08-19"
 };
