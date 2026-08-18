@@ -4,64 +4,82 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-08-19",
-      "summary": "Today's briefing focuses on EV battery manufacturing driving waterproof abrasive sheet demand, automation in surface finishing via abrasive cloth rolls, and supply chain disruptions affecting steel production.",
-      "directCount": 3,
+      "summary": "Global industrial trends today show strong emphasis on superhard abrasive machining, automotive EV manufacturing growth, and electric-arc furnace steel production optimization, signaling crucial shifts for surface finishing and metal fabrication.",
+      "directCount": 4,
       "th": {
-        "summary": "สรุปข่าวสารประจำวันนี้เน้นไปที่ความต้องการกระดาษทรายกันน้ำที่เติบโตจากการผลิตแบตเตอรี่ EV, การอัตโนมัติในงานขัดผิวด้วยผ้าทรายม้วน และผลกระทบจากปัญหาห่วงโซ่อุปทานต่ออุตสาหกรรมเหล็ก"
+        "summary": "แนวโน้มอุตสาหกรรมโลกในวันนี้แสดงให้เห็นถึงความสำคัญของการตัดเฉือนด้วยวัสดุขัดความแข็งสูง การเติบโตของการผลิตยานยนต์ EV และการเพิ่มประสิทธิภาพการผลิตเหล็กด้วยเตาอาร์ไฟฟ้า (EAF) ซึ่งส่งสัญญาณการเปลี่ยนแปลงครั้งสำคัญสำหรับธุรกิจขัดผิวและงานโลหะ"
       },
       "items": [
         {
           "id": "20260819-w1",
           "tag": "abrasive",
           "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-08-13",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOajhLYXZEcDFTbWdQSXl1ekYwYlRmOENGOHA3NWxvOFJJVGk0WDBfZV9vYnhmUzByZU9oWktINGpjd0hIY1dXZjZPQ2xNVzJrNXhBTTc5WENRZWVQc19JQkNGM3lVYnltZDJLdkx4VWJQbXdlN0J5RmJrNWpvOGIwSmoyUHVDZzB1bUJYZ0dDY2NDczR6clVGeUF1dnMyd1J3TU05SmxqbjFJVC0yck80bmg0WVVKWFI4aVo1amdWQzBEbldCVGlySkZR?oc=5",
-          "title": "Waterproof Abrasive Sheets Market 1.8 Billion Sheets by 2035 on EV Battery Finishing Demand",
-          "summary": "The waterproof abrasive sheets market is projected to reach 1.8 billion sheets by 2035, heavily propelled by surface finishing requirements in electric vehicle (EV) battery manufacturing.",
-          "why": "Direct growth signal for waterproof sandpaper and finishing sheets used in high-tech EV components.",
-          "action": "Ensure strong inventory and marketing for waterproof abrasive sheets targeted at EV supply chain components.",
+          "source": "EIN Presswire",
+          "date": "2026-07-17",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQ2tzbUVzemVBLUxLMTFXbThzUk1aZEV5cDBQeE1HWmNUbW1PNzZTUXo0bnFpcjA5Yk1XRUtMOEFyakZfaXdVUTlPM3pSVno5dk5kRXUzM000ZFo5WG1mcGV4U1NzV1hLWVlpY3p6LVZtcTN4X3hWd2tDRVJoemVydnNIZFdNTjZmYk9uTGJEd0hTdTlpY3RlaGtHemZ6VWNTOEZoWk92eU1rQU5UdjFMLVdjWmV1U0w0czdncEJnWmkzYmZlRFdOVWpXMFN5RkZTRDh4bUxBdTV1WmpFLVJ1dDRJTUdmdw?oc=5",
+          "title": "Five Reputable Diamond Sanding Belts Manufacturers in China 2026: Optimizing Superhard Abrasive Machining",
+          "summary": "An overview of top diamond sanding belts manufacturers in China highlights the ongoing optimization of superhard abrasive machining technologies.",
+          "why": "Diamond and superhard abrasives represent the high-performance tier of surface finishing, essential for advanced metal and hard-material applications.",
+          "action": "Keep track of Chinese superhard abrasive manufacturing standards to evaluate high-end product sourcing options.",
           "th": {
-            "title": "ตลาดกระดาษทรายกันน้ำพุ่งแตะ 1.8 พันล้านแผ่นในปี 2035 ตามความต้องการขัดผิวแบตเตอรี่ EV",
-            "summary": "ตลาดกระดาษทรายกันน้ำคาดว่าจะสูงถึง 1.8 พันล้านแผ่นภายในปี 2035 โดยได้รับแรงหนุนสำคัญจากข้อกำหนดการขัดผิวในกระบวนการผลิตแบตเตอรี่รถยนต์ไฟฟ้า (EV)",
-            "why": "เป็นสัญญาณการเติบโตโดยตรงสำหรับกระดาษทรายกันน้ำและวัสดุขัดผิวที่ใช้ในชิ้นส่วนเทคโนโลยีขั้นสูงของ EV",
-            "action": "ตรวจสอบสต็อกและการทำตลาดกระดาษทรายกันน้ำให้พร้อมสำหรับกลุ่มซัพพลายเชนชิ้นส่วน EV"
+            "title": "5 ผู้ผลิตสายพานขัดเพชรชั้นนำในจีนปี 2026: การเพิ่มประสิทธิภาพการตัดเฉือนด้วยสารขัดความแข็งสูง",
+            "summary": "ภาพรวมของผู้ผลิตสายพานขัดเพชรชั้นนำในประเทศจีน เน้นย้ำถึงการพัฒนาเทคโนโลยีการตัดเฉือนด้วยวัสดุขัดความแข็งสูงอย่างต่อเนื่อง",
+            "why": "วัสดุขัดประเภทเพชรและวัสดุความแข็งสูงถือเป็นกลุ่มผลิตภัณฑ์เกรดพรีเมียมที่จำเป็นสำหรับงานโลหะขั้นสูงและวัสดุแข็งพิเศษ",
+            "action": "ติดตามมาตรฐานการผลิตสารขัดความแข็งสูงจากจีนเพื่อประเมินทางเลือกในการจัดหาผลิตภัณฑ์ระดับไฮ엔ด"
           }
         },
         {
           "id": "20260819-w2",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-08-16",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUXZZSEZqNzVRV2VWbE81MzNPSVlmeWpoMFI2RUhWYktFbktXWnBuU0h5VFBTbl9haHhXX0xwU0VwMm5mRHFtNDFMZXFGR2hpRjVwZU1BUl90c0hJNnBMYm9GWnFxWUJzTGNQREI5Vl9pSE84dDB6RkkyTFNWNHN0WFRxSXFpdFBFX3VuR0YtY29BSHFjdlRsdEFXNzRnQ1REMWYzRzE0TzZ4Mi1ZX1p1cTlCMnZ0NWhaR0g0?oc=5",
-          "title": "Abrasive Cloth Rolls Market Growth Driven in Surface Finishing Through 2035",
-          "summary": "The market for abrasive cloth rolls is experiencing steady growth through 2035, driven increasingly by the adoption of automation in surface finishing operations.",
-          "why": "Abrasive cloth rolls are essential for automated and heavy-duty industrial metal/wood polishing setups.",
-          "action": "Highlight durability and automated-machine compatibility when pitching abrasive cloth rolls to industrial clients.",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "marketresearchfuture.com",
+          "date": "2026-08-07",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mZllSOV9OY2h5RnNMTk54ZmNTQVdqcVJsR2FzMHZBUHVQZHdzVkRXUlZlU1pRVU9BU1ZzZExoT19uRmRFQllDblVySEstdXptY1U0R3pDUWRqN2pkVmg5dTF2QzJud1pMS1BwTDdxVGFXcHB2WWsxZA?oc=5",
+          "title": "Automotive Industry 2026, Size, Company, Growth, Trends 2035 Market Size, Share & Growth Report 2035 | MRFR",
+          "summary": "Recent market reports outline long-term growth and structural shifts in the global automotive industry through 2035.",
+          "why": "Automotive manufacturing is a core consumer of industrial abrasives for body panels, welds, and powertrain components.",
+          "action": "Align inventory forecasts with steady long-term demand from automotive supply chains.",
           "th": {
-            "title": "ตลาดผ้าทรายม้วนเติบโตขับเคลื่อนโดยระบบอัตโนมัติในการขัดผิวถึงปี 2035",
-            "summary": "ตลาดผ้าทรายม้วนกำลังเติบโตอย่างต่อเนื่องจนถึงปี 2035 โดยได้รับแรงหนุนจากการนำระบบอัตโนมัติมาใช้ในงานขัดผิวมากขึ้น",
-            "why": "ผ้าทรายม้วนเป็นวัสดุสำคัญสำหรับงานขัดโลหะและไม้ในระบบอุตสาหกรรมอัตโนมัติและงานหนัก",
-            "action": "เน้นย้ำเรื่องความทนทานและการรองรับเครื่องจักรออัตโนมัติในการนำเสนอผ้าทรายม้วนให้ลูกค้ากลุ่มอุตสาหกรรม"
+            "title": "รายงานขนาด ส่วนแบ่ง และการเติบโตของอุตสาหกรรมยานยนต์ปี 2026 ถึง 2035 | MRFR",
+            "summary": "รายงานตลาดล่าสุดระบุถึงการเติบโตระยะยาวและการเปลี่ยนแปลงเชิงโครงสร้างในอุตสาหกรรมยานยนต์ระดับโลกจนถึงปี 2035",
+            "why": "อุตสาหกรรมการผลิตยานยนต์เป็นลูกค้ารายหลักที่ใช้วัสดุขัดอุตสาหกรรมสำหรับงานตัวถัง รอยเชื่อม และชิ้นส่วนเครื่องยนต์",
+            "action": "ปรับการคาดการณ์สินค้าคงคลังให้สอดคล้องกับความต้องการระยะยาวจากห่วงโซ่อุปทานยานยนต์"
           }
         },
         {
           "id": "20260819-w3",
           "tag": "steel",
-          "rating": "amber",
-          "source": "The World Economic Forum",
-          "date": "2026-04-21",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeFBmZTNpZDhjN1lHNlBlU0duZ3ZQWW9uanI0SWs3SDFVazlpbVVXMklqSTVjbDloUEI4NW1Ca2dGckgzanh5UlRfX1F5QlVfQWFZNGdSS1h5bHNIUElCTk9LeUktaGd2VWxwRDAyMGJmQ1F6ZHVEOURKVjF3MVdHWGd0OG4zYTNtUk0yZkp0QXN4R3p5LUEtWkFzODBVdUdlTVpLNTh3ZjQtTGJuanlfS0Y5dWVLVEo1WkEybk96dVY?oc=5",
-          "title": "How the Iran war is disrupting India's steel production amid fuel shortages and rising costs",
-          "summary": "Geopolitical conflicts and fuel shortages are causing cost inflation and disruptions in steel production hubs such as India, impacting global metal supply chains.",
-          "why": "Steel production costs and output fluctuations directly impact local metal fabrication activity and our customers' demand for grinding supplies.",
-          "action": "Monitor raw material pricing trends for steel fabrication customers to anticipate shifts in their purchasing volumes.",
+          "rating": "green",
+          "source": "news.metal.com",
+          "date": "2026-05-19",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMmw1akRRMFZCQ2I5NGhHdE1NOXhoaE1GY0h5UmxlQVNUVGxHTko2U0NBQ0o0Q19ZYmZ1VnBCTTB6a2JJQTFNOUpDSUtpWXdaR3hkeGhlOXF4dF9yUElCd1ZkWTl4MmZGOWhVeUlXc2VCMXFCOHQzZ0ZGZ1RtZ3p6aUNObEczWFhKMkdKQ3JuRWF5SjVNZmpOQVBaSGs4TWJKS1lVa0VTdmoxdDBQTF8zRDlxME1qeEtOUzJzSTBERURobWltWTlVUlpaZ3d2WlFRNEY1b0UwbVVfLXc0cXBZ?oc=5",
+          "title": "Nucor: 100% EAF, High Profits, and Vertical Integration Mitigating Costs",
+          "summary": "Nucor's 100% Electric Arc Furnace (EAF) model demonstrates high profitability and cost mitigation through vertical integration.",
+          "why": "EAF steel production impacts local metal fabrication and finishing requirements, shifting steel quality and surface scale characteristics.",
+          "action": "Monitor EAF steel adoption trends as they influence grinding and deburring needs in structural steel fabrication.",
           "th": {
-            "title": "ความขัดแย้งในอิหร่านกระทบการผลิตเหล็กของอินเดียท่ามกลางปัญหาขาดแคลนเชื้อเพลิงและต้นทุนพุ่ง",
-            "summary": "ความขัดแย้งทางภูมิรัฐศาสตร์และการขาดแคลนเชื้อเพลิงกำลังสร้างภาวะเงินเฟ้อด้านต้นทุนและขัดขวางการผลิตเหล็กในอินเดีย ซึ่งส่งผลกระทบต่อห่วงโซ่อุปทานโลหะโลก",
-            "why": "ต้นทุนการผลิตเหล็กและความผันผวนของผลผลิตส่งผลโดยตรงต่อกิจกรรมการแปรรูปโลหะในท้องถิ่นและความต้องการใช้วัสดุขัดของลูกค้า",
-            "action": "ติดตามแนวโน้มราคารองรับกลุ่มลูกค้าแปรรูปเหล็กเพื่อคาดการณ์การเปลี่ยนแปลงปริมาณการสั่งซื้อ"
+            "title": "Nucor: โมเดลเตาอาร์คไฟฟ้า 100%, กำไรสูง และการบูรณาการในแนวดิ่งเพื่อลดต้นทุน",
+            "summary": "โมเดลเตาอาร์คไฟฟ้า (EAF) 100% ของ Nucor แสดงให้เห็นถึงความสามารถในการทำกำไรสูงและการลดต้นทุนผ่านการบูรณาการในแนวดิ่ง",
+            "why": "การผลิตเหล็กด้วยเตา EAF ส่งผลต่อความต้องการในงานแปรรูปและตกแต่งผิวโลหะในท้องถิ่น รวมถึงเปลี่ยนแปลงคุณสมบัติพื้นผิวของเหล็ก",
+            "action": "ติดตามแนวโน้มการใช้เหล็กจากเตา EAF เนื่องจากจะส่งผลต่อความต้องการใช้งานเจียรและลบคมในอุตสาหกรรมโครงสร้างเหล็ก"
+          }
+        },
+        {
+          "id": "20260819-w4",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "Precedence Research",
+          "date": "2026-07-21",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOU01tbEkxd3pyNFhxa1NWeFM2QlRlMUFjeWVJRmFMTTF0R3VweWotbFY4WGVtMUhEcFotMlNjZWxRNHFQOUQwcVB2ZzQ2TU11WFBUcWctazlBSjV1aVBlUENkZk9XLWZKd1FUMl93?oc=5",
+          "title": "Paints and Coatings Market Size to Hit USD 293.54 Bn by 2035",
+          "summary": "The global paints and coatings market is projected for steady expansion, reaching significant valuation milestones over the next decade.",
+          "why": "Surface preparation and sanding are critical pre-requisites in the coatings application workflow across multiple industries.",
+          "action": "Identify cross-selling or partnership opportunities with industrial coating applicators who require reliable surface prep abrasives.",
+          "th": {
+            "title": "ตลาดสีและสารเคลือบคาดจะมีมูลค่าแตะ 293.54 พันล้านดอลลาร์สหรัฐภายในปี 2035",
+            "summary": "ตลาดสีและสารเคลือบผิวทั่วโลกคาดว่าจะมีการเติบโตอย่างต่อเนื่อง และบรรลุเป้าหมายมูลค่าครั้งสำคัญในทศวรรษหน้า",
+            "why": "กระบวนการเตรียมพื้นผิวและการขัดกระดาษทรายเป็นขั้นตอนเบื้องต้นที่สำคัญยิ่งในการเคลือบผิวในหลากหลายอุตสาหกรรม",
+            "action": "มองหาโอกาสในการร่วมมือทางธุรกิจหรือขายสินค้าร่วมกับผู้ให้บริการเคลือบผิวอุตสาหกรรมที่ต้องใช้วัสดุขัดเตรียมพื้นผิวที่มีคุณภาพ"
           }
         }
       ]
