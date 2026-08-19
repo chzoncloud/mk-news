@@ -4,28 +4,28 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-08-20",
-      "summary": "Today's briefing highlights new market data for abrasive paper driven by semiconductor and precision electronics demand, European abrasives market forecasts, and structural shifts in automotive manufacturing and steel supply chains.",
-      "directCount": 4,
+      "summary": "Today's briefing features 3 high-impact global insights focusing on ceramic abrasives, surface finishing automation, and European automotive smart-factory developments. We highlight crucial demand shifts toward precision electronics, automation, and advanced manufacturing.",
+      "directCount": 3,
       "th": {
-        "summary": "สรุปข้อมูลแนวโน้มโลกวันนี้ เน้นตลาดกระดาษทรายที่ขับเคลื่อนด้วยความต้องการเซมิคอนดักเตอร์และอิเล็กทรอนิกส์ความแม่นยำสูง การคาดการณ์ตลาดวัสดุขัดผิวในยุโรป และการเปลี่ยนแปลงโครงสร้างการผลิตรถยนต์และห่วงโซ่อุปทานเหล็ก"
+        "summary": "สรุปข่าวประจำวันนี้คัดเลือก 3 ประเด็นสำคัญระดับโลกที่เน้นเรื่องสารขัดถูเซรามิก, ระบบอัตโนมัติในการขัดผิว และการพัฒนาโรงงานอัจฉริยะในอุตสาหกรรมยานยนต์ยุโรป เพื่อให้เห็นทิศทางความต้องการสินค้าที่เปลี่ยนไปสู่อุปกรณ์อิเล็กทรอนิกส์ความแม่นยำสูงและระบบอัตโนมัติ"
       },
       "items": [
         {
           "id": "20260820-w1",
           "tag": "abrasive",
           "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-08-19",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQlh0amdtY0xNWVFVTGNCUFNfS2gzSmJrNWNUTHYxNjRSYWhhMjdnVGlPaVVuZks4REdMZE1hYk04cWYwc1hnMlBQWF80eU5NVDlUUzJ6LUJ3SV9QU044RElvZTFPanRrMTZLMGp0dzZRakJtRm9ROFNVV1BRdjVNM0twNkJTb2xwbkVQdVQ3VXlUV0d4ZmtFRkhWZ3JRamlZMGtHYW5EYVNQVDJuTXAyMHhkLXRkMVZFNU9rNTdYOE4td3pN?oc=5",
-          "title": "Emery Paper Market to Reach USD 2.3B by 2035, Driven by Semiconductor Demand for Ultra-Fine Grits",
-          "summary": "The global emery paper market is projected to reach USD 2.3 billion by 2035, significantly propelled by the semiconductor industry's demand for ultra-fine grinding grits.",
-          "why": "Signals a high-margin growth vector for ultra-fine abrasives and specialized polishing media used in advanced tech manufacturing rather than just heavy industrial metal.",
-          "action": "Monitor high-end, ultra-fine grit sourcing opportunities for electronics and semiconductor supply chains.",
+          "source": "Market Research Future",
+          "date": "2026-04-06",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY0JpWXlQSC1LeGU2eUdGRW1zTEZ4amNoRXAyUWcxcnpWbEdzWmprSTBFM1htcllTNmQtdlRENmZ2NlhXbV9oNTlJbnJ0UjV5cENzZC1yTUdwM21YRi0wZUxBd1l6ODNDM1NxSUdQcFMwMGpCRnJuY041elNoT1RSRA?oc=5",
+          "title": "Ceramic Flap Disc Market Size, Share & Growth Report 2035",
+          "summary": "The ceramic flap disc market is expanding steadily through 2035, driven by heavy-duty metal fabrication and surface preparation demands requiring high-performance abrasive grains.",
+          "why": "Ceramic abrasives offer superior cutting speed and lifespan compared to standard aluminum oxide. This represents a high-margin product category for B2B distributors serving metal fabrication and heavy industry.",
+          "action": "Evaluate our ceramic flap disc inventory and consider expanding technical marketing for heavy metal fabrication clients.",
           "th": {
-            "title": "ตลาดกระดาษกากเพชร (Emery Paper) จะเติบโตแตะ 2.3 พันล้านดอลลาร์ภายในปี 2035 ขับเคลื่อนโดยความต้องการเซมิคอนดักเตอร์",
-            "summary": "ตลาดกระดาษกากเพชรทั่วโลกคาดว่าจะเติบโตถึง 2.3 พันล้านดอลลาร์ภายในปี 2035 โดยได้รับแรงหนุนสำคัญจากความต้องการเม็ดทรายขัดความละเอียดสูงในอุตสาหกรรมเซมิคอนดักเตอร์",
-            "why": "เป็นสัญญาณบ่งชี้ถึงโอกาสเติบโตที่มีอัตรากำไรสูงสำหรับวัสดุขัดความละเอียดสูงและสื่อขัดเงาพิเศษที่ใช้ในอุตสาหกรรมไฮเทค มากกว่างานโลหะหนักทั่วไป",
-            "action": "ติดตามแหล่งจัดหาเม็ดทรายขัดความละเอียดสูงพิเศษสำหรับห่วงโซ่อุปทานอิเล็กทรอนิกส์และเซมิคอนดักเตอร์"
+            "title": "รายงานขนาดและแนวโน้มตลาดใบเจียรผ้าทรายซ้อนเซรามิก (Ceramic Flap Disc) ถึงปี 2035",
+            "summary": "ตลาดใบเจียรผ้าทรายซ้อนเซรามิกกำลังเติบโตอย่างต่อเนื่องจนถึงปี 2035 ขับเคลื่อนโดยความต้องการในงานขึ้นรูปโลหะหนักและการเตรียมพื้นผิวที่ต้องใช้เม็ดทรายขัดประสิทธิภาพสูง",
+            "why": "วัสดุขัดเซรามิกให้ความเร็วในการตัดและอายุการใช้งานที่เหนือกว่าอลูมิเนียมออกไซด์ทั่วไป ถือเป็นกลุ่มสินค้าที่มีอัตรากำไรสูงสำหรับผู้จัดจำหน่าย B2B ที่ให้บริการงานโลหะและอุตสาหกรรมหนัก",
+            "action": "ประเมินสต็อกสินค้าใบเจียรผ้าทรายซ้อนเซรามิกของเรา และพิจารณาเพิ่มการตลาดเชิงเทคนิคสำหรับกลุ่มลูกค้าแปรรูปโลหะหนัก"
           }
         },
         {
@@ -33,53 +33,35 @@ window.WORLD_ARCHIVE = {
           "tag": "abrasive",
           "rating": "green",
           "source": "IndexBox",
-          "date": "2026-08-18",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcEVHZXVJQjFJQmZqdmZxSmlZb3FCUkV6VmhKZE9sclNaakxUdm5xSGx4ajFER2ZrNDlTMkxDZTVuVWtDRmdnZWlTMWl6Uy1yZEdidE43U3piMnhVdlpua2NCOUtRS2RMeVlXRlRyQ2JfZjE5QW05SHpBeXhYVVVob1daWm5obGJrbjhxWVlqY2FfS1hKUG5yNXFERWwzNHp1a1NZbkNyQzB2S3JLeC1nbWU1ZUJsNXV0YXZOT2Y2ZWhzXzNqZmxSbG9n?oc=5",
-          "title": "Garnet Abrasive Paper Market Precision Electronics Demand Drives 4.6% CAGR Through 2035",
-          "summary": "Precision electronics applications are accelerating the demand for garnet abrasive paper, maintaining a steady 4.6% CAGR through 2035.",
-          "why": "Garnet paper remains a staple for woodworking and specialized surface prep; its growth in electronics shows steady material demand across diversified sectors.",
-          "action": "Evaluate our current inventory and pricing strategy for garnet-based abrasive sheets.",
+          "date": "2026-08-16",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUXZZSEZqNzVRV2VWbE81MzNPSVlmeWpoMFI2RUhWYktFbktXWnBuU0h5VFBTbl9haHhXX0xwU0VwMm5mRHFtNDFMZXFGR2hpRjVwZU1BUl90c0hJNnBMYm9GWnFxWUJzTGNQREI5Vl9pSE84dDB6RkkyTFNWNHN0WFRxSXFpdFBFX3VuR0YtY29BSHFjdlRsdEFXNzRnQ1REMWYzRzE0TzZ4Mi1ZX1p1cTlCMnZ0NWhaR0g0?oc=5",
+          "title": "Abrasive Cloth Rolls Market Growth Driven by Automation in Surface Finishing Through 2035",
+          "summary": "Automated surface finishing lines are increasing the demand for consistent, high-durability abrasive cloth rolls capable of integration into robotic and automated machinery.",
+          "why": "Industrial customers are shifting toward automated sanding to reduce labor costs. Abrasive rolls designed for CNC or robotic systems will see higher demand than manual sheets.",
+          "action": "Focus on sourcing abrasive cloth rolls with high tensile strength and uniform backing suitable for automated feeding systems.",
           "th": {
-            "title": "ตลาดกระดาษทรายโกเมน (Garnet) เติบโตต่อเนื่องด้วย CAGR 4.6% ถึงปี 2035 จากความต้องการด้านอิเล็กทรอนิกส์ความแม่นยำสูง",
-            "summary": "การใช้งานในอิเล็กทรอนิกส์ความแม่นยำสูงกำลังเร่งความต้องการกระดาษทรายโกเมน โดยรักษาอัตราการเติบโตเฉลี่ย (CAGR) ที่ 4.6% จนถึงปี 2035",
-            "why": "กระดาษทรายโกเมนยังคงเป็นวัสดุหลักสำหรับงานไม้และการเตรียมพื้นผิวเฉพาะทาง การเติบโตในภาคอิเล็กทรอนิกส์สะท้อนความต้องการวัสดุที่มั่นคงในหลากหลายอุตสาหกรรม",
-            "action": "ประเมินสต็อกสินค้าและกลยุทธ์ราคาสำหรับกระดาษทรายโกเมนในปัจจุบัน"
+            "title": "ตลาดม้วนผ้าทรายขัดเติบโตจากระบบอัตโนมัติในการขัดตกแต่งผิวถึงปี 2035",
+            "summary": "สายการผลิตขัดผิวแบบอัตโนมัติกำลังเพิ่มความต้องการม้วนผ้าทรายขัดที่มีความทนทานสูงและสม่ำเสมอ ซึ่งสามารถนำไปใช้ร่วมกับหุ่นยนต์และเครื่องจักรอัตโนมัติได้",
+            "why": "ลูกค้าภาคอุตสาหกรรมกำลังเปลี่ยนไปใช้ระบบขัดอัตโนมัติเพื่อลดต้นทุนแรงงาน ม้วนผ้าทรายที่ออกแบบมาสำหรับระบบ CNC หรือหุ่นยนต์จะมีความต้องการสูงกว่ากระดาษทรายแผ่นมือ",
+            "action": "มุ่งเน้นการจัดหาม้วนผ้าทรายที่มีความทนทานต่อแรงดึงสูงและมีแผ่นรองรับที่สม่ำเสมอ เหมาะสำหรับระบบป้อนวัสดุอัตโนมัติ"
           }
         },
         {
           "id": "20260820-w3",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "Market Data Forecast",
-          "date": "2026-07-24",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QdEVXWnRKRG40YWFXWDVwY09BdElfOGotQVNaazA2Q2p2VkluOXlhT1RSeEF3STZKZVI3b21NZlB3MWlwLTVXaVNDQWtQSHNUX3RPZXQ4Y0wwY1pwaGVfYzdKeXNNdDFZMkNpcDVhSm5OUjRraTM4ZV9fRHcyZw?oc=5",
-          "title": "Europe Abrasives Market Size, Share and Analysis, 2034",
-          "summary": "A comprehensive market analysis outlines long-term growth trajectories and regional shifts within the European abrasives sector up to 2034.",
-          "why": "European market standards heavily influence global quality benchmarks, technical specifications, and sustainability requirements for abrasives.",
-          "action": "Benchmark our product quality standards against upcoming European environmental and performance expectations.",
-          "th": {
-            "title": "ขนาด ส่วนแบ่ง และการวิเคราะห์ตลาดวัสดุขัดในยุโรป ปี 2034",
-            "summary": "การวิเคราะห์ตลาดเชิงลึกแสดงให้เห็นแนวโน้มการเติบโตระยะยาวและการเปลี่ยนแปลงระดับภูมิภาคในอุตสาหกรรมวัสดุขัดของยุโรปจนถึงปี 2034",
-            "why": "มาตรฐานตลาดของยุโรปมีอิทธิพลอย่างมากต่อเกณฑ์มาตรฐานคุณภาพระดับโลก ข้อกำหนดทางเทคนิค และข้อกำหนดด้านความยั่งยืนสำหรับสินค้ากลุ่มวัสดุขัด",
-            "action": "เทียบเคียงมาตรฐานคุณภาพสินค้าของเรากับข้อกำหนดด้านสิ่งแวดล้อมและประสิทธิภาพที่ยุโรปกำลังมุ่งไป"
-          }
-        },
-        {
-          "id": "20260820-w4",
-          "tag": "steel",
+          "tag": "auto",
           "rating": "amber",
-          "source": "Recycling International",
-          "date": "2026-05-06",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUGx0eVkxRzJXY2ZfWGV0VWstUVozcnFnRjRpQnEydThVWTdhdno0NEhVNVFLYzRIal85T0h4b0hqNjNBclVpY1lteGZDWFZSdGhhcG9LVlhYN3ZucHRDOWFvOXFkTjhYYjVibTNsM3Y5ZVFjeFhoQW13anV4RE56emVzQUFESDlWRnB4LVpuSFNEb1FoOXRvNU9KY1pfYmxEYlA3RUhqQzY0RDMzSHF1dHE5U0w?oc=5",
-          "title": "Conflicts’ ‘serious’ impact on global steel industry",
-          "summary": "Geopolitical conflicts continue to exert severe disruptions on global steel production, supply routes, and material costs.",
-          "why": "Fluctuations in steel availability and manufacturing costs directly affect metal fabrication activity, impacting local demand for deburring and grinding products.",
-          "action": "Maintain flexible supplier relationships to navigate potential volatility in metal processing sectors.",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-07-23",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZDRQV1lyajBPaFY5UV9pQkxKcXpvRzQ5ejJOcEM5QzgyaXByMHg4MWtaX0pHT3VtV2tPRFVPUjJFdGhBcTNoWDRKOTZ4ekkzeGpOamJMT2R6M2psbHBoNEV6dlMyWW5yM3hkVjZjM0xCV1FNQ2dLamFSTHcyNTB4dEdJZkpsRmtBSUZJeF9FYW9sT0ZHdGNhV2F3RHpOLXp6RUI0SWY0SWNSM0hxM19pYS1DeEZ5ZGdhZHpyUg?oc=5",
+          "title": "Ford and Geely unite in Valencia: smart-factory momentum!",
+          "summary": "Ford and Geely have joined forces in Valencia, signaling a major push toward smart-factory integration, flexible assembly lines, and advanced manufacturing efficiency in Europe.",
+          "why": "Smart factories require precise robotic tooling, including automated surface preparation and deburring. As automotive manufacturing modernizes, component finishing specs become stricter.",
+          "action": "Keep track of European automotive joint-venture standards for surface finishing as benchmarks for high-end local Tier-1 suppliers in Thailand.",
           "th": {
-            "title": "ผลกระทบรุนแรงจากความขัดแย้งที่มีต่ออุตสาหกรรมเหล็กโลก",
-            "summary": "ความขัดแย้งทางภูมิรัฐศาสตร์ยังคงส่งผลกระทบอย่างรุนแรงต่อการผลิตเหล็ก เส้นทางการขนส่ง และต้นทุนวัตถุดิบในระดับglobal",
-            "why": "ความผันผวนของปริมาณเหล็กและต้นทุนการผลิตส่งผลโดยตรงต่อกิจกรรมการแปรรูปโลหะ ซึ่งกระทบต่อความต้องการผลิตภัณฑ์ขัดและลบคมในตลาดท้องถิ่น",
-            "action": "รักษาความยืดหยุ่นในความสัมพันธ์กับผู้จัดจำหน่ายเพื่อรับมือกับความผันผวนในภาคการแปรรูปโลหะ"
+            "title": "Ford และ Geely ร่วมมือกันที่เมืองบาเลนเซีย: แรงขับเคลื่อนโรงงานอัจฉริยะ!",
+            "summary": "Ford และ Geely ได้ร่วมมือกันที่เมืองบาเลนเซีย ซึ่งบ่งชี้ถึงความพยายามครั้งใหญ่ในการบูรณาการโรงงานอัจฉริยะ สายการผลิตที่ยืดหยุ่น และประสิทธิภาพการผลิตขั้นสูงในยุโรป",
+            "why": "โรงงานอัจฉริยะต้องใช้เครื่องมือกลอัตโนมัติที่มีความแม่นยำสูง รวมถึงการเตรียมพื้นผิวและลบคมด้วยระบบอัตโนมัติ เมื่อการผลิตยานยนต์ทันสมัยขึ้น สเปคการขัดตกแต่งชิ้นส่วนจะเข้มงวดมากขึ้น",
+            "action": "ติดตามมาตรฐานการร่วมทุนด้านยานยนต์ของยุโรปสำหรับการขัดตกแต่งผิว เพื่อใช้เป็นเกณฑ์มาตรฐานสำหรับกลุ่มลูกค้าผู้ผลิตชิ้นส่วนยานยนต์ (Tier-1) ในประเทศไทย"
           }
         }
       ]
