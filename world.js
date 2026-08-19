@@ -1,7 +1,89 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-08-19",
+  "updated": "2026-08-20",
   "days": [
+    {
+      "date": "2026-08-20",
+      "summary": "Today's briefing highlights new market data for abrasive paper driven by semiconductor and precision electronics demand, European abrasives market forecasts, and structural shifts in automotive manufacturing and steel supply chains.",
+      "directCount": 4,
+      "th": {
+        "summary": "สรุปข้อมูลแนวโน้มโลกวันนี้ เน้นตลาดกระดาษทรายที่ขับเคลื่อนด้วยความต้องการเซมิคอนดักเตอร์และอิเล็กทรอนิกส์ความแม่นยำสูง การคาดการณ์ตลาดวัสดุขัดผิวในยุโรป และการเปลี่ยนแปลงโครงสร้างการผลิตรถยนต์และห่วงโซ่อุปทานเหล็ก"
+      },
+      "items": [
+        {
+          "id": "20260820-w1",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-08-19",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQlh0amdtY0xNWVFVTGNCUFNfS2gzSmJrNWNUTHYxNjRSYWhhMjdnVGlPaVVuZks4REdMZE1hYk04cWYwc1hnMlBQWF80eU5NVDlUUzJ6LUJ3SV9QU044RElvZTFPanRrMTZLMGp0dzZRakJtRm9ROFNVV1BRdjVNM0twNkJTb2xwbkVQdVQ3VXlUV0d4ZmtFRkhWZ3JRamlZMGtHYW5EYVNQVDJuTXAyMHhkLXRkMVZFNU9rNTdYOE4td3pN?oc=5",
+          "title": "Emery Paper Market to Reach USD 2.3B by 2035, Driven by Semiconductor Demand for Ultra-Fine Grits",
+          "summary": "The global emery paper market is projected to reach USD 2.3 billion by 2035, significantly propelled by the semiconductor industry's demand for ultra-fine grinding grits.",
+          "why": "Signals a high-margin growth vector for ultra-fine abrasives and specialized polishing media used in advanced tech manufacturing rather than just heavy industrial metal.",
+          "action": "Monitor high-end, ultra-fine grit sourcing opportunities for electronics and semiconductor supply chains.",
+          "th": {
+            "title": "ตลาดกระดาษกากเพชร (Emery Paper) จะเติบโตแตะ 2.3 พันล้านดอลลาร์ภายในปี 2035 ขับเคลื่อนโดยความต้องการเซมิคอนดักเตอร์",
+            "summary": "ตลาดกระดาษกากเพชรทั่วโลกคาดว่าจะเติบโตถึง 2.3 พันล้านดอลลาร์ภายในปี 2035 โดยได้รับแรงหนุนสำคัญจากความต้องการเม็ดทรายขัดความละเอียดสูงในอุตสาหกรรมเซมิคอนดักเตอร์",
+            "why": "เป็นสัญญาณบ่งชี้ถึงโอกาสเติบโตที่มีอัตรากำไรสูงสำหรับวัสดุขัดความละเอียดสูงและสื่อขัดเงาพิเศษที่ใช้ในอุตสาหกรรมไฮเทค มากกว่างานโลหะหนักทั่วไป",
+            "action": "ติดตามแหล่งจัดหาเม็ดทรายขัดความละเอียดสูงพิเศษสำหรับห่วงโซ่อุปทานอิเล็กทรอนิกส์และเซมิคอนดักเตอร์"
+          }
+        },
+        {
+          "id": "20260820-w2",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-08-18",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcEVHZXVJQjFJQmZqdmZxSmlZb3FCUkV6VmhKZE9sclNaakxUdm5xSGx4ajFER2ZrNDlTMkxDZTVuVWtDRmdnZWlTMWl6Uy1yZEdidE43U3piMnhVdlpua2NCOUtRS2RMeVlXRlRyQ2JfZjE5QW05SHpBeXhYVVVob1daWm5obGJrbjhxWVlqY2FfS1hKUG5yNXFERWwzNHp1a1NZbkNyQzB2S3JLeC1nbWU1ZUJsNXV0YXZOT2Y2ZWhzXzNqZmxSbG9n?oc=5",
+          "title": "Garnet Abrasive Paper Market Precision Electronics Demand Drives 4.6% CAGR Through 2035",
+          "summary": "Precision electronics applications are accelerating the demand for garnet abrasive paper, maintaining a steady 4.6% CAGR through 2035.",
+          "why": "Garnet paper remains a staple for woodworking and specialized surface prep; its growth in electronics shows steady material demand across diversified sectors.",
+          "action": "Evaluate our current inventory and pricing strategy for garnet-based abrasive sheets.",
+          "th": {
+            "title": "ตลาดกระดาษทรายโกเมน (Garnet) เติบโตต่อเนื่องด้วย CAGR 4.6% ถึงปี 2035 จากความต้องการด้านอิเล็กทรอนิกส์ความแม่นยำสูง",
+            "summary": "การใช้งานในอิเล็กทรอนิกส์ความแม่นยำสูงกำลังเร่งความต้องการกระดาษทรายโกเมน โดยรักษาอัตราการเติบโตเฉลี่ย (CAGR) ที่ 4.6% จนถึงปี 2035",
+            "why": "กระดาษทรายโกเมนยังคงเป็นวัสดุหลักสำหรับงานไม้และการเตรียมพื้นผิวเฉพาะทาง การเติบโตในภาคอิเล็กทรอนิกส์สะท้อนความต้องการวัสดุที่มั่นคงในหลากหลายอุตสาหกรรม",
+            "action": "ประเมินสต็อกสินค้าและกลยุทธ์ราคาสำหรับกระดาษทรายโกเมนในปัจจุบัน"
+          }
+        },
+        {
+          "id": "20260820-w3",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "Market Data Forecast",
+          "date": "2026-07-24",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QdEVXWnRKRG40YWFXWDVwY09BdElfOGotQVNaazA2Q2p2VkluOXlhT1RSeEF3STZKZVI3b21NZlB3MWlwLTVXaVNDQWtQSHNUX3RPZXQ4Y0wwY1pwaGVfYzdKeXNNdDFZMkNpcDVhSm5OUjRraTM4ZV9fRHcyZw?oc=5",
+          "title": "Europe Abrasives Market Size, Share and Analysis, 2034",
+          "summary": "A comprehensive market analysis outlines long-term growth trajectories and regional shifts within the European abrasives sector up to 2034.",
+          "why": "European market standards heavily influence global quality benchmarks, technical specifications, and sustainability requirements for abrasives.",
+          "action": "Benchmark our product quality standards against upcoming European environmental and performance expectations.",
+          "th": {
+            "title": "ขนาด ส่วนแบ่ง และการวิเคราะห์ตลาดวัสดุขัดในยุโรป ปี 2034",
+            "summary": "การวิเคราะห์ตลาดเชิงลึกแสดงให้เห็นแนวโน้มการเติบโตระยะยาวและการเปลี่ยนแปลงระดับภูมิภาคในอุตสาหกรรมวัสดุขัดของยุโรปจนถึงปี 2034",
+            "why": "มาตรฐานตลาดของยุโรปมีอิทธิพลอย่างมากต่อเกณฑ์มาตรฐานคุณภาพระดับโลก ข้อกำหนดทางเทคนิค และข้อกำหนดด้านความยั่งยืนสำหรับสินค้ากลุ่มวัสดุขัด",
+            "action": "เทียบเคียงมาตรฐานคุณภาพสินค้าของเรากับข้อกำหนดด้านสิ่งแวดล้อมและประสิทธิภาพที่ยุโรปกำลังมุ่งไป"
+          }
+        },
+        {
+          "id": "20260820-w4",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "Recycling International",
+          "date": "2026-05-06",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUGx0eVkxRzJXY2ZfWGV0VWstUVozcnFnRjRpQnEydThVWTdhdno0NEhVNVFLYzRIal85T0h4b0hqNjNBclVpY1lteGZDWFZSdGhhcG9LVlhYN3ZucHRDOWFvOXFkTjhYYjVibTNsM3Y5ZVFjeFhoQW13anV4RE56emVzQUFESDlWRnB4LVpuSFNEb1FoOXRvNU9KY1pfYmxEYlA3RUhqQzY0RDMzSHF1dHE5U0w?oc=5",
+          "title": "Conflicts’ ‘serious’ impact on global steel industry",
+          "summary": "Geopolitical conflicts continue to exert severe disruptions on global steel production, supply routes, and material costs.",
+          "why": "Fluctuations in steel availability and manufacturing costs directly affect metal fabrication activity, impacting local demand for deburring and grinding products.",
+          "action": "Maintain flexible supplier relationships to navigate potential volatility in metal processing sectors.",
+          "th": {
+            "title": "ผลกระทบรุนแรงจากความขัดแย้งที่มีต่ออุตสาหกรรมเหล็กโลก",
+            "summary": "ความขัดแย้งทางภูมิรัฐศาสตร์ยังคงส่งผลกระทบอย่างรุนแรงต่อการผลิตเหล็ก เส้นทางการขนส่ง และต้นทุนวัตถุดิบในระดับglobal",
+            "why": "ความผันผวนของปริมาณเหล็กและต้นทุนการผลิตส่งผลโดยตรงต่อกิจกรรมการแปรรูปโลหะ ซึ่งกระทบต่อความต้องการผลิตภัณฑ์ขัดและลบคมในตลาดท้องถิ่น",
+            "action": "รักษาความยืดหยุ่นในความสัมพันธ์กับผู้จัดจำหน่ายเพื่อรับมือกับความผันผวนในภาคการแปรรูปโลหะ"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-08-19",
       "summary": "Global industrial trends today show strong emphasis on superhard abrasive machining, automotive EV manufacturing growth, and electric-arc furnace steel production optimization, signaling crucial shifts for surface finishing and metal fabrication.",
