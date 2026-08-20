@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-08-21",
-      "summary": "Today's intelligence highlights specialized industrial demand, specifically the growth of waterproof abrasive sheets driven by EV battery finishing, alongside regional automotive manufacturing and steel supply chain disruptions.",
+      "summary": "Today's briefing features 3 fresh global trends focusing on AI integration in coatings, European market technology drivers, and steel industry protectionism and surplus challenges.",
       "directCount": 2,
       "th": {
-        "summary": "ข่าวกรองวันนี้เน้นความต้องการสินค้าอุตสาหกรรมเฉพาะทาง โดยเฉพาะกระดาษทรายกันน้ำที่เติบโตจากการขัดแต่งแบตเตอรี่ EV ควบคู่ไปกับการผลิตรถยนต์ระดับภูมิภาคและห่วงโซ่อุปทานเหล็กที่ได้รับผลกระทบ"
+        "summary": "สรุปประเด็นแนวโน้มโลกประจำวันนี้มี 3 เรื่องสำคัญ ได้แก่ การนำ AI มาใช้ในอุตสาหกรรมสีและสารเคลือบ, ตัวขับเคลื่อนเทคโนโลยีในตลาดยุโรป, และความท้าทายด้านมาตรการกีดกันทางการค้าและภาวะล้นตลาดเหล็ก"
       },
       "items": [
         {
           "id": "20260821-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-08-13",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOajhLYXZEcDFTbWdQSXl1ekYwYlRmOENGOHA3NWxvOFJJVGk0WDBfZV9vYnhmUzByZU9oWktINGpjd0hIY1dXZjZPQ2xNVzJrNXhBTTc5WENRZWVQc19JQkNGM3lVYnltZDJLdkx4VWJQbXdlN0J5RmJrNWpvOGIwSmoyUHVDZzB1bUJYZ0dDY2NDczR6clVGeUF1dnMyd1J3TU05SmxqbjFJVC0yck80bmg0WVVKWFI4aVo1amdWQzBEbldCVGlySkZR?oc=5",
-          "title": "Waterproof Abrasive Sheets Market 1.8 Billion Sheets by 2035 on EV Battery Finishing Demand",
-          "summary": "The global waterproof abrasive sheets market is projected to reach 1.8 billion sheets by 2035, heavily propelled by surface finishing requirements in electric vehicle (EV) battery manufacturing.",
-          "why": "EV battery production requires high-precision wet sanding and surface prep, opening a strong niche demand for waterproof abrasive sheets.",
-          "action": "Ensure our waterproof sandpaper and sheet product lines are well-promoted to EV-related component suppliers.",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "Amazon Web Services (AWS)",
+          "date": "2025-10-22",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UMG9rVURtamVSUnVYZzhtYjBPZUVWNDdCb0J1V3lEd09EV1JsS3dsU0ZwNkRxbmc4MVlwcXRPZW5aQklBRGxEWWxVRmVzUUJEZUNfOXZfT0d3cnVPaW5ydjZ3bjBlS1NyRGhWSw?oc=5",
+          "title": "AI in Paints and Coatings Market: Trends, Growth, and Opportunities",
+          "summary": "Artificial intelligence is increasingly transforming the paints and coatings industry, optimizing formulation processes and manufacturing quality control.",
+          "why": "Advanced surface coatings directly impact how metal and automotive components are prepped and finished before and after coating applications.",
+          "action": "Monitor how smart manufacturing and automated inspection tech influence surface finishing standards.",
           "th": {
-            "title": "ตลาดแผ่นกระดาษทรายกันน้ำแตะ 1.8 พันล้านแผ่นในปี 2035 จากความต้องการขัดแต่งแบตเตอรี่ EV",
-            "summary": "ตลาดแผ่นกระดาษทรายกันน้ำทั่วโลกคาดว่าจะสูงถึง 1.8 พันล้านแผ่นภายในปี 2035 ขับเคลื่อนโดยความต้องการขัดผิวสำเร็จในการผลิตแบตเตอรี่รถยนต์ไฟฟ้า (EV)",
-            "why": "การผลิตแบตเตอรี่ EV ต้องใช้งานขัดเปียกและความแม่นยำสูง สร้างความต้องการเฉพาะกลุ่มที่แข็งแกร่งสำหรับกระดาษทรายกันน้ำ",
-            "action": "ตรวจสอบให้แน่ใจว่ากลุ่มผลิตภัณฑ์กระดาษทรายกันน้ำของเราได้รับการโปรโมตไปยังซัพพลายเออร์ชิ้นส่วนที่เกี่ยวข้องกับ EV อย่างทั่วถึง"
+            "title": "ตลาดปัญญาประดิษฐ์ในอุตสาหกรรมสีและสารเคลือบ: แนวโน้ม การเติบโต และโอกาส",
+            "summary": "ปัญญาประดิษฐ์กำลังเข้ามาพลิกโฉมวงการสีและสารเคลือบ โดยช่วยปรับปรุงกระบวนการผสมสูตรและการควบคุมคุณภาพการผลิต",
+            "why": "สารเคลือบพื้นผิวขั้นสูงส่งผลโดยตรงต่อวิธีการเตรียมและตกแต่งผิวชิ้นส่วนโลหะและยานยนต์ ทั้งก่อนและหลังการพ่นเคลือบ",
+            "action": "ติดตามว่าเทคโนโลยีการผลิตอัจฉริยะและการตรวจสอบอัตโนมัติส่งผลต่อมาตรฐานการเตรียมผิวอย่างไร"
           }
         },
         {
           "id": "20260821-w2",
-          "tag": "auto",
+          "tag": "coating",
           "rating": "amber",
-          "source": "MarketsandMarkets",
-          "date": "2026-08-19",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOc2F0RWhMOElwY09Dbl9LSm1ENlFyQUFwS3ozU1lwQnRwSXhFZ0tQUFlZWGxta0dzYzE2WGN6ZlZIZHh2WmdBM2FkcGUzb0NTZWpFSnVPWEthbGJSYnJhSTBWQmlXMENmdXU4ZlR1X0xjMGxwSkJaRnVXU3Jael9YY1U0Ry10OUViM25EMmdLVQ?oc=5",
-          "title": "India Automotive Refinish Coatings Market Size, Share, Trends, Growth Analysis Report, 2030",
-          "summary": "A comprehensive outlook report indicates steady growth for automotive refinish coatings in India through 2030, reflecting rising vehicle parc and maintenance activities.",
-          "why": "Auto refinishing and body shop maintenance are core end-user markets for automotive sandpaper, masking papers, and surface finishing discs.",
-          "action": "Monitor India's automotive aftermarket growth as an indicator for regional consumable abrasive demand.",
+          "source": "Coatings World",
+          "date": "2025-12-10",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVDFJcHBGVXhXMm1MR1R0QkJ4VkNDdnZvcjh2bzJkX1hJYUdJQ1pyOFIxRzVPUXZGUDRheEVHaVhweG14Smk5Z3FCbjhadTM4RnIzLXkxMnBWX3p2UU4ya3dxNXFocWJWd1EyUHhjeEFOWGdwWW1LcllXTFdyUVNEMkxmRGdoblpuc2w5V2RNei0xZmM1S1p5bExhX1otTFBMY0RtbA?oc=5",
+          "title": "Innovation and Technology to Drive Future of European Market",
+          "summary": "The European coatings market is prioritizing high-end technological innovations and sustainable solutions to meet strict future regulations.",
+          "why": "European manufacturing shifts toward sustainability and advanced tech often set global benchmarks for industrial finishing tools.",
+          "action": "Keep an eye on European eco-friendly coating standards that may require new surface preparation techniques.",
           "th": {
-            "title": "รายงานวิเคราะห์ขนาด ส่วนแบ่ง และแนวโน้มตลาดสีพ่นซ่อมรถยนต์ในอินเดีย ถึงปี 2030",
-            "summary": "รายงานแนวโน้มตลาดระบุว่าตลาดสีพ่นซ่อมรถยนต์ในอินเดียจะเติบโตอย่างต่อเนื่องจนถึงปี 2030 สะท้อนถึงจำนวนรถยนต์และกิจกรรมการซ่อมบำรุงที่เพิ่มขึ้น",
-            "why": "ตลาดซ่อมสีและตัวถังรถยนต์คือกลุ่มผู้ใช้หลักสำหรับกระดาษทรายรถยนต์ กระดาษกาว และแผ่นขัดผิว",
-            "action": "ติดตามการเติบโตของตลาดหลังการขายยานยนต์ในอินเดียเพื่อเป็นสัญญาณวัดความต้องการวัสดุสิ้นเปลืองกลุ่มขัด"
+            "title": "นวัตกรรมและเทคโนโลยีขับเคลื่อนอนาคตตลาดยุโรป",
+            "summary": "ตลาดยุโรปให้ความสำคัญกับนวัตกรรมทางเทคโนโลยีระดับสูงและโซลูชันที่ยั่งยืน เพื่อให้สอดคล้องกับข้อกำหนดที่เข้มงวดในอนาคต",
+            "why": "การปรับเปลี่ยนอุตสาหกรรมการผลิตของยุโรปไปสู่ความยั่งยืนและเทคโนโลยีขั้นสูง มักเป็นบรรทัดฐานให้กับเครื่องมือขัดผิวทั่วโลก",
+            "action": "ติดตามมาตรฐานสารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมของยุโรป ซึ่งอาจต้องใช้เทคนิคการเตรียมพื้นผิวแบบใหม่"
           }
         },
         {
           "id": "20260821-w3",
           "tag": "steel",
-          "rating": "amber",
-          "source": "The World Economic Forum",
-          "date": "2026-04-21",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeFBmZTNpZDhjN1lHNlBlU0duZ3ZQWW9uanI0SWs3SDFVazlpbVVXMklqSTVjbDloUEI4NW1Ca2dGckgzanh5UlRfX1F5QlVfQWFZNGdSS1h5bHNIUElCTk9LeUktaGd2VWxwRDAyMGJmQ1F6ZHVEOURKVjF3MVdHWGd0OG4zYTNtUk0yZkp0QXN4R3p5LUEtWkFzODBVdUdlTVpLNTh3ZjQtTGJuanlfS0Y5dWVLVEo1WkEybk96dVY?oc=5",
-          "title": "How the Iran war is disrupting India's steel production amid fuel shortages and rising costs",
-          "summary": "Geopolitical conflicts and regional fuel shortages continue to impact metal production hubs, driving up operational costs and causing supply chain friction for steel.",
-          "why": "Steel production output directly influences local fabrication, heavy machinery manufacturing, and metal deburring/grinding abrasive consumption.",
-          "action": "Keep an eye on metal manufacturing input costs, which can affect B2B customer spending on heavy industrial abrasives.",
+          "rating": "green",
+          "source": "S&P Global",
+          "date": "2026-01-12",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
+          "title": "Global steel industry battles surplus supply, protectionism",
+          "summary": "The global steel sector is currently facing significant challenges from excess production capacity and rising international trade protectionism.",
+          "why": "Steel oversupply and trade barriers directly affect metal fabricators' output, production costs, and demand for grinding and deburring abrasives.",
+          "action": "Assess how regional steel price fluctuations impact local metal fabrication customers' purchasing volumes for abrasive belts and discs.",
           "th": {
-            "title": "สงครามในอิหร่านกระทบการผลิตเหล็กของอินเดียท่ามกลางปัญหาขาดแคลนเชื้อเพลิงและต้นทุนที่สูงขึ้น",
-            "summary": "ความขัดแย้งทางภูมิรัฐศาสตร์และการขาดแคลนเชื้อเพลิงในภูมิภาคยังคงส่งผลกระทบต่อศูนย์กลางการผลิตโลหะ ดันต้นทุนการดำเนินงานให้สูงขึ้นและเกิดอุปสรรคในห่วงโซ่อุปทานเหล็ก",
-            "why": "ปริมาณการผลิตเหล็กส่งผลโดยตรงต่ออุตสาหกรรมแปรรูปโลหะ การผลิตเครื่องจักรหนัก และการใช้แผ่นเจียร/ตัดโลหะ",
-            "action": "ติดตามต้นทุนการผลิตโลหะ ซึ่งอาจส่งผลต่อกำลังซื้อของลูกค้า B2B ในกลุ่มผลิตภัณฑ์ขัดอุตสาหกรรมหนัก"
+            "title": "อุตสาหกรรมเหล็กโลกเผชิญศึกหนักจากภาวะล้นตลาดและลัทธิกีดกันทางการค้า",
+            "summary": "ภาคอุตสาหกรรมเหล็กทั่วโลกกำลังเผชิญกับความท้าทายครั้งใหญ่จากกำลังการผลิตส่วนเกินและมาตรการกีดกันทางการค้าระหว่างประเทศที่เพิ่มขึ้น",
+            "why": "ภาวะเหล็ก้นตลาดและอุปสรรคทางการค้าส่งผลกระทบโดยตรงต่อปริมาณผลผลิต ต้นทุนการผลิต และความต้องการใช้วัสดุขัดและลบคมของกลุ่มผู้แปรรูปโลหะ",
+            "action": "ประเมินว่าความผันผวนของราคาระดับภูมิภาคส่งผลต่อปริมาณการสั่งซื้อกระดาษทรายและแผ่นขัดของลูกค้ากลุ่มแปรรูปโลหะอย่างไร"
           }
         }
       ]
