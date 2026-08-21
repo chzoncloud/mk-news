@@ -1,7 +1,107 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-08-21",
+  "updated": "2026-08-22",
   "days": [
+    {
+      "date": "2026-08-22",
+      "summary": "Today's global intelligence briefing highlights precision electronics driving garnet abrasive paper demand, along with regional shifts in automotive manufacturing equipment across India, China, and Japan.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปข้อมูลแนวโน้มโลกประจำวันนี้เน้นย้ำถึงความต้องการกระดาษทรายโกเมนที่ขับเคลื่อนด้วยอุตสาหกรรมอิเล็กทรอนิกส์ความแม่นยำสูง พร้อมด้วยการเปลี่ยนแปลงระดับภูมิภาคของอุปกรณ์การผลิตยานยนต์ในอินเดีย จีน และญี่ปุ่น"
+      },
+      "items": [
+        {
+          "id": "20260822-w1",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-08-18",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcEVHZXVJQjFJQmZqdmZxSmlZb3FCUkV6VmhKZE9sclNaakxUdm5xSGx4ajFER2ZrNDlTMkxDZTVuVWtDRmdnZWlTMWl6Uy1yZEdidE43U3piMnhVdlpua2NCOUtRS2RMeVlXRlRyQ2JfZjE5QW05SHpBeXhYVVVob1daWm5obGJrbjhxWVlqY2FfS1hKUG5yNXFERWwzNHp1a1NZbkNyQzB2S3JLeC1nbWU1ZUJsNXV0YXZOT2Y2ZWhzXzNqZmxSbG9n?oc=5",
+          "title": "Garnet Abrasive Paper Market Precision Electronics Demand Drives 4.6% CAGR Through 2035",
+          "summary": "Demand for garnet abrasive paper is growing steadily at a 4.6% CAGR through 2035, heavily fueled by precision electronics manufacturing.",
+          "why": "Highlights growth in specialized coated abrasives for high-tech electronics, offering potential expansion into high-precision surface finishing applications.",
+          "action": "Monitor precision electronics sectors for niche opportunities in specialized coated abrasives.",
+          "th": {
+            "title": "ตลาดกระดาษทรายโกเมนเติบโต 4.6% จนถึงปี 2035 หนุนโดยความต้องการใช้อุปกรณ์อิเล็กทรอนิกส์ความแม่นยำสูง",
+            "summary": "ความต้องการกระดาษทรายโกเมนเติบโตอย่างต่อเนื่องด้วยอัตราเติบโตเฉลี่ย 4.6% ต่อปีถึงปี 2035 โดยได้รับแรงหนุนหลักจากการผลิตอิเล็กทรอนิกส์ความแม่นยำสูง",
+            "why": "สะท้อนถึงการเติบโตของกระดาษทรายเฉพาะทางสำหรับอุตสาหกรรมไฮเทค ซึ่งเปิดโอกาสในการขยายตลาดสู่งานขัดผิวความละเอียดสูง",
+            "action": "ติดตามกลุ่มอุตสาหกรรมอิเล็กทรอนิกส์ความแม่นยำสูงเพื่อหาโอกาสในตลาดกระดาษทรายและวัสดุขัดเฉพาะทาง"
+          }
+        },
+        {
+          "id": "20260822-w2",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "MarketsandMarkets",
+          "date": "2026-08-19",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUEFHclR5NnZiRmQ3ZWs1QWMycFZkZlZVempvMXlNMGxrUXc1alpac0trZnhoVG5pRnRISVhlYlJmUkpLVHp5T1FFQi04ODdlVmRoMDBYckx4SHVONkVEQVcxNWxfcTRBNS1DTmstS2JyZTh4OVQzbk9lN3dHZkt6cUFqZHVBcmlVbWtkUGJSejJvZVdoc3Z5dTRUM2ZlMUZEdzNsLVM2VGpqdw?oc=5",
+          "title": "China Automotive Manufacturing Equipment Market Size, Share, Trends, Growth Analysis Report, 2030",
+          "summary": "The report analyzes the scale and growth trajectory of automotive manufacturing equipment in China through 2030.",
+          "why": "Automotive manufacturing equipment investments directly correlate with local metal stamping, body-in-white prep, and robotic grinding consumable demand.",
+          "action": "Track Chinese automotive equipment trends to anticipate shifts in regional automated surface finishing technologies.",
+          "th": {
+            "title": "รายงานขนาด ส่วนแบ่ง และแนวโน้มตลาดอุปกรณ์การผลิตยานยนต์ในจีน ปี 2030",
+            "summary": "รายงานวิเคราะห์ขนาดและทิศทางการเติบโตของอุปกรณ์การผลิตยานยนต์ในประเทศจีนจนถึงปี 2030",
+            "why": "การลงทุนในอุปกรณ์การผลิตยานยนต์มีความเชื่อมโยงโดยตรงกับความต้องการใช้วัสดุขัดสำหรับการปั๊มโลหะ การเตรียมพื้นผิวตัวถัง และระบบขัดอัตโนมัติ",
+            "action": "ติดตามแนวโน้มอุปกรณ์ยานยนต์ของจีนเพื่อคาดการณ์การเปลี่ยนแปลงเทคโนโลยีการขัดผิวอัตโนมัติในระดับภูมิภาค"
+          }
+        },
+        {
+          "id": "20260822-w3",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "MarketsandMarkets",
+          "date": "2026-08-19",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOc2F0RWhMOElwY09Dbl9LSm1ENlFyQUFwS3ozU1lwQnRwSXhFZ0tQUFlZWGxta0dzYzE2WGN6ZlZIZHh2WmdBM2FkcGUzb0NTZWpFSnVPWEthbGJSYnJhSTBWQmlXMENmdXU4ZlR1X0xjMGxwSkJaRnVXU3Jael9YY1U0Ry10OUViM25EMmdLVQ?oc=5",
+          "title": "India Automotive Refinish Coatings Market Size, Share, Trends, Growth Analysis Report, 2030",
+          "summary": "India's automotive refinish coatings market is projected to expand significantly up to 2030.",
+          "why": "Refinish coatings growth signals active body shop activities, which heavily consume sandpaper, masking supplies, and surface preparation abrasives.",
+          "action": "Keep an eye on India's automotive aftermarket as a benchmark for regional refinishing consumable demand.",
+          "th": {
+            "title": "รายงานตลาดสีพ่นซ่อมรถยนต์ในอินเดีย ขนาด ส่วนแบ่ง และแนวโน้มการเติบโต ปี 2030",
+            "summary": "ตลาดสีพ่นซ่อมรถยนต์ของอินเดียมีแนวโน้มขยายตัวอย่างมีนัยสำคัญจนถึงปี 2030",
+            "why": "การเติบโตของสีพ่นซ่อมสะท้อนถึงกิจกรรมในอู่ซ่อมสีรถยนต์ ซึ่งมีการใช้กระดาษทราย วัสดุกดบัง และผลิตภัณฑ์เตรียมพื้นผิวในปริมาณมาก",
+            "action": "จับตาตลาดหลังการขายยานยนต์ของอินเดียเพื่อใช้เป็นเกณฑ์มาตรฐานความต้องการวัสดุขัดพ่นซ่อมในภูมิภาค"
+          }
+        },
+        {
+          "id": "20260822-w4",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "MarketsandMarkets",
+          "date": "2026-08-19",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ1M5STBkaEJNSUljMUpNUmZscEN1dkRJN3JvaXFvZzExVlpQczFxbEp1UnN2ZU56V0xvVGd0ZUxZT3VQd3VIRVl6aHZneEM3c2QySVBZX2xfNWpkVmxRYzQ2NFo1Y0hhNHpCbW5EX2JBTFduRm5GbUZ0NzNtejZJYmFQb1lyQUdBb0l0cVBBcmRGdVVKSWhkSkM4UHZOdlI2RDZaX25Bcmc5Tjg?oc=5",
+          "title": "Europe Automotive Manufacturing Equipment Market Size, Share, Trends, Growth Analysis Report, 2030",
+          "summary": "European automotive manufacturing equipment sector is adapting to strict efficiency targets and production shifts.",
+          "why": "European OEMs demand stringent surface quality specifications, influencing global standards for precision grinding and deburring tools.",
+          "action": "Note European factory upgrade patterns focusing on automation and higher efficiency finishing standards.",
+          "th": {
+            "title": "รายงานตลาดอุปกรณ์การผลิตยานยนต์ในยุโรป ขนาด ส่วนแบ่ง และแนวโน้มการเติบโต ปี 2030",
+            "summary": "ภาคอุตสาหกรรมอุปกรณ์การผลิตยานยนต์ของยุโรปกำลังปรับตัวเข้าเป้าหมายด้านประสิทธิภาพที่เข้มงวดและการเปลี่ยนแปลงการผลิต",
+            "why": "ผู้ผลิตรถยนต์ในยุโรปกำหนดมาตรฐานคุณภาพพื้นผิวที่เข้มงวด ซึ่งส่งผลต่อมาตรฐานระดับโลกสำหรับเครื่องมือขัดและลบครีบความละเอียดสูง",
+            "action": "สังเกตรูปแบบการอัปเกรดโรงงานในยุโรปที่เน้นระบบอัตโนมัติและมาตรฐานการขัดแต่งที่มีประสิทธิภาพสูงขึ้น"
+          }
+        },
+        {
+          "id": "20260822-w5",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "MarketsandMarkets",
+          "date": "2026-08-19",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOFFBN1ZaSlJoTzhZNm9oVl9QVUdaYUthZHZQb1gweUExeTFXRUtRYXFncGsySDYzN2NTZVNjaEdmNFR5Y0xQUk15ZVNaSWdCalp2UTAydExDR3VGM3BoaWMxajlVQkZfdzVINTE4djNkQ21qLWJzQWFPb2ZJNE85dURMVEYtRDdTY2Nmb01zOUpDUnRwTHhkZkoydzBHMmlCa2ltTms5TEllQQ?oc=5",
+          "title": "Japan Automotive Manufacturing Equipment Market Size, Share, Trends, Growth Analysis Report, 2030",
+          "summary": "Japan's automotive manufacturing equipment market continues to evolve around advanced robotics and precision engineering.",
+          "why": "Japanese automotive standards dictate high-end robotic integration for surface grinding, shaping automated abrasive consumption.",
+          "action": "Monitor Japanese automation trends to align with future robotic abrasive application requirements.",
+          "th": {
+            "title": "รายงานตลาดอุปกรณ์การผลิตยานยนต์ในญี่ปุ่น ขนาด ส่วนแบ่ง และแนวโน้มการเติบโต ปี 2030",
+            "summary": "ตลาดอุปกรณ์การผลิตยานยนต์ของญี่ปุ่นยังคงพัฒนาอย่างต่อเนื่องโดยเน้นหุ่นยนต์ขั้นสูงและวิศวกรรมความแม่นยำ",
+            "why": "มาตรฐานยานยนต์ของญี่ปุ่นกำหนดให้มีการบูรณาการหุ่นยนต์ระดับสูงสำหรับการขัดผิว ซึ่งหล่อหลอมรูปแบบการใช้วัสดุขัดอัตโนมัติ",
+            "action": "ติดตามแนวโน้มระบบอัตโนมัติของญี่ปุ่นเพื่อให้สอดคล้องกับความต้องการใช้งานวัสดุขัดกับหุ่นยนต์ในอนาคต"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-08-21",
       "summary": "Today's briefing features 3 fresh global trends focusing on AI integration in coatings, European market technology drivers, and steel industry protectionism and surplus challenges.",
