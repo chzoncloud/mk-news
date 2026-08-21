@@ -3,82 +3,64 @@ window.NEWS_ARCHIVE = {
   "days": [
     {
       "date": "2026-08-22",
-      "summary": "Today has limited new developments as major stories were covered earlier. Key highlights focus on cumulative EV investments exceeding 130 billion baht and ongoing structural pressures across the automotive, steel, and export furniture sectors.",
+      "summary": "Limited fresh news today; key highlights include Thai Airways' massive fleet expansion supporting long-term aviation MRO abrasive demand, alongside regulatory scrutiny in the domestic steel manufacturing sector.",
       "directCount": 1,
       "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มากนักเนื่องจากประเด็นหลักส่วนใหญ่ได้รายงานไปแล้ว ไฮไลต์สำคัญอยู่ที่ยอดส่งเสริมการลงทุน EV ที่ทะลุ 1.3 แสนล้านบาท รวมถึงแรงกดดันเชิงโครงสร้างในภาคยานยนต์ เหล็ก และการส่งออกเฟอร์นิเจอร์"
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก ไฮไลต์สำคัญอยู่ที่แผนขยายฝูงบินขนาดใหญ่ของการบินไทยที่จะช่วยหนุนความต้องการวัสดุขัดในกลุ่มซ่อมบำรุงอากาศยาน (MRO) ระยะยาว ควบคู่ไปกับการจัดระเบียบมาตรฐานโรงงานเหล็กในประเทศ"
       },
       "items": [
         {
           "id": "20260822-1",
-          "tag": "auto",
+          "tag": "aero",
           "rating": "green",
-          "source": "Thaigov",
-          "date": "2026-07-02",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zOHo0X01meExtendzNTNja1RMTUxKa2dWM0hFZ1JrRzJ4dmJPLWhSdHVwb19IU01fVTRVOWtaX2lkMVJUSlRPb3FCNVg5UQ?oc=5",
-          "title": "BOI Reports EV Investments Surpass 130 Billion Baht Across Multiple Technologies",
-          "summary": "The Board of Investment (BOI) announced that total EV investment applications have exceeded 130 billion baht, covering battery electric vehicles, hybrid systems, and key component supply chains in Thailand.",
-          "why": "New EV and battery component factories require industrial abrasives for aluminum body grinding, weld seam preparation, and battery enclosure deburring.",
-          "action": "Map newly approved BOI EV component suppliers to pitch robotic grinding discs and precision surface finishing solutions.",
+          "source": "thansettakij",
+          "date": "2026-08-01",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJbG91NDM0Z1ZuZmRPYUc4dlRzSXYwVXRnb1l5dGZyZUJLSDZqUXhOSnVzSXVQeTdRME04Y1c5TVB5SC0wOENDcm9VeDhaT3Fha0ZocE90aEgzNXpNOGVmYklR?oc=5",
+          "title": "Thai Airways Invests 100 Billion Baht to Expand Fleet to 150 Aircraft",
+          "summary": "Thai Airways is committing a massive 100-billion-baht investment to grow its commercial fleet to 150 aircraft, aiming to reclaim its status as a leading global airline.",
+          "why": "A significantly larger aircraft fleet drives recurring heavy maintenance and surface-finishing operations, directly expanding demand for aerospace-grade abrasive products in Thai MRO facilities.",
+          "action": "Accelerate product compliance and testing for specialized aerospace abrasives with key airline MRO engineering teams.",
           "th": {
-            "title": "บีโอไอเผยยอดลงทุน EV ทะลุ 1.3 แสนล้าน หนุนฐานผลิตยานยนต์ไฟฟ้าครบวงจร",
-            "summary": "บีโอไอเปิดเผยว่ายอดขอรับการส่งเสริมการลงทุนในกลุ่มยานยนต์ไฟฟ้าทะลุ 1.3 แสนล้านบาท ครอบคลุมทั้งรถยนต์ไฟฟ้า แบตเตอรี่ และซัพพลายเชนชิ้นส่วนสำคัญในไทย",
-            "why": "โรงงานผลิต EV และชิ้นส่วนแบตเตอรี่แห่งใหม่ต้องใช้วัสดุขัดสำหรับงานเจียรโครงสร้างอะลูมิเนียม ลบแนวเชื่อม และลบครีบกล่องแบตเตอรี่",
-            "action": "ตรวจสอบรายชื่อซัพพลายเออร์ชิ้นส่วน EV ที่ได้รับอนุมัติจากบีโอไอเพื่อนำเสนอจานขัดงานโรบอตและวัสดุขัดผิวละเอียด"
+            "title": "การบินไทยทุ่มแสนล้านจัดทัพฝูงบิน 150 ลำ ทวงบัลลังก์สายการบินระดับโลก",
+            "summary": "การบินไทยเตรียมทุ่มงบลงทุน 1 แสนล้านบาทขยายฝูงบินเพิ่มเป็น 150 ลำ เพื่อยกระดับขีดความสามารถการแข่งขันสู่สายการบินชั้นนำระดับโลก",
+            "why": "การเพิ่มขนาดฝูงบินเชิงพาณิชย์จะผลักดันรอบการซ่อมบำรุงและการเตรียมผิวชิ้นส่วนอากาศยาน ซึ่งสร้างอุปสงค์โดยตรงต่อวัสดุขัดเกรดการบินในศูนย์ MRO ของไทย",
+            "action": "เร่งผลักดันการทดสอบและรับรองมาตรฐานวัสดุขัดเกรดการบินกับฝ่ายวิศวกรรมซ่อมบำรุงอากาศยาน"
           }
         },
         {
           "id": "20260822-2",
-          "tag": "auto",
+          "tag": "steel",
           "rating": "amber",
-          "source": "gotomanager.com",
-          "date": "2026-08-19",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rT1dtV3RXdWlodDlDbEZsRGY4bTV1VDdLa2QyN3o5ekhXeTRHVjcyMFZsVzhGeHhSdzdxNjJMWk1YRmZjYlBiUGJha0xsaEhFTlE?oc=5",
-          "title": "60 Years of Thai Automotive Hub Faces Critical Regional Challenge from Indonesia",
-          "summary": "An industry retrospective outlines Thailand's 60-year journey as the 'Detroit of Asia' while warning of aggressive Indonesian policies aimed at attracting Japanese automaker supply chains.",
-          "why": "If tier-1 Japanese auto parts manufacturers relocate production lines to Indonesia, domestic demand for metal finishing and deburring abrasives will shrink.",
-          "action": "Strengthen long-term vendor contracts with tier-1 Japanese automotive parts clients by offering cost-saving grinding optimization audits.",
+          "source": "bangkokbiznews",
+          "date": "2026-06-09",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1BZE5wSV9tN3JIMkxoeTBjenRHaWFGTThOMkNUWUgwUm4ybm02TTlNLWJ5U1RFdVFRQVBwSldqVWEyUHBIVXhfTnNiSHpzQXhoVDhUYjJoMVAyakhp?oc=5",
+          "title": "Thai Manufacturers Urge Industrial Department to Block Substandard Steel Mill",
+          "summary": "Domestic steel producers are calling on the Department of Industrial Works to strictly prohibit non-compliant plants like Xin Ke Yuan from disrupting the domestic supply chain.",
+          "why": "Enforcing strict quality standards protects established domestic metal fabricators and steel mills, preserving demand from our quality-focused industrial customers.",
+          "action": "Maintain strong engagement and supply stability with certified domestic steel and metal processing plants.",
           "th": {
-            "title": "60 ปีอุตสาหกรรมยานยนต์ไทยบนถนน 'ดีทรอยต์แห่งเอเชีย' เผชิญบททดสอบใหญ่จากอินโดนีเซีย",
-            "summary": "บทวิเคราะห์ชี้เส้นทาง 60 ปีของฐานยานยนต์ไทย พร้อมเตือนถึงนโยบายเชิงรุกของอินโดนีเซียที่มุ่งดึงดูดห่วงโซ่อุปทานจากค่ายรถยนต์ญี่ปุ่น",
-            "why": "หากโรงงานผลิตชิ้นส่วนยานยนต์ Tier-1 ของญี่ปุ่นย้ายฐานไปยังอินโดนีเซีย จะส่งผลให้ความต้องการใช้วัสดุขัดแต่งผิวโลหะและลบครีบในไทยหดตัว",
-            "action": "กระชับสัญญาระยะยาวกับกลุ่มลูกค้าชิ้นส่วนยานยนต์ญี่ปุ่น โดยนำเสนอบริการตรวจสอบเพื่อลดต้นทุนการขัดเจียรในสายการผลิต"
+            "title": "ผู้ผลิตไทยร้องกรมโรงงานฯ สกัดโรงงานเหล็กไม่ได้มาตรฐาน ‘ซิน เคอ หยวน’",
+            "summary": "กลุ่มผู้ผลิตเหล็กในประเทศยื่นข้อเรียกร้องต่อกรมโรงงานอุตสาหกรรมให้ระงับการเปิดโรงงานที่ไม่ได้มาตรฐาน เพื่อป้องกันผลกระทบเชิงลบต่อระบบอุตสาหกรรม",
+            "why": "การเข้มงวดกับโรงงานไร้มาตรฐานช่วยปกป้องฐานโรงงานแปรรูปโลหะมาตรฐานในไทย ซึ่งเป็นกลุ่มลูกค้าหลักที่ใช้วัสดุขัดและเจียรคุณภาพสูง",
+            "action": "รักษาความสัมพันธ์ทางการค้าและนำเสนอโซลูชันวัสดุขัดคุณภาพสูงให้แก่โรงงานเหล็กและแปรรูปโลหะที่ได้มาตรฐาน"
           }
         },
         {
           "id": "20260822-3",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "LINE TODAY",
-          "date": "2025-12-27",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MbDY2SkFDN1VRQXdMaUF1Nmhlb3U0dTZLVzlMUkVDTTJlTy1UMFhMWFctVHJzWEhCd1lZUXZzaGpCMnJoNDBFOXRUclB2TXZ1ZkVlbjZB?oc=5",
-          "title": "10 Steel Associations Urge Stricter Measures Against Imported Finished Steel Dumping",
-          "summary": "Ten domestic steel associations are calling for emergency trade barriers to prevent influxes of subsidized Chinese finished steel that are depressing domestic mill utilization.",
-          "why": "Low capacity utilization in local steel rolling and fabrication mills directly curtails consumable orders for cutting wheels and heavy-duty grinding belts.",
-          "action": "Pivot abrasive sales efforts toward high-value structural steel and specialized metal fabrication workshops that remain resilient against import dumping.",
-          "th": {
-            "title": "10 สมาคมเหล็กรับมือวิกฤต ร้องรัฐสกัดเหล็กสำเร็จรูปนำเข้าทุ่มตลาด",
-            "summary": "10 สมาคมผู้ผลิตเหล็กในประเทศเรียกร้องมาตรการกีดกันการค้าฉุกเฉิน เพื่อสกัดการทุ่มตลาดของเหล็กสำเร็จรูปราคาถูกจากจีนที่กดดันอัตราการเดินเครื่องของโรงงานไทย",
-            "why": "อัตราการผลิตที่ลดลงของโรงงานรีดและแปรรูปเหล็กในประเทศจะลดทอนยอดสั่งซื้อใบตัดและสายพานเจียรงานหนัก",
-            "action": "เบนเข็มการขายวัสดุขัดไปยังกลุ่มโรงงานแปรรูปโครงสร้างเหล็กมูลค่าสูงและงานโลหะเฉพาะทางที่ยังแข่งขันได้"
-          }
-        },
-        {
-          "id": "20260822-4",
           "tag": "furniture",
           "rating": "amber",
-          "source": "ditp.go.th",
-          "date": "2025-10-03",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1POEtpRnZGbG56RGtyRHp5YUhwS0NlU2tKZ3dEM0o4V3lXYUZudUFZMkNTS0pOZXBxRm12TzZ2Z3FKVDJIa3ZXNGxFdDJjd25hczN3SVJTT1RaLThRczlTcllR?oc=5",
-          "title": "US Tariff Adjustments on Furniture Signal Export Headwinds for Southeast Asian Manufacturers",
-          "summary": "Trade policy shifts regarding US furniture tariffs are complicating export outlooks, forcing Asian wood and furniture producers to reconfigure production costs and target markets.",
-          "why": "Export-oriented wood furniture factories under tariff pressure will scrutinize consumable tooling costs, including wood-sanding belts and finishing paper.",
-          "action": "Promote cost-effective wide sanding belts and anti-clogging finishing sheets to help export furniture plants lower surface prep costs.",
+          "source": "posttoday",
+          "date": "2026-02-20",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxXzVZOHRNaDlMYzJBM2F6S1FPc0Vkcy1Sc2JWRnl1VklJY2ZCSEpsOUJ0RG13b0I1cHBpXzBUOUhlSHdpdV9uV1cyZGJHT2pNaF83cw?oc=5",
+          "title": "ASEAN Furniture Industry Expands as Top 4 Nations Command 90% of Regional Exports",
+          "summary": "The ASEAN furniture manufacturing sector continues solid expansion, with four key producing countries including Thailand accounting for 90% of total export shipments.",
+          "why": "Sustained high-volume furniture manufacturing across major export plants ensures stable factory consumption of wood-sanding belts, abrasive paper, and finishing discs.",
+          "action": "Target export-oriented wooden furniture factories with high-durability sanding belts and orbital sanding discs.",
           "th": {
-            "title": "การปรับภาษีศุลกากรเฟอร์นิเจอร์ของสหรัฐฯ ส่งสัญญาณความเสี่ยงต่อผู้ส่งออกในอาเซียน",
-            "summary": "การเปลี่ยนแปลงนโยบายภาษีนำเข้าเฟอร์นิเจอร์ของสหรัฐฯ สร้างความไม่แน่นอนต่อแนวโน้มการส่งออก บีบให้ผู้ผลิตไม้และเฟอร์นิเจอร์ต้องเร่งปรับโครงสร้างต้นทุน",
-            "why": "โรงงานเฟอร์นิเจอร์ไม้ส่งออกที่เผชิญแรงกดดันด้านภาษีจะต้องควบคุมต้นทุนวัสดุสิ้นเปลือง รวมถึงกระดาษทรายสายพานและกระดาษขัดละเอียด",
-            "action": "นำเสนอกระดาษทรายสายพานหน้ากว้างที่คุ้มราคาและกระดาษขัดผิวกันฝุ่นอุดตันเพื่อช่วยโรงงานเฟอร์นิเจอร์ลดต้นทุนเตรียมผิว"
+            "title": "อุตสาหกรรมเฟอร์นิเจอร์อาเซียนขยายตัว 4 ชาติหลักกวาดส่วนแบ่งส่งออก 90%",
+            "summary": "ภาคการผลิตเฟอร์นิเจอร์ในภูมิภาคอาเซียนเติบโตต่อเนื่อง โดยมี 4 ประเทศผู้ผลิตหลักรวมถึงไทยครองสัดส่วนการส่งออกรวมกันถึง 90%",
+            "why": "การผลิตเพื่อส่งออกในปริมาณสูงช่วยรักษาการใช้วัสดุขัดไม้ สายพานกระดาษทราย และจานขัดผิวไม้ในโรงงานอย่างต่อเนื่อง",
+            "action": "เร่งทำตลาดกระดาษทรายสายพานและจานขัดความทนทานสูงเข้าสู่โรงงานผู้ผลิตเฟอร์นิเจอร์ไม้ส่งออกรายใหญ่"
           }
         }
       ],
