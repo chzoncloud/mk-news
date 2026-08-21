@@ -2,6 +2,89 @@
 window.NEWS_ARCHIVE = {
   "days": [
     {
+      "date": "2026-08-22",
+      "summary": "Today has limited new developments as major stories were covered earlier. Key highlights focus on cumulative EV investments exceeding 130 billion baht and ongoing structural pressures across the automotive, steel, and export furniture sectors.",
+      "directCount": 1,
+      "th": {
+        "summary": "วันนี้มีข่าวใหม่ไม่มากนักเนื่องจากประเด็นหลักส่วนใหญ่ได้รายงานไปแล้ว ไฮไลต์สำคัญอยู่ที่ยอดส่งเสริมการลงทุน EV ที่ทะลุ 1.3 แสนล้านบาท รวมถึงแรงกดดันเชิงโครงสร้างในภาคยานยนต์ เหล็ก และการส่งออกเฟอร์นิเจอร์"
+      },
+      "items": [
+        {
+          "id": "20260822-1",
+          "tag": "auto",
+          "rating": "green",
+          "source": "Thaigov",
+          "date": "2026-07-02",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zOHo0X01meExtendzNTNja1RMTUxKa2dWM0hFZ1JrRzJ4dmJPLWhSdHVwb19IU01fVTRVOWtaX2lkMVJUSlRPb3FCNVg5UQ?oc=5",
+          "title": "BOI Reports EV Investments Surpass 130 Billion Baht Across Multiple Technologies",
+          "summary": "The Board of Investment (BOI) announced that total EV investment applications have exceeded 130 billion baht, covering battery electric vehicles, hybrid systems, and key component supply chains in Thailand.",
+          "why": "New EV and battery component factories require industrial abrasives for aluminum body grinding, weld seam preparation, and battery enclosure deburring.",
+          "action": "Map newly approved BOI EV component suppliers to pitch robotic grinding discs and precision surface finishing solutions.",
+          "th": {
+            "title": "บีโอไอเผยยอดลงทุน EV ทะลุ 1.3 แสนล้าน หนุนฐานผลิตยานยนต์ไฟฟ้าครบวงจร",
+            "summary": "บีโอไอเปิดเผยว่ายอดขอรับการส่งเสริมการลงทุนในกลุ่มยานยนต์ไฟฟ้าทะลุ 1.3 แสนล้านบาท ครอบคลุมทั้งรถยนต์ไฟฟ้า แบตเตอรี่ และซัพพลายเชนชิ้นส่วนสำคัญในไทย",
+            "why": "โรงงานผลิต EV และชิ้นส่วนแบตเตอรี่แห่งใหม่ต้องใช้วัสดุขัดสำหรับงานเจียรโครงสร้างอะลูมิเนียม ลบแนวเชื่อม และลบครีบกล่องแบตเตอรี่",
+            "action": "ตรวจสอบรายชื่อซัพพลายเออร์ชิ้นส่วน EV ที่ได้รับอนุมัติจากบีโอไอเพื่อนำเสนอจานขัดงานโรบอตและวัสดุขัดผิวละเอียด"
+          }
+        },
+        {
+          "id": "20260822-2",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "gotomanager.com",
+          "date": "2026-08-19",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rT1dtV3RXdWlodDlDbEZsRGY4bTV1VDdLa2QyN3o5ekhXeTRHVjcyMFZsVzhGeHhSdzdxNjJMWk1YRmZjYlBiUGJha0xsaEhFTlE?oc=5",
+          "title": "60 Years of Thai Automotive Hub Faces Critical Regional Challenge from Indonesia",
+          "summary": "An industry retrospective outlines Thailand's 60-year journey as the 'Detroit of Asia' while warning of aggressive Indonesian policies aimed at attracting Japanese automaker supply chains.",
+          "why": "If tier-1 Japanese auto parts manufacturers relocate production lines to Indonesia, domestic demand for metal finishing and deburring abrasives will shrink.",
+          "action": "Strengthen long-term vendor contracts with tier-1 Japanese automotive parts clients by offering cost-saving grinding optimization audits.",
+          "th": {
+            "title": "60 ปีอุตสาหกรรมยานยนต์ไทยบนถนน 'ดีทรอยต์แห่งเอเชีย' เผชิญบททดสอบใหญ่จากอินโดนีเซีย",
+            "summary": "บทวิเคราะห์ชี้เส้นทาง 60 ปีของฐานยานยนต์ไทย พร้อมเตือนถึงนโยบายเชิงรุกของอินโดนีเซียที่มุ่งดึงดูดห่วงโซ่อุปทานจากค่ายรถยนต์ญี่ปุ่น",
+            "why": "หากโรงงานผลิตชิ้นส่วนยานยนต์ Tier-1 ของญี่ปุ่นย้ายฐานไปยังอินโดนีเซีย จะส่งผลให้ความต้องการใช้วัสดุขัดแต่งผิวโลหะและลบครีบในไทยหดตัว",
+            "action": "กระชับสัญญาระยะยาวกับกลุ่มลูกค้าชิ้นส่วนยานยนต์ญี่ปุ่น โดยนำเสนอบริการตรวจสอบเพื่อลดต้นทุนการขัดเจียรในสายการผลิต"
+          }
+        },
+        {
+          "id": "20260822-3",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "LINE TODAY",
+          "date": "2025-12-27",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MbDY2SkFDN1VRQXdMaUF1Nmhlb3U0dTZLVzlMUkVDTTJlTy1UMFhMWFctVHJzWEhCd1lZUXZzaGpCMnJoNDBFOXRUclB2TXZ1ZkVlbjZB?oc=5",
+          "title": "10 Steel Associations Urge Stricter Measures Against Imported Finished Steel Dumping",
+          "summary": "Ten domestic steel associations are calling for emergency trade barriers to prevent influxes of subsidized Chinese finished steel that are depressing domestic mill utilization.",
+          "why": "Low capacity utilization in local steel rolling and fabrication mills directly curtails consumable orders for cutting wheels and heavy-duty grinding belts.",
+          "action": "Pivot abrasive sales efforts toward high-value structural steel and specialized metal fabrication workshops that remain resilient against import dumping.",
+          "th": {
+            "title": "10 สมาคมเหล็กรับมือวิกฤต ร้องรัฐสกัดเหล็กสำเร็จรูปนำเข้าทุ่มตลาด",
+            "summary": "10 สมาคมผู้ผลิตเหล็กในประเทศเรียกร้องมาตรการกีดกันการค้าฉุกเฉิน เพื่อสกัดการทุ่มตลาดของเหล็กสำเร็จรูปราคาถูกจากจีนที่กดดันอัตราการเดินเครื่องของโรงงานไทย",
+            "why": "อัตราการผลิตที่ลดลงของโรงงานรีดและแปรรูปเหล็กในประเทศจะลดทอนยอดสั่งซื้อใบตัดและสายพานเจียรงานหนัก",
+            "action": "เบนเข็มการขายวัสดุขัดไปยังกลุ่มโรงงานแปรรูปโครงสร้างเหล็กมูลค่าสูงและงานโลหะเฉพาะทางที่ยังแข่งขันได้"
+          }
+        },
+        {
+          "id": "20260822-4",
+          "tag": "furniture",
+          "rating": "amber",
+          "source": "ditp.go.th",
+          "date": "2025-10-03",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1POEtpRnZGbG56RGtyRHp5YUhwS0NlU2tKZ3dEM0o4V3lXYUZudUFZMkNTS0pOZXBxRm12TzZ2Z3FKVDJIa3ZXNGxFdDJjd25hczN3SVJTT1RaLThRczlTcllR?oc=5",
+          "title": "US Tariff Adjustments on Furniture Signal Export Headwinds for Southeast Asian Manufacturers",
+          "summary": "Trade policy shifts regarding US furniture tariffs are complicating export outlooks, forcing Asian wood and furniture producers to reconfigure production costs and target markets.",
+          "why": "Export-oriented wood furniture factories under tariff pressure will scrutinize consumable tooling costs, including wood-sanding belts and finishing paper.",
+          "action": "Promote cost-effective wide sanding belts and anti-clogging finishing sheets to help export furniture plants lower surface prep costs.",
+          "th": {
+            "title": "การปรับภาษีศุลกากรเฟอร์นิเจอร์ของสหรัฐฯ ส่งสัญญาณความเสี่ยงต่อผู้ส่งออกในอาเซียน",
+            "summary": "การเปลี่ยนแปลงนโยบายภาษีนำเข้าเฟอร์นิเจอร์ของสหรัฐฯ สร้างความไม่แน่นอนต่อแนวโน้มการส่งออก บีบให้ผู้ผลิตไม้และเฟอร์นิเจอร์ต้องเร่งปรับโครงสร้างต้นทุน",
+            "why": "โรงงานเฟอร์นิเจอร์ไม้ส่งออกที่เผชิญแรงกดดันด้านภาษีจะต้องควบคุมต้นทุนวัสดุสิ้นเปลือง รวมถึงกระดาษทรายสายพานและกระดาษขัดละเอียด",
+            "action": "นำเสนอกระดาษทรายสายพานหน้ากว้างที่คุ้มราคาและกระดาษขัดผิวกันฝุ่นอุดตันเพื่อช่วยโรงงานเฟอร์นิเจอร์ลดต้นทุนเตรียมผิว"
+          }
+        }
+      ],
+      "terms": {}
+    },
+    {
       "date": "2026-08-21",
       "summary": "Today has limited new developments; key focus centers on Japanese automakers expanding Thai investments to counter Chinese EV competition, alongside regional progress in aviation MRO fundraising.",
       "directCount": 1,
@@ -917,72 +1000,7 @@ window.NEWS_ARCHIVE = {
         }
       ],
       "terms": {}
-    },
-    {
-      "date": "2026-08-07",
-      "summary": "Today has limited new updates; key developments include BOI highlighting cumulative EV investments of 182 billion baht, Thai Airways setting a 200 billion baht revenue target driving MRO activity, and steady wooden furniture export volumes supporting woodworking abrasive demand.",
-      "directCount": 2,
-      "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มาก ข้อมูลสำคัญเน้นไปที่ยอดลงทุน EV สะสมของบีโอไอที่แตะ 1.82 แสนล้านบาท การเป้ารายได้ของสายการบินไทยที่ส่งผลดีต่อศูนย์ซ่อมบำรุง และยอดส่งออกเฟอร์นิเจอร์ไม้ที่ยังคงสร้างความต้องการวัสดุขัดอย่างต่อเนื่อง"
-      },
-      "items": [
-        {
-          "id": "20260807-1",
-          "tag": "auto",
-          "rating": "green",
-          "source": "Techsauce",
-          "date": "2026-05-13",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSUh5a1RYRHhRZVM5dmliakJOVDhPMGs2dDZPdFdTSEw4TU5yRHNQT1R2dk1uSXQzOWFjNXZ4bGhESGxFUEZpWWNxOEpXNFNDZWI1NDdDaUJTZVZMbmVGckk3VXhDRFMyWkJ1LVd3Q0VDS0ZfaENUcGdjajJXaFViQndkVQ?oc=5",
-          "title": "BOI Partners with Global EV Makers as Cumulative Investment Surpasses 182 Billion Baht",
-          "summary": "Thailand's BOI collaborates with Chinese, Japanese, and European automakers under the Smart & Green Mobility framework, pushing cumulative EV investments past 182 billion baht.",
-          "why": "Expanding EV manufacturing lines from diverse global brands fuels continuous demand for surface preparation and deburring abrasives in tier-1 auto parts factories.",
-          "action": "Target Japanese and Chinese auto component suppliers in Thailand with specialized metal grinding and sanding solutions for EV parts.",
-          "th": {
-            "title": "บีโอไอผนึก EV จีน-ญี่ปุ่น-ยุโรป ดันยอดลงทุนสะสมทะลุ 1.82 แสนล้านบาท",
-            "summary": "บีโอไอร่วมมือกับค่ายรถยนต์จากจีน ญี่ปุ่น และยุโรป ผลักดันวิสัยทัศน์ Smart & Green Mobility ดันยอดลงทุน EV สะสมทะลุ 1.82 แสนล้านบาท",
-            "why": "การขยายฐานผลิต EV ของค่ายรถยนต์ระดับโลกช่วยเพิ่มความต้องการใช้วัสดุขัดเตรียมผิวและลบครีบชิ้นส่วนโลหะในโรงงานซัพพลายเออร์",
-            "action": "รุกเสนอขายกระดาษทรายและจานขัดเกรดอุตสาหกรรมแก่โรงงานผลิตชิ้นส่วนยานยนต์ทุนญี่ปุ่นและจีนในไทย"
-          }
-        },
-        {
-          "id": "20260807-2",
-          "tag": "aero",
-          "rating": "amber",
-          "source": "TNN Thailand",
-          "date": "2026-02-26",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBha29MM3ZjeEN0VWprRzBNMnh3dnBlZUNmMVh4bnR5NnBPN21ENFU4bUlNOHBsbHdiNnJEX1lFRW9DMmFqVHZmSmtEbHdnZWh3VmNYR1lZbkswMTZRNUtr?oc=5",
-          "title": "Thai Airways Targets 5% Revenue Growth to Reach 200 Billion Baht",
-          "summary": "Thai Airways sets a 2026 revenue target of 200 billion baht, up 5% year-on-year, driven by route expansions and steady operational recovery.",
-          "why": "Higher aircraft flight frequencies accelerate maintenance schedules, indirectly driving demand for specialized aviation MRO surface finishing tools.",
-          "action": "Monitor aerospace MRO procurement tenders and introduce high-precision aviation sanding products to maintenance facilities.",
-          "th": {
-            "title": "การบินไทยตั้งเป้ารายได้ปีนี้โต 5% แตะ 2 แสนล้านบาท",
-            "summary": "การบินไทยตั้งเป้ารายได้ปี 2569 แตะ 2 แสนล้านบาท เติบโต 5% จากการขยายเส้นทางบินและการฟื้นตัวของธุรกิจการบินอย่างต่อเนื่อง",
-            "why": "เที่ยวบินที่เพิ่มขึ้นส่งผลให้รอบการซ่อมบำรุงรักษาเครื่องบินถี่ขึ้น ซึ่งเป็นโอกาสเพิ่มการใช้งานวัสดุขัดเกรดการบินในศูนย์ MRO",
-            "action": "ติดตามการประมูลงานซ่อมบำรุงอากาศยานและนำเสนอสินค้าวัสดุขัดมาตรฐานการบินสำหรับงานซ่อมบำรุง"
-          }
-        },
-        {
-          "id": "20260807-3",
-          "tag": "furniture",
-          "rating": "green",
-          "source": "workpointtoday.com",
-          "date": "2024-06-06",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ2ZsVk4wb0swZFhVcGhUeFJlSEtSeTliVHZIbmJlNkpTWDdxQ1hPaHJTMmtsT0lqNlFndVJmUzVJNy1VcVM5a2NWNFdaSGh5RkNBemF3MHp4ZUp3SklUZThNNUhWbm5hXzhYV1M3WjdLSWxNdXpZQ0JtajFBbHN4dWVJeElzZlNhV1BRSGp3cnlGOGpDMlE?oc=5",
-          "title": "Thailand Maintains 12 Million Annual Wooden Furniture Export Volume",
-          "summary": "Thailand exports around 12 million wooden furniture pieces annually, demonstrating sustained foreign demand for Thai woodworking craftsmanship.",
-          "why": "High-volume wooden furniture production requires large quantities of wide sanding belts and sanding discs for surface preparation before finishing.",
-          "action": "Promote heavy-duty sanding belts and abrasive rolls to export-oriented furniture and woodworking factories.",
-          "th": {
-            "title": "ไทยส่งออกเฟอร์นิเจอร์ไม้ปีละ 12 ล้านชิ้น ชูศักยภาพอุตสาหกรรมงานไม้",
-            "summary": "อุตสาหกรรมเฟอร์นิเจอร์ไม้ไทยยังคงศักยภาพการส่งออกระดับ 12 ล้านชิ้นต่อปี สะท้อนความต้องการสินค้างานไม้ของไทยในต่างประเทศ",
-            "why": "การผลิตเฟอร์นิเจอร์ไม้ส่งออกปริมาณมากต้องใช้สายพานขัดและจานขัดในการปรับเรียบผิวก่อนลงสีทำชิ้นงาน",
-            "action": "เสนอขายสายพานขัดทนทานสูงและม้วนกระดาษทรายให้แก่โรงงานผลิตเฟอร์นิเจอร์ไม้เพื่อการส่งออก"
-          }
-        }
-      ],
-      "terms": {}
     }
   ],
-  "updated": "2026-08-21"
+  "updated": "2026-08-22"
 };
