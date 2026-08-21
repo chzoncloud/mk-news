@@ -4,64 +4,82 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-08-22",
-      "summary": "Today's briefing features 3 key global trends focusing on automotive OEM coatings demand, steel sector supply chain adjustments, and EV manufacturing shifts that impact surface finishing requirements.",
-      "directCount": 3,
+      "summary": "Today's global trends highlight critical shifts in EV battery finishing driving specialized waterproof abrasives, precision electronics boosting garnet paper, and evolving automotive manufacturing equipment demand across key regions.",
+      "directCount": 4,
       "th": {
-        "summary": "สรุปข่าววันนี้ประกอบด้วย 3 เทรนด์สำคัญ ได้แก่ ความต้องการสีเคลือบ OEM ยานยนต์, การปรับตัวของห่วงโซ่อุปทานอุตสาหกรรมเหล็ก และการเปลี่ยนแปลงการผลิตรถยนต์ EV ซึ่งส่งผลต่อความต้องการขัดผิวโลหะ"
+        "summary": "กระแสโลกวันนี้เน้นย้ำการเปลี่ยนแปลงที่สำคัญในการตกแต่งผิวแบตเตอรี่ EV ที่ขับเคลื่อนความต้องการกระดาษทรายกันน้ำแบบพิเศษ, ตลาดอิเล็กทรอนิกส์ความแม่นยำสูงที่หนุนกระดาษทรายโกเมน, และความต้องการอุปกรณ์การผลิตยานยนต์ที่เติบโตในภูมิภาคสำคัญ"
       },
       "items": [
         {
           "id": "20260822-w1",
-          "tag": "auto",
+          "tag": "abrasive",
           "rating": "green",
-          "source": "Fortune Business Insights",
-          "date": "2026-08-03",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXjjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
-          "title": "Automotive OEM Coatings Market Size, Share | Growth [2034]",
-          "summary": "The automotive OEM coatings market is expanding steadily through 2034, driven by vehicle production recovery and advanced surface finishing demands.",
-          "why": "Higher OEM paint and coating volumes directly correlate with increased surface preparation, sanding, and polishing needs in automotive manufacturing lines.",
-          "action": "Monitor automotive OEM production schedules to anticipate demand shifts for high-precision sanding belts and finishing discs.",
+          "source": "IndexBox",
+          "date": "2026-08-13",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOajhLYXZEcDFTbWdQSXl1ekYwYlRmOENGOHA3NWxvOFJJVGk0WDBfZV9vYnhmUzByZU9oWktINGpjd0hIY1dXZjZPQ2xNVzJrNXhBTTc5WENRZWVQc19JQkNGM3lVYnltZDJLdkx4VWJQbXdlN0J5RmJrNWpvOGIwSmoyUHVDZzB1bUJYZ0dDY2NDczR6clVGeUF1dnMyd1J3TU05SmxqbjFJVC0yck80bmg0WVVKWFI4aVo1amdWQzBEbldCVGlySkZR?oc=5",
+          "title": "Waterproof Abrasive Sheets Market 1.8 Billion Sheets by 2035 on EV Battery Finishing Demand",
+          "summary": "The global market for waterproof abrasive sheets is projected to reach 1.8 billion sheets by 2035, significantly driven by surface finishing demands in EV battery manufacturing.",
+          "why": "EV battery production requires strict surface preparation and finishing, opening a high-growth niche for waterproof abrasive sheets.",
+          "action": "Evaluate our waterproof abrasive sheet inventory and explore marketing directly to EV component suppliers.",
           "th": {
-            "title": "ตลาดสีเคลือบ OEM สำหรับยานยนต์เติบโตถึงปี 2034",
-            "summary": "ตลาดสีเคลือบ OEM ยานยนต์ขยายตัวอย่างต่อเนื่องจนถึงปี 2034 หนุนโดยการฟื้นตัวของการผลิตรถยนต์และความต้องการงานเตรียมพื้นผิวขั้นสูง",
-            "why": "ปริมาณการพ่นสีและเคลือบผิว OEM ที่เพิ่มขึ้นมีความเชื่อมโยงโดยตรงกับความต้องการใช้งานกระดาษทรายและผลิตภัณฑ์ขัดผิวในสายการผลิตรถยนต์",
-            "action": "ติดตามตารางการผลิตของค่ายรถยนต์ OEM เพื่อคาดการณ์ความต้องการผลิตภัณฑ์ขัดผิวและความละเอียดสูง"
+            "title": "ตลาดกระดาษทรายน้ำพุ่งแตะ 1.8 พันล้านแผ่นภายในปี 2035 จากความต้องการขัดผิวแบตเตอรี่ EV",
+            "summary": "ตลาดกระดาษทรายกันน้ำทั่วโลกคาดว่าจะสูงถึง 1.8 พันล้านแผ่นภายในปี 2035 โดยได้รับแรงหนุนสำคัญจากความต้องการขัดตกแต่งพื้นผิวในการผลิตแบตเตอรี่ EV",
+            "why": "การผลิตแบตเตอรี่ EV ต้องมีการเตรียมพื้นผิวและการขัดที่เข้มงวด ซึ่งเปิดตลาดเฉพาะกลุ่มที่มีการเติบโตสูงสำหรับกระดาษทรายกันน้ำ",
+            "action": "ประเมินสต็อกกระดาษทรายกันน้ำของเราและศึกษาการทำตลาดตรงไปยังผู้ผลิตชิ้นส่วน EV"
           }
         },
         {
           "id": "20260822-w2",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "Recycling International",
-          "date": "2026-05-06",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUGx0eVkxRzJXY2ZfWGV0VWstUVozcnFnRjRpQnEydThVWTdhdno0NEhVNVFLYzRIal85T0h4b0hqNjNBclVpY1lteGZDWFZSdGhhcG9LVlhYN3ZucHRDOWFvOXFkTjhYYjVibTNsM3Y5ZVFjeFhoQW13anV4RE56emVzQUFESDlWRnB4LVpuSFNEb1FoOXRvNU9KY1pfYmxEYlA3RUhqQzY0RDMzSHF1dHE5U0w?oc=5",
-          "title": "Conflicts’ ‘serious’ impact on global steel industry",
-          "summary": "Global geopolitical conflicts continue to create supply chain disruptions and cost pressures across the international steel sector.",
-          "why": "Steel production volume and mill stability dictate heavy metal grinding, deburring, and surface conditioning consumable usage.",
-          "action": "Stay alert to local steel mill capacity changes and raw material cost fluctuations affecting metal fabrication customers.",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-08-18",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcEVHZXVJQjFJQmZqdmZxSmlZb3FCUkV6VmhKZE9sclNaakxUdm5xSGx4ajFER2ZrNDlTMkxDZTVuVWtDRmdnZWlTMWl6Uy1yZEdidE43U3piMnhVdlpua2NCOUtRS2RMeVlXRlRyQ2JfZjE5QW05SHpBeXhYVVVob1daWm5obGJrbjhxWVlqY2FfS1hKUG5yNXFERWwzNHp1a1NZbkNyQzB2S3JLeC1nbWU1ZUJsNXV0YXZOT2Y2ZWhzXzNqZmxSbG9n?oc=5",
+          "title": "Garnet Abrasive Paper Market Precision Electronics Demand Drives 4.6% CAGR Through 2035",
+          "summary": "Demand for garnet abrasive paper is growing at a 4.6% CAGR through 2035, supported heavily by precision electronics manufacturing applications.",
+          "why": "Garnet paper remains a key natural abrasive for fine woodworking and precision applications where controlled cut quality is critical.",
+          "action": "Monitor pricing and availability of garnet minerals to maintain competitive margins on specialized sanding paper.",
           "th": {
-            "title": "ผลกระทบที่รุนแรงของความขัดแย้งต่ออุตสาหกรรมเหล็กโลก",
-            "summary": "ความขัดแย้งทางภูมิรัฐศาสตร์ระดับโลกยังคงสร้างความสะดุดในห่วงโซ่อุปทานและกดดันต้นทุนในอุตสาหกรรมเหล็กระหว่างประเทศ",
-            "why": "ปริมาณการผลิตเหล็กและความเสถียรของโรงงานเป็นตัวกำหนดอัตราการใช้วัสดุสิ้นเปลืองสำหรับงานเจียร ลบคม และปรับสภาพผิวโลหะ",
-            "action": "ติดตามการเปลี่ยนแปลงกำลังการผลิตของโรงงานเหล็กในท้องถิ่นและความผันผวนของต้นทุนวัตถุดิบที่มีผลต่อลูกค้ากลุ่มแปรรูปโลหะ"
+            "title": "ตลาดกระดาษทรายโกเมนโต 4.6% ต่อปีถึง 2035 หนุนโดยอุตสาหกรรมอิเล็กทรอนิกส์ความแม่นยำสูง",
+            "summary": "ความต้องการกระดาษทรายโกเมนเติบโตด้วยอัตรา CAGR 4.6% จนถึงปี 2035 โดยได้รับการสนับสนุนอย่างมากจากการใช้งานในการผลิตอิเล็กทรอนิกส์ความแม่นยำสูง",
+            "why": "กระดาษทรายโกเมนยังคงเป็นวัสดุขัดธรรมชาติที่สำคัญสำหรับงานไม้ละเอียดและงานความแม่นยำที่ต้องการควบคุมคุณภาพการตัด",
+            "action": "ติดตามราคาและความพร้อมของวัตถุดิบโกเมนเพื่อรักษากำไรในการแข่งขันสำหรับกระดาษทรายเฉพาะทาง"
           }
         },
         {
           "id": "20260822-w3",
           "tag": "auto",
           "rating": "amber",
-          "source": "IEA – International Energy Agency",
-          "date": "2026-05-20",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QTnMzbGN4ajBTWWNPa1VOQU5ZQUtEa3M2NXZPS2JHUEtHeUpYUmZHYVU1dlN0OFBFeVVGWmFjR0pmVi13UTJPWVduN1pWaHdVbVJRb1JWYXNKcjNaZ1RRMk5FSTIyRmJYZExoUkxOTUFwRjNQTFdLTmJuU2h6VTA?oc=5",
-          "title": "Trends in electric cars – Global EV Outlook 2026 – Analysis",
-          "summary": "The IEA report highlights ongoing growth and structural shifts in global electric vehicle manufacturing and adoption rates.",
-          "why": "EV production involves specialized lightweight metals and structural components that require unique deburring, welding seam removal, and finishing tools.",
-          "action": "Ensure our abrasive product line adapts to the specific finishing requirements of EV structural components (aluminum and composite materials).",
+          "source": "MarketsandMarkets",
+          "date": "2026-08-19",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUEFHclR5NnZiRmQ3ZWs1QWMycFZkZlZVempvMXlNMGxrUXc1alpac0trZnhoVG5pRnRISVhlYlJmUkpLVHp5T1FFQi04ODdlVmRoMDBYckx4SHVONkVEQVcxNWxfcTRBNS1DTmstS2JyZTh4OVQzbk9lN3dHZkt6cUFqZHVBcmlVbWtkUGJSejJvZVdoc3Z5dTRUM2ZlMUZEdzNsLVM2VGpqdw?oc=5",
+          "title": "China Automotive Manufacturing Equipment Market Size, Share, Trends, Growth Analysis Report, 2030",
+          "summary": "A comprehensive growth analysis report outlines expansion trends in China's automotive manufacturing equipment sector through 2030.",
+          "why": "Automotive assembly lines heavily consume automated grinding, deburring, and surface preparation tools and abrasives.",
+          "action": "Keep track of equipment automation trends in Asian manufacturing hubs to anticipate tooling compatibility shifts.",
           "th": {
-            "title": "แนวโน้มรถยนต์ไฟฟ้า – รายงาน Global EV Outlook ปี 2026",
-            "summary": "รายงานของ IEA เน้นย้ำถึงการเติบโตอย่างต่อเนื่องและการเปลี่ยนแปลงเชิงโครงสร้างในการผลิตและการใช้งานรถยนต์ไฟฟ้าทั่วโลก",
-            "why": "การผลิตรถยนต์ EV เกี่ยวข้องกับโลหะน้ำหนักเบาและชิ้นส่วนโครงสร้างพิเศษ ซึ่งต้องใช้เครื่องมือลบคม ลบรอยเชื่อม และขัดตกแต่งผิวที่จำเพาะเจาะจง",
-            "action": "ตรวจสอบให้แน่ใจว่ากลุ่มผลิตภัณฑ์กระดาษทรายและใบเจียรของเราตอบสนองความต้องการขัดผิวชิ้นส่วน EV (อลูมิเนียมและวัสดุผสม) ได้เป็นอย่างดี"
+            "title": "รายงานวิเคราะห์แนวโน้มการเติบโตตลาดอุปกรณ์การผลิตยานยนต์ของจีนถึงปี 2030",
+            "summary": "รายงานการวิเคราะห์การเติบโตครอบคลุมแนวโน้มการขยายตัวในภาคอุปกรณ์การผลิตยานยนต์ของจีนจนถึงปี 2030",
+            "why": "สายการประกอบยานยนต์มีการใช้เครื่องมือขัด ลบคม และเตรียมพื้นผิวแบบอัตโนมัติในปริมาณมาก",
+            "action": "ติดตามแนวโน้มการ 자동화 (automation) ของเครื่องมือในฐานการผลิตเอเชียเพื่อคาดการณ์การเปลี่ยนแปลงของความเข้ากันได้ของเครื่องมือ"
+          }
+        },
+        {
+          "id": "20260822-w4",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "MarketsandMarkets",
+          "date": "2026-08-19",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ1M5STBkaEJNSUljMUpNUmZscEN1dkRJN3JvaXFvZzExVlpQczFxbEp1UnN2ZU56V0xvVGd0ZUxZT3VQd3VIRVl6aHZneEM3c2QySVBZX2xfNWpkVmxRYzQ2NFo1Y0hhNHpCbW5EX2JBTFduRm5GbUZ0NzNtejZJYmFQb1lyQUdBb0l0cVBBcmRGdVVKSWhkSkM4UHZOdlI2RDZaX25Bcmc5Njg?oc=5",
+          "title": "Europe Automotive Manufacturing Equipment Market Size, Share, Trends, Growth Analysis Report, 2030",
+          "summary": "Market analysis highlights shifting investments and technology integration within European automotive manufacturing equipment through 2030.",
+          "why": "European factories often pioneer strict surface finish specifications and automated robotic sanding cells.",
+          "action": "Observe European manufacturing standards as early indicators of global compliance benchmarks for abrasives.",
+          "th": {
+            "title": "รายงานวิเคราะห์ตลาดอุปกรณ์การผลิตยานยนต์ยุโรป: ขนาด ส่วนแบ่ง และแนวโน้มถึงปี 2030",
+            "summary": "การวิเคราะห์ตลาดเน้นย้ำการลงทุนที่เปลี่ยนไปและการผสานเทคโนโลยีในอุปกรณ์การผลิตรถยนต์ของยุโรปจนถึงปี 2030",
+            "why": "โรงงานในยุโรปมักเป็นผู้นำด้านข้อกำหนดการขัดผิวที่เข้มงวดและระบบเซลล์ขัดผิวด้วยหุ่นยนต์อัตโนมัติ",
+            "action": "สังเกตมาตรฐานการผลิตของยุโรปเพื่อใช้เป็นสัญญาณเตือนล่วงหน้าสำหรับเกณฑ์มาตรฐานความปลอดภัยของวัสดุขัด"
           }
         }
       ]
