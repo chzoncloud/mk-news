@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-08-23",
-      "summary": "Today's briefing highlights emerging dynamics in diamond superhard abrasives, automation in surface finishing, European finishing tech trends, and global steel industry challenges.",
+      "summary": "Today's briefing highlights shifts in global automotive refinish coatings and regional market reports across South Africa and Japan, alongside evolving dynamics in global steel and commodity markets impacting industrial surface preparation.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปข่าววันนี้เน้นย้ำแนวโน้มของวัสดุขัดเพชรความแข็งสูง ระบบอัตโนมัติในการตกแต่งผิว แนวโน้มเทคโนโลยีการเคลือบในยุโรป และความท้าทายในอุตสาหกรรมเหล็กโลก"
+        "summary": "สรุปข้อมูลแนวโน้มโลกวันนี้เน้นการเปลี่ยนแปลงของตลาดสีพ่นซ่อมรถยนต์ในญี่ปุ่นและแอฟริกาใต้ รวมถึงสถานการณ์ตลาดเหล็กและสินค้าโภคภัณฑ์โลกที่ส่งผลต่ออุตสาหกรรมเตรียมพื้นผิว"
       },
       "items": [
         {
           "id": "20260823-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-08-16",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUXZZSEZqNzVRV2VWbE81MzNPSVlmeWpoMFI2RUhWYktFbktWnBuU0h5VFBTbl9haHhXX0xwU0VwMm5mRHFtNDFMZXFGR2hpRjVwZU1BUl90c0hJNnBMYm9GWnFxWUJzTGNQREI5Vl9pSE84dDB6RkkyTFNWNHN0WFRxSXFpdFBFX3VuR0YtY29BSHFjdlRsdEFXNzRnQ1REMWYzRzE0TzZ4Mi1ZX1p1cTlCMnZ0NWhaR0g0?oc=5",
-          "title": "Abrasive Cloth Rolls Market Growth Driven by Automation in Surface Finishing Through 2035",
-          "summary": "The market for abrasive cloth rolls is expanding due to increasing factory automation in surface finishing processes.",
-          "why": "As industrial customers automate deburring and sanding, demand for consistent, high-durability abrasive cloth rolls increases.",
-          "action": "Ensure our abrasive roll inventory caters to automated machine feeding requirements.",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "MarketsandMarkets",
+          "date": "2026-08-19",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdkJOZE5aa1UxdjhHU3JkOTgyTUNQTVBaZTgycTdwb18welRPT3ZOUUxWdHNjUkk1QU15Skh3anJLWkh1akNyNzEtX2ZBeGRqU21rRWh4TVpUeHNtSjQ5WFlhTDhnWU9WenlybzhDbFF0c0JQYkVDV3A3ZkhfSlJhN0EwQW5KV3VMOUhxejl5RQ?oc=5",
+          "title": "Japan Automotive Refinish Coatings Market Size, Share, Trends, Growth Analysis Report, 2030",
+          "summary": "MarketsandMarkets released a growth analysis report for the Japan automotive refinish coatings market through 2030.",
+          "why": "Automotive refinishing is a major downstream user of abrasives, masking, and sanding materials for body shops and collision repair.",
+          "action": "Monitor demand trends in automotive aftermarket refinishing for high-precision sanding supplies.",
           "th": {
-            "title": "ตลาดม้วนผ้าทรายเติบโตจากระบบอัตโนมัติในการขัดผิวถึงปี 2035",
-            "summary": "ตลาดม้วนผ้าทรายกำลังขยายตัวเนื่องจากการเพิ่มขึ้นของระบบอัตโนมัติในโรงงานสำหรับกระบวนการตกแต่งผิว",
-            "why": "เมื่อลูกค้าอุตสาหกรรมหันมาใช้ระบบอัตโนมัติในการลบคมและขัด ความต้องการม้วนผ้าทรายที่มีความทนทานสูงและสม่ำเสมอจึงเพิ่มขึ้น",
-            "action": "ตรวจสอบว่าสินค้าม้วนผ้าทรายของเราตอบสนองความต้องการของเครื่องจักรระบบอัตโนมัติได้"
+            "title": "รายงานขนาด ส่วนแบ่ง และแนวโน้มตลาดสีพ่นซ่อมรถยนต์ญี่ปุ่น ถึงปี 2030",
+            "summary": "MarketsandMarkets เผยแพร่รายงานวิเคราะห์การเติบโตของตลาดสีพ่นซ่อมรถยนต์ในญี่ปุ่นจนถึงปี 2030",
+            "why": "งานพ่นซ่อมสีรถยนต์เป็นตลาดผู้ใช้งานปลายน้ำรายใหญ่สำหรับกระดาษทราย วัสดุกัดกร่อน และอุปกรณ์ขัดแต่งในอู่ซ่อมรถ",
+            "action": "ติดตามแนวโน้มความต้องการในตลาดซ่อมบำรุงรถยนต์สำหรับวัสดุกัดกร่อนที่มีความแม่นยำสูง"
           }
         },
         {
           "id": "20260823-w2",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "EIN Presswire",
-          "date": "2026-07-17",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQ2tzbUVzemVBLUxLMTFXbThzUk1aZEV5cDBQeE1HWmNUbW1PNzZTUXo0bnFpcjA5Yk1XRUtMOEFyakZfaXdVUTlPM3pSVno5dk5kRXUzM000ZFo5WG1mcGV4U1NzV1hLWVlpY3p6LVZtcTN4X3hWd2tDRVJoemVydnNIZFdNTjZmYk9uTGJEd0hTdTlpY3RlaGtHemZ6VWNTOEZoWk92eU1rQU5UdjFMLVdjWmV1U0w0czdncEJnWmkzYmZlRFdOVWpXMFN5RkZTRDh4bUxBdTV1WmpFLVJ1dDRJTUdmdw?oc=5",
-          "title": "Five Reputable Diamond Sanding Belts Manufacturers in China 2026: Optimizing Superhard Abrasive Machining",
-          "summary": "Manufacturers in China are optimizing production of superhard diamond sanding belts for advanced machining applications.",
-          "why": "Superhard abrasives like diamond belts are crucial for high-precision grinding of hard metals and advanced materials.",
-          "action": "Monitor trends in superhard diamond abrasives as precision machining standards rise.",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "MarketsandMarkets",
+          "date": "2026-08-19",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOWJqaWFzdzU0MlRJLS1ESnY3ejR1aGFyRTVwN1FBY05acWl3a2ZGemJSemJ3dnd2aGV2QXVGeF92VUV1eFhtejgtOFFDb0RsSUVabEpUX1hTTmJ4NDJqaG01M21LWVlSRDFsbnpWYXlaaUoyWGtXN3Y2T2RLTnNETVFKMkoxRWVLSkprVTJqWHpjdUY2dkhacA?oc=5",
+          "title": "South-Africa Automotive Refinish Coatings Market Size, Share, Trends, Growth Analysis Report, 2030",
+          "summary": "A new market size and growth analysis report for South Africa's automotive refinish coatings sector has been published.",
+          "why": "Expanding automotive refinish markets in emerging regions indicate steady demand for body shop consumable tools and abrasives.",
+          "action": "Keep an eye on emerging market growth indicators for export and distribution benchmarking.",
           "th": {
-            "title": "5 ผู้ผลิตสายพานขัดเพชรที่มีชื่อเสียงในจีนปี 2026: การเพิ่มประสิทธิภาพการตัดเฉือนด้วยวัสดุขัดความแข็งสูง",
-            "summary": "ผู้ผลิตในจีนกำลังเพิ่มประสิทธิภาพการผลิตสายพานขัดเพชรความแข็งสูงสำหรับการใช้งานตัดเฉือนขั้นสูง",
-            "why": "วัสดุขัดความแข็งสูงอย่างสายพานเพชรมีความสำคัญต่อการเจียรความแม่นยำสูงสำหรับโลหะแข็งและวัสดุสมัยใหม่",
-            "action": "ติดตามแนวโน้มของวัสดุขัดเพชรความแข็งสูงเนื่องจากมาตรฐานการตัดเฉือนมีความแม่นยำสูงขึ้น"
+            "title": "รายงานตลาดสีพ่นซ่อมรถยนต์แอฟริกาใต้: ขนาด ส่วนแบ่ง และแนวโน้มถึงปี 2030",
+            "summary": "มีการเผยแพร่รายงานวิเคราะห์ขนาดและการเติบโตใหม่สำหรับภาคส่วนสีพ่นซ่อมรถยนต์ในแอฟริกาใต้",
+            "why": "ตลาดพ่นซ่อมรถยนต์ที่ขยายตัวในภูมิภาคเกิดใหม่บ่งชี้ถึงความต้องการที่มั่นคงสำหรับเครื่องมือสิ้นเปลืองและวัสดุกัดกร่อนในอู่",
+            "action": "จับตาดูตัวชี้วัดการเติบโตของตลาดเกิดใหม่เพื่อใช้เป็นเกณฑ์มาตรฐานในการส่งออกและการจัดจำหน่าย"
           }
         },
         {
           "id": "20260823-w3",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "Woodworking Network",
-          "date": "2026-05-12",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYlFWaVc1emlzYkJ4RGZ5cnNUcGV4OGpHWHAyNzZ0Uk5EZG9Zd3c4czU1TlhQcEpjN25LTW9lbjFoZE5Kb1dxQV93djZNYXlUeXdsZW5MUzRwaG1xNlBxeHd4Tzk1eFlyU2RCSjh1VlZkZVh1MXlaMlo1Rm5WOC1FdWJsTnRNcjhVV21FR2VXNHEtUHJjcTJ6S3FNMFJqa0VEWEVUei1HeTR6ckdIb1pLSXFDRjlweHJiVkJNem9YN0cxdw?oc=5",
-          "title": "Finishing Forum: Technology trends shaping future of finishing, sanding",
-          "summary": "Industry experts discuss technology trends shaping the future of surface finishing and sanding processes.",
-          "why": "Directly impacts wood and general industrial sanding requirements, guiding equipment and abrasive matching.",
-          "action": "Keep abreast of new finishing techniques to advise local clients on proper abrasive selection.",
+          "tag": "steel",
+          "rating": "green",
+          "source": "The Motley Fool",
+          "date": "2026-07-22",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNTlNa3plT2hhb1ZiZ3hOLWdua21Hcm5UaXlwdEhraXd3bDJReThSLWpkMjdNMDR1OE1EUFRaMjM1bXhtU1REeFBmcjZsajlrNjc3MVJxX3hIUkFzZTNhcVdMS3RvekhWZ0U1Z0xhRXZTdk9tV1A2WjBEQzQ0ZHlnT2V3cEZkcEU0cHc?oc=5",
+          "title": "5 Best Steel Stocks for 2026 and How to Invest",
+          "summary": "An analysis of top-performing steel stocks highlights current market conditions and investment strategies for the metal sector in 2026.",
+          "why": "Steel production output directly drives industrial demand for heavy-duty grinding wheels, cut-off discs, and metal deburring abrasives.",
+          "action": "Correlate steel stock performance and output forecasts with local metal fabrication and heavy industry abrasive orders.",
           "th": {
-            "title": "ฟอรัมการทำสีและตกแต่งผิว: แนวโน้มเทคโนโลยีสู่อนาคตของการขัดและตกแต่ง",
-            "summary": "ผู้เชี่ยวชาญในอุตสาหกรรมหารือเกี่ยวกับแนวโน้มเทคโนโลยีที่จะกำหนดอนาคตของกระบวนการตกแต่งผิวและการขัด",
-            "why": "ส่งผลโดยตรงต่อความต้องการขัดผิวไม้และอุตสาหกรรมทั่วไป รวมถึงช่วยแนะแนวทางการเลือกใช้อุปกรณ์และกระดาษทรายให้เหมาะสม",
-            "action": "ติดตามเทคนิคการขัดเคลือบใหม่ๆ เพื่อให้คำปรึกษาลูกค้าท้องถิ่นในการเลือกใช้วัสดุขัดที่เหมาะสม"
+            "title": "5 หุ้นเหล็กยอดเยี่ยมสำหรับปี 2026 และวิธีการลงทุน",
+            "summary": "บทวิเคราะห์หุ้นเหล็กที่มีผลงานโดดเด่น เน้นย้ำถึงภาวะตลาดปัจจุบันและกลยุทธ์การลงทุนสำหรับภาคโลหะในปี 2026",
+            "why": "ปริมาณการผลิตเหล็กส่งผลโดยตรงต่อความต้องการทางอุตสาหกรรมสำหรับใบเจียรหนัก ใบตัด และวัสดุกัดกร่อนสำหรับลบคมโลหะ",
+            "action": "นำผลประกอบการหุ้นเหล็กและคาดการณ์ผลผลิตมาประเมินร่วมกับคำสั่งซื้อวัสดุกัดกร่อนในอุตสาหกรรมโลหะหนักและแปรรูปโลหะในท้องถิ่น"
           }
         }
       ]
