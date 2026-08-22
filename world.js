@@ -4,82 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-08-23",
-      "summary": "Today's briefing highlights global shifts in automotive refinish coatings across Japan, India, and OEM sectors, plus supply chain pressures affecting steel production.",
-      "directCount": 2,
+      "summary": "Today's briefing highlights emerging dynamics in diamond superhard abrasives, automation in surface finishing, European finishing tech trends, and global steel industry challenges.",
+      "directCount": 3,
       "th": {
-        "summary": "สรุปประเด็นสำคัญประจำวันนี้เน้นการเปลี่ยนแปลงของตลาดสีพ่นซ่อมรถยนต์ในญี่ปุ่น อินเดีย และกลุ่ม OEM รวมถึงแรงกดดันด้านซัพพลายเชนที่ส่งผลต่อการผลิตเหล็ก"
+        "summary": "สรุปข่าววันนี้เน้นย้ำแนวโน้มของวัสดุขัดเพชรความแข็งสูง ระบบอัตโนมัติในการตกแต่งผิว แนวโน้มเทคโนโลยีการเคลือบในยุโรป และความท้าทายในอุตสาหกรรมเหล็กโลก"
       },
       "items": [
         {
           "id": "20260823-w1",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "MarketsandMarkets",
-          "date": "2026-08-19",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdkJOZE5aa1UxdjhHU3JkOTgyTUNQTVBaZTgycTdwb18welRPT3ZOUUxWdHNjUkk1QU15Skh3anJLWkh1akNyNzEtX2ZBeGRqU21rRWh4TVpUeHNtSjQ5WFlhTDhnWU9WenlybzhDbFF0c0JQYkVDV3A3ZkhfSlJhN0EwQW5KV3VMOUhxejl5RQ?oc=5",
-          "title": "Japan Automotive Refinish Coatings Market Size, Share, Trends, Growth Analysis Report, 2030",
-          "summary": "MarketsandMarkets published a growth analysis report tracking the expansion of automotive refinish coatings in Japan through 2030.",
-          "why": "Refinish coatings and automotive body repair directly drive local consumption of waterproof sandpaper, masking tape, and polishing compounds.",
-          "action": "Monitor demand trends for automotive refinishing supplies in developed Asian markets to forecast specialty abrasive usage.",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-08-16",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUXZZSEZqNzVRV2VWbE81MzNPSVlmeWpoMFI2RUhWYktFbktWnBuU0h5VFBTbl9haHhXX0xwU0VwMm5mRHFtNDFMZXFGR2hpRjVwZU1BUl90c0hJNnBMYm9GWnFxWUJzTGNQREI5Vl9pSE84dDB6RkkyTFNWNHN0WFRxSXFpdFBFX3VuR0YtY29BSHFjdlRsdEFXNzRnQ1REMWYzRzE0TzZ4Mi1ZX1p1cTlCMnZ0NWhaR0g0?oc=5",
+          "title": "Abrasive Cloth Rolls Market Growth Driven by Automation in Surface Finishing Through 2035",
+          "summary": "The market for abrasive cloth rolls is expanding due to increasing factory automation in surface finishing processes.",
+          "why": "As industrial customers automate deburring and sanding, demand for consistent, high-durability abrasive cloth rolls increases.",
+          "action": "Ensure our abrasive roll inventory caters to automated machine feeding requirements.",
           "th": {
-            "title": "รายงานตลาดสีพ่นซ่อมรถยนต์ประเทศญี่ปุ่น ปี 2030",
-            "summary": "MarketsandMarkets เผยแพร่รายงานวิเคราะห์การเติบโตของตลาดสีพ่นซ่อมรถยนต์ในญี่ปุ่นจนถึงปี 2030",
-            "why": "สีพ่นซ่อมและงานซ่อมแซมตัวถังรถยนต์ส่งผลโดยตรงต่อการใช้วัสดุกระดาษทรายกันน้ำ เทปกาว และผลิตภัณฑ์ขัดเงา",
-            "action": "ติดตามแนวโน้มความต้องการใช้วัสดุขัดผิวสำหรับงานซ่อมสีรถยนต์ในตลาดเอเชียเพื่อคาดการณ์ความต้องการกระดาษทรายเฉพาะทาง"
+            "title": "ตลาดม้วนผ้าทรายเติบโตจากระบบอัตโนมัติในการขัดผิวถึงปี 2035",
+            "summary": "ตลาดม้วนผ้าทรายกำลังขยายตัวเนื่องจากการเพิ่มขึ้นของระบบอัตโนมัติในโรงงานสำหรับกระบวนการตกแต่งผิว",
+            "why": "เมื่อลูกค้าอุตสาหกรรมหันมาใช้ระบบอัตโนมัติในการลบคมและขัด ความต้องการม้วนผ้าทรายที่มีความทนทานสูงและสม่ำเสมอจึงเพิ่มขึ้น",
+            "action": "ตรวจสอบว่าสินค้าม้วนผ้าทรายของเราตอบสนองความต้องการของเครื่องจักรระบบอัตโนมัติได้"
           }
         },
         {
           "id": "20260823-w2",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Fortune Business Insights",
-          "date": "2026-08-03",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
-          "title": "Automotive OEM Coatings Market Size, Share | Growth [2034]",
-          "summary": "A comprehensive market study projects steady long-term growth for automotive OEM coatings extending to 2034.",
-          "why": "OEM manufacturing lines require high-precision surface preparation, deburring, and sanding tools before and during the painting process.",
-          "action": "Keep an eye on OEM manufacturing standards to align industrial abrasive product offerings with tier-1 supplier specifications.",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "EIN Presswire",
+          "date": "2026-07-17",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQ2tzbUVzemVBLUxLMTFXbThzUk1aZEV5cDBQeE1HWmNUbW1PNzZTUXo0bnFpcjA5Yk1XRUtMOEFyakZfaXdVUTlPM3pSVno5dk5kRXUzM000ZFo5WG1mcGV4U1NzV1hLWVlpY3p6LVZtcTN4X3hWd2tDRVJoemVydnNIZFdNTjZmYk9uTGJEd0hTdTlpY3RlaGtHemZ6VWNTOEZoWk92eU1rQU5UdjFMLVdjWmV1U0w0czdncEJnWmkzYmZlRFdOVWpXMFN5RkZTRDh4bUxBdTV1WmpFLVJ1dDRJTUdmdw?oc=5",
+          "title": "Five Reputable Diamond Sanding Belts Manufacturers in China 2026: Optimizing Superhard Abrasive Machining",
+          "summary": "Manufacturers in China are optimizing production of superhard diamond sanding belts for advanced machining applications.",
+          "why": "Superhard abrasives like diamond belts are crucial for high-precision grinding of hard metals and advanced materials.",
+          "action": "Monitor trends in superhard diamond abrasives as precision machining standards rise.",
           "th": {
-            "title": "ขนาดส่วนแบ่งและแนวโน้มการเติบโตของตลาดสีเคลือบ OEM ยานยนต์ถึงปี 2034",
-            "summary": "การศึกษาตลาดฉบับสมบูรณ์คาดการณ์การเติบโตในระยะยาวของตลาดสีเคลือบ OEM สำหรับยานยนต์จนถึงปี 2034",
-            "why": "สายการผลิตแบบ OEM จำเป็นต้องใช้เครื่องมือเตรียมพื้นผิว การลบคม และงานขัดที่มีความแม่นยำสูงก่อนและระหว่างกระบวนการพ่นสี",
-            "action": "ติดตามมาตรฐานการผลิตระดับ OEM เพื่อเตรียมสินค้ากลุ่มอุตสาหกรรมให้สอดคล้องกับสเปกของซัพพลายเออร์ระดับ Tier-1"
+            "title": "5 ผู้ผลิตสายพานขัดเพชรที่มีชื่อเสียงในจีนปี 2026: การเพิ่มประสิทธิภาพการตัดเฉือนด้วยวัสดุขัดความแข็งสูง",
+            "summary": "ผู้ผลิตในจีนกำลังเพิ่มประสิทธิภาพการผลิตสายพานขัดเพชรความแข็งสูงสำหรับการใช้งานตัดเฉือนขั้นสูง",
+            "why": "วัสดุขัดความแข็งสูงอย่างสายพานเพชรมีความสำคัญต่อการเจียรความแม่นยำสูงสำหรับโลหะแข็งและวัสดุสมัยใหม่",
+            "action": "ติดตามแนวโน้มของวัสดุขัดเพชรความแข็งสูงเนื่องจากมาตรฐานการตัดเฉือนมีความแม่นยำสูงขึ้น"
           }
         },
         {
           "id": "20260823-w3",
-          "tag": "auto",
+          "tag": "coating",
           "rating": "amber",
-          "source": "MarketsandMarkets",
-          "date": "2026-08-19",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOc2F0RWhMOElwY09Dbl9LSm1ENlFyQUFwS3ozU1lwQnRwSXhFZ0tQUFlZWGxta0dzYzE2WGN6ZlZIZHh2WmdBM2FkcGUzb0NTZWpFSnVPWEthbGJSYnJhSTBWQmlXMENmdXU4ZlR1X0xjMGxwSkJaRnVXU3Jael9YY1U0Ry10OUViM25EMmdLVQ?oc=5",
-          "title": "India Automotive Refinish Coatings Market Size, Share, Trends, Growth Analysis Report, 2030",
-          "summary": "The Indian automotive refinish coatings sector shows robust expansion driven by rising vehicle ownership and local service networks.",
-          "why": "Expanding automotive aftermarket sectors in developing economies represent major volume destinations for standard abrasive sheets and discs.",
-          "action": "Evaluate cost-effective abrasive lines suited for high-volume automotive aftermarket repair workshops.",
+          "source": "Woodworking Network",
+          "date": "2026-05-12",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYlFWaVc1emlzYkJ4RGZ5cnNUcGV4OGpHWHAyNzZ0Uk5EZG9Zd3c4czU1TlhQcEpjN25LTW9lbjFoZE5Kb1dxQV93djZNYXlUeXdsZW5MUzRwaG1xNlBxeHd4Tzk1eFlyU2RCSjh1VlZkZVh1MXlaMlo1Rm5WOC1FdWJsTnRNcjhVV21FR2VXNHEtUHJjcTJ6S3FNMFJqa0VEWEVUei1HeTR6ckdIb1pLSXFDRjlweHJiVkJNem9YN0cxdw?oc=5",
+          "title": "Finishing Forum: Technology trends shaping future of finishing, sanding",
+          "summary": "Industry experts discuss technology trends shaping the future of surface finishing and sanding processes.",
+          "why": "Directly impacts wood and general industrial sanding requirements, guiding equipment and abrasive matching.",
+          "action": "Keep abreast of new finishing techniques to advise local clients on proper abrasive selection.",
           "th": {
-            "title": "รายงานตลาดสีพ่นซ่อมรถยนต์ประเทศอินเดีย ปี 2030",
-            "summary": "ภาคส่วนสีพ่นซ่อมรถยนต์ของอินเดียเติบโตอย่างแข็งแกร่งจากอัตราการมีรถยนต์ที่เพิ่มขึ้นและเครือข่ายบริการท้องถิ่น",
-            "why": "ตลาดหลังการขายยานยนต์ที่ขยายตัวในประเทศกำลังพัฒนาคือตลาดเป้าหมายสำคัญสำหรับกระดาษทรายและแผ่นขัดมาตรฐาน",
-            "action": "ประเมินทางเลือกผลิตภัณฑ์กระดาษทรายที่คุ้มค่าราคา เหมาะสำหรับร้านซ่อมสีและตัวถังรถยนต์ในตลาดหลังการขาย"
-          }
-        },
-        {
-          "id": "20260823-w4",
-          "tag": "steel",
-          "rating": "green",
-          "source": "The World Economic Forum",
-          "date": "2026-04-21",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeFBmZTNpZDhjN1lHNlBlU0duZ3ZQWW9uanI0SWs3SDFVazlpbVVXMklqSTVjbDloUEI4NW1Ca2dGckgzanh5UlRfX1F5QlVfQWFZNGdSS1h5bHNIUElCTk9LeUktaGd2VWxwRDAyMGJmQ1F6ZHVEOURKVjF3MVdHWGd0OG4zYTNtUk0yZkp0QXN4R3p5LUEtWkFzODBVdUdlTVpLNTh3ZjQtTGJuanlfS0Y5dWVLVEo1WkEybk96dVY?oc=5",
-          "title": "How the Iran war is disrupting India's steel production amid fuel shortages and rising costs",
-          "summary": "Geopolitical conflicts and fuel shortages are causing major operational headwinds and cost spikes for steel manufacturers in key regions like India.",
-          "why": "Higher steel production costs and localized supply disruptions directly impact metal fabrication activity, reducing regional demand for heavy-duty grinding and deburring abrasives.",
-          "action": "Maintain flexible inventory levels to adjust quickly against fluctuating raw material prices and shifting metal fabrication volumes.",
-          "th": {
-            "title": "ผลกระทบจากความขัดแย้งต่อการผลิตเหล็กในอินเดียท่ามกลางภาวะขาดแคลนเชื้อเพลิงและต้นทุนที่พุ่งสูง",
-            "summary": "ความขัดแย้งทางภูมิรัฐศาสตร์และปัญหาขาดแคลนเชื้อเพลิงส่งผลให้ผู้ผลิตเหล็กในอินเดียประสบปัญหาต้นทุนพุ่งสูงและอุปสรรคในการดำเนินงาน",
-            "why": "ต้นทุนการผลิตเหล็กที่สูงขึ้นส่งผลกระทบโดยตรงต่ออุตสาหกรรมแปรรูปโลหะ และลดความต้องการใช้งานวัสดุขัดลบคมสำหรับงานโลหะหนักลง",
-            "action": "รักษาระดับสต็อกสินค้าให้มีความยืดหยุ่น เพื่อปรับตัวให้ทันกับความผันผวนของราคาวัตถุดิบและปริมาณงานแปรรูปโลหะที่เปลี่ยนไป"
+            "title": "ฟอรัมการทำสีและตกแต่งผิว: แนวโน้มเทคโนโลยีสู่อนาคตของการขัดและตกแต่ง",
+            "summary": "ผู้เชี่ยวชาญในอุตสาหกรรมหารือเกี่ยวกับแนวโน้มเทคโนโลยีที่จะกำหนดอนาคตของกระบวนการตกแต่งผิวและการขัด",
+            "why": "ส่งผลโดยตรงต่อความต้องการขัดผิวไม้และอุตสาหกรรมทั่วไป รวมถึงช่วยแนะแนวทางการเลือกใช้อุปกรณ์และกระดาษทรายให้เหมาะสม",
+            "action": "ติดตามเทคนิคการขัดเคลือบใหม่ๆ เพื่อให้คำปรึกษาลูกค้าท้องถิ่นในการเลือกใช้วัสดุขัดที่เหมาะสม"
           }
         }
       ]
