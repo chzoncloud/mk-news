@@ -1,7 +1,89 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-08-23",
+  "updated": "2026-08-24",
   "days": [
+    {
+      "date": "2026-08-24",
+      "summary": "Today's briefing focuses on regional coatings market sizing, high-tech diamond abrasive belts in China, Europe's abrasives outlook, and global steel industry pressures from geopolitical conflicts.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปข่าววันนี้เน้นขนาดตลาดสีเคลือบในภูมิภาค, เทคโนโลยีเข็มขัดขัดเพชรแรงดันสูงจากจีน, แนวโน้มตลาดวัสดุขัดผิวในยุโรป และแรงกดดันในอุตสาหกรรมเหล็กโลกจากความขัดแย้งทางภูมิรัฐศาสตร์"
+      },
+      "items": [
+        {
+          "id": "20260824-w1",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "EIN Presswire",
+          "date": "2026-07-17",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQ2tzbUVzemVBLUxLMTFXbThzUk1aZEV5cDBQeE1HWmNUbW1PNzZTUXo0bnFpcjA5Yk1XRUtMOEFyakZfaXdVUTlPM3pSVno5dk5kRXUzM000ZFo5WG1mcGV4U1NzV1hLWVlpY3p6LVZtcTN4X3hWd2tDRVJoemVydnNIZFdNTjZmYk9uTGJEd0hTdTlpY3RlaGtHemZ6VWNTOEZoWk92eU1rQU5UdjFMLVdjWmV1U0w0czdncEJnWmkzYmZlRFdOVWpXMFN5RkZTRDh4bUxBdTV1WmpFLVJ1dDRJTUdmdw?oc=5",
+          "title": "Five Reputable Diamond Sanding Belts Manufacturers in China 2026: Optimizing Superhard Abrasive Machining",
+          "summary": "An analysis of top Chinese manufacturers optimizing superhard abrasive machining using advanced diamond sanding belts.",
+          "why": "Highlights the growing adoption and manufacturing capability of superhard diamond abrasives, which compete directly with traditional coated abrasives in heavy-duty industrial applications.",
+          "action": "Monitor how Chinese superhard diamond belt pricing impacts regional competition in high-performance grinding segments.",
+          "th": {
+            "title": "5 ผู้ผลิตสายพานขัดเพชรชั้นนำในจีนปี 2026: การเพิ่มประสิทธิภาพการตัดเฉือนด้วยวัสดุขัดแข็งพิเศษ",
+            "summary": "บทวิเคราะห์ผู้ผลิตชั้นนำของจีนที่มุ่งเน้นเพิ่มประสิทธิภาพการตัดเฉือนด้วยสายพานขัดเพชรความแข็งสูงขั้น ings",
+            "why": "แสดงให้เห็นถึงการเติบโตและความสามารถในการผลิตวัสดุขัดเพชรความแข็งสูง ซึ่งแข่งขันโดยตรงกับกระดาษทรายและผ้าทรายทั่วไปในงานอุตสาหกรรมหนัก",
+            "action": "ติดตามว่าราคาของสายพานเพชรจากจีนจะส่งผลกระทบต่อการแข่งขันในตลาดกลุ่มงานขัดความละเอียดสูงอย่างไร"
+          }
+        },
+        {
+          "id": "20260824-w2",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "Market Data Forecast",
+          "date": "2026-07-24",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QdEVXWnRKRG40YWFXWDVwY09BdElfOGotQVNaazA2Q2p2VkluOXlhT1RSeEF3STZKZVI3b21NZlB3MWlwLTVXaVNDQWtQSHNUX3RPZXQ4Y0wwY1pwaGVfYzdKeXNNdDFZMkNpcDVhSm5OUjRraTM4ZV9fRHcyZw?oc=5",
+          "title": "Europe Abrasives Market Size, Share and Analysis, 2034",
+          "summary": "Market Data Forecast releases a comprehensive evaluation of the Europe abrasives market through 2034.",
+          "why": "Provides baseline growth expectations and shifting technology standards in the mature European manufacturing sector.",
+          "action": "Compare European demand metrics against Asian industrial growth to spot high-margin product niches.",
+          "th": {
+            "title": "ขนาด ส่วนแบ่ง และการวิเคราะห์ตลาดวัสดุขัดถูในยุโรป ปี 2034",
+            "summary": "Market Data Forecast เผยแพร่รายงานประเมินตลาดวัสดุขัดถูในยุโรปแบบครอบคลุมถึงปี 2034",
+            "why": "ให้ข้อมูลคาดการณ์การเติบโตพื้นฐานและมาตรฐานเทคโนโลยีที่เปลี่ยนแปลงไปในภาคการผลิตของยุโรป",
+            "action": "เปรียบเทียบตัวเลขความต้องการในยุโรปกับการเติบโตของอุตสาหกรรมในเอเชีย เพื่อหาช่องว่างผลิตภัณฑ์ที่มีกำไรสูง"
+          }
+        },
+        {
+          "id": "20260824-w3",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "MarketsandMarkets",
+          "date": "2026-08-19",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdkJOZE5aa1UxdjhHU3JkOTgyTUNQTVBaZTgycTdwb18welRPT3ZOUUxWdHNjUkk1QU15Skh3anJLWkh1akNyNzEtX2ZBeGRqU21rRWh4TVpUeHNtSjQ5WFlhTDhnWU9WenlybzhDbFF0c0JQYkVDV3A3ZkhfSlJhN0EwQW5KV3VMOUhxejl5RQ?oc=5",
+          "title": "Japan Automotive Refinish Coatings Market Size, Share, Trends, Growth Analysis Report, 2030",
+          "summary": "An in-depth outlook on Japan's automotive refinish coatings sector extending toward the end of the decade.",
+          "why": "Refinish coatings demand correlates closely with body shop activity, surface preparation, and sanding sheet/disc consumption.",
+          "action": "Track trends in automotive body shop chemical usage to anticipate shifts in manual versus automated sanding media.",
+          "th": {
+            "title": "รายงานขนาด ส่วนแบ่ง แนวโน้ม และการวิเคราะห์การเติบโตของตลาดสีพ่นซ่อมรถยนต์ในญี่ปุ่น ปี 2030",
+            "summary": "มุมมองเชิงลึกเกี่ยวกับภาคธุรกิจสีพ่นซ่อมรถยนต์ในประเทศญี่ปุ่นจนถึงสิ้นทศวรรษนี้",
+            "why": "ความต้องการสีพ่นซ่อมรถยนต์มีความเชื่อมโยงโดยตรงกับกิจกรรมในอู่ซ่อมตัวถัง การเตรียมพื้นผิว และการใช้กระดาษทรายหรือแผ่นขัด",
+            "action": "ติดตามแนวโน้มการใช้เคมีภัณฑ์ในอู่ซ่อมรถเพื่อคาดการณ์ความต้องการวัสดุขัดทั้งแบบมือถือและแบบอัตโนมัติ"
+          }
+        },
+        {
+          "id": "20260824-w4",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "Recycling International",
+          "date": "2026-05-06",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUGx0eVkxRzJXY2ZfWGV0VWstUVozcnFnRjRpQnEydThVWTdhdno0NEhVNVFLYzRIal85T0h4b0hqNjNBclVpY1lteGZDWFZSdGhhcG9LVlhYN3ZucHRDOWFvOXFkTjhYYjVibTNsM3Y5ZVFjeFhoQW13anV4RE56emVzQUFESDlWRnB4LVpuSFNEb1FoOXRvNU9KY1pfYmxEYlA3RUhqQzY0RDMzSHF1dHE5U0w?oc=5",
+          "title": "Conflicts’ ‘serious’ impact on global steel industry",
+          "summary": "Reports highlight how ongoing international conflicts create serious disruptions and supply chain cost pressures in the global steel sector.",
+          "why": "Steel availability and pricing volatility directly affect metal fabrication volumes, structural steel prep, and heavy industrial grinding needs.",
+          "action": "Keep an eye on metal fabrication input costs when forecasting long-term demand for heavy-duty grinding wheels and cutoff discs.",
+          "th": {
+            "title": "ผลกระทบที่รุนแรงของความขัดแย้งต่ออุตสาหกรรมเหล็กโลก",
+            "summary": "รายงานเน้นย้ำถึงความขัดแย้งระหว่างประเทศที่ส่งผลให้เกิดการหยุดชะงักและสร้างแรงกดดันด้านต้นทุนห่วงโซ่อุปทานในภาคอุตสาหกรรมเหล็กโลก",
+            "why": "ความพร้อมและราคาที่ผันผวนของเหล็กส่งผลโดยตรงต่อปริมาณงานขึ้นรูปโลหะ การเตรียมผิวเหล็กโครงสร้าง และความต้องการแผ่นเจียรงานหนัก",
+            "action": "จับตาต้นทุนวัตถุดิบในการแปรรูปโลหะเมื่อคาดการณ์ความต้องการแผ่นตัดและใบเจียรเพื่องานหนักในระยะยาว"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-08-23",
       "summary": "Today's briefing highlights shifts in global automotive refinish coatings and regional market reports across South Africa and Japan, alongside evolving dynamics in global steel and commodity markets impacting industrial surface preparation.",
