@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-08-24",
-      "summary": "Today's briefing focuses on automotive OEM coatings growth, the expansion of EV assembly ecosystems, and structural developments in steel production like EAF technology, directly impacting surface prep and finishing demand.",
+      "summary": "Today's briefing highlights niche high-tech surface finishing trends, including superhard diamond sanding belts, European abrasives market forecasts, and EV lightweighting through composite leaf springs.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปรายงานวันนี้เน้นการเติบโตของสีเคลือบรถยนต์ OEM ระบบการผลิต EV และการพัฒนาอุตสาหกรรมเหล็ก เช่น เทคโนโลยีเตาอาร์คไฟฟ้า (EAF) ซึ่งส่งผลโดยตรงต่อความต้องการวัสดุขัดและเตรียมพื้นผิว"
+        "summary": "สรุปกระแสโลกวันนี้เน้นเทรนด์การเตรียมพื้นผิวไฮเทคเฉพาะกลุ่ม เช่น สายพานขัดเพชรความแข็งสูง การคาดการณ์ตลาดสารขัดถูในยุโรป และการลดน้ำหนักรถยนต์ EV ด้วยแหนบสปริงคอมโพสิต"
       },
       "items": [
         {
           "id": "20260824-w1",
-          "tag": "auto",
+          "tag": "abrasive",
           "rating": "green",
-          "source": "Fortune Business Insights",
-          "date": "2026-08-03",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXJjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
-          "title": "Automotive OEM Coatings Market Size, Share | Growth [2034]",
-          "summary": "The global automotive OEM coatings market is experiencing steady expansion through 2034, driven by vehicle production recovery and advanced finishing requirements.",
-          "why": "Higher OEM vehicle production and complex coating pre-treatments mean strong, steady demand for industrial sanding, surface preparation, and finishing abrasives.",
-          "action": "Track automotive OEM coating trends to anticipate volume shifts in industrial sanding supplies.",
+          "source": "EIN Presswire",
+          "date": "2026-07-17",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQ2tzbUVzemVBLUxLMTFXbThzUk1aZEV5cDBQeE1HWmNUbW1PNzZTUXo0bnFpcjA5Yk1XRUtMOEFyakZfaXdVUTlPM3pSVno5dk5kRXUzM000ZFo5WG1mcGV4U1NzV1hLWVlpY3p6LVZtcTN4X3hWd2tDRVJoemVydnNIZFdNTjZmYk9uTGJEd0hTdTlpY3RlaGtHemZ6VWNTOEZoWk92eU1rQU5UdjFMLVdjWmV1U0w0czdncEJnWmkzYmZlRFdOVWpXMFN5RkZTRDh4bUxBdTV1WmpFLVJ1dDRJTUdmdw?oc=5",
+          "title": "Five Reputable Diamond Sanding Belts Manufacturers in China 2026: Optimizing Superhard Abrasive Machining",
+          "summary": "The market is increasingly focusing on diamond sanding belts and superhard abrasive machining solutions to optimize heavy-duty cutting performance.",
+          "why": "Superhard abrasives like diamond belts represent high-margin technical segments for advanced industrial machining.",
+          "action": "Monitor customer demand for diamond and superhard coated belts in precision hard-metal applications.",
           "th": {
-            "title": "ขนาดและแนวโน้มการเติบโตของตลาดสีเคลือบ OEM ยานยนต์ถึงปี 2034",
-            "summary": "ตลาดสีเคลือบ OEM ยานยนต์ทั่วโลกกำลังเติบโตอย่างต่อเนื่องจนถึงปี 2034 ขับเคลื่อนโดยการฟื้นตัวของการผลิตรถยนต์และความต้องการงานเคลือบผิวขั้นสูง",
-            "why": "การผลิตรถยนต์ OEM ที่เพิ่มขึ้นและการเตรียมพื้นผิวที่ซับซ้อน ส่งผลให้ความต้องการกระดาษทรายและวัสดุขัดสำหรับการเตรียมพื้นผิวมีสูงอย่างต่อเนื่อง",
-            "action": "ติดตามแนวโน้มสีเคลือบ OEM เพื่อคาดการณ์ความต้องการวัสดุขัดในอุตสาหกรรมยานยนต์"
+            "title": "5 ผู้ผลิตสายพานขัดเพชรชั้นนำในจีนปี 2026: การเพิ่มประสิทธิภาพงานตัดเฉือนด้วยสารขัดถูความแข็งพิเศษ",
+            "summary": "ตลาดกำลังให้ความสำคัญกับสายพานขัดเพชรและโซลูชันการตัดเฉือนด้วยสารขัดถูความแข็งพิเศษเพื่อเพิ่มประสิทธิภาพการตัดงานหนัก",
+            "why": "สารขัดถูความแข็งพิเศษอย่างสายพานเพชรเป็นกลุ่มผลิตภัณฑ์ทางเทคนิคที่มีกำไรสูงสำหรับงานเครื่องจักรกลอุตสาหกรรมขั้นสูง",
+            "action": "ติดตามความต้องการของลูกค้าสำหรับสายพานเคลือบเพชรและวัสดุความแข็งพิเศษในงานโลหะแข็งที่มีความแม่นยำ"
           }
         },
         {
           "id": "20260824-w2",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "MarketsandMarkets",
-          "date": "2026-07-10",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUXhqQk54c1g4cXhycTVMTFlJY3l2bGNZYU5hWG1zdDRYZmYwM0FaUzVXOTlCTXNCR1dabXhiLTJnMllTWFl6UWt1TE9KMkFqYmxxRUNjcC1nQlFhR3ZPSng5QVNtQnZRMEZ2cGREVGhaa0VPSTVfSkg1UEtlNER4emMyYW83SUkzSGc?oc=5",
-          "title": "EV Assembly Market Report 2026-05",
-          "summary": "Comprehensive analysis of the EV assembly market highlights rapid manufacturing plant setups, shifting focus to lightweight materials and automated joining.",
-          "why": "EV assembly lines use different lightweight frames (aluminum/composites) requiring specialized deburring, grinding, and edge-rounding solutions.",
-          "action": "Engage local customers supplying EV components who may need specialized non-woven or ceramic abrasives.",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "Market Data Forecast",
+          "date": "2026-07-24",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QdEVXWnRKRG40YWFXWDVwY09BdElfOGotQVNaazA2Q2p2VkluOXlhT1RSeEF3STZKZVI3b21NZlB3MWlwLTVXaVNDQWtQSHNUX3RPZXQ4Y0wwY1pwaGVfYzdKeXNNdDFZMkNpcDVhSm5OUjRraTM4ZV9fRHcyZw?oc=5",
+          "title": "Europe Abrasives Market Size, Share and Analysis, 2034",
+          "summary": "A comprehensive outlook on the European abrasives market highlights structural shifts and long-term demand drivers toward 2034.",
+          "why": "European market reports signal global standard changes in quality, eco-compliance, and premium abrasive product adoption.",
+          "action": "Use European quality and compliance benchmarks as a reference point for upgrading our B2B product offerings.",
           "th": {
-            "title": "รายงานตลาดการประกอบรถยนต์ไฟฟ้า (EV Assembly) ปี 2026-2035",
-            "summary": "การวิเคราะห์ตลาดการประกอบ EV เผยให้เห็นการตั้งโรงงานผลิตที่รวดเร็ว พร้อมเปลี่ยนไปใช้โครงสร้างวัสดุน้ำหนักเบาและการเชื่อมต่อแบบอัตโนมัติ",
-            "why": "ไลน์ประกอบ EV ใช้โครงสร้างน้ำหนักเบา (อลูมิเนียม/คอมโพสิต) ซึ่งต้องใช้ผลิตภัณฑ์ขัด ลบคม และตกแต่งขอบชิ้นงานที่เฉพาะเจาะจง",
-            "action": "เจาะกลุ่มลูกค้าที่ผลิตชิ้นส่วน EV ซึ่งอาจต้องการวัสดุกลุ่มนอนวูฟเวนหรือกระดาษทรายเซรามิกเฉพาะทาง"
+            "title": "ขนาด ส่วนแบ่ง และการวิเคราะห์ตลาดสารขัดถูยุโรป ปี 2034",
+            "summary": "มุมมองเชิงลึกเกี่ยวกับตลาดสารขัดถูในยุโรปเน้นการเปลี่ยนแปลงเชิงโครงสร้างและปัจจัยขับเคลื่อนความต้องการระยะยาวถึงปี 2034",
+            "why": "รายงานตลาดจากยุโรปบ่งชี้การเปลี่ยนแปลงมาตรฐานระดับโลกด้านคุณภาพ ความเป็นมิตรต่อสิ่งแวดล้อม และการใช้ผลิตภัณฑ์ขัดถูเกรดพรีเมียม",
+            "action": "ใช้เกณฑ์มาตรฐานด้านคุณภาพและการปฏิบัติตามข้อกำหนดของยุโรปเป็นแนวทางในการยกระดับผลิตภัณฑ์ B2B ของเรา"
           }
         },
         {
           "id": "20260824-w3",
-          "tag": "steel",
-          "rating": "green",
-          "source": "Shanghai Metals Market",
-          "date": "2026-05-19",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMmw1akRRMFZCQ2I5NGhHdE1NOXhoaE1GY0h5UmxlQVNUVGxHTko2U0NBQ0o0Q19ZYmZ1VnBCTTB6a2JJQTFNOUpDSUtpWXdaR3hkeGhlOXF4dF9yUElCd1ZkWTl4MmZGOWhVeUlXc2VCMXFCOHQzZ0ZGZ1RtZ3p6aUNObEczWFhKMkdKQ3JuRWF5SjVNZmpOQVBaSGs4TWJKS1lVa0VTdmoxdDBQTF8zRDlxME1qeEtOUzJzSTBERURobWltWTlVUlpaZ3d2WlFRNEY1b0UwbVVfLXc0cXBZ?oc=5",
-          "title": "Nucor: 100% EAF, High Profits, and Vertical Integration Mitigating Costs",
-          "summary": "An in-depth look at Nucor's electric arc furnace (EAF) steel production model, highlighting efficiency and lower operational costs in modern steel mills.",
-          "why": "EAF steel mills and structural metal fabrication require heavy grinding, snagging, and weld seam removal, driving constant consumption of heavy-duty abrasive wheels and discs.",
-          "action": "Keep an eye on regional metal fabrication plants adopting EAF steel for heavy industrial grinding opportunities.",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Future Market Insights",
+          "date": "2026-02-12",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc2x3UG45VXZPYjdDdjdGZ21pUkZDc2FIZnlYOWdzRXlpM0ZlLXAzR2poSHN5YllRYk9EYkZLTW1fS1FZN3Z6ZEN1SXN5cTR5cXhkeGc3QjJxMG5WeFFVN0dRQjlZUmJ6NnhNN1lYWFMzUGE1dWhfY0FWd05FWnlwYlFDcGZfZzFPeC1fbWpn?oc=5",
+          "title": "Automotive Composite Leaf Springs Market",
+          "summary": "The automotive sector is steadily adopting composite leaf springs to reduce vehicle weight, particularly for commercial and EV platforms.",
+          "why": "Machining and finishing composite materials require specialized coated abrasives that differ from traditional steel grinding.",
+          "action": "Explore specialized sanding solutions suited for composite materials used in modern lightweight automotive parts.",
           "th": {
-            "title": "Nucor: โมเดลการผลิตเหล็กเตาอาร์คไฟฟ้า (EAF) 100% และการลดต้นทุน",
-            "summary": "เจาะลึกโมเดลการผลิตเหล็กด้วยเตาอาร์คไฟฟ้า (EAF) ของ Nucor ที่สะท้อนถึงประสิทธิภาพและต้นทุนที่ต่ำลงในโรงงานเหล็กสมัยใหม่",
-            "why": "โรงงานเหล็ก EAF และอุตสาหกรรมแปรรูปโลหะโครงสร้างต้องใช้งานเจียรและลบแนวเชื่อมอย่างหนักหน่วง ซึ่งช่วยขับเคลื่อนความต้องการใช้แผ่นตัดและใบเจียรอย่างต่อเนื่อง",
-            "action": "จับตาดูโรงงานแปรรูปโลหะในภูมิภาคที่หันมาใช้เหล็กจากเตา EAF เพื่อหาโอกาสขายผลิตภัณฑ์กลุ่มงานหนัก"
+            "title": "ตลาดแหนบสปริงคอมโพสิตยานยนต์",
+            "summary": "ภาคยานยนต์กำลังหันมาใช้แหนบสปริงคอมโพสิตอย่างต่อเนื่องเพื่อลดน้ำหนักรถยนต์ โดยเฉพาะสำหรับแพลตฟอร์มเชิงพาณิชย์และ EV",
+            "why": "งานตัดแต่งและขัดผิววัสดุคอมโพสิตต้องใช้กระดาษทรายหรือสารขัดเคลือบพิเศษที่แตกต่างจากการเจียรเหล็กแบบดั้งเดิม",
+            "action": "ศึกษาโซลูชันการขัดที่เหมาะกับวัสดุคอมโพสิต ซึ่งใช้ในชิ้นส่วนยานยนต์น้ำหนักเบาสัยใหม่"
           }
         }
       ]
