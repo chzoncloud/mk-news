@@ -3,64 +3,64 @@ window.NEWS_ARCHIVE = {
   "days": [
     {
       "date": "2026-08-24",
-      "summary": "Today has limited new developments; key focus remains on regional competition from Indonesia targeting Japanese automotive assembly hubs and domestic steelmakers petitioning for stricter furnace standards.",
-      "directCount": 1,
+      "summary": "News flow is light today with no major direct disruptions; developments focus on long-term aerospace MRO expansion at U-Tapao, automotive manufacturing competitiveness, and slowing furniture exports.",
+      "directCount": 0,
       "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยประเด็นสำคัญยังคงเน้นไปที่การแข่งขันจากอินโดนีเซียเพื่อแย่งฐานการผลิตยานยนต์ญี่ปุ่น และการที่กลุ่มผู้ผลิตเหล็กไทยเรียกร้องให้คุมเข้มมาตรฐานเตาหลอมเพื่อสกัดสินค้านำเข้าราคาถูก"
+        "summary": "วันนี้มีข่าวใหม่ไม่มากและไม่มีผลกระทบโดยตรงฉับพลัน โดยประเด็นสำคัญยังอยู่ที่การพัฒนาศูนย์ซ่อมบำรุงอากาศยานอู่ตะเภา การแข่งขันในภาคยานยนต์ และแนวโน้มการชะลอตัวของยอดส่งออกเฟอร์นิเจอร์"
       },
       "items": [
         {
           "id": "20260824-1",
-          "tag": "auto",
+          "tag": "aero",
           "rating": "amber",
-          "source": "thestandard.co",
-          "date": "2026-08-22",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4cFBRT3d1OGczUzM0QncyVTdham1OSDZNN0sxa1hsSmpnVWQ1QnpibEFDazNkNXBOSHNxM3pEdm5vSDlwVUdEcTBZUUI5VmtXQ2J4dElQSXpNMWNpTmRmZUg1MU93bkE?oc=5",
-          "title": "China Expands as Japan Adapts: Thailand Urged to Rethink Automotive Base Strategy",
-          "summary": "Industry analysts urge Thailand to redesign policies as Chinese EV brands expand while Japanese carmakers restructure manufacturing operations.",
-          "why": "Structural transitions in auto manufacturing impact Tier-1 and Tier-2 component volume, directly shifting demand for metal finishing abrasives.",
-          "action": "Track factory utilization across Japanese parts suppliers while introducing specialized abrasive line-ups for EV aluminum parts.",
+          "source": "thansettakij",
+          "date": "2026-06-16",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pbFFnQlhiSG5UMVBfNjVmMUZtNXc4ZkYyOFljMVFtQlQwalZ5WUpidFlzX3prejlBWGoydDYzUUZXMlY4bE56VFUwZnZrLVJfWlRtV2t0Wi0xOWkzeVFLTUFJOVIwUQ?oc=5",
+          "title": "EECO Targets U-Tapao MRO Hub as VietJet Studies Investment Proposal",
+          "summary": "The EEC Office continues advancing the U-Tapao aircraft maintenance center project while awaiting VietJet's feasibility and investment submission.",
+          "why": "Expanding aviation MRO facilities creates long-term demand for specialized aerospace-grade surface finishing and deburring abrasives.",
+          "action": "Engage aviation maintenance operators and project contractors early to introduce aerospace-certified abrasive product specifications.",
           "th": {
-            "title": "จีนรุก ญี่ปุ่นปรับ ไทยต้องคิดใหม่เรื่องฐานยานยนต์",
-            "summary": "นักวิเคราะห์แนะไทยปรับนโยบายอุตสาหกรรมยานยนต์หลังค่าย EV จีนรุกคืบต่อเนื่อง ขณะที่ค่ายญี่ปุ่นเริ่มปรับโครงสร้างการผลิต",
-            "why": "การปรับโครงสร้างซัพพลายเชนยานยนต์ส่งผลต่อปริมาณการผลิตชิ้นส่วนและการใช้วัสดุขัดแต่งผิวโลหะ",
-            "action": "ติดตามกำลังการผลิตของโรงงานชิ้นส่วนยานยนต์ญี่ปุ่นอย่างใกล้ชิด พร้อมพัฒนาสินค้าวัสดุขัดสำหรับชิ้นส่วนอะลูมิเนียมของ EV"
+            "title": "อีอีซีเดินหน้าศูนย์ซ่อมฯ อู่ตะเภา รอเวียตเจ็ทศึกษาชงแผนลงทุน",
+            "summary": "สำนักงานอีอีซีเร่งผลักดันศูนย์ซ่อมบำรุงอากาศยานอู่ตะเภาอย่างต่อเนื่อง โดยอยู่ระหว่างรอสายการบินเวียตเจ็ทสรุปแผนร่วมลงทุน",
+            "why": "การขยายศูนย์ซ่อมบำรุงอากาศยานจะช่วยเพิ่มอุปสงค์ต่อวัสดุขัดแต่งและเตรียมผิวโลหะมาตรฐานการบินในระยะยาว",
+            "action": "ประสานงานกับผู้ประกอบการศูนย์ซ่อมบำรุงอากาศยานเพื่อแนะนำสเปกวัสดุขัดเกรดอุตสาหกรรมการบินล่วงหน้า"
           }
         },
         {
           "id": "20260824-2",
           "tag": "auto",
           "rating": "amber",
-          "source": "CAR250",
-          "date": "2026-08-08",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoczJJSzFGVWdBRnBPSTBvb0d3WnY0ZGl6V1JfZFFHT2ZFVHhxaFZuRnFHY3JPU1hsaTZmUGFIb2ExVFJfOHVTakxvbFhxdGRIc3hWUmU1R1l6Ry1nbW1FWlRB?oc=5",
-          "title": "Indonesia Pushes Heavy Incentives to Lure Toyota Production Base from Thailand",
-          "summary": "Indonesia is offering comprehensive tax breaks and operational incentives to convince Toyota to relocate key production lines.",
-          "why": "Toyota and its supply chain form MK's core target customer base; any long-term factory relocation risks local sanding abrasive volume.",
-          "action": "Strengthen long-term supply contracts and technical support with Japanese Tier-1/Tier-2 body and stamping plants in the Eastern Seaboard.",
+          "source": "gotomanager.com",
+          "date": "2026-08-19",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rT1dtV3RXdWlodDlDbEZsRGY4bTV1VDdLa2QyN3o5ekhXeTRHVjcyMFZsVzhGeHhSdzdxNjJMWk1YRmZjYlBiUGJha0xsaEhFTlE?oc=5",
+          "title": "60 Years of Thai Automotive Sector: From Assembly Hub to New Regional Rivalry",
+          "summary": "Thailand's automotive manufacturing landscape faces structural shifts and intense competition from regional peers like Indonesia.",
+          "why": "Shifts in regional production allocations directly impact factory operating rates and abrasive tool consumption among Japanese auto-part suppliers.",
+          "action": "Maintain regular contact with Tier-1 and Tier-2 Japanese auto parts clients to monitor production pipeline adjustments.",
           "th": {
-            "title": "อินโดนีเซียประกาศดึงโตโยต้าย้ายฐานผลิตหลักจากไทย พร้อมเสนอสิทธิประโยชน์เต็มรูปแบบ",
-            "summary": "อินโดนีเซียเดินหน้ารุกหนักด้วยมาตรการภาษีและสิทธิประโยชน์เพื่อดึงดูดฐานการผลิตหลักของโตโยต้าให้ย้ายออกจากไทย",
-            "why": "โตโยต้าและซัพพลายเออร์ในเครือคือกลุ่มลูกค้าเป้าหมายหลัก หากเกิดการย้ายฐานผลิตจะกระทบต่อยอดใช้วัสดุขัดแต่งผิวโลหะในระยะยาว",
-            "action": "เร่งทำสัญญาซื้อขายระยะยาวและเสริมบริการทางเทคนิคแก่โรงงานชิ้นส่วนยานยนต์ญี่ปุ่นในพื้นที่นิคมอุตสาหกรรมภาคตะวันออก"
+            "title": "60 ปีอุตสาหกรรมยานยนต์ไทย: จากฐานประกอบสู่บททดสอบการแข่งขันระดับภูมิภาค",
+            "summary": "อุตสาหกรรมยานยนต์ไทยเผชิญแรงกดดันเชิงโครงสร้างและการแข่งขันแย่งชิงฐานการผลิตจากคู่แข่งสำคัญอย่างอินโดนีเซีย",
+            "why": "การปรับเปลี่ยนฐานการผลิตในภูมิภาคส่งผลต่ออัตราการเดินเครื่องและปริมาณการใช้วัสดุขัดของโรงงานชิ้นส่วนยานยนต์ญี่ปุ่น",
+            "action": "ติดตามแผนการผลิตของกลุ่มลูกค้าโรงงานผลิตชิ้นส่วนยานยนต์ Tier 1 และ Tier 2 ของญี่ปุ่นอย่างต่อเนื่อง"
           }
         },
         {
           "id": "20260824-3",
-          "tag": "steel",
-          "rating": "green",
-          "source": "มติชนออนไลน์",
-          "date": "2026-05-21",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UYW10Tk1DUVRKUmhSc0EtelBFYk5QMlZpSE5XTGR1S1FEaGFuVExkWVVjZ3Fyc3dnek5ZNlozMWNUNWxSQTVrY3FmOTVDT0MzX0E2SjZkYm1QQ28?oc=5",
-          "title": "10 Steel Associations Urge Ministry to Curb Chinese Dumping and Tighten Furnace Standards",
-          "summary": "Ten domestic steel trade groups petitioned the Ministry of Industry to enforce strict TISI standards on Induction Furnaces to curb substandard imports.",
-          "why": "Strict enforcement safeguards local metal fabricators and mills, stabilizing domestic demand for grinding discs, cutting wheels, and flap discs.",
-          "action": "Focus direct sales pitches of high-durability heavy grinding wheels and flap discs to certified local steel fabricators and foundries.",
+          "tag": "furniture",
+          "rating": "amber",
+          "source": "kasikornresearch.com",
+          "date": "2025-10-09",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR0I3LUFaeENxbzdDQVF4UDdVMFlmRWp4Y3BBdFZ6OGFQeUdZZ3Y5dHA5Q2ZxRXJIaTUtLVNVY29QM3RuSk1RMmpaeXhucHEwLWRiMFlsbkJRNEtYY3RWSDZNNXRBUXdfb0hDV0IzR1pkRW5ERC1xSkQtN21WZTVveUNtdURRYmN3QjQxUDRHS2g1dDNkSGdRVVJGU2tBNGJ3WDREcGh1N2VrdnN6MExB?oc=5",
+          "title": "Kasikorn Research Projects Thai Furniture Exports to Contract 4.5% in 2026",
+          "summary": "Thai furniture export growth is projected to turn negative with a 4.5% contraction in 2026 after front-loaded shipments to the US slow down.",
+          "why": "A drop in export furniture manufacturing lowers abrasive belt and sanding paper consumption across export-oriented wood processing plants.",
+          "action": "Diversify into domestic custom woodworking segments and expand retail DIY sanding solutions on Shopee and TikTok.",
           "th": {
-            "title": "10 สมาคมเหล็ก ร้องกระทรวงอุตสาหกรรมแก้ปัญหาเหล็กจีนทะลัก พร้อมคุมเข้มมาตรฐานเตาหลอม IF",
-            "summary": "10 สมาคมผู้ผลิตเหล็กไทยยื่นหนังสือร้องเรียนให้คุมเข้มมาตรฐาน มอก. กับเตาหลอม Induction Furnace เพื่อสกัดเหล็กไม่ได้มาตรฐาน",
-            "why": "การบังคับใช้มาตรฐานช่วยปกป้องโรงงานเหล็กและแปรรูปโลหะในประเทศ ซึ่งส่งผลดีโดยตรงต่อความต้องการใบเจียรและใบตัด",
-            "action": "มุ่งขยายยอดขายหินเจียรหนาและจานทรายซ้อนคุณภาพสูงไปยังกลุ่มโรงงานโครงสร้างเหล็กและโรงหล่อโลหะที่ได้มาตรฐานในไทย"
+            "title": "ศูนย์วิจัยกสิกรไทยคาดส่งออกเฟอร์นิเจอร์ปี 2569 พลิกหดตัว 4.5%",
+            "summary": "การส่งออกเฟอร์นิเจอร์ไทยมีแนวโน้มชะลอตัวและหดตัว 4.5% ในปี 2569 หลังคำสั่งซื้อล่วงหน้าจากสหรัฐฯ ปรับลดลง",
+            "why": "ปริมาณการผลิตเฟอร์นิเจอร์ส่งออกที่ชะลอตัวจะลดการใช้งานกระดาษทรายและสายพานขัดในโรงงานแปรรูปไม้",
+            "action": "กระจายความเสี่ยงสู่กลุ่มโรงงานไม้สั่งทำในประเทศ พร้อมขยายตลาดกระดาษทราย DIY ผ่าน Shopee และ TikTok"
           }
         }
       ],
