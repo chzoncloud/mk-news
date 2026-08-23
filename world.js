@@ -4,82 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-08-24",
-      "summary": "Today's briefing focuses on regional coatings market sizing, high-tech diamond abrasive belts in China, Europe's abrasives outlook, and global steel industry pressures from geopolitical conflicts.",
+      "summary": "Today's briefing focuses on automotive OEM coatings growth, the expansion of EV assembly ecosystems, and structural developments in steel production like EAF technology, directly impacting surface prep and finishing demand.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปข่าววันนี้เน้นขนาดตลาดสีเคลือบในภูมิภาค, เทคโนโลยีเข็มขัดขัดเพชรแรงดันสูงจากจีน, แนวโน้มตลาดวัสดุขัดผิวในยุโรป และแรงกดดันในอุตสาหกรรมเหล็กโลกจากความขัดแย้งทางภูมิรัฐศาสตร์"
+        "summary": "สรุปรายงานวันนี้เน้นการเติบโตของสีเคลือบรถยนต์ OEM ระบบการผลิต EV และการพัฒนาอุตสาหกรรมเหล็ก เช่น เทคโนโลยีเตาอาร์คไฟฟ้า (EAF) ซึ่งส่งผลโดยตรงต่อความต้องการวัสดุขัดและเตรียมพื้นผิว"
       },
       "items": [
         {
           "id": "20260824-w1",
-          "tag": "abrasive",
+          "tag": "auto",
           "rating": "green",
-          "source": "EIN Presswire",
-          "date": "2026-07-17",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQ2tzbUVzemVBLUxLMTFXbThzUk1aZEV5cDBQeE1HWmNUbW1PNzZTUXo0bnFpcjA5Yk1XRUtMOEFyakZfaXdVUTlPM3pSVno5dk5kRXUzM000ZFo5WG1mcGV4U1NzV1hLWVlpY3p6LVZtcTN4X3hWd2tDRVJoemVydnNIZFdNTjZmYk9uTGJEd0hTdTlpY3RlaGtHemZ6VWNTOEZoWk92eU1rQU5UdjFMLVdjWmV1U0w0czdncEJnWmkzYmZlRFdOVWpXMFN5RkZTRDh4bUxBdTV1WmpFLVJ1dDRJTUdmdw?oc=5",
-          "title": "Five Reputable Diamond Sanding Belts Manufacturers in China 2026: Optimizing Superhard Abrasive Machining",
-          "summary": "An analysis of top Chinese manufacturers optimizing superhard abrasive machining using advanced diamond sanding belts.",
-          "why": "Highlights the growing adoption and manufacturing capability of superhard diamond abrasives, which compete directly with traditional coated abrasives in heavy-duty industrial applications.",
-          "action": "Monitor how Chinese superhard diamond belt pricing impacts regional competition in high-performance grinding segments.",
+          "source": "Fortune Business Insights",
+          "date": "2026-08-03",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXJjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
+          "title": "Automotive OEM Coatings Market Size, Share | Growth [2034]",
+          "summary": "The global automotive OEM coatings market is experiencing steady expansion through 2034, driven by vehicle production recovery and advanced finishing requirements.",
+          "why": "Higher OEM vehicle production and complex coating pre-treatments mean strong, steady demand for industrial sanding, surface preparation, and finishing abrasives.",
+          "action": "Track automotive OEM coating trends to anticipate volume shifts in industrial sanding supplies.",
           "th": {
-            "title": "5 ผู้ผลิตสายพานขัดเพชรชั้นนำในจีนปี 2026: การเพิ่มประสิทธิภาพการตัดเฉือนด้วยวัสดุขัดแข็งพิเศษ",
-            "summary": "บทวิเคราะห์ผู้ผลิตชั้นนำของจีนที่มุ่งเน้นเพิ่มประสิทธิภาพการตัดเฉือนด้วยสายพานขัดเพชรความแข็งสูงขั้น ings",
-            "why": "แสดงให้เห็นถึงการเติบโตและความสามารถในการผลิตวัสดุขัดเพชรความแข็งสูง ซึ่งแข่งขันโดยตรงกับกระดาษทรายและผ้าทรายทั่วไปในงานอุตสาหกรรมหนัก",
-            "action": "ติดตามว่าราคาของสายพานเพชรจากจีนจะส่งผลกระทบต่อการแข่งขันในตลาดกลุ่มงานขัดความละเอียดสูงอย่างไร"
+            "title": "ขนาดและแนวโน้มการเติบโตของตลาดสีเคลือบ OEM ยานยนต์ถึงปี 2034",
+            "summary": "ตลาดสีเคลือบ OEM ยานยนต์ทั่วโลกกำลังเติบโตอย่างต่อเนื่องจนถึงปี 2034 ขับเคลื่อนโดยการฟื้นตัวของการผลิตรถยนต์และความต้องการงานเคลือบผิวขั้นสูง",
+            "why": "การผลิตรถยนต์ OEM ที่เพิ่มขึ้นและการเตรียมพื้นผิวที่ซับซ้อน ส่งผลให้ความต้องการกระดาษทรายและวัสดุขัดสำหรับการเตรียมพื้นผิวมีสูงอย่างต่อเนื่อง",
+            "action": "ติดตามแนวโน้มสีเคลือบ OEM เพื่อคาดการณ์ความต้องการวัสดุขัดในอุตสาหกรรมยานยนต์"
           }
         },
         {
           "id": "20260824-w2",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "Market Data Forecast",
-          "date": "2026-07-24",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QdEVXWnRKRG40YWFXWDVwY09BdElfOGotQVNaazA2Q2p2VkluOXlhT1RSeEF3STZKZVI3b21NZlB3MWlwLTVXaVNDQWtQSHNUX3RPZXQ4Y0wwY1pwaGVfYzdKeXNNdDFZMkNpcDVhSm5OUjRraTM4ZV9fRHcyZw?oc=5",
-          "title": "Europe Abrasives Market Size, Share and Analysis, 2034",
-          "summary": "Market Data Forecast releases a comprehensive evaluation of the Europe abrasives market through 2034.",
-          "why": "Provides baseline growth expectations and shifting technology standards in the mature European manufacturing sector.",
-          "action": "Compare European demand metrics against Asian industrial growth to spot high-margin product niches.",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "MarketsandMarkets",
+          "date": "2026-07-10",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUXhqQk54c1g4cXhycTVMTFlJY3l2bGNZYU5hWG1zdDRYZmYwM0FaUzVXOTlCTXNCR1dabXhiLTJnMllTWFl6UWt1TE9KMkFqYmxxRUNjcC1nQlFhR3ZPSng5QVNtQnZRMEZ2cGREVGhaa0VPSTVfSkg1UEtlNER4emMyYW83SUkzSGc?oc=5",
+          "title": "EV Assembly Market Report 2026-05",
+          "summary": "Comprehensive analysis of the EV assembly market highlights rapid manufacturing plant setups, shifting focus to lightweight materials and automated joining.",
+          "why": "EV assembly lines use different lightweight frames (aluminum/composites) requiring specialized deburring, grinding, and edge-rounding solutions.",
+          "action": "Engage local customers supplying EV components who may need specialized non-woven or ceramic abrasives.",
           "th": {
-            "title": "ขนาด ส่วนแบ่ง และการวิเคราะห์ตลาดวัสดุขัดถูในยุโรป ปี 2034",
-            "summary": "Market Data Forecast เผยแพร่รายงานประเมินตลาดวัสดุขัดถูในยุโรปแบบครอบคลุมถึงปี 2034",
-            "why": "ให้ข้อมูลคาดการณ์การเติบโตพื้นฐานและมาตรฐานเทคโนโลยีที่เปลี่ยนแปลงไปในภาคการผลิตของยุโรป",
-            "action": "เปรียบเทียบตัวเลขความต้องการในยุโรปกับการเติบโตของอุตสาหกรรมในเอเชีย เพื่อหาช่องว่างผลิตภัณฑ์ที่มีกำไรสูง"
+            "title": "รายงานตลาดการประกอบรถยนต์ไฟฟ้า (EV Assembly) ปี 2026-2035",
+            "summary": "การวิเคราะห์ตลาดการประกอบ EV เผยให้เห็นการตั้งโรงงานผลิตที่รวดเร็ว พร้อมเปลี่ยนไปใช้โครงสร้างวัสดุน้ำหนักเบาและการเชื่อมต่อแบบอัตโนมัติ",
+            "why": "ไลน์ประกอบ EV ใช้โครงสร้างน้ำหนักเบา (อลูมิเนียม/คอมโพสิต) ซึ่งต้องใช้ผลิตภัณฑ์ขัด ลบคม และตกแต่งขอบชิ้นงานที่เฉพาะเจาะจง",
+            "action": "เจาะกลุ่มลูกค้าที่ผลิตชิ้นส่วน EV ซึ่งอาจต้องการวัสดุกลุ่มนอนวูฟเวนหรือกระดาษทรายเซรามิกเฉพาะทาง"
           }
         },
         {
           "id": "20260824-w3",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "MarketsandMarkets",
-          "date": "2026-08-19",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdkJOZE5aa1UxdjhHU3JkOTgyTUNQTVBaZTgycTdwb18welRPT3ZOUUxWdHNjUkk1QU15Skh3anJLWkh1akNyNzEtX2ZBeGRqU21rRWh4TVpUeHNtSjQ5WFlhTDhnWU9WenlybzhDbFF0c0JQYkVDV3A3ZkhfSlJhN0EwQW5KV3VMOUhxejl5RQ?oc=5",
-          "title": "Japan Automotive Refinish Coatings Market Size, Share, Trends, Growth Analysis Report, 2030",
-          "summary": "An in-depth outlook on Japan's automotive refinish coatings sector extending toward the end of the decade.",
-          "why": "Refinish coatings demand correlates closely with body shop activity, surface preparation, and sanding sheet/disc consumption.",
-          "action": "Track trends in automotive body shop chemical usage to anticipate shifts in manual versus automated sanding media.",
-          "th": {
-            "title": "รายงานขนาด ส่วนแบ่ง แนวโน้ม และการวิเคราะห์การเติบโตของตลาดสีพ่นซ่อมรถยนต์ในญี่ปุ่น ปี 2030",
-            "summary": "มุมมองเชิงลึกเกี่ยวกับภาคธุรกิจสีพ่นซ่อมรถยนต์ในประเทศญี่ปุ่นจนถึงสิ้นทศวรรษนี้",
-            "why": "ความต้องการสีพ่นซ่อมรถยนต์มีความเชื่อมโยงโดยตรงกับกิจกรรมในอู่ซ่อมตัวถัง การเตรียมพื้นผิว และการใช้กระดาษทรายหรือแผ่นขัด",
-            "action": "ติดตามแนวโน้มการใช้เคมีภัณฑ์ในอู่ซ่อมรถเพื่อคาดการณ์ความต้องการวัสดุขัดทั้งแบบมือถือและแบบอัตโนมัติ"
-          }
-        },
-        {
-          "id": "20260824-w4",
           "tag": "steel",
-          "rating": "amber",
-          "source": "Recycling International",
-          "date": "2026-05-06",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUGx0eVkxRzJXY2ZfWGV0VWstUVozcnFnRjRpQnEydThVWTdhdno0NEhVNVFLYzRIal85T0h4b0hqNjNBclVpY1lteGZDWFZSdGhhcG9LVlhYN3ZucHRDOWFvOXFkTjhYYjVibTNsM3Y5ZVFjeFhoQW13anV4RE56emVzQUFESDlWRnB4LVpuSFNEb1FoOXRvNU9KY1pfYmxEYlA3RUhqQzY0RDMzSHF1dHE5U0w?oc=5",
-          "title": "Conflicts’ ‘serious’ impact on global steel industry",
-          "summary": "Reports highlight how ongoing international conflicts create serious disruptions and supply chain cost pressures in the global steel sector.",
-          "why": "Steel availability and pricing volatility directly affect metal fabrication volumes, structural steel prep, and heavy industrial grinding needs.",
-          "action": "Keep an eye on metal fabrication input costs when forecasting long-term demand for heavy-duty grinding wheels and cutoff discs.",
+          "rating": "green",
+          "source": "Shanghai Metals Market",
+          "date": "2026-05-19",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMmw1akRRMFZCQ2I5NGhHdE1NOXhoaE1GY0h5UmxlQVNUVGxHTko2U0NBQ0o0Q19ZYmZ1VnBCTTB6a2JJQTFNOUpDSUtpWXdaR3hkeGhlOXF4dF9yUElCd1ZkWTl4MmZGOWhVeUlXc2VCMXFCOHQzZ0ZGZ1RtZ3p6aUNObEczWFhKMkdKQ3JuRWF5SjVNZmpOQVBaSGs4TWJKS1lVa0VTdmoxdDBQTF8zRDlxME1qeEtOUzJzSTBERURobWltWTlVUlpaZ3d2WlFRNEY1b0UwbVVfLXc0cXBZ?oc=5",
+          "title": "Nucor: 100% EAF, High Profits, and Vertical Integration Mitigating Costs",
+          "summary": "An in-depth look at Nucor's electric arc furnace (EAF) steel production model, highlighting efficiency and lower operational costs in modern steel mills.",
+          "why": "EAF steel mills and structural metal fabrication require heavy grinding, snagging, and weld seam removal, driving constant consumption of heavy-duty abrasive wheels and discs.",
+          "action": "Keep an eye on regional metal fabrication plants adopting EAF steel for heavy industrial grinding opportunities.",
           "th": {
-            "title": "ผลกระทบที่รุนแรงของความขัดแย้งต่ออุตสาหกรรมเหล็กโลก",
-            "summary": "รายงานเน้นย้ำถึงความขัดแย้งระหว่างประเทศที่ส่งผลให้เกิดการหยุดชะงักและสร้างแรงกดดันด้านต้นทุนห่วงโซ่อุปทานในภาคอุตสาหกรรมเหล็กโลก",
-            "why": "ความพร้อมและราคาที่ผันผวนของเหล็กส่งผลโดยตรงต่อปริมาณงานขึ้นรูปโลหะ การเตรียมผิวเหล็กโครงสร้าง และความต้องการแผ่นเจียรงานหนัก",
-            "action": "จับตาต้นทุนวัตถุดิบในการแปรรูปโลหะเมื่อคาดการณ์ความต้องการแผ่นตัดและใบเจียรเพื่องานหนักในระยะยาว"
+            "title": "Nucor: โมเดลการผลิตเหล็กเตาอาร์คไฟฟ้า (EAF) 100% และการลดต้นทุน",
+            "summary": "เจาะลึกโมเดลการผลิตเหล็กด้วยเตาอาร์คไฟฟ้า (EAF) ของ Nucor ที่สะท้อนถึงประสิทธิภาพและต้นทุนที่ต่ำลงในโรงงานเหล็กสมัยใหม่",
+            "why": "โรงงานเหล็ก EAF และอุตสาหกรรมแปรรูปโลหะโครงสร้างต้องใช้งานเจียรและลบแนวเชื่อมอย่างหนักหน่วง ซึ่งช่วยขับเคลื่อนความต้องการใช้แผ่นตัดและใบเจียรอย่างต่อเนื่อง",
+            "action": "จับตาดูโรงงานแปรรูปโลหะในภูมิภาคที่หันมาใช้เหล็กจากเตา EAF เพื่อหาโอกาสขายผลิตภัณฑ์กลุ่มงานหนัก"
           }
         }
       ]
