@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-08-24",
+  "updated": "2026-08-25",
   "days": [
+    {
+      "date": "2026-08-25",
+      "summary": "Today's briefing highlights steady growth in niche abrasive tech like zirconia alumina driven by semiconductor demand, alongside ongoing supply chain and protectionist pressures in the global steel industry.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปข้อมูลวันนี้เน้นการเติบโตของเทคโนโลยีวัสดุขัดประเภทเซอร์โคเนียอะลูมิเนียมจากความต้องการเซมิคอนดักเตอร์ ควบคู่ไปกับแรงกดดันด้านซัพพลายเชนและการกีดกันทางการค้าในอุตสาหกรรมเหล็กโลก"
+      },
+      "items": [
+        {
+          "id": "20260825-w1",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeUlTM19icXBKemN6MW9XN2FiTlNKZ2ZOM04wWFRvQVdUQTgtWW1zNzFaZjJkVTB5RnhrUWt5aDJIM1E0U2lyd2ZVZDRHdU5RWUFSSHRfOFNXUWo3LWpUVnpXOU9oelZ3eTB5OUl3VTM1ZGEtaGZJLVY4MWRuSjRBTVlyMEpoNkl4dDAyaVNSZXZVV0twb3hVUkVMVUQwWl9LZzFrQlBGQkplM2ZZS2x1dFZyM0NLQTNNRTdKMmNlQ0hobW5FOUE?oc=5",
+          "title": "Zirconia Alumina Abrasive Market Semiconductor Demand Drives 5.1% CAGR to 2035",
+          "summary": "The zirconia alumina abrasive market is expanding at a 5.1% CAGR through 2035, largely propelled by increasing demand from the semiconductor sector.",
+          "why": "Zirconia alumina is a premium heavy-duty abrasive grain used in demanding metal and precision grinding. High-tech sector growth creates lucrative niches for industrial abrasive suppliers.",
+          "action": "Monitor high-performance zirconia grain inventory and explore high-precision grinding segments in electronics-adjacent supply chains.",
+          "th": {
+            "title": "ตลาดวัสดุขัดเซอร์โคเนียอะลูมิเนียมเติบโต 5.1% ต่อปีถึงปี 2035 หนุนโดยความต้องการเซมิคอนดักเตอร์",
+            "summary": "ตลาดวัสดุขัดเซอร์โคเนียอะลูมิเนียมกำลังขยายตัวด้วยอัตราเติบโตเฉลี่ย 5.1% ต่อปีจนถึงปี 2035 โดยได้รับแรงหนุนหลักจากความต้องการที่เพิ่มขึ้นในภาคเซมิคอนดักเตอร์",
+            "why": "เซอร์โคเนียอะลูมิเนียมเป็นเม็ดทรายขัดเกรดพรีเมียมสำหรับงานหนัก การเติบโตของภาคไฮเทคสร้างโอกาสทำกำไรในตลาดเฉพาะทางสำหรับผู้จัดจำหน่ายวัสดุขัด",
+            "action": "ติดตามสต็อกเม็ดทรายเซอร์โคเนียสมรรถนะสูงและสำรวจกลุ่มงานเจียรความแม่นยำสูงในห่วงโซ่อุปทานที่เกี่ยวข้องกับอิเล็กทรอนิกส์"
+          }
+        },
+        {
+          "id": "20260825-w2",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "S&P Global",
+          "date": "2026-01-12",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
+          "title": "Global steel industry battles surplus supply, protectionism",
+          "summary": "The global steel sector continues to face challenges from oversupply and rising protectionist trade measures across regions.",
+          "why": "Steel production volume and mill operating rates directly dictate local metal fabrication activity and consumable abrasive consumption (grinding wheels, cut-off discs).",
+          "action": "Keep an eye on local steel mill capacity utilization to anticipate fluctuations in metal shop orders for grinding products.",
+          "th": {
+            "title": "อุตสาหกรรมเหล็กโลกเผชิญศึกภาวะล้นตลาดและมาตรการกีดกันทางการค้า",
+            "summary": "ภาคอุตสาหกรรมเหล็กทั่วโลกยังคงเผชิญกับความท้าทายจากภาวะอุปทานล้นเกินและมาตรการกีดกันทางการค้าที่เพิ่มขึ้นในหลายภูมิภาค",
+            "why": "ปริมาณการผลิตเหล็กและอัตราการเดินเครื่องของโรงงานส่งผลโดยตรงต่อกิจกรรมการแปรรูปโลหะในท้องถิ่นและความต้องการใช้วัสดุขัด (ใบเจียร ใบตัด)",
+            "action": "จับตาอัตราการใช้กำลังการผลิตของโรงงานเหล็กในท้องถิ่นเพื่อคาดการณ์ความผันผวนของคำสั่งซื้อผลิตภัณฑ์เจียรจากร้านค้าโลหะ"
+          }
+        },
+        {
+          "id": "20260825-w3",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Fortune Business Insights",
+          "date": "2026-08-03",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
+          "title": "Automotive OEM Coatings Market Size, Share | Growth [2034]",
+          "summary": "The automotive OEM coatings market continues its long-term expansion trajectory toward 2034, driven by vehicle manufacturing developments.",
+          "why": "Surface preparation, sanding, and finishing are critical foundational steps before and after industrial coating application in automotive manufacturing plants.",
+          "action": "Track coating technology shifts as they often dictate new surface profile and prep standards for tier suppliers.",
+          "th": {
+            "title": "ตลาดสีพ่นและสารเคลือบ OEM ยานยนต์เติบโตต่อเนื่องถึงปี 2034",
+            "summary": "ตลาดสีพ่นและสารเคลือบสำหรับรถยนต์ OEM ยังคงเติบโตในระยะยาวจนถึงปี 2034 โดยได้รับแรงหนุนจากการพัฒนาของการผลิตยานยนต์",
+            "why": "กระบวนการเตรียมพื้นผิว การขัดกระดาษทราย และการเก็บงาน เป็นขั้นตอนพื้นฐานสำคัญทั้งก่อนและหลังการพ่นเคลือบในโรงงานประกอบรถยนต์",
+            "action": "ติดตามการเปลี่ยนแปลงของเทคโนโลยีสีและสารเคลือบ เนื่องจากมักกำหนดมาตรฐานใหม่ในการเตรียมพื้นผิวสำหรับผู้ผลิตชิ้นส่วนยานยนต์"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-08-24",
       "summary": "Today's briefing highlights niche high-tech surface finishing trends, including superhard diamond sanding belts, European abrasives market forecasts, and EV lightweighting through composite leaf springs.",
