@@ -4,100 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-08-25",
-      "summary": "Today's briefing highlights critical developments in specialty surface finishing, including the rise of diamond superhard machining and advanced European coating standards. We also track the global steel and automotive manufacturing dynamics affecting metal fabrication demand.",
-      "directCount": 4,
+      "summary": "Today's briefing highlights niche material demands in abrasives, driven by semiconductor and high-precision electronics growth, alongside global steel surplus and geopolitical supply chain pressures affecting metal fabrication.",
+      "directCount": 3,
       "th": {
-        "summary": "สรุปทิศทางโลกประจำวันนี้เน้นการพัฒนาสำคัญในด้านการขัดผิวพิเศษ เช่น เครื่องมือขัดเพชรและความต้องการเคลือบผิวขั้นสูงในยุโรป พร้อมทั้งติดตามแนวโน้มอุตสาหกรรมเหล็กและการผลิตรถยนต์ที่มีผลต่อความต้องการงานโลหะ"
+        "summary": "สรุปทรนด์โลกวันนี้เน้นความต้องการวัสดุขัดเจียรเฉพาะทางจากอุตสาหกรรมเซมิคอนดักเตอร์และอิเล็กทรอนิกส์ พร้อมกับภาวะล้นตลาดเหล็กโลกและแรงกดดันด้านห่วงโซ่อุปทานที่มีผลต่อการแปรรูปโลหะ"
       },
       "items": [
         {
           "id": "20260825-w1",
           "tag": "abrasive",
           "rating": "green",
-          "source": "EIN Presswire",
-          "date": "2026-07-17",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQ2tzbUVzemVBLUxLMTFXbThzUk1aZEV5cDBQeE1HWmNUbW1PNzZTUXo0bnFpcjA5Yk1XRUtMOEFyakZfaXdVUTlPM3pSVno5dk5kRXUzM000ZFo5WG1mcGV4U1NzV1hLWVlpY3p6LVZtcTN4X3hWd2tDRVJoemVydnNIZFdNTjZmYk9uTGJEd0hTdTlpY3RlaGtHemZ6VWNTOEZoWk92eU1rQU5UdjFMLVdjWmV1U0w0czdncEJnWmkzYmZlRFdOVWpXMFN5RkZTRDh4bUxBdTV1WmpFLVJ1dDRJTUdmdw?oc=5",
-          "title": "Five Reputable Diamond Sanding Belts Manufacturers in China 2026: Optimizing Superhard Abrasive Machining",
-          "summary": "An analysis of top Chinese manufacturers focuses on optimizing diamond sanding belts for superhard abrasive machining applications.",
-          "why": "Diamond and superhard abrasives are vital for cutting-edge hard materials and high-precision finishing, representing high-value segments in B2B distribution.",
-          "action": "Monitor the availability and price trends of diamond-coated belts and superhard abrasives for high-end industrial applications.",
+          "source": "IndexBox",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeUlTM19icXBKemN6MW9XN2FiTlNKZ2ZOM04wWFRvQVdUQTgtWW1zNzFaZjJkVTB5RnhrUWt5aDJIM1E0U2lyd2ZVZDRHdU5RWUFSSHRfOFNXUWo3LWpUVnpXOU9oelZ3eTB5OUl3VTM1ZGEtaGZJLVY4MWRuSjRBTVlyMEpoNkl4dDAyaVNSZXZVV0twb3hVUkVMVUQwWl9LZzFrQlBGQkplM2ZZS2x1dFZyM0NLQTNNRTdKMmNlQ0hobW5FOUE?oc=5",
+          "title": "Zirconia Alumina Abrasive Market Semiconductor Demand Drives 5.1% CAGR to 2035",
+          "summary": "The global zirconia alumina abrasive market is expanding at a 5.1% CAGR through 2035, heavily propelled by rigorous semiconductor manufacturing and high-precision finishing requirements.",
+          "why": "Zirconia alumina is a core heavy-duty material for metal grinding and deburring. Growth in high-tech sectors signals rising demand for premium abrasive grains.",
+          "action": "Ensure stable sourcing of high-grade zirconia alumina raw materials for industrial metal clients.",
           "th": {
-            "title": "5 ผู้ผลิตสายพานขัดเพชรชั้นนำในจีนปี 2026: การเพิ่มประสิทธิภาพงานขัดวัสดุแข็งพิเศษ",
-            "summary": "บทวิเคราะห์ผู้ผลิตชั้นนำของจีนที่มุ่งเน้นการเพิ่มประสิทธิภาพสายพานขัดเพชรสำหรับการตัดเฉือนวัสดุแข็งพิเศษ",
-            "why": "วัสดุขัดเพชรและวัสดุแข็งพิเศษมีความสำคัญต่อการตกแต่งผิววัสดุแข็งและงานความแม่นยำสูง ซึ่งเป็นกลุ่มสินค้ามูลค่าสูงในตลาด B2B",
-            "action": "ติดตามแนวโน้มราคาและความพร้อมของสายพานเคลือบเพชรและวัสดุขัดแข็งพิเศษสำหรับงานอุตสาหกรรมไฮ엔ด"
+            "title": "ตลาดวัสดุขัด Zirconia Alumina โตต่อเนื่อง ขับเคลื่อนโดยความต้องการในกลุ่มเซมิคอนดักเตอร์",
+            "summary": "ตลาดวัสดุขัด Zirconia Alumina ทั่วโลกเติบโต 5.1% ต่อปีจนถึงปี 2035 โดยได้รับแรงหนุนสำคัญจากกระบวนการผลิตเซมิคอนดักเตอร์และความต้องการงานขัดผิวความละเอียดสูง",
+            "why": "Zirconia Alumina เป็นวัตถุดิบสำคัญสำหรับงานขัดและลบคมโลหะหนัก การเติบโตในภาคไฮเทคสะท้อนถึงความต้องการเม็ดทรายขัดคุณภาพสูงที่เพิ่มขึ้น",
+            "action": "รักษาเสถียรภาพการจัดหาวัตถุดิบ Zirconia Alumina เกรดสูงเพื่อรองรับกลุ่มลูกค้าอุตสาหกรรมโลหะ"
           }
         },
         {
           "id": "20260825-w2",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "European Coatings",
-          "date": "2026-06-04",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUDgzbkl5cWdzSnJwcGViRm5mVWNYTWllWVF6RENXM2dRbG84cTh6bFRXckpiYVZkMWRWZk5OWGZhTjZCdm9zTUpTLWJlUmhLR1BnUmhIUWJ3VUVSdW5WQ05tZjVnTmQ3Tld4RG5rbVdKNEJrblFzNlE0NFZyRWw3SEZ1RWdES2pzYndyWnZPOVgyRzB4YTBGT0NOZDU4ZDdnejhFRHpMYkQ2T1ZX?oc=5",
-          "title": "ETCC 2026 in Prague: A hub for coatings innovation and sustainability",
-          "summary": "The European Technical Coatings Congress highlighted major breakthroughs in sustainable coating technologies and surface performance requirements.",
-          "why": "Surface prep and abrasives are tightly integrated with coating performance; shifts in coating standards directly influence surface preparation specs.",
-          "action": "Keep an eye on eco-friendly and high-performance coating trends that require specialized surface profiles.",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "Market Research Future",
+          "date": "2026-04-06",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY0JpWXlQSC1LeGU2eUdGRW1zTEZ4amNoRXAyUWcxcnpWbEdzWmprSTBFM1htcllTNmQtdlRENmZ2NlhXbV9oNTlJbnJ0UjV5cENzZC1yTUdwM21YRi0wZUxBd1l6ODNDM1NxSUdQcFMwMGpCRnJuY041elNoT1RSRA?oc=5",
+          "title": "Ceramic Flap Disc Market Size, Share & Growth Report 2035",
+          "summary": "The ceramic flap disc market is projected to see steady long-term growth through 2035, driven by demands for faster metal removal and longer product lifespans in heavy fabrication.",
+          "why": "Ceramic grain flap discs represent the premium tier of surface finishing products. Tracking this market helps position MK ahead of standard aluminum oxide offerings.",
+          "action": "Promote ceramic-based products to fabrication shops seeking higher efficiency and tool life.",
           "th": {
-            "title": "งาน ETCC 2026 ในปราก: ศูนย์กลางนวัตกรรมและความยั่งยืนด้านสารเคลือบผิว",
-            "summary": "การประชุมเทคโนโลยีสารเคลือบผิวแห่งยุโรปได้เน้นย้ำถึงความก้าวหน้าครั้งใหญ่ด้านเทคโนโลยีสารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมและข้อกำหนดประสิทธิภาพพื้นผิว",
-            "why": "กระบวนการเตรียมผิวและวัสดุขัดเชื่อมโยงอย่างใกล้ชิดกับประสิทธิภาพของสีเคลือบ การเปลี่ยนแปลงมาตรฐานจึงส่งผลต่อสเปคงานเตรียมผิวโดยตรง",
-            "action": "ติดตามแนวโน้มสารเคลือบผิวที่เป็นมิตรต่อสิ่งแวดล้อมและประสิทธิภาพสูง ซึ่งต้องการรูปแบบการเตรียมผิวที่เฉพาะเจาะจง"
+            "title": "ตลาดใบเจียรผ้าทรายเซรามิก (Ceramic Flap Disc) ขยายตัวมองถึงปี 2035",
+            "summary": "ตลาดใบเจียรผ้าทรายเซรามิกคาดว่าจะเติบโตอย่างมั่นคงจนถึงปี 2035 จากความต้องการลดเวลาทำงานและเพิ่มอายุการใช้งานในงานขึ้นรูปโลหะหนัก",
+            "why": "ใบเจียรผ้าทรายเม็ดเซรามิกคือกลุ่มผลิตภัณฑ์พรีเมียม การติดตามตลาดนี้ช่วยให้ MK วางตำแหน่งสินค้าเหนือกว่าอลูมิเนียมออกไซด์ทั่วไป",
+            "action": "ผลักดันสินค้ากลุ่มเซรามิกให้กับโรงงานแปรรูปที่ต้องการเพิ่มประสิทธิภาพและยืดอายุการใช้งาน"
           }
         },
         {
           "id": "20260825-w3",
           "tag": "steel",
-          "rating": "green",
-          "source": "Shanghai Metals Market",
-          "date": "2026-05-19",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMmw1akRRMFZCQ2I5NGhHdE1NOXhoaE1GY0h5UmxlQVNUVGxHTko2U0NBQ0o0Q19ZYmZ1VnBCTTB6a2JJQTFNOUpDSUtpWXdaR3hkeGhlOXF4dF9yUElCd1ZkWTl4MmZGOWhVeUlXc2VCMXFCOHQzZ0ZGZ1RtZ3p6aUNObEczWFhKMkdKQ3JuRWF5SjVNZmpOQVBaSGs4TWJKS1lVa0VTdmoxdDBQTF8zRDlxME1qeEtOUzJzSTBERURobWltWTlVUlpaZ3d2WlFRNEY1b0UwbVVfLXc0cXBZ?oc=5",
-          "title": "Nucor: 100% EAF, High Profits, and Vertical Integration Mitigating Costs",
-          "summary": "An industry spotlight on Nucor's electric arc furnace (EAF) model and vertical integration strategy to manage volatile manufacturing costs.",
-          "why": "EAF steel production and metal fabrication activity dictate the volume of heavy-duty grinding, deburring, and metal surface conditioning consumables used.",
-          "action": "Analyze local metal fabrication activity to gauge regional demand for heavy grinding wheels and flap discs.",
-          "th": {
-            "title": "Nucor: เตาหลอมไฟฟ้า 100%, กำไรสูง และการบูรณาการแนวตั้งเพื่อลดต้นทุน",
-            "summary": "รายงานเจาะลึกรูปแบบเตาหลอมอาร์กไฟฟ้า (EAF) และกลยุทธ์การบูรณาการแนวตั้งของ Nucor ในการบริหารจัดการต้นทุนการผลิตที่ผันผวน",
-            "why": "การผลิตเหล็กด้วยเตา EAF และกิจกรรมการขึ้นรูปโลหะเป็นตัวกำหนดปริมาณการใช้วัสดุสิ้นเปลืองสำหรับงานเจียร ลบคม และปรับสภาพผิวโลหะ",
-            "action": "วิเคราะห์กิจกรรมการแปรรูปโลหะในท้องถิ่นเพื่อประเมินความต้องการใช้งานหินเจียรและแผ่นเจียรผ้าทราย"
-          }
-        },
-        {
-          "id": "20260825-w4",
-          "tag": "auto",
           "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-07-23",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZDRQV1lyajBPaFY5UV9pQkxKcXpvRzQ5ejJOcEM5QzgyaXByMHg4MWtaX0pHT3VtV2tPRFVPUjJFdGhBcTNoWDRKOTZ4ekkzeGpOamJMT2R6M2psbHBoNEV6dlMyWW5yM3hkVjZjM0xCV1FNQ2dLamFSTHcyNTB4dEdJZkpsRmtBSUZJeF9FYW9sT0ZHdGNhV2F3RHpOLXp6RUI0SWY0SWNSM0hxM19pYS1DeEZ5ZGdhZHpyUg?oc=5",
-          "title": "Ford and Geely unite in Valencia: smart-factory momentum!",
-          "summary": "Major automotive players are partnering and pushing smart-factory manufacturing concepts in European hubs like Valencia.",
-          "why": "Automotive manufacturing shifts and joint ventures drive automated assembly lines, requiring specialized robotic and automated sanding/finishing tools.",
-          "action": "Keep track of smart-factory automation trends in automotive parts manufacturing for future abrasive tooling integration.",
+          "source": "S&P Global",
+          "date": "2026-01-12",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
+          "title": "Global steel industry battles surplus supply, protectionism",
+          "summary": "The global steel sector continues to face oversupply challenges alongside rising trade protectionism measures across key manufacturing regions.",
+          "why": "Steel production volume directly correlates with local metal fabrication activity, which dictates raw material consumption for grinding and cutting wheels.",
+          "action": "Monitor local steel mill utilization rates to anticipate shifts in regional metal-working abrasive consumption.",
           "th": {
-            "title": "Ford และ Geely ร่วมมือกันในบาเลนเซีย: แรงขับเคลื่อนโรงงานอัจฉริยะ",
-            "summary": "ค่ายรถยนต์รายใหญ่ร่วมมือกันผลักดันแนวคิดการผลิตแบบโรงงานอัจฉริยะในฐานการผลิตสำคัญของยุโรปอย่างบาเลนเซีย",
-            "why": "การเปลี่ยนแปลงการผลิตยานยนต์และการร่วมทุนส่งผลให้เกิดสายการผลิตอัตโนมัติ ซึ่งต้องการเครื่องมือขัดและตกแต่งผิวที่รองรับระบบอัตโนมัติและหุ่นยนต์",
-            "action": "ติดตามแนวโน้มระบบอัตโนมัติในโรงงานอัจฉริยะสำหรับการผลิตชิ้นส่วนยานยนต์ เพื่อเตรียมพร้อมผสานรวมเครื่องมือขัด"
-          }
-        },
-        {
-          "id": "20260825-w5",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "Recycling International",
-          "date": "2026-05-06",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUGx0eVkxRzJXY2ZfWGV0VWstUVozcnFnRjRpQnEydThVWTdhdno0NEhVNVFLYzRIal85T0h4b0hqNjNBclVpY1lteGZDWFZSdGhhcG9LVlhYN3ZucHRDOWFvOXFkTjhYYjVibTNsM3Y5ZVFjeFhoQW13anV4RE56emVzQUFESDlWRnB4LVpuSFNEb1FoOXRvNU9KY1pfYmxEYlA3RUhqQzY0RDMzSHF1dHE5U0w?oc=5",
-          "title": "Conflicts’ ‘serious’ impact on global steel industry",
-          "summary": "Geopolitical conflicts continue to heavily disrupt supply chains and material flows across the global steel industry.",
-          "why": "Steel supply chain instability affects raw material availability and pricing for local metal workshops and industrial clients.",
-          "action": "Diversify sourcing channels and maintain flexible inventory levels to hedge against raw material and steel product volatility.",
-          "th": {
-            "title": "ผลกระทบอย่างรุนแรงของความขัดแย้งต่ออุตสาหกรรมเหล็กโลก",
-            "summary": "ความขัดแย้งทางภูมิรัฐศาสตร์ยังคงส่งผลกระทบอย่างหนักต่อห่วงโซ่อุปทานและการไหลเวียนของวัสดุในอุตสาหกรรมเหล็กทั่วโลก",
-            "why": "ความไม่穩定ของห่วงโซ่อุปทานเหล็กส่งผลกระทบต่อความพร้อมของวัตถุดิบและราคาสำหรับโรงงานโลหะและลูกค้าอุตสาหกรรมในท้องถิ่น",
-            "action": "กระจายแหล่งจัดซื้อและรักษาระดับสต็อกให้มีความยืดหยุ่นเพื่อป้องกันความผันผวนของวัตถุดิบและผลิตภัณฑ์เหล็ก"
+            "title": "อุตสาหกรรมเหล็กโลกเผชิญภาวะล้นตลาดและมาตรการกีดกันทางการค้า",
+            "summary": "ภาคอุตสาหกรรมเหล็กทั่วโลกยังคงเผชิญกับปัญหาอุปทานส่วนเกิน ควบคู่ไปกับมาตรการปกป้องทางการค้าที่เพิ่มขึ้นในภูมิภาคการผลิตหลัก",
+            "why": "ปริมาณการผลิตเหล็กมีความเชื่อมโยงโดยตรงกับกิจกรรมแปรรูปโลหะในท้องถิ่น ซึ่งเป็นตัวกำหนดอัตราการใช้แผ่นตัดและใบเจียร",
+            "action": "ติดตามอัตราการดำเนินงานของโรงงานเหล็กในประเทศเพื่อคาดการณ์การเปลี่ยนแปลงการใช้วัสดุขัดเจียร"
           }
         }
       ]
