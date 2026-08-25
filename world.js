@@ -4,82 +4,100 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-08-26",
-      "summary": "Today's briefing highlights global shifts in EV assembly trends, smart factory collaborations like Ford and Geely, and regional coatings innovations driving surface preparation demands.",
+      "summary": "Today's global briefing highlights key developments in automotive OEM coatings, AI integration in surface finishing, and regional steel industry pressures impacting metal preparation demand.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปกระแสโลกประจำวันนี้เน้นการเปลี่ยนแปลงระดับโลกในด้านการประกอบรถยนต์ EV, ความร่วมมือโรงงานอัจฉริยะระหว่าง Ford และ Geely รวมถึงนวัตกรรมสีเคลือบที่ขับเคลื่อนความต้องการงานเตรียมพื้นผิว"
+        "summary": "สรุปเทรนด์โลกประจำวัน เน้นการพัฒนาเคลือบผิวรถยนต์ OEM การนำ AI มาใช้ในงานเคลือบผิว และแรงกดดันในอุตสาหกรรมเหล็กที่ส่งผลต่อความต้องการเตรียมพื้นผิวโลหะ"
       },
       "items": [
         {
           "id": "20260826-w1",
-          "tag": "auto",
+          "tag": "coating",
           "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-07-23",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZDRQV1lyajBPaFY5UV9pQkxKcXpvRzQ5ejJOcEM5QzgyaXByMHg4MWtaX0pHT3VtV2tPRFVPUjJFdGhBcTNoWDRKOTZ4ekkzeGpOamJMT2R6M2psbHBoNEV6dlMyWW5yM3hkVjZjM0xCV1FNQ2dLamFSTHcyNTB4dEdJZkpsRmtBSUZJeF9FYW9sT0ZHdGNhV2F3RHpOLXp6RUI0SWY0SWNSM0hxM19pYS1DeEZ5ZGdhZHpyUg?oc=5",
-          "title": "Ford and Geely unite in Valencia: smart-factory momentum!",
-          "summary": "Ford and Geely are partnering in Valencia, Spain, accelerating smart-factory production momentum and advanced manufacturing standards.",
-          "why": "Major automotive joint ventures and factory upgrades signal shifts in localized production lines, affecting regional demand for robotic deburring and surface finishing solutions.",
-          "action": "Monitor European automotive supply chain changes for emerging automation and abrasive tooling requirements.",
+          "source": "Fortune Business Insights",
+          "date": "2026-08-03",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXJjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
+          "title": "Automotive OEM Coatings Market Size, Share | Growth [2034]",
+          "summary": "The global automotive OEM coatings market continues steady long-term growth projections through 2034, driven by advanced vehicle finishing standards.",
+          "why": "OEM coating standards dictate the underlying surface prep and sanding requirements for new vehicle manufacturing lines.",
+          "action": "Monitor changes in automotive paint tech to anticipate new requirements for finer surface preparation abrasives.",
           "th": {
-            "title": "Ford และ Geely ร่วมมือกันที่บาเลนเซีย: พลังขับเคลื่อนโรงงานอัจฉริยะ!",
-            "summary": "Ford และ Geely จับมือเป็นพันธมิตรกันที่เมืองบาเลนเซีย ประเทศสเปน เพื่อเร่งความเร็วในการผลิตแบบโรงงานอัจฉริยะและยกระดับมาตรฐานการผลิตขั้นสูง",
-            "why": "การร่วมทุนยานยนต์รายใหญ่และการอัปเกรดโรงงานบ่งบอกถึงการเปลี่ยนแปลงในสายการผลิตท้องถิ่น ซึ่งส่งผลต่อความต้องการโซลูชันการลบคมด้วยหุ่นยนต์และการตกแต่งพื้นผิว",
-            "action": "ติดตามการเปลี่ยนแปลงห่วงโซ่อุปทานยานยนต์ในยุโรปสำหรับความต้องการเครื่องมือขัดและระบบอัตโนมัติที่กำลังจะเกิดขึ้น"
+            "title": "ขนาดและส่วนแบ่งตลาดสารเคลือบผิวรถยนต์ OEM พร้อมการเติบโตถึงปี 2034",
+            "summary": "ตลาดสารเคลือบผิวรถยนต์ OEM ทั่วโลกยังคงเติบโตอย่างต่อเนื่องจนถึงปี 2034 ขับเคลื่อนโดยมาตรฐานการทำสีรถยนต์ที่สูงขึ้น",
+            "why": "มาตรฐานการเคลือบสี OEM เป็นตัวกำหนดขั้นตอนการเตรียมพื้นผิวและการขัดกระดาษทรายในสายการผลิตรถยนต์ใหม่",
+            "action": "ติดตามการเปลี่ยนแปลงของเทคโนโลยีสีรถยนต์เพื่อคาดการณ์ความต้องการวัสดุขัดผิวที่ละเอียดขึ้น"
           }
         },
         {
           "id": "20260826-w2",
-          "tag": "auto",
+          "tag": "coating",
           "rating": "amber",
-          "source": "MarketsandMarkets",
-          "date": "2026-07-10",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUXhqQk54c1g4cXhycTVMTFlJY3l2bGNZYU5hWG1zdDRYZmYwM0FaUzVXOTlCTXNCR1dabXhiLTJnMllTWFl6UWt1TE9KMkFqYmxxRUNjcC1nQlFhR3ZPSng5QVNtQnZRMEZ2cGREVGhaa0VPSTVfSkg1UEtlNER4emMyYW83SUkzSGc?oc=5",
-          "title": "EV Assembly Market Report 2026-2035",
-          "summary": "The EV assembly market report outlines long-term structural growth and scaling trends across global manufacturing hubs through 2035.",
-          "why": "Electric vehicle manufacturing requires specialized lightweight metals and structural components that demand precise grinding, welding seam removal, and finishing.",
-          "action": "Align product offerings with lightweight metal preparation needs for EV body structures.",
+          "source": "Amazon Web Services (AWS)",
+          "date": "2025-10-22",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UMG9rVURtamVSUnVYZzhtYjBPZUVWNDdCb0J1V3lEd09EV1JsS3dsU0ZwNkRxbmc4MVlwcXRPZW5aQklBRGxEWWxVRmVzUUJEZUNfOXZfT0d3cnVPaW5ydjZ3bjBlS1NyRGhWSw?oc=5",
+          "title": "AI in Paints and Coatings Market: Trends, Growth, and Opportunities",
+          "summary": "Artificial intelligence is increasingly integrated into paints and coatings manufacturing to optimize formulation, quality control, and surface application.",
+          "why": "Smart manufacturing in coatings often leads to tighter tolerances, raising expectations for precise surface finish and abrasive consistency.",
+          "action": "Explore how digital quality control in customer segments might influence their demand for high-tolerance abrasives.",
           "th": {
-            "title": "รายงานตลาดการประกอบรถยนต์ EV ปี 2026-2035",
-            "summary": "รายงานตลาดการประกอบรถยนต์ EV เผยแนวโน้มการเติบโตเชิงโครงสร้างและทิศทางการขยายตัวทั่วศูนย์กลางการผลิตถึงปี 2035",
-            "why": "การผลิตยานยนต์ไฟฟ้าต้องใช้โลหะน้ำหนักเบาและชิ้นส่วนโครงสร้างพิเศษ ซึ่งต้องการการเจียร การลบแนวเชื่อม และการขัดแต่งที่แม่นยำ",
-            "action": "ปรับกลุ่มผลิตภัณฑ์ให้สอดคล้องกับความต้องการในการเตรียมพื้นผิวโลหะน้ำหนักเบาสำหรับโครงสร้างตัวถัง EV"
+            "title": "AI ในตลาดสีและสารเคลือบ: เทรนด์ การเติบโต และโอกาส",
+            "summary": "ปัญญาประดิษฐ์ถูกนำมาใช้ในกระบวนการผลิตสีและสารเคลือบมากขึ้นเพื่อเพิ่มประสิทธิภาพสูตร การควบคุมคุณภาพ และการเคลือบผิว",
+            "why": "การผลิตอัจฉริยะในอุตสาหกรรมเคลือบผิวทำให้ข้อกำหนดเข้มงวดขึ้น ซึ่งเพิ่มความคาดหวังต่อความสม่ำเสมอของวัสดุขัด",
+            "action": "ศึกษาว่าการควบคุมคุณภาพด้วยระบบดิจิทัลของลูกค้าจะส่งผลต่อความต้องการสินค้าวัสดุขัดที่มีความแม่นยำสูงอย่างไร"
           }
         },
         {
           "id": "20260826-w3",
-          "tag": "coating",
-          "rating": "green",
-          "source": "European Coatings",
-          "date": "2026-06-04",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUDgzbkl5cWdzSnJwcGViRm5mVWNYTWllWVF6RENXM2dRbG84cTh6bFRXckpiYVZkMWRWZk5OWGZhTjZCdm9zTUpTLWJlUmhLR1BnUmhIUWJ3VUVSdW5WQ05tZjVnTmQ3Tld4RG5rbVdKNEJrblFzNlE0NFZyRWw3SEZ1RWdES2pzYndyWnZPOVgyRzB4YTBGT0NOZDU4ZDdnejhFRHpMYkQ2T1ZX?oc=5",
-          "title": "ETCC 2026 in Prague: A hub for coatings innovation and sustainability",
-          "summary": "The European Technical Coatings Congress (ETCC) 2026 in Prague focuses heavily on cutting-edge coatings innovations and environmental sustainability.",
-          "why": "Surface coatings advancements directly influence pretreatment processes, sanding profiles, and mechanical surface prep requirements before coating application.",
-          "action": "Keep track of new eco-coatings standards that might change surface roughness (Ra) specifications required from abrasives.",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "Recycling International",
+          "date": "2026-05-06",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUGx0eVkxRzJXY2ZfWGV0VWstUVozcnFnRjRpQnEydThVWTdhdno0NEhVNVFLYzRIal85T0h4b0hqNjNBclVpY1lteGZDWFZSdGhhcG9LVlhYN3ZucHRDOWFvOXFkTjhYYjVibTNsM3Y5ZVFjeFhoQW13anV4RE56emVzQUFESDlWRnB4LVpuSFNEb1FoOXRvNU9KY1pfYmxEYlA3RUhqQzY0RDMzSHF1dHE5U0w?oc=5",
+          "title": "Conflicts’ ‘serious’ impact on global steel industry",
+          "summary": "Geopolitical conflicts continue to exert serious supply chain and cost pressures on the global steel manufacturing sector.",
+          "why": "Steel production volumes and input costs directly affect metal fabrication activity and the baseline demand for grinding and deburring products.",
+          "action": "Stay flexible with inventory pricing and source diversified metalworking abrasive lines to buffer against regional steel shifts.",
           "th": {
-            "title": "งาน ETCC 2026 ที่กรุงปราก: ศูนย์กลางนวัตกรรมและความยั่งยืนด้านสีเคลือบ",
-            "summary": "การประชุม European Technical Coatings Congress (ETCC) ปี 2026 ที่กรุงปราก เน้นหนักไปที่นวัตกรรมสีเคลือบสุดล้ำและความยั่งยืนด้านสิ่งแวดล้อม",
-            "why": "ความก้าวหน้าของสีเคลือบพื้นผิวส่งผลโดยตรงต่อกระบวนการเตรียมผิว รูปแบบการขัดกระดาษทราย และข้อกำหนดในการเตรียมพื้นผิวก่อนพ่นสี",
-            "action": "ติดตามมาตรฐานสีเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมใหม่ๆ ซึ่งอาจเปลี่ยนข้อกำหนดความหยาบพื้นผิว (Ra) ที่จำเป็นสำหรับกระดาษทรายและใบเจียร"
+            "title": "ผลกระทบร้ายแรงจากความขัดแย้งต่ออุตสาหกรรมเหล็กโลก",
+            "summary": "ความขัดแย้งทางภูมิรัฐศาสตร์ยังคงสร้างแรงกดดันอย่างรุนแรงต่อห่วงโซ่อุปทานและต้นทุนในภาคการผลิตเหล็กทั่วโลก",
+            "why": "ปริมาณการผลิตเหล็กและต้นทุนวัตถุดิบส่งผลโดยตรงต่อกิจกรรมการแปรรูปโลหะและความต้องการผลิตภัณฑ์เจียรและลบคม",
+            "action": "รักษายืดหยุ่นในการกำหนดราคาสินค้าคงคลังและจัดหาผลิตภัณฑ์ขัดสำหรับงานโลหะที่หลากหลายเพื่อรองรับความผันผวนของเหล็ก"
           }
         },
         {
           "id": "20260826-w4",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-08-23",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRXRmcm9sNFRZOVcxV3JYRGFSV2prdjlLbkFqOFJ3YVlOdENteVZZTXUyTDJhMTZ0N0EzOGFBZnJ2SUNSb01NdmZCRUxTeGdvVFZXVzlGbnhnUTZVNGYxa2l2SjYtQllqV2Q5VGl6eDk3RXdFekc1ZXVHb0lUSzBENC1BOGZUbnZva3NNYWxnZGVXQVQ1TmV3YXdRVzk4alhXMk9ybW1Bb25UeFNFTGVRaDBwQkRiUnc?oc=5",
+          "title": "United States Metal Polish Products - Market Analysis, Forecast, Size, Trends and Insights",
+          "summary": "A comprehensive market analysis highlights ongoing trends and steady demand for metal polish and surface finishing products in the US.",
+          "why": "Metal polishing products are direct complements to industrial abrasives, reflecting broader trends in surface finishing quality.",
+          "action": "Review product bundling strategies for metal finishing and polishing lines inspired by US market standards.",
+          "th": {
+            "title": "ผลิตภัณฑ์ขัดเงาโลหะในสหรัฐฯ: การวิเคราะห์ตลาด แนวโน้ม และข้อมูลเชิงลึก",
+            "summary": "การวิเคราะห์ตลาดแสดงให้เห็นถึงแนวโน้มและความต้องการที่มั่นคงสำหรับผลิตภัณฑ์ขัดเงาและตกแต่งพื้นผิวโลหะในสหรัฐอเมริกา",
+            "why": "ผลิตภัณฑ์ขัดเงาโลหะเป็นสินค้าทดแทนหรือใช้งานร่วมกับวัสดุขัดอุตสาหกรรม สะท้อนถึงคุณภาพการตกแต่งพื้นผิว",
+            "action": "ทบทวนกลยุทธ์การขายสินค้ากลุ่มขัดเงาและตกแต่งโลหะตามมาตรฐานตลาดสหรัฐฯ"
+          }
+        },
+        {
+          "id": "20260826-w5",
           "tag": "steel",
           "rating": "amber",
-          "source": "Shanghai Metals Market",
-          "date": "2026-05-19",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMmw1akRRMFZCQ2I5NGhHdE1NOXhoaE1GY0h5UmxlQVNUVGxHTko2U0NBQ0o0Q19ZYmZ1VnBCTTB6a2JJQTFNOUpDSUtpWXdaR3hkeGhlOXF4dF9yUElCd1ZkWTl4MmZGOWhVeUlXc2VCMXFCOHQzZ0ZGZ1RtZ3p6aUNObEczWFhKMkdKQ3JuRWF5SjVNZmpOQVBaSGs4TWJKS1lVa0VTdmoxdDBQTF8zRDlxME1qeEtOUzJzSTBERURobWltWTlVUlpaZ3d2WlFRNEY1b0UwbVVfLXc0cXBZ?oc=5",
-          "title": "Nucor: 100% EAF, High Profits, and Vertical Integration Mitigating Costs",
-          "summary": "Nucor's focus on electric arc furnace (EAF) steel production and vertical integration continues to set efficiency benchmarks in the steel sector.",
-          "why": "EAF steel production and structural steel fabrication heavily drive domestic consumption of heavy-duty grinding wheels, flap discs, and cut-off wheels.",
-          "action": "Note how EAF steel recycling trends influence local fabrication shops and their heavy abrasive consumption rates.",
+          "source": "The World Economic Forum",
+          "date": "2026-04-21",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeFBmZTNpZDhjN1lHNlBlU0duZ3ZQWW9uanI0SWs3SDFVazlpbVVXMklqSTVjbDloUEI4NW1Ca2dGckgzanh5UlRfX1F5QlVfQWFZNGdSS1h5bHNIUElCTk9LeUktaGd2VWxwRDAyMGJmQ1F6ZHVEOURKVjF3MVdHWGd0OG4zYTNtUk0yZkp0QXN4R3p5LUEtWkFzODBVdUdlTVpLNTh3ZjQtTGJuanlfS0Y5dWVLVEo1WkEybk96dVY?oc=5",
+          "title": "How the Iran war is disrupting India's steel production amid fuel shortages and rising costs",
+          "summary": "Regional conflict and fuel shortages have introduced severe supply chain bottlenecks and cost surges for Indian steel manufacturers.",
+          "why": "India is a major global steel producer; disruptions there alter international metal prices and downstream surface preparation activity.",
+          "action": "Keep an eye on South Asian metal export pricing trends when sourcing abrasive raw materials or targeting regional distributors.",
           "th": {
-            "title": "Nucor: เตาหลอมไฟฟ้า EAF 100%, กำไรสูง และการบูรณาการแนวตั้งช่วยลดต้นทุน",
-            "summary": "การมุ่งเน้นการผลิตเหล็กด้วยเตาหลอมอาร์กไฟฟ้า (EAF) และการบูรณาการในแนวดิ่งของ Nucor ยังคงสร้างมาตรฐานความคุ้มค่าในอุตสาหกรรมเหล็ก",
-            "why": "การผลิตเหล็กด้วยเตา EAF และงานแปรรูปเหล็กโครงสร้างเป็นตัวขับเคลื่อนหลักในการบริโภคใบเจียรหนา แผ่นขัดซ้อน (flap disc) และใบตัด",
-            "action": "สังเกตว่าแนวโน้มการรีไซเคิลเหล็กด้วยเตา EAF ส่งผลต่อร้านค้าแปรรูปในท้องถิ่นและอัตราการใช้ผลิตภัณฑ์ขัดอย่างไร"
+            "title": "สงครามอิหร่านส่งผลกระทบต่อการผลิตเหล็กของอินเดียอย่างไรท่ามกลางปัญหาขาดแคลนเชื้อเพลิงและต้นทุนที่พุ่งสูง",
+            "summary": "ความขัดแย้งระดับภูมิภาคและการขาดแคลนเชื้อเพลิงสร้างปัญหาคอขวดในห่วงโซ่อุปทานและต้นทุนที่พุ่งสูงสำหรับผู้ผลิตเหล็กอินเดีย",
+            "why": "อินเดียเป็นผู้ผลิตเหล็กรายใหญ่ การหยุดชะงักส่งผลต่อราคาสเหล็กโลกและกิจกรรมการเตรียมพื้นผิวโลหะปลายน้ำ",
+            "action": "ติดตามแนวโน้มราคาส่งออกโลหะในเอเชียใต้เมื่อจัดหาวัตถุดิบทำกระดาษทรายหรือเจาะกลุ่มผู้จัดจำหน่ายในภูมิภาค"
           }
         }
       ]
