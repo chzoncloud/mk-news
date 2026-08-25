@@ -2,6 +2,89 @@
 window.NEWS_ARCHIVE = {
   "days": [
     {
+      "date": "2026-08-26",
+      "summary": "Today has limited new updates, highlighting Thai Airways' long-term 10-billion-baht U-Tapao MRO commitment alongside domestic steel associations pressing regulators to phase out substandard mills and curb cheap imports.",
+      "directCount": 1,
+      "th": {
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก ไฮไลต์สำคัญเน้นไปที่การบินไทยเดินหน้าแผนลงทุนศูนย์ซ่อม MRO อู่ตะเภา 1 หมื่นล้านบาท ควบคู่กับสมาคมเหล็กไทยที่เดินหน้าผลักดันภาครัฐให้ยกเลิกโรงงานเตาหลอมไม่ได้มาตรฐานและสกัดเหล็กนำเข้าราคาถูก"
+      },
+      "items": [
+        {
+          "id": "20260826-1",
+          "tag": "aero",
+          "rating": "green",
+          "source": "thansettakij",
+          "date": "2026-02-22",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WYk9IRDVDZTBaVk54WmhwM0g4RjhJR3hBT19NaG1kZ2x6UGtobHU2bXBoYV9ZeXIxb2NSdENWR1BoVGFndXhTSWt3cjFQcFUyWS1EdEhpb1loV1R0dXUtbnpn?oc=5",
+          "title": "Thai Airways Targets 100-Aircraft Fleet by 2026 and Drives 10-Billion-Baht U-Tapao MRO Hub",
+          "summary": "Thai Airways accelerates its fleet expansion to 100 aircraft while committing 10 billion baht to develop the U-Tapao MRO center into a regional maintenance powerhouse.",
+          "why": "Expanding aircraft fleet and regional MRO facilities directly generates sustained demand for aerospace-grade sanding, deburring, and precision surface-finishing abrasives.",
+          "action": "Initiate business development with aviation maintenance procurement teams and certify MK aerospace-compatible abrasive product lines.",
+          "th": {
+            "title": "'การบินไทย' กางแผนฝูงบิน 100 ลำปี 2569 ทุ่ม 1 หมื่นล้านดันศูนย์ซ่อม MRO อู่ตะเภา",
+            "summary": "การบินไทยเร่งขยายฝูงบินสู่ 100 ลำ พร้อมเดินหน้าแผนลงทุน 1 หมื่นล้านบาท พัฒนาศูนย์ซ่อมบำรุง MRO อู่ตะเภาสู่ศูนย์กลางระดับภูมิภาค",
+            "why": "การขยายศูนย์ซ่อมบำรุงอากาศยานสร้างความต้องการใช้วัสดุขัดเกรดการบิน งานเตรียมผิว และขัดเงาโลหะความแม่นยำสูงโดยตรง",
+            "action": "เริ่มเจาะกลุ่มผู้รับเหมาและฝ่ายจัดซื้อศูนย์ซ่อมอากาศยาน พร้อมเตรียมเอกสารรับรองมาตรฐานสำหรับวัสดุขัดเกรดการบินของ MK"
+          }
+        },
+        {
+          "id": "20260826-2",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "ข่าวสด",
+          "date": "2026-05-21",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15SXhSTE9NZ09fLVZFdGQ0M0JDVXlYWHM4Y1FzbDcxc0VZcFdrX1laUTRTR3VDZkZYcUNENkVUMTA4MnVOcUpGTi1xZk04NVNoUW14Z29vYXRRakEwOVE?oc=5",
+          "title": "10 Steel Associations Urge TISI to Phase Out Induction Furnace Steel Mills Within 3 Years",
+          "summary": "Ten local steel associations have petitioned the Thai Industrial Standards Institute to phase out Induction Furnace (IF) operations within three years to eliminate substandard rebar production.",
+          "why": "Phasing out substandard mills strengthens compliant, standard-certified steel producers who consistently consume industrial grinding and cutting abrasives.",
+          "action": "Focus B2B sales pipelines on TISI-certified steel mills and structural fabricators that require durable, certified cutting and grinding discs.",
+          "th": {
+            "title": "10 สมาคมเหล็ก ร้อง สมอ. ยกเลิกโรงงานเหล็กจากเตา IF ภายใน 3 ปี",
+            "summary": "10 สมาคมเหล็กยื่นข้อเสนอต่อ สมอ. ให้ยกเลิกโรงงานผลิตเหล็กจากเตาหลอม Induction Furnace (IF) ภายใน 3 ปี เพื่อสกัดเหล็กเส้นด้อยคุณภาพ",
+            "why": "การจัดระเบียบโรงงานเหล็กช่วยหนุนกลุ่มผู้ผลิตเหล็กมาตรฐาน มอก. ซึ่งเป็นกลุ่มลูกค้าหลักที่ใช้วัสดุเจียรและตัดเกรดอุตสาหกรรมต่อเนื่อง",
+            "action": "เน้นขยายฐานลูกค้าในกลุ่มโรงงานเหล็กมาตรฐานและโรงงานแปรรูปโครงสร้างโลหะที่ให้ความสำคัญกับความปลอดภัยและคุณภาพของใบเจียร-ใบตัด"
+          }
+        },
+        {
+          "id": "20260826-3",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "LINE TODAY",
+          "date": "2025-12-27",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MbDY2SkFDN1VRQXdMaUF1Nmhlb3U0dTZLVzlMUkVDTTJlTy1UMFhMWFctVHJzWEhCd1lZUXZzaGpCMnJoNDBFOXRUclB2TXZ1ZkVlbjZB?oc=5",
+          "title": "Steel Industry Braces for Impact from Chinese Dumping and Calls for Finished Product Import Bans",
+          "summary": "Thai steel manufacturers warn of heavy pressure from low-cost Chinese finished steel dumping and urge government intervention to safeguard domestic production.",
+          "why": "Production cutbacks at domestic steel mills and metal fabricators could reduce recurring orders for heavy-duty grinding wheels and sanding belts.",
+          "action": "Diversify customer accounts into higher-margin metal fabrication, precision machining, and Tier-1 automotive components less impacted by commodity steel dumping.",
+          "th": {
+            "title": "10 สมาคมเหล็กรับมือวิกฤตจีนทุ่มตลาด จี้รัฐคุมเข้มนำเข้าเหล็กสำเร็จรูป",
+            "summary": "กลุ่มสมาคมเหล็กเตือนภาวะกดดันหนักจากการทุ่มตลาดเหล็กสำเร็จรูปของจีน พร้อมเรียกร้องภาครัฐออกมาตรการสกัดเพื่อปกป้องโรงงานไทย",
+            "why": "หากโรงงานเหล็กและแปรรูปโลหะในประเทศชะลอกำลังการผลิต จะส่งผลให้อัตราการสั่งซื้อวัสดุขัดและจานขัดซ้ำลดลงตามไปด้วย",
+            "action": "กระจายความเสี่ยงโดยมุ่งเน้นกลุ่มโรงงานแปรรูปโลหะเฉพาะทางและชิ้นส่วนยานยนต์ Tier-1 ที่ได้รับผลกระทบจากเหล็กนำเข้าต่ำกว่า"
+          }
+        },
+        {
+          "id": "20260826-4",
+          "tag": "furniture",
+          "rating": "amber",
+          "source": "thansettakij",
+          "date": "2024-12-29",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE15VVFobGZHc3VkSWwxVFVoWkVWN2FaQXIwcDdCRlV0NEZEV0FoZjlqb3BrWWhSc1B2TDRNSVlBR2U4UVI1RU5GeDUxU1ZoQUJfa1Fwa0pldHFoRFVWYU5nLTFkZWMwTlFWX3I1aUM5QQ?oc=5",
+          "title": "Thai Furniture Industry Targets New Export Markets with Enhanced Standards",
+          "summary": "Thai furniture makers are expanding into emerging export markets by elevating product standards to meet international quality and sustainability benchmarks.",
+          "why": "Upgrading export furniture manufacturing increases demand for premium wide sanding belts, abrasive rolls, and fine-grit finishing paper.",
+          "action": "Offer customized wide sanding belts and wood-finishing abrasive packages to export-oriented furniture manufacturers.",
+          "th": {
+            "title": "อุตสาหกรรมเฟอร์นิเจอร์ไทยโต เดินหน้ารุกตลาดส่งออกใหม่พร้อมยกระดับมาตรฐาน",
+            "summary": "ผู้ผลิตเฟอร์นิเจอร์ไทยเร่งเจาะตลาดส่งออกใหม่และปรับปรุงกระบวนการผลิตให้สอดคล้องกับมาตรฐานระดับสากล",
+            "why": "การผลิตเฟอร์นิเจอร์ไม้ส่งออกคุณภาพสูงช่วยเพิ่มการใช้งานกระดาษทรายสายพานกว้างและวัสดุขัดแต่งผิวละเอียด",
+            "action": "นำเสนอสายพานขัดไม้สั่งตัดพิเศษและกระดาษทรายเบอร์ละเอียดสำหรับงานผิวไม้พรีเมียมแก่โรงงานเฟอร์นิเจอร์ส่งออก"
+          }
+        }
+      ],
+      "terms": {}
+    },
+    {
       "date": "2026-08-24",
       "summary": "News flow is light today with no major direct disruptions; developments focus on long-term aerospace MRO expansion at U-Tapao, automotive manufacturing competitiveness, and slowing furniture exports.",
       "directCount": 0,
@@ -733,155 +816,7 @@ window.NEWS_ARCHIVE = {
         }
       ],
       "terms": {}
-    },
-    {
-      "date": "2026-08-11",
-      "summary": "Today has limited new developments; key focus centers on long-term aerospace MRO expansion in Thailand alongside ASEAN furniture strategy shifts and steel dumping challenges.",
-      "directCount": 2,
-      "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มาก นักวิเคราะห์เน้นติดตามการขยายตัวของศูนย์ซ่อมอากาศยาน (MRO) ในไทย รวมถึงการปรับกลยุทธ์เฟอร์นิเจอร์อาเซียนและแรงกดดันเหล็กจีนทุ่มตลาด"
-      },
-      "items": [
-        {
-          "id": "20260811-1",
-          "tag": "aero",
-          "rating": "green",
-          "source": "thansettakij.com",
-          "date": "2026-08-01",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJbG91NDM0Z1ZuZmRPYUc4dlRzSXYwVXRnb1l5dGZyZUJLSDZqUXhOSnVzSXVQeTdRME04Y1c5TVB5SC0wOENDcm9VeDhaT3Fha0ZocE90aEgzNXpNOGVmYklR?oc=5",
-          "title": "Thai Airways Invests 100 Billion Baht to Expand Fleet to 150 Aircraft",
-          "summary": "Thai Airways plans a 100 billion baht investment to expand its fleet to 150 aircraft, aiming to reclaim its global airline standing.",
-          "why": "A significantly larger active aircraft fleet drives continuous maintenance and overhaul work, increasing demand for high-grade surface prep abrasives.",
-          "action": "Prepare specialized aerospace-grade abrasive product catalogs to target airlines and MRO service contractors.",
-          "th": {
-            "title": "การบินไทยทุ่มแสนล้าน ขยายฝูงบิน 150 ลำ ทวงบัลลังก์สายการบินระดับโลก",
-            "summary": "การบินไทยเตรียมงบลงทุนแสนล้านบาทจัดทัพฝูงบินแตะ 150 ลำ เพื่อรองรับการเติบโตและยกระดับสู่สายการบินชั้นนำ",
-            "why": "จำนวนเครื่องบินที่เพิ่มขึ้นจะช่วยเพิ่มปริมาณงานซ่อมบำรุงและขัดเตรียมผิวอากาศยานอย่างต่อเนื่อง",
-            "action": "จัดทำแคตตาล็อกสินค้าวัสดุขัดเกรดการบินเพื่อเข้าเสนอขายผู้รับเหมางาน MRO และสายการบิน"
-          }
-        },
-        {
-          "id": "20260811-2",
-          "tag": "aero",
-          "rating": "green",
-          "source": "LINE TODAY",
-          "date": "2025-11-23",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGRUZSdllROFR5LVMtQ1plTjJMNkFvRmNCeEtsWTJCNGxBbHFYNndUcWc0VVc4s00QVjdrdEIzVlZ3MXZWMGN0TWZ2RzFycWFyODBCYVdR?oc=5",
-          "title": "Thai Airways and Bangkok Airways Partner for 10 Billion Baht U-Tapao MRO Hub",
-          "summary": "Thai Airways and Bangkok Airways are jointly investing 10 billion baht to build and operate an MRO facility at U-Tapao Airport.",
-          "why": "Establishing a major aerospace MRO hub generates steady long-term demand for high-precision sanding and polishing tools.",
-          "action": "Connect with procurement teams and engineering vendors associated with the U-Tapao MRO development project.",
-          "th": {
-            "title": "การบินไทย-บางกอกแอร์เวย์ส ร่วมทุน 1 หมื่นล้าน ผุดศูนย์ซ่อมอากาศยานอู่ตะเภา",
-            "summary": "สองสายการบินใหญ่ผนึกกำลังร่วมทุนหมื่นล้านบาทในการบริหารพื้นที่ศูนย์ซ่อมอากาศยาน MRO ณ สนามบินอู่ตะเภา",
-            "why": "การเกิดศูนย์ซ่อม MRO ขนาดใหญ่ในไทยจะสร้างความต้องการใช้วัสดุขัดละเอียดและลบครีบชิ้นส่วนเครื่องบินอย่างยั่งยืน",
-            "action": "เริ่มสร้างคอนเนกชันกับฝ่ายจัดซื้อและผู้รับเหมาวิศวกรรมในโครงการศูนย์ซ่อมอู่ตะเภา"
-          }
-        },
-        {
-          "id": "20260811-3",
-          "tag": "furniture",
-          "rating": "amber",
-          "source": "LINE TODAY",
-          "date": "2026-02-19",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SdnFHbkI2cC12bTVyU0ZpODZiODNrZ2xoV1BtT2dIQ2hZN3AwVTcyRzVtY3ByN2tjazdNWGQ5VmphbXlMQU5iOEU4dVNGMU9iQW5QRUFB?oc=5",
-          "title": "ASEAN Furniture Sector Targets 1.6 Trillion Baht Market via Design and Sustainability",
-          "summary": "ASEAN furniture manufacturers are aligning strategies toward high-value designs and sustainable wood processing to capture global market share.",
-          "why": "Upgrading to premium wood furniture production requires advanced sanding belts and smooth finishing solutions.",
-          "action": "Promote premium anti-clogging wood sanding belts to export-oriented furniture manufacturers.",
-          "th": {
-            "title": "อาเซียนผนึกกำลังรุกตลาดเฟอร์นิเจอร์โลก ชูดีไซน์และความยั่งยืนดันมูลค่าแตะ 1.6 ล้านล้าน",
-            "summary": "ผู้ผลิตเฟอร์นิเจอร์ในอาเซียนร่วมมือปรับกลยุทธ์เน้นงานดีไซน์มูลค่าสูงและกระบวนการผลิตไม้ที่เป็นมิตรต่อสิ่งแวดล้อม",
-            "why": "การยกระดับสู่เฟอร์นิเจอร์เกรดพรีเมียมต้องพึ่งพาการขัดเรียบเนียนคุณภาพสูงด้วยกระดาษทรายสายพานลดการตัน",
-            "action": "นำเสนอกระดาษทรายสายพานเกรดพิเศษสำหรับโรงงานไม้และเฟอร์นิเจอร์ส่งออก"
-          }
-        },
-        {
-          "id": "20260811-4",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "LINE TODAY",
-          "date": "2025-12-27",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MbDY2SkFDN1VRQXdMaUF1Nmhlb3U0dTZLVzlMUkVDTTJlTy1UMFhMWFctVHJzWEhCd1lZUXZzaGpCMnJoNDBFOXRUclB2TXZ1ZkVlbjZB?oc=5",
-          "title": "Thai Steel Associations Warn of Crisis as Chinese Imports Surge",
-          "summary": "Ten local steel trade associations urge government intervention against severe dumping of Chinese finished steel products.",
-          "why": "Reduced production at local primary steel factories lowers abrasive consumption in heavy grinding and cutting operations.",
-          "action": "Diversify sales targeting away from primary steel makers toward downstream metal fabricators and secondary processing units.",
-          "th": {
-            "title": "10 สมาคมเหล็กรับวิกฤต จีนทุ่มตลาด-จี้รัฐคุมเข้มนำเข้าเหล็กสำเร็จรูป",
-            "summary": "10 สมาคมอุตสาหกรรมเหล็กไทยร้องรัฐเร่งแก้ปัญหาเหล็กจีนทุ่มตลาดและทะลักเข้าไทยซึ่งกระทบโรงงานผลิตในประเทศอย่างหนัก",
-            "why": "การชะลอตัวของโรงงานเหล็กขั้นต้นทำให้ยอดการใช้จานขัดและใบตัดงานหนักในกลุ่มเหล็กซบเซา",
-            "action": "กระจายความเสี่ยงโดยขยายฐานลูกค้าไปสู่กลุ่มผู้ป้อนงานแปรรูปโลหะและโรงงานโครงสร้างเหล็กขั้นปลาย"
-          }
-        }
-      ],
-      "terms": {}
-    },
-    {
-      "date": "2026-08-10",
-      "summary": "Today features limited new developments, highlighted by VietJet studying MRO investments at U-Tapao, tighter regulatory pressure on substandard steel mills, and US tariffs shifting regional furniture supply chains.",
-      "directCount": 1,
-      "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มากนัก โดยมีประเด็นสำคัญคือเวียตเจ็ทสนใจศึกษาการลงทุนศูนย์ซ่อม MRO ที่อู่ตะเภา การเข้มงวดมาตรฐานกับโรงงานเหล็ก และมาตรการภาษีสหรัฐฯ ที่ส่งผลกระทบต่อห่วงโซ่อุปทานเฟอร์นิเจอร์ในภูมิภาค"
-      },
-      "items": [
-        {
-          "id": "20260810-1",
-          "tag": "aero",
-          "rating": "green",
-          "source": "thansettakij",
-          "date": "2026-06-16",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pbFFnQlhiSG5UMVBfTjVmMUZtNXc4ZkYyOFljMVFtQlQwalZ5WUpidFlzX3prejlBWGoydDYzUUZXMlY4bE56VFUwZnZrLVJfWlRtV2t0Wi0xOWkzeVFLTUFJOVIwUQ?oc=5",
-          "title": "EECO Pins U-Tapao MRO Hub as VietJet Studies Investment Plan",
-          "summary": "EECO is advancing the U-Tapao MRO project, with VietJet currently conducting feasibility studies to establish aircraft maintenance operations in Thailand.",
-          "why": "Expansion of airline MRO facilities at U-Tapao increases long-term regional demand for high-precision, aerospace-grade abrasives and surface finishing tools.",
-          "action": "Engage EECO and prospective MRO operators early to introduce MKSanding's aviation-grade abrasive product line.",
-          "th": {
-            "title": "อีอีซีปักหมุดศูนย์ซ่อม MRO อู่ตะเภา รอเวียตเจ็ทศึกษาแผนลงทุน",
-            "summary": "อีอีซีเดินหน้าโครงการศูนย์ซ่อมอากาศยาน MRO อู่ตะเภา โดยมีสายการบินเวียตเจ็ทอยู่ระหว่างศึกษาความเป็นไปได้ในการลงทุนตั้งศูนย์ซ่อมในไทย",
-            "why": "การเพิ่มศูนย์ซ่อมบำรุงอากาศยานที่อู่ตะเภาช่วยเพิ่มอุปสงค์ระยะยาวสำหรับวัสดุขัดเกรดการบินและงานเตรียมผิวความละเอียดสูง",
-            "action": "เข้าติดต่อฝ่ายพัฒนาโครงการของอีอีซีและกลุ่มสายการบินเพื่อนำเสนอผลิตภัณฑ์วัสดุขัดเกรดการบินของ MK ล่วงหน้า"
-          }
-        },
-        {
-          "id": "20260810-2",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "SondhiX",
-          "date": "2026-06-13",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kY19SS2JXYVZSUF9XVnpPaDVoeTVXdGQ1cHVqUzBLNmdaWjZwT0kzY3pVaERuenhNelpxQlZEZ2hOS2pmajZ0OHN4VnZvUDBpOFpmc2hn?oc=5",
-          "title": "Reopened Steel Mill Face Tough Market Hurdles Amid Stricter Standards",
-          "summary": "Reopened steel manufacturer Xin Ke Yuan faces major challenges re-entering the Thai market due to strict Ministry of Industry compliance checks and industry opposition.",
-          "why": "Strict enforcement against non-compliant steel plants protects standard local metal fabricators, maintaining stable demand for industrial grinding products.",
-          "action": "Target marketing efforts toward certified, high-standard metal fabrication plants that benefit from government enforcement.",
-          "th": {
-            "title": "โรงงานเหล็กเปิดใหม่เผชิญแรงกดดันหนัก หลังรัฐเข้มมาตรฐานผลิตภัณฑ์",
-            "summary": "โรงงานเหล็กซินเคอหยวนที่พยายามกลับมาเปิดดำเนินการ ต้องเผชิญความท้าทายหนักในการทำตลาดจากการตรวจเข้มมาตรฐานของกระทรวงอุตสาหกรรมและการคัดค้านจากสมาคมเหล็ก",
-            "why": "การเข้มงวดกับโรงงานเหล็กไม่ได้มาตรฐานช่วยปกป้องโรงงานแปรรูปโลหะมาตรฐาน ซึ่งเป็นกลุ่มลูกค้าหลักที่ใช้วัสดุเจียรและขัดเงา",
-            "action": "มุ่งเจาะกลุ่มโรงงานแปรรูปโลหะและเหล็กที่ได้มาตรฐาน มอก. ซึ่งได้รับประโยชน์จากการปราบปรามเหล็กด้อยคุณภาพ"
-          }
-        },
-        {
-          "id": "20260810-3",
-          "tag": "furniture",
-          "rating": "amber",
-          "source": "ditp.go.th",
-          "date": "2025-10-24",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE11MlZnLWNid0VWUTdDZ2hUM1M2NUI0RF9PMzJfSXFGRzlkUF9kM1RMOGlTUFhSQi1MZVpqSzg5RWZCRTFBamU0eUVrYlBnWHJUSnlRTnRYckNadkVvaUM3Sm9R?oc=5",
-          "title": "Vietnamese Wood Industry Under Pressure as US Imposes Tariffs Up to 50%",
-          "summary": "The US has implemented tariffs of up to 50% on Vietnamese wood and furniture exports, altering regional trade dynamics.",
-          "why": "High US tariffs on Vietnam may encourage international buyers to redirect wooden furniture orders to Thai manufacturers, boosting local sanding material usage.",
-          "action": "Prepare tailored promotions for heavy-duty sanding belts and abrasive papers aimed at Thai wooden furniture exporters expanding production.",
-          "th": {
-            "title": "อุตสาหกรรมไม้เวียดนามระส่ำ หลังสหรัฐฯ ขึ้นภาษีนำเข้าเฟอร์นิเจอร์สูงถึง 50%",
-            "summary": "สหรัฐฯ ปรับขึ้นภาษีนำเข้าไม้และเฟอร์นิเจอร์จากเวียดนามสูงสุดถึงร้อยละ 50 ส่งผลกระทบอย่างมากต่อห่วงโซ่อุปทานงานไม้ในอาเซียน",
-            "why": "ภาษีที่สูงขึ้นของเวียดนามอาจทำให้ผู้ซื้อสหรัฐฯ ย้ายออเดอร์มายังโรงงานเฟอร์นิเจอร์ไม้ในไทย ส่งผลให้มีความต้องการกระดาษทรายและสายพานขัดไม้เพิ่มขึ้น",
-            "action": "จัดโปรโมชันกระดาษทรายม้วนและสายพานขัดไม้งานหนัก มุ่งเจาะกลุ่มโรงงานเฟอร์นิเจอร์ไม้ส่งออกในไทยที่รองรับออเดอร์ย้ายฐาน"
-          }
-        }
-      ],
-      "terms": {}
     }
   ],
-  "updated": "2026-08-24"
+  "updated": "2026-08-26"
 };
