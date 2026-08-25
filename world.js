@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-08-25",
+  "updated": "2026-08-26",
   "days": [
+    {
+      "date": "2026-08-26",
+      "summary": "Today's global briefing focuses on automotive OEM coatings growth, the expansion of diamond superhard machining, and steel supply chain disruptions affecting metal fabrication demand.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปทิศทางโลกประจำวันนี้เน้นการเติบโตของสีเคลือบรถยนต์ OEM, การขยายตัวของเทคโนโลยีการตัดเฉือนด้วยเพชรสังเคราะห์ และผลกระทบจากความตึงเครียดด้านอุปทานเหล็กต่อภาคการผลิตโลหะ"
+      },
+      "items": [
+        {
+          "id": "20260826-w1",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Fortune Business Insights",
+          "date": "2026-08-03",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXJjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
+          "title": "Automotive OEM Coatings Market Size, Share | Growth [2034]",
+          "summary": "The global automotive OEM coatings market continues to expand steadily toward 2034, driven by vehicle manufacturing shifts and advanced surface finishing requirements.",
+          "why": "Growth in automotive OEM coatings means higher demand for high-precision surface preparation, sanding, and polishing tools in Tier-1 automotive manufacturing plants.",
+          "action": "Monitor automotive OEM coating volume projections to anticipate industrial demand for fine-grit abrasives and sanding pads.",
+          "th": {
+            "title": "ตลาดสีเคลือบดั้งเดิมสำหรับยานยนต์ (OEM) ขยายตัวต่อเนื่องถึงปี 2034",
+            "summary": "ตลาดสีเคลือบรถยนต์ OEM ทั่วโลกยังคงเติบโตอย่างต่อเนื่องจนถึงปี 2034 ขับเคลื่อนโดยการเปลี่ยนแปลงการผลิตยานยนต์และข้อกำหนดด้านการเตรียมพื้นผิวที่สูงขึ้น",
+            "why": "การเติบโตของสีเคลือบรถยนต์หมายถึงความต้องการที่สูงขึ้นสำหรับเครื่องมือเตรียมพื้นผิว การขัดกระดาษทราย และการขัดเงาที่มีความแม่นยำสูงในโรงงานผลิตยานยนต์",
+            "action": "ติดตามแนวโน้มการเติบโตของสีรถยนต์ OEM เพื่อคาดการณ์ความต้องการกระดาษทรายและแผ่นขัดละเอียดในอุตสาหกรรมยานยนต์"
+          }
+        },
+        {
+          "id": "20260826-w2",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "EIN Presswire",
+          "date": "2026-07-17",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQ2tzbUVzemVBLUxLMTFXbThzUk1aZEV5cDBQeE1HWmNUbW1PNzZTUXo0bnFpcjA5Yk1XRUtMOEFyakZfaXdVUTlPM3pSVno5dk5kRXUzM000ZFo5WG1mcGV4U1NzV1hLWVlpY3p6LVZtcTN4X3hWd2tDRVJoemVydnNIZFdNTjZmYk9uTGJEd0hTdTlpY3RlaGtHemZ6VWNTOEZoWk92eU1rQU5UdjFMLVdjWmV1U0w0czdncEJnWmkzYmZlRFdOVWpXMFN5RkZTRDh4bUxBdTV1WmpFLVJ1dDRJTUdmdw?oc=5",
+          "title": "Five Reputable Diamond Sanding Belts Manufacturers in China 2026: Optimizing Superhard Abrasive Machining",
+          "summary": "An analysis highlights leading Chinese manufacturers of diamond sanding belts optimized for superhard abrasive machining applications.",
+          "why": "Superhard diamond abrasives represent the high-performance frontier for grinding hard metals, advanced ceramics, and composites, impacting premium industrial tooling choices.",
+          "action": "Evaluate the competitive landscape of superhard diamond belts and consider whether high-end diamond abrasives fit our industrial customer portfolio.",
+          "th": {
+            "title": "5 ผู้ผลิตสายพานขัดเพชรชั้นนำในจีนปี 2026: การเพิ่มประสิทธิภาพงานขัดวัสดุแข็งพิเศษ",
+            "summary": "บทวิเคราะห์ระบุถึงผู้ผลิตสายพานขัดเพชรชั้นนำในประเทศจีนที่เน้นการเพิ่มประสิทธิภาพสำหรับการตัดเฉือนด้วยวัสดุขัดแข็งพิเศษ",
+            "why": "วัสดุขัดเพชรแข็งพิเศษคือเทคโนโลยีขั้นสูงสำหรับการเจียระไนโลหะแข็ง เซรามิกขั้นสูง และวัสดุคอมโพสิต ซึ่งส่งผลต่อการเลือกใช้เครื่องมืออุตสาหกรรมระดับพรีเมียม",
+            "action": "ประเมินภูมิทัศน์การแข่งขันของสายพานเพชรความแข็งสูง และพิจารณาว่ากลุ่มสินค้าเพชรพรีเมียมนี้เหมาะสมกับกลุ่มลูกค้าอุตสาหกรรมของเราหรือไม่"
+          }
+        },
+        {
+          "id": "20260826-w3",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "The World Economic Forum",
+          "date": "2026-04-21",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeFBmZTNpZDhjN1lHNlBlU0duZ3ZQWW9uanI0SWs3SDFVazlpbVVXMklqSTVjbDloUEI4NW1Ca2dGckgzanh5UlRfX1F5QlVfQWFZNGdSS1h5bHNIUElCTk9LeUktaGd2VWxwRDAyMGJmQ1F6ZHVEOURKVjF3MVdHWGd0OG4zYTNtUk0yZkp0QXN4R3p5LUEtWkFzODBVdUdlTVpLNTh3ZjQtTGJuanlfS0Y5dWVLVEo1WkEybk96dVY?oc=5",
+          "title": "How the Iran war is disrupting India's steel production amid fuel shortages and rising costs",
+          "summary": "Geopolitical conflicts and fuel shortages are causing production disruptions and cost spikes within major steel manufacturing hubs like India.",
+          "why": "Steel production costs and output fluctuations directly affect metal fabrication activity, which in turn shifts local demand for deburring, grinding, and surface finishing abrasives.",
+          "action": "Keep an eye on regional steel pricing and supply stability to adjust inventory levels for metal-working abrasives.",
+          "th": {
+            "title": "สงครามในอิหร่านกระทบการผลิตเหล็กของอินเดียท่าศกลางวิกฤตขาดแคลนเชื้อเพลิงและต้นทุนพุ่ง",
+            "summary": "ความขัดแย้งทางภูมิรัฐศาสตร์และการขาดแคลนเชื้อเพลิงกำลังสร้างความปั่นป่วนด้านการผลิตและต้นทุนที่พุ่งสูงขึ้นในศูนย์กลางการผลิตเหล็กรายใหญ่เช่นอินเดีย",
+            "why": "ต้นทุนการผลิตเหล็กและความผันผวนของปริมาณผลผลิตส่งผลโดยตรงต่อกิจกรรมการแปรรูปโลหะ ซึ่งจะส่งผลต่อความต้องการใช้กระดาษทรายและใบเจียรในพื้นที่",
+            "action": "จับตาราคาเหล็กภูมิภาคและเสถียรภาพของอุปทาน เพื่อปรับระดับสินค้าคงคลังของกลุ่มสินค้าวัสดุขัดงานโลหะให้เหมาะสม"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-08-25",
       "summary": "Today's briefing highlights niche material demands in abrasives, driven by semiconductor and high-precision electronics growth, alongside global steel surplus and geopolitical supply chain pressures affecting metal fabrication.",
