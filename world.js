@@ -1,7 +1,89 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-08-26",
+  "updated": "2026-08-27",
   "days": [
+    {
+      "date": "2026-08-27",
+      "summary": "Today's briefing focuses on global manufacturing shifts, including European coatings innovation, advanced diamond sanding tech in China, and regional steel industry dynamics affecting metal fabrication.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปข่าวประจำวันนี้เน้นการเปลี่ยนแปลงการผลิตระดับโลก นวัตกรรมการเคลือบในยุโรป เทคโนโลยีการขัดด้วยเพชรขั้นสูงในจีน และสถานการณ์อุตสาหกรรมเหล็กภูมิภาคที่ส่งผลต่ออุตสาหกรรมโลหะ"
+      },
+      "items": [
+        {
+          "id": "20260827-w1",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "European Coatings",
+          "date": "2026-06-04",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUDgzbkl5cWdzSnJwcGViRm5mVWNYTWllWVF6RENXM2dRbG84cTh6bFRXckpiYVZkMWRWZk5OWGZhTjZCdm9zTUpTLWJlUmhLR1BnUmhIUWJ3VUVSdW5WQ05tZjVnTmQ3Tld4RG5rbVdKNEJrblFzNlE0NFZyRWw3SEZ1RWdES2pzYndyWnZPOVgyRzB4YTBGT0NOZDU4ZDdnejhFRHpMYkQ2T1ZX?oc=5",
+          "title": "ETCC 2026 in Prague: A hub for coatings innovation and sustainability",
+          "summary": "The European Technical Coatings Congress (ETCC) highlighted advanced coating technologies, sustainability goals, and next-generation surface treatments.",
+          "why": "Surface coating and preparation standards are evolving rapidly, influencing how industrial parts are finished and prepped before painting.",
+          "action": "Track European sustainability and high-performance coating standards to align surface preparation abrasives accordingly.",
+          "th": {
+            "title": "งาน ETCC 2026 ที่ปราก: ศูนย์กลางนวัตกรรมและการพัฒนาที่ยั่งยืนของสีเคลือบ",
+            "summary": "การประชุมเทคโนโลยีสีเคลือบยุโรป (ETCC) เน้นย้ำเทคโนโลยีการเคลือบขั้นสูง เป้าหมายความยั่งยืน และการเตรียมพื้นผิวรุ่นใหม่",
+            "why": "มาตรฐานการเคลือบและการเตรียมพื้นผิวมีการพัฒนาอย่างรวดเร็ว ซึ่งส่งผลต่อวิธีการขัดตกแต่งชิ้นงานก่อนพ่นสี",
+            "action": "ติดตามมาตรฐานความยั่งยืนและการเคลือบประสิทธิภาพสูงของยุโรป เพื่อปรับปรุงกลุ่มผลิตภัณฑ์กระดาษทรายและวัสดุขัดให้สอดคล้องกัน"
+          }
+        },
+        {
+          "id": "20260827-w2",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "EIN Presswire",
+          "date": "2026-07-17",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQ2tzbUVzemVBLUxLMTFXbThzUk1aZEV5cDBQeE1HWmNUbW1PNzZTUXo0bnFpcjA5Yk1XRUtMOEFyakZfaXdVUTlPM3pSVno5dk5kRXUzM000ZFo5WG1mcGV4U1NzV1hLWVlpY3p6LVZtcTN4X3hWd2tDRVJoemVydnNIZFdNTjZmYk9uTGJEd0hTdTlpY3RlaGtHemZ6VWNTOEZoWk92eU1rQU5UdjFMLVdjWmV1U0w0czdncEJnWmkzYmZlRFdOVWpXMFN5RkZTRDh4bUxBdTV1WmpFLVJ1dDRJTUdmdw?oc=5",
+          "title": "Five Reputable Diamond Sanding Belts Manufacturers in China 2026: Optimizing Superhard Abrasive Machining",
+          "summary": "An overview of leading Chinese manufacturers focusing on diamond sanding belts and superhard abrasive machining solutions.",
+          "why": "Superhard abrasives like diamond belts are taking over heavy-duty grinding applications for advanced hard materials and metals.",
+          "action": "Evaluate the competitiveness of diamond and superhard abrasive belts in our product sourcing or portfolio strategy.",
+          "th": {
+            "title": "5 ผู้ผลิตสายพานขัดเพชรที่มีชื่อเสียงในจีนปี 2026: การเพิ่มประสิทธิภาพการตัดเฉือนด้วยวัสดุขัดความแข็งสูงพิเศษ",
+            "summary": "ภาพรวมของผู้ผลิตชั้นนำในจีนที่เน้นสายพานขัดเพชรและโซลูชันการขัดด้วยวัสดุความแข็งสูงพิเศษ",
+            "why": "วัสดุขัดความแข็งสูงพิเศษอย่างสายพานเพชรเริ่มเข้ามาแทนที่ในงานขัดผิววัสดุแข็งพิเศษและโลหะที่มีความทนทานสูง",
+            "action": "ประเมินความสามารถในการแข่งขันของสายพานขัดเพชรและวัสดุขัดแข็งพิเศษในกลยุทธ์การจัดซื้อหรือการนำเสนอสินค้า"
+          }
+        },
+        {
+          "id": "20260827-w3",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "Shanghai Metals Market",
+          "date": "2026-05-19",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMmw1akRRMFZCQ2I5NGhHdE1NOXhoaE1GY0h5UmxlQVNUVGxHTko2U0NBQ0o0Q19ZYmZ1VnBCTTB6a2JJQTFNOUpDSUtpWXdaR3hkeGhlOXF4dF9yUElCd1ZkWTl4MmZGOWhVeUlXc2VCMXFCOHQzZ0ZGZ1RtZ3p6aUNObEczWFhKMkdKQ3JuRWF5SjVNZmpOQVBaSGs4TWJKS1lVa0VTdmoxdDBQTF8zRDlxME1qeEtOUzJzSTBERURobWltWTlVUlpaZ3d2WlFRNEY1b0UwbVVfLXc0cXBZ?oc=5",
+          "title": "Nucor: 100% EAF, High Profits, and Vertical Integration Mitigating Costs",
+          "summary": "Nucor highlights the efficiency of Electric Arc Furnace (EAF) steel production and vertical integration in managing operational costs.",
+          "why": "EAF steel production impacts metal surface quality and scale formation, changing the requirements for industrial grinding and deburring products.",
+          "action": "Monitor EAF steel processing trends and tailor our grinding wheel and abrasive belt offerings to match modern steel outputs.",
+          "th": {
+            "title": "Nucor: ใช้เตาหลอมอาร์กไฟฟ้า (EAF) 100%, กำไรสูง และการรวมธุรกิจแนวตั้งเพื่อลดต้นทุน",
+            "summary": "Nucor เน้นย้ำถึงประสิทธิภาพของการผลิตเหล็กด้วยเตาหลอมอาร์กไฟฟ้า (EAF) และการบูรณาการในแนวดิ่งเพื่อจัดการต้นทุนการดำเนินงาน",
+            "why": "การผลิตเหล็กด้วยเตา EAF ส่งผลต่อคุณภาพผิวโลหะและคราบออกไซด์ ซึ่งเปลี่ยนความต้องการในการใช้ผลิตภัณฑ์เจียรและลบคมในอุตสาหกรรม",
+            "action": "ติดตามแนวโน้มการผลิตเหล็กด้วยเตา EAF และปรับปรุงผลิตภัณฑ์ใบตัด ใบเจียร และกระดาษทรายให้ตอบโจทย์เหล็กประเภทนี้"
+          }
+        },
+        {
+          "id": "20260827-w4",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-07-23",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZDRQV1lyajBPaFY5UV9pQkxKcXpvRzQ5ejJOcEM5QzgyaXByMHg4MWtaX0pHT3VtV2tPRFVPUjJFdGhBcTNoWDRKOTZ4ekkzeGpOamJMT2R6M2psbHBoNEV6dlMyWW5yM3hkVjZjM0xCV1FNQ2dLamFSTHcyNTB4dEdJZkpsRmtBSUZJeF9FYW9sT0ZHdGNhV2F3RHpOLXp6RUI0SWY0SWNSM0hxM19pYS1DeEZ5ZGdhZHpyUg?oc=5",
+          "title": "Ford and Geely unite in Valencia: smart-factory momentum!",
+          "summary": "Ford and Geely collaborate on smart factory initiatives in Valencia, boosting automation and next-gen vehicle manufacturing agility.",
+          "why": "Smart automotive factories demand automated robotic sanding and surface conditioning tools to maintain precision and speed.",
+          "action": "Keep an eye on automated robotic finishing trends for automotive components to spot long-term B2B product shifts.",
+          "th": {
+            "title": "Ford และ Geely ร่วมมือกันที่บาเลนเซีย: โมเมนตัมโรงงานอัจฉริยะ!",
+            "summary": "Ford และ Geely ร่วมมือกันในโครงการโรงงานอัจฉริยะที่บาเลนเซีย เพื่อเพิ่มระบบอัตโนมัติและความคล่องตัวในการผลิตยานยนต์รุ่นใหม่",
+            "why": "โรงงานยานยนต์อัจฉริยะต้องการเครื่องมือขัดและเตรียมพื้นผิวแบบอัตโนมัติด้วยหุ่นยนต์เพื่อรักษาความแม่นยำและความเร็ว",
+            "action": "จับตาดูแนวโน้มการขัดผิวอัตโนมัติด้วยหุ่นยนต์สำหรับชิ้นส่วนยานยนต์ เพื่อมองหาโอกาสในผลิตภัณฑ์ B2B ระยะยาว"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-08-26",
       "summary": "Today's global briefing highlights key developments in automotive OEM coatings, AI integration in surface finishing, and regional steel industry pressures impacting metal preparation demand.",
