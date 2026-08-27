@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-08-27",
-      "summary": "Today's briefing highlights niche abrasive market expansions driven by high-tech semiconductor and specialized hardware applications, alongside broader manufacturing shifts in coatings and EV logistics.",
+      "summary": "Today's briefing focuses on global manufacturing shifts, smart factory collaborations like Ford and Geely, and regional coatings innovations shaping surface treatment demands.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปข่าวเด่นวันนี้เน้นการเติบโตของตลาดวัสดุขัดถูเฉพาะทางที่ขับเคลื่อนโดยอุตสาหกรรมเซมิคอนดักเตอร์และฮาร์ดแวร์ขั้นสูง พร้อมกับการเปลี่ยนแปลงในอุตสาหกรรมสีเคลือบและโลจิสติกส์ EV"
+        "summary": "สรุปประเด็นข่าววันนี้เน้นการเปลี่ยนแปลงของการผลิตระดับโลก ความร่วมมือด้านสมาร์ทแฟคทอรีระหว่าง Ford และ Geely รวมถึงนวัตกรรมสีและสารเคลือบที่ขับเคลื่อนความต้องการด้านการเตรียมพื้นผิว"
       },
       "items": [
         {
           "id": "20260827-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-08-24",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeUlTM19icXBKemN6MW9XN2FiTlNKZ2ZOM04wWFRvQVdUQTgtWW1zNzFaZjJkVTB5RnhrUWt5aDJIM1E0U2lyd2ZVZDRHdU5RWUFSSHRfOFNXUWo3LWpUVnpXOU9oelZ3eTB5OUl3VTM1ZGEtaGZJLVY4MWRuSjRBTVlyMEpoNkl4dDAyaVNSZXZVV0twb3hVUkVMVUQwWl9LZzFrQlBGQkplM2ZZS2x1dFZyM0NLQTNNRTdKMmNlQ0hobW5FOUE?oc=5",
-          "title": "Zirconia Alumina Abrasive Market Semiconductor Demand Drives 5.1% CAGR to 2035 - News and Statistics",
-          "summary": "The global zirconia alumina abrasive market is expanding at a 5.1% CAGR through 2035, strongly propelled by rigorous semiconductor manufacturing demands.",
-          "why": "Zirconia alumina is a core grain type for heavy-duty metal grinding and deburring; high-tech sector growth indicates rising demand for premium coated and bonded abrasives.",
-          "action": "Monitor demand trends for high-durability zirconia alumina belts and discs used in precision engineering and component finishing.",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-07-23",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZDRQV1lyajBPaFY5UV9pQkxKcXpvRzQ5ejJOcEM5QzgyaXByMHg4MWtaX0pHT3VtV2tPRFVPUjJFdGhBcTNoWDRKOTZ4ekkzeGpOamJMT2R6M2psbHBoNEV6dlMyWW5yM3hkVjZjM0xCV1FNQ2dLamFSTHcyNTB4dEdJZkpsRmtBSUZJeF9FYW9sT0ZHdGNhV2F3RHpOLXp6RUI0SWY0SWNSM0hxM19pYS1DeEZ5ZGdhZHpyUg?oc=5",
+          "title": "Ford and Geely unite in Valencia: smart-factory momentum!",
+          "summary": "Ford and Geely are joining forces in Valencia, Spain, driving new smart-factory momentum and localized production efficiencies.",
+          "why": "Major automotive alliances and plant upgrades directly change the local demand for automated surface finishing, robotic sanding, and OEM-spec abrasives.",
+          "action": "Monitor how European EV/hybrid production setups handle body-in-white finishing to anticipate future tech requirements.",
           "th": {
-            "title": "ตลาดวัสดุขัดถูเซอโคเนียอะลูมิเนียมเติบโตต่อเนื่อง 5.1% จากความต้องการในอุตสาหกรรมเซมิคอนดักเตอร์",
-            "summary": "ตลาดวัสดุขัดถูเซอโคเนียอะลูมิเนียมทั่วโลกกำลังเติบโตอย่างแข็งแกร่งด้วยอัตรา CAGR 5.1% จนถึงปี 2035 ขับเคลื่อนโดยความต้องการที่เข้มงวดจากภาคการผลิตเซมิคอนดักเตอร์",
-            "why": "เซอโคเนียอะลูมิเนียมเป็นเม็ดทรายหลักสำหรับงานขัดโลหะหนักและการลบคม การเติบโตของภาคไฮเทคชี้ให้เห็นถึงความต้องการที่สูงขึ้นสำหรับกระดาษทรายและผ้าทรายคุณภาพสูง",
-            "action": "ติดตามแนวโน้มความต้องการสายพานและแผ่นขัดเซอโคเนียอะลูมิเนียมความทนทานสูงที่ใช้ในงานวิศวกรรมความแม่นยำสูงและการตกแต่งชิ้นส่วน"
+            "title": "Ford และ Geely ผนึกกำลังในวาเลนเซีย: ขับเคลื่อนกระแสสมาร์ทแฟคทอรี!",
+            "summary": "Ford และ Geely ร่วมมือกันในเมืองวาเลนเซีย ประเทศสเปน เพื่อผลักดันความก้าวหน้าของโรงงานอัจฉริยะและเพิ่มประสิทธิภาพการผลิตในท้องถิ่น",
+            "why": "พันธมิตรยานยนต์รายใหญ่และการอัปเกรดโรงงานส่งผลต่อความต้องการผลิตภัณฑ์ขัดผิวอัตโนมัติ หุ่นยนต์ขัด และกระดาษทรายสเปก OEM โดยตรง",
+            "action": "ติดตามว่าการผลิตรถยนต์ EV/Hybrid ในยุโรปปรับตัวเรื่องการเตรียมผิวตัวถังอย่างไร เพื่อคาดการณ์ความต้องการเทคโนโลยีในอนาคต"
           }
         },
         {
           "id": "20260827-w2",
           "tag": "coating",
-          "rating": "amber",
-          "source": "MarketsandMarkets",
-          "date": "2026-08-25",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPXzVLRjlfQlExLXpqOFk3OU9vWDRDZWNyXzNYZ0hJUHBKQmt6YWNUcTZRTTA0V0QtMTZvWmpuUW0xamVvZVhtbnZSa09IenhvLTMzcVhZNS03dWV4UUc0VldvN3hmSlloRUNqS3poZjktVHhoYkZCalZIWGZqSzFsSEFWWGFGU0FiTHE5Rmdpd3ZSWUE?oc=5",
-          "title": "China Coating Additives Market Size, Share, Trends, Growth Analysis Report, 2029",
-          "summary": "China's coating additives market continues to evolve rapidly, influencing global chemical supply chains and surface finishing standards.",
-          "why": "Coating and surface treatment technologies heavily influence how metal and wood substrates are prepared before and after abrasive sanding.",
-          "action": "Stay informed on regional chemical developments that might affect global coating and finishing specifications.",
+          "rating": "green",
+          "source": "European Coatings",
+          "date": "2026-06-04",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUDgzbkl5cWdzSnJwcGViRm5mVWNYTWllWVF6RENXM2dRbG84cTh6bFRXckpiYVZkMWRWZk5OWGZhTjZCdm9zTUpTLWJlUmhLR1BnUmhIUWJ3VUVSdW5WQ05tZjVnTmQ3Tld4RG5rbVdKNEJrblFzNlE0NFZyRWw3SEZ1RWdES2pzYndyWnZPOVgyRzB4YTBGT0NOZDU4ZDdnejhFRHpMYkQ2T1ZX?oc=5",
+          "title": "ETCC 2026 in Prague: A hub for coatings innovation and sustainability",
+          "summary": "The European Technical Coatings Congress (ETCC) in Prague highlights cutting-edge advancements in coating technologies and sustainability.",
+          "why": "Changes in industrial paint and coating formulations influence how surface prep, sanding, and de-nibbing must be performed before and after coating applications.",
+          "action": "Keep an eye on eco-friendly coating trends that require specialized surface preparation techniques.",
           "th": {
-            "title": "รายงานตลาดสารเติมแต่งสารเคลือบในจีนคาดการณ์แนวโน้มการเติบโตถึงปี 2029",
-            "summary": "ตลาดสารเติมแต่งสารเคลือบของจีนกำลังพัฒนาอย่างรวดเร็ว ซึ่งส่งผลต่อห่วงโซ่อุปทานเคมีภัณฑ์ระดับโลกและมาตรฐานการตกแต่งพื้นผิว",
-            "why": "เทคโนโลยีสารเคลือบและการเตรียมพื้นผิวมีผลอย่างมากต่อวิธีการเตรียมชิ้นงานโลหะและไม้ทั้งก่อนและหลังการขัดด้วยกระดาษทราย",
-            "action": "ติดตามความเคลื่อนไหวทางเคมีในภูมิภาคที่อาจส่งผลกระทบต่อข้อกำหนดการเคลือบและการตกแต่งพื้นผิวระดับโลก"
+            "title": "งาน ETCC 2026 ที่ปราก: ศูนย์กลางนวัตกรรมและการพัฒนาที่ยั่งยืนของอุตสาหกรรมสีและสารเคลือบ",
+            "summary": "การประชุมเทคโนโลยีสีและสารเคลือบแห่งยุโรป (ETCC) ที่กรุงปรากเน้นย้ำความก้าวหน้าล้ำสมัยด้านเทคโนโลยีสารเคลือบและความยั่งยืน",
+            "why": "การเปลี่ยนแปลงของสูตรสีและสารเคลือบอุตสาหกรรม ส่งผลต่อวิธีปฏิบัติงานเตรียมพื้นผิว การขัด และการเก็บงานก่อนและหลังพ่นสี",
+            "action": "ติดตามแนวโน้มสารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อม ซึ่งต้องใช้เทคนิคการเตรียมพื้นผิวที่จำเพาะเจาะจง"
           }
         },
         {
           "id": "20260827-w3",
-          "tag": "auto",
+          "tag": "steel",
           "rating": "amber",
-          "source": "MarketsandMarkets",
-          "date": "2026-07-10",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUXhqQk54c1g4cXhycTVMTFlJY3l2bGNZYU5hWG1zdDRYZmYwM0FaUzVXOTlCTXNCR1dabXhiLTJnMllTWFl6UWt1TE9KMkFqYmxxRUNjcC1nQlFhR3ZPSng5QVNtQnZRMEZ2cGREVGhaa0VPSTVfSkg1UEtlNER4emMyYW83SUkzSGc?oc=5",
-          "title": "EV Assembly Market Report 2026-2035 [486 Pages & 200 Tables]",
-          "summary": "A comprehensive report details the massive scale-up of global electric vehicle assembly infrastructure through 2035.",
-          "why": "EV manufacturing requires specialized body-in-white welding, aluminum casting cleanup, and battery enclosure finishing, directly driving industrial abrasive consumption.",
-          "action": "Prepare for shifts in OEM surface preparation requirements tailored specifically to EV lightweight materials like aluminum and composites.",
+          "source": "Shanghai Metals Market",
+          "date": "2026-05-19",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMmw1akRRMFZCQ2I5NGhHdE1NOXhoaE1GY0h5UmxlQVNUVGxHTko2U0NBQ0o0Q19ZYmZ1VnBCTTB6a2JJQTFNOUpDSUtpWXdaR3hkeGhlOXF4dF9yUElCd1ZkWTl4MmZGOWhVeUlXc2VCMXFCOHQzZ0ZGZ1RtZ3p6aUNObEczWFhKMkdKQ3JuRWF5SjVNZmpOQVBaSGs4TWJKS1lVa0VTdmoxdDBQTF8zRDlxME1qeEtOUzJzSTBERURobWltWTlVUlpaZ3d2WlFRNEY1b0UwbVVfLXc0cXBZ?oc=5",
+          "title": "Nucor: 100% EAF, High Profits, and Vertical Integration Mitigating Costs",
+          "summary": "Nucor's focus on electric arc furnace (EAF) steel production and vertical integration helps it maintain high profits despite cost pressures.",
+          "why": "EAF steel manufacturing and structural metal processing represent heavy end-user segments for grinding wheels, cutting discs, and heavy-duty abrasives.",
+          "action": "Acknowledge that EAF-based steel production continues to grow, requiring durable metalworking abrasives for weld cleaning and finishing.",
           "th": {
-            "title": "รายงานตลาดการประกอบรถยนต์ไฟฟ้า (EV) ช่วงปี 2026-2035",
-            "summary": "รายงานเจาะลึกเผยถึงการขยายตัวครั้งใหญ่ของโครงสร้างพื้นฐานการประกอบรถยนต์ไฟฟ้าทั่วโลกจนถึงปี 2035",
-            "why": "การผลิต EV ต้องอาศัยงานเชื่อมตัวถัง การเก็บงานหล่ออลูมิเนียม และการตกแต่งกล่องแบตเตอรี่ ซึ่งเป็นตัวขับเคลื่อนการใช้วัสดุขัดถูในภาคอุตสาหกรรมโดยตรง",
-            "action": "เตรียมรับมือกับการเปลี่ยนแปลงข้อกำหนดการเตรียมพื้นผิวของโรงงานประกอบรถยนต์ ที่เน้นวัสดุน้ำหนักเบาเช่นอลูมิเนียมและวัสดุคอมโพสิต"
+            "title": "Nucor: เตาหลอมไฟฟ้า EAF 100%, กำไรสูง และการบูรณาการแนวตั้งช่วยลดต้นทุน",
+            "summary": "การที่ Nucor มุ่งเน้นการผลิตเหล็กด้วยเตาหลอมอาร์กไฟฟ้า (EAF) และการบูรณาการธุรกิจช่วยให้รักษากำไรสูงไว้ได้แม้เผชิญแรงกดดันด้านต้นทุน",
+            "why": "การผลิตเหล็กด้วยเตา EAF และอุตสาหกรรมแปรรูปโลหะโครงสร้าง เป็นตลาดผู้ใช้หลักสำหรับใบเจียร ใบตัด และผลิตภัณฑ์ขัดเหล็กงานหนัก",
+            "action": "รับทราบว่าการผลิตเหล็กแบบ EAF ยังคงเติบโต ซึ่งต้องใช้กระดาษทรายและหินเจียรงานโลหะที่ทนทานสำหรับการแต่งรอยเชื่อมและตกแต่งผิว"
           }
         }
       ]
