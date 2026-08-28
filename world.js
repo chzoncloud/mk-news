@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-08-27",
+  "updated": "2026-08-28",
   "days": [
+    {
+      "date": "2026-08-28",
+      "summary": "Today's global briefing highlights high-demand sectors driving abrasive growth, specifically electronics and semiconductor manufacturing boosting specialized sponges and zirconia alumina. Meanwhile, structural changes in steel and aluminum highlight regional cost pressures and supply chain shifts.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปข้อมูลแนวโน้มโลกวันนี้เน้นกลุ่มอุตสาหกรรมที่มีความต้องการสูง เช่น อิเล็กทรอนิกส์และเซมิคอนดักเตอร์ที่ผลักดันตลาดฟองน้ำขัดและเซอร์โคเนียอะลูมิเนียม ขณะเดียวกัน การเปลี่ยนแปลงในอุตสาหกรรมเหล็กและอะลูมิเนียมสะท้อนถึงแรงกดดันด้านต้นทุนและการปรับตัวของห่วงโซ่อุปทาน"
+      },
+      "items": [
+        {
+          "id": "20260828-w1",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-08-27",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZVNoQXZTcE5rVFdTaVAtc2pzYXA4bDJhUW1yNWd5RllQcTJMQ0xBN0ozandZMFZERUxfWUVRNU9odHV3RkVFUDNhejBkYy1KVVJmZlBsVXdQTG9qOU9Dck1yLUx2dmd2YWZ4Um80SWdTMzhIeF9DeVZiQzJ1QWRWWG45YmxvOFR1QVpEcHNld0ZvTE91dVZ2dm04dURCRVJ4bmZMZTVsQUtLVXFBenNJeFV4aUxBNkJqeUtOQjdINFpkdw?oc=5",
+          "title": "Abrasive Sponges Market to Hit 5.2% CAGR Through 2035 as Electronics Sector Drives 28% of Demand",
+          "summary": "The global abrasive sponges market is projected to expand steadily, with the electronics sector accounting for over a quarter of total demand due to precision surface finishing needs.",
+          "why": "Signals strong growth in electronics manufacturing, creating an opportunity to supply specialized flexible abrasive sponges for high-tech component finishing.",
+          "action": "Explore sourcing or expanding our lineup of fine abrasive sponges targeting electronics and precision parts manufacturers.",
+          "th": {
+            "title": "ตลาดฟองน้ำขัดจะเติบโตต่อเนื่อง 5.2% จนถึงปี 2035 โดยภาคอิเล็กทรอนิกส์ขับเคลื่อนความต้องการถึง 28%",
+            "summary": "ตลาดฟองน้ำขัดทั่วโลกมีแนวโน้มขยายตัวอย่างต่อเนื่อง โดยภาคอุตสาหกรรมอิเล็กทรอนิกส์ครองสัดส่วนความต้องการมากกว่าหนึ่งในสี่ เนื่องจากต้องการการตกแต่งพื้นผิวที่มีความแม่นยำสูง",
+            "why": "เป็นสัญญาณการเติบโตในภาคการผลิตอิเล็กทรอนิกส์ ซึ่งเปิดโอกาสในการจัดหาฟองน้ำขัดที่มีความยืดหยุ่นเฉพาะทางสำหรับการขัดแต่งชิ้นส่วนไฮเทค",
+            "action": "พิจารณาจัดหาสินค้าหรือขยายกลุ่มผลิตภัณฑ์ฟองน้ำขัดผิวละเอียดที่เจาะกลุ่มผู้ผลิตชิ้นส่วนอิเล็กทรอนิกส์และชิ้นส่วนความแม่นยำสูง"
+          }
+        },
+        {
+          "id": "20260828-w2",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "Financial Post",
+          "date": "2026-07-16",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYzVENV9lOXd1cm0xeEt4Y2JBNVF4R3M1aDRReTk5T0xoNzJ0a3c5VnBueWdRenBEcUp2NHNNMldrU20teUI0Z3RocldKbjAyVHNjWjNKN1FtdFlUVXZVSHlfNUZqY016Q0pWMDlDMWxTa3gwMGN0SmNmNjVoRzJQdW9YWDRlYU9PeGt0WGh4VQ?oc=5",
+          "title": "'We're getting hammered': Why this Canadian aluminum sector is crumbling while prices boom",
+          "summary": "Producers in the Canadian aluminum sector face severe cost pressures and operational challenges despite rising global commodity prices.",
+          "why": "Metal processing cost pressures directly impact how local fabricators manage consumable budgets like grinding wheels and sanding belts.",
+          "action": "Monitor metal fabrication client margins and offer cost-efficient, high-durability abrasive alternatives to help them save.",
+          "th": {
+            "title": "'เรากำลังแย่': สาเหตุที่ภาคอุตสาหกรรมอะลูมิเนียมของแคนาดากำลังเผชิญวิกฤตท่ามกลางราคาสินค้าโภคภัณฑ์ที่พุ่งสูง",
+            "summary": "ผู้ผลิตในภาคอะลูมิเนียมของแคนาดากำลังเผชิญกับแรงกดดันด้านต้นทุนที่รุนแรงและปัญหาการดำเนินงาน แม้ว่าราคาสินค้าโภคภัณฑ์ในตลาดโลกจะปรับตัวสูงขึ้นก็ตาม",
+            "why": "แรงกดดันด้านต้นทุนในอุตสาหกรรมแปรรูปโลหะส่งผลโดยตรงต่อวิธีที่ผู้ผลิตในท้องถิ่นบริหารงบประมาณสำหรับวัสดุสิ้นเปลือง เช่น ใบเจียรและกระดาษทราย",
+            "action": "ติดตามอัตรากำไรของลูกค้ากลุ่มแปรรูปโลหะ และนำเสนอทางเลือกผลิตภัณฑ์ขัดที่คุ้มค่าและมีความทนทานสูงเพื่อช่วยลูกค้าลดต้นทุน"
+          }
+        },
+        {
+          "id": "20260828-w3",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "The Guardian",
+          "date": "2025-10-08",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdjhOdzFOdlRNQ3JIYVNXcTZkNEpHTURMRmFJbk9jbEl0MGNLNUJaTDN0ZTVqLURxVWs4alVZbllfQzVXSHNZOE9UN0pSWTNjMWt4ZXFfTGp4LWIxT3NILXNYUTBId3ZHalF2QVZkX0JOQmpVd1F1ODJtTTB4SXJySkIwVFpuTlJqR3M3Z1l3c1BmM25IRERwWmFhZmY2MU1ZajI2N2hibG1PcWREaHBDVQ?oc=5",
+          "title": "‘Existential threat’: what do EU’s 50% steel tariffs mean for UK industry?",
+          "summary": "The imposition of heavy steel tariffs by the European Union poses significant challenges and supply chain disruptions for manufacturing sectors in the UK.",
+          "why": "Trade barriers and regional steel shifts alter metal sourcing, potentially slowing down local fabrication activity that relies on abrasives.",
+          "action": "Stay flexible with inventory as regional metal supply chains adapt to new trade restrictions and tariffs.",
+          "th": {
+            "title": "'ภัยคุกคามต่อความอยู่รอด': มาตรการภาษีเหล็ก 50% ของ EU ส่งผลอย่างไรต่ออุตสาหกรรมสหราชอาณาจักร?",
+            "summary": "การกำหนดภาษีเหล็กในอัตราที่สูงของสหภาพยุโรปสร้างความท้าทายครั้งใหญ่และการหยุดชะงักของห่วงโซ่อุปทานสำหรับภาคการผลิตในสหราชอาณาจักร",
+            "why": "อุปสรรคทางการค้าและการเปลี่ยนแปลงของตลาดเหล็กในภูมิภาคส่งผลต่อแหล่งที่มาของโลหะ ซึ่งอาจทำให้กิจกรรมการผลิตในท้องถิ่นที่ต้องใช้วัสดุขัดชะลอตัวลง",
+            "action": "บริหารสต็อกสินค้าให้มีความยืดหยุ่นในขณะที่ห่วงโซ่อุปทานโลหะในภูมิภาคปรับตัวเข้ากับข้อ ำกัดทางการค้าและภาษีใหม่ๆ"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-08-27",
       "summary": "Today's briefing focuses on global manufacturing shifts, smart factory collaborations like Ford and Geely, and regional coatings innovations shaping surface treatment demands.",
