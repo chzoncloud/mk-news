@@ -4,10 +4,10 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-08-28",
-      "summary": "Today's global briefing highlights high-demand sectors driving abrasive growth, specifically electronics and semiconductor manufacturing boosting specialized sponges and zirconia alumina. Meanwhile, structural changes in steel and aluminum highlight regional cost pressures and supply chain shifts.",
+      "summary": "Today's briefing focuses on emerging abrasive material demands driven by semiconductor and electronics sectors, alongside structural shifts in global manufacturing and steel supply chains.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปข้อมูลแนวโน้มโลกวันนี้เน้นกลุ่มอุตสาหกรรมที่มีความต้องการสูง เช่น อิเล็กทรอนิกส์และเซมิคอนดักเตอร์ที่ผลักดันตลาดฟองน้ำขัดและเซอร์โคเนียอะลูมิเนียม ขณะเดียวกัน การเปลี่ยนแปลงในอุตสาหกรรมเหล็กและอะลูมิเนียมสะท้อนถึงแรงกดดันด้านต้นทุนและการปรับตัวของห่วงโซ่อุปทาน"
+        "summary": "สรุปประเด็นข่าววันนี้เน้นย้ำถึงความต้องการวัสดุขัดถูที่ขับเคลื่อนโดยภาคเซมิคอนดักเตอร์และอิเล็กทรอนิกส์ รวมถึงการเปลี่ยนแปลงเชิงโครงสร้างในภาคการผลิตระดับโลกและห่วงโซ่อุปทานเหล็ก"
       },
       "items": [
         {
@@ -18,50 +18,86 @@ window.WORLD_ARCHIVE = {
           "date": "2026-08-27",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZVNoQXZTcE5rVFdTaVAtc2pzYXA4bDJhUW1yNWd5RllQcTJMQ0xBN0ozandZMFZERUxfWUVRNU9odHV3RkVFUDNhejBkYy1KVVJmZlBsVXdQTG9qOU9Dck1yLUx2dmd2YWZ4Um80SWdTMzhIeF9DeVZiQzJ1QWRWWG45YmxvOFR1QVpEcHNld0ZvTE91dVZ2dm04dURCRVJ4bmZMZTVsQUtLVXFBenNJeFV4aUxBNkJqeUtOQjdINFpkdw?oc=5",
           "title": "Abrasive Sponges Market to Hit 5.2% CAGR Through 2035 as Electronics Sector Drives 28% of Demand",
-          "summary": "The global abrasive sponges market is projected to expand steadily, with the electronics sector accounting for over a quarter of total demand due to precision surface finishing needs.",
-          "why": "Signals strong growth in electronics manufacturing, creating an opportunity to supply specialized flexible abrasive sponges for high-tech component finishing.",
-          "action": "Explore sourcing or expanding our lineup of fine abrasive sponges targeting electronics and precision parts manufacturers.",
+          "summary": "The global abrasive sponges market is projected to grow steadily, with electronics manufacturing accounting for over a quarter of total demand.",
+          "why": "Highlights the growing importance of precision surface preparation and finishing in high-tech electronics components, creating new B2B product opportunities.",
+          "action": "Explore high-precision abrasive sponges and micro-finishing pads tailored for electronics and high-tech manufacturing.",
           "th": {
-            "title": "ตลาดฟองน้ำขัดจะเติบโตต่อเนื่อง 5.2% จนถึงปี 2035 โดยภาคอิเล็กทรอนิกส์ขับเคลื่อนความต้องการถึง 28%",
-            "summary": "ตลาดฟองน้ำขัดทั่วโลกมีแนวโน้มขยายตัวอย่างต่อเนื่อง โดยภาคอุตสาหกรรมอิเล็กทรอนิกส์ครองสัดส่วนความต้องการมากกว่าหนึ่งในสี่ เนื่องจากต้องการการตกแต่งพื้นผิวที่มีความแม่นยำสูง",
-            "why": "เป็นสัญญาณการเติบโตในภาคการผลิตอิเล็กทรอนิกส์ ซึ่งเปิดโอกาสในการจัดหาฟองน้ำขัดที่มีความยืดหยุ่นเฉพาะทางสำหรับการขัดแต่งชิ้นส่วนไฮเทค",
-            "action": "พิจารณาจัดหาสินค้าหรือขยายกลุ่มผลิตภัณฑ์ฟองน้ำขัดผิวละเอียดที่เจาะกลุ่มผู้ผลิตชิ้นส่วนอิเล็กทรอนิกส์และชิ้นส่วนความแม่นยำสูง"
+            "title": "ตลาดฟองน้ำขัด (Abrasive Sponges) คาดเติบโต CAGR 5.2% ถึงปี 2035 โดยมีภาคอิเล็กทรอนิกส์ขับเคลื่อนความต้องการ 28%",
+            "summary": "ตลาดฟองน้ำขัดทั่วโลกเติบโตอย่างต่อเนื่อง โดยภาคการผลิตอิเล็กทรอนิกส์ครองสัดส่วนความต้องการมากกว่าหนึ่งในสี่",
+            "why": "ชี้ให้เห็นถึงความสำคัญที่เพิ่มขึ้นของการเตรียมพื้นผิวและการขัดแต่งที่มีความแม่นยำสูงในชิ้นส่วนอิเล็กทรอนิกส์ไฮเทค ซึ่งสร้างโอกาสสำหรับผลิตภัณฑ์ B2B ใหม่ๆ",
+            "action": "สำรวจฟองน้ำขัดและแผ่นขัดละเอียดที่มีความแม่นยำสูง ซึ่งเหมาะสำหรับอุตสาหกรรมการผลิตอิเล็กทรอนิกส์และเทคโนโลยีขั้นสูง"
           }
         },
         {
           "id": "20260828-w2",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "Financial Post",
-          "date": "2026-07-16",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYzVENV9lOXd1cm0xeEt4Y2JBNVF4R3M1aDRReTk5T0xoNzJ0a3c5VnBueWdRenBEcUp2NHNNMldrU20teUI0Z3RocldKbjAyVHNjWjNKN1FtdFlUVXZVSHlfNUZqY016Q0pWMDlDMWxTa3gwMGN0SmNmNjVoRzJQdW9YWDRlYU9PeGt0WGh4VQ?oc=5",
-          "title": "'We're getting hammered': Why this Canadian aluminum sector is crumbling while prices boom",
-          "summary": "Producers in the Canadian aluminum sector face severe cost pressures and operational challenges despite rising global commodity prices.",
-          "why": "Metal processing cost pressures directly impact how local fabricators manage consumable budgets like grinding wheels and sanding belts.",
-          "action": "Monitor metal fabrication client margins and offer cost-efficient, high-durability abrasive alternatives to help them save.",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeUlTM19icXBKemN6MW9XN2FiTlNKZ2ZOM04wWFRvQVdUQTgtWW1zNzFaZjJkVTB5RnhrUWt5aDJIM1E0U2lyd2ZVZDRHdU5RWUFSSHRfOFNXUWo3LWpUVnpXOU9oelZ3eTB5OUl3VTM1ZGEtaGZJLVY4MWRuSjRBTVlyMEpoNkl4dDAyaVNSZXZVV0twb3hVUkVMVUQwWl9LZzFrQlBGQkplM2ZZS2x1dFZyM0NLQTNNRTdKMmNlQ0hobW5FOUE?oc=5",
+          "title": "Zirconia Alumina Abrasive Market Semiconductor Demand Drives 5.1% CAGR to 2035",
+          "summary": "Zirconia alumina abrasives are experiencing robust growth, heavily supported by rigorous semiconductor manufacturing requirements.",
+          "why": "Zirconia alumina is a core heavy-duty material for metal grinding; understanding semiconductor-driven demand helps us anticipate high-performance material trends.",
+          "action": "Monitor inventory and supplier pricing for high-grade zirconia alumina belts and discs used in demanding industrial applications.",
           "th": {
-            "title": "'เรากำลังแย่': สาเหตุที่ภาคอุตสาหกรรมอะลูมิเนียมของแคนาดากำลังเผชิญวิกฤตท่ามกลางราคาสินค้าโภคภัณฑ์ที่พุ่งสูง",
-            "summary": "ผู้ผลิตในภาคอะลูมิเนียมของแคนาดากำลังเผชิญกับแรงกดดันด้านต้นทุนที่รุนแรงและปัญหาการดำเนินงาน แม้ว่าราคาสินค้าโภคภัณฑ์ในตลาดโลกจะปรับตัวสูงขึ้นก็ตาม",
-            "why": "แรงกดดันด้านต้นทุนในอุตสาหกรรมแปรรูปโลหะส่งผลโดยตรงต่อวิธีที่ผู้ผลิตในท้องถิ่นบริหารงบประมาณสำหรับวัสดุสิ้นเปลือง เช่น ใบเจียรและกระดาษทราย",
-            "action": "ติดตามอัตรากำไรของลูกค้ากลุ่มแปรรูปโลหะ และนำเสนอทางเลือกผลิตภัณฑ์ขัดที่คุ้มค่าและมีความทนทานสูงเพื่อช่วยลูกค้าลดต้นทุน"
+            "title": "ตลาดวัสดุขัดเซอร์โคเนียอะลูมินาเติบโต 5.1% ต่อปีจนถึงปี 2035 จากความต้องการของเซมิคอนดักเตอร์",
+            "summary": "วัสดุขัดเซอร์โคเนียอะลูมินากำลังเติบโตอย่างแข็งแกร่ง ซึ่งได้รับการสนับสนุนอย่างมากจากข้อกำหนดการผลิตเซมิคอนดักเตอร์ที่เข้มงวด",
+            "why": "เซอร์โคเนียอะลูมินาเป็นวัสดุหลักสำหรับการเจียระไนโลหะงานหนัก การเข้าใจความต้องการที่ขับเคลื่อนโดยเซมิคอนดักเตอร์ช่วยให้เราคาดการณ์แนวโน้มวัสดุประสิทธิภาพสูงได้",
+            "action": "ติดตามสินค้าคงคลังและราคาซัพพลายเออร์สำหรับสายพานและแผ่นขัดเซอร์โคเนียอะลูมินาเกรดสูงที่ใช้ในงานอุตสาหกรรมหนัก"
           }
         },
         {
           "id": "20260828-w3",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "MarketsandMarkets",
+          "date": "2026-08-26",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPenQzOERhX0ozYmFCcFpBeHBXRlh1Wi12MGdKenJWdVVSSXU0VmRqNnF6VE9qVDJDNUpYTmFlRWxhSm1JZVdkZUdVU0hydm5fX19QQU5VQ0FvZzNUV1NRZ1BwVTFmeHRpdFJKUFFTa0V4UEFjZzhSYkYyY1JZTE1jU0k4d3RTejZrZmlTOHdJY2dLbHc?oc=5",
+          "title": "China Coating Additives Market Size, Share, Trends, Growth Analysis Report, 2029",
+          "summary": "A comprehensive look at growth trends in China's coating additives market, reflecting regional manufacturing dynamics through 2029.",
+          "why": "Coating technologies and surface treatments evolve together with surface prep abrasives; shifts in China's chemical sectors affect global raw material costs.",
+          "action": "Keep an eye on coating chemical trends as they often precede changes in industrial finishing requirements.",
+          "th": {
+            "title": "รายงานตลาดสารเติมแต่งสารเคลือบในจีน: ขนาด ส่วนแบ่ง แนวโน้ม และการวิเคราะห์การเติบโตถึงปี 2029",
+            "summary": "ภาพรวมเชิงลึกเกี่ยวกับแนวโน้มการเติบโตในตลาดสารเติมแต่งสารเคลือบของจีน สะท้อนถึงพลวัตการผลิตในภูมิภาคจนถึงปี 2029",
+            "why": "เทคโนโลยีสารเคลือบและการเตรียมพื้นผิวพัฒนาควบคู่ไปกับวัสดุขัดเตรียมพื้นผิว การเปลี่ยนแปลงในภาคเคมีของจีนส่งผลต่อต้นทุนวัตถุดิบระดับโลก",
+            "action": "ติดตามแนวโน้มสารเคมีเคลือบผิว เนื่องจากมักเป็นตัวบ่งชี้ล่วงหน้าของการเปลี่ยนแปลงในข้อกำหนดการตกแต่งพื้นผิวอุตสาหกรรม"
+          }
+        },
+        {
+          "id": "20260828-w4",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-08-27",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNX1Vpazd0anVpQ0Z1MlFJclBBSnBVTHR3Q283QzRkeVdkbVp1bmtDMm5JOV9HcGxHWmZyaDVqV1piaWJLZ2o0RWszWmZNT0RwSWhyVDQ1c1RubmhuYXo4X3FVeVZPWDZXa2gtUjdkbFhsdUVNWmsySTRNd3M1VUpsZzNvcVBoc3hrUlVWOUh0cDJKQVB1WHg3YzRFalp6WHNSMWdNdVkzWWNWQ2xSaFVGSVJTbU9mS3ZkSzZ1WFJlVWl1ZFRqQThR?oc=5",
+          "title": "Why modularity is the real answer to manufacturing change",
+          "summary": "Automotive manufacturers are increasingly adopting modular production lines to stay agile amid fast-paced EV transitions.",
+          "why": "Modular automotive and industrial manufacturing plants require flexible, automated deburring and surface finishing solutions.",
+          "action": "Design product offerings and technical advice around flexible automated grinding tools that fit modular production setups.",
+          "th": {
+            "title": "ทำไมระบบโมดูลาร์จึงเป็นคำตอบที่แท้จริงต่อการเปลี่ยนแปลงของการผลิต",
+            "summary": "ผู้ผลิตรถยนต์หันมาใช้สายการผลิตแบบโมดูลาร์มากขึ้น เพื่อรักษาความคล่องตัวท่าارเปลี่ยนแปลงสู่วิวัฒนาการยานยนต์ไฟฟ้าที่รวดเร็ว",
+            "why": "โรงงานผลิตยานยนต์และอุตสาหกรรมแบบโมดูลาร์ต้องการโซลูชันการลบคมและการตกแต่งพื้นผิวที่มีความยืดหยุ่นและเป็นอัตโนมัติ",
+            "action": "ออกแบบผลิตภัณฑ์และคำแนะนำทางเทคนิคให้รองรับเครื่องมือขัดอัตโนมัติแบบยืดหยุ่นที่เข้ากับการติดตั้งการผลิตแบบโมดูลาร์"
+          }
+        },
+        {
+          "id": "20260828-w5",
           "tag": "steel",
           "rating": "amber",
-          "source": "The Guardian",
-          "date": "2025-10-08",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdjhOdzFOdlRNQ3JIYVNXcTZkNEpHTURMRmFJbk9jbEl0MGNLNUJaTDN0ZTVqLURxVWs4alVZbllfQzVXSHNZOE9UN0pSWTNjMWt4ZXFfTGp4LWIxT3NILXNYUTBId3ZHalF2QVZkX0JOQmpVd1F1ODJtTTB4SXJySkIwVFpuTlJqR3M3Z1l3c1BmM25IRERwWmFhZmY2MU1ZajI2N2hibG1PcWREaHBDVQ?oc=5",
-          "title": "‘Existential threat’: what do EU’s 50% steel tariffs mean for UK industry?",
-          "summary": "The imposition of heavy steel tariffs by the European Union poses significant challenges and supply chain disruptions for manufacturing sectors in the UK.",
-          "why": "Trade barriers and regional steel shifts alter metal sourcing, potentially slowing down local fabrication activity that relies on abrasives.",
-          "action": "Stay flexible with inventory as regional metal supply chains adapt to new trade restrictions and tariffs.",
+          "source": "Market Research Future",
+          "date": "2026-04-13",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QdlVWYkhUUHFMQ042anhjZWhnN25NSnZfX2F3QU1IVnpHdHVIeWpSS2R0RnVCQjBHVVgwQjhTR21WeThVSF9Td2p5LUxpN3dKekd0UXJpdHMxWENF?oc=5",
+          "title": "Steel Scrap Market, Global Market Analysis Report - 2036",
+          "summary": "Global analysis of the steel scrap market indicates ongoing structural adjustments in metal recycling and raw material sourcing through 2036.",
+          "why": "Steel scrap quality and availability dictate metal fabrication costs and surface prep requirements for recycled structural steel.",
+          "action": "Anticipate varying steel hardness and surface scale conditions among metal fabricators utilizing recycled steel scrap.",
           "th": {
-            "title": "'ภัยคุกคามต่อความอยู่รอด': มาตรการภาษีเหล็ก 50% ของ EU ส่งผลอย่างไรต่ออุตสาหกรรมสหราชอาณาจักร?",
-            "summary": "การกำหนดภาษีเหล็กในอัตราที่สูงของสหภาพยุโรปสร้างความท้าทายครั้งใหญ่และการหยุดชะงักของห่วงโซ่อุปทานสำหรับภาคการผลิตในสหราชอาณาจักร",
-            "why": "อุปสรรคทางการค้าและการเปลี่ยนแปลงของตลาดเหล็กในภูมิภาคส่งผลต่อแหล่งที่มาของโลหะ ซึ่งอาจทำให้กิจกรรมการผลิตในท้องถิ่นที่ต้องใช้วัสดุขัดชะลอตัวลง",
-            "action": "บริหารสต็อกสินค้าให้มีความยืดหยุ่นในขณะที่ห่วงโซ่อุปทานโลหะในภูมิภาคปรับตัวเข้ากับข้อ ำกัดทางการค้าและภาษีใหม่ๆ"
+            "title": "รายงานวิเคราะห์ตลาดเศษเหล็กทั่วโลก - ปี 2036",
+            "summary": "การวิเคราะห์ตลาดเศษเหล็กทั่วโลกชี้ให้เห็นถึงการปรับโครงสร้างอย่างต่อเนื่องในการรีไซเคิลโลหะและการจัดหาวัตถุดิบจนถึงปี 2036",
+            "why": "คุณภาพและความพร้อมใช้งานของเศษเหล็กกำหนดต้นทุนการผลิตโลหะและข้อกำหนดการเตรียมพื้นผิวสำหรับเหล็กโครงสร้างรีไซเคิล",
+            "action": "คาดการณ์ความแข็งของเหล็กและสภาพคราบผิวที่หลากหลายในกลุ่มผู้ผลิตโลหะที่ใช้เศษเหล็กจากการรีไซเคิล"
           }
         }
       ]
