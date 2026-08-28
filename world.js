@@ -4,100 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-08-28",
-      "summary": "Today's briefing focuses on emerging abrasive material demands driven by semiconductor and electronics sectors, alongside structural shifts in global manufacturing and steel supply chains.",
+      "summary": "Today's briefing focuses on global manufacturing shifts, including Japan's automotive refinish market trends, European coatings sustainability and technology drivers, and Japanese automotive export dynamics.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปประเด็นข่าววันนี้เน้นย้ำถึงความต้องการวัสดุขัดถูที่ขับเคลื่อนโดยภาคเซมิคอนดักเตอร์และอิเล็กทรอนิกส์ รวมถึงการเปลี่ยนแปลงเชิงโครงสร้างในภาคการผลิตระดับโลกและห่วงโซ่อุปทานเหล็ก"
+        "summary": "สรุปข่าววันนี้เน้นการเปลี่ยนแปลงในภาคการผลิตระดับโลก รวมถึงแนวโน้มตลาดเคลือบสีรถยนต์ซ่อมบำรุงในญี่ปุ่น ตัวขับเคลื่อนนวัตกรรมและความยั่งยืนของสารเคลือบในยุโรป และพลวัตการส่งออกยานยนต์ของญี่ปุ่น"
       },
       "items": [
         {
           "id": "20260828-w1",
-          "tag": "abrasive",
+          "tag": "auto",
           "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-08-27",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZVNoQXZTcE5rVFdTaVAtc2pzYXA4bDJhUW1yNWd5RllQcTJMQ0xBN0ozandZMFZERUxfWUVRNU9odHV3RkVFUDNhejBkYy1KVVJmZlBsVXdQTG9qOU9Dck1yLUx2dmd2YWZ4Um80SWdTMzhIeF9DeVZiQzJ1QWRWWG45YmxvOFR1QVpEcHNld0ZvTE91dVZ2dm04dURCRVJ4bmZMZTVsQUtLVXFBenNJeFV4aUxBNkJqeUtOQjdINFpkdw?oc=5",
-          "title": "Abrasive Sponges Market to Hit 5.2% CAGR Through 2035 as Electronics Sector Drives 28% of Demand",
-          "summary": "The global abrasive sponges market is projected to grow steadily, with electronics manufacturing accounting for over a quarter of total demand.",
-          "why": "Highlights the growing importance of precision surface preparation and finishing in high-tech electronics components, creating new B2B product opportunities.",
-          "action": "Explore high-precision abrasive sponges and micro-finishing pads tailored for electronics and high-tech manufacturing.",
+          "source": "MarketsandMarkets",
+          "date": "2026-08-19",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdkJOZE5aa1UxdjhHU3JkOTgyTUNQTVBaZTgycTdwb18welRPT3ZOUUxWdHNjUkk1QU15Skh3anJLWkh1akNyNzEtX2ZBeGRqU21rRWh4TVpUeHNtSjQ5WFlhTDhnWU9WenlybzhDbFF0c0JQYkVDV3A3ZkhfSlJhN0EwQW5KV3VMOUhxejl5RQ?oc=5",
+          "title": "Japan Automotive Refinish Coatings Market Size, Share, Trends, Growth Analysis Report, 2030",
+          "summary": "MarketsandMarkets released a growth analysis report on the Japan automotive refinish coatings market, highlighting size, share, and trends extending toward 2030.",
+          "why": "Automotive refinish directly correlates with demand for high-performance sandpaper, masking supplies, and surface preparation abrasives used in body shops.",
+          "action": "Monitor Japanese automotive aftermarket specifications and preparation tool standards.",
           "th": {
-            "title": "ตลาดฟองน้ำขัด (Abrasive Sponges) คาดเติบโต CAGR 5.2% ถึงปี 2035 โดยมีภาคอิเล็กทรอนิกส์ขับเคลื่อนความต้องการ 28%",
-            "summary": "ตลาดฟองน้ำขัดทั่วโลกเติบโตอย่างต่อเนื่อง โดยภาคการผลิตอิเล็กทรอนิกส์ครองสัดส่วนความต้องการมากกว่าหนึ่งในสี่",
-            "why": "ชี้ให้เห็นถึงความสำคัญที่เพิ่มขึ้นของการเตรียมพื้นผิวและการขัดแต่งที่มีความแม่นยำสูงในชิ้นส่วนอิเล็กทรอนิกส์ไฮเทค ซึ่งสร้างโอกาสสำหรับผลิตภัณฑ์ B2B ใหม่ๆ",
-            "action": "สำรวจฟองน้ำขัดและแผ่นขัดละเอียดที่มีความแม่นยำสูง ซึ่งเหมาะสำหรับอุตสาหกรรมการผลิตอิเล็กทรอนิกส์และเทคโนโลยีขั้นสูง"
+            "title": "รายงานตลาดสีพ่นซ่อมรถยนต์ในประเทศญี่ปุ่น ขนาด ส่วนแบ่ง และแนวโน้มถึงปี 2030",
+            "summary": "MarketsandMarkets เผยแพร่รายงานวิเคราะห์การเติบโตของตลาดสีพ่นซ่อมรถยนต์ในญี่ปุ่น ครอบคลุมขนาด ส่วนแบ่ง และแนวโน้มถึงปี 2030",
+            "why": "งานซ่อมสีรถยนต์มีความเกี่ยวข้องโดยตรงกับความต้องการกระดาษทรายคุณภาพสูง วัสดุป้องกัน และกระดาษทรายขัดเตรียมพื้นผิวในอู่ซ่อมรถ",
+            "action": "ติดตามมาตรฐานสเปกสินค้าและเครื่องมือเตรียมพื้นผิวในตลาดหลังการขายรถยนต์ของญี่ปุ่น"
           }
         },
         {
           "id": "20260828-w2",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-08-24",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeUlTM19icXBKemN6MW9XN2FiTlNKZ2ZOM04wWFRvQVdUQTgtWW1zNzFaZjJkVTB5RnhrUWt5aDJIM1E0U2lyd2ZVZDRHdU5RWUFSSHRfOFNXUWo3LWpUVnpXOU9oelZ3eTB5OUl3VTM1ZGEtaGZJLVY4MWRuSjRBTVlyMEpoNkl4dDAyaVNSZXZVV0twb3hVUkVMVUQwWl9LZzFrQlBGQkplM2ZZS2x1dFZyM0NLQTNNRTdKMmNlQ0hobW5FOUE?oc=5",
-          "title": "Zirconia Alumina Abrasive Market Semiconductor Demand Drives 5.1% CAGR to 2035",
-          "summary": "Zirconia alumina abrasives are experiencing robust growth, heavily supported by rigorous semiconductor manufacturing requirements.",
-          "why": "Zirconia alumina is a core heavy-duty material for metal grinding; understanding semiconductor-driven demand helps us anticipate high-performance material trends.",
-          "action": "Monitor inventory and supplier pricing for high-grade zirconia alumina belts and discs used in demanding industrial applications.",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "Coatings World",
+          "date": "2025-12-10",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVDFJcHBGVXhXMm1MR1R0QkJ4VkNDdnZvcjh2bzJkX1hJYUdJQ1pyOFIxRzVPUXZGUDRheEVHaVhweG14Smk5Z3FCbjhadTM4RnIzLXkxMnBWX3p2UU4ya3dxNXFocWJWd1EyUHhjeEFOWGdwWW1LcllXTFdyUVNEMkxmRGdoblpuc2w5V2RNei0xZmM1S1p5bExhX1otTFBMY0RtbA?oc=5",
+          "title": "Innovation and Technology to Drive Future of European Market",
+          "summary": "An industry report emphasizes how technological advancements and innovation are shaping the future trajectory of the European coatings market.",
+          "why": "New coating formulations often change surface hardness and finishing requirements, shifting what kind of abrasives are needed.",
+          "action": "Stay updated on European coating technology shifts that alter workpiece surface textures.",
           "th": {
-            "title": "ตลาดวัสดุขัดเซอร์โคเนียอะลูมินาเติบโต 5.1% ต่อปีจนถึงปี 2035 จากความต้องการของเซมิคอนดักเตอร์",
-            "summary": "วัสดุขัดเซอร์โคเนียอะลูมินากำลังเติบโตอย่างแข็งแกร่ง ซึ่งได้รับการสนับสนุนอย่างมากจากข้อกำหนดการผลิตเซมิคอนดักเตอร์ที่เข้มงวด",
-            "why": "เซอร์โคเนียอะลูมินาเป็นวัสดุหลักสำหรับการเจียระไนโลหะงานหนัก การเข้าใจความต้องการที่ขับเคลื่อนโดยเซมิคอนดักเตอร์ช่วยให้เราคาดการณ์แนวโน้มวัสดุประสิทธิภาพสูงได้",
-            "action": "ติดตามสินค้าคงคลังและราคาซัพพลายเออร์สำหรับสายพานและแผ่นขัดเซอร์โคเนียอะลูมินาเกรดสูงที่ใช้ในงานอุตสาหกรรมหนัก"
+            "title": "นวัตกรรมและเทคโนโลยีขับเคลื่อนอนาคตของตลาดในยุโรป",
+            "summary": "รายงานอุตสาหกรรมเน้นย้ำถึงความสำคัญของความก้าวหน้าทางเทคโนโลยีและนวัตกรรมที่มีผลต่อทิศทางอนาคตของตลาดสารเคลือบในยุโรป",
+            "why": "สูตรสารเคลือบใหม่ๆ มักเปลี่ยนความแข็งของพื้นผิวและความต้องการในการขัดแต่ง ซึ่งส่งผลต่อประเภทของกระดาษทรายที่ต้องใช้",
+            "action": "ติดตามการเปลี่ยนแปลงทางเทคโนโลยีสารเคลือบในยุโรปที่ส่งผลต่อพื้นผิวชิ้นงาน"
           }
         },
         {
           "id": "20260828-w3",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "MarketsandMarkets",
-          "date": "2026-08-26",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPenQzOERhX0ozYmFCcFpBeHBXRlh1Wi12MGdKenJWdVVSSXU0VmRqNnF6VE9qVDJDNUpYTmFlRWxhSm1JZVdkZUdVU0hydm5fX19QQU5VQ0FvZzNUV1NRZ1BwVTFmeHRpdFJKUFFTa0V4UEFjZzhSYkYyY1JZTE1jU0k4d3RTejZrZmlTOHdJY2dLbHc?oc=5",
-          "title": "China Coating Additives Market Size, Share, Trends, Growth Analysis Report, 2029",
-          "summary": "A comprehensive look at growth trends in China's coating additives market, reflecting regional manufacturing dynamics through 2029.",
-          "why": "Coating technologies and surface treatments evolve together with surface prep abrasives; shifts in China's chemical sectors affect global raw material costs.",
-          "action": "Keep an eye on coating chemical trends as they often precede changes in industrial finishing requirements.",
-          "th": {
-            "title": "รายงานตลาดสารเติมแต่งสารเคลือบในจีน: ขนาด ส่วนแบ่ง แนวโน้ม และการวิเคราะห์การเติบโตถึงปี 2029",
-            "summary": "ภาพรวมเชิงลึกเกี่ยวกับแนวโน้มการเติบโตในตลาดสารเติมแต่งสารเคลือบของจีน สะท้อนถึงพลวัตการผลิตในภูมิภาคจนถึงปี 2029",
-            "why": "เทคโนโลยีสารเคลือบและการเตรียมพื้นผิวพัฒนาควบคู่ไปกับวัสดุขัดเตรียมพื้นผิว การเปลี่ยนแปลงในภาคเคมีของจีนส่งผลต่อต้นทุนวัตถุดิบระดับโลก",
-            "action": "ติดตามแนวโน้มสารเคมีเคลือบผิว เนื่องจากมักเป็นตัวบ่งชี้ล่วงหน้าของการเปลี่ยนแปลงในข้อกำหนดการตกแต่งพื้นผิวอุตสาหกรรม"
-          }
-        },
-        {
-          "id": "20260828-w4",
           "tag": "auto",
-          "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-08-27",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNX1Vpazd0anVpQ0Z1MlFJclBBSnBVTHR3Q283QzRkeVdkbVp1bmtDMm5JOV9HcGxHWmZyaDVqV1piaWJLZ2o0RWszWmZNT0RwSWhyVDQ1c1RubmhuYXo4X3FVeVZPWDZXa2gtUjdkbFhsdUVNWmsySTRNd3M1VUpsZzNvcVBoc3hrUlVWOUh0cDJKQVB1WHg3YzRFalp6WHNSMWdNdVkzWWNWQ2xSaFVGSVJTbU9mS3ZkSzZ1WFJlVWl1ZFRqQThR?oc=5",
-          "title": "Why modularity is the real answer to manufacturing change",
-          "summary": "Automotive manufacturers are increasingly adopting modular production lines to stay agile amid fast-paced EV transitions.",
-          "why": "Modular automotive and industrial manufacturing plants require flexible, automated deburring and surface finishing solutions.",
-          "action": "Design product offerings and technical advice around flexible automated grinding tools that fit modular production setups.",
+          "rating": "green",
+          "source": "TradeImeX",
+          "date": "2026-05-18",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNejI0ZkM0YWY5bm9Ca3VMb2szR0NCeGZPM3pPdHVrVG1oeVVQYlVyQWFLRUJJNnl2X1dhQnNQamlHOGk5SDdvTFJ4MGo5MWViaTdTN1VoSmFJRFlmdXVROWZuMmJkcy10UkZCWTJ4MkJVUjluWmRDRDV3Rks4QVNURVdRQlVSQmF0aFFnRnFiRzg2SmQtTURfT244eHNReE5aLUtn?oc=5",
+          "title": "Japan Car Export Database 2025: Japan Car Exports by Country & Car Production Data",
+          "summary": "A comprehensive database tracking Japanese car export data and production volumes across various destination countries.",
+          "why": "Japanese auto manufacturing and export volumes heavily influence regional supply chains for metal parts, stamping, and finishing abrasives.",
+          "action": "Keep track of Japanese OEM production volumes in Asia to anticipate metal component sanding demand.",
           "th": {
-            "title": "ทำไมระบบโมดูลาร์จึงเป็นคำตอบที่แท้จริงต่อการเปลี่ยนแปลงของการผลิต",
-            "summary": "ผู้ผลิตรถยนต์หันมาใช้สายการผลิตแบบโมดูลาร์มากขึ้น เพื่อรักษาความคล่องตัวท่าارเปลี่ยนแปลงสู่วิวัฒนาการยานยนต์ไฟฟ้าที่รวดเร็ว",
-            "why": "โรงงานผลิตยานยนต์และอุตสาหกรรมแบบโมดูลาร์ต้องการโซลูชันการลบคมและการตกแต่งพื้นผิวที่มีความยืดหยุ่นและเป็นอัตโนมัติ",
-            "action": "ออกแบบผลิตภัณฑ์และคำแนะนำทางเทคนิคให้รองรับเครื่องมือขัดอัตโนมัติแบบยืดหยุ่นที่เข้ากับการติดตั้งการผลิตแบบโมดูลาร์"
-          }
-        },
-        {
-          "id": "20260828-w5",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "Market Research Future",
-          "date": "2026-04-13",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QdlVWYkhUUHFMQ042anhjZWhnN25NSnZfX2F3QU1IVnpHdHVIeWpSS2R0RnVCQjBHVVgwQjhTR21WeThVSF9Td2p5LUxpN3dKekd0UXJpdHMxWENF?oc=5",
-          "title": "Steel Scrap Market, Global Market Analysis Report - 2036",
-          "summary": "Global analysis of the steel scrap market indicates ongoing structural adjustments in metal recycling and raw material sourcing through 2036.",
-          "why": "Steel scrap quality and availability dictate metal fabrication costs and surface prep requirements for recycled structural steel.",
-          "action": "Anticipate varying steel hardness and surface scale conditions among metal fabricators utilizing recycled steel scrap.",
-          "th": {
-            "title": "รายงานวิเคราะห์ตลาดเศษเหล็กทั่วโลก - ปี 2036",
-            "summary": "การวิเคราะห์ตลาดเศษเหล็กทั่วโลกชี้ให้เห็นถึงการปรับโครงสร้างอย่างต่อเนื่องในการรีไซเคิลโลหะและการจัดหาวัตถุดิบจนถึงปี 2036",
-            "why": "คุณภาพและความพร้อมใช้งานของเศษเหล็กกำหนดต้นทุนการผลิตโลหะและข้อกำหนดการเตรียมพื้นผิวสำหรับเหล็กโครงสร้างรีไซเคิล",
-            "action": "คาดการณ์ความแข็งของเหล็กและสภาพคราบผิวที่หลากหลายในกลุ่มผู้ผลิตโลหะที่ใช้เศษเหล็กจากการรีไซเคิล"
+            "title": "ฐานข้อมูลการส่งออกรถยนต์ของญี่ปุ่นปี 2025: ข้อมูลการส่งออกตามประเทศและปริมาณการผลิต",
+            "summary": "ฐานข้อมูลที่รวบรวมและติดตามข้อมูลการส่งออกรถยนต์และปริมาณการผลิตของญี่ปุ่นไปยังประเทศต่างๆ",
+            "why": "ปริมาณการผลิตและการส่งออกยานยนต์ของญี่ปุ่นส่งผลอย่างมากต่อห่วงโซ่อุปทานชิ้นส่วนโลหะ การปั๊มขึ้นรูป และวัสดุขัดแต่งผิวในภูมิภาค",
+            "action": "ติดตามปริมาณการผลิตของค่ายรถยนต์ญี่ปุ่นในเอเชียเพื่อคาดการณ์ความต้องการใช้วัสดุขัดโลหะ"
           }
         }
       ]
