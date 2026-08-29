@@ -4,82 +4,82 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-08-30",
-      "summary": "Today's briefing focuses on 4 key global signals across steel protectionism, Europe's regulatory pressures, and automotive manufacturing shifts. These trends highlight the shifting demands in metal fabrication and surface finishing that will directly impact our B2B abrasive markets.",
+      "summary": "Today's briefing highlights niche growth in ceramic flap discs and wood sanding machinery, alongside global steel supply pressures and supply chain challenges impacting metal manufacturing.",
       "directCount": 4,
       "th": {
-        "summary": "สรุปสถานการณ์ประจำวันนี้เน้น 4 สัญญาณสำคัญทั่วโลกเกี่ยวกับมาตรการกีดกันทางการค้าเหล็ก แรงกดดันด้านกฎระเบียบในยุโรป และการเปลี่ยนแปลงในการผลิตยานยนต์ ซึ่งจะส่งผลโดยตรงต่อความต้องการวัสดุขัดและงานตกแต่งผิวในตลาด B2B ของเรา"
+        "summary": "สรุปรายงานวันนี้เน้นการเติบโตของตลาดแผ่นขัดผ้าทรายเซรามิกและเครื่องขัดไม้ รวมถึงแรงกดดันด้านอุปทานเหล็กและห่วงโซ่อุปทานที่ส่งผลต่ออุตสาหกรรมการผลิตโลหะทั่วโลก"
       },
       "items": [
         {
           "id": "20260830-w1",
-          "tag": "steel",
+          "tag": "abrasive",
           "rating": "green",
-          "source": "The Guardian",
-          "date": "2025-10-08",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdjhOdzFOdlRNQ3JIYVNXcTZkNEpHTURMRmFJbk9jbEl0MGNLNUJaTDN0ZTVqLURxVWs4alVZbllfQzVXSHNZOE9UN0pSWTNjMWt4ZXFfTGp4LWIxT3NILXNYUTBId3ZHalF2QVZkX0JOQmpVd1F1ODJtTTB4SXJySkIwVFpuTlJqR3M3Z1l3c1BmM25IRERwWmFhZmY2MU1ZajI2N2hibG1PcWREaHBDVQ?oc=5",
-          "title": "‘Existential threat’: what do EU’s 50% steel tariffs mean for UK industry?",
-          "summary": "The European Union's aggressive steel tariff proposals are creating severe cost pressures and supply chain anxiety for downstream metal manufacturers in the UK and Europe.",
-          "why": "Higher steel costs and localized supply pressures force metal fabricators to optimize efficiency, often increasing demand for cost-effective, high-performance deburring and grinding abrasives.",
-          "action": "Monitor European metal fabrication margins and prepare for increased customer focus on abrasive tool durability and cost-per-piece efficiency.",
+          "source": "Market Research Future",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY0JpWXlQSC1LeGU2eUdGRW1zTEZ4amNoRXAyUWcxcnpWbEdzWmprSTBFM1htcllTNmQtdlRENmZ2NlhXbV9oNTlJbnJ0UjV5cENzZC1yTUdwM21YRi0wZUxBd1l6ODNDM1NxSUdQcFMwMGpCRnJuY041elNoT1RSRA?oc=5",
+          "title": "Ceramic Flap Disc Market Size, Share & Growth Report 2035 | MRFR",
+          "summary": "The global ceramic flap disc market is expanding steadily with a strong outlook through 2035, driven by demands for high-performance metal removal tools.",
+          "why": "Ceramic abrasives represent high-margin, premium product lines that deliver faster cuts and longer lifespan compared to standard aluminum oxide.",
+          "action": "Evaluate our current inventory and tier-1 positioning for ceramic flap discs to capture higher-end metal fabrication demand.",
           "th": {
-            "title": "ภัยคุกคามครั้งใหญ่: มาตรการภาษีเหล็ก 50% ของ EU ส่งผลอย่างไรต่ออุตสาหกรรม UK?",
-            "summary": "ข้อเสนอภาษีเหล็กที่เข้มงวดของสหภาพยุโรปกำลังสร้างแรงกดดันด้านต้นทุนและความกังวลเรื่องห่วงโซ่อุปทานสำหรับผู้ผลิตโลหะปลายน้ำในสหราชอาณาจักรและยุโรป",
-            "why": "ต้นทุนเหล็กที่สูงขึ้นและแรงกดดันด้านอุปทานบังคับให้ผู้ผลิตโลหะต้องเพิ่มประสิทธิภาพ ซึ่งมักจะเพิ่มความต้องการใช้วัสดุขัดและเจียรที่มีความคุ้มค่าและทนทานสูง",
-            "action": "ติดตามอัตรากำไรของผู้ผลิตโลหะในยุโรปและเตรียมพร้อมรับมือกับความต้องการของลูกค้าที่เน้นเรื่องความทนทานและต้นทุนต่อชิ้นของอุปกรณ์ขัด"
+            "title": "รายงานขนาด ส่วนแบ่ง และการเติบโตของตลาดแผ่นขัดผ้าทรายเซรามิก ปี 2035",
+            "summary": "ตลาดแผ่นขัดผ้าทรายเซรามิกทั่วโลกกำลังขยายตัวอย่างต่อเนื่องด้วยแนวโน้มที่ดีจนถึงปี 2035 ขับเคลื่อนโดยความต้องการเครื่องมือถอดเนื้อโลหะที่มีประสิทธิภาพสูง",
+            "why": "วัสดุขัดประเภทเซรามิกคือกลุ่มผลิตภัณฑ์พรีเมียมที่มีกำไรสูง ซึ่งช่วยให้ตัดชิ้นงานได้เร็วขึ้นและมีอายุการใช้งานยาวนานกว่าอลูมิเนียมออกไซด์ทั่วไป",
+            "action": "ประเมินสินค้าคงคลังปัจจุบันและตำแหน่งผลิตภัณฑ์ระดับพรีเมียมของเราสำหรับแผ่นขัดเซรามิก เพื่อรองรับความต้องการงานประกอบโลหะระดับบน"
           }
         },
         {
           "id": "20260830-w2",
-          "tag": "steel",
+          "tag": "abrasive",
           "rating": "green",
-          "source": "S&P Global",
-          "date": "2026-01-07",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSDJTcGFGbUFvRm15ZDhrczNqYkRzbHlXMTJZTHJpUF9CTjRHaTNXak4tdVBkbnBWcnNrRDRneXpBd1Z5SUJGSFZWTzJMNWhfcVl5czkzR0lSSjd4aTJzMTg3N2FWM3pHQ2NxbHg2dEp2ckNiNC16cWdJZ0t3anl3TzlUYldVajhqM05JQVEyWWdZYVdaYkEzZUpvUEJGdHAxXzRKdDRnNG1pQl9LaEN6Q0lpbFpPMTBOeElqT3V2NUdUSlJJNjZWOEpiMWc?oc=5",
-          "title": "Europe's steel industry faces its 2026 reckoning with CBAM",
-          "summary": "The implementation of the Carbon Border Adjustment Mechanism (CBAM) is forcing European steel producers to radically overhaul their carbon footprint and supply chain compliance.",
-          "why": "As steel mills and metal processors adapt to green regulations, surface preparation and finishing processes must also align with stricter environmental and efficiency standards.",
-          "action": "Keep an eye on European regulatory trends affecting metal processors, as green compliance requirements will trickle down to ancillary manufacturing supplies like abrasives.",
+          "source": "Market.us",
+          "date": "2026-01-22",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ISWl4S1FIYTlibDJlR001VnBXdy1xQ1ZobnhYTzBkc3pWOEdrOFQ4VWl2VzA5NjNDcGp3VEU3ZGQ2R0VFdXQwRmZxVEVpOTE4dVl4RlF4WlBHX3pXQ3QtTkJQWQ?oc=5",
+          "title": "Wood Sanding Machine Market Size, Share | CAGR of 4.3%.",
+          "summary": "The wood sanding machine market is projected to grow at a steady CAGR of 4.3%, reflecting continued machinery investments in furniture and woodworking sectors.",
+          "why": "Growth in wood sanding machinery directly correlates with higher output and consistent demand for wide belt and specialized wood sandpaper.",
+          "action": "Strengthen relationships with woodworking machinery distributors to bundle abrasives with new machine installations.",
           "th": {
-            "title": "อุตสาหกรรมเหล็กของยุโรปเผชิญบททดสอบสำคัญในปี 2026 ด้วยมาตรการ CBAM",
-            "summary": "การบังคับใช้กลไกการปรับคาร์บอนก่อนข้ามพรมแดน (CBAM) กำลังบีบให้ผู้ผลิตเหล็กในยุโรปต้องปรับเปลี่ยนกระบวนการปล่อยคาร์บอนและการปฏิบัติตามกฎระเบียบในห่วงโซ่อุปทานครั้งใหญ่",
-            "why": "เมื่อโรงงานเหล็กและผู้แปรรูปโลหะปรับตัวตามกฎระเบียบสีเขียว กระบวนการเตรียมพื้นผิวและการตกแต่งก็ต้องสอดคล้องกับมาตรฐานด้านสิ่งแวดล้อมที่เข้มงวดขึ้นเช่นกัน",
-            "action": "ติดตามแนวโน้มกฎระเบียบของยุโรปที่ส่งผลต่อผู้แปรรูปโลหะ เนื่อง_from ข้อกำหนดด้านความยั่งยืนจะส่งผลกระทบต่อเนื่องไปยังวัสดุสิ้นเปลืองในการผลิตอย่างวัสดุขัด"
+            "title": "ขนาดและส่วนแบ่งตลาดเครื่องขัดไม้ เติบโตที่ CAGR 4.3%",
+            "summary": "ตลาดเครื่องขัดไม้คาดว่าจะเติบโตอย่างมั่นคงด้วยอัตรา CAGR 4.3% สะท้อนถึงการลงทุนอย่างต่อเนื่องในเครื่องจักรสำหรับอุตสาหกรรมเฟอร์นิเจอร์และงานไม้",
+            "why": "การเติบโตของเครื่องขัดไม้นำไปสู่ผลผลิตที่สูงขึ้นและความต้องการกระดาษทรายสายพานกว้างหรือกระดาษทรายไม้เฉพาะทางที่ต่อเนื่อง",
+            "action": "เสริมสร้างความสัมพันธ์กับผู้จัดจำหน่ายเครื่องจักรงานไม้ เพื่อเสนอขายผลิตภัณฑ์กระดาษทรายร่วมกับการติดตั้งเครื่องจักรใหม่"
           }
         },
         {
           "id": "20260830-w3",
-          "tag": "auto",
+          "tag": "steel",
           "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-08-27",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNX1Vpazd0anVpQ0Z1MlFJclBBSnBVTHR3Q283QzRkeVdkbVp1bmtDMm5JOV9HcGxHWmZyaDVqV1piaWJLZ2o0RWszWmZNT0RwSWhyVDQ1c1RubmhuYXo4X3FVeVZPWDZXa2gtRjdkbFhsdUVNWmsySTRNd3M1VUpsZzNvcVBoc3hrUlVWOUh0cDJKQVB1WHg3YzRFalp6WHNSMWdNdVkzWWNWQ2xSaFVGSVJTbU9mS3ZkSzZ1WFJlVWl1ZFRqQThR?oc=5",
-          "title": "Why modularity is the real answer to manufacturing change",
-          "summary": "Automotive and industrial manufacturers are increasingly adopting modular production lines to quickly pivot between traditional vehicle parts and new EV architectures.",
-          "why": "Modular factories require flexible, quick-change tooling and robotic surface finishing setups to handle diverse component geometries efficiently.",
-          "action": "Explore how modular automation in manufacturing impacts consumable abrasive consumption patterns and robotic sanding compatibility.",
+          "source": "Recycling International",
+          "date": "2026-05-06",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUGx0eVkxRzJXY2ZfWGV0VWstUVozcnFnRjRpQnEydThVWTdhdno0NEhVNVFLYzRIal85T0h4b0hqNjNBclVpY1lteGZDWFZSdGhhcG9LVlhYN3ZucHRDOWFvOXFkTjhYYjVibTNsM3Y5ZVFjeFhoQW13anV4RE56emVzQUFESDlWRnB4LVpuSFNEb1FoOXRvNU9KY1pfYmxEYlA3RUhqQzY0RDMzSHF1dHE5U0w?oc=5",
+          "title": "Conflicts’ ‘serious’ impact on global steel industry",
+          "summary": "Geopolitical conflicts continue to create severe disruptions across global steel supply chains, affecting raw material availability and manufacturing output.",
+          "why": "Steel production volume dictates local metal fabrication activity, which directly drives consumption of grinding wheels, cutting discs, and metal abrasives.",
+          "action": "Monitor steel availability and local fabricator operating capacity to anticipate shifts in abrasive re-order cycles.",
           "th": {
-            "title": "เหตุใดความยืดหยุ่นแบบโมดูลาร์จึงเป็นคำตอบที่แท้จริงต่อการเปลี่ยนแปลงในการผลิต",
-            "summary": "ผู้ผลิตในอุตสาหกรรมยานยนต์และอุตสาหกรรมทั่วไปหันมาใช้สายการผลิตแบบโมดูลาร์มากขึ้น เพื่อให้สามารถปรับเปลี่ยนระหว่างชิ้นส่วนรถยนต์แบบดั้งเดิมและโครงสร้าง EV ใหม่ได้อย่างรวดเร็ว",
-            "why": "โรงงานแบบโมดูลาร์ต้องการเครื่องมือที่เปลี่ยนได้อย่างรวดเร็วและระบบตกแต่งผิวด้วยหุ่นยนต์ที่มีความยืดหยุ่น เพื่อจัดการกับรูปทรงของชิ้นส่วนที่หลากหลายได้อย่างมีประสิทธิภาพ",
-            "action": "ศึกษาว่าระบบอัตโนมัติแบบโมดูลาร์ในการผลิตส่งผลต่อรูปแบบการใช้วัสดุขัดสิ้นเปลืองและความเข้ากันได้กับการขัดด้วยหุ่นยนต์อย่างไร"
+            "title": "ผลกระทบที่รุนแรงของความขัดแย้งต่ออุตสาหกรรมเหล็กโลก",
+            "summary": "ความขัดแย้งทางภูมิรัฐศาสตร์ยังคงสร้างความปั่นป่วนอย่างรุนแรงต่อห่วงโซ่อุปทานเหล็กทั่วโลก ส่งผลต่อความพร้อมของวัตถุดิบและปริมาณการผลิต",
+            "why": "ปริมาณการผลิตเหล็กเป็นตัวกำหนดกิจกรรมการแปรรูปโลหะในท้องถิ่น ซึ่งส่งผลโดยตรงต่อการบริโภคใบเจียร ใบตัด และกระดาษทรายโลหะ",
+            "action": "ติดตามความพร้อมของเหล็กและกำลังการผลิตของโรงงานแปรรูปในท้องถิ่น เพื่อคาดการณ์ความเปลี่ยนแปลงในรอบการสั่งซื้อกระดาษทราย"
           }
         },
         {
           "id": "20260830-w4",
-          "tag": "auto",
+          "tag": "steel",
           "rating": "white",
-          "source": "Fortune Business Insights",
-          "date": "2026-08-10",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbDdPM0VwRXE3dDlfTTJFS3BVX2FmU0ZLWVVDR2JLcWk5UjVnUmJQaDJ2N2E1Z1VkMWdIUzdnWXVrSFc3cHBLWmhSb3dodGpOTlZzejhjaFRBcm5fRi1jMzhzTV9CcFRqVVRVUVdWUWliWkdiMXdzLXpFMWY3M1doOW1hTHBaUnlnYV81YmMyLTU?oc=5",
-          "title": "Electric Vehicle Market Size, Share & Global Analysis, 2034",
-          "summary": "Long-term forecasts for the global Electric Vehicle market project steady expansion through 2034, driven by battery tech improvements and infrastructure investments.",
-          "why": "Ongoing growth in EV manufacturing alters metal stamping, casting, and lightweight material usage (like aluminum), shifting the requirements for deburring and sanding.",
-          "action": "Note long-term automotive sector trajectories to align future product portfolios with lightweight metal and EV component finishing needs.",
+          "source": "The World Economic Forum",
+          "date": "2026-04-21",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeFBmZTNpZDhjN1lHNlBlU0duZ3ZQWW9uanI0SWs3SDFVazlpbVVXMklqSTVjbDloUEI4NW1Ca2dGckgzanh5UlRfX1F5QlVfQWFZNGdSS1h5bHNIUElCTk9LeUktaGd2VWxwRDAyMGJmQ1F6ZHVEOURKVjF3MVdHWGd0OG4zYTNtUk0yZkp0QXN4R3p5LUEtWkFzODBVdUdlTVpLNTh3ZjQtTGJuanlfS0Y5dWVLVEo1WkEybk96dVY?oc=5",
+          "title": "How the Iran war is disrupting India's steel production amid fuel shortages and rising costs",
+          "summary": "Regional conflicts are driving up fuel shortages and rising operational costs, directly impacting key steel-producing nations like India.",
+          "why": "Global cost inflation in metal production can squeeze factory margins, making buyers more cost-sensitive when purchasing consumables like abrasives.",
+          "action": "Keep an eye on cost pressures affecting import markets and ensure our product pricing strategy remains competitive yet profitable.",
           "th": {
-            "title": "ขนาดส่วนแบ่งและการวิเคราะห์ตลาดรถยนต์ไฟฟ้าทั่วโลกถึงปี 2034",
-            "summary": "การคาดการณ์ระยะยาวสำหรับตลาดรถยนต์ไฟฟ้าทั่วโลกแสดงให้เห็นถึงการเติบโตอย่างต่อเนื่องจนถึงปี 2034 ซึ่งขับเคลื่อนโดยการพัฒนาเทคโนโลยีแบตเตอรี่และการลงทุนในโครงสร้างพื้นฐาน",
-            "why": "การเติบโตอย่างต่อเนื่องในการผลิต EV ทำให้การปั๊มโลหะ การหล่อ และการใช้วัสดุน้ำหนักเบา (เช่น อลูมิเนียม) เปลี่ยนแปลงไป ซึ่งส่งผลต่อความต้องการในการลบคมและการขัดผิวด้วย",
-            "action": "จดบันทึกแนวโน้มระยะยาวของอุตสาหกรรมยานยนต์เพื่อปรับกลุ่มผลิตภัณฑ์ในอนาคตให้สอดคล้องกับความต้องการในการตกแต่งชิ้นส่วนโลหะน้ำหนักเบาและชิ้นส่วน EV"
+            "title": "สงครามอิหร่านส่งผลกระทบต่อการผลิตเหล็กของอินเดียท่ามกลางปัญหาขาดแคลนเชื้อเพลิงและต้นทุนที่พุ่งสูง",
+            "summary": "ความขัดแย้งในภูมิภาคผลักดันให้เกิดการขาดแคลนเชื้อเพลิงและต้นทุนการดำเนินงานที่สูงขึ้น ซึ่งกระทบโดยตรงต่อประเทศผู้ผลิตเหล็กรายสำคัญอย่างอินเดีย",
+            "why": "ภาวะเงินเฟ้อด้านต้นทุนการผลิตโลหะทั่วโลกอาจบีบอัตรากำไรของโรงงาน ทำให้ลูกค้ามีความอ่อนไหวต่อราคามากขึ้นเมื่อซื้อวัสดุสิ้นเปลืองอย่างกระดาษทราย",
+            "action": "จับตาดูแรงกดดันด้านต้นทุนที่กระทบตลาดนำเข้า และรักษาความยืดหยุ่นในกลยุทธ์การตั้งราคาให้แข่งขันได้และยังมีกำไร"
           }
         }
       ]
