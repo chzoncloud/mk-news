@@ -1,7 +1,89 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-08-29",
+  "updated": "2026-08-30",
   "days": [
+    {
+      "date": "2026-08-30",
+      "summary": "Today's briefing focuses on 4 key global signals across steel protectionism, Europe's regulatory pressures, and automotive manufacturing shifts. These trends highlight the shifting demands in metal fabrication and surface finishing that will directly impact our B2B abrasive markets.",
+      "directCount": 4,
+      "th": {
+        "summary": "สรุปสถานการณ์ประจำวันนี้เน้น 4 สัญญาณสำคัญทั่วโลกเกี่ยวกับมาตรการกีดกันทางการค้าเหล็ก แรงกดดันด้านกฎระเบียบในยุโรป และการเปลี่ยนแปลงในการผลิตยานยนต์ ซึ่งจะส่งผลโดยตรงต่อความต้องการวัสดุขัดและงานตกแต่งผิวในตลาด B2B ของเรา"
+      },
+      "items": [
+        {
+          "id": "20260830-w1",
+          "tag": "steel",
+          "rating": "green",
+          "source": "The Guardian",
+          "date": "2025-10-08",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdjhOdzFOdlRNQ3JIYVNXcTZkNEpHTURMRmFJbk9jbEl0MGNLNUJaTDN0ZTVqLURxVWs4alVZbllfQzVXSHNZOE9UN0pSWTNjMWt4ZXFfTGp4LWIxT3NILXNYUTBId3ZHalF2QVZkX0JOQmpVd1F1ODJtTTB4SXJySkIwVFpuTlJqR3M3Z1l3c1BmM25IRERwWmFhZmY2MU1ZajI2N2hibG1PcWREaHBDVQ?oc=5",
+          "title": "‘Existential threat’: what do EU’s 50% steel tariffs mean for UK industry?",
+          "summary": "The European Union's aggressive steel tariff proposals are creating severe cost pressures and supply chain anxiety for downstream metal manufacturers in the UK and Europe.",
+          "why": "Higher steel costs and localized supply pressures force metal fabricators to optimize efficiency, often increasing demand for cost-effective, high-performance deburring and grinding abrasives.",
+          "action": "Monitor European metal fabrication margins and prepare for increased customer focus on abrasive tool durability and cost-per-piece efficiency.",
+          "th": {
+            "title": "ภัยคุกคามครั้งใหญ่: มาตรการภาษีเหล็ก 50% ของ EU ส่งผลอย่างไรต่ออุตสาหกรรม UK?",
+            "summary": "ข้อเสนอภาษีเหล็กที่เข้มงวดของสหภาพยุโรปกำลังสร้างแรงกดดันด้านต้นทุนและความกังวลเรื่องห่วงโซ่อุปทานสำหรับผู้ผลิตโลหะปลายน้ำในสหราชอาณาจักรและยุโรป",
+            "why": "ต้นทุนเหล็กที่สูงขึ้นและแรงกดดันด้านอุปทานบังคับให้ผู้ผลิตโลหะต้องเพิ่มประสิทธิภาพ ซึ่งมักจะเพิ่มความต้องการใช้วัสดุขัดและเจียรที่มีความคุ้มค่าและทนทานสูง",
+            "action": "ติดตามอัตรากำไรของผู้ผลิตโลหะในยุโรปและเตรียมพร้อมรับมือกับความต้องการของลูกค้าที่เน้นเรื่องความทนทานและต้นทุนต่อชิ้นของอุปกรณ์ขัด"
+          }
+        },
+        {
+          "id": "20260830-w2",
+          "tag": "steel",
+          "rating": "green",
+          "source": "S&P Global",
+          "date": "2026-01-07",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSDJTcGFGbUFvRm15ZDhrczNqYkRzbHlXMTJZTHJpUF9CTjRHaTNXak4tdVBkbnBWcnNrRDRneXpBd1Z5SUJGSFZWTzJMNWhfcVl5czkzR0lSSjd4aTJzMTg3N2FWM3pHQ2NxbHg2dEp2ckNiNC16cWdJZ0t3anl3TzlUYldVajhqM05JQVEyWWdZYVdaYkEzZUpvUEJGdHAxXzRKdDRnNG1pQl9LaEN6Q0lpbFpPMTBOeElqT3V2NUdUSlJJNjZWOEpiMWc?oc=5",
+          "title": "Europe's steel industry faces its 2026 reckoning with CBAM",
+          "summary": "The implementation of the Carbon Border Adjustment Mechanism (CBAM) is forcing European steel producers to radically overhaul their carbon footprint and supply chain compliance.",
+          "why": "As steel mills and metal processors adapt to green regulations, surface preparation and finishing processes must also align with stricter environmental and efficiency standards.",
+          "action": "Keep an eye on European regulatory trends affecting metal processors, as green compliance requirements will trickle down to ancillary manufacturing supplies like abrasives.",
+          "th": {
+            "title": "อุตสาหกรรมเหล็กของยุโรปเผชิญบททดสอบสำคัญในปี 2026 ด้วยมาตรการ CBAM",
+            "summary": "การบังคับใช้กลไกการปรับคาร์บอนก่อนข้ามพรมแดน (CBAM) กำลังบีบให้ผู้ผลิตเหล็กในยุโรปต้องปรับเปลี่ยนกระบวนการปล่อยคาร์บอนและการปฏิบัติตามกฎระเบียบในห่วงโซ่อุปทานครั้งใหญ่",
+            "why": "เมื่อโรงงานเหล็กและผู้แปรรูปโลหะปรับตัวตามกฎระเบียบสีเขียว กระบวนการเตรียมพื้นผิวและการตกแต่งก็ต้องสอดคล้องกับมาตรฐานด้านสิ่งแวดล้อมที่เข้มงวดขึ้นเช่นกัน",
+            "action": "ติดตามแนวโน้มกฎระเบียบของยุโรปที่ส่งผลต่อผู้แปรรูปโลหะ เนื่อง_from ข้อกำหนดด้านความยั่งยืนจะส่งผลกระทบต่อเนื่องไปยังวัสดุสิ้นเปลืองในการผลิตอย่างวัสดุขัด"
+          }
+        },
+        {
+          "id": "20260830-w3",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-08-27",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNX1Vpazd0anVpQ0Z1MlFJclBBSnBVTHR3Q283QzRkeVdkbVp1bmtDMm5JOV9HcGxHWmZyaDVqV1piaWJLZ2o0RWszWmZNT0RwSWhyVDQ1c1RubmhuYXo4X3FVeVZPWDZXa2gtRjdkbFhsdUVNWmsySTRNd3M1VUpsZzNvcVBoc3hrUlVWOUh0cDJKQVB1WHg3YzRFalp6WHNSMWdNdVkzWWNWQ2xSaFVGSVJTbU9mS3ZkSzZ1WFJlVWl1ZFRqQThR?oc=5",
+          "title": "Why modularity is the real answer to manufacturing change",
+          "summary": "Automotive and industrial manufacturers are increasingly adopting modular production lines to quickly pivot between traditional vehicle parts and new EV architectures.",
+          "why": "Modular factories require flexible, quick-change tooling and robotic surface finishing setups to handle diverse component geometries efficiently.",
+          "action": "Explore how modular automation in manufacturing impacts consumable abrasive consumption patterns and robotic sanding compatibility.",
+          "th": {
+            "title": "เหตุใดความยืดหยุ่นแบบโมดูลาร์จึงเป็นคำตอบที่แท้จริงต่อการเปลี่ยนแปลงในการผลิต",
+            "summary": "ผู้ผลิตในอุตสาหกรรมยานยนต์และอุตสาหกรรมทั่วไปหันมาใช้สายการผลิตแบบโมดูลาร์มากขึ้น เพื่อให้สามารถปรับเปลี่ยนระหว่างชิ้นส่วนรถยนต์แบบดั้งเดิมและโครงสร้าง EV ใหม่ได้อย่างรวดเร็ว",
+            "why": "โรงงานแบบโมดูลาร์ต้องการเครื่องมือที่เปลี่ยนได้อย่างรวดเร็วและระบบตกแต่งผิวด้วยหุ่นยนต์ที่มีความยืดหยุ่น เพื่อจัดการกับรูปทรงของชิ้นส่วนที่หลากหลายได้อย่างมีประสิทธิภาพ",
+            "action": "ศึกษาว่าระบบอัตโนมัติแบบโมดูลาร์ในการผลิตส่งผลต่อรูปแบบการใช้วัสดุขัดสิ้นเปลืองและความเข้ากันได้กับการขัดด้วยหุ่นยนต์อย่างไร"
+          }
+        },
+        {
+          "id": "20260830-w4",
+          "tag": "auto",
+          "rating": "white",
+          "source": "Fortune Business Insights",
+          "date": "2026-08-10",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbDdPM0VwRXE3dDlfTTJFS3BVX2FmU0ZLWVVDR2JLcWk5UjVnUmJQaDJ2N2E1Z1VkMWdIUzdnWXVrSFc3cHBLWmhSb3dodGpOTlZzejhjaFRBcm5fRi1jMzhzTV9CcFRqVVRVUVdWUWliWkdiMXdzLXpFMWY3M1doOW1hTHBaUnlnYV81YmMyLTU?oc=5",
+          "title": "Electric Vehicle Market Size, Share & Global Analysis, 2034",
+          "summary": "Long-term forecasts for the global Electric Vehicle market project steady expansion through 2034, driven by battery tech improvements and infrastructure investments.",
+          "why": "Ongoing growth in EV manufacturing alters metal stamping, casting, and lightweight material usage (like aluminum), shifting the requirements for deburring and sanding.",
+          "action": "Note long-term automotive sector trajectories to align future product portfolios with lightweight metal and EV component finishing needs.",
+          "th": {
+            "title": "ขนาดส่วนแบ่งและการวิเคราะห์ตลาดรถยนต์ไฟฟ้าทั่วโลกถึงปี 2034",
+            "summary": "การคาดการณ์ระยะยาวสำหรับตลาดรถยนต์ไฟฟ้าทั่วโลกแสดงให้เห็นถึงการเติบโตอย่างต่อเนื่องจนถึงปี 2034 ซึ่งขับเคลื่อนโดยการพัฒนาเทคโนโลยีแบตเตอรี่และการลงทุนในโครงสร้างพื้นฐาน",
+            "why": "การเติบโตอย่างต่อเนื่องในการผลิต EV ทำให้การปั๊มโลหะ การหล่อ และการใช้วัสดุน้ำหนักเบา (เช่น อลูมิเนียม) เปลี่ยนแปลงไป ซึ่งส่งผลต่อความต้องการในการลบคมและการขัดผิวด้วย",
+            "action": "จดบันทึกแนวโน้มระยะยาวของอุตสาหกรรมยานยนต์เพื่อปรับกลุ่มผลิตภัณฑ์ในอนาคตให้สอดคล้องกับความต้องการในการตกแต่งชิ้นส่วนโลหะน้ำหนักเบาและชิ้นส่วน EV"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-08-29",
       "summary": "Today's briefing highlights niche high-growth segments in abrasives—specifically abrasive sponges driven by electronics—alongside global coating additive trends and steel/metal market adjustments.",
@@ -921,70 +1003,6 @@ window.WORLD_ARCHIVE = {
             "summary": "อุปสรรคทางการค้าและกำแพงภาษีที่สูงในตลาดตะวันตกกำลังบีบให้ผู้แปรรูปเหล็กและโลหะต้องปรับห่วงโซ่อุปทานและต้นทุนการผลิตระดับภูมิภาค",
             "why": "อัตราภาษีและการเปลี่ยนแปลงทางการค้าส่งผลกระทบโดยตรงต่อปริมาณการผลิตโลหะ อัตรากำไรจากการดำเนินงาน และการใช้วัสดุขัดแต่งในท้องถิ่น",
             "action": "รักษาความยืดหยุ่นกับลูกค้ากลุ่มอุตสาหกรรมโลหะที่อาจย้ายฐานการผลิตหรือเผชิญแรงกดดันด้านกำไรจากปัญหาภาษี"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-08-16",
-      "summary": "Today's briefing highlights critical niche shifts in advanced micro-abrasives for electronics packaging, rising automation strategies in European EV plants, and persistent structural surplus challenges in the global steel market.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปรายงานวันนี้เน้นการเปลี่ยนแปลงของตลาดไมโครแบรสิฟสำหรับการบรรจุภัณฑ์อิเล็กทรอนิกส์ กลยุทธ์ระบบอัตโนมัติในโรงงาน EV ยุโรป และความท้าทายจากภาวะอุปทานส่วนเกินในตลาดเหล็กโลก"
-      },
-      "items": [
-        {
-          "id": "20260816-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-08-09",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYklHUkZHWF93dUcyanVidE0xc2dMbzR6dE9XYjhiRnAzUEtJcjZlOFljc3V5M01MMlRHT2Q4Y0gwNFVTdEJ4MGxlcnZYNE5OSER0clV0Rzhna2VGNk4wbm1IVHgzZGkzMU81Z3lSSThhZG9lbTlUd0RNbVhYTG9jTUdSOUxHNFJqcm5KZ2todUJVVHRrNzktYXdORFFzTzVGb3FUbGU3cG96am5HSTJkZnlXdVMtNTFmTmM1SUdn?oc=5",
-          "title": "Lapping Film Micro Abrasive Market Demand to Surge on Advanced Packaging Needs Through 2035",
-          "summary": "Demand for lapping film and micro-abrasives is growing rapidly, driven by strict surface finishing requirements in advanced semiconductor and chip packaging.",
-          "why": "Signals strong high-margin growth in ultra-precise finishing applications beyond traditional metal and wood sanding.",
-          "action": "Monitor high-tech micro-abrasive film suppliers and electronic-grade finishing demand trends.",
-          "th": {
-            "title": "ความต้องการตลาดฟิล์มขัดผิวไมโครแบรสิฟพุ่งสูงตามความต้องการบรรจุภัณฑ์ขั้นสูงถึงปี 2035",
-            "summary": "ความต้องการฟิล์มแลปปิ้งและไมโครแบรสิฟเติบโตอย่างรวดเร็ว ขับเคลื่อนด้วยข้อกำหนดการตกแต่งพื้นผิวที่เข้มงวดในเซมิคอนดักเตอร์และบรรจุภัณฑ์ชิปขั้นสูง",
-            "why": "บ่งชี้การเติบโตที่มีอัตรากำไรสูงในการใช้งานขัดผิวที่มีความแม่นยำสูง นอกเหนือจากการขัดโลหะและไม้แบบดั้งเดิม",
-            "action": "ติดตามซัพพลายเออร์ฟิล์มไมโครแบรสิฟไฮเทคและแนวโน้มความต้องการการขัดผิวระดับอิเล็กทรอนิกส์"
-          }
-        },
-        {
-          "id": "20260816-w2",
-          "tag": "auto",
-          "rating": "green",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-07-23",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZDRQV1lyajBPaFY5UV9pQkxKcXpvRzQ5ejJOcEM5QzgyaXByMHg4MWtaX0pHT3VtV2tPRFVPUjJFdGhBcTNoWDRKOTZ4ekkzeGpOamJMT2R6M2psbHBoNEV6dlMyWW5yM3hkVjZjM0xCV1FNQ2dLamFSTHcyNTB4dEdJZkpsRmtBSUZJeF9FYW9sT0ZHdGNhV2F3RHpOLXp6RUI0SWY0SWNSM0hxM19pYS1DeEZ5ZGdhZHpyUg?oc=5",
-          "title": "Ford and Geely unite in Valencia: smart-factory momentum!",
-          "summary": "Major automotive players are joining forces to build smart factories and leverage shared manufacturing hubs in Europe, optimizing production resilience.",
-          "why": "Consolidated smart automotive plants change how Tier suppliers source automated surface prep and robotic grinding tools.",
-          "action": "Keep track of how joint-venture smart plants specify automated finishing and deburring lines.",
-          "th": {
-            "title": "ฟอร์ดและจีลี่ร่วมมือกันในบาเลนเซีย: แรงขับเคลื่อนโรงงานอัจฉริยะ!",
-            "summary": "ค่ายรถยนต์รายใหญ่ร่วมมือกันสร้างโรงงานอัจฉริยะและใช้ฐานการผลิตร่วมกันในยุโรป เพื่อเพิ่มความยืดหยุ่นในการผลิต",
-            "why": "โรงงานรถยนต์อัจฉริยะที่ควบรวมกันจะเปลี่ยนวิธีที่ซัพพลายเออร์จัดหาเครื่องมือเตรียมพื้นผิวอัตโนมัติและเครื่องขัดหุ่นยนต์",
-            "action": "ติดตามวิธีที่โรงงานอัจฉริยะร่วมทุนกำหนดสเปกสายงานขัดและลบคมอัตโนมัติ"
-          }
-        },
-        {
-          "id": "20260816-w3",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "S&P Global",
-          "date": "2026-01-12",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
-          "title": "Global steel industry battles surplus supply, protectionism",
-          "summary": "The global steel sector continues to face overcapacity and rising trade protectionism, putting pressure on regional mills and pricing stability.",
-          "why": "Steel mill operating margins directly affect local metal fabricators' purchasing power for heavy-duty grinding belts and cutting discs.",
-          "action": "Adjust inventory forecasting for metal-industry abrasives based on local steel fabrication output rather than global mill headlines.",
-          "th": {
-            "title": "อุตสาหกรรมเหล็กโลกต่อสู้กับภาวะอุปทานล้นเกินและการกีดกันทางการค้า",
-            "summary": "ภาคอุตสาหกรรมเหล็กทั่วโลกยังคงเผชิญกับกำลังการผลิตส่วนเกินและการกีดกันทางการค้าที่เพิ่มขึ้น สร้างแรงกดดันต่อโรงงานเหล็กภูมิภาคและเสถียรภาพราคา",
-            "why": "อัตรากำไรของโรงงานเหล็กส่งผลโดยตรงต่ออำนาจซื้อของผู้ผลิตชิ้นงานโลหะในท้องถิ่นสำหรับสายพานขัดและแผ่นตัดงานหนัก",
-            "action": "ปรับการคาดการณ์สินค้าคงคลังสำหรับวัสดุขัดโลหะตามผลผลิตการผลิตเหล็กในท้องถิ่นแทนที่จะดูแค่ข่าวโรงงานเหล็กโลก"
           }
         }
       ]
