@@ -4,46 +4,65 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-08-29",
-      "summary": "Today's briefing highlights global shifts in the steel sector due to raw material and geopolitical pressures, alongside EV manufacturing and abrasive market trends.",
-      "directCount": 2,
+      "summary": "Today's briefing highlights niche high-growth segments in abrasives—specifically abrasive sponges driven by electronics—alongside global coating additive trends and steel/metal market adjustments.",
+      "directCount": 3,
       "th": {
-        "summary": "สรุปทิศทางโลกวันนี้เน้นการเปลี่ยนแปลงในอุตสาหกรรมเหล็กจากแรงกดดันด้านวัตถุดิบและภูมิรัฐศาสตร์ ควบคู่ไปกับแนวโน้มการผลิต EV และตลาดวัสดุขัด"
+        "summary": "สรุปทิศทางโลกวันนี้เน้นไปที่กลุ่มผลิตภัณฑ์ขัดถูที่มีอัตราเติบโตสูง เช่น ฟองน้ำขัดที่ขับเคลื่อนโดยอุตสาหกรรมอิเล็กทรอนิกส์ พร้อมด้วยแนวโน้มสารเติมแต่งสารเคลือบและตลาดเหล็ก"
       },
       "items": [
         {
           "id": "20260829-w1",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "Recycling International",
-          "date": "2026-05-06",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUGx0eVkxRzJXY2ZfWGV0VWstUVozcnFnRjRpQnEydThVWTdhdno0NEhVNVFLYzRIal85T0h4b0hqNjNBclVpY1lteGZDWFZSdGhhcG9LVlhYN3ZucHRDOWFvOXFkTjhYYjVibTNsM3Y5ZVFjeFhoQW13anV4RE56emVzQUFESDlWRnB4LVpuSFNEb1FoOXRvNU9KY1pfYmxEYlA3RUhqQzY0RDMzSHF1dHE5U0w?oc=5",
-          "title": "Conflicts’ ‘serious’ impact on global steel industry",
-          "summary": "Geopolitical conflicts continue to severely disrupt global steel supply chains, affecting material availability and pricing.",
-          "why": "Steel is a primary workpiece material for heavy grinding and deburring; steel supply instability directly affects our industrial customers' production volumes.",
-          "action": "Monitor steel mill activity and adjust stock planning for heavy-duty grinding wheels accordingly.",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-08-27",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZVNoQXZTcE5rVFdTaVAtc2pzYXA4bDJhUW1yNWd5RllQcTJMQ0xBN0ozandZMFZERUxfWUVRNU9odHV3RkVFUDNhejBkYy1KVVJmZlBsVXdQTG9qOU9Dck1yLUx2dmd2YWZ4Um80SWdTMzhIeF9DeVZiQzJ1QWRWWG45YmxvOFR1QVpEcHNld0ZvTE91dVZ2dm04dURCRVJ4bmZMZTVsYUtLVXFBenNJeFV4aUxBNkJqeUtOQjdINFpkdw?oc=5",
+          "title": "Abrasive Sponges Market to Hit 5.2% CAGR Through 2035 as Electronics Sector Drives 28% of Demand",
+          "summary": "The global abrasive sponges market is expanding steadily at a 5.2% CAGR through 2035, with the electronics sector alone accounting for 28% of overall demand.",
+          "why": "Highlights strong growth in fine-finishing tools for electronics, signaling an expanding opportunity for specialized sponge abrasives beyond traditional metal and wood sectors.",
+          "action": "Consider expanding product lines or stock for high-precision abrasive sponges catering to electronics and delicate surface finishing.",
           "th": {
-            "title": "ผลกระทบร้ายแรงของความขัดแย้งต่ออุตสาหกรรมเหล็กโลก",
-            "summary": "ความขัดแย้งทางภูมิรัฐศาสตร์ยังคงส่งผลกระทบอย่างรุนแรงต่อห่วงโซ่อุปทานเหล็กทั่วโลก ส่งผลต่อความพร้อมและราคาของวัตถุดิบ",
-            "why": "เหล็กเป็นวัสดุหลักในการทำงานสำหรับงานเจียรและลบคมหนัก ความไม่เสถียรของอุปทานเหล็กส่งผลโดยตรงต่อปริมาณการผลิตของลูกค้าอุตสาหกรรมของเรา",
-            "action": "ติดตามกิจการของโรงงานเหล็กและปรับการวางแผนสต็อกสินค้าสำหรับล้อเจียรงานหนักตามความเหมาะสม"
+            "title": "ตลาดฟองน้ำขัด (Abrasive Sponges) คาดเติบโตต่อเนื่อง CAGR 5.2% ถึงปี 2035 โดยมีภาคอิเล็กทรอนิกส์ครองส่วนแบ่งถึง 28%",
+            "summary": "ตลาดฟองน้ำขัดทั่วโลกกำลังขยายตัวอย่างมั่นคง โดยภาคอุตสาหกรรมอิเล็กทรอนิกส์เป็นแรงขับเคลื่อนสำคัญถึง 28% ของความต้องการทั้งหมด",
+            "summary_th": "ตลาดฟองน้ำขัดทั่วโลกกำลังขยายตัวอย่างมั่นคง โดยภาคอุตสาหกรรมอิเล็กทรอนิกส์เป็นแรงขับเคลื่อนสำคัญถึง 28% ของความต้องการทั้งหมด",
+            "why": "ชี้ให้เห็นถึงความต้องการที่เติบโตในกลุ่มเครื่องมือขัดแต่งผิวละเอียดสำหรับอิเล็กทรอนิกส์ ซึ่งเป็นโอกาสขยายตลาดฟองน้ำขัด นอกเหนือจากงานโลหะและไม้แบบเดิม",
+            "action": "พิจารณาเพิ่มสต็อกหรือขยายกลุ่มสินค้าฟองน้ำขัดที่มีความละเอียดสูง เพื่อรองรับงานอุตสาหกรรมอิเล็กทรอนิกส์และการเตรียมผิวชิ้นงานประณีต"
           }
         },
         {
           "id": "20260829-w2",
-          "tag": "auto",
-          "rating": "green",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-08-27",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNX1Vpazd0anVpQ0Z1MlFJclBBSnBVTHR3Q283QzRkeVdkbVp1bmtDMm5JOV9HcGxHWmZyaDVqV1piaWJLZ2o0RWszWmZNT0RwSWhyVDQ1c1RubmhuYXo4X3FVeVZPWDZXa2gtUjdkbFhsdUVNWmsySTRNd3M1VUpsZzNvcVBoc3hrUlVWOUh0cDJKQVB1WHg3YzRFalp6WHNSMWdNdVkzWWNWQ2xSaFVGSVJTbU9mS3ZkSzZ1WFJlVWl1ZFRqQThR?oc=5",
-          "title": "Why modularity is the real answer to manufacturing change",
-          "summary": "Automotive manufacturers are shifting toward modular production lines to stay agile amid rapid design changes.",
-          "why": "Flexible automotive lines require adaptable surface preparation and robotic sanding solutions for varying car body parts.",
-          "action": "Explore automated and flexible abrasive setups for Tier-1 automotive parts makers.",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "MarketsandMarkets",
+          "date": "2026-08-26",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPenQzOERhX0ozYmFCcFpBeHBXRlh1Wi12MGdKenJWdVVSSXU0VmRqNnF6VE9qVDJDNUpYTmFlRWxhSm1JZVdkZUdVU0hydm5fX19QQU5VQ0FvZzNUV1NRZ1BwVTFmeHRpdFJKUFFTa0V4UEFjZzhSYkYyY1JZTE1jU0k4d3RTejZrZmlTOHdJY2dLbHc?oc=5",
+          "title": "China Coating Additives Market Size, Share, Trends, Growth Analysis Report, 2029",
+          "summary": "A new market analysis details the growth trajectory and trends of China's coating additives market up to 2029.",
+          "why": "Coating and surface finishing chemicals go hand in hand with abrasive prep; shifts in coating formulations often change how surfaces are prepped and sanded.",
+          "action": "Monitor trends in specialty coatings to understand future surface preparation and sanding requirements.",
           "th": {
-            "title": "เหตุใดความยืดหยุ่นแบบโมดูลาร์จึงเป็นคำตอบที่แท้จริงสำหรับการเปลี่ยนแปลงการผลิต",
-            "summary": "ผู้ผลิตรถยนต์กำลังเปลี่ยนไปใช้สายการผลิตแบบโมดูลาร์เพื่อให้มีความคล่องตัวท่ามกลางการเปลี่ยนแปลงการออกแบบอย่างรวดเร็ว",
-            "why": "สายการผลิตรถยนต์ที่ยืดหยุ่นต้องการการเตรียมพื้นผิวและการขัดด้วยหุ่นยนต์ที่ปรับ 1 ได้สำหรับชิ้นส่วนตัวถังรถยนต์ที่หลากหลาย",
-            "action": "สำรวจชุดอุปกรณ์ขัดแบบอัตโนมัติและยืดหยุ่นสำหรับผู้ผลิตชิ้นส่วนยานยนต์ Tier-1"
+            "title": "รายงานวิเคราะห์แนวโน้มและขนาดตลาดสารเติมแต่งสารเคลือบในประเทศจีนถึงปี 2029",
+            "summary": "รายงานการวิเคราะห์ตลาดใหม่แสดงให้เห็นถึงทิศทางการเติบโตและแนวโน้มของตลาดสารเติมแต่งสารเคลือบในประเทศจีนจนถึงปี 2029",
+            "why": "สารเคลือบและการเตรียมผิวมีความเกี่ยวข้องกันอย่างใกล้ชิด การเปลี่ยนแปลงของสูตรสารเคลือบมักส่งผลต่อวิธีการเตรียมพื้นผิวและการขัดกระดาษทราย",
+            "action": "ติดตามแนวโน้มของสารเคลือบพิเศษเพื่อคาดการณ์ความต้องการใหม่ๆ ในขั้นตอนการเตรียมและขัดแต่งพื้นผิว"
+          }
+        },
+        {
+          "id": "20260829-w3",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "Fact.MR",
+          "date": "2026-04-13",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QdlVWYkhUUHFMQ042anhjZWhnN25NSnZfX2F3QU1IVnpHdHVIeWpSS2R0RnVCQjBHVVgwQjhTR21WeThVSF9Td2p5LUxpN3dKekd0UXJpdHMxWENF?oc=5",
+          "title": "Steel Scrap Market, Global Market Analysis Report - 2036",
+          "summary": "Global analysis on the steel scrap market outlines long-term supply, demand, and recycling dynamics extending toward 2036.",
+          "why": "Steel scrap processing and recycling require heavy deburring, cutting, and surface grinding tools, representing an important end-user segment for industrial abrasives.",
+          "action": "Keep an eye on metal recycling operations as a steady industrial consumer for heavy-duty grinding discs and cut-off wheels.",
+          "th": {
+            "title": "รายงานวิเคราะห์ตลาดเศษเหล็กโลก มองการณ์ไกลถึงปี 2036",
+            "summary": "บทวิเคราะห์ตลาดเศษเหล็กทั่วโลกเผยถึงพลวัตด้านอุปทาน อุปสงค์ และการรีไซเคิลระยะยาวจนถึงปี 2036",
+            "why": "กระบวนการแปรรูปและรีไซเคิลเศษเหล็กต้องใช้เครื่องมือตัดและขัดลบคมหนักๆ ซึ่งเป็นกลุ่มลูกค้าสำคัญของผลิตภัณฑ์ขัดถูอุตสาหกรรม",
+            "action": "จับตาภาคอุตสาหกรรมรีไซเคิลโลหะ เนื่องจากเป็นตลาดผู้ใช้ที่มีความต้องการแผ่นตัดและใบเจียรขนาดใหญ่อย่างต่อเนื่อง"
           }
         }
       ]
