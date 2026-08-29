@@ -4,64 +4,46 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-08-29",
-      "summary": "Today's global trend briefing highlights key developments in abrasive sponges driven by electronics demand, expanding coating additives markets, and EV assembly scaling, providing fresh signals for surface finishing applications.",
-      "directCount": 3,
+      "summary": "Today's briefing highlights global shifts in the steel sector due to raw material and geopolitical pressures, alongside EV manufacturing and abrasive market trends.",
+      "directCount": 2,
       "th": {
-        "summary": "สรุปกระแสโลกประจำวันนี้เน้นย้ำการพัฒนาที่สำคัญในตลาดฟองน้ำขัดกระดาษทรายจากความต้องการของอุตสาหกรรมอิเล็กทรอนิกส์ ตลาดสารเติมแต่งสารเคลือบที่ขยายตัว และการเติบโตของการประกอบรถยนต์ไฟฟ้า ซึ่งส่งสัญญาณใหม่สำหรับงานเตรียมผิว"
+        "summary": "สรุปทิศทางโลกวันนี้เน้นการเปลี่ยนแปลงในอุตสาหกรรมเหล็กจากแรงกดดันด้านวัตถุดิบและภูมิรัฐศาสตร์ ควบคู่ไปกับแนวโน้มการผลิต EV และตลาดวัสดุขัด"
       },
       "items": [
         {
           "id": "20260829-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-08-27",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZVNoQXZTcE5rVFdTaVAtc2pzYXA4bDJhUW1yNWd5RllQcTJMQ0xBN0ozandZMFZERUxfWUVRNU9odHV3RkVFUDNhejBkYy1KVVJmZlBsVXdQTG9qOU9Dck1yLUx2dmd2YWZ4Um80SWdTMzhIeF9DeVZiQzJ1QWRWWG45YmxvOFR1QVpEcHNld0ZvTE91dVZ2dm04dURCRVJ4bmZMZTVsQUtLVXFBenNJeFV4aUxBNkJqeUtOQjdINFpkdw?oc=5",
-          "title": "Abrasive Sponges Market to Hit 5.2% CAGR Through 2035 as Electronics Sector Drives 28% of Demand",
-          "summary": "The global abrasive sponges market is projected to grow steadily, fueled largely by precision finishing requirements in the electronics manufacturing sector.",
-          "why": "Demonstrates strong growth in specialized flexible abrasives and foam-backed products for high-tech manufacturing, an area ripe for B2B supply expansion.",
-          "action": "Evaluate our product lineup for flexible abrasive sponges targeted at precision electronics and intricate surface finishing.",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "Recycling International",
+          "date": "2026-05-06",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUGx0eVkxRzJXY2ZfWGV0VWstUVozcnFnRjRpQnEydThVWTdhdno0NEhVNVFLYzRIal85T0h4b0hqNjNBclVpY1lteGZDWFZSdGhhcG9LVlhYN3ZucHRDOWFvOXFkTjhYYjVibTNsM3Y5ZVFjeFhoQW13anV4RE56emVzQUFESDlWRnB4LVpuSFNEb1FoOXRvNU9KY1pfYmxEYlA3RUhqQzY0RDMzSHF1dHE5U0w?oc=5",
+          "title": "Conflicts’ ‘serious’ impact on global steel industry",
+          "summary": "Geopolitical conflicts continue to severely disrupt global steel supply chains, affecting material availability and pricing.",
+          "why": "Steel is a primary workpiece material for heavy grinding and deburring; steel supply instability directly affects our industrial customers' production volumes.",
+          "action": "Monitor steel mill activity and adjust stock planning for heavy-duty grinding wheels accordingly.",
           "th": {
-            "title": "ตลาดฟองน้ำขัดกระดาษทรายคาดว่าจะเติบโต 5.2% ต่อปีถึงปี 2035 โดยภาคอิเล็กทรอนิกส์ขับเคลื่อนความต้องการ 28%",
-            "summary": "ตลาดฟองน้ำขัดกระดาษทรายทั่วโลกมีแนวโน้มเติบโตอย่างต่อเนื่อง ขับเคลื่อนโดยความต้องการงานขัดผิวความละเอียดสูงในภาคการผลิตอิเล็กทรอนิกส์",
-            "why": "แสดงให้เห็นถึงการเติบโตที่แข็งแกร่งของวัสดุขัดแบบยืดหยุ่นและฟองน้ำขัดสำหรับงานไฮเทค ซึ่งเป็นโอกาสในการขยายตลาด B2B",
-            "action": "ประเมินกลุ่มผลิตภัณฑ์ฟองน้ำขัดแบบยืดหยุ่นของเราเพื่อรองรับงานอิเล็กทรอนิกส์และความละเอียดสูง"
+            "title": "ผลกระทบร้ายแรงของความขัดแย้งต่ออุตสาหกรรมเหล็กโลก",
+            "summary": "ความขัดแย้งทางภูมิรัฐศาสตร์ยังคงส่งผลกระทบอย่างรุนแรงต่อห่วงโซ่อุปทานเหล็กทั่วโลก ส่งผลต่อความพร้อมและราคาของวัตถุดิบ",
+            "why": "เหล็กเป็นวัสดุหลักในการทำงานสำหรับงานเจียรและลบคมหนัก ความไม่เสถียรของอุปทานเหล็กส่งผลโดยตรงต่อปริมาณการผลิตของลูกค้าอุตสาหกรรมของเรา",
+            "action": "ติดตามกิจการของโรงงานเหล็กและปรับการวางแผนสต็อกสินค้าสำหรับล้อเจียรงานหนักตามความเหมาะสม"
           }
         },
         {
           "id": "20260829-w2",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "MarketsandMarkets",
-          "date": "2026-08-26",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPenQzOERhX0ozYmFCcFpBeHBXRlh1Wi12MGdKenJWdVVSSXU0VmRqNnF6VE9qVDJDNUpYTmFlRWxhSm1JZVdkZUdVU0hydm5fX19QQU5VQ0FvZzNUV1NRZ1BwVTFmeHRpdFJKUFFTa0V4UEFjZzhSYkYyY1JZTE1jU0k4d3RTejZrZmlTOHdJY2dLbHc?oc=5",
-          "title": "China Coating Additives Market Size, Share,Trends, Growth Analysis Report, 2029",
-          "summary": "An in-depth analysis highlights continuous expansion in China's coating additives sector, pointing to advanced surface protection formulations.",
-          "why": "Coating technologies and surface chemical treatments often precede changes in mechanical preparation and sanding requirements.",
-          "action": "Monitor chemical coating trends to understand how shifting surface finishes will impact pre-paint sanding requirements.",
-          "th": {
-            "title": "รายงานขนาด ส่วนแบ่ง แนวโน้ม และการวิเคราะห์การเติบโตของตลาดสารเติมแต่งสารเคลือบในจีน ปี 2029",
-            "summary": "การวิเคราะห์เชิงลึกชี้ให้เห็นถึงการขยายตัวอย่างต่อเนื่องในภาคสารเติมแต่งสารเคลือบของจีน ซึ่งนำไปสู่สูตรการปกป้องพื้นผิวขั้นสูง",
-            "why": "เทคโนโลยีสารเคลือบและการเตรียมผิวเคมีมักจะบ่งบอกถึงการเปลี่ยนแปลงในกระบวนการเตรียมผิวเชิงกลและการขัด",
-            "action": "ติดตามแนวโน้มสารเคลือบเคมีเพื่อเข้าใจผลกระทบต่อความต้องการงานขัดก่อนพ่นสี"
-          }
-        },
-        {
-          "id": "20260829-w3",
           "tag": "auto",
           "rating": "green",
-          "source": "MarketsandMarkets",
-          "date": "2026-07-10",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUXhqQk54c1g4cXhycTVMTFlJY3l2bGNZYU5hWG1zdDRYZmYwM0FaUzVXOTlCTXNCR1dabXhiLTJnMllTWFl6UWt1TE9KMkFqYmxxRUNjcC1nQlFhR3ZPSng5QVNtQnZRMEZ2cGREVGhaa0VPSTVfSkg1UEtlNER4emMyYW83SUkzSGc?oc=5",
-          "title": "EV Assembly Market Report 2026-2035 [486 Pages & 200 Tables]",
-          "summary": "Comprehensive market research details the scaling of electric vehicle assembly lines and new manufacturing footprints globally through 2035.",
-          "why": "EV production lines require specific lightweight metal and composite deburring, grinding, and polishing solutions.",
-          "action": "Identify key tier-1 and tier-2 EV component manufacturers needing specialized deburring and surface preparation abrasives.",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-08-27",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNX1Vpazd0anVpQ0Z1MlFJclBBSnBVTHR3Q283QzRkeVdkbVp1bmtDMm5JOV9HcGxHWmZyaDVqV1piaWJLZ2o0RWszWmZNT0RwSWhyVDQ1c1RubmhuYXo4X3FVeVZPWDZXa2gtUjdkbFhsdUVNWmsySTRNd3M1VUpsZzNvcVBoc3hrUlVWOUh0cDJKQVB1WHg3YzRFalp6WHNSMWdNdVkzWWNWQ2xSaFVGSVJTbU9mS3ZkSzZ1WFJlVWl1ZFRqQThR?oc=5",
+          "title": "Why modularity is the real answer to manufacturing change",
+          "summary": "Automotive manufacturers are shifting toward modular production lines to stay agile amid rapid design changes.",
+          "why": "Flexible automotive lines require adaptable surface preparation and robotic sanding solutions for varying car body parts.",
+          "action": "Explore automated and flexible abrasive setups for Tier-1 automotive parts makers.",
           "th": {
-            "title": "รายงานตลาดการประกอบรถยนต์ไฟฟ้า ปี 2026-2035 [486 หน้า และ 200 ตาราง]",
-            "summary": "การวิจัยตลาดเชิงลึกระบุถึงการขยายตัวของสายการผลิตรถยนต์ไฟฟ้าและฐานการผลิตใหม่ทั่วโลกจนถึงปี 2035",
-            "why": "สายการผลิต EV ต้องการโซลูชันการลบคม การเจียร และการขัดสำหรับโลหะน้ำหนักเบาและวัสดุคอมโพสิตโดยเฉพาะ",
-            "action": "ระบุกลุ่มผู้ผลิตชิ้นส่วน EV ระดับ Tier-1 และ Tier-2 ที่ต้องการกระดาษทรายและวัสดุขัดสำหรับงานเตรียมผิวเฉพาะทาง"
+            "title": "เหตุใดความยืดหยุ่นแบบโมดูลาร์จึงเป็นคำตอบที่แท้จริงสำหรับการเปลี่ยนแปลงการผลิต",
+            "summary": "ผู้ผลิตรถยนต์กำลังเปลี่ยนไปใช้สายการผลิตแบบโมดูลาร์เพื่อให้มีความคล่องตัวท่ามกลางการเปลี่ยนแปลงการออกแบบอย่างรวดเร็ว",
+            "why": "สายการผลิตรถยนต์ที่ยืดหยุ่นต้องการการเตรียมพื้นผิวและการขัดด้วยหุ่นยนต์ที่ปรับ 1 ได้สำหรับชิ้นส่วนตัวถังรถยนต์ที่หลากหลาย",
+            "action": "สำรวจชุดอุปกรณ์ขัดแบบอัตโนมัติและยืดหยุ่นสำหรับผู้ผลิตชิ้นส่วนยานยนต์ Tier-1"
           }
         }
       ]
