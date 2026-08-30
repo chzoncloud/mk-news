@@ -1,7 +1,89 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-08-30",
+  "updated": "2026-08-31",
   "days": [
+    {
+      "date": "2026-08-31",
+      "summary": "Today's global briefing highlights high-tech material demands, including sub-50nm semiconductor requirements driving micronized abrasive powders, alongside ceramic flap disc market expansion and low-VOC coating shifts.",
+      "directCount": 4,
+      "th": {
+        "summary": "สรุปสถานการณ์โลกวันนี้เน้นความต้องการวัสดุไฮเทค เช่น ผงขัดขนาดไมครอนสำหรับเซมิคอนดักเตอร์ การเติบโตของตลาดแผ่นเจียรผ้าทรายเซรามิก และการเปลี่ยนผ่านสู่สีเคลือบปริมาณสารอินทรีย์ระเหยต่ำ (Low-VOC)"
+      },
+      "items": [
+        {
+          "id": "20260831-w1",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-08-30",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOanZrUnUwZzBiNEhWSERHZTZzYkJOaFp2VklkeTR0VzVwQTloNlFBNC1Ma3pPU0gwYndWVE9CcXJjTV9KYlpYZm9hRGFhazVCYzhuUnZQZmpXSHN2ejlFVTdvclV6NzR0eTFPU3dTWmpCMlpnSEl6OFRoVGpqVThtQXRyUTJHdWY3dy0tWDhhOEx1Q3ctNzB2eERHQ3lMV2QzaWItS3BvQnhiYUh5V2h3Q0JXZTJpZjhQekFR?oc=5",
+          "title": "Micronized Abrasive Powders Market $2.4B by 2035 on Sub-50nm Semiconductor Demand",
+          "summary": "The micronized abrasive powders market is projected to reach $2.4 billion by 2035, significantly propelled by demands in sub-50nm semiconductor manufacturing.",
+          "why": "High-precision electronics and semiconductor manufacturing demand ultra-fine micronized powders for extreme surface finishing.",
+          "action": "Monitor high-purity micronized abrasive materials used in electronic component fabrication.",
+          "th": {
+            "title": "ตลาดผงขัดไมครอนแตะ 2.4 พันล้านดอลลาร์ในปี 2035 จากความต้องการเซมิคอนดักเตอร์ต่ำกว่า 50 นาโนเมตร",
+            "summary": "ตลาดผงขัดไมครอนคาดว่าจะเติบโตถึง 2.4 พันล้านดอลลาร์ภายในปี 2035 โดยได้รับแรงหนุนสำคัญจากอุตสาหกรรมการผลิตเซมิคอนดักเตอร์",
+            "why": "การผลิตชิ้นส่วนอิเล็กทรอนิกส์และความแม่นยำสูงต้องใช้ผงขัดละเอียดพิเศษเพื่อการขัดผิวในระดับไมโคร",
+            "action": "ติดตามวัสดุผงขัดความบริสุทธิ์สูงที่ใช้ในกระบวนการผลิตชิ้นส่วนอิเล็กทรอนิกส์"
+          }
+        },
+        {
+          "id": "20260831-w2",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "Market Research Future",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY0JpWXlQSC1LeGU2eUdGRW1zTEZ4amNoRXAyUWcxcnpWbEdzWmprSTBFM1htcllTNmQtdlRENmZ2NlhXbV9oNTlJbnJ0UjV5cENzZC1yTUdwM21YRi0wZUxBd1l6ODNDM1NxSUdQcFMwMGpCRnJuY041elNoT1RSRA?oc=5",
+          "title": "Ceramic Flap Disc Market Size, Share & Growth Report 2035 | MRFR",
+          "summary": "A new global growth report outlines the expansion of the ceramic flap disc market through 2035, driven by heavy metal fabrication needs.",
+          "why": "Ceramic grain flap discs represent high-margin, premium stock items for metal grinding and deburring applications.",
+          "action": "Ensure strong inventory and promotion of ceramic-based abrasive lines for industrial metalwork clients.",
+          "th": {
+            "title": "รายงานขนาด ส่วนแบ่ง และการเติบโตของตลาดแผ่นเจียรผ้าทรายเซรามิก ปี 2035",
+            "summary": "รายงานตลาดโลกชี้ถึงการขยายตัวของแผ่นเจียรผ้าทรายเซรามิกจนถึงปี 2035 ซึ่งขับเคลื่อนโดยงานขึ้นรูปโลหะหนัก",
+            "why": "แผ่นเจียรเซรามิกเป็นสินค้าพรีเมียมที่มีอัตรากำไรสูงสำหรับการใช้งานขัดและลบคมโลหะ",
+            "action": "รักษาระดับสินค้าคงคลังและโปรโมทสินค้ากลุ่มสารขัดเงาเซรามิกให้แก่ลูกค้ากลุ่มอุตสาหกรรมโลหะ"
+          }
+        },
+        {
+          "id": "20260831-w3",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "IndexBox",
+          "date": "2026-08-30",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb3RKbENOV1ExYzA5LVFTaGQ3ZzJOYVcxWjc2RWNwcjJxdkpGbWhqdFVRM3prV21FcmxVREN3ZUtSQWpLTnNlNUhTQmZMazBYQ3pJMlJpWTlpVGUxaVNtN0FXTlQxdk1uQjFWSmlfMF82SnpUaGFGQnBHT2p4cDRnc2diYlcwaU9XMTJiVS05SDFhVFBDZ0tWbmQydjBwUU5kZmxxOERmOVA1WXpaSEw3QmlaMk4?oc=5",
+          "title": "Acrylic Exterior Latex Coatings Market 2035: 5.8% CAGR on Low-VOC Shift",
+          "summary": "The exterior coatings market is growing at a 5.8% CAGR through 2035, heavily influenced by global regulations favoring low-VOC formulations.",
+          "why": "Surface preparation and sanding processes must adapt to changing paint and coating chemical formulations in construction and finishing.",
+          "action": "Keep track of how low-VOC coating trends affect wood and metal substrate preparation requirements.",
+          "th": {
+            "title": "ตลาดสีเคลือบอะكريลิกภายนอกปี 2035 เติบโต 5.8% จากเทรนด์ Low-VOC",
+            "summary": "ตลาดสีเคลือบภายนอกเติบโตอย่างต่อเนื่องด้วยอัตรา 5.8% ถึงปี 2035 จากกฎระเบียบที่สนับสนุนสูตรสารอินทรีย์ระเหยต่ำ (Low-VOC)",
+            "why": "กระบวนการเตรียมพื้นผิวและการขัดต้องปรับตัวให้สอดคล้องกับสูตรเคมีของสีและสารเคลือบใหม่ๆ ในงานก่อสร้างและตกแต่ง",
+            "action": "ติดตามผลกระทบของเทรนด์สี Low-VOC ที่มีต่อข้อกำหนดการเตรียมพื้นผิวไม้และโลหะ"
+          }
+        },
+        {
+          "id": "20260831-w4",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Fortune Business Insights",
+          "date": "2026-08-10",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbDdPM0VwRXE3dDlfTTJFS3BVX2FmU0ZLWVVDR2JLcWk5UjVnUmJQaDJ2N2E1Z1VkMWdIUzdnWXVrSFc3cHBLWmhSb3dodGpOTlZzejhjaFRBcm5fRi1jMzhzTV9CcFRqVVRVUVdWUWliWkdiMXdzLXpFMWY3M1doOW1hTHBaUnlnYV81YmMyLTU?oc=5",
+          "title": "Electric Vehicle Market Size, Share & Global Analysis, 2034",
+          "summary": "Global electric vehicle analysis highlights steady production scaling and assembly shifts toward regional manufacturing hubs.",
+          "why": "EV body structures, battery housings, and lightweight metals require specialized deburring and surface finishing solutions.",
+          "action": "Identify specific sanding and grinding tools needed for EV aluminum and composite lightweight components.",
+          "th": {
+            "title": "ขนาด ส่วนแบ่ง และการวิเคราะห์ตลาดรถยนต์ไฟฟ้าระดับโลก ปี 2034",
+            "summary": "การวิเคราะห์ตลาด EV โลกชี้ให้เห็นถึงการขยายตัวของการผลิตและการย้ายฐานประกอบสู่ศูนย์กลางภูมิภาค",
+            "why": "โครงสร้างตัวถังรถยนต์ไฟฟ้า ชุดแบตเตอรี่ และโลหะน้ำหนักเบา ต้องการโซลูชันการลบคมและขัดผิวที่จำเพาะเจาะจง",
+            "action": "ระบุเครื่องมือขัดและเจียรที่จำเป็นสำหรับชิ้นส่วนอะลูมิเนียมและวัสดุคอมโพสิตน้ำหนักเบาในรถยนต์ EV"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-08-30",
       "summary": "Today's briefing focuses on global manufacturing shifts, including European coatings innovations, EV battery demand surges, and structural steel supply chain adjustments. These trends highlight the ongoing integration of advanced surface finishing requirements and raw material dynamics.",
@@ -921,70 +1003,6 @@ window.WORLD_ARCHIVE = {
             "summary": "ความขัดแย้งทางภูมิรัฐศาสตร์ยังคงสร้างความปั่นป่วนในห่วงโซ่อุปทานและความผันผวนด้านต้นทุนในภาคการผลิตเหล็กทั่วโลก",
             "why": "การปรับเปลี่ยนการผลิตเหล็กส่งผลโดยตรงต่อโรงงานแปรรูปโลหะ ผู้สร้างเครื่องจักรหนัก และผู้แปรรูปเหล็กโครงสร้าง ซึ่งเป็นลูกค้ากลุ่ม B2B หลักของล้อเจียรและสายพานขัด",
             "action": "ยืดหยุ่นเรื่องราคาสินค้ากลุ่มงานเจียรโลหะและคอยติดตามความรู้สึกของตลาดแปรรูปเหล็กในท้องถิ่น"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-08-17",
-      "summary": "Today's briefing focuses on automation driving growth in abrasive cloth rolls, superhard diamond sanding belts expanding in China, and regional steel protectionism creating shifts in metal processing demand.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปข่าววันนี้เน้นเรื่องระบบอัตโนมัติที่ผลักดันการเติบโตของผ้าทรายม้วน, เข็มขัดขัดเพชรความแข็งสูงที่ขยายตัวในจีน และมาตรการปกป้องทางการค้าเหล็กระดับภูมิภาคที่สร้างการเปลี่ยนแปลงในความต้องการแปรรูปโลหะ"
-      },
-      "items": [
-        {
-          "id": "20260817-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-08-16",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUXZZSEZqNzVRV2VWbE81MzNPSVlmeWpoMFI2RUhWYktFbktWWnBuU0h5VFBTbl9haHhXX0xwU0VwMm5mRHFtNDFMZXFGR2hpRjVwZU1BUl90c0hJNnBMYm9GWnFxWUJzTGNQREI5Vl9pSE84dDB6RkkyTFNWNHN0WFRxSXFpdFBFX3VuR0YtY29BSHFjdlRsdEFXNzRnQ1REMWYzRzE0TzZ4Mi1ZX1p1cTlCMnZ0NWhaR0g0?oc=5",
-          "title": "Abrasive Cloth Rolls Market Growth Driven in Surface Finishing Through 2035",
-          "summary": "The global market for abrasive cloth rolls is expanding significantly, driven by the rapid adoption of automation in industrial surface finishing.",
-          "why": "Highlights how automated machinery is shaping the demand for continuous abrasive cloth products in modern factories.",
-          "action": "Ensure our inventory and supplier network can support automated and robotic sanding applications requiring cloth rolls.",
-          "th": {
-            "title": "ตลาดผ้าทรายม้วนเติบโตจากระบบอัตโนมัติในการขัดแต่งผิวถึงปี 2035",
-            "summary": "ตลาดโลกสำหรับผ้าทรายม้วนกำลังขยายตัวอย่างมีนัยสำคัญ ขับเคลื่อนโดยการนำระบบอัตโนมัติมาใช้อย่างรวดเร็วในการขัดแต่งผิวอุตสาหกรรม",
-            "why": "เน้นย้ำถึงวิธีที่เครื่องจักรอัตโนมัติกำลังกำหนดความต้องการผลิตภัณฑ์ผ้าทรายแบบต่อเนื่องในโรงงานสมัยใหม่",
-            "action": "ตรวจสอบให้แน่ใจว่าสินค้าคงคลังและเครือข่ายผู้จัดจำหน่ายของเราสามารถรองรับงานขัดอัตโนมัติและหุ่นยนต์ที่ต้องใช้ผ้าทรายม้วนได้"
-          }
-        },
-        {
-          "id": "20260817-w2",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "EIN Presswire",
-          "date": "2026-07-17",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQ2tzbUVzemVBLUxLMTFXbThzUk1aZEV5cDBQeE1HWmNUbW1PNzZTUXo0bnFpcjA5Yk1XRUtMOEFyakZfaXdVUTlPM3pSVno5dk5kRXUzM000ZFo5WG1mcGV4U1NzV1hLWVlpY3p6LVZtcTN4X3hWd2tDRVJoemVydnNIZFdNTjZmYk9uTGJEd0hTdTlpY3RlaGtHemZ6VWNTOEZoWk92eU1rQU5UdjFMLVdjWmV1U0w0czdncEJnWmkzYmZlRFdOVWpXMFN5RkZTRDh4bUxBdTV1WmpFLVJ1dDRJTUdmdw?oc=5",
-          "title": "Five Reputable Diamond Sanding Belts Manufacturers in China 2026: Optimizing Superhard Abrasive Machining",
-          "summary": "Chinese manufacturers are optimizing production of superhard diamond sanding belts, targeting high-performance machining sectors.",
-          "why": "Superhard abrasives like diamond belts represent the cutting edge for grinding hard metals, advanced ceramics, and specialized alloys.",
-          "action": "Monitor sourcing trends and quality standards of superhard diamond abrasive belts originating from Asian manufacturing hubs.",
-          "th": {
-            "title": "5 ผู้ผลิตสายพานขัดเพชรที่มีชื่อเสียงในจีนปี 2026: การเพิ่มประสิทธิภาพการตัดเฉือนด้วยวัสดุขัดความแข็งสูงพิเศษ",
-            "summary": "ผู้ผลิตจีนกำลังเพิ่มประสิทธิภาพการผลิตสายพานขัดเพชรความแข็งสูง โดยเจาะกลุ่มภาคการตัดเฉือนประสิทธิภาพสูง",
-            "why": "วัสดุขัดความแข็งสูงพิเศษ เช่น สายพานเพชร ถือเป็นเทคโนโลยีล้ำสมัยสำหรับการเจียรโลหะแข็ง เซรามิกขั้นสูง และโลหะผสมพิเศษ",
-            "action": "ติดตามแนวโน้มการจัดซื้อและมาตรฐานคุณภาพของสายพานขัดเพชรความแข็งสูงที่มาจากแหล่งผลิตในเอเชีย"
-          }
-        },
-        {
-          "id": "20260817-w3",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "The Guardian",
-          "date": "2025-10-08",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdjhOdzFOdlRNQ3JIYVNXcTZkNEpHTURMRmFJbk9jbEl0MGNLNUJaTDN0ZTVqLURxVWs4alVZbllfQzVXSHNZOE9UN0pSWTNjMWt4ZXFfTGp4LWIxT3NILXNYUTBId3ZHalF2QVZkX0JOQmpVd1F1ODJtTTB4SXJySkIwVFpuTlJqR3M3Z1l3c1BmM25IRERwWmFhZmY2MU1ZajI2N2hibG1PcWREaHBDVQ?oc=5",
-          "title": "'Existential threat': what do EU’s 50% steel tariffs mean for UK industry?",
-          "summary": "New trade barriers and steep tariffs in Western markets are forcing steel and metal processors to adjust supply chains and regional production costs.",
-          "why": "Tariffs and trade shifts directly impact metal fabrication volume, operational margins, and local finishing material consumption.",
-          "action": "Stay flexible with metal-industry clients who may shift production locations or face margin pressures due to tariff changes.",
-          "th": {
-            "title": "ภัยคุกคามที่มีอยู่จริง: ภาษีนำเข้าเหล็ก 50% ของ EU หมายถึงอะไรสำหรับอุตสาหกรรมสหราชอาณาจักร?",
-            "summary": "อุปสรรคทางการค้าและกำแพงภาษีที่สูงในตลาดตะวันตกกำลังบีบให้ผู้แปรรูปเหล็กและโลหะต้องปรับห่วงโซ่อุปทานและต้นทุนการผลิตระดับภูมิภาค",
-            "why": "อัตราภาษีและการเปลี่ยนแปลงทางการค้าส่งผลกระทบโดยตรงต่อปริมาณการผลิตโลหะ อัตรากำไรจากการดำเนินงาน และการใช้วัสดุขัดแต่งในท้องถิ่น",
-            "action": "รักษาความยืดหยุ่นกับลูกค้ากลุ่มอุตสาหกรรมโลหะที่อาจย้ายฐานการผลิตหรือเผชิญแรงกดดันด้านกำไรจากปัญหาภาษี"
           }
         }
       ]
