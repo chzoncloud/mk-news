@@ -4,82 +4,82 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-08-31",
-      "summary": "Today's global briefing highlights high-tech material demands, including sub-50nm semiconductor requirements driving micronized abrasive powders, alongside ceramic flap disc market expansion and low-VOC coating shifts.",
-      "directCount": 4,
+      "summary": "Today's briefing focuses on automotive OEM coating shifts, electric vehicle assembly trends, and steel industry decarbonization challenges impacting global metal fabrication.",
+      "directCount": 3,
       "th": {
-        "summary": "สรุปสถานการณ์โลกวันนี้เน้นความต้องการวัสดุไฮเทค เช่น ผงขัดขนาดไมครอนสำหรับเซมิคอนดักเตอร์ การเติบโตของตลาดแผ่นเจียรผ้าทรายเซรามิก และการเปลี่ยนผ่านสู่สีเคลือบปริมาณสารอินทรีย์ระเหยต่ำ (Low-VOC)"
+        "summary": "สรุปข่าวสารวันนี้เน้นการเปลี่ยนแปลงของสารเคลือบ OEM ยานยนต์ แนวโน้มการประกอบรถยนต์ไฟฟ้า และความท้าทายในการลดคาร์บอนของอุตสาหกรรมเหล็กที่ส่งผลต่ออุตสาหกรรมแปรรูปโลหะทั่วโลก"
       },
       "items": [
         {
           "id": "20260831-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-08-30",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOanZrUnUwZzBiNEhWSERHZTZzYkJOaFp2VklkeTR0VzVwQTloNlFBNC1Ma3pPU0gwYndWVE9CcXJjTV9KYlpYZm9hRGFhazVCYzhuUnZQZmpXSHN2ejlFVTdvclV6NzR0eTFPU3dTWmpCMlpnSEl6OFRoVGpqVThtQXRyUTJHdWY3dy0tWDhhOEx1Q3ctNzB2eERHQ3lMV2QzaWItS3BvQnhiYUh5V2h3Q0JXZTJpZjhQekFR?oc=5",
-          "title": "Micronized Abrasive Powders Market $2.4B by 2035 on Sub-50nm Semiconductor Demand",
-          "summary": "The micronized abrasive powders market is projected to reach $2.4 billion by 2035, significantly propelled by demands in sub-50nm semiconductor manufacturing.",
-          "why": "High-precision electronics and semiconductor manufacturing demand ultra-fine micronized powders for extreme surface finishing.",
-          "action": "Monitor high-purity micronized abrasive materials used in electronic component fabrication.",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Fortune Business Insights",
+          "date": "2026-08-10",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXJjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
+          "title": "Automotive OEM Coatings Market Size, Share | Growth [2034]",
+          "summary": "The automotive OEM coatings market continues its steady expansion toward 2034, driven by advanced vehicle manufacturing and aesthetic standards.",
+          "why": "Automotive manufacturing and body-shop coating lines are major end-users for surface preparation, sanding, and defect correction abrasives.",
+          "action": "Monitor automotive OEM specifications for new surface finishing requirements.",
           "th": {
-            "title": "ตลาดผงขัดไมครอนแตะ 2.4 พันล้านดอลลาร์ในปี 2035 จากความต้องการเซมิคอนดักเตอร์ต่ำกว่า 50 นาโนเมตร",
-            "summary": "ตลาดผงขัดไมครอนคาดว่าจะเติบโตถึง 2.4 พันล้านดอลลาร์ภายในปี 2035 โดยได้รับแรงหนุนสำคัญจากอุตสาหกรรมการผลิตเซมิคอนดักเตอร์",
-            "why": "การผลิตชิ้นส่วนอิเล็กทรอนิกส์และความแม่นยำสูงต้องใช้ผงขัดละเอียดพิเศษเพื่อการขัดผิวในระดับไมโคร",
-            "action": "ติดตามวัสดุผงขัดความบริสุทธิ์สูงที่ใช้ในกระบวนการผลิตชิ้นส่วนอิเล็กทรอนิกส์"
+            "title": "ขนาดส่วนแบ่งตลาดสารเคลือบ OEM ยานยนต์และการเติบโตถึงปี 2034",
+            "summary": "ตลาดสารเคลือบ OEM สำหรับยานยนต์ยังคงขยายตัวอย่างต่อเนื่องถึงปี 2034 ขับเคลื่อนด้วยการผลิตยานยนต์ขั้นสูงและมาตรฐานความสวยงาม",
+            "why": "สายการผลิตยานยนต์และอู่พ่นสีรถยนต์เป็นผู้ใช้รายใหญ่สำหรับผลิตภัณฑ์กระดาษทราย ขัดเตรียมพื้นผิว และแก้ไขตำหนิ",
+            "action": "ติดตามข้อกำหนดของ OEM ยานยนต์สำหรับความต้องการขัดผิวงานรูปแบบใหม่ๆ"
           }
         },
         {
           "id": "20260831-w2",
-          "tag": "abrasive",
+          "tag": "steel",
           "rating": "green",
-          "source": "Market Research Future",
-          "date": "2026-08-24",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY0JpWXlQSC1LeGU2eUdGRW1zTEZ4amNoRXAyUWcxcnpWbEdzWmprSTBFM1htcllTNmQtdlRENmZ2NlhXbV9oNTlJbnJ0UjV5cENzZC1yTUdwM21YRi0wZUxBd1l6ODNDM1NxSUdQcFMwMGpCRnJuY041elNoT1RSRA?oc=5",
-          "title": "Ceramic Flap Disc Market Size, Share & Growth Report 2035 | MRFR",
-          "summary": "A new global growth report outlines the expansion of the ceramic flap disc market through 2035, driven by heavy metal fabrication needs.",
-          "why": "Ceramic grain flap discs represent high-margin, premium stock items for metal grinding and deburring applications.",
-          "action": "Ensure strong inventory and promotion of ceramic-based abrasive lines for industrial metalwork clients.",
+          "source": "Recycling International",
+          "date": "2026-05-06",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUGx0eVkxRzJXY2ZfWGV0VWstUVozcnFnRjRpQnEydThVWTdhdno0NEhVNVFLYzRIal85T0h4b0hqNjNBclVpY1lteGZDWFZSdGhhcG9LVlhYN3ZucHRDOWFvOXFkTjhYYjVibTNsM3Y5ZVFjeFhoQW13anV4RE56emVzQUFESDlWRnB4LVpuSFNEb1FoOXRvNU9KY1pfYmxEYlA3RUhqQzY0RDMzSHF1dHE5U0w?oc=5",
+          "title": "Conflicts’ ‘serious’ impact on global steel industry",
+          "summary": "Geopolitical conflicts are causing severe disruptions in the global steel supply chain, impacting production and material availability.",
+          "why": "Steel is the primary metal substrate processed by our industrial grinding, deburring, and cutting abrasives.",
+          "action": "Diversify our metal-industry customer segments to hedge against regional steel supply volatility.",
           "th": {
-            "title": "รายงานขนาด ส่วนแบ่ง และการเติบโตของตลาดแผ่นเจียรผ้าทรายเซรามิก ปี 2035",
-            "summary": "รายงานตลาดโลกชี้ถึงการขยายตัวของแผ่นเจียรผ้าทรายเซรามิกจนถึงปี 2035 ซึ่งขับเคลื่อนโดยงานขึ้นรูปโลหะหนัก",
-            "why": "แผ่นเจียรเซรามิกเป็นสินค้าพรีเมียมที่มีอัตรากำไรสูงสำหรับการใช้งานขัดและลบคมโลหะ",
-            "action": "รักษาระดับสินค้าคงคลังและโปรโมทสินค้ากลุ่มสารขัดเงาเซรามิกให้แก่ลูกค้ากลุ่มอุตสาหกรรมโลหะ"
+            "title": "ผลกระทบที่รุนแรงของความขัดแย้งที่มีต่ออุตสาหกรรมเหล็กโลก",
+            "summary": "ความขัดแย้งทางภูมิรัฐศาสตร์กำลังสร้างความปั่นป่วนอย่างรุนแรงในห่วงโซ่อุปทานเหล็กทั่วโลก ส่งผลกระทบต่อการผลิตและความพร้อมของวัสดุ",
+            "why": "เหล็กเป็นวัสดุหลักที่ผ่านกระบวนการขัด ลบคม และตัดแต่งด้วยผลิตภัณฑ์ abrasive ของเรา",
+            "action": "กระจายความเสี่ยงฐานลูกค้าในกลุ่มอุตสาหกรรมโลหะเพื่อรับมือกับความผันผวนของอุปทานเหล็ก"
           }
         },
         {
           "id": "20260831-w3",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "IndexBox",
-          "date": "2026-08-30",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb3RKbENOV1ExYzA5LVFTaGQ3ZzJOYVcxWjc2RWNwcjJxdkpGbWhqdFVRM3prV21FcmxVREN3ZUtSQWpLTnNlNUhTQmZMazBYQ3pJMlJpWTlpVGUxaVNtN0FXTlQxdk1uQjFWSmlfMF82SnpUaGFGQnBHT2p4cDRnc2diYlcwaU9XMTJiVS05SDFhVFBDZ0tWbmQydjBwUU5kZmxxOERmOVA1WXpaSEw3QmlaMk4?oc=5",
-          "title": "Acrylic Exterior Latex Coatings Market 2035: 5.8% CAGR on Low-VOC Shift",
-          "summary": "The exterior coatings market is growing at a 5.8% CAGR through 2035, heavily influenced by global regulations favoring low-VOC formulations.",
-          "why": "Surface preparation and sanding processes must adapt to changing paint and coating chemical formulations in construction and finishing.",
-          "action": "Keep track of how low-VOC coating trends affect wood and metal substrate preparation requirements.",
+          "tag": "steel",
+          "rating": "green",
+          "source": "McKinsey & Company",
+          "date": "2024-12-19",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUmZkRWlZbWw2NWU2S1hPM1pjSjRIekR0eHpxd1JMcFBySUZ3TzRPVjRLcVp5M2prR0R5a0l4elJKaVFucm13ZXU3MHQ0Tm1UNjVLRmpGc3hvOXpJbzBaaUV1UjlkcktsRDFhb3R3OHBpUGxCS1VzQjVqVWVOSlJTYmlEZk12eGNRc0xfMFpBV2UxQllQN256Z1J0UVNPdmwzeVljVzRVYXlBSkE4ZlJNdDF5MGdoX09JU0szcWJUUXBhcXBodHc?oc=5",
+          "title": "Green-steel hubs: A pathway to decarbonize the steel industry",
+          "summary": "The transition toward green-steel hubs is reshaping how mills produce sustainable steel to meet global decarbonization targets.",
+          "why": "New green steel grades and surface characteristics may require adjusted abrasive hardness and bonding technologies for optimal grinding.",
+          "action": "Keep in touch with metal fabricators transitioning to sustainable steel to understand their changing finishing challenges.",
           "th": {
-            "title": "ตลาดสีเคลือบอะكريลิกภายนอกปี 2035 เติบโต 5.8% จากเทรนด์ Low-VOC",
-            "summary": "ตลาดสีเคลือบภายนอกเติบโตอย่างต่อเนื่องด้วยอัตรา 5.8% ถึงปี 2035 จากกฎระเบียบที่สนับสนุนสูตรสารอินทรีย์ระเหยต่ำ (Low-VOC)",
-            "why": "กระบวนการเตรียมพื้นผิวและการขัดต้องปรับตัวให้สอดคล้องกับสูตรเคมีของสีและสารเคลือบใหม่ๆ ในงานก่อสร้างและตกแต่ง",
-            "action": "ติดตามผลกระทบของเทรนด์สี Low-VOC ที่มีต่อข้อกำหนดการเตรียมพื้นผิวไม้และโลหะ"
+            "title": "ศูนย์กลางเหล็กสีเขียว: แนวทางในการลดคาร์บอนของอุตสาหกรรมเหล็ก",
+            "summary": "การเปลี่ยนผ่านสู่ศูนย์กลางเหล็กสีเขียว (Green-steel) กำลังปรับเปลี่ยนวิธีการผลิตเหล็กที่ยั่งยืนของโรงงานเพื่อบรรลุเป้าหมายการลดคาร์บอนระดับโลก",
+            "why": "เกรดเหล็กสีเขียวใหม่และลักษณะพื้นผิวอาจต้องปรับความแข็งของหินเจียรและเทคโนโลยีสารยึดเกาะเพื่อให้ได้ประสิทธิภาพการขัดที่ดีที่สุด",
+            "action": "ติดต่อใกล้ชิดกับผู้แปรรูปโลหะที่เปลี่ยนมาใช้เหล็กยั่งยืน เพื่อเข้าใจปัญหาการตกแต่งผิวที่เปลี่ยนไป"
           }
         },
         {
           "id": "20260831-w4",
           "tag": "auto",
           "rating": "amber",
-          "source": "Fortune Business Insights",
-          "date": "2026-08-10",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbDdPM0VwRXE3dDlfTTJFS3BVX2FmU0ZLWVVDR2JLcWk5UjVnUmJQaDJ2N2E1Z1VkMWdIUzdnWXVrSFc3cHBLWmhSb3dodGpOTlZzejhjaFRBcm5fRi1jMzhzTV9CcFRqVVRVUVdWUWliWkdiMXdzLXpFMWY3M1doOW1hTHBaUnlnYV81YmMyLTU?oc=5",
-          "title": "Electric Vehicle Market Size, Share & Global Analysis, 2034",
-          "summary": "Global electric vehicle analysis highlights steady production scaling and assembly shifts toward regional manufacturing hubs.",
-          "why": "EV body structures, battery housings, and lightweight metals require specialized deburring and surface finishing solutions.",
-          "action": "Identify specific sanding and grinding tools needed for EV aluminum and composite lightweight components.",
+          "source": "MarketsandMarkets",
+          "date": "2026-07-10",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUXhqQk54c1g4cXhycTVMTFlJY3l2bGNZYU5hWG1zdDRYZmYwM0FaUzVXOTlCTXNCR1dabXhiLTJnMllTWFl6UWt1TE9KMkFqYmxxRUNjcC1nQlFhR3ZPSng5QVNtQnZRMEZ2cGREVGhaa0VPSTVfSkg1UEtlNER4emMyYW83SUkzSGc?oc=5",
+          "title": "EV Assembly Market Report 2026-2035",
+          "summary": "The electric vehicle assembly sector is scaling rapidly, requiring specialized factory setups and lightweight structural components.",
+          "why": "EV manufacturing involves unique lightweight metals (aluminum, composites) that require precise surface preparation and deburring solutions.",
+          "action": "Explore specialized abrasives tailored for aluminum and composite finishing used in EV assembly lines.",
           "th": {
-            "title": "ขนาด ส่วนแบ่ง และการวิเคราะห์ตลาดรถยนต์ไฟฟ้าระดับโลก ปี 2034",
-            "summary": "การวิเคราะห์ตลาด EV โลกชี้ให้เห็นถึงการขยายตัวของการผลิตและการย้ายฐานประกอบสู่ศูนย์กลางภูมิภาค",
-            "why": "โครงสร้างตัวถังรถยนต์ไฟฟ้า ชุดแบตเตอรี่ และโลหะน้ำหนักเบา ต้องการโซลูชันการลบคมและขัดผิวที่จำเพาะเจาะจง",
-            "action": "ระบุเครื่องมือขัดและเจียรที่จำเป็นสำหรับชิ้นส่วนอะลูมิเนียมและวัสดุคอมโพสิตน้ำหนักเบาในรถยนต์ EV"
+            "title": "รายงานตลาดการประกอบรถยนต์ไฟฟ้า ปี 2026-2035",
+            "summary": "ภาคส่วนการประกอบรถยนต์ไฟฟ้ากำลังเติบโตอย่างรวดเร็ว ซึ่งต้องอาศัยการตั้งค่าโรงงานเฉพาะทางและชิ้นส่วนโครงสร้างที่มีน้ำหนักเบา",
+            "why": "การผลิต EV เกี่ยวข้องกับโลหะน้ำหนักเบาพิเศษ (อลูมิเนียม วัสดุคอมโพสิต) ที่ต้องการโซลูชันการเตรียมพื้นผิวและการลบคมที่แม่นยำ",
+            "action": "สำรวจผลิตภัณฑ์ขัดผิวเฉพาะทางสำหรับอลูมิเนียมและคอมโพสิตที่ใช้ในสายการประกอบ EV"
           }
         }
       ]
