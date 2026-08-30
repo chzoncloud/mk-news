@@ -4,82 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-08-30",
-      "summary": "Today's briefing highlights niche growth in ceramic flap discs and wood sanding machinery, alongside global steel supply pressures and supply chain challenges impacting metal manufacturing.",
-      "directCount": 4,
+      "summary": "Today's briefing focuses on global manufacturing shifts, including European coatings innovations, EV battery demand surges, and structural steel supply chain adjustments. These trends highlight the ongoing integration of advanced surface finishing requirements and raw material dynamics.",
+      "directCount": 3,
       "th": {
-        "summary": "สรุปรายงานวันนี้เน้นการเติบโตของตลาดแผ่นขัดผ้าทรายเซรามิกและเครื่องขัดไม้ รวมถึงแรงกดดันด้านอุปทานเหล็กและห่วงโซ่อุปทานที่ส่งผลต่ออุตสาหกรรมการผลิตโลหะทั่วโลก"
+        "summary": "สรุปประเด็นข่าววันนี้เน้นการเปลี่ยนแปลงในภาคการผลิตระดับโลก นวัตกรรมสีเคลือบในยุโรป การเติบโตของตลาดแบตเตอรี่ EV และการปรับตัวของห่วงโซ่อุปทานเหล็ก ซึ่งล้วนสะท้อนถึงความต้องการงานขัดผิวและทิศทางวัตถุดิบที่เกี่ยวข้อง"
       },
       "items": [
         {
           "id": "20260830-w1",
-          "tag": "abrasive",
+          "tag": "coating",
           "rating": "green",
-          "source": "Market Research Future",
-          "date": "2026-08-24",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY0JpWXlQSC1LeGU2eUdGRW1zTEZ4amNoRXAyUWcxcnpWbEdzWmprSTBFM1htcllTNmQtdlRENmZ2NlhXbV9oNTlJbnJ0UjV5cENzZC1yTUdwM21YRi0wZUxBd1l6ODNDM1NxSUdQcFMwMGpCRnJuY041elNoT1RSRA?oc=5",
-          "title": "Ceramic Flap Disc Market Size, Share & Growth Report 2035 | MRFR",
-          "summary": "The global ceramic flap disc market is expanding steadily with a strong outlook through 2035, driven by demands for high-performance metal removal tools.",
-          "why": "Ceramic abrasives represent high-margin, premium product lines that deliver faster cuts and longer lifespan compared to standard aluminum oxide.",
-          "action": "Evaluate our current inventory and tier-1 positioning for ceramic flap discs to capture higher-end metal fabrication demand.",
+          "source": "European Coatings",
+          "date": "2026-06-04",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUDgzbkl5cWdzSnJwcGViRm5mVWNYTWllWVF6RENXM2dRbG84cTh6bFRXckpiYVZkMWRWZk5OWGZhTjZCdm9zTUpTLWJlUmhLR1BnUmhIUWJ3VUVSdW5WQ05tZjVnTmQ3Tld4RG5rbVdKNEJrblFzNlE0NFZyRWw3SEZ1RWdES2pzYndyWnZPOVgyRzB4YTBGT0NOZDU4ZDdnejhFRHpMYkQ2T1ZX?oc=5",
+          "title": "ETCC 2026 in Prague: A hub for coatings innovation and sustainability",
+          "summary": "The European Technical Coatings Congress in Prague highlighted cutting-edge innovations and sustainability practices driving the future of surface coatings.",
+          "why": "New coating technologies often require advanced surface preparation, specific sanding grits, and specialized finishing abrasives before application.",
+          "action": "Monitor European coating formulation trends to anticipate upcoming requirements for substrate prep tools.",
           "th": {
-            "title": "รายงานขนาด ส่วนแบ่ง และการเติบโตของตลาดแผ่นขัดผ้าทรายเซรามิก ปี 2035",
-            "summary": "ตลาดแผ่นขัดผ้าทรายเซรามิกทั่วโลกกำลังขยายตัวอย่างต่อเนื่องด้วยแนวโน้มที่ดีจนถึงปี 2035 ขับเคลื่อนโดยความต้องการเครื่องมือถอดเนื้อโลหะที่มีประสิทธิภาพสูง",
-            "why": "วัสดุขัดประเภทเซรามิกคือกลุ่มผลิตภัณฑ์พรีเมียมที่มีกำไรสูง ซึ่งช่วยให้ตัดชิ้นงานได้เร็วขึ้นและมีอายุการใช้งานยาวนานกว่าอลูมิเนียมออกไซด์ทั่วไป",
-            "action": "ประเมินสินค้าคงคลังปัจจุบันและตำแหน่งผลิตภัณฑ์ระดับพรีเมียมของเราสำหรับแผ่นขัดเซรามิก เพื่อรองรับความต้องการงานประกอบโลหะระดับบน"
+            "title": "งาน ETCC 2026 ที่กรุงปราก: ศูนย์กลางนวัตกรรมสีเคลือบและความยั่งยืน",
+            "summary": "การประชุมเทคโนโลยีสีเคลือบแห่งยุโรปที่กรุงปรากเน้นย้ำนวัตกรรมล้ำสมัยและความยั่งยืน ซึ่งขับเคลื่อนอนาคตของอุตสาหกรรมเคลือบผิว",
+            "why": "เทคโนโลยีการเคลือบใหม่ๆ มักต้องอาศัยการเตรียมพื้นผิวที่แม่นยำ กระดาษทรายเบอร์พิเศษ และวัสดุขัดผิวจำเพาะก่อนพ่นสี",
+            "action": "ติดตามแนวโน้มสูตรสีเคลือบใหม่ในยุโรปเพื่อเตรียมรับมือกับความต้องการเครื่องมือเตรียมพื้นผิวที่เปลี่ยนไป"
           }
         },
         {
           "id": "20260830-w2",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "Market.us",
-          "date": "2026-01-22",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ISWl4S1FIYTlibDJlR001VnBXdy1xQ1ZobnhYTzBkc3pWOEdrOFQ4VWl2VzA5NjNDcGp3VEU3ZGQ2R0VFdXQwRmZxVEVpOTE4dVl4RlF4WlBHX3pXQ3QtTkJQWQ?oc=5",
-          "title": "Wood Sanding Machine Market Size, Share | CAGR of 4.3%.",
-          "summary": "The wood sanding machine market is projected to grow at a steady CAGR of 4.3%, reflecting continued machinery investments in furniture and woodworking sectors.",
-          "why": "Growth in wood sanding machinery directly correlates with higher output and consistent demand for wide belt and specialized wood sandpaper.",
-          "action": "Strengthen relationships with woodworking machinery distributors to bundle abrasives with new machine installations.",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Precedence Research",
+          "date": "2026-08-19",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wQ2FEN3RyXzRzQ3ZlNDNxTjBreVFWRllTRHhIV1p2S0FjN2lrYi1TSGV0bHdxby1HWXVBZjhnaFNWeXB1SVRyTjhOckpjSmZQUEYwMmxNVXhIQmpRU1RPUGk0OHpzRC1SOUlmNTNqM05LUTVU?oc=5",
+          "title": "Electric Vehicle Battery Market Size to Surpass USD 878.91 Billion by 2035",
+          "summary": "The global electric vehicle battery market continues massive expansion, projected to reach unprecedented scale by 2035.",
+          "why": "EV battery manufacturing involves extensive metal fabrication, welding cleanup, and precision component deburring where specialized abrasives are essential.",
+          "action": "Explore abrasive product lines suited for EV battery casing prep and lightweight metal components.",
           "th": {
-            "title": "ขนาดและส่วนแบ่งตลาดเครื่องขัดไม้ เติบโตที่ CAGR 4.3%",
-            "summary": "ตลาดเครื่องขัดไม้คาดว่าจะเติบโตอย่างมั่นคงด้วยอัตรา CAGR 4.3% สะท้อนถึงการลงทุนอย่างต่อเนื่องในเครื่องจักรสำหรับอุตสาหกรรมเฟอร์นิเจอร์และงานไม้",
-            "why": "การเติบโตของเครื่องขัดไม้นำไปสู่ผลผลิตที่สูงขึ้นและความต้องการกระดาษทรายสายพานกว้างหรือกระดาษทรายไม้เฉพาะทางที่ต่อเนื่อง",
-            "action": "เสริมสร้างความสัมพันธ์กับผู้จัดจำหน่ายเครื่องจักรงานไม้ เพื่อเสนอขายผลิตภัณฑ์กระดาษทรายร่วมกับการติดตั้งเครื่องจักรใหม่"
+            "title": "ตลาดแบตเตอรี่รถยนต์ไฟฟ้ามีมูลค่าทะยานเกิน 8.78 แสนล้านดอลลาร์ภายในปี 2035",
+            "summary": "ตลาดแบตเตอรี่ EV ทั่วโลกยังคงขยายตัวอย่างต่อเนื่อง และคาดว่าจะเติบโตในสเกลที่สูงมากภายในปี 2035",
+            "why": "การผลิตแบตเตอรี่ EV เกี่ยวข้องกับการขึ้นรูปโลหะ การทำความสะอาดรอยเชื่อม และการลบคมชิ้นส่วนความแม่นยำสูง ซึ่งจำเป็นต้องใช้ผลิตภัณฑ์ขัดจำเพาะ",
+            "action": "สำรวจกลุ่มผลิตภัณฑ์กระดาษทรายและใบเจียรที่เหมาะสำหรับการเตรียมผิวเคสแบตเตอรี่ EV และชิ้นส่วนโลหะน้ำหนักเบา"
           }
         },
         {
           "id": "20260830-w3",
           "tag": "steel",
           "rating": "amber",
-          "source": "Recycling International",
-          "date": "2026-05-06",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUGx0eVkxRzJXY2ZfWGV0VWstUVozcnFnRjRpQnEydThVWTdhdno0NEhVNVFLYzRIal85T0h4b0hqNjNBclVpY1lteGZDWFZSdGhhcG9LVlhYN3ZucHRDOWFvOXFkTjhYYjVibTNsM3Y5ZVFjeFhoQW13anV4RE56emVzQUFESDlWRnB4LVpuSFNEb1FoOXRvNU9KY1pfYmxEYlA3RUhqQzY0RDMzSHF1dHE5U0w?oc=5",
-          "title": "Conflicts’ ‘serious’ impact on global steel industry",
-          "summary": "Geopolitical conflicts continue to create severe disruptions across global steel supply chains, affecting raw material availability and manufacturing output.",
-          "why": "Steel production volume dictates local metal fabrication activity, which directly drives consumption of grinding wheels, cutting discs, and metal abrasives.",
-          "action": "Monitor steel availability and local fabricator operating capacity to anticipate shifts in abrasive re-order cycles.",
+          "source": "S&P Global",
+          "date": "2026-01-12",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
+          "title": "Global steel industry battles surplus supply, protectionism",
+          "summary": "The global steel sector faces ongoing challenges from overcapacity, fluctuating supply surpluses, and rising trade protectionism.",
+          "why": "Steel production volume and mill operating rates directly dictate industrial demand for heavy-duty grinding wheels, belts, and cut-off discs.",
+          "action": "Keep an eye on regional steel output shifts to forecast B2B abrasive demand fluctuations in heavy industries.",
           "th": {
-            "title": "ผลกระทบที่รุนแรงของความขัดแย้งต่ออุตสาหกรรมเหล็กโลก",
-            "summary": "ความขัดแย้งทางภูมิรัฐศาสตร์ยังคงสร้างความปั่นป่วนอย่างรุนแรงต่อห่วงโซ่อุปทานเหล็กทั่วโลก ส่งผลต่อความพร้อมของวัตถุดิบและปริมาณการผลิต",
-            "why": "ปริมาณการผลิตเหล็กเป็นตัวกำหนดกิจกรรมการแปรรูปโลหะในท้องถิ่น ซึ่งส่งผลโดยตรงต่อการบริโภคใบเจียร ใบตัด และกระดาษทรายโลหะ",
-            "action": "ติดตามความพร้อมของเหล็กและกำลังการผลิตของโรงงานแปรรูปในท้องถิ่น เพื่อคาดการณ์ความเปลี่ยนแปลงในรอบการสั่งซื้อกระดาษทราย"
-          }
-        },
-        {
-          "id": "20260830-w4",
-          "tag": "steel",
-          "rating": "white",
-          "source": "The World Economic Forum",
-          "date": "2026-04-21",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeFBmZTNpZDhjN1lHNlBlU0duZ3ZQWW9uanI0SWs3SDFVazlpbVVXMklqSTVjbDloUEI4NW1Ca2dGckgzanh5UlRfX1F5QlVfQWFZNGdSS1h5bHNIUElCTk9LeUktaGd2VWxwRDAyMGJmQ1F6ZHVEOURKVjF3MVdHWGd0OG4zYTNtUk0yZkp0QXN4R3p5LUEtWkFzODBVdUdlTVpLNTh3ZjQtTGJuanlfS0Y5dWVLVEo1WkEybk96dVY?oc=5",
-          "title": "How the Iran war is disrupting India's steel production amid fuel shortages and rising costs",
-          "summary": "Regional conflicts are driving up fuel shortages and rising operational costs, directly impacting key steel-producing nations like India.",
-          "why": "Global cost inflation in metal production can squeeze factory margins, making buyers more cost-sensitive when purchasing consumables like abrasives.",
-          "action": "Keep an eye on cost pressures affecting import markets and ensure our product pricing strategy remains competitive yet profitable.",
-          "th": {
-            "title": "สงครามอิหร่านส่งผลกระทบต่อการผลิตเหล็กของอินเดียท่ามกลางปัญหาขาดแคลนเชื้อเพลิงและต้นทุนที่พุ่งสูง",
-            "summary": "ความขัดแย้งในภูมิภาคผลักดันให้เกิดการขาดแคลนเชื้อเพลิงและต้นทุนการดำเนินงานที่สูงขึ้น ซึ่งกระทบโดยตรงต่อประเทศผู้ผลิตเหล็กรายสำคัญอย่างอินเดีย",
-            "why": "ภาวะเงินเฟ้อด้านต้นทุนการผลิตโลหะทั่วโลกอาจบีบอัตรากำไรของโรงงาน ทำให้ลูกค้ามีความอ่อนไหวต่อราคามากขึ้นเมื่อซื้อวัสดุสิ้นเปลืองอย่างกระดาษทราย",
-            "action": "จับตาดูแรงกดดันด้านต้นทุนที่กระทบตลาดนำเข้า และรักษาความยืดหยุ่นในกลยุทธ์การตั้งราคาให้แข่งขันได้และยังมีกำไร"
+            "title": "อุตสาหกรรมเหล็กโลกเผชิญศึกหนักภาวะล้นตลาดและมาตรการกีดกันทางการค้า",
+            "summary": "ภาคส่วนเหล็กทั่วโลกกำลังเผชิญกับความท้าทายจากกำลังการผลิตส่วนเกิน ความผันผวนของอุปทาน และลัทธิคุ้มครองทางการค้าที่เพิ่มขึ้น",
+            "why": "ปริมาณการผลิตเหล็กและอัตราการเดินเครื่องของโรงงานส่งผลโดยตรงต่อความต้องการล้อเจียร สายพานขัด และใบตัดในภาคอุตสาหกรรมหนัก",
+            "action": "ติดตามการเปลี่ยนแปลงของปริมาณการผลิตเหล็กในระดับภูมิภาคเพื่อคาดการณ์ความต้องการผลิตภัณฑ์ขัดในอุตสาหกรรมหนัก"
           }
         }
       ]
