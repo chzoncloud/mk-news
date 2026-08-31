@@ -1,7 +1,89 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-08-31",
+  "updated": "2026-09-01",
   "days": [
+    {
+      "date": "2026-09-01",
+      "summary": "Today's global trends highlight precision finishing demands in abrasive lapping films, growing automotive OEM coating expansions, and structural supply adjustments in the steel industry. These signals indicate continuous growth in high-tech electronics, metal fabrication, and surface prep requirements.",
+      "directCount": 3,
+      "th": {
+        "summary": "แนวโน้มโลกวันนี้เน้นย้ำถึงความต้องการการขัดแต่งความละเอียดสูงในฟิล์มแล็ปปิ้ง การขยายตัวของตลาดเคลือบสีรถยนต์ OEM และการปรับตัวด้านอุปทานในอุตสาหกรรมเหล็ก สัญญาณเหล่านี้บ่งชี้ถึงการเติบโตอย่างต่อเนื่องในอุตสาหกรรมอิเล็กทรอนิกส์ไฮเทค งานโลหะ และความต้องการเตรียมพื้นผิว"
+      },
+      "items": [
+        {
+          "id": "20260901-w1",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOREZURUtNaklQRGZ4by1fNWNRRTc3MUdUdVVyeW5IR0xja3BuMGFlQmtaQmZHMnZ4ZnNMSDJUbVpoYmlCVndBRG5QZGpFWF9PS0NySGw1dWE4d3NXRmpVYTMzRElVeFVERHpIcGxaQ0ZjajVBRWlsZG5fd1NFVXBEUC1PYy00XzhVNEVISUFUa0JZZkwyeldxQ1hneUFNX0JJQ0puY2RBaWVubXlFZzgxVE05d2d5c0lzUXFpX1EySQ?oc=5",
+          "title": "Abrasive Lapping Film Market Forecast 2035: Precision Finishing Demand Drives Growth",
+          "summary": "The global abrasive lapping film market is projected to expand steadily through 2035, driven by rising demand for ultra-precision surface finishing in advanced manufacturing.",
+          "why": "Highlights the growing market shift towards ultra-fine, precision surface finishing products rather than just standard coarse abrasives.",
+          "action": "Monitor high-precision film and micro-finishing product segments for future stock expansion.",
+          "th": {
+            "title": "ตลาดฟิล์มขัดแล็ปปิ้งปี 2035: ความต้องการงานขัดผิวความละเอียดสูงขับเคลื่อนการเติบโต",
+            "summary": "ตลาดฟิล์มขัดแล็ปปิ้งทั่วโลกคาดว่าจะขยายตัวอย่างต่อเนื่องจนถึงปี 2035 ขับเคลื่อนโดยความต้องการการขัดผิวความละเอียดสูงเป็นพิเศษในการผลิตขั้นสูง",
+            "why": "เน้นย้ำถึงการเปลี่ยนแปลงของตลาดไปสู่ผลิตภัณฑ์ขัดผิวความละเอียดสูงพิเศษ แทนที่จะเป็นเพียงวัสดุกัดหยาบทั่วไป",
+            "action": "ติดตามกลุ่มผลิตภัณฑ์ฟิล์มความแม่นยำสูงและผลิตภัณฑ์ขัดละเอียดสำหรับการขยายสต็อกสินค้าในอนาคต"
+          }
+        },
+        {
+          "id": "20260901-w2",
+          "tag": "coating",
+          "rating": "green",
+          "source": "Fortune Business Insights",
+          "date": "2026-08-10",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
+          "title": "Automotive OEM Coatings Market Size, Share | Growth [2034]",
+          "summary": "The automotive OEM coatings market continues its long-term growth trajectory as vehicle production scales globally and manufacturing standards demand better surface durability.",
+          "why": "Automotive manufacturing requires extensive surface preparation, priming, and sanding before and after coating application.",
+          "action": "Keep close ties with automotive body shops and Tier-1 suppliers needing consistent surface prep abrasives.",
+          "th": {
+            "title": "ขนาดและส่วนแบ่งตลาดสารเคลือบ OEM ยานยนต์ | การเติบโต [2034]",
+            "summary": "ตลาดสารเคลือบ OEM ยานยนต์ยังคงเติบโตในระยะยาวตามการผลิตยานยนต์ทั่วโลกที่เพิ่มขึ้น และมาตรฐานการผลิตที่ต้องการความทนทานของพื้นผิวที่ดีขึ้น",
+            "why": "กระบวนการผลิตยานยนต์ต้องอาศัยการเตรียมพื้นผิว การรองพื้น และการขัดกระดาษทรายอย่างกว้างขวางทั้งก่อนและหลังการพ่นเคลือบ",
+            "action": "รักษาความสัมพันธ์ที่ใกล้ชิดกับอู่ซ่อมสีรถยนต์และซัพพลายเออร์ Tier-1 ที่ต้องการวัสดุกัดกระดาษทรายเตรียมพื้นผิวอย่างต่อเนื่อง"
+          }
+        },
+        {
+          "id": "20260901-w3",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Fortune Business Insights",
+          "date": "2026-08-10",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbDdPM0VwRXE3dDlfTTJFS3BVX2FmU0ZLWVVDR2JLcWk5UjVnUmJQaDJ2N2E1Z1VkMWdIUzdnWXVrSFc3cHBLWmhSb3dodGpOTlZzejhjaFRBcm5fRi1jMzhzTV9CcFRqVVRVUVdWUWliWkdiMXdzLXpFMWY3M1doOW1hTHBaUnlnYV81YmMyLTU?oc=5",
+          "title": "Electric Vehicle Market Size, Share & Global Analysis, 2034",
+          "summary": "Global electric vehicle adoption and manufacturing investments continue to expand robustly towards 2034, reshaping global assembly lines and lightweight body designs.",
+          "why": "EV production involves different body materials (aluminum, composites) that require specialized grinding and deburring solutions.",
+          "action": "Prepare product lines suitable for lightweight metal and composite material finishing used in EV manufacturing.",
+          "th": {
+            "title": "ขนาด ส่วนแบ่ง และการวิเคราะห์ตลาดรถยนต์ไฟฟ้าทั่วโลก 2034",
+            "summary": "การใช้งานและการลงทุนในการผลิตรถยนต์ไฟฟ้าทั่วโลกยังคงขยายตัวอย่างแข็งแกร่งจนถึงปี 2034 ซึ่งช่วยปรับเปลี่ยนสายการผลิตและดีไซน์ตัวถังที่มีน้ำหนักเบา",
+            "why": "การผลิต EV เกี่ยวข้องกับวัสดุตัวถังที่แตกต่างกัน (อะลูมิเนียม วัสดุผสม) ซึ่งต้องใช้โซลูชันการเจียรและลบคมที่จำเพาะ",
+            "action": "เตรียมกลุ่มผลิตภัณฑ์ที่เหมาะสมสำหรับการขัดแต่งวัสดุโลหะน้ำหนักเบาและคอมโพสิตที่ใช้ในการผลิต EV"
+          }
+        },
+        {
+          "id": "20260901-w4",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "flow – Deutsche Bank",
+          "date": "2026-02-19",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQUZBdTZILWVOQkpBY3lQVGNWWXM5R3dtWTUxUGlub2dPN1ppcTZZZldPdko4YnpodTljc1VEdjZFNzB3Yk11YW9SaWlSRDNkMzZ2blNzN2V6S0VTYTM5N3ZxSE1ERzRKc1VUcTRBbUNFQW1jT1I4SklGYkhicTZSbnZ3?oc=5",
+          "title": "Commodities Outlook 2026 – where next?",
+          "summary": "Global commodity markets face ongoing price volatility and supply chain shifts in 2026, directly impacting heavy manufacturing input costs including metals and minerals.",
+          "why": "Fluctuations in metal input costs affect the operational budgets of our industrial steel and metal fabrication customers.",
+          "action": "Advise industrial clients to lock in abrasive supply contracts or stock up before potential raw material cost spikes.",
+          "th": {
+            "title": "แนวโน้มสินค้าโภคภัณฑ์ปี 2026 - ทิศทางต่อไปคืออะไร?",
+            "summary": "ตลาดสินค้าโภคภัณฑ์ทั่วโลกเผชิญกับความผันผวนของราคาและความเปลี่ยนแปลงของห่วงโซ่อุปทานอย่างต่อเนื่องในปี 2026 ซึ่งส่งผลกระทบโดยตรงต่อต้นทุนการผลิตภาคอุตสาหกรรมหนัก รวมถึงโลหะและแร่ธาตุ",
+            "why": "ความผันผวนของต้นทุนโลหะส่งผลกระทบต่อบัดเจ็ตการดำเนินงานของลูกค้าในกลุ่มอุตสาหกรรมเหล็กและงานโลหะของเรา",
+            "action": "แนะนำให้ลูกค้าอุตสาหกรรมล็อกสัญญาจัดซื้อวัสดุกัดหรือสต็อกสินค้าไว้ก่อนเพื่อป้องกันต้นทุนวัตถุดิบที่อาจพุ่งสูงขึ้น"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-08-31",
       "summary": "Today's intelligence highlights niche high-tech growth areas including sub-50nm semiconductor micro-abrasives, ceramic flap discs for precision metalworking, and EV manufacturing shifts impacting surface prep and finishing requirements.",
@@ -939,88 +1021,6 @@ window.WORLD_ARCHIVE = {
             "summary": "ตลาดสีและสารเคลือบผิวทั่วโลกคาดว่าจะมีการเติบโตอย่างต่อเนื่อง และบรรลุเป้าหมายมูลค่าครั้งสำคัญในทศวรรษหน้า",
             "why": "กระบวนการเตรียมพื้นผิวและการขัดกระดาษทรายเป็นขั้นตอนเบื้องต้นที่สำคัญยิ่งในการเคลือบผิวในหลากหลายอุตสาหกรรม",
             "action": "มองหาโอกาสในการร่วมมือทางธุรกิจหรือขายสินค้าร่วมกับผู้ให้บริการเคลือบผิวอุตสาหกรรมที่ต้องใช้วัสดุขัดเตรียมพื้นผิวที่มีคุณภาพ"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-08-18",
-      "summary": "Today's briefing highlights shifts in architectural coatings, glass surface finishes, automotive logistics expansion, and global metal/steel supply chain pressures that impact heavy industrial surface preparation demand.",
-      "directCount": 1,
-      "th": {
-        "summary": "สรุปสถานการณ์โลกประจำวันนี้เน้นไปที่การเติบโตของตลาดสารเคลือบสถาปัตยกรรม การเคลือบกระจก การขยายตัวของโลจิสติกส์ยานยนต์ และแรงกดดันในห่วงโซ่อุปทานเหล็กโลก ซึ่งส่งผลต่อความต้องการเตรียมพื้นผิวในภาคอุตสาหกรรม"
-      },
-      "items": [
-        {
-          "id": "20260818-w1",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "Fortune Business Insights",
-          "date": "2026-07-13",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdGlLanRSako2bGdzMUM3NGswUTFoT1BRa0ZrWjl6VDFrdDhxSUpMOVRXeFY1REtlRmwyaUhQb1pZSzdfOVNFa2NwbmRqM2Y5aElwRnBuV3hhVkpBVWt3cE8zRC02b1kzaUY3bHVucmdOYzNoQlc5aG9QVllpQ3lsQWJ3?oc=5",
-          "title": "Architectural Coatings Market Size, Trends & Latest Report [2034]",
-          "summary": "The architectural coatings market continues its steady expansion toward 2034, driven by increasing construction and urbanization demands globally.",
-          "why": "Growth in architectural coatings translates to higher demand for preparatory surface sanding, wall smoothing, and finishing tools in the construction sector.",
-          "action": "Monitor building and construction contractor trends for potential demand in manual and power sanding accessories.",
-          "th": {
-            "title": "ขนาด แนวโน้ม และรายงานล่าสุดของตลาดสารเคลือบสถาปัตยกรรม [2034]",
-            "summary": "ตลาดสารเคลือบสถาปัตยกรรมยังคงขยายตัวอย่างต่อเนื่องจนถึงปี 2034 ขับเคลื่อนโดยความต้องการด้านการก่อสร้างและการเติบโตของเมืองทั่วโลก",
-            "why": "การเติบโตของสีและสารเคลือบอาคารส่งผลให้มีความต้องการใช้งานอุปกรณ์เตรียมพื้นผิว ขัดเรียบผนัง และอุปกรณ์ตกแต่งในภาคการก่อสร้างเพิ่มขึ้น",
-            "action": "ติดตามแนวโน้มของผู้รับเหมาก่อสร้างเพื่อจับตาความต้องการอุปกรณ์ขัดและกระดาษทรายที่เกี่ยวข้อง"
-          }
-        },
-        {
-          "id": "20260818-w2",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "Market Research Future",
-          "date": "2026-04-30",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9weTg1MVk4bzRDaF8tQUdGUlVHTWp5WkgtcTRuOUNaSG90YWRyMVR6bzUwUzRiRV9SZjgwa2ZXNUs2OWkyejhMR0QtZDRRSnpLR21XSDhmU1NfR19mOUdHLUNCMklEQm9PX2d4clZHUnRBdE5kYUU1ZlBR?oc=5",
-          "title": "Glass Coating Market Size, Share & Growth Report 2035 | MRFR",
-          "summary": "The glass coating market is projected for strong growth through 2035, driven by architectural, automotive, and electronic display applications.",
-          "why": "Advanced glass coatings require extremely precise surface preparation, cleaning, and edge finishing where micro-abrasives and fine polishing tools are vital.",
-          "action": "Keep an eye on specialized high-precision polishing media used for glass and optical surface finishing.",
-          "th": {
-            "title": "รายงานขนาด ส่วนแบ่ง และการเติบโตของตลาดสารเคลือบกระจก ปี 2035",
-            "summary": "ตลาดสารเคลือบกระจกมีแนวโน้มเติบโตอย่างแข็งแกร่งจนถึงปี 2035 จากการใช้งานในสถาปัตยกรรม ยานยนต์ และจอแสดงผลอิเล็กทรอนิกส์",
-            "why": "การเคลือบกระจกขั้นสูงต้องอาศัยการเตรียมพื้นผิว การทำความสะอาด และการขัดแต่งขอบที่แม่นยำสูง ซึ่งต้องใช้วัสดุขัดละเอียดและอุปกรณ์ขัดเงา",
-            "action": "ติดตามตลาดวัสดุขัดเงาความละเอียดสูงที่ใช้สำหรับงานกระจกและพื้นผิวออปติคอล"
-          }
-        },
-        {
-          "id": "20260818-w3",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "precedenceresearch.com",
-          "date": "2026-07-16",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1KaUg2VENsLXNiLURlZnFJd2x6SHQwWTVFeFRYLV95WFVTeUpYeWFZcFh0UUxBT2tIVTl3YmFha0JOeDRQa0MwNE9qS280cnFoeUFRRU9xSGI2NlRJWmNhUHBUQTVmb0c0bmJaRjZ6WQ?oc=5",
-          "title": "Automotive Logistics Market Size to Reach USD 813.84 Bn by 2035",
-          "summary": "The global automotive logistics market is expanding significantly, reflecting robust vehicle manufacturing output and supply chain adaptations.",
-          "why": "Higher vehicle production and movement indicate sustained factory activity, ensuring steady baseline demand for automotive body shop abrasives and metal deburring consumables.",
-          "action": "Maintain strong inventory levels for core automotive body repair and metal fabrication abrasives.",
-          "th": {
-            "title": "ตลาดโลจิสติกส์ยานยนต์คาดว่าจะพุ่งถึง 8.1384 แสนล้านดอลลาร์ภายในปี 2035",
-            "summary": "ตลาดโลจิสติกส์ยานยนต์ทั่วโลกกำลังขยายตัวอย่างมีนัยสำคัญ สะท้อนถึงปริมาณการผลิตรถยนต์ที่แข็งแกร่งและการปรับตัวของห่วงโซ่อุปทาน",
-            "why": "การผลิตและการขนส่งรถยนต์ที่เพิ่มขึ้นบ่งชี้ถึงกิจกรรมในโรงงานที่ต่อเนื่อง ส่งผลให้มีความต้องการใช้วัสดุขัดและอุปกรณ์ลบคมโลหะในอุตสาหกรรมยานยนต์อย่างสม่ำเสมอ",
-            "action": "รักษาระดับสต็อกสินค้ากลุ่มกระดาษทรายและวัสดุขัดสำหรับงานซ่อมตัวถังและอุตสาหกรรมยานยนต์ให้เพียงพอ"
-          }
-        },
-        {
-          "id": "20260818-w4",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "Recycling International",
-          "date": "2026-05-06",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUGx0eVkxRzJXY2ZfWGV0VWstUVozcnFnRjRpQnEydThVWTdhdno0NEhVNVFLYzRIal85T0h4b0hqNjNBclVpY1lteGZDWFZSdGhhcG9LVlhYN3ZucHRDOWFvOXFkTjhYYjVibTNsM3Y5ZVFjeFhoQW13anV4RE56emVzQUFESDlWRnB4LVpuSFNEb1FoOXRvNU9KY1pfYmxEYlA3RUhqQzY0RDMzSHF1dHE5U0w?oc=5",
-          "title": "Conflicts’ ‘serious’ impact on global steel industry",
-          "summary": "Geopolitical conflicts continue to create supply chain disruptions and cost volatility within the global steel manufacturing sector.",
-          "why": "Steel production adjustments directly influence metal fabrication plants, heavy machinery builders, and structural steel processors—all primary B2B buyers of grinding wheels and abrasive belts.",
-          "action": "Stay flexible with metal-grinding product pricing and monitor local steel fabrication sentiment.",
-          "th": {
-            "title": "ผลกระทบอย่างรุนแรงของความขัดแย้งต่ออุตสาหกรรมเหล็กโลก",
-            "summary": "ความขัดแย้งทางภูมิรัฐศาสตร์ยังคงสร้างความปั่นป่วนในห่วงโซ่อุปทานและความผันผวนด้านต้นทุนในภาคการผลิตเหล็กทั่วโลก",
-            "why": "การปรับเปลี่ยนการผลิตเหล็กส่งผลโดยตรงต่อโรงงานแปรรูปโลหะ ผู้สร้างเครื่องจักรหนัก และผู้แปรรูปเหล็กโครงสร้าง ซึ่งเป็นลูกค้ากลุ่ม B2B หลักของล้อเจียรและสายพานขัด",
-            "action": "ยืดหยุ่นเรื่องราคาสินค้ากลุ่มงานเจียรโลหะและคอยติดตามความรู้สึกของตลาดแปรรูปเหล็กในท้องถิ่น"
           }
         }
       ]
