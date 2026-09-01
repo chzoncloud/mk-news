@@ -4,10 +4,10 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-09-01",
-      "summary": "Today's global trends highlight precision finishing demands in abrasive lapping films, growing automotive OEM coating expansions, and structural supply adjustments in the steel industry. These signals indicate continuous growth in high-tech electronics, metal fabrication, and surface prep requirements.",
+      "summary": "Today's briefing highlights four key global trends spanning surface finishing for electronics, advanced ceramic abrasives demand in structural applications, EV manufacturing shifts in Europe, and sustainable EAF steel production technology.",
       "directCount": 3,
       "th": {
-        "summary": "แนวโน้มโลกวันนี้เน้นย้ำถึงความต้องการการขัดแต่งความละเอียดสูงในฟิล์มแล็ปปิ้ง การขยายตัวของตลาดเคลือบสีรถยนต์ OEM และการปรับตัวด้านอุปทานในอุตสาหกรรมเหล็ก สัญญาณเหล่านี้บ่งชี้ถึงการเติบโตอย่างต่อเนื่องในอุตสาหกรรมอิเล็กทรอนิกส์ไฮเทค งานโลหะ และความต้องการเตรียมพื้นผิว"
+        "summary": "สรุปข่าวสารประจำวันนี้เน้น 4 แนวโน้มสำคัญระดับโลก ได้แก่ การตกแต่งพื้นผิวสำหรับอุตสาหกรรมอิเล็กทรอนิกส์, ความต้องการสารขัดเงาเซรามิกขั้นสูง, การเปลี่ยนแปลงการผลิต EV ในยุโรป และเทคโนโลยีการผลิตเหล็กรักษ์โลกด้วยเตาอาร์คไฟฟ้า (EAF)"
       },
       "items": [
         {
@@ -15,71 +15,71 @@ window.WORLD_ARCHIVE = {
           "tag": "abrasive",
           "rating": "green",
           "source": "IndexBox",
-          "date": "2026-08-31",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOREZURUtNaklQRGZ4by1fNWNRRTc3MUdUdVVyeW5IR0xja3BuMGFlQmtaQmZHMnZ4ZnNMSDJUbVpoYmlCVndBRG5QZGpFWF9PS0NySGw1dWE4d3NXRmpVYTMzRElVeFVERHpIcGxaQ0ZjajVBRWlsZG5fd1NFVXBEUC1PYy00XzhVNEVISUFUa0JZZkwyeldxQ1hneUFNX0JJQ0puY2RBaWVubXlFZzgxVE05d2d5c0lzUXFpX1EySQ?oc=5",
-          "title": "Abrasive Lapping Film Market Forecast 2035: Precision Finishing Demand Drives Growth",
-          "summary": "The global abrasive lapping film market is projected to expand steadily through 2035, driven by rising demand for ultra-precision surface finishing in advanced manufacturing.",
-          "why": "Highlights the growing market shift towards ultra-fine, precision surface finishing products rather than just standard coarse abrasives.",
-          "action": "Monitor high-precision film and micro-finishing product segments for future stock expansion.",
+          "date": "2026-08-27",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZVNoQXZTcE5rVFdTaVAtc2pzYXA4bDJhUW1yNWd5RllQcTJMQ0xBN0ozandZMFZERUxfWUVRNU9odHV3RkVFUDNhejBkYy1KVVJmZlBsVXdQTG9qOU9Dck1yLUx2dmd2YWZ4Um80SWdTMzhIeF9DeVZiQzJ1QWRWWG45YmxvOFR1QVpEcHNld0ZvTE91dVZ2dm04dURCRVJ4bmZMZTVsQUtLVXFBenNJeFV4aUxBNkJqeUtOQjdINFpkdw?oc=5",
+          "title": "Abrasive Sponges Market to Hit 5.2% CAGR Through 2035 as Electronics Sector Drives 28% of Demand",
+          "summary": "The global abrasive sponges market is expanding steadily, with the electronics sector driving nearly 28% of total demand for fine surface preparation.",
+          "why": "Highlights the growing importance of flexible abrasives and sponges in electronics manufacturing, a key growth sector for precision finishing.",
+          "action": "Consider evaluating our inventory of abrasive sponges and flexible pads tailored for electronics and intricate parts finishing.",
           "th": {
-            "title": "ตลาดฟิล์มขัดแล็ปปิ้งปี 2035: ความต้องการงานขัดผิวความละเอียดสูงขับเคลื่อนการเติบโต",
-            "summary": "ตลาดฟิล์มขัดแล็ปปิ้งทั่วโลกคาดว่าจะขยายตัวอย่างต่อเนื่องจนถึงปี 2035 ขับเคลื่อนโดยความต้องการการขัดผิวความละเอียดสูงเป็นพิเศษในการผลิตขั้นสูง",
-            "why": "เน้นย้ำถึงการเปลี่ยนแปลงของตลาดไปสู่ผลิตภัณฑ์ขัดผิวความละเอียดสูงพิเศษ แทนที่จะเป็นเพียงวัสดุกัดหยาบทั่วไป",
-            "action": "ติดตามกลุ่มผลิตภัณฑ์ฟิล์มความแม่นยำสูงและผลิตภัณฑ์ขัดละเอียดสำหรับการขยายสต็อกสินค้าในอนาคต"
+            "title": "ตลาดฟองน้ำขัด (Abrasive Sponges) คาดโต 5.2% ถึงปี 2035 โดยภาคอิเล็กทรอนิกส์ขับเคลื่อนความต้องการ 28%",
+            "summary": "ตลาดฟองน้ำขัดทั่วโลกกำลังขยายตัวอย่างต่อเนื่อง โดยภาคอิเล็กทรอนิกส์เป็นตัวขับเคลื่อนความต้องการเกือบ 28% สำหรับการเตรียมพื้นผิว",
+            "why": "แสดงให้เห็นถึงความสำคัญที่เพิ่มขึ้นของวัสดุขัดแบบยืดหยุ่นและฟองน้ำในอุตสาหกรรมการผลิตอิเล็กทรอนิกส์ ซึ่งเป็นตลาดสำคัญของการขัดตกแต่งผิวละเอียด",
+            "action": "พิจารณาตรวจสอบสต็อกฟองน้ำขัดและแผ่นยืดหยุ่นที่เหมาะสำหรับงานขัดชิ้นส่วนอิเล็กทรอนิกส์และงานที่มีความซับซ้อน"
           }
         },
         {
           "id": "20260901-w2",
-          "tag": "coating",
+          "tag": "abrasive",
           "rating": "green",
-          "source": "Fortune Business Insights",
-          "date": "2026-08-10",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
-          "title": "Automotive OEM Coatings Market Size, Share | Growth [2034]",
-          "summary": "The automotive OEM coatings market continues its long-term growth trajectory as vehicle production scales globally and manufacturing standards demand better surface durability.",
-          "why": "Automotive manufacturing requires extensive surface preparation, priming, and sanding before and after coating application.",
-          "action": "Keep close ties with automotive body shops and Tier-1 suppliers needing consistent surface prep abrasives.",
+          "source": "marketresearchfuture.com",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY0JpWXlQSC1LeGU2eUdGRW1zTEZ4amNoRXAyUWcxcnpWbEdzWmprSTBFM1htcllTNmQtdlRENmZ2NlhXbV9oNTlJbnJ0UjV5cENzZC1yTUdwM21YRi0wZUxBd1l6ODNDM1NxSUdQcFMwMGpCRnJuY041elNoT1RSRA?oc=5",
+          "title": "Ceramic Flap Disc Market Size, Share & Growth Report 2035 | MRFR",
+          "summary": "The ceramic flap disc market is projected for strong long-term growth through 2035, driven by high-performance metal fabrication needs.",
+          "why": "Ceramic grain is our premium tier for heavy-duty metal removal and long lifespan; monitoring this market confirms sustained B2B demand for high-end abrasives.",
+          "action": "Ensure strong marketing and stock availability for high-performance ceramic flap discs targeting heavy metal industries.",
           "th": {
-            "title": "ขนาดและส่วนแบ่งตลาดสารเคลือบ OEM ยานยนต์ | การเติบโต [2034]",
-            "summary": "ตลาดสารเคลือบ OEM ยานยนต์ยังคงเติบโตในระยะยาวตามการผลิตยานยนต์ทั่วโลกที่เพิ่มขึ้น และมาตรฐานการผลิตที่ต้องการความทนทานของพื้นผิวที่ดีขึ้น",
-            "why": "กระบวนการผลิตยานยนต์ต้องอาศัยการเตรียมพื้นผิว การรองพื้น และการขัดกระดาษทรายอย่างกว้างขวางทั้งก่อนและหลังการพ่นเคลือบ",
-            "action": "รักษาความสัมพันธ์ที่ใกล้ชิดกับอู่ซ่อมสีรถยนต์และซัพพลายเออร์ Tier-1 ที่ต้องการวัสดุกัดกระดาษทรายเตรียมพื้นผิวอย่างต่อเนื่อง"
+            "title": "รายงานขนาด ส่วนแบ่ง และการเติบโตของตลาดใบเจียรผ้าทรายซ้อนเซรามิก (Ceramic Flap Disc) ถึงปี 2035",
+            "summary": "ตลาดใบเจียรผ้าทรายซ้อนเซรามิกคาดว่าจะเติบโตอย่างแข็งแกร่งในระยะยาวจนถึงปี 2035 ขับเคลื่อนโดยความต้องการงานขึ้นรูปโลหะประสิทธิภาพสูง",
+            "why": "เม็ดทรายเซรามิกคือเกรดพรีเมียมของเราสำหรับการขัดเนื้อโลหะหนักและมีอายุการใช้งานยาวนาน การติดตามตลาดนี้ช่วยยืนยันความต้องการ B2B ที่ยังคงมีต่อเนื่อง",
+            "action": "รักษาความพร้อมของสต็อกและการทำตลาดใบเจียรผ้าทรายซ้อนเซรามิกประสิทธิภาพสูงที่เจาะกลุ่มอุตสาหกรรมโลหะหนัก"
           }
         },
         {
           "id": "20260901-w3",
           "tag": "auto",
           "rating": "amber",
-          "source": "Fortune Business Insights",
-          "date": "2026-08-10",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbDdPM0VwRXE3dDlfTTJFS3BVX2FmU0ZLWVVDR2JLcWk5UjVnUmJQaDJ2N2E1Z1VkMWdIUzdnWXVrSFc3cHBLWmhSb3dodGpOTlZzejhjaFRBcm5fRi1jMzhzTV9CcFRqVVRVUVdWUWliWkdiMXdzLXpFMWY3M1doOW1hTHBaUnlnYV81YmMyLTU?oc=5",
-          "title": "Electric Vehicle Market Size, Share & Global Analysis, 2034",
-          "summary": "Global electric vehicle adoption and manufacturing investments continue to expand robustly towards 2034, reshaping global assembly lines and lightweight body designs.",
-          "why": "EV production involves different body materials (aluminum, composites) that require specialized grinding and deburring solutions.",
-          "action": "Prepare product lines suitable for lightweight metal and composite material finishing used in EV manufacturing.",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-07-23",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZDRQV1lyajBPaFY5UV9pQkxKcXpvRzQ5ejJOcEM5QzgyaXByMHg4MWtaX0pHT3VtV2tPRFVPUjJFdGhBcTNoWDRKOTZ4ekkzeGpOamJMT2R6M2psbHBoNEV6dlMyWW5yM3hkVjZjM0xCV1FNQ2dLamFSTHcyNTB4dEdJZkpsRmtBSUZJeF9FYW9sT0ZHdGNhV2F3RHpOLXp6RUI0SWY0SWNSM0hxM19pYS1DeEZ5ZGdhZHpyUg?oc=5",
+          "title": "Ford and Geely unite in Valencia: smart-factory momentum!",
+          "summary": "Ford and Geely have joined forces in Valencia, Spain, creating a new wave of smart-factory manufacturing momentum.",
+          "why": "Smart automotive manufacturing plants require advanced automation, precise robotic surface preparation, and specialized tooling.",
+          "action": "Keep track of how European smart-factory investments influence local OEM tier suppliers and their tooling/abrasive requirements.",
           "th": {
-            "title": "ขนาด ส่วนแบ่ง และการวิเคราะห์ตลาดรถยนต์ไฟฟ้าทั่วโลก 2034",
-            "summary": "การใช้งานและการลงทุนในการผลิตรถยนต์ไฟฟ้าทั่วโลกยังคงขยายตัวอย่างแข็งแกร่งจนถึงปี 2034 ซึ่งช่วยปรับเปลี่ยนสายการผลิตและดีไซน์ตัวถังที่มีน้ำหนักเบา",
-            "why": "การผลิต EV เกี่ยวข้องกับวัสดุตัวถังที่แตกต่างกัน (อะลูมิเนียม วัสดุผสม) ซึ่งต้องใช้โซลูชันการเจียรและลบคมที่จำเพาะ",
-            "action": "เตรียมกลุ่มผลิตภัณฑ์ที่เหมาะสมสำหรับการขัดแต่งวัสดุโลหะน้ำหนักเบาและคอมโพสิตที่ใช้ในการผลิต EV"
+            "title": "Ford และ Geely ร่วมมือกันที่เมืองบาเลนเซีย: กระแสความตื่นตัวของโรงงานอัจฉริยะ!",
+            "summary": "Ford และ Geely ได้ผนกำลังกันในเมืองบาเลนเซีย ประเทศสเปน สร้างคลื่นลูกใหม่แห่งกระแสการผลิตแบบโรงงานอัจฉริยะ",
+            "why": "โรงงานผลิตยานยนต์อัจฉริยะต้องการระบบอัตโนมัติขั้นสูง การเตรียมพื้นผิวด้วยหุ่นยนต์ที่แม่นยำ และเครื่องมือเฉพาะทาง",
+            "action": "ติดตามว่าการลงทุนในโรงงานอัจฉริยะของยุโรปส่งผลอย่างไรต่อผู้ผลิตชิ้นส่วน (Tier suppliers) และความต้องการเครื่องมือ/วัสดุขัด"
           }
         },
         {
           "id": "20260901-w4",
           "tag": "steel",
           "rating": "amber",
-          "source": "flow – Deutsche Bank",
-          "date": "2026-02-19",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQUZBdTZILWVOQkpBY3lQVGNWWXM5R3dtWTUxUGlub2dPN1ppcTZZZldPdko4YnpodTljc1VEdjZFNzB3Yk11YW9SaWlSRDNkMzZ2blNzN2V6S0VTYTM5N3ZxSE1ERzRKc1VUcTRBbUNFQW1jT1I4SklGYkhicTZSbnZ3?oc=5",
-          "title": "Commodities Outlook 2026 – where next?",
-          "summary": "Global commodity markets face ongoing price volatility and supply chain shifts in 2026, directly impacting heavy manufacturing input costs including metals and minerals.",
-          "why": "Fluctuations in metal input costs affect the operational budgets of our industrial steel and metal fabrication customers.",
-          "action": "Advise industrial clients to lock in abrasive supply contracts or stock up before potential raw material cost spikes.",
+          "source": "news.metal.com",
+          "date": "2026-05-19",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMmw1akRRMFZCQ2I5NGhHdE1NOXhoaE1GY0h5UmxlQVNUVGxHTko2U0NBQ0o0Q19ZYmZ1VnBCTTB6a2JJQTFNOUpDSUtpWXdaR3hkeGhlOXF4dF9yUElCd1ZkWTl4MmZGOWhVeUlXc2VCMXFCOHQzZ0ZGZ1RtZ3p6aUNObEczWFhKMkdKQ3JuRWF5SjVNZmpOQVBaSGs4TWJKS1lVa0VTdmoxdDBQTF8zRDlxME1qeEtOUzJzSTBERURobWltWTlVUlpaZ3d2WlFRNEY1b0UwbVVfLXc0cXBZ?oc=5",
+          "title": "Nucor: 100% EAF, High Profits, and Vertical Integration Mitigating Costs",
+          "summary": "Nucor's 100% Electric Arc Furnace (EAF) model demonstrates high profitability and cost mitigation through vertical integration.",
+          "why": "EAF steel production and scrap recycling generate different scale surface conditions compared to traditional blast furnaces, directly affecting metal grinding and weld-cleaning needs.",
+          "action": "Understand EAF steel surface properties to better target weld dressing and grinding products for modern steel fabricators.",
           "th": {
-            "title": "แนวโน้มสินค้าโภคภัณฑ์ปี 2026 - ทิศทางต่อไปคืออะไร?",
-            "summary": "ตลาดสินค้าโภคภัณฑ์ทั่วโลกเผชิญกับความผันผวนของราคาและความเปลี่ยนแปลงของห่วงโซ่อุปทานอย่างต่อเนื่องในปี 2026 ซึ่งส่งผลกระทบโดยตรงต่อต้นทุนการผลิตภาคอุตสาหกรรมหนัก รวมถึงโลหะและแร่ธาตุ",
-            "why": "ความผันผวนของต้นทุนโลหะส่งผลกระทบต่อบัดเจ็ตการดำเนินงานของลูกค้าในกลุ่มอุตสาหกรรมเหล็กและงานโลหะของเรา",
-            "action": "แนะนำให้ลูกค้าอุตสาหกรรมล็อกสัญญาจัดซื้อวัสดุกัดหรือสต็อกสินค้าไว้ก่อนเพื่อป้องกันต้นทุนวัตถุดิบที่อาจพุ่งสูงขึ้น"
+            "title": "Nucor: ใช้เตาอาร์คไฟฟ้า (EAF) 100%, ทำกำไรสูง และบูรณาการแนวตั้งเพื่อลดต้นทุน",
+            "summary": "โมเดลเตาอาร์คไฟฟ้า 100% (EAF) ของ Nucor แสดงให้เห็นถึงความสามารถในการทำกำไรสูงและการลดต้นทุนผ่านการบูรณาการในแนวดิ่ง",
+            "why": "การผลิตเหล็กด้วยเตา EAF และการรีไซเคิลเศษเหล็กทำให้เกิดสภาพพื้นผิวที่แตกต่างจากเตาถลุงแบบดั้งเดิม ซึ่งส่งผลโดยตรงต่อความต้องการงานเจียรโลหะและทำความสะอาดแนวเชื่อม",
+            "action": "ทำความเข้าใจคุณ 17 พื้นผิวเหล็กจากเตา EAF เพื่อเจาะกลุ่มผลิตภัณฑ์งานลบคมและเจียรสำหรับผู้ผลิตเหล็กสมัยใหม่ได้ดียิ่งขึ้น"
           }
         }
       ]
