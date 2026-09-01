@@ -1,7 +1,89 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-09-01",
+  "updated": "2026-09-02",
   "days": [
+    {
+      "date": "2026-09-02",
+      "summary": "Today's global briefing highlights new growth areas in nonwoven abrasive pads, performance coatings expansions, and shifting metal and automotive dynamics that influence industrial surface finishing.",
+      "directCount": 4,
+      "th": {
+        "summary": "สรุปทิศทางโลกประจำวัน เน้นการเติบโตของกลุ่มแผ่นขัด non-woven การขยายตัวของสารเคลือบประสิทธิภาพสูง และการเปลี่ยนแปลงในอุตสาหกรรมโลหะกับยานยนต์ที่ส่งผลต่อธุรกิจขัดผิวชิ้นงาน"
+      },
+      "items": [
+        {
+          "id": "20260902-w1",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-09-01",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNTZrVFZaaFVPeVI2RnpoOXlHUXJhVHFSQ0hNZmFDU1lTNTdFYWhRa2ZBcFVseGZzZjRzSENYMjd5RkNLUks4aXlkUlliM1FHcFZJb2FrVkdQXzczbC1ORkNrMnRIelkxYkpyUTJBXy13cXFiWUg0MEdmVVNUaElWWA?oc=5",
+          "title": "Nonwoven Abrasive Pads Market Outlook to 2035",
+          "summary": "The nonwoven abrasive pads market is projected for steady long-term growth through 2035, driven by expanding applications in surface blending, cleaning, and light deburring.",
+          "why": "Nonwoven abrasives are a key product line for stainless steel and metal finishing, especially in manual and automated blending applications.",
+          "action": "Review our inventory and promotional strategy for nonwoven pads targeting metal fabricators.",
+          "th": {
+            "title": "แนวโน้มตลาดแผ่นขัด Nonwoven Abrasive Pads ถึงปี 2035",
+            "summary": "ตลาดแผ่นขัด non-woven มีแนวโน้มเติบโตต่อเนื่องถึงปี 2035 จากการใช้งานที่เพิ่มขึ้นในงานขัดผิว ทำความสะอาด และลบครีบเบา",
+            "why": "แผ่นขัด non-woven เป็นสินค้าสำคัญสำหรับงานขัดผิวสแตนเลสและโลหะ โดยเฉพาะงานขัดแต่งผิวด้วยมือและเครื่องจักร",
+            "action": "ทบทวนสต็อกสินค้าและแผนส่งเสริมการขายแผ่นขัด non-woven สำหรับกลุ่มผู้รับเหมาและโรงงานแปรรูปโลหะ"
+          }
+        },
+        {
+          "id": "20260902-w2",
+          "tag": "coating",
+          "rating": "green",
+          "source": "Straits Research",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NN1NfTHlMbm83VVBSSk84UmI2aldwS0VobVdKVFNuM2hsWGRMc00tczY1aE1XRlVSS3BtbEtlRlBfZjY5NjFudlNNU3dkSGpMRG5PNzVGcWhUNjBfdkRmZkk3cmhYUmtvcTFxeXln?oc=5",
+          "title": "Performance Coating Market Size, Share & Growth Graph by 2034",
+          "summary": "The performance coating sector continues its robust expansion globally, reflecting higher durability demands across industrial infrastructure and manufacturing sectors.",
+          "why": "Surface prep and abrasive blasting are fundamental preparatory steps before applying performance coatings.",
+          "action": "Monitor coating sector growth to identify cross-selling opportunities with surface prep contractors.",
+          "th": {
+            "title": "ขนาดตลาดและกราฟการเติบโตของ Performance Coating ถึงปี 2034",
+            "summary": "ตลาดสารเคลือบประสิทธิภาพสูงขยายตัวอย่างต่อเนื่อง สะท้อนถึงความต้องการความทนทานที่สูงขึ้นในโครงสร้างพื้นฐานอุตสาหกรรมและการผลิต",
+            "why": "กระบวนการเตรียมผิวและพ่นขัดทราย (abrasive blasting) เป็นขั้นตอนเตรียมความพร้อมที่สำคัญก่อนพ่นสีเคลือบผิว",
+            "action": "ติดตามการเติบโตของกลุ่มสารเคลือบเพื่อหาโอกาสขายร่วมกับผู้รับเหมาเตรียมพื้นผิว"
+          }
+        },
+        {
+          "id": "20260902-w3",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-07-23",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZDRQV1lyajBPaFY5UV9pQkxKcXpvRzQ5ejJOcEM5QzgyaXByMHg4MWtaX0pHT3VtV2tPRFVPUjJFdGhBcTNoWDRKOTZ4ekkzeGpOamJMT2R6M2psbHBoNEV6dlMyWW5yM3hkVjZjM0xCV1FNQ2dLamFSTHcyNTB4dEdJZkpsRmtBSUZJeF9FYW9sT0ZHdGNhV2F3RHpOLXp6RUI0SWY0SWNSM0hxM19pYS1DeEZ5ZGdhZHpyUg?oc=5",
+          "title": "Ford and Geely unite in Valencia: smart-factory momentum!",
+          "summary": "Automotive giants Ford and Geely are increasing smart-factory collaboration in Valencia, pushing advanced manufacturing and assembly automation.",
+          "why": "Smart automotive manufacturing plants require high-precision automated grinding, deburring, and body-in-white finishing tools.",
+          "action": "Keep an eye on automated robotic sanding trends utilized in modern joint-venture vehicle plants.",
+          "th": {
+            "title": "Ford และ Geely ร่วมมือกันที่บาเลนเซีย ขับเคลื่อนโรงงานอัจฉริยะ",
+            "summary": "ค่ายรถยนต์ยักษ์ใหญ่ Ford และ Geely เพิ่มความร่วมมือด้านสมาร์ทแฟกทอรี่ในบาเลนเซีย เพื่อผลักดันการผลิตขั้นสูงและระบบอัตโนมัติ",
+            "why": "โรงงานผลิตรถยนต์อัจฉริยะต้องการเครื่องมือขัด ลบครีบ และตกแต่งผิวตัวถังอัตโนมัติที่มีความแม่นยำสูง",
+            "action": "จับตาเทรนด์การใช้หุ่นยนต์ขัดกระดาษทราย (robotic sanding) ในโรงงานประกอบรถยนต์ยุคใหม่"
+          }
+        },
+        {
+          "id": "20260902-w4",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "Recycling International",
+          "date": "2026-05-06",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUGx0eVkxRzJXY2ZfWGV0VWstUVozcnFnRjRpQnEydThVWTdhdno0NEhVNVFLYzRIal85T0h4b0hqNjNBclVpY1lteGZDWFZSdGhhcG9LVlhYN3ZucHRDOWFvOXFkTjhYYjVibTNsM3Y5ZVFjeFhoQW13anV4RE56emVzQUFESDlWRnB4LVpuSFNEb1FoOXRvNU9KY1pfYmxEYlA3RUhqQzY0RDMzSHF1dHE5U0w?oc=5",
+          "title": "Conflicts’ ‘serious’ impact on global steel industry",
+          "summary": "Global geopolitical conflicts continue to exert serious pressure on steel supply chains, affecting regional output and raw material flows.",
+          "why": "Steel production volume directly influences local and regional demand for heavy-duty grinding wheels and metalworking abrasives.",
+          "action": "Anticipate raw material cost fluctuations in metal fabrication and adjust stock holding strategies accordingly.",
+          "th": {
+            "title": "ผลกระทบที่รุนแรงของความขัดแย้งต่ออุตสาหกรรมเหล็กโลก",
+            "summary": "ความขัดแย้งทางภูมิรัฐศาสตร์ทั่วโลกยังคงสร้างแรงกดดันต่อห่วงโซ่อุปทานเหล็ก ส่งผลกระทบต่อปริมาณการผลิตในภูมิภาคและวัตถุดิบ",
+            "why": "ปริมาณการผลิตเหล็กส่งผลโดยตรงต่อความต้องการหินเจียรและวัสดุขัดโลหะทั้งในระดับท้องถิ่นและภูมิภาค",
+            "action": "คาดการณ์ความผันผวนของต้นทุนวัตถุดิบในกลุ่มอุตสาหกรรมแปรรูปโลหะและปรับกลยุทธ์การสต็อกสินค้าตามความเหมาะสม"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-09-01",
       "summary": "Today's global trend briefing focuses on high-precision finishing requirements in electronics and micro-machining, alongside raw material shifts in coatings and automotive manufacturing that influence our industrial surface-prep customers.",
@@ -921,88 +1003,6 @@ window.WORLD_ARCHIVE = {
             "summary": "Ford และ Geely ได้ร่วมมือกันที่เมืองบาเลนเซีย ซึ่งบ่งชี้ถึงความพยายามครั้งใหญ่ในการบูรณาการโรงงานอัจฉริยะ สายการผลิตที่ยืดหยุ่น และประสิทธิภาพการผลิตขั้นสูงในยุโรป",
             "why": "โรงงานอัจฉริยะต้องใช้เครื่องมือกลอัตโนมัติที่มีความแม่นยำสูง รวมถึงการเตรียมพื้นผิวและลบคมด้วยระบบอัตโนมัติ เมื่อการผลิตยานยนต์ทันสมัยขึ้น สเปคการขัดตกแต่งชิ้นส่วนจะเข้มงวดมากขึ้น",
             "action": "ติดตามมาตรฐานการร่วมทุนด้านยานยนต์ของยุโรปสำหรับการขัดตกแต่งผิว เพื่อใช้เป็นเกณฑ์มาตรฐานสำหรับกลุ่มลูกค้าผู้ผลิตชิ้นส่วนยานยนต์ (Tier-1) ในประเทศไทย"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-08-19",
-      "summary": "Global industrial trends today show strong emphasis on superhard abrasive machining, automotive EV manufacturing growth, and electric-arc furnace steel production optimization, signaling crucial shifts for surface finishing and metal fabrication.",
-      "directCount": 4,
-      "th": {
-        "summary": "แนวโน้มอุตสาหกรรมโลกในวันนี้แสดงให้เห็นถึงความสำคัญของการตัดเฉือนด้วยวัสดุขัดความแข็งสูง การเติบโตของการผลิตยานยนต์ EV และการเพิ่มประสิทธิภาพการผลิตเหล็กด้วยเตาอาร์ไฟฟ้า (EAF) ซึ่งส่งสัญญาณการเปลี่ยนแปลงครั้งสำคัญสำหรับธุรกิจขัดผิวและงานโลหะ"
-      },
-      "items": [
-        {
-          "id": "20260819-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "EIN Presswire",
-          "date": "2026-07-17",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQ2tzbUVzemVBLUxLMTFXbThzUk1aZEV5cDBQeE1HWmNUbW1PNzZTUXo0bnFpcjA5Yk1XRUtMOEFyakZfaXdVUTlPM3pSVno5dk5kRXUzM000ZFo5WG1mcGV4U1NzV1hLWVlpY3p6LVZtcTN4X3hWd2tDRVJoemVydnNIZFdNTjZmYk9uTGJEd0hTdTlpY3RlaGtHemZ6VWNTOEZoWk92eU1rQU5UdjFMLVdjWmV1U0w0czdncEJnWmkzYmZlRFdOVWpXMFN5RkZTRDh4bUxBdTV1WmpFLVJ1dDRJTUdmdw?oc=5",
-          "title": "Five Reputable Diamond Sanding Belts Manufacturers in China 2026: Optimizing Superhard Abrasive Machining",
-          "summary": "An overview of top diamond sanding belts manufacturers in China highlights the ongoing optimization of superhard abrasive machining technologies.",
-          "why": "Diamond and superhard abrasives represent the high-performance tier of surface finishing, essential for advanced metal and hard-material applications.",
-          "action": "Keep track of Chinese superhard abrasive manufacturing standards to evaluate high-end product sourcing options.",
-          "th": {
-            "title": "5 ผู้ผลิตสายพานขัดเพชรชั้นนำในจีนปี 2026: การเพิ่มประสิทธิภาพการตัดเฉือนด้วยสารขัดความแข็งสูง",
-            "summary": "ภาพรวมของผู้ผลิตสายพานขัดเพชรชั้นนำในประเทศจีน เน้นย้ำถึงการพัฒนาเทคโนโลยีการตัดเฉือนด้วยวัสดุขัดความแข็งสูงอย่างต่อเนื่อง",
-            "why": "วัสดุขัดประเภทเพชรและวัสดุความแข็งสูงถือเป็นกลุ่มผลิตภัณฑ์เกรดพรีเมียมที่จำเป็นสำหรับงานโลหะขั้นสูงและวัสดุแข็งพิเศษ",
-            "action": "ติดตามมาตรฐานการผลิตสารขัดความแข็งสูงจากจีนเพื่อประเมินทางเลือกในการจัดหาผลิตภัณฑ์ระดับไฮ엔ด"
-          }
-        },
-        {
-          "id": "20260819-w2",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "marketresearchfuture.com",
-          "date": "2026-08-07",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mZllSOV9OY2h5RnNMTk54ZmNTQVdqcVJsR2FzMHZBUHVQZHdzVkRXUlZlU1pRVU9BU1ZzZExoT19uRmRFQllDblVySEstdXptY1U0R3pDUWRqN2pkVmg5dTF2QzJud1pMS1BwTDdxVGFXcHB2WWsxZA?oc=5",
-          "title": "Automotive Industry 2026, Size, Company, Growth, Trends 2035 Market Size, Share & Growth Report 2035 | MRFR",
-          "summary": "Recent market reports outline long-term growth and structural shifts in the global automotive industry through 2035.",
-          "why": "Automotive manufacturing is a core consumer of industrial abrasives for body panels, welds, and powertrain components.",
-          "action": "Align inventory forecasts with steady long-term demand from automotive supply chains.",
-          "th": {
-            "title": "รายงานขนาด ส่วนแบ่ง และการเติบโตของอุตสาหกรรมยานยนต์ปี 2026 ถึง 2035 | MRFR",
-            "summary": "รายงานตลาดล่าสุดระบุถึงการเติบโตระยะยาวและการเปลี่ยนแปลงเชิงโครงสร้างในอุตสาหกรรมยานยนต์ระดับโลกจนถึงปี 2035",
-            "why": "อุตสาหกรรมการผลิตยานยนต์เป็นลูกค้ารายหลักที่ใช้วัสดุขัดอุตสาหกรรมสำหรับงานตัวถัง รอยเชื่อม และชิ้นส่วนเครื่องยนต์",
-            "action": "ปรับการคาดการณ์สินค้าคงคลังให้สอดคล้องกับความต้องการระยะยาวจากห่วงโซ่อุปทานยานยนต์"
-          }
-        },
-        {
-          "id": "20260819-w3",
-          "tag": "steel",
-          "rating": "green",
-          "source": "news.metal.com",
-          "date": "2026-05-19",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMmw1akRRMFZCQ2I5NGhHdE1NOXhoaE1GY0h5UmxlQVNUVGxHTko2U0NBQ0o0Q19ZYmZ1VnBCTTB6a2JJQTFNOUpDSUtpWXdaR3hkeGhlOXF4dF9yUElCd1ZkWTl4MmZGOWhVeUlXc2VCMXFCOHQzZ0ZGZ1RtZ3p6aUNObEczWFhKMkdKQ3JuRWF5SjVNZmpOQVBaSGs4TWJKS1lVa0VTdmoxdDBQTF8zRDlxME1qeEtOUzJzSTBERURobWltWTlVUlpaZ3d2WlFRNEY1b0UwbVVfLXc0cXBZ?oc=5",
-          "title": "Nucor: 100% EAF, High Profits, and Vertical Integration Mitigating Costs",
-          "summary": "Nucor's 100% Electric Arc Furnace (EAF) model demonstrates high profitability and cost mitigation through vertical integration.",
-          "why": "EAF steel production impacts local metal fabrication and finishing requirements, shifting steel quality and surface scale characteristics.",
-          "action": "Monitor EAF steel adoption trends as they influence grinding and deburring needs in structural steel fabrication.",
-          "th": {
-            "title": "Nucor: โมเดลเตาอาร์คไฟฟ้า 100%, กำไรสูง และการบูรณาการในแนวดิ่งเพื่อลดต้นทุน",
-            "summary": "โมเดลเตาอาร์คไฟฟ้า (EAF) 100% ของ Nucor แสดงให้เห็นถึงความสามารถในการทำกำไรสูงและการลดต้นทุนผ่านการบูรณาการในแนวดิ่ง",
-            "why": "การผลิตเหล็กด้วยเตา EAF ส่งผลต่อความต้องการในงานแปรรูปและตกแต่งผิวโลหะในท้องถิ่น รวมถึงเปลี่ยนแปลงคุณสมบัติพื้นผิวของเหล็ก",
-            "action": "ติดตามแนวโน้มการใช้เหล็กจากเตา EAF เนื่องจากจะส่งผลต่อความต้องการใช้งานเจียรและลบคมในอุตสาหกรรมโครงสร้างเหล็ก"
-          }
-        },
-        {
-          "id": "20260819-w4",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "Precedence Research",
-          "date": "2026-07-21",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOU01tbEkxd3pyNFhxa1NWeFM2QlRlMUFjeWVJRmFMTTF0R3VweWotbFY4WGVtMUhEcFotMlNjZWxRNHFQOUQwcVB2ZzQ2TU11WFBUcWctazlBSjV1aVBlUENkZk9XLWZKd1FUMl93?oc=5",
-          "title": "Paints and Coatings Market Size to Hit USD 293.54 Bn by 2035",
-          "summary": "The global paints and coatings market is projected for steady expansion, reaching significant valuation milestones over the next decade.",
-          "why": "Surface preparation and sanding are critical pre-requisites in the coatings application workflow across multiple industries.",
-          "action": "Identify cross-selling or partnership opportunities with industrial coating applicators who require reliable surface prep abrasives.",
-          "th": {
-            "title": "ตลาดสีและสารเคลือบคาดจะมีมูลค่าแตะ 293.54 พันล้านดอลลาร์สหรัฐภายในปี 2035",
-            "summary": "ตลาดสีและสารเคลือบผิวทั่วโลกคาดว่าจะมีการเติบโตอย่างต่อเนื่อง และบรรลุเป้าหมายมูลค่าครั้งสำคัญในทศวรรษหน้า",
-            "why": "กระบวนการเตรียมพื้นผิวและการขัดกระดาษทรายเป็นขั้นตอนเบื้องต้นที่สำคัญยิ่งในการเคลือบผิวในหลากหลายอุตสาหกรรม",
-            "action": "มองหาโอกาสในการร่วมมือทางธุรกิจหรือขายสินค้าร่วมกับผู้ให้บริการเคลือบผิวอุตสาหกรรมที่ต้องใช้วัสดุขัดเตรียมพื้นผิวที่มีคุณภาพ"
           }
         }
       ]
