@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-09-03",
-      "summary": "Today's briefing highlights advanced manufacturing transformations in global automotive with AI and smart-factory integrations, alongside regional structural shifts in the steel and metal recycling sectors.",
+      "summary": "Today's briefing highlights steady growth in precision finishing technologies like ceramic flap discs and advanced metal-cutting segments alongside regional shifts in steel production and automotive manufacturing.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปรายงานประจำวันนี้เน้นย้ำการเปลี่ยนแปลงด้านการผลิตอัจฉริยะและ AI ในอุตสาหกรรมยานยนต์ระดับโลก ควบคู่ไปกับการเปลี่ยนแปลงโครงสร้างในภาคส่วนเหล็กและการรีไซเคิลโลหะ"
+        "summary": "รายงานแนวโน้มวันนี้เน้นการเติบโตของเทคโนโลยีการขัดตกแต่งผิว เช่น แผ่นเจียรผ้าทรายเซรามิก พร้อมกับการเปลี่ยนแปลงในอุตสาหกรรมเหล็กและการผลิตรถยนต์"
       },
       "items": [
         {
           "id": "20260903-w1",
-          "tag": "auto",
+          "tag": "abrasive",
           "rating": "green",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-09-02",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUUpWSmpHLVowSXdiLUJqcFlpQ3ZfRmdQYjJiTVFCNk00ZW0tM0ZqenQtd2F4emNVNEdzT3Q3amZ3M050YnNuTldQZFQyTlgyX3ByekdEbkdlaURacG5yRlBUSEZucnBQalBmNzVadXVrSDdXcEd0d2t4UXptUzJ5dXZ6ckE1O3RVV3IyUkY4SFdVSERveVJYem0yM3lNbWFUY1dXWHYyRFZ2cXdldWFyRmJTNE4tQ1RXWWp4N3NCN1h5Vmt3d3hEbkFPc2ZqT0k?oc=5",
-          "title": "A global AI manufacturing transformation at Hyundai Motor Group",
-          "summary": "Hyundai Motor Group is rolling out a massive global AI manufacturing transformation, reshaping factory automation and precision assembly workflows.",
-          "why": "Advanced automated lines and AI-driven robotics demand high-precision, consistent automated abrasives for robot-assisted deburring and surface finishing.",
-          "action": "Monitor how major automakers integrate AI robotics to anticipate future requirements for automated sanding media.",
+          "source": "Market Research Future",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY0JpWXlQSC1LeGU2eUdGRW1zTEZ4amNoRXAyUWcxcnpWbEdzWmprSTBFM1htcllTNmQtdlRENmZ2NlhXbV9oNTlJbnJ0RjV5cENzZC1yTUdwM21YRi0wZUxBd1l6ODNDM1NxSUdQcFMwMGpCRnJuY041elNoT1RSRA?oc=5",
+          "title": "Ceramic Flap Disc Market Size, Share & Growth Report 2035",
+          "summary": "The global ceramic flap disc market continues to expand through 2035, driven by heavy metal fabrication and high-performance surface preparation demands.",
+          "why": "Ceramic abrasives are core high-margin product lines for heavy industrial metal grinding and weld blending.",
+          "action": "Ensure strong stock levels and technical marketing for premium ceramic flap discs targeting metal fabricators.",
           "th": {
-            "title": "การเปลี่ยนแปลงการผลิตด้วย AI ระดับโลกของ Hyundai Motor Group",
-            "summary": "Hyundai Motor Group กำลังดำเนินการ трансформации การผลิตด้วย AI ทั่วโลกครั้งใหญ่ ซึ่งปรับเปลี่ยนระบบอัตโนมัติในโรงงานและขั้นตอนการประกอบที่มีความแม่นยำสูง",
-            "why": "สายการผลิตอัตโนมัติขั้นสูงและหุ่นยนต์ที่ขับเคลื่อนด้วย AI ต้องการวัสดุขัดถูแบบอัตโนมัติที่มีความแม่นยำและสม่ำเสมอสูงสำหรับการลบคมและการขัดผิวด้วยหุ่นยนต์",
-            "action": "ติดตามว่าผู้ผลิตรถยนต์รายใหญ่ผสานรวมหุ่นยนต์ AI อย่างไร เพื่อคาดการณ์ความต้องการในอนาคตสำหรับวัสดุกระดาษทรายอัตโนมัติ"
+            "title": "รายงานขนาดส่วนแบ่งและการเติบโตของตลาดแผ่นเจียรผ้าทรายเซรามิก ปี 2035",
+            "summary": "ตลาดแผ่นเจียรผ้าทรายเซรามิกทั่วโลกยังคงขยายตัวอย่างต่อเนื่องจนถึงปี 2035 ขับเคลื่อนโดยงานอุตสาหกรรมขึ้นรูปโลหะหนักและความต้องการเตรียมพื้นผิวประสิทธิภาพสูง",
+            "why": "วัสดุขัดประเภทเซรามิกคือสินค้าทำกำไรสูงสำหรับงานเจียรโลหะหนักและลบแนวเชื่อมในอุตสาหกรรม",
+            "action": "รักษาปริมาณสินค้าในสต็อกและการตลาดเชิงเทคนิคสำหรับแผ่นเจียรเซรามิกเกรดพรีเมียมที่เจาะกลุ่มผู้รับเหมาโลหะ"
           }
         },
         {
           "id": "20260903-w2",
           "tag": "steel",
-          "rating": "green",
-          "source": "Fortune Business Insights",
-          "date": "2026-08-10",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92cGoxdE1hdU1yLU5SOWdZVkp2OFp3VVRVY0pTUTdYR1VMRGtTQld5emF1LWxTV1VvZ0NOT0ZBLWJoNkxJVlVVV0hyd0RDdWlXNW13SDAtbjdtMVYzVC0tdURJeWg2SzBTM3BLQmh5aVliYVQ4eWNidg?oc=5",
-          "title": "Metal Recycling Market Size, Share | Growth Forecast [2034]",
-          "summary": "The global metal recycling market is experiencing steady growth driven by sustainability mandates and raw material cost pressures in heavy industries.",
-          "why": "Recycled metal structures and surfaces require intensive weld cleaning, scale removal, and heavy-duty grinding using specialized abrasives.",
-          "action": "Target suppliers and workshops focused on metal recycling and scrap processing with heavy-duty grinding wheels and surface prep tools.",
+          "rating": "amber",
+          "source": "Shanghai Metals Market",
+          "date": "2026-05-19",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMmw1akRRMFZCQ2I5NGhHdE1NOXhoaE1GY0h5UmxlQVNUVGxHTko2U0NBQ0o0Q19ZYmZ1VnBCTTB6a2JJQTFNOUpDSUtpWXdaR3hkeGhlOXF4dF9yUElCd1ZkWTl4MmZGOWhVeUlXc2VCMXFCOHQzZ0ZGZ1RtZ3p6aUNObEczWFhKMkdKQ3JuRWF5SjVNZmpOQVBaSGs4TWJKS1lVa0VTdmoxdDBQTF8zRDlxME1qeEtOUzJzSTBERURobWltWTlVUlpaZ3d2WlFRNEY1b0UwbVVfLXc0cXBZ?oc=5",
+          "title": "Nucor: 100% EAF, High Profits, and Vertical Integration Mitigating Costs",
+          "summary": "Electric Arc Furnace (EAF) steel production models continue to gain operational efficiency and profitability advantages globally.",
+          "why": "EAF steel mills and local metal service centers are major B2B users of cut-off wheels, grinding discs, and deburring tools.",
+          "action": "Monitor local Thai steel mills shifting toward EAF or recycling scrap, as their finishing supply needs may change.",
           "th": {
-            "title": "ขนาด ส่วนแบ่ง และแนวโน้มการเติบโตของตลาดรีไซเคิลโลหะถึงปี 2034",
-            "summary": "ตลาดรีไซเคิลโลหะทั่วโลกกำลังเติบโตอย่างต่อเนื่องจากข้อกำหนดด้านความยั่งยืนและแรงกดดันด้านต้นทุนวัตถุดิบในอุตสาหกรรมหนัก",
-            "why": "โครงสร้างและพื้นผิวโลหะรีไซเคิลต้องผ่านการทำความสะอาดรอยเชื่อม การขจัดคราบสะเก็ด และการเจียรหนักโดยใช้วัสดุขัดถูเฉพาะทาง",
-            "action": "มุ่งเน้นไปที่ซัพพลายเออร์และเวิร์กช็อปที่เน้นการรีไซเคิลโลหะและการแปรรูปเศษเหล็ก ด้วยล้อเจียรงานหนักและเครื่องมือเตรียมพื้นผิว"
+            "title": "Nucor: เตาหลอมไฟฟ้า (EAF) 100%, กำไรสูง และการบูรณาการในแนวดิ่งเพื่อลดต้นทุน",
+            "summary": "โมเดลการผลิตเหล็กด้วยเตาหลอมไฟฟ้า (EAF) ยังคงเพิ่มประสิทธิภาพการดำเนินงานและความสามารถทำกำไรได้ดีทั่วโลก",
+            "why": "โรงงานเหล็ก EAF และศูนย์บริการโลหะท้องถิ่นเป็นกลุ่มลูกค้า B2B รายใหญ่ที่ใช้ใบตัด ใบเจียร และเครื่องมือลบคม",
+            "action": "ติดตามโรงงานเหล็กในไทยที่หันมาใช้เตาหลอมไฟฟ้าหรือรีไซเคิลเศษเหล็ก เนื่องจากความต้องการวัสดุขัดตกแต่งอาจปรับเปลี่ยนไป"
           }
         },
         {
           "id": "20260903-w3",
           "tag": "auto",
           "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-07-23",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZDRQV1lyajBPaFY5UV9pQkxKcXpvRzQ5ejJOcEM5QzgyaXByMHg4MWtaX0pHT3VtV2tPRFVPUjJFdGhBcTNoWDRKOTZ4ekkzeGpOamJMT2R6M2psbHBoNEV6dlMyWW5yM3hkVjZjM0xCV1FNQ2dLamFSTHcyNTB4dEdJZkpsRmtBSUZJeF9FYW9sT0ZHdGNhV2F3RHpOLXp6RUI0SWY0SWNSM0hxM19pYS1DeEZ5ZGdhZHpyUg?oc=5",
-          "title": "Ford and Geely unite in Valencia: smart-factory momentum!",
-          "summary": "Ford and Geely are combining efforts and manufacturing momentum in Valencia, highlighting cross-border cooperation for smart factory adoption.",
-          "why": "Smart factories standardize tooling requirements globally, impacting local Tier-1 and Tier-2 suppliers who must adopt approved high-performance surface treatment products.",
-          "action": "Keep track of joint ventures and supply chain localization moves to understand changing tier supplier requirements.",
+          "source": "MarketsandMarkets",
+          "date": "2026-08-19",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYlJqMkVNeUFMQUJMdEFrTmVOTUM0aWhXWEJjNWViSzE4ckF0TkI4UmFIVnpkNENDbW9tRk5XeWtrbUwzQ1lxQU84aDdjeHh0OXdzSXFzMktlYkxtOEtESTg1bWdZVzZWWjNCcEh0YUl4SHlYbGpyTXZwTWF2S3lBQ3pfdnhCWDVwN1NabGxtRTRHemV3WXhBdElfX3ViNjkyS24zank5cll3a1VOMVRtSS13?oc=5",
+          "title": "South-Korea Automotive Manufacturing Equipment Market Size, Share, Trends",
+          "summary": "South Korea's automotive equipment manufacturing sector highlights ongoing technology upgrades and factory automation investments.",
+          "why": "Automotive Tier-1 and Tier-2 suppliers in Asia rely heavily on automated sanding, deburring, and surface prep solutions.",
+          "action": "Explore robotic or automated surface finishing trends to support regional auto part makers upgrading their lines.",
           "th": {
-            "title": "Ford และ Geely ร่วมมือกันในบาเลนเซีย: โมเมนตัมโรงงานอัจฉริยะ!",
-            "summary": "Ford และ Geely กำลังรวมพลังและขับเคลื่อนการผลิตในบาเลนเซีย สะท้อนถึงความร่วมมือข้ามพรมแดนเพื่อนำโรงงานอัจฉริยะมาใช้",
-            "why": "โรงงานอัจฉริยะทำให้ข้อกำหนดด้านเครื่องมือเป็นมาตรฐานเดียวกันทั่วโลก ซึ่งส่งผลกระทบต่อซัพพลายเออร์ Tier-1 และ Tier-2 ในท้องถิ่นที่ต้องใช้ผลิตภัณฑ์เตรียมพื้นผิวประสิทธิภาพสูงที่ได้รับการอนุมัติ",
-            "action": "ติดตามความร่วมมือทางธุรกิจและการแปลเป็นท้องถิ่นของห่วงโซ่อุปทานเพื่อทำความเข้าใจข้อกำหนดของซัพพลายเออร์ที่เปลี่ยนแปลงไป"
+            "title": "ขนาด ส่วนแบ่ง และแนวโน้มตลาดอุปกรณ์การผลิตรถยนต์ในเกาหลีใต้",
+            "summary": "ภาคการผลิตอุปกรณ์ยานยนต์ของเกาหลีใต้แสดงให้เห็นถึงการอัปเกรดเทคโนโลยีและการลงทุนด้านระบบอัตโนมัติในโรงงานอย่างต่อเนื่อง",
+            "why": "ผู้ผลิตชิ้นส่วนยานยนต์ Tier-1 และ Tier-2 ในเอเชียพึ่งพาโซลูชันการขัด การลบคม และการเตรียมพื้นผิวแบบอัตโนมัติสูง",
+            "action": "ศึกษาแนวโน้มการขัดผิวด้วยหุ่นยนต์หรือระบบอัตโนมัติ เพื่อรองรับผู้ผลิตชิ้นส่วนรถยนต์ในภูมิภาคที่กำลังอัปเกรดไลน์ผลิต"
           }
         }
       ]
