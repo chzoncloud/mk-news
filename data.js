@@ -2,6 +2,89 @@
 window.NEWS_ARCHIVE = {
   "days": [
     {
+      "date": "2026-09-03",
+      "summary": "Today has relatively few brand-new updates. The key highlight is the government's newly unveiled EV tax blueprint enforcing higher local content, which promises increased domestic metal stamping and grinding work.",
+      "directCount": 1,
+      "th": {
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก ไฮไลต์สำคัญคือพิมพ์เขียวภาษี EV ใหม่ที่เน้นเงื่อนไข Local Content เพื่อผลักดันให้เกิดการผลิตและแปรรูปชิ้นส่วนโลหะภายในประเทศมากขึ้น"
+      },
+      "items": [
+        {
+          "id": "20260903-1",
+          "tag": "auto",
+          "rating": "green",
+          "source": "Thansettakij",
+          "date": "2026-09-02",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fNEFKazhlWFNJakhEMmEwd1BfWFJUeng5WEdvY09zOW4taXFvSkJCdG9xVHFZem9HU1BxREJnVTZJUmNhMkVUMmVYWnRuNHNTaWtVYWRB?oc=5",
+          "title": "Government Unveils EV Tax Blueprint to Mandate Local Content and Position Thailand as Export Hub",
+          "summary": "The Thai government released a comprehensive EV tax roadmap designed to attract foreign investment while mandating strict local content requirements to make Thailand a regional export hub.",
+          "why": "Stricter local content mandates require automakers to source and fabricate metal body parts, chassis, and brackets domestically, driving immediate abrasive usage for deburring and surface preparation.",
+          "action": "Target Tier 1 and Tier 2 stamping and welding suppliers serving EV assembly lines with heavy-duty flap discs and zirconia belts.",
+          "th": {
+            "title": "เปิดพิมพ์เขียวภาษี EV ดึงลงทุน ปั้นไทย Export Hub ดัน Local Content เพิ่มมูลค่า",
+            "summary": "รัฐบาลเปิดพิมพ์เขียวโครงสร้างภาษี EV ดึงดูดเม็ดเงินลงทุนต่างชาติ พร้อมกำหนดเงื่อนไขสัดส่วนชิ้นส่วนในประเทศ (Local Content) เพื่อปั้นไทยเป็นศูนย์กลางส่งออก",
+            "why": "การบังคับใช้ชิ้นส่วนในประเทศจะกระตุ้นให้เกิดงานปั๊มขึ้นรูป เชื่อม และขัดแต่งผิวชิ้นส่วนโลหะในไทยมากขึ้น ส่งผลให้ความต้องการใช้วัสดุขัดและผ้าทรายเพิ่มขึ้นโดยตรง",
+            "action": "เร่งเข้าพบโรงงานชิ้นส่วน Tier 1 และ Tier 2 ฝ่ายปั๊มและเชื่อมประกอบโครงสร้างรถยนต์เพื่อเสนอจานทรายซ้อนและสายพานขัดเซอร์โคเนีย"
+          }
+        },
+        {
+          "id": "20260903-2",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Brand Inside",
+          "date": "2026-08-14",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNnp5aUZLY2RzNjVBTHl1dVozcFVRLS1hZUtiY1lBOFlOZXJFX3RoMU11dm9ISDBVMG40Y09JOUJ2QmVGV3hHWjNPdFRySDVRYmZWLXd0UjJlUGh1Z0gzaUFPcUpXT0Z1Y0h0TkN3S19wYVp0QVhVdnlrd0NUbjZSUm9qRQ?oc=5",
+          "title": "Indonesia Aggressively Courts Toyota with Full Incentives, Threatening Thailand's Manufacturing Base",
+          "summary": "Indonesia is preparing aggressive tax incentives and policy packages to persuade Toyota to shift regional production lines away from Thailand.",
+          "why": "Japanese automotive supply chains form MK's primary customer base; any loss of production lines to Indonesia directly cuts long-term metal finishing volumes in Thailand.",
+          "action": "Deepen relationships with Japanese Tier 1 part makers by offering annual consignment stock contracts and technical audit services to secure existing volume.",
+          "th": {
+            "title": "เมื่อ ‘อินโดนีเซีย’ ชวน Toyota ย้ายประเทศ พร้อมให้ทุกอย่าง หวั่นกระทบฐานผลิตยานยนต์ไทย",
+            "summary": "อินโดนีเซียเดินเกมรุกจัดแพ็กเกจสิทธิประโยชน์เต็มรูปแบบเพื่อจูงใจให้โตโยต้าย้ายสายการผลิตจากไทยไปอินโดนีเซีย",
+            "why": "ซัพพลายเชนยานยนต์ญี่ปุ่นคือลูกค้ากลุ่มหลักของ MK หากมีการย้ายฐานผลิตจริงจะกระทบต่อยอดการใช้กระดาษทรายและหินเจียรในระยะยาว",
+            "action": "เสริมความสัมพันธ์กับโรงงานชิ้นส่วนญี่ปุ่น Tier 1 ผ่านสัญญาบริการสต็อกสินค้า (Consignment) และบริการตรวจสอบประสิทธิภาพงานขัดเพื่อรักษาฐานลูกค้าเดิม"
+          }
+        },
+        {
+          "id": "20260903-3",
+          "tag": "aero",
+          "rating": "amber",
+          "source": "Thansettakij",
+          "date": "2026-08-01",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJbG91NDM0Z1ZuZmRPYUc4dlRzSXYwVXRnb1l5dGZyZUJLSDZqUXhOSnVzSXVQeTdRME04Y1c5TVB5SC0wOENDcm9VeDhaT3Fha0ZocE90aEgzNXpNOGVmYklR?oc=5",
+          "title": "Thai Airways Invests 100 Billion Baht to Expand Fleet to 150 Aircraft",
+          "summary": "Thai Airways has announced a 100-billion-baht fleet expansion to operate 150 aircraft, aiming to reclaim its standing among premier global carriers.",
+          "why": "A significantly larger commercial fleet in Thailand creates massive downstream maintenance needs, expanding domestic market capacity for certified aerospace-grade abrasives.",
+          "action": "Initiate partner outreach with certified aerospace consumables distributors to evaluate certified non-woven and orbital sanding discs for aircraft maintenance.",
+          "th": {
+            "title": "การบินไทยทุ่มแสนล้าน ขยายฝูงบิน 150 ลำ ทวงบัลลังก์สายการบินระดับโลก",
+            "summary": "การบินไทยเดินหน้าแผนลงทุนกว่า 1 แสนล้านบาท ขยายฝูงบินสู่ 150 ลำ เพื่อฟื้นฟูศักยภาพและขยายเส้นทางบินระดับโลก",
+            "why": "ฝูงบินขนาดใหญ่ขึ้นในประเทศนำมาซึ่งรอบการตรวจซ่อมบำรุงอากาศยาน (MRO) และงานขัดลอกสีเตรียมผิวโลหะ/คอมโพสิตที่เพิ่มขึ้นอย่างมหาศาลในอนาคต",
+            "action": "เริ่มติดต่อตัวแทนจำหน่ายอุปกรณ์การบินเพื่อนำเสนอแผ่นขัดกลมและใยสังเคราะห์ขัดผิวเกรดการบินสำหรับงานซ่อมบำรุงอากาศยาน"
+          }
+        },
+        {
+          "id": "20260903-4",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "Thairath.co.th",
+          "date": "2026-05-22",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5yOEdKVkRNRnBpc1dWRGRuNzNtN1NHR09mSlc3eHpQem1iLUg4TVY0bkN2eDF4bWhhZ3JfTU5idGxKN2trZUJfS1hRMlkxZHQ5T29sTVBMdU5fTHR0V09GQ2h0c19ZSGRrVU9oaTI3eVQydWc?oc=5",
+          "title": "Industry Ministry Cracks Down on Substandard Mills, Backed by 10 Steel Associations",
+          "summary": "10 steel associations commended the Ministry of Industry for aggressive inspections and closures of substandard steel plants failing Thai Industrial Standards.",
+          "why": "Removing illegal and substandard producers stabilizes fair pricing and helps legitimate steel fabricators, who are consistent buyers of high-grade grinding and cutting wheels.",
+          "action": "Focus sales efforts on certified domestic structural and fabrication mills benefiting from the regulatory enforcement.",
+          "th": {
+            "title": "10 สมาคมเหล็กปลื้มกระทรวงอุตสาหกรรม เดินหน้าเชือดโรงงานผลิตเหล็กไม่ได้มาตรฐาน",
+            "summary": "10 สมาคมเหล็กขานรับมาตรการเข้มงวดของกระทรวงอุตสาหกรรมในการปราบปรามและสั่งปิดโรงงานเหล็กที่ไม่ได้มาตรฐาน มอก.",
+            "why": "การกวาดล้างโรงงานไร้มาตรฐานช่วยให้ผู้ผลิตเหล็กโครงสร้างและโรงงานแปรรูปโลหะมาตรฐานในไทยฟื้นตัว ซึ่งกลุ่มนี้เป็นผู้บริโภคหินเจียรและใบตัดคุณภาพสูงอย่างต่อเนื่อง",
+            "action": "มุ่งเน้นการขายใบเจียรและใบตัดให้กับโรงงานแปรรูปเหล็กโครงสร้างที่ได้รับมาตรฐาน มอก. ซึ่งได้รับอานิสงส์จากการปราบปรามนี้"
+          }
+        }
+      ],
+      "terms": {}
+    },
+    {
       "date": "2026-09-02",
       "summary": "Today brings limited fresh news, but key automotive developments stand out. Mazda's 7.4-billion-baht factory expansion in Thailand directly boosts auto parts grinding demand, while Toyota reassures suppliers by clarifying that its Vietnam investment will not replace its Thai manufacturing base.",
       "directCount": 1,
@@ -563,72 +646,7 @@ window.NEWS_ARCHIVE = {
         }
       ],
       "terms": {}
-    },
-    {
-      "date": "2026-08-19",
-      "summary": "Today has limited new updates. Key developments highlight government confidence in retaining Thailand's 30-year Japanese automotive supply chain, alongside export expansion drives in the wood processing sector.",
-      "directCount": 1,
-      "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยประเด็นสำคัญมุ่งเน้นไปที่ความเชื่อมั่นของภาครัฐต่อการรักษาฐานห่วงโซ่อุปทานยานยนต์ญี่ปุ่นในไทย และการเร่งขยายตลาดส่งออกของอุตสาหกรรมแปรรูปไม้"
-      },
-      "items": [
-        {
-          "id": "20260819-1",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "thansettakij",
-          "date": "2026-08-17",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WWEV1UnZlanVnUFR0RHUyNk9GbjE1dXlxbFpJNThfWER4NVoxQjI4bWVJWnhXc1lZOXdVelhzcFF4UTdQWlF4NGhkcVlkazBtaE80bGZ3?oc=5",
-          "title": "NESDC Confident Toyota Will Retain Thai Base, Citing 30-Year Supply Chain Strength",
-          "summary": "The National Economic and Social Development Council (NESDC) dismissed relocation fears, emphasizing that Toyota's deeply rooted 30-year local component supply chain gives Thailand an irreplaceable competitive advantage over regional peers.",
-          "why": "Reassurance of Toyota's long-term presence protects production volumes among tier-1 and tier-2 Japanese auto-parts makers, which are our core abrasive customers.",
-          "action": "Maintain active engagement and stable abrasive supply agreements with Tier-1/2 Japanese stamping and machining vendors.",
-          "th": {
-            "title": "สศช. มั่นใจโตโยต้าไม่ย้ายฐานหนีไทย ชูจุดแข็งห่วงโซ่อุปทานแกร่ง 30 ปี",
-            "summary": "สศช. ยืนยันความเชื่อมั่นว่าโตโยต้าจะไม่ย้ายฐานการผลิตไปอินโดนีเซีย โดยชี้ว่าห่วงโซ่อุปทานชิ้นส่วนยานยนต์ในไทยที่สั่งสมมากว่า 30 ปี เป็นจุดแข็งที่คู่แข่งในภูมิภาคทดแทนได้ยาก",
-            "why": "ความชัดเจนว่าโตโยต้ายังคงปักหลักในไทยช่วยพยุงเสถียรภาพยอดผลิตของโรงงานชิ้นส่วนยานยนต์ค่ายญี่ปุ่น ซึ่งเป็นกลุ่มลูกค้าหลักของวัสดุขัดเรา",
-            "action": "รักษาความสัมพันธ์และเดินหน้าทำสัญญาคู่ค้ากับโรงงานปั๊มขึ้นรูปและกลึงโลหะของซัพพลายเออร์ญี่ปุ่นอย่างต่อเนื่อง"
-          }
-        },
-        {
-          "id": "20260819-2",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "pptvhd36",
-          "date": "2026-08-17",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VVXpZQTNMcElKdnRFaFZYMWJoVl9iZUlPOC15UlV3aHFZZHR5aU9CSTU5aU1DM2tNWFp1cjh3TXJzSmhrLTB4ZHZZNUFQTEtBTHktSWhVajBYUkk?oc=5",
-          "title": "Analysis Compares Industrial Impact of Japanese Automakers vs Chinese EV Entrants",
-          "summary": "Industry analysis contrasts the broad domestic value added by traditional Japanese auto ecosystems with newcomer Chinese EV makers that rely heavily on imported integrated sub-assemblies.",
-          "why": "Japanese automakers drive far higher domestic mechanical finishing and grinding demand than localized Chinese EV assembly plants.",
-          "action": "Target abrasives promotion at Japanese hybrid/ICE component factories while developing specialized surface-finishing kits for new EV sheet metal lines.",
-          "th": {
-            "title": "วิเคราะห์ผลประโยชน์อุตสาหกรรม 'ค่ายญี่ปุ่น vs ค่ายจีน' บนสมรภูมิยานยนต์ไทย",
-            "summary": "บทวิเคราะห์เปรียบเทียบมูลค่าทางเศรษฐกิจ พบว่าค่ายญี่ปุ่นสร้างการจ้างงานและใช้วัตถุดิบในประเทศสูงกว่า ขณะที่ค่ายรถยนต์ไฟฟ้าจีนยังพึ่งพาการนำเข้าชิ้นส่วนสำเร็จรูปเป็นหลัก",
-            "why": "โรงงานซัพพลายเออร์ค่ายญี่ปุ่นก่อให้เกิดการเจียร ขัดแต่งผิว และลบครีบชิ้นงานโลหะในประเทศมากกว่าสายการประกอบ EV ของจีน",
-            "action": "เน้นทำตลาดวัสดุขัดกับโรงงานชิ้นส่วน ICE/Hybrid ค่ายญี่ปุ่น ควบคู่กับการพัฒนาชุดขัดผิวเฉพาะทางสำหรับงานตัวถัง EV"
-          }
-        },
-        {
-          "id": "20260819-3",
-          "tag": "furniture",
-          "rating": "green",
-          "source": "thansettakij",
-          "date": "2026-07-12",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTbVhNaVNKdGxyaVdOOEpkRmV6YnRxaEVaMk1FdFdsTUNFLXZBZFR2YVBCS09LSGxzX3BtMG14VEZjVVRVZnhxMURPWXlxdUhPak5hay1R?oc=5",
-          "title": "Thai Wood Industry Accelerates Global Business Linkages to Boost Export Value",
-          "summary": "The Thai timber and wood processing sector is aggressively establishing international trade networks to expand exports of high-value engineered wood and finished furniture.",
-          "why": "Increased output of processed wood and furniture directly elevates factory consumption of wide sanding belts, abrasive paper, and orbital sanding discs.",
-          "action": "Deploy specialized wood-sanding abrasive belt solutions to export-focused wood processing and furniture manufacturing plants.",
-          "th": {
-            "title": "อุตสาหกรรมไม้ไทยเร่งเครื่อง เชื่อมเครือข่ายธุรกิจโลก ดันมูลค่าส่งออกโต",
-            "summary": "กลุ่มอุตสาหกรรมไม้และแปรรูปไม้ของไทยเร่งขยายเครือข่ายพันธมิตรการค้าในตลาดต่างประเทศ เพื่อผลักดันการส่งออกผลิตภัณฑ์ไม้แปรรูปและเฟอร์นิเจอร์มูลค่าสูง",
-            "why": "การเร่งกำลังผลิตไม้แปรรูปและเฟอร์นิเจอร์ส่งผลให้เกิดการใช้กระดาษทรายสายพานกว้าง (Wide Belts) และกระดาษทรายกลมสำหรับงานขัดไม้เพิ่มขึ้นโดยตรง",
-            "action": "นำเสนอโซลูชันสายพานขัดและจานขัดไม้ประสิทธิภาพสูงแก่โรงงานแปรรูปไม้และผู้ผลิตเฟอร์นิเจอร์ส่งออก"
-          }
-        }
-      ],
-      "terms": {}
     }
   ],
-  "updated": "2026-09-02"
+  "updated": "2026-09-03"
 };
