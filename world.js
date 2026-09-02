@@ -4,10 +4,10 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-09-02",
-      "summary": "Today's global briefing focuses on niche high-precision finishing tech like abrasive sponges driven by electronics, and supply chain shifts in green-steel hubs and EAF production methods.",
+      "summary": "Today's briefing highlights niche finishing demands such as nonwoven abrasive pads and precision lap-films alongside EV assembly and steel market pressures.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปทรนด์โลกประจำวันเน้นเทคโนโลยีการขัดแต่งความแม่นยำสูง เช่น ฟองน้ำขัดที่เติบโตจากภาคอิเล็กทรอนิกส์ และการเปลี่ยนแปลงห่วงโซ่อุปทานในอุตสาหกรรมเหล็กเขียวและเตาหลอม EAF"
+        "summary": "สรุปข่าววันนี้เน้นความต้องการกลุ่มสินค้าขัดผิวเฉพาะทาง เช่น แผ่นขัดนอนวูฟเวนและฟิล์มขัดความละเอียดสูง ควบคู่ไปกับกระแสการประกอบ EV และแรงกดดันในตลาดเหล็ก"
       },
       "items": [
         {
@@ -15,54 +15,71 @@ window.WORLD_ARCHIVE = {
           "tag": "abrasive",
           "rating": "green",
           "source": "IndexBox",
-          "date": "2026-08-27",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZVNoQXZTcE5rVFdTaVAtc2pzYXA4bDJhUW1yNWd5RllQcTJMQ0xBN0ozandZMFZERUxfWUVRNU9odHV3RkVFUDNhejBkYy1KVVJmZlBsVXdQTG9qOU9Dck1yLUx2dmd2YWZ4Um80SWdTMzhIeF9DeVZiQzJ1QWRWWG45YmxvOFR1QVpEcHNld0ZvTE91dVZ2dm04dURCRVJ4bmZMZTVsQUtLVXFBenNJeFVyS1BNQmhEVEJjT0d2M3hXU0hUbkd0TWVjSmN6dkZ4",
-          "title": "Abrasive Sponges Market to Hit 5.2% CAGR Through 2035 as Electronics Sector Drives 28% of Demand",
-          "summary": "The global abrasive sponges market is projected to expand steadily, with electronics manufacturing accounting for over a quarter of total demand due to needs for fine surface preparation.",
-          "why": "Highlights the growing importance of flexible, specialized abrasives like sponges in high-tech electronics components rather than just heavy metal fabrication.",
-          "action": "Consider exploring or expanding our line of flexible sanding sponges tailored for electronics and precision parts finishing.",
+          "date": "2026-09-01",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNTZrVFZaaFVPeVI2RnpoOXlHUXJhVHFSQ0hNZmFDU1lTNTdFYWhRa2ZBcFVseGZzZjRzSENYMjd5RkNLUks4aXlkUlliM1FHcFZJb2FrVkdQXzczbC1ORkNrMnRIelkxYkpyUTJBXy13cXFiWUg0MEdmVVNUaElWWA?oc=5",
+          "title": "Nonwoven Abrasive Pads Market Outlook to 2035",
+          "summary": "The global market for nonwoven abrasive pads is projected for steady expansion through 2035, driven by surface conditioning and blending needs in metal fabrication.",
+          "why": "Nonwoven abrasives are core products for surface finishing, blending, and deburring in metalworking and automotive workshops.",
+          "action": "Evaluate our nonwoven product lineup and stock availability for metal surface preparation.",
           "th": {
-            "title": "ตลาดฟองน้ำขัด (Abrasive Sponges) คาดโต 5.2% สู่ปี 2035 หนุนโดยภาคอิเล็กทรอนิกส์",
-            "summary": "ตลาดฟองน้ำขัดทั่วโลกเติบโตอย่างต่อเนื่อง โดยภาคการผลิตอิเล็กทรอนิกส์ครองสัดส่วนความต้องการกว่า 25% จากความต้องการเตรียมพื้นผิวที่มีความละเอียดสูง",
-            "why": "แสดงให้เห็นถึงความสำคัญที่เพิ่มขึ้นของวัสดุกัดกร่อนแบบยืดหยุ่นและจำเพาะ เช่น ฟองน้ำขัด ในชิ้นส่วนอิเล็กทรอนิกส์ไฮเทค นอกเหนือจากงานโลหะหนัก",
-            "action": "พิจารณาศึกษาหรือขยายกลุ่มผลิตภัณฑ์ฟองน้ำขัดยืดหยุ่นที่เหมาะกับงานตกแต่งชิ้นส่วนอิเล็กทรอนิกส์และความแม่นยำสูง"
+            "title": "แนวโน้มตลาดแผ่นขัดนอนวูฟเวน (Nonwoven Abrasive Pads) สู่ปี 2035",
+            "summary": "ตลาดโลกของแผ่นขัดนอนวูฟเวนคาดว่าจะเติบโตอย่างต่อเนื่องจนถึงปี 2035 ขับเคลื่อนโดยความต้องการการปรับสภาพพื้นผิวและการขัดเกล็ดงานโลหะ",
+            "why": "สินค้ากลุ่มนอนวูฟเวนคือหัวใจสำคัญสำหรับงานขัดผิว ลบคม และเตรียมพื้นผิวโลหะในอุตสาหกรรมและอู่ซ่อมรถ",
+            "action": "ตรวจสอบกลุ่มผลิตภัณฑ์แผ่นขัดนอนวูฟเวนและสต็อกสินค้าสำหรับงานเตรียมพื้นผิวโลหะของเรา"
           }
         },
         {
           "id": "20260902-w2",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "SMM Metal",
-          "date": "2026-05-19",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMmw1akRRMFZCQ2I5NGhHdE1NOXhoaE1GY0h5UmxlQVNUVGxHTko2U0NBQ0o0Q19ZYmZ1VnBCTTB6a2JJQTFNOUpDSUtpWXdaR3hkeGhlOXF4dF9yUElCd1ZkWTl4MmZGOWhVeUlXc2VCMXFCOHQzZ0ZGZ1RtZ3p6aUNObEczWFhKMkdKQ3JuRWF5SjVNZmpOQVBaSGs4TWJKS1lVa0VTdmoxdDBQTF8zRDlxME1qeEtOUzJzSTBERURobWltWTlVUlpaZ3d2WlFRNEY1b0UwbVVfLXc0cXBZ",
-          "source_name": "SMM Metal",
-          "title": "Nucor: 100% EAF, High Profits, and Vertical Integration Mitigating Costs",
-          "summary": "Leading steelmaker Nucor continues to showcase the profitability and operational resilience of 100% Electric Arc Furnace (EAF) steel production and vertical integration.",
-          "why": "EAF and scrap-based steel production processes impact the types of surface defects and scaling, directly influencing the grinding and deburring tools needed by metal fabricators.",
-          "action": "Monitor how EAF-based steel adoption changes local metal hardness and surface finishing requirements.",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOREZURUtNaklQRGZ4by1fNWNRRTc3MUdUdVVyeW5IR0xja3BuMGFlQmtaQmZHMnZ4ZnNMSDJUbVpoYmlCVndBRG5QZGpFWF9PS0NySGw1dWE4d3NXRmpVYTMzRElVeFVERHpIcGxaQ0ZjajVBRWlsZG5fd1NFVXBEUC1PYy00XzhVNEVISUFUa0JZZkwyeldxQ1hneUFNX0JJQ0puY2RBaWVubXlFZzgxVE05d2d5c0lzUXFpX1EySQ?oc=5",
+          "title": "Abrasive Lapping Film Market Forecast 2035: Precision Finishing Demand Drives Growth",
+          "summary": "Precision finishing requirements across electronics, optics, and advanced components are pushing steady growth in abrasive lapping films.",
+          "why": "Lapping films represent high-margin, ultra-precision polishing technology used where standard sandpaper cannot meet micro-tolerance requirements.",
+          "action": "Keep an eye on ultra-precision finishing trends as high-tech manufacturing grows locally.",
           "th": {
-            "title": "Nucor: ใช้เตาหลอม EAF 100%, ทำกำไรสูง และบูรณาการแนวตั้งเพื่อลดต้นทุน",
-            "summary": "ผู้ผลิตเหล็กชั้นนำอย่าง Nucor ยังคงแสดงให้เห็นถึงความสามารถในการทำกำไรและความยืดหยุ่นในการปฏิบัติงานด้วยการผลิตเหล็กจากเตาอาร์กไฟฟ้า (EAF) 100%",
-            "why": "กระบวนการผลิตเหล็กด้วยเตา EAF และเศษเหล็กส่งผลต่อลักษณะพื้นผิวและสะเก็ดเหล็ก ซึ่งมีผลโดยตรงต่อเครื่องมือเจียรและลบคมที่โรงงานแปรรูปโลหะต้องการ",
-            "action": "ติดตามว่าการใช้งานเหล็กที่ผลิตจากเตา EAF ส่งผลต่อความแข็งของโลหะและความต้องการในการขัดแต่งผิวในท้องถิ่นอย่างไร"
+            "title": "คาดการณ์ตลาดฟิล์มขัดความละเอียดสูง (Lapping Film) ปี 2035: ความต้องการงานขัดผิวละเอียดขับเคลื่อนการเติบโต",
+            "summary": "ความต้องการงานขัดผิวความแม่นยำสูงในอุตสาหกรรมอิเล็กทรอนิกส์และชิ้นส่วนขั้นสูง ผลักดันให้ตลาดฟิล์มขัดเติบโตอย่างต่อเนื่อง",
+            "why": "ฟิล์มขัดความละเอียดสูงเป็นเทคโนโลยีขัดเงาที่มีมูลค่าสูง สำหรับงานที่กระดาษทรายทั่วไปไม่สามารถตอบโจทย์ความละเอียดระดับไมครอนได้",
+            "action": "จับตาดูแนวโน้มงานขัดความแม่นยำสูงตามการเติบโตของอุตสาหกรรมการผลิตไฮเทคในท้องถิ่น"
           }
         },
         {
           "id": "20260902-w3",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "MarketsandMarkets",
+          "date": "2026-07-10",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUXhqQk54c1g4cXhycTVMTFlJY3l2bGNZYU5hWG1zdDRYZmYwM0FaUzVXOTlCTXNCR1dabXhiLTJnMllTWFl6UWt1TE9KMkFqYmxxRUNjcC1nQlFhR3ZPSng5QVNtQnZRMEZ2cGREVGhaa0VPSTVfSkg1UEtlNER4emMyYW83SUkzSGc?oc=5",
+          "title": "EV Assembly Market Report 2026-2035 [486 Pages & 200 Tables]",
+          "summary": "A comprehensive report outlines long-term shifts in electric vehicle assembly lines and factory automation through 2035.",
+          "why": "EV manufacturing processes use different body materials (aluminum/composites) requiring specialized grinding and surface prep tools.",
+          "action": "Note that EV assembly changes will alter the specific abrasives needed for lightweight body weld-seam prep.",
+          "th": {
+            "title": "รายงานตลาดการประกอบรถยนต์ไฟฟ้า (EV Assembly) ปี 2026-2035",
+            "summary": "รายงานฉบับสมบูรณ์ระบุการเปลี่ยนแปลงระยะยาวในสายการประกอบรถยนต์ไฟฟ้าและระบบอัตโนมัติในโรงงานถึงปี 2035",
+            "why": "กระบวนการผลิต EV ใช้โลหะผสมและวัสดุน้ำหนักเบา (เช่น อลูมิเนียมและคอมโพสิต) ซึ่งต้องใช้เครื่องมือขัดและเตรียมผิวที่จำเพาะเจาะจง",
+            "action": "ตระหนักว่าการเปลี่ยนแปลงในสายการประกอบ EV จะส่งผลต่อประเภทกระดาษทรายและใบเจียรที่ใช้เตรียมผิวรอยเชื่อมโครงสร้างรถ"
+          }
+        },
+        {
+          "id": "20260902-w4",
           "tag": "steel",
           "rating": "amber",
-          "source": "McKinsey & Company",
-          "date": "2024-12-19",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUmZkRWlZbWw2NWU2S1hPM1pjSjRIekR0eHpxd1JMcFBySUZ3TzRPVjRLcVp5M2prR0R5a0l4elJKaVFucm13ZXU3MHQ0Tm1UNjVLRmpGc3hvOXpJbzBaaUV1UjlkcktsRDFhb3R3OHBpUGxCS1VzQjVqVWVOSlJTYmlEZk12eGNRc0xfMFpBV2UxQllQN256Z1J0UVNPdmwzeVljVzRVYXlBSkE4ZlJNdDF5MGdoX09JU0szcWJUUXBhcXBodHc",
-          "title": "Green-steel hubs: A pathway to decarbonize the steel industry",
-          "summary": "Global initiatives around green-steel hubs are establishing pathways to decarbonize steel production through hydrogen and low-carbon technologies.",
-          "why": "Green steel production and new alloy compositions can alter metal surface properties, creating new demands for specialized abrasives used in preparation and finishing.",
-          "action": "Keep an eye on regional investments in green steel manufacturing as an indicator of future surface treatment shifts.",
+          "source": "S&P Global",
+          "date": "2026-01-12",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
+          "title": "Global steel industry battles surplus supply, protectionism",
+          "summary": "Global steel markets continue to face oversupply issues and shifting trade protectionism measures across key manufacturing regions.",
+          "why": "Steel availability and local processing volume directly dictate heavy metal fabrication output and abrasive consumption in heavy industries.",
+          "action": "Monitor local steel mill capacity utilization as an indicator of heavy industrial abrasive demand.",
           "th": {
-            "title": "ศูนย์กลางเหล็กสีเขียว (Green-steel hubs): แนวทางในการลดคาร์บอนในอุตสาหกรรมเหล็ก",
-            "summary": "ความริเริ่มระดับโลกเกี่ยวกับศูนย์กลางเหล็กสีเขียว กำลังสร้างเส้นทางเพื่อลดการปล่อยคาร์บอนในการผลิตเหล็กผ่านไฮโดรเจนและเทคโนโลยีคาร์บอนต่ำ",
-            "why": "การผลิตเหล็กสีเขียวและส่วนผสมโลหะผสมใหม่ๆ อาจเปลี่ยนคุณสมบัติพื้นผิวโลหะ ซึ่งสร้างความต้องการใหม่ๆ สำหรับกระดาษทรายและหินเจียรเฉพาะทาง",
-            "action": "จับตาดูการลงทุนระดับภูมิภาคในการผลิตเหล็กสีเขียวเพื่อเป็นสัญญาณบ่งชี้การเปลี่ยนแปลงการเตรียมพื้นผิวในอนาคต"
+            "title": "อุตสาหกรรมเหล็กโลกเผชิญหน้าภาวะอุปทานล้นเกินและลัทธิกีดกันทางการค้า",
+            "summary": "ตลาดเหล็กโลกยังคงประสบปัญหาส่วนเกินการผลิตและมาตรการกีดกันทางการค้าในภูมิภาคอุตสาหกรรมหลัก",
+            "why": "ปริมาณเหล็กและความเคลื่อนไหวของอุตสาหกรรมแปรรูปโลหะส่งผลโดยตรงต่อยอดขายหินเจียรและกระดาษทรายในภาคอุตสาหกรรมหนัก",
+            "action": "ติดตามอัตราการใช้กำลังการผลิตของโรงงานเหล็กในประเทศ เพื่อประเมินทิศทางความต้องการวัสดุขัดในอุตสาหกรรมหนัก"
           }
         }
       ]
