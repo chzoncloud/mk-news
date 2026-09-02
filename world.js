@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-09-02",
+  "updated": "2026-09-03",
   "days": [
+    {
+      "date": "2026-09-03",
+      "summary": "Today's briefing highlights advanced manufacturing transformations in global automotive with AI and smart-factory integrations, alongside regional structural shifts in the steel and metal recycling sectors.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปรายงานประจำวันนี้เน้นย้ำการเปลี่ยนแปลงด้านการผลิตอัจฉริยะและ AI ในอุตสาหกรรมยานยนต์ระดับโลก ควบคู่ไปกับการเปลี่ยนแปลงโครงสร้างในภาคส่วนเหล็กและการรีไซเคิลโลหะ"
+      },
+      "items": [
+        {
+          "id": "20260903-w1",
+          "tag": "auto",
+          "rating": "green",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-09-02",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUUpWSmpHLVowSXdiLUJqcFlpQ3ZfRmdQYjJiTVFCNk00ZW0tM0ZqenQtd2F4emNVNEdzT3Q3amZ3M050YnNuTldQZFQyTlgyX3ByekdEbkdlaURacG5yRlBUSEZucnBQalBmNzVadXVrSDdXcEd0d2t4UXptUzJ5dXZ6ckE1O3RVV3IyUkY4SFdVSERveVJYem0yM3lNbWFUY1dXWHYyRFZ2cXdldWFyRmJTNE4tQ1RXWWp4N3NCN1h5Vmt3d3hEbkFPc2ZqT0k?oc=5",
+          "title": "A global AI manufacturing transformation at Hyundai Motor Group",
+          "summary": "Hyundai Motor Group is rolling out a massive global AI manufacturing transformation, reshaping factory automation and precision assembly workflows.",
+          "why": "Advanced automated lines and AI-driven robotics demand high-precision, consistent automated abrasives for robot-assisted deburring and surface finishing.",
+          "action": "Monitor how major automakers integrate AI robotics to anticipate future requirements for automated sanding media.",
+          "th": {
+            "title": "การเปลี่ยนแปลงการผลิตด้วย AI ระดับโลกของ Hyundai Motor Group",
+            "summary": "Hyundai Motor Group กำลังดำเนินการ трансформации การผลิตด้วย AI ทั่วโลกครั้งใหญ่ ซึ่งปรับเปลี่ยนระบบอัตโนมัติในโรงงานและขั้นตอนการประกอบที่มีความแม่นยำสูง",
+            "why": "สายการผลิตอัตโนมัติขั้นสูงและหุ่นยนต์ที่ขับเคลื่อนด้วย AI ต้องการวัสดุขัดถูแบบอัตโนมัติที่มีความแม่นยำและสม่ำเสมอสูงสำหรับการลบคมและการขัดผิวด้วยหุ่นยนต์",
+            "action": "ติดตามว่าผู้ผลิตรถยนต์รายใหญ่ผสานรวมหุ่นยนต์ AI อย่างไร เพื่อคาดการณ์ความต้องการในอนาคตสำหรับวัสดุกระดาษทรายอัตโนมัติ"
+          }
+        },
+        {
+          "id": "20260903-w2",
+          "tag": "steel",
+          "rating": "green",
+          "source": "Fortune Business Insights",
+          "date": "2026-08-10",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92cGoxdE1hdU1yLU5SOWdZVkp2OFp3VVRVY0pTUTdYR1VMRGtTQld5emF1LWxTV1VvZ0NOT0ZBLWJoNkxJVlVVV0hyd0RDdWlXNW13SDAtbjdtMVYzVC0tdURJeWg2SzBTM3BLQmh5aVliYVQ4eWNidg?oc=5",
+          "title": "Metal Recycling Market Size, Share | Growth Forecast [2034]",
+          "summary": "The global metal recycling market is experiencing steady growth driven by sustainability mandates and raw material cost pressures in heavy industries.",
+          "why": "Recycled metal structures and surfaces require intensive weld cleaning, scale removal, and heavy-duty grinding using specialized abrasives.",
+          "action": "Target suppliers and workshops focused on metal recycling and scrap processing with heavy-duty grinding wheels and surface prep tools.",
+          "th": {
+            "title": "ขนาด ส่วนแบ่ง และแนวโน้มการเติบโตของตลาดรีไซเคิลโลหะถึงปี 2034",
+            "summary": "ตลาดรีไซเคิลโลหะทั่วโลกกำลังเติบโตอย่างต่อเนื่องจากข้อกำหนดด้านความยั่งยืนและแรงกดดันด้านต้นทุนวัตถุดิบในอุตสาหกรรมหนัก",
+            "why": "โครงสร้างและพื้นผิวโลหะรีไซเคิลต้องผ่านการทำความสะอาดรอยเชื่อม การขจัดคราบสะเก็ด และการเจียรหนักโดยใช้วัสดุขัดถูเฉพาะทาง",
+            "action": "มุ่งเน้นไปที่ซัพพลายเออร์และเวิร์กช็อปที่เน้นการรีไซเคิลโลหะและการแปรรูปเศษเหล็ก ด้วยล้อเจียรงานหนักและเครื่องมือเตรียมพื้นผิว"
+          }
+        },
+        {
+          "id": "20260903-w3",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-07-23",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZDRQV1lyajBPaFY5UV9pQkxKcXpvRzQ5ejJOcEM5QzgyaXByMHg4MWtaX0pHT3VtV2tPRFVPUjJFdGhBcTNoWDRKOTZ4ekkzeGpOamJMT2R6M2psbHBoNEV6dlMyWW5yM3hkVjZjM0xCV1FNQ2dLamFSTHcyNTB4dEdJZkpsRmtBSUZJeF9FYW9sT0ZHdGNhV2F3RHpOLXp6RUI0SWY0SWNSM0hxM19pYS1DeEZ5ZGdhZHpyUg?oc=5",
+          "title": "Ford and Geely unite in Valencia: smart-factory momentum!",
+          "summary": "Ford and Geely are combining efforts and manufacturing momentum in Valencia, highlighting cross-border cooperation for smart factory adoption.",
+          "why": "Smart factories standardize tooling requirements globally, impacting local Tier-1 and Tier-2 suppliers who must adopt approved high-performance surface treatment products.",
+          "action": "Keep track of joint ventures and supply chain localization moves to understand changing tier supplier requirements.",
+          "th": {
+            "title": "Ford และ Geely ร่วมมือกันในบาเลนเซีย: โมเมนตัมโรงงานอัจฉริยะ!",
+            "summary": "Ford และ Geely กำลังรวมพลังและขับเคลื่อนการผลิตในบาเลนเซีย สะท้อนถึงความร่วมมือข้ามพรมแดนเพื่อนำโรงงานอัจฉริยะมาใช้",
+            "why": "โรงงานอัจฉริยะทำให้ข้อกำหนดด้านเครื่องมือเป็นมาตรฐานเดียวกันทั่วโลก ซึ่งส่งผลกระทบต่อซัพพลายเออร์ Tier-1 และ Tier-2 ในท้องถิ่นที่ต้องใช้ผลิตภัณฑ์เตรียมพื้นผิวประสิทธิภาพสูงที่ได้รับการอนุมัติ",
+            "action": "ติดตามความร่วมมือทางธุรกิจและการแปลเป็นท้องถิ่นของห่วงโซ่อุปทานเพื่อทำความเข้าใจข้อกำหนดของซัพพลายเออร์ที่เปลี่ยนแปลงไป"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-09-02",
       "summary": "Today's briefing highlights niche finishing demands such as nonwoven abrasive pads and precision lap-films alongside EV assembly and steel market pressures.",
@@ -939,70 +1003,6 @@ window.WORLD_ARCHIVE = {
             "summary": "ภาคอุตสาหกรรมเหล็กทั่วโลกกำลังเผชิญกับความท้าทายครั้งใหญ่จากกำลังการผลิตส่วนเกินและมาตรการกีดกันทางการค้าระหว่างประเทศที่เพิ่มขึ้น",
             "why": "ภาวะเหล็ก้นตลาดและอุปสรรคทางการค้าส่งผลกระทบโดยตรงต่อปริมาณผลผลิต ต้นทุนการผลิต และความต้องการใช้วัสดุขัดและลบคมของกลุ่มผู้แปรรูปโลหะ",
             "action": "ประเมินว่าความผันผวนของราคาระดับภูมิภาคส่งผลต่อปริมาณการสั่งซื้อกระดาษทรายและแผ่นขัดของลูกค้ากลุ่มแปรรูปโลหะอย่างไร"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-08-20",
-      "summary": "Today's briefing features 3 high-impact global insights focusing on ceramic abrasives, surface finishing automation, and European automotive smart-factory developments. We highlight crucial demand shifts toward precision electronics, automation, and advanced manufacturing.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปข่าวประจำวันนี้คัดเลือก 3 ประเด็นสำคัญระดับโลกที่เน้นเรื่องสารขัดถูเซรามิก, ระบบอัตโนมัติในการขัดผิว และการพัฒนาโรงงานอัจฉริยะในอุตสาหกรรมยานยนต์ยุโรป เพื่อให้เห็นทิศทางความต้องการสินค้าที่เปลี่ยนไปสู่อุปกรณ์อิเล็กทรอนิกส์ความแม่นยำสูงและระบบอัตโนมัติ"
-      },
-      "items": [
-        {
-          "id": "20260820-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "Market Research Future",
-          "date": "2026-04-06",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY0JpWXlQSC1LeGU2eUdGRW1zTEZ4amNoRXAyUWcxcnpWbEdzWmprSTBFM1htcllTNmQtdlRENmZ2NlhXbV9oNTlJbnJ0UjV5cENzZC1yTUdwM21YRi0wZUxBd1l6ODNDM1NxSUdQcFMwMGpCRnJuY041elNoT1RSRA?oc=5",
-          "title": "Ceramic Flap Disc Market Size, Share & Growth Report 2035",
-          "summary": "The ceramic flap disc market is expanding steadily through 2035, driven by heavy-duty metal fabrication and surface preparation demands requiring high-performance abrasive grains.",
-          "why": "Ceramic abrasives offer superior cutting speed and lifespan compared to standard aluminum oxide. This represents a high-margin product category for B2B distributors serving metal fabrication and heavy industry.",
-          "action": "Evaluate our ceramic flap disc inventory and consider expanding technical marketing for heavy metal fabrication clients.",
-          "th": {
-            "title": "รายงานขนาดและแนวโน้มตลาดใบเจียรผ้าทรายซ้อนเซรามิก (Ceramic Flap Disc) ถึงปี 2035",
-            "summary": "ตลาดใบเจียรผ้าทรายซ้อนเซรามิกกำลังเติบโตอย่างต่อเนื่องจนถึงปี 2035 ขับเคลื่อนโดยความต้องการในงานขึ้นรูปโลหะหนักและการเตรียมพื้นผิวที่ต้องใช้เม็ดทรายขัดประสิทธิภาพสูง",
-            "why": "วัสดุขัดเซรามิกให้ความเร็วในการตัดและอายุการใช้งานที่เหนือกว่าอลูมิเนียมออกไซด์ทั่วไป ถือเป็นกลุ่มสินค้าที่มีอัตรากำไรสูงสำหรับผู้จัดจำหน่าย B2B ที่ให้บริการงานโลหะและอุตสาหกรรมหนัก",
-            "action": "ประเมินสต็อกสินค้าใบเจียรผ้าทรายซ้อนเซรามิกของเรา และพิจารณาเพิ่มการตลาดเชิงเทคนิคสำหรับกลุ่มลูกค้าแปรรูปโลหะหนัก"
-          }
-        },
-        {
-          "id": "20260820-w2",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-08-16",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUXZZSEZqNzVRV2VWbE81MzNPSVlmeWpoMFI2RUhWYktFbktXWnBuU0h5VFBTbl9haHhXX0xwU0VwMm5mRHFtNDFMZXFGR2hpRjVwZU1BUl90c0hJNnBMYm9GWnFxWUJzTGNQREI5Vl9pSE84dDB6RkkyTFNWNHN0WFRxSXFpdFBFX3VuR0YtY29BSHFjdlRsdEFXNzRnQ1REMWYzRzE0TzZ4Mi1ZX1p1cTlCMnZ0NWhaR0g0?oc=5",
-          "title": "Abrasive Cloth Rolls Market Growth Driven by Automation in Surface Finishing Through 2035",
-          "summary": "Automated surface finishing lines are increasing the demand for consistent, high-durability abrasive cloth rolls capable of integration into robotic and automated machinery.",
-          "why": "Industrial customers are shifting toward automated sanding to reduce labor costs. Abrasive rolls designed for CNC or robotic systems will see higher demand than manual sheets.",
-          "action": "Focus on sourcing abrasive cloth rolls with high tensile strength and uniform backing suitable for automated feeding systems.",
-          "th": {
-            "title": "ตลาดม้วนผ้าทรายขัดเติบโตจากระบบอัตโนมัติในการขัดตกแต่งผิวถึงปี 2035",
-            "summary": "สายการผลิตขัดผิวแบบอัตโนมัติกำลังเพิ่มความต้องการม้วนผ้าทรายขัดที่มีความทนทานสูงและสม่ำเสมอ ซึ่งสามารถนำไปใช้ร่วมกับหุ่นยนต์และเครื่องจักรอัตโนมัติได้",
-            "why": "ลูกค้าภาคอุตสาหกรรมกำลังเปลี่ยนไปใช้ระบบขัดอัตโนมัติเพื่อลดต้นทุนแรงงาน ม้วนผ้าทรายที่ออกแบบมาสำหรับระบบ CNC หรือหุ่นยนต์จะมีความต้องการสูงกว่ากระดาษทรายแผ่นมือ",
-            "action": "มุ่งเน้นการจัดหาม้วนผ้าทรายที่มีความทนทานต่อแรงดึงสูงและมีแผ่นรองรับที่สม่ำเสมอ เหมาะสำหรับระบบป้อนวัสดุอัตโนมัติ"
-          }
-        },
-        {
-          "id": "20260820-w3",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-07-23",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZDRQV1lyajBPaFY5UV9pQkxKcXpvRzQ5ejJOcEM5QzgyaXByMHg4MWtaX0pHT3VtV2tPRFVPUjJFdGhBcTNoWDRKOTZ4ekkzeGpOamJMT2R6M2psbHBoNEV6dlMyWW5yM3hkVjZjM0xCV1FNQ2dLamFSTHcyNTB4dEdJZkpsRmtBSUZJeF9FYW9sT0ZHdGNhV2F3RHpOLXp6RUI0SWY0SWNSM0hxM19pYS1DeEZ5ZGdhZHpyUg?oc=5",
-          "title": "Ford and Geely unite in Valencia: smart-factory momentum!",
-          "summary": "Ford and Geely have joined forces in Valencia, signaling a major push toward smart-factory integration, flexible assembly lines, and advanced manufacturing efficiency in Europe.",
-          "why": "Smart factories require precise robotic tooling, including automated surface preparation and deburring. As automotive manufacturing modernizes, component finishing specs become stricter.",
-          "action": "Keep track of European automotive joint-venture standards for surface finishing as benchmarks for high-end local Tier-1 suppliers in Thailand.",
-          "th": {
-            "title": "Ford และ Geely ร่วมมือกันที่เมืองบาเลนเซีย: แรงขับเคลื่อนโรงงานอัจฉริยะ!",
-            "summary": "Ford และ Geely ได้ร่วมมือกันที่เมืองบาเลนเซีย ซึ่งบ่งชี้ถึงความพยายามครั้งใหญ่ในการบูรณาการโรงงานอัจฉริยะ สายการผลิตที่ยืดหยุ่น และประสิทธิภาพการผลิตขั้นสูงในยุโรป",
-            "why": "โรงงานอัจฉริยะต้องใช้เครื่องมือกลอัตโนมัติที่มีความแม่นยำสูง รวมถึงการเตรียมพื้นผิวและลบคมด้วยระบบอัตโนมัติ เมื่อการผลิตยานยนต์ทันสมัยขึ้น สเปคการขัดตกแต่งชิ้นส่วนจะเข้มงวดมากขึ้น",
-            "action": "ติดตามมาตรฐานการร่วมทุนด้านยานยนต์ของยุโรปสำหรับการขัดตกแต่งผิว เพื่อใช้เป็นเกณฑ์มาตรฐานสำหรับกลุ่มลูกค้าผู้ผลิตชิ้นส่วนยานยนต์ (Tier-1) ในประเทศไทย"
           }
         }
       ]
