@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-09-03",
+  "updated": "2026-09-04",
   "days": [
+    {
+      "date": "2026-09-04",
+      "summary": "Today's global trend analysis highlights rising automation in grinding with the flap disc market, precision needs in semiconductor sub-50nm micronized powders, and persistent protectionist trade shifts affecting steel and metal sectors.",
+      "directCount": 3,
+      "th": {
+        "summary": "การวิเคราะห์แนวโน้มโลกวันนี้เน้นย้ำถึงระบบอัตโนมัติที่เพิ่มขึ้นในการเจียรด้วยตลาดแผ่นเจียรผ้าทราย (Flap Disc) ความต้องการความแม่นยำในผงขัดไมครอนสำหรับเซมิคอนดักเตอร์ และการเปลี่ยนแปลงทางการค้าแบบกีดกันทางการค้าที่ส่งผลต่ออุตสาหกรรมเหล็กและโลหะ"
+      },
+      "items": [
+        {
+          "id": "20260904-w1",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-09-03",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOemFEUXVsdnNaUV9oeUxKb3ctdGExOTZibVBMTU9ObE56VXBSY1pMa3JGdGtoUHBNODJOQlR0VHZpZk12XzdlSE5yVDBlUEVCXzdvMWEtd2ZWaVRvSWk0MnVBM2lKMS1wRGxDU1ZfOEFaUzlsMTJFTGlVMTc1bWNqNUFwSkh6MFZIVGlRaXBqYm1xWTRoVUdxbmliWF9LdnVKUnVQNU5IakthT09ET3JBLTVnaU5QeVdla1ZlOGZ5aDQtdXlMb283QXBSeXJXbXlkZ0dr?oc=5",
+          "title": "Flap Grinding Disc Market Forecast 2035: Demand Driven by Automation and Premium Abrasives",
+          "summary": "The global flap grinding disc market is expanding through 2035, heavily driven by manufacturing automation and a shift toward premium abrasive materials.",
+          "why": "Directly impacts our core product lines; automation in manufacturing increases the consumption of high-durability flap discs.",
+          "action": "Evaluate our inventory and source premium-grade flap discs suited for automated robotic grinding cells.",
+          "th": {
+            "title": "คาดการณ์ตลาดแผ่นเจียรผ้าทรายถึงปี 2035: ความต้องการขับเคลื่อนโดยระบบอัตโนมัติและวัสดุขัดพรีเมียม",
+            "summary": "ตลาดแผ่นเจียรผ้าทรายทั่วโลกกำลังขยายตัวถึงปี 2035 โดยได้รับแรงหนุนอย่างมากจากระบบอัตโนมัติในการผลิตและการเปลี่ยนไปใช้วัสดุขัดผิวเกรดพรีเมียม",
+            "why": "ส่งผลโดยตรงต่อกลุ่มผลิตภัณฑ์หลักของเรา ระบบอัตโนมัติในการผลิตช่วยเพิ่มอัตราการใช้แผ่นเจียรผ้าทรายที่มีความทนทานสูง",
+            "action": "ประเมินสต็อกสินค้าและจัดหาแผ่นเจียรผ้าทรายเกรดพรีเมียมที่เหมาะสำหรับกระบวนการเจียรอัตโนมัติด้วยหุ่นยนต์"
+          }
+        },
+        {
+          "id": "20260904-w2",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-08-30",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOanZrUnUwZzBiNEhWSERHZTZzYkJOaFp2VklkeTR0VzVwQTloNlFBNC1Ma3pPU0gwYndWVE9CcXJjTV9KYlpYZm9hRGFhazVCYzhuUnZQZmpXSHN2ejlFVTdvclV6NzR0eTFPU3dTWmpCMlpnSEl6OFRoVGpqVThtQXRyUTJHdWY3dy0tWDhhOEx1Q3ctNzB2eERHQ3lMV2QzaWItS3BvQnhiYUh5V2h3Q0JXZTJpZjhQekFR?oc=5",
+          "title": "Micronized Abrasive Powders Market $2.4B by 2035 on Sub-50nm Semiconductor Demand",
+          "summary": "The micronized abrasive powders market is projected to reach $2.4 billion by 2035, accelerated by high-precision demands in sub-50nm semiconductor manufacturing.",
+          "why": "Highlights the extreme high-end niche of surface finishing technology, showing how advanced tech demands ultra-precise abrasive media.",
+          "action": "Monitor ultra-fine micronized powder trends as a benchmark for high-precision finishing standards in electronics-adjacent metal parts.",
+          "th": {
+            "title": "ตลาดผงขัดไมครอนแตะ 2.4 พันล้านดอลลาร์ภายในปี 2035 จากความต้องการเซมิคอนดักเตอร์ขนาดต่ำกว่า 50 นาโนเมตร",
+            "summary": "ตลาดผงขัดไมครอนคาดว่าจะสูงถึง 2.4 พันล้านดอลลาร์ภายในปี 2035 โดยเร่งตัวขึ้นจากความต้องการความแม่นยำสูงในการผลิตเซมิคอนดักเตอร์ขนาดต่ำกว่า 50 นาโนเมตร",
+            "why": "เน้นย้ำถึงตลาดเฉพาะกลุ่มระดับไฮเอนด์สุดขั้วของเทคโนโลยีตกแต่งพื้นผิว ซึ่งแสดงให้เห็นว่าเทคโนโลยีขั้นสูงต้องการวัสดุขัดที่มีความแม่นยำสูงมาก",
+            "action": "ติดตามแนวโน้มของผงขัดละเอียดพิเศษเพื่อใช้เป็นเกณฑ์มาตรฐานสำหรับมาตรฐานการขัดผิวที่มีความแม่นยำสูงในชิ้นส่วนโลหะที่เกี่ยวข้องกับอุตสาหกรรมอิเล็กทรอนิกส์"
+          }
+        },
+        {
+          "id": "20260904-w3",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "Reuters",
+          "date": "2026-04-02",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWFZKb2ppb3RHdXNXbnBJZzR4WGc5dHJ3ZkVvVlVMYVFwUjN4TkxQR203bEtjTlo3d3NnTDBaSXZSZzMxUkY5QVlWMFF2V3NGM2VOMk0zMk14NkVfWDVyNF96QlVMQ2tHb0oyWm5nRm9pQmpOYTdoWTJQUTdXMHZOR1RLT0RJaldfT3NMRmNJXzhMcHhMM1p2dHVzaEtHaGtBME54MGJUbW5MdDFNX2tkZkktOGNiLTQ3ZjRiTw?oc=5",
+          "title": "Trump sets new drug tariffs, adjusts metals duties",
+          "summary": "Recent trade policy shifts include updated customs duties on metals, creating ongoing cost and supply adjustments for global manufacturers.",
+          "why": "Metal import/export duties directly affect raw material input costs and production volumes for our industrial metalworking clients.",
+          "action": "Stay flexible in supply chain planning and anticipate metal cost fluctuations impacting our B2B customers' purchasing budgets.",
+          "th": {
+            "title": "ทรัมป์กำหนดภาษีศุลกากรยาตัวใหม่ และปรับภาษีโลหะ",
+            "summary": "การเปลี่ยนแปลงนโยบายการค้าล่าสุดรวมถึงการปรับปรุงภาษีศุลกากรสำหรับโลหะ ซึ่งสร้างความผันผวนด้านต้นทุนและการปรับเปลี่ยนอุปทานอย่างต่อเนื่องสำหรับผู้ผลิตทั่วโลก",
+            "why": "ภาษีนำเข้า/ส่งออกโลหะส่งผลโดยตรงต่อต้นทุนวัตถุดิบและปริมาณการผลิตของลูกค้ากลุ่มงานโลหะอุตสาหกรรมของเรา",
+            "action": "คงความยืดหยุ่นในการวางแผนห่วงโซ่อุปทานและคาดการณ์ความผันผวนของต้นทุนโลหะที่มีผลต่องบประมาณการจัดซื้อของลูกค้า B2B"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-09-03",
       "summary": "Today's global briefing highlights key developments in surface performance coatings, European coatings innovation hubs, and automotive manufacturing shifts. While direct abrasive announcements are light today, these downstream finishing and coating trends signal where surface prep requirements are moving.",
@@ -939,70 +1003,6 @@ window.WORLD_ARCHIVE = {
             "summary": "การวิเคราะห์ตลาดเน้นย้ำการลงทุนที่เปลี่ยนไปและการผสานเทคโนโลยีในอุปกรณ์การผลิตรถยนต์ของยุโรปจนถึงปี 2030",
             "why": "โรงงานในยุโรปมักเป็นผู้นำด้านข้อกำหนดการขัดผิวที่เข้มงวดและระบบเซลล์ขัดผิวด้วยหุ่นยนต์อัตโนมัติ",
             "action": "สังเกตมาตรฐานการผลิตของยุโรปเพื่อใช้เป็นสัญญาณเตือนล่วงหน้าสำหรับเกณฑ์มาตรฐานความปลอดภัยของวัสดุขัด"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-08-21",
-      "summary": "Today's briefing features 3 fresh global trends focusing on AI integration in coatings, European market technology drivers, and steel industry protectionism and surplus challenges.",
-      "directCount": 2,
-      "th": {
-        "summary": "สรุปประเด็นแนวโน้มโลกประจำวันนี้มี 3 เรื่องสำคัญ ได้แก่ การนำ AI มาใช้ในอุตสาหกรรมสีและสารเคลือบ, ตัวขับเคลื่อนเทคโนโลยีในตลาดยุโรป, และความท้าทายด้านมาตรการกีดกันทางการค้าและภาวะล้นตลาดเหล็ก"
-      },
-      "items": [
-        {
-          "id": "20260821-w1",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "Amazon Web Services (AWS)",
-          "date": "2025-10-22",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UMG9rVURtamVSUnVYZzhtYjBPZUVWNDdCb0J1V3lEd09EV1JsS3dsU0ZwNkRxbmc4MVlwcXRPZW5aQklBRGxEWWxVRmVzUUJEZUNfOXZfT0d3cnVPaW5ydjZ3bjBlS1NyRGhWSw?oc=5",
-          "title": "AI in Paints and Coatings Market: Trends, Growth, and Opportunities",
-          "summary": "Artificial intelligence is increasingly transforming the paints and coatings industry, optimizing formulation processes and manufacturing quality control.",
-          "why": "Advanced surface coatings directly impact how metal and automotive components are prepped and finished before and after coating applications.",
-          "action": "Monitor how smart manufacturing and automated inspection tech influence surface finishing standards.",
-          "th": {
-            "title": "ตลาดปัญญาประดิษฐ์ในอุตสาหกรรมสีและสารเคลือบ: แนวโน้ม การเติบโต และโอกาส",
-            "summary": "ปัญญาประดิษฐ์กำลังเข้ามาพลิกโฉมวงการสีและสารเคลือบ โดยช่วยปรับปรุงกระบวนการผสมสูตรและการควบคุมคุณภาพการผลิต",
-            "why": "สารเคลือบพื้นผิวขั้นสูงส่งผลโดยตรงต่อวิธีการเตรียมและตกแต่งผิวชิ้นส่วนโลหะและยานยนต์ ทั้งก่อนและหลังการพ่นเคลือบ",
-            "action": "ติดตามว่าเทคโนโลยีการผลิตอัจฉริยะและการตรวจสอบอัตโนมัติส่งผลต่อมาตรฐานการเตรียมผิวอย่างไร"
-          }
-        },
-        {
-          "id": "20260821-w2",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "Coatings World",
-          "date": "2025-12-10",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVDFJcHBGVXhXMm1MR1R0QkJ4VkNDdnZvcjh2bzJkX1hJYUdJQ1pyOFIxRzVPUXZGUDRheEVHaVhweG14Smk5Z3FCbjhadTM4RnIzLXkxMnBWX3p2UU4ya3dxNXFocWJWd1EyUHhjeEFOWGdwWW1LcllXTFdyUVNEMkxmRGdoblpuc2w5V2RNei0xZmM1S1p5bExhX1otTFBMY0RtbA?oc=5",
-          "title": "Innovation and Technology to Drive Future of European Market",
-          "summary": "The European coatings market is prioritizing high-end technological innovations and sustainable solutions to meet strict future regulations.",
-          "why": "European manufacturing shifts toward sustainability and advanced tech often set global benchmarks for industrial finishing tools.",
-          "action": "Keep an eye on European eco-friendly coating standards that may require new surface preparation techniques.",
-          "th": {
-            "title": "นวัตกรรมและเทคโนโลยีขับเคลื่อนอนาคตตลาดยุโรป",
-            "summary": "ตลาดยุโรปให้ความสำคัญกับนวัตกรรมทางเทคโนโลยีระดับสูงและโซลูชันที่ยั่งยืน เพื่อให้สอดคล้องกับข้อกำหนดที่เข้มงวดในอนาคต",
-            "why": "การปรับเปลี่ยนอุตสาหกรรมการผลิตของยุโรปไปสู่ความยั่งยืนและเทคโนโลยีขั้นสูง มักเป็นบรรทัดฐานให้กับเครื่องมือขัดผิวทั่วโลก",
-            "action": "ติดตามมาตรฐานสารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมของยุโรป ซึ่งอาจต้องใช้เทคนิคการเตรียมพื้นผิวแบบใหม่"
-          }
-        },
-        {
-          "id": "20260821-w3",
-          "tag": "steel",
-          "rating": "green",
-          "source": "S&P Global",
-          "date": "2026-01-12",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
-          "title": "Global steel industry battles surplus supply, protectionism",
-          "summary": "The global steel sector is currently facing significant challenges from excess production capacity and rising international trade protectionism.",
-          "why": "Steel oversupply and trade barriers directly affect metal fabricators' output, production costs, and demand for grinding and deburring abrasives.",
-          "action": "Assess how regional steel price fluctuations impact local metal fabrication customers' purchasing volumes for abrasive belts and discs.",
-          "th": {
-            "title": "อุตสาหกรรมเหล็กโลกเผชิญศึกหนักจากภาวะล้นตลาดและลัทธิกีดกันทางการค้า",
-            "summary": "ภาคอุตสาหกรรมเหล็กทั่วโลกกำลังเผชิญกับความท้าทายครั้งใหญ่จากกำลังการผลิตส่วนเกินและมาตรการกีดกันทางการค้าระหว่างประเทศที่เพิ่มขึ้น",
-            "why": "ภาวะเหล็ก้นตลาดและอุปสรรคทางการค้าส่งผลกระทบโดยตรงต่อปริมาณผลผลิต ต้นทุนการผลิต และความต้องการใช้วัสดุขัดและลบคมของกลุ่มผู้แปรรูปโลหะ",
-            "action": "ประเมินว่าความผันผวนของราคาระดับภูมิภาคส่งผลต่อปริมาณการสั่งซื้อกระดาษทรายและแผ่นขัดของลูกค้ากลุ่มแปรรูปโลหะอย่างไร"
           }
         }
       ]
