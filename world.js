@@ -4,10 +4,10 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-09-04",
-      "summary": "Today's global trend analysis highlights rising automation in grinding with the flap disc market, precision needs in semiconductor sub-50nm micronized powders, and persistent protectionist trade shifts affecting steel and metal sectors.",
+      "summary": "Today's global intelligence highlights critical shifts in automation-driven abrasive tools, specialized precision finishing films, and regional steel trade barriers that impact surface prep demand.",
       "directCount": 3,
       "th": {
-        "summary": "การวิเคราะห์แนวโน้มโลกวันนี้เน้นย้ำถึงระบบอัตโนมัติที่เพิ่มขึ้นในการเจียรด้วยตลาดแผ่นเจียรผ้าทราย (Flap Disc) ความต้องการความแม่นยำในผงขัดไมครอนสำหรับเซมิคอนดักเตอร์ และการเปลี่ยนแปลงทางการค้าแบบกีดกันทางการค้าที่ส่งผลต่ออุตสาหกรรมเหล็กและโลหะ"
+        "summary": "ข้อมูลเชิงลึกระดับโลกในวันนี้เน้นย้ำถึงการเปลี่ยนแปลงสำคัญในเครื่องมือขัดที่ขับเคลื่อนด้วยระบบอัตโนมัติ ฟิล์มขัดเงาความแม่นยำสูง และอุปสรรคทางการค้าเหล็กระดับภูมิภาค"
       },
       "items": [
         {
@@ -18,14 +18,14 @@ window.WORLD_ARCHIVE = {
           "date": "2026-09-03",
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOemFEUXVsdnNaUV9oeUxKb3ctdGExOTZibVBMTU9ObE56VXBSY1pMa3JGdGtoUHBNODJOQlR0VHZpZk12XzdlSE5yVDBlUEVCXzdvMWEtd2ZWaVRvSWk0MnVBM2lKMS1wRGxDU1ZfOEFaUzlsMTJFTGlVMTc1bWNqNUFwSkh6MFZIVGlRaXBqYm1xWTRoVUdxbmliWF9LdnVKUnVQNU5IakthT09ET3JBLTVnaU5QeVdla1ZlOGZ5aDQtdXlMb283QXBSeXJXbXlkZ0dr?oc=5",
           "title": "Flap Grinding Disc Market Forecast 2035: Demand Driven by Automation and Premium Abrasives",
-          "summary": "The global flap grinding disc market is expanding through 2035, heavily driven by manufacturing automation and a shift toward premium abrasive materials.",
-          "why": "Directly impacts our core product lines; automation in manufacturing increases the consumption of high-durability flap discs.",
-          "action": "Evaluate our inventory and source premium-grade flap discs suited for automated robotic grinding cells.",
+          "summary": "The global market for flap grinding discs is expanding rapidly, strongly propelled by industrial automation and a rising preference for premium abrasive grains.",
+          "why": "Direct indicator that our B2B customers in metal fabrication are upgrading to automated robotic grinding and premium high-durability discs.",
+          "action": "Ensure strong stock availability and technical marketing for premium ceramic and automated-compatible flap discs.",
           "th": {
-            "title": "คาดการณ์ตลาดแผ่นเจียรผ้าทรายถึงปี 2035: ความต้องการขับเคลื่อนโดยระบบอัตโนมัติและวัสดุขัดพรีเมียม",
-            "summary": "ตลาดแผ่นเจียรผ้าทรายทั่วโลกกำลังขยายตัวถึงปี 2035 โดยได้รับแรงหนุนอย่างมากจากระบบอัตโนมัติในการผลิตและการเปลี่ยนไปใช้วัสดุขัดผิวเกรดพรีเมียม",
-            "why": "ส่งผลโดยตรงต่อกลุ่มผลิตภัณฑ์หลักของเรา ระบบอัตโนมัติในการผลิตช่วยเพิ่มอัตราการใช้แผ่นเจียรผ้าทรายที่มีความทนทานสูง",
-            "action": "ประเมินสต็อกสินค้าและจัดหาแผ่นเจียรผ้าทรายเกรดพรีเมียมที่เหมาะสำหรับกระบวนการเจียรอัตโนมัติด้วยหุ่นยนต์"
+            "title": "ตลาดแผ่นขัดผ้าทรายซ้อนคาดการณ์ถึงปี 2035: ความต้องการขับเคลื่อนด้วยระบบอัตโนมัติและวัสดุขัดเกรดพรีเมียม",
+            "summary": "ตลาดแผ่นขัดผ้าทรายซ้อนทั่วโลกกำลังขยายตัวอย่างรวดเร็ว ขับเคลื่อนโดยอุตสาหกรรมอัตโนมัติและความนิยมในวัสดุขัดเกรดพรีเมียมที่เพิ่มขึ้น",
+            "why": "เป็นสัญญาณบ่งชี้โดยตรงว่าลูกค้า B2B ในกลุ่มอุตสาหกรรมแปรรูปโลหะกำลังอัพเกรดไปสู่ระบบขัดอัตโนมัติและแผ่นขัดพรีเมียมที่มีความทนทานสูง",
+            "action": "เตรียมสต็อกสินค้าและทำการตลาดเชิงเทคนิคสำหรับแผ่นขัดผ้าทรายซ้อนเกรดเซรามิกที่รองรับระบบอัตโนมัติให้พร้อม"
           }
         },
         {
@@ -33,35 +33,35 @@ window.WORLD_ARCHIVE = {
           "tag": "abrasive",
           "rating": "green",
           "source": "IndexBox",
-          "date": "2026-08-30",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOanZrUnUwZzBiNEhWSERHZTZzYkJOaFp2VklkeTR0VzVwQTloNlFBNC1Ma3pPU0gwYndWVE9CcXJjTV9KYlpYZm9hRGFhazVCYzhuUnZQZmpXSHN2ejlFVTdvclV6NzR0eTFPU3dTWmpCMlpnSEl6OFRoVGpqVThtQXRyUTJHdWY3dy0tWDhhOEx1Q3ctNzB2eERHQ3lMV2QzaWItS3BvQnhiYUh5V2h3Q0JXZTJpZjhQekFR?oc=5",
-          "title": "Micronized Abrasive Powders Market $2.4B by 2035 on Sub-50nm Semiconductor Demand",
-          "summary": "The micronized abrasive powders market is projected to reach $2.4 billion by 2035, accelerated by high-precision demands in sub-50nm semiconductor manufacturing.",
-          "why": "Highlights the extreme high-end niche of surface finishing technology, showing how advanced tech demands ultra-precise abrasive media.",
-          "action": "Monitor ultra-fine micronized powder trends as a benchmark for high-precision finishing standards in electronics-adjacent metal parts.",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOREZURUtNaklQRGZ4by1fNWNRRTc3MUdUdVVyeW5IR0xja3BuMGFlQmtaQmZHMnZ4ZnNMSDJUbVpoYmlCVndBRG5QZGpFWF9PS0NySGw1dWE4d3NXRmpVYTMzRElVeFVERHpIcGxaQ0ZjajVBRWlsZG5fd1NFVXBEUC1PYy00XzhVNEVISUFUa0JZZkwyeldxQ1hneUFNX0JJQ0puY2RBaWVubXlFZzgxVE05d2d5c0lzUXFpX1EySQ?oc=5",
+          "title": "Abrasive Lapping Film Market Forecast 2035: Precision Finishing Demand Drives Growth",
+          "summary": "Demand for abrasive lapping films is surging as high-tech manufacturing sectors require ultra-precise surface finishing and polishing.",
+          "why": "Reflects the high-end tier of surface preparation where standard sandpaper is replaced by micro-finishing film technologies.",
+          "action": "Monitor high-precision finishing sectors like electronics and optics as potential long-term vertical expansions.",
           "th": {
-            "title": "ตลาดผงขัดไมครอนแตะ 2.4 พันล้านดอลลาร์ภายในปี 2035 จากความต้องการเซมิคอนดักเตอร์ขนาดต่ำกว่า 50 นาโนเมตร",
-            "summary": "ตลาดผงขัดไมครอนคาดว่าจะสูงถึง 2.4 พันล้านดอลลาร์ภายในปี 2035 โดยเร่งตัวขึ้นจากความต้องการความแม่นยำสูงในการผลิตเซมิคอนดักเตอร์ขนาดต่ำกว่า 50 นาโนเมตร",
-            "why": "เน้นย้ำถึงตลาดเฉพาะกลุ่มระดับไฮเอนด์สุดขั้วของเทคโนโลยีตกแต่งพื้นผิว ซึ่งแสดงให้เห็นว่าเทคโนโลยีขั้นสูงต้องการวัสดุขัดที่มีความแม่นยำสูงมาก",
-            "action": "ติดตามแนวโน้มของผงขัดละเอียดพิเศษเพื่อใช้เป็นเกณฑ์มาตรฐานสำหรับมาตรฐานการขัดผิวที่มีความแม่นยำสูงในชิ้นส่วนโลหะที่เกี่ยวข้องกับอุตสาหกรรมอิเล็กทรอนิกส์"
+            "title": "ตลาดฟิล์มขัดลัปปิ้งคาดการณ์ถึงปี 2035: ความต้องการงานขัดผิวความแม่นยำสูงขับเคลื่อนการเติบโต",
+            "summary": "ความต้องการฟิล์มขัดกำลังพุ่งสูงขึ้น เนื่องจากภาคการผลิตไฮเทคต้องการการขัดและตกแต่งพื้นผิวที่มีความแม่นยำสูงมาก",
+            "why": "สะท้อนให้เห็นถึงกลุ่มตลาดการเตรียมพื้นผิวระดับไฮเอนด์ที่กระดาษทรายทั่วไปถูกแทนที่ด้วยเทคโนโลยีฟิล์มขัดละเอียดพิเศษ",
+            "action": "ติดตามภาคอุตสาหกรรมตกแต่งผิวความแม่นยำสูง เช่น อิเล็กทรอนิกส์และออปติก เพื่อมองหาโอกาสขยายตลาดในระยะยาว"
           }
         },
         {
           "id": "20260904-w3",
           "tag": "steel",
           "rating": "amber",
-          "source": "Reuters",
-          "date": "2026-04-02",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWFZKb2ppb3RHdXNXbnBJZzR4WGc5dHJ3ZkVvVlVMYVFwUjN4TkxQR203bEtjTlo3d3NnTDBaSXZSZzMxUkY5QVlWMFF2V3NGM2VOMk0zMk14NkVfWDVyNF96QlVMQ2tHb0oyWm5nRm9pQmpOYTdoWTJQUTdXMHZOR1RLT0RJaldfT3NMRmNJXzhMcHhMM1p2dHVzaEtHaGtBME54MGJUbW5MdDFNX2tkZkktOGNiLTQ3ZjRiTw?oc=5",
-          "title": "Trump sets new drug tariffs, adjusts metals duties",
-          "summary": "Recent trade policy shifts include updated customs duties on metals, creating ongoing cost and supply adjustments for global manufacturers.",
-          "why": "Metal import/export duties directly affect raw material input costs and production volumes for our industrial metalworking clients.",
-          "action": "Stay flexible in supply chain planning and anticipate metal cost fluctuations impacting our B2B customers' purchasing budgets.",
+          "source": "S&P Global",
+          "date": "2026-01-12",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
+          "title": "Global steel industry battles surplus supply, protectionism",
+          "summary": "The global steel market continues to face oversupply challenges alongside rising trade protectionism and localized tariff adjustments.",
+          "why": "Steel production volume and mill utilization directly dictate metal fabrication activity and consumable abrasive consumption.",
+          "action": "Keep close ties with local Thai metal fabricators who adjust production based on imported steel price volatility.",
           "th": {
-            "title": "ทรัมป์กำหนดภาษีศุลกากรยาตัวใหม่ และปรับภาษีโลหะ",
-            "summary": "การเปลี่ยนแปลงนโยบายการค้าล่าสุดรวมถึงการปรับปรุงภาษีศุลกากรสำหรับโลหะ ซึ่งสร้างความผันผวนด้านต้นทุนและการปรับเปลี่ยนอุปทานอย่างต่อเนื่องสำหรับผู้ผลิตทั่วโลก",
-            "why": "ภาษีนำเข้า/ส่งออกโลหะส่งผลโดยตรงต่อต้นทุนวัตถุดิบและปริมาณการผลิตของลูกค้ากลุ่มงานโลหะอุตสาหกรรมของเรา",
-            "action": "คงความยืดหยุ่นในการวางแผนห่วงโซ่อุปทานและคาดการณ์ความผันผวนของต้นทุนโลหะที่มีผลต่องบประมาณการจัดซื้อของลูกค้า B2B"
+            "title": "อุตสาหกรรมเหล็กโลกต่อสู้กับภาวะอุปทานล้นตลาดและลัทธิกีดกันทางการค้า",
+            "summary": "ตลาดเหล็กโลกยังคงเผชิญกับความท้าทายเรื่องภาวะอุปทานล้นตลาด ควบคู่ไปกับลัทธิกีดกันทางการค้าและการปรับภาษีนำเข้าในแต่ละภูมิภาค",
+            "why": "ปริมาณการผลิตเหล็กและอัตราการใช้กำลังการผลิตของโรงงานส่งผลโดยตรงต่อกิจกรรมการแปรรูปโลหะและการใช้วัสดุสิ้นเปลืองประเภทกระดาษทราย",
+            "action": "รักษาสายสัมพันธ์ที่ใกล้ชิดกับผู้ประกอบการแปรรูปโลหะในไทยที่ปรับเปลี่ยนการผลิตตามความผันผวนของราคาเหล็กนำเข้า"
           }
         }
       ]
