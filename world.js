@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-09-03",
-      "summary": "Today's briefing highlights steady growth in precision finishing technologies like ceramic flap discs and advanced metal-cutting segments alongside regional shifts in steel production and automotive manufacturing.",
-      "directCount": 3,
+      "summary": "Today's global briefing highlights key developments in surface performance coatings, European coatings innovation hubs, and automotive manufacturing shifts. While direct abrasive announcements are light today, these downstream finishing and coating trends signal where surface prep requirements are moving.",
+      "directCount": 1,
       "th": {
-        "summary": "รายงานแนวโน้มวันนี้เน้นการเติบโตของเทคโนโลยีการขัดตกแต่งผิว เช่น แผ่นเจียรผ้าทรายเซรามิก พร้อมกับการเปลี่ยนแปลงในอุตสาหกรรมเหล็กและการผลิตรถยนต์"
+        "summary": "สรุปทิศทางโลกประจำวันนี้เน้นการพัฒนาสารเคลือบผิว นวัตกรรมโค้วติ้งในยุโรป และการเปลี่ยนแปลงในอุตสาหกรรมยานยนต์ แม้ว่าข่าวเกี่ยวกับวัสดุขัดกระดาษทรายโดยตรงจะมีน้อย แต่แนวโน้มเหล่านี้ชี้ให้เห็นทิศทางความต้องการเตรียมพื้นผิวในอนาคต"
       },
       "items": [
         {
           "id": "20260903-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "Market Research Future",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "Straits Research",
           "date": "2026-08-24",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY0JpWXlQSC1LeGU2eUdGRW1zTEZ4amNoRXAyUWcxcnpWbEdzWmprSTBFM1htcllTNmQtdlRENmZ2NlhXbV9oNTlJbnJ0RjV5cENzZC1yTUdwM21YRi0wZUxBd1l6ODNDM1NxSUdQcFMwMGpCRnJuY041elNoT1RSRA?oc=5",
-          "title": "Ceramic Flap Disc Market Size, Share & Growth Report 2035",
-          "summary": "The global ceramic flap disc market continues to expand through 2035, driven by heavy metal fabrication and high-performance surface preparation demands.",
-          "why": "Ceramic abrasives are core high-margin product lines for heavy industrial metal grinding and weld blending.",
-          "action": "Ensure strong stock levels and technical marketing for premium ceramic flap discs targeting metal fabricators.",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NN1NfTHlMbm83VVBSSk84UmI2aldwS0VobVdKVFNuM2hsWGRMc00tczY1aE1XRlVSS3BtbEtlRlBfZjY5NjFudlNNU3dkSGpMRG5PNzVGcWhUNjBfdkRmZkk3cmhYUmtvcTFxeXln?oc=5",
+          "title": "Performance Coating Market Size, Share & Growth Graph by 2034",
+          "summary": "The performance coating market continues its long-term expansion trajectory toward 2034, driven by stringent industrial standards and protective finishing requirements.",
+          "why": "Higher standards in performance coatings require superior surface preparation and pre-painting sanding processes, influencing abrasive grade selection.",
+          "action": "Monitor high-performance coating specifications to align surface roughness (Ra) standards with upcoming industrial paint systems.",
           "th": {
-            "title": "รายงานขนาดส่วนแบ่งและการเติบโตของตลาดแผ่นเจียรผ้าทรายเซรามิก ปี 2035",
-            "summary": "ตลาดแผ่นเจียรผ้าทรายเซรามิกทั่วโลกยังคงขยายตัวอย่างต่อเนื่องจนถึงปี 2035 ขับเคลื่อนโดยงานอุตสาหกรรมขึ้นรูปโลหะหนักและความต้องการเตรียมพื้นผิวประสิทธิภาพสูง",
-            "why": "วัสดุขัดประเภทเซรามิกคือสินค้าทำกำไรสูงสำหรับงานเจียรโลหะหนักและลบแนวเชื่อมในอุตสาหกรรม",
-            "action": "รักษาปริมาณสินค้าในสต็อกและการตลาดเชิงเทคนิคสำหรับแผ่นเจียรเซรามิกเกรดพรีเมียมที่เจาะกลุ่มผู้รับเหมาโลหะ"
+            "title": "ตลาดสารเคลือบประสิทธิภาพสูงเติบโตต่อเนื่องถึงปี 2034",
+            "summary": "ตลาดสารเคลือบประสิทธิภาพสูงยังคงขยายตัวอย่างต่อเนื่องจนถึงปี 2034 ขับเคลื่อนด้วยมาตรฐานอุตสาหกรรมที่เข้มงวดและความต้องการการเคลือบป้องกัน",
+            "why": "มาตรฐานสารเคลือบที่สูงขึ้นจำเป็นต้องมีการเตรียมพื้นผิวและการขัดก่อนพ่นสีที่ดีเยี่ยม ซึ่งส่งผลต่อการเลือกใช้เกรดกระดาษทรายและใบขัด",
+            "action": "ติดตามสเปกสารเคลือบประสิทธิภาพสูง เพื่อปรับมาตรฐานความหยาบผิว (Ra) ให้สอดคล้องกับระบบสีอุตสาหกรรมใหม่ๆ"
           }
         },
         {
           "id": "20260903-w2",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "Shanghai Metals Market",
-          "date": "2026-05-19",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMmw1akRRMFZCQ2I5NGhHdE1NOXhoaE1GY0h5UmxlQVNUVGxHTko2U0NBQ0o0Q19ZYmZ1VnBCTTB6a2JJQTFNOUpDSUtpWXdaR3hkeGhlOXF4dF9yUElCd1ZkWTl4MmZGOWhVeUlXc2VCMXFCOHQzZ0ZGZ1RtZ3p6aUNObEczWFhKMkdKQ3JuRWF5SjVNZmpOQVBaSGs4TWJKS1lVa0VTdmoxdDBQTF8zRDlxME1qeEtOUzJzSTBERURobWltWTlVUlpaZ3d2WlFRNEY1b0UwbVVfLXc0cXBZ?oc=5",
-          "title": "Nucor: 100% EAF, High Profits, and Vertical Integration Mitigating Costs",
-          "summary": "Electric Arc Furnace (EAF) steel production models continue to gain operational efficiency and profitability advantages globally.",
-          "why": "EAF steel mills and local metal service centers are major B2B users of cut-off wheels, grinding discs, and deburring tools.",
-          "action": "Monitor local Thai steel mills shifting toward EAF or recycling scrap, as their finishing supply needs may change.",
+          "tag": "coating",
+          "rating": "white",
+          "source": "European Coatings",
+          "date": "2026-06-04",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUDgzbkl5cWdzSnJwcGViRm5mVWNYTWllWVF6RENXM2dRbG84cTh6bFRXckpiYVZkMWRWZk5OWGZhTjZCdm9zTUpTLWJlUmhLR1BnUmhIUWJ3VUVSdW5WQ05tZjVnTmQ3Tld4RG5rbVdKNEJrblFzNlE0NFZyRWw3SEZ1RWdES2pzYndyWnZPOVgyRzB4YTBGT0NOZDU4ZDdnejhFRHpMYkQ2T1ZX?oc=5",
+          "title": "ETCC 2026 in Prague: A hub for coatings innovation and sustainability",
+          "summary": "The European Technical Coatings Congress (ETCC) in Prague highlighted major industry pushes toward eco-friendly formulations and advanced coating technologies.",
+          "why": "Sustainability trends in coatings often mirror environmental and dust-reduction demands in industrial sanding and surface treatment.",
+          "action": "Keep an eye on eco-friendly surface treatment trends that may impact chemical stripping and mechanical abrasion methods.",
           "th": {
-            "title": "Nucor: เตาหลอมไฟฟ้า (EAF) 100%, กำไรสูง และการบูรณาการในแนวดิ่งเพื่อลดต้นทุน",
-            "summary": "โมเดลการผลิตเหล็กด้วยเตาหลอมไฟฟ้า (EAF) ยังคงเพิ่มประสิทธิภาพการดำเนินงานและความสามารถทำกำไรได้ดีทั่วโลก",
-            "why": "โรงงานเหล็ก EAF และศูนย์บริการโลหะท้องถิ่นเป็นกลุ่มลูกค้า B2B รายใหญ่ที่ใช้ใบตัด ใบเจียร และเครื่องมือลบคม",
-            "action": "ติดตามโรงงานเหล็กในไทยที่หันมาใช้เตาหลอมไฟฟ้าหรือรีไซเคิลเศษเหล็ก เนื่องจากความต้องการวัสดุขัดตกแต่งอาจปรับเปลี่ยนไป"
+            "title": "งาน ETCC 2026 ที่กรุงปราก: ศูนย์กลางนวัตกรรมสารเคลือบและความยั่งยืน",
+            "summary": "การประชุมเทคโนโลยีสารเคลือบยุโรป (ETCC) ที่กรุงปรากเน้นย้ำถึงการผลักดันอุตสาหกรรมสู่สูตรที่เป็นมิตรต่อสิ่งแวดล้อมและเทคโนโลยีการเคลือบขั้นสูง",
+            "why": "เทรนด์ความยั่งยืนในอุตสาหกรรมสีสะท้อนถึงความต้องการเรื่องความเป็นมิตรต่อสิ่งแวดล้อมและการลดฝุ่นในการขัดผิวอุตสาหกรรมเช่นกัน",
+            "action": "จับตาเทรนด์การเตรียมพื้นผิวที่เป็นมิตรต่อสิ่งแวดล้อม ซึ่งอาจส่งผลต่อวิธีลอกสีเคมีและวิธีการขัดกลไก"
           }
         },
         {
           "id": "20260903-w3",
           "tag": "auto",
           "rating": "amber",
-          "source": "MarketsandMarkets",
-          "date": "2026-08-19",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYlJqMkVNeUFMQUJMdEFrTmVOTUM0aWhXWEJjNWViSzE4ckF0TkI4UmFIVnpkNENDbW9tRk5XeWtrbUwzQ1lxQU84aDdjeHh0OXdzSXFzMktlYkxtOEtESTg1bWdZVzZWWjNCcEh0YUl4SHlYbGpyTXZwTWF2S3lBQ3pfdnhCWDVwN1NabGxtRTRHemV3WXhBdElfX3ViNjkyS24zank5cll3a1VOMVRtSS13?oc=5",
-          "title": "South-Korea Automotive Manufacturing Equipment Market Size, Share, Trends",
-          "summary": "South Korea's automotive equipment manufacturing sector highlights ongoing technology upgrades and factory automation investments.",
-          "why": "Automotive Tier-1 and Tier-2 suppliers in Asia rely heavily on automated sanding, deburring, and surface prep solutions.",
-          "action": "Explore robotic or automated surface finishing trends to support regional auto part makers upgrading their lines.",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-07-23",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZDRQV1lyajBPaFY5UV9pQkxKcXpvRzQ5ejJOcEM5QzgyaXByMHg4MWtaX0pHT3VtV2tPRFVPUjJFdGhBcTNoWDRKOTZ4ekkzeGpOamJMT2R6M2psbHBoNEV6dlMyWW5yM3hkVjZjM0xCV1FNQ2dLamFSTHcyNTB4dEdJZkpsRmtBSUZJeF9FYW9sT0ZHdGNhV2F3RHpOLXp6RUI0SWY0SWNSM0hxM19pYS1DeEZ5ZGdhZHpyUg?oc=5",
+          "title": "Ford and Geely unite in Valencia: smart-factory momentum!",
+          "summary": "Ford and Geely collaborate in Valencia, driving smart-factory integration and advanced manufacturing technologies in European automotive production.",
+          "why": "Smart automotive factories demand automated robotic sanding and high-precision deburring solutions for lightweight body panels and EV components.",
+          "action": "Explore robotic-compatible abrasive solutions and non-woven pads suited for automated automotive production lines.",
           "th": {
-            "title": "ขนาด ส่วนแบ่ง และแนวโน้มตลาดอุปกรณ์การผลิตรถยนต์ในเกาหลีใต้",
-            "summary": "ภาคการผลิตอุปกรณ์ยานยนต์ของเกาหลีใต้แสดงให้เห็นถึงการอัปเกรดเทคโนโลยีและการลงทุนด้านระบบอัตโนมัติในโรงงานอย่างต่อเนื่อง",
-            "why": "ผู้ผลิตชิ้นส่วนยานยนต์ Tier-1 และ Tier-2 ในเอเชียพึ่งพาโซลูชันการขัด การลบคม และการเตรียมพื้นผิวแบบอัตโนมัติสูง",
-            "action": "ศึกษาแนวโน้มการขัดผิวด้วยหุ่นยนต์หรือระบบอัตโนมัติ เพื่อรองรับผู้ผลิตชิ้นส่วนรถยนต์ในภูมิภาคที่กำลังอัปเกรดไลน์ผลิต"
+            "title": "ฟอร์ดและจีลี่ร่วมมือกันในบาเลนเซีย: กระแสสมาร์ทแฟคทอรี่",
+            "summary": "ฟอร์ดและจีลี่ร่วมมือกันในเมืองบาเลนเซีย ขับเคลื่อนการบูรณาการโรงงานอัจฉริยะและเทคโนโลยีการผลิตขั้นสูงในภาคยานยนต์ยุโรป",
+            "why": "โรงงานยานยนต์อัจฉริยะต้องการระบบขัดผิวด้วยหุ่นยนต์อัตโนมัติและโซลูชันลบคมความแม่นยำสูงสำหรับตัวถังน้ำหนักเบาและชิ้นส่วน EV",
+            "action": "ศึกษาผลิตภัณฑ์กระดาษทรายและแผ่นขัด non-woven ที่รองรับการทำงานร่วมกับหุ่นยนต์ในสายการผลิตรถยนต์อัตโนมัติ"
           }
         }
       ]
