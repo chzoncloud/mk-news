@@ -1,7 +1,107 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-09-05",
+  "updated": "2026-09-06",
   "days": [
+    {
+      "date": "2026-09-06",
+      "summary": "Today's global briefing highlights key developments in surface conditioning discs, ceramic flap discs, and microfinishing film sheets, alongside structural shifts in the global steel and automotive equipment sectors.",
+      "directCount": 4,
+      "th": {
+        "summary": "สรุปทิศทางโลกวันนี้ไฮไลต์การพัฒนาแผ่นขัดปรับสภาพผิว แผ่นเจียรผ้าทรายหลังโค้งเซรามิก และแผ่นฟิล์มขัดเงาไมโคร รวมถึงการเปลี่ยนแปลงเชิงโครงสร้างในอุตสาหกรรมเหล็กและอุปกรณ์ยานยนต์ระดับโลก"
+      },
+      "items": [
+        {
+          "id": "20260906-w1",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-09-05",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOM2FhNHJJNmhtUnNqajZ4cWIxU1dGSy1zNVJISzQzcEFQcDJiNUo3LUpVaDZ6eVFhTXRrNjhkTDVqQXp5SXBWRDlNX0RaeHhPRGFiSS1KWTRSRXdvTll2MzJicnJ2VTlBYXBRbHk2dTRCbmRTY1lFNFBBdFVkNnVNVi1vNkQxUQ?oc=5",
+          "title": "Surface Conditioning Discs Market Outlook to 2035",
+          "summary": "A comprehensive outlook report indicates steady long-term growth for surface conditioning discs through 2035, driven by ongoing industrial automation and precision metal finishing needs.",
+          "why": "Surface conditioning discs are a core product line for deburring and surface preparation in metal fabrication. Monitoring this market growth helps us align our inventory with global demand.",
+          "action": "Ensure stable stock levels of high-demand non-woven conditioning discs for metal fabrication clients.",
+          "th": {
+            "title": "แนวโน้มตลาดแผ่นขัดปรับสภาพผิว (Surface Conditioning Discs) ถึงปี 2035",
+            "summary": "รายงานแนวโน้มระบุว่าตลาดแผ่นขัดปรับสภาพผิวจะเติบโตอย่างต่อเนื่องจนถึงปี 2035 ขับเคลื่อนโดยระบบอัตโนมัติทางอุตสาหกรรมและความต้องการตกแต่งผิวโลหะที่มีความแม่นยำสูง",
+            "why": "แผ่นขัดปรับสภาพผิวเป็นสินค้าหลักสำหรับงานลบคมและเตรียมพื้นผิวโลหะ การติดตามการเติบโตนี้ช่วยให้เราวางแผนสต็อกสินค้าให้สอดคล้องกับความต้องการของตลาด",
+            "action": "รักษาระดับสต็อกสินค้าแผ่นขัด non-woven สำหรับงานโลหะให้มีความพร้อมสม่ำเสมอ"
+          }
+        },
+        {
+          "id": "20260906-w2",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "Market Research Future",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY0JpWXlQSC1LeGU2eUdGRW1zTEZ4amNoRXAyUWcxcnpWbEdzWmprSTBFM1htcllTNmQtdlRENmZ2NlhXbV9oNTlJbnJ0UjV5cENzZC1yTUdwM21YRi0wZUxBd1l6ODNDM1NxSUdQcFMwMGpCRnJuY041elNoT1RSRA?oc=5",
+          "title": "Ceramic Flap Disc Market Size, Share & Growth Report 2035 | MRFR",
+          "summary": "The ceramic flap disc market is expanding through 2035, propelled by heavy-duty industrial requirements for high-performance, long-lasting abrasive grains.",
+          "why": "Ceramic grains represent the premium tier of grinding performance. Understanding their market trajectory validates our focus on promoting high-durability ceramic abrasives to industrial users.",
+          "action": "Highlight ceramic grain performance advantages in upcoming marketing and sales pitches for heavy metal fabrication.",
+          "th": {
+            "title": "รายงานขนาด ส่วนแบ่ง และการเติบโตของตลาดแผ่นเจียรผ้าทรายเซรามิก (Ceramic Flap Disc) ถึงปี 2035",
+            "summary": "ตลาดแผ่นเจียรผ้าทรายเซรามิกกำลังขยายตัวถึงปี 2035 ขับเคลื่อนโดยความต้องการใช้งานอุตสาหกรรมหนักที่ต้องการเม็ดทรายขัดประสิทธิภาพสูงและมีความทนทาน",
+            "why": "เม็ดทรายเซรามิกคือกลุ่มพรีเมียมในด้านประสิทธิภาพการเจียร การเข้าใจทิศทางนี้ช่วยยืนยันกลยุทธ์การผลักดันสินค้าเซรามิกความทนทานสูงให้แก่ลูกค้าอุตสาหกรรม",
+            "action": "เน้นจุดขายด้านประสิทธิภาพของเม็ดทรายเซรามิกในการนำเสนอขายงานอุตสาหกรรมโลหะหนัก"
+          }
+        },
+        {
+          "id": "20260906-w3",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-09-05",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONHlWRE0td0ZPazJsLXVIUWdhNG96MFB5VXhhcld4Nmh3dHlKOUZSR0ZheXVCTjRreUpudFJTeHdoT2hJTFEzS2c1V1RvOGpiV3ByRjRRdFVreFVVeDJPR3FHTG5oSnp0TTF1anZWOVIzN043VF9XUWhDQ3ZvNEhqdUFtQjVDZw?oc=5",
+          "title": "Microfinishing Film Sheets Market Outlook to 2035",
+          "summary": "Microfinishing film sheets are gaining traction as high-tech manufacturing demands ultra-smooth surfaces for precision components and automotive parts.",
+          "why": "Microfinishing films represent advanced surface finishing tech. As local manufacturers upgrade quality standards, supplying precision films provides a high-value niche.",
+          "action": "Explore sourcing high-precision microfinishing film products for precision machining accounts.",
+          "th": {
+            "title": "แนวโน้มตลาดแผ่นฟิล์มขัดไมโคร (Microfinishing Film Sheets) ถึงปี 2035",
+            "summary": "แผ่นฟิล์มขัดไมโครได้รับความนิยมมากขึ้นตามความต้องการของการผลิตไฮเทคที่ต้องการพื้นผิวเรียบพิเศษสำหรับชิ้นส่วนที่มีความแม่นยำสูงและชิ้นส่วนยานยนต์",
+            "why": "ฟิล์มขัดไมโครคือเทคโนโลยีการตกแต่งผิวระดับสูง เมื่อผู้ผลิตในประเทศยกระดับมาตรฐานคุณภาพ การจัดหาฟิล์มที่มีความแม่นยำสูงจึงเป็นตลาดเฉพาะกลุ่มที่มีมูลค่าสูง",
+            "action": "ศึกษาการจัดหาผลิตภัณฑ์ฟิล์มขัดความแม่นยำสูงสำหรับกลุ่มลูกค้างานขึ้นรูปและตกแต่งผิวละเอียด"
+          }
+        },
+        {
+          "id": "20260906-w4",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "spglobal.com",
+          "date": "2026-01-12",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
+          "title": "Global steel industry battles surplus supply, protectionism",
+          "summary": "The global steel sector faces ongoing challenges from surplus production capacity and rising international trade protectionism, influencing regional manufacturing margins.",
+          "why": "Steel fabrication activity directly dictates regional metal grinding and deburring consumable consumption. Steel market health is a primary leading indicator for our abrasive sales volume.",
+          "action": "Monitor local steel mill and service center activity to gauge near-term consumable demand fluctuations.",
+          "th": {
+            "title": "อุตสาหกรรมเหล็กโลกเผชิญศึกอุปทานล้นตลาดและการกีดกันทางการค้า",
+            "summary": "ภาคอุตสาหกรรมเหล็กทั่วโลกกำลังเผชิญกับความท้าทายจากกำลังการผลิตส่วนเกินและการปกป้องทางการค้าระหว่างประเทศ ซึ่งส่งผลต่ออัตรากำไรของการผลิตในระดับภูมิภาค",
+            "why": "กิจกรรมการแปรรูปเหล็กกำหนดปริมาณการใช้วัสดุสิ้นเปลืองสำหรับงานเจียรและลบคมโดยตรง สุขภาพของตลาดเหล็กจึงเป็นตัวชี้วัดล่วงหน้าที่สำคัญสำหรับยอดขายสินค้ากลุ่ม abrasives ของเรา",
+            "action": "ติดตามความเคลื่อนไหวของโรงงานเหล็กและศูนย์บริการเหล็กในประเทศเพื่อประเมินความผันผวนของความต้องการในระยะสั้น"
+          }
+        },
+        {
+          "id": "20260906-w5",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "MarketsandMarkets",
+          "date": "2026-08-19",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUEFHclR5NnZiRmQ3ZWs1QWMycFZkZlZVempvMXlNMGxrUXc1alpac0trZnhoVG5pRnRISVhlYlJmUkpLVHp5T1FFQi04ODdlVmRoMDBYckx4SHVONkVEQVcxNWxfcTRBNS1DTmstS2JyZTh4OVQzbk9lN3dHZkt6cUFqZHVBcmlVbWtkUGJSejJvZVdoc3Z5dTRUM2ZlMUZEdzNsLVM2VGpqdw?oc=5",
+          "title": "China Automotive Manufacturing Equipment Market Size, Share,Trends, Growth Analysis Report, 2030",
+          "summary": "The market for automotive manufacturing equipment in China continues to evolve, emphasizing smart factory integration, robotics, and high-efficiency production lines.",
+          "why": "As automotive manufacturing equipment modernizes, automated robotic sanding and surface finishing cells are increasingly deployed, shifting how Tier-1 suppliers source abrasives.",
+          "action": "Keep track of automated grinding and sanding equipment trends used by regional automotive parts manufacturers.",
+          "th": {
+            "title": "รายงานขนาด ส่วนแบ่ง และแนวโน้มตลาดอุปกรณ์การผลิตยานยนต์ในจีน ถึงปี 2030",
+            "summary": "ตลาดอุปกรณ์การผลิตยานยนต์ในจีนยังคงพัฒนาอย่างต่อเนื่อง โดยเน้นการบูรณาการโรงงานอัจฉริยะ หุ่นยนต์ และสายการผลิตที่มีประสิทธิภาพสูง",
+            "why": "เมื่ออุปกรณ์การผลิตยานยนต์ทันสมัยขึ้น ระบบหุ่นยนต์ขัดและตกแต่งผิวแบบอัตโนมัติถูกนำมาใช้มากขึ้น ซึ่งเปลี่ยนรูปแบบการจัดซื้อวัสดุขัดของกลุ่มผู้ผลิต Tier-1",
+            "action": "ติดตามแนวโน้มของอุปกรณ์เจียรและขัดอัตโนมัติที่ผู้ผลิตชิ้นส่วนยานยนต์ในภูมิภาคใช้งาน"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-09-05",
       "summary": "Today's briefing highlights the rapid automation of finishing tools like flap discs, electronics-driven demand for abrasive sponges, and AI-driven smart factory shifts in major automotive manufacturing.",
@@ -921,70 +1021,6 @@ window.WORLD_ARCHIVE = {
             "summary": "ภาคยานยนต์กำลังหันมาใช้แหนบสปริงคอมโพสิตอย่างต่อเนื่องเพื่อลดน้ำหนักรถยนต์ โดยเฉพาะสำหรับแพลตฟอร์มเชิงพาณิชย์และ EV",
             "why": "งานตัดแต่งและขัดผิววัสดุคอมโพสิตต้องใช้กระดาษทรายหรือสารขัดเคลือบพิเศษที่แตกต่างจากการเจียรเหล็กแบบดั้งเดิม",
             "action": "ศึกษาโซลูชันการขัดที่เหมาะกับวัสดุคอมโพสิต ซึ่งใช้ในชิ้นส่วนยานยนต์น้ำหนักเบาสัยใหม่"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-08-23",
-      "summary": "Today's briefing highlights shifts in global automotive refinish coatings and regional market reports across South Africa and Japan, alongside evolving dynamics in global steel and commodity markets impacting industrial surface preparation.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปข้อมูลแนวโน้มโลกวันนี้เน้นการเปลี่ยนแปลงของตลาดสีพ่นซ่อมรถยนต์ในญี่ปุ่นและแอฟริกาใต้ รวมถึงสถานการณ์ตลาดเหล็กและสินค้าโภคภัณฑ์โลกที่ส่งผลต่ออุตสาหกรรมเตรียมพื้นผิว"
-      },
-      "items": [
-        {
-          "id": "20260823-w1",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "MarketsandMarkets",
-          "date": "2026-08-19",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdkJOZE5aa1UxdjhHU3JkOTgyTUNQTVBaZTgycTdwb18welRPT3ZOUUxWdHNjUkk1QU15Skh3anJLWkh1akNyNzEtX2ZBeGRqU21rRWh4TVpUeHNtSjQ5WFlhTDhnWU9WenlybzhDbFF0c0JQYkVDV3A3ZkhfSlJhN0EwQW5KV3VMOUhxejl5RQ?oc=5",
-          "title": "Japan Automotive Refinish Coatings Market Size, Share, Trends, Growth Analysis Report, 2030",
-          "summary": "MarketsandMarkets released a growth analysis report for the Japan automotive refinish coatings market through 2030.",
-          "why": "Automotive refinishing is a major downstream user of abrasives, masking, and sanding materials for body shops and collision repair.",
-          "action": "Monitor demand trends in automotive aftermarket refinishing for high-precision sanding supplies.",
-          "th": {
-            "title": "รายงานขนาด ส่วนแบ่ง และแนวโน้มตลาดสีพ่นซ่อมรถยนต์ญี่ปุ่น ถึงปี 2030",
-            "summary": "MarketsandMarkets เผยแพร่รายงานวิเคราะห์การเติบโตของตลาดสีพ่นซ่อมรถยนต์ในญี่ปุ่นจนถึงปี 2030",
-            "why": "งานพ่นซ่อมสีรถยนต์เป็นตลาดผู้ใช้งานปลายน้ำรายใหญ่สำหรับกระดาษทราย วัสดุกัดกร่อน และอุปกรณ์ขัดแต่งในอู่ซ่อมรถ",
-            "action": "ติดตามแนวโน้มความต้องการในตลาดซ่อมบำรุงรถยนต์สำหรับวัสดุกัดกร่อนที่มีความแม่นยำสูง"
-          }
-        },
-        {
-          "id": "20260823-w2",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "MarketsandMarkets",
-          "date": "2026-08-19",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOWJqaWFzdzU0MlRJLS1ESnY3ejR1aGFyRTVwN1FBY05acWl3a2ZGemJSemJ3dnd2aGV2QXVGeF92VUV1eFhtejgtOFFDb0RsSUVabEpUX1hTTmJ4NDJqaG01M21LWVlSRDFsbnpWYXlaaUoyWGtXN3Y2T2RLTnNETVFKMkoxRWVLSkprVTJqWHpjdUY2dkhacA?oc=5",
-          "title": "South-Africa Automotive Refinish Coatings Market Size, Share, Trends, Growth Analysis Report, 2030",
-          "summary": "A new market size and growth analysis report for South Africa's automotive refinish coatings sector has been published.",
-          "why": "Expanding automotive refinish markets in emerging regions indicate steady demand for body shop consumable tools and abrasives.",
-          "action": "Keep an eye on emerging market growth indicators for export and distribution benchmarking.",
-          "th": {
-            "title": "รายงานตลาดสีพ่นซ่อมรถยนต์แอฟริกาใต้: ขนาด ส่วนแบ่ง และแนวโน้มถึงปี 2030",
-            "summary": "มีการเผยแพร่รายงานวิเคราะห์ขนาดและการเติบโตใหม่สำหรับภาคส่วนสีพ่นซ่อมรถยนต์ในแอฟริกาใต้",
-            "why": "ตลาดพ่นซ่อมรถยนต์ที่ขยายตัวในภูมิภาคเกิดใหม่บ่งชี้ถึงความต้องการที่มั่นคงสำหรับเครื่องมือสิ้นเปลืองและวัสดุกัดกร่อนในอู่",
-            "action": "จับตาดูตัวชี้วัดการเติบโตของตลาดเกิดใหม่เพื่อใช้เป็นเกณฑ์มาตรฐานในการส่งออกและการจัดจำหน่าย"
-          }
-        },
-        {
-          "id": "20260823-w3",
-          "tag": "steel",
-          "rating": "green",
-          "source": "The Motley Fool",
-          "date": "2026-07-22",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNTlNa3plT2hhb1ZiZ3hOLWdua21Hcm5UaXlwdEhraXd3bDJReThSLWpkMjdNMDR1OE1EUFRaMjM1bXhtU1REeFBmcjZsajlrNjc3MVJxX3hIUkFzZTNhcVdMS3RvekhWZ0U1Z0xhRXZTdk9tV1A2WjBEQzQ0ZHlnT2V3cEZkcEU0cHc?oc=5",
-          "title": "5 Best Steel Stocks for 2026 and How to Invest",
-          "summary": "An analysis of top-performing steel stocks highlights current market conditions and investment strategies for the metal sector in 2026.",
-          "why": "Steel production output directly drives industrial demand for heavy-duty grinding wheels, cut-off discs, and metal deburring abrasives.",
-          "action": "Correlate steel stock performance and output forecasts with local metal fabrication and heavy industry abrasive orders.",
-          "th": {
-            "title": "5 หุ้นเหล็กยอดเยี่ยมสำหรับปี 2026 และวิธีการลงทุน",
-            "summary": "บทวิเคราะห์หุ้นเหล็กที่มีผลงานโดดเด่น เน้นย้ำถึงภาวะตลาดปัจจุบันและกลยุทธ์การลงทุนสำหรับภาคโลหะในปี 2026",
-            "why": "ปริมาณการผลิตเหล็กส่งผลโดยตรงต่อความต้องการทางอุตสาหกรรมสำหรับใบเจียรหนัก ใบตัด และวัสดุกัดกร่อนสำหรับลบคมโลหะ",
-            "action": "นำผลประกอบการหุ้นเหล็กและคาดการณ์ผลผลิตมาประเมินร่วมกับคำสั่งซื้อวัสดุกัดกร่อนในอุตสาหกรรมโลหะหนักและแปรรูปโลหะในท้องถิ่น"
           }
         }
       ]
