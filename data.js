@@ -3,82 +3,64 @@ window.NEWS_ARCHIVE = {
   "days": [
     {
       "date": "2026-09-06",
-      "summary": "Today's fresh news flow is relatively modest. Key developments highlight Chery and Mitsubishi reinforcing their Thai EV production footprints, which directly boosts local metal finishing demand, while airline MRO expansion and furniture export trends require steady monitoring.",
-      "directCount": 2,
+      "summary": "Fresh intelligence is limited today, but highlights ongoing margin and volume pressure on domestic automotive component makers alongside steady abrasive demand from export furniture manufacturers. MK should expand sanding belt offerings into export-focused furniture plants to hedge against softer automotive OEM run-rates.",
+      "directCount": 1,
       "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มากนัก โดยมีสัญญาณบวกจากการที่ Chery และ Mitsubishi เดินหน้าขยายฐานการผลิต EV ในไทย ซึ่งช่วยเพิ่มความต้องการวัสดุขัดโลหะโดยตรง ขณะที่การขยายศูนย์ซ่อม MRO และแนวโน้มเฟอร์นิเจอร์ส่งออกยังเป็นประเด็นที่ต้องติดตามต่อเนื่อง"
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยประเด็นสำคัญเน้นไปที่แรงกดดันด้านยอดผลิตของผู้ผลิตชิ้นส่วนยานยนต์ในประเทศจากกระแสการนำเข้า EV ขณะที่ภาคการส่งออกเฟอร์นิเจอร์ยังคงสร้างอุปสงค์วัสดุขัดผิวอย่างต่อเนื่อง MK ควรเร่งทำตลาดสายพานและกระดาษทรายขัดไม้ในกลุ่มโรงงานเฟอร์นิเจอร์เพื่อชดเชยการชะลอตัวของชิ้นส่วนยานยนต์ OEM"
       },
       "items": [
         {
           "id": "20260906-1",
           "tag": "auto",
-          "rating": "green",
-          "source": "Thansettakij",
-          "date": "2026-09-05",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qNFZ3cjdHVFQtVGxjMW9GMDU1dU9MUFlYMi1jbTZxb0xpVGQwVk5uQ3dJWnVaaGllMkFVSkhBUTZUUzlodTFKVVh6WndnUy1PcGJCM05aMA?oc=5",
-          "title": "Chery Accelerates Thai EV Manufacturing Footprint, Affirming Long-Term Production Commitment",
-          "summary": "Chery Group reiterated its commitment to establishing actual EV production and assembly operations in Thailand rather than relying solely on imported vehicle sales. The automaker aims to build a comprehensive local supply chain to support domestic sales and regional exports.",
-          "why": "Actual vehicle manufacturing in Thailand requires body shop welding, seam leveling, and surface finishing abrasives, creating direct sales opportunities for our sanding discs and abrasive belts.",
-          "action": "Map out Chery's prospective tier-1 body and chassis suppliers in Thailand to introduce our robotic grinding and paint-prep abrasives early.",
+          "rating": "amber",
+          "source": "facebook.com",
+          "date": "2026-08-25",
+          "url": "https://news.google.com/rss/articles/CBMi0wZBVV95cUxQelJPUWZDTmhjVzhBZVlGeExVVWI3Z09LRlVTYVF6eGNfMlp3RVlOV3pYOEdLbmI3MFY4cmVOaUROZ3FUQ2dUZWxzRUx4M1N0SDJzcGI2LUJXM3FpOThNTTNXQmt0X09zQ0FqS3otMUVobmFoRE5IWi1zcDAwRzVHRzJkV1FHLV9zSE9USUVFM2ozQlZSTHNoajBCRXRIeDB5TjB3QS16cFRRZUI1Vnlka054cnBsOWZldUhUcHRPQml3aFQzanNUS21pUUlzekd2Q0xTUGY4TU5OMmJvVUJTXzBlOVdOMTJFMVY1aHdYYUJmcGNUR0VTbDhBY0hCTWtSSGFLU0pSUm9lOGhMQ01QTlVqMGttMXYySnRQVXgyNlZianJoSU1reTBydFRETG1pa2ZIN2ttaDVGUXZXeWYxNUl3dHZLdjl5ME95S2FYRElwa25pNThrYmxDV1FheXdrT0JQemZnQzlWeDc4LWVGWDJ5R1ZVQTdORlU2RDd6Y3dOYWFrNkVPZFhRTHVzQ2ZFVWNNOWpIdUFCMm14ZTVSX1Rxbmc3Q2xBelVOOFp1Q1VheGZQdXRacU5xd3pGOEM2RTNwb3BadllkeHlUeU1ZWjdxSzAxSTlxdm5RSTVObWw2NVpPeWtSbzRZNjY1bXI0QXg4V2p4WElpSS1NNVJ1OVNEOUV6UG5nYlNoMlVtNGRsdk9BNFE0UGtDZTllYzNKU3NMZVd4SFJKQjI4UTBBRG9Bc084MmNUQl9lazRjOGlUOHBZNm9nQ3FDNnNtemI2Q0ItSldqNGNIWmxsMlN4eW1vX2lFT2dZbTdBemJnUjZjZGFYMEh5dkNrQ2tlZ0ZIQXpISU91eE4tWUR4TVVpUEhlczhSZHotNDhOSW5EME1nQmt5ZUJKRUxOMTIyTzNlX05KcEl6TVVmcW5kRnJBYjJEOWFWdkR1R19KY2pJcS1YeURqSlVILUk5YTFhcHptWlRqZHR4OGMtejhLWjZuSlhibFF4TmcwUmdGTC1oMEtpVHNVTTVIaDFrVDNYSU9lWlZ1S0FOdWxPTE5oWFU3WXlXWUkzc0ppQ0ZrQUZMZzZzSUhUd19QSlAxQ2ItSGhLQjl2SmFGVWpEYWd4a0hIdFpMWQ?oc=5",
+          "title": "Thai Auto Production Strained as Imported EVs Threaten Domestic Parts Supply Chain",
+          "summary": "July 2026 automotive production figures show a steep rise in imported EVs, prompting domestic industry leaders to demand fair tax policies to protect local parts manufacturing. Local Tier 1 and Tier 2 suppliers are suffering from reduced factory operating rates.",
+          "why": "Lower vehicle production volumes at local Japanese OEM plants directly reduce grinding, deburring, and surface finishing cycles on stamped metal components.",
+          "action": "Offer high-efficiency abrasive discs to automotive parts accounts to help them lower unit production costs amid tight factory margins.",
           "th": {
-            "title": "เชอรี่ กรุ๊ป เร่งเครื่องปักหมุด EV ไทย ย้ำจุดยืนตั้งโรงงานผลิตจริง ไม่ได้มาแค่ขายรถ",
-            "summary": "เชอรี่ กรุ๊ป ยืนยันความมุ่งมั่นในการตั้งโรงงานประกอบและผลิตรถยนต์ EV จริงในประเทศไทย แทนที่จะเน้นเพียงการนำเข้ามาทำตลาด โดยตั้งเป้าสร้างซัพพลายเชนในประเทศเพื่อรองรับทั้งตลาดไทยและส่งออก",
-            "why": "การตั้งโรงงานผลิตและประกอบชิ้นส่วนจริงในไทย ย่อมทำให้เกิดความต้องการใช้งานจานขัด รอยเชื่อม ลบครีบ และขัดเตรียมผิวก่อนพ่นสีโดยตรง",
-            "action": "สืบค้นรายชื่อซัพพลายเออร์ Tier-1 กลุ่มโครงสร้างตัวถังและชิ้นส่วนของ Chery เพื่อเร่งนำเสนอผลิตภัณฑ์กระดาษทรายและจานขัดงานเตรียมผิว"
+            "title": "ยานยนต์ไทยเผชิญแรงกดดันหนัก หลัง EV นำเข้ากินรวบ กระทบห่วงโซ่ชิ้นส่วนในประเทศ",
+            "summary": "ตัวเลขการผลิตยานยนต์เดือน ก.ค. 2569 สะท้อนการเติบโตอย่างรวดเร็วของรถยนต์ EV นำเข้า ส่งผลให้กลุ่มอุตสาหกรรมยานยนต์เรียกร้องให้ปรับโครงสร้างภาษีเพื่อปกป้องโรงงานผลิตชิ้นส่วนในประเทศที่กำลังเผชิญปัญหาอัตราการเดินเครื่องลดลง",
+            "why": "ยอดประกอบรถยนต์ในประเทศที่หดตัวลงส่งผลกระทบต่อรอบการเจียร ขัดแต่งผิว และลบครีบชิ้นส่วนโลหะในโรงงานซัพพลายเออร์ยานยนต์โดยตรง",
+            "action": "นำเสนอจานขัดและผ้าทรายประสิทธิภาพสูงที่ช่วยลดต้นทุนต่อหน่วยชิ้นงานให้แก่ลูกค้ากลุ่มชิ้นส่วนยานยนต์ เพื่อรับมือแรงกดดันด้านมาร์จิ้น"
           }
         },
         {
           "id": "20260906-2",
-          "tag": "auto",
-          "rating": "green",
-          "source": "ภูมิใจ ไทย",
-          "date": "2026-07-24",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ad0Q3dVRiZFVVaEtGdUNxdFowTmVkQThTTEVHVDJ2V3NQVGt5LTBaR1lvWVBwQ1lpZUI5cVRYSkd3UnM5ck9JYTJoSQ?oc=5",
-          "title": "Mitsubishi Motors Commits 16 Billion Baht to Expand Thai EV Production Base Through 2030",
-          "summary": "Mitsubishi Motors is investing 16 billion baht to upgrade and expand its Thai production facilities for electric and hybrid vehicles through 2030. The investment reinforces Thailand's position as a core export manufacturing hub for Japanese automotive brands.",
-          "why": "Securing long-term investment from a top Japanese OEM protects the local tier-1/tier-2 metal fabrication network, ensuring ongoing consumption of high-precision abrasive products.",
-          "action": "Approach Mitsubishi's stamping and metal component subcontractors to audit their deburring and robotic polishing consumable needs.",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "ข่าวสด",
+          "date": "2026-05-21",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15SXhSTE9NZ09fLVZFdGQ0M0JDVXlYWHM4Y1FzbDcxc0VZcFdrX1laUTRTR3VDZkZYcUNENkVUMTA4MnVOcUpGTi1xZk04NVNoUW14Z29vYXRRakEwOVE?oc=5",
+          "title": "10 Steel Associations Urge Regulators to Phase Out Induction Furnace Mills Within Three Years",
+          "summary": "Ten domestic steel associations petitioned the Thai Industrial Standards Institute (TISI) to phase out induction furnace (IF) steel facilities within three years to eliminate substandard metal products. The move aims to enforce stricter production standards and support compliant electric arc furnace (EAF) mills.",
+          "why": "Industry consolidation toward standardized EAF steel mills will improve plant stability and increase demand for heavy-duty cut-off wheels and grinding consumables among certified operators.",
+          "action": "Review the steel customer portfolio to prioritize compliant EAF mills and structural steel fabricators while avoiding credit exposure to high-risk IF plants.",
           "th": {
-            "title": "มิตซูบิชิ มอเตอร์ส ทุ่ม 1.6 หมื่นล้าน ขยายฐานผลิต EV ในไทยยาวถึงปี 2573",
-            "summary": "มิตซูบิชิ มอเตอร์ส เตรียมเม็ดเงินลงทุน 1.6 หมื่นล้านบาทเพื่อปรับปรุงและขยายโรงงานผลิตรถยนต์ไฟฟ้าและไฮบริดในไทยไปจนถึงปี 2573 ย้ำบทบาทฐานผลิตและส่งออกสำคัญของค่ายรถยนต์ญี่ปุ่น",
-            "why": "การลงทุนระยะยาวของค่ายรถยนต์ญี่ปุ่นรายใหญ่ช่วยพยุงซัพพลายเชนชิ้นส่วนโลหะในไทย ทำให้ยอดใช้งานวัสดุขัดแต่งผิวความเที่ยงตรงสูงยังคงเติบโตมั่นคง",
-            "action": "เข้าพบซัพพลายเออร์กลุ่มงานปั๊มขึ้นรูปและโครงสร้างโลหะของมิตซูบิชิ เพื่อนำเสนอวัสดุขัดลบครีบและงานขัดเงาระบบอัตโนมัติ"
+            "title": "10 สมาคมเหล็กจี้ สมอ. ปลดล็อกยกเลิกโรงงานเตา IF ภายใน 3 ปี",
+            "summary": "10 สมาคมอุตสาหกรรมเหล็กยื่นข้อเรียกร้องต่อ สมอ. ให้มีมาตรการยกเลิกโรงงานผลิตเหล็กจากเตาเหนี่ยวนำไฟฟ้า (IF) ภายในกรอบเวลา 3 ปี เพื่อกำจัดเหล็กไม่ได้มาตรฐานและยกระดับโรงงานเตาอาร์กไฟฟ้า (EAF) ที่ได้คุณภาพ",
+            "why": "การจัดระเบียบอุตสาหกรรมเหล็กจะช่วยคัดกรองโรงงานที่มีมาตรฐานสูง ซึ่งต้องการใบตัดและหินเจียรคุณภาพสูงสำหรับการแต่งชิ้นงานเหล็กโครงสร้างอย่างสม่ำเสมอ",
+            "action": "ตรวจสอบรายชื่อลูกค้าโรงงานเหล็กเพื่อเน้นขยายยอดขายกับกลุ่มเตา EAF และโครงสร้างเหล็กมาตรฐาน พร้อมควบคุมความเสี่ยงด้านเครดิตในกลุ่มโรงงานเตา IF"
           }
         },
         {
           "id": "20260906-3",
-          "tag": "aero",
-          "rating": "amber",
-          "source": "Thansettakij",
-          "date": "2026-06-16",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pbFFnQlhiSG5UMVBfNjVmMUZtNXc4ZkYyOFljMVFtQlQwalZ5WUpidFlzX3prejlBWGoydDYzUUZXMlY4bE56VFUwZnZrLVJfWlRtV2t0Wi0xOWkzeVFLTUFJOVIwUQ?oc=5",
-          "title": "EECO Pushes U-Tapao Aircraft Hub as VietJet Studies MRO Investment Facility",
-          "summary": "The Eastern Economic Corridor Office (EECO) continues developing the U-Tapao aviation zone, waiting on VietJet's investment feasibility study for an aircraft maintenance facility. Adding regional carriers would broaden Thailand's commercial MRO capacity beyond domestic airlines.",
-          "why": "More hangars and line maintenance facilities will increase localized demand for aviation-grade non-woven abrasives, paint-stripping media, and composite surface repair tools.",
-          "action": "Maintain technical certification readiness for aerospace abrasives and build connections with EECO aviation procurement committees.",
-          "th": {
-            "title": "อีอีซี ปักหมุดศูนย์ซ่อมฯ อู่ตะเภา รอเวียตเจ็ทสรุปแผนร่วมลงทุน MRO",
-            "summary": "สำนักงานคณะกรรมการนโยบายเขตพัฒนาพิเศษภาคตะวันออก (สกพอ.) เดินหน้าพัฒนาศูนย์ซ่อมบำรุงอากาศยานอู่ตะเภา โดยรอผลการศึกษาแผนลงทุนศูนย์ซ่อมจากสายการบินเวียตเจ็ท ซึ่งจะช่วยขยายขีดความสามารถ MRO ไทยสู่ระดับภูมิภาค",
-            "why": "การมีศูนย์ซ่อมบำรุงสายการบินพาณิชย์เพิ่มขึ้น จะผลักดันความต้องการวัสดุขัดลอกสี อุปกรณ์แต่งผิวคอมโพสิต และใยสังเคราะห์ขัดเกรดการบินในระยะยาว",
-            "action": "เตรียมความพร้อมด้านเอกสารรับรองมาตรฐานผลิตภัณฑ์สำหรับอากาศยาน และติดตามเครือข่ายจัดซื้อจัดจ้างในโซนการบิน EEC"
-          }
-        },
-        {
-          "id": "20260906-4",
           "tag": "furniture",
-          "rating": "amber",
-          "source": "kasikornresearch.com",
-          "date": "2025-10-09",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR0I3LUFaeENxbzdDQVF4UDdVMFlmRWp4Y3BBdFZ6OGFQeUdZZ3Y5dHA5Q2ZxRXJIaTUtLVNVY29QM3RuSk1RMmpaeXhucHEwLWRiMFlsbkJRNEtYY3RWSDZNNXRBUXdfb0hDV0IzR1pkRW5ERC1xSkQtN21WZTVveUNtdURRYmN3QjQxUDRHS2g1dDNkSGdRVVJGU2tBNGJ3WDREcGh1N2VrdnN6MExB?oc=5",
-          "title": "Thai Furniture Exports Face Contraction in 2026 Following Prior-Year Front-Loading to US",
-          "summary": "Kasikorn Research expects Thai furniture exports to contract around 4.5% in 2026 after surging 9.3% in 2025 due to accelerated US import orders. Weakening real estate demand in major export destinations is forcing Thai manufacturers to control operating costs.",
-          "why": "Slowing export production among wooden furniture factories could dampen volume sales of wide sanding belts and finish-sanding abrasives.",
-          "action": "Shift sales focus toward premium domestic furniture and modern interior custom workshops, while offering high-durability belts to help export mills cut consumable costs.",
+          "rating": "green",
+          "source": "posttoday",
+          "date": "2026-02-20",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxXzVZOHRNaDlMYzJBM2F6S1FPc0Vkcy1Sc2JWRnl1VklJY2ZCSEpsOUJ0RG13b0I1cHBpXzBUOUhlSHdpdV9uV1cyZGJHT2pNaF83cw?oc=5",
+          "title": "ASEAN Furniture Sector Expands as Four Key Nations Command 90% of Regional Exports",
+          "summary": "Export tracking highlights continuous expansion across ASEAN's furniture manufacturing hub, where Thailand, Vietnam, Malaysia, and Indonesia dominate 90% of shipments. Rising export volumes are driving steady shopfloor finishing operations across major manufacturing clusters.",
+          "why": "Wood and metal furniture fabrication is highly abrasive-intensive, directly fueling large-scale consumable usage of wide sanding belts, flap wheels, and fine-grit finishing paper.",
+          "action": "Deploy specialized MK wide sanding belts and abrasive roll packages targeted at medium-to-large export furniture factories in eastern Thailand.",
           "th": {
-            "title": "ส่งออกเฟอร์นิเจอร์ไทยส่อหดตัว 4.5% ในปี 2569 หลังสหรัฐฯ เร่งนำเข้าล่วงหน้าปีก่อนหน้า",
-            "summary": "ศูนย์วิจัยกสิกรไทยคาดการณ์ว่าการส่งออกเฟอร์นิเจอร์ไทยมีแนวโน้มหดตัว 4.5% ในปี 2569 หลังเติบโตสูงในปีก่อนจากการเร่งตุนสต็อกของคู่ค้าสหรัฐฯ กอปรกับตลาดอสังหาริมทรัพย์ในต่างประเทศชะลอตัว",
-            "why": "การลดกำลังการผลิตของโรงงานเฟอร์นิเจอร์ไม้ส่งออกจะส่งผลกระทบต่อยอดสั่งซื้อกระดาษทรายสายพานหน้ากว้างและอุปกรณ์ขัดแต่งผิวไม้",
-            "action": "ปรับแผนขยายตลาดไปยังกลุ่มเฟอร์นิเจอร์บิวท์อินสั่งทำในประเทศ พร้อมชูจุดขายสายพานขัดความทนทานสูงเพื่อช่วยโรงงานส่งออกประหยัดต้นทุน"
+            "title": "อุตสาหกรรมเฟอร์นิเจอร์อาเซียนโตต่อเนื่อง 4 ชาติหลักกวาดสัดส่วนส่งออก 90%",
+            "summary": "ภาพรวมอุตสาหกรรมเฟอร์นิเจอร์ในอาเซียนขยายตัวแข็งแกร่ง โดยมี 4 ประเทศหลักรวมถึงไทยและเวียดนามครองส่วนแบ่งส่งออกกว่า 90% ของภูมิภาค ขับเคลื่อนกำลังการผลิตในโรงงานแปรรูปไม้อย่างต่อเนื่อง",
+            "why": "การผลิตเฟอร์นิเจอร์ส่งออกต้องใช้วัสดุขัดผิวอย่างเข้มข้น จึงสร้างอุปสงค์โดยตรงต่อสายพานขัดแถบกว้าง (Wide Belt) ล้อทราย และกระดาษทรายขัดผิวละเอียด",
+            "action": "จัดแคมเปญเสนอขายสายพานผ้าทรายขัดไม้ขนาดใหญ่และม้วนกระดาษทราย MK เข้าสู่โรงงานผลิตเฟอร์นิเจอร์ส่งออกในแถบภาคตะวันออกและภาคกลาง"
           }
         }
       ],
