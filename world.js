@@ -4,64 +4,82 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-09-06",
-      "summary": "Today's briefing focuses on automotive refinish and OEM coating trends, industrial metals performance, and advanced electric vehicle production insights, highlighting emerging surface preparation demands.",
+      "summary": "Today's briefing highlights steady growth in precision finishing technologies, specifically surface conditioning discs and ceramic flap discs looking out to 2035, alongside structural steel dynamics and industrial coatings expansions.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปข้อมูลข่าวสารประจำวันนี้เน้นไปที่แนวโน้มการเคลือบผิวในอุตสาหกรรมยานยนต์และ OEM ตลอดจนความเคลื่อนไหวของโลหะอุตสาหกรรมและยานยนต์ไฟฟ้า ซึ่งบ่งชี้ถึงความต้องการเตรียมพื้นผิวที่เปลี่ยนไป"
+        "summary": "สรุปข่าวประจำวันนี้เน้นย้ำการเติบโตอย่างต่อเนื่องของเทคโนโลยีการขัดแต่งผิวความแม่นยำสูง เช่น แผ่นขัดปรับสภาพผิว (Surface conditioning discs) และแผ่นเจียรผ้าทรายหลังแข็งเซรามิก (Ceramic flap discs) มองไปจนถึงปี 2035 ควบคู่ไปกับพลวัตของโครงสร้างเหล็กและการขยายตัวของอุตสาหกรรมสีเคลือบอุตสาหกรรม"
       },
       "items": [
         {
           "id": "20260906-w1",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "MarketsandMarkets",
-          "date": "2026-08-19",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWEhwQ2p3b3pNX0E1cGFWOGdvT2pLdGxXOFFLYWVnTS1zaXFnV0o4Nnl4cHFMQkE0RGFYdXFuekJaTVJ1U1Z0bGRJY1dTMk5hTEpVaWtMendld3NQb0ZtcmRWMFlHWlN2cUVKMUlmaE0zQy1aZ25STUlITUx1aTFTZ0w5X2c4TWxvMUhv?oc=5",
-          "title": "US Automotive Refinish Coatings Market Size, Share, Trends, Growth Analysis Report, 2030",
-          "summary": "The US automotive refinish coatings market report explores size, share, and growth drivers up to 2030, reflecting ongoing repair and repainting standards.",
-          "why": "Refinishing growth drives steady demand for sanding discs, masking supplies, and surface preparation abrasives used by auto body shops.",
-          "action": "Monitor US refinish coating trends as a leading indicator for premium automotive abrasive accessories and sanding sheets.",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-09-05",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOM2FhNHJJNmhtUnNqajZ4cWIxU1dGSy1zNVJISzQzcEFQcDJiNUo3LUpVaDZ6eVFhTXRrNjhkTDVqQXp5SXBWRDlNX0RaeHhPRGFiSS1KWTRSRXdvTll2MzJicnJ2VTlBYXBRbHk2dTRCbmRTY1lFNFBBdFVkNnVNVi1vNkQxUQ?oc=5",
+          "title": "Surface Conditioning Discs Market Outlook to 2035",
+          "summary": "A comprehensive market outlook highlights steady long-term demand for surface conditioning discs out to 2035, driven by automated surface preparation and metal finishing needs.",
+          "why": "Surface conditioning discs are core consumable products for deburring, blending, and cleaning in metal fabrication, representing a high-margin product line.",
+          "action": "Ensure steady inventory and explore premium non-woven surface conditioning options for local metalworking clients.",
           "th": {
-            "title": "รายงานขนาด ส่วนแบ่ง และแนวโน้มตลาดสีพ่นซ่อมรถยนต์ในสหรัฐอเมริกา ปี 2030",
-            "summary": "รายงานตลาดสีพ่นซ่อมรถยนต์ของสหรัฐฯ วิเคราะห์ขนาด ส่วนแบ่ง และปัจจัยขับเคลื่อนการเติบโตจนถึงปี 2030 ซึ่งสะท้อนมาตรฐานการซ่อมแซมและทำสีใหม่",
-            "why": "การเติบโตของการซ่อมสีรถยนต์สร้างความต้องการอย่างต่อเนื่องสำหรับกระดาษทราย แผ่นขัด และวัสดุเตรียมพื้นผิวที่อู่ซ่อมรถใช้งาน",
-            "action": "ติดตามแนวโน้มสีพ่นซ่อมรถยนต์ในสหรัฐฯ เพื่อใช้เป็นสัญญาณชี้นำสำหรับอุปกรณ์ขัดและกระดาษทรายพรีเมียม"
+            "title": "แนวโน้มตลาดแผ่นขัดปรับสภาพผิว (Surface Conditioning Discs) ถึงปี 2035",
+            "summary": "รายงานแนวโน้มตลาดระบุถึงความต้องการแผ่นขัดปรับสภาพผิวที่เติบโตอย่างต่อเนื่องจนถึงปี 2035 ขับเคลื่อนโดยกระบวนการเตรียมพื้นผิวอัตโนมัติและความต้องการงานขัดโลหะ",
+            "why": "แผ่นขัดปรับสภาพผิวเป็นวัสดุสิ้นเปลืองหลักสำหรับงานลบคม ขัดเกลี่ย และทำความสะอาดในอุตสาหกรรมขึ้นรูปโลหะ ซึ่งเป็นกลุ่มผลิตภัณฑ์ที่มีอัตรากำไรดี",
+            "action": "รักษาระดับสต็อกให้มั่นคงและสำรวจทางเลือกแผ่นขัด non-woven เกรดพรีเมียมเพื่อเสนอให้ลูกค้างานโลหะในประเทศ"
           }
         },
         {
           "id": "20260906-w2",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "fortunebusinessinsights.com",
-          "date": "2026-08-17",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
-          "title": "Automotive OEM Coatings Market Size, Share | Growth [2034]",
-          "summary": "Global analysis of the automotive OEM coatings market outlines growth projections and technological shifts toward advanced finishes through 2034.",
-          "why": "OEM coating advancements require strict surface prep, pretreatment grinding, and defect removal using specialized industrial abrasives.",
-          "action": "Align our heavy-industry product offerings with new standards in automotive manufacturing paint lines.",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "Market Research Future",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY0JpWXlQSC1LeGU2eUdGRW1zTEZ4amNoRXAyUWcxcnpWbEdzWmprSTBFM1htcllTNmQtdlRENmZ2NlhXbV9oNTlJbnJ0UjV5cENzZC1yTUdwM21YRi0wZUxBd1l6ODNDM1NxSUdQcFMwMGpCRnJuY041elNoT1RSRA?oc=5",
+          "title": "Ceramic Flap Disc Market Size, Share & Growth Report 2035 | MRFR",
+          "summary": "The ceramic flap disc market is expanding robustly through 2035, propelled by the demand for high-performance grain technologies that offer faster stock removal and longer lifespan.",
+          "why": "Ceramic abrasives represent the premium segment of grinding products, crucial for heavy industrial steel fabrication and demanding automotive applications.",
+          "action": "Promote ceramic grain flap discs to industrial accounts looking for higher productivity and lower total cost of grinding.",
           "th": {
-            "title": "ขนาด ส่วนแบ่ง และการเติบโตของตลาดสีเคลือบ OEM ยานยนต์ [2034]",
-            "summary": "การวิเคราะห์ตลาดสีเคลือบ OEM ยานยนต์ทั่วโลกแสดงการคาดการณ์การเติบโตและการเปลี่ยนผ่านทางเทคโนโลยีสู่การเคลือบผิวขั้นสูงถึงปี 2034",
-            "why": "ความก้าวหน้าของการเคลือบผิว OEM จำเป็นต้องอาศัยการเตรียมพื้นผิวที่เข้มงวด การขัดเตรียมผิว และการกำจัดตำหนิด้วยกระดาษทรายอุตสาหกรรมเฉพาะทาง",
-            "action": "ปรับกลุ่มผลิตภัณฑ์สำหรับอุตสาหกรรมหนักให้สอดคล้องกับมาตรฐานใหม่ในไลน์พ่นสีรถยนต์"
+            "title": "รายงานขนาด ส่วนแบ่ง และการเติบโตของตลาดแผ่นเจียรผ้าทรายหลังแข็งเซรามิก (Ceramic Flap Disc) ปี 2035",
+            "summary": "ตลาดแผ่นเจียรผ้าทรายหลังแข็งเซรามิกกำลังขยายตัวอย่างแข็งแกร่งจนถึงปี 2035 ขับเคลื่อนด้วยความต้องการเทคโนโลยีเมล็ดทรายประสิทธิภาพสูงที่ช่วยให้กินเนื้องานได้เร็วและมีอายุการใช้งานยาวนานขึ้น",
+            "why": "วัสดุขัดเซรามิกถือเป็นกลุ่มพรีเมียมของผลิตภัณฑ์งานเจียร ซึ่งมีความสำคัญต่ออุตสาหกรรมโครงสร้างเหล็กหนักและงานยานยนต์ที่ต้องการความแม่นยำสูง",
+            "action": "โปรโมทแผ่นเจียรผ้าทรายเซรามิกให้กับกลุ่มลูกค้าอุตสาหกรรมที่มองหาผลผลิตที่สูงขึ้นและต้นทุนรวมในการขัดที่ต่ำลง"
           }
         },
         {
           "id": "20260906-w3",
-          "tag": "steel",
+          "tag": "abrasive",
           "rating": "green",
-          "source": "FinancialContent",
-          "date": "2026-03-27",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNREp0R2c5MDlEQnlKN0toMm9Ma1lDTmpzazZlUEtzWnpMOTR5NW1KUW5sd21hZzJpYWFVQ2ZfUFM5MTNyUjFlS3NleWFkUHgtSnlGM0ZkRHNjcEhIRF9ucHpEQUo2SzMxMzVVU3p4Skw1eHVrcVZfVWJMRmoyUmZqalRwWlRDelE3UmZuZ3N1WGN5R0JDV2VsLWlGenpqQ01Oc01IYmh0Ni1naG9kUFZLeVY5WUM0cWdDcjdTZjlpeHdWQXExVFl5cmE4ak9yWExkRlFKRkZrQnFiMTNKQzB5Y09COXFaYVM4R2xySmU3RWNXbElRT2lET3BnV3o1QQ?oc=5",
-          "title": "Industrial Metals Hit Multi-Year Highs: Aluminum and Steel Surge Amid Global Supply Constraints",
-          "summary": "Industrial metal prices, notably aluminum and steel, have climbed to multi-year highs due to ongoing global supply constraints.",
-          "why": "Higher metal production volumes and tighter supply chains directly impact metal fabrication, welding cleanup, and heavy grinding demand.",
-          "action": "Anticipate higher input costs for metalworking customers and adjust inventory for heavy-duty grinding wheels and cut-off discs.",
+          "source": "IndexBox",
+          "date": "2026-09-05",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONHlWRE0td0ZPazJsLXVIUWdhNG96MFB5VXhhcld4Nmh3dHlKOUZSR0ZheXVCTjRreUpudFJTeHdoT2hJTFEzS2c1V1RvOGpiV3ByRjRRdFVreFVVeDJPR3FHTG5oSnp0TTF1anZWOVIzN043VF9XUWhDQ3ZvNEhqdUFtQjVDZw?oc=5",
+          "title": "Microfinishing Film Sheets Market Outlook to 2035",
+          "summary": "Demand for microfinishing film sheets is projected to grow steadily toward 2035, driven by ultra-precision surface finishing requirements in electronics, automotive components, and bearings.",
+          "why": "Film-backed abrasives offer exceptional surface uniformity compared to paper or cloth, making them essential for high-end precision polishing.",
+          "action": "Keep an eye on precision film product lines for future industrial finishing upgrades in high-tech manufacturing.",
           "th": {
-            "title": "โลหะอุตสาหกรรมแตะระดับสูงสุดในรอบหลายปี: อลูมิเนียมและเหล็กพุ่งสูงท่ามกลางข้อจำกัดด้านอุปทานโลก",
-            "summary": "ราคโลหะอุตสาหกรรม โดยเฉพาะอลูมิเนียมและเหล็ก ปรับตัวสูงขึ้นแตะระดับสูงสุดในรอบหลายปีเนื่องจากข้อจำกัดด้านอุปทานทั่วโลก",
-            "why": "ปริมาณการผลิตโลหะที่สูงขึ้นและห่วงโซ่อุปทานที่ตึงตัวส่งผลโดยตรงต่อความต้องการงานแปรรูปโลหะ การทำความสะอาดรอยเชื่อม และการขัดแต่งโลหะหนัก",
-            "action": "คาดการณ์ต้นทุนวัตถุดิบที่สูงขึ้นสำหรับลูกค้ากลุ่มงานโลหะและปรับสต็อกสินค้าสำหรับใบเจียรและใบตัดงานหนัก"
+            "title": "แนวโน้มตลาดแผ่นฟิล์มขัดละเอียดพิเศษ (Microfinishing Film Sheets) ถึงปี 2035",
+            "summary": "ความต้องการแผ่นฟิล์มขัดละเอียดพิเศษคาดว่าจะเติบโตอย่างมั่นคงจนถึงปี 2035 ขับเคลื่อนโดยความต้องการงานขัดผิวความละเอียดสูงในอุตสาหกรรมอิเล็กทรอนิกส์ ชิ้นส่วนยานยนต์ และตลับลูกปืน",
+            "why": "กระดาษทรายหรือแผ่นขัดแบบฟิล์ม (film-backed) ให้ความเรียบสม่ำเสมอของพื้นผิวสูงมากเมื่อเทียบกับกระดาษหรือผ้า จึงจำเป็นสำหรับงานขัดเงาความแม่นยำสูง",
+            "action": "ติดตามกลุ่มผลิตภัณฑ์ฟิล์มขัดความละเอียดสูงเพื่อรองรับการยกระดับงานขัดผิวอุตสาหกรรมไฮเทคในอนาคต"
+          }
+        },
+        {
+          "id": "20260906-w4",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "Shanghai Metals Market",
+          "date": "2026-05-19",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMmw1akRRMFZCQ2I5NGhHdE1NOXhoaE1GY0h5UmxlQVNUVGxHTko2U0NBQ0o0Q19ZYmZ1VnBCTTB6a2JJQTFNOUpDSUtpWXdaR3hkeGhlOXF4dF9yUElCd1ZkWTl4MmZGOWhVeUlXc2VCMXFCOHQzZ0ZGZ1RtZ3p6aUNObEczWFhKMkdKQ3JuRWF5SjVNZmpOQVBaSGs4TWJKS1lVa0VTdmoxdDBQTF8zRDlxME1qeEtOUzJzSTBERURobWltWTlVUlpaZ3d2WlFRNEY1b0UwbVVfLXc0cXBZ?oc=5",
+          "title": "Nucor: 100% EAF, High Profits, and Vertical Integration Mitigating Costs",
+          "summary": "Analysis of Nucor highlights how a 100% Electric Arc Furnace (EAF) model combined with vertical integration optimizes cost structures and maintains profitability in the steel sector.",
+          "why": "Steel production methods dictate how metal surfaces are treated and welded, influencing the types of grinding and cleaning discs required by metal fabricators.",
+          "action": "Monitor EAF steel processing trends as cleaner scrap-based steel fabrication grows globally.",
+          "th": {
+            "title": "Nucor: ใช้เตาหลอมไฟฟ้า (EAF) 100%, กำไรสูง และการบูรณาการในแนวดิ่งเพื่อลดต้นทุน",
+            "summary": "วิเคราะห์บริษัท Nucor ถึงความสำเร็จในการใช้เตาหลอมไฟฟ้า (EAF) 100% ร่วมกับการบูรณาการธุรกิจเพื่อควบคุมต้นทุนและรักษาผลกำไรในอุตสาหกรรมเหล็ก",
+            "why": "กระบวนการผลิตเหล็กเป็นตัวกำหนดลักษณะการจัดการผิวและงานเชื่อมโลหะ ซึ่งมีผลต่อประเภทของแผ่นตัด แผ่นเจียร และแผ่นทำความสะอาดที่โรงงานแปรรูปโลหะต้องใช้",
+            "action": "ติดตามแนวโน้มการแปรรูปเหล็กด้วยเตา EAF เนื่องจากอุตสาหกรรมเหล็กจากเศษเหล็กรีไซเคิลกำลังเติบโตทั่วโลก"
           }
         }
       ]
