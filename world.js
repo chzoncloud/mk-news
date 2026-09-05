@@ -4,28 +4,28 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-09-05",
-      "summary": "Today's briefing highlights growth in precision ceramic flap discs, booming demand for micro-abrasives in semiconductor manufacturing, and shifting automotive manufacturing equipment investments in key Asian markets.",
+      "summary": "Today's briefing highlights the rapid automation of finishing tools like flap discs, electronics-driven demand for abrasive sponges, and AI-driven smart factory shifts in major automotive manufacturing.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปประเด็นข่าววันนี้เน้นย้ำการเติบโตของแผ่นเจียรหลังอ่อนเซรามิกความแม่นยำสูง ความต้องการวัสดุขัดผิวขนาดไมครอนที่พุ่งสูงในอุตสาหกรรมเซมิคอนดักเตอร์ และการเปลี่ยนแปลงการลงทุนด้านอุปกรณ์การผลิตยานยนต์ในตลาดเอเชียหลัก"
+        "summary": "สรุปแนวโน้มวันนี้เน้นย้ำถึงการเติบโตของระบบอัตโนมัติในกลุ่มจานทรายซ้อน ความต้องการฟองน้ำขัดจากอุตสาหกรรมอิเล็กทรอนิกส์ และการเปลี่ยนผ่านสู่โรงงานอัจฉริยะที่ขับเคลื่อนด้วย AI ในอุตสาหกรรมยานยนต์"
       },
       "items": [
         {
           "id": "20260905-w1",
           "tag": "abrasive",
           "rating": "green",
-          "source": "Market Research Future",
-          "date": "2026-08-24",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY0JpWXlQSC1LeGU2eUdGRW1zTEZ4amNoRXAyUWcxcnpWbEdzWmprSTBFM1htcllTNmQtdlRENmZ2NlhXbV9oNTlJbnJ0UjV5cENzZC1yTUdwM21YRi0wZUxBd1l6ODNDM1NxSUdQcFMwMGpCRnJuY041elNoT1RSRA?oc=5",
-          "title": "Ceramic Flap Disc Market Size, Share & Growth Report 2035 | MRFR",
-          "summary": "The global ceramic flap disc market is expanding steadily through 2035, driven by high demand for faster metal removal rates and longer consumable life in heavy industrial applications.",
-          "why": "Ceramic grain technology is a high-margin product segment for MK. Understanding this growth helps us position premium ceramic lines against standard aluminum oxide alternatives.",
-          "action": "Promote our high-performance ceramic flap disc inventory to heavy metal fabrication and structural steel customers.",
+          "source": "IndexBox",
+          "date": "2026-09-03",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOemFEUXVsdnNaUV9oeUxKb3ctdGExOTZibVBMTU9ObE56VXBSY1pMa3JGdGtoUHBNODJOQlR0VHZpZk12XzdlSE5yVDBlUEVCXzdvMWEtd2ZWaVRvSWk0MnVBM2lKMS1wRGxDU1ZfOEFaUzlsMTJFTGlVMTc1bWNqNUFwSkh6MFZIVGlRaXBqYm1xWTRoVUdxbmliWF9LdnVKUnVQNU5IakthT09ET3JBLTVnaU5QeVdla1ZlOGZ5aDQtdXlMb283QXBSeXJXbXlkZ0dr?oc=5",
+          "title": "Flap Grinding Disc Market Forecast 2035: Demand Driven by Automation and Premium Abrasives",
+          "summary": "The global demand for flap grinding discs is projected to grow through 2035, heavily driven by robotic automation and a shift toward premium abrasive grains.",
+          "why": "As metal fabricators adopt automated grinding cells, demand for consistent, high-performance ceramic and zirconium flap discs will rise.",
+          "action": "Ensure stable sourcing of high-grade backing materials and premium abrasive grains for automated end-users.",
           "th": {
-            "title": "รายงานขนาด ส่วนแบ่ง และการเติบโตของตลาดแผ่นเจียรหลังอ่อนเซรามิก ปี 2035",
-            "summary": "ตลาดแผ่นเจียรหลังอ่อนเซรามิกทั่วโลกเติบโตอย่างต่อเนื่องจนถึงปี 2035 ขับเคลื่อนด้วยความต้องการอัตราการกินเนื้องานที่เร็วขึ้นและอายุการใช้งานที่ยาวนานขึ้นในงานอุตสาหกรรมหนัก",
-            "why": "เทคโนโลยีเม็ดทรายเซรามิกเป็นกลุ่มผลิตภัณฑ์ที่มีอัตรากำไรสูงสำหรับ MK การเข้าใจการเติบโตนี้ช่วยให้เราวางตำแหน่งสินค้ากลุ่มเซรามิกเกรดพรีเมียมสู้กับอลูมิเนียมออกไซด์ทั่วไปได้ดีขึ้น",
-            "action": "โปรโมตสต็อกแผ่นเจียรหลังอ่อนเซรามิกประสิทธิภาพสูงของเราให้กับลูกค้ากลุ่มแปรรูปโลหะหนักและโครงสร้างเหล็ก"
+            "title": "ตลาดแผ่นขัดและจานทรายซ้อนคาดเติบโตถึงปี 2035: ขับเคลื่อนด้วยระบบอัตโนมัติและวัสดุขัดคุณภาพสูง",
+            "summary": "ความต้องการจานทรายซ้อนทั่วโลกเติบโตอย่างต่อเนื่องจนถึงปี 2035 โดยได้รับแรงหนุนหลักจากระบบอัตโนมัติของหุ่นยนต์และการเปลี่ยนไปใช้วัสดุขัดเกรดพรีเมียม",
+            "why": "เมื่อโรงงานแปรรูปโลหะหันมาใช้ระบบขัดอัตโนมัติ ความต้องการจานทรายซ้อนเซอร์โคเนียและเซรามิกที่มีคุณภาพสม่ำเสมอจะสูงขึ้นตามไปด้วย",
+            "action": "เตรียมความพร้อมในการจัดหาวัสดุฐานรองและเม็ดทรายขัดคุณภาพสูงเพื่อรองรับกลุ่มลูกค้าที่ใช้ระบบอัตโนมัติ"
           }
         },
         {
@@ -33,35 +33,35 @@ window.WORLD_ARCHIVE = {
           "tag": "abrasive",
           "rating": "green",
           "source": "IndexBox",
-          "date": "2026-08-30",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOanZrUnUwZzBiNEhWSERHZTZzYkJOaFp2VklkeTR0VzVwQTloNlFBNC1Ma3pPU0gwYndWVE9CcXJjTV9KYlpYZm9hRGFhazVCYzhuUnZQZmpXSHN2ejlFVTdvclV6NzR0eTFPU3dTWmpCMlpnSEl6OFRoVGpqVThtQXRyUTJHdWY3dy0tWDhhOEx1Q3ctNzB2eERHQ3lMV2QzaWItS3BvQnhiYUh5V2h3Q0JXZTJpZjhQekFR?oc=5",
-          "title": "Micronized Abrasive Powders Market $2.4B by 2035 on Sub-50nm Semiconductor Demand",
-          "summary": "The micronized abrasive powders market is projected to reach $2.4 billion by 2035, heavily fueled by precision polishing requirements for sub-50nm semiconductor components.",
-          "why": "Signals strong high-tech demand for ultra-fine precision finishing materials, highlighting the expansion of industrial polishing past traditional metal sectors into electronics.",
-          "action": "Monitor trends in sub-micron abrasive powders and ultra-fine lapping compounds for potential niche industrial applications.",
+          "date": "2026-08-27",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZVNoQXZTcE5rVFdTaVAtc2pzYXA4bDJhUW1yNWd5RllQcTJMQ0xBN0ozandZMFZERUxfWUVRNU9odHV3RkVFUDNhejBkYy1KVVJmZlBsVXdQTG9qOU9Dck1yLUx2dmd2YWZ4Um80SWdTMzhIeF9DeVZiQzJ1QWRWWG45YmxvOFR1QVpEcHNld0ZvTE91dVZ2dm04dURCRVJ4bmZMZTVsQUtLVXFBenNJeFV4aUxBNkJqeUtOQjdINFpkdw?oc=5",
+          "title": "Abrasive Sponges Market to Hit 5.2% CAGR Through 2035 as Electronics Sector Drives 28% of Demand",
+          "summary": "The abrasive sponges market is expanding at a 5.2% CAGR, with the electronics sector alone accounting for over a quarter of total demand.",
+          "why": "Abrasive sponges are key for manual and semi-automated surface preparation in delicate electronics and component casings.",
+          "action": "Explore expanding our catalog of flexible abrasive sponges and foam-backed sanding pads targeting precision electronics and finishing.",
           "th": {
-            "title": "ตลาดผงขัดไมครอนแตะ 2.4 พันล้านดอลลาร์ภายในปี 2035 จากความต้องการเซมิคอนดักเตอร์ขนาดต่ำกว่า 50 นาโนเมตร",
-            "summary": "ตลาดผงขัดขนาดไมครอนคาดว่าจะมูลค่าแตะ 2.4 พันล้านดอลลาร์ภายในปี 2035 ขับเคลื่อนอย่างมากจากความต้องการขัดผิวความแม่นยำสูงสำหรับชิ้นส่วนเซมิคอนดักเตอร์ขนาดต่ำกว่า 50 นาโนเมตร",
-            "why": "ส่งสัญญาณถึงความต้องการเทคโนโลยีสูงสำหรับวัสดุขัดแต่งผิวละเอียดพิเศษ ตอกย้ำการขยายตัวของการขัดอุตสาหกรรมนอกเหนือจากกลุ่มโลหะแบบดั้งเดิมสู่อุตสาหกรรมอิเล็กทรอนิกส์",
-            "action": "ติดตามแนวโน้มของผงขัดขนาดซับไมครอนและสารขัดผิวละเอียดพิเศษสำหรับการใช้งานในกลุ่มอุตสาหกรรมเฉพาะทางที่มีศักยภาพ"
+            "title": "ตลาดฟองน้ำขัดจ่อเติบโต CAGR 5.2% ถึงปี 2035: ภาคอิเล็กทรอนิกส์ครองสัดส่วนความต้องการถึง 28%",
+            "summary": "ตลาดฟองน้ำขัดกำลังขยายตัวด้วยอัตราเติบโตเฉลี่ย 5.2% ต่อปี โดยภาคอิเล็กทรอนิกส์ถือเป็นตลาดใหญ่ที่ใช้ความต้องการมากกว่าหนึ่งในสี่",
+            "why": "ฟองน้ำขัดเป็นเครื่องมือสำคัญสำหรับการเตรียมผิวงานแบบใช้มือและกึ่งอัตโนมัติในชิ้นส่วนอิเล็กทรอนิกส์และโครงสร้างอุปกรณ์ที่บอบบาง",
+            "action": "พิจารณาขยายสินค้ากลุ่มฟองน้ำขัดและกระดาษทรายฟองน้ำเพื่อเจาะตลาดการตกแต่งผิวชิ้นส่วนอิเล็กทรอนิกส์และความละเอียดสูง"
           }
         },
         {
           "id": "20260905-w3",
           "tag": "auto",
           "rating": "amber",
-          "source": "MarketsandMarkets",
-          "date": "2026-08-19",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYlJqMkVNeUFMQUJMdEFrTmVOTUM0aWhXWEJjNWViSzE4ckF0TkI4UmFIVnpkNENDbW9tRk5XeWtrbUwzQ1lxQU84aDdjeHh0OXdzSXFzMktlYkxtOEtESTg1bWdZVzZWWjNCcEh0YUl4SHlYbGpyTXZwTWF2S3lBQ3pfdnhCWDVwN1NabGxtRTRHemV3WXhBdElfX3ViNjkyS24zank5cll3a1VOMVRtSS13?oc=5",
-          "title": "South-Korea Automotive Manufacturing Equipment Market Size, Share,Trends, Growth Analysis Report, 2030",
-          "summary": "The South Korean automotive manufacturing equipment market continues to adapt to advanced EV production lines, automation, and smart factory integrations.",
-          "why": "South Korea is a major regional hub for automotive manufacturing standards and robotics. Equipment upgrades here directly affect regional demand for automated deburring and grinding tools.",
-          "action": "Keep an eye on South Korean automated finishing tech trends that may influence Thai Tier-1 automotive supply chain factories.",
+          "source": "automotivemanufacturingsolutions.com",
+          "date": "2026-09-02",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUUpWSmpHLVowSXdiLUJqcFlpQ3ZfRmdQYjJiTVFCNk00ZW0tM0ZqenQtd2F4emNVNEdzT3Q3amZ3M050YnNuTldQZFQyTlgyX3ByekdEbkdlaURacG5yRlBUSEZucnBQalBmNzVadXVrSDdXcEd0d2t4UXptUzJ5dXZ6ckE1V3RVV3IyUkY4SFdVSERveVJYem0yM3lNbWFUY1dXWHYyRFZ2cXdldWFyRmJTNE4tQ1RXWWp4N3NCN1h5Vmt3d3hEbkFPc2ZqT0k?oc=5",
+          "title": "A global AI manufacturing transformation at Hyundai Motor Group",
+          "summary": "Hyundai Motor Group is rolling out comprehensive AI and smart manufacturing transformations across its global production facilities.",
+          "why": "Smart manufacturing lines in automotive demand precise, automated deburring and surface finishing systems integrated with factory data.",
+          "action": "Monitor how major automakers integrate AI into assembly and finishing lines to align future abrasive solutions with smart factory requirements.",
           "th": {
-            "title": "รายงานขนาด ส่วนแบ่ง แนวโน้ม และการวิเคราะห์การเติบโตของตลาดอุปกรณ์การผลิตยานยนต์เกาหลีใต้ ปี 2030",
-            "summary": "ตลาดอุปกรณ์การผลิตยานยนต์ของเกาหลีใต้ยังคงปรับตัวเข้ากับสายการผลิตรถยนต์ไฟฟ้าขั้นสูง ระบบอัตโนมัติ และการบูรณาการโรงงานอัจฉริยะ",
-            "why": "เกาหลีใต้เป็นศูนย์กลางภูมิภาคที่สำคัญสำหรับมาตรฐานการผลิตยานยนต์และวิทยาการหุ่นยนต์ การอัปเกรดอุปกรณ์ในพื้นที่นี้ส่งผลโดยตรงต่อความต้องการเครื่องมือลบคมและเจียรอัตโนมัติในภูมิภาค",
-            "action": "จับตาดูแนวโน้มเทคโนโลยีการขัดแต่งผิวอัตโนมัติของเกาหลีใต้ ซึ่งอาจส่งผลต่อโรงงานในห่วงโซ่อุปทานยานยนต์ระดับ Tier-1 ของไทย"
+            "title": "ฮุนได มอเตอร์ กรุ๊ป เดินหน้าพลิกโฉมการผลิตระดับโลกด้วยเทคโนโลยี AI",
+            "summary": "ฮุนได มอเตอร์ กรุ๊ป กำลังขับเคลื่อนการเปลี่ยนแปลงครั้งใหญ่ด้วยเทคโนโลยี AI และการผลิตอัจฉริยะทั่วทุกโรงงานผลิตทั่วโลก",
+            "why": "สายการผลิตอัจฉริยะในอุตสาหกรรมยานยนต์จำเป็นต้องมีระบบลบคมและตกแต่งผิวที่แม่นยำ ทำงานอัตโนมัติและเชื่อมต่อกับข้อมูลโรงงาน",
+            "action": "ติดตามทิศทางการนำ AI มาใช้ในสายการผลิตและงานตกแต่งผิวของค่ายรถยนต์รายใหญ่ เพื่อเตรียมนำเสนอโซลูชันงานขัดที่สอดรับกับโรงงานอัจฉริยะ"
           }
         }
       ]
