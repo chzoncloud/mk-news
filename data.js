@@ -2,6 +2,71 @@
 window.NEWS_ARCHIVE = {
   "days": [
     {
+      "date": "2026-09-07",
+      "summary": "Today has limited fresh industry news as most major developments were covered previously. Key highlights include Chery Group solidifying its EV production base in Thailand and VietJet reviewing an MRO investment at U-Tapao, presenting new surface-finishing and aerospace opportunities.",
+      "directCount": 1,
+      "th": {
+        "summary": "วันนี้มีข่าวใหม่ไม่มากนักเนื่องจากประเด็นหลักส่วนใหญ่ได้รับการรายงานไปแล้วในรอบสัปดาห์ ไฮไลต์สำคัญคือ เชอรี่ กรุ๊ป ยืนยันแผนการสร้างฐานผลิต EV ในไทย และเวียตเจ็ทกำลังศึกษาการลงทุนศูนย์ซ่อม MRO ที่อู่ตะเภา ซึ่งส่งผลดีต่อโอกาสการขายวัสดุขัดในกลุ่มยานยนต์และการบิน"
+      },
+      "items": [
+        {
+          "id": "20260907-1",
+          "tag": "auto",
+          "rating": "green",
+          "source": "Thansettakij",
+          "date": "2026-09-05",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qNFZ3cjdHVFQtVGxjMW9GMDU1dU9MUFlYMi1jbTZxb0xpVGQwVk5uQ3dJWnVaaGllMkFVSkhBUTZUUzlodTFKVVh6WndnUy1PcGJCM05aMA?oc=5",
+          "title": "Chery Group Accelerates Investment to Establish Thai EV Production Base",
+          "summary": "Chery Group reiterated its long-term commitment to set up actual EV manufacturing facilities in Thailand rather than merely importing vehicles. The move aims to establish Thailand as Chery's right-hand-drive export hub for the region.",
+          "why": "New local assembly plants generate direct demand for abrasives, flap wheels, and buffing discs used in body-in-white prep and robotic weld polishing.",
+          "action": "Connect with Chery's prospective Tier-1 stamping and body-assembly contractors to offer trial abrasive materials.",
+          "th": {
+            "title": "เชอรี่ กรุ๊ป เร่งเครื่องปักหมุดฐานผลิต EV ในไทย ย้ำลงทุนจริงเพื่อส่งออก",
+            "summary": "เชอรี่ กรุ๊ป ตอกย้ำความมุ่งมั่นระยะยาวในการตั้งโรงงานผลิต EV ในประเทศไทยอย่างแท้จริง ไม่ใช่แค่การนำเข้า โดยตั้งเป้าให้ไทยเป็นฐานส่งออกรถพวงมาลัยขวาในภูมิภาค",
+            "why": "โรงงานประกอบรถยนต์และสายการผลิตใหม่ในประเทศจะสร้างความต้องการใช้วัสดุขัด จานขัด และล้อทรายสำหรับเตรียมผิวตัวถังและเก็บรอยเชื่อมโดยตรง",
+            "action": "ประสานงานกับผู้รับเหมาและซัพพลายเออร์ชิ้นส่วน Tier-1 ของเชอรี่ เพื่อนำเสนอวัสดุขัดและกระดาษทรายสำหรับการทดสอบไลน์ผลิต"
+          }
+        },
+        {
+          "id": "20260907-2",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "thestandard.co",
+          "date": "2026-09-04",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wUkUzVmV5QmVjYi0yS2tpMWNud3d1S0Z1NXhfdl85SHBoSlZNbWl6TGVaSEVwazhIc3ZqY2JJSXk3eGFCclRZWlg5WmJFN211R1dFaXJVN2o4VzRGMUtIUmhzb0dhWXhVQU4xMw?oc=5",
+          "title": "Indonesia Challenges Thailand's Automotive Hub Dominance with Aggressive EV Push",
+          "summary": "Indonesia is aggressively competing with Thailand to become Southeast Asia's EV and battery manufacturing hub by leveraging its abundant nickel reserves and tailored incentives. Industry analysts question how long Thailand can maintain its leadership in automotive manufacturing without faster structural reforms.",
+          "why": "If OEM investments shift to Indonesia, local Japanese auto assembly volumes could contract, reducing long-term abrasive consumption among domestic Tier-1 parts suppliers.",
+          "action": "Diversify client concentration away from ICE auto parts by targeting aerospace MRO and industrial maintenance workshops.",
+          "th": {
+            "title": "อินโดนีเซียท้าชิงศูนย์กลาง EV-แบตเตอรี่ กดดันไทยรักษาตำแหน่งฮับยานยนต์ภูมิภาค",
+            "summary": "อินโดนีเซียเร่งเครื่องชิงความเป็นศูนย์กลางการผลิต EV และแบตเตอรี่ในอาเซียนด้วยจุดเด่นด้านทรัพยากรนิกเกิลและสิทธิประโยชน์ ขณะที่นักวิเคราะห์ตั้งคำถามถึงความสามารถในการรักษาตำแหน่งฮับยานยนต์ของไทยหากไร้การปฏิรูปเชิงโครงสร้างที่รวดเร็ว",
+            "why": "หากเงินลงทุนของค่ายรถยนต์เบนเข็มไปอินโดนีเซีย อาจทำให้ยอดการผลิตของค่ายญี่ปุ่นในไทยหดตัว และกระทบต่อการใช้วัสดุขัดของโรงงานผลิตชิ้นส่วนยานยนต์ในประเทศ",
+            "action": "กระจายความเสี่ยงจากพอร์ตชิ้นส่วนยานยนต์สันดาป ไปสู่กลุ่มศูนย์ซ่อมบำรุงอากาศยาน (MRO) และงานขัดซ่อมบำรุงในโรงงานทั่วไป"
+          }
+        },
+        {
+          "id": "20260907-3",
+          "tag": "aero",
+          "rating": "amber",
+          "source": "Thansettakij",
+          "date": "2026-06-16",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pbFFnQlhiSG5UMVBfTjVmMUZtNXc4ZkYyOFljMVFtQlQwalZ5WUpidFlzX3prejlBWGoydDYzUUZXMlY4bE56VFUwZnZrLVJfWlRtV2t0Wi0xOWkzeVFLTUFJOVIwUQ?oc=5",
+          "title": "EECO Targets U-Tapao Aircraft Hub as VietJet Studies MRO Investment",
+          "summary": "The Eastern Economic Corridor Office (EECO) is advancing U-Tapao's MRO infrastructure, with VietJet actively conducting feasibility studies to develop an aircraft maintenance center. This potential foreign airline partnership adds to ongoing state enterprise projects in Rayong.",
+          "why": "Expanding U-Tapao's MRO ecosystem to foreign carriers increases high-value abrasive consumption for engine blade deburring and precision airframe finishing.",
+          "action": "Review aerospace-grade abrasive certifications and establish introductory connections with technical consultants working on U-Tapao MRO developments.",
+          "th": {
+            "title": "อีอีซีเดินหน้าฮับซ่อมบำรุงอู่ตะเภา รอผลศึกษาการลงทุน MRO จากเวียตเจ็ท",
+            "summary": "สำนักงาน อีอีซี เร่งพัฒนาโครงสร้างพื้นฐานศูนย์ซ่อมอากาศยานอู่ตะเภา โดยเวียตเจ็ทกำลังศึกษาความเป็นไปได้เพื่อร่วมลงทุนศูนย์ MRO ซึ่งช่วยเสริมทัพแผนงานของสายการบินในประเทศ",
+            "why": "การขยายตัวของศูนย์ MRO ในอู่ตะเภาสู่สายการบินต่างชาติ จะเพิ่มความต้องการใช้วัสดุขัดเกรดการบินความแม่นยำสูง เช่น การลบครีบชิ้นส่วนเครื่องยนต์และงานขัดผิวตัวถังอากาศยาน",
+            "action": "ตรวจสอบมาตรฐานและใบรับรองวัสดุขัดเกรดการบินของบริษัท พร้อมสร้างคอนเนกชันกับที่ปรึกษาด้านเทคนิคที่ดูแลโครงการพัฒนา MRO ในอู่ตะเภา"
+          }
+        }
+      ],
+      "terms": {}
+    },
+    {
       "date": "2026-09-06",
       "summary": "Fresh intelligence is limited today, but highlights ongoing margin and volume pressure on domestic automotive component makers alongside steady abrasive demand from export furniture manufacturers. MK should expand sanding belt offerings into export-focused furniture plants to hedge against softer automotive OEM run-rates.",
       "directCount": 1,
@@ -565,5 +630,5 @@ window.NEWS_ARCHIVE = {
       "terms": {}
     }
   ],
-  "updated": "2026-09-06"
+  "updated": "2026-09-07"
 };
