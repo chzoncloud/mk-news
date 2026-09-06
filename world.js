@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-09-06",
+  "updated": "2026-09-07",
   "days": [
+    {
+      "date": "2026-09-07",
+      "summary": "Today's briefing features 3 key global trends focusing on metal recycling, automotive refinishing, and industrial coatings. These signals indicate steady demand for surface prep and finishing supplies in manufacturing and repair sectors.",
+      "directCount": 2,
+      "th": {
+        "summary": "สรุปทิศทางโลกประจำวันนี้มี 3 ประเด็นสำคัญเกี่ยวกับตลาดรีไซเคิลโลหะ สีพ่นซ่อมรถยนต์ และสารเคลือบอุตสาหกรรม ซึ่งบ่งชี้ถึงความต้องการที่มั่นคงสำหรับวัสดุเตรียมพื้นผิวและขัดตกแต่งในภาคการผลิตและซ่อมบำรุง"
+      },
+      "items": [
+        {
+          "id": "20260907-w1",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "Fortune Business Insights",
+          "date": "2026-08-10",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92cGoxdE1hdU1yLU5SOWdZVkp2OFp3VVRVY0pTUTdYR1VMRGtTQld5emF1LWxTV1VvZ0NOT0ZBLWJoNkxJVlVVV0hyd0RDdWlXNW13SDAtbjdtMVYzVC0tdURJeWg2SzBTM3BLQmh5aVliYVQ4eWNidg?oc=5",
+          "title": "Metal Recycling Market Size, Share | Growth Forecast [2034]",
+          "summary": "The global metal recycling market is expanding as industries push for sustainable raw materials and circular economy practices.",
+          "why": "Recycled metal structures and surfaces require intensive deburring, grinding, and cleaning before reprocessing or re-fabrication, driving abrasive consumption.",
+          "action": "Monitor trends in recycled metal processing to identify new opportunities for heavy-duty grinding tools.",
+          "th": {
+            "title": "ขนาดส่วนแบ่งและการคาดการณ์การเติบโตของตลาดรีไซเคิลโลหะถึงปี 2034",
+            "summary": "ตลาดรีไซเคิลโลหะทั่วโลกกำลังขยายตัวตามความต้องการใช้วัตถุดิบยั่งยืนและแนวทางเศรษฐกิจหมุนเวียนของภาคอุตสาหกรรม",
+            "why": "โครงสร้างและพื้นผิวโลหะรีไซเคิลจำเป็นต้องผ่านกระบวนการลบคม เจียร และทำความสะอาดอย่างเข้มข้นก่อนนำไปแปรรูปหรือขึ้นรูปใหม่ ซึ่งช่วยขับเคลื่อนความต้องการใช้ผลิตภัณฑ์กระดาษทรายและใบเจียร",
+            "action": "ติดตามแนวโน้มการแปรรูปโลหะรีไซเคิลเพื่อค้นหาโอกาสใหม่ๆ สำหรับอุปกรณ์ขัดถูงานหนัก"
+          }
+        },
+        {
+          "id": "20260907-w2",
+          "tag": "coating",
+          "rating": "green",
+          "source": "MarketsandMarkets",
+          "date": "2026-08-19",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWEhwQ2p3b3pNX0E1cGFWOGdvT2pLdGxXOFFLYWVnTS1zaXFnV0o4Nnl4cHFMQkE0RGFYdXFuekJaTVJ1U1Z0bGRJY1dTMk5hTEpVaWtMendld3NQb0ZtcmRWMFlHWlN2cUVKMUlmaE0zQy1aZ25STUlITUx1aTFTZ0w5X2c4TWxvMUhv?oc=5",
+          "title": "US Automotive Refinish Coatings Market Size, Share, Trends, Growth Analysis Report, 2030",
+          "summary": "Growth in the US automotive refinish coatings market highlights stable demand for collision repair and surface restoration products.",
+          "why": "Automotive refinishing relies heavily on precision sanding discs, surface conditioning pads, and microfinishing sheets for flawless paint adhesion.",
+          "action": "Ensure strong inventory and promotion of automotive sanding and surface prep consumables.",
+          "th": {
+            "title": "รายงานขนาดส่วนแบ่ง แนวโน้ม และการวิเคราะห์การเติบโตของตลาดสีพ่นซ่อมรถยนต์สหรัฐอเมริกา ปี 2030",
+            "summary": "การเติบโตของตลาดสีพ่นซ่อมรถยนต์ในสหรัฐฯ สะท้อนถึงความต้องการที่มั่นคงสำหรับผลิตภัณฑ์ซ่อมบำรุงตัวถังและการฟื้นฟูพื้นผิว",
+            "why": "งานพ่นซ่อมสีรถยนต์ต้องพึ่งพากผ่นขัด แผ่นขัดปรับสภาพผิว และแผ่นฟิล์มขัดละเอียดความแม่นยำสูงเป็นอย่างมาก เพื่อให้สีเกาะติดได้อย่างไร้ที่ติ",
+            "action": "รักษาเสถียรภาพสต็อกสินค้าและทำตลาดกลุ่มวัสดุสิ้นเปลืองสำหรับงานขัดและเตรียมพื้นผิวรถยนต์ให้พร้อมอยู่เสมอ"
+          }
+        },
+        {
+          "id": "20260907-w3",
+          "tag": "coating",
+          "rating": "green",
+          "source": "marketresearchfuture.com",
+          "date": "2026-04-06",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSmszWTZiNVdQUERrdWdBR2pZUFhWWk5qNlU0Nk1aVG41Y0JQWklzb1VUeENaX2swdFZRRW1zZzd0UVZ2MVFnWFJDNEcyR0JHVlBEaHNPQ1pWa3pwNm9IZUxhZ0RLVkg2R2tRSnZGR2REV0pSRE04SUNVNXhtWGg4eUZ4UFNqa1VCc2xvSXVSckx6Y1BLa1E?oc=5",
+          "title": "North America Industrial Coatings Market Size, Share & Growth Report 2035 | MRFR",
+          "summary": "The North American industrial coatings sector projects steady long-term growth driven by manufacturing and infrastructure needs.",
+          "why": "Industrial coating applications require thorough surface preparation and intermediate sanding to ensure coating durability across metal and machinery.",
+          "action": "Align industrial abrasive product offerings with sectors requiring high-performance surface preparation.",
+          "th": {
+            "title": "รายงานขนาด ส่วนแบ่ง และการเติบโตของตลาดสีเคลือบอุตสาหกรรมในอเมริกาเหนือ ปี 2035 | MRFR",
+            "summary": "ภาคอุตสาหกรรมสีเคลือบในอเมริกาเหนือคาดการณ์การเติบโตระยะยาวอย่างมั่นคง ขับเคลื่อนโดยความต้องการด้านการผลิตและโครงสร้างพื้นฐาน",
+            "why": "การเคลือบผิวอุตสาหกรรมจำเป็นต้องมีการเตรียมพื้นผิวอย่างทั่วถึงและการขัดระหว่างชั้น เพื่อรับประกันความทนทานของสารเคลือบในงานโลหะและเครื่องจักร",
+            "action": "ปรับกลุ่มผลิตภัณฑ์กระดาษทรายและผ้าทรายอุตสาหกรรมให้สอดคล้องกับกลุ่มลูกค้าที่ต้องการการเตรียมพื้นผิวประสิทธิภาพสูง"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-09-06",
       "summary": "Today's briefing highlights steady growth in precision finishing technologies, specifically surface conditioning discs and ceramic flap discs looking out to 2035, alongside structural steel dynamics and industrial coatings expansions.",
@@ -939,70 +1003,6 @@ window.WORLD_ARCHIVE = {
             "summary": "ภาคอุตสาหกรรมเหล็กทั่วโลกยังคงเผชิญกับปัญหาอุปทานส่วนเกิน ควบคู่ไปกับมาตรการปกป้องทางการค้าที่เพิ่มขึ้นในภูมิภาคการผลิตหลัก",
             "why": "ปริมาณการผลิตเหล็กมีความเชื่อมโยงโดยตรงกับกิจกรรมแปรรูปโลหะในท้องถิ่น ซึ่งเป็นตัวกำหนดอัตราการใช้แผ่นตัดและใบเจียร",
             "action": "ติดตามอัตราการดำเนินงานของโรงงานเหล็กในประเทศเพื่อคาดการณ์การเปลี่ยนแปลงการใช้วัสดุขัดเจียร"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-08-24",
-      "summary": "Today's briefing highlights niche high-tech surface finishing trends, including superhard diamond sanding belts, European abrasives market forecasts, and EV lightweighting through composite leaf springs.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปกระแสโลกวันนี้เน้นเทรนด์การเตรียมพื้นผิวไฮเทคเฉพาะกลุ่ม เช่น สายพานขัดเพชรความแข็งสูง การคาดการณ์ตลาดสารขัดถูในยุโรป และการลดน้ำหนักรถยนต์ EV ด้วยแหนบสปริงคอมโพสิต"
-      },
-      "items": [
-        {
-          "id": "20260824-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "EIN Presswire",
-          "date": "2026-07-17",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQ2tzbUVzemVBLUxLMTFXbThzUk1aZEV5cDBQeE1HWmNUbW1PNzZTUXo0bnFpcjA5Yk1XRUtMOEFyakZfaXdVUTlPM3pSVno5dk5kRXUzM000ZFo5WG1mcGV4U1NzV1hLWVlpY3p6LVZtcTN4X3hWd2tDRVJoemVydnNIZFdNTjZmYk9uTGJEd0hTdTlpY3RlaGtHemZ6VWNTOEZoWk92eU1rQU5UdjFMLVdjWmV1U0w0czdncEJnWmkzYmZlRFdOVWpXMFN5RkZTRDh4bUxBdTV1WmpFLVJ1dDRJTUdmdw?oc=5",
-          "title": "Five Reputable Diamond Sanding Belts Manufacturers in China 2026: Optimizing Superhard Abrasive Machining",
-          "summary": "The market is increasingly focusing on diamond sanding belts and superhard abrasive machining solutions to optimize heavy-duty cutting performance.",
-          "why": "Superhard abrasives like diamond belts represent high-margin technical segments for advanced industrial machining.",
-          "action": "Monitor customer demand for diamond and superhard coated belts in precision hard-metal applications.",
-          "th": {
-            "title": "5 ผู้ผลิตสายพานขัดเพชรชั้นนำในจีนปี 2026: การเพิ่มประสิทธิภาพงานตัดเฉือนด้วยสารขัดถูความแข็งพิเศษ",
-            "summary": "ตลาดกำลังให้ความสำคัญกับสายพานขัดเพชรและโซลูชันการตัดเฉือนด้วยสารขัดถูความแข็งพิเศษเพื่อเพิ่มประสิทธิภาพการตัดงานหนัก",
-            "why": "สารขัดถูความแข็งพิเศษอย่างสายพานเพชรเป็นกลุ่มผลิตภัณฑ์ทางเทคนิคที่มีกำไรสูงสำหรับงานเครื่องจักรกลอุตสาหกรรมขั้นสูง",
-            "action": "ติดตามความต้องการของลูกค้าสำหรับสายพานเคลือบเพชรและวัสดุความแข็งพิเศษในงานโลหะแข็งที่มีความแม่นยำ"
-          }
-        },
-        {
-          "id": "20260824-w2",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "Market Data Forecast",
-          "date": "2026-07-24",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QdEVXWnRKRG40YWFXWDVwY09BdElfOGotQVNaazA2Q2p2VkluOXlhT1RSeEF3STZKZVI3b21NZlB3MWlwLTVXaVNDQWtQSHNUX3RPZXQ4Y0wwY1pwaGVfYzdKeXNNdDFZMkNpcDVhSm5OUjRraTM4ZV9fRHcyZw?oc=5",
-          "title": "Europe Abrasives Market Size, Share and Analysis, 2034",
-          "summary": "A comprehensive outlook on the European abrasives market highlights structural shifts and long-term demand drivers toward 2034.",
-          "why": "European market reports signal global standard changes in quality, eco-compliance, and premium abrasive product adoption.",
-          "action": "Use European quality and compliance benchmarks as a reference point for upgrading our B2B product offerings.",
-          "th": {
-            "title": "ขนาด ส่วนแบ่ง และการวิเคราะห์ตลาดสารขัดถูยุโรป ปี 2034",
-            "summary": "มุมมองเชิงลึกเกี่ยวกับตลาดสารขัดถูในยุโรปเน้นการเปลี่ยนแปลงเชิงโครงสร้างและปัจจัยขับเคลื่อนความต้องการระยะยาวถึงปี 2034",
-            "why": "รายงานตลาดจากยุโรปบ่งชี้การเปลี่ยนแปลงมาตรฐานระดับโลกด้านคุณภาพ ความเป็นมิตรต่อสิ่งแวดล้อม และการใช้ผลิตภัณฑ์ขัดถูเกรดพรีเมียม",
-            "action": "ใช้เกณฑ์มาตรฐานด้านคุณภาพและการปฏิบัติตามข้อกำหนดของยุโรปเป็นแนวทางในการยกระดับผลิตภัณฑ์ B2B ของเรา"
-          }
-        },
-        {
-          "id": "20260824-w3",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Future Market Insights",
-          "date": "2026-02-12",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc2x3UG45VXZPYjdDdjdGZ21pUkZDc2FIZnlYOWdzRXlpM0ZlLXAzR2poSHN5YllRYk9EYkZLTW1fS1FZN3Z6ZEN1SXN5cTR5cXhkeGc3QjJxMG5WeFFVN0dRQjlZUmJ6NnhNN1lYWFMzUGE1dWhfY0FWd05FWnlwYlFDcGZfZzFPeC1fbWpn?oc=5",
-          "title": "Automotive Composite Leaf Springs Market",
-          "summary": "The automotive sector is steadily adopting composite leaf springs to reduce vehicle weight, particularly for commercial and EV platforms.",
-          "why": "Machining and finishing composite materials require specialized coated abrasives that differ from traditional steel grinding.",
-          "action": "Explore specialized sanding solutions suited for composite materials used in modern lightweight automotive parts.",
-          "th": {
-            "title": "ตลาดแหนบสปริงคอมโพสิตยานยนต์",
-            "summary": "ภาคยานยนต์กำลังหันมาใช้แหนบสปริงคอมโพสิตอย่างต่อเนื่องเพื่อลดน้ำหนักรถยนต์ โดยเฉพาะสำหรับแพลตฟอร์มเชิงพาณิชย์และ EV",
-            "why": "งานตัดแต่งและขัดผิววัสดุคอมโพสิตต้องใช้กระดาษทรายหรือสารขัดเคลือบพิเศษที่แตกต่างจากการเจียรเหล็กแบบดั้งเดิม",
-            "action": "ศึกษาโซลูชันการขัดที่เหมาะกับวัสดุคอมโพสิต ซึ่งใช้ในชิ้นส่วนยานยนต์น้ำหนักเบาสัยใหม่"
           }
         }
       ]
