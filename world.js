@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-09-07",
-      "summary": "Today's briefing features 3 key global trends focusing on metal recycling, automotive refinishing, and industrial coatings. These signals indicate steady demand for surface prep and finishing supplies in manufacturing and repair sectors.",
-      "directCount": 2,
+      "summary": "Today's briefing features 3 key global trends focusing on automotive manufacturing equipment shifts in China and Japan, plus steel market dynamics and global steel industry challenges.",
+      "directCount": 1,
       "th": {
-        "summary": "สรุปทิศทางโลกประจำวันนี้มี 3 ประเด็นสำคัญเกี่ยวกับตลาดรีไซเคิลโลหะ สีพ่นซ่อมรถยนต์ และสารเคลือบอุตสาหกรรม ซึ่งบ่งชี้ถึงความต้องการที่มั่นคงสำหรับวัสดุเตรียมพื้นผิวและขัดตกแต่งในภาคการผลิตและซ่อมบำรุง"
+        "summary": "สรุปข่าววันนี้ประกอบด้วย 3 แนวโน้มสำคัญระดับโลก เน้นการเปลี่ยนแปลงของอุปกรณ์การผลิตยานยนต์ในจีนและญี่ปุ่น ตลอดจนพลวัตของตลาดเหล็กและความท้าทายในอุตสาหกรรมเหล็กโลก"
       },
       "items": [
         {
           "id": "20260907-w1",
-          "tag": "steel",
+          "tag": "auto",
           "rating": "amber",
-          "source": "Fortune Business Insights",
-          "date": "2026-08-10",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92cGoxdE1hdU1yLU5SOWdZVkp2OFp3VVRVY0pTUTdYR1VMRGtTQld5emF1LWxTV1VvZ0NOT0ZBLWJoNkxJVlVVV0hyd0RDdWlXNW13SDAtbjdtMVYzVC0tdURJeWg2SzBTM3BLQmh5aVliYVQ4eWNidg?oc=5",
-          "title": "Metal Recycling Market Size, Share | Growth Forecast [2034]",
-          "summary": "The global metal recycling market is expanding as industries push for sustainable raw materials and circular economy practices.",
-          "why": "Recycled metal structures and surfaces require intensive deburring, grinding, and cleaning before reprocessing or re-fabrication, driving abrasive consumption.",
-          "action": "Monitor trends in recycled metal processing to identify new opportunities for heavy-duty grinding tools.",
+          "source": "MarketsandMarkets",
+          "date": "2026-08-19",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUEFHclR5NnZiRmQ3ZWs1QWMycFZkZlZVempvMXlNMGxrUXc1alpac0trZnhoVG5pRnRISVhlYlJmUkpLVHp5T1FFQi04ODdlVmRoMDBYckx4SHVONkVEQVcxNWxfcTRBNS1DTmstS2JyZTh4OVQzbk9lN3dHZkt6cUFqZHVBcmlVbWtkUGJSejJvZVdoc3Z5dTRUM2ZlMUZEdzNsLVM2VGpqdw?oc=5",
+          "title": "China Automotive Manufacturing Equipment Market Size, Share, Trends, Growth Analysis Report, 2030",
+          "summary": "Report analyzes market size, share, trends, and growth for China's automotive manufacturing equipment sector through 2030.",
+          "why": "Chinese automotive manufacturing scale heavily dictates the regional demand for high-end robotic sanding, grinding, and surface preparation machinery.",
+          "action": "Monitor Chinese equipment advancements to understand where automated finishing cells are heading.",
           "th": {
-            "title": "ขนาดส่วนแบ่งและการคาดการณ์การเติบโตของตลาดรีไซเคิลโลหะถึงปี 2034",
-            "summary": "ตลาดรีไซเคิลโลหะทั่วโลกกำลังขยายตัวตามความต้องการใช้วัตถุดิบยั่งยืนและแนวทางเศรษฐกิจหมุนเวียนของภาคอุตสาหกรรม",
-            "why": "โครงสร้างและพื้นผิวโลหะรีไซเคิลจำเป็นต้องผ่านกระบวนการลบคม เจียร และทำความสะอาดอย่างเข้มข้นก่อนนำไปแปรรูปหรือขึ้นรูปใหม่ ซึ่งช่วยขับเคลื่อนความต้องการใช้ผลิตภัณฑ์กระดาษทรายและใบเจียร",
-            "action": "ติดตามแนวโน้มการแปรรูปโลหะรีไซเคิลเพื่อค้นหาโอกาสใหม่ๆ สำหรับอุปกรณ์ขัดถูงานหนัก"
+            "title": "รายงานตลาดอุปกรณ์การผลิตยานยนต์ของจีน ขนาด ส่วนแบ่ง แนวโน้ม และการเติบโตถึงปี 2030",
+            "summary": "รายงานวิเคราะห์ขนาด ส่วนแบ่ง แนวโน้ม และการเติบโตของภาคอุปกรณ์การผลิตยานยนต์ในประเทศจีนจนถึงปี 2030",
+            "why": "ขนาดการผลิตยานยนต์ของจีนส่งผลต่อความต้องการในภูมิภาคสำหรับเครื่องจักรขัด ขัดหยาบ และเตรียมพื้นผิวด้วยระบบอัตโนมัติขั้นสูง",
+            "action": "ติดตามความก้าวหน้าด้านอุปกรณ์ของจีนเพื่อทำความเข้าใจทิศทางของระบบขัดผิวอัตโนมัติ"
           }
         },
         {
           "id": "20260907-w2",
-          "tag": "coating",
-          "rating": "green",
+          "tag": "auto",
+          "rating": "amber",
           "source": "MarketsandMarkets",
-          "date": "2026-08-19",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWEhwQ2p3b3pNX0E1cGFWOGdvT2pLdGxXOFFLYWVnTS1zaXFnV0o4Nnl4cHFMQkE0RGFYdXFuekJaTVJ1U1Z0bGRJY1dTMk5hTEpVaWtMendld3NQb0ZtcmRWMFlHWlN2cUVKMUlmaE0zQy1aZ25STUlITUx1aTFTZ0w5X2c4TWxvMUhv?oc=5",
-          "title": "US Automotive Refinish Coatings Market Size, Share, Trends, Growth Analysis Report, 2030",
-          "summary": "Growth in the US automotive refinish coatings market highlights stable demand for collision repair and surface restoration products.",
-          "why": "Automotive refinishing relies heavily on precision sanding discs, surface conditioning pads, and microfinishing sheets for flawless paint adhesion.",
-          "action": "Ensure strong inventory and promotion of automotive sanding and surface prep consumables.",
+          "date": "2026-08-21",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdDdrSGc1R3dmakpUZ2wwVGR5YVZ5R1VGU25SQklaQjFGWDR2SzRfUHNhcEcwdFB1R1BMZWtZSjBUYTNOM0Y0ajZJZlQwbThLQU1EQ2pvaUNucjdxN1ZyQzU4cFZIRXpKQ1NORm43SGRaUW1fLXdvZXczVkdQUmVVSjVwYk1KSk9VZmo2bmUybXlBRUFwV2syajFabi12clNXWVZXNUxKbnVPdw?oc=5",
+          "title": "Japan Automotive Manufacturing Equipment Market Size, Share, Trends, Growth Analysis Report, 2030",
+          "summary": "Comprehensive analysis of Japan's automotive manufacturing equipment market dynamics and growth projections toward 2030.",
+          "why": "Japanese automotive factories maintain extremely high precision standards for metal deburring and finishing, setting technological benchmarks.",
+          "action": "Observe Japanese precision automation standards for potential adoption in premium manufacturing sectors.",
           "th": {
-            "title": "รายงานขนาดส่วนแบ่ง แนวโน้ม และการวิเคราะห์การเติบโตของตลาดสีพ่นซ่อมรถยนต์สหรัฐอเมริกา ปี 2030",
-            "summary": "การเติบโตของตลาดสีพ่นซ่อมรถยนต์ในสหรัฐฯ สะท้อนถึงความต้องการที่มั่นคงสำหรับผลิตภัณฑ์ซ่อมบำรุงตัวถังและการฟื้นฟูพื้นผิว",
-            "why": "งานพ่นซ่อมสีรถยนต์ต้องพึ่งพากผ่นขัด แผ่นขัดปรับสภาพผิว และแผ่นฟิล์มขัดละเอียดความแม่นยำสูงเป็นอย่างมาก เพื่อให้สีเกาะติดได้อย่างไร้ที่ติ",
-            "action": "รักษาเสถียรภาพสต็อกสินค้าและทำตลาดกลุ่มวัสดุสิ้นเปลืองสำหรับงานขัดและเตรียมพื้นผิวรถยนต์ให้พร้อมอยู่เสมอ"
+            "title": "รายงานตลาดอุปกรณ์การผลิตยานยนต์ของญี่ปุ่น ขนาด ส่วนแบ่ง แนวโน้ม และการเติบโตถึงปี 2030",
+            "summary": "การวิเคราะห์เชิงลึกเกี่ยวกับพลวัตของตลาดอุปกรณ์การผลิตยานยนต์ในญี่ปุ่นและการคาดการณ์การเติบโตถึงปี 2030",
+            "why": "โรงงานยานยนต์ของญี่ปุ่นรักษามาตรฐานความแม่นยำสูงมากสำหรับการลบคมและตกแต่งโลหะ ซึ่งเป็นเกณฑ์มาตรฐานทางเทคโนโลยี",
+            "action": "ศึกษามอเตอร์และมาตรฐานระบบอัตโนมัติที่มีความแม่นยำสูงของญี่ปุ่นเพื่อปรับใช้ในภาคการผลิตระดับพรีเมียม"
           }
         },
         {
           "id": "20260907-w3",
-          "tag": "coating",
-          "rating": "green",
-          "source": "marketresearchfuture.com",
-          "date": "2026-04-06",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSmszWTZiNVdQUERrdWdBR2pZUFhWWk5qNlU0Nk1aVG41Y0JQWklzb1VUeENaX2swdFZRRW1zZzd0UVZ2MVFnWFJDNEcyR0JHVlBEaHNPQ1pWa3pwNm9IZUxhZ0RLVkg2R2tRSnZGR2REV0pSRE04SUNVNXhtWGg4eUZ4UFNqa1VCc2xvSXVSckx6Y1BLa1E?oc=5",
-          "title": "North America Industrial Coatings Market Size, Share & Growth Report 2035 | MRFR",
-          "summary": "The North American industrial coatings sector projects steady long-term growth driven by manufacturing and infrastructure needs.",
-          "why": "Industrial coating applications require thorough surface preparation and intermediate sanding to ensure coating durability across metal and machinery.",
-          "action": "Align industrial abrasive product offerings with sectors requiring high-performance surface preparation.",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "S&P Global",
+          "date": "2026-01-12",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
+          "title": "Global steel industry battles surplus supply, protectionism",
+          "summary": "An examination of how global steel markets are navigating overcapacity issues and rising international trade protectionism.",
+          "why": "Steel production volume and mill operating rates directly influence regional demand for heavy-duty grinding wheels and cut-off discs.",
+          "action": "Keep an eye on regional steel mill utilization rates to anticipate shifts in metal fabrication consumables demand.",
           "th": {
-            "title": "รายงานขนาด ส่วนแบ่ง และการเติบโตของตลาดสีเคลือบอุตสาหกรรมในอเมริกาเหนือ ปี 2035 | MRFR",
-            "summary": "ภาคอุตสาหกรรมสีเคลือบในอเมริกาเหนือคาดการณ์การเติบโตระยะยาวอย่างมั่นคง ขับเคลื่อนโดยความต้องการด้านการผลิตและโครงสร้างพื้นฐาน",
-            "why": "การเคลือบผิวอุตสาหกรรมจำเป็นต้องมีการเตรียมพื้นผิวอย่างทั่วถึงและการขัดระหว่างชั้น เพื่อรับประกันความทนทานของสารเคลือบในงานโลหะและเครื่องจักร",
-            "action": "ปรับกลุ่มผลิตภัณฑ์กระดาษทรายและผ้าทรายอุตสาหกรรมให้สอดคล้องกับกลุ่มลูกค้าที่ต้องการการเตรียมพื้นผิวประสิทธิภาพสูง"
+            "title": "อุตสาหกรรมเหล็กโลกต่อสู้กับภาวะอุปทานล้นตลาดและลัทธิกีดกันทางการค้า",
+            "summary": "การตรวจสอบว่าตลาดเหล็กทั่วโลกกำลังจัดการกับปัญหาcapaส่วนเกินและการกีดกันทางการค้าระหว่างประเทศที่เพิ่มขึ้นอย่างไร",
+            "why": "ปริมาณการผลิตเหล็กและอัตราการเดินเครื่องของโรงงานมีอิทธิพลโดยตรงต่อความต้องการในภูมิภาคสำหรับล้อเจียรและใบตัดเกรดใช้งานหนัก",
+            "action": "จับตาอัตราการใช้กำลังการผลิตของโรงงานเหล็กในภูมิภาคเพื่อคาดการณ์ความเปลี่ยนแปลงของความต้องการใช้วัสดุสิ้นเปลืองในงานแปรรูปโลหะ"
           }
         }
       ]
