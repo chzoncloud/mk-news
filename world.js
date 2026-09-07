@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-09-07",
+  "updated": "2026-09-08",
   "days": [
+    {
+      "date": "2026-09-08",
+      "summary": "Today's briefing highlights global shifts toward robotic and automated sanding in wood manufacturing, evolving automotive refinish standards, and structural developments in stainless steel powders impacting surface preparation.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปรายงานวันนี้เน้นย้ำถึงการเปลี่ยนผ่านระดับโลกไปสู่การขัดด้วยหุ่นยนต์และระบบอัตโนมัติในอุตสาหกรรมไม้ มาตรฐานการทำสีรถยนต์ใหม่ และการพัฒนาโครงสร้างผงสเตนเลสสตีลที่ส่งผลต่อการเตรียมพื้นผิว"
+      },
+      "items": [
+        {
+          "id": "20260908-w1",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "Woodworking Network",
+          "date": "2022-09-14",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdks1TWZwY2RMY21ZNl8zQ1hJZ201QnJzY3Bsb2gyc0NQajRiRHMtSkJ1QW9OX1JaTzVrYm15ZkFvclM2bjZ1cTJQZVlaYk1JWVpnQVpyanBkMFFTVEZCaG9ZQ0ttWTh2VnRNRGVtbzB4WUVCamVPbzc4MTdfbEdYQm5zem1QXzlaYk5XMHpPOU9IZ3Fsc3dKVG9VM01IX3dMdDRiMXNYRmJNN1pQN2hSOHFielVqQWxWWVVMUHc2NUdhOTkxaW5lY19mc1I?oc=5",
+          "title": "Mirka to feature robotic sanding, antistatic abrasives and more at SIBO",
+          "summary": "Major abrasive manufacturers are pushing heavily into robotic sanding integrations and antistatic abrasive technologies for industrial woodworking.",
+          "why": "Automation and robotic compatibility dictate which abrasive formats (like custom discs and rolls) commercial woodshops will demand next.",
+          "action": "Track automated sanding requirements and anti-static product lines for local woodworking furniture clients.",
+          "th": {
+            "title": "Mirka เปิดตัวระบบขัดด้วยหุ่นยนต์ วัสดุขัดป้องกันไฟฟ้าสถิต และอื่นๆ ในงาน SIBO",
+            "summary": "ผู้ผลิตกระดาษทรายและวัสดุขัดรายใหญ่กำลังรุกเข้าสู่การบูรณาการระบบขัดด้วยหุ่นยนต์และเทคโนโลยีวัสดุขัดป้องกันไฟฟ้าสถิตสำหรับอุตสาหกรรมไม้",
+            "why": "ระบบอัตโนมัติและความเข้ากันได้กับหุ่นยนต์เป็นตัวกำหนดว่ารูปแบบวัสดุขัดใด (เช่น แผ่นและม้วนแบบพิเศษ) ที่ร้านเฟอร์นิเจอร์ไม้พาณิชย์จะต้องการในอนาคต",
+            "action": "ติดตามความต้องการขัดอัตโนมัติและกลุ่มผลิตภัณฑ์ป้องกันไฟฟ้าสถิตสำหรับกลุ่มลูกค้าเฟอร์นิเจอร์ไม้ในประเทศ"
+          }
+        },
+        {
+          "id": "20260908-w2",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "MarketsandMarkets",
+          "date": "2026-08-19",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWEhwQ2p3b3pNX0E1cGFWOGdvT2pLdGxXOFFLYWVnTS1zaXFnV0o4Nnl4cHFMQkE0RGFYdXFuekJaTVJ1U1Z0bGRJY1dTMk5hTEpVaWtMendld3NQb0ZtcmRWMFlHWlN2cUVKMUlmaE0zQy1aZ25STUlITUx1aTFTZ0w5X2c4TWxvMUhv?oc=5",
+          "title": "US Automotive Refinish Coatings Market Size, Share, Trends, Growth Analysis Report, 2030",
+          "summary": "The automotive refinish coatings market continues steady long-term growth trajectories through 2030, influenced by vehicle fleet maintenance needs.",
+          "why": "Automotive refinishing directly correlates with consumption levels of sanding discs, masking papers, and surface preparation compounds.",
+          "action": "Anticipate stable demand for automotive repair abrasives and premium finer-grit finishing products.",
+          "th": {
+            "title": "รายงานขนาด ส่วนแบ่ง แนวโน้ม และการวิเคราะห์การเติบโตของตลาดสีพ่นซ่อมรถยนต์สหรัฐฯ ปี 2030",
+            "summary": "ตลาดสีพ่นซ่อมรถยนต์ยังคงเติบโตอย่างมั่นคงในระยะยาวจนถึงปี 2030 ซึ่งได้รับอิทธิพลจากความต้องการบำรุงรักษาและซ่อมแซมยานพาหนะ",
+            "why": "งานพ่นซ่อมสีรถยนต์มีความเกี่ยวข้องโดยตรงกับระดับการใช้กระดาษทราย กระดาษกาว และสารเตรียมพื้นผิว",
+            "action": "คาดการณ์ความต้องการกระดาษทรายซ่อมสีรถยนต์และผลิตภัณฑ์ขัดแต่งผิวความละเอียดสูงที่เสถียร"
+          }
+        },
+        {
+          "id": "20260908-w3",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "MarketsandMarkets",
+          "date": "2025-12-03",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVXVYZWVHaDBhMjdYc1BFRjVnV01BWUJZZnBNd1FESWpfanVMUVFaZkxUNGYzT0VVX3ZvT0dGSVpMTmRNRVBpRjNQZ3QyWU5jM0MxQmhLZVQ1cTJsbF9LNGV2aGZpaVdZb0NrWndDWFZJZ0g4V2dTY1NkNU5Hd3NhZmx0dmNtYktWWHM5LXlfYVlxRnlNQVgyag?oc=5",
+          "title": "Stainless Steel Powder Market Report 2025-2030 [200 Pages & 300 Tables]",
+          "summary": "The stainless steel powder market shows significant expansion driven by advanced manufacturing and metal injection molding sectors.",
+          "why": "Specialty metals and powder metallurgy parts require specialized deburring, finishing, and abrasive blast media.",
+          "action": "Keep an eye on emerging metal components manufacturing that might require precision surface finishing solutions.",
+          "th": {
+            "title": "รายงานตลาดผงสเตนเลสสตีล ปี 2025-2030",
+            "summary": "ตลาดผงสเตนเลสสตีลแสดงการขยายตัวอย่างมีนัยสำคัญ ขับเคลื่อนโดยภาคการผลิตขั้นสูงและการฉีดขึ้นรูปโลหะ",
+            "why": "โลหะพิเศษและชิ้นส่วนโลหะผงจำเป็นต้องมีกระบวนการลบคม การตกแต่งผิว และใช้วัสดุพ่นขัดเฉพาะทาง",
+            "action": "จับตาดูอุตสาหกรรมการผลิตชิ้นส่วนโลหะใหม่ๆ ที่อาจต้องการโซลูชันการตกแต่งพื้นผิวที่มีความแม่นยำสูง"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-09-07",
       "summary": "Today's briefing features 3 key global trends focusing on automotive manufacturing equipment shifts in China and Japan, plus steel market dynamics and global steel industry challenges.",
@@ -939,70 +1003,6 @@ window.WORLD_ARCHIVE = {
             "summary": "ความขัดแย้งระดับภูมิภาคและการขาดแคลนเชื้อเพลิงสร้างปัญหาคอขวดในห่วงโซ่อุปทานและต้นทุนที่พุ่งสูงสำหรับผู้ผลิตเหล็กอินเดีย",
             "why": "อินเดียเป็นผู้ผลิตเหล็กรายใหญ่ การหยุดชะงักส่งผลต่อราคาสเหล็กโลกและกิจกรรมการเตรียมพื้นผิวโลหะปลายน้ำ",
             "action": "ติดตามแนวโน้มราคาส่งออกโลหะในเอเชียใต้เมื่อจัดหาวัตถุดิบทำกระดาษทรายหรือเจาะกลุ่มผู้จัดจำหน่ายในภูมิภาค"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-08-25",
-      "summary": "Today's briefing highlights niche material demands in abrasives, driven by semiconductor and high-precision electronics growth, alongside global steel surplus and geopolitical supply chain pressures affecting metal fabrication.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปทรนด์โลกวันนี้เน้นความต้องการวัสดุขัดเจียรเฉพาะทางจากอุตสาหกรรมเซมิคอนดักเตอร์และอิเล็กทรอนิกส์ พร้อมกับภาวะล้นตลาดเหล็กโลกและแรงกดดันด้านห่วงโซ่อุปทานที่มีผลต่อการแปรรูปโลหะ"
-      },
-      "items": [
-        {
-          "id": "20260825-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-08-24",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeUlTM19icXBKemN6MW9XN2FiTlNKZ2ZOM04wWFRvQVdUQTgtWW1zNzFaZjJkVTB5RnhrUWt5aDJIM1E0U2lyd2ZVZDRHdU5RWUFSSHRfOFNXUWo3LWpUVnpXOU9oelZ3eTB5OUl3VTM1ZGEtaGZJLVY4MWRuSjRBTVlyMEpoNkl4dDAyaVNSZXZVV0twb3hVUkVMVUQwWl9LZzFrQlBGQkplM2ZZS2x1dFZyM0NLQTNNRTdKMmNlQ0hobW5FOUE?oc=5",
-          "title": "Zirconia Alumina Abrasive Market Semiconductor Demand Drives 5.1% CAGR to 2035",
-          "summary": "The global zirconia alumina abrasive market is expanding at a 5.1% CAGR through 2035, heavily propelled by rigorous semiconductor manufacturing and high-precision finishing requirements.",
-          "why": "Zirconia alumina is a core heavy-duty material for metal grinding and deburring. Growth in high-tech sectors signals rising demand for premium abrasive grains.",
-          "action": "Ensure stable sourcing of high-grade zirconia alumina raw materials for industrial metal clients.",
-          "th": {
-            "title": "ตลาดวัสดุขัด Zirconia Alumina โตต่อเนื่อง ขับเคลื่อนโดยความต้องการในกลุ่มเซมิคอนดักเตอร์",
-            "summary": "ตลาดวัสดุขัด Zirconia Alumina ทั่วโลกเติบโต 5.1% ต่อปีจนถึงปี 2035 โดยได้รับแรงหนุนสำคัญจากกระบวนการผลิตเซมิคอนดักเตอร์และความต้องการงานขัดผิวความละเอียดสูง",
-            "why": "Zirconia Alumina เป็นวัตถุดิบสำคัญสำหรับงานขัดและลบคมโลหะหนัก การเติบโตในภาคไฮเทคสะท้อนถึงความต้องการเม็ดทรายขัดคุณภาพสูงที่เพิ่มขึ้น",
-            "action": "รักษาเสถียรภาพการจัดหาวัตถุดิบ Zirconia Alumina เกรดสูงเพื่อรองรับกลุ่มลูกค้าอุตสาหกรรมโลหะ"
-          }
-        },
-        {
-          "id": "20260825-w2",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "Market Research Future",
-          "date": "2026-04-06",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY0JpWXlQSC1LeGU2eUdGRW1zTEZ4amNoRXAyUWcxcnpWbEdzWmprSTBFM1htcllTNmQtdlRENmZ2NlhXbV9oNTlJbnJ0UjV5cENzZC1yTUdwM21YRi0wZUxBd1l6ODNDM1NxSUdQcFMwMGpCRnJuY041elNoT1RSRA?oc=5",
-          "title": "Ceramic Flap Disc Market Size, Share & Growth Report 2035",
-          "summary": "The ceramic flap disc market is projected to see steady long-term growth through 2035, driven by demands for faster metal removal and longer product lifespans in heavy fabrication.",
-          "why": "Ceramic grain flap discs represent the premium tier of surface finishing products. Tracking this market helps position MK ahead of standard aluminum oxide offerings.",
-          "action": "Promote ceramic-based products to fabrication shops seeking higher efficiency and tool life.",
-          "th": {
-            "title": "ตลาดใบเจียรผ้าทรายเซรามิก (Ceramic Flap Disc) ขยายตัวมองถึงปี 2035",
-            "summary": "ตลาดใบเจียรผ้าทรายเซรามิกคาดว่าจะเติบโตอย่างมั่นคงจนถึงปี 2035 จากความต้องการลดเวลาทำงานและเพิ่มอายุการใช้งานในงานขึ้นรูปโลหะหนัก",
-            "why": "ใบเจียรผ้าทรายเม็ดเซรามิกคือกลุ่มผลิตภัณฑ์พรีเมียม การติดตามตลาดนี้ช่วยให้ MK วางตำแหน่งสินค้าเหนือกว่าอลูมิเนียมออกไซด์ทั่วไป",
-            "action": "ผลักดันสินค้ากลุ่มเซรามิกให้กับโรงงานแปรรูปที่ต้องการเพิ่มประสิทธิภาพและยืดอายุการใช้งาน"
-          }
-        },
-        {
-          "id": "20260825-w3",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "S&P Global",
-          "date": "2026-01-12",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
-          "title": "Global steel industry battles surplus supply, protectionism",
-          "summary": "The global steel sector continues to face oversupply challenges alongside rising trade protectionism measures across key manufacturing regions.",
-          "why": "Steel production volume directly correlates with local metal fabrication activity, which dictates raw material consumption for grinding and cutting wheels.",
-          "action": "Monitor local steel mill utilization rates to anticipate shifts in regional metal-working abrasive consumption.",
-          "th": {
-            "title": "อุตสาหกรรมเหล็กโลกเผชิญภาวะล้นตลาดและมาตรการกีดกันทางการค้า",
-            "summary": "ภาคอุตสาหกรรมเหล็กทั่วโลกยังคงเผชิญกับปัญหาอุปทานส่วนเกิน ควบคู่ไปกับมาตรการปกป้องทางการค้าที่เพิ่มขึ้นในภูมิภาคการผลิตหลัก",
-            "why": "ปริมาณการผลิตเหล็กมีความเชื่อมโยงโดยตรงกับกิจกรรมแปรรูปโลหะในท้องถิ่น ซึ่งเป็นตัวกำหนดอัตราการใช้แผ่นตัดและใบเจียร",
-            "action": "ติดตามอัตราการดำเนินงานของโรงงานเหล็กในประเทศเพื่อคาดการณ์การเปลี่ยนแปลงการใช้วัสดุขัดเจียร"
           }
         }
       ]
