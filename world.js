@@ -4,64 +4,82 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-09-08",
-      "summary": "Today's briefing highlights global shifts toward robotic and automated sanding in wood manufacturing, evolving automotive refinish standards, and structural developments in stainless steel powders impacting surface preparation.",
-      "directCount": 3,
+      "summary": "Today's briefing focuses on emerging surface coating innovations, robotic automation trends in finishing, and global industrial metals volatility impacting manufacturing supply chains.",
+      "directCount": 4,
       "th": {
-        "summary": "สรุปรายงานวันนี้เน้นย้ำถึงการเปลี่ยนผ่านระดับโลกไปสู่การขัดด้วยหุ่นยนต์และระบบอัตโนมัติในอุตสาหกรรมไม้ มาตรฐานการทำสีรถยนต์ใหม่ และการพัฒนาโครงสร้างผงสเตนเลสสตีลที่ส่งผลต่อการเตรียมพื้นผิว"
+        "summary": "สรุปข่าวสารวันนี้เน้นเรื่องนวัตกรรมการเคลือบผิวพื้นผิว เทรนด์ระบบอัตโนมัติหุ่นยนต์ในการขัดแต่ง และความผันผวนของตลาดโลหะอุตสาหกรรมโลกที่ส่งผลต่อห่วงโซ่อุปทานการผลิต"
       },
       "items": [
         {
           "id": "20260908-w1",
-          "tag": "abrasive",
+          "tag": "coating",
           "rating": "green",
-          "source": "Woodworking Network",
-          "date": "2022-09-14",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdks1TWZwY2RMY21ZNl8zQ1hJZ201QnJzY3Bsb2gyc0NQajRiRHMtSkJ1QW9OX1JaTzVrYm15ZkFvclM2bjZ1cTJQZVlaYk1JWVpnQVpyanBkMFFTVEZCaG9ZQ0ttWTh2VnRNRGVtbzB4WUVCamVPbzc4MTdfbEdYQm5zem1QXzlaYk5XMHpPOU9IZ3Fsc3dKVG9VM01IX3dMdDRiMXNYRmJNN1pQN2hSOHFielVqQWxWWVVMUHc2NUdhOTkxaW5lY19mc1I?oc=5",
-          "title": "Mirka to feature robotic sanding, antistatic abrasives and more at SIBO",
-          "summary": "Major abrasive manufacturers are pushing heavily into robotic sanding integrations and antistatic abrasive technologies for industrial woodworking.",
-          "why": "Automation and robotic compatibility dictate which abrasive formats (like custom discs and rolls) commercial woodshops will demand next.",
-          "action": "Track automated sanding requirements and anti-static product lines for local woodworking furniture clients.",
+          "source": "European Coatings",
+          "date": "2026-09-07",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
+          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
+          "summary": "The coatings industry is accelerating towards digital integration, eco-friendly formulations, and high-performance finishing standards.",
+          "why": "New surface coatings directly dictate how prep work, sanding roughness, and abrasive adhesion must be adjusted for industrial fabricators.",
+          "action": "Track sustainable and high-tech coating shifts to ensure our abrasives match modern surface preparation specs.",
           "th": {
-            "title": "Mirka เปิดตัวระบบขัดด้วยหุ่นยนต์ วัสดุขัดป้องกันไฟฟ้าสถิต และอื่นๆ ในงาน SIBO",
-            "summary": "ผู้ผลิตกระดาษทรายและวัสดุขัดรายใหญ่กำลังรุกเข้าสู่การบูรณาการระบบขัดด้วยหุ่นยนต์และเทคโนโลยีวัสดุขัดป้องกันไฟฟ้าสถิตสำหรับอุตสาหกรรมไม้",
-            "why": "ระบบอัตโนมัติและความเข้ากันได้กับหุ่นยนต์เป็นตัวกำหนดว่ารูปแบบวัสดุขัดใด (เช่น แผ่นและม้วนแบบพิเศษ) ที่ร้านเฟอร์นิเจอร์ไม้พาณิชย์จะต้องการในอนาคต",
-            "action": "ติดตามความต้องการขัดอัตโนมัติและกลุ่มผลิตภัณฑ์ป้องกันไฟฟ้าสถิตสำหรับกลุ่มลูกค้าเฟอร์นิเจอร์ไม้ในประเทศ"
+            "title": "กำหนดอนาคตใหม่แห่งการเคลือบผิว: นวัตกรรม ความยั่งยืน และพลังแห่งดิจิทัล",
+            "summary": "อุตสาหกรรมการเคลือบผิวเร่งเดินหน้าสู่การผสานเทคโนโลยีดิจิทัล สูตรที่เป็นมิตรต่อสิ่งแวดล้อม และมาตรฐานการตกแต่งผิวประสิทธิภาพสูง",
+            "why": "การเคลือบผิวแบบใหม่ส่งผลโดยตรงต่อการเตรียมพื้นผิว ความหยาบในการขัด และการยึดเกาะของกระดาษทรายที่ภาคอุตสาหกรรมต้องปรับเปลี่ยนตาม",
+            "action": "ติดตามการเปลี่ยนแปลงด้านการเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมและไฮเทค เพื่อให้มั่นใจว่าสินค้ากลุ่มขัดของเราตรงตามสเปกการเตรียมผิวสมัยใหม่"
           }
         },
         {
           "id": "20260908-w2",
           "tag": "coating",
           "rating": "amber",
-          "source": "MarketsandMarkets",
-          "date": "2026-08-19",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWEhwQ2p3b3pNX0E1cGFWOGdvT2pLdGxXOFFLYWVnTS1zaXFnV0o4Nnl4cHFMQkE0RGFYdXFuekJaTVJ1U1Z0bGRJY1dTMk5hTEpVaWtMendld3NQb0ZtcmRWMFlHWlN2cUVKMUlmaE0zQy1aZ25STUlITUx1aTFTZ0w5X2c4TWxvMUhv?oc=5",
-          "title": "US Automotive Refinish Coatings Market Size, Share, Trends, Growth Analysis Report, 2030",
-          "summary": "The automotive refinish coatings market continues steady long-term growth trajectories through 2030, influenced by vehicle fleet maintenance needs.",
-          "why": "Automotive refinishing directly correlates with consumption levels of sanding discs, masking papers, and surface preparation compounds.",
-          "action": "Anticipate stable demand for automotive repair abrasives and premium finer-grit finishing products.",
+          "source": "Fortune Business Insights",
+          "date": "2026-08-17",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXJjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
+          "title": "Automotive OEM Coatings Market Size, Share | Growth [2034]",
+          "summary": "Global automotive OEM coating demand continues to evolve with a strong focus on durability and advanced finish applications.",
+          "why": "Automotive manufacturing lines are major consumers of coated abrasives and sanding systems for body-in-white and paint prep.",
+          "action": "Monitor OEM automotive coating volumes as a leading indicator for industrial abrasive demand in vehicle production hubs.",
           "th": {
-            "title": "รายงานขนาด ส่วนแบ่ง แนวโน้ม และการวิเคราะห์การเติบโตของตลาดสีพ่นซ่อมรถยนต์สหรัฐฯ ปี 2030",
-            "summary": "ตลาดสีพ่นซ่อมรถยนต์ยังคงเติบโตอย่างมั่นคงในระยะยาวจนถึงปี 2030 ซึ่งได้รับอิทธิพลจากความต้องการบำรุงรักษาและซ่อมแซมยานพาหนะ",
-            "why": "งานพ่นซ่อมสีรถยนต์มีความเกี่ยวข้องโดยตรงกับระดับการใช้กระดาษทราย กระดาษกาว และสารเตรียมพื้นผิว",
-            "action": "คาดการณ์ความต้องการกระดาษทรายซ่อมสีรถยนต์และผลิตภัณฑ์ขัดแต่งผิวความละเอียดสูงที่เสถียร"
+            "title": "ขนาด ส่วนแบ่ง และการเติบโตของตลาดการเคลือบผิว OEM ยานยนต์ [2034]",
+            "summary": "ความต้องการสารเคลือบผิว OEM ยานยนต์ทั่วโลกยังคงพัฒนาอย่างต่อเนื่อง โดยเน้นที่ความทนทานและการใช้งานตกแต่งผิวขั้นสูง",
+            "why": "สายการผลิตรถยนต์เป็นผู้ใช้รายใหญ่ของกระดาษทรายอุตสาหกรรมและระบบขัด ทั้งในส่วนงานโครงสร้างตัวถังและการเตรียมพื้นผิวก่อนพ่นสี",
+            "action": "ติดตามตัวเลขความต้องการเคลือบผิวรถยนต์ OEM เพื่อใช้เป็นสัญญาณชี้นำความต้องการวัสดุขัดในแหล่งผลิตยานยนต์"
           }
         },
         {
           "id": "20260908-w3",
           "tag": "steel",
           "rating": "amber",
-          "source": "MarketsandMarkets",
-          "date": "2025-12-03",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVXVYZWVHaDBhMjdYc1BFRjVnV01BWUJZZnBNd1FESWpfanVMUVFaZkxUNGYzT0VVX3ZvT0dGSVpMTmRNRVBpRjNQZ3QyWU5jM0MxQmhLZVQ1cTJsbF9LNGV2aGZpaVdZb0NrWndDWFZJZ0g4V2dTY1NkNU5Hd3NhZmx0dmNtYktWWHM5LXlfYVlxRnlNQVgyag?oc=5",
-          "title": "Stainless Steel Powder Market Report 2025-2030 [200 Pages & 300 Tables]",
-          "summary": "The stainless steel powder market shows significant expansion driven by advanced manufacturing and metal injection molding sectors.",
-          "why": "Specialty metals and powder metallurgy parts require specialized deburring, finishing, and abrasive blast media.",
-          "action": "Keep an eye on emerging metal components manufacturing that might require precision surface finishing solutions.",
+          "source": "FinancialContent",
+          "date": "2026-03-27",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNREp0R2c5MDlEQnlKN0toMm9Ma1lDTmpzazZlUEtzWnpMOTR5NW1KUW5sd21hZzJpYWFVQ2ZfUFM5MTNyUjFlS3NleWFkUHgtSnlGM0ZkRHNjcEhIRF9ucHpEQUo2SzMxMzVVU3p4Skw1eHVrcVZfVWJMRmoyUmZqalRwWlRDelE3UmZuZ3N1WGN5R0JDV2VsLWlGenpqQ01Oc01IYmh0Ni1naG9kUFZLeVY5WUM0cWdDcjdTZjlpeHdWQXExVFl5cmE4ak9yWExkRlFKRkZrQnFiMTNKQzB5Y09COXFaYVM4R2xySmU3RWNXbElRT2lET3BnV3o1QQ?oc=5",
+          "title": "Industrial Metals Hit Multi-Year Highs: Aluminum and Steel Surge Amid Global Supply Constraints",
+          "summary": "Global industrial metals including steel and aluminum have experienced price surges and supply tightness due to international trade pressures.",
+          "why": "Metal fabrication costs and raw material availability heavily influence factory activity, metal cutting, and local deburring/grinding demand.",
+          "action": "Keep an eye on metal market stability to anticipate fluctuations in fabrication shop output and consumable spending.",
           "th": {
-            "title": "รายงานตลาดผงสเตนเลสสตีล ปี 2025-2030",
-            "summary": "ตลาดผงสเตนเลสสตีลแสดงการขยายตัวอย่างมีนัยสำคัญ ขับเคลื่อนโดยภาคการผลิตขั้นสูงและการฉีดขึ้นรูปโลหะ",
-            "why": "โลหะพิเศษและชิ้นส่วนโลหะผงจำเป็นต้องมีกระบวนการลบคม การตกแต่งผิว และใช้วัสดุพ่นขัดเฉพาะทาง",
-            "action": "จับตาดูอุตสาหกรรมการผลิตชิ้นส่วนโลหะใหม่ๆ ที่อาจต้องการโซลูชันการตกแต่งพื้นผิวที่มีความแม่นยำสูง"
+            "title": "โลหะอุตสาหกรรมแตะระดับสูงสุดในรอบหลายปี: อลูมิเนียมและเหล็กพุ่งสูงท่ามกลางข้อจำกัดด้านอุปทานโลก",
+            "summary": "โลหะอุตสาหกรรมทั่วโลก รวมถึงเหล็กและอลูมิเนียม ประสบภาวะราคาพุ่งสูงและอุปทานตึงตัวเนื่องจากแรงกดดันด้านการค้าระหว่างประเทศ",
+            "why": "ต้นทุนการขึ้นรูปโลหะและความพร้อมของวัตถุดิบส่งผลอย่างมากต่อกิจกรรมในโรงงาน งานตัดโลหะ และความต้องการใช้ผลิตภัณฑ์ลบคม/เจียรในท้องถิ่น",
+            "action": "จับตาเสถียรภาพของตลาดโลหะเพื่อคาดการณ์ความผันผวนของผลผลิตในร้านค้าแปรรูปและการใช้จ่ายวัสดุสิ้นเปลือง"
+          }
+        },
+        {
+          "id": "20260908-w4",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "The World Economic Forum",
+          "date": "2026-04-21",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeFBmZTNpZDhjN1lHNlBlU0duZ3ZQWW9uanI0SWs3SDFVazlpbVVXMklqSTVjbDloUEI4NW1Ca2dGckgzanh5UlRfX1F5QlVfQWFZNGdSS1h5bHNIUElCTk9LeUktaGd2VWxwRDAyMGJmQ1F6ZHVEOURKVjF3MVdHWGd0OG4zYTNtUk0yZkp0QXN4R3p5LUEtWkFzODBVdUdlTVpLNTh3ZjQtTGJuanlfS0Y5dWVLVEo1WkEybk96dVY?oc=5",
+          "title": "How regional conflicts are disrupting industrial production amid fuel shortages and rising costs",
+          "summary": "Geopolitical tensions continue to create energy supply volatility, driving up operational costs for heavy manufacturing sectors.",
+          "why": "Higher energy and operational expenses force metal and manufacturing plants to optimize grinding efficiency and minimize consumable waste.",
+          "action": "Emphasize high-efficiency abrasive solutions that reduce process time and lower total production cost for factories.",
+          "th": {
+            "title": "ความขัดแย้งระดับภูมิภาคส่งผลกระทบต่อการผลิตอุตสาหกรรมท่ามกลางปัญหาขาดแคลนเชื้อเพลิงและต้นทุนที่สูงขึ้น",
+            "summary": "ความตึงเครียดทางภูมิรัฐศาสตร์ยังคงสร้างความผันผวนด้านอุปทานพลังงาน ผลักดันให้ต้นทุนการดำเนินงานในภาคการผลิตหนักเพิ่มสูงขึ้น",
+            "why": "ต้นทุนพลังงานและค่าดำเนินการที่สูงขึ้น บีบให้โรงงานโลหะและการผลิตต้องเพิ่มประสิทธิภาพการเจียรและลดของเสียจากวัสดุสิ้นเปลืองให้น้อยที่สุด",
+            "action": "เน้นนำเสนอโซลูชันกระดาษทรายและใบเจียรประสิทธิภาพสูงที่ช่วยลดเวลาทำงานและลดต้นทุนการผลิตรวมให้แก่โรงงาน"
           }
         }
       ]
