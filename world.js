@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-09-08",
+  "updated": "2026-09-09",
   "days": [
+    {
+      "date": "2026-09-09",
+      "summary": "Today's global trend briefing highlights key developments in surface coatings innovation, Europe's long-term abrasives market outlook, and industrial metals pricing pressures that directly impact abrasive consumption and manufacturing costs.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปแนวโน้มโลกประจำวันนี้เน้นย้ำการพัฒนาด้านนวัตกรรมสารเคลือบผิว แนวโน้มตลาดวัสดุขัดถูในยุโรป และแรงกดดันด้านราคาโลหะอุตสาหกรรม ซึ่งส่งผลโดยตรงต่อความต้องการใช้อวัสดุขัดและต้นทุนการผลิต"
+      },
+      "items": [
+        {
+          "id": "20260909-w1",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "European Coatings",
+          "date": "2026-09-07",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
+          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
+          "summary": "The European coatings sector is focusing on digital integration, sustainability, and next-generation surface performance to meet higher environmental standards.",
+          "why": "Surface coatings and surface preparation (abrasive sanding) go hand in hand; coating performance often depends on the quality of substrate preparation.",
+          "action": "Monitor how new eco-friendly coatings change surface preparation requirements for metal and wood.",
+          "th": {
+            "title": "กำหนดอนาคตใหม่แห่งสารเคลือบผิว: นวัตกรรม ความยั่งยืน และพลังแห่งดิจิทัล",
+            "summary": "ภาคอุตสาหกรรมสารเคลือบผิวในยุโรปกำลังมุ่งเน้นการบูรณาการดิจิทัล ความยั่งยืน และประสิทธิภาพพื้นผิวรุ่นใหม่ เพื่อตอบสนองมาตรฐานด้านสิ่งแวดล้อมที่สูงขึ้น",
+            "why": "การเคลือบผิวและการเตรียมพื้นผิว (การขัดด้วยกระดาษทราย) เป็นสิ่งที่ต้องทำควบคู่กัน ประสิทธิภาพของสารเคลือบมักขึ้นอยู่กับคุณภาพของการเตรียมพื้นผิว",
+            "action": "ติดตามว่าสารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมแบบใหม่จะเปลี่ยนแปลงข้อกำหนดในการเตรียมพื้นผิวสำหรับโลหะและไม้"
+          }
+        },
+        {
+          "id": "20260909-w2",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "marketdataforecast.com",
+          "date": "2026-07-24",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QdEVXWnRKRG40YWFXWDVwY09BdElfOGotQVNaazA2Q2p2VkluOXlhT1RSeEF3STZKZVI3b21NZlB3MWlwLTVXaVNDQWtQSHNUX3RPZXQ4Y0wwY1pwaGVfYzdKeXNNdDFZMkNpcDVhSm5OUjRraTM4ZV9fRHcyZw?oc=5",
+          "title": "Europe Abrasives Market Size, Share and Analysis, 2034",
+          "summary": "A comprehensive analysis of the European abrasives market projects steady long-term growth driven by advanced manufacturing and precision finishing demands.",
+          "why": "European market reports set global quality benchmarks and indicate where high-end industrial automation and abrasive technologies are heading.",
+          "action": "Use Europe's demand for high-precision finishing as a benchmark for upgrading product portfolios toward premium abrasive lines.",
+          "th": {
+            "title": "ขนาด ส่วนแบ่ง และการวิเคราะห์ตลาดวัสดุขัดถูในยุโรป ปี 2034",
+            "summary": "การวิเคราะห์เชิงลึกของตลาดวัสดุขัดถูในยุโรปคาดการณ์การเติบโตในระยะยาวอย่างมั่นคง ซึ่งขับเคลื่อนโดยความต้องการด้านการผลิตขั้นสูงและการขัดตกแต่งความแม่นยำสูง",
+            "why": "รายงานตลาดจากยุโรปเป็นเกณฑ์มาตรฐานคุณภาพระดับโลก และบ่งชี้ทิศทางของเทคโนโลยีระบบอัตโนมัติอุตสาหกรรมและวัสดุขัดถูระดับไฮเอนด์",
+            "action": "ใช้ความต้องการการขัดตกแต่งความแม่นยำสูงของยุโรปเป็นบรรทัดฐานในการยกระดับกลุ่มผลิตภัณฑ์สู่กลุ่มวัสดุขัดเกรดพรีเมียม"
+          }
+        },
+        {
+          "id": "20260909-w3",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "FinancialContent",
+          "date": "2026-03-27",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNREp0R2c5MDlEQnlKN0toMm9Ma1lDTmpzazZlUEtzWnpMOTR5NW1KUW5sd21hZzJpYWFVQ2ZfUFM5MTNyUjFlS3NleWFkUHgtSnlGM0ZkRHNjcEhIRF9ucHpEQUo2SzMxMzVVU3p4Skw1eHVrcVZfVWJMRmoyUmZqalRwWlRDelE3UmZuZ3N1WGN5R0JDV2VsLWlGenpqQ01Oc01IYmh0Ni1naG9kUFZLeVY5WUM0cWdDcjdTZjlpeHdWQXExVFl5cmE4ak9yWExkRlFKRkZrQnFiMTNKQzB5Y09COXFaYVM4R2xySmU3RWNXbElRT2lET3BnV3o1QQ?oc=5",
+          "title": "Industrial Metals Hit Multi-Year Highs: Aluminum and Steel Surge Amid Global Supply Constraints",
+          "summary": "Industrial metal prices, including steel and aluminum, have surged to multi-year highs due to ongoing global supply chain constraints and trade policies.",
+          "why": "Higher metal and steel prices directly impact fabrication plants and metalworking shops, which are core B2B customers for grinding and deburring products.",
+          "action": "Anticipate cautious spending or increased focus on abrasive efficiency among metal fabrication customers facing high material costs.",
+          "th": {
+            "title": "โลหะอุตสาหกรรมแตะระดับสูงสุดในรอบหลายปี: อลูมิเนียมและเหล็กพุ่งท่ามกลางข้อจำกัดด้านอุปทานโลก",
+            "summary": "ราคาโลหะอุตสาหกรรม รวมถึงเหล็กและอลูมิเนียม พุ่งสูงขึ้นแตะระดับสูงสุดในรอบหลายปีเนื่องจากข้อจำกัดด้านห่วงโซ่อุปทานโลกและนโยบายการค้า",
+            "why": "ราคาเหล็กและโลหะที่สูงขึ้นส่งผลกระทบโดยตรงต่อโรงงานแปรรูปและร้านรับทำโลหะ ซึ่งเป็นกลุ่มลูกค้า B2B หลักสำหรับผลิตภัณฑ์เจียรและลบคม",
+            "action": "คาดการณ์พฤติกรรมการใช้จ่ายที่ระมัดระวังขึ้น หรือการเน้นย้ำเรื่องประสิทธิภาพของกระดาษทรายจากกลุ่มลูกค้าแปรรูปโลหะที่เผชิญต้นทุนวัตถุดิบสูง"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-09-08",
       "summary": "Today's briefing focuses on global manufacturing shifts, including performance coatings growth, robotic sanding advancements by Mirka, EV assembly expansion, and steel scrap market dynamics.",
@@ -921,106 +985,6 @@ window.WORLD_ARCHIVE = {
             "summary": "การที่ Nucor มุ่งเน้นการผลิตเหล็กด้วยเตาหลอมอาร์กไฟฟ้า (EAF) และการบูรณาการธุรกิจช่วยให้รักษากำไรสูงไว้ได้แม้เผชิญแรงกดดันด้านต้นทุน",
             "why": "การผลิตเหล็กด้วยเตา EAF และอุตสาหกรรมแปรรูปโลหะโครงสร้าง เป็นตลาดผู้ใช้หลักสำหรับใบเจียร ใบตัด และผลิตภัณฑ์ขัดเหล็กงานหนัก",
             "action": "รับทราบว่าการผลิตเหล็กแบบ EAF ยังคงเติบโต ซึ่งต้องใช้กระดาษทรายและหินเจียรงานโลหะที่ทนทานสำหรับการแต่งรอยเชื่อมและตกแต่งผิว"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-08-26",
-      "summary": "Today's global briefing highlights key developments in automotive OEM coatings, AI integration in surface finishing, and regional steel industry pressures impacting metal preparation demand.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปเทรนด์โลกประจำวัน เน้นการพัฒนาเคลือบผิวรถยนต์ OEM การนำ AI มาใช้ในงานเคลือบผิว และแรงกดดันในอุตสาหกรรมเหล็กที่ส่งผลต่อความต้องการเตรียมพื้นผิวโลหะ"
-      },
-      "items": [
-        {
-          "id": "20260826-w1",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "Fortune Business Insights",
-          "date": "2026-08-03",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXJjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
-          "title": "Automotive OEM Coatings Market Size, Share | Growth [2034]",
-          "summary": "The global automotive OEM coatings market continues steady long-term growth projections through 2034, driven by advanced vehicle finishing standards.",
-          "why": "OEM coating standards dictate the underlying surface prep and sanding requirements for new vehicle manufacturing lines.",
-          "action": "Monitor changes in automotive paint tech to anticipate new requirements for finer surface preparation abrasives.",
-          "th": {
-            "title": "ขนาดและส่วนแบ่งตลาดสารเคลือบผิวรถยนต์ OEM พร้อมการเติบโตถึงปี 2034",
-            "summary": "ตลาดสารเคลือบผิวรถยนต์ OEM ทั่วโลกยังคงเติบโตอย่างต่อเนื่องจนถึงปี 2034 ขับเคลื่อนโดยมาตรฐานการทำสีรถยนต์ที่สูงขึ้น",
-            "why": "มาตรฐานการเคลือบสี OEM เป็นตัวกำหนดขั้นตอนการเตรียมพื้นผิวและการขัดกระดาษทรายในสายการผลิตรถยนต์ใหม่",
-            "action": "ติดตามการเปลี่ยนแปลงของเทคโนโลยีสีรถยนต์เพื่อคาดการณ์ความต้องการวัสดุขัดผิวที่ละเอียดขึ้น"
-          }
-        },
-        {
-          "id": "20260826-w2",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "Amazon Web Services (AWS)",
-          "date": "2025-10-22",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UMG9rVURtamVSUnVYZzhtYjBPZUVWNDdCb0J1V3lEd09EV1JsS3dsU0ZwNkRxbmc4MVlwcXRPZW5aQklBRGxEWWxVRmVzUUJEZUNfOXZfT0d3cnVPaW5ydjZ3bjBlS1NyRGhWSw?oc=5",
-          "title": "AI in Paints and Coatings Market: Trends, Growth, and Opportunities",
-          "summary": "Artificial intelligence is increasingly integrated into paints and coatings manufacturing to optimize formulation, quality control, and surface application.",
-          "why": "Smart manufacturing in coatings often leads to tighter tolerances, raising expectations for precise surface finish and abrasive consistency.",
-          "action": "Explore how digital quality control in customer segments might influence their demand for high-tolerance abrasives.",
-          "th": {
-            "title": "AI ในตลาดสีและสารเคลือบ: เทรนด์ การเติบโต และโอกาส",
-            "summary": "ปัญญาประดิษฐ์ถูกนำมาใช้ในกระบวนการผลิตสีและสารเคลือบมากขึ้นเพื่อเพิ่มประสิทธิภาพสูตร การควบคุมคุณภาพ และการเคลือบผิว",
-            "why": "การผลิตอัจฉริยะในอุตสาหกรรมเคลือบผิวทำให้ข้อกำหนดเข้มงวดขึ้น ซึ่งเพิ่มความคาดหวังต่อความสม่ำเสมอของวัสดุขัด",
-            "action": "ศึกษาว่าการควบคุมคุณภาพด้วยระบบดิจิทัลของลูกค้าจะส่งผลต่อความต้องการสินค้าวัสดุขัดที่มีความแม่นยำสูงอย่างไร"
-          }
-        },
-        {
-          "id": "20260826-w3",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "Recycling International",
-          "date": "2026-05-06",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUGx0eVkxRzJXY2ZfWGV0VWstUVozcnFnRjRpQnEydThVWTdhdno0NEhVNVFLYzRIal85T0h4b0hqNjNBclVpY1lteGZDWFZSdGhhcG9LVlhYN3ZucHRDOWFvOXFkTjhYYjVibTNsM3Y5ZVFjeFhoQW13anV4RE56emVzQUFESDlWRnB4LVpuSFNEb1FoOXRvNU9KY1pfYmxEYlA3RUhqQzY0RDMzSHF1dHE5U0w?oc=5",
-          "title": "Conflicts’ ‘serious’ impact on global steel industry",
-          "summary": "Geopolitical conflicts continue to exert serious supply chain and cost pressures on the global steel manufacturing sector.",
-          "why": "Steel production volumes and input costs directly affect metal fabrication activity and the baseline demand for grinding and deburring products.",
-          "action": "Stay flexible with inventory pricing and source diversified metalworking abrasive lines to buffer against regional steel shifts.",
-          "th": {
-            "title": "ผลกระทบร้ายแรงจากความขัดแย้งต่ออุตสาหกรรมเหล็กโลก",
-            "summary": "ความขัดแย้งทางภูมิรัฐศาสตร์ยังคงสร้างแรงกดดันอย่างรุนแรงต่อห่วงโซ่อุปทานและต้นทุนในภาคการผลิตเหล็กทั่วโลก",
-            "why": "ปริมาณการผลิตเหล็กและต้นทุนวัตถุดิบส่งผลโดยตรงต่อกิจกรรมการแปรรูปโลหะและความต้องการผลิตภัณฑ์เจียรและลบคม",
-            "action": "รักษายืดหยุ่นในการกำหนดราคาสินค้าคงคลังและจัดหาผลิตภัณฑ์ขัดสำหรับงานโลหะที่หลากหลายเพื่อรองรับความผันผวนของเหล็ก"
-          }
-        },
-        {
-          "id": "20260826-w4",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-08-23",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRXRmcm9sNFRZOVcxV3JYRGFSV2prdjlLbkFqOFJ3YVlOdENteVZZTXUyTDJhMTZ0N0EzOGFBZnJ2SUNSb01NdmZCRUxTeGdvVFZXVzlGbnhnUTZVNGYxa2l2SjYtQllqV2Q5VGl6eDk3RXdFekc1ZXVHb0lUSzBENC1BOGZUbnZva3NNYWxnZGVXQVQ1TmV3YXdRVzk4alhXMk9ybW1Bb25UeFNFTGVRaDBwQkRiUnc?oc=5",
-          "title": "United States Metal Polish Products - Market Analysis, Forecast, Size, Trends and Insights",
-          "summary": "A comprehensive market analysis highlights ongoing trends and steady demand for metal polish and surface finishing products in the US.",
-          "why": "Metal polishing products are direct complements to industrial abrasives, reflecting broader trends in surface finishing quality.",
-          "action": "Review product bundling strategies for metal finishing and polishing lines inspired by US market standards.",
-          "th": {
-            "title": "ผลิตภัณฑ์ขัดเงาโลหะในสหรัฐฯ: การวิเคราะห์ตลาด แนวโน้ม และข้อมูลเชิงลึก",
-            "summary": "การวิเคราะห์ตลาดแสดงให้เห็นถึงแนวโน้มและความต้องการที่มั่นคงสำหรับผลิตภัณฑ์ขัดเงาและตกแต่งพื้นผิวโลหะในสหรัฐอเมริกา",
-            "why": "ผลิตภัณฑ์ขัดเงาโลหะเป็นสินค้าทดแทนหรือใช้งานร่วมกับวัสดุขัดอุตสาหกรรม สะท้อนถึงคุณภาพการตกแต่งพื้นผิว",
-            "action": "ทบทวนกลยุทธ์การขายสินค้ากลุ่มขัดเงาและตกแต่งโลหะตามมาตรฐานตลาดสหรัฐฯ"
-          }
-        },
-        {
-          "id": "20260826-w5",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "The World Economic Forum",
-          "date": "2026-04-21",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeFBmZTNpZDhjN1lHNlBlU0duZ3ZQWW9uanI0SWs3SDFVazlpbVVXMklqSTVjbDloUEI4NW1Ca2dGckgzanh5UlRfX1F5QlVfQWFZNGdSS1h5bHNIUElCTk9LeUktaGd2VWxwRDAyMGJmQ1F6ZHVEOURKVjF3MVdHWGd0OG4zYTNtUk0yZkp0QXN4R3p5LUEtWkFzODBVdUdlTVpLNTh3ZjQtTGJuanlfS0Y5dWVLVEo1WkEybk96dVY?oc=5",
-          "title": "How the Iran war is disrupting India's steel production amid fuel shortages and rising costs",
-          "summary": "Regional conflict and fuel shortages have introduced severe supply chain bottlenecks and cost surges for Indian steel manufacturers.",
-          "why": "India is a major global steel producer; disruptions there alter international metal prices and downstream surface preparation activity.",
-          "action": "Keep an eye on South Asian metal export pricing trends when sourcing abrasive raw materials or targeting regional distributors.",
-          "th": {
-            "title": "สงครามอิหร่านส่งผลกระทบต่อการผลิตเหล็กของอินเดียอย่างไรท่ามกลางปัญหาขาดแคลนเชื้อเพลิงและต้นทุนที่พุ่งสูง",
-            "summary": "ความขัดแย้งระดับภูมิภาคและการขาดแคลนเชื้อเพลิงสร้างปัญหาคอขวดในห่วงโซ่อุปทานและต้นทุนที่พุ่งสูงสำหรับผู้ผลิตเหล็กอินเดีย",
-            "why": "อินเดียเป็นผู้ผลิตเหล็กรายใหญ่ การหยุดชะงักส่งผลต่อราคาสเหล็กโลกและกิจกรรมการเตรียมพื้นผิวโลหะปลายน้ำ",
-            "action": "ติดตามแนวโน้มราคาส่งออกโลหะในเอเชียใต้เมื่อจัดหาวัตถุดิบทำกระดาษทรายหรือเจาะกลุ่มผู้จัดจำหน่ายในภูมิภาค"
           }
         }
       ]
