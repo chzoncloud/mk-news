@@ -4,82 +4,82 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-09-08",
-      "summary": "Today's briefing focuses on emerging surface coating innovations, robotic automation trends in finishing, and global industrial metals volatility impacting manufacturing supply chains.",
-      "directCount": 4,
+      "summary": "Today's briefing focuses on global manufacturing shifts, including performance coatings growth, robotic sanding advancements by Mirka, EV assembly expansion, and steel scrap market dynamics.",
+      "directCount": 3,
       "th": {
-        "summary": "สรุปข่าวสารวันนี้เน้นเรื่องนวัตกรรมการเคลือบผิวพื้นผิว เทรนด์ระบบอัตโนมัติหุ่นยนต์ในการขัดแต่ง และความผันผวนของตลาดโลหะอุตสาหกรรมโลกที่ส่งผลต่อห่วงโซ่อุปทานการผลิต"
+        "summary": "สรุปข่าววันนี้เน้นการเปลี่ยนแปลงของภาคการผลิตระดับโลก ทั้งการเติบโตของตลาดสารเคลือบผิว เทคโนโลยีขัดผิวด้วยหุ่นยนต์จาก Mirka การขยายตัวของการประกอบรถยนต์ EV และแนวโน้มตลาดเศษเหล็ก"
       },
       "items": [
         {
           "id": "20260908-w1",
-          "tag": "coating",
+          "tag": "abrasive",
           "rating": "green",
-          "source": "European Coatings",
-          "date": "2026-09-07",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
-          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
-          "summary": "The coatings industry is accelerating towards digital integration, eco-friendly formulations, and high-performance finishing standards.",
-          "why": "New surface coatings directly dictate how prep work, sanding roughness, and abrasive adhesion must be adjusted for industrial fabricators.",
-          "action": "Track sustainable and high-tech coating shifts to ensure our abrasives match modern surface preparation specs.",
+          "source": "woodworkingnetwork.com",
+          "date": "2022-09-14",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdks1TWZwY2RMY21ZNl8zQ1hJZ201QnJzY3Bsb2gyc0NQajRiRHMtSkJ1QW9OX1JaTzVrYm15ZkFvclM2bjZ1cTJQZVlaYk1JWVpnQVpyanBkMFFTVEZCaG9ZQ0ttWTh2VnRNRGVtbzB4WUVCamVPbzc4MTdfbEdYQm5zem1QXzlaYk5XMHpPOU9IZ3Fsc3dKVG9VM01IX3dMdDRiMXNYRmJNN1pQN2hSOHFielVqQWxWWVVMUHc2NUdhOTkxaW5lY19mc1I?oc=5",
+          "title": "Mirka to feature robotic sanding, antistatic abrasives and more at SIBO",
+          "summary": "Mirka showcases advanced robotic sanding solutions and specialized antistatic abrasives tailored for automated manufacturing lines.",
+          "why": "Automation in sanding is becoming standard globally, shifting demand toward specialized industrial abrasives designed for robotic arms.",
+          "action": "Monitor customer demand for robotic-compatible abrasive discs and antistatic surface prep products.",
           "th": {
-            "title": "กำหนดอนาคตใหม่แห่งการเคลือบผิว: นวัตกรรม ความยั่งยืน และพลังแห่งดิจิทัล",
-            "summary": "อุตสาหกรรมการเคลือบผิวเร่งเดินหน้าสู่การผสานเทคโนโลยีดิจิทัล สูตรที่เป็นมิตรต่อสิ่งแวดล้อม และมาตรฐานการตกแต่งผิวประสิทธิภาพสูง",
-            "why": "การเคลือบผิวแบบใหม่ส่งผลโดยตรงต่อการเตรียมพื้นผิว ความหยาบในการขัด และการยึดเกาะของกระดาษทรายที่ภาคอุตสาหกรรมต้องปรับเปลี่ยนตาม",
-            "action": "ติดตามการเปลี่ยนแปลงด้านการเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมและไฮเทค เพื่อให้มั่นใจว่าสินค้ากลุ่มขัดของเราตรงตามสเปกการเตรียมผิวสมัยใหม่"
+            "title": "Mirka นำเสนอระบบขัดด้วยหุ่นยนต์และกระดาษทรายป้องกันไฟฟ้าสถิตในงาน SIBO",
+            "summary": "Mirka จัดแสดงโซลูชันการขัดด้วยหุ่นยนต์ขั้นสูงและกระดาษทรายป้องกันไฟฟ้าสถิตที่ออกแบบมาสำหรับไลน์ผลิตอัตโนมัติ",
+            "why": "ระบบอัตโนมัติในการขัดกำลังกลายเป็นมาตรฐานสากล ผลักดันความต้องการสินค้ากลุ่มกระดาษทรายอุตสาหกรรมที่รองรับแขนกล",
+            "action": "ติดตามความต้องการของลูกค้าสำหรับแผ่นขัดที่รองรับระบบหุ่นยนต์และสินค้าเตรียมพื้นผิวป้องกันไฟฟ้าสถิต"
           }
         },
         {
           "id": "20260908-w2",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "Fortune Business Insights",
-          "date": "2026-08-17",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXJjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
-          "title": "Automotive OEM Coatings Market Size, Share | Growth [2034]",
-          "summary": "Global automotive OEM coating demand continues to evolve with a strong focus on durability and advanced finish applications.",
-          "why": "Automotive manufacturing lines are major consumers of coated abrasives and sanding systems for body-in-white and paint prep.",
-          "action": "Monitor OEM automotive coating volumes as a leading indicator for industrial abrasive demand in vehicle production hubs.",
+          "tag": "auto",
+          "rating": "green",
+          "source": "MarketsandMarkets",
+          "date": "2026-07-10",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUXhqQk54c1g4cXhycTVMTFlJY3l2bGNZYU5hWG1zdDRYZmYwM0FaUzVXOTlCTXNCR1dabXhiLTJnMllTWFl6UWt1TE9KMkFqYmxxRUNjcC1nQlFhR3ZPSng5QVNtQnZRMEZ2cGREVGhaa0VPSTVfSkg1UEtlNER4emMyYW83SUkzSGc?oc=5",
+          "title": "EV Assembly Market Report 2026-2035",
+          "summary": "The electric vehicle assembly market continues its rapid expansion path through 2035, requiring specialized component finishing.",
+          "why": "EV manufacturing involves different lightweight metals and structural parts that require precise deburring, grinding, and surface finishing.",
+          "action": "Identify specific abrasive lines suited for lightweight EV metals like aluminum and composite materials.",
           "th": {
-            "title": "ขนาด ส่วนแบ่ง และการเติบโตของตลาดการเคลือบผิว OEM ยานยนต์ [2034]",
-            "summary": "ความต้องการสารเคลือบผิว OEM ยานยนต์ทั่วโลกยังคงพัฒนาอย่างต่อเนื่อง โดยเน้นที่ความทนทานและการใช้งานตกแต่งผิวขั้นสูง",
-            "why": "สายการผลิตรถยนต์เป็นผู้ใช้รายใหญ่ของกระดาษทรายอุตสาหกรรมและระบบขัด ทั้งในส่วนงานโครงสร้างตัวถังและการเตรียมพื้นผิวก่อนพ่นสี",
-            "action": "ติดตามตัวเลขความต้องการเคลือบผิวรถยนต์ OEM เพื่อใช้เป็นสัญญาณชี้นำความต้องการวัสดุขัดในแหล่งผลิตยานยนต์"
+            "title": "รายงานตลาดการประกอบรถยนต์ไฟฟ้า (EV Assembly) ปี 2026-2035",
+            "summary": "ตลาดการประกอบรถยนต์ไฟฟ้ายังคงขยายตัวอย่างรวดเร็วถึงปี 2035 ซึ่งต้องอาศัยกระบวนการตกแต่งชิ้นส่วนเฉพาะทาง",
+            "why": "การผลิต EV เกี่ยวข้องกับโลหะน้ำหนักเบาและชิ้นส่วนโครงสร้างที่ต้องใช้การลบคม การเจียร และการขัดแต่งผิวที่แม่นยำ",
+            "action": "ระบุกลุ่มสินค้ากระดาษทรายที่เหมาะกับโลหะน้ำหนักเบาสำหรับ EV เช่น อลูมิเนียมและวัสดุคอมโพสิต"
           }
         },
         {
           "id": "20260908-w3",
-          "tag": "steel",
+          "tag": "coating",
           "rating": "amber",
-          "source": "FinancialContent",
-          "date": "2026-03-27",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNREp0R2c5MDlEQnlKN0toMm9Ma1lDTmpzazZlUEtzWnpMOTR5NW1KUW5sd21hZzJpYWFVQ2ZfUFM5MTNyUjFlS3NleWFkUHgtSnlGM0ZkRHNjcEhIRF9ucHpEQUo2SzMxMzVVU3p4Skw1eHVrcVZfVWJMRmoyUmZqalRwWlRDelE3UmZuZ3N1WGN5R0JDV2VsLWlGenpqQ01Oc01IYmh0Ni1naG9kUFZLeVY5WUM0cWdDcjdTZjlpeHdWQXExVFl5cmE4ak9yWExkRlFKRkZrQnFiMTNKQzB5Y09COXFaYVM4R2xySmU3RWNXbElRT2lET3BnV3o1QQ?oc=5",
-          "title": "Industrial Metals Hit Multi-Year Highs: Aluminum and Steel Surge Amid Global Supply Constraints",
-          "summary": "Global industrial metals including steel and aluminum have experienced price surges and supply tightness due to international trade pressures.",
-          "why": "Metal fabrication costs and raw material availability heavily influence factory activity, metal cutting, and local deburring/grinding demand.",
-          "action": "Keep an eye on metal market stability to anticipate fluctuations in fabrication shop output and consumable spending.",
+          "source": "Straits Research",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NN1NfTHlMbm83VVBSSk84UmI2aldwS0VobVdKVFNuM2hsWGRMc00tczY1aE1XRlVSS3BtbEtlRlBfZjY5NjFudlNNU3dkSGpMRG5PNzVGcWhUNjBfdkRmZkk3cmhYUmtvcTFxeXln?oc=5",
+          "title": "Performance Coating Market Size, Share & Growth Graph by 2034",
+          "summary": "Global analysis projects steady growth for the performance coating sector, highlighting new chemical formulations and applications.",
+          "why": "Surface prep and sanding are critical preliminary steps before applying high-performance coatings in industrial sectors.",
+          "action": "Keep an eye on coating tech shifts that demand finer surface profiles or specialized pre-treatment abrasives.",
           "th": {
-            "title": "โลหะอุตสาหกรรมแตะระดับสูงสุดในรอบหลายปี: อลูมิเนียมและเหล็กพุ่งสูงท่ามกลางข้อจำกัดด้านอุปทานโลก",
-            "summary": "โลหะอุตสาหกรรมทั่วโลก รวมถึงเหล็กและอลูมิเนียม ประสบภาวะราคาพุ่งสูงและอุปทานตึงตัวเนื่องจากแรงกดดันด้านการค้าระหว่างประเทศ",
-            "why": "ต้นทุนการขึ้นรูปโลหะและความพร้อมของวัตถุดิบส่งผลอย่างมากต่อกิจกรรมในโรงงาน งานตัดโลหะ และความต้องการใช้ผลิตภัณฑ์ลบคม/เจียรในท้องถิ่น",
-            "action": "จับตาเสถียรภาพของตลาดโลหะเพื่อคาดการณ์ความผันผวนของผลผลิตในร้านค้าแปรรูปและการใช้จ่ายวัสดุสิ้นเปลือง"
+            "title": "ขนาด ส่วนแบ่ง และกราฟการเติบโตของตลาดสารเคลือบผิวประสิทธิภาพสูงถึงปี 2034",
+            "summary": "การวิเคราะห์ระดับโลกคาดการณ์การเติบโตอย่างต่อเนื่องของตลาดสารเคลือบประสิทธิภาพสูง พร้อมเน้นย้ำสูตรเคมีและการใช้งานใหม่ๆ",
+            "why": "งานเตรียมพื้นผิวและการขัดเป็นขั้นตอนสำคัญก่อนการพ่นเคลือบสารประสิทธิภาพสูงในภาคอุตสาหกรรม",
+            "action": "จับตาดูความเปลี่ยนแปลงของเทคโนโลยีสารเคลือบที่ต้องการความละเอียดของผิวชิ้นงานหรือกระดาษทรายเตรียมพื้นผิวเฉพาะทาง"
           }
         },
         {
           "id": "20260908-w4",
           "tag": "steel",
           "rating": "amber",
-          "source": "The World Economic Forum",
-          "date": "2026-04-21",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeFBmZTNpZDhjN1lHNlBlU0duZ3ZQWW9uanI0SWs3SDFVazlpbVVXMklqSTVjbDloUEI4NW1Ca2dGckgzanh5UlRfX1F5QlVfQWFZNGdSS1h5bHNIUElCTk9LeUktaGd2VWxwRDAyMGJmQ1F6ZHVEOURKVjF3MVdHWGd0OG4zYTNtUk0yZkp0QXN4R3p5LUEtWkFzODBVdUdlTVpLNTh3ZjQtTGJuanlfS0Y5dWVLVEo1WkEybk96dVY?oc=5",
-          "title": "How regional conflicts are disrupting industrial production amid fuel shortages and rising costs",
-          "summary": "Geopolitical tensions continue to create energy supply volatility, driving up operational costs for heavy manufacturing sectors.",
-          "why": "Higher energy and operational expenses force metal and manufacturing plants to optimize grinding efficiency and minimize consumable waste.",
-          "action": "Emphasize high-efficiency abrasive solutions that reduce process time and lower total production cost for factories.",
+          "source": "Fact.MR",
+          "date": "2026-04-13",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QdlVWYkhUUHFMQ042anhjZWhnN25NSnZfX2F3QU1IVnpHdHVIeWpSS2R0RnVCQjBHVVgwQjhTR21WeThVSF9Td2p5LUxpN3dKekd0UXJpdHMxWENF?oc=5",
+          "title": "Steel Scrap Market, Global Market Analysis Report - 2036",
+          "summary": "Global demand for steel scrap is evolving as metal recycling and electric arc furnace (EAF) steelmaking gain traction.",
+          "why": "Steel scrap processing and recycling heavily rely on heavy-duty grinding, cutting, and surface cleaning tools.",
+          "action": "Evaluate our product range for heavy metal fabrication, cutting, and recycling yard applications.",
           "th": {
-            "title": "ความขัดแย้งระดับภูมิภาคส่งผลกระทบต่อการผลิตอุตสาหกรรมท่ามกลางปัญหาขาดแคลนเชื้อเพลิงและต้นทุนที่สูงขึ้น",
-            "summary": "ความตึงเครียดทางภูมิรัฐศาสตร์ยังคงสร้างความผันผวนด้านอุปทานพลังงาน ผลักดันให้ต้นทุนการดำเนินงานในภาคการผลิตหนักเพิ่มสูงขึ้น",
-            "why": "ต้นทุนพลังงานและค่าดำเนินการที่สูงขึ้น บีบให้โรงงานโลหะและการผลิตต้องเพิ่มประสิทธิภาพการเจียรและลดของเสียจากวัสดุสิ้นเปลืองให้น้อยที่สุด",
-            "action": "เน้นนำเสนอโซลูชันกระดาษทรายและใบเจียรประสิทธิภาพสูงที่ช่วยลดเวลาทำงานและลดต้นทุนการผลิตรวมให้แก่โรงงาน"
+            "title": "รายงานวิเคราะห์ตลาดเศษเหล็กโลก ปี 2036",
+            "summary": "ความต้องการเศษเหล็กทั่วโลกกำลังเติบโตตามการรีไซเคิลโลหะและการผลิตเหล็กด้วยเตาอาร์ไฟฟ้า (EAF) ที่ได้รับความนิยมมากขึ้น",
+            "why": "กระบวนการจัดการและรีไซเคิลเศษเหล็กต้องพึ่งพาเครื่องมือตัด เจียร และทำความสะอาดผิวงานแบบใช้งานหนัก",
+            "action": "ประเมินกลุ่มผลิตภัณฑ์ของเราสำหรับงานขึ้นรูปโลหะหนัก งานตัด และการใช้งานในลานรีไซเคิล"
           }
         }
       ]
