@@ -1,7 +1,53 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-09-09",
+  "updated": "2026-09-10",
   "days": [
+    {
+      "date": "2026-09-10",
+      "summary": "Today's global intelligence highlights industrial shifts in automotive refinish coatings and the ongoing integration of AI in manufacturing. These developments signal continuous evolution in surface preparation and automation demand across global supply chains.",
+      "directCount": 2,
+      "th": {
+        "summary": "ข่าวกรองระดับโลกประจำวันนี้เน้นย้ำถึงการเปลี่ยนแปลงในอุตสาหกรรมสีพ่นซ่อมรถยนต์และการนำ AI มาใช้ในกระบวนการผลิต ซึ่งสะท้อนถึงการพัฒนาอย่างต่อเนื่องในด้านการเตรียมพื้นผิวและความต้องการระบบอัตโนมัติ"
+      },
+      "items": [
+        {
+          "id": "20260910-w1",
+          "tag": "coating",
+          "rating": "green",
+          "source": "MarketsandMarkets",
+          "date": "2026-08-19",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWEhwQ2p3b3pNX0E1cGFWOGdvT2pLdGxXOFFLYWVnTS1zaXFnV0o4Nnl4cHFMQkE0RGFYdXFuekJaTVJ1U1Z0bGRJY1dTMk5hTEpVaWtMendld3NQb0ZtcmRWMFlHWlN2cUVKMUlmaE0zQy1aZ25STUlITUx1aTFTZ0w5X2c4TWxvMUhv?oc=5",
+          "title": "US Automotive Refinish Coatings Market Size, Share, Trends, Growth Analysis Report, 2030",
+          "summary": "The US automotive refinish coatings market is projected to expand through 2030, driven by collision repair and vehicle customization trends.",
+          "why": "Growth in automotive refinishing directly drives demand for high-performance abrasives, masking materials, and surface preparation discs used by body shops.",
+          "action": "Monitor premium sanding disc and film demand in the automotive aftermarket sector.",
+          "th": {
+            "title": "ตลาดสีพ่นซ่อมรถยนต์ในสหรัฐอเมริกา: ขนาด ส่วนแบ่ง แนวโน้ม และการวิเคราะห์การเติบโต ถึงปี 2030",
+            "summary": "ตลาดสีพ่นซ่อมรถยนต์ในสหรัฐฯ มีแนวโน้มขยายตัวถึงปี 2030 หนุนโดยธุรกิจซ่อมตัวถังและแนวโน้มการแต่งรถ",
+            "why": "การเติบโตของตลาดพ่นซ่อมรถยนต์ส่งผลโดยตรงต่อความต้องการกระดาษทรายประสิทธิภาพสูง แผ่นขัด และวัสดุเตรียมพื้นผิวที่ใช้ในอู่ซ่อมรถ",
+            "action": "ติดตามความต้องการแผ่นขัดและฟิล์มขัดคุณภาพสูงในกลุ่มตลาดหลังการขายยานยนต์"
+          }
+        },
+        {
+          "id": "20260910-w2",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "Amazon Web Services (AWS)",
+          "date": "2025-10-22",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UMG9rVURtamVSUnVYZzhtYjBPZUVWNDdCb0J1V3lEd09EV1JsS3dsU0ZwNkRxbmc4MVlwcXRPZW5aQklBRGxEWWxVRmVzUUJEZUNfOXZfT0d3cnVPaW5ydjZ3bjBlS1NyRGhWSw?oc=5",
+          "title": "AI in Paints and Coatings Market: Trends, Growth, and Opportunities",
+          "summary": "Artificial intelligence is increasingly integrated into paints and coatings manufacturing for color formulation, quality control, and predictive maintenance.",
+          "why": "As coating manufacturers automate and optimize production via AI, precision standards for surface finishes and application testing become more rigorous.",
+          "action": "Keep an eye on how smart manufacturing and automated quality checks influence abrasive performance standards.",
+          "th": {
+            "title": "ปัญญา искусственный (AI) ในตลาดสีและสารเคลือบ: แนวโน้ม การเติบโต และโอกาส",
+            "summary": "การนำปัญญาประดิษฐ์มาใช้ในอุตสาหกรรมการผลิตสีและสารเคลือบกำลังเพิ่มขึ้น ทั้งในด้านการผสมสี การควบคุมคุณภาพ และการซ่อมบำรุงเชิงคาดการณ์",
+            "why": "ในขณะที่ผู้ผลิตสีปรับปรุงกระบวนการผลิตด้วย AI มาตรฐานความแม่นยำสำหรับการขัดแต่งพื้นผิวและการทดสอบชิ้นงานจึงเข้มงวดมากขึ้น",
+            "action": "ติดตามว่าการผลิตอัจฉริยะและการตรวจสอบคุณภาพด้วยระบบอัตโนมัติส่งผลต่อมาตรฐานประสิทธิภาพของวัสดุขัดอย่างไร"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-09-09",
       "summary": "Today's global briefing focuses on advanced coating technologies, digital and AI integration in surface finishing, and European abrasives market forecasts. These developments highlight the ongoing shift toward precision, automation, and high-performance materials in manufacturing.",
@@ -921,70 +967,6 @@ window.WORLD_ARCHIVE = {
             "summary": "ฐานข้อมูลที่รวบรวมและติดตามข้อมูลการส่งออกรถยนต์และปริมาณการผลิตของญี่ปุ่นไปยังประเทศต่างๆ",
             "why": "ปริมาณการผลิตและการส่งออกยานยนต์ของญี่ปุ่นส่งผลอย่างมากต่อห่วงโซ่อุปทานชิ้นส่วนโลหะ การปั๊มขึ้นรูป และวัสดุขัดแต่งผิวในภูมิภาค",
             "action": "ติดตามปริมาณการผลิตของค่ายรถยนต์ญี่ปุ่นในเอเชียเพื่อคาดการณ์ความต้องการใช้วัสดุขัดโลหะ"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-08-27",
-      "summary": "Today's briefing focuses on global manufacturing shifts, smart factory collaborations like Ford and Geely, and regional coatings innovations shaping surface treatment demands.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปประเด็นข่าววันนี้เน้นการเปลี่ยนแปลงของการผลิตระดับโลก ความร่วมมือด้านสมาร์ทแฟคทอรีระหว่าง Ford และ Geely รวมถึงนวัตกรรมสีและสารเคลือบที่ขับเคลื่อนความต้องการด้านการเตรียมพื้นผิว"
-      },
-      "items": [
-        {
-          "id": "20260827-w1",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-07-23",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZDRQV1lyajBPaFY5UV9pQkxKcXpvRzQ5ejJOcEM5QzgyaXByMHg4MWtaX0pHT3VtV2tPRFVPUjJFdGhBcTNoWDRKOTZ4ekkzeGpOamJMT2R6M2psbHBoNEV6dlMyWW5yM3hkVjZjM0xCV1FNQ2dLamFSTHcyNTB4dEdJZkpsRmtBSUZJeF9FYW9sT0ZHdGNhV2F3RHpOLXp6RUI0SWY0SWNSM0hxM19pYS1DeEZ5ZGdhZHpyUg?oc=5",
-          "title": "Ford and Geely unite in Valencia: smart-factory momentum!",
-          "summary": "Ford and Geely are joining forces in Valencia, Spain, driving new smart-factory momentum and localized production efficiencies.",
-          "why": "Major automotive alliances and plant upgrades directly change the local demand for automated surface finishing, robotic sanding, and OEM-spec abrasives.",
-          "action": "Monitor how European EV/hybrid production setups handle body-in-white finishing to anticipate future tech requirements.",
-          "th": {
-            "title": "Ford และ Geely ผนึกกำลังในวาเลนเซีย: ขับเคลื่อนกระแสสมาร์ทแฟคทอรี!",
-            "summary": "Ford และ Geely ร่วมมือกันในเมืองวาเลนเซีย ประเทศสเปน เพื่อผลักดันความก้าวหน้าของโรงงานอัจฉริยะและเพิ่มประสิทธิภาพการผลิตในท้องถิ่น",
-            "why": "พันธมิตรยานยนต์รายใหญ่และการอัปเกรดโรงงานส่งผลต่อความต้องการผลิตภัณฑ์ขัดผิวอัตโนมัติ หุ่นยนต์ขัด และกระดาษทรายสเปก OEM โดยตรง",
-            "action": "ติดตามว่าการผลิตรถยนต์ EV/Hybrid ในยุโรปปรับตัวเรื่องการเตรียมผิวตัวถังอย่างไร เพื่อคาดการณ์ความต้องการเทคโนโลยีในอนาคต"
-          }
-        },
-        {
-          "id": "20260827-w2",
-          "tag": "coating",
-          "rating": "green",
-          "source": "European Coatings",
-          "date": "2026-06-04",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUDgzbkl5cWdzSnJwcGViRm5mVWNYTWllWVF6RENXM2dRbG84cTh6bFRXckpiYVZkMWRWZk5OWGZhTjZCdm9zTUpTLWJlUmhLR1BnUmhIUWJ3VUVSdW5WQ05tZjVnTmQ3Tld4RG5rbVdKNEJrblFzNlE0NFZyRWw3SEZ1RWdES2pzYndyWnZPOVgyRzB4YTBGT0NOZDU4ZDdnejhFRHpMYkQ2T1ZX?oc=5",
-          "title": "ETCC 2026 in Prague: A hub for coatings innovation and sustainability",
-          "summary": "The European Technical Coatings Congress (ETCC) in Prague highlights cutting-edge advancements in coating technologies and sustainability.",
-          "why": "Changes in industrial paint and coating formulations influence how surface prep, sanding, and de-nibbing must be performed before and after coating applications.",
-          "action": "Keep an eye on eco-friendly coating trends that require specialized surface preparation techniques.",
-          "th": {
-            "title": "งาน ETCC 2026 ที่ปราก: ศูนย์กลางนวัตกรรมและการพัฒนาที่ยั่งยืนของอุตสาหกรรมสีและสารเคลือบ",
-            "summary": "การประชุมเทคโนโลยีสีและสารเคลือบแห่งยุโรป (ETCC) ที่กรุงปรากเน้นย้ำความก้าวหน้าล้ำสมัยด้านเทคโนโลยีสารเคลือบและความยั่งยืน",
-            "why": "การเปลี่ยนแปลงของสูตรสีและสารเคลือบอุตสาหกรรม ส่งผลต่อวิธีปฏิบัติงานเตรียมพื้นผิว การขัด และการเก็บงานก่อนและหลังพ่นสี",
-            "action": "ติดตามแนวโน้มสารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อม ซึ่งต้องใช้เทคนิคการเตรียมพื้นผิวที่จำเพาะเจาะจง"
-          }
-        },
-        {
-          "id": "20260827-w3",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "Shanghai Metals Market",
-          "date": "2026-05-19",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMmw1akRRMFZCQ2I5NGhHdE1NOXhoaE1GY0h5UmxlQVNUVGxHTko2U0NBQ0o0Q19ZYmZ1VnBCTTB6a2JJQTFNOUpDSUtpWXdaR3hkeGhlOXF4dF9yUElCd1ZkWTl4MmZGOWhVeUlXc2VCMXFCOHQzZ0ZGZ1RtZ3p6aUNObEczWFhKMkdKQ3JuRWF5SjVNZmpOQVBaSGs4TWJKS1lVa0VTdmoxdDBQTF8zRDlxME1qeEtOUzJzSTBERURobWltWTlVUlpaZ3d2WlFRNEY1b0UwbVVfLXc0cXBZ?oc=5",
-          "title": "Nucor: 100% EAF, High Profits, and Vertical Integration Mitigating Costs",
-          "summary": "Nucor's focus on electric arc furnace (EAF) steel production and vertical integration helps it maintain high profits despite cost pressures.",
-          "why": "EAF steel manufacturing and structural metal processing represent heavy end-user segments for grinding wheels, cutting discs, and heavy-duty abrasives.",
-          "action": "Acknowledge that EAF-based steel production continues to grow, requiring durable metalworking abrasives for weld cleaning and finishing.",
-          "th": {
-            "title": "Nucor: เตาหลอมไฟฟ้า EAF 100%, กำไรสูง และการบูรณาการแนวตั้งช่วยลดต้นทุน",
-            "summary": "การที่ Nucor มุ่งเน้นการผลิตเหล็กด้วยเตาหลอมอาร์กไฟฟ้า (EAF) และการบูรณาการธุรกิจช่วยให้รักษากำไรสูงไว้ได้แม้เผชิญแรงกดดันด้านต้นทุน",
-            "why": "การผลิตเหล็กด้วยเตา EAF และอุตสาหกรรมแปรรูปโลหะโครงสร้าง เป็นตลาดผู้ใช้หลักสำหรับใบเจียร ใบตัด และผลิตภัณฑ์ขัดเหล็กงานหนัก",
-            "action": "รับทราบว่าการผลิตเหล็กแบบ EAF ยังคงเติบโต ซึ่งต้องใช้กระดาษทรายและหินเจียรงานโลหะที่ทนทานสำหรับการแต่งรอยเชื่อมและตกแต่งผิว"
           }
         }
       ]
