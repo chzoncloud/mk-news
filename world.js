@@ -4,46 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-09-10",
-      "summary": "Today's global intelligence highlights industrial shifts in automotive refinish coatings and the ongoing integration of AI in manufacturing. These developments signal continuous evolution in surface preparation and automation demand across global supply chains.",
-      "directCount": 2,
+      "summary": "Today's global briefing focuses on advanced automotive manufacturing shifts, digital and AI transformation in production lines, and the ongoing stabilization of the global steel market. These trends indicate evolving requirements for precision surface preparation and high-durability finishing tools.",
+      "directCount": 3,
       "th": {
-        "summary": "ข่าวกรองระดับโลกประจำวันนี้เน้นย้ำถึงการเปลี่ยนแปลงในอุตสาหกรรมสีพ่นซ่อมรถยนต์และการนำ AI มาใช้ในกระบวนการผลิต ซึ่งสะท้อนถึงการพัฒนาอย่างต่อเนื่องในด้านการเตรียมพื้นผิวและความต้องการระบบอัตโนมัติ"
+        "summary": "สรุปข้อมูลเชิงลึกระดับโลกประจำวันนี้เน้นการเปลี่ยนแปลงในอุตสาหกรรมการผลิตยานยนต์ การนำAIและระบบดิจิทัลมาใช้ในสายการผลิต และเสถียรภาพของตลาดเหล็กโลก ซึ่งบ่งชี้ถึงความต้องการที่เปลี่ยนไปสำหรับเครื่องมือเตรียมพื้นผิวและขัดแต่งที่มีความแม่นยำสูง"
       },
       "items": [
         {
           "id": "20260910-w1",
-          "tag": "coating",
+          "tag": "auto",
           "rating": "green",
-          "source": "MarketsandMarkets",
-          "date": "2026-08-19",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWEhwQ2p3b3pNX0E1cGFWOGdvT2pLdGxXOFFLYWVnTS1zaXFnV0o4Nnl4cHFMQkE0RGFYdXFuekJaTVJ1U1Z0bGRJY1dTMk5hTEpVaWtMendld3NQb0ZtcmRWMFlHWlN2cUVKMUlmaE0zQy1aZ25STUlITUx1aTFTZ0w5X2c4TWxvMUhv?oc=5",
-          "title": "US Automotive Refinish Coatings Market Size, Share, Trends, Growth Analysis Report, 2030",
-          "summary": "The US automotive refinish coatings market is projected to expand through 2030, driven by collision repair and vehicle customization trends.",
-          "why": "Growth in automotive refinishing directly drives demand for high-performance abrasives, masking materials, and surface preparation discs used by body shops.",
-          "action": "Monitor premium sanding disc and film demand in the automotive aftermarket sector.",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-09-02",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUUpWSmpHLVowSXdiLUJqcFlpQ3ZfRmdQYjJiTVFCNk00ZW0tM0ZqenQtd2F4emNVNEdzT3Q3amZ3M050YnNuTldQZFQyTlgyX3ByekdEbkdlaURacG5yRlBUSEZucnBQalBmNzVadXVrSDdXcEd0d2t4UXptUzJ5dXZ6ckE1Q3RVV3IyUkY4SFdVSERveVJYem0yM3lNbWFUY1dXWHYyRFZ2cXdldWFqRmJTNE4tQ1RXWWp4N3NCN1h5Vmt3d3hEbkFPc2ZqT0k?oc=5",
+          "title": "A global AI manufacturing transformation at Hyundai Motor Group",
+          "summary": "Hyundai Motor Group is rolling out a comprehensive AI-driven manufacturing transformation, integrating smart automation and advanced robotics across its production facilities.",
+          "why": "Higher adoption of AI and robotics in auto manufacturing means factories will increasingly demand automated, precision-engineered abrasive tools and robot-compatible sanding heads.",
+          "action": "Monitor robotic sanding integration trends in automotive plants to prepare for automated consumable specifications.",
           "th": {
-            "title": "ตลาดสีพ่นซ่อมรถยนต์ในสหรัฐอเมริกา: ขนาด ส่วนแบ่ง แนวโน้ม และการวิเคราะห์การเติบโต ถึงปี 2030",
-            "summary": "ตลาดสีพ่นซ่อมรถยนต์ในสหรัฐฯ มีแนวโน้มขยายตัวถึงปี 2030 หนุนโดยธุรกิจซ่อมตัวถังและแนวโน้มการแต่งรถ",
-            "why": "การเติบโตของตลาดพ่นซ่อมรถยนต์ส่งผลโดยตรงต่อความต้องการกระดาษทรายประสิทธิภาพสูง แผ่นขัด และวัสดุเตรียมพื้นผิวที่ใช้ในอู่ซ่อมรถ",
-            "action": "ติดตามความต้องการแผ่นขัดและฟิล์มขัดคุณภาพสูงในกลุ่มตลาดหลังการขายยานยนต์"
+            "title": "การเปลี่ยนแปลงการผลิตด้วย AI ระดับโลกที่ฮุนได มอเตอร์ กรุ๊ป",
+            "summary": "ฮุนได มอเตอร์ กรุ๊ป กำลังขับเคลื่อนการเปลี่ยนแปลงการผลิตด้วย AI อย่างเต็มรูปแบบ โดยบูรณาการระบบอัตโนมัติอัจฉริยะและหุ่นยนต์ขั้นสูงเข้ากับโรงงานผลิต",
+            "why": "การนำ AI และหุ่นยนต์มาใช้ในอุตสาหกรรมยานยนต์ที่เพิ่มขึ้น หมายความว่าโรงงานจะมีความต้องการเครื่องมือขัดที่มีความแม่นยำสูงและหัวขัดที่รองรับระบบอัตโนมัติมากขึ้น",
+            "action": "ติดตามแนวโน้มการใช้งานระบบขัดด้วยหุ่นยนต์ในโรงงานยานยนต์เพื่อเตรียมความพร้อมสำหรับสเปกวัสดุสิ้นเปลืองแบบอัตโนมัติ"
           }
         },
         {
           "id": "20260910-w2",
-          "tag": "coating",
+          "tag": "steel",
           "rating": "amber",
-          "source": "Amazon Web Services (AWS)",
-          "date": "2025-10-22",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UMG9rVURtamVSUnVYZzhtYjBPZUVWNDdCb0J1V3lEd09EV1JsS3dsU0ZwNkRxbmc4MVlwcXRPZW5aQklBRGxEWWxVRmVzUUJEZUNfOXZfT0d3cnVPaW5ydjZ3bjBlS1NyRGhWSw?oc=5",
-          "title": "AI in Paints and Coatings Market: Trends, Growth, and Opportunities",
-          "summary": "Artificial intelligence is increasingly integrated into paints and coatings manufacturing for color formulation, quality control, and predictive maintenance.",
-          "why": "As coating manufacturers automate and optimize production via AI, precision standards for surface finishes and application testing become more rigorous.",
-          "action": "Keep an eye on how smart manufacturing and automated quality checks influence abrasive performance standards.",
+          "source": "FinancialContent",
+          "date": "2026-03-27",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNREp0R2c5MDlEQnlKN0toMm9Ma1lDTmpzazZlUEtzWnpMOTR5NW1KUW5sd21hZzJpYWFVQ2ZfUFM5MTNyUjFlS3NleWFkUHgtSnlGM0ZkRHNjcEhIRF9ucHpEQUo2SzMxMzVVU3p4Skw1eHVrcVZfVWJMRmoyUmZqalRwWlRDelE3UmZuZ3N1WGN5R0JDV2VsLWlGenpqQ01Oc01IYmh0Ni1naG9kUFZLeVY5WUM0cWdDcjdTZjlpeHdWQXExVFl5cmE4ak9yWExkRlFKRkZrQnFiMTNKQzB5Y09COXFaYVM4R2xySmU3RWNXbElRT2lET3BnV3o1QQ?oc=5",
+          "title": "Industrial Metals Hit Multi-Year Highs: Aluminum and Steel Surge Amid Global Supply Constraints",
+          "summary": "Industrial metals, including aluminum and steel, have surged to multi-year highs due to persistent global supply chain constraints and trade policies.",
+          "why": "Higher metal pricing and supply tightness directly affect fabrication costs and surface treatment requirements for heavy metal processing industries.",
+          "action": "Keep an eye on metal processing input costs and adjust product positioning for heavy-duty grinding and deburring solutions.",
           "th": {
-            "title": "ปัญญา искусственный (AI) ในตลาดสีและสารเคลือบ: แนวโน้ม การเติบโต และโอกาส",
-            "summary": "การนำปัญญาประดิษฐ์มาใช้ในอุตสาหกรรมการผลิตสีและสารเคลือบกำลังเพิ่มขึ้น ทั้งในด้านการผสมสี การควบคุมคุณภาพ และการซ่อมบำรุงเชิงคาดการณ์",
-            "why": "ในขณะที่ผู้ผลิตสีปรับปรุงกระบวนการผลิตด้วย AI มาตรฐานความแม่นยำสำหรับการขัดแต่งพื้นผิวและการทดสอบชิ้นงานจึงเข้มงวดมากขึ้น",
-            "action": "ติดตามว่าการผลิตอัจฉริยะและการตรวจสอบคุณภาพด้วยระบบอัตโนมัติส่งผลต่อมาตรฐานประสิทธิภาพของวัสดุขัดอย่างไร"
+            "title": "โลหะอุตสาหกรรมแตะระดับสูงสุดในรอบหลายปี: อลูมิเนียมและเหล็กพุ่งสูงท่ามกลางข้อจำกัดด้านอุปทานโลก",
+            "summary": "โลหะอุตสาหกรรม รวมถึงอลูมิเนียมและเหล็ก ปรับตัวสูงขึ้นแตะระดับสูงสุดในรอบหลายปีเนื่องจากข้อจำกัดด้านห่วงโซ่อุปทานและนโยบายการค้า",
+            "why": "ราคาทะยานขึ้นและอุปทานโลหะที่ตึงตัวส่งผลกระทบโดยตรงต่อต้นทุนการแปรรูปและความต้องการในการเตรียมพื้นผิวสำหรับอุตสาหกรรมโลหะหนัก",
+            "action": "ติดตามต้นทุนวัตถุดิบในการแปรรูปโลหะและปรับตำแหน่งผลิตภัณฑ์สำหรับโซลูชันการเจียรและลบคมงานหนัก"
+          }
+        },
+        {
+          "id": "20260910-w3",
+          "tag": "auto",
+          "rating": "green",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-08-27",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNX1Vpazd0anVpQ0Z1MlFJclBBSnBVTHR3Q283QzRkeVdkbVp1bmtDMm5JOV9HcGxHWmZyaDVqV1piaWJLZ2o0RWszWmZNT0RwSWhyVDQ1c1RubmhuYXo4X3FVeVZPWDZXa2gtUjdkbFhsdUVNWmsySTRNd3M1VUpsZzNvcVBoc3hrUlVWOUh0cDJKQVB1WHg3YzRFalp6WHNSMWdNdVkzWWNWQ2xSaFVGSVJTbU9mS3ZkSzZ1WFJlVWl1ZFRqQThR?oc=5",
+          "title": "Why modularity is the real answer to manufacturing change",
+          "summary": "Automotive manufacturing is shifting toward highly modular production systems to adapt rapidly to vehicle platform changes and custom designs.",
+          "why": "Modular manufacturing alters tooling layouts and surface finishing setups, requiring more flexible and quick-change abrasive products.",
+          "action": "Promote quick-change abrasive systems (such as quick-change discs) that suit flexible, modular assembly lines.",
+          "th": {
+            "title": "เหตุใดความยืดหยุ่นแบบโมดูลาร์จึงเป็นคำตอบที่แท้จริงสำหรับการเปลี่ยนแปลงการผลิต",
+            "summary": "การผลิตยานยนต์กำลังเปลี่ยนไปสู่ระบบการผลิตแบบโมดูลาร์ขั้นสูง เพื่อให้สามารถปรับตัวได้อย่างรวดเร็วต่อการเปลี่ยนแปลงแพลตฟอร์มยานยนต์และการออกแบบที่หลากหลาย",
+            "why": "การผลิตแบบโมดูลาร์เปลี่ยนรูปแบบเครื่องมือและการตั้งค่าการขัดผิว ซึ่งต้องใช้ผลิตภัณฑ์กระดาษทรายที่มีความยืดหยุ่นและเปลี่ยนได้อย่างรวดเร็ว",
+            "action": "โปรโมตระบบกระดาษทรายและแผ่นขัดแบบเปลี่ยนเร็ว (Quick-change discs) ที่ตอบโจทย์สายการผลิตแบบโมดูลาร์ที่ยืดหยุ่น"
           }
         }
       ]
