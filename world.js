@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-09-09",
-      "summary": "Today's briefing highlights critical global supply chain dynamics in industrial metals and automotive refinish markets. While steel surpluses and protectionism reshape raw material costs, growing demand for specialized coatings points to evolving surface preparation standards.",
+      "summary": "Today's global briefing focuses on advanced coating technologies, digital and AI integration in surface finishing, and European abrasives market forecasts. These developments highlight the ongoing shift toward precision, automation, and high-performance materials in manufacturing.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปสถานการณ์ประจำวันเน้นพลวัตห่วงโซ่อุปทานโลหะอุตสาหกรรมและตลาดสีพ่นซ่อมรถยนต์ โดยภาวะล้นตลาดเหล็กและมาตรการกีดกันทางการค้ากำลังส่งผลต่อต้นทุนวัตถุดิบ ขณะเดียวกันความต้องการสารเคลือบพิเศษที่เพิ่มขึ้นสะท้อนถึงมาตรฐานการเตรียมพื้นผิวที่เปลี่ยนไป"
+        "summary": "สรุปสถานการณ์โลกประจำวันนี้เน้นไปที่เทคโนโลยีการเคลือบผิวขั้นสูง การบูรณาการ AI และดิจิทัลในการตกแต่งพื้นผิว รวมถึงการคาดการณ์ตลาดสารขัดถูในยุโรป ซึ่งสะท้อนถึงการเปลี่ยนแปลงไปสู่ความแม่นยำ ระบบอัตโนมัติ และวัสดุประสิทธิภาพสูงในภาคการผลิต"
       },
       "items": [
         {
           "id": "20260909-w1",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "S&P Global",
-          "date": "2026-01-12",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
-          "title": "Global steel industry battles surplus supply, protectionism",
-          "summary": "The international steel sector continues to face overcapacity challenges coupled with rising trade protectionism, impacting global pricing and manufacturing supply chains.",
-          "why": "Steel is the primary substrate for our industrial grinding, deburring, and surface finishing products. Shifts in steel supply directly influence our metalworking customers' production volumes.",
-          "action": "Monitor raw material price volatility and stay close to metal fabrication clients adjusting to shifting steel costs.",
+          "tag": "coating",
+          "rating": "green",
+          "source": "European Coatings",
+          "date": "2026-09-07",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
+          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
+          "summary": "The European coatings industry emphasizes digital transformation, sustainability, and innovative formulation techniques to redefine surface performance standards.",
+          "why": "Advanced surface coatings directly influence the prep work and abrasives needed for bonding and finishing.",
+          "action": "Monitor digital coating standards to anticipate changing demands for industrial surface preparation.",
           "th": {
-            "title": "อุตสาหกรรมเหล็กโลกเผชิญภาวะล้นตลาดและมาตรการกีดกันทางการค้า",
-            "summary": "ภาคอุตสาหกรรมเหล็กคลังสินค้าระหว่างประเทศยังคงเผชิญกับปัญหา 0กำลังการผลิตส่วนเกินพร้อมกับมาตรการคุ้มการค้าที่สูงขึ้น ซึ่งกระทบต่อราคาระดับโลกและห่วงโซ่อุปทานการผลิต",
-            "why": "เหล็กคือวัสดุหลักสำหรับผลิตภัณฑ์เจียร ลบคม และขัดแต่งผิวของเรา การเปลี่ยนแปลงของอุปทานเหล็กส่งผลโดยตรงต่อปริมาณการผลิตของลูกค้ากลุ่มโลหะ",
-            "action": "ติดตามความผันผวนของราคาวัตถุดิบและใกล้ชิดกับลูกค้ากลุ่มแปรรูปโลหะที่ต้องปรับตัวตามต้นทุนเหล็ก"
+            "title": "กำหนดอนาคตใหม่แห่งการเคลือบผิว: นวัตกรรม ความยั่งยืน และพลังแห่งดิจิทัล",
+            "summary": "อุตสาหกรรมสีเคลือบในยุโรปให้ความสำคัญกับการเปลี่ยนผ่านสู่ดิจิทัล ความยั่งยืน และนวัตกรรมการผสมสูตรเพื่อยกระดับมาตรฐานประสิทธิภาพพื้นผิว",
+            "why": "สารเคลือบผิวขั้นสูงส่งผลโดยตรงต่อขั้นตอนการเตรียมพื้นผิวและกระดาษทรายที่จำเป็นสำหรับการยึดเกาะและการขัดแต่ง",
+            "action": "ติดตามมาตรฐานการเคลือบดิจิทัลเพื่อคาดการณ์ความต้องการที่เปลี่ยนไปในการเตรียมพื้นผิวอุตสาหกรรม"
           }
         },
         {
           "id": "20260909-w2",
-          "tag": "auto",
+          "tag": "abrasive",
           "rating": "green",
-          "source": "MarketsandMarkets",
-          "date": "2026-08-19",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWEhwQ2p3b3pNX0E1cGFWOGdvT2pLdGxXOFFLYWVnTS1zaXFnV0o4Nnl4cHFMQkE0RGFYdXFuekJaTVJ1U1Z0bGRJY1dTMk5hTEpVaWtMendld3NQb0ZtcmRWMFlHWlN2cUVKMUlmaE0zQy1aZ25STUlITUx1aTFTZ0w5X2c4TWxvMUhv?oc=5",
-          "title": "US Automotive Refinish Coatings Market Size, Share, Trends, Growth Analysis Report, 2030",
-          "summary": "The automotive refinish coatings market in the US is projected for steady growth through 2030, driven by advanced paint technologies and vehicle maintenance demands.",
-          "why": "Automotive refinishing is a major end-market for sanding sheets, backing pads, and fine abrasives used in body shops.",
-          "action": "Ensure steady stock of high-grade automotive sanding materials and micro-finishing abrasives tailored for collision repair sectors.",
+          "source": "Market Data Forecast",
+          "date": "2026-07-24",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QdEVXWnRKRG40YWFXWDVwY09BdElfOGotQVNaazA2Q2p2VkluOXlhT1RSeEF3STZKZVI3b21NZlB3MWlwLTVXaVNDQWtQSHNUX3RPZXQ4Y0wwY1pwaGVfYzdKeXNNdDFZMkNpcDVhSm5OUjRraTM4ZV9fRHcyZw?oc=5",
+          "title": "Europe Abrasives Market Size, Share and Analysis, 2034",
+          "summary": "The European abrasives market report highlights steady growth projections up to 2034, driven by industrial manufacturing and precision finishing needs.",
+          "why": "Provides a benchmark for global market growth trends and product adoption rates in developed economies.",
+          "action": "Use European market growth patterns to evaluate our high-end abrasive product portfolio.",
           "th": {
-            "title": "รายงานตลาดสีพ่นซ่อมรถยนต์สหรัฐฯ คาดการณ์เติบโตถึงปี 2030",
-            "summary": "ตลาดสีพ่นซ่อมรถยนต์ในสหรัฐฯ มีแนวโน้มเติบโตอย่างต่อเนื่องจนถึงปี 2030 ขับเคลื่อนด้วยเทคโนโลยีสีขั้นสูงและความต้องการบำรุงรักษายานยนต์",
-            "why": "งานพ่นซ่อมสีรถยนต์เป็นตลาดปลายทางสำคัญของกระดาษทราย แป้นรอง และวัสดุกรัดผิวละเอียดที่ใช้ในอู่ซ่อมตัวถัง",
-            "action": "รักษาระดับสต็อกวัสดุกรัดผิวรถยนต์เกรดสูงและกระดาษทรายขัดละเอียดสำหรับภาคธุรกิจซ่อมแซมรถยนต์"
+            "title": "ขนาด ส่วนแบ่ง และการวิเคราะห์ตลาดวัสดุขัดถูในยุโรป ถึงปี 2034",
+            "summary": "รายงานตลาดวัสดุขัดถูของยุโรปคาดการณ์การเติบโตอย่างต่อเนื่องจนถึงปี 2034 โดยได้รับแรงหนุนจากภาคการผลิตอุตสาหกรรมและความต้องการขัดผิวความแม่นยำสูง",
+            "why": "ให้ข้อมูลอ้างอิงสำหรับแนวโน้มการเติบโตของตลาดโลกและอัตราการยอมรับผลิตภัณฑ์ในประเทศพัฒนาแล้ว",
+            "action": "นำรูปแบบการเติบโตของตลาดยยุโรปมาประเมินกลุ่มผลิตภัณฑ์กระดาษทรายและวัสดุขัดเกรดพรีเมียมของเรา"
           }
         },
         {
           "id": "20260909-w3",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "fortunebusinessinsights.com",
-          "date": "2026-08-17",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXJjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
-          "title": "Automotive OEM Coatings Market Size, Share | Growth [2034]",
-          "summary": "The global automotive OEM coatings market is expanding toward 2034, focusing on eco-friendly formulations and specialized surface finishes.",
-          "why": "OEM manufacturing lines require rigorous pre-treatment and sanding processes. New coating chemistries often demand specialized abrasive profiles.",
-          "action": "Keep an eye on shifting OEM coating specifications to anticipate new demands in robotic and automated surface preparation.",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "Market.us",
+          "date": "2026-01-22",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ISWl4S1FIYTlibDJlR001VnBXdy1xQ1ZobnhYTzBkc3pWOEdrOFQ4VWl2VzA5NjNDcGp3VEU3ZGQ2R0VFdXQwRmZxVEVpOTE4dVl4RlF4WlBHX3pXQ3QtTkJQWQ?oc=5",
+          "title": "Wood Sanding Machine Market Size, Share | CAGR of 4.3%",
+          "summary": "The wood sanding machine sector is expanding at a steady CAGR of 4.3%, indicating solid demand for automated wood processing equipment.",
+          "why": "Direct correlation to the wood furniture and flooring sectors which are major consumers of sanding belts and discs.",
+          "action": "Strengthen partnerships with woodworking machinery suppliers for joint abrasive solution offerings.",
           "th": {
-            "title": "ตลาดสีเคลือบ OEM สำหรับยานยนต์เติบโตต่อเนื่องถึงปี 2034",
-            "summary": "ตลาดสีเคลือบ OEM ยานยนต์ทั่วโลกกำลังขยายตัวมุ่งสู่ปี 2034 โดยให้ความสำคัญกับสูตรที่เป็นมิตรต่อสิ่งแวดล้อมและการเคลือบผิวเฉพาะทาง",
-            "why": "สายการผลิต OEM ต้องการกระบวนการเตรียมผิวและการขัดที่เข้มงวด เคมีภัณฑ์เคลือบผิวแบบใหม่อมกจะกำหนดรูปแบบวัสดุขัดที่เฉพาะเจาะจง",
-            "action": "ติดตามการเปลี่ยนแปลงสเปกสีเคลือบของ OEM เพื่อคาดการณ์ความต้องการใหม่ๆ ในงานเตรียมพื้นผิวด้วยระบบอัตโนมัติ"
+            "title": "ขนาดและส่วนแบ่งตลาดเครื่องขัดไม้ เติบโตด้วยอัตรา CAGR 4.3%",
+            "summary": "ภาคธุรกิจเครื่องขัดไม้กำลังขยายตัวด้วยอัตราการเติบโตเฉลี่ยสะสมต่อปี (CAGR) ที่ 4.3% สะท้อนถึงความต้องการอุปกรณ์แปรรูปไม้อัตโนมัติที่มั่นคง",
+            "why": "มีความเชื่อมโยงโดยตรงกับอุตสาหกรรมเฟอร์นิเจอร์ไม้และพื้น ซึ่งเป็นผู้ใช้รายใหญ่ของสายพานขัดและกระดาษทรายกลม",
+            "action": "เสริมสร้างความร่วมมือกับซัพพลายเออร์เครื่องจักรงานไม้เพื่อเสนอโซลูชันวัสดุขัดที่สอดคล้องกัน"
           }
         }
       ]
