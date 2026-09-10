@@ -4,82 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-09-11",
-      "summary": "Today's global briefing highlights crucial automotive manufacturing transformations and industrial metal dynamics that directly impact surface preparation, deburring, and abrasive consumption.",
-      "directCount": 4,
+      "summary": "Today's global briefing focuses on digital and AI transformation in manufacturing, regional coating market expansions, and raw material dynamics in the steel and metal sectors, signaling shifts in surface preparation demands.",
+      "directCount": 3,
       "th": {
-        "summary": "สรุปทิศทางโลกประจำวันนี้เน้นการเปลี่ยนแปลงครั้งสำคัญในภาคการผลิตยานยนต์และตลาดโลหะอุตสาหกรรม ซึ่งส่งผลโดยตรงต่อกระบวนการเตรียมพื้นผิว การลบคม และการใช้วัสดุขัดกระดาษทราย"
+        "summary": "สรุปสถานการณ์โลกประจำวันนี้เน้นไปที่การเปลี่ยนผ่านสู่ดิจิทัลและ AI ในภาคการผลิต การเติบโตของตลาดสีและสารเคลือบในภูมิภาคต่างๆ รวมถึงความเคลื่อนไหวของวัตถุดิบในอุตสาหกรรมเหล็กและโลหะ ซึ่งส่งสัญญาณถึงความต้องการเตรียมพื้นผิวที่เปลี่ยนไป"
       },
       "items": [
         {
           "id": "20260911-w1",
-          "tag": "auto",
-          "rating": "green",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-09-02",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUUpWSmpHLVowSXdiLUJqcFlpQ3ZfRmdQYjJiTVFCNk00ZW0tM0ZqenQtd2F4emNVNEdzT3Q3amZ3M050YnNuTldQZFQyTlgyX3ByekdEbkdlaURacG5yRlBUSEZucnBQalBmNzVadXVrSDdXcEd0d2t4UXptUzJ5dXZ6ckE1Q3RVV3IyUkY4SFdVSERveVJYem0yM3lNbWFUY1dXWHYyRFZ2cXdldWFqRmJTNE4tQ1RXWWp4N3NCN1h5Vmt3d3hEbkFPc2ZqT0k?oc=5",
-          "title": "A global AI manufacturing transformation at Hyundai Motor Group",
-          "summary": "Hyundai Motor Group is rolling out AI-driven manufacturing transformations globally to optimize production lines and quality control.",
-          "why": "Advanced automotive manufacturing lines adopting AI automation require precision robotic sanding, deburring, and consistent abrasive performance.",
-          "action": "Monitor how high-tech automation in assembly plants changes their specifications for automated surface finishing tools.",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "Market Research Future",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE40VENBdkR6MDRta2Z3Wl9sb2JhakcwVzJKb1pGQmU3RGpvWGJsVWNFNTBiVzVUMnlCNnNhRXVtZWduczV1WmFON2tkakpQRmZDajM2Ty1kX0tUWW53X3NWOVppb3dNbS16TUlPWFBQMG9za28zcm9WT2NNWQ?oc=5",
+          "title": "Epoxy Coatings Market Size, Share & Growth Report 2035 | MRFR",
+          "summary": "The global epoxy coatings market continues to expand steadily with broad projections toward 2035, driven by protective and industrial maintenance applications.",
+          "why": "Epoxy coatings require extensive surface preparation, grinding, and profiling before application, directly driving demand for heavy-duty industrial abrasives.",
+          "action": "Monitor growth in industrial epoxy flooring and heavy structural protection as key targets for abrasive sales.",
           "th": {
-            "title": "ฮุนได มอเตอร์ กรุ๊ป ยกระดับการผลิตด้วยเทคโนโลยี AI ระดับโลก",
-            "summary": "กลุ่มบริษัทฮุนได มอเตอร์ กำลังขับเคลื่อนการเปลี่ยนแปลงการผลิตด้วย AI ทั่วโลก เพื่อเพิ่มประสิทธิภาพสายการผลิตและการควบคุมคุณภาพ",
-            "why": "สายการผลิตยานยนต์สมัยใหม่ที่นำระบบอัตโนมัติ AI มาใช้ จำเป็นต้องใช้ระบบขัดกระดาษทราย การลบคมด้วยหุ่นยนต์ และวัสดุขัดที่มีประสิทธิภาพสม่ำเสมอ",
-            "action": "ติดตามดูว่าระบบอัตโนมัติไฮเทคในโรงงานประกอบส่งผลอย่างไรต่อสเปกของเครื่องมือขัดผิวอัตโนมัติ"
+            "title": "รายงานขนาด ส่วนแบ่ง และการเติบโตของตลาดสีอีพ็อกซี่ถึงปี 2035",
+            "summary": "ตลาดสีอีพ็อกซี่ทั่วโลกยังคงขยายตัวอย่างต่อเนื่องด้วยการคาดการณ์ระยะยาวถึงปี 2035 ขับเคลื่อนโดยงานบำรุงรักษาอุตสาหกรรมและการเคลือบป้องกัน",
+            "why": "สีอีพ็อกซี่ต้องการการเตรียมพื้นผิว การเจียร และการสร้างความหยาบก่อนเคลือบ ซึ่งส่งผลโดยตรงต่อความต้องการกระดาษทรายและใบเจียรสำหรับงานอุตสาหกรรมหนัก",
+            "action": "ติดตามการเติบโตของงานเคลือบพื้นอีพ็อกซี่และโครงสร้างอุตสาหกรรมหนัก เพื่อใช้เป็นเป้าหมายในการขายสินค้ากลุ่มขัดและเตรียมพื้นผิว"
           }
         },
         {
           "id": "20260911-w2",
-          "tag": "auto",
-          "rating": "green",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-08-27",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNX1Vpazd0anVpQ0Z1MlFJclBBSnBVTHR3Q283QzRkeVdkbVp1bmtDMm5JOV9HcGxHWmZyaDVqV1piaWJLZ2o0RWszWmZNT0RwSWhyVDQ1c1RubmhuYXo4X3FVeVZPWDZXa2gtUjdkbFhsdUVNWmsySTRNd3M1VUpsZzNvcVBoc3hrUlVWOUh0cDJKQVB1WHg3YzRFalp6WHNSMWdNdVkzWWNWQ2xSaFVGSVJTbU9mS3ZkSzZ1WFJlVWl1ZFRqQThR?oc=5",
-          "title": "Why modularity is the real answer to manufacturing change",
-          "summary": "Automotive manufacturers are shifting toward modular production designs to quickly adapt to changing market demands.",
-          "why": "Modular manufacturing requires flexible, quick-change tooling and diverse surface conditioning options for varying metal parts.",
-          "action": "Ensure our abrasive product line includes quick-change discs and versatile options suited for modular production setups.",
+          "tag": "coating",
+          "rating": "white",
+          "source": "aws.amazon.com",
+          "date": "2025-10-22",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UMG9rVURtamVSUnVYZzhtYjBPZUVWNDdCb0J1V3lEd09EV1JsS3dsU0ZwNkRxbmc4MVlwcXRPZW5aQklBRGxEWWxVRmVzUUJEZUNfOXZfT0d3cnVPaW5ydjZ3bjBlS1NyRGhWSw?oc=5",
+          "title": "AI in Paints and Coatings Market: Trends, Growth, and Opportunities",
+          "summary": "Artificial intelligence is increasingly integrated into the formulation, color matching, and quality control processes of the paints and coatings industry.",
+          "why": "Smart manufacturing and automated quality inspection in coatings will eventually push Tier-1 suppliers to demand tighter tolerances and more consistent abrasive finishes.",
+          "action": "Keep an eye on how automated manufacturing plants manage surface defect detection and finishing quality.",
           "th": {
-            "title": "เหตุใดการผลิตแบบโมดูลาร์จึงเป็นคำตอบที่แท้จริงต่อความเปลี่ยนแปลง",
-            "summary": "ผู้ผลิตยานยนต์กำลังปรับเปลี่ยนไปสู่การออกแบบการผลิตแบบโมดูลาร์ เพื่อให้สามารถปรับตัวตามความต้องการของตลาดที่เปลี่ยนไปได้อย่างรวดเร็ว",
-            "why": "การผลิตแบบโมดูลาร์ต้องการเครื่องมือที่เปลี่ยนได้อย่างรวดเร็วและมีความยืดหยุ่นสูง รวมถึงตัวเลือกการเตรียมพื้นผิวที่หลากหลายสำหรับชิ้นส่วนโลหะที่แตกต่างกัน",
-            "action": "ตรวจสอบให้แน่ใจว่าสินค้ากลุ่มวัสดุขัดของเรามีแผ่นขัดแบบเปลี่ยนเร็วและตัวเลือกที่ยืดหยุ่นเหมาะกับสายการผลิตแบบโมดูลาร์"
+            "title": "ปัญญาประดิษฐ์ในตลาดสีและสารเคลือบ: แนวโน้ม การเติบโต และโอกาส",
+            "summary": "การนำปัญญาประดิษฐ์ (AI) เข้ามาบูรณาการในกระบวนการผสมสูตร การเทียบสี และการควบคุมคุณภาพในอุตสาหกรรมสีและสารเคลือบกำลังเพิ่มขึ้น",
+            "why": "ระบบการผลิตอัจฉริยะและการตรวจสอบคุณภาพอัตโนมัติในงานเคลือบ จะผลักดันให้โรงงานระดับท็อปต้องการความแม่นยำสูงและพื้นผิวที่เรียบเนียนสม่ำเสมอจากอุปกรณ์ขัด",
+            "action": "จับตาดูว่าโรงงานผลิตอัตโนมัติจัดการกับการตรวจสอบข้อบกพร่องที่พื้นผิวและคุณภาพการขัดอย่างไร"
           }
         },
         {
           "id": "20260911-w3",
           "tag": "steel",
-          "rating": "amber",
-          "source": "FinancialContent",
-          "date": "2026-03-27",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNREp0R2c5MDlEQnlKN0toMm9Ma1lDTmpzazZlUEtzWnpMOTR5NW1KUW5sd21hZzJpYWFVQ2ZfUFM5MTNyUjFlS3NleWFkUHgtSnlGM0ZkRHNjcEhIRF9ucHpEQUo2SzMxMzVVU3p4Skw1eHVrcVZfVWJMRmoyUmZqalRwWlRDelE3UmZuZ3N1WGN5R0JDV2VsLWlGenpqQ01Oc01IYmh0Ni1naG9kUFZLeVY5WUM0cWdDcjdTZjlpeHdWQXExVFl5cmE4ak9yWExkRlFKRkZrQnFiMTNKQzB5Y09COXFaYVM4R2xySmU3RWNXbElRT2lET3BnV3o1QQ?oc=5",
-          "title": "Industrial Metals Hit Multi-Year Highs: Aluminum and Steel Surge Amid Global Supply Constraints",
-          "summary": "Global aluminum and steel prices have surged to multi-year highs due to ongoing supply chain constraints.",
-          "why": "Higher metal input costs put pressure on metalworking and fabrication shops to minimize waste, increasing demand for durable, long-lasting abrasives.",
-          "action": "Market high-performance, long-life abrasives as a cost-saving solution for metal fabricators dealing with expensive raw materials.",
-          "th": {
-            "title": "โลหะอุตสาหกรรมพุ่งแตะระดับสูงสุดในรอบหลายปี: อลูมิเนียมและเหล็กกล้าพุ่งสูงท่ามกลางข้อจำกัดด้านอุปทานโลก",
-            "summary": "ราคารวมถึงอลูมิเนียมและเหล็กกล้าทั่วโลกพุ่งสูงแตะระดับสูงสุดในรอบหลายปี เนื่องจากข้อจำกัดด้านห่วงโซ่อุปทานที่ยังคงมีอยู่",
-            "why": "ต้นทุนวัตถุดิบโลหะที่สูงขึ้นสร้างแรงกดดันให้โรงงานแปรรูปโลหะต้องลดของเสียให้เหลือน้อยที่สุด ซึ่งช่วยเพิ่มความต้องการใช้วัสดุขัดที่มีความทนทานและใช้งานได้ยาวนาน",
-            "action": "ทำตลาดวัสดุขัดประสิทธิภาพสูงที่มีอายุการใช้งานยาวนาน เพื่อเป็นโซลูชันช่วยประหยัดต้นทุนสำหรับผู้ผลิตโลหะที่ต้องเผชิญกับวัตถุดิบราคาแพง"
-          }
-        },
-        {
-          "id": "20260911-w4",
-          "tag": "coating",
           "rating": "green",
-          "source": "Fortune Business Insights",
-          "date": "2026-08-17",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXJjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
-          "title": "Automotive OEM Coatings Market Size, Share | Growth [2034]",
-          "summary": "The automotive OEM coatings market continues steady long-term growth, driven by vehicle production and advanced coating technologies.",
-          "why": "Surface preparation and sanding are critical pre-painting steps in automotive OEM plants to ensure flawless coating adhesion.",
-          "action": "Keep B2B clients informed about abrasive solutions that ensure optimal surface roughness for high-end automotive OEM coatings.",
+          "source": "news.metal.com",
+          "date": "2026-05-19",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMmw1akRRMFZCQ2I5NGhHdE1NOXhoaE1GY0h5UmxlQVNUVGxHTko2U0NBQ0o0Q19ZYmZ1VnBCTTB6a2JJQTFNOUpDSUtpWXdaR3hkeGhlOXF4dF9yUElCd1ZkWTl4MmZGOWhVeUlXc2VCMXFCOHQzZ0ZGZ1RtZ3p6aUNObEczWFhKMkdKQ3JuRWF5SjVNZmpOQVBaSGs4TWJKS1lVa0VTdmoxdDBQTF8zRDlxME1qeEtOUzJzSTBERURobWltWTlVUlpaZ3d2WlFRNEY1b0UwbVVfLXc0cXBZ?oc=5",
+          "title": "[SMM Global Steel Company Special] Nucor: 100% EAF, High Profits, and Vertical Integration Mitigating Costs",
+          "summary": "Nucor demonstrates high profitability through 100% Electric Arc Furnace (EAF) steelmaking and vertical integration, navigating global market cost pressures.",
+          "why": "EAF steel production and increased recycling of scrap metal require heavy cutting, grinding, and conditioning, utilizing heavy-duty industrial abrasives.",
+          "action": "Look for supply opportunities targeting steel mills and service centers utilizing EAF technology that require surface conditioning products.",
           "th": {
-            "title": "ขนาดและส่วนแบ่งตลาดสีเคลือบ OEM ยานยนต์ พร้อมแนวโน้มการเติบโตถึงปี 2034",
-            "summary": "ตลาดสีเคลือบ OEM สำหรับยานยนต์ยังคงเติบโตในระยะยาวอย่างต่อเนื่อง ขับเคลื่อนโดยการผลิตยานยนต์และเทคโนโลยีสีเคลือบขั้นสูง",
-            "why": "การเตรียมพื้นผิวและการขัดกระดาษทรายเป็นขั้นตอนสำคัญก่อนการพ่นสีในโรงงาน OEM ยานยนต์ เพื่อให้มั่นใจว่าสีเคลือบจะยึดเกาะได้อย่างไร้ที่ติ",
-            "action": "แจ้งข้อมูลแก่ลูกค้า B2B เกี่ยวกับโซลูชันวัสดุขัดที่ช่วยให้พื้นผิวมีความหยาบเหมาะสมที่สุดสำหรับงานสีเคลือบ OEM ยานยนต์ระดับไฮเอนด์"
+            "title": "รายงานพิเศษบริษัทเหล็กโลก: Nucor กับเตาเผาอาร์กไฟฟ้า 100% กำไรสูง และการบูรณาการในแนวดิ่ง",
+            "summary": "Nucor แสดงให้เห็นถึงความสามารถในการทำกำไรสูงผ่านกระบวนการผลิตเหล็กด้วยเตาเผาอาร์กไฟฟ้า (EAF) 100% และการบูรณาการในแนวดิ่งเพื่อรับมือกับแรงกดดันด้านต้นทุน",
+            "why": "กระบวนการผลิตเหล็กด้วยเตา EAF และการรีไซเคิลเศษเหล็กจำเป็นต้องมีการตัด การเจียร และการปรับสภาพผิวโลหะ ซึ่งใช้ผลิตภัณฑ์กลุ่มหินเจียรและกระดาษทรายอุตสาหกรรมจำนวนมาก",
+            "action": "มองหาโอกาสในการทำตลาดกับโรงงานเหล็กและศูนย์บริการเหล็กที่ใช้เทคโนโลยีเตา EAF ซึ่งต้องการสินค้าสำหรับปรับสภาพผิวเหล็ก"
           }
         }
       ]
