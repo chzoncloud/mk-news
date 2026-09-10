@@ -1,7 +1,89 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-09-10",
+  "updated": "2026-09-11",
   "days": [
+    {
+      "date": "2026-09-11",
+      "summary": "Today's global briefing highlights crucial automotive manufacturing transformations and industrial metal dynamics that directly impact surface preparation, deburring, and abrasive consumption.",
+      "directCount": 4,
+      "th": {
+        "summary": "สรุปทิศทางโลกประจำวันนี้เน้นการเปลี่ยนแปลงครั้งสำคัญในภาคการผลิตยานยนต์และตลาดโลหะอุตสาหกรรม ซึ่งส่งผลโดยตรงต่อกระบวนการเตรียมพื้นผิว การลบคม และการใช้วัสดุขัดกระดาษทราย"
+      },
+      "items": [
+        {
+          "id": "20260911-w1",
+          "tag": "auto",
+          "rating": "green",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-09-02",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUUpWSmpHLVowSXdiLUJqcFlpQ3ZfRmdQYjJiTVFCNk00ZW0tM0ZqenQtd2F4emNVNEdzT3Q3amZ3M050YnNuTldQZFQyTlgyX3ByekdEbkdlaURacG5yRlBUSEZucnBQalBmNzVadXVrSDdXcEd0d2t4UXptUzJ5dXZ6ckE1Q3RVV3IyUkY4SFdVSERveVJYem0yM3lNbWFUY1dXWHYyRFZ2cXdldWFqRmJTNE4tQ1RXWWp4N3NCN1h5Vmt3d3hEbkFPc2ZqT0k?oc=5",
+          "title": "A global AI manufacturing transformation at Hyundai Motor Group",
+          "summary": "Hyundai Motor Group is rolling out AI-driven manufacturing transformations globally to optimize production lines and quality control.",
+          "why": "Advanced automotive manufacturing lines adopting AI automation require precision robotic sanding, deburring, and consistent abrasive performance.",
+          "action": "Monitor how high-tech automation in assembly plants changes their specifications for automated surface finishing tools.",
+          "th": {
+            "title": "ฮุนได มอเตอร์ กรุ๊ป ยกระดับการผลิตด้วยเทคโนโลยี AI ระดับโลก",
+            "summary": "กลุ่มบริษัทฮุนได มอเตอร์ กำลังขับเคลื่อนการเปลี่ยนแปลงการผลิตด้วย AI ทั่วโลก เพื่อเพิ่มประสิทธิภาพสายการผลิตและการควบคุมคุณภาพ",
+            "why": "สายการผลิตยานยนต์สมัยใหม่ที่นำระบบอัตโนมัติ AI มาใช้ จำเป็นต้องใช้ระบบขัดกระดาษทราย การลบคมด้วยหุ่นยนต์ และวัสดุขัดที่มีประสิทธิภาพสม่ำเสมอ",
+            "action": "ติดตามดูว่าระบบอัตโนมัติไฮเทคในโรงงานประกอบส่งผลอย่างไรต่อสเปกของเครื่องมือขัดผิวอัตโนมัติ"
+          }
+        },
+        {
+          "id": "20260911-w2",
+          "tag": "auto",
+          "rating": "green",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-08-27",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNX1Vpazd0anVpQ0Z1MlFJclBBSnBVTHR3Q283QzRkeVdkbVp1bmtDMm5JOV9HcGxHWmZyaDVqV1piaWJLZ2o0RWszWmZNT0RwSWhyVDQ1c1RubmhuYXo4X3FVeVZPWDZXa2gtUjdkbFhsdUVNWmsySTRNd3M1VUpsZzNvcVBoc3hrUlVWOUh0cDJKQVB1WHg3YzRFalp6WHNSMWdNdVkzWWNWQ2xSaFVGSVJTbU9mS3ZkSzZ1WFJlVWl1ZFRqQThR?oc=5",
+          "title": "Why modularity is the real answer to manufacturing change",
+          "summary": "Automotive manufacturers are shifting toward modular production designs to quickly adapt to changing market demands.",
+          "why": "Modular manufacturing requires flexible, quick-change tooling and diverse surface conditioning options for varying metal parts.",
+          "action": "Ensure our abrasive product line includes quick-change discs and versatile options suited for modular production setups.",
+          "th": {
+            "title": "เหตุใดการผลิตแบบโมดูลาร์จึงเป็นคำตอบที่แท้จริงต่อความเปลี่ยนแปลง",
+            "summary": "ผู้ผลิตยานยนต์กำลังปรับเปลี่ยนไปสู่การออกแบบการผลิตแบบโมดูลาร์ เพื่อให้สามารถปรับตัวตามความต้องการของตลาดที่เปลี่ยนไปได้อย่างรวดเร็ว",
+            "why": "การผลิตแบบโมดูลาร์ต้องการเครื่องมือที่เปลี่ยนได้อย่างรวดเร็วและมีความยืดหยุ่นสูง รวมถึงตัวเลือกการเตรียมพื้นผิวที่หลากหลายสำหรับชิ้นส่วนโลหะที่แตกต่างกัน",
+            "action": "ตรวจสอบให้แน่ใจว่าสินค้ากลุ่มวัสดุขัดของเรามีแผ่นขัดแบบเปลี่ยนเร็วและตัวเลือกที่ยืดหยุ่นเหมาะกับสายการผลิตแบบโมดูลาร์"
+          }
+        },
+        {
+          "id": "20260911-w3",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "FinancialContent",
+          "date": "2026-03-27",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNREp0R2c5MDlEQnlKN0toMm9Ma1lDTmpzazZlUEtzWnpMOTR5NW1KUW5sd21hZzJpYWFVQ2ZfUFM5MTNyUjFlS3NleWFkUHgtSnlGM0ZkRHNjcEhIRF9ucHpEQUo2SzMxMzVVU3p4Skw1eHVrcVZfVWJMRmoyUmZqalRwWlRDelE3UmZuZ3N1WGN5R0JDV2VsLWlGenpqQ01Oc01IYmh0Ni1naG9kUFZLeVY5WUM0cWdDcjdTZjlpeHdWQXExVFl5cmE4ak9yWExkRlFKRkZrQnFiMTNKQzB5Y09COXFaYVM4R2xySmU3RWNXbElRT2lET3BnV3o1QQ?oc=5",
+          "title": "Industrial Metals Hit Multi-Year Highs: Aluminum and Steel Surge Amid Global Supply Constraints",
+          "summary": "Global aluminum and steel prices have surged to multi-year highs due to ongoing supply chain constraints.",
+          "why": "Higher metal input costs put pressure on metalworking and fabrication shops to minimize waste, increasing demand for durable, long-lasting abrasives.",
+          "action": "Market high-performance, long-life abrasives as a cost-saving solution for metal fabricators dealing with expensive raw materials.",
+          "th": {
+            "title": "โลหะอุตสาหกรรมพุ่งแตะระดับสูงสุดในรอบหลายปี: อลูมิเนียมและเหล็กกล้าพุ่งสูงท่ามกลางข้อจำกัดด้านอุปทานโลก",
+            "summary": "ราคารวมถึงอลูมิเนียมและเหล็กกล้าทั่วโลกพุ่งสูงแตะระดับสูงสุดในรอบหลายปี เนื่องจากข้อจำกัดด้านห่วงโซ่อุปทานที่ยังคงมีอยู่",
+            "why": "ต้นทุนวัตถุดิบโลหะที่สูงขึ้นสร้างแรงกดดันให้โรงงานแปรรูปโลหะต้องลดของเสียให้เหลือน้อยที่สุด ซึ่งช่วยเพิ่มความต้องการใช้วัสดุขัดที่มีความทนทานและใช้งานได้ยาวนาน",
+            "action": "ทำตลาดวัสดุขัดประสิทธิภาพสูงที่มีอายุการใช้งานยาวนาน เพื่อเป็นโซลูชันช่วยประหยัดต้นทุนสำหรับผู้ผลิตโลหะที่ต้องเผชิญกับวัตถุดิบราคาแพง"
+          }
+        },
+        {
+          "id": "20260911-w4",
+          "tag": "coating",
+          "rating": "green",
+          "source": "Fortune Business Insights",
+          "date": "2026-08-17",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXJjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
+          "title": "Automotive OEM Coatings Market Size, Share | Growth [2034]",
+          "summary": "The automotive OEM coatings market continues steady long-term growth, driven by vehicle production and advanced coating technologies.",
+          "why": "Surface preparation and sanding are critical pre-painting steps in automotive OEM plants to ensure flawless coating adhesion.",
+          "action": "Keep B2B clients informed about abrasive solutions that ensure optimal surface roughness for high-end automotive OEM coatings.",
+          "th": {
+            "title": "ขนาดและส่วนแบ่งตลาดสีเคลือบ OEM ยานยนต์ พร้อมแนวโน้มการเติบโตถึงปี 2034",
+            "summary": "ตลาดสีเคลือบ OEM สำหรับยานยนต์ยังคงเติบโตในระยะยาวอย่างต่อเนื่อง ขับเคลื่อนโดยการผลิตยานยนต์และเทคโนโลยีสีเคลือบขั้นสูง",
+            "why": "การเตรียมพื้นผิวและการขัดกระดาษทรายเป็นขั้นตอนสำคัญก่อนการพ่นสีในโรงงาน OEM ยานยนต์ เพื่อให้มั่นใจว่าสีเคลือบจะยึดเกาะได้อย่างไร้ที่ติ",
+            "action": "แจ้งข้อมูลแก่ลูกค้า B2B เกี่ยวกับโซลูชันวัสดุขัดที่ช่วยให้พื้นผิวมีความหยาบเหมาะสมที่สุดสำหรับงานสีเคลือบ OEM ยานยนต์ระดับไฮเอนด์"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-09-10",
       "summary": "Today's briefing features 3 key global signals covering EV assembly shifts, stainless steel powder markets, and automotive refinish coatings demand. These trends highlight ongoing surface preparation requirements across metal and automotive sectors.",
@@ -921,70 +1003,6 @@ window.WORLD_ARCHIVE = {
             "summary": "บทวิเคราะห์ตลาดเศษเหล็กทั่วโลกเผยถึงพลวัตด้านอุปทาน อุปสงค์ และการรีไซเคิลระยะยาวจนถึงปี 2036",
             "why": "กระบวนการแปรรูปและรีไซเคิลเศษเหล็กต้องใช้เครื่องมือตัดและขัดลบคมหนักๆ ซึ่งเป็นกลุ่มลูกค้าสำคัญของผลิตภัณฑ์ขัดถูอุตสาหกรรม",
             "action": "จับตาภาคอุตสาหกรรมรีไซเคิลโลหะ เนื่องจากเป็นตลาดผู้ใช้ที่มีความต้องการแผ่นตัดและใบเจียรขนาดใหญ่อย่างต่อเนื่อง"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-08-28",
-      "summary": "Today's briefing focuses on global manufacturing shifts, including Japan's automotive refinish market trends, European coatings sustainability and technology drivers, and Japanese automotive export dynamics.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปข่าววันนี้เน้นการเปลี่ยนแปลงในภาคการผลิตระดับโลก รวมถึงแนวโน้มตลาดเคลือบสีรถยนต์ซ่อมบำรุงในญี่ปุ่น ตัวขับเคลื่อนนวัตกรรมและความยั่งยืนของสารเคลือบในยุโรป และพลวัตการส่งออกยานยนต์ของญี่ปุ่น"
-      },
-      "items": [
-        {
-          "id": "20260828-w1",
-          "tag": "auto",
-          "rating": "green",
-          "source": "MarketsandMarkets",
-          "date": "2026-08-19",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdkJOZE5aa1UxdjhHU3JkOTgyTUNQTVBaZTgycTdwb18welRPT3ZOUUxWdHNjUkk1QU15Skh3anJLWkh1akNyNzEtX2ZBeGRqU21rRWh4TVpUeHNtSjQ5WFlhTDhnWU9WenlybzhDbFF0c0JQYkVDV3A3ZkhfSlJhN0EwQW5KV3VMOUhxejl5RQ?oc=5",
-          "title": "Japan Automotive Refinish Coatings Market Size, Share, Trends, Growth Analysis Report, 2030",
-          "summary": "MarketsandMarkets released a growth analysis report on the Japan automotive refinish coatings market, highlighting size, share, and trends extending toward 2030.",
-          "why": "Automotive refinish directly correlates with demand for high-performance sandpaper, masking supplies, and surface preparation abrasives used in body shops.",
-          "action": "Monitor Japanese automotive aftermarket specifications and preparation tool standards.",
-          "th": {
-            "title": "รายงานตลาดสีพ่นซ่อมรถยนต์ในประเทศญี่ปุ่น ขนาด ส่วนแบ่ง และแนวโน้มถึงปี 2030",
-            "summary": "MarketsandMarkets เผยแพร่รายงานวิเคราะห์การเติบโตของตลาดสีพ่นซ่อมรถยนต์ในญี่ปุ่น ครอบคลุมขนาด ส่วนแบ่ง และแนวโน้มถึงปี 2030",
-            "why": "งานซ่อมสีรถยนต์มีความเกี่ยวข้องโดยตรงกับความต้องการกระดาษทรายคุณภาพสูง วัสดุป้องกัน และกระดาษทรายขัดเตรียมพื้นผิวในอู่ซ่อมรถ",
-            "action": "ติดตามมาตรฐานสเปกสินค้าและเครื่องมือเตรียมพื้นผิวในตลาดหลังการขายรถยนต์ของญี่ปุ่น"
-          }
-        },
-        {
-          "id": "20260828-w2",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "Coatings World",
-          "date": "2025-12-10",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVDFJcHBGVXhXMm1MR1R0QkJ4VkNDdnZvcjh2bzJkX1hJYUdJQ1pyOFIxRzVPUXZGUDRheEVHaVhweG14Smk5Z3FCbjhadTM4RnIzLXkxMnBWX3p2UU4ya3dxNXFocWJWd1EyUHhjeEFOWGdwWW1LcllXTFdyUVNEMkxmRGdoblpuc2w5V2RNei0xZmM1S1p5bExhX1otTFBMY0RtbA?oc=5",
-          "title": "Innovation and Technology to Drive Future of European Market",
-          "summary": "An industry report emphasizes how technological advancements and innovation are shaping the future trajectory of the European coatings market.",
-          "why": "New coating formulations often change surface hardness and finishing requirements, shifting what kind of abrasives are needed.",
-          "action": "Stay updated on European coating technology shifts that alter workpiece surface textures.",
-          "th": {
-            "title": "นวัตกรรมและเทคโนโลยีขับเคลื่อนอนาคตของตลาดในยุโรป",
-            "summary": "รายงานอุตสาหกรรมเน้นย้ำถึงความสำคัญของความก้าวหน้าทางเทคโนโลยีและนวัตกรรมที่มีผลต่อทิศทางอนาคตของตลาดสารเคลือบในยุโรป",
-            "why": "สูตรสารเคลือบใหม่ๆ มักเปลี่ยนความแข็งของพื้นผิวและความต้องการในการขัดแต่ง ซึ่งส่งผลต่อประเภทของกระดาษทรายที่ต้องใช้",
-            "action": "ติดตามการเปลี่ยนแปลงทางเทคโนโลยีสารเคลือบในยุโรปที่ส่งผลต่อพื้นผิวชิ้นงาน"
-          }
-        },
-        {
-          "id": "20260828-w3",
-          "tag": "auto",
-          "rating": "green",
-          "source": "TradeImeX",
-          "date": "2026-05-18",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNejI0ZkM0YWY5bm9Ca3VMb2szR0NCeGZPM3pPdHVrVG1oeVVQYlVyQWFLRUJJNnl2X1dhQnNQamlHOGk5SDdvTFJ4MGo5MWViaTdTN1VoSmFJRFlmdXVROWZuMmJkcy10UkZCWTJ4MkJVUjluWmRDRDV3Rks4QVNURVdRQlVSQmF0aFFnRnFiRzg2SmQtTURfT244eHNReE5aLUtn?oc=5",
-          "title": "Japan Car Export Database 2025: Japan Car Exports by Country & Car Production Data",
-          "summary": "A comprehensive database tracking Japanese car export data and production volumes across various destination countries.",
-          "why": "Japanese auto manufacturing and export volumes heavily influence regional supply chains for metal parts, stamping, and finishing abrasives.",
-          "action": "Keep track of Japanese OEM production volumes in Asia to anticipate metal component sanding demand.",
-          "th": {
-            "title": "ฐานข้อมูลการส่งออกรถยนต์ของญี่ปุ่นปี 2025: ข้อมูลการส่งออกตามประเทศและปริมาณการผลิต",
-            "summary": "ฐานข้อมูลที่รวบรวมและติดตามข้อมูลการส่งออกรถยนต์และปริมาณการผลิตของญี่ปุ่นไปยังประเทศต่างๆ",
-            "why": "ปริมาณการผลิตและการส่งออกยานยนต์ของญี่ปุ่นส่งผลอย่างมากต่อห่วงโซ่อุปทานชิ้นส่วนโลหะ การปั๊มขึ้นรูป และวัสดุขัดแต่งผิวในภูมิภาค",
-            "action": "ติดตามปริมาณการผลิตของค่ายรถยนต์ญี่ปุ่นในเอเชียเพื่อคาดการณ์ความต้องการใช้วัสดุขัดโลหะ"
           }
         }
       ]
