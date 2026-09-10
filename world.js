@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-09-10",
-      "summary": "Today's global briefing focuses on advanced automotive manufacturing shifts, digital and AI transformation in production lines, and the ongoing stabilization of the global steel market. These trends indicate evolving requirements for precision surface preparation and high-durability finishing tools.",
+      "summary": "Today's briefing features 3 key global signals covering EV assembly shifts, stainless steel powder markets, and automotive refinish coatings demand. These trends highlight ongoing surface preparation requirements across metal and automotive sectors.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปข้อมูลเชิงลึกระดับโลกประจำวันนี้เน้นการเปลี่ยนแปลงในอุตสาหกรรมการผลิตยานยนต์ การนำAIและระบบดิจิทัลมาใช้ในสายการผลิต และเสถียรภาพของตลาดเหล็กโลก ซึ่งบ่งชี้ถึงความต้องการที่เปลี่ยนไปสำหรับเครื่องมือเตรียมพื้นผิวและขัดแต่งที่มีความแม่นยำสูง"
+        "summary": "สรุปประเด็นแนวโน้มโลกประจำวันนี้ 3 เรื่องสำคัญ ครอบคลุมการเปลี่ยนแปลงในสายการผลิต EV ตลาดผงสแตนเลส และความต้องการสีพ่นซ่อมรถยนต์ ซึ่งสะท้อนถึงความต้องการเตรียมพื้นผิวในภาคอุตสาหกรรมโลหะและยานยนต์อย่างต่อเนื่อง"
       },
       "items": [
         {
           "id": "20260910-w1",
           "tag": "auto",
-          "rating": "green",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-09-02",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUUpWSmpHLVowSXdiLUJqcFlpQ3ZfRmdQYjJiTVFCNk00ZW0tM0ZqenQtd2F4emNVNEdzT3Q3amZ3M050YnNuTldQZFQyTlgyX3ByekdEbkdlaURacG5yRlBUSEZucnBQalBmNzVadXVrSDdXcEd0d2t4UXptUzJ5dXZ6ckE1Q3RVV3IyUkY4SFdVSERveVJYem0yM3lNbWFUY1dXWHYyRFZ2cXdldWFqRmJTNE4tQ1RXWWp4N3NCN1h5Vmt3d3hEbkFPc2ZqT0k?oc=5",
-          "title": "A global AI manufacturing transformation at Hyundai Motor Group",
-          "summary": "Hyundai Motor Group is rolling out a comprehensive AI-driven manufacturing transformation, integrating smart automation and advanced robotics across its production facilities.",
-          "why": "Higher adoption of AI and robotics in auto manufacturing means factories will increasingly demand automated, precision-engineered abrasive tools and robot-compatible sanding heads.",
-          "action": "Monitor robotic sanding integration trends in automotive plants to prepare for automated consumable specifications.",
+          "rating": "amber",
+          "source": "marketsandmarkets.com",
+          "date": "2026-08-19",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWEhwQ2p3b3pNX0E1cGFWOGdvT2pLdGxXOFFLYWVnTS1zaXFnV0o4Nnl4cHFMQkE0RGFYdXFuekJaTVJ1U1Z0bGRJY1dTMk5hTEpVaWtMendld3NQb0ZtcmRWMFlHWlN2cUVKMUlmaE0zQy1aZ25STUlITUx1aTFTZ0w5X2c4TWxvMUhv?oc=5",
+          "title": "US Automotive Refinish Coatings Market Size, Share, Trends, Growth Analysis Report, 2030",
+          "summary": "The US automotive refinish coatings market is analyzed for growth trends and market size out to 2030, indicating steady demand in vehicle body repair and painting sectors.",
+          "why": "Body shop refinishing is a major end-user market for sanding discs, masking papers, and surface preparation abrasives.",
+          "action": "Monitor US and global refinish coating trends to anticipate demand for automotive sanding consumables.",
           "th": {
-            "title": "การเปลี่ยนแปลงการผลิตด้วย AI ระดับโลกที่ฮุนได มอเตอร์ กรุ๊ป",
-            "summary": "ฮุนได มอเตอร์ กรุ๊ป กำลังขับเคลื่อนการเปลี่ยนแปลงการผลิตด้วย AI อย่างเต็มรูปแบบ โดยบูรณาการระบบอัตโนมัติอัจฉริยะและหุ่นยนต์ขั้นสูงเข้ากับโรงงานผลิต",
-            "why": "การนำ AI และหุ่นยนต์มาใช้ในอุตสาหกรรมยานยนต์ที่เพิ่มขึ้น หมายความว่าโรงงานจะมีความต้องการเครื่องมือขัดที่มีความแม่นยำสูงและหัวขัดที่รองรับระบบอัตโนมัติมากขึ้น",
-            "action": "ติดตามแนวโน้มการใช้งานระบบขัดด้วยหุ่นยนต์ในโรงงานยานยนต์เพื่อเตรียมความพร้อมสำหรับสเปกวัสดุสิ้นเปลืองแบบอัตโนมัติ"
+            "title": "ขนาดตลาดสีพ่นซ่อมรถยนต์ในสหรัฐฯ ส่วนแบ่ง แนวโน้ม รายงานการวิเคราะห์การเติบโต ปี 2030",
+            "summary": "ตลาดสีพ่นซ่อมรถยนต์ในสหรัฐฯ กำลังเติบโต ซึ่งบ่งบอกถึงความต้องการที่มั่นคงในภาคการซ่อมแซมและทำสีตัวถังรถยนต์",
+            "why": "อู่ซ่อมสีรถยนต์เป็นตลาดผู้ใช้หลักสำหรับแผ่นขัดกระดาษทราย แผ่นขัดลบรอย และวัสดุสิ้นเปลืองสำหรับการเตรียมพื้นผิว",
+            "action": "ติดตามแนวโน้มสีพ่นซ่อมรถยนต์ทั่วโลกเพื่อคาดการณ์ความต้องการใช้วัสดุขัดกระดาษทรายในกลุ่มยานยนต์"
           }
         },
         {
           "id": "20260910-w2",
           "tag": "steel",
           "rating": "amber",
-          "source": "FinancialContent",
-          "date": "2026-03-27",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNREp0R2c5MDlEQnlKN0toMm9Ma1lDTmpzazZlUEtzWnpMOTR5NW1KUW5sd21hZzJpYWFVQ2ZfUFM5MTNyUjFlS3NleWFkUHgtSnlGM0ZkRHNjcEhIRF9ucHpEQUo2SzMxMzVVU3p4Skw1eHVrcVZfVWJMRmoyUmZqalRwWlRDelE3UmZuZ3N1WGN5R0JDV2VsLWlGenpqQ01Oc01IYmh0Ni1naG9kUFZLeVY5WUM0cWdDcjdTZjlpeHdWQXExVFl5cmE4ak9yWExkRlFKRkZrQnFiMTNKQzB5Y09COXFaYVM4R2xySmU3RWNXbElRT2lET3BnV3o1QQ?oc=5",
-          "title": "Industrial Metals Hit Multi-Year Highs: Aluminum and Steel Surge Amid Global Supply Constraints",
-          "summary": "Industrial metals, including aluminum and steel, have surged to multi-year highs due to persistent global supply chain constraints and trade policies.",
-          "why": "Higher metal pricing and supply tightness directly affect fabrication costs and surface treatment requirements for heavy metal processing industries.",
-          "action": "Keep an eye on metal processing input costs and adjust product positioning for heavy-duty grinding and deburring solutions.",
+          "source": "marketsandmarkets.com",
+          "date": "2025-12-03",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVXVYZWVHaDBhMjdYc1BFRjVnV01BWUJZZnBNd1FESWpfanVMUVFaZkxUNGYzT0VVX3ZvT0dGSVpMTmRNRVBpRjNQZ3QyWU5jM0MxQmhLZVQ1cTJsbF9LNGV2aGZpaVdZb0NrWndDWFZJZ0g4V2dTY1NkNU5Hd3NhZmx0dmNtYktWWHM5LXlfYVlxRnlNQVgyag?oc=5",
+          "title": "Stainless Steel Powder Market Report 2025-2030",
+          "summary": "A comprehensive market report detailing the growth of stainless steel powders through 2030, driven by advanced manufacturing and industrial applications.",
+          "why": "Stainless steel powder processing and parts finishing require specialized deburring, tumbling, and fine abrasive media.",
+          "action": "Keep an eye on powder metallurgy and additive manufacturing trends for emerging metal finishing needs.",
           "th": {
-            "title": "โลหะอุตสาหกรรมแตะระดับสูงสุดในรอบหลายปี: อลูมิเนียมและเหล็กพุ่งสูงท่ามกลางข้อจำกัดด้านอุปทานโลก",
-            "summary": "โลหะอุตสาหกรรม รวมถึงอลูมิเนียมและเหล็ก ปรับตัวสูงขึ้นแตะระดับสูงสุดในรอบหลายปีเนื่องจากข้อจำกัดด้านห่วงโซ่อุปทานและนโยบายการค้า",
-            "why": "ราคาทะยานขึ้นและอุปทานโลหะที่ตึงตัวส่งผลกระทบโดยตรงต่อต้นทุนการแปรรูปและความต้องการในการเตรียมพื้นผิวสำหรับอุตสาหกรรมโลหะหนัก",
-            "action": "ติดตามต้นทุนวัตถุดิบในการแปรรูปโลหะและปรับตำแหน่งผลิตภัณฑ์สำหรับโซลูชันการเจียรและลบคมงานหนัก"
+            "title": "รายงานตลาดผงสแตนเลส ปี 2025-2030",
+            "summary": "รายงานตลาดที่ให้รายละเอียดการเติบโตของผงสแตนเลสถึงปี 2030 ซึ่งขับเคลื่อนโดยการผลิตขั้นสูงและการใช้งานทางอุตสาหกรรม",
+            "why": "กระบวนการผลิตชิ้นส่วนจากผงสแตนเลสและการตกแต่งผิวต้องการวัสดุขัดและอุปกรณ์ลบคมที่มีความเฉพาะเจาะจง",
+            "action": "จับตาดูแนวโน้มโลหะวิทยาแบบผงและการผลิตแบบเพิ่มเนื้อวัสดุสำหรับความต้องการขัดแต่งผิวโลหะใหม่ๆ"
           }
         },
         {
           "id": "20260910-w3",
           "tag": "auto",
-          "rating": "green",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-08-27",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNX1Vpazd0anVpQ0Z1MlFJclBBSnBVTHR3Q283QzRkeVdkbVp1bmtDMm5JOV9HcGxHWmZyaDVqV1piaWJLZ2o0RWszWmZNT0RwSWhyVDQ1c1RubmhuYXo4X3FVeVZPWDZXa2gtUjdkbFhsdUVNWmsySTRNd3M1VUpsZzNvcVBoc3hrUlVWOUh0cDJKQVB1WHg3YzRFalp6WHNSMWdNdVkzWWNWQ2xSaFVGSVJTbU9mS3ZkSzZ1WFJlVWl1ZFRqQThR?oc=5",
-          "title": "Why modularity is the real answer to manufacturing change",
-          "summary": "Automotive manufacturing is shifting toward highly modular production systems to adapt rapidly to vehicle platform changes and custom designs.",
-          "why": "Modular manufacturing alters tooling layouts and surface finishing setups, requiring more flexible and quick-change abrasive products.",
-          "action": "Promote quick-change abrasive systems (such as quick-change discs) that suit flexible, modular assembly lines.",
+          "rating": "amber",
+          "source": "Benchmark Mineral Intelligence",
+          "date": "2026-01-15",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4bTlDdk1Pc2dKcFVvMm1SakpQMkJxNmxxRTZxbVpIeF9jQ0VTRmxOZWY3cWxZWWlSaVhuNnplZlVBZnMzbmdldU56WWdndFpMWGdQa0U5UXpxeW9aTlJia3FLY3BleE5n?oc=5",
+          "title": "Nickel: Battery-Grade Supply, LME Prices & Market Analysis",
+          "summary": "An analysis of battery-grade nickel supply and London Metal Exchange pricing trends impacting the broader EV manufacturing chain.",
+          "why": "Nickel is a critical metal for EV batteries, influencing stainless steel production and metal fabrication supply chains that require grinding and finishing.",
+          "action": "Track raw metal pricing trends as an indicator of broader manufacturing cost pressures in the metal sector.",
           "th": {
-            "title": "เหตุใดความยืดหยุ่นแบบโมดูลาร์จึงเป็นคำตอบที่แท้จริงสำหรับการเปลี่ยนแปลงการผลิต",
-            "summary": "การผลิตยานยนต์กำลังเปลี่ยนไปสู่ระบบการผลิตแบบโมดูลาร์ขั้นสูง เพื่อให้สามารถปรับตัวได้อย่างรวดเร็วต่อการเปลี่ยนแปลงแพลตฟอร์มยานยนต์และการออกแบบที่หลากหลาย",
-            "why": "การผลิตแบบโมดูลาร์เปลี่ยนรูปแบบเครื่องมือและการตั้งค่าการขัดผิว ซึ่งต้องใช้ผลิตภัณฑ์กระดาษทรายที่มีความยืดหยุ่นและเปลี่ยนได้อย่างรวดเร็ว",
-            "action": "โปรโมตระบบกระดาษทรายและแผ่นขัดแบบเปลี่ยนเร็ว (Quick-change discs) ที่ตอบโจทย์สายการผลิตแบบโมดูลาร์ที่ยืดหยุ่น"
+            "title": "นิกเกิล: อุปทานเกรดแบตเตอรี่ ราคา LME และการวิเคราะห์ตลาด",
+            "summary": "การวิเคราะห์อุปทานนิกเกิลเกรดแบตเตอรี่และแนวโน้มราคาตลาดโลหะลอนดอนที่ส่งผลกระทบต่อห่วงโซ่การผลิต EV โดยรวม",
+            "why": "นิกเกิลเป็นโลหะสำคัญสำหรับแบตเตอรี่ EV ซึ่งส่งผลต่อการผลิตสแตนเลสและห่วงโซ่อุปทานงานโลหะที่ต้องใช้กระบวนการเจียรและตกแต่งผิว",
+            "action": "ติดตามแนวโน้มราคาโลหะดิบเพื่อใช้เป็นตัวชี้วัดแรงกดดันด้านต้นทุนการผลิตในภาคอุตสาหกรรมโลหะ"
           }
         }
       ]
