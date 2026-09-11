@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-09-11",
+  "updated": "2026-09-12",
   "days": [
+    {
+      "date": "2026-09-12",
+      "summary": "Today's briefing features 3 key global signals covering specialized abrasive applications in electronics, evolving coating innovations in Europe, and structural shifts in global steel manufacturing.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปข้อมูลแนวโน้มโลกประจำวันนี้ประกอบด้วยสัญญาณสำคัญ 3 ประเด็น ได้แก่ การใช้งานกระดาษทรายและตาข่ายขัดในอุตสาหกรรมอิเล็กทรอนิกส์ นวัตกรรมสารเคลือบในยุโรป และการเปลี่ยนแปลงโครงสร้างอุตสาหกรรมเหล็กโลก"
+      },
+      "items": [
+        {
+          "id": "20260912-w1",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-09-10",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZDJqd2xKZGF5aVhTN1NIQUh5Q3RIUEk0M2o1dzlkLXBsVDZIbXdwSFNqQ2ZEV0YtUEF2bElKN0pIcmZ3Tzk5TE1uTUQyNm9kNWxma1NkXzJvWjRCUnNWN2FjUnZFQ0ZlcFRnSjdDYW5QWGlWdVJtdVFVVjV0X3JmSGE5ZTRKR0N4S2Q4c2haLUpydEltcXVTNXFQUE9DLVh0QWFxQUtCX0NfT2dQeXgzdW01NTQzbWpJWmZiT0EtZHhMQTN1N29J?oc=5",
+          "title": "Sanding Screen Mesh Market to Accelerate on Electronics and Semiconductor Finishing Demand by 2035",
+          "summary": "The demand for sanding screen mesh is projected to accelerate significantly, driven by precise finishing requirements in electronics and semiconductor manufacturing.",
+          "why": "Signals a high-growth niche for specialized sanding mesh products beyond traditional wood and automotive uses, pointing toward high-tech component manufacturing.",
+          "action": "Explore high-precision screen mesh products suitable for electronics or delicate substrate finishing.",
+          "th": {
+            "title": "ตลาดตาข่ายขัด (Sanding Screen Mesh) เติบโตตามความต้องการตกแต่งผิวในอุตสาหกรรมอิเล็กทรอนิกส์และเซมิคอนดักเตอร์ถึงปี 2035",
+            "summary": "ความต้องการใช้ตาข่ายขัดผิวคาดว่าจะเติบโตอย่างรวดเร็ว โดยได้รับแรงหนุนจากความต้องการขัดตกแต่งผิวที่มีความแม่นยำสูงในกระบวนการผลิตอิเล็กทรอนิกส์และเซมิคอนดักเตอร์",
+            "why": "บ่งชี้ถึงตลาดเฉพาะกลุ่มที่มีการเติบโตสูงสำหรับผลิตภัณฑ์ตาข่ายขัดแบบพิเศษ นอกเหนือจากการใช้งานกับไม้และยานยนต์แบบเดิม โดยมุ่งสู่การผลิตชิ้นส่วนไฮเทค",
+            "action": "พิจารณาศึกษาและจัดหาผลิตภัณฑ์ตาข่ายขัดความแม่นยำสูงที่เหมาะสมกับการขัดผิวชิ้นส่วนอิเล็กทรอนิกส์หรือวัสดุที่มีความละเอียดอ่อน"
+          }
+        },
+        {
+          "id": "20260912-w2",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "European Coatings",
+          "date": "2026-06-04",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUDgzbkl5cWdzSnJwcGViRm5mVWNYTWllWVF6RENXM2dRbG84cTh6bFRXckpiYVZkMWRWZk5OWGZhTjZCdm9zTUpTLWJlUmhLR1BnUmhIUWJ3VUVSdW5WQ05tZjVnTmQ3Tld4RG5rbVdKNEJrblFzNlE0NFZyRWw3SEZ1RWdES2pzYndyWnZPOVgyRzB4YTBGT0NOZDU4ZDdnejhFRHpMYkQ2T1ZX?oc=5",
+          "title": "ETCC 2026 in Prague: A hub for coatings innovation and sustainability",
+          "summary": "The European Technical Coatings Congress highlighted cutting-edge developments in sustainable coating materials, digital processing, and advanced surface technologies.",
+          "why": "New coating formulations directly impact how surfaces react to preparation, sanding, and deburring processes.",
+          "action": "Monitor European coating formulation trends to anticipate changes in substrate hardness and surface prep requirements.",
+          "th": {
+            "title": "งานประชุม ETCC 2026 ในกรุงปราก: ศูนย์กลางนวัตกรรมและความยั่งยืนด้านสารเคลือบ",
+            "summary": "การประชุมเทคโนโลยีสารเคลือบแห่งยุโรปได้เน้นย้ำถึงการพัฒนาล้ำสมัยในด้านวัสดุเคลือบที่เป็นมิตรต่อสิ่งแวดล้อม กระบวนการดิจิทัล และเทคโนโลยีพื้นผิวขั้นสูง",
+            "why": "สูตรสารเคลือบใหม่ๆ ส่งผลโดยตรงต่อลักษณะการเตรียมพื้นผิว การขัดกระดาษทราย และกระบวนการลบคม",
+            "action": "ติดตามแนวโน้มสูตรสารเคลือบจากยุโรปเพื่อคาดการณ์การเปลี่ยนแปลงของความแข็งผิวชิ้นงานและความต้องการในการเตรียมพื้นผิว"
+          }
+        },
+        {
+          "id": "20260912-w3",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "SMM Metal",
+          "date": "2026-05-19",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMmw1akRRMFZCQ2I5NGhHdE1NOXhoaE1GY0h5UmxlQVNUVGxHTko2U0NBQ0o0Q19ZYmZ1VnBCTTB6a2JJQTFNOUpDSUtpWXdaR3hkeGhlOXF4dF9yUElCd1ZkWTl4MmZGOWhVeUlXc2VCMXFCOHQzZ0ZGZ1RtZ3p6aUNObEczWFhKMkdKQ3JuRWF5SjVNZmpOQVBaSGs4TWJKS1lVa0VTdmoxdDBQTF8zRDlxME1qeEtOUzJzSTBERURobWltWTlVUlpaZ3d2WlFRNEY1b0UwbVVfLXc0cXBZ?oc=5",
+          "title": "[SMM Global Steel Company Special] Nucor: 100% EAF, High Profits, and Vertical Integration Mitigating Costs",
+          "summary": "An analysis of Nucor highlights how 100% Electric Arc Furnace (EAF) operations and vertical integration help steelmakers manage costs amid fluctuating global markets.",
+          "why": "EAF steel production and structural metal processing drive consistent local demand for heavy-duty grinding wheels, cutting discs, and metal deburring abrasives.",
+          "action": "Keep close ties with local structural steel and metal fabrication customers using electric arc or secondary processing.",
+          "th": {
+            "title": "[รายงานพิเศษเหล็กโลก] Nucor: เตาหลอมไฟฟ้า 100% กำไรสูง และการบูรณาการในแนวดิ่งเพื่อลดต้นทุน",
+            "summary": "บทวิเคราะห์ Nucor เน้นย้ำว่าการใช้เตาหลอมไฟฟ้า (EAF) 100% และการบูรณาการทางธุรกิจช่วยให้ผู้ผลิตเหล็กบริหารจัดการต้นทุนท่ามกลางตลาดโลกที่ผันผวน",
+            "why": "การผลิตเหล็กด้วยเตา EAF และอุตสาหกรรมแปรรูปโลหะสร้างความต้องการใช้อุปกรณ์ขัด หินเจียร ใบตัด และผลิตภัณฑ์ลบคมโลหะอย่างต่อเนื่องในตลาด",
+            "action": "รักษาความสัมพันธ์ที่ใกล้ชิดกับลูกค้ากลุ่มอุตสาหกรรมโครงสร้างเหล็กและการแปรรูปโลหะที่ใช้เตาหลอมไฟฟ้าหรือกระบวนการแปรรูปขั้นรอง"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-09-11",
       "summary": "Today's briefing focuses on automotive manufacturing shifts, industrial robotics automation, and structural metal market conditions impacting surface finishing and abrasives demand globally.",
@@ -920,71 +984,6 @@ window.WORLD_ARCHIVE = {
             "summary": "ภาคส่วนเหล็กทั่วโลกกำลังเผชิญกับความท้าทายจากกำลังการผลิตส่วนเกิน ความผันผวนของอุปทาน และลัทธิคุ้มครองทางการค้าที่เพิ่มขึ้น",
             "why": "ปริมาณการผลิตเหล็กและอัตราการเดินเครื่องของโรงงานส่งผลโดยตรงต่อความต้องการล้อเจียร สายพานขัด และใบตัดในภาคอุตสาหกรรมหนัก",
             "action": "ติดตามการเปลี่ยนแปลงของปริมาณการผลิตเหล็กในระดับภูมิภาคเพื่อคาดการณ์ความต้องการผลิตภัณฑ์ขัดในอุตสาหกรรมหนัก"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-08-29",
-      "summary": "Today's briefing highlights niche high-growth segments in abrasives—specifically abrasive sponges driven by electronics—alongside global coating additive trends and steel/metal market adjustments.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปทิศทางโลกวันนี้เน้นไปที่กลุ่มผลิตภัณฑ์ขัดถูที่มีอัตราเติบโตสูง เช่น ฟองน้ำขัดที่ขับเคลื่อนโดยอุตสาหกรรมอิเล็กทรอนิกส์ พร้อมด้วยแนวโน้มสารเติมแต่งสารเคลือบและตลาดเหล็ก"
-      },
-      "items": [
-        {
-          "id": "20260829-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-08-27",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZVNoQXZTcE5rVFdTaVAtc2pzYXA4bDJhUW1yNWd5RllQcTJMQ0xBN0ozandZMFZERUxfWUVRNU9odHV3RkVFUDNhejBkYy1KVVJmZlBsVXdQTG9qOU9Dck1yLUx2dmd2YWZ4Um80SWdTMzhIeF9DeVZiQzJ1QWRWWG45YmxvOFR1QVpEcHNld0ZvTE91dVZ2dm04dURCRVJ4bmZMZTVsYUtLVXFBenNJeFV4aUxBNkJqeUtOQjdINFpkdw?oc=5",
-          "title": "Abrasive Sponges Market to Hit 5.2% CAGR Through 2035 as Electronics Sector Drives 28% of Demand",
-          "summary": "The global abrasive sponges market is expanding steadily at a 5.2% CAGR through 2035, with the electronics sector alone accounting for 28% of overall demand.",
-          "why": "Highlights strong growth in fine-finishing tools for electronics, signaling an expanding opportunity for specialized sponge abrasives beyond traditional metal and wood sectors.",
-          "action": "Consider expanding product lines or stock for high-precision abrasive sponges catering to electronics and delicate surface finishing.",
-          "th": {
-            "title": "ตลาดฟองน้ำขัด (Abrasive Sponges) คาดเติบโตต่อเนื่อง CAGR 5.2% ถึงปี 2035 โดยมีภาคอิเล็กทรอนิกส์ครองส่วนแบ่งถึง 28%",
-            "summary": "ตลาดฟองน้ำขัดทั่วโลกกำลังขยายตัวอย่างมั่นคง โดยภาคอุตสาหกรรมอิเล็กทรอนิกส์เป็นแรงขับเคลื่อนสำคัญถึง 28% ของความต้องการทั้งหมด",
-            "summary_th": "ตลาดฟองน้ำขัดทั่วโลกกำลังขยายตัวอย่างมั่นคง โดยภาคอุตสาหกรรมอิเล็กทรอนิกส์เป็นแรงขับเคลื่อนสำคัญถึง 28% ของความต้องการทั้งหมด",
-            "why": "ชี้ให้เห็นถึงความต้องการที่เติบโตในกลุ่มเครื่องมือขัดแต่งผิวละเอียดสำหรับอิเล็กทรอนิกส์ ซึ่งเป็นโอกาสขยายตลาดฟองน้ำขัด นอกเหนือจากงานโลหะและไม้แบบเดิม",
-            "action": "พิจารณาเพิ่มสต็อกหรือขยายกลุ่มสินค้าฟองน้ำขัดที่มีความละเอียดสูง เพื่อรองรับงานอุตสาหกรรมอิเล็กทรอนิกส์และการเตรียมผิวชิ้นงานประณีต"
-          }
-        },
-        {
-          "id": "20260829-w2",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "MarketsandMarkets",
-          "date": "2026-08-26",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPenQzOERhX0ozYmFCcFpBeHBXRlh1Wi12MGdKenJWdVVSSXU0VmRqNnF6VE9qVDJDNUpYTmFlRWxhSm1JZVdkZUdVU0hydm5fX19QQU5VQ0FvZzNUV1NRZ1BwVTFmeHRpdFJKUFFTa0V4UEFjZzhSYkYyY1JZTE1jU0k4d3RTejZrZmlTOHdJY2dLbHc?oc=5",
-          "title": "China Coating Additives Market Size, Share, Trends, Growth Analysis Report, 2029",
-          "summary": "A new market analysis details the growth trajectory and trends of China's coating additives market up to 2029.",
-          "why": "Coating and surface finishing chemicals go hand in hand with abrasive prep; shifts in coating formulations often change how surfaces are prepped and sanded.",
-          "action": "Monitor trends in specialty coatings to understand future surface preparation and sanding requirements.",
-          "th": {
-            "title": "รายงานวิเคราะห์แนวโน้มและขนาดตลาดสารเติมแต่งสารเคลือบในประเทศจีนถึงปี 2029",
-            "summary": "รายงานการวิเคราะห์ตลาดใหม่แสดงให้เห็นถึงทิศทางการเติบโตและแนวโน้มของตลาดสารเติมแต่งสารเคลือบในประเทศจีนจนถึงปี 2029",
-            "why": "สารเคลือบและการเตรียมผิวมีความเกี่ยวข้องกันอย่างใกล้ชิด การเปลี่ยนแปลงของสูตรสารเคลือบมักส่งผลต่อวิธีการเตรียมพื้นผิวและการขัดกระดาษทราย",
-            "action": "ติดตามแนวโน้มของสารเคลือบพิเศษเพื่อคาดการณ์ความต้องการใหม่ๆ ในขั้นตอนการเตรียมและขัดแต่งพื้นผิว"
-          }
-        },
-        {
-          "id": "20260829-w3",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "Fact.MR",
-          "date": "2026-04-13",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QdlVWYkhUUHFMQ042anhjZWhnN25NSnZfX2F3QU1IVnpHdHVIeWpSS2R0RnVCQjBHVVgwQjhTR21WeThVSF9Td2p5LUxpN3dKekd0UXJpdHMxWENF?oc=5",
-          "title": "Steel Scrap Market, Global Market Analysis Report - 2036",
-          "summary": "Global analysis on the steel scrap market outlines long-term supply, demand, and recycling dynamics extending toward 2036.",
-          "why": "Steel scrap processing and recycling require heavy deburring, cutting, and surface grinding tools, representing an important end-user segment for industrial abrasives.",
-          "action": "Keep an eye on metal recycling operations as a steady industrial consumer for heavy-duty grinding discs and cut-off wheels.",
-          "th": {
-            "title": "รายงานวิเคราะห์ตลาดเศษเหล็กโลก มองการณ์ไกลถึงปี 2036",
-            "summary": "บทวิเคราะห์ตลาดเศษเหล็กทั่วโลกเผยถึงพลวัตด้านอุปทาน อุปสงค์ และการรีไซเคิลระยะยาวจนถึงปี 2036",
-            "why": "กระบวนการแปรรูปและรีไซเคิลเศษเหล็กต้องใช้เครื่องมือตัดและขัดลบคมหนักๆ ซึ่งเป็นกลุ่มลูกค้าสำคัญของผลิตภัณฑ์ขัดถูอุตสาหกรรม",
-            "action": "จับตาภาคอุตสาหกรรมรีไซเคิลโลหะ เนื่องจากเป็นตลาดผู้ใช้ที่มีความต้องการแผ่นตัดและใบเจียรขนาดใหญ่อย่างต่อเนื่อง"
           }
         }
       ]
