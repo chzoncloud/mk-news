@@ -4,10 +4,10 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-09-12",
-      "summary": "Today's briefing features 3 key global signals covering specialized abrasive applications in electronics, evolving coating innovations in Europe, and structural shifts in global steel manufacturing.",
+      "summary": "Today's briefing features 3 fresh global signals highlighting growth in high-precision sanding meshes for electronics, regional coatings market shifts, and AI integration in manufacturing, offering direct insights for surface finishing and industrial strategy.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปข้อมูลแนวโน้มโลกประจำวันนี้ประกอบด้วยสัญญาณสำคัญ 3 ประเด็น ได้แก่ การใช้งานกระดาษทรายและตาข่ายขัดในอุตสาหกรรมอิเล็กทรอนิกส์ นวัตกรรมสารเคลือบในยุโรป และการเปลี่ยนแปลงโครงสร้างอุตสาหกรรมเหล็กโลก"
+        "summary": "สรุปสถานการณ์โลกประจำวันนี้มี 3 สัญญาณสำคัญ ได้แก่ การเติบโตของตาข่ายขัดกระดาษทรายสำหรับงานอิเล็กทรอนิกส์ การเปลี่ยนแปลงของตลาดเคลือบผิวภูมิภาค และการนำAIมาใช้ในภาคการผลิต ซึ่งให้มุมมองที่เป็นประโยชน์ต่อธุรกิจขัดผิวและกลยุทธ์อุตสาหกรรม"
       },
       "items": [
         {
@@ -18,50 +18,50 @@ window.WORLD_ARCHIVE = {
           "date": "2026-09-10",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZDJqd2xKZGF5aVhTN1NIQUh5Q3RIUEk0M2o1dzlkLXBsVDZIbXdwSFNqQ2ZEV0YtUEF2bElKN0pIcmZ3Tzk5TE1uTUQyNm9kNWxma1NkXzJvWjRCUnNWN2FjUnZFQ0ZlcFRnSjdDYW5QWGlWdVJtdVFVVjV0X3JmSGE5ZTRKR0N4S2Q4c2haLUpydEltcXVTNXFQUE9DLVh0QWFxQUtCX0NfT2dQeXgzdW01NTQzbWpJWmZiT0EtZHhMQTN1N29J?oc=5",
           "title": "Sanding Screen Mesh Market to Accelerate on Electronics and Semiconductor Finishing Demand by 2035",
-          "summary": "The demand for sanding screen mesh is projected to accelerate significantly, driven by precise finishing requirements in electronics and semiconductor manufacturing.",
-          "why": "Signals a high-growth niche for specialized sanding mesh products beyond traditional wood and automotive uses, pointing toward high-tech component manufacturing.",
-          "action": "Explore high-precision screen mesh products suitable for electronics or delicate substrate finishing.",
+          "summary": "The global sanding screen mesh market is projected to grow significantly, driven by rising demand for high-precision finishing in electronics and semiconductor manufacturing.",
+          "why": "High-precision electronics and semiconductor manufacturing demand advanced mesh abrasives, opening high-value niches beyond traditional metal and wood sanding.",
+          "action": "Monitor high-precision mesh products and fine-grit capabilities for electronics and tech-sector finishing applications.",
           "th": {
-            "title": "ตลาดตาข่ายขัด (Sanding Screen Mesh) เติบโตตามความต้องการตกแต่งผิวในอุตสาหกรรมอิเล็กทรอนิกส์และเซมิคอนดักเตอร์ถึงปี 2035",
-            "summary": "ความต้องการใช้ตาข่ายขัดผิวคาดว่าจะเติบโตอย่างรวดเร็ว โดยได้รับแรงหนุนจากความต้องการขัดตกแต่งผิวที่มีความแม่นยำสูงในกระบวนการผลิตอิเล็กทรอนิกส์และเซมิคอนดักเตอร์",
-            "why": "บ่งชี้ถึงตลาดเฉพาะกลุ่มที่มีการเติบโตสูงสำหรับผลิตภัณฑ์ตาข่ายขัดแบบพิเศษ นอกเหนือจากการใช้งานกับไม้และยานยนต์แบบเดิม โดยมุ่งสู่การผลิตชิ้นส่วนไฮเทค",
-            "action": "พิจารณาศึกษาและจัดหาผลิตภัณฑ์ตาข่ายขัดความแม่นยำสูงที่เหมาะสมกับการขัดผิวชิ้นส่วนอิเล็กทรอนิกส์หรือวัสดุที่มีความละเอียดอ่อน"
+            "title": "ตลาดตาข่ายขัดกระดาษทรายเติบโตเร่งตัวจากความต้องการเก็บWผิวงานอิเล็กทรอนิกส์และเซมิคอนดักเตอร์ถึงปี 2035",
+            "summary": "ตลาดตาข่ายขัดทั่วโลกคาดว่าจะเติบโตอย่างมีนัยสำคัญ ขับเคลื่อนโดยความต้องการการขัดแต่งความแม่นยำสูงในอุตสาหกรรมอิเล็กทรอนิกส์และเซมิคอนดักเตอร์",
+            "why": "การผลิตอิเล็กทรอนิกส์และความแม่นยำสูงต้องการวัสดุขัดแบบตาข่ายขั้นสูง ซึ่งสร้างโอกาสในกลุ่มผลิตภัณฑ์ราคาสูงนอกเหนือจากการขัดโลหะและไม้ทั่วไป",
+            "action": "ติดตามผลิตภัณฑ์ตาข่ายความแม่นยำสูงและความสามารถในการขัดผิวละเอียดสำหรับงานอุตสาหกรรมอิเล็กทรอนิกส์และเทคโนโลยี"
           }
         },
         {
           "id": "20260912-w2",
           "tag": "coating",
           "rating": "amber",
-          "source": "European Coatings",
-          "date": "2026-06-04",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUDgzbkl5cWdzSnJwcGViRm5mVWNYTWllWVF6RENXM2dRbG84cTh6bFRXckpiYVZkMWRWZk5OWGZhTjZCdm9zTUpTLWJlUmhLR1BnUmhIUWJ3VUVSdW5WQ05tZjVnTmQ3Tld4RG5rbVdKNEJrblFzNlE0NFZyRWw3SEZ1RWdES2pzYndyWnZPOVgyRzB4YTBGT0NOZDU4ZDdnejhFRHpMYkQ2T1ZX?oc=5",
-          "title": "ETCC 2026 in Prague: A hub for coatings innovation and sustainability",
-          "summary": "The European Technical Coatings Congress highlighted cutting-edge developments in sustainable coating materials, digital processing, and advanced surface technologies.",
-          "why": "New coating formulations directly impact how surfaces react to preparation, sanding, and deburring processes.",
-          "action": "Monitor European coating formulation trends to anticipate changes in substrate hardness and surface prep requirements.",
+          "source": "MarketsandMarkets",
+          "date": "2026-08-13",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYjdlTDdLRTc1YUthZUx6b19yeVVGcllnck03bHcyQ0tWYmRNa2UzekxZbHBOZ3dESldJLU9kWDk3a0draWVIY1pVLV9RX3I5YW9scEdzQkMyTXF2VUd2cFZBemJXMlh5VGFOTGRsWEREYWpTeERQTGNlXzM3M01FMmh2RTN6dDdxTzZkUC1NbHNXdHdqQkk5Mg?oc=5",
+          "title": "GCC-Countries Paints & Coatings Market Size, Share, Trends, Growth Analysis Report, 2030",
+          "summary": "The paints and coatings market in GCC countries continues to expand steadily, driven by regional infrastructure projects and industrial development.",
+          "why": "Growth in regional coatings directly correlates with increased demand for surface preparation, pre-coating sanding, and finishing tools.",
+          "action": "Keep an eye on regional export destinations and industrial growth sectors requiring heavy-duty surface treatment.",
           "th": {
-            "title": "งานประชุม ETCC 2026 ในกรุงปราก: ศูนย์กลางนวัตกรรมและความยั่งยืนด้านสารเคลือบ",
-            "summary": "การประชุมเทคโนโลยีสารเคลือบแห่งยุโรปได้เน้นย้ำถึงการพัฒนาล้ำสมัยในด้านวัสดุเคลือบที่เป็นมิตรต่อสิ่งแวดล้อม กระบวนการดิจิทัล และเทคโนโลยีพื้นผิวขั้นสูง",
-            "why": "สูตรสารเคลือบใหม่ๆ ส่งผลโดยตรงต่อลักษณะการเตรียมพื้นผิว การขัดกระดาษทราย และกระบวนการลบคม",
-            "action": "ติดตามแนวโน้มสูตรสารเคลือบจากยุโรปเพื่อคาดการณ์การเปลี่ยนแปลงของความแข็งผิวชิ้นงานและความต้องการในการเตรียมพื้นผิว"
+            "title": "รายงานขนาด ส่วนแบ่ง และแนวโน้มตลาดสีและสารเคลือบผิวในกลุ่มประเทศ GCC ปี 2030",
+            "summary": "ตลาดสีและสารเคลือบผิวในกลุ่มประเทศ GCC ขยายตัวอย่างต่อเนื่อง ขับเคลื่อนโดยโครงการโครงสร้างพื้นฐานและการพัฒนาอุตสาหกรรมในภูมิภาค",
+            "why": "การเติบโตของตลาดเคลือบผิวเชื่อมโยงโดยตรงกับความต้องการที่เพิ่มขึ้นสำหรับงานเตรียมพื้นผิว การขัดก่อนเคลือบ และอุปกรณ์ตกแต่งผิว",
+            "action": "จับตาดูตลาดส่งออกภูมิภาคและกลุ่มอุตสาหกรรมที่มีการเติบโตซึ่งต้องการผลิตภัณฑ์เตรียมพื้นผิวงานหนัก"
           }
         },
         {
           "id": "20260912-w3",
-          "tag": "steel",
+          "tag": "auto",
           "rating": "amber",
-          "source": "SMM Metal",
-          "date": "2026-05-19",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMmw1akRRMFZCQ2I5NGhHdE1NOXhoaE1GY0h5UmxlQVNUVGxHTko2U0NBQ0o0Q19ZYmZ1VnBCTTB6a2JJQTFNOUpDSUtpWXdaR3hkeGhlOXF4dF9yUElCd1ZkWTl4MmZGOWhVeUlXc2VCMXFCOHQzZ0ZGZ1RtZ3p6aUNObEczWFhKMkdKQ3JuRWF5SjVNZmpOQVBaSGs4TWJKS1lVa0VTdmoxdDBQTF8zRDlxME1qeEtOUzJzSTBERURobWltWTlVUlpaZ3d2WlFRNEY1b0UwbVVfLXc0cXBZ?oc=5",
-          "title": "[SMM Global Steel Company Special] Nucor: 100% EAF, High Profits, and Vertical Integration Mitigating Costs",
-          "summary": "An analysis of Nucor highlights how 100% Electric Arc Furnace (EAF) operations and vertical integration help steelmakers manage costs amid fluctuating global markets.",
-          "why": "EAF steel production and structural metal processing drive consistent local demand for heavy-duty grinding wheels, cutting discs, and metal deburring abrasives.",
-          "action": "Keep close ties with local structural steel and metal fabrication customers using electric arc or secondary processing.",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-09-02",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUUpWSmpHLVowSXdiLUJqcFlpQ3ZfRmdQYjJiTVFCNk00ZW0tM0ZqenQtd2F4emNVNEdzT3Q3amZ3M050YnNuTldQZFQyTlgyX3ByekdEbkdlaURacG5yRlBUSEZucnBQalBmNzVadXVrSDdXcEd0d2t4UXptUzJ5dXZ6ckE1Q3RVV3IyUkY4SFdVSERveVJYem0yM3lNbWFUY1dXWHYyRFZ2cXdldWFqRmJTNE4tQ1RXWWp4N3NCN1h5Vmt3d3hEbkFPc2ZqT0k?oc=5",
+          "title": "A global AI manufacturing transformation at Hyundai Motor Group",
+          "summary": "Hyundai Motor Group is scaling a global AI and automation transformation across its manufacturing plants to boost efficiency and precision.",
+          "why": "Automotive manufacturing is rapidly automating, shifting the requirements for tooling, robotic sanding integration, and consistent surface finish quality.",
+          "action": "Study how automotive plants integrate AI and automation to align our product compatibility with automated grinding systems.",
           "th": {
-            "title": "[รายงานพิเศษเหล็กโลก] Nucor: เตาหลอมไฟฟ้า 100% กำไรสูง และการบูรณาการในแนวดิ่งเพื่อลดต้นทุน",
-            "summary": "บทวิเคราะห์ Nucor เน้นย้ำว่าการใช้เตาหลอมไฟฟ้า (EAF) 100% และการบูรณาการทางธุรกิจช่วยให้ผู้ผลิตเหล็กบริหารจัดการต้นทุนท่ามกลางตลาดโลกที่ผันผวน",
-            "why": "การผลิตเหล็กด้วยเตา EAF และอุตสาหกรรมแปรรูปโลหะสร้างความต้องการใช้อุปกรณ์ขัด หินเจียร ใบตัด และผลิตภัณฑ์ลบคมโลหะอย่างต่อเนื่องในตลาด",
-            "action": "รักษาความสัมพันธ์ที่ใกล้ชิดกับลูกค้ากลุ่มอุตสาหกรรมโครงสร้างเหล็กและการแปรรูปโลหะที่ใช้เตาหลอมไฟฟ้าหรือกระบวนการแปรรูปขั้นรอง"
+            "title": "การเปลี่ยนแปลงการผลิตด้วย AI ระดับโลกของกลุ่มบริษัทฮุนไดมอเตอร์",
+            "summary": "กลุ่มบริษัทฮุนไดมอเตอร์กำลังขยายผลการแปลงโฉมด้วย AI และระบบอัตโนมัติทั่วโลกในโรงงานผลิต เพื่อเพิ่มประสิทธิภาพและความแม่นยำ",
+            "why": "อุตสาหกรรมการผลิตยานยนต์กำลังเปลี่ยนผ่านสู่อัตโนมัติอย่างรวดเร็ว ซึ่งส่งผลต่อความต้องการเครื่องมือ การบูรณาการระบบขัดด้วยหุ่นยนต์ และคุณภาพผิวสำเร็จ",
+            "action": "ศึกษาแนวทางการผสานรวม AI และระบบอัตโนมัติของโรงงานรถยนต์ เพื่อปรับความเข้ากันได้ของผลิตภัณฑ์ให้รองรับระบบขัดอัตโนมัติ"
           }
         }
       ]
