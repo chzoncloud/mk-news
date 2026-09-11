@@ -2,6 +2,71 @@
 window.NEWS_ARCHIVE = {
   "days": [
     {
+      "date": "2026-09-12",
+      "summary": "News volume is limited today; key highlights center on Mexican auto manufacturing opening export avenues for Thai parts makers, alongside industrial groups pressing for strict SME local content in the upcoming EV tax framework.",
+      "directCount": 2,
+      "th": {
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยประเด็นสำคัญเน้นไปที่ยอดผลิตยานยนต์ในเม็กซิโกที่ช่วยเปิดตลาดส่งออกให้ผู้ผลิตชิ้นส่วนไทย รวมถึงภาคเอกชนที่เร่งผลักดันให้โครงสร้างภาษี EV ใหม่กระจายคำสั่งซื้อเข้าสู่ซัพพลายเชน SME ในประเทศ"
+      },
+      "items": [
+        {
+          "id": "20260912-1",
+          "tag": "auto",
+          "rating": "green",
+          "source": "ditp.go.th",
+          "date": "2026-09-10",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE55bUVLU2lqcFRhV0g4WkxtOHlmSGR1Mk9TM0Z5bzRwYU1EOG5iQUJEUHloNG5FTXZZSk1XaUdUdUFTVnE1OEZ5U2Y3QThOdWg3c0huLTM1YllLU0Z3REVXR2tn?oc=5",
+          "title": "Mexican Auto Production Hits 2.64M Units, Opening Export Opportunities for Thai Parts Makers",
+          "summary": "Mexican vehicle production reached 2.64 million units in the first eight months, solidifying its North American hub status and creating fresh export demand for Thai component suppliers.",
+          "why": "Surging export orders for Thai precision stamped and machined metal components directly increase factory demand for deburring, grinding, and surface-finishing abrasives.",
+          "action": "Target Thai export-oriented automotive parts manufacturers supplying North American platforms with high-durability grinding discs and deburring belts.",
+          "th": {
+            "title": "ยอดผลิตรถยนต์เม็กซิโก 8 เดือนแตะ 2.64 ล้านคัน เปิดโอกาสส่งออกชิ้นส่วนยานยนต์ไทย",
+            "summary": "ยอดผลิตรถยนต์ในเม็กซิโกช่วง 8 เดือนแรกแตะ 2.64 ล้านคัน ตอกย้ำการเป็นฐานผลิตหลักของอเมริกาเหนือ พร้อมเปิดโอกาสให้ผู้ผลิตชิ้นส่วนยานยนต์ไทยขยายตลาดส่งออก",
+            "why": "คำสั่งซื้อชิ้นส่วนโลหะและงานปั๊มขึ้นรูปส่งออกที่เพิ่มขึ้น กระตุ้นปริมาณการใช้วัสดุขัดลบครีบ เจียรแต่ง และเตรียมผิวโลหะในโรงงานไทยโดยตรง",
+            "action": "เร่งเข้าพบโรงงานผลิตชิ้นส่วนยานยนต์เพื่อการส่งออกกลุ่มตลาดอเมริกาเหนือ เพื่อนำเสนอจานขัดหยาบและสายพานผ้าทรายสำหรับงานลบคมความเร็วสูง"
+          }
+        },
+        {
+          "id": "20260912-2",
+          "tag": "auto",
+          "rating": "green",
+          "source": "สำนักข่าวอินโฟเควสท์",
+          "date": "2026-09-11",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10bjhPZ2dCSW1SeVYxeUd4OHotcGUxOXllVWFFSFlhY3dXbG1pRzBGNGhBbm9CQUhEcVViRHN5d1U4dFNJclV1VXRFbS0xVEpO?oc=5",
+          "title": "FTI Urges Auto Tax Overhaul to Connect EV Supply Chain Directly to Local SMEs",
+          "summary": "The Federation of Thai Industries backed the EV tax restructuring, urging policymakers to mandate supply chain integration so manufacturing orders flow to local SME component makers.",
+          "why": "Directly mandating SME participation in EV component manufacturing prevents local metal stamping, machining, and welding shops from losing factory production volume.",
+          "action": "Engage local Tier-2 and Tier-3 metal fabricators bidding for EV structural components to supply trial batches of non-woven abrasives and flap discs.",
+          "th": {
+            "title": "ส.อ.ท. หนุนปรับโครงสร้างภาษียานยนต์ ดึงลงทุนและเชื่อมซัพพลายเชนสู่ SMEs ไทย",
+            "summary": "สภาอุตสาหกรรมแห่งประเทศไทยสนับสนุนการปรับโครงสร้างภาษีสรรพสามิตรถยนต์ พร้อมจี้รัฐต้องผูกเงื่อนไขดึงการลงทุนเพื่อถ่ายทอดงานผลิตลงสู่ซัพพลายเชนระดับ SMEs ในประเทศ",
+            "why": "การผลักดันให้เกิดการจ้างงานผลิตชิ้นส่วนในกลุ่ม SME ช่วยปกป้องปริมาณงานตัด พับ ปั๊ม และเชื่อมโลหะ ทำให้เกิดการใช้วัสดุขัดในกลุ่มโรงงานระดับ Tier-2/Tier-3 อย่างต่อเนื่อง",
+            "action": "เข้าเจาะกลุ่มโรงงานแปรรูปโลหะและชิ้นส่วน Tier-2/Tier-3 ที่เตรียมรับงานโครงสร้าง EV เพื่อเสนอส่งตัวอย่างจานทรายซ้อนและใยสังเคราะห์ขัดเงาเข้าทดสอบ"
+          }
+        },
+        {
+          "id": "20260912-3",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "thaipbs.or.th",
+          "date": "2026-09-11",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5UWnpkOVRxUzRQMWR5dG55OC1qNTVoRGpWd0RDa2ZRSUpQb3lLMFBRQi14MG1ZOWtfQkx3MzVUa243ZXlNY2hSVVR1ZXZZak43cm5CZnNhUko?oc=5",
+          "title": "Thai Chamber of Commerce Endorses EV Board Policy to Strictly Mandate Local Content",
+          "summary": "The Thai Chamber of Commerce praised the EV Board's restructuring plan, emphasizing that excise discounts must be tightly linked to local content utilization to defend domestic suppliers.",
+          "why": "Enforcing high domestic content criteria pressures foreign EV assemblers to source localized metal and chassis parts instead of relying on imported semi-knocked-down kits.",
+          "action": "Track vendor nomination updates among Tier-1 chassis and battery casing suppliers to position MK abrasive belts before assembly lines ramp up.",
+          "th": {
+            "title": "หอการค้าไทยขานรับบอร์ด EV หนุนใช้มาตรการภาษีจูงใจดันสัดส่วน Local Content",
+            "summary": "หอการค้าไทยแสดงความเห็นชอบต่อนโยบายบอร์ด EV โดยย้ำว่าการลดหย่อนภาษีต้องผูกกับเงื่อนไขการใช้ชิ้นส่วนในประเทศอย่างเข้มงวดเพื่อปกป้องผู้ผลิตไทยจากการพึ่งพาการนำเข้า",
+            "why": "การบังคับใช้เกณฑ์ชิ้นส่วนในประเทศจะบีบให้ค่ายรถ EV ต่างชาติต้องจ้างผลิตชิ้นส่วนโครงสร้างและงานโลหะในไทย แทนการนำเข้าชิ้นงานสำเร็จรูป",
+            "action": "ติดตามการคัดเลือกซัพพลายเออร์ของผู้ผลิตชิ้นส่วนโครงสร้างและถาดแบตเตอรี่ EV เพื่อเสนอสายพานขัดของ MK เข้าสู่ไลน์การผลิตตั้งแต่ช่วงเริ่มแรก"
+          }
+        }
+      ],
+      "terms": {}
+    },
+    {
       "date": "2026-09-10",
       "summary": "Today has limited new developments, highlighted by aggressive policy proposals to penalize EV makers skipping Thai parts alongside steady momentum in aerospace MRO and furniture sectors. The threatened 31% EV tax penalty offers the most immediate upside for domestic metal stamping and grinding suppliers.",
       "directCount": 1,
@@ -583,5 +648,5 @@ window.NEWS_ARCHIVE = {
       "terms": {}
     }
   ],
-  "updated": "2026-09-10"
+  "updated": "2026-09-12"
 };
