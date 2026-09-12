@@ -4,10 +4,10 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-09-13",
-      "summary": "Today's global briefing highlights electronics-driven micro-surface preparation, EV automation shifts, and steel supply dynamics, signaling a continuing move toward precision finishing and automated manufacturing.",
+      "summary": "Today's briefing highlights shifts in precision surface prep for advanced tech, manufacturing transformations in automotive, and structural changes in the global steel market.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปทิศทางโลกประจำวันนี้เน้นย้ำเรื่องการเตรียมพื้นผิวไมโครสำหรับอุตสาหกรรมอิเล็กทรอนิกส์ การเปลี่ยนผ่านสู่ระบบอัตโนมัติในยานยนต์ไฟฟ้า และสถานการณ์อุปทานเหล็ก ซึ่งบ่งชี้ถึงความต้องการงานขัดที่แม่นยำและการผลิตแบบอัตโนมัติที่เพิ่มขึ้น"
+        "summary": "สรุปทิศทางโลกวันนี้เน้นการเตรียมพื้นผิวที่มีความแม่นยำสูงสำหรับเทคโนโลยีขั้นสูง การปรับเปลี่ยนการผลิตในอุตสาหกรรมยานยนต์ และการเปลี่ยนแปลงโครงสร้างตลาดเหล็กโลก"
       },
       "items": [
         {
@@ -18,50 +18,50 @@ window.WORLD_ARCHIVE = {
           "date": "2026-09-11",
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPM0IzU2FhMUZlR1lUSG1BY3VVdVZSaTVfVUxFeTJrV1VGazdzYURVUXZvN0VnTEdVYXEtbnRybGZkZ2FBUGotSHg2ejJfVDRQSld2Z3B1YU1mNjhxR0E2Mlg3eXdyT3ZCSjJSYXllN1lRSjByMXBKTVdHVlZ1WFBVZGhDZGVwM1ZpU3psc0dMTnZ4aUVnRVZDblFqOEMxUk9WVVFHVUlZN0lkSWF0X2JoSU5FWnRHeVNYTkJtMVVQZHBKMzNXTEQtZEJJZ09uQlpmcTNLdUdDdjY?oc=5",
           "title": "Tab Surface Preparation Abrasives Market Forecast to 2035: Advanced Packaging and Semiconductor Capacity Drive Growth",
-          "summary": "Advanced packaging and semiconductor manufacturing capacity are driving new demand for specialized surface preparation and micro-abrasives.",
-          "why": "Growth in semiconductor packaging requires ultra-precise surface prep, opening high-value niches for micro-abrasives beyond traditional metal and wood.",
-          "action": "Monitor high-precision, micro-finishing abrasive media used in electronic component manufacturing.",
+          "summary": "Demand for surface preparation abrasives is surging due to the expansion of advanced semiconductor packaging and electronic capacity.",
+          "why": "Signals strong high-margin growth in micro-abrasives and precision finishing tools used in semiconductor and electronics manufacturing.",
+          "action": "Monitor high-precision micro-abrasive lines tailored for electronics and advanced packaging applications.",
           "th": {
-            "title": "ตลาดวัสดุขัดเตรียมพื้นผิวอิเล็กทรอนิกส์คาดเติบโตถึงปี 2035: ขับเคลื่อนโดยบรรจุภัณฑ์ขั้นสูงและกำลังการผลิตเซมิคอนดักเตอร์",
-            "summary": "การผลิตบรรจุภัณฑ์ขั้นสูงและเซมิคอนดักเตอร์กำลังขับเคลื่อนความต้องการใหม่สำหรับวัสดุเตรียมพื้นผิวและวัสดุขัดขนาดไมโครเฉพาะทาง",
-            "why": "การเติบโตของบรรจุภัณฑ์เซมิคอนดักเตอร์ต้องใช้การเตรียมพื้นผิวที่มีความแม่นยำสูง สร้างโอกาสในกลุ่มผลิตภัณฑ์วัสดุขัดไมโครมูลค่าสูง นอกเหนือจากงานโลหะและไม้ทั่วไป",
-            "action": "ติดตามกลุ่มผลิตภัณฑ์วัสดุขัดและตกแต่งผิวความละเอียดสูงที่ใช้ในการผลิตชิ้นส่วนอิเล็กทรอนิกส์"
+            "title": "ตลาดวัสดุขัดเตรียมพื้นผิวเติบโตตามกำลังการผลิตบรรจุภัณฑ์ขั้นสูงและเซมิคอนดักเตอร์ถึงปี 2035",
+            "summary": "ความต้องการวัสดุขัดเพื่อเตรียมพื้นผิวพุ่งสูงขึ้นจากการขยายตัวของบรรจุภัณฑ์เซมิคอนดักเตอร์ขั้นสูงและกำลังการผลิตอิเล็กทรอนิกส์",
+            "why": "บ่งชี้ถึงการเติบโตที่มีอัตรากำไรสูงในกลุ่มผลิตภัณฑ์ไมAโครอะเบร시ฟและเครื่องมือขัดแต่งความละเอียดสูงสำหรับการผลิตอิเล็กทรอนิกส์",
+            "action": "ติดตามกลุ่มผลิตภัณฑ์วัสดุขัดขนาดไมครอนความแม่นยำสูงที่เหมาะสำหรับงานอิเล็กทรอนิกส์และบรรจุภัณฑ์ขั้นสูง"
           }
         },
         {
           "id": "20260913-w2",
-          "tag": "steel",
-          "rating": "green",
-          "source": "S&P Global",
-          "date": "2026-01-12",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
-          "title": "Global steel industry battles surplus supply, protectionism",
-          "summary": "The global steel market continues to navigate surplus supply challenges and rising trade protectionism, impacting regional manufacturing costs and metal processing.",
-          "why": "Steel processing volume and plant capacity utilization directly dictate local demand for heavy-duty grinding discs, deburring wheels, and belt abrasives.",
-          "action": "Keep track of local metal fabrication activity to adjust inventory levels for heavy industrial grinding products.",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-09-02",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUUpWSmpHLVowSXdiLUJqcFlpQ3ZfRmdQYjJiTVFCNk00ZW0tM0ZqenQtd2F4emNVNEdzT3Q3amZ3M050YnNuTldQZFQyTlgyX3ByekdEbkdlaURacG5yRlBUSEZucnBQalBmNzVadXVrSDdXcEd0d2t4UXptUzJ5dXZ6ckE1Q3RVV3IyUkY4SFdVSERveVJYem0yM3lNbWFUY1dXWHYyRFZ2cXdldWFqRmJTNE4tQ1RXWWp4N3NCN1h5Vmt3d3hEbkFPc2ZqT0k?oc=5",
+          "title": "A global AI manufacturing transformation at Hyundai Motor Group",
+          "summary": "Hyundai is scaling AI-driven automation across its global manufacturing footprint to optimize production efficiency.",
+          "why": "Automated factories require consistent, robot-compatible robotic sanding and deburring consumables rather than manual touch-ups.",
+          "action": "Prepare for a shift toward automated robotic abrasive solutions as automakers adopt AI manufacturing.",
           "th": {
-            "title": "อุตสาหกรรมเหล็กโลกเผชิญศึกอุปทานล้นตลาดและลัทธิคุ้มครองทางการค้า",
-            "summary": "ตลาดเหล็กโลกยังคงต้องรับมือกับความท้าทายเรื่องอุปทานส่วนเกินและการกีดกันทางการค้า ซึ่งส่งผลต่อต้นทุนการผลิตระดับภูมิภาคและการแปรรูปโลหะ",
-            "why": "ปริมาณการแปรรูปเหล็กและอัตราการใช้กำลังการผลิตของโรงงานส่งผลโดยตรงต่อความต้องการใช้แผ่นตัด ใบเจียร และกระดาษทรายสายพานสำหรับงานหนัก",
-            "action": "ติดตามกิจกรรมการผลิตในอุตสาหกรรมแปรรูปโลหะในประเทศ เพื่อปรับระดับสินค้าคงคลังกลุ่มผลิตภัณฑ์เจียรโลหะหนักให้เหมาะสม"
+            "title": "การเปลี่ยนแปลงการผลิตด้วย AI ระดับโลกที่ฮุนได มอเตอร์ กรุ๊ป",
+            "summary": "ฮุนไดกำลังขยายขนาดระบบอัตโนมัติที่ขับเคลื่อนด้วย AI ทั่วฐานการผลิตทั่วโลกเพื่อเพิ่มประสิทธิภาพการผลิต",
+            "why": "โรงงานอุตสาหกรรมอัตโนมัติจำเป็นต้องใช้วัสดุสิ้นเปลืองสำหรับขัดและลบครีบที่รองรับหุ่นยนต์และมีความสม่ำเสมอสูง แทนการใช้แรงงานคนขัดแต่ง",
+            "action": "เตรียมพร้อมรับมือกับการเปลี่ยนแปลงสู่โซลูชันวัสดุขัดแบบอัตโนมัติสำหรับหุ่นยนต์ ตามที่ค่ายรถยนต์ปรับใช้การผลิตด้วย AI"
           }
         },
         {
           "id": "20260913-w3",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-09-10",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVjkzSTlDYzItRzJSVXhQSjc1a0ttQ0dIRVYxRDgxaHFiQ0x3c1ZsLTdZQ0RRSk04bmhjdHQ4ZGJrV0lLVk45XzQ5ZzQwN1VwMDNERWNWVEpJNTRVYzZqTFFmcEIyUUZRNG9LOHp6ODIxYm80eEZrcTBOdENvenJqdktfcm5neXlITEZSRXNQclF2ZUpGUXVLTmY3SmhCRUlHdldDVC11QjRnZ3UtYzRlbzAwYS1yaW5oZV8zWmRMY2k?oc=5",
-          "title": "Smart-factory wiring woes: EVs demand automation now, not later",
-          "summary": "Automakers are accelerating factory automation and smart wiring solutions to resolve complex production bottlenecks in electric vehicles.",
-          "why": "As EV production lines automate assembly and component finishing, demand shifts toward robotic-compatible abrasives and automated surface preparation systems.",
-          "action": "Explore partnerships or product lines suited for robotic sanding and automated deburring cells.",
+          "tag": "steel",
+          "rating": "green",
+          "source": "Fortune Business Insights",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kYlp3TXBwdU5JVl9Gc0pFd3lJSFpjSUhLeEFGOVZVS19BbHBoTFNGb1BFOC1UNEN4c1o0c2xjdTFZYXhVdGRVb0dIeXZqakt1bTJkQy10SC0wRlh0RVVBZHZaWDFYbDk3cHdUbXBsYnRyYTlFVEE?oc=5",
+          "title": "Metal Casting Market Growth Analysis & Industry Forecast, 2034",
+          "summary": "The global metal casting market continues to expand steadily, driven by industrial machinery, automotive, and construction demand.",
+          "why": "Foundries and metal casting operations are massive consumers of heavy-duty grinding wheels, sanding belts, and deburring tools for surface cleaning.",
+          "action": "Maintain strong inventory and technical support for heavy metal removal and foundry casting clean-up abrasives.",
           "th": {
-            "title": "ปัญหาการเดินสายไฟในโรงงานอัจฉริยะ: รถยนต์ไฟฟ้าต้องการระบบอัตโนมัติทันที",
-            "summary": "ค่ายรถยนต์เร่งนำระบบอัตโนมัติในโรงงานและโซลูชันสายไฟอัจฉริยะมาใช้ เพื่อแก้ไขปัญหาคอขวดในการผลิตรถยนต์ไฟฟ้าที่มีความซับซ้อน",
-            "why": "เมื่อสายการผลิต EV หันมาใช้ระบบอัตโนมัติในการประกอบและแต่งผิวชิ้นส่วน ความต้องการจึงเปลี่ยนไปสู่วัสดุขัดที่รองรับแขนกลหุ่นยนต์และระบบเตรียมพื้นผิวอัตโนมัติ",
-            "action": "ศึกษาหาผลิตภัณฑ์หรือกลุ่มสินค้าที่รองรับงานขัดด้วยหุ่นยนต์ (robotic sanding) และระบบลบคมอัตโนมัติ"
+            "title": "การวิเคราะห์การเติบโตของตลาดการหล่อโลหะและการคาดการณ์อุตสาหกรรมถึงปี 2034",
+            "summary": "ตลาดการหล่อโลหะทั่วโลกยังคงขยายตัวอย่างต่อเนื่อง ขับเคลื่อนโดยความต้องการจากอุตสาหกรรมเครื่องจักร ยานยนต์ และการก่อสร้าง",
+            "why": "โรงหล่อและกิจการหล่อโลหะเป็นผู้บริโภครายใหญ่ของล้อเจียรงานหนัก สายพานขัด และเครื่องมือลบครีบสำหรับการทำความสะอาดผิวงาน",
+            "action": "รักษาระดับสต็อกและการสนับสนุนทางเทคนิคสำหรับกลุ่มวัสดุขัดงานขจัดเนื้อโลหะหนักและงานทำความสะอาดชิ้นงานหล่อ"
           }
         }
       ]
