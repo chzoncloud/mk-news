@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-09-12",
+  "updated": "2026-09-13",
   "days": [
+    {
+      "date": "2026-09-13",
+      "summary": "Today's global briefing highlights electronics-driven micro-surface preparation, EV automation shifts, and steel supply dynamics, signaling a continuing move toward precision finishing and automated manufacturing.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปทิศทางโลกประจำวันนี้เน้นย้ำเรื่องการเตรียมพื้นผิวไมโครสำหรับอุตสาหกรรมอิเล็กทรอนิกส์ การเปลี่ยนผ่านสู่ระบบอัตโนมัติในยานยนต์ไฟฟ้า และสถานการณ์อุปทานเหล็ก ซึ่งบ่งชี้ถึงความต้องการงานขัดที่แม่นยำและการผลิตแบบอัตโนมัติที่เพิ่มขึ้น"
+      },
+      "items": [
+        {
+          "id": "20260913-w1",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-09-11",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPM0IzU2FhMUZlR1lUSG1BY3VVdVZSaTVfVUxFeTJrV1VGazdzYURVUXZvN0VnTEdVYXEtbnRybGZkZ2FBUGotSHg2ejJfVDRQSld2Z3B1YU1mNjhxR0E2Mlg3eXdyT3ZCSjJSYXllN1lRSjByMXBKTVdHVlZ1WFBVZGhDZGVwM1ZpU3psc0dMTnZ4aUVnRVZDblFqOEMxUk9WVVFHVUlZN0lkSWF0X2JoSU5FWnRHeVNYTkJtMVVQZHBKMzNXTEQtZEJJZ09uQlpmcTNLdUdDdjY?oc=5",
+          "title": "Tab Surface Preparation Abrasives Market Forecast to 2035: Advanced Packaging and Semiconductor Capacity Drive Growth",
+          "summary": "Advanced packaging and semiconductor manufacturing capacity are driving new demand for specialized surface preparation and micro-abrasives.",
+          "why": "Growth in semiconductor packaging requires ultra-precise surface prep, opening high-value niches for micro-abrasives beyond traditional metal and wood.",
+          "action": "Monitor high-precision, micro-finishing abrasive media used in electronic component manufacturing.",
+          "th": {
+            "title": "ตลาดวัสดุขัดเตรียมพื้นผิวอิเล็กทรอนิกส์คาดเติบโตถึงปี 2035: ขับเคลื่อนโดยบรรจุภัณฑ์ขั้นสูงและกำลังการผลิตเซมิคอนดักเตอร์",
+            "summary": "การผลิตบรรจุภัณฑ์ขั้นสูงและเซมิคอนดักเตอร์กำลังขับเคลื่อนความต้องการใหม่สำหรับวัสดุเตรียมพื้นผิวและวัสดุขัดขนาดไมโครเฉพาะทาง",
+            "why": "การเติบโตของบรรจุภัณฑ์เซมิคอนดักเตอร์ต้องใช้การเตรียมพื้นผิวที่มีความแม่นยำสูง สร้างโอกาสในกลุ่มผลิตภัณฑ์วัสดุขัดไมโครมูลค่าสูง นอกเหนือจากงานโลหะและไม้ทั่วไป",
+            "action": "ติดตามกลุ่มผลิตภัณฑ์วัสดุขัดและตกแต่งผิวความละเอียดสูงที่ใช้ในการผลิตชิ้นส่วนอิเล็กทรอนิกส์"
+          }
+        },
+        {
+          "id": "20260913-w2",
+          "tag": "steel",
+          "rating": "green",
+          "source": "S&P Global",
+          "date": "2026-01-12",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
+          "title": "Global steel industry battles surplus supply, protectionism",
+          "summary": "The global steel market continues to navigate surplus supply challenges and rising trade protectionism, impacting regional manufacturing costs and metal processing.",
+          "why": "Steel processing volume and plant capacity utilization directly dictate local demand for heavy-duty grinding discs, deburring wheels, and belt abrasives.",
+          "action": "Keep track of local metal fabrication activity to adjust inventory levels for heavy industrial grinding products.",
+          "th": {
+            "title": "อุตสาหกรรมเหล็กโลกเผชิญศึกอุปทานล้นตลาดและลัทธิคุ้มครองทางการค้า",
+            "summary": "ตลาดเหล็กโลกยังคงต้องรับมือกับความท้าทายเรื่องอุปทานส่วนเกินและการกีดกันทางการค้า ซึ่งส่งผลต่อต้นทุนการผลิตระดับภูมิภาคและการแปรรูปโลหะ",
+            "why": "ปริมาณการแปรรูปเหล็กและอัตราการใช้กำลังการผลิตของโรงงานส่งผลโดยตรงต่อความต้องการใช้แผ่นตัด ใบเจียร และกระดาษทรายสายพานสำหรับงานหนัก",
+            "action": "ติดตามกิจกรรมการผลิตในอุตสาหกรรมแปรรูปโลหะในประเทศ เพื่อปรับระดับสินค้าคงคลังกลุ่มผลิตภัณฑ์เจียรโลหะหนักให้เหมาะสม"
+          }
+        },
+        {
+          "id": "20260913-w3",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-09-10",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVjkzSTlDYzItRzJSVXhQSjc1a0ttQ0dIRVYxRDgxaHFiQ0x3c1ZsLTdZQ0RRSk04bmhjdHQ4ZGJrV0lLVk45XzQ5ZzQwN1VwMDNERWNWVEpJNTRVYzZqTFFmcEIyUUZRNG9LOHp6ODIxYm80eEZrcTBOdENvenJqdktfcm5neXlITEZSRXNQclF2ZUpGUXVLTmY3SmhCRUlHdldDVC11QjRnZ3UtYzRlbzAwYS1yaW5oZV8zWmRMY2k?oc=5",
+          "title": "Smart-factory wiring woes: EVs demand automation now, not later",
+          "summary": "Automakers are accelerating factory automation and smart wiring solutions to resolve complex production bottlenecks in electric vehicles.",
+          "why": "As EV production lines automate assembly and component finishing, demand shifts toward robotic-compatible abrasives and automated surface preparation systems.",
+          "action": "Explore partnerships or product lines suited for robotic sanding and automated deburring cells.",
+          "th": {
+            "title": "ปัญหาการเดินสายไฟในโรงงานอัจฉริยะ: รถยนต์ไฟฟ้าต้องการระบบอัตโนมัติทันที",
+            "summary": "ค่ายรถยนต์เร่งนำระบบอัตโนมัติในโรงงานและโซลูชันสายไฟอัจฉริยะมาใช้ เพื่อแก้ไขปัญหาคอขวดในการผลิตรถยนต์ไฟฟ้าที่มีความซับซ้อน",
+            "why": "เมื่อสายการผลิต EV หันมาใช้ระบบอัตโนมัติในการประกอบและแต่งผิวชิ้นส่วน ความต้องการจึงเปลี่ยนไปสู่วัสดุขัดที่รองรับแขนกลหุ่นยนต์และระบบเตรียมพื้นผิวอัตโนมัติ",
+            "action": "ศึกษาหาผลิตภัณฑ์หรือกลุ่มสินค้าที่รองรับงานขัดด้วยหุ่นยนต์ (robotic sanding) และระบบลบคมอัตโนมัติ"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-09-12",
       "summary": "Today's briefing highlights new growth vectors in electronics finishing, global steel industry shifts towards Electric Arc Furnaces, and regional automotive refinish demands.",
@@ -920,70 +984,6 @@ window.WORLD_ARCHIVE = {
             "summary": "ความขัดแย้งทางภูมิรัฐศาสตร์และปัญหาห่วงโซ่อุปทานยังคงส่งผลให้เกิดการขาดแคลนเชื้อเพลิงและต้นทุนการดำเนินงานที่สูงขึ้นสำหรับผู้ผลิตเหล็กรายใหญ่เช่นอินเดีย",
             "why": "ต้นทุนการผลิตเหล็กและความผันผวนของผลผลิตส่งผลโดยตรงต่อกิจกรรมการแปรรูปโลหะและความต้องการพื้นฐานสำหรับผลิตภัณฑ์หินเจียรและกระดาษทรายอุตสาหกรรม",
             "action": "ติดตามเสถียรภาพการผลิตเหล็กในภูมิภาคเพื่อคาดการณ์ความผันผวนของความต้องการผลิตภัณฑ์ขัดโลหะงานหนัก"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-08-30",
-      "summary": "Today's briefing focuses on global manufacturing shifts, including European coatings innovations, EV battery demand surges, and structural steel supply chain adjustments. These trends highlight the ongoing integration of advanced surface finishing requirements and raw material dynamics.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปประเด็นข่าววันนี้เน้นการเปลี่ยนแปลงในภาคการผลิตระดับโลก นวัตกรรมสีเคลือบในยุโรป การเติบโตของตลาดแบตเตอรี่ EV และการปรับตัวของห่วงโซ่อุปทานเหล็ก ซึ่งล้วนสะท้อนถึงความต้องการงานขัดผิวและทิศทางวัตถุดิบที่เกี่ยวข้อง"
-      },
-      "items": [
-        {
-          "id": "20260830-w1",
-          "tag": "coating",
-          "rating": "green",
-          "source": "European Coatings",
-          "date": "2026-06-04",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUDgzbkl5cWdzSnJwcGViRm5mVWNYTWllWVF6RENXM2dRbG84cTh6bFRXckpiYVZkMWRWZk5OWGZhTjZCdm9zTUpTLWJlUmhLR1BnUmhIUWJ3VUVSdW5WQ05tZjVnTmQ3Tld4RG5rbVdKNEJrblFzNlE0NFZyRWw3SEZ1RWdES2pzYndyWnZPOVgyRzB4YTBGT0NOZDU4ZDdnejhFRHpMYkQ2T1ZX?oc=5",
-          "title": "ETCC 2026 in Prague: A hub for coatings innovation and sustainability",
-          "summary": "The European Technical Coatings Congress in Prague highlighted cutting-edge innovations and sustainability practices driving the future of surface coatings.",
-          "why": "New coating technologies often require advanced surface preparation, specific sanding grits, and specialized finishing abrasives before application.",
-          "action": "Monitor European coating formulation trends to anticipate upcoming requirements for substrate prep tools.",
-          "th": {
-            "title": "งาน ETCC 2026 ที่กรุงปราก: ศูนย์กลางนวัตกรรมสีเคลือบและความยั่งยืน",
-            "summary": "การประชุมเทคโนโลยีสีเคลือบแห่งยุโรปที่กรุงปรากเน้นย้ำนวัตกรรมล้ำสมัยและความยั่งยืน ซึ่งขับเคลื่อนอนาคตของอุตสาหกรรมเคลือบผิว",
-            "why": "เทคโนโลยีการเคลือบใหม่ๆ มักต้องอาศัยการเตรียมพื้นผิวที่แม่นยำ กระดาษทรายเบอร์พิเศษ และวัสดุขัดผิวจำเพาะก่อนพ่นสี",
-            "action": "ติดตามแนวโน้มสูตรสีเคลือบใหม่ในยุโรปเพื่อเตรียมรับมือกับความต้องการเครื่องมือเตรียมพื้นผิวที่เปลี่ยนไป"
-          }
-        },
-        {
-          "id": "20260830-w2",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Precedence Research",
-          "date": "2026-08-19",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wQ2FEN3RyXzRzQ3ZlNDNxTjBreVFWRllTRHhIV1p2S0FjN2lrYi1TSGV0bHdxby1HWXVBZjhnaFNWeXB1SVRyTjhOckpjSmZQUEYwMmxNVXhIQmpRU1RPUGk0OHpzRC1SOUlmNTNqM05LUTVU?oc=5",
-          "title": "Electric Vehicle Battery Market Size to Surpass USD 878.91 Billion by 2035",
-          "summary": "The global electric vehicle battery market continues massive expansion, projected to reach unprecedented scale by 2035.",
-          "why": "EV battery manufacturing involves extensive metal fabrication, welding cleanup, and precision component deburring where specialized abrasives are essential.",
-          "action": "Explore abrasive product lines suited for EV battery casing prep and lightweight metal components.",
-          "th": {
-            "title": "ตลาดแบตเตอรี่รถยนต์ไฟฟ้ามีมูลค่าทะยานเกิน 8.78 แสนล้านดอลลาร์ภายในปี 2035",
-            "summary": "ตลาดแบตเตอรี่ EV ทั่วโลกยังคงขยายตัวอย่างต่อเนื่อง และคาดว่าจะเติบโตในสเกลที่สูงมากภายในปี 2035",
-            "why": "การผลิตแบตเตอรี่ EV เกี่ยวข้องกับการขึ้นรูปโลหะ การทำความสะอาดรอยเชื่อม และการลบคมชิ้นส่วนความแม่นยำสูง ซึ่งจำเป็นต้องใช้ผลิตภัณฑ์ขัดจำเพาะ",
-            "action": "สำรวจกลุ่มผลิตภัณฑ์กระดาษทรายและใบเจียรที่เหมาะสำหรับการเตรียมผิวเคสแบตเตอรี่ EV และชิ้นส่วนโลหะน้ำหนักเบา"
-          }
-        },
-        {
-          "id": "20260830-w3",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "S&P Global",
-          "date": "2026-01-12",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
-          "title": "Global steel industry battles surplus supply, protectionism",
-          "summary": "The global steel sector faces ongoing challenges from overcapacity, fluctuating supply surpluses, and rising trade protectionism.",
-          "why": "Steel production volume and mill operating rates directly dictate industrial demand for heavy-duty grinding wheels, belts, and cut-off discs.",
-          "action": "Keep an eye on regional steel output shifts to forecast B2B abrasive demand fluctuations in heavy industries.",
-          "th": {
-            "title": "อุตสาหกรรมเหล็กโลกเผชิญศึกหนักภาวะล้นตลาดและมาตรการกีดกันทางการค้า",
-            "summary": "ภาคส่วนเหล็กทั่วโลกกำลังเผชิญกับความท้าทายจากกำลังการผลิตส่วนเกิน ความผันผวนของอุปทาน และลัทธิคุ้มครองทางการค้าที่เพิ่มขึ้น",
-            "why": "ปริมาณการผลิตเหล็กและอัตราการเดินเครื่องของโรงงานส่งผลโดยตรงต่อความต้องการล้อเจียร สายพานขัด และใบตัดในภาคอุตสาหกรรมหนัก",
-            "action": "ติดตามการเปลี่ยนแปลงของปริมาณการผลิตเหล็กในระดับภูมิภาคเพื่อคาดการณ์ความต้องการผลิตภัณฑ์ขัดในอุตสาหกรรมหนัก"
           }
         }
       ]
