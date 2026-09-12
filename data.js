@@ -2,6 +2,89 @@
 window.NEWS_ARCHIVE = {
   "days": [
     {
+      "date": "2026-09-13",
+      "summary": "News volume is relatively light today. However, surging automotive assembly in Mexico presents a solid export growth driver for Thai metal parts suppliers, while local industry bodies unite behind strict domestic-content policies in EV and steel manufacturing.",
+      "directCount": 1,
+      "th": {
+        "summary": "วันนี้มีข่าวใหม่ไม่มากนัก แต่ยอดผลิตรถยนต์ในเม็กซิโกที่เติบโตสูงกำลังเป็นปัจจัยหนุนเชิงบวกต่อการส่งออกชิ้นส่วนโลหะไทย ขณะที่องค์กรภาคเอกชนในประเทศรวมพลังผลักดันนโยบายปกป้องฐานการผลิตยานยนต์และอุตสาหกรรมเหล็กในประเทศ"
+      },
+      "items": [
+        {
+          "id": "20260913-1",
+          "tag": "auto",
+          "rating": "green",
+          "source": "ditp.go.th",
+          "date": "2026-09-10",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE55bUVLU2lqcFRhV0g4WkxtOHlmSGR1Mk9TM0Z5bzRwYU1EOG5iQUJEUHloNG5FTXZZSk1XaUdUdUFTVnE1OEZ5U2Y3QThOdWg3c0huLTM1YllLU0Z3REVXR2tn?oc=5",
+          "title": "Mexico Auto Output Reaches 2.64 Million Units, Expanding Export Windows for Thai Parts Suppliers",
+          "summary": "Mexico's vehicle manufacturing reached 2.64 million units across the first eight months of the year, reinforcing its role as a key North American production hub. This rapid growth creates strong export demand for Thai Tier-2 and Tier-3 automotive metal stamping and machining vendors.",
+          "why": "Higher export order volumes for Thai automotive parts manufacturers will directly spur local metal stamping, machining, and weld-finishing runs, driving continuous demand for abrasive discs and grinding wheels.",
+          "action": "Target Japanese and domestic automotive stamping and casting plants supplying North American exports with bundled offers of deburring discs and sanding belts.",
+          "th": {
+            "title": "ยอดผลิตรถยนต์เม็กซิโกแตะ 2.64 ล้านคัน เปิดหน้าต่างส่งออกชิ้นส่วนยานยนต์ไทย",
+            "summary": "ยอดผลิตยานยนต์ในเม็กซิโก 8 เดือนแรกแตะ 2.64 ล้านคัน ตอกย้ำฐานผลิตสำคัญของอเมริกาเหนือ เปิดโอกาสครั้งใหญ่ให้ผู้ผลิตชิ้นส่วนยานยนต์ไทยส่งออกชิ้นส่วนป้อนซัพพลายเชนดังกล่าว",
+            "why": "คำสั่งซื้อส่งออกชิ้นส่วนโลหะยานยนต์ที่เพิ่มขึ้น จะกระตุ้นโรงงานในไทยเร่งกำลังผลิต ปั๊มขึ้นรูป ลบครีบ และขัดผิวรอยเชื่อม ซึ่งสร้างความต้องการใช้วัสดุขัดและใบเจียรโดยตรง",
+            "action": "เจาะกลุ่มโรงงานปั๊มขึ้นรูปและหล่อโลหะยานยนต์ที่รับออเดอร์ส่งออกต่างประเทศ นำเสนอแพ็กเกจจานทรายซ้อนและสายพานผ้าทรายสำหรับงานลบคมโลหะ"
+          }
+        },
+        {
+          "id": "20260913-2",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "AEC10NEWS",
+          "date": "2026-09-12",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1PU2hYeWtLOV9YSk5CNm96LUw1a2FudGdIWS1nVW5Pd0Y0ZklZQUk5M1o1NHR0RHVKTXdFdGstc0R4V2g3WURyTF9YZk5aeUF0VXpQcXNEVW1ValVrV1lIOFNn?oc=5",
+          "title": "Thai Chamber of Commerce Backs EV Tax Overhaul to Anchor Local Assembly and Parts Sourcing",
+          "summary": "The Thai Chamber of Commerce voiced strong backing for the National EV Board's revamped excise structure, which penalizes completely built-up imports and rewards domestic production. The policy aims to prevent hollowed-out domestic supply chains and push automakers to manufacture locally.",
+          "why": "Mandating local assembly and component procurement preserves production volumes within Thai metalworking and tooling factories, sustaining abrasive usage across Tier-1 and Tier-2 suppliers.",
+          "action": "Monitor automakers establishing local assembly operations to pitch automated grinding discs and surface finishing solutions for their body-in-white prep lines.",
+          "th": {
+            "title": "หอการค้าไทยหนุนบอร์ด EV ปรับโครงสร้างภาษี ดันฐานประกอบและใช้ชิ้นส่วนในประเทศ",
+            "summary": "หอการค้าไทยประกาศหนุนโครงสร้างภาษีสรรพสามิตรถ EV ใหม่ของรัฐบาล ซึ่งเพิ่มภาษีรถนำเข้าสำเร็จรูปและลดหย่อนให้ผู้ผลิตในประเทศ เพื่อสกัดการพึ่งพาการนำเข้าและหนุนซัพพลายเชนไทย",
+            "why": "การบีบให้ค่ายรถยนต์ต้องประกอบและจัดซื้อชิ้นส่วนในประเทศ ช่วยรักษาปริมาณงานผลิตของโรงงานขึ้นรูปและเชื่อมโลหะในไทย ส่งผลดีต่อการบริโภควัสดุขัดผิวในระยะยาว",
+            "action": "ติดตามโรงงานประกอบรถยนต์และชิ้นส่วนที่เริ่มตั้งไลน์ผลิตในไทย เพื่อนำเสนอวัสดุขัดสำหรับหุ่นยนต์และจานขัดเตรียมผิวก่อนพ่นสี"
+          }
+        },
+        {
+          "id": "20260913-3",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Thai PBS",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjbHhzc2hNZzE2ajcyN0dtNHQzeDd1Mzh6dk1pWmVnbXd3SVA1dWN1QW4wUHdJSkxDb21fWHVJWDEzWVA0aHhwYjRtbWZKSUdHd1JwY2lZc3U?oc=5",
+          "title": "FTI Calls Thai Auto at Critical Crossroads: Defend Legacy ICE Hub While Scaling EV Transition",
+          "summary": "The Federation of Thai Industries warned that Thailand's automotive industry is at a make-or-break transition point, urging policies that maintain existing ICE capacity while integrating into xEV supply chains. Over 700,000 skilled manufacturing jobs depend on preserving core metal machining and powertrain production.",
+          "why": "Defending ICE vehicle assembly protects our primary revenue base among Japanese powertrain machining and metal fabrication plants, giving us time to broaden EV aluminum-finishing product lines.",
+          "action": "Reinforce ties with Japanese Tier-1 ICE clients via vendor-managed inventory programs, while pitching specialized aluminum-grinding abrasives for EV body components.",
+          "th": {
+            "title": "ส.อ.ท. ชี้จุดเปลี่ยนยานยนต์ไทย เร่งรักษาฐานผลิต ICE เดิมควบคู่เปลี่ยนผ่านสู่ EV",
+            "summary": "สภาอุตสาหกรรมแห่งประเทศไทยระบุอุตสาหกรรมยานยนต์ไทยเผชิญจุดเปลี่ยนสำคัญ โดยต้องรักษากำลังผลิตเครื่องยนต์สันดาปเดิมไว้ควบคู่กับการต่อยอดสู่ EV เพื่อรักษาการจ้างงานกว่า 7 แสนตำแหน่ง",
+            "why": "การปกป้องฐานผลิต ICE ช่วยรักษาฐานลูกค้ารายได้หลักที่เป็นโรงงานญี่ปุ่นด้านกลึง ไส เจียรโลหะ ขณะเดียวกันเปิดโอกาสให้เราขยายสินค้ากลุ่มขัดอลูมิเนียมสำหรับ EV",
+            "action": "กระชับความสัมพันธ์กับกลุ่มลูกค้า Tier 1 ญี่ปุ่นเดิมด้วยข้อเสนอสต็อกสินค้าพร้อมส่ง พร้อมขยายไลน์ผ้าทรายและใยขัดสำหรับชิ้นส่วนอลูมิเนียมในรถ EV"
+          }
+        },
+        {
+          "id": "20260913-4",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "bangkokbiznews",
+          "date": "2026-06-09",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1BZE5wSV9tN3JIMkxoeTBjenRHaWFGTThOMkNUWUgwUm4ybm02TTlNLWJ5U1RFdVFRQVBwSldqVWEyUHBIVXhfTnNiSHpzQXhoVDhUYjJoMVAyakhp?oc=5",
+          "title": "Local Steelmakers Petition Regulators to Halt Reopening of Substandard Induction Furnace Plants",
+          "summary": "Domestic steel associations have petitioned the Department of Industrial Works against granting operational approvals to suspended mills like Xin Ke Yuan that use non-compliant induction furnaces. Producers argue substandard steel undermines structural safety and exerts destructive price pressure on compliant mills.",
+          "why": "Enforcing standards protects compliant steel mills and structural steel fabricators, stabilizing operational predictability and consumable abrasive usage among quality-oriented metal fabricators.",
+          "action": "Focus sales efforts on certified structural steel fabricators and heavy equipment builders who demand high-performance, compliant cutting and grinding abrasives.",
+          "th": {
+            "title": "ผู้ผลิตเหล็กไทยร้องกรมโรงงานฯ สกัดโรงงานเตา IF ไร้มาตรฐานเปิดซ้ำ",
+            "summary": "สมาคมผู้ผลิตเหล็กไทยยื่นหนังสือร้องเรียนกรมโรงงานอุตสาหกรรม คัดค้านการอนุญาตเปิดโรงงานเตาหลอม IF ที่ไม่ได้มาตรฐาน หลังหวั่นสินค้าด้อยคุณภาพทะลักเข้ามาดัมพ์ราคาและทำลายมาตรฐานอุตสาหกรรม",
+            "why": "การกวดขันโรงงานไม่ได้มาตรฐานช่วยปกป้องโรงงานผลิตเหล็กและโครงสร้างโลหะที่ได้ มอก. ซึ่งเป็นกลุ่มลูกค้าหลักที่ใช้วัสดุขัด ตัด เจียร เกรดอุตสาหกรรมอย่างต่อเนื่อง",
+            "action": "มุ่งเน้นการทำตลาดกับผู้ผลิตโครงสร้างเหล็กและผู้แปรรูปโลหะหนักที่ได้รับมาตรฐาน มอก. ซึ่งต้องการใบตัดและใบเจียรประสิทธิภาพสูงที่มีความปลอดภัยแน่นอน"
+          }
+        }
+      ],
+      "terms": {}
+    },
+    {
       "date": "2026-09-12",
       "summary": "Today's fresh news volume is limited, with market attention remaining centered on the EV Board's tax overhaul. The key development for MK is Japanese automakers pledging an additional 50 billion baht in local production, which will directly support factory grinding and finishing consumption.",
       "directCount": 1,
@@ -666,5 +749,5 @@ window.NEWS_ARCHIVE = {
       "terms": {}
     }
   ],
-  "updated": "2026-09-12"
+  "updated": "2026-09-13"
 };
