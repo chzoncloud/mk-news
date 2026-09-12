@@ -4,10 +4,10 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-09-12",
-      "summary": "Today's briefing features 3 fresh global signals highlighting growth in high-precision sanding meshes for electronics, regional coatings market shifts, and AI integration in manufacturing, offering direct insights for surface finishing and industrial strategy.",
+      "summary": "Today's briefing highlights new growth vectors in electronics finishing, global steel industry shifts towards Electric Arc Furnaces, and regional automotive refinish demands.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปสถานการณ์โลกประจำวันนี้มี 3 สัญญาณสำคัญ ได้แก่ การเติบโตของตาข่ายขัดกระดาษทรายสำหรับงานอิเล็กทรอนิกส์ การเปลี่ยนแปลงของตลาดเคลือบผิวภูมิภาค และการนำAIมาใช้ในภาคการผลิต ซึ่งให้มุมมองที่เป็นประโยชน์ต่อธุรกิจขัดผิวและกลยุทธ์อุตสาหกรรม"
+        "summary": "สรุปแนวโน้มโลกวันนี้เน้นโอกาสการเติบโตใหม่ในการขัดผิวชิ้นส่วนอิเล็กทรอนิกส์ การปรับตัวของอุตสาหกรรมเหล็กสู่เตาอาร์กไฟฟ้า (EAF) และความต้องการสีพ่นซ่อมรถยนต์ในภูมิภาค"
       },
       "items": [
         {
@@ -18,50 +18,50 @@ window.WORLD_ARCHIVE = {
           "date": "2026-09-10",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZDJqd2xKZGF5aVhTN1NIQUh5Q3RIUEk0M2o1dzlkLXBsVDZIbXdwSFNqQ2ZEV0YtUEF2bElKN0pIcmZ3Tzk5TE1uTUQyNm9kNWxma1NkXzJvWjRCUnNWN2FjUnZFQ0ZlcFRnSjdDYW5QWGlWdVJtdVFVVjV0X3JmSGE5ZTRKR0N4S2Q4c2haLUpydEltcXVTNXFQUE9DLVh0QWFxQUtCX0NfT2dQeXgzdW01NTQzbWpJWmZiT0EtZHhMQTN1N29J?oc=5",
           "title": "Sanding Screen Mesh Market to Accelerate on Electronics and Semiconductor Finishing Demand by 2035",
-          "summary": "The global sanding screen mesh market is projected to grow significantly, driven by rising demand for high-precision finishing in electronics and semiconductor manufacturing.",
-          "why": "High-precision electronics and semiconductor manufacturing demand advanced mesh abrasives, opening high-value niches beyond traditional metal and wood sanding.",
-          "action": "Monitor high-precision mesh products and fine-grit capabilities for electronics and tech-sector finishing applications.",
+          "summary": "The sanding screen mesh market is projected to grow rapidly, driven by strict surface finishing requirements in the electronics and semiconductor sectors.",
+          "why": "High-tech electronics and semiconductor manufacturing demand ultra-precise surface prep, creating high-margin opportunities for specialized abrasive meshes.",
+          "action": "Explore sourcing and promoting fine-grit sanding screens suited for electronics manufacturing supply chains.",
           "th": {
-            "title": "ตลาดตาข่ายขัดกระดาษทรายเติบโตเร่งตัวจากความต้องการเก็บWผิวงานอิเล็กทรอนิกส์และเซมิคอนดักเตอร์ถึงปี 2035",
-            "summary": "ตลาดตาข่ายขัดทั่วโลกคาดว่าจะเติบโตอย่างมีนัยสำคัญ ขับเคลื่อนโดยความต้องการการขัดแต่งความแม่นยำสูงในอุตสาหกรรมอิเล็กทรอนิกส์และเซมิคอนดักเตอร์",
-            "why": "การผลิตอิเล็กทรอนิกส์และความแม่นยำสูงต้องการวัสดุขัดแบบตาข่ายขั้นสูง ซึ่งสร้างโอกาสในกลุ่มผลิตภัณฑ์ราคาสูงนอกเหนือจากการขัดโลหะและไม้ทั่วไป",
-            "action": "ติดตามผลิตภัณฑ์ตาข่ายความแม่นยำสูงและความสามารถในการขัดผิวละเอียดสำหรับงานอุตสาหกรรมอิเล็กทรอนิกส์และเทคโนโลยี"
+            "title": "ตลาดตาข่ายกระดาษทรายขัด (Sanding Screen Mesh) เติบโตตามความต้องการงานตกแต่งผิวอิเล็กทรอนิกส์และเซมิคอนดักเตอร์ถึงปี 2035",
+            "summary": "ตลาดตาข่ายกระดาษทรายคาดว่าจะเติบโตอย่างรวดเร็ว ขับเคลื่อนด้วยข้อกำหนดด้านการเตรียมพื้นผิวที่เข้มงวดในกลุ่มอุตสาหกรรมอิเล็กทรอนิกส์และเซมิคอนดักเตอร์",
+            "why": "การผลิตอิเล็กทรอนิกส์ไฮเทคและเซมิคอนดักเตอร์ต้องการการเตรียมผิวที่มีความแม่นยำสูง ซึ่งสร้างโอกาสทำกำไรสูงสำหรับวัสดุขัดประเภทตาข่ายเฉพาะทาง",
+            "action": "ศึกษาหาแหล่งสินค้าและโปรโมตตาข่ายขัดเบอร์ละเอียดที่เหมาะกับห่วงโซ่อุปทานการผลิตอิเล็กทรอนิกส์"
           }
         },
         {
           "id": "20260912-w2",
-          "tag": "coating",
+          "tag": "steel",
           "rating": "amber",
-          "source": "MarketsandMarkets",
-          "date": "2026-08-13",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYjdlTDdLRTc1YUthZUx6b19yeVVGcllnck03bHcyQ0tWYmRNa2UzekxZbHBOZ3dESldJLU9kWDk3a0draWVIY1pVLV9RX3I5YW9scEdzQkMyTXF2VUd2cFZBemJXMlh5VGFOTGRsWEREYWpTeERQTGNlXzM3M01FMmh2RTN6dDdxTzZkUC1NbHNXdHdqQkk5Mg?oc=5",
-          "title": "GCC-Countries Paints & Coatings Market Size, Share, Trends, Growth Analysis Report, 2030",
-          "summary": "The paints and coatings market in GCC countries continues to expand steadily, driven by regional infrastructure projects and industrial development.",
-          "why": "Growth in regional coatings directly correlates with increased demand for surface preparation, pre-coating sanding, and finishing tools.",
-          "action": "Keep an eye on regional export destinations and industrial growth sectors requiring heavy-duty surface treatment.",
+          "source": "SMM Metal",
+          "date": "2026-05-19",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMmw1akRRMFZCQ2I5NGhHdE1NOXhoaE1GY0h5UmxlQVNUVGxHTko2U0NBQ0o0Q19ZYmZ1VnBCTTB6a2JJQTFNOUpDSUtpWXdaR3hkeGhlOXF4dF9yUElCd1ZkWTl4MmZGOWhVeUlXc2VCMXFCOHQzZ0ZGZ1RtZ3p6aUNObEczWFhKMkdKQ3JuRWF5SjVNZmpOQVBaSGs4TWJKS1lVa0VTdmoxdDBQTF8zRDlxME1qeEtOUzJzSTBERURobWltWTlVUlpaZ3d2WlFRNEY1b0UwbVVfLXc0cXBZ?oc=5",
+          "title": "Nucor: 100% EAF, High Profits, and Vertical Integration Mitigating Costs",
+          "summary": "Global steel producers are optimizing operations through Electric Arc Furnace (EAF) adoption and vertical integration to maintain profitability amidst market pressures.",
+          "why": "Changes in steel manufacturing methods and structural steel output directly influence metal fabrication activity and the baseline demand for industrial grinding products.",
+          "action": "Monitor steel mill operation trends to anticipate shifts in heavy metal deburring and grinding consumable orders.",
           "th": {
-            "title": "รายงานขนาด ส่วนแบ่ง และแนวโน้มตลาดสีและสารเคลือบผิวในกลุ่มประเทศ GCC ปี 2030",
-            "summary": "ตลาดสีและสารเคลือบผิวในกลุ่มประเทศ GCC ขยายตัวอย่างต่อเนื่อง ขับเคลื่อนโดยโครงการโครงสร้างพื้นฐานและการพัฒนาอุตสาหกรรมในภูมิภาค",
-            "why": "การเติบโตของตลาดเคลือบผิวเชื่อมโยงโดยตรงกับความต้องการที่เพิ่มขึ้นสำหรับงานเตรียมพื้นผิว การขัดก่อนเคลือบ และอุปกรณ์ตกแต่งผิว",
-            "action": "จับตาดูตลาดส่งออกภูมิภาคและกลุ่มอุตสาหกรรมที่มีการเติบโตซึ่งต้องการผลิตภัณฑ์เตรียมพื้นผิวงานหนัก"
+            "title": "นิวคอร์ (Nucor): ใช้เตาอาร์กไฟฟ้า 100%, กำไรสูง และการบูรณาการในแนวดิ่งเพื่อลดต้นทุน",
+            "summary": "ผู้ผลิตเหล็กทั่วโลกกำลังปรับปรุงการดำเนินงานผ่านการใช้เตาอาร์กไฟฟ้า (EAF) และการบูรณาการในแนวดิ่งเพื่อรักษาความสามารถในการทำกำไรท่ามกลางแรงกดดันของตลาด",
+            "why": "การเปลี่ยนแปลงในวิธีการผลิตเหล็กและปริมาณผลผลิตเหล็กมีผลโดยตรงต่อกิจกรรมการแปรรูปโลหะและความต้องการพื้นฐานของผลิตภัณฑ์หินเจียรและใบตัดอุตสาหกรรม",
+            "action": "ติดตามแนวโน้มการดำเนินงานของโรงงานเหล็กเพื่อคาดการณ์ความเปลี่ยนแปลงของคำสั่งซื้อวัสดุสิ้นเปลืองสำหรับงานลบคมและเจียรโลหะหนัก"
           }
         },
         {
           "id": "20260912-w3",
           "tag": "auto",
           "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-09-02",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUUpWSmpHLVowSXdiLUJqcFlpQ3ZfRmdQYjJiTVFCNk00ZW0tM0ZqenQtd2F4emNVNEdzT3Q3amZ3M050YnNuTldQZFQyTlgyX3ByekdEbkdlaURacG5yRlBUSEZucnBQalBmNzVadXVrSDdXcEd0d2t4UXptUzJ5dXZ6ckE1Q3RVV3IyUkY4SFdVSERveVJYem0yM3lNbWFUY1dXWHYyRFZ2cXdldWFqRmJTNE4tQ1RXWWp4N3NCN1h5Vmt3d3hEbkFPc2ZqT0k?oc=5",
-          "title": "A global AI manufacturing transformation at Hyundai Motor Group",
-          "summary": "Hyundai Motor Group is scaling a global AI and automation transformation across its manufacturing plants to boost efficiency and precision.",
-          "why": "Automotive manufacturing is rapidly automating, shifting the requirements for tooling, robotic sanding integration, and consistent surface finish quality.",
-          "action": "Study how automotive plants integrate AI and automation to align our product compatibility with automated grinding systems.",
+          "source": "MarketsandMarkets",
+          "date": "2026-08-19",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWEhwQ2p3b3pNX0E1cGFWOGdvT2pLdGxXOFFLYWVnTS1zaXFnV0o4Nnl4cHFMQkE0RGFYdXFuekJaTVJ1U1Z0bGRJY1dTMk5hTEpVaWtMendld3NQb0ZtcmRWMFlHWlN2cUVKMUlmaE0zQy1aZ25STUlITUx1aTFTZ0w5X2c4TWxvMUhv?oc=5",
+          "title": "US Automotive Refinish Coatings Market Size, Share, Trends, Growth Analysis Report, 2030",
+          "summary": "The automotive refinish coatings market in key regions like the US continues to evolve, emphasizing specialized coating technologies and repair efficiency.",
+          "why": "Automotive refinishing and body shop repair volume dictates steady, recurring demand for masking, sanding discs, and surface preparation abrasives.",
+          "action": "Keep an eye on automotive body shop inventory preferences for high-durability sanding discs and automotive masking systems.",
           "th": {
-            "title": "การเปลี่ยนแปลงการผลิตด้วย AI ระดับโลกของกลุ่มบริษัทฮุนไดมอเตอร์",
-            "summary": "กลุ่มบริษัทฮุนไดมอเตอร์กำลังขยายผลการแปลงโฉมด้วย AI และระบบอัตโนมัติทั่วโลกในโรงงานผลิต เพื่อเพิ่มประสิทธิภาพและความแม่นยำ",
-            "why": "อุตสาหกรรมการผลิตยานยนต์กำลังเปลี่ยนผ่านสู่อัตโนมัติอย่างรวดเร็ว ซึ่งส่งผลต่อความต้องการเครื่องมือ การบูรณาการระบบขัดด้วยหุ่นยนต์ และคุณภาพผิวสำเร็จ",
-            "action": "ศึกษาแนวทางการผสานรวม AI และระบบอัตโนมัติของโรงงานรถยนต์ เพื่อปรับความเข้ากันได้ของผลิตภัณฑ์ให้รองรับระบบขัดอัตโนมัติ"
+            "title": "รายงานขนาด ส่วนแบ่ง และแนวโน้มตลาดสีพ่นซ่อมรถยนต์ในสหรัฐอเมริกา ถึงปี 2030",
+            "summary": "ตลาดสีพ่นซ่อมรถยนต์ในภูมิภาคหลักอย่างสหรัฐอเมริกายังคงพัฒนาอย่างต่อเนื่อง โดยเน้นเทคโนโลยีสารเคลือบพิเศษและประสิทธิภาพในการซ่อมแซม",
+            "why": "ปริมาณงานซ่อมสีและตัวถังรถยนต์เป็นตัวกำหนดความต้องการที่สม่ำเสมอสำหรับกระดาษทราย แผ่นขัด และวัสดุเตรียมพื้นผิว",
+            "action": "จับตาดูความต้องการของร้านซ่อมตัวถังรถยนต์ที่มีต่อแผ่นขัดความทนทานสูงและระบบเตรียมพื้นผิวสำหรับรถยนต์"
           }
         }
       ]
