@@ -3,64 +3,82 @@ window.NEWS_ARCHIVE = {
   "days": [
     {
       "date": "2026-09-12",
-      "summary": "News volume is limited today; key highlights center on Mexican auto manufacturing opening export avenues for Thai parts makers, alongside industrial groups pressing for strict SME local content in the upcoming EV tax framework.",
-      "directCount": 2,
+      "summary": "Today's fresh news volume is limited, with market attention remaining centered on the EV Board's tax overhaul. The key development for MK is Japanese automakers pledging an additional 50 billion baht in local production, which will directly support factory grinding and finishing consumption.",
+      "directCount": 1,
       "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยประเด็นสำคัญเน้นไปที่ยอดผลิตยานยนต์ในเม็กซิโกที่ช่วยเปิดตลาดส่งออกให้ผู้ผลิตชิ้นส่วนไทย รวมถึงภาคเอกชนที่เร่งผลักดันให้โครงสร้างภาษี EV ใหม่กระจายคำสั่งซื้อเข้าสู่ซัพพลายเชน SME ในประเทศ"
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยประเด็นหลักยังคงเกาะติดการปรับโครงสร้างภาษีของบอร์ดอีวี ข่าวเด่นสำคัญสำหรับ MK คือค่ายรถยนต์ญี่ปุ่นเตรียมเพิ่มงบลงทุนผลิตในไทยอีก 50,000 ล้านบาท ซึ่งส่งผลบวกโดยตรงต่อความต้องการใช้วัสดุขัดและเจียรในสายการผลิต"
       },
       "items": [
         {
           "id": "20260912-1",
           "tag": "auto",
           "rating": "green",
-          "source": "ditp.go.th",
+          "source": "Hoonsmart",
           "date": "2026-09-10",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE55bUVLU2lqcFRhV0g4WkxtOHlmSGR1Mk9TM0Z5bzRwYU1EOG5iQUJEUHloNG5FTXZZSk1XaUdUdUFTVnE1OEZ5U2Y3QThOdWg3c0huLTM1YllLU0Z3REVXR2tn?oc=5",
-          "title": "Mexican Auto Production Hits 2.64M Units, Opening Export Opportunities for Thai Parts Makers",
-          "summary": "Mexican vehicle production reached 2.64 million units in the first eight months, solidifying its North American hub status and creating fresh export demand for Thai component suppliers.",
-          "why": "Surging export orders for Thai precision stamped and machined metal components directly increase factory demand for deburring, grinding, and surface-finishing abrasives.",
-          "action": "Target Thai export-oriented automotive parts manufacturers supplying North American platforms with high-durability grinding discs and deburring belts.",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zNF82azcwV1ZIbVR4ZS1vR0lQY0pxaHI2bVlGNFVUMmFuNEVEZlpEZlJtUF91WTc0Z0V0aDA5TTBzQnFyY3g5b3ZHX0t2QQ?oc=5",
+          "title": "Japanese Automakers Commit 50 Billion Baht Investment After EV Board Restructures Tax",
+          "summary": "Following the EV Board's tax overhaul, Japanese carmakers are preparing to inject 50 billion baht to upgrade domestic manufacturing facilities and maintain Thailand as a regional production hub.",
+          "why": "Japanese automotive plants are MK's prime target customers. A 50-billion-baht capital expenditure means tooling upgrades, expanded stamping, and steady demand for deburring and surface preparation abrasives.",
+          "action": "Instruct technical sales reps to visit Tier 1 and Tier 2 Japanese parts makers to pitch automated grinding belts and finishing discs for upcoming re-tooled lines.",
           "th": {
-            "title": "ยอดผลิตรถยนต์เม็กซิโก 8 เดือนแตะ 2.64 ล้านคัน เปิดโอกาสส่งออกชิ้นส่วนยานยนต์ไทย",
-            "summary": "ยอดผลิตรถยนต์ในเม็กซิโกช่วง 8 เดือนแรกแตะ 2.64 ล้านคัน ตอกย้ำการเป็นฐานผลิตหลักของอเมริกาเหนือ พร้อมเปิดโอกาสให้ผู้ผลิตชิ้นส่วนยานยนต์ไทยขยายตลาดส่งออก",
-            "why": "คำสั่งซื้อชิ้นส่วนโลหะและงานปั๊มขึ้นรูปส่งออกที่เพิ่มขึ้น กระตุ้นปริมาณการใช้วัสดุขัดลบครีบ เจียรแต่ง และเตรียมผิวโลหะในโรงงานไทยโดยตรง",
-            "action": "เร่งเข้าพบโรงงานผลิตชิ้นส่วนยานยนต์เพื่อการส่งออกกลุ่มตลาดอเมริกาเหนือ เพื่อนำเสนอจานขัดหยาบและสายพานผ้าทรายสำหรับงานลบคมความเร็วสูง"
+            "title": "ค่ายรถญี่ปุ่นเตรียมลงทุนเพิ่ม 5 หมื่นล้านบาท ขานรับบอร์ดอีวีรื้อโครงสร้างภาษี",
+            "summary": "หลังจากบอร์ดอีวีปรับโครงสร้างภาษีใหม่ ค่ายรถยนต์ญี่ปุ่นเตรียมอัดฉีดเม็ดเงินลงทุนเพิ่มอีก 50,000 ล้านบาท เพื่อยกระดับโรงงานผลิตและรักษาฐานการผลิตในไทย",
+            "why": "โรงงานยานยนต์ญี่ปุ่นคือลูกค้ากลุ่มเป้าหมายหลักของ MK การลงทุนใหม่ระดับ 5 หมื่นล้านบาทจะช่วยกระตุ้นการผลิตชิ้นส่วนโลหะ และสร้างอุปสงค์วัสดุขัดเงาและลบครีบอย่างต่อเนื่อง",
+            "action": "ให้ทีมขายเชิงเทคนิครีบเข้าพบโรงงานชิ้นส่วน Tier 1 และ Tier 2 ญี่ปุ่น เพื่อนำเสนอสายพานขัดและจานขัดรองรับสายการผลิตปรับปรุงใหม่"
           }
         },
         {
           "id": "20260912-2",
           "tag": "auto",
-          "rating": "green",
-          "source": "สำนักข่าวอินโฟเควสท์",
-          "date": "2026-09-11",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10bjhPZ2dCSW1SeVYxeUd4OHotcGUxOXllVWFFSFlhY3dXbG1pRzBGNGhBbm9CQUhEcVViRHN5d1U4dFNJclV1VXRFbS0xVEpO?oc=5",
-          "title": "FTI Urges Auto Tax Overhaul to Connect EV Supply Chain Directly to Local SMEs",
-          "summary": "The Federation of Thai Industries backed the EV tax restructuring, urging policymakers to mandate supply chain integration so manufacturing orders flow to local SME component makers.",
-          "why": "Directly mandating SME participation in EV component manufacturing prevents local metal stamping, machining, and welding shops from losing factory production volume.",
-          "action": "Engage local Tier-2 and Tier-3 metal fabricators bidding for EV structural components to supply trial batches of non-woven abrasives and flap discs.",
+          "rating": "amber",
+          "source": "Techsauce",
+          "date": "2026-09-10",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sRmQwb2FJZ19veGNwZE51X0djUWppVm9hUWc2NVFRR2xrcWlvaDlxN0ZWOVYySHpMUmNjMWljNUhlbllNTUdseC1lZ2xEUktoOTVYZWdsOGl5b3pQUTdIaQ?oc=5",
+          "title": "EV Board Adopts 'Produce More, Pay Less' Policy Penalizing Non-Factory Importers",
+          "summary": "Thailand's EV Board has finalized a tax principle that scales excise taxes down only for brands with local factories and domestic part procurement, while heavily taxing pure vehicle importers.",
+          "why": "This policy forces Chinese and other foreign EV assemblers to order pressed and welded metal sub-assemblies inside Thailand rather than importing complete knock-downs.",
+          "action": "Target newly established domestic tier-suppliers servicing EV body-in-white and chassis lines with heavy-duty flap discs and deburring abrasives.",
           "th": {
-            "title": "ส.อ.ท. หนุนปรับโครงสร้างภาษียานยนต์ ดึงลงทุนและเชื่อมซัพพลายเชนสู่ SMEs ไทย",
-            "summary": "สภาอุตสาหกรรมแห่งประเทศไทยสนับสนุนการปรับโครงสร้างภาษีสรรพสามิตรถยนต์ พร้อมจี้รัฐต้องผูกเงื่อนไขดึงการลงทุนเพื่อถ่ายทอดงานผลิตลงสู่ซัพพลายเชนระดับ SMEs ในประเทศ",
-            "why": "การผลักดันให้เกิดการจ้างงานผลิตชิ้นส่วนในกลุ่ม SME ช่วยปกป้องปริมาณงานตัด พับ ปั๊ม และเชื่อมโลหะ ทำให้เกิดการใช้วัสดุขัดในกลุ่มโรงงานระดับ Tier-2/Tier-3 อย่างต่อเนื่อง",
-            "action": "เข้าเจาะกลุ่มโรงงานแปรรูปโลหะและชิ้นส่วน Tier-2/Tier-3 ที่เตรียมรับงานโครงสร้าง EV เพื่อเสนอส่งตัวอย่างจานทรายซ้อนและใยสังเคราะห์ขัดเงาเข้าทดสอบ"
+            "title": "บอร์ดอีวีเคาะแนวคิดใหม่ 'ยิ่งผลิตในไทยมาก ภาษียิ่งถูกลง' บีบผู้นำเข้ารถไร้โรงงาน",
+            "summary": "บอร์ดอีวีเห็นชอบหลักเกณฑ์ภาษีใหม่ ยิ่งตั้งโรงงานและใช้ชิ้นส่วนในประเทศมาก อัตราภาษีสรรพสามิตยิ่งต่ำ ขณะที่การนำเข้ารถสำเร็จรูปโดยไม่มีโรงงานจะโดนภาษีสูงขึ้น",
+            "why": "นโยบายนี้บีบให้ค่ายรถ EV ต่างชาติต้องจ้างผลิตชิ้นงานโลหะ โครงสร้างตัวถัง และงานเชื่อมในไทยแทนการนำเข้าสำเร็จรูป ส่งผลให้โรงงานตัดเชื่อมและขึ้นรูปโลหะมีงานเพิ่มขึ้น",
+            "action": "เร่งเจาะกลุ่มโรงงานซัพพลายเออร์ไทยที่เตรียมรับผลิตโครงสร้างตัวถัง EV โดยนำเสนอจานทรายซ้อนและหินเจียรสำหรับลบรอยเชื่อม"
           }
         },
         {
           "id": "20260912-3",
-          "tag": "auto",
+          "tag": "aero",
           "rating": "amber",
-          "source": "thaipbs.or.th",
-          "date": "2026-09-11",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5UWnpkOVRxUzRQMWR5dG55OC1qNTVoRGpWd0RDa2ZRSUpQb3lLMFBRQi14MG1ZOWtfQkx3MzVUa243ZXlNY2hSVVR1ZXZZak43cm5CZnNhUko?oc=5",
-          "title": "Thai Chamber of Commerce Endorses EV Board Policy to Strictly Mandate Local Content",
-          "summary": "The Thai Chamber of Commerce praised the EV Board's restructuring plan, emphasizing that excise discounts must be tightly linked to local content utilization to defend domestic suppliers.",
-          "why": "Enforcing high domestic content criteria pressures foreign EV assemblers to source localized metal and chassis parts instead of relying on imported semi-knocked-down kits.",
-          "action": "Track vendor nomination updates among Tier-1 chassis and battery casing suppliers to position MK abrasive belts before assembly lines ramp up.",
+          "source": "posttoday",
+          "date": "2026-07-27",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lak5sZXQtNktSd3dqWTVQcmdhN2JJdGVhSEUxUzk5RFI5TUs4T3kzMzBqVDdNUnp4N2k3M2FBalNXd0UwaS1XeUxkczM4Rzg4QnVBQXJR?oc=5",
+          "title": "EECO Raises Capital to Propel U-Tapao into Regional Aircraft MRO Center",
+          "summary": "The Eastern Economic Corridor Office is raising investment funds to construct regional aircraft maintenance, repair, and overhaul (MRO) facilities at U-Tapao International Airport.",
+          "why": "Aerospace maintenance demands precision surface conditioning, paint-stripping sanding discs, and specialized non-woven abrasives that yield higher gross margins than automotive products.",
+          "action": "Audit MK's inventory and obtain aerospace-grade certification data sheets for Scotch-Brite style non-woven belts and orbital sanding discs to prepare for MRO bidding.",
           "th": {
-            "title": "หอการค้าไทยขานรับบอร์ด EV หนุนใช้มาตรการภาษีจูงใจดันสัดส่วน Local Content",
-            "summary": "หอการค้าไทยแสดงความเห็นชอบต่อนโยบายบอร์ด EV โดยย้ำว่าการลดหย่อนภาษีต้องผูกกับเงื่อนไขการใช้ชิ้นส่วนในประเทศอย่างเข้มงวดเพื่อปกป้องผู้ผลิตไทยจากการพึ่งพาการนำเข้า",
-            "why": "การบังคับใช้เกณฑ์ชิ้นส่วนในประเทศจะบีบให้ค่ายรถ EV ต่างชาติต้องจ้างผลิตชิ้นส่วนโครงสร้างและงานโลหะในไทย แทนการนำเข้าชิ้นงานสำเร็จรูป",
-            "action": "ติดตามการคัดเลือกซัพพลายเออร์ของผู้ผลิตชิ้นส่วนโครงสร้างและถาดแบตเตอรี่ EV เพื่อเสนอสายพานขัดของ MK เข้าสู่ไลน์การผลิตตั้งแต่ช่วงเริ่มแรก"
+            "title": "อีอีซีเดินหน้าระดมทุน ดันอุตสาหกรรม MRO ปั้นอู่ตะเภาสู่ศูนย์ซ่อมอากาศยานภูมิภาค",
+            "summary": "สำนักงาน อีอีซี เร่งระดมทุนผลักดันการพัฒนาศูนย์ซ่อมบำรุงอากาศยาน (MRO) ที่สนามบินอู่ตะเภา เพื่อให้ไทยก้าวเป็นฮับซ่อมเครื่องบินระดับภูมิภาค",
+            "why": "งานซ่อมบำรุงเครื่องบินใช้วัสดุขัดเฉพาะทาง เช่น จานขัดลอกสีและแผ่นใยขัดปรับสภาพผิว ซึ่งเป็นสินค้ามาร์จิ้นสูงและเป็นตลาดกลยุทธ์ใหม่ที่ MK กำลังเจาะลึก",
+            "action": "จัดเตรียมแคตตาล็อกและเอกสารสเปกทางเทคนิคของจานขัดลมและสายพานใยสังเคราะห์ เพื่อเตรียมความพร้อมเข้าร่วมประมูลงานในศูนย์ MRO"
+          }
+        },
+        {
+          "id": "20260912-4",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "เดลินิวส์",
+          "date": "2026-05-21",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3cWgyMzlsVU90VjFUWTJ4czV4U2ZIZi1QbnBzeUR5ZzNHQ21jTzR6RmVpaDFDVVF2ODVsTlFmYVZLbUlCdGhEUXExQTdSbng0U29n?oc=5",
+          "title": "Thai Steel Sector Suffers Battlefield Conditions from Low Usage and Chinese Influx",
+          "summary": "Local steel producers face severe financial pressure caused by sluggish domestic building activity and aggressive market dumping of cheap Chinese steel products.",
+          "why": "Prolonged distress among domestic steel fabrication plants reduces daily grinding disc and cut-off wheel consumption, posing a revenue risk for commodity metalworking lines.",
+          "action": "Review credit terms for local structural steel clients and shift sales focus toward higher-value industrial fabricators to minimize bad debt exposure.",
+          "th": {
+            "title": "อุตสาหกรรมเหล็กไทยวิกฤตหนัก เผชิญยอดใช้ต่ำและเหล็กจีนราคาถูกทะลักซ้ำเติม",
+            "summary": "ผู้ผลิตเหล็กในประเทศระบุตลาดอยู่ในภาวะสงครามราคาจากปัญหาก่อสร้างซบเซา และการทุ่มตลาดของเหล็กราคาถูกจากจีนอย่างต่อเนื่อง",
+            "why": "โรงงานแปรรูปโครงสร้างเหล็กทั่วไปที่ชะลอตัวจะลดการสั่งซื้อใบตัดและใบเจียรเหล็กขั้นพื้นฐาน ซึ่งอาจกระทบยอดขายวัสดุขัดกลุ่มงานเหล็กทั่วไปของ MK",
+            "action": "เข้มงวดวงเงินสินเชื่อของโรงงานเหล็กโครงสร้างทั่วไป พร้อมเบนเข็มทีมขายไปจับกลุ่มงานแปรรูปโลหะระดับบนที่เน้นคุณภาพเพื่อลดความเสี่ยงหนี้เสีย"
           }
         }
       ],
