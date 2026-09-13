@@ -4,64 +4,28 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-09-13",
-      "summary": "Today's briefing highlights shifts in precision surface prep for advanced tech, manufacturing transformations in automotive, and structural changes in the global steel market.",
-      "directCount": 3,
+      "summary": "Today's briefing highlights global coatings innovation and automotive manufacturing shifts, offering insights into surface finishing and supply chain trends.",
+      "directCount": 1,
       "th": {
-        "summary": "สรุปทิศทางโลกวันนี้เน้นการเตรียมพื้นผิวที่มีความแม่นยำสูงสำหรับเทคโนโลยีขั้นสูง การปรับเปลี่ยนการผลิตในอุตสาหกรรมยานยนต์ และการเปลี่ยนแปลงโครงสร้างตลาดเหล็กโลก"
+        "summary": "สรุปข้อมูลประจำวันนี้เน้นไปที่นวัตกรรมเคลือบผิวระดับโลกและการเปลี่ยนแปลงในอุตสาหกรรมการผลิตยานยนต์ ซึ่งช่วยให้เห็นแนวโน้มการเตรียมพื้นผิวและห่วงโซ่อุปทาน"
       },
       "items": [
         {
           "id": "20260913-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-09-11",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPM0IzU2FhMUZlR1lUSG1BY3VVdVZSaTVfVUxFeTJrV1VGazdzYURVUXZvN0VnTEdVYXEtbnRybGZkZ2FBUGotSHg2ejJfVDRQSld2Z3B1YU1mNjhxR0E2Mlg3eXdyT3ZCSjJSYXllN1lRSjByMXBKTVdHVlZ1WFBVZGhDZGVwM1ZpU3psc0dMTnZ4aUVnRVZDblFqOEMxUk9WVVFHVUlZN0lkSWF0X2JoSU5FWnRHeVNYTkJtMVVQZHBKMzNXTEQtZEJJZ09uQlpmcTNLdUdDdjY?oc=5",
-          "title": "Tab Surface Preparation Abrasives Market Forecast to 2035: Advanced Packaging and Semiconductor Capacity Drive Growth",
-          "summary": "Demand for surface preparation abrasives is surging due to the expansion of advanced semiconductor packaging and electronic capacity.",
-          "why": "Signals strong high-margin growth in micro-abrasives and precision finishing tools used in semiconductor and electronics manufacturing.",
-          "action": "Monitor high-precision micro-abrasive lines tailored for electronics and advanced packaging applications.",
-          "th": {
-            "title": "ตลาดวัสดุขัดเตรียมพื้นผิวเติบโตตามกำลังการผลิตบรรจุภัณฑ์ขั้นสูงและเซมิคอนดักเตอร์ถึงปี 2035",
-            "summary": "ความต้องการวัสดุขัดเพื่อเตรียมพื้นผิวพุ่งสูงขึ้นจากการขยายตัวของบรรจุภัณฑ์เซมิคอนดักเตอร์ขั้นสูงและกำลังการผลิตอิเล็กทรอนิกส์",
-            "why": "บ่งชี้ถึงการเติบโตที่มีอัตรากำไรสูงในกลุ่มผลิตภัณฑ์ไมAโครอะเบร시ฟและเครื่องมือขัดแต่งความละเอียดสูงสำหรับการผลิตอิเล็กทรอนิกส์",
-            "action": "ติดตามกลุ่มผลิตภัณฑ์วัสดุขัดขนาดไมครอนความแม่นยำสูงที่เหมาะสำหรับงานอิเล็กทรอนิกส์และบรรจุภัณฑ์ขั้นสูง"
-          }
-        },
-        {
-          "id": "20260913-w2",
-          "tag": "auto",
+          "tag": "coating",
           "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-09-02",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUUpWSmpHLVowSXdiLUJqcFlpQ3ZfRmdQYjJiTVFCNk00ZW0tM0ZqenQtd2F4emNVNEdzT3Q3amZ3M050YnNuTldQZFQyTlgyX3ByekdEbkdlaURacG5yRlBUSEZucnBQalBmNzVadXVrSDdXcEd0d2t4UXptUzJ5dXZ6ckE1Q3RVV3IyUkY4SFdVSERveVJYem0yM3lNbWFUY1dXWHYyRFZ2cXdldWFqRmJTNE4tQ1RXWWp4N3NCN1h5Vmt3d3hEbkFPc2ZqT0k?oc=5",
-          "title": "A global AI manufacturing transformation at Hyundai Motor Group",
-          "summary": "Hyundai is scaling AI-driven automation across its global manufacturing footprint to optimize production efficiency.",
-          "why": "Automated factories require consistent, robot-compatible robotic sanding and deburring consumables rather than manual touch-ups.",
-          "action": "Prepare for a shift toward automated robotic abrasive solutions as automakers adopt AI manufacturing.",
+          "source": "European Coatings",
+          "date": "2026-09-07",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
+          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
+          "summary": "The European coatings sector focuses on sustainability, advanced innovation, and digital integration to drive future manufacturing standards.",
+          "why": "Coatings and surface treatments go hand-in-hand with abrasive preparation; changes in coating tech dictate how surfaces must be prepped.",
+          "action": "Monitor how new eco-friendly coatings alter surface roughness requirements for metal and wood substrates.",
           "th": {
-            "title": "การเปลี่ยนแปลงการผลิตด้วย AI ระดับโลกที่ฮุนได มอเตอร์ กรุ๊ป",
-            "summary": "ฮุนไดกำลังขยายขนาดระบบอัตโนมัติที่ขับเคลื่อนด้วย AI ทั่วฐานการผลิตทั่วโลกเพื่อเพิ่มประสิทธิภาพการผลิต",
-            "why": "โรงงานอุตสาหกรรมอัตโนมัติจำเป็นต้องใช้วัสดุสิ้นเปลืองสำหรับขัดและลบครีบที่รองรับหุ่นยนต์และมีความสม่ำเสมอสูง แทนการใช้แรงงานคนขัดแต่ง",
-            "action": "เตรียมพร้อมรับมือกับการเปลี่ยนแปลงสู่โซลูชันวัสดุขัดแบบอัตโนมัติสำหรับหุ่นยนต์ ตามที่ค่ายรถยนต์ปรับใช้การผลิตด้วย AI"
-          }
-        },
-        {
-          "id": "20260913-w3",
-          "tag": "steel",
-          "rating": "green",
-          "source": "Fortune Business Insights",
-          "date": "2026-08-24",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kYlp3TXBwdU5JVl9Gc0pFd3lJSFpjSUhLeEFGOVZVS19BbHBoTFNGb1BFOC1UNEN4c1o0c2xjdTFZYXhVdGRVb0dIeXZqakt1bTJkQy10SC0wRlh0RVVBZHZaWDFYbDk3cHdUbXBsYnRyYTlFVEE?oc=5",
-          "title": "Metal Casting Market Growth Analysis & Industry Forecast, 2034",
-          "summary": "The global metal casting market continues to expand steadily, driven by industrial machinery, automotive, and construction demand.",
-          "why": "Foundries and metal casting operations are massive consumers of heavy-duty grinding wheels, sanding belts, and deburring tools for surface cleaning.",
-          "action": "Maintain strong inventory and technical support for heavy metal removal and foundry casting clean-up abrasives.",
-          "th": {
-            "title": "การวิเคราะห์การเติบโตของตลาดการหล่อโลหะและการคาดการณ์อุตสาหกรรมถึงปี 2034",
-            "summary": "ตลาดการหล่อโลหะทั่วโลกยังคงขยายตัวอย่างต่อเนื่อง ขับเคลื่อนโดยความต้องการจากอุตสาหกรรมเครื่องจักร ยานยนต์ และการก่อสร้าง",
-            "why": "โรงหล่อและกิจการหล่อโลหะเป็นผู้บริโภครายใหญ่ของล้อเจียรงานหนัก สายพานขัด และเครื่องมือลบครีบสำหรับการทำความสะอาดผิวงาน",
-            "action": "รักษาระดับสต็อกและการสนับสนุนทางเทคนิคสำหรับกลุ่มวัสดุขัดงานขจัดเนื้อโลหะหนักและงานทำความสะอาดชิ้นงานหล่อ"
+            "title": "การกำหนดอนาคตยุคใหม่แห่งการเคลือบผิว: นวัตกรรม ความยั่งยืน และพลังแห่งดิจิทัล",
+            "summary": "ภาคอุตสาหกรรมการเคลือบผิวในยุโรปมุ่งเน้นเรื่องความยั่งยืน นวัตกรรมขั้นสูง และการบูรณาการดิจิทัลเพื่อขับเคลื่อนมาตรฐานการผลิตในอนาคต",
+            "why": "กระบวนการเคลือบผิวและการเตรียมพื้นผิวมีความเกี่ยวเนื่องกันอย่างใกล้ชิด เทคโนโลยีการเคลือบที่เปลี่ยนไปจะกำหนดว่าพื้นผิวต้องได้รับการเตรียมอย่างไร",
+            "action": "ติดตามว่าเทคโนโลยีสีเคลือบที่เป็นมิตรต่อสิ่งแวดล้อม ส่งผลต่อความต้องการความหยาบของพื้นผิวโลหะและไม้ปาร์เกต์อย่างไร"
           }
         }
       ]
