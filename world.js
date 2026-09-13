@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-09-13",
+  "updated": "2026-09-14",
   "days": [
+    {
+      "date": "2026-09-14",
+      "summary": "Today's briefing highlights niche high-growth segments in surface finishing, particularly electronics, semiconductor packaging, and coarse sheet abrasives, alongside global steel surplus dynamics.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปทิศทางโลกวันนี้เน้นกลุ่มตลาดขัดผิวที่มีการเติบโตสูง เช่น งานอิเล็กทรอนิกส์ บรรจุภัณฑ์เซมิคอนดักเตอร์ และกระดาษทรายหยาบ ควบคู่ไปกับภาวะอุปทานเหล็กส่วนเกินในตลาดโลก"
+      },
+      "items": [
+        {
+          "id": "20260914-w1",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-09-13",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNampPT2tfdEQzcFJFejdVSjM3bGtXSmZUNlFBQWFiTHlEa0ZiLWswbHZNNkdNV0pJaFFnZ2I1NXhQWjc3RlNqVTRGQ09HcTVvYjlPSno5dGtramktX1FKN3hGOFhTeGJfZjJ6dGxtSDF2Yi14VGZwYlRydFMtM3VVdW0wVU9yWVlPNDlweFQ2c0pSN3FNSS03Yk4zRUFsVlB0cGJybHZKV1h5Yzc3OVBVdWZaaEp4NDBWRTVHYXlpbEVOaDF0Z29BODFnZGFuRUVXNVlfVw?oc=5",
+          "title": "Sandpaper Sheets Coarse Market Forecast to 2035: Growth Accelerates on Electronics and Metal Finishing Demand",
+          "summary": "Global demand for coarse sandpaper sheets is accelerating due to rising requirements in electronics and advanced metal finishing applications.",
+          "why": "Signals strong future demand for heavy-duty and coarse abrasive sheets in specialized manufacturing beyond traditional woodworking.",
+          "action": "Ensure stable sourcing and inventory options for coarse-grit sandpaper sheets targeting metal and electronics workshops.",
+          "th": {
+            "title": "ตลาดกระดาษทรายหยาบคาดการณ์ถึงปี 2035: เติบโตเร่งตัวจากความต้องการด้านอิเล็กทรอนิกส์และการตกแต่งโลหะ",
+            "summary": "ความต้องการกระดาษทรายแผ่นหยาบเติบโตเร็วขึ้น เนื่องจากความต้องการที่เพิ่มขึ้นในอุตสาหกรรมอิเล็กทรอนิกส์และการตกแต่งผิวโลหะขั้นสูง",
+            "why": "บ่งชี้ถึงความต้องการกระดาษทรายหยาบสำหรับงานหนักในภาคการผลิตเฉพาะทางที่นอกเหนือจากงานไม้ทั่วไป",
+            "action": "ตรวจสอบแหล่งจัดซื้อและสต็อกกระดาษทรายหยาบให้เพียงพอสำหรับกลุ่มลูกค้าโลหะและอิเล็กทรอนิกส์"
+          }
+        },
+        {
+          "id": "20260914-w2",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-09-11",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPM0IzU2FhMUZlR1lUSG1BY3VVdVZSaTVfVUxFeTJrV1VGazdzYURVUXZvN0VnTEdVYXEtbnRybGZkZ2FBUGotSHg2ejJfVDRQSld2Z3B1YU1mNjhxR0E2Mlg3eXdyT3ZCSjJSYXllN1lRSjByMXBKTVdHVlZ1WFBVZGhDZGVwM1ZpU3psc0dMTnZ4aUVnRVZDblFqOEMxUk9WVVFHVUlZN0lkSWF0X2JoSU5FWnRHeVNYTkJtMVVQZHBKMzNXTEQtZEJJZ09uQlpmcTNLdUdDdjY?oc=5",
+          "title": "Tab Surface Preparation Abrasives Market Forecast to 2035: Advanced Packaging and Semiconductor Capacity Drive Growth",
+          "summary": "Advanced semiconductor packaging and expanding chip manufacturing capacity are boosting the market for specialized surface preparation abrasives.",
+          "why": "High-tech surface finishing and micro-abrasives represent a high-value frontier for precision polishing applications.",
+          "action": "Monitor precision micro-finishing trends for electronic components to spot new B2B niche opportunities.",
+          "th": {
+            "title": "ตลาดวัสดุขัดเตรียมพื้นผิวคาดการณ์ถึงปี 2035: บรรจุภัณฑ์ขั้นสูงและกำลังการผลิตเซมิคอนดักเตอร์ขับเคลื่อนการเติบโต",
+            "summary": "บรรจุภัณฑ์เซมิคอนดักเตอร์ขั้นสูงและการขยายตัวของการผลิตชิปกำลังผลักดันตลาดวัสดุขัดเตรียมพื้นผิวเฉพาะทาง",
+            "why": "การขัดผิวไฮเทคและไมAbrasive ถือเป็นตลาดมูลค่าสูงสำหรับการใช้งานขัดความแม่นยำสูง",
+            "action": "ติดตามแนวโน้มการขัดละเอียดระดับไมโครสำหรับชิ้นส่วนอิเล็กทรอนิกส์เพื่อมองหาโอกาสใหม่ๆ ในกลุ่ม B2B"
+          }
+        },
+        {
+          "id": "20260914-w3",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "S&P Global",
+          "date": "2026-01-12",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
+          "title": "Global steel industry battles surplus supply, protectionism",
+          "summary": "The global steel sector continues to face oversupply issues and rising trade protectionism, impacting production strategies worldwide.",
+          "why": "Fluctuations in steel production volumes directly affect metal fabrication activity and the baseline demand for industrial grinding and deburring products.",
+          "action": "Keep an eye on regional metal fabrication output as an indicator for standard grinding wheel and belt consumption.",
+          "th": {
+            "title": "อุตสาหกรรมเหล็กโลกเผชิญกับภาวะอุปทานส่วนเกินและมาตรการกีดกันทางการค้า",
+            "summary": "ภาคอุตสาหกรรมเหล็กทั่วโลกยังคงเผชิญกับปัญหาล้นตลาดและลัทธิปกป้องทางการค้าที่เพิ่มขึ้น ซึ่งส่งผลต่อกลยุทธ์การผลิตทั่วโลก",
+            "why": "ความผันผวนของปริมาณการผลิตเหล็กส่งผลโดยตรงต่อกิจกรรมการแปรรูปโลหะและความต้องการขั้นพื้นฐานสำหรับผลิตภัณฑ์เจียรและลบคม",
+            "action": "จับตาดูปริมาณการผลิตของอุตสาหกรรมแปรรูปโลหะในภูมิภาค เพื่อใช้เป็นสัญญาณวัดความต้องการหินเจียรและสายพานขัด"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-09-13",
       "summary": "Today's briefing highlights global coatings innovation and automotive manufacturing shifts, offering insights into surface finishing and supply chain trends.",
@@ -848,106 +912,6 @@ window.WORLD_ARCHIVE = {
             "summary": "การวิเคราะห์ตลาดสีพ่นรถยนต์ OEM เผยให้เห็นการพัฒนาอย่างต่อเนื่องของคุณสมบัติสีเคลือบและการเตรียมผิวตัวถังรถยนต์ถึงปี 2034",
             "why": "สายการผลิตยานยนต์เป็นผู้ใช้หลักของกระดาษทรายและวัสดุขัดสำหรับงานเตรียมพื้นผิวและงานพ่นสีรถยนต์",
             "action": "เตรียมรับมือกับความต้องการของโรงงานประกอบรถยนต์ที่ต้องการงานเตรียมพื้นผิวที่ละเอียดไร้ตำหนิและเครื่องมือขัดที่เฉพาะเจาะจงมากขึ้น"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-08-31",
-      "summary": "Today's intelligence highlights niche high-tech growth areas including sub-50nm semiconductor micro-abrasives, ceramic flap discs for precision metalworking, and EV manufacturing shifts impacting surface prep and finishing requirements.",
-      "directCount": 4,
-      "th": {
-        "summary": "รายงานสรุปภาวะอุตสาหกรรมวันนี้เน้นย้ำการเติบโตของกลุ่มสินค้าเฉพาะทางและไฮเทค เช่น ผงขัดไมครอนสำหรับเซมิคอนดักเตอร์, แผ่นเจียรผ้าทรายเซรามิกสำหรับการแปรรูปโลหะความแม่นยำสูง และการเปลี่ยนแปลงในอุตสาหกรรมยานยนต์ EV ที่ส่งผลต่อความต้องการเตรียมพื้นผิว"
-      },
-      "items": [
-        {
-          "id": "20260831-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-08-30",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOanZrUnUwZzBiNEhWSERHZTZzYkJOaFp2VklkeTR0VzVwQTloNlFBNC1Ma3pPU0gwYndWVE9CcXJjTV9KYlpYZm9hRGFhazVCYzhuUnZQZmpXSHN2ejlFVTdvclV6NzR0eTFPU3dTWmpCMlpnSEl6OFRoVGpqVThtQXRyUTJHdWY3dy0tWDhhOEx1Q3ctNzB2eERHQ3lMV2QzaWItS3BvQnhiYUh5V2h3Q0JXZTJpZjhQekFR?oc=5",
-          "title": "Micronized Abrasive Powders Market $2.4B by 2035 on Sub-50nm Semiconductor Demand",
-          "summary": "The global micronized abrasive powders market is projected to reach $2.4 billion by 2035, driven heavily by demand for ultra-precise sub-50nm semiconductor manufacturing.",
-          "why": "Signals strong high-margin growth in ultra-fine precision grinding and polishing applications beyond traditional metalworking.",
-          "action": "Monitor advanced micro-powder and slurry technologies used in electronics and semiconductor supply chains.",
-          "th": {
-            "title": "ตลาดผงขัดไมครอนแตะ 2.4 พันล้านดอลลาร์ภายในปี 2035 จากความต้องการเซมิคอนดักเตอร์ต่ำกว่า 50 นาโนเมตร",
-            "summary": "ตลาดผงขัดไมครอนทั่วโลกคาดว่าจะเติบโตถึง 2.4 พันล้านดอลลาร์ภายในปี 2035 ขับเคลื่อนโดยความต้องการในการผลิตเซมิคอนดักเตอร์ความแม่นยำสูงพิเศษขนาดต่ำกว่า 50 นาโนเมตร",
-            "why": "บ่งชี้ถึงการเติบโตที่มีอัตรากำไรสูงในการขัดและตกแต่งผิวความละเอียดสูง นอกเหนือจากงานโลหะทั่วไป",
-            "action": "ติดตามเทคโนโลยีผงขัดละเอียดพิเศษและน้ำยาขัดที่ใช้ในห่วงโซ่อุปทานอิเล็กทรอนิกส์และเซมิคอนดักเตอร์"
-          }
-        },
-        {
-          "id": "20260831-w2",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "Market Research Future",
-          "date": "2026-08-24",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY0JpWXlQSC1LeGU2eUdGRW1zTEZ4amNoRXAyUWcxcnpWbEdzWmprSTBFM1htcllTNmQtdlRENmZ2NlhXbV9oNTlJbnJ0UjV5cENzZC1yTUdwM21YRi0wZUxBd1l6ODNDM1NxSUdQcFMwMGpCRnJuY041elNoT1RSRA?oc=5",
-          "title": "Ceramic Flap Disc Market Size, Share & Growth Report 2035 | MRFR",
-          "summary": "The ceramic flap disc market is expanding steadily towards 2035, driven by industrial demand for durable, high-performance abrasive tools in metal fabrication.",
-          "why": "Ceramic grain technology is replacing conventional aluminium oxide in heavy-duty grinding due to longer lifespan and faster cutting.",
-          "action": "Ensure our ceramic flap disc product lines are well-stocked and promoted to heavy metal fabrication clients.",
-          "th": {
-            "title": "รายงานขนาด ส่วนแบ่ง และการเติบโตของตลาดแผ่นเจียรผ้าทรายเซรามิก ปี 2035 | MRFR",
-            "summary": "ตลาดแผ่นเจียรผ้าทรายเซรามิกกำลังขยายตัวอย่างต่อเนื่องจนถึงปี 2035 จากความต้องการเครื่องมือขัดที่มีความทนทานและประสิทธิภาพสูงในอุตสาหกรรมแปรรูปโลหะ",
-            "why": "เทคโนโลยีเม็ดทรายเซรามิกกำลังเข้ามาแทนที่อลูมิเนียมออกไซด์แบบดั้งเดิมในงานเจียรหนัก เนื่องจากอายุการใช้งานยาวนานและตัดได้เร็วกว่า",
-            "action": "ตรวจสอบให้แน่ใจว่าสต็อกสินค้ากลุ่มแผ่นเจียรผ้าทรายเซรามิกมีความพร้อมและได้รับการโปรโมตให้ ฐานลูกค้ากลุ่มงานโลหะหนัก"
-          }
-        },
-        {
-          "id": "20260831-w3",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "IndexBox",
-          "date": "2026-08-30",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb3RKbENOV1ExYzA5LVFTaGQ3ZzJOYVcxWjc2RWNwcjJxdkpGbWhqdFVRM3prV21FcmxVREN3ZUtSQWpLTnNlNUhTQmZMazBYQ3pJMlJpWTlpVGUxaVNtN0FXTlQxdk1uQjFWSmlfMF82SnpUaGFGQnBHT2p4cDRnc2diYlcwaU9XMTJiVS05SDFhVFBDZ0tWbmQydjBwUU5kZmxxOERmOVA1WXpaSEw3QmlaMk4?oc=5",
-          "title": "Acrylic Exterior Latex Coatings Market 2035: 5.8% CAGR on Low-VOC Shift",
-          "summary": "The global acrylic exterior latex coatings market is set for a 5.8% CAGR through 2035, propelled by stringent environmental regulations pushing low-VOC formulations.",
-          "why": "Paints and coatings market shifts influence surface preparation requirements, primers, and sanding media used prior to coating application.",
-          "action": "Keep an eye on surface prep standards required for eco-friendly, low-VOC architectural and industrial coatings.",
-          "th": {
-            "title": "ตลาดสีอะคริลิกทาภายนอกปี 2035: เติบโต 5.8% จากการเปลี่ยนผ่านสู่ Low-VOC",
-            "summary": "ตลาดสีอะคริลิกทาภายนอกทั่วโลกคาดว่าจะเติบโต 5.8% ต่อปีจนถึงปี 2035 ขับเคลื่อนโดยกฎระเบียบด้านสิ่งแวดล้อมที่เข้มงวดซึ่งผลักดันสูตรสีสารอินทรีย์ระเหยต่ำ (Low-VOC)",
-            "why": "การเปลี่ยนแปลงในตลาดสีและสารเคลือบส่งผลต่อความต้องการเตรียมพื้นผิว สีรองพื้น และวัสดุกระดาษทรายที่ใช้ก่อนการพ่นสี",
-            "action": "ติดตามมาตรฐานการเตรียมพื้นผิวที่จำเป็นสำหรับงานเคลือบสถาปัตยกรรมและอุตสาหกรรมที่เป็นมิตรต่อสิ่งแวดล้อมและมี VOC ต่ำ"
-          }
-        },
-        {
-          "id": "20260831-w4",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Market Research Future",
-          "date": "2026-08-24",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mZllSOV9OY2h5RnNMTk54ZmNTQVdqcVJsR2FzMHZBUHVQZHdzVkRXUlZlU1pRVU9BU1ZzZExoT19uRmRFQllDblVySEstdXptY1U0R3pDUWRqN2pkVmg5dTF2QzJud1pMS1BwTDdxVGFXcHB2WWsxZA?oc=5",
-          "title": "Automotive Industry 2026, Size, Company, Growth, Trends 2035 Market Size, Share & Growth Report 2035 | MRFR",
-          "summary": "Global automotive manufacturing continues to evolve with EV adoption and regional supply chain diversification reshaping production lines.",
-          "why": "Automotive production shifts dictate metal stamping, body-in-white welding, and surface finishing needs (deburring, sanding, polishing).",
-          "action": "Align our industrial abrasive offerings with modern automotive manufacturing and lightweight material finishing trends.",
-          "th": {
-            "title": "รายงานขนาด ส่วนแบ่ง และแนวโน้มอุตสาหกรรมยานยนต์โลก ปี 2035 | MRFR",
-            "summary": "อุตสาหกรรมการผลิตยานยนต์ทั่วโลกยังคงพัฒนาอย่างต่อเนื่อง โดยการเติบโตของรถยนต์ EV และการกระจายห่วงโซ่อุปทานระดับภูมิภาคกำลังปรับเปลี่ยนสายการผลิต",
-            "why": "การเปลี่ยนแปลงการผลิตยานยนต์กำหนดความต้องการงานปั๊มโลหะ การเชื่อมตัวถัง และการตกแต่งพื้นผิว (ลบคม ขัดกระดาษทราย และขัดเงา)",
-            "action": "ปรับกลุ่มผลิตภัณฑ์วัสดุขัดอุตสาหกรรมให้สอดคล้องกับแนวโน้มการผลิตยานยนต์สมัยใหม่และการตกแต่งวัสดุน้ำหนักเบา"
-          }
-        },
-        {
-          "id": "20260831-w5",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "The World Economic Forum",
-          "date": "2026-04-21",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeFBmZTNpZDhjN1lHNlBlU0duZ3ZQWW9uanI0SWs3SDFVazlpbVVXMklqSTVjbDloUEI4NW1Ca2dGckgzanh5UlRfX1F5QlVfQWFZNGdSS1h5bHNIUElCTk9LeUktaGd2VWxwRDAyMGJmQ1F6ZHVEOURKVjF3MVdHWGd0OG4zYTNtUk0yZkp0QXN4R3p5LUEtWkFzODBVdUdlTVpLNTh3ZjQtTGJuanlfS0Y5dWVLVEo1WkEybk96dVY?oc=5",
-          "title": "How the Iran war is disrupting India's steel production amid fuel shortages and rising costs",
-          "summary": "Geopolitical conflicts and supply chain shocks continue to cause fuel shortages and rising operational costs for major steel producers like India.",
-          "why": "Steel production costs and output fluctuations directly impact metal fabrication activity and the baseline demand for industrial grinding products.",
-          "action": "Monitor regional steel production stability to anticipate localized demand fluctuations for heavy-duty metal grinding abrasives.",
-          "th": {
-            "title": "สงครามอิหร่านกระทบการผลิตเหล็กของอินเดียท่ามกลางภาวะขาดแคลนเชื้อเพลิงและต้นทุนที่สูงขึ้น",
-            "summary": "ความขัดแย้งทางภูมิรัฐศาสตร์และปัญหาห่วงโซ่อุปทานยังคงส่งผลให้เกิดการขาดแคลนเชื้อเพลิงและต้นทุนการดำเนินงานที่สูงขึ้นสำหรับผู้ผลิตเหล็กรายใหญ่เช่นอินเดีย",
-            "why": "ต้นทุนการผลิตเหล็กและความผันผวนของผลผลิตส่งผลโดยตรงต่อกิจกรรมการแปรรูปโลหะและความต้องการพื้นฐานสำหรับผลิตภัณฑ์หินเจียรและกระดาษทรายอุตสาหกรรม",
-            "action": "ติดตามเสถียรภาพการผลิตเหล็กในภูมิภาคเพื่อคาดการณ์ความผันผวนของความต้องการผลิตภัณฑ์ขัดโลหะงานหนัก"
           }
         }
       ]
