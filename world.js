@@ -4,64 +4,82 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-09-14",
-      "summary": "Today's briefing highlights niche high-growth segments in surface finishing, particularly electronics, semiconductor packaging, and coarse sheet abrasives, alongside global steel surplus dynamics.",
-      "directCount": 3,
+      "summary": "Today's briefing highlights key market shifts in global metal casting, EV assembly trends, and advanced surface preparation drivers in semiconductor packaging, giving MK early signals for industrial demand shifts.",
+      "directCount": 4,
       "th": {
-        "summary": "สรุปทิศทางโลกวันนี้เน้นกลุ่มตลาดขัดผิวที่มีการเติบโตสูง เช่น งานอิเล็กทรอนิกส์ บรรจุภัณฑ์เซมิคอนดักเตอร์ และกระดาษทรายหยาบ ควบคู่ไปกับภาวะอุปทานเหล็กส่วนเกินในตลาดโลก"
+        "summary": "สรุปข่าววันนี้เน้นการเปลี่ยนแปลงที่สำคัญในตลาดการหล่อโลหะระดับโลก แนวโน้มการประกอบรถยนต์ EV และการเตรียมพื้นผิวขั้นสูงสำหรับบรรจุภัณฑ์เซมิคอนดักเตอร์ ซึ่งช่วยให้ MK เห็นสัญญาณความต้องการของตลาดล่วงหน้า"
       },
       "items": [
         {
           "id": "20260914-w1",
-          "tag": "abrasive",
+          "tag": "steel",
           "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-09-13",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNampPT2tfdEQzcFJFejdVSjM3bGtXSmZUNlFBQWFiTHlEa0ZiLWswbHZNNkdNV0pJaFFnZ2I1NXhQWjc3RlNqVTRGQ09HcTVvYjlPSno5dGtramktX1FKN3hGOFhTeGJfZjJ6dGxtSDF2Yi14VGZwYlRydFMtM3VVdW0wVU9yWVlPNDlweFQ2c0pSN3FNSS03Yk4zRUFsVlB0cGJybHZKV1h5Yzc3OVBVdWZaaEp4NDBWRTVHYXlpbEVOaDF0Z29BODFnZGFuRUVXNVlfVw?oc=5",
-          "title": "Sandpaper Sheets Coarse Market Forecast to 2035: Growth Accelerates on Electronics and Metal Finishing Demand",
-          "summary": "Global demand for coarse sandpaper sheets is accelerating due to rising requirements in electronics and advanced metal finishing applications.",
-          "why": "Signals strong future demand for heavy-duty and coarse abrasive sheets in specialized manufacturing beyond traditional woodworking.",
-          "action": "Ensure stable sourcing and inventory options for coarse-grit sandpaper sheets targeting metal and electronics workshops.",
+          "source": "Fortune Business Insights",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kYlp3TXBwdU5JVl9Gc0pFd3lJSFpjSUhLeEFGOVZVS19BbHBoTFNGb1BFOC1UNEN4c1o0c2xjdTFZYXhVdGRVb0dIeXZqakt1bTJkQy10SC0wRlh0RVVBZHZaWDFYbDk3cHdUbXBsYnRyYTlFVEE?oc=5",
+          "title": "Metal Casting Market Growth Analysis & Industry Forecast, 2034",
+          "summary": "The global metal casting market continues to expand steadily through 2034, driven by heavy machinery, automotive components, and industrial infrastructure demand.",
+          "why": "Metal casting requires extensive surface finishing, deburring, and grinding, directly boosting demand for heavy-duty abrasives and grinding wheels.",
+          "action": "Monitor growth in local foundries and metal fabrication shops for potential bulk abrasive supply opportunities.",
           "th": {
-            "title": "ตลาดกระดาษทรายหยาบคาดการณ์ถึงปี 2035: เติบโตเร่งตัวจากความต้องการด้านอิเล็กทรอนิกส์และการตกแต่งโลหะ",
-            "summary": "ความต้องการกระดาษทรายแผ่นหยาบเติบโตเร็วขึ้น เนื่องจากความต้องการที่เพิ่มขึ้นในอุตสาหกรรมอิเล็กทรอนิกส์และการตกแต่งผิวโลหะขั้นสูง",
-            "why": "บ่งชี้ถึงความต้องการกระดาษทรายหยาบสำหรับงานหนักในภาคการผลิตเฉพาะทางที่นอกเหนือจากงานไม้ทั่วไป",
-            "action": "ตรวจสอบแหล่งจัดซื้อและสต็อกกระดาษทรายหยาบให้เพียงพอสำหรับกลุ่มลูกค้าโลหะและอิเล็กทรอนิกส์"
+            "title": "การวิเคราะห์การเติบโตของตลาดการหล่อโลหะและแนวโน้มอุตสาหกรรมถึงปี 2034",
+            "summary": "ตลาดการหล่อโลหะทั่วโลกยังคงขยายตัวอย่างต่อเนื่องจนถึงปี 2034 ขับเคลื่อนโดยความต้องการเครื่องจักรหนัก ชิ้นส่วนยานยนต์ และโครงสร้างพื้นฐานอุตสาหกรรม",
+            "why": "งานหล่อโลหะต้องผ่านกระบวนการตกแต่งผิว ลบครีบ และเจียรจำนวนมาก ซึ่งช่วยเพิ่มความต้องการใช้วัสดุขัดและล้อเจียรสำหรับงานหนักโดยตรง",
+            "action": "ติดตามการเติบโตของโรงหล่อโลหะและร้านแปรรูปโลหะในประเทศ เพื่อหาโอกาสในการเสนอขายวัสดุขัดในปริมาณมาก"
           }
         },
         {
           "id": "20260914-w2",
+          "tag": "auto",
+          "rating": "green",
+          "source": "MarketsandMarkets",
+          "date": "2026-07-10",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUXhqQk54c1g4cXhycTVMTFlJY3l2bGNZYU5hWG1zdDRYZmYwM0FaUzVXOTlCTXNCR1dabXhiLTJnMllTWFl6UWt1TE9KMkFqYmxxRUNjcC1nQlFhR3ZPSng5QVNtQnZRMEZ2cGREVGhaa0VPSTVfSkg1UEtlNER4emMyYW83SUkzSGc?oc=5",
+          "title": "EV Assembly Market Report 2026-2035",
+          "summary": "Electric vehicle assembly processes are scaling up globally with specialized manufacturing lines, altering traditional body and chassis preparation methods.",
+          "why": "EV production uses different lightweight alloys and structural adhesives, shifting the types of surface prep, sanding, and finishing tools required on the line.",
+          "action": "Stay updated on lightweight metal and aluminum joining techniques used in EV assembly to adapt abrasive product recommendations.",
+          "th": {
+            "title": "รายงานตลาดการประกอบรถยนต์ไฟฟ้า (EV) ปี 2026-2035",
+            "summary": "กระบวนการประกอบรถยนต์ไฟฟ้ากำลังขยายตัวทั่วโลกด้วยสายการผลิตเฉพาะทาง ซึ่งเปลี่ยนแปลงวิธีการเตรียมพื้นผิวตัวถังและแชสซีแบบดั้งเดิม",
+            "why": "การผลิต EV ใช้โลหะผสมน้ำหนักเบาและกาวโครงสร้างที่แตกต่างกัน ทำให้ประเภทของเครื่องมือเตรียมพื้นผิว ขัดกระดาษทราย และตกแต่งผิวที่จำเป็นในสายการผลิตเปลี่ยนไป",
+            "action": "ติดตามเทคนิคการเชื่อมโลหะน้ำหนักเบาและอลูมิเนียมที่ใช้ในการประกอบ EV เพื่อปรับคำแนะนำผลิตภัณฑ์กลุ่มวัสดุขัดให้สอดคล้องกัน"
+          }
+        },
+        {
+          "id": "20260914-w3",
           "tag": "abrasive",
           "rating": "green",
           "source": "IndexBox",
           "date": "2026-09-11",
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPM0IzU2FhMUZlR1lUSG1BY3VVdVZSaTVfVUxFeTJrV1VGazdzYURVUXZvN0VnTEdVYXEtbnRybGZkZ2FBUGotSHg2ejJfVDRQSld2Z3B1YU1mNjhxR0E2Mlg3eXdyT3ZCSjJSYXllN1lRSjByMXBKTVdHVlZ1WFBVZGhDZGVwM1ZpU3psc0dMTnZ4aUVnRVZDblFqOEMxUk9WVVFHVUlZN0lkSWF0X2JoSU5FWnRHeVNYTkJtMVVQZHBKMzNXTEQtZEJJZ09uQlpmcTNLdUdDdjY?oc=5",
           "title": "Tab Surface Preparation Abrasives Market Forecast to 2035: Advanced Packaging and Semiconductor Capacity Drive Growth",
-          "summary": "Advanced semiconductor packaging and expanding chip manufacturing capacity are boosting the market for specialized surface preparation abrasives.",
-          "why": "High-tech surface finishing and micro-abrasives represent a high-value frontier for precision polishing applications.",
-          "action": "Monitor precision micro-finishing trends for electronic components to spot new B2B niche opportunities.",
+          "summary": "Advanced packaging and semiconductor capacity expansions are driving specialized demand for high-precision surface preparation abrasives.",
+          "why": "Micro-abrasives and precision finishing products are critical for electronics and semiconductor manufacturing, representing high-value niche segments.",
+          "action": "Recognize that precision electronics manufacturing creates growing demand for specialized micro-finishing abrasives.",
           "th": {
-            "title": "ตลาดวัสดุขัดเตรียมพื้นผิวคาดการณ์ถึงปี 2035: บรรจุภัณฑ์ขั้นสูงและกำลังการผลิตเซมิคอนดักเตอร์ขับเคลื่อนการเติบโต",
-            "summary": "บรรจุภัณฑ์เซมิคอนดักเตอร์ขั้นสูงและการขยายตัวของการผลิตชิปกำลังผลักดันตลาดวัสดุขัดเตรียมพื้นผิวเฉพาะทาง",
-            "why": "การขัดผิวไฮเทคและไมAbrasive ถือเป็นตลาดมูลค่าสูงสำหรับการใช้งานขัดความแม่นยำสูง",
-            "action": "ติดตามแนวโน้มการขัดละเอียดระดับไมโครสำหรับชิ้นส่วนอิเล็กทรอนิกส์เพื่อมองหาโอกาสใหม่ๆ ในกลุ่ม B2B"
+            "title": "การคาดการณ์ตลาดวัสดุขัดเตรียมพื้นผิวแท็บถึงปี 2035: บรรจุภัณฑ์ขั้นสูงและกำลังการผลิตเซมิคอนดักเตอร์ขับเคลื่อนการเติบโต",
+            "summary": "การขยายตัวของบรรจุภัณฑ์ขั้นสูงและกำลังการผลิตเซมิคอนดักเตอร์กำลังขับเคลื่อนความต้องการพิเศษสำหรับวัสดุขัดเตรียมพื้นผิวที่มีความแม่นยำสูง",
+            "why": "วัสดุขัดขนาดไมโครและผลิตภัณฑ์ตกแต่งผิวที่มีความแม่นยำสูงมีความสำคัญอย่างยิ่งต่อการผลิตอิเล็กทรอนิกส์และเซมิคอนดักเตอร์ ซึ่งถือเป็นกลุ่มผลิตภัณฑ์เฉพาะทางที่มีมูลค่าสูง",
+            "action": "ตระหนักว่าการผลิตชิ้นส่วนอิเล็กทรอนิกส์ความแม่นยำสูงสร้างความต้องการที่เติบโตสำหรับวัสดุขัดตกแต่งผิวละเอียดพิเศษ"
           }
         },
         {
-          "id": "20260914-w3",
-          "tag": "steel",
+          "id": "20260914-w4",
+          "tag": "coating",
           "rating": "amber",
-          "source": "S&P Global",
-          "date": "2026-01-12",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
-          "title": "Global steel industry battles surplus supply, protectionism",
-          "summary": "The global steel sector continues to face oversupply issues and rising trade protectionism, impacting production strategies worldwide.",
-          "why": "Fluctuations in steel production volumes directly affect metal fabrication activity and the baseline demand for industrial grinding and deburring products.",
-          "action": "Keep an eye on regional metal fabrication output as an indicator for standard grinding wheel and belt consumption.",
+          "source": "Market Research Future",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE40VENBdkR6MDRta2Z3Wl9sb2JhakcwVzJKb1pGQmU3RGpvWGJsVWNFNTBiVzVUMnlCNnNhRXVtZWduczV1WmFON2tkakpQRmZDajM2Ty1kX0tUWW53X3NWOVppb3dNbS16TUlPWFBQMG9za28zcm9WT2NNWQ?oc=5",
+          "title": "Epoxy Coatings Market Size, Share & Growth Report 2035 | MRFR",
+          "summary": "The epoxy coatings market is forecasted to grow steadily through 2035, driven by protective coating needs in construction, marine, and industrial sectors.",
+          "why": "Surface preparation before epoxy coating application heavily relies on industrial abrasives to ensure proper paint adhesion.",
+          "action": "Note that industrial coating growth directly correlates with continuous surface prep and sanding requirements.",
           "th": {
-            "title": "อุตสาหกรรมเหล็กโลกเผชิญกับภาวะอุปทานส่วนเกินและมาตรการกีดกันทางการค้า",
-            "summary": "ภาคอุตสาหกรรมเหล็กทั่วโลกยังคงเผชิญกับปัญหาล้นตลาดและลัทธิปกป้องทางการค้าที่เพิ่มขึ้น ซึ่งส่งผลต่อกลยุทธ์การผลิตทั่วโลก",
-            "why": "ความผันผวนของปริมาณการผลิตเหล็กส่งผลโดยตรงต่อกิจกรรมการแปรรูปโลหะและความต้องการขั้นพื้นฐานสำหรับผลิตภัณฑ์เจียรและลบคม",
-            "action": "จับตาดูปริมาณการผลิตของอุตสาหกรรมแปรรูปโลหะในภูมิภาค เพื่อใช้เป็นสัญญาณวัดความต้องการหินเจียรและสายพานขัด"
+            "title": "รายงานขนาด ส่วนแบ่ง และการเติบโตของตลาดสีเคลือบอีพ็อกซี่ถึงปี 2035 | MRFR",
+            "summary": "ตลาดสีเคลือบอีพ็อกซี่คาดว่าจะเติบโตอย่างต่อเนื่องจนถึงปี 2035 ขับเคลื่อนโดยความต้องการเคลือบป้องกันในภาคการก่อสร้าง ทางเรือ และอุตสาหกรรม",
+            "why": "การเตรียมพื้นผิวก่อนทาสีอีพ็อกซี่ต้องพึ่งพาวัสดุขัดอุตสาหกรรมอย่างมากเพื่อให้แน่ใจว่าสีจะยึดเกาะได้อย่างถูกต้อง",
+            "action": "สังเกตว่าการเติบโตของอุตสาหกรรมการเคลือบผิวมีความสัมพันธ์โดยตรงกับความต้องการเตรียมพื้นผิวและขัดกระดาษทรายอย่างต่อเนื่อง"
           }
         }
       ]
