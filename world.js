@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-09-14",
+  "updated": "2026-09-15",
   "days": [
+    {
+      "date": "2026-09-15",
+      "summary": "Today's briefing highlights global shifts in surface preparation abrasives driven by semiconductor advancements, EV assembly automation, and metal casting forecasts. These trends signal rising demand for high-precision finishing and automated sanding solutions.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปเทรนด์โลกประจำวันเน้นการเติบโตของวัสดุขัดผิวสำหรับการเตรียมพื้นผิวตามความต้องการของเซมิคอนดักเตอร์ ระบบอัตโนมัติในการประกอบ EV และการคาดการณ์ตลาดหล่อโลหะ ซึ่งส่งสัญญาณความต้องการขัดตกแต่งความละเอียดสูงที่เพิ่มขึ้น"
+      },
+      "items": [
+        {
+          "id": "20260915-w1",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-09-11",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPM0IzU2FhMUZlR1lUSG1BY3VVdVZSaTVfVUxFeTJrV1VGazdzYURVUXZvN0VnTEdVYXEtbnRybGZkZ2FBUGotSHg2ejJfVDRQSld2Z3B1YU1mNjhxR0E2Mlg3eXdyT3ZCSjJSYXllN1lRSjByMXBKTVdHVlZ1WFBVZGhDZGVwM1ZpU3psc0dMTnZ4aUVnRVZDblFqOEMxUk9WVVFHVUlZN0lkSWF0X2JoSU5FWnRHeVNYTkJtMVVQZHBKMzNXTEQtZEJJZ09uQlpmcTNLdUdDdjY?oc=5",
+          "title": "Tab Surface Preparation Abrasives Market Forecast to 2035: Advanced Packaging and Semiconductor Capacity Drive Growth - News and Statistics",
+          "summary": "The surface preparation abrasives market is accelerating due to increased demand from advanced semiconductor packaging and microelectronics manufacturing.",
+          "why": "High-tech electronics require extreme micro-finishing abrasives, representing a high-margin niche beyond traditional metal and wood sanding.",
+          "action": "Monitor high-precision microscopic surface finishing materials used in electronics and semiconductor manufacturing.",
+          "th": {
+            "title": "ตลาดวัสดุขัดเตรียมพื้นผิวคาดการณ์ถึงปี 2035: บรรจุภัณฑ์ขั้นสูงและกำลังการผลิตเซมิคอนดักเตอร์ขับเคลื่อนการเติบโต",
+            "summary": "ตลาดวัสดุขัดสำหรับเตรียมพื้นผิวกำลังเติบโตอย่างรวดเร็วเนื่องจากความต้องการที่เพิ่มขึ้นในด้านบรรจุภัณฑ์เซมิคอนดักเตอร์ขั้นสูงและการผลิตไมโครอิเล็กทรอนิกส์",
+            "why": "อุตสาหกรรมอิเล็กทรอนิกส์ไฮเทคต้องการวัสดุขัดผิวละเอียดพิเศษ ซึ่งเป็นตลาดเฉพาะกลุ่มที่มีกำไรสูงนอกเหนือจากการขัดโลหะและไม้ทั่วไป",
+            "action": "ติดตามวัสดุขัดตกแต่งผิวความละเอียดสูงที่ใช้ในอุตสาหกรรมการผลิตอิเล็กทรอนิกส์และเซมิคอนดักเตอร์"
+          }
+        },
+        {
+          "id": "20260915-w2",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-09-10",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVjkzSTlDYzItRzJSVXhQSjc1a0ttQ0dIRVYxRDgxaHFiQ0x3c1ZsLTdZQ0RRSk04bmhjdHQ4ZGJrV0lLVk45XzQ5ZzQwN1VwMDNERWNWVEpJNTRVYzZqTFFmcEIyUUZRNG9LOHp6ODIxYm80eEZrcTBOdENvenJqdktfcm5neXlITEZSRXNQclF2ZUpGUXVLTmY3SmhCRUlHdldDVC11QjRnZ3UtYzRlbzAwYS1yaW5oZV8zWmRMY2k?oc=5",
+          "title": "Smart-factory wiring woes: EVs demand automation now, not later",
+          "summary": "EV manufacturing plants are aggressively pushing for immediate factory automation to solve complex assembly and wiring challenges.",
+          "why": "As automotive plants automate assembly, the demand shifts toward robotic-compatible sanding pads and automated deburring tools.",
+          "action": "Evaluate our product lineup for robotic and automated grinding compatibility in industrial plants.",
+          "th": {
+            "title": "ปัญหาการเดินสายในโรงงานอัจฉริยะ: รถยนต์ EV ต้องการระบบอัตโนมัติเดี๋ยวนี้ ไม่ใช่รอช้า",
+            "summary": "โรงงานผลิตรถยนต์ EV เร่งผลักดันระบบอัตโนมัติในโรงงานทันทีเพื่อแก้ปัญหาความซับซ้อนในการประกอบและการเดินสายไฟ",
+            "why": "เมื่อโรงงานยานยนต์หันมาใช้ระบบอัตโนมัติ ความต้องการจึงเปลี่ยนไปสู่วัสดุขัดและเครื่องมือลบคมที่รองรับการทำงานร่วมกับหุ่นยนต์",
+            "action": "ประเมินกลุ่มผลิตภัณฑ์ของเราว่ามีความพร้อมสำหรับงานขัดและเจียรที่ใช้ร่วมกับระบบหุ่นยนต์อัตโนมัติในโรงงานหรือไม่"
+          }
+        },
+        {
+          "id": "20260915-w3",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "Fortune Business Insights",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kYlp3TXBwdU5JVl9Gc0pFd3lJSFpjSUhLeEFGOVZVS19BbHBoTFNGb1BFOC1UNEN4c1o0c2xjdTFZYXhVdGRVb0dIeXZqakt1bTJkQy10SC0wRlh0RVVBZHZaWDFYbDk3cHdUbXBsYnRyYTlFVEE?oc=5",
+          "title": "Metal Casting Market Growth Analysis & Industry Forecast, 2034",
+          "summary": "The global metal casting market is forecasted to experience steady growth, directly impacting primary metal shaping and surface cleaning requirements.",
+          "why": "Metal castings require extensive grinding, gate removal, and surface smoothing using heavy-duty grinding wheels and coated abrasives.",
+          "action": "Keep stock healthy for heavy-duty foundry abrasives and snagging wheels targeting metal casting clients.",
+          "th": {
+            "title": "การวิเคราะห์การเติบโตของตลาดการหล่อโลหะและการคาดการณ์อุตสาหกรรมถึงปี 2034",
+            "summary": "ตลาดการหล่อโลหะทั่วโลกคาดว่าจะเติบโตอย่างมั่นคง ซึ่งส่งผลโดยตรงต่อความต้องการในการขึ้นรูปโลหะขั้นต้นและการทำความสะอาดพื้นผิว",
+            "why": "งานหล่อโลหะต้องผ่านกระบวนการเจียร การตัดแต่งครีบ และการปรับผิวให้เรียบโดยใช้ล้อหินเจียรและกระดาษทรายชนิดทนทานงานหนัก",
+            "action": "รักษาระดับสินค้าคงคลังของหินเจียรและผลิตภัณฑ์ขัดสำหรับงานหล่อโลหะหนักให้พร้อมรองรับลูกค้า"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-09-14",
       "summary": "Today's global briefing highlights high-demand sectors for surface finishing, particularly electronics/semiconductor manufacturing, coarse sandpaper sheets, and global automotive manufacturing shifts.",
@@ -848,70 +912,6 @@ window.WORLD_ARCHIVE = {
             "summary": "ตลาดเหล็กโลกยังคงประสบปัญหาส่วนเกินการผลิตและมาตรการกีดกันทางการค้าในภูมิภาคอุตสาหกรรมหลัก",
             "why": "ปริมาณเหล็กและความเคลื่อนไหวของอุตสาหกรรมแปรรูปโลหะส่งผลโดยตรงต่อยอดขายหินเจียรและกระดาษทรายในภาคอุตสาหกรรมหนัก",
             "action": "ติดตามอัตราการใช้กำลังการผลิตของโรงงานเหล็กในประเทศ เพื่อประเมินทิศทางความต้องการวัสดุขัดในอุตสาหกรรมหนัก"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-09-01",
-      "summary": "Today's global trend briefing focuses on high-precision finishing requirements in electronics and micro-machining, alongside raw material shifts in coatings and automotive manufacturing that influence our industrial surface-prep customers.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปเทรนด์โลกประจำวันนี้เน้นไปที่ความต้องการงานขัดผิวความแม่นยำสูงในอุตสาหกรรมอิเล็กทรอนิกส์และไมโครแมชชีนนิ่ง รวมถึงการเปลี่ยนแปลงของวัตถุดิบในอุตสาหกรรมสีเคลือบและการผลิตยานยนต์ที่มีผลต่อกลุ่มลูกค้างานเตรียมพื้นผิวของเรา"
-      },
-      "items": [
-        {
-          "id": "20260901-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-08-31",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOREZURUtNaklQRGZ4by1fNWNRRTc3MUdUdVVyeW5IR0xja3BuMGFlQmtaQmZHMnZ4ZnNMSDJUbVpoYmlCVndBRG5QZGpFWF9PS0NySGw1dWE4d3NXRmpVYTMzRElVeFVERHpIcGxaQ0ZjajVBRWlsZG5fd1NFVXBEUC1PYy00XzhVNEVISUFUa0JZZkwyeldxQ1hneUFNX0JJQ0puY2RBaWVubXlFZzgxVE05d2d5c0lzUXFpX1EySQ?oc=5",
-          "title": "Abrasive Lapping Film Market Forecast 2035: Precision Finishing Demand Drives Growth",
-          "summary": "The global market for abrasive lapping films is expanding steadily through 2035, driven by ultra-precision surface finishing needs in high-tech manufacturing sectors.",
-          "why": "Signals a clear global shift toward micro-finishing and sub-micron surface preparation, opening higher-margin product opportunities beyond traditional sandpaper.",
-          "action": "Monitor demand for specialized film-backed abrasives and precision lapping media for high-tech machining sectors.",
-          "th": {
-            "title": "ตลาดฟิล์มขัดลัปปิ้ง (Abrasive Lapping Film) ขยายตัวตามความต้องการขัดผิวความแม่นยำสูงถึงปี 2035",
-            "summary": "ตลาดฟิล์มขัดทั่วโลกกำลังเติบโตอย่างต่อเนื่องจนถึงปี 2035 ขับเคลื่อนโดยความต้องการขัดผิวความแม่นยำสูงในภาคการผลิตไฮเทค",
-            "why": "สะท้อนถึงทิศทางของตลาดโลกที่มุ่งเน้นการขัดละเอียดระดับไมครอน ซึ่งสร้างโอกาสสำหรับผลิตภัณฑ์ที่มีมูลค่าสูงกว่ากระดาษทรายทั่วไป",
-            "action": "ติดตามความต้องการสินค้ากลุ่มฟิล์มขัดและวัสดุขัดความแม่นยำสูงสำหรับภาคการผลิตอุตสาหกรรมไฮเทค"
-          }
-        },
-        {
-          "id": "20260901-w2",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "IndexBox",
-          "date": "2026-08-30",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb3RKbENOV1ExYzA5LVFTaGQ3ZzJOYVcxWjc2RWNwcjJxdkpGbWhqdFVRM3prV21FcmxVREN3ZUtSQWpLTnNlNUhTQmZMazBYQ3pJMlJpWTlpVGUxaVNtN0FXTlQxdk1uQjFWSmlfMF82SnpUaGFGQnBHT2p4cDRnc2diYlcwaU9XMTJiVS05SDFhVFBDZ0tWbmQydjBwUU5kZmxxOERmOVA1WXpaSEw3QmlaMk4?oc=5",
-          "title": "Acrylic Exterior Latex Coatings Market 2035: 5.8% CAGR on Low-VOC Shift",
-          "summary": "The exterior acrylic latex coatings market is projected to grow at a 5.8% CAGR, heavily influenced by environmental regulations pushing for low-VOC formulations.",
-          "why": "Shifts in surface coatings chemistry affect how preparation and sanding must be adapted for modern architectural and industrial substrates.",
-          "action": "Keep an eye on how eco-friendly, low-VOC coating applications change substrate preparation and sanding requirements.",
-          "th": {
-            "title": "ตลาดสีอะคริลิกเคลือบภายนอกโต 5.8% ต่อปีรับกระแสสารระเหยต่ำ (Low-VOC) ถึงปี 2035",
-            "summary": "ตลาดสีอะคริลิกเคลือบภายนอกคาดว่าจะเติบโตอย่างต่อเนื่อง โดยมีแรงหนุนหลักจากข้อกำหนดด้านสิ่งแวดล้อมที่ผลักดันสูตรสีสารระเหยต่ำ",
-            "why": "การเปลี่ยนแปลงทางเคมีของสีเคลือบมีผลโดยตรงต่อวิธีเตรียมพื้นผิวและการขัดแต่งที่เหมาะสมกับวัสดุยุคใหม่",
-            "action": "ติดตามว่าเทรนด์สีที่เป็นมิตรต่อสิ่งแวดล้อมและมีสารระเหยต่ำจะส่งผลต่อความต้องการเตรียมพื้นผิวอย่างไร"
-          }
-        },
-        {
-          "id": "20260901-w3",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Fortune Business Insights",
-          "date": "2026-08-10",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
-          "title": "Automotive OEM Coatings Market Size, Share | Growth [2034]",
-          "summary": "Automotive OEM coatings market analysis highlights ongoing evolution in vehicle manufacturing finishes and body surface treatments through 2034.",
-          "why": "Automotive production lines are major consumers of coated abrasives and sanding discs for body-in-white and paint preparation processes.",
-          "action": "Anticipate changing OEM paint shop requirements that demand finer, defect-free surface preparation and specialized sanding tools.",
-          "th": {
-            "title": "เจาะลึกตลาดสีพ่นรถยนต์ OEM และทิศทางการเติบโตถึงปี 2034",
-            "summary": "การวิเคราะห์ตลาดสีพ่นรถยนต์ OEM เผยให้เห็นการพัฒนาอย่างต่อเนื่องของคุณสมบัติสีเคลือบและการเตรียมผิวตัวถังรถยนต์ถึงปี 2034",
-            "why": "สายการผลิตยานยนต์เป็นผู้ใช้หลักของกระดาษทรายและวัสดุขัดสำหรับงานเตรียมพื้นผิวและงานพ่นสีรถยนต์",
-            "action": "เตรียมรับมือกับความต้องการของโรงงานประกอบรถยนต์ที่ต้องการงานเตรียมพื้นผิวที่ละเอียดไร้ตำหนิและเครื่องมือขัดที่เฉพาะเจาะจงมากขึ้น"
           }
         }
       ]
