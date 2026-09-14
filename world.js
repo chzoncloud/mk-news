@@ -4,10 +4,10 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-09-15",
-      "summary": "Today's briefing highlights global shifts in surface preparation abrasives driven by semiconductor advancements, EV assembly automation, and metal casting forecasts. These trends signal rising demand for high-precision finishing and automated sanding solutions.",
+      "summary": "Today's briefing focuses on evolving surface finishing demands in electronics and metal fabrication, alongside manufacturing transformations in automotive coatings and structural steel trends. We highlight 3 new market shifts relevant to our abrasives and surface prep portfolio.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปเทรนด์โลกประจำวันเน้นการเติบโตของวัสดุขัดผิวสำหรับการเตรียมพื้นผิวตามความต้องการของเซมิคอนดักเตอร์ ระบบอัตโนมัติในการประกอบ EV และการคาดการณ์ตลาดหล่อโลหะ ซึ่งส่งสัญญาณความต้องการขัดตกแต่งความละเอียดสูงที่เพิ่มขึ้น"
+        "summary": "สรุปทิศทางโลกประจำวันนี้เน้นไปที่ความต้องการการเตรียมพื้นผิวที่เปลี่ยนไปในอุตสาหกรรมอิเล็กทรอนิกส์และโลหะ พร้อมกับการเปลี่ยนแปลงด้านการผลิตในกลุ่มสีเคลือบยานยนต์และเหล็กโครงสร้าง โดยมี 3 ข่าวสำคัญที่เกี่ยวข้องกับธุรกิจวัสดุขัดกระดาษทรายของเรา"
       },
       "items": [
         {
@@ -17,51 +17,51 @@ window.WORLD_ARCHIVE = {
           "source": "IndexBox",
           "date": "2026-09-11",
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPM0IzU2FhMUZlR1lUSG1BY3VVdVZSaTVfVUxFeTJrV1VGazdzYURVUXZvN0VnTEdVYXEtbnRybGZkZ2FBUGotSHg2ejJfVDRQSld2Z3B1YU1mNjhxR0E2Mlg3eXdyT3ZCSjJSYXllN1lRSjByMXBKTVdHVlZ1WFBVZGhDZGVwM1ZpU3psc0dMTnZ4aUVnRVZDblFqOEMxUk9WVVFHVUlZN0lkSWF0X2JoSU5FWnRHeVNYTkJtMVVQZHBKMzNXTEQtZEJJZ09uQlpmcTNLdUdDdjY?oc=5",
-          "title": "Tab Surface Preparation Abrasives Market Forecast to 2035: Advanced Packaging and Semiconductor Capacity Drive Growth - News and Statistics",
-          "summary": "The surface preparation abrasives market is accelerating due to increased demand from advanced semiconductor packaging and microelectronics manufacturing.",
-          "why": "High-tech electronics require extreme micro-finishing abrasives, representing a high-margin niche beyond traditional metal and wood sanding.",
-          "action": "Monitor high-precision microscopic surface finishing materials used in electronics and semiconductor manufacturing.",
+          "title": "Tab Surface Preparation Abrasives Market Forecast to 2035: Advanced Packaging and Semiconductor Capacity Drive Growth",
+          "summary": "Global demand for advanced surface preparation abrasives is accelerating due to capacity expansions in semiconductor packaging and precision electronics.",
+          "why": "High-tech electronic packaging requires ultra-precise deburring and surface finishing, representing high-margin opportunities for specialized micro-abrasives.",
+          "action": "Monitor high-precision and micro-finishing abrasive lines suited for electronic components.",
           "th": {
-            "title": "ตลาดวัสดุขัดเตรียมพื้นผิวคาดการณ์ถึงปี 2035: บรรจุภัณฑ์ขั้นสูงและกำลังการผลิตเซมิคอนดักเตอร์ขับเคลื่อนการเติบโต",
-            "summary": "ตลาดวัสดุขัดสำหรับเตรียมพื้นผิวกำลังเติบโตอย่างรวดเร็วเนื่องจากความต้องการที่เพิ่มขึ้นในด้านบรรจุภัณฑ์เซมิคอนดักเตอร์ขั้นสูงและการผลิตไมโครอิเล็กทรอนิกส์",
-            "why": "อุตสาหกรรมอิเล็กทรอนิกส์ไฮเทคต้องการวัสดุขัดผิวละเอียดพิเศษ ซึ่งเป็นตลาดเฉพาะกลุ่มที่มีกำไรสูงนอกเหนือจากการขัดโลหะและไม้ทั่วไป",
-            "action": "ติดตามวัสดุขัดตกแต่งผิวความละเอียดสูงที่ใช้ในอุตสาหกรรมการผลิตอิเล็กทรอนิกส์และเซมิคอนดักเตอร์"
+            "title": "ตลาดวัสดุขัดเตรียมพื้นผิวแท็บเติบโตถึงปี 2035: ขับเคลื่อนโดยบรรจุภัณฑ์ขั้นสูงและกำลังการผลิตเซมิคอนดักเตอร์",
+            "summary": "ความต้องการวัสดุขัดเตรียมพื้นผิวขั้นสูงทั่วโลกกำลังเร่งตัวขึ้น เนื่องจากการขยายกำลังการผลิตในอุตสาหกรรมบรรจุภัณฑ์เซมิคอนดักเตอร์และอิเล็กทรอนิกส์ที่มีความแม่นยำสูง",
+            "why": "บรรจุภัณฑ์อิเล็กทรอนิกส์ไฮเทคต้องการการลบคมและการตกแต่งพื้นผิวที่มีความแม่นยำสูงมาก ซึ่งถือเป็นโอกาสทำกำไรสูงสำหรับกลุ่มสินค้าวัสดุขัดขนาดเล็กพิเศษ",
+            "action": "ติดตามกลุ่มผลิตภัณฑ์วัสดุขัดความละเอียดสูงและกลุ่มงานเก็บรายละเอียดที่เหมาะสำหรับชิ้นส่วนอิเล็กทรอนิกส์"
           }
         },
         {
           "id": "20260915-w2",
-          "tag": "auto",
+          "tag": "coating",
           "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-09-10",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVjkzSTlDYzItRzJSVXhQSjc1a0ttQ0dIRVYxRDgxaHFiQ0x3c1ZsLTdZQ0RRSk04bmhjdHQ4ZGJrV0lLVk45XzQ5ZzQwN1VwMDNERWNWVEpJNTRVYzZqTFFmcEIyUUZRNG9LOHp6ODIxYm80eEZrcTBOdENvenJqdktfcm5neXlITEZSRXNQclF2ZUpGUXVLTmY3SmhCRUlHdldDVC11QjRnZ3UtYzRlbzAwYS1yaW5oZV8zWmRMY2k?oc=5",
-          "title": "Smart-factory wiring woes: EVs demand automation now, not later",
-          "summary": "EV manufacturing plants are aggressively pushing for immediate factory automation to solve complex assembly and wiring challenges.",
-          "why": "As automotive plants automate assembly, the demand shifts toward robotic-compatible sanding pads and automated deburring tools.",
-          "action": "Evaluate our product lineup for robotic and automated grinding compatibility in industrial plants.",
+          "source": "Fortune Business Insights",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXJjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
+          "title": "Automotive OEM Coatings Market Size, Share | Growth [2034]",
+          "summary": "The automotive OEM coatings market continues steady long-term growth as manufacturers adopt advanced sustainable and high-performance paint systems.",
+          "why": "Changes in automotive coating technologies directly dictate pre-painting surface prep, sanding smoothness, and defect correction requirements.",
+          "action": "Keep an eye on new automotive paint trends that require specific sanding grits for primer and clear coat preparation.",
           "th": {
-            "title": "ปัญหาการเดินสายในโรงงานอัจฉริยะ: รถยนต์ EV ต้องการระบบอัตโนมัติเดี๋ยวนี้ ไม่ใช่รอช้า",
-            "summary": "โรงงานผลิตรถยนต์ EV เร่งผลักดันระบบอัตโนมัติในโรงงานทันทีเพื่อแก้ปัญหาความซับซ้อนในการประกอบและการเดินสายไฟ",
-            "why": "เมื่อโรงงานยานยนต์หันมาใช้ระบบอัตโนมัติ ความต้องการจึงเปลี่ยนไปสู่วัสดุขัดและเครื่องมือลบคมที่รองรับการทำงานร่วมกับหุ่นยนต์",
-            "action": "ประเมินกลุ่มผลิตภัณฑ์ของเราว่ามีความพร้อมสำหรับงานขัดและเจียรที่ใช้ร่วมกับระบบหุ่นยนต์อัตโนมัติในโรงงานหรือไม่"
+            "title": "ขนาดส่วนแบ่งและการเติบโตของตลาดสีเคลือบ OEM ยานยนต์ถึงปี 2034",
+            "summary": "ตลาดสีเคลือบ OEM ยานยนต์ยังคงเติบโตในระยะยาวอย่างต่อเนื่อง ขณะที่ผู้ผลิตหันมาใช้ระบบสีที่เป็นมิตรต่อสิ่งแวดล้อมและมีประสิทธิภาพสูง",
+            "why": "การเปลี่ยนแปลงของเทคโนโลยีสีเคลือบยานยนต์ส่งผลโดยตรงต่อขั้นตอนการเตรียมพื้นผิวก่อนพ่นสี ความเรียบเนียนในการขัด และข้อกำหนดในการแก้ไขข้อบกพร่อง",
+            "action": "ติดตามแนวโน้มสีรถยนต์ใหม่ๆ ที่ต้องใช้กระดาษทรายเบอร์เฉพาะสำหรับการเตรียมพื้นผิวสีรองพื้นและเคลียร์แลคเกอร์"
           }
         },
         {
           "id": "20260915-w3",
           "tag": "steel",
           "rating": "amber",
-          "source": "Fortune Business Insights",
-          "date": "2026-08-24",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kYlp3TXBwdU5JVl9Gc0pFd3lJSFpjSUhLeEFGOVZVS19BbHBoTFNGb1BFOC1UNEN4c1o0c2xjdTFZYXhVdGRVb0dIeXZqakt1bTJkQy10SC0wRlh0RVVBZHZaWDFYbDk3cHdUbXBsYnRyYTlFVEE?oc=5",
-          "title": "Metal Casting Market Growth Analysis & Industry Forecast, 2034",
-          "summary": "The global metal casting market is forecasted to experience steady growth, directly impacting primary metal shaping and surface cleaning requirements.",
-          "why": "Metal castings require extensive grinding, gate removal, and surface smoothing using heavy-duty grinding wheels and coated abrasives.",
-          "action": "Keep stock healthy for heavy-duty foundry abrasives and snagging wheels targeting metal casting clients.",
+          "source": "Fact.MR",
+          "date": "2026-04-13",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QdlVWYkhUUHFMQ042anhjZWhnN25NSnZfX2F3QU1IVnpHdHVIeWpSS2R0RnVCQjBHVVgwQjhTR21WeThVSF9Td2p5LUxpN3dKekd0UXJpdHMxWENF?oc=5",
+          "title": "Steel Scrap Market, Global Market Analysis Report - 2036",
+          "summary": "The global steel scrap market is evolving as metal recycling and electric arc furnace (EAF) steelmaking reshape raw material sourcing.",
+          "why": "Recycled steel and EAF production processes create varied surface scales and structural conditions, influencing how steel fabricators grind and deburr metal sheets.",
+          "action": "Ensure our heavy-duty grinding discs and metal-working abrasives are optimized for diverse steel grades and recycled metal surfaces.",
           "th": {
-            "title": "การวิเคราะห์การเติบโตของตลาดการหล่อโลหะและการคาดการณ์อุตสาหกรรมถึงปี 2034",
-            "summary": "ตลาดการหล่อโลหะทั่วโลกคาดว่าจะเติบโตอย่างมั่นคง ซึ่งส่งผลโดยตรงต่อความต้องการในการขึ้นรูปโลหะขั้นต้นและการทำความสะอาดพื้นผิว",
-            "why": "งานหล่อโลหะต้องผ่านกระบวนการเจียร การตัดแต่งครีบ และการปรับผิวให้เรียบโดยใช้ล้อหินเจียรและกระดาษทรายชนิดทนทานงานหนัก",
-            "action": "รักษาระดับสินค้าคงคลังของหินเจียรและผลิตภัณฑ์ขัดสำหรับงานหล่อโลหะหนักให้พร้อมรองรับลูกค้า"
+            "title": "รายงานวิเคราะห์ตลาดเศษเหล็กโลกถึงปี 2036",
+            "summary": "ตลาดเศษเหล็กทั่วโลกกำลังเปลี่ยนแปลงไปตามการรีไซเคิลโลหะและการผลิตเหล็กด้วยเตาอาร์คไฟฟ้า (EAF) ที่เข้ามาเปลี่ยนแหล่งวัตถุดิบ",
+            "why": "กระบวนการผลิตเหล็กรีไซเคิลและเตา EAF ทำให้เกิดคราบผิวและสภาพโครงสร้างเหล็กที่หลากหลาย ซึ่งส่งผลต่อวิธีที่ผู้แปรรูปเหล็กใช้เจียรและลบคมแผ่นโลหะ",
+            "action": "ตรวจสอบให้แน่ใจว่าแผ่นตัด แผ่นเจียร และวัสดุขัดงานโลหะของเราเหมาะสมกับเกรดเหล็กที่หลากหลายและผิวโลหะรีไซเคิล"
           }
         }
       ]
