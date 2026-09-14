@@ -2,6 +2,71 @@
 window.NEWS_ARCHIVE = {
   "days": [
     {
+      "date": "2026-09-15",
+      "summary": "Limited fresh headlines are available today; the most actionable update focuses on FTI pushing to integrate local SME parts makers into the evolving EV supply chain, while aviation MRO and furniture exports offer steady medium-term growth. วันนี้มีข่าวใหม่ไม่มาก โดยประเด็นสำคัญอยู่ที่ ส.อ.ท. ผลักดันให้เชื่อมโยงซัพพลายเชนชิ้นส่วนยานยนต์สู่ผู้ผลิต SME ในประเทศ ส่วนอุตสาหกรรม MRO และเฟอร์นิเจอร์ส่งออกยังคงมีทิศทางขยายตัวในระยะกลาง",
+      "directCount": 1,
+      "th": {
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยประเด็นสำคัญอยู่ที่ ส.อ.ท. ผลักดันเชื่อมโยงซัพพลายเชนชิ้นส่วนยานยนต์สู่ผู้ผลิต SME ในประเทศ ส่วนอุตสาหกรรม MRO และเฟอร์นิเจอร์ส่งออกยังคงมีทิศทางขยายตัวในระยะกลาง"
+      },
+      "items": [
+        {
+          "id": "20260915-1",
+          "tag": "auto",
+          "rating": "green",
+          "source": "RYT9",
+          "date": "2026-09-11",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5sRUJ1MldJczNSUk1Oc0FBeEt0MDEtenBZaUpydklsQnVkRGlFalRtNG1zdTZmOXBkTWNPQ0hxUlJEZ0d1MkxDV3V3?oc=5",
+          "title": "FTI Backs Auto Tax Overhaul to Drive Investment and Link Supply Chains to Thai SMEs",
+          "summary": "The Federation of Thai Industries (FTI) supports automotive tax restructuring to encourage EV investment while urging concrete policies to integrate local Tier-2 and Tier-3 SME part makers into the supply chain.",
+          "why": "Higher local sourcing mandates will increase stamping, machining, and fabrication runs at Thai parts suppliers, directly driving demand for deburring, grinding, and blending abrasives.",
+          "action": "Target Tier-2/Tier-3 automotive metal fabricators with abrasive demo kits tailored for weld removal and fine surface finishing.",
+          "th": {
+            "title": "ส.อ.ท. หนุนปรับโครงสร้างภาษียานยนต์ ดึงลงทุน-เชื่อม Supply Chain สู่ SMEs",
+            "summary": "ส.อ.ท. ขานรับการปรับโครงสร้างภาษียานยนต์เพื่อกระตุ้นการลงทุน พร้อมผลักดันให้มีมาตรการดึงผู้ผลิตชิ้นส่วน SMEs ระดับ Tier-2 และ Tier-3 ของไทยเข้าสู่ห่วงโซ่อุปทานการผลิต",
+            "why": "การบังคับใช้ชิ้นส่วนในประเทศที่เข้มงวดขึ้นจะกระตุ้นยอดผลิตงานปั๊มขึ้นรูปและกลึงโลหะในโรงงานชิ้นส่วนไทย ส่งผลให้ความต้องการใช้วัสดุขัด ลบครีบคม และเจียรแต่งผิวเพิ่มขึ้นโดยตรง",
+            "action": "เร่งส่งทีมขายเข้าพบโรงงานผลิตชิ้นส่วนยานยนต์ระดับ Tier-2 และ Tier-3 พร้อมนำเสนอชุดทดลองจานขัดและผ้าทรายสำหรับงานเจียรลบรอยเชื่อมและเตรียมผิวก่อนพ่นสี"
+          }
+        },
+        {
+          "id": "20260915-2",
+          "tag": "aero",
+          "rating": "amber",
+          "source": "today.line.me",
+          "date": "2025-11-23",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGRUZSdllROFR5LVMtQ1plTjJMNkFvRmNOeEtsWTJCNGxBbHFYNndUcWc0VVc4c05RVjdrdEIzVlZ3MXZWMGN0TWZ2RzFycWFyODBCYVdR?oc=5",
+          "title": "THAI and Bangkok Airways Join Hands for 10-Billion-Baht U-Tapao Aircraft MRO Hub",
+          "summary": "Thai Airways and Bangkok Airways are teaming up to invest 10 billion baht in developing and operating aircraft maintenance hangars at U-Tapao Airport.",
+          "why": "A joint large-scale MRO base will generate long-term recurring needs for specialized aerospace-grade abrasives for airframe maintenance and coating removal.",
+          "action": "Map out approved procurement standards and test aerospace-grade fine-finishing abrasives ahead of facility setup.",
+          "th": {
+            "title": "การบินไทย-บางกอกแอร์เวย์ส ผนึกกำลังลุยศูนย์ซ่อมบำรุงอากาศยานอู่ตะเภา 1 หมื่นล้าน",
+            "summary": "การบินไทยร่วมมือกับบางกอกแอร์เวย์สเตรียมงบลงทุน 1 หมื่นล้านบาท เพื่อพัฒนาและบริหารโรงซ่อมอากาศยานครบวงจร ณ สนามบินอู่ตะเภา",
+            "why": "ศูนย์ซ่อมอากาศยานขนาดใหญ่จะสร้างความต้องการระยะยาวสำหรับวัสดุขัดเกรดการบิน ทั้งงานขัดลอกสีเก่า งานแต่งผิวโลหะ และการซ่อมบำรุงโครงสร้างเครื่องบิน",
+            "action": "ศึกษารายการและสเปกวัสดุขัดที่ได้รับรองมาตรฐานการบิน พร้อมเตรียมจับคู่สินค้าเกรดพิเศษล่วงหน้าเพื่อเตรียมพร้อมเข้าสู่ทะเบียนผู้ค้า"
+          }
+        },
+        {
+          "id": "20260915-3",
+          "tag": "furniture",
+          "rating": "amber",
+          "source": "posttoday",
+          "date": "2026-02-20",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxXzVZOHRNaDlMYzJBM2F6S1FPc0Vkcy1Sc2JWRnl1VklJY2ZCSEpsOUJ0RG13b0I1cHBpXzBUOUhlSHdpdV9uV1cyZGJHT2pNaF83cw?oc=5",
+          "title": "ASEAN Furniture Industry Expands as Top 4 Exporters Capture 90% Market Share",
+          "summary": "Regional furniture trade is consolidating, with Thailand, Vietnam, Malaysia, and Indonesia dominating 90% of Southeast Asia's global furniture export volume.",
+          "why": "Stable export market share among key Thai wood furniture manufacturers sustains healthy factory consumption of wide sanding belts and abrasive discs.",
+          "action": "Promote wide sanding belts and random orbital sanding discs to export-oriented solid wood and veneer furniture plants.",
+          "th": {
+            "title": "อุตสาหกรรมเฟอร์นิเจอร์อาเซียนโตต่อเนื่อง 4 ชาติหลักกวาดสัดส่วนส่งออก 90%",
+            "summary": "การค้าเฟอร์นิเจอร์ในภูมิภาคอาเซียนเติบโตโดยมี 4 ประเทศหลัก ได้แก่ ไทย เวียดนาม มาเลเซีย และอินโดนีเซีย ครองส่วนแบ่งการส่งออกรวมกันถึง 90%",
+            "why": "การรักษาฐานส่งออกที่แข็งแกร่งของโรงงานเฟอร์นิเจอร์ไทยช่วยพยุงคำสั่งซื้อสายพานขัดขนาดใหญ่ (Wide Belts) และกระดาษทรายกลมสำหรับงานขัดไม้และไม้วีเนียร์อย่างต่อเนื่อง",
+            "action": "นำเสนอสายพานผ้าทรายหน้ากว้างและจานขัดกระดาษทรายสำหรับงานไม้ระดับพรีเมียมให้แก่โรงงานเฟอร์นิเจอร์ที่ผลิตเพื่อการส่งออก"
+          }
+        }
+      ],
+      "terms": {}
+    },
+    {
       "date": "2026-09-14",
       "summary": "Today has limited new headlines beyond previously covered topics. Key distinct updates highlight the 3-tier EV tax structure stimulating local auto parts fabrication, Thai Airways' long-term fleet expansion boosting aviation MRO prospects, and an export contraction warning for the furniture sector.",
       "directCount": 1,
@@ -628,90 +693,7 @@ window.NEWS_ARCHIVE = {
         }
       ],
       "terms": {}
-    },
-    {
-      "date": "2026-08-31",
-      "summary": "Today features limited fresh news, heavily centered on the government's newly announced automotive and battery excise tax overhaul aimed at protecting domestic assembly plants and supply chains.",
-      "directCount": 1,
-      "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยประเด็นหลักเน้นไปที่การปรับโครงสร้างภาษีสรรพสามิตรถยนต์และแบตเตอรี่รอบใหม่ของภาครัฐ เพื่อรักษาฐานการผลิตและซัพพลายเชนโรงงานในประเทศ"
-      },
-      "items": [
-        {
-          "id": "20260831-1",
-          "tag": "auto",
-          "rating": "green",
-          "source": "bangkokbiznews",
-          "date": "2026-08-30",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5RVc2dlEtX0dDMHctWE02c3ZfSkhFb1lwWm80cC1hWWJNSTZ6TXpPY3N1c24tdzU5RmJ3dWYxN0J1S0ZJRTFnZzdaNU5fdTVmU2tGUFRqbGVidEFB?oc=5",
-          "title": "Excise Department Overhauls Auto and Battery Taxes to Drive Domestic EV Manufacturing",
-          "summary": "The Excise Department is restructuring excise tax schemes based on CO2 emissions to incentivize local EV and battery cell production rather than finished-unit imports.",
-          "why": "Mandating local battery module packaging and EV metal stamping creates direct demand for grinding discs, weld seam removal belts, and surface preparation abrasives.",
-          "action": "Target tier-1 battery pack assemblers and EV stamping plants with our non-woven and flap disc lines for weld cleanup.",
-          "th": {
-            "title": "สรรพสามิต รื้อภาษีรถยนต์-แบตเตอรี่รอบใหม่ ใช้เกณฑ์ CO2 ดันไทยฐานผลิต EV",
-            "summary": "กรมสรรพสามิตเตรียมปรับโครงสร้างภาษีสรรพสามิตรถยนต์และแบตเตอรี่ตามการปล่อย CO2 เพื่อจูงใจให้เกิดการผลิตรถ EV และเซลล์แบตเตอรี่ในประเทศแทนการนำเข้าสำเร็จรูป",
-            "why": "การบังคับให้ประกอบแพ็กแบตเตอรี่และปั๊มขึ้นรูปชิ้นส่วน EV ในประเทศ จะเพิ่มการใช้วัสดุขัดรอยเชื่อมและจานขัดเตรียมผิวโลหะโดยตรง",
-            "action": "เร่งเข้าพบโรงงานประกอบแบตเตอรี่แพ็กและชิ้นส่วนปั๊มขึ้นรูป EV นำเสนอจานทรายซ้อนและใยสังเคราะห์ขัดลบรอยเชื่อม"
-          }
-        },
-        {
-          "id": "20260831-2",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "สวพ.FM91",
-          "date": "2026-08-30",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9pSWlia1ZaTkNKdllyaWdib09lNUZmcWYxYm52MWtvdWVBTFppbEpZUEJtbXFrWmt5WWUxUUFDY3VqTEtsRVFRTW9oUjN2Zw?oc=5",
-          "title": "Thai Government Accelerates Auto Tax Restructuring to Secure Manufacturing and Export Base",
-          "summary": "The government is fast-tracking a three-pillar auto tax adjustment to balance transitions between ICE, hybrid, and pure EV platforms while safeguarding local employment.",
-          "why": "Protecting hybrid and ICE manufacturing volume prevents our existing Japanese auto-parts client base from cutting production shifts and abrasive tooling consumption.",
-          "action": "Maintain strong account coverage across Japanese auto-tier suppliers and offer cost-down abrasive testing packages.",
-          "th": {
-            "title": "รัฐบาลเร่งปรับโครงสร้างภาษีรถยนต์ ดึงผลิต–ส่งออก–สร้างงานในไทย วาง 3 เป้าหมายรับยานยนต์",
-            "summary": "รัฐบาลเร่งปรับโครงสร้างภาษีรถยนต์ตาม 3 เป้าหมายหลัก เพื่อสร้างสมดุลระหว่างรถสันดาป ไฮบริด และ EV พร้อมรักษาการจ้างงานในโรงงานไทย",
-            "why": "การพยุงการผลิตรถยนต์ไฮบริดและสันดาปช่วยป้องกันไม่ให้ลูกค้าโรงงานญี่ปุ่นลดกำลังผลิต ทำให้ยอดใช้วัสดุขัดเจียรชิ้นส่วนยังคงที่",
-            "action": "รักษาความสัมพันธ์กับโรงงานชิ้นส่วนยานยนต์ญี่ปุ่นอย่างต่อเนื่อง พร้อมเสนอโปรแกรมทดสอบวัสดุขัดเพื่อลดต้นทุนการผลิต"
-          }
-        },
-        {
-          "id": "20260831-3",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "THE BETTER",
-          "date": "2026-08-25",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oZHk0djNxaDZLdWN0YnFpWTA4d3BWdTlsZ2RBeldjbGRlazR1WUlOcUttTmQ2STItNjEyTVVPRk12SEJnYUhFeFJoc0dHOHFQYnFPZUd0QTJCTWc?oc=5",
-          "title": "Pickup and ICE Supply Chains Pressure Government to Protect Domestic Auto Parts Makers",
-          "summary": "Local automotive component associations warn that unchecked imported EV surges hurt pickup and combustion vehicle manufacturers, urging tax rules that enforce local parts content.",
-          "why": "Pickup truck chassis and engine part machining generate substantial deburring and heavy grinding abrasive volumes in local machine shops.",
-          "action": "Track chassis and suspension component fabricators to ensure MK abrasive belts and cutting wheels remain their primary consumables.",
-          "th": {
-            "title": "EV โตแรงสวนทางกระบะ-รถสันดาป เอกชนจี้รัฐรื้อภาษีหนุนผลิตชิ้นส่วนในประเทศ",
-            "summary": "สมาคมผู้ผลิตชิ้นส่วนเตือนกระแส EV นำเข้ากระทบสายการผลิตกระบะและเครื่องยนต์สันดาป จี้รัฐออกเกณฑ์ภาษีบังคับใช้ชิ้นส่วนในประเทศ",
-            "why": "การผลิตแชสซีส์รถกระบะและชิ้นส่วนเครื่องยนต์โลหะเป็นแหล่งการใช้งานสายพานขัดหนักและหินเจียรลบครีบปริมาณมาก",
-            "action": "ติดตามโรงงานผลิตโครงสร้างแชสซีส์และระบบช่วงล่าง เพื่อนำเสนอสายพานขัดและใบตัด MK เข้าทดแทนคู่แข่ง"
-          }
-        },
-        {
-          "id": "20260831-4",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "เดลินิวส์",
-          "date": "2026-05-21",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3cWgyMzlsVU90VjFUWTJ4czV4U2ZIZi1QbnBzeUR5ZzNHQ21jTzR6RmVpaDFDVVF2ODVsTlFmYVZLbUlCdGhEUXExQTdSbng0U29n?oc=5",
-          "title": "Thai Steel Mills Urge Stricter Standards Amid Influx of Low-Cost Chinese Metal",
-          "summary": "Local steel producers are pressing the Ministry of Industry to enforce strict manufacturing quality checks on substandard induction furnaces to stabilize market pricing.",
-          "why": "Quality-compliant steel fabricators require certified surface preparation and weld grinding abrasives, unlike low-grade melting operations.",
-          "action": "Focus sales efforts on standard-certified structural steel and fabrication workshops that demand consistent abrasive grain performance.",
-          "th": {
-            "title": "เหล็กไทยเหมือนอยู่สนามรบ ยอดใช้ต่ำเจอของถูกจีนถล่ม จี้รัฐเร่งแก้เตาไอเอฟ",
-            "summary": "ผู้ผลิตเหล็กไทยเรียกร้องกระทรวงอุตสาหกรรมเข้มงวดมาตรฐาน มอก. และตรวจสอบโรงงานเตาหลอม IF ที่ไม่ได้มาตรฐาน เพื่อสกัดปัญหาราคาตกต่ำ",
-            "why": "โรงงานแปรรูปโครงสร้างเหล็กที่ได้มาตรฐานจำเป็นต้องใช้วัสดุขัดและใบเจียรคุณภาพสูงในการเตรียมผิวและลบรอยเชื่อม",
-            "action": "เน้นเจาะกลุ่มโรงงานแปรรูปและประกอบโครงสร้างเหล็กมาตรฐาน มอก. ที่ต้องการวัสดุขัดคุณภาพสม่ำเสมอ"
-          }
-        }
-      ],
-      "terms": {}
     }
   ],
-  "updated": "2026-09-14"
+  "updated": "2026-09-15"
 };
