@@ -4,64 +4,82 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-09-16",
-      "summary": "Today's global briefing focuses on robotic finishing, electronics and semiconductor sector expansion driving specialized abrasives, and AI-driven smart manufacturing transformations.",
-      "directCount": 3,
+      "summary": "Today's briefing focuses on 4 key global trends across automotive OEM coatings, metal casting, non-woven abrasives, and epoxy coatings, reflecting shifting demands in surface prep and industrial manufacturing.",
+      "directCount": 4,
       "th": {
-        "summary": "สรุปเทรนด์โลกประจำวันนี้เน้นไปที่การขัดผิวด้วยหุ่นยนต์ การขยายตัวของอุตสาหกรรมอิเล็กทรอนิกส์และเซมิคอนดักเตอร์ที่ขับเคลื่อนวัสดุขัดเฉพาะทาง รวมถึงการเปลี่ยนผ่านสู่การผลิตอัจฉริยะด้วย AI"
+        "summary": "สรุปข่าววันนี้เน้น 4 เทรนด์สำคัญระดับโลก ทั้งในกลุ่มสีเคลือบรถยนต์ OEM การหล่อโลหะ วัสดุขัดถูแบบ non-woven และสารเคลือบอีพ็อกซี่ สะท้อนถึงความต้องการที่เปลี่ยนไปในด้านการเตรียมพื้นผิวและการผลิตอุตสาหกรรม"
       },
       "items": [
         {
           "id": "20260916-w1",
-          "tag": "abrasive",
+          "tag": "auto",
           "rating": "green",
-          "source": "indexbox.io",
-          "date": "2026-09-15",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd0JtN1luVVV1bGZ1c0JHQlZVSjFvWWhUS080WDVlLUtxSGRYVENBcVFKLWhGQnFEbU9NSURhZTRjV3I0azVLdDhRd3RyYWhFZ0hMV0lLZWRGQkZQTUhFdHdrV1RBVXJSaHkwQUNkc01xWjVpZ1FCODVaLUh1WmFuQUloLTJ5SVFhYVdkVjFfVEpCYTNlM0JQdGh1OFFEQUNCMDhjaFZxc1dwR0pmcEtBUGZMdElucHVYSkNOcG9n?oc=5",
-          "title": "Flap Wheels Market Forecast to 2035: Robotic Finishing and Semiconductor Demand Drive Growth",
-          "summary": "The global demand for flap wheels is accelerating due to the rapid expansion of robotic finishing applications and semiconductor manufacturing requirements.",
-          "why": "Highlights a major shift toward automated, robotic surface finishing where consistent abrasive performance and specialized flap wheels are critical.",
-          "action": "Evaluate our inventory and technical readiness for automated and robotic grinding applications.",
+          "source": "Fortune Business Insights",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
+          "title": "Automotive OEM Coatings Market Size, Share | Growth [2034]",
+          "summary": "The automotive OEM coatings market is expanding steadily through 2034, driven by advanced vehicle manufacturing requirements and surface finishing standards.",
+          "why": "Automotive OEM production heavily dictates surface preparation, sanding, and coating workflows, influencing the volume of abrasives required by tier suppliers.",
+          "action": "Monitor OEM coating requirements to anticipate high-precision sanding and polishing product demands.",
           "th": {
-            "title": "ตลาดล้อทราย (Flap Wheels) สู่ปี 2035: การขัดผิวด้วยหุ่นยนต์และความต้องการเซมิคอนดักเตอร์ขับเคลื่อนการเติบโต",
-            "summary": "ความต้องการล้อทรายทั่วโลกกำลังเร่งตัวขึ้น เนื่องจากการขยายตัวอย่างรวดเร็วของการใช้งานขัดผิวด้วยหุ่นยนต์และความต้องการในการผลิตเซมิคอนดักเตอร์",
-            "why": "เน้นย้ำถึงการเปลี่ยนแปลงครั้งสำคัญสู่กระบวนการขัดผิวอัตโนมัติด้วยหุ่นยนต์ ซึ่งประสิทธิภาพของวัสดุขัดที่สม่ำเสมอและล้อทรายเฉพาะทางเป็นสิ่งสำคัญยิ่ง",
-            "action": "ประเมินสินค้าคงคลังและความพร้อมทางเทคนิคของเราสำหรับการใช้งานเจียรและขัดผิวแบบอัตโนมัติด้วยหุ่นยนต์"
+            "title": "ตลาดสีเคลือบ OEM ยานยนต์: ขนาด ส่วนแบ่ง และการเติบโตถึงปี 2034",
+            "summary": "ตลาดสีเคลือบรถยนต์ OEM เติบโตอย่างต่อเนื่องจนถึงปี 2034 ขับเคลื่อนโดยข้อกำหนดการผลิตยานยนต์ขั้นสูงและมาตรฐานการตกแต่งพื้นผิว",
+            "why": "การผลิตยานยนต์ OEM เป็นตัวกำหนดขั้นตอนการเตรียมพื้นผิว การขัด และการเคลือบ ซึ่งส่งผลโดยตรงต่อปริมาณวัสดุขัดที่ผู้ผลิตชิ้นส่วนต้องการ",
+            "action": "ติดตามข้อกำหนดการเคลือบสีของ OEM เพื่อคาดการณ์ความต้องการผลิตภัณฑ์ขัดและขัดเงาที่มีความแม่นยำสูง"
           }
         },
         {
           "id": "20260916-w2",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-09-02",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUUpWSmpHLVowSXdiLUJqcFlpQ3ZfRmdQYjJiTVFCNk00ZW0tM0ZqenQtd2F4emNVNEdzT3Q3amZ3M050YnNuTldQZFQyTlgyX3ByekdEbkdlaURacG5yRlBUSEZucnBQalBmNzVadXVrSDdXcEd0d2t4UXptUzJ5dXZ6ckE1V3RVV3IyUkY4SFdVSERveVJYem0yM3lNbWFUY1dXWHYyRFZ2cXdldWFyRmJTNE4tQ1RXWWp4N3NCN1h5Vmt3d3hEbkFPc2ZqT0k?oc=5",
-          "title": "A global AI manufacturing transformation at Hyundai Motor Group",
-          "summary": "Hyundai Motor Group is rolling out advanced AI-driven manufacturing transformations to optimize production lines and smart factories globally.",
-          "why": "As major automotive OEMs adopt AI and smart automation, their expectations for high-precision, automated abrasive tooling will also increase.",
-          "action": "Monitor how automotive manufacturing automation changes factory procurement criteria for consumable tooling.",
+          "tag": "steel",
+          "rating": "green",
+          "source": "Fortune Business Insights",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kYlp3TXBwdU5JVl9Gc0pFd3lJSFpjSUhLeEFGOVZVS19BbHBoTFNGb1BFOC1UNEN4c1o0c2xjdTFZYXhVdGRVb0dIeXZqakt1bTJkQy10SC0wRlh0RVVBZHZaWDFYbDk3cHdUbXBsYnRyYTlFVEE?oc=5",
+          "title": "Metal Casting Market Growth Analysis & Industry Forecast, 2034",
+          "summary": "Global metal casting market growth highlights sustained demand for heavy metal component manufacturing and finishing processes.",
+          "why": "Metal casting requires heavy-duty grinding, deburring, and surface cleaning, making foundries core consumers of industrial abrasives, grinding wheels, and sanding discs.",
+          "action": "Strengthen relationships with local metal foundries and fabricators needing heavy deburring solutions.",
           "th": {
-            "title": "การเปลี่ยนแปลงการผลิตระดับโลกด้วย AI ที่กลุ่มฮุนไดมอเตอร์",
-            "summary": "กลุ่มฮุนไดมอเตอร์กำลังดำเนินการเปลี่ยนแปลงการผลิตด้วยเทคโนโลยี AI ขั้นสูง เพื่อเพิ่มประสิทธิภาพสายการผลิตและโรงงานอัจฉริยะทั่วโลก",
-            "why": "เนื่องจากค่ายรถยนต์รายใหญ่หันมาใช้ AI และระบบอัตโนมัติอัจฉริยะ ความคาดหวังต่อเครื่องมือขัดที่มีความแม่นยำสูงและใช้งานกับระบบอัตโนมัติก็จะเพิ่มขึ้นตามไปด้วย",
-            "action": "ติดตามดูว่าระบบอัตโนมัติในการผลิตรถยนต์เปลี่ยนแปลงเกณฑ์การจัดซื้อเครื่องมือสิ้นเปลืองของโรงงานอย่างไร"
+            "title": "การวิเคราะห์การเติบโตของตลาดการหล่อโลหะและการคาดการณ์อุตสาหกรรมถึงปี 2034",
+            "summary": "การเติบโตของตลาดการหล่อโลหะทั่วโลกสะท้อนความต้องการที่ต่อเนื่องในกระบวนการผลิตและการตกแต่งชิ้นส่วนโลหะหนัก",
+            "why": "งานหล่อโลหะจำเป็นต้องมีการเจียร ลบคม และทำความสะอาดพื้นผิวอย่างหนักหน่วง ทำให้โรงหล่อเป็นลูกค้าหลักของวัสดุขัดอุตสาหกรรม ล้อเจียร และแผ่นขัด",
+            "action": "เสริมสร้างความสัมพันธ์กับโรงหล่อโลหะและผู้ผลิตชิ้นส่วนที่ต้องการโซลูชันการลบคมงานหนัก"
           }
         },
         {
           "id": "20260916-w3",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "S&P Global",
-          "date": "2026-01-12",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
-          "title": "Global steel industry battles surplus supply, protectionism",
-          "summary": "The global steel sector continues to face strong headwinds from oversupply conditions and increasing international protectionist measures.",
-          "why": "Metal fabrication and steel processing plants are under cost pressure, which impacts their purchasing behavior for grinding and deburring abrasives.",
-          "action": "Focus on cost-effective, durable abrasive solutions that help local metal fabricators maintain margins during tight market conditions.",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "Market.us",
+          "date": "2025-03-04",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91alpTXzlIaHVncXdQT2g3dVU2YjM5QTQ1amZIZGRMN0VQMGhzaXdEUXlIWV9nUXZRQ18wMUdrMmYzMkxLa25tdHpwTVctQ2JuYXhXWmxsQW1Pd1gxN1FhM2tkV20yV1psbHhv?oc=5",
+          "title": "Non-woven Abrasives Market Size, Share | CAGR of 3.8%",
+          "summary": "The non-woven abrasives market continues steady expansion, driven by needs for fine blending, cleaning, and surface conditioning.",
+          "why": "Non-woven abrasives are vital for specialized surface finishing and blending applications across metalworking and automotive sectors where scratch control is critical.",
+          "action": "Evaluate our non-woven product portfolio to capture demand for fine surface blending applications.",
           "th": {
-            "title": "อุตสาหกรรมเหล็กโลกเผชิญศึกอุปทานล้นตลาดและมาตรการกีดกันทางการค้า",
-            "summary": "ภาคอุตสาหกรรมเหล็กทั่วโลกยังคงเผชิญกับแรงกดดันจากภาวะอุปทานส่วนเกินและมาตรการกีดกันทางการค้าระหว่างประเทศที่เพิ่มขึ้น",
-            "why": "โรงงานแปรรูปโลหะและอุตสาหกรรมเหล็กกำลังเผชิญกับแรงกดดันด้านต้นทุน ซึ่งส่งผลต่อพฤติกรรมการซื้อผลิตภัณฑ์สำหรับเจียรและลบคม",
-            "action": "มุ่งเน้นนำเสนอโซลูชันวัสดุขัดที่มีความคุ้มค่าและทนทาน ซึ่งช่วยให้ผู้ผลิตโลหะท้องถิ่นรักษากำไรไว้ได้ในช่วงที่ตลาดมีความท้าทาย"
+            "title": "ตลาดวัสดุขัดชนิดไม่ถักทอ (Non-woven Abrasives): ขนาด ส่วนแบ่ง และอัตราการเติบโต",
+            "summary": "ตลาดวัสดุขัดชนิดไม่ถักทอขยายตัวอย่างต่อเนื่อง ขับเคลื่อนด้วยความต้องการงานผสมผิว ทำความสะอาด และปรับสภาพพื้นผิว",
+            "why": "วัสดุขัดชนิดไม่ถักทอมีความสำคัญอย่างยิ่งสำหรับงานตกแต่งพื้นผิวและการผสมลายผิวในอุตสาหกรรมโลหะและยานยนต์ที่ต้องการการควบคุมรอยขีดข่วน",
+            "action": "ประเมินกลุ่มผลิตภัณฑ์วัสดุขัด non-woven ของเราเพื่อรองรับความต้องการงานตกแต่งพื้นผิวละเอียด"
+          }
+        },
+        {
+          "id": "20260916-w4",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "Market Research Future",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE40VENBdkR6MDRta2Z3Wl9sb2JhakcwVzJKb1pGQmU3RGpvWGJsVWNFNTBiVzVUMnlCNnNhRXVtZWduczV1WmFON2tkakpQRmZDajM2Ty1kX0tUWW53X3NWOVppb3dNbS16TUlPWFBQMG9za28zcm9WT2NNWQ?oc=5",
+          "title": "Epoxy Coatings Market Size, Share & Growth Report 2035 | MRFR",
+          "summary": "The epoxy coatings market is projected for long-term growth through 2035, supported by industrial flooring, anti-corrosion, and protective infrastructure uses.",
+          "why": "Epoxy application processes often require thorough mechanical surface preparation and concrete or metal sanding before coating adhesion.",
+          "action": "Keep an eye on surface preparation standards specified for heavy-duty epoxy coating projects.",
+          "th": {
+            "title": "รายงานขนาด ส่วนแบ่ง และการเติบโตของตลาดสีเคลือบอีพ็อกซี่ถึงปี 2035",
+            "summary": "ตลาดสีเคลือบอีพ็อกซี่คาดว่าจะเติบโตในระยะยาวถึงปี 2035 โดยได้รับการสนับสนุนจากการใช้งานพื้นอุตสาหกรรม การป้องกันการกัดกร่อน และโครงสร้างพื้นฐาน",
+            "why": "กระบวนการเคลือบอีพ็อกซี่มักต้องอาศัยการเตรียมพื้นผิวทางกลและการขัดผิวคอนกรีตหรือโลหะอย่างละเอียดเพื่อให้การยึดเกาะดีเยี่ยม",
+            "action": "ติดตามมาตรฐานการเตรียมพื้นผิวที่ระบุไว้สำหรับโครงการเคลือบอีพ็อกซี่งานหนัก"
           }
         }
       ]
