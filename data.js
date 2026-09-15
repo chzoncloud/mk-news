@@ -3,64 +3,64 @@ window.NEWS_ARCHIVE = {
   "days": [
     {
       "date": "2026-09-16",
-      "summary": "News is relatively light today with earlier EV tax policies still dominating headlines; key fresh developments center on VietJet's feasibility review for U-Tapao MRO, steelmakers demanding import restrictions against Chinese dumping, and furniture exporters facing headwinds from US tariff shifts.",
+      "summary": "Today has few new updates as major EV tax policies and MRO projects were previously covered; focus shifts to factory standard crackdowns in the steel sector and upcoming regional woodworking expos.",
       "directCount": 0,
       "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยส่วนใหญ่ยังเป็นกระแสต่อเนื่องจากการปรับภาษีอีวี ประเด็นใหม่ที่น่าจับตาคือเวียตเจ็ทศึกษาตั้งศูนย์ซ่อม MRO ที่อู่ตะเภา, สมาคมเหล็กร้องสกัดการทุ่มตลาดจากจีน และผู้ผลิตเฟอร์นิเจอร์รับมือความเสี่ยงภาษีนำเข้าสหรัฐฯ"
+        "summary": "วันนี้มีข่าวใหม่ไม่มากเนื่องจากประเด็นภาษี EV และศูนย์ซ่อม MRO ถูกรายงานไปแล้ว โดยมีข่าวเด่นเรื่องการปราบปรามโรงงานเหล็กไม่ได้มาตรฐานและการเตรียมจัดงานแสดงสินค้าอุตสาหกรรมไม้ระดับภูมิภาค"
       },
       "items": [
         {
           "id": "20260916-1",
-          "tag": "aero",
+          "tag": "furniture",
           "rating": "amber",
-          "source": "Thansettakij",
-          "date": "2026-06-16",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pbFFnQlhiSG5UMVBfTjVmMUZtNXc4ZkYyOFljMVFtQlQwalZ5WUpidFlzX3prejlBWGoydDYzUUZXMlY4bE56VFUwZnZrLVJfWlRtV2t0Wi0xOWkzeVFLTUFJOVIwUQ?oc=5",
-          "title": "EECO Targets U-Tapao MRO Hub as VietJet Studies Investment Plan",
-          "summary": "The Eastern Economic Corridor Office (EECO) is advancing the U-Tapao aviation maintenance hub while awaiting the outcome of VietJet's feasibility study to invest in local MRO facilities.",
-          "why": "New airline MRO investments in Thailand expand long-term factory-level demand for aerospace-grade abrasive belts, surface conditioning pads, and precision deburring tools.",
-          "action": "Track VietJet's maintenance infrastructure timeline to introduce MK's aerospace-certified grinding and polishing portfolio to participating engineering contractors.",
+          "source": "เดลินิวส์",
+          "date": "2026-09-03",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQOG53VVJYRkd4MUZabFczX0FkeTVGTGNFYmZGUUxkTnJ6VjNmeklDTUZEYXlVRkpjS1gzeUxQczJHMXJRS3c1dEdWSk14eVVqczJN?oc=5",
+          "title": "TIWF 2026 Set to Elevate Regional Woodworking and Furniture Manufacturing",
+          "summary": "The Thailand International Woodworking & Furniture Exhibition (TIWF 2026) has announced its readiness to showcase advanced machinery and sustainable manufacturing solutions.",
+          "why": "Machinery upgrades and increased output among furniture makers directly drive ongoing consumption of wide sanding belts, discs, and finishing abrasives.",
+          "action": "Engage participating woodworking machinery distributors and furniture exporters to promote MK wide belts and finishing supplies.",
           "th": {
-            "title": "EECO ปักหมุดศูนย์ซ่อม MRO อู่ตะเภา รอเวียตเจ็ทศึกษาแผนร่วมลงทุน",
-            "summary": "สำนักงานอีอีซียังคงเดินหน้าผลักดันศูนย์ซ่อมบำรุงอากาศยานอู่ตะเภา โดยอยู่ระหว่างรอผลการศึกษาความเป็นไปได้ของสายการบินเวียตเจ็ทในการเข้ามาร่วมลงทุน",
-            "why": "การขยายตัวของศูนย์ซ่อมบำรุงอากาศยานแห่งใหม่จะช่วยเพิ่มอุปสงค์ระยะยาวสำหรับวัสดุขัดเกรดการบิน ลูกขัดเตรียมผิว และเครื่องมือลบครีบชิ้นส่วนอากาศยาน",
-            "action": "ติดตามความคืบหน้าของโครงการเพื่อนำเสนอผลิตภัณฑ์ขัดเงาและเตรียมผิวมาตรฐานการบินแก่ฝ่ายจัดซื้อและวิศวกรซ่อมบำรุงล่วงหน้า"
+            "title": "TIWF 2026 ประกาศความพร้อม ยกระดับอุตสาหกรรมงานไม้และเฟอร์นิเจอร์ระดับภูมิภาค",
+            "summary": "งานแสดงสินค้าเครื่องจักรงานไม้และเฟอร์นิเจอร์ TIWF 2026 ประกาศความพร้อมจัดงานใหญ่เพื่อโชว์เทคโนโลยีการผลิตและแปรรูปไม้ที่ยั่งยืน",
+            "why": "การยกระดับเครื่องจักรและกำลังผลิตของโรงงานเฟอร์นิเจอร์ส่งผลให้ความต้องการสายพานขัดและจานขัดเตรียมผิวเพิ่มขึ้นตามไปด้วย",
+            "action": "รวบรวมรายชื่อผู้แทนจำหน่ายเครื่องจักรและโรงงานเฟอร์นิเจอร์ในงาน เพื่อนำเสนอสินค้าสายพานขัดและจานขัดของ MK"
           }
         },
         {
           "id": "20260916-2",
           "tag": "steel",
           "rating": "amber",
-          "source": "LINE TODAY",
-          "date": "2025-12-27",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MbDY2SkFDN1VRQXdMaUF1Nmhlb3U0dTZLVzlMUkVDTTJlTy1UMFhMWFctVHJzWEhCd1lZUXZzaGpCMnJoNDBFOXRUclB2TXZ1ZkVlbjZB?oc=5",
-          "title": "10 Thai Steel Associations Urge Ban on Finished Steel Imports Amid Chinese Dumping Crisis",
-          "summary": "Ten local steel associations have called on the government to halt imports of finished steel products to shield Thai manufacturers from aggressive low-cost Chinese market dumping.",
-          "why": "Depressed domestic steel manufacturing dampens factory utilization rates, lowering immediate consumption of heavy grinding discs and cutoff wheels across fabricators.",
-          "action": "Audit sales volume among metal fabrication clients and offer high-durability cutting/grinding discs that help processors reduce consumable costs during margin pressures.",
+          "source": "Thairath.co.th",
+          "date": "2026-05-22",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5yOEdKVkRNRnBpc1dWRGRuNzNtN1NHR09mSlc3eHpQem1iLUg4TVY0bkN2eDF4bWhhZ3JfTU5idGxKN2trZUJfS1hRMlkxZHQ5T29sTVBMdU5fTHR0V09GQ2h0c19ZSGRrVU9oaTI3eVQydWc?oc=5",
+          "title": "Industry Ministry Commended for Cracking Down on Substandard Steel Plants",
+          "summary": "Ten steel trade associations praised the Ministry of Industry for decisive legal enforcement against substandard induction furnace steel manufacturers.",
+          "why": "Eliminating substandard and non-compliant operators stabilizes production conditions for certified steel and metal fabrication plants, our key abrasive consumers.",
+          "action": "Strengthen supply contracts and surface-finishing inventory with compliant steel fabricators benefiting from market stabilization.",
           "th": {
-            "title": "10 สมาคมเหล็กไทยร้องรัฐสกัดวิกฤตเหล็กจีนทุ่มตลาด จี้ห้ามนำเข้าเหล็กสำเร็จรูป",
-            "summary": "กลุ่มผู้ผลิตเหล็กไทย 10 สมาคมร่วมยื่นข้อเรียกร้องให้กระทรวงอุตสาหกรรมห้ามนำเข้าเหล็กสำเร็จรูป เพื่อปกป้องโรงงานในประเทศที่กำลังเผชิญการตัดราคาอย่างหนักจากจีน",
-            "why": "ภาวะซบเซาของโรงงานผลิตเหล็กและแปรรูปโลหะในประเทศส่งผลให้การใช้งานใบเจียร ใบตัด และกระดาษทรายสายพานในสายการผลิตชะลอตัวลง",
-            "action": "ตรวจสอบสถานะการผลิตของลูกค้าโรงงานแปรรูปโลหะ พร้อมนำเสนอหินขัดและใบตัดเกรดคุ้มค่าเพื่อช่วยลูกค้าลดต้นทุนต่อชิ้นงาน"
+            "title": "10 สมาคมเหล็กปลื้มกระทรวงอุตสาหกรรม เดินหน้าเชือดโรงงานผลิตเหล็กไม่ได้มาตรฐาน",
+            "summary": "กลุ่มสมาคมเหล็กขานรับมาตรการบังคับใช้กฎหมายของกระทรวงอุตสาหกรรม ในการสั่งปิดโรงงานเตาหลอมที่ผลิตเหล็กไม่ได้มาตรฐาน มอก.",
+            "why": "การกวาดล้างโรงงานไร้มาตรฐานช่วยพยุงผู้ผลิตเหล็กโครงสร้างที่ได้มาตรฐานในไทย ซึ่งเป็นกลุ่มลูกค้าหลักที่ใช้วัสดุขัดและเจียรโลหะอย่างต่อเนื่อง",
+            "action": "เร่งกระชับความสัมพันธ์และเสนอสต็อกหินเจียร/จานขัดแก่กลุ่มโรงงานเหล็กมาตรฐานที่ได้รับอานิสงส์เชิงบวก"
           }
         },
         {
           "id": "20260916-3",
           "tag": "furniture",
-          "rating": "amber",
-          "source": "ditp.go.th",
-          "date": "2025-10-08",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WZ0s3TnpGQ1JjZHJpVkhVQ19La3lwT2hjMTR3cXZlczhtby1WNnFQaUcxb2RUZ1FPcGgwQTRWa2t6TnN4d3NNUXF6bXVjOEpKY3FrWlFocm9nRnJ5UGdZOFd3?oc=5",
-          "title": "Thai Furniture Manufacturers Anticipate Order Declines Under New US Tariff Policies",
-          "summary": "Exporters project a drop in overseas purchase orders as new US tariff policies heighten cost pressures on Thai wooden and upholstered furniture exports.",
-          "why": "A drop in export-oriented wood processing will directly impact repeat consumption of wide sanding belts and disc abrasives in furniture factories.",
-          "action": "Diversify abrasives sales toward domestic custom-built woodworkers and scale retail packaging for DIY makers on Shopee and TikTok.",
+          "rating": "white",
+          "source": "LINE TODAY",
+          "date": "2026-02-19",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SdnFHbkI2cC12bTVyU0ZpODZiODNrZ2xoV1BtT2dIQ2hZN3AwVTcyRzVtY3ByN2tjazdNWGQ5VmphbXlMQU5iOEU4dVNGMU9iQW5QRUFB?oc=5",
+          "title": "ASEAN Furniture Sector Aligns on Design and Sustainability for Global Market",
+          "summary": "ASEAN furniture manufacturers are joining forces to shift production strategies toward premium design and sustainable materials targeting 1.6 trillion baht in global value.",
+          "why": "A shift toward high-end and sustainable wood furniture increases demand for high-grit finishing papers and specialized polishing materials.",
+          "action": "Monitor export-oriented furniture makers adopting eco-friendly finishes to introduce MK fine-grit abrasives.",
           "th": {
-            "title": "ผู้ผลิตเฟอร์นิเจอร์คาดคำสั่งซื้อชะลอตัว หลังสหรัฐฯ เตรียมบังคับใช้นโยบายภาษีนำเข้าใหม่",
-            "summary": "ผู้ประกอบการส่งออกเฟอร์นิเจอร์ประเมินว่าคำสั่งซื้อจากต่างประเทศมีแนวโน้มลดลง เนื่องจากนโยบายภาษีใหม่ของสหรัฐฯ เพิ่มแรงกดดันด้านต้นทุนการแข่งขัน",
-            "why": "คำสั่งซื้อเพื่อการส่งออกที่ชะลอตัวจะกระทบต่อยอดสั่งซื้อซ้ำของกระดาษทรายสายพานหน้ากว้างและจานทรายขัดไม้ในโรงงานเฟอร์นิเจอร์",
-            "action": "กระจายความเสี่ยงโดยขยายฐานลูกค้ากลุ่มรับเหมาตกแต่งภายใน และเพิ่มการโปรโมตกระดาษทรายงานไม้ขนาด DIY บน Shopee และ TikTok"
+            "title": "อาเซียนผนึกกำลังรุกตลาดเฟอร์นิเจอร์โลก ปรับกลยุทธ์ชูดีไซน์และความยั่งยืน",
+            "summary": "กลุ่มผู้ผลิตเฟอร์นิเจอร์อาเซียนจับมือปรับยุทธศาสตร์เน้นงานดีไซน์พรีเมียมและวัสดุที่เป็นมิตรต่อสิ่งแวดล้อมเพื่อชิงเค้กตลาดโลก 1.6 ล้านล้านบาท",
+            "why": "การปรับสายการผลิตสู่งานไม้เกรดพรีเมียมผลักดันให้ความต้องการกระดาษทรายเบอร์ละเอียดและวัสดุเตรียมผิวคุณภาพสูงเติบโตขึ้น",
+            "action": "ติดตามกลุ่มผู้ผลิตเฟอร์นิเจอร์ส่งออกที่ปรับไลน์สินค้า เพื่อนำเสนอกระดาษทรายขัดละเอียดสำหรับงานผิวไม้ประณีต"
           }
         }
       ],
