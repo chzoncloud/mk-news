@@ -2,6 +2,71 @@
 window.NEWS_ARCHIVE = {
   "days": [
     {
+      "date": "2026-09-16",
+      "summary": "News is relatively light today with earlier EV tax policies still dominating headlines; key fresh developments center on VietJet's feasibility review for U-Tapao MRO, steelmakers demanding import restrictions against Chinese dumping, and furniture exporters facing headwinds from US tariff shifts.",
+      "directCount": 0,
+      "th": {
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยส่วนใหญ่ยังเป็นกระแสต่อเนื่องจากการปรับภาษีอีวี ประเด็นใหม่ที่น่าจับตาคือเวียตเจ็ทศึกษาตั้งศูนย์ซ่อม MRO ที่อู่ตะเภา, สมาคมเหล็กร้องสกัดการทุ่มตลาดจากจีน และผู้ผลิตเฟอร์นิเจอร์รับมือความเสี่ยงภาษีนำเข้าสหรัฐฯ"
+      },
+      "items": [
+        {
+          "id": "20260916-1",
+          "tag": "aero",
+          "rating": "amber",
+          "source": "Thansettakij",
+          "date": "2026-06-16",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pbFFnQlhiSG5UMVBfTjVmMUZtNXc4ZkYyOFljMVFtQlQwalZ5WUpidFlzX3prejlBWGoydDYzUUZXMlY4bE56VFUwZnZrLVJfWlRtV2t0Wi0xOWkzeVFLTUFJOVIwUQ?oc=5",
+          "title": "EECO Targets U-Tapao MRO Hub as VietJet Studies Investment Plan",
+          "summary": "The Eastern Economic Corridor Office (EECO) is advancing the U-Tapao aviation maintenance hub while awaiting the outcome of VietJet's feasibility study to invest in local MRO facilities.",
+          "why": "New airline MRO investments in Thailand expand long-term factory-level demand for aerospace-grade abrasive belts, surface conditioning pads, and precision deburring tools.",
+          "action": "Track VietJet's maintenance infrastructure timeline to introduce MK's aerospace-certified grinding and polishing portfolio to participating engineering contractors.",
+          "th": {
+            "title": "EECO ปักหมุดศูนย์ซ่อม MRO อู่ตะเภา รอเวียตเจ็ทศึกษาแผนร่วมลงทุน",
+            "summary": "สำนักงานอีอีซียังคงเดินหน้าผลักดันศูนย์ซ่อมบำรุงอากาศยานอู่ตะเภา โดยอยู่ระหว่างรอผลการศึกษาความเป็นไปได้ของสายการบินเวียตเจ็ทในการเข้ามาร่วมลงทุน",
+            "why": "การขยายตัวของศูนย์ซ่อมบำรุงอากาศยานแห่งใหม่จะช่วยเพิ่มอุปสงค์ระยะยาวสำหรับวัสดุขัดเกรดการบิน ลูกขัดเตรียมผิว และเครื่องมือลบครีบชิ้นส่วนอากาศยาน",
+            "action": "ติดตามความคืบหน้าของโครงการเพื่อนำเสนอผลิตภัณฑ์ขัดเงาและเตรียมผิวมาตรฐานการบินแก่ฝ่ายจัดซื้อและวิศวกรซ่อมบำรุงล่วงหน้า"
+          }
+        },
+        {
+          "id": "20260916-2",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "LINE TODAY",
+          "date": "2025-12-27",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MbDY2SkFDN1VRQXdMaUF1Nmhlb3U0dTZLVzlMUkVDTTJlTy1UMFhMWFctVHJzWEhCd1lZUXZzaGpCMnJoNDBFOXRUclB2TXZ1ZkVlbjZB?oc=5",
+          "title": "10 Thai Steel Associations Urge Ban on Finished Steel Imports Amid Chinese Dumping Crisis",
+          "summary": "Ten local steel associations have called on the government to halt imports of finished steel products to shield Thai manufacturers from aggressive low-cost Chinese market dumping.",
+          "why": "Depressed domestic steel manufacturing dampens factory utilization rates, lowering immediate consumption of heavy grinding discs and cutoff wheels across fabricators.",
+          "action": "Audit sales volume among metal fabrication clients and offer high-durability cutting/grinding discs that help processors reduce consumable costs during margin pressures.",
+          "th": {
+            "title": "10 สมาคมเหล็กไทยร้องรัฐสกัดวิกฤตเหล็กจีนทุ่มตลาด จี้ห้ามนำเข้าเหล็กสำเร็จรูป",
+            "summary": "กลุ่มผู้ผลิตเหล็กไทย 10 สมาคมร่วมยื่นข้อเรียกร้องให้กระทรวงอุตสาหกรรมห้ามนำเข้าเหล็กสำเร็จรูป เพื่อปกป้องโรงงานในประเทศที่กำลังเผชิญการตัดราคาอย่างหนักจากจีน",
+            "why": "ภาวะซบเซาของโรงงานผลิตเหล็กและแปรรูปโลหะในประเทศส่งผลให้การใช้งานใบเจียร ใบตัด และกระดาษทรายสายพานในสายการผลิตชะลอตัวลง",
+            "action": "ตรวจสอบสถานะการผลิตของลูกค้าโรงงานแปรรูปโลหะ พร้อมนำเสนอหินขัดและใบตัดเกรดคุ้มค่าเพื่อช่วยลูกค้าลดต้นทุนต่อชิ้นงาน"
+          }
+        },
+        {
+          "id": "20260916-3",
+          "tag": "furniture",
+          "rating": "amber",
+          "source": "ditp.go.th",
+          "date": "2025-10-08",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WZ0s3TnpGQ1JjZHJpVkhVQ19La3lwT2hjMTR3cXZlczhtby1WNnFQaUcxb2RUZ1FPcGgwQTRWa2t6TnN4d3NNUXF6bXVjOEpKY3FrWlFocm9nRnJ5UGdZOFd3?oc=5",
+          "title": "Thai Furniture Manufacturers Anticipate Order Declines Under New US Tariff Policies",
+          "summary": "Exporters project a drop in overseas purchase orders as new US tariff policies heighten cost pressures on Thai wooden and upholstered furniture exports.",
+          "why": "A drop in export-oriented wood processing will directly impact repeat consumption of wide sanding belts and disc abrasives in furniture factories.",
+          "action": "Diversify abrasives sales toward domestic custom-built woodworkers and scale retail packaging for DIY makers on Shopee and TikTok.",
+          "th": {
+            "title": "ผู้ผลิตเฟอร์นิเจอร์คาดคำสั่งซื้อชะลอตัว หลังสหรัฐฯ เตรียมบังคับใช้นโยบายภาษีนำเข้าใหม่",
+            "summary": "ผู้ประกอบการส่งออกเฟอร์นิเจอร์ประเมินว่าคำสั่งซื้อจากต่างประเทศมีแนวโน้มลดลง เนื่องจากนโยบายภาษีใหม่ของสหรัฐฯ เพิ่มแรงกดดันด้านต้นทุนการแข่งขัน",
+            "why": "คำสั่งซื้อเพื่อการส่งออกที่ชะลอตัวจะกระทบต่อยอดสั่งซื้อซ้ำของกระดาษทรายสายพานหน้ากว้างและจานทรายขัดไม้ในโรงงานเฟอร์นิเจอร์",
+            "action": "กระจายความเสี่ยงโดยขยายฐานลูกค้ากลุ่มรับเหมาตกแต่งภายใน และเพิ่มการโปรโมตกระดาษทรายงานไม้ขนาด DIY บน Shopee และ TikTok"
+          }
+        }
+      ],
+      "terms": {}
+    },
+    {
       "date": "2026-09-15",
       "summary": "Limited fresh headlines are available today; the most actionable update focuses on FTI pushing to integrate local SME parts makers into the evolving EV supply chain, while aviation MRO and furniture exports offer steady medium-term growth. วันนี้มีข่าวใหม่ไม่มาก โดยประเด็นสำคัญอยู่ที่ ส.อ.ท. ผลักดันให้เชื่อมโยงซัพพลายเชนชิ้นส่วนยานยนต์สู่ผู้ผลิต SME ในประเทศ ส่วนอุตสาหกรรม MRO และเฟอร์นิเจอร์ส่งออกยังคงมีทิศทางขยายตัวในระยะกลาง",
       "directCount": 1,
@@ -695,5 +760,5 @@ window.NEWS_ARCHIVE = {
       "terms": {}
     }
   ],
-  "updated": "2026-09-15"
+  "updated": "2026-09-16"
 };
