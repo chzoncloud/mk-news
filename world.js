@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-09-15",
+  "updated": "2026-09-16",
   "days": [
+    {
+      "date": "2026-09-16",
+      "summary": "Today's global briefing focuses on robotic finishing, electronics and semiconductor sector expansion driving specialized abrasives, and AI-driven smart manufacturing transformations.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปเทรนด์โลกประจำวันนี้เน้นไปที่การขัดผิวด้วยหุ่นยนต์ การขยายตัวของอุตสาหกรรมอิเล็กทรอนิกส์และเซมิคอนดักเตอร์ที่ขับเคลื่อนวัสดุขัดเฉพาะทาง รวมถึงการเปลี่ยนผ่านสู่การผลิตอัจฉริยะด้วย AI"
+      },
+      "items": [
+        {
+          "id": "20260916-w1",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "indexbox.io",
+          "date": "2026-09-15",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd0JtN1luVVV1bGZ1c0JHQlZVSjFvWWhUS080WDVlLUtxSGRYVENBcVFKLWhGQnFEbU9NSURhZTRjV3I0azVLdDhRd3RyYWhFZ0hMV0lLZWRGQkZQTUhFdHdrV1RBVXJSaHkwQUNkc01xWjVpZ1FCODVaLUh1WmFuQUloLTJ5SVFhYVdkVjFfVEpCYTNlM0JQdGh1OFFEQUNCMDhjaFZxc1dwR0pmcEtBUGZMdElucHVYSkNOcG9n?oc=5",
+          "title": "Flap Wheels Market Forecast to 2035: Robotic Finishing and Semiconductor Demand Drive Growth",
+          "summary": "The global demand for flap wheels is accelerating due to the rapid expansion of robotic finishing applications and semiconductor manufacturing requirements.",
+          "why": "Highlights a major shift toward automated, robotic surface finishing where consistent abrasive performance and specialized flap wheels are critical.",
+          "action": "Evaluate our inventory and technical readiness for automated and robotic grinding applications.",
+          "th": {
+            "title": "ตลาดล้อทราย (Flap Wheels) สู่ปี 2035: การขัดผิวด้วยหุ่นยนต์และความต้องการเซมิคอนดักเตอร์ขับเคลื่อนการเติบโต",
+            "summary": "ความต้องการล้อทรายทั่วโลกกำลังเร่งตัวขึ้น เนื่องจากการขยายตัวอย่างรวดเร็วของการใช้งานขัดผิวด้วยหุ่นยนต์และความต้องการในการผลิตเซมิคอนดักเตอร์",
+            "why": "เน้นย้ำถึงการเปลี่ยนแปลงครั้งสำคัญสู่กระบวนการขัดผิวอัตโนมัติด้วยหุ่นยนต์ ซึ่งประสิทธิภาพของวัสดุขัดที่สม่ำเสมอและล้อทรายเฉพาะทางเป็นสิ่งสำคัญยิ่ง",
+            "action": "ประเมินสินค้าคงคลังและความพร้อมทางเทคนิคของเราสำหรับการใช้งานเจียรและขัดผิวแบบอัตโนมัติด้วยหุ่นยนต์"
+          }
+        },
+        {
+          "id": "20260916-w2",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-09-02",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUUpWSmpHLVowSXdiLUJqcFlpQ3ZfRmdQYjJiTVFCNk00ZW0tM0ZqenQtd2F4emNVNEdzT3Q3amZ3M050YnNuTldQZFQyTlgyX3ByekdEbkdlaURacG5yRlBUSEZucnBQalBmNzVadXVrSDdXcEd0d2t4UXptUzJ5dXZ6ckE1V3RVV3IyUkY4SFdVSERveVJYem0yM3lNbWFUY1dXWHYyRFZ2cXdldWFyRmJTNE4tQ1RXWWp4N3NCN1h5Vmt3d3hEbkFPc2ZqT0k?oc=5",
+          "title": "A global AI manufacturing transformation at Hyundai Motor Group",
+          "summary": "Hyundai Motor Group is rolling out advanced AI-driven manufacturing transformations to optimize production lines and smart factories globally.",
+          "why": "As major automotive OEMs adopt AI and smart automation, their expectations for high-precision, automated abrasive tooling will also increase.",
+          "action": "Monitor how automotive manufacturing automation changes factory procurement criteria for consumable tooling.",
+          "th": {
+            "title": "การเปลี่ยนแปลงการผลิตระดับโลกด้วย AI ที่กลุ่มฮุนไดมอเตอร์",
+            "summary": "กลุ่มฮุนไดมอเตอร์กำลังดำเนินการเปลี่ยนแปลงการผลิตด้วยเทคโนโลยี AI ขั้นสูง เพื่อเพิ่มประสิทธิภาพสายการผลิตและโรงงานอัจฉริยะทั่วโลก",
+            "why": "เนื่องจากค่ายรถยนต์รายใหญ่หันมาใช้ AI และระบบอัตโนมัติอัจฉริยะ ความคาดหวังต่อเครื่องมือขัดที่มีความแม่นยำสูงและใช้งานกับระบบอัตโนมัติก็จะเพิ่มขึ้นตามไปด้วย",
+            "action": "ติดตามดูว่าระบบอัตโนมัติในการผลิตรถยนต์เปลี่ยนแปลงเกณฑ์การจัดซื้อเครื่องมือสิ้นเปลืองของโรงงานอย่างไร"
+          }
+        },
+        {
+          "id": "20260916-w3",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "S&P Global",
+          "date": "2026-01-12",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
+          "title": "Global steel industry battles surplus supply, protectionism",
+          "summary": "The global steel sector continues to face strong headwinds from oversupply conditions and increasing international protectionist measures.",
+          "why": "Metal fabrication and steel processing plants are under cost pressure, which impacts their purchasing behavior for grinding and deburring abrasives.",
+          "action": "Focus on cost-effective, durable abrasive solutions that help local metal fabricators maintain margins during tight market conditions.",
+          "th": {
+            "title": "อุตสาหกรรมเหล็กโลกเผชิญศึกอุปทานล้นตลาดและมาตรการกีดกันทางการค้า",
+            "summary": "ภาคอุตสาหกรรมเหล็กทั่วโลกยังคงเผชิญกับแรงกดดันจากภาวะอุปทานส่วนเกินและมาตรการกีดกันทางการค้าระหว่างประเทศที่เพิ่มขึ้น",
+            "why": "โรงงานแปรรูปโลหะและอุตสาหกรรมเหล็กกำลังเผชิญกับแรงกดดันด้านต้นทุน ซึ่งส่งผลต่อพฤติกรรมการซื้อผลิตภัณฑ์สำหรับเจียรและลบคม",
+            "action": "มุ่งเน้นนำเสนอโซลูชันวัสดุขัดที่มีความคุ้มค่าและทนทาน ซึ่งช่วยให้ผู้ผลิตโลหะท้องถิ่นรักษากำไรไว้ได้ในช่วงที่ตลาดมีความท้าทาย"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-09-15",
       "summary": "Today's global trends focus on advanced surface preparation for semiconductor packaging, European coatings industry innovations in digital and sustainability, and automation pressures in EV manufacturing.",
@@ -830,88 +894,6 @@ window.WORLD_ARCHIVE = {
             "summary": "ฟอร์ดและจีลี่ร่วมมือกันในเมืองบาเลนเซีย ขับเคลื่อนการบูรณาการโรงงานอัจฉริยะและเทคโนโลยีการผลิตขั้นสูงในภาคยานยนต์ยุโรป",
             "why": "โรงงานยานยนต์อัจฉริยะต้องการระบบขัดผิวด้วยหุ่นยนต์อัตโนมัติและโซลูชันลบคมความแม่นยำสูงสำหรับตัวถังน้ำหนักเบาและชิ้นส่วน EV",
             "action": "ศึกษาผลิตภัณฑ์กระดาษทรายและแผ่นขัด non-woven ที่รองรับการทำงานร่วมกับหุ่นยนต์ในสายการผลิตรถยนต์อัตโนมัติ"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-09-02",
-      "summary": "Today's briefing highlights niche finishing demands such as nonwoven abrasive pads and precision lap-films alongside EV assembly and steel market pressures.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปข่าววันนี้เน้นความต้องการกลุ่มสินค้าขัดผิวเฉพาะทาง เช่น แผ่นขัดนอนวูฟเวนและฟิล์มขัดความละเอียดสูง ควบคู่ไปกับกระแสการประกอบ EV และแรงกดดันในตลาดเหล็ก"
-      },
-      "items": [
-        {
-          "id": "20260902-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-09-01",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNTZrVFZaaFVPeVI2RnpoOXlHUXJhVHFSQ0hNZmFDU1lTNTdFYWhRa2ZBcFVseGZzZjRzSENYMjd5RkNLUks4aXlkUlliM1FHcFZJb2FrVkdQXzczbC1ORkNrMnRIelkxYkpyUTJBXy13cXFiWUg0MEdmVVNUaElWWA?oc=5",
-          "title": "Nonwoven Abrasive Pads Market Outlook to 2035",
-          "summary": "The global market for nonwoven abrasive pads is projected for steady expansion through 2035, driven by surface conditioning and blending needs in metal fabrication.",
-          "why": "Nonwoven abrasives are core products for surface finishing, blending, and deburring in metalworking and automotive workshops.",
-          "action": "Evaluate our nonwoven product lineup and stock availability for metal surface preparation.",
-          "th": {
-            "title": "แนวโน้มตลาดแผ่นขัดนอนวูฟเวน (Nonwoven Abrasive Pads) สู่ปี 2035",
-            "summary": "ตลาดโลกของแผ่นขัดนอนวูฟเวนคาดว่าจะเติบโตอย่างต่อเนื่องจนถึงปี 2035 ขับเคลื่อนโดยความต้องการการปรับสภาพพื้นผิวและการขัดเกล็ดงานโลหะ",
-            "why": "สินค้ากลุ่มนอนวูฟเวนคือหัวใจสำคัญสำหรับงานขัดผิว ลบคม และเตรียมพื้นผิวโลหะในอุตสาหกรรมและอู่ซ่อมรถ",
-            "action": "ตรวจสอบกลุ่มผลิตภัณฑ์แผ่นขัดนอนวูฟเวนและสต็อกสินค้าสำหรับงานเตรียมพื้นผิวโลหะของเรา"
-          }
-        },
-        {
-          "id": "20260902-w2",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-08-31",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOREZURUtNaklQRGZ4by1fNWNRRTc3MUdUdVVyeW5IR0xja3BuMGFlQmtaQmZHMnZ4ZnNMSDJUbVpoYmlCVndBRG5QZGpFWF9PS0NySGw1dWE4d3NXRmpVYTMzRElVeFVERHpIcGxaQ0ZjajVBRWlsZG5fd1NFVXBEUC1PYy00XzhVNEVISUFUa0JZZkwyeldxQ1hneUFNX0JJQ0puY2RBaWVubXlFZzgxVE05d2d5c0lzUXFpX1EySQ?oc=5",
-          "title": "Abrasive Lapping Film Market Forecast 2035: Precision Finishing Demand Drives Growth",
-          "summary": "Precision finishing requirements across electronics, optics, and advanced components are pushing steady growth in abrasive lapping films.",
-          "why": "Lapping films represent high-margin, ultra-precision polishing technology used where standard sandpaper cannot meet micro-tolerance requirements.",
-          "action": "Keep an eye on ultra-precision finishing trends as high-tech manufacturing grows locally.",
-          "th": {
-            "title": "คาดการณ์ตลาดฟิล์มขัดความละเอียดสูง (Lapping Film) ปี 2035: ความต้องการงานขัดผิวละเอียดขับเคลื่อนการเติบโต",
-            "summary": "ความต้องการงานขัดผิวความแม่นยำสูงในอุตสาหกรรมอิเล็กทรอนิกส์และชิ้นส่วนขั้นสูง ผลักดันให้ตลาดฟิล์มขัดเติบโตอย่างต่อเนื่อง",
-            "why": "ฟิล์มขัดความละเอียดสูงเป็นเทคโนโลยีขัดเงาที่มีมูลค่าสูง สำหรับงานที่กระดาษทรายทั่วไปไม่สามารถตอบโจทย์ความละเอียดระดับไมครอนได้",
-            "action": "จับตาดูแนวโน้มงานขัดความแม่นยำสูงตามการเติบโตของอุตสาหกรรมการผลิตไฮเทคในท้องถิ่น"
-          }
-        },
-        {
-          "id": "20260902-w3",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "MarketsandMarkets",
-          "date": "2026-07-10",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUXhqQk54c1g4cXhycTVMTFlJY3l2bGNZYU5hWG1zdDRYZmYwM0FaUzVXOTlCTXNCR1dabXhiLTJnMllTWFl6UWt1TE9KMkFqYmxxRUNjcC1nQlFhR3ZPSng5QVNtQnZRMEZ2cGREVGhaa0VPSTVfSkg1UEtlNER4emMyYW83SUkzSGc?oc=5",
-          "title": "EV Assembly Market Report 2026-2035 [486 Pages & 200 Tables]",
-          "summary": "A comprehensive report outlines long-term shifts in electric vehicle assembly lines and factory automation through 2035.",
-          "why": "EV manufacturing processes use different body materials (aluminum/composites) requiring specialized grinding and surface prep tools.",
-          "action": "Note that EV assembly changes will alter the specific abrasives needed for lightweight body weld-seam prep.",
-          "th": {
-            "title": "รายงานตลาดการประกอบรถยนต์ไฟฟ้า (EV Assembly) ปี 2026-2035",
-            "summary": "รายงานฉบับสมบูรณ์ระบุการเปลี่ยนแปลงระยะยาวในสายการประกอบรถยนต์ไฟฟ้าและระบบอัตโนมัติในโรงงานถึงปี 2035",
-            "why": "กระบวนการผลิต EV ใช้โลหะผสมและวัสดุน้ำหนักเบา (เช่น อลูมิเนียมและคอมโพสิต) ซึ่งต้องใช้เครื่องมือขัดและเตรียมผิวที่จำเพาะเจาะจง",
-            "action": "ตระหนักว่าการเปลี่ยนแปลงในสายการประกอบ EV จะส่งผลต่อประเภทกระดาษทรายและใบเจียรที่ใช้เตรียมผิวรอยเชื่อมโครงสร้างรถ"
-          }
-        },
-        {
-          "id": "20260902-w4",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "S&P Global",
-          "date": "2026-01-12",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
-          "title": "Global steel industry battles surplus supply, protectionism",
-          "summary": "Global steel markets continue to face oversupply issues and shifting trade protectionism measures across key manufacturing regions.",
-          "why": "Steel availability and local processing volume directly dictate heavy metal fabrication output and abrasive consumption in heavy industries.",
-          "action": "Monitor local steel mill capacity utilization as an indicator of heavy industrial abrasive demand.",
-          "th": {
-            "title": "อุตสาหกรรมเหล็กโลกเผชิญหน้าภาวะอุปทานล้นเกินและลัทธิกีดกันทางการค้า",
-            "summary": "ตลาดเหล็กโลกยังคงประสบปัญหาส่วนเกินการผลิตและมาตรการกีดกันทางการค้าในภูมิภาคอุตสาหกรรมหลัก",
-            "why": "ปริมาณเหล็กและความเคลื่อนไหวของอุตสาหกรรมแปรรูปโลหะส่งผลโดยตรงต่อยอดขายหินเจียรและกระดาษทรายในภาคอุตสาหกรรมหนัก",
-            "action": "ติดตามอัตราการใช้กำลังการผลิตของโรงงานเหล็กในประเทศ เพื่อประเมินทิศทางความต้องการวัสดุขัดในอุตสาหกรรมหนัก"
           }
         }
       ]
