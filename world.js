@@ -1,7 +1,89 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-09-16",
+  "updated": "2026-09-17",
   "days": [
+    {
+      "date": "2026-09-17",
+      "summary": "Today's global intelligence highlights key movements in the automotive OEM and metal casting sectors alongside emerging epoxy and powder coating markets, signaling shifting surface preparation demands.",
+      "directCount": 3,
+      "th": {
+        "summary": "ข่าวกรองระดับโลกประจำวันนี้เน้นย้ำความเคลื่อนไหวสำคัญในภาคส่วนการผลิตยานยนต์และโรงหล่อโลหะ ควบคู่ไปกับตลาดสีอีพ็อกซี่และสีฝุ่นที่กำลังเติบโต ซึ่งบ่งบอกถึงความต้องการที่เปลี่ยนไปในการเตรียมพื้นผิว"
+      },
+      "items": [
+        {
+          "id": "20260917-w1",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Fortune Business Insights",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
+          "title": "Automotive OEM Coatings Market Size, Share | Growth [2034]",
+          "summary": "The automotive OEM coatings market is experiencing steady long-term growth driven by rising vehicle production and aesthetic demands.",
+          "why": "Automotive manufacturing is a primary consumer of our abrasive belts and sanding discs for body panels and parts preparation.",
+          "action": "Monitor OEM coating shifts to anticipate changes in pre-paint surface finishing specifications.",
+          "th": {
+            "title": "ขนาด ส่วนแบ่ง และการเติบโตของตลาดสีเคลือบ OEM ยานยนต์ [2034]",
+            "summary": "ตลาดสีเคลือบ OEM ยานยนต์กำลังเติบโตอย่างมั่นคงในระยะยาว ซึ่งขับเคลื่อนโดยการผลิตยานยนต์ที่เพิ่มขึ้นและความต้องการด้านความสวยงาม",
+            "why": "อุตสาหกรรมการผลิตยานยนต์เป็นผู้ใช้รายหลักของกระดาษทรายสายพานและแผ่นขัดของเรา สำหรับการเตรียมพื้นผิวตัวถังและชิ้นส่วนรถยนต์",
+            "action": "ติดตามการเปลี่ยนแปลงของสีเคลือบ OEM เพื่อคาดการณ์ความต้องการที่เปลี่ยนไปในกระบวนการขัดเตรียมพื้นผิวก่อนพ่นสี"
+          }
+        },
+        {
+          "id": "20260917-w2",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "Market Research Future",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE40VENBdkR6MDRta2Z3Wl9sb2JhakcwVzJKb1pGQmU3RGpvWGJsVWNFNTBiVzVUMnlCNnNhRXVtZWduczV1WmFON2tkakpQRmZDajM2Ty1kX0tUWW53X3NWOVppb3dNbS16TUlPWFBQMG9za28zcm9WT2NNWQ?oc=5",
+          "title": "Epoxy Coatings Market Size, Share & Growth Report 2035 | MRFR",
+          "summary": "Global demand for epoxy coatings is expanding across industrial flooring, marine, and metal protection applications.",
+          "why": "Epoxy-coated metal surfaces often require rigorous surface preparation and roughening before coating application to ensure proper adhesion.",
+          "action": "Explore abrasive products optimized for heavy-duty metal surface profiling prior to epoxy application.",
+          "th": {
+            "title": "รายงานขนาด ส่วนแบ่ง และการเติบโตของตลาดสีเคลือบอีพ็อกซี่ ปี 2035 | MRFR",
+            "summary": "ความต้องการสีเคลือบอีพ็อกซี่ทั่วโลกกำลังขยายตัวในกลุ่มพื้นอุตสาหกรรม งานทางทะเล และการใช้งานป้องกันโลหะ",
+            "why": "พื้นผิวโลหะที่เคลือบอีพ็อกซี่มักต้องการการเตรียมพื้นผิวและการสร้างความหยาบที่ได้มาตรฐานก่อนการเคลือบ เพื่อให้การยึดเกาะสมบูรณ์",
+            "action": "สำรวจผลิตภัณฑ์วัสดุขัดที่เหมาะสมสำหรับการเตรียมผิวโลหะหนักก่อนการเคลือบอีพ็อกซี่"
+          }
+        },
+        {
+          "id": "20260917-w3",
+          "tag": "steel",
+          "rating": "green",
+          "source": "Fortune Business Insights",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kYlp3TXBwdU5JVl9Gc0pFd3lJSFpjSUhLeEFGOVZVS19BbHBoTFNGb1BFOC1UNEN4c1o0c2xjdTFZYXhVdGRVb0dIeXZqakt1bTJkQy10SC0wRlh0RVVBZHZaWDFYbDk3cHdUbXBsYnRyYTlFVEE?oc=5",
+          "title": "Metal Casting Market Growth Analysis & Industry Forecast, 2034",
+          "summary": "The global metal casting market continues to grow, driven by industrial machinery, automotive, and infrastructure sectors needing cast components.",
+          "why": "Metal castings require extensive deburring, grinding, and surface cleaning using grinding wheels, abrasive belts, and discs.",
+          "action": "Target local foundries and metal fabrication shops with heavy-stock removal grinding solutions.",
+          "th": {
+            "title": "การวิเคราะห์การเติบโตและการพยากรณ์อุตสาหกรรมตลาดการหล่อโลหะ ปี 2034",
+            "summary": "ตลาดการหล่อโลหะทั่วโลกยังคงเติบโตอย่างต่อเนื่อง ขับเคลื่อนโดยภาคเครื่องจักรกลอุตสาหกรรม ยานยนต์ และโครงสร้างพื้นฐานที่ต้องการชิ้นส่วนหล่อ",
+            "why": "งานหล่อโลหะจำเป็นต้องผ่านกระบวนการลบคม เจียร และทำความสะอาดผิวอย่างมาก โดยใช้หินเจียร สายพานขัด และแผ่นขัด",
+            "action": "มุ่งเน้นกลุ่มโรงหล่อโลหะและร้านแปรรูปโลหะในท้องถิ่นด้วยโซลูชันหินเจียรสำหรับงานลบเนื้อโลหะหนัก"
+          }
+        },
+        {
+          "id": "20260917-w4",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "marketsandmarkets.com",
+          "date": "2026-08-23",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZXlFT2FNLWpkU3NtWlZ5azlmR3FjcmN4X192QjVTbVZvSlFuWW5XeFZkbXI2aDR5UlV5TExhMzNQSVp0WEd1R3gtUWg5VWZ3S2VIMjRCejFBcENNNkx3dVlTS1RzaEl6eDVpVFFaZDFEUlg2b3JfZV90aTZFck1XeUJsOEJHNy1GMVVfZVpoTHY?oc=5",
+          "title": "China Powder Coatings Market Size, Share, Trends, Growth Analysis Report, 2031",
+          "summary": "China's powder coatings sector is seeing steady expansion due to stringent environmental regulations and rising industrial applications.",
+          "why": "Powder coating requires immaculate pre-treatment and surface cleaning of metal substrates to achieve flawless finish results.",
+          "action": "Keep an eye on trends in metal substrate preparation standards for powder coating lines.",
+          "th": {
+            "title": "รายงานขนาด ส่วนแบ่ง แนวโน้ม และการวิเคราะห์การเติบโตของตลาดสีฝุ่นในประเทศจีน ปี 2031",
+            "summary": "ภาคอุตสาหกรรมสีฝุ่นของจีนกำลังขยายตัวอย่างต่อเนื่อง เนื่องมาจากกฎระเบียบด้านสิ่งแวดล้อมที่เข้มงวดและการใช้งานในอุตสาหกรรมที่เพิ่มขึ้น",
+            "why": "การพ่นสีฝุ่นต้องอาศัยการเตรียมผิวและการทำความสะอาดวัสดุรองพื้นโลหะที่ไร้ที่ติ เพื่อให้ได้ผลลัพธ์การเคลือบที่สมบูรณ์แบบ",
+            "action": "จับตาดูแนวโน้มมาตรฐานการเตรียมพื้นผิวโลหะสำหรับไลน์การพ่นสีฝุ่น"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-09-16",
       "summary": "Today's briefing focuses on 4 fresh global signals highlighting high-tech robotic finishing, semiconductor and electronics applications for abrasives, and AI manufacturing transformations in the automotive sector.",
@@ -848,70 +930,6 @@ window.WORLD_ARCHIVE = {
             "summary": "การวิเคราะห์ล่าสุดระบุผลกระทบจากมาตรการภาษีเหล็กและอลูมิเนียมที่ปรับเปลี่ยนใหม่ ซึ่งส่งผลต่อต้นทุนห่วงโซ่อุปทานและเส้นทางการค้าโลก",
             "why": "ความผันผวนของภาษีเหล็กและอลูมิเนียมส่งผลต่อต้นทุนการแปรรูปโลหะในประเทศ ซึ่งกระทบต่อกำลังซื้อของลูกค้ากลุ่มงานโลหะ",
             "action": "สื่อสารอย่างใกล้ชิดกับลูกค้ากลุ่มแปรรูปโลหะเพื่อประเมินสถานการณ์ต้นทุนและอัตราการใช้วัสดุขัด"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-09-03",
-      "summary": "Today's global briefing highlights key developments in surface performance coatings, European coatings innovation hubs, and automotive manufacturing shifts. While direct abrasive announcements are light today, these downstream finishing and coating trends signal where surface prep requirements are moving.",
-      "directCount": 1,
-      "th": {
-        "summary": "สรุปทิศทางโลกประจำวันนี้เน้นการพัฒนาสารเคลือบผิว นวัตกรรมโค้วติ้งในยุโรป และการเปลี่ยนแปลงในอุตสาหกรรมยานยนต์ แม้ว่าข่าวเกี่ยวกับวัสดุขัดกระดาษทรายโดยตรงจะมีน้อย แต่แนวโน้มเหล่านี้ชี้ให้เห็นทิศทางความต้องการเตรียมพื้นผิวในอนาคต"
-      },
-      "items": [
-        {
-          "id": "20260903-w1",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "Straits Research",
-          "date": "2026-08-24",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NN1NfTHlMbm83VVBSSk84UmI2aldwS0VobVdKVFNuM2hsWGRMc00tczY1aE1XRlVSS3BtbEtlRlBfZjY5NjFudlNNU3dkSGpMRG5PNzVGcWhUNjBfdkRmZkk3cmhYUmtvcTFxeXln?oc=5",
-          "title": "Performance Coating Market Size, Share & Growth Graph by 2034",
-          "summary": "The performance coating market continues its long-term expansion trajectory toward 2034, driven by stringent industrial standards and protective finishing requirements.",
-          "why": "Higher standards in performance coatings require superior surface preparation and pre-painting sanding processes, influencing abrasive grade selection.",
-          "action": "Monitor high-performance coating specifications to align surface roughness (Ra) standards with upcoming industrial paint systems.",
-          "th": {
-            "title": "ตลาดสารเคลือบประสิทธิภาพสูงเติบโตต่อเนื่องถึงปี 2034",
-            "summary": "ตลาดสารเคลือบประสิทธิภาพสูงยังคงขยายตัวอย่างต่อเนื่องจนถึงปี 2034 ขับเคลื่อนด้วยมาตรฐานอุตสาหกรรมที่เข้มงวดและความต้องการการเคลือบป้องกัน",
-            "why": "มาตรฐานสารเคลือบที่สูงขึ้นจำเป็นต้องมีการเตรียมพื้นผิวและการขัดก่อนพ่นสีที่ดีเยี่ยม ซึ่งส่งผลต่อการเลือกใช้เกรดกระดาษทรายและใบขัด",
-            "action": "ติดตามสเปกสารเคลือบประสิทธิภาพสูง เพื่อปรับมาตรฐานความหยาบผิว (Ra) ให้สอดคล้องกับระบบสีอุตสาหกรรมใหม่ๆ"
-          }
-        },
-        {
-          "id": "20260903-w2",
-          "tag": "coating",
-          "rating": "white",
-          "source": "European Coatings",
-          "date": "2026-06-04",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUDgzbkl5cWdzSnJwcGViRm5mVWNYTWllWVF6RENXM2dRbG84cTh6bFRXckpiYVZkMWRWZk5OWGZhTjZCdm9zTUpTLWJlUmhLR1BnUmhIUWJ3VUVSdW5WQ05tZjVnTmQ3Tld4RG5rbVdKNEJrblFzNlE0NFZyRWw3SEZ1RWdES2pzYndyWnZPOVgyRzB4YTBGT0NOZDU4ZDdnejhFRHpMYkQ2T1ZX?oc=5",
-          "title": "ETCC 2026 in Prague: A hub for coatings innovation and sustainability",
-          "summary": "The European Technical Coatings Congress (ETCC) in Prague highlighted major industry pushes toward eco-friendly formulations and advanced coating technologies.",
-          "why": "Sustainability trends in coatings often mirror environmental and dust-reduction demands in industrial sanding and surface treatment.",
-          "action": "Keep an eye on eco-friendly surface treatment trends that may impact chemical stripping and mechanical abrasion methods.",
-          "th": {
-            "title": "งาน ETCC 2026 ที่กรุงปราก: ศูนย์กลางนวัตกรรมสารเคลือบและความยั่งยืน",
-            "summary": "การประชุมเทคโนโลยีสารเคลือบยุโรป (ETCC) ที่กรุงปรากเน้นย้ำถึงการผลักดันอุตสาหกรรมสู่สูตรที่เป็นมิตรต่อสิ่งแวดล้อมและเทคโนโลยีการเคลือบขั้นสูง",
-            "why": "เทรนด์ความยั่งยืนในอุตสาหกรรมสีสะท้อนถึงความต้องการเรื่องความเป็นมิตรต่อสิ่งแวดล้อมและการลดฝุ่นในการขัดผิวอุตสาหกรรมเช่นกัน",
-            "action": "จับตาเทรนด์การเตรียมพื้นผิวที่เป็นมิตรต่อสิ่งแวดล้อม ซึ่งอาจส่งผลต่อวิธีลอกสีเคมีและวิธีการขัดกลไก"
-          }
-        },
-        {
-          "id": "20260903-w3",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-07-23",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZDRQV1lyajBPaFY5UV9pQkxKcXpvRzQ5ejJOcEM5QzgyaXByMHg4MWtaX0pHT3VtV2tPRFVPUjJFdGhBcTNoWDRKOTZ4ekkzeGpOamJMT2R6M2psbHBoNEV6dlMyWW5yM3hkVjZjM0xCV1FNQ2dLamFSTHcyNTB4dEdJZkpsRmtBSUZJeF9FYW9sT0ZHdGNhV2F3RHpOLXp6RUI0SWY0SWNSM0hxM19pYS1DeEZ5ZGdhZHpyUg?oc=5",
-          "title": "Ford and Geely unite in Valencia: smart-factory momentum!",
-          "summary": "Ford and Geely collaborate in Valencia, driving smart-factory integration and advanced manufacturing technologies in European automotive production.",
-          "why": "Smart automotive factories demand automated robotic sanding and high-precision deburring solutions for lightweight body panels and EV components.",
-          "action": "Explore robotic-compatible abrasive solutions and non-woven pads suited for automated automotive production lines.",
-          "th": {
-            "title": "ฟอร์ดและจีลี่ร่วมมือกันในบาเลนเซีย: กระแสสมาร์ทแฟคทอรี่",
-            "summary": "ฟอร์ดและจีลี่ร่วมมือกันในเมืองบาเลนเซีย ขับเคลื่อนการบูรณาการโรงงานอัจฉริยะและเทคโนโลยีการผลิตขั้นสูงในภาคยานยนต์ยุโรป",
-            "why": "โรงงานยานยนต์อัจฉริยะต้องการระบบขัดผิวด้วยหุ่นยนต์อัตโนมัติและโซลูชันลบคมความแม่นยำสูงสำหรับตัวถังน้ำหนักเบาและชิ้นส่วน EV",
-            "action": "ศึกษาผลิตภัณฑ์กระดาษทรายและแผ่นขัด non-woven ที่รองรับการทำงานร่วมกับหุ่นยนต์ในสายการผลิตรถยนต์อัตโนมัติ"
           }
         }
       ]
