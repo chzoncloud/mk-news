@@ -1,7 +1,89 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-09-17",
+  "updated": "2026-09-18",
   "days": [
+    {
+      "date": "2026-09-18",
+      "summary": "Today's global trends highlight specialized growth in coated sanding sheets driven by electronics and semiconductor finishing, alongside structural pressures in the steel and aluminum sectors.",
+      "directCount": 4,
+      "th": {
+        "summary": "แนวโน้มโลกวันนี้เน้นย้ำการเติบโตเฉพาะด้านของกระดาษทรายเคลือบที่ขับเคลื่อนด้วยงานตกแต่งชิ้นส่วนอิเล็กทรอนิกส์และเซมิคอนดักเตอร์ ควบคู่ไปกับแรงกดดันด้านโครงสร้างในอุตสาหกรรมเหล็กและอลูมิเนียม"
+      },
+      "items": [
+        {
+          "id": "20260918-w1",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-09-16",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNb0Q5M1RPYjlHdElGeXctWllESFpkc3l4U0IxckRudVdxdEM1RF9DVzBpRWNDV0tuX0x1dEZNN1llMlNvYk5qUHdzcUozMjRXVDdwckFOSHdRbkJpUUNQMUd1dll3SGJfZzMxUkR1cWJNek1fLTg0d2RxYkF1Z3dCSk5UbWNpSXJPeC1sSEVOWnBmRlJZQndtZS1HUXIwTFdGenRpVmVMdVI5aW1VVGpualdfeG93WWU5MkFoNTZtR0taWG5CZzNCREo2YXhxbU5UWm9BRGlOOTgtaXlROUg0U1pMWlhlX3Fx?oc=5",
+          "title": "Coated Sanding Sheets Market Forecast to 2035: Replacement Demand in Electronics and Semiconductor Finishing Drives 4–6% CAGR",
+          "summary": "The coated sanding sheets market is projected to grow steadily, fueled by replacement demand in high-tech electronics and semiconductor manufacturing finishing processes.",
+          "why": "Signals a shift in high-value abrasive consumption toward precision electronics and semiconductor applications rather than traditional heavy manufacturing alone.",
+          "action": "Explore fine-grit coated sanding sheets and precision finishing options suited for electronics component suppliers.",
+          "th": {
+            "title": "ตลาดกระดาษทรายเคลือบคาดการณ์ถึงปี 2035: ความต้องการเปลี่ยนทดแทนในงานตกแต่งอิเล็กทรอนิกส์และเซมิคอนดักเตอร์หนุนการเติบโต 4-6% ต่อปี",
+            "summary": "ตลาดกระดาษทรายเคลือบคาดว่าจะเติบโตอย่างมั่นคง โดยได้รับแรงหนุนจากความต้องการเปลี่ยนทดแทนในกระบวนการผลิตและตกแต่งชิ้นส่วนอิเล็กทรอนิกส์ไฮเทคและเซมิคอนดักเตอร์",
+            "why": "บ่งชี้ถึงการเปลี่ยนแปลงของการบริโภควัสดุขัดในมูลค่าสูงไปสู่งานอิเล็กทรอนิกส์ที่มีความแม่นยำและเซมิคอนดักเตอร์ มากกว่าการผลิตแบบดั้งเดิมเพียงอย่างเดียว",
+            "action": "สำรวจกระดาษทรายเคลือบผิวแบบละเอียดและผลิตภัณฑ์ตกแต่งความแม่นยำสูงที่เหมาะสำหรับซัพพลายเออร์ชิ้นส่วนอิเล็กทรอนิกส์"
+          }
+        },
+        {
+          "id": "20260918-w2",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-09-10",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZDJqd2xKZGF5aVhTN1NIQUh5Q3RIUEk0M2o1dzlkLXBsVDZIbXdwSFNqQ2ZEV0YtUEF2bElKN0pIcmZ3Tzk5TE1uTUQyNm9kNWxma1NkXzJvWjRCUnNWN2FjUnZFQ0ZlcFRnSjdDYW5QWGlWdVJtdVFVVjV0X3JmSGE5ZTRKR0N4S2Q4c2haLUpydEltcXVTNXFQUE9DLVh0QWFxQUtCX0NfT2dQeXgzdW01NTQzbWpJWmZiT0EtZHhMQTN1N29J?oc=5",
+          "title": "Sanding Screen Mesh Market to Accelerate on Electronics and Semiconductor Finishing Demand by 2035",
+          "summary": "Sanding screen mesh demand is accelerating, driven by critical requirements in fine surface preparation for electronics and semiconductor sectors.",
+          "why": "Highlights the growing importance of mesh and open-structure abrasives in high-tech finishing where dust extraction and precision are vital.",
+          "action": "Consider expanding stock or marketing for sanding screen mesh products tailored to precision manufacturing niches.",
+          "th": {
+            "title": "ตลาดตาข่ายขัดทรายเตรียมเร่งตัวจากความต้องการตกแต่งอิเล็กทรอนิกส์และเซมิคอนดักเตอร์ภายในปี 2035",
+            "summary": "ความต้องการตาข่ายขัดทรายกำลังเร่งตัวขึ้น ขับเคลื่อนโดยความต้องการที่สำคัญในงานเตรียมพื้นผิวละเอียดสำหรับกลุ่มอุตสาหกรรมอิเล็กทรอนิกส์และเซมิคอนดักเตอร์",
+            "why": "เน้นย้ำถึงความสำคัญที่เพิ่มขึ้นของวัสดุกัดประเภทตาข่ายและโครงสร้างเปิดในงานตกแต่งไฮเทค ซึ่งการดูดฝุ่นและความแม่นยำเป็นสิ่งสำคัญมาก",
+            "action": "พิจารณาขยายสต็อกหรือทำการตลาดผลิตภัณฑ์ตาข่ายขัดทรายที่ตอบโจทย์กลุ่มอุตสาหกรรมการผลิตที่มีความแม่นยำสูง"
+          }
+        },
+        {
+          "id": "20260918-w3",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "BNamericas",
+          "date": "2026-06-08",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMnhGVWhxLUFaQUQ4Ym16T3hDVTM1cDZHYnV4aGFEUGgwRkIzemRVQjlINy04dnc4NkpDemhZczJLOVpzdmJaNG1Xa0QzQ3lRLWxzblhReWdoVlZ0ZnR1ZmhHbkhlM2hxWmhNT19VSnRPSjJQdGFwUXJrRW82NjZmNGcwUEhDaFBIQzJKekI3N01iQQ?oc=5",
+          "title": "US tariffs amplify China steel pressure on Mexico",
+          "summary": "International trade policy shifts and tariffs are forcing steel supply chain realignments across North America as Chinese steel competition intensifies.",
+          "why": "Shifts in regional steel production and trade flows directly impact local metal fabrication activity and the demand for industrial grinding products.",
+          "action": "Monitor how regional metal fabrication hubs adjust to imported steel pressures, which can alter local abrasive consumption patterns.",
+          "th": {
+            "title": "มาตรการภาษีของสหรัฐฯ ขยายแรงกดดันด้านเหล็กจากจีนไปยังเม็กซิโก",
+            "summary": "การเปลี่ยนแปลงนโยบายการค้าระหว่างประเทศและมาตรการภาษี กำลังบีบให้ห่วงโซ่อุปทานเหล็กทั่วอเมริกาเหนือต้องปรับตัว ท่ามกลางการแข่งขันที่รุนแรงขึ้นของเหล็กจากจีน",
+            "why": "การเปลี่ยนแปลงในด้านการผลิตเหล็กระดับภูมิภาคและกระแสการค้าส่งผลกระทบโดยตรงต่อกิจกรรมการแปรรูปโลหะในท้องถิ่นและความต้องการผลิตภัณฑ์ขัดผิวอุตสาหกรรม",
+            "action": "ติดตามว่าศูนย์กลางการแปรรูปโลหะในภูมิภาคปรับตัวอย่างไรต่อแรงกดดันจากเหล็กนำเข้า ซึ่งอาจเปลี่ยนแปลงรูปแบบการใช้ผลิตภัณฑ์ขัดในท้องถิ่น"
+          }
+        },
+        {
+          "id": "20260918-w4",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "financialpost.com",
+          "date": "2026-07-16",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYzVENV9lOXd1cm0xeEt4Y2JBNVF4R3M1aDRReTk5T0xoNzJ0a3c5VnBueWdRenBEcUp2NHNNMldrU20teUI0Z3RocldKbjAyVHNjWjNKN1FtdFlUVXZVSHlfNUZqY016Q0pWMDlDMWxTa3gwMGN0SmNmNjVoRzJQdW9YWDRlYU9PeGt0WGh4VQ?oc=5",
+          "title": "'We're getting hammered': Why this Canadian aluminum sector is crumbling while prices boom",
+          "summary": "Despite rising global commodity prices, certain domestic metal sectors face severe margin compression due to rising operational costs and structural challenges.",
+          "why": "When metal producers face margin squeezes, they often seek cost-effective surface preparation and deburring consumables to optimize spending.",
+          "action": "Position cost-efficient, high-durability abrasive solutions to metal fabricators looking to protect margins amidst rising operational costs.",
+          "th": {
+            "title": "'พวกเรากำลังแย่': เหตุใดภาคอุตสาหกรรมอลูมิเนียมของแคนาดาจึงทรุดตัวลงในขณะที่ราคาพุ่งสูงขึ้น",
+            "summary": "แม้ว่าราคาสินค้าโภคภัณฑ์ทั่วโลกจะปรับตัวสูงขึ้น แต่ภาคอุตสาหกรรมโลหะในประเทศบางแห่งกลับเผชิญกับภาวะกำไรหดตัวอย่างรุนแรงจากต้นทุนการดำเนินงานที่สูงขึ้นและปัญหาเชิงโครงสร้าง",
+            "why": "เมื่อผู้ผลิตโลหะเผชิญกับภาวะบีบตัวของกำไร พวกเขามักจะมองหาสิ้นเปลืองสำหรับเตรียมพื้นผิวและลบคมที่คุ้มค่าคุ้มราคาเพื่อ ระหยัดต้นทุน",
+            "action": "นำเสนอโซลูชันวัสดุขัดที่คุ้มค่าและทนทานสูงแก่ผู้ผลิตโลหะที่ต้องการปกป้องอัตรากำไรท่ามกลางต้นทุนการดำเนินงานที่เพิ่มขึ้น"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-09-17",
       "summary": "Today's briefing highlights global shifts in industrial coatings, automotive OEM demand, and metal finishing markets, signaling continued integration of advanced surface prep in electronics and manufacturing.",
@@ -866,70 +948,6 @@ window.WORLD_ARCHIVE = {
             "summary": "ฮุนได มอเตอร์ กรุ๊ป กำลังขับเคลื่อนการเปลี่ยนแปลงครั้งใหญ่ด้วยเทคโนโลยี AI และการผลิตอัจฉริยะทั่วทุกโรงงานผลิตทั่วโลก",
             "why": "สายการผลิตอัจฉริยะในอุตสาหกรรมยานยนต์จำเป็นต้องมีระบบลบคมและตกแต่งผิวที่แม่นยำ ทำงานอัตโนมัติและเชื่อมต่อกับข้อมูลโรงงาน",
             "action": "ติดตามทิศทางการนำ AI มาใช้ในสายการผลิตและงานตกแต่งผิวของค่ายรถยนต์รายใหญ่ เพื่อเตรียมนำเสนอโซลูชันงานขัดที่สอดรับกับโรงงานอัจฉริยะ"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-09-04",
-      "summary": "Today's briefing highlights niche shifts in precision micronized abrasives for semiconductors, automotive collision repair advancements, and evolving trade barriers impacting global steel and metal markets.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปข่าววันนี้เน้นการเปลี่ยนแปลงในกลุ่มสารขัดเงาความละเอียดสูงสำหรับเซมิคอนดักเตอร์ ความก้าวหน้าในการซ่อมสีรถยนต์ และมาตรการกีดกันทางการค้าที่ส่งผลต่อตลาดเหล็กและโลหะทั่วโลก"
-      },
-      "items": [
-        {
-          "id": "20260904-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-08-30",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOanZrUnUwZzBiNEhWSERHZTZzYkJOaFp2VklkeTR0VzVwQTloNlFBNC1Ma3pPU0gwYndWVE9CcXJjTV9KYlpYZm9hRGFhazVCYzhuUnZQZmpXSHN2ejlFVTdvclV6NzR0eTFPU3dTWmpCMlpnSEl6OFRoVGpqVThtQXRyUTJHdWY3dy0tWDhhOEx1Q3ctNzB2eERHQ3lMV2QzaWItS3BvQnhiYUh5V2h3Q0JXZTJpZjhQekFR?oc=5",
-          "title": "Micronized Abrasive Powders Market $2.4B by 2035 on Sub-50nm Semiconductor Demand",
-          "summary": "The micronized abrasive powders market is projected to reach $2.4 billion by 2035, driven heavily by sub-50nm semiconductor manufacturing demand.",
-          "why": "Signals strong high-margin growth in ultra-precise micro-finishing and polishing powders used in electronics and advanced tech supply chains.",
-          "action": "Monitor high-precision micronized powder trends as potential high-value additions to industrial product lines.",
-          "th": {
-            "title": "ตลาดผงขัดไมครอนเติบโตแตะ 2.4 พันล้านดอลลาร์ภายในปี 2035 จากความต้องการเซมิคอนดักเตอร์",
-            "summary": "ตลาดผงขัดผิวความละเอียดสูงคาดว่าจะเติบโตถึง 2.4 พันล้านดอลลาร์ภายในปี 2035 ขับเคลื่อนโดยความต้องการในการผลิตเซมิคอนดักเตอร์ระดับต่ำกว่า 50 นาโนเมตร",
-            "why": "สะท้อนถึงการเติบโตของกลุ่มผลิตภัณฑ์ผงขัดเงาและความละเอียดสูงที่มีมูลค่าสูงในห่วงโซ่อุปทานอิเล็กทรอนิกส์",
-            "action": "ติดตามแนวโน้มผงขัดความละเอียดสูงเพื่อพิจารณาเพิ่มเป็นสินค้ามูลค่าสูงในกลุ่มผลิตภัณฑ์อุตสาหกรรม"
-          }
-        },
-        {
-          "id": "20260904-w2",
-          "tag": "auto",
-          "rating": "green",
-          "source": "Business Wire",
-          "date": "2025-04-18",
-          "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNWXpiVmc0cUVqNGF4SG54djlwcmRCYU1UdERkQVk5dDNha2JCRUF0OXhib1ptV2RtSXFtSGhjU0xnZUlaV1pRS3Z2TGtDWkp3eHc0cTZlYmEwSjc3QnBpbGloSFppY3l0S2l6bjFERXc4ZExoLUdDalpuSXAxZW5nNWtxbjV0cmpyeWs1Y0FPcWhhMEhxOG8zaEdtc0RKenlzNjkzRTdFeHBYSXlIbGUxRENCTGt1emtZTkZFWVE2RjBFS0JTN29pd2pfUGx4X0tPdkF6MDZuMVl1ZXVlbVVHTnZJaWRmMlJ5dXhQRDVYcUczYzBiY0FrNTktZUoxZk4xV1haSXZPR1lvNy1aWUZrT3I1cnpWUHdaWFlNb3JsN2NpeFlBOHcwb1JNRGdQVWpMWnZPaWo0Nlo?oc=5",
-          "title": "Automotive Collision Repair Market Report 2025 | Precision Grain Technology and ADAS Integration Shape the Future of Collision Repair",
-          "summary": "Precision grain technology and advanced driver assistance systems (ADAS) integration are heavily shaping the future of automotive collision repair.",
-          "why": "Directly impacts demand for specialized coated abrasives and sanding sheets used in modern auto body repair shops.",
-          "action": "Ensure our abrasive stock aligns with modern precision grain tech favored by professional collision repair shops.",
-          "th": {
-            "title": "รายงานตลาดซ่อมตัวถังรถยนต์ปี 2025: เทคโนโลยีเกรนขัดความแม่นยำสูงและ ADAS กำหนดอนาคตการซ่อมแซม",
-            "summary": "เทคโนโลยีเกรนขัดความแม่นยำสูงและการบูรณาการระบบช่วยเหลือผู้ขับขี่ขั้นสูง (ADAS) กำลังกำหนดทิศทางอุตสาหกรรมการซ่อมแซมรถยนต์",
-            "why": "ส่งผลโดยตรงต่อความต้องการกระดาษทรายและวัสดุขัดผิวเคลือบเฉพาะทางที่ใช้ในศูนย์ซ่อมตัวถังรถยนต์สมัยใหม่",
-            "action": "ตรวจสอบให้แน่ใจว่าสินค้ากลุ่มกระดาษทรายสอดคล้องกับเทคโนโลยีเกรนขัดความแม่นยำที่ศูนย์ซ่อมรถยนต์มืออาชีพต้องการ"
-          }
-        },
-        {
-          "id": "20260904-w3",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "Council on Foreign Relations",
-          "date": "2025-06-05",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMU43SUNVZ3lYVHpQXzVwZkx3a00tSXcxX01aMnZhWi1MNmJfZ3YyYlBTeWdGTmJ2NWVnM3ZxU3hhUkVJRS1KYmttQ1lHTzJZTEprbmpWMTVVSlZoUkt5Q04xd1lHWF9QTy0tMEoySkZ5eTRpWHBMblh6V1pFcHhBNzhKQ09KWVpPZmFYcDh2dVc?oc=5",
-          "title": "Trump’s New Aluminum and Steel Tariffs Explained in Six Charts",
-          "summary": "Recent analyses break down the implications of newly adjusted aluminum and steel tariffs, affecting global supply chain costs and trade routes.",
-          "why": "Changes in steel and aluminum tariffs directly influence local metal fabrication costs, impacting raw material purchasing power for our B2B metalworking clients.",
-          "action": "Keep close communication with metal fabrication customers regarding raw material cost pressures and abrasive consumption rates.",
-          "th": {
-            "title": "ภาษีอลูมิเนียมและเหล็กกล้าชุดใหม่: เจาะลึกผลกระทบผ่านกราฟสำคัญ",
-            "summary": "การวิเคราะห์ล่าสุดระบุผลกระทบจากมาตรการภาษีเหล็กและอลูมิเนียมที่ปรับเปลี่ยนใหม่ ซึ่งส่งผลต่อต้นทุนห่วงโซ่อุปทานและเส้นทางการค้าโลก",
-            "why": "ความผันผวนของภาษีเหล็กและอลูมิเนียมส่งผลต่อต้นทุนการแปรรูปโลหะในประเทศ ซึ่งกระทบต่อกำลังซื้อของลูกค้ากลุ่มงานโลหะ",
-            "action": "สื่อสารอย่างใกล้ชิดกับลูกค้ากลุ่มแปรรูปโลหะเพื่อประเมินสถานการณ์ต้นทุนและอัตราการใช้วัสดุขัด"
           }
         }
       ]
