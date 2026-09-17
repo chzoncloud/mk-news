@@ -4,82 +4,46 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-09-18",
-      "summary": "Today's global trends highlight specialized growth in coated sanding sheets driven by electronics and semiconductor finishing, alongside structural pressures in the steel and aluminum sectors.",
-      "directCount": 4,
+      "summary": "Today's briefing highlights niche high-tech surface finishing demands in electronics and semiconductor packaging, alongside broader digital and sustainable shifts in coatings and manufacturing equipment.",
+      "directCount": 2,
       "th": {
-        "summary": "แนวโน้มโลกวันนี้เน้นย้ำการเติบโตเฉพาะด้านของกระดาษทรายเคลือบที่ขับเคลื่อนด้วยงานตกแต่งชิ้นส่วนอิเล็กทรอนิกส์และเซมิคอนดักเตอร์ ควบคู่ไปกับแรงกดดันด้านโครงสร้างในอุตสาหกรรมเหล็กและอลูมิเนียม"
+        "summary": "สรุปข่าววันนี้เน้นความต้องการขัดผิวหน้าชิ้นส่วนไฮเทคในกลุ่มอิเล็กทรอนิกส์และบรรจุภัณฑ์เซมิคอนดักเตอร์ รวมถึงการเปลี่ยนผ่านด้านดิจิทัลและความยั่งยืนในอุตสาหกรรมสีเคลือบและเครื่องจักรการผลิต"
       },
       "items": [
         {
           "id": "20260918-w1",
           "tag": "abrasive",
           "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-09-16",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNb0Q5M1RPYjlHdElGeXctWllESFpkc3l4U0IxckRudVdxdEM1RF9DVzBpRWNDV0tuX0x1dEZNN1llMlNvYk5qUHdzcUozMjRXVDdwckFOSHdRbkJpUUNQMUd1dll3SGJfZzMxUkR1cWJNek1fLTg0d2RxYkF1Z3dCSk5UbWNpSXJPeC1sSEVOWnBmRlJZQndtZS1HUXIwTFdGenRpVmVMdVI5aW1VVGpualdfeG93WWU5MkFoNTZtR0taWG5CZzNCREo2YXhxbU5UWm9BRGlOOTgtaXlROUg0U1pMWlhlX3Fx?oc=5",
-          "title": "Coated Sanding Sheets Market Forecast to 2035: Replacement Demand in Electronics and Semiconductor Finishing Drives 4–6% CAGR",
-          "summary": "The coated sanding sheets market is projected to grow steadily, fueled by replacement demand in high-tech electronics and semiconductor manufacturing finishing processes.",
-          "why": "Signals a shift in high-value abrasive consumption toward precision electronics and semiconductor applications rather than traditional heavy manufacturing alone.",
-          "action": "Explore fine-grit coated sanding sheets and precision finishing options suited for electronics component suppliers.",
+          "source": "indexbox.io",
+          "date": "2026-09-11",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPM0IzU2FhMUZlR1lUSG1BY3VVdVZSaTVfVUxFeTJrV1VGazdzYURVUXZvN0VnTEdVYXEtbnRybGZkZ2FBUGotSHg2ejJfVDRQSld2Z3B1YU1mNjhxR0E2Mlg3eXdyT3ZCSjJSYXllN1lRSjByMXBKTVdHVlZ1WFBVZGhDZGVwM1ZpU3psc0dMTnZ4aUVnRVZDblFqOEMxUk9WVVFHVUlZN0lkSWF0X2JoSU5FWnRHeVNYTkJtMVVQZHBKMzNXTEQtZEJJZ09uQlpmcTNLdUdDdjY?oc=5",
+          "title": "Tab Surface Preparation Abrasives Market Forecast to 2035: Advanced Packaging and Semiconductor Capacity Drive Growth",
+          "summary": "The global market for tab surface preparation abrasives is expanding due to rising demand for advanced semiconductor packaging and microelectronics capacity.",
+          "why": "It shows that high-value precision abrasives for electronics and semiconductor tabs are growing faster than traditional general-purpose sanding.",
+          "action": "Explore specialized micro-finishing and precision abrasive lines suited for electronic components.",
           "th": {
-            "title": "ตลาดกระดาษทรายเคลือบคาดการณ์ถึงปี 2035: ความต้องการเปลี่ยนทดแทนในงานตกแต่งอิเล็กทรอนิกส์และเซมิคอนดักเตอร์หนุนการเติบโต 4-6% ต่อปี",
-            "summary": "ตลาดกระดาษทรายเคลือบคาดว่าจะเติบโตอย่างมั่นคง โดยได้รับแรงหนุนจากความต้องการเปลี่ยนทดแทนในกระบวนการผลิตและตกแต่งชิ้นส่วนอิเล็กทรอนิกส์ไฮเทคและเซมิคอนดักเตอร์",
-            "why": "บ่งชี้ถึงการเปลี่ยนแปลงของการบริโภควัสดุขัดในมูลค่าสูงไปสู่งานอิเล็กทรอนิกส์ที่มีความแม่นยำและเซมิคอนดักเตอร์ มากกว่าการผลิตแบบดั้งเดิมเพียงอย่างเดียว",
-            "action": "สำรวจกระดาษทรายเคลือบผิวแบบละเอียดและผลิตภัณฑ์ตกแต่งความแม่นยำสูงที่เหมาะสำหรับซัพพลายเออร์ชิ้นส่วนอิเล็กทรอนิกส์"
+            "title": "ตลาดวัสดุขัดเตรียมพื้นผิวแท็บเซมิคอนดักเตอร์เติบโตตามบรรจุภัณฑ์ขั้นสูง",
+            "summary": "ตลาดวัสดุขัดสำหรับเตรียมพื้นผิวแท็บกำลังขยายตัวตามความต้องการบรรจุภัณฑ์เซมิคอนดักเตอร์ขั้นสูงและไมโครอิเล็กทรอนิกส์ที่เพิ่มขึ้น",
+            "why": "แสดงให้เห็นว่าวัสดุขัดความละเอียดสูงสำหรับงานอิเล็กทรอนิกส์กำลังเติบโตเร็วกว่างานขัดทั่วไป",
+            "action": "พิจารณาศึกษาและมองหาผลิตภัณฑ์กลุ่มขัดละเอียดพิเศษที่เหมาะสำหรับชิ้นส่วนอิเล็กทรอนิกส์"
           }
         },
         {
           "id": "20260918-w2",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-09-10",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZDJqd2xKZGF5aVhTN1NIQUh5Q3RIUEk0M2o1dzlkLXBsVDZIbXdwSFNqQ2ZEV0YtUEF2bElKN0pIcmZ3Tzk5TE1uTUQyNm9kNWxma1NkXzJvWjRCUnNWN2FjUnZFQ0ZlcFRnSjdDYW5QWGlWdVJtdVFVVjV0X3JmSGE5ZTRKR0N4S2Q4c2haLUpydEltcXVTNXFQUE9DLVh0QWFxQUtCX0NfT2dQeXgzdW01NTQzbWpJWmZiT0EtZHhMQTN1N29J?oc=5",
-          "title": "Sanding Screen Mesh Market to Accelerate on Electronics and Semiconductor Finishing Demand by 2035",
-          "summary": "Sanding screen mesh demand is accelerating, driven by critical requirements in fine surface preparation for electronics and semiconductor sectors.",
-          "why": "Highlights the growing importance of mesh and open-structure abrasives in high-tech finishing where dust extraction and precision are vital.",
-          "action": "Consider expanding stock or marketing for sanding screen mesh products tailored to precision manufacturing niches.",
-          "th": {
-            "title": "ตลาดตาข่ายขัดทรายเตรียมเร่งตัวจากความต้องการตกแต่งอิเล็กทรอนิกส์และเซมิคอนดักเตอร์ภายในปี 2035",
-            "summary": "ความต้องการตาข่ายขัดทรายกำลังเร่งตัวขึ้น ขับเคลื่อนโดยความต้องการที่สำคัญในงานเตรียมพื้นผิวละเอียดสำหรับกลุ่มอุตสาหกรรมอิเล็กทรอนิกส์และเซมิคอนดักเตอร์",
-            "why": "เน้นย้ำถึงความสำคัญที่เพิ่มขึ้นของวัสดุกัดประเภทตาข่ายและโครงสร้างเปิดในงานตกแต่งไฮเทค ซึ่งการดูดฝุ่นและความแม่นยำเป็นสิ่งสำคัญมาก",
-            "action": "พิจารณาขยายสต็อกหรือทำการตลาดผลิตภัณฑ์ตาข่ายขัดทรายที่ตอบโจทย์กลุ่มอุตสาหกรรมการผลิตที่มีความแม่นยำสูง"
-          }
-        },
-        {
-          "id": "20260918-w3",
-          "tag": "steel",
+          "tag": "coating",
           "rating": "amber",
-          "source": "BNamericas",
-          "date": "2026-06-08",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMnhGVWhxLUFaQUQ4Ym16T3hDVTM1cDZHYnV4aGFEUGgwRkIzemRVQjlINy04dnc4NkpDemhZczJLOVpzdmJaNG1Xa0QzQ3lRLWxzblhReWdoVlZ0ZnR1ZmhHbkhlM2hxWmhNT19VSnRPSjJQdGFwUXJrRW82NjZmNGcwUEhDaFBIQzJKekI3N01iQQ?oc=5",
-          "title": "US tariffs amplify China steel pressure on Mexico",
-          "summary": "International trade policy shifts and tariffs are forcing steel supply chain realignments across North America as Chinese steel competition intensifies.",
-          "why": "Shifts in regional steel production and trade flows directly impact local metal fabrication activity and the demand for industrial grinding products.",
-          "action": "Monitor how regional metal fabrication hubs adjust to imported steel pressures, which can alter local abrasive consumption patterns.",
+          "source": "European Coatings",
+          "date": "2026-09-07",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
+          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
+          "summary": "The coatings sector is pivoting heavily toward digitalization, sustainable formulations, and next-generation application technologies.",
+          "why": "Changes in surface coatings and finishes directly alter what kind of prep work, sanding, and polishing are required downstream.",
+          "action": "Stay updated on new eco-friendly coatings that may require different pre-treatment or surface profiles.",
           "th": {
-            "title": "มาตรการภาษีของสหรัฐฯ ขยายแรงกดดันด้านเหล็กจากจีนไปยังเม็กซิโก",
-            "summary": "การเปลี่ยนแปลงนโยบายการค้าระหว่างประเทศและมาตรการภาษี กำลังบีบให้ห่วงโซ่อุปทานเหล็กทั่วอเมริกาเหนือต้องปรับตัว ท่ามกลางการแข่งขันที่รุนแรงขึ้นของเหล็กจากจีน",
-            "why": "การเปลี่ยนแปลงในด้านการผลิตเหล็กระดับภูมิภาคและกระแสการค้าส่งผลกระทบโดยตรงต่อกิจกรรมการแปรรูปโลหะในท้องถิ่นและความต้องการผลิตภัณฑ์ขัดผิวอุตสาหกรรม",
-            "action": "ติดตามว่าศูนย์กลางการแปรรูปโลหะในภูมิภาคปรับตัวอย่างไรต่อแรงกดดันจากเหล็กนำเข้า ซึ่งอาจเปลี่ยนแปลงรูปแบบการใช้ผลิตภัณฑ์ขัดในท้องถิ่น"
-          }
-        },
-        {
-          "id": "20260918-w4",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "financialpost.com",
-          "date": "2026-07-16",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYzVENV9lOXd1cm0xeEt4Y2JBNVF4R3M1aDRReTk5T0xoNzJ0a3c5VnBueWdRenBEcUp2NHNNMldrU20teUI0Z3RocldKbjAyVHNjWjNKN1FtdFlUVXZVSHlfNUZqY016Q0pWMDlDMWxTa3gwMGN0SmNmNjVoRzJQdW9YWDRlYU9PeGt0WGh4VQ?oc=5",
-          "title": "'We're getting hammered': Why this Canadian aluminum sector is crumbling while prices boom",
-          "summary": "Despite rising global commodity prices, certain domestic metal sectors face severe margin compression due to rising operational costs and structural challenges.",
-          "why": "When metal producers face margin squeezes, they often seek cost-effective surface preparation and deburring consumables to optimize spending.",
-          "action": "Position cost-efficient, high-durability abrasive solutions to metal fabricators looking to protect margins amidst rising operational costs.",
-          "th": {
-            "title": "'พวกเรากำลังแย่': เหตุใดภาคอุตสาหกรรมอลูมิเนียมของแคนาดาจึงทรุดตัวลงในขณะที่ราคาพุ่งสูงขึ้น",
-            "summary": "แม้ว่าราคาสินค้าโภคภัณฑ์ทั่วโลกจะปรับตัวสูงขึ้น แต่ภาคอุตสาหกรรมโลหะในประเทศบางแห่งกลับเผชิญกับภาวะกำไรหดตัวอย่างรุนแรงจากต้นทุนการดำเนินงานที่สูงขึ้นและปัญหาเชิงโครงสร้าง",
-            "why": "เมื่อผู้ผลิตโลหะเผชิญกับภาวะบีบตัวของกำไร พวกเขามักจะมองหาสิ้นเปลืองสำหรับเตรียมพื้นผิวและลบคมที่คุ้มค่าคุ้มราคาเพื่อ ระหยัดต้นทุน",
-            "action": "นำเสนอโซลูชันวัสดุขัดที่คุ้มค่าและทนทานสูงแก่ผู้ผลิตโลหะที่ต้องการปกป้องอัตรากำไรท่ามกลางต้นทุนการดำเนินงานที่เพิ่มขึ้น"
+            "title": "กำหนดอนาคตอุตสาหกรรมสีเคลือบ: นวัตกรรม ความยั่งยืน และพลังดิจิทัล",
+            "summary": "อุตสาหกรรมสีเคลือบกำลังปรับตัวครั้งใหญ่สู่ความเป็นดิจิทัล สูตรที่เป็นมิตรต่อสิ่งแวดล้อม และเทคโนโลยีการพ่นเคลือบยุคใหม่",
+            "why": "การเปลี่ยนแปลงของพื้นผิวเคลือบมีผลโดยตรงต่อรูปแบบการเตรียมผิว การขัด และการขัดเงาที่ต้องใช้ในขั้นตอนต่อไป",
+            "action": "ติดตามแนวโน้มสีเคลือบใหม่ๆ ที่อาจต้องการกระบวนการเตรียมผิวหรือความหยาบของพื้นผิวที่แตกต่างไปจากเดิม"
           }
         }
       ]
