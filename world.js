@@ -4,46 +4,82 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-09-18",
-      "summary": "Today's briefing highlights niche high-tech surface finishing demands in electronics and semiconductor packaging, alongside broader digital and sustainable shifts in coatings and manufacturing equipment.",
-      "directCount": 2,
+      "summary": "Today's global briefing highlights new growth frontiers for coated abrasives driven by electronics, semiconductor finishing, and metal-forming shifts like EAF steel production, while automotive sectors tackle smart-factory automation.",
+      "directCount": 4,
       "th": {
-        "summary": "สรุปข่าววันนี้เน้นความต้องการขัดผิวหน้าชิ้นส่วนไฮเทคในกลุ่มอิเล็กทรอนิกส์และบรรจุภัณฑ์เซมิคอนดักเตอร์ รวมถึงการเปลี่ยนผ่านด้านดิจิทัลและความยั่งยืนในอุตสาหกรรมสีเคลือบและเครื่องจักรการผลิต"
+        "summary": "สรุปทิศทางโลกวันนี้เน้นโอกาสการเติบโตใหม่ของกระดาษทรายและวัสดุขัดผิวที่ขับเคลื่อนโดยอุตสาหกรรมอิเล็กทรอนิกส์ การผลิตเซมิคอนดักเตอร์ และการปรับตัวของอุตสาหกรรมเหล็ก รวมถึงระบบอัตโนมัติในโรงงานยานยนต์"
       },
       "items": [
         {
           "id": "20260918-w1",
           "tag": "abrasive",
           "rating": "green",
-          "source": "indexbox.io",
-          "date": "2026-09-11",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPM0IzU2FhMUZlR1lUSG1BY3VVdVZSaTVfVUxFeTJrV1VGazdzYURVUXZvN0VnTEdVYXEtbnRybGZkZ2FBUGotSHg2ejJfVDRQSld2Z3B1YU1mNjhxR0E2Mlg3eXdyT3ZCSjJSYXllN1lRSjByMXBKTVdHVlZ1WFBVZGhDZGVwM1ZpU3psc0dMTnZ4aUVnRVZDblFqOEMxUk9WVVFHVUlZN0lkSWF0X2JoSU5FWnRHeVNYTkJtMVVQZHBKMzNXTEQtZEJJZ09uQlpmcTNLdUdDdjY?oc=5",
-          "title": "Tab Surface Preparation Abrasives Market Forecast to 2035: Advanced Packaging and Semiconductor Capacity Drive Growth",
-          "summary": "The global market for tab surface preparation abrasives is expanding due to rising demand for advanced semiconductor packaging and microelectronics capacity.",
-          "why": "It shows that high-value precision abrasives for electronics and semiconductor tabs are growing faster than traditional general-purpose sanding.",
-          "action": "Explore specialized micro-finishing and precision abrasive lines suited for electronic components.",
+          "source": "IndexBox",
+          "date": "2026-09-16",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNb0Q5M1RPYjlHdElGeXctWllESFpkc3l4U0IxckRudVdxdEM1RF9DVzBpRWNDV0tuX0x1dEZNN1llMlNvYk5qUHdzcUozMjRXVDdwckFOSHdRbkJpUUNQMUd1dll3SGJfZzMxUkR1cWJNek1fLTg0d2RxYkF1Z3dCSk5UbWNpSXJPeC1sSEVOWnBmRlJZQndtZS1HUXIwTFdGenRpVmVMdVI5aW1VVGpualdfeG93QWU5MkFoNTZtR0taWG5CZzNCREo2YXhxbU5UWm9BRGlOOTgtaXlROUg0U1pMWlhlX3Fx?oc=5",
+          "title": "Coated Sanding Sheets Market Forecast to 2035: Replacement Demand in Electronics and Semiconductor Finishing Drives 4–6% CAGR",
+          "summary": "The global market for coated sanding sheets is projected to grow at a 4-6% CAGR through 2035, significantly propelled by replacement demand in electronics and semiconductor finishing.",
+          "why": "Signals strong high-margin growth in precision micro-finishing abrasives rather than traditional heavy industrial uses alone.",
+          "action": "Evaluate inventory of fine-grade coated sanding sheets tailored for electronics and precision components.",
           "th": {
-            "title": "ตลาดวัสดุขัดเตรียมพื้นผิวแท็บเซมิคอนดักเตอร์เติบโตตามบรรจุภัณฑ์ขั้นสูง",
-            "summary": "ตลาดวัสดุขัดสำหรับเตรียมพื้นผิวแท็บกำลังขยายตัวตามความต้องการบรรจุภัณฑ์เซมิคอนดักเตอร์ขั้นสูงและไมโครอิเล็กทรอนิกส์ที่เพิ่มขึ้น",
-            "why": "แสดงให้เห็นว่าวัสดุขัดความละเอียดสูงสำหรับงานอิเล็กทรอนิกส์กำลังเติบโตเร็วกว่างานขัดทั่วไป",
-            "action": "พิจารณาศึกษาและมองหาผลิตภัณฑ์กลุ่มขัดละเอียดพิเศษที่เหมาะสำหรับชิ้นส่วนอิเล็กทรอนิกส์"
+            "title": "ตลาดแผ่นกระดาษทรายเคลือบคาดโตถึงปี 2035: ความต้องการในอุตสาหกรรมอิเล็กทรอนิกส์และเซมิคอนดักเตอร์ดันอัตราเติบโต 4-6%",
+            "summary": "ตลาดแผ่นกระดาษทรายเคลือบทั่วโลกคาดว่าจะเติบโตอย่างต่อเนื่องจนถึงปี 2035 โดยได้แรงหนุนสำคัญจากความต้องการในกลุ่มอิเล็กทรอนิกส์และการขัดแต่งเซมิคอนดักเตอร์",
+            "why": "เป็นสัญญาณว่าตลาดวัสดุขัดผิวความละเอียดสูงมีอัตรากำไรและโอกาสเติบโตสูงกว่างานอุตสาหกรรมหนักแบบดั้งเดิม",
+            "action": "พิจารณาเพิ่มสต็อกกระดาษทรายเคลือบเบอร์ละเอียดที่เหมาะสำหรับงานอิเล็กทรอนิกส์และชิ้นส่วนความแม่นยำสูง"
           }
         },
         {
           "id": "20260918-w2",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "European Coatings",
-          "date": "2026-09-07",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
-          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
-          "summary": "The coatings sector is pivoting heavily toward digitalization, sustainable formulations, and next-generation application technologies.",
-          "why": "Changes in surface coatings and finishes directly alter what kind of prep work, sanding, and polishing are required downstream.",
-          "action": "Stay updated on new eco-friendly coatings that may require different pre-treatment or surface profiles.",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-09-10",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZDJqd2xKZGF5aVhTN1NIQUh5Q3RIUEk0M2o1dzlkLXBsVDZIbXdwSFNqQ2ZEV0YtUEF2bElKN0pIcmZ3Tzk5TE1uTUQyNm9kNWxma1NkXzJvWjRCUnNWN2FjUnZFQ0ZlcFRnSjdDYW5QWGlWdVJtdVFVVjV0X3JmSGE5ZTRKR0N4S2Q4c2haLUpydEltcXVTNXFQUE9DLVh0QWFxQUtCX0NfT2dQeXgzdW01NTQzbWpJWmZiT0EtZHhMQTN1N29J?oc=5",
+          "title": "Sanding Screen Mesh Market to Accelerate on Electronics and Semiconductor Finishing Demand by 2035",
+          "summary": "Demand for sanding screen mesh is accelerating, driven heavily by specialized finishing applications in electronics and semiconductor manufacturing.",
+          "why": "Mesh abrasives provide superior dust extraction and longevity, making them increasingly popular across tech manufacturing sectors.",
+          "action": "Explore sourcing more advanced sanding screen mesh products to capture tech-sector surface prep demand.",
           "th": {
-            "title": "กำหนดอนาคตอุตสาหกรรมสีเคลือบ: นวัตกรรม ความยั่งยืน และพลังดิจิทัล",
-            "summary": "อุตสาหกรรมสีเคลือบกำลังปรับตัวครั้งใหญ่สู่ความเป็นดิจิทัล สูตรที่เป็นมิตรต่อสิ่งแวดล้อม และเทคโนโลยีการพ่นเคลือบยุคใหม่",
-            "why": "การเปลี่ยนแปลงของพื้นผิวเคลือบมีผลโดยตรงต่อรูปแบบการเตรียมผิว การขัด และการขัดเงาที่ต้องใช้ในขั้นตอนต่อไป",
-            "action": "ติดตามแนวโน้มสีเคลือบใหม่ๆ ที่อาจต้องการกระบวนการเตรียมผิวหรือความหยาบของพื้นผิวที่แตกต่างไปจากเดิม"
+            "title": "ตลาดตาข่ายขัด (Sanding Screen Mesh) เร่งตัวขึ้นจากความต้องการขัดผิวอิเล็กทรอนิกส์และเซมิคอนดักเตอร์",
+            "summary": "ความต้องการใช้ตาข่ายขัดกำลังเร่งตัวขึ้นอย่างมาก โดยขับเคลื่อนจากการใช้งานตกแต่งผิวในอุตสาหกรรมการผลิตอิเล็กทรอนิกส์และเซมิคอนดักเตอร์",
+            "why": "ตาข่ายขัดมีจุดเด่นเรื่องการระบายฝุ่นและอายุการใช้งานที่ยาวนาน ทำให้เป็นที่นิยมในภาคการผลิตเทคโนโลยี",
+            "action": "สำรวจหาแหล่งนำเข้าผลิตภัณฑ์ตาข่ายขัดรุ่นใหม่ๆ เพื่อรองรับความต้องการเตรียมพื้นผิวในภาคเทคโนโลยี"
+          }
+        },
+        {
+          "id": "20260918-w3",
+          "tag": "steel",
+          "rating": "green",
+          "source": "Shanghai Metals Market",
+          "date": "2026-05-19",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMmw1akRRMFZCQ2I5NGhHdE1NOXhoaE1GY0h5UmxlQVNUVGxHTko2U0NBQ0o0Q19ZYmZ1VnBCTTB6a2JJQTFNOUpDSUtpWXdaR3hkeGhlOXF4dF9yUElCd1ZkWTl4MmZGOWhVeUlXc2VCMXFCOHQzZ0ZGZ1RtZ3p6aUNObEczWFhKMkdKQ3JuRWF5SjVNZmpOQVBaSGs4TWJKS1lVa0VTdmoxdDBQTF8zRDlxME1qeEtOUzJzSTBERURobWltWTlVUlpaZ3d2WlFRNEY1b0UwbVVfLXc0cXBZ?oc=5",
+          "title": "Nucor: 100% EAF, High Profits, and Vertical Integration Mitigating Costs",
+          "summary": "Major steelmakers utilizing 100% Electric Arc Furnace (EAF) production are achieving high profitability and cost efficiency through scrap recycling models.",
+          "why": "EAF steel production creates distinct metal scaling and surface characteristics that require specific grinding and deburring solutions.",
+          "action": "Monitor growth in EAF steel mills as key targets for heavy-duty grinding wheels and deburring abrasives.",
+          "th": {
+            "title": "Nucor เผยความสำเร็จ: ใช้เตาหลอมไฟฟ้า EAF 100% ทำกำไรสูงและคุมต้นทุนด้วยการบูรณาการในแนวดิ่ง",
+            "summary": "ผู้ผลิตเหล็กรายใหญ่ที่หันมาใช้เตาหลอมไฟฟ้า (EAF) 100% สามารถทำกำไรและบริหารต้นทุนได้ดีเยี่ยมผ่านโมเดลการรีไซเคิลเศษเหล็ก",
+            "why": "กระบวนการผลิตเหล็กด้วยเตา EAF ทำให้เกิดผิวโลหะและคราบตะกรันที่มีลักษณะเฉพาะ ซึ่งต้องใช้ผลิตภัณฑ์หินเจียรและใบตัดที่เหมาะสม",
+            "action": "ติดตามการเติบโตของโรงงานเหล็ก EAF เพื่อใช้เป็นกลุ่มเป้าหมายหลักสำหรับสินค้ากลุ่มงานขัดหยาบและลบครีบ (Deburring)"
+          }
+        },
+        {
+          "id": "20260918-w4",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-09-10",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVjkzSTlDYzItRzJSVXhQSjc1a0ttQ0dIRVYxRDgxaHFiQ0x3c1ZsLTdZQ0RRSk04bmhjdHQ4ZGJrV0lLVk45XzQ5ZzQwN1VwMDNERWNWVEpJNTRVYzZqTFFmcEIyUUZRNG9LOHp6ODIxYm80eEZrcTBOdENvenJqdktfcm5neXlITEZSRXNQclF2ZUpGUXVLTmY3SmhCRUlHdldDVC11QjRnZ3UtYzRlbzAwYS1yaW5oZV8zWmRMY2k?oc=5",
+          "title": "Smart-factory wiring woes: EVs demand automation now, not later",
+          "summary": "Electric vehicle production lines are heavily accelerating factory automation to overcome complex wiring and assembly bottlenecks.",
+          "why": "Automated assembly plants require robotic sanding, deburring, and surface prep attachments rather than manual labor.",
+          "action": "Keep an eye on robotic-compatible abrasive formats (like quick-change discs and automated sanding pads) for future automation trends.",
+          "th": {
+            "title": "ปัญหาการเดินสายไฟในสมาร์ทแฟคตอรี่: รถยนต์ไฟฟ้า (EV) เรียกร้องระบบอัตโนมัติทันที",
+            "summary": "สายการผลิตรถยนต์ไฟฟ้ากำลังเร่งนำระบบอัตโนมัติเข้ามาใช้ในโรงงานอย่างรวดเร็ว เพื่อแก้ปัญหาคอขวดในการประกอบและเดินสายไฟที่ซับซ้อน",
+            "why": "โรงงานประกอบอัตโนมัติจำเป็นต้องใช้อุปกรณ์ขัดกระดาษทราย ลบครีบ และเตรียมผิวที่ทำงานร่วมกับหุ่นยนต์ได้ แทนการใช้แรงงานคน",
+            "action": "ติดตามรูปแบบผลิตภัณฑ์กลุ่ม abrasives ที่รองรับระบบแขนกลหุ่นยนต์ (เช่น แผ่นขัดแบบเปลี่ยนเร็วและแป้นขัดอัตโนมัติ) เพื่อเตรียมรับกระแส automation"
           }
         }
       ]
