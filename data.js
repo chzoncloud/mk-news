@@ -2,6 +2,71 @@
 window.NEWS_ARCHIVE = {
   "days": [
     {
+      "date": "2026-09-19",
+      "summary": "There are few new headlines today; however, the proposed 30% excise tax on imported EVs is a strong catalyst pushing automakers to manufacture locally, directly boosting domestic metal grinding demand. Long-term opportunities in aviation MRO also continue to progress with airline investment studies.",
+      "directCount": 1,
+      "th": {
+        "summary": "วันนี้มีข่าวใหม่ไม่มากนัก แต่ข้อเสนอจัดเก็บภาษีสรรพสามิตรถ EV นำเข้า 30% ถือเป็นปัจจัยเร่งสำคัญที่บีบให้ค่ายรถยนต์ต้องตั้งสายการผลิตในไทย ซึ่งส่งผลดีโดยตรงต่อความต้องการขัดแต่งผิวโลหะ ขณะที่โครงการศูนย์ซ่อมอากาศยาน MRO ยังคงคืบหน้าด้านการศึกษาแผนลงทุน"
+      },
+      "items": [
+        {
+          "id": "20260919-1",
+          "tag": "auto",
+          "rating": "green",
+          "source": "AEC10NEWS",
+          "date": "2026-09-16",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ObnZ6N2g3eEMtWDJycHhfUnNXX2VpNl9JVkRIYXRLODRpbTJpSEtZS0wxNmtkLWxsMC0xemlITUxsT0QtRXB4NVhVOXNIY3ZtU2hXX2dvUjVBdVpfMzVGNlBB?oc=5",
+          "title": "Finance Ministry Eyes 30% Excise Tax on CBU EVs to Compel Local Assembly",
+          "summary": "The Ministry of Finance is considering a 30% excise tax on fully imported electric vehicles to push foreign automakers into building domestic manufacturing plants. The policy aims to heavily penalize pure importers while granting tax advantages to companies establishing local production.",
+          "why": "Pressuring carmakers to build local assembly lines directly increases domestic stamping, welding, and deburring operations, expanding demand for MK abrasive discs and belts.",
+          "action": "Identify newly planned EV assembly lines and approach their Tier-1 metal stamping and body-in-white suppliers for abrasive testing.",
+          "th": {
+            "title": "คลังเล็งเก็บภาษีสรรพสามิต EV นำเข้าทั้งคัน 30% จูงใจค่ายรถตั้งฐานการผลิตในไทย",
+            "summary": "กระทรวงการคลังเตรียมพิจารณาเก็บภาษีสรรพสามิตรถยนต์ไฟฟ้าสำเร็จรูปนำเข้าสูงถึง 30% เพื่อกดดันให้ค่ายรถยนต์ต่างชาติเข้ามาตั้งโรงงานผลิตในประเทศ โดยให้สิทธิประโยชน์ภาษีต่ำแก่ผู้ที่ประกอบและใช้ชิ้นส่วนในไทย",
+            "why": "การบีบให้เกิดสายการประกอบในไทยจะเพิ่มปริมาณงานปั๊มขึ้นรูป งานเชื่อม และงานเจียรลบครีบตัวถัง ซึ่งช่วยเพิ่มการใช้วัสดุขัดและจานทรายของ MK โดยตรง",
+            "action": "สำรวจโครงการก่อสร้างโรงงานประกอบ EV และติดต่อซัพพลายเออร์ชิ้นส่วนตัวถัง Tier-1 เพื่อนำเสนอตัวอย่างจานขัดโลหะ"
+          }
+        },
+        {
+          "id": "20260919-2",
+          "tag": "aero",
+          "rating": "amber",
+          "source": "Thansettakij",
+          "date": "2026-06-16",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pbFFnQlhiSG5UMVBfTjVmMUZtNXc4ZkYyOFljMVFtQlQwalZ5WUpidFlzX3prejlBWGoydDYzUUZXMlY4bE56VFUwZnZrLVJfWlRtV2t0Wi0xOWkzeVFLTUFJOVIwUQ?oc=5",
+          "title": "EECO Targets U-Tapao MRO Hub as VietJet Prepares Investment Feasibility Study",
+          "summary": "The Eastern Economic Corridor Office is moving forward with the U-Tapao aircraft maintenance center, awaiting an investment proposal from VietJet. The project seeks to establish Thailand as a major regional maintenance hub for commercial carriers.",
+          "why": "A growing aviation MRO cluster will drive specialized demand for aerospace-certified abrasives, surface conditioning belts, and precision polishing consumables.",
+          "action": "Monitor EEC maintenance contractor developments to prepare aerospace-compliant surface preparation samples for early qualification.",
+          "th": {
+            "title": "อีอีซีปักหมุดศูนย์ซ่อมฯ อู่ตะเภา รอเวียตเจ็ทศึกษาชงแผนลงทุน",
+            "summary": "สำนักงาน อีอีซี เดินหน้าพัฒนาศูนย์ซ่อมบำรุงอากาศยาน (MRO) อู่ตะเภา โดยอยู่ระหว่างรอผลการศึกษาและแผนการลงทุนจากสายการบินเวียตเจ็ท เพื่อขับเคลื่อนไทยสู่ศูนย์กลางการบินระดับภูมิภาค",
+            "why": "การเติบโตของศูนย์ซ่อมบำรุงอากาศยานจะสร้างความต้องการระยะยาวสำหรับวัสดุขัดเกรดการบิน สายพานเตรียมผิวโลหะ และเครื่องมือขัดเงาความแม่นยำสูง",
+            "action": "ติดตามรายชื่อผู้รับเหมางานซ่อมบำรุงอากาศยานในเขต EEC เพื่อเตรียมส่งมอบวัสดุขัดผิวสำหรับทดสอบมาตรฐานล่วงหน้า"
+          }
+        },
+        {
+          "id": "20260919-3",
+          "tag": "furniture",
+          "rating": "amber",
+          "source": "ditp.go.th",
+          "date": "2025-10-08",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WZ0s3TnpGQ1JjZHJpVkhVQ19La3lwT2hjMTR3cXZlczhtby1WNnFQaUcxb2RUZ1FPcGgwQTRWa2t6TnN4d3NNUXF6bXVjOEpKY3FrWlFocm9nRnJ5UGdZOFd3?oc=5",
+          "title": "Thai Furniture Manufacturers Brace for Order Slump Under New US Tariff Measures",
+          "summary": "Thai furniture producers anticipate an order contraction following shifts in US import tariff regulations. Exporters are restructuring manufacturing pipelines and exploring alternative regional markets to reduce exposure to the US trade slowdown.",
+          "why": "Decreased production runs among furniture exporters soften demand for wide sanding belts, abrasive rolls, and finishing discs used on wood and metal frameworks.",
+          "action": "Accelerate marketing for DIY woodcraft and home improvement segments via Shopee and TikTok to counterbalance export factory declines.",
+          "th": {
+            "title": "ผู้ผลิตเฟอร์นิเจอร์คาดคำสั่งซื้อลดลงภายใต้นโยบายภาษีนำเข้าใหม่ของสหรัฐฯ",
+            "summary": "กลุ่มผู้ผลิตและส่งออกเฟอร์นิเจอร์ไทยคาดการณ์ว่ายอดสั่งซื้อจะชะลอตัวลงจากนโยบายภาษีนำเข้าใหม่ของสหรัฐฯ ส่งผลให้โรงงานต้องปรับแผนการผลิตและหันไปเจาะตลาดอื่นทดแทน",
+            "why": "ยอดการผลิตเฟอร์นิเจอร์ส่งออกที่ลดลงจะส่งผลกระทบทางอ้อมต่อการใช้กระดาษทรายสายพานหน้ากว้าง กระดาษทรายม้วน และจานขัดโครงไม้และโลหะ",
+            "action": "เร่งผลักดันสินค้ากลุ่มงานช่างไม้ DIY และงานซ่อมแซมบ้านผ่านช่องทาง Shopee และ TikTok เพื่อชดเชยยอดขายจากโรงงานส่งออก"
+          }
+        }
+      ],
+      "terms": {}
+    },
+    {
       "date": "2026-09-16",
       "summary": "Today has few new updates as major EV tax policies and MRO projects were previously covered; focus shifts to factory standard crackdowns in the steel sector and upcoming regional woodworking expos.",
       "directCount": 0,
@@ -592,173 +657,7 @@ window.NEWS_ARCHIVE = {
         }
       ],
       "terms": {}
-    },
-    {
-      "date": "2026-09-03",
-      "summary": "Today has relatively few brand-new updates. The key highlight is the government's newly unveiled EV tax blueprint enforcing higher local content, which promises increased domestic metal stamping and grinding work.",
-      "directCount": 1,
-      "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มาก ไฮไลต์สำคัญคือพิมพ์เขียวภาษี EV ใหม่ที่เน้นเงื่อนไข Local Content เพื่อผลักดันให้เกิดการผลิตและแปรรูปชิ้นส่วนโลหะภายในประเทศมากขึ้น"
-      },
-      "items": [
-        {
-          "id": "20260903-1",
-          "tag": "auto",
-          "rating": "green",
-          "source": "Thansettakij",
-          "date": "2026-09-02",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fNEFKazhlWFNJakhEMmEwd1BfWFJUeng5WEdvY09zOW4taXFvSkJCdG9xVHFZem9HU1BxREJnVTZJUmNhMkVUMmVYWnRuNHNTaWtVYWRB?oc=5",
-          "title": "Government Unveils EV Tax Blueprint to Mandate Local Content and Position Thailand as Export Hub",
-          "summary": "The Thai government released a comprehensive EV tax roadmap designed to attract foreign investment while mandating strict local content requirements to make Thailand a regional export hub.",
-          "why": "Stricter local content mandates require automakers to source and fabricate metal body parts, chassis, and brackets domestically, driving immediate abrasive usage for deburring and surface preparation.",
-          "action": "Target Tier 1 and Tier 2 stamping and welding suppliers serving EV assembly lines with heavy-duty flap discs and zirconia belts.",
-          "th": {
-            "title": "เปิดพิมพ์เขียวภาษี EV ดึงลงทุน ปั้นไทย Export Hub ดัน Local Content เพิ่มมูลค่า",
-            "summary": "รัฐบาลเปิดพิมพ์เขียวโครงสร้างภาษี EV ดึงดูดเม็ดเงินลงทุนต่างชาติ พร้อมกำหนดเงื่อนไขสัดส่วนชิ้นส่วนในประเทศ (Local Content) เพื่อปั้นไทยเป็นศูนย์กลางส่งออก",
-            "why": "การบังคับใช้ชิ้นส่วนในประเทศจะกระตุ้นให้เกิดงานปั๊มขึ้นรูป เชื่อม และขัดแต่งผิวชิ้นส่วนโลหะในไทยมากขึ้น ส่งผลให้ความต้องการใช้วัสดุขัดและผ้าทรายเพิ่มขึ้นโดยตรง",
-            "action": "เร่งเข้าพบโรงงานชิ้นส่วน Tier 1 และ Tier 2 ฝ่ายปั๊มและเชื่อมประกอบโครงสร้างรถยนต์เพื่อเสนอจานทรายซ้อนและสายพานขัดเซอร์โคเนีย"
-          }
-        },
-        {
-          "id": "20260903-2",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Brand Inside",
-          "date": "2026-08-14",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNnp5aUZLY2RzNjVBTHl1dVozcFVRLS1hZUtiY1lBOFlOZXJFX3RoMU11dm9ISDBVMG40Y09JOUJ2QmVGV3hHWjNPdFRySDVRYmZWLXd0UjJlUGh1Z0gzaUFPcUpXT0Z1Y0h0TkN3S19wYVp0QVhVdnlrd0NUbjZSUm9qRQ?oc=5",
-          "title": "Indonesia Aggressively Courts Toyota with Full Incentives, Threatening Thailand's Manufacturing Base",
-          "summary": "Indonesia is preparing aggressive tax incentives and policy packages to persuade Toyota to shift regional production lines away from Thailand.",
-          "why": "Japanese automotive supply chains form MK's primary customer base; any loss of production lines to Indonesia directly cuts long-term metal finishing volumes in Thailand.",
-          "action": "Deepen relationships with Japanese Tier 1 part makers by offering annual consignment stock contracts and technical audit services to secure existing volume.",
-          "th": {
-            "title": "เมื่อ ‘อินโดนีเซีย’ ชวน Toyota ย้ายประเทศ พร้อมให้ทุกอย่าง หวั่นกระทบฐานผลิตยานยนต์ไทย",
-            "summary": "อินโดนีเซียเดินเกมรุกจัดแพ็กเกจสิทธิประโยชน์เต็มรูปแบบเพื่อจูงใจให้โตโยต้าย้ายสายการผลิตจากไทยไปอินโดนีเซีย",
-            "why": "ซัพพลายเชนยานยนต์ญี่ปุ่นคือลูกค้ากลุ่มหลักของ MK หากมีการย้ายฐานผลิตจริงจะกระทบต่อยอดการใช้กระดาษทรายและหินเจียรในระยะยาว",
-            "action": "เสริมความสัมพันธ์กับโรงงานชิ้นส่วนญี่ปุ่น Tier 1 ผ่านสัญญาบริการสต็อกสินค้า (Consignment) และบริการตรวจสอบประสิทธิภาพงานขัดเพื่อรักษาฐานลูกค้าเดิม"
-          }
-        },
-        {
-          "id": "20260903-3",
-          "tag": "aero",
-          "rating": "amber",
-          "source": "Thansettakij",
-          "date": "2026-08-01",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJbG91NDM0Z1ZuZmRPYUc4dlRzSXYwVXRnb1l5dGZyZUJLSDZqUXhOSnVzSXVQeTdRME04Y1c5TVB5SC0wOENDcm9VeDhaT3Fha0ZocE90aEgzNXpNOGVmYklR?oc=5",
-          "title": "Thai Airways Invests 100 Billion Baht to Expand Fleet to 150 Aircraft",
-          "summary": "Thai Airways has announced a 100-billion-baht fleet expansion to operate 150 aircraft, aiming to reclaim its standing among premier global carriers.",
-          "why": "A significantly larger commercial fleet in Thailand creates massive downstream maintenance needs, expanding domestic market capacity for certified aerospace-grade abrasives.",
-          "action": "Initiate partner outreach with certified aerospace consumables distributors to evaluate certified non-woven and orbital sanding discs for aircraft maintenance.",
-          "th": {
-            "title": "การบินไทยทุ่มแสนล้าน ขยายฝูงบิน 150 ลำ ทวงบัลลังก์สายการบินระดับโลก",
-            "summary": "การบินไทยเดินหน้าแผนลงทุนกว่า 1 แสนล้านบาท ขยายฝูงบินสู่ 150 ลำ เพื่อฟื้นฟูศักยภาพและขยายเส้นทางบินระดับโลก",
-            "why": "ฝูงบินขนาดใหญ่ขึ้นในประเทศนำมาซึ่งรอบการตรวจซ่อมบำรุงอากาศยาน (MRO) และงานขัดลอกสีเตรียมผิวโลหะ/คอมโพสิตที่เพิ่มขึ้นอย่างมหาศาลในอนาคต",
-            "action": "เริ่มติดต่อตัวแทนจำหน่ายอุปกรณ์การบินเพื่อนำเสนอแผ่นขัดกลมและใยสังเคราะห์ขัดผิวเกรดการบินสำหรับงานซ่อมบำรุงอากาศยาน"
-          }
-        },
-        {
-          "id": "20260903-4",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "Thairath.co.th",
-          "date": "2026-05-22",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5yOEdKVkRNRnBpc1dWRGRuNzNtN1NHR09mSlc3eHpQem1iLUg4TVY0bkN2eDF4bWhhZ3JfTU5idGxKN2trZUJfS1hRMlkxZHQ5T29sTVBMdU5fTHR0V09GQ2h0c19ZSGRrVU9oaTI3eVQydWc?oc=5",
-          "title": "Industry Ministry Cracks Down on Substandard Mills, Backed by 10 Steel Associations",
-          "summary": "10 steel associations commended the Ministry of Industry for aggressive inspections and closures of substandard steel plants failing Thai Industrial Standards.",
-          "why": "Removing illegal and substandard producers stabilizes fair pricing and helps legitimate steel fabricators, who are consistent buyers of high-grade grinding and cutting wheels.",
-          "action": "Focus sales efforts on certified domestic structural and fabrication mills benefiting from the regulatory enforcement.",
-          "th": {
-            "title": "10 สมาคมเหล็กปลื้มกระทรวงอุตสาหกรรม เดินหน้าเชือดโรงงานผลิตเหล็กไม่ได้มาตรฐาน",
-            "summary": "10 สมาคมเหล็กขานรับมาตรการเข้มงวดของกระทรวงอุตสาหกรรมในการปราบปรามและสั่งปิดโรงงานเหล็กที่ไม่ได้มาตรฐาน มอก.",
-            "why": "การกวาดล้างโรงงานไร้มาตรฐานช่วยให้ผู้ผลิตเหล็กโครงสร้างและโรงงานแปรรูปโลหะมาตรฐานในไทยฟื้นตัว ซึ่งกลุ่มนี้เป็นผู้บริโภคหินเจียรและใบตัดคุณภาพสูงอย่างต่อเนื่อง",
-            "action": "มุ่งเน้นการขายใบเจียรและใบตัดให้กับโรงงานแปรรูปเหล็กโครงสร้างที่ได้รับมาตรฐาน มอก. ซึ่งได้รับอานิสงส์จากการปราบปรามนี้"
-          }
-        }
-      ],
-      "terms": {}
-    },
-    {
-      "date": "2026-09-02",
-      "summary": "Today brings limited fresh news, but key automotive developments stand out. Mazda's 7.4-billion-baht factory expansion in Thailand directly boosts auto parts grinding demand, while Toyota reassures suppliers by clarifying that its Vietnam investment will not replace its Thai manufacturing base.",
-      "directCount": 1,
-      "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มาก แต่มีสัญญาณบวกสำคัญในกลุ่มยานยนต์ โดยมาสด้าทุ่มงบ 7.4 พันล้านบาทขยายโรงงานผลิตรถยนต์ในไทยซึ่งช่วยเพิ่มความต้องการขัดชิ้นส่วนโดยตรง ขณะที่โตโยต้าช่วยคลายความกังวลของซัพพลายเออร์หลังยืนยันว่าการลงทุนในเวียดนามไม่ได้เป็นการย้ายฐานผลิตจากไทย"
-      },
-      "items": [
-        {
-          "id": "20260902-1",
-          "tag": "auto",
-          "rating": "green",
-          "source": "Autolifethailand.tv",
-          "date": "2026-08-31",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTi04Zm1VaWFGUncyQ21CTDItVnI1VVhualZRM0VTQ0FjNk9jcmM4ZFZ5OTBJY01LZW1mZ2JGRHVESDdqY1pLWmFIVUx2aE1WYzhRTG9LVmV3Y3lwWTZGOEF1ZTRrQ0JxTWxudmFsSzVXSzUtTXNjajZiM0pYOEFKYURyRGxsQQ?oc=5",
-          "title": "Mazda Invests 7.4 Billion Baht to Expand Rayong Plant for CX-3 MHEV and CX-6e EV",
-          "summary": "Mazda Thailand is investing 7.4 billion baht to expand its local manufacturing facility to produce the CX-3 MHEV and prepare for the CX-6e EV launch in late 2026.",
-          "why": "Expansion of local assembly and hybrid/EV production directly increases metal stamping, body prep, and robotic polishing needs across Tier-1 Japanese parts makers.",
-          "action": "Approach Tier-1 auto parts suppliers in the Mazda/AAT supply chain in Rayong to introduce our sanding discs and deburring belts.",
-          "th": {
-            "title": "มาสด้าทุ่มงบ 7.4 พันล้านบาท ขยายโรงงานระยองผลิต CX-3 MHEV และเตรียมเปิดตัว CX-6e EV",
-            "summary": "มาสด้า ประเทศไทย เตรียมเปิดตัวรถยนต์ไฟฟ้า CX-6e ปลายปี 2026 พร้อมอัดฉีดงบ 7,400 ล้านบาท ขยายโรงงานในไทยเพื่อผลิตรุ่น CX-3 MHEV",
-            "why": "การขยายสายการผลิตและประกอบรถยนต์รุ่นใหม่ช่วยเพิ่มความต้องการใช้วัสดุขัดแต่งผิวโลหะและเจียรลบครีบชิ้นส่วนยานยนต์ในกลุ่มซัพพลายเออร์ญี่ปุ่นโดยตรง",
-            "action": "เร่งติดต่อโรงงานผลิตชิ้นส่วน Tier-1 ในห่วงโซ่อุปทานของมาสด้า/AAT แถบระยอง เพื่อนำเสนอจานขัดและสายพานขัดแต่งผิวโลหะ"
-          }
-        },
-        {
-          "id": "20260902-2",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "แนวหน้า",
-          "date": "2026-09-01",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE16bGlHZXJQVk00V1loUGxLSzR3ZDduLVN1ZVQwMU9NRHJXSHM4N19sV041dERubWtmQ1NvSlZjWTRSM0tpSmZnclhacDhBNnRGYmZXRmtn?oc=5",
-          "title": "Toyota Clarifies 9.3-Billion-Baht Vietnam Investment Does Not Signal Thai Base Relocation",
-          "summary": "Toyota confirmed that its 9.3-billion-baht capital injection in Vietnam is for local market capacity expansion rather than shifting production away from Thailand.",
-          "why": "Reassures business stability for Japanese auto parts manufacturers in Thailand, securing our core target customer base.",
-          "action": "Maintain active engagement and stable inventory support for existing Japanese Tier-1 and Tier-2 auto parts customers.",
-          "th": {
-            "title": "โตโยต้าแจงลงทุนเวียดนาม 9.3 พันล้านบาท เป็นการขยายตลาด ไม่ใช่ย้ายฐานการผลิตจากไทย",
-            "summary": "โตโยต้าออกมายืนยันว่าการลงทุน 9.3 พันล้านบาทในเวียดนามเป็นการขยายกำลังการผลิตเพื่อรองรับตลาดในประเทศ ไม่ได้เป็นการย้ายฐานการผลิตหลักออกจากประเทศไทย",
-            "why": "ช่วยสร้างความมั่นใจในเสถียรภาพของห่วงโซ่อุปทานชิ้นส่วนยานยนต์ญี่ปุ่นในไทย ซึ่งเป็นกลุ่มลูกค้าโรงงานหลักของบริษัท",
-            "action": "เดินหน้าประสานงานและสต็อกสินค้าวัสดุขัดให้พร้อมสำหรับกลุ่มโรงงานชิ้นส่วน Tier-1 และ Tier-2 ของโตโยต้าในไทยอย่างต่อเนื่อง"
-          }
-        },
-        {
-          "id": "20260902-3",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Thansettakij",
-          "date": "2026-08-31",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBieWxsU3JWVURjaUk2TWRMblRwRnk3cjNCZjE1TVhqdmU4dEtPS0pGdklYOTVHR1J3N3B0VklSVG5NQnpZQWh4bWVMQ1AwbTBNSVE1TkZhTQ?oc=5",
-          "title": "EVAT Proposes Linking Import Quotas to Local Investment Value Amid Fixed 10% Tax on Premium EVs",
-          "summary": "The Electric Vehicle Association of Thailand (EVAT) is urging the government to allocate EV import quotas based on actual local investment value as the 10% excise tax on EVs over 1 million baht remains in place.",
-          "why": "Tying import privileges to factory investment encourages automakers to build and operate local fabrication lines rather than merely importing finished cars.",
-          "action": "Track new EV factory tooling setups to quote grinding belts and surface conditioning discs for newly installed production lines.",
-          "th": {
-            "title": "สมาคมยานยนต์ไฟฟ้าชงผูกโควตานำเข้ากับมูลค่าลงทุนจริง หลังรัฐคงภาษี 10% สำหรับ EV เกิน 1 ล้านบาท",
-            "summary": "EVAT เสนอให้ภาครัฐจัดสรรโควตานำเข้าตามมูลค่าเม็ดเงินลงทุนจริงในประเทศ ขณะที่ภาษีสรรพสามิตรถ EV ราคาเกิน 1 ล้านบาทยังคงอยู่ที่ 10%",
-            "why": "มาตรการที่บีบให้เกิดการลงทุนโรงงานผลิตในไทยจริงจะส่งผลให้เกิดการติดตั้งสายการผลิตและการใช้วัสดุขัดเตรียมผิวโลหะในประเทศเพิ่มขึ้น",
-            "action": "ติดตามความคืบหน้าการตั้งโรงงานของผู้ผลิต EV รายใหม่เพื่อเข้าเสนอวัสดุขัดแต่งผิวและสายพานเจียรสำหรับสายการผลิตใหม่"
-          }
-        },
-        {
-          "id": "20260902-4",
-          "tag": "aero",
-          "rating": "amber",
-          "source": "posttoday",
-          "date": "2026-07-27",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lak5sZXQtNktSd3dqWTVQcmdhN2JJdGVhSEUxUzk5RFI5TUs4T3kzMzBqVDdNUnp4N2k3M2FBalNXd0UwaS1XeUxkczM4Rzg4QnVBQXJR?oc=5",
-          "title": "EECO Mobilizes Investment to Establish U-Tapao as Regional Aircraft MRO Hub",
-          "summary": "The Eastern Economic Corridor Office (EECO) is accelerating fundraising and partnership frameworks to develop the U-Tapao aerospace maintenance, repair, and overhaul (MRO) center.",
-          "why": "Progress on the U-Tapao MRO hub will create high-value demand for aerospace-grade abrasive discs and specialized finishing products in the EEC corridor.",
-          "action": "Prepare product technical datasheets for aerospace-grade abrasives and identify certified MRO contractors entering the EEC bidding process.",
-          "th": {
-            "title": "สกพอ. ระดมทุน ดันอุตสาหกรรม MRO ปั้นอู่ตะเภาสู่ศูนย์กลางซ่อมบำรุงอากาศยานภูมิภาค",
-            "summary": "สำนักงานคณะกรรมการนโยบายเขตพัฒนาพิเศษภาคตะวันออก (สกพอ.) เร่งระดมทุนและวางกรอบการร่วมทุนเพื่อผลักดันศูนย์ซ่อมบำรุงอากาศยานอู่ตะเภาสู่ระดับภูมิภาค",
-            "why": "การขับเคลื่อนศูนย์ซ่อม MRO อู่ตะเภาจะสร้างความต้องการใช้วัสดุขัดเกรดการบินและกระดาษทรายความละเอียดสูงสำหรับงานซ่อมบำรุงอากาศยานในพื้นที่ EEC",
-            "action": "จัดเตรียมเอกสารสเปกสินค้าวัสดุขัดเกรดมาตรฐานการบิน พร้อมสำรวจรายชื่อผู้รับเหมาและศูนย์ซ่อมที่เตรียมเข้าพื้นที่เพื่อเริ่มสร้างเครือข่าย"
-          }
-        }
-      ],
-      "terms": {}
     }
   ],
-  "updated": "2026-09-16"
+  "updated": "2026-09-19"
 };
