@@ -4,10 +4,10 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-09-19",
-      "summary": "Today's briefing focuses on emerging surface finishing demands in electronics and semiconductors, buffing pads growth forecasts, and structural shifts in the global steel sector due to regional protectionism.",
+      "summary": "Today's briefing features 3 curated signals focusing on advanced semiconductor and electronics finishing, automotive composite structures, and global metal industry shifts.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปประเด็นข่าววันนี้เน้นไปที่ความต้องการขัดผิวและเตรียมพื้นผิวที่เติบโตในอุตสาหกรรมอิเล็กทรอนิกส์และเซมิคอนดักเตอร์ แนวโน้มตลาดแผ่นขัดเงา และการเปลี่ยนแปลงเชิงโครงสร้างในอุตสาหกรรมเหล็กโลกจากมาตรการปกป้องทางการค้า"
+        "summary": "สรุปข่าววันนี้ประกอบด้วย 3 ข้อมูลสำคัญที่เน้นเรื่องการขัดแต่งในอุตสาหกรรมอิเล็กทรอนิกส์และเซมิคอนดักเตอร์ขั้นสูง โครงสร้างคอมโพสิตยานยนต์ และการเปลี่ยนแปลงในอุตสาหกรรมโลหะโลก"
       },
       "items": [
         {
@@ -18,32 +18,32 @@ window.WORLD_ARCHIVE = {
           "date": "2026-09-18",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONFd0S1M1TXBTcnc1bVNQS19jWVRfRnd1c1ZHYmhxbWs4T3RBcEk3NTVnaFFUNU9LUm9xaTEySl9DZzlSeWU3NUVnbV85N1Jxc0JDOHVlUzNYbGRuU25nYUVjOW9jNjZkN2F2QUUyRUNlSk9hVkZ6TzJmTzhnSnlWNEQzTy1iOXRSbUFLQWNoTlBTX3lZWTdtd2plNXRncHgyR3FYbjk5LWtmUk1SZjJ4SzJfZm5LTU1hRW84N244TjZKTzEwOXgtRw?oc=5",
           "title": "Buffing Pads Market Forecast to 2035: Electronics and Semiconductor Finishing Demand Drives 4-6% CAGR",
-          "summary": "The global buffing pads market is projected to grow at a 4-6% CAGR through 2035, heavily driven by precision finishing needs in electronics and semiconductor manufacturing.",
-          "why": "Signals a clear shift of high-margin abrasive and buffing applications moving toward tech hardware and semiconductor component manufacturing rather than just traditional metal fabrication.",
-          "action": "Explore high-precision non-woven or micro-finishing buffing pads suited for electronics and cleanroom metal finishing.",
+          "summary": "The global buffing pads market is projected to grow steadily at a 4-6% CAGR through 2035, heavily driven by demanding finishing requirements in electronics and semiconductor manufacturing.",
+          "why": "High-precision electronics and semiconductor finishing require specialized buffing and polishing media, opening high-margin niches beyond traditional metalworking.",
+          "action": "Explore sourcing high-end polishing and buffing pads tailored for precision electronics and cleanroom applications.",
           "th": {
-            "title": "ตลาดแผ่นขัดเงาคาดโตต่อเนื่องถึงปี 2035: แรงหนุนจากความต้องการขัดแต่งชิ้นส่วนอิเล็กทรอนิกส์และเซมิคอนดักเตอร์",
-            "summary": "ตลาดแผ่นขัดเงาทั่วโลกคาดว่าจะเติบโต 4-6% ต่อปีจนถึงปี 2035 โดยได้รับแรงหนุนหลักจากความต้องการขัดผิวความละเอียดสูงในอุตสาหกรรมอิเล็กทรอนิกส์และเซมิคอนดักเตอร์",
-            "why": "บ่งชี้การเติบโตของตลาดวัสดุขัดและแผ่นขัดมูลค่าสูงที่ย้ายไปสู่การผลิตชิ้นส่วนเทคโนโลยีและเซมิคอนดักเตอร์ มากกว่างานโลหะทั่วไป",
-            "action": "ศึกษาและจัดหาแผ่นขัดความละเอียดสูงหรือแผ่นขัดแบบ non-woven สำหรับงานตกแต่งผิวโลหะในอุตสาหกรรมอิเล็กทรอนิกส์"
+            "title": "ตลาดบัฟฟิ่งแพดเติบโตสู่ปี 2035: ความต้องการขัดแต่งอิเล็กทรอนิกส์และเซมิคอนดักเตอร์ดันอัตราเติบโต 4-6%",
+            "summary": "ตลาดบัฟฟิ่งแพดทั่วโลกคาดว่าจะเติบโตอย่างต่อเนื่องด้วยอัตรา CAGR 4-6% จนถึงปี 2035 ขับเคลื่อนโดยความต้องการงานขัดแต่งที่มีความแม่นยำสูงในอุตสาหกรรมอิเล็กทรอนิกส์และเซมิคอนดักเตอร์",
+            "why": "งานขัดแต่งชิ้นส่วนอิเล็กทรอนิกส์และความแม่นยำสูงต้องใช้วัสดุขัดและขัดเงาเฉพาะทาง ซึ่งสร้างโอกาสในตลาดเฉพาะกลุ่มที่มีกำไรสูงกว่างานโลหะทั่วไป",
+            "action": "พิจารณาจัดหาแผ่นขัดเงาและบัฟฟิ่งเกรดสูงที่ออกแบบมาสำหรับงานอิเล็กทรอนิกส์และความแม่นยำ"
           }
         },
         {
           "id": "20260919-w2",
-          "tag": "steel",
+          "tag": "auto",
           "rating": "amber",
-          "source": "BNamericas",
-          "date": "2026-06-08",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMnhGVWhxLUFaQUQ4Ym16T3hDVTM1cDZHYnV4aGFEUGgwRkIzemRVQjlINy04dnc4NkpDemhZczJLOVpzdmJaNG1Xa0QzQ3lRLWxzblhReWdoVlZ0ZnR1ZmhHbkhlM2hxWmhNT19VSnRPSjJQdGFwUXJrRW82NjZmNGcwUEhDaFBIQzJKekI3N01iQQ?oc=5",
-          "title": "US tariffs amplify China steel pressure on Mexico",
-          "summary": "New US trade tariffs are redirecting Chinese steel flows into alternative markets like Mexico, intensifying regional price competition and supply chain adjustments.",
-          "why": "Steel trade shifts impact local metal service centers and fabricators' operating margins, which directly affects their spend on grinding and deburring consumables.",
-          "action": "Monitor regional steel supply chain cost pressures to anticipate fluctuations in metal fabrication activity.",
+          "source": "Future Market Insights",
+          "date": "2026-02-12",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc2x3UG45VXZPYjdDdjdGZ21pUkZDc2FIZnlYOWdzRXlpM0ZlLXAzR2poSHN5YllRYk9EYkZLTW1fS1FZN3Z6ZEN1SXN5cTR5cXhkeGc3QjJxMG5WeFFVN0dRQjlZUmJ6NnhNN1lYWFMzUGE1dWhfY0FWd05FWnlwYlFDcGZfZzFPeC1fbWpn?oc=5",
+          "title": "Automotive Composite Leaf Springs Market",
+          "summary": "Automakers are increasingly adopting composite materials like fiberglass-reinforced plastics for suspension leaf springs to reduce vehicle weight.",
+          "why": "Composite materials require entirely different sanding, trimming, and surface preparation techniques compared to traditional spring steel.",
+          "action": "Monitor abrasive tools and specialized discs capable of cutting and finishing composite and fiberglass materials cleanly without delamination.",
           "th": {
-            "title": "ภาษีสหรัฐฯ ซ้ำเติมแรงกดดันเหล็กจีนในเม็กซิโก",
-            "summary": "มาตรการกำแพงภาษีของสหรัฐฯ ส่งผลให้เหล็กจากจีนเบนเข็มไปสู่ตลาดอื่นอย่างเม็กซิโก เพิ่มการแข่งขันด้านราคาและความผันผวนในห่วงโซ่อุปทาน",
-            "why": "การเปลี่ยนแปลงทางการค้าเหล็กส่งผลกระทบต่อต้นทุนและอัตรากำไรของโรงงานแปรรูปโลหะ ซึ่งมีผลโดยตรงต่อยอดซื้อวัสดุสิ้นเปลืองสำหรับงานขัดและลบคม",
-            "action": "ติดตามความผันผวนของต้นทุนเหล็กในตลาดเพื่อประเมินแนวโน้มกิจกรรมของกลุ่มลูกค้าแปรรูปโลหะ"
+            "title": "ตลาดแหนบสปริงคอมโพสิตสำหรับยานยนต์เติบโต",
+            "summary": "ค่ายรถยนต์หันมาใช้วัสดุคอมโพสิต เช่น พลาสติกเสริมใยแก้ว สำหรับแหนบกันสะเทือนมากขึ้นเพื่อลดน้ำหนักตัวรถ",
+            "why": "วัสดุคอมโพสิตต้องการกระบวนการขัด การตัดแต่ง และการเตรียมผิวที่แตกต่างจากเหล็กสปริงแบบดั้งเดิมอย่างสิ้นเชิง",
+            "action": "ติดตามเครื่องมือขัดและแผ่นขัดพิเศษที่สามารถตัดและแต่งวัสดุคอมโพสิตและใยแก้วได้เรียบเนียนโดยไม่เกิดการแยกชั้น"
           }
         },
         {
@@ -54,14 +54,14 @@ window.WORLD_ARCHIVE = {
           "date": "2026-01-12",
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
           "title": "Global steel industry battles surplus supply, protectionism",
-          "summary": "The global steel market continues to navigate overcapacity issues and rising trade protectionism, forcing producers to adapt cost-saving and efficiency measures.",
-          "why": "When steel mills face margin crunches from oversupply, they often optimize workshop consumables and demand cost-effective, high-durability grinding tools.",
-          "action": "Position our abrasive products around cost-efficiency and extended lifespan to appeal to cost-conscious metal fabricators.",
+          "summary": "The global steel sector continues to face overcapacity issues alongside rising trade protectionism and shifting regional supply chains.",
+          "why": "Steel production volume and mill operating rates directly influence industrial demand for heavy grinding wheels, deburring products, and metal surface prep tools.",
+          "action": "Keep an eye on regional steel mill utilization rates to anticipate shifts in local metal fabrication and heavy industrial abrasive consumption.",
           "th": {
-            "title": "อุตสาหกรรมเหล็กโลกเผชิญหน้าภาวะล้นตลาดและลัทธิกีดกันทางการค้า",
-            "summary": "ตลาดเหล็กโลกยังคงเผชิญกับปัญหากำลังการผลิตส่วนเกินและมาตรการปกป้องทางการค้าที่เพิ่มขึ้น บีบให้ผู้ผลิตต้องปรับตัวด้านต้นทุนและประสิทธิภาพ",
-            "why": "เมื่อโรงงานเหล็กประสบปัญหาบีบคั้นด้านกำไร พวกเขาจะมองหาวิธีลดต้นทุนในส่วนของวัสดุสิ้นเปลือง และต้องการอุปกรณ์ขัดที่คุ้มค่าและทนทาน",
-            "action": "นำเสนอจุดขายด้านความคุ้มค่าและอายุการใช้งานที่ยาวนานของผลิตภัณฑ์กระดาษทรายและหินเจียร เพื่อตอบโจทย์ลูกค้าที่กำลังคุมต้นทุน"
+            "title": "อุตสาหกรรมเหล็กโลกเผชิญหน้ากับภาวะล้นตลาดและลัทธิกีดกันทางการค้า",
+            "summary": "ภาคอุตสาหกรรมเหล็กทั่วโลกยังคงเผชิญกับปัญหากำลังการผลิตส่วนเกิน ควบคู่ไปกับมาตรการกีดกันทางการค้าและห่วงโซ่อุปทานที่เปลี่ยนไป",
+            "why": "ปริมาณการผลิตเหล็กและอัตราการเดินเครื่องของโรงงานส่งผลโดยตรงต่อความต้องการใช้งานหินเจียร แผ่นลบคม และเครื่องมือเตรียมพื้นผิวโลหะ",
+            "action": "ติดตามอัตราการใช้กำลังการผลิตของโรงงานเหล็กในภูมิภาคเพื่อคาดการณ์ความต้องการใช้วัสดุขัดในงานแปรรูปโลหะ"
           }
         }
       ]
