@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-09-18",
+  "updated": "2026-09-19",
   "days": [
+    {
+      "date": "2026-09-19",
+      "summary": "Today's briefing focuses on emerging surface finishing demands in electronics and semiconductors, buffing pads growth forecasts, and structural shifts in the global steel sector due to regional protectionism.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปประเด็นข่าววันนี้เน้นไปที่ความต้องการขัดผิวและเตรียมพื้นผิวที่เติบโตในอุตสาหกรรมอิเล็กทรอนิกส์และเซมิคอนดักเตอร์ แนวโน้มตลาดแผ่นขัดเงา และการเปลี่ยนแปลงเชิงโครงสร้างในอุตสาหกรรมเหล็กโลกจากมาตรการปกป้องทางการค้า"
+      },
+      "items": [
+        {
+          "id": "20260919-w1",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-09-18",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONFd0S1M1TXBTcnc1bVNQS19jWVRfRnd1c1ZHYmhxbWs4T3RBcEk3NTVnaFFUNU9LUm9xaTEySl9DZzlSeWU3NUVnbV85N1Jxc0JDOHVlUzNYbGRuU25nYUVjOW9jNjZkN2F2QUUyRUNlSk9hVkZ6TzJmTzhnSnlWNEQzTy1iOXRSbUFLQWNoTlBTX3lZWTdtd2plNXRncHgyR3FYbjk5LWtmUk1SZjJ4SzJfZm5LTU1hRW84N244TjZKTzEwOXgtRw?oc=5",
+          "title": "Buffing Pads Market Forecast to 2035: Electronics and Semiconductor Finishing Demand Drives 4-6% CAGR",
+          "summary": "The global buffing pads market is projected to grow at a 4-6% CAGR through 2035, heavily driven by precision finishing needs in electronics and semiconductor manufacturing.",
+          "why": "Signals a clear shift of high-margin abrasive and buffing applications moving toward tech hardware and semiconductor component manufacturing rather than just traditional metal fabrication.",
+          "action": "Explore high-precision non-woven or micro-finishing buffing pads suited for electronics and cleanroom metal finishing.",
+          "th": {
+            "title": "ตลาดแผ่นขัดเงาคาดโตต่อเนื่องถึงปี 2035: แรงหนุนจากความต้องการขัดแต่งชิ้นส่วนอิเล็กทรอนิกส์และเซมิคอนดักเตอร์",
+            "summary": "ตลาดแผ่นขัดเงาทั่วโลกคาดว่าจะเติบโต 4-6% ต่อปีจนถึงปี 2035 โดยได้รับแรงหนุนหลักจากความต้องการขัดผิวความละเอียดสูงในอุตสาหกรรมอิเล็กทรอนิกส์และเซมิคอนดักเตอร์",
+            "why": "บ่งชี้การเติบโตของตลาดวัสดุขัดและแผ่นขัดมูลค่าสูงที่ย้ายไปสู่การผลิตชิ้นส่วนเทคโนโลยีและเซมิคอนดักเตอร์ มากกว่างานโลหะทั่วไป",
+            "action": "ศึกษาและจัดหาแผ่นขัดความละเอียดสูงหรือแผ่นขัดแบบ non-woven สำหรับงานตกแต่งผิวโลหะในอุตสาหกรรมอิเล็กทรอนิกส์"
+          }
+        },
+        {
+          "id": "20260919-w2",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "BNamericas",
+          "date": "2026-06-08",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMnhGVWhxLUFaQUQ4Ym16T3hDVTM1cDZHYnV4aGFEUGgwRkIzemRVQjlINy04dnc4NkpDemhZczJLOVpzdmJaNG1Xa0QzQ3lRLWxzblhReWdoVlZ0ZnR1ZmhHbkhlM2hxWmhNT19VSnRPSjJQdGFwUXJrRW82NjZmNGcwUEhDaFBIQzJKekI3N01iQQ?oc=5",
+          "title": "US tariffs amplify China steel pressure on Mexico",
+          "summary": "New US trade tariffs are redirecting Chinese steel flows into alternative markets like Mexico, intensifying regional price competition and supply chain adjustments.",
+          "why": "Steel trade shifts impact local metal service centers and fabricators' operating margins, which directly affects their spend on grinding and deburring consumables.",
+          "action": "Monitor regional steel supply chain cost pressures to anticipate fluctuations in metal fabrication activity.",
+          "th": {
+            "title": "ภาษีสหรัฐฯ ซ้ำเติมแรงกดดันเหล็กจีนในเม็กซิโก",
+            "summary": "มาตรการกำแพงภาษีของสหรัฐฯ ส่งผลให้เหล็กจากจีนเบนเข็มไปสู่ตลาดอื่นอย่างเม็กซิโก เพิ่มการแข่งขันด้านราคาและความผันผวนในห่วงโซ่อุปทาน",
+            "why": "การเปลี่ยนแปลงทางการค้าเหล็กส่งผลกระทบต่อต้นทุนและอัตรากำไรของโรงงานแปรรูปโลหะ ซึ่งมีผลโดยตรงต่อยอดซื้อวัสดุสิ้นเปลืองสำหรับงานขัดและลบคม",
+            "action": "ติดตามความผันผวนของต้นทุนเหล็กในตลาดเพื่อประเมินแนวโน้มกิจกรรมของกลุ่มลูกค้าแปรรูปโลหะ"
+          }
+        },
+        {
+          "id": "20260919-w3",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "S&P Global",
+          "date": "2026-01-12",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
+          "title": "Global steel industry battles surplus supply, protectionism",
+          "summary": "The global steel market continues to navigate overcapacity issues and rising trade protectionism, forcing producers to adapt cost-saving and efficiency measures.",
+          "why": "When steel mills face margin crunches from oversupply, they often optimize workshop consumables and demand cost-effective, high-durability grinding tools.",
+          "action": "Position our abrasive products around cost-efficiency and extended lifespan to appeal to cost-conscious metal fabricators.",
+          "th": {
+            "title": "อุตสาหกรรมเหล็กโลกเผชิญหน้าภาวะล้นตลาดและลัทธิกีดกันทางการค้า",
+            "summary": "ตลาดเหล็กโลกยังคงเผชิญกับปัญหากำลังการผลิตส่วนเกินและมาตรการปกป้องทางการค้าที่เพิ่มขึ้น บีบให้ผู้ผลิตต้องปรับตัวด้านต้นทุนและประสิทธิภาพ",
+            "why": "เมื่อโรงงานเหล็กประสบปัญหาบีบคั้นด้านกำไร พวกเขาจะมองหาวิธีลดต้นทุนในส่วนของวัสดุสิ้นเปลือง และต้องการอุปกรณ์ขัดที่คุ้มค่าและทนทาน",
+            "action": "นำเสนอจุดขายด้านความคุ้มค่าและอายุการใช้งานที่ยาวนานของผลิตภัณฑ์กระดาษทรายและหินเจียร เพื่อตอบโจทย์ลูกค้าที่กำลังคุมต้นทุน"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-09-18",
       "summary": "Today's global briefing highlights new growth frontiers for coated abrasives driven by electronics, semiconductor finishing, and metal-forming shifts like EAF steel production, while automotive sectors tackle smart-factory automation.",
@@ -884,70 +948,6 @@ window.WORLD_ARCHIVE = {
             "summary": "วิเคราะห์บริษัท Nucor ถึงความสำเร็จในการใช้เตาหลอมไฟฟ้า (EAF) 100% ร่วมกับการบูรณาการธุรกิจเพื่อควบคุมต้นทุนและรักษาผลกำไรในอุตสาหกรรมเหล็ก",
             "why": "กระบวนการผลิตเหล็กเป็นตัวกำหนดลักษณะการจัดการผิวและงานเชื่อมโลหะ ซึ่งมีผลต่อประเภทของแผ่นตัด แผ่นเจียร และแผ่นทำความสะอาดที่โรงงานแปรรูปโลหะต้องใช้",
             "action": "ติดตามแนวโน้มการแปรรูปเหล็กด้วยเตา EAF เนื่องจากอุตสาหกรรมเหล็กจากเศษเหล็กรีไซเคิลกำลังเติบโตทั่วโลก"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-09-05",
-      "summary": "Today's briefing highlights the rapid automation of finishing tools like flap discs, electronics-driven demand for abrasive sponges, and AI-driven smart factory shifts in major automotive manufacturing.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปแนวโน้มวันนี้เน้นย้ำถึงการเติบโตของระบบอัตโนมัติในกลุ่มจานทรายซ้อน ความต้องการฟองน้ำขัดจากอุตสาหกรรมอิเล็กทรอนิกส์ และการเปลี่ยนผ่านสู่โรงงานอัจฉริยะที่ขับเคลื่อนด้วย AI ในอุตสาหกรรมยานยนต์"
-      },
-      "items": [
-        {
-          "id": "20260905-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-09-03",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOemFEUXVsdnNaUV9oeUxKb3ctdGExOTZibVBMTU9ObE56VXBSY1pMa3JGdGtoUHBNODJOQlR0VHZpZk12XzdlSE5yVDBlUEVCXzdvMWEtd2ZWaVRvSWk0MnVBM2lKMS1wRGxDU1ZfOEFaUzlsMTJFTGlVMTc1bWNqNUFwSkh6MFZIVGlRaXBqYm1xWTRoVUdxbmliWF9LdnVKUnVQNU5IakthT09ET3JBLTVnaU5QeVdla1ZlOGZ5aDQtdXlMb283QXBSeXJXbXlkZ0dr?oc=5",
-          "title": "Flap Grinding Disc Market Forecast 2035: Demand Driven by Automation and Premium Abrasives",
-          "summary": "The global demand for flap grinding discs is projected to grow through 2035, heavily driven by robotic automation and a shift toward premium abrasive grains.",
-          "why": "As metal fabricators adopt automated grinding cells, demand for consistent, high-performance ceramic and zirconium flap discs will rise.",
-          "action": "Ensure stable sourcing of high-grade backing materials and premium abrasive grains for automated end-users.",
-          "th": {
-            "title": "ตลาดแผ่นขัดและจานทรายซ้อนคาดเติบโตถึงปี 2035: ขับเคลื่อนด้วยระบบอัตโนมัติและวัสดุขัดคุณภาพสูง",
-            "summary": "ความต้องการจานทรายซ้อนทั่วโลกเติบโตอย่างต่อเนื่องจนถึงปี 2035 โดยได้รับแรงหนุนหลักจากระบบอัตโนมัติของหุ่นยนต์และการเปลี่ยนไปใช้วัสดุขัดเกรดพรีเมียม",
-            "why": "เมื่อโรงงานแปรรูปโลหะหันมาใช้ระบบขัดอัตโนมัติ ความต้องการจานทรายซ้อนเซอร์โคเนียและเซรามิกที่มีคุณภาพสม่ำเสมอจะสูงขึ้นตามไปด้วย",
-            "action": "เตรียมความพร้อมในการจัดหาวัสดุฐานรองและเม็ดทรายขัดคุณภาพสูงเพื่อรองรับกลุ่มลูกค้าที่ใช้ระบบอัตโนมัติ"
-          }
-        },
-        {
-          "id": "20260905-w2",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-08-27",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZVNoQXZTcE5rVFdTaVAtc2pzYXA4bDJhUW1yNWd5RllQcTJMQ0xBN0ozandZMFZERUxfWUVRNU9odHV3RkVFUDNhejBkYy1KVVJmZlBsVXdQTG9qOU9Dck1yLUx2dmd2YWZ4Um80SWdTMzhIeF9DeVZiQzJ1QWRWWG45YmxvOFR1QVpEcHNld0ZvTE91dVZ2dm04dURCRVJ4bmZMZTVsQUtLVXFBenNJeFV4aUxBNkJqeUtOQjdINFpkdw?oc=5",
-          "title": "Abrasive Sponges Market to Hit 5.2% CAGR Through 2035 as Electronics Sector Drives 28% of Demand",
-          "summary": "The abrasive sponges market is expanding at a 5.2% CAGR, with the electronics sector alone accounting for over a quarter of total demand.",
-          "why": "Abrasive sponges are key for manual and semi-automated surface preparation in delicate electronics and component casings.",
-          "action": "Explore expanding our catalog of flexible abrasive sponges and foam-backed sanding pads targeting precision electronics and finishing.",
-          "th": {
-            "title": "ตลาดฟองน้ำขัดจ่อเติบโต CAGR 5.2% ถึงปี 2035: ภาคอิเล็กทรอนิกส์ครองสัดส่วนความต้องการถึง 28%",
-            "summary": "ตลาดฟองน้ำขัดกำลังขยายตัวด้วยอัตราเติบโตเฉลี่ย 5.2% ต่อปี โดยภาคอิเล็กทรอนิกส์ถือเป็นตลาดใหญ่ที่ใช้ความต้องการมากกว่าหนึ่งในสี่",
-            "why": "ฟองน้ำขัดเป็นเครื่องมือสำคัญสำหรับการเตรียมผิวงานแบบใช้มือและกึ่งอัตโนมัติในชิ้นส่วนอิเล็กทรอนิกส์และโครงสร้างอุปกรณ์ที่บอบบาง",
-            "action": "พิจารณาขยายสินค้ากลุ่มฟองน้ำขัดและกระดาษทรายฟองน้ำเพื่อเจาะตลาดการตกแต่งผิวชิ้นส่วนอิเล็กทรอนิกส์และความละเอียดสูง"
-          }
-        },
-        {
-          "id": "20260905-w3",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "automotivemanufacturingsolutions.com",
-          "date": "2026-09-02",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUUpWSmpHLVowSXdiLUJqcFlpQ3ZfRmdQYjJiTVFCNk00ZW0tM0ZqenQtd2F4emNVNEdzT3Q3amZ3M050YnNuTldQZFQyTlgyX3ByekdEbkdlaURacG5yRlBUSEZucnBQalBmNzVadXVrSDdXcEd0d2t4UXptUzJ5dXZ6ckE1V3RVV3IyUkY4SFdVSERveVJYem0yM3lNbWFUY1dXWHYyRFZ2cXdldWFyRmJTNE4tQ1RXWWp4N3NCN1h5Vmt3d3hEbkFPc2ZqT0k?oc=5",
-          "title": "A global AI manufacturing transformation at Hyundai Motor Group",
-          "summary": "Hyundai Motor Group is rolling out comprehensive AI and smart manufacturing transformations across its global production facilities.",
-          "why": "Smart manufacturing lines in automotive demand precise, automated deburring and surface finishing systems integrated with factory data.",
-          "action": "Monitor how major automakers integrate AI into assembly and finishing lines to align future abrasive solutions with smart factory requirements.",
-          "th": {
-            "title": "ฮุนได มอเตอร์ กรุ๊ป เดินหน้าพลิกโฉมการผลิตระดับโลกด้วยเทคโนโลยี AI",
-            "summary": "ฮุนได มอเตอร์ กรุ๊ป กำลังขับเคลื่อนการเปลี่ยนแปลงครั้งใหญ่ด้วยเทคโนโลยี AI และการผลิตอัจฉริยะทั่วทุกโรงงานผลิตทั่วโลก",
-            "why": "สายการผลิตอัจฉริยะในอุตสาหกรรมยานยนต์จำเป็นต้องมีระบบลบคมและตกแต่งผิวที่แม่นยำ ทำงานอัตโนมัติและเชื่อมต่อกับข้อมูลโรงงาน",
-            "action": "ติดตามทิศทางการนำ AI มาใช้ในสายการผลิตและงานตกแต่งผิวของค่ายรถยนต์รายใหญ่ เพื่อเตรียมนำเสนอโซลูชันงานขัดที่สอดรับกับโรงงานอัจฉริยะ"
           }
         }
       ]
