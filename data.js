@@ -3,64 +3,64 @@ window.NEWS_ARCHIVE = {
   "days": [
     {
       "date": "2026-09-19",
-      "summary": "There are few new headlines today; however, the proposed 30% excise tax on imported EVs is a strong catalyst pushing automakers to manufacture locally, directly boosting domestic metal grinding demand. Long-term opportunities in aviation MRO also continue to progress with airline investment studies.",
+      "summary": "Today has limited fresh news as major EV tax overhauls and MRO projects were covered in recent days. Notable developments center on policies safeguarding 800,000 auto jobs through localized assembly, EECO's fundraising for the U-Tapao MRO hub, and industry calls to eliminate substandard induction furnace steel mills.",
       "directCount": 1,
       "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มากนัก แต่ข้อเสนอจัดเก็บภาษีสรรพสามิตรถ EV นำเข้า 30% ถือเป็นปัจจัยเร่งสำคัญที่บีบให้ค่ายรถยนต์ต้องตั้งสายการผลิตในไทย ซึ่งส่งผลดีโดยตรงต่อความต้องการขัดแต่งผิวโลหะ ขณะที่โครงการศูนย์ซ่อมอากาศยาน MRO ยังคงคืบหน้าด้านการศึกษาแผนลงทุน"
+        "summary": "วันนี้มีข่าวใหม่ไม่มากนักเนื่องจากประเด็นภาษี EV และโครงการ MRO ได้ถูกรายงานไปแล้วในช่วงก่อนหน้า โดยประเด็นสำคัญที่น่าติดตามคือการปรับภาษียานยนต์เพื่อรักษาการจ้างงาน 8 แสนตำแหน่ง การระดมทุนของ สกพอ. เพื่อพัฒนาศูนย์ซ่อมบำรุงอากาศยานอู่ตะเภา และการผลักดันให้ยกเลิกเตาหลอมเหล็ก IF ที่ไม่ได้มาตรฐาน"
       },
       "items": [
         {
           "id": "20260919-1",
           "tag": "auto",
-          "rating": "green",
-          "source": "AEC10NEWS",
-          "date": "2026-09-16",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ObnZ6N2g3eEMtWDJycHhfUnNXX2VpNl9JVkRIYXRLODRpbTJpSEtZS0wxNmtkLWxsMC0xemlITUxsT0QtRXB4NVhVOXNIY3ZtU2hXX2dvUjVBdVpfMzVGNlBB?oc=5",
-          "title": "Finance Ministry Eyes 30% Excise Tax on CBU EVs to Compel Local Assembly",
-          "summary": "The Ministry of Finance is considering a 30% excise tax on fully imported electric vehicles to push foreign automakers into building domestic manufacturing plants. The policy aims to heavily penalize pure importers while granting tax advantages to companies establishing local production.",
-          "why": "Pressuring carmakers to build local assembly lines directly increases domestic stamping, welding, and deburring operations, expanding demand for MK abrasive discs and belts.",
-          "action": "Identify newly planned EV assembly lines and approach their Tier-1 metal stamping and body-in-white suppliers for abrasive testing.",
+          "rating": "amber",
+          "source": "TrueID",
+          "date": "2026-09-17",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56ZTlxYUtJUWdtbmptZVZ0U0xNRmFHQUdFbTJXNWFxZ2RBc3Nuemcyd1hpQkpIRkRjVzhlaVIxb2NYemJuSlJERGl0THhFbGNiVW1YUXBR?oc=5",
+          "title": "Thailand Adjusts Auto Taxes as EV Sales Outpace ICE, Aiming to Protect 800,000 Auto Workforce",
+          "summary": "With electric vehicles rapidly gaining ground against internal combustion engines, Thailand is restructuring auto excise taxes to force automakers to localize production and preserve 800,000 domestic auto manufacturing jobs. The framework incentivizes local part sourcing while penalizing pure imports.",
+          "why": "Our Japanese OEM and Tier-1 customers must accelerate localized hybrid/EV component production, sustaining steady demand for stamping, deburring, and surface finishing abrasives.",
+          "action": "Audit our Japanese automotive supply chain clients on their EV transition timelines and introduce specialized abrasive solutions for lightweight alloy finishing.",
           "th": {
-            "title": "คลังเล็งเก็บภาษีสรรพสามิต EV นำเข้าทั้งคัน 30% จูงใจค่ายรถตั้งฐานการผลิตในไทย",
-            "summary": "กระทรวงการคลังเตรียมพิจารณาเก็บภาษีสรรพสามิตรถยนต์ไฟฟ้าสำเร็จรูปนำเข้าสูงถึง 30% เพื่อกดดันให้ค่ายรถยนต์ต่างชาติเข้ามาตั้งโรงงานผลิตในประเทศ โดยให้สิทธิประโยชน์ภาษีต่ำแก่ผู้ที่ประกอบและใช้ชิ้นส่วนในไทย",
-            "why": "การบีบให้เกิดสายการประกอบในไทยจะเพิ่มปริมาณงานปั๊มขึ้นรูป งานเชื่อม และงานเจียรลบครีบตัวถัง ซึ่งช่วยเพิ่มการใช้วัสดุขัดและจานทรายของ MK โดยตรง",
-            "action": "สำรวจโครงการก่อสร้างโรงงานประกอบ EV และติดต่อซัพพลายเออร์ชิ้นส่วนตัวถัง Tier-1 เพื่อนำเสนอตัวอย่างจานขัดโลหะ"
+            "title": "ไทยปรับโครงสร้างภาษีดึงฐานผลิตรถยนต์ ป้องแรงงานยานยนต์ 8 แสนคนรับกระแสอีวี",
+            "summary": "ท่ามกลางยอดขายรถยนต์ไฟฟ้าที่เพิ่มขึ้นอย่างรวดเร็วแทนที่รถยนต์สันดาป รัฐบาลเร่งปรับโครงสร้างภาษีสรรพสามิตเพื่อดึงดูดให้ค่ายรถตั้งฐานการผลิตและใช้ชิ้นส่วนในประเทศ หวังปกป้องการจ้างงานในห่วงโซ่ยานยนต์กว่า 800,000 ตำแหน่ง",
+            "why": "โรงงานลูกค้าค่ายญี่ปุ่นและผู้ผลิตชิ้นส่วน Tier-1 ต้องเร่งปรับสายการผลิตสู่ชิ้นส่วนไฮบริดและ EV ซึ่งยังคงรักษาอุปสงค์ของกระดาษทรายและจานขัดในงานปั๊มโลหะ ลบครีบ และขัดผิวไว้ได้",
+            "action": "เข้าตรวจสอบสถานะของลูกค้ากลุ่มชิ้นส่วนยานยนต์ญี่ปุ่นเพื่อรับทราบแผนการปรับสายการผลิต พร้อมนำเสนอวัสดุขัดเกรดเฉพาะสำหรับชิ้นงานโลหะผสมน้ำหนักเบา"
           }
         },
         {
           "id": "20260919-2",
           "tag": "aero",
-          "rating": "amber",
-          "source": "Thansettakij",
-          "date": "2026-06-16",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pbFFnQlhiSG5UMVBfTjVmMUZtNXc4ZkYyOFljMVFtQlQwalZ5WUpidFlzX3prejlBWGoydDYzUUZXMlY4bE56VFUwZnZrLVJfWlRtV2t0Wi0xOWkzeVFLTUFJOVIwUQ?oc=5",
-          "title": "EECO Targets U-Tapao MRO Hub as VietJet Prepares Investment Feasibility Study",
-          "summary": "The Eastern Economic Corridor Office is moving forward with the U-Tapao aircraft maintenance center, awaiting an investment proposal from VietJet. The project seeks to establish Thailand as a major regional maintenance hub for commercial carriers.",
-          "why": "A growing aviation MRO cluster will drive specialized demand for aerospace-certified abrasives, surface conditioning belts, and precision polishing consumables.",
-          "action": "Monitor EEC maintenance contractor developments to prepare aerospace-compliant surface preparation samples for early qualification.",
+          "rating": "green",
+          "source": "posttoday.com",
+          "date": "2026-07-27",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lak5sZXQtNktSd3dqWTVQcmdhN2JJdGVhSEUxUzk5RFI5TUs4T3kzMzBqVDdNUnp4N2k3M2FBalNXd0UwaS1XeUxkczM4Rzg4QnVBQXJR?oc=5",
+          "title": "EECO Mobilizes Investment Funds to Build U-Tapao Regional Aviation MRO Hub",
+          "summary": "The Eastern Economic Corridor Office (EECO) is accelerating capital-raising efforts to construct aviation maintenance, repair, and overhaul (MRO) facilities at U-Tapao. The project aims to establish Thailand as Southeast Asia's core aerospace servicing center.",
+          "why": "Direct commercial opportunity for MK as expanding MRO hangar capacities generates high-margin demand for certified aviation-grade abrasives, surface prep tools, and precision metal finishing belts.",
+          "action": "Compile certified technical data sheets for MK's aerospace-grade abrasive lines and establish direct contact with engineering contractors involved in U-Tapao hangar infrastructure.",
           "th": {
-            "title": "อีอีซีปักหมุดศูนย์ซ่อมฯ อู่ตะเภา รอเวียตเจ็ทศึกษาชงแผนลงทุน",
-            "summary": "สำนักงาน อีอีซี เดินหน้าพัฒนาศูนย์ซ่อมบำรุงอากาศยาน (MRO) อู่ตะเภา โดยอยู่ระหว่างรอผลการศึกษาและแผนการลงทุนจากสายการบินเวียตเจ็ท เพื่อขับเคลื่อนไทยสู่ศูนย์กลางการบินระดับภูมิภาค",
-            "why": "การเติบโตของศูนย์ซ่อมบำรุงอากาศยานจะสร้างความต้องการระยะยาวสำหรับวัสดุขัดเกรดการบิน สายพานเตรียมผิวโลหะ และเครื่องมือขัดเงาความแม่นยำสูง",
-            "action": "ติดตามรายชื่อผู้รับเหมางานซ่อมบำรุงอากาศยานในเขต EEC เพื่อเตรียมส่งมอบวัสดุขัดผิวสำหรับทดสอบมาตรฐานล่วงหน้า"
+            "title": "สกพอ. เร่งระดมทุน ปั้นศูนย์ซ่อมบำรุงอากาศยาน MRO อู่ตะเภา สู่ศูนย์กลางภูมิภาค",
+            "summary": "สำนักงานคณะกรรมการนโยบายเขตพัฒนาพิเศษภาคตะวันออก (สกพอ.) เดินหน้าระดมทุนเพื่อเร่งก่อสร้างโครงสร้างพื้นฐานศูนย์ซ่อมบำรุงอากาศยาน (MRO) ที่อู่ตะเภา มุ่งเป้าผลักดันไทยสู่การเป็นศูนย์กลางการบินของภูมิภาค",
+            "why": "เป็นโอกาสทางธุรกิจโดยตรงของ MK เนื่องจากการขยายโรงซ่อมบำรุงอากาศยานจะสร้างอุปสงค์วัสดุขัดเกรดการบิน จานขัดเตรียมผิว และสายพานเจียรความแม่นยำสูงที่มีมูลค่ากำไรสูง",
+            "action": "จัดทำเอกสารรับรองมาตรฐานสำหรับกลุ่มสินค้าวัสดุขัดเกรดการบินของ MK และเริ่มสร้างเครือข่ายติดต่อกับผู้รับเหมาและวิศวกรที่เกี่ยวข้องกับโครงการ MRO อู่ตะเภา"
           }
         },
         {
           "id": "20260919-3",
-          "tag": "furniture",
+          "tag": "steel",
           "rating": "amber",
-          "source": "ditp.go.th",
-          "date": "2025-10-08",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WZ0s3TnpGQ1JjZHJpVkhVQ19La3lwT2hjMTR3cXZlczhtby1WNnFQaUcxb2RUZ1FPcGgwQTRWa2t6TnN4d3NNUXF6bXVjOEpKY3FrWlFocm9nRnJ5UGdZOFd3?oc=5",
-          "title": "Thai Furniture Manufacturers Brace for Order Slump Under New US Tariff Measures",
-          "summary": "Thai furniture producers anticipate an order contraction following shifts in US import tariff regulations. Exporters are restructuring manufacturing pipelines and exploring alternative regional markets to reduce exposure to the US trade slowdown.",
-          "why": "Decreased production runs among furniture exporters soften demand for wide sanding belts, abrasive rolls, and finishing discs used on wood and metal frameworks.",
-          "action": "Accelerate marketing for DIY woodcraft and home improvement segments via Shopee and TikTok to counterbalance export factory declines.",
+          "source": "ข่าวสด",
+          "date": "2026-05-21",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15SXhSTE9NZ09fLVZFdGQ0M0JDVXlYWHM4Y1FzbDcxc0VZcFdrX1laUTRTR3VDZkZYcUNENkVUMTA4MnVOcUpGTi1xZk04NVNoUW14Z29vYXRRakEwOVE?oc=5",
+          "title": "Steel Associations Urge TISI to Phase Out Induction Furnace Mills Within Three Years",
+          "summary": "Ten Thai steel associations have petitioned the Thai Industrial Standards Institute (TISI) to ban substandard induction furnace (IF) steel manufacturing plants within three years. The campaign aims to combat structural market distortion caused by substandard domestic and imported steel.",
+          "why": "Eliminating low-standard IF mills shields certified, standardized domestic steelmakers and foundries, stabilizing regular factory operations and sustained usage of heavy-duty grinding and cutting discs.",
+          "action": "Target marketing and bulk supply agreements toward certified EAF steelmakers and structural metal fabricators who will capture market share as regulators clamp down.",
           "th": {
-            "title": "ผู้ผลิตเฟอร์นิเจอร์คาดคำสั่งซื้อลดลงภายใต้นโยบายภาษีนำเข้าใหม่ของสหรัฐฯ",
-            "summary": "กลุ่มผู้ผลิตและส่งออกเฟอร์นิเจอร์ไทยคาดการณ์ว่ายอดสั่งซื้อจะชะลอตัวลงจากนโยบายภาษีนำเข้าใหม่ของสหรัฐฯ ส่งผลให้โรงงานต้องปรับแผนการผลิตและหันไปเจาะตลาดอื่นทดแทน",
-            "why": "ยอดการผลิตเฟอร์นิเจอร์ส่งออกที่ลดลงจะส่งผลกระทบทางอ้อมต่อการใช้กระดาษทรายสายพานหน้ากว้าง กระดาษทรายม้วน และจานขัดโครงไม้และโลหะ",
-            "action": "เร่งผลักดันสินค้ากลุ่มงานช่างไม้ DIY และงานซ่อมแซมบ้านผ่านช่องทาง Shopee และ TikTok เพื่อชดเชยยอดขายจากโรงงานส่งออก"
+            "title": "10 สมาคมเหล็กยื่น สมอ. ร้องยกเลิกโรงงานเหล็กเตา IF ด้อยมาตรฐานภายใน 3 ปี",
+            "summary": "10 สมาคมผู้ผลิตเหล็กในประเทศร่วมยื่นข้อเสนอต่อ สมอ. ให้มีมาตรการสั่งยกเลิกโรงงานผลิตเหล็กจากเตาหลอม Induction Furnace (IF) ที่ไม่ได้มาตรฐานภายใน 3 ปี เพื่อแก้ปัญหาวิกฤตเหล็กด้อยคุณภาพทุ่มตลาด",
+            "why": "การกำจัดเตาหลอมที่ไร้มาตรฐานจะช่วยปกป้องโรงงานผลิตเหล็กมาตรฐานและโรงหล่อโลหะที่ใช้เตา EAF ให้ดำเนินกิจการต่อได้ ส่งผลให้ความต้องการหินเจียร ใบตัด และจานขัดงานหนักมีเสถียรภาพมากขึ้น",
+            "action": "มุ่งขยายฐานลูกค้าและทำข้อตกลงจำหน่ายวัสดุขัดกับโรงงานหลอมเหล็กและโครงสร้างโลหะที่ผ่านมาตรฐาน สมอ. ซึ่งจะได้ส่วนแบ่งการตลาดเพิ่มขึ้นจากการกวาดล้างนี้"
           }
         }
       ],
