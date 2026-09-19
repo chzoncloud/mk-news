@@ -1,7 +1,89 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-09-19",
+  "updated": "2026-09-20",
   "days": [
+    {
+      "date": "2026-09-20",
+      "summary": "Today's global briefing focuses on advanced finishing solutions in electronics and semiconductor sectors, regional industrial coating trends, and shifting EV manufacturing demands that directly impact surface preparation.",
+      "directCount": 4,
+      "th": {
+        "summary": "สรุปทิศทางโลกประจำวันนี้เน้นไปที่โซลูชันการขัดผิวขั้นสูงสำหรับอุตสาหกรรมอิเล็กทรอนิกส์และเซมิคอนดักเตอร์ แนวโน้มสีเคลือบอุตสาหกรรมระดับภูมิภาค และการเปลี่ยนแปลงความต้องการในการผลิต EV ที่ส่งผลกระทบโดยตรงต่อธุรกิจเตรียมพื้นผิว"
+      },
+      "items": [
+        {
+          "id": "20260920-w1",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-09-18",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONFd0S1M1TXBTcnc1bVNQS19jWVRfRnd1c1ZHYmhxbWs4T3RBcEk3NTVnaFFUNU9LUm9xaTEySl9DZzlSeWU3NUVnbV85N1Jxc0JDOHVlUzNYbGRuU25nYUVjOW9jNjZkN2F2QUUyRUNlSk9hVkZ6TzJmTzhnSnlWNEQzTy1iOXRSbUFLQWNoTlBTX3lZWTdtd2plNXRncHgyR3FYbjk5LWtmUk1SZjJ4SzJfZm5LTU1hRW84N244TjZKTzEwOXgtRw?oc=5",
+          "title": "Buffing Pads Market Forecast to 2035: Electronics and Semiconductor Finishing Demand Drives 4-6% CAGR",
+          "summary": "The buffing pads market is projected to see steady growth, driven largely by high-precision finishing requirements in the electronics and semiconductor industries.",
+          "why": "High-growth niches like electronics and semiconductor finishing require specialized pads and abrasives, offering higher profit margins than traditional heavy industrial applications.",
+          "action": "Monitor precision buffing pad technologies and explore high-margin micro-finishing product lines.",
+          "th": {
+            "title": "ตลาดแผ่นขัดเงาคาดเติบโตถึงปี 2035: ความต้องการตกแต่งผิวอิเล็กทรอนิกส์และเซมิคอนดักเตอร์หนุนอัตราเติบโต 4-6%",
+            "summary": "ตลาดแผ่นขัดเงาคาดว่าจะเติบโตอย่างต่อเนื่อง ขับเคลื่อนโดยความต้องการการขัดตกแต่งผิวความแม่นยำสูงในอุตสาหกรรมอิเล็กทรอนิกส์และเซมิคอนดักเตอร์",
+            "why": "กลุ่มตลาดเฉพาะทางอย่างการขัดผิวอิเล็กทรอนิกส์และเซมิคอนดักเตอร์ต้องการแผ่นขัดและวัสดุขัดผิวเฉพาะทาง ซึ่งให้อัตรากำไรสูงกว่างานอุตสาหกรรมทั่วไป",
+            "action": "ติดตามเทคโนโลยีแผ่นขัดเงาความแม่นยำสูงและสำรวจกลุ่มผลิตภัณฑ์ขัดละเอียดที่มีกำไรสูง"
+          }
+        },
+        {
+          "id": "20260920-w2",
+          "tag": "coating",
+          "rating": "green",
+          "source": "MarketsandMarkets",
+          "date": "2026-09-18",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcXFmaElYaEMzdkRGSGI2N3hRZmNYTjMtQXhybHZUMndkeDF2WHZRN1lHS3B2dVAwYTFQN1NXLXFpNFJCV2ViclRqbTRETDNyLWZlWmNGaVZvR1Q0YjlHb082NF9USVhjbEwtR3JTcmtyX3o3UkFpYlBIN2NGckFsX3lyQ3hXQjF0R0k3NUY2c3RhLVRXMXgzN2dpNGlIT1J4?oc=5",
+          "title": "North-America Industrial Coatings Market Size, Share, Trends, Growth Analysis Report, 2031",
+          "summary": "A comprehensive analysis projects consistent growth for the North American industrial coatings market through 2031, impacting upstream surface preparation needs.",
+          "why": "Growth in industrial coatings directly correlates with the volume of surface prep, sanding, and profiling needed before coating applications.",
+          "action": "Keep track of coating standard shifts in North America as they often set global manufacturing expectations.",
+          "th": {
+            "title": "รายงานขนาด ส่วนแบ่ง และแนวโน้มตลาดสีเคลือบอุตสาหกรรมในอเมริกาเหนือ ปี 2031",
+            "summary": "การวิเคราะห์คาดการณ์การเติบโตอย่างต่อเนื่องของตลาดสีเคลือบอุตสาหกรรมในอเมริกาเหนือจนถึงปี 2031 ซึ่งส่งผลต่อความต้องการเตรียมพื้นผิวก่อนเคลือบ",
+            "why": "การเติบโตของสีเคลือบอุตสาหกรรมมีความสัมพันธ์โดยตรงกับปริมาณงานเตรียมพื้นผิว การขัดกระดาษทราย และการปรับสภาพผิว",
+            "action": "ติดตามการเปลี่ยนแปลงมาตรฐานงานเคลือบในอเมริกาเหนือเนื่องจากมักกำหนดบรรทัดฐานการผลิตระดับโลก"
+          }
+        },
+        {
+          "id": "20260920-w3",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-09-10",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVjkzSTlDYzItRzJSVXhQSjc1a0ttQ0dIRVYxRDgxaHFiQ0x3c1ZsLTdZQ0RRSk04bmhjdHQ4ZGJrV0lLVk45XzQ5ZzQwN1VwMDNERWNWVEpJNTRVYzZqTFFmcEIyUUZRNG9LOHp6ODIxYm80eEZrcTBOdENvenJqdktfcm5neXlITEZSRXNQclF2ZUpGUXVLTmY3SmhCRUlHdldDVC11QjRnZ3UtYzRlbzAwYS1yaW5oZV8zWmRMY2k?oc=5",
+          "title": "Smart-factory wiring woes: EVs demand automation now, not later",
+          "summary": "EV manufacturers face complex assembly and wiring challenges, forcing plants to accelerate automation and precision robotic integration.",
+          "why": "As EV production lines automate body finishing and component deburring, demand shifts toward robotic-compatible abrasives and automated surface tools.",
+          "action": "Prepare product offerings for automated robotic finishing systems used in modern EV production lines.",
+          "th": {
+            "title": "ปัญหาการเดินสายไฟในโรงงานอัจฉริยะ: รถยนต์ EV ต้องการระบบอัตโนมัติเดี๋ยวนี้ ไม่ใช่รอวันหน้า",
+            "summary": "ผู้ผลิต EV เผชิญกับความท้าทายในการประกอบและเดินสายไฟที่ซับซ้อน บังคับให้โรงงานต้องเร่งนำระบบอัตโนมัติและหุ่นยนต์ความแม่นยำสูงมาใช้",
+            "why": "เมื่อสายการผลิต EV หันมาใช้ระบบอัตโนมัติในการตกแต่งตัวถังและลบครีบชิ้นส่วน ความต้องการจึงเปลี่ยนไปสู่วัสดุขัดที่รองรับหุ่นยนต์และเครื่องมือเตรียมพื้นผิวอัตโนมัติ",
+            "action": "เตรียมกลุ่มผลิตภัณฑ์สำหรับระบบขัดผิวด้วยหุ่นยนต์อัตโนมัติที่ใช้ในสายการผลิต EV สมัยใหม่"
+          }
+        },
+        {
+          "id": "20260920-w4",
+          "tag": "coating",
+          "rating": "white",
+          "source": "Market Research Future",
+          "date": "2026-09-15",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTUJJU002LVplS1Fad25fNTR6ODZnQXlSeE9KVjRTVWNIM3RiZDZYVktLbWlRX1NKUElqSnZkSEdDeGFLLWRhUVZhV3BMbnNWNjR0WVBuM1NaWW04Q1dTVk5Mb0liWEFJTGw2UnQ3Z2hLUFk2aV9hNlZiRmxrZ3l2M1o3aFZrQzJHRktfeTRLa2RYMXh5?oc=5",
+          "title": "Waterborne Acrylic Coatings Market Size, Share & Growth Report 2035 | MRFR",
+          "summary": "The waterborne acrylic coatings market is expanding steadily as environmental regulations push industries toward eco-friendly coating formulas.",
+          "why": "Eco-friendly coatings change how surfaces react to sanding and inter-coat adhesion, influencing abrasive grit selection.",
+          "action": "Note the shift toward waterborne systems and ensure abrasive clogging resistance matches softer or alternative coating layers.",
+          "th": {
+            "title": "รายงานขนาด ส่วนแบ่ง และการเติบโตของตลาดสีเคลือบอะคริลิกสูตรน้ำ ปี 2035",
+            "summary": "ตลาดสีเคลือบอะคริลิกสูตรน้ำขยายตัวอย่างต่อเนื่อง เนื่องจากกฎระเบียบด้านสิ่งแวดล้อมผลักดันให้อุตสาหกรรมหันมาใช้สูตรสีที่เป็นมิตรต่อสิ่งแวดล้อม",
+            "why": "สีเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมเปลี่ยนพฤติกรรมของพื้นผิวเมื่อผ่านการขัดและการยึดเกาะระหว่างชั้น ซึ่งมีผลต่อการเลือกเบอร์กระดาษทราย",
+            "action": "สังเกตการเปลี่ยนผ่านสู่ระบบสูตรน้ำ และตรวจสอบว่ากระดาษทรายมีความต้านทานการอุดตันที่เหมาะสมกับชั้นเคลือบประเภทใหม่ๆ"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-09-19",
       "summary": "Today's briefing focuses on advanced surface preparation and semiconductor finishing, alongside shifts in the global steel and powder coatings sectors that directly impact metal fabrication and surface finishing supply chains.",
@@ -866,88 +948,6 @@ window.WORLD_ARCHIVE = {
             "summary": "การตรวจสอบว่าตลาดเหล็กทั่วโลกกำลังจัดการกับปัญหาcapaส่วนเกินและการกีดกันทางการค้าระหว่างประเทศที่เพิ่มขึ้นอย่างไร",
             "why": "ปริมาณการผลิตเหล็กและอัตราการเดินเครื่องของโรงงานมีอิทธิพลโดยตรงต่อความต้องการในภูมิภาคสำหรับล้อเจียรและใบตัดเกรดใช้งานหนัก",
             "action": "จับตาอัตราการใช้กำลังการผลิตของโรงงานเหล็กในภูมิภาคเพื่อคาดการณ์ความเปลี่ยนแปลงของความต้องการใช้วัสดุสิ้นเปลืองในงานแปรรูปโลหะ"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-09-06",
-      "summary": "Today's briefing highlights steady growth in precision finishing technologies, specifically surface conditioning discs and ceramic flap discs looking out to 2035, alongside structural steel dynamics and industrial coatings expansions.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปข่าวประจำวันนี้เน้นย้ำการเติบโตอย่างต่อเนื่องของเทคโนโลยีการขัดแต่งผิวความแม่นยำสูง เช่น แผ่นขัดปรับสภาพผิว (Surface conditioning discs) และแผ่นเจียรผ้าทรายหลังแข็งเซรามิก (Ceramic flap discs) มองไปจนถึงปี 2035 ควบคู่ไปกับพลวัตของโครงสร้างเหล็กและการขยายตัวของอุตสาหกรรมสีเคลือบอุตสาหกรรม"
-      },
-      "items": [
-        {
-          "id": "20260906-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-09-05",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOM2FhNHJJNmhtUnNqajZ4cWIxU1dGSy1zNVJISzQzcEFQcDJiNUo3LUpVaDZ6eVFhTXRrNjhkTDVqQXp5SXBWRDlNX0RaeHhPRGFiSS1KWTRSRXdvTll2MzJicnJ2VTlBYXBRbHk2dTRCbmRTY1lFNFBBdFVkNnVNVi1vNkQxUQ?oc=5",
-          "title": "Surface Conditioning Discs Market Outlook to 2035",
-          "summary": "A comprehensive market outlook highlights steady long-term demand for surface conditioning discs out to 2035, driven by automated surface preparation and metal finishing needs.",
-          "why": "Surface conditioning discs are core consumable products for deburring, blending, and cleaning in metal fabrication, representing a high-margin product line.",
-          "action": "Ensure steady inventory and explore premium non-woven surface conditioning options for local metalworking clients.",
-          "th": {
-            "title": "แนวโน้มตลาดแผ่นขัดปรับสภาพผิว (Surface Conditioning Discs) ถึงปี 2035",
-            "summary": "รายงานแนวโน้มตลาดระบุถึงความต้องการแผ่นขัดปรับสภาพผิวที่เติบโตอย่างต่อเนื่องจนถึงปี 2035 ขับเคลื่อนโดยกระบวนการเตรียมพื้นผิวอัตโนมัติและความต้องการงานขัดโลหะ",
-            "why": "แผ่นขัดปรับสภาพผิวเป็นวัสดุสิ้นเปลืองหลักสำหรับงานลบคม ขัดเกลี่ย และทำความสะอาดในอุตสาหกรรมขึ้นรูปโลหะ ซึ่งเป็นกลุ่มผลิตภัณฑ์ที่มีอัตรากำไรดี",
-            "action": "รักษาระดับสต็อกให้มั่นคงและสำรวจทางเลือกแผ่นขัด non-woven เกรดพรีเมียมเพื่อเสนอให้ลูกค้างานโลหะในประเทศ"
-          }
-        },
-        {
-          "id": "20260906-w2",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "Market Research Future",
-          "date": "2026-08-24",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY0JpWXlQSC1LeGU2eUdGRW1zTEZ4amNoRXAyUWcxcnpWbEdzWmprSTBFM1htcllTNmQtdlRENmZ2NlhXbV9oNTlJbnJ0UjV5cENzZC1yTUdwM21YRi0wZUxBd1l6ODNDM1NxSUdQcFMwMGpCRnJuY041elNoT1RSRA?oc=5",
-          "title": "Ceramic Flap Disc Market Size, Share & Growth Report 2035 | MRFR",
-          "summary": "The ceramic flap disc market is expanding robustly through 2035, propelled by the demand for high-performance grain technologies that offer faster stock removal and longer lifespan.",
-          "why": "Ceramic abrasives represent the premium segment of grinding products, crucial for heavy industrial steel fabrication and demanding automotive applications.",
-          "action": "Promote ceramic grain flap discs to industrial accounts looking for higher productivity and lower total cost of grinding.",
-          "th": {
-            "title": "รายงานขนาด ส่วนแบ่ง และการเติบโตของตลาดแผ่นเจียรผ้าทรายหลังแข็งเซรามิก (Ceramic Flap Disc) ปี 2035",
-            "summary": "ตลาดแผ่นเจียรผ้าทรายหลังแข็งเซรามิกกำลังขยายตัวอย่างแข็งแกร่งจนถึงปี 2035 ขับเคลื่อนด้วยความต้องการเทคโนโลยีเมล็ดทรายประสิทธิภาพสูงที่ช่วยให้กินเนื้องานได้เร็วและมีอายุการใช้งานยาวนานขึ้น",
-            "why": "วัสดุขัดเซรามิกถือเป็นกลุ่มพรีเมียมของผลิตภัณฑ์งานเจียร ซึ่งมีความสำคัญต่ออุตสาหกรรมโครงสร้างเหล็กหนักและงานยานยนต์ที่ต้องการความแม่นยำสูง",
-            "action": "โปรโมทแผ่นเจียรผ้าทรายเซรามิกให้กับกลุ่มลูกค้าอุตสาหกรรมที่มองหาผลผลิตที่สูงขึ้นและต้นทุนรวมในการขัดที่ต่ำลง"
-          }
-        },
-        {
-          "id": "20260906-w3",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-09-05",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONHlWRE0td0ZPazJsLXVIUWdhNG96MFB5VXhhcld4Nmh3dHlKOUZSR0ZheXVCTjRreUpudFJTeHdoT2hJTFEzS2c1V1RvOGpiV3ByRjRRdFVreFVVeDJPR3FHTG5oSnp0TTF1anZWOVIzN043VF9XUWhDQ3ZvNEhqdUFtQjVDZw?oc=5",
-          "title": "Microfinishing Film Sheets Market Outlook to 2035",
-          "summary": "Demand for microfinishing film sheets is projected to grow steadily toward 2035, driven by ultra-precision surface finishing requirements in electronics, automotive components, and bearings.",
-          "why": "Film-backed abrasives offer exceptional surface uniformity compared to paper or cloth, making them essential for high-end precision polishing.",
-          "action": "Keep an eye on precision film product lines for future industrial finishing upgrades in high-tech manufacturing.",
-          "th": {
-            "title": "แนวโน้มตลาดแผ่นฟิล์มขัดละเอียดพิเศษ (Microfinishing Film Sheets) ถึงปี 2035",
-            "summary": "ความต้องการแผ่นฟิล์มขัดละเอียดพิเศษคาดว่าจะเติบโตอย่างมั่นคงจนถึงปี 2035 ขับเคลื่อนโดยความต้องการงานขัดผิวความละเอียดสูงในอุตสาหกรรมอิเล็กทรอนิกส์ ชิ้นส่วนยานยนต์ และตลับลูกปืน",
-            "why": "กระดาษทรายหรือแผ่นขัดแบบฟิล์ม (film-backed) ให้ความเรียบสม่ำเสมอของพื้นผิวสูงมากเมื่อเทียบกับกระดาษหรือผ้า จึงจำเป็นสำหรับงานขัดเงาความแม่นยำสูง",
-            "action": "ติดตามกลุ่มผลิตภัณฑ์ฟิล์มขัดความละเอียดสูงเพื่อรองรับการยกระดับงานขัดผิวอุตสาหกรรมไฮเทคในอนาคต"
-          }
-        },
-        {
-          "id": "20260906-w4",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "Shanghai Metals Market",
-          "date": "2026-05-19",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMmw1akRRMFZCQ2I5NGhHdE1NOXhoaE1GY0h5UmxlQVNUVGxHTko2U0NBQ0o0Q19ZYmZ1VnBCTTB6a2JJQTFNOUpDSUtpWXdaR3hkeGhlOXF4dF9yUElCd1ZkWTl4MmZGOWhVeUlXc2VCMXFCOHQzZ0ZGZ1RtZ3p6aUNObEczWFhKMkdKQ3JuRWF5SjVNZmpOQVBaSGs4TWJKS1lVa0VTdmoxdDBQTF8zRDlxME1qeEtOUzJzSTBERURobWltWTlVUlpaZ3d2WlFRNEY1b0UwbVVfLXc0cXBZ?oc=5",
-          "title": "Nucor: 100% EAF, High Profits, and Vertical Integration Mitigating Costs",
-          "summary": "Analysis of Nucor highlights how a 100% Electric Arc Furnace (EAF) model combined with vertical integration optimizes cost structures and maintains profitability in the steel sector.",
-          "why": "Steel production methods dictate how metal surfaces are treated and welded, influencing the types of grinding and cleaning discs required by metal fabricators.",
-          "action": "Monitor EAF steel processing trends as cleaner scrap-based steel fabrication grows globally.",
-          "th": {
-            "title": "Nucor: ใช้เตาหลอมไฟฟ้า (EAF) 100%, กำไรสูง และการบูรณาการในแนวดิ่งเพื่อลดต้นทุน",
-            "summary": "วิเคราะห์บริษัท Nucor ถึงความสำเร็จในการใช้เตาหลอมไฟฟ้า (EAF) 100% ร่วมกับการบูรณาการธุรกิจเพื่อควบคุมต้นทุนและรักษาผลกำไรในอุตสาหกรรมเหล็ก",
-            "why": "กระบวนการผลิตเหล็กเป็นตัวกำหนดลักษณะการจัดการผิวและงานเชื่อมโลหะ ซึ่งมีผลต่อประเภทของแผ่นตัด แผ่นเจียร และแผ่นทำความสะอาดที่โรงงานแปรรูปโลหะต้องใช้",
-            "action": "ติดตามแนวโน้มการแปรรูปเหล็กด้วยเตา EAF เนื่องจากอุตสาหกรรมเหล็กจากเศษเหล็กรีไซเคิลกำลังเติบโตทั่วโลก"
           }
         }
       ]
