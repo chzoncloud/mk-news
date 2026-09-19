@@ -4,10 +4,10 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-09-19",
-      "summary": "Today's briefing features 3 curated signals focusing on advanced semiconductor and electronics finishing, automotive composite structures, and global metal industry shifts.",
+      "summary": "Today's briefing focuses on advanced surface preparation and semiconductor finishing, alongside shifts in the global steel and powder coatings sectors that directly impact metal fabrication and surface finishing supply chains.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปข่าววันนี้ประกอบด้วย 3 ข้อมูลสำคัญที่เน้นเรื่องการขัดแต่งในอุตสาหกรรมอิเล็กทรอนิกส์และเซมิคอนดักเตอร์ขั้นสูง โครงสร้างคอมโพสิตยานยนต์ และการเปลี่ยนแปลงในอุตสาหกรรมโลหะโลก"
+        "summary": "สรุปกระแสโลกวันนี้เน้นเรื่องการเตรียมพื้นผิวขั้นสูงและการขัดแต่งชิ้นส่วนอิเล็กทรอนิกส์ รวมถึงการเปลี่ยนแปลงในอุตสาหกรรมเหล็กและสีฝุ่นระดับโลก ซึ่งส่งผลกระทบโดยตรงต่อห่วงโซ่อุปทานงานโลหะและการขัดผิว"
       },
       "items": [
         {
@@ -15,53 +15,53 @@ window.WORLD_ARCHIVE = {
           "tag": "abrasive",
           "rating": "green",
           "source": "IndexBox",
-          "date": "2026-09-18",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONFd0S1M1TXBTcnc1bVNQS19jWVRfRnd1c1ZHYmhxbWs4T3RBcEk3NTVnaFFUNU9LUm9xaTEySl9DZzlSeWU3NUVnbV85N1Jxc0JDOHVlUzNYbGRuU25nYUVjOW9jNjZkN2F2QUUyRUNlSk9hVkZ6TzJmTzhnSnlWNEQzTy1iOXRSbUFLQWNoTlBTX3lZWTdtd2plNXRncHgyR3FYbjk5LWtmUk1SZjJ4SzJfZm5LTU1hRW84N244TjZKTzEwOXgtRw?oc=5",
-          "title": "Buffing Pads Market Forecast to 2035: Electronics and Semiconductor Finishing Demand Drives 4-6% CAGR",
-          "summary": "The global buffing pads market is projected to grow steadily at a 4-6% CAGR through 2035, heavily driven by demanding finishing requirements in electronics and semiconductor manufacturing.",
-          "why": "High-precision electronics and semiconductor finishing require specialized buffing and polishing media, opening high-margin niches beyond traditional metalworking.",
-          "action": "Explore sourcing high-end polishing and buffing pads tailored for precision electronics and cleanroom applications.",
+          "date": "2026-09-13",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNampPT2tfdEQzcFJFejdVSjM3bGtXSmZUNlFBQWFiTHlEa0ZiLWswbHZNNkdNV0pJaFFnZ2I1NXhQWjc3RlNqVTRGQ09HcTVvYjlPSno5dGtramktX1FKN3hGOFhTeGJfZjJ6dGxtSDF2Yi14VGZwYlRydFMtM3VVdW0wVU9yWVlPNDlweFQ2c0pSN3FNSS03Yk4zRUFsVlB0cGJybHZKV1h5Yzc3OVBVdWZaaEp4NDBWRTVHYXlpbEVOaDF0Z29BODFnZGFuRUVXNVlfVw?oc=5",
+          "title": "Sandpaper Sheets Coarse Market Forecast to 2035: Growth Accelerates on Electronics and Metal Finishing Demand",
+          "summary": "Coarse sandpaper sheets demand is projected to see steady growth through 2035, heavily driven by electronics manufacturing and metal finishing requirements.",
+          "why": "Highlights that traditional coarse sandpaper remains critical for high-tech metal and electronic component manufacturing, not just wood.",
+          "action": "Ensure our heavy-duty and coarse sandpaper inventory aligns with industrial metal and precision finishing specs.",
           "th": {
-            "title": "ตลาดบัฟฟิ่งแพดเติบโตสู่ปี 2035: ความต้องการขัดแต่งอิเล็กทรอนิกส์และเซมิคอนดักเตอร์ดันอัตราเติบโต 4-6%",
-            "summary": "ตลาดบัฟฟิ่งแพดทั่วโลกคาดว่าจะเติบโตอย่างต่อเนื่องด้วยอัตรา CAGR 4-6% จนถึงปี 2035 ขับเคลื่อนโดยความต้องการงานขัดแต่งที่มีความแม่นยำสูงในอุตสาหกรรมอิเล็กทรอนิกส์และเซมิคอนดักเตอร์",
-            "why": "งานขัดแต่งชิ้นส่วนอิเล็กทรอนิกส์และความแม่นยำสูงต้องใช้วัสดุขัดและขัดเงาเฉพาะทาง ซึ่งสร้างโอกาสในตลาดเฉพาะกลุ่มที่มีกำไรสูงกว่างานโลหะทั่วไป",
-            "action": "พิจารณาจัดหาแผ่นขัดเงาและบัฟฟิ่งเกรดสูงที่ออกแบบมาสำหรับงานอิเล็กทรอนิกส์และความแม่นยำ"
+            "title": "ตลาดกระดาษทรายหยาบคาดการณ์ถึงปี 2035: เติบโตเร่งตัวตามความต้องการในอุตสาหกรรมอิเล็กทรอนิกส์และการขัดโลหะ",
+            "summary": "ความต้องการกระดาษทรายหยาบคาดว่าจะเติบโตอย่างต่อเนื่องจนถึงปี 2035 โดยขับเคลื่อนหลักจากภาคการผลิตอิเล็กทรอนิกส์และการตกแต่งโลหะ",
+            "why": "แสดงให้เห็นว่ากระดาษทรายหยาบแบบดั้งเดิมยังคงมีความสำคัญต่อการผลิตโลหะไฮเทคและชิ้นส่วนอิเล็กทรอนิกส์ ไม่ใช่แค่งานไม้เท่านั้น",
+            "action": "ตรวจสอบสต็อกกระดาษทรายหยาบและงานหนักให้สอดคล้องกับสเปกของอุตสาหกรรมโลหะและการขัดผิวความแม่นยำสูง"
           }
         },
         {
           "id": "20260919-w2",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Future Market Insights",
-          "date": "2026-02-12",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc2x3UG45VXZPYjdDdjdGZ21pUkZDc2FIZnlYOWdzRXlpM0ZlLXAzR2poSHN5YllRYk9EYkZLTW1fS1FZN3Z6ZEN1SXN5cTR5cXhkeGc3QjJxMG5WeFFVN0dRQjlZUmJ6NnhNN1lYWFMzUGE1dWhfY0FWd05FWnlwYlFDcGZfZzFPeC1fbWpn?oc=5",
-          "title": "Automotive Composite Leaf Springs Market",
-          "summary": "Automakers are increasingly adopting composite materials like fiberglass-reinforced plastics for suspension leaf springs to reduce vehicle weight.",
-          "why": "Composite materials require entirely different sanding, trimming, and surface preparation techniques compared to traditional spring steel.",
-          "action": "Monitor abrasive tools and specialized discs capable of cutting and finishing composite and fiberglass materials cleanly without delamination.",
+          "tag": "coating",
+          "rating": "green",
+          "source": "MarketsandMarkets",
+          "date": "2026-08-23",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZXlFT2FNLWpkU3NtWlZ5azlmR3FjcmN4X192QjVTbVZvSlFuWW5XeFZkbXI2aDR5UlV5TExhMzNQSVp0WEd1R3gtUWg5VWZ3S2VIMjRCejFBcENNNkx3dVlTS1RzaEl6eDVpVFFaZDFEUlg2b3JfZV90aTZFck1XeUJsOEJHNy1GMVVfZVpoTHY?oc=5",
+          "title": "China Powder Coatings Market Size, Share, Trends, Growth Analysis Report, 2031",
+          "summary": "The powder coatings market in China continues to expand, driven by environmental regulations and durable finish requirements across manufacturing sectors.",
+          "why": "Powder coating applications require extensive pre-treatment, sanding, and surface preparation before coating is applied.",
+          "action": "Monitor growth trends in powder coating pre-treatment methods to identify emerging surface preparation needs.",
           "th": {
-            "title": "ตลาดแหนบสปริงคอมโพสิตสำหรับยานยนต์เติบโต",
-            "summary": "ค่ายรถยนต์หันมาใช้วัสดุคอมโพสิต เช่น พลาสติกเสริมใยแก้ว สำหรับแหนบกันสะเทือนมากขึ้นเพื่อลดน้ำหนักตัวรถ",
-            "why": "วัสดุคอมโพสิตต้องการกระบวนการขัด การตัดแต่ง และการเตรียมผิวที่แตกต่างจากเหล็กสปริงแบบดั้งเดิมอย่างสิ้นเชิง",
-            "action": "ติดตามเครื่องมือขัดและแผ่นขัดพิเศษที่สามารถตัดและแต่งวัสดุคอมโพสิตและใยแก้วได้เรียบเนียนโดยไม่เกิดการแยกชั้น"
+            "title": "รายงานขนาด ส่วนแบ่ง และแนวโน้มตลาดสีฝุ่นในประเทศจีน ปี 2031",
+            "summary": "ตลาดสีฝุ่นในจีนยังคงขยายตัวอย่างต่อเนื่อง ขับเคลื่อนด้วยกฎระเบียบด้านสิ่งแวดล้อมและความต้องการพื้นผิวที่ทนทานในภาคการผลิต",
+            "why": "กระบวนการพ่นสีฝุ่นต้องอาศัยการเตรียมพื้นผิว การขัด และการปรับสภาพผิวชิ้นงานอย่างละเอียดก่อนพ่นเสมอ",
+            "action": "ติดตามแนวโน้มการเติบโตของวิธีเตรียมพื้นผิวก่อนพ่นสีฝุ่น เพื่อมองหาความต้องการวัสดุขัดผิวใหม่ๆ"
           }
         },
         {
           "id": "20260919-w3",
           "tag": "steel",
           "rating": "amber",
-          "source": "S&P Global",
-          "date": "2026-01-12",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
-          "title": "Global steel industry battles surplus supply, protectionism",
-          "summary": "The global steel sector continues to face overcapacity issues alongside rising trade protectionism and shifting regional supply chains.",
-          "why": "Steel production volume and mill operating rates directly influence industrial demand for heavy grinding wheels, deburring products, and metal surface prep tools.",
-          "action": "Keep an eye on regional steel mill utilization rates to anticipate shifts in local metal fabrication and heavy industrial abrasive consumption.",
+          "source": "BNamericas",
+          "date": "2026-06-08",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMnhGVWhxLUFaQUQ4Ym16T3hDVTM1cDZHYnV4aGFEUGgwRkIzemRVQjlINy04dnc4NkpDemhZczJLOVpzdmJaNG1Xa0QzQ3lRLWxzblhReWdoVlZ0ZnR1ZmhHbkhlM2hxWmhNT19VSnRPSjJQdGFwUXJrRW82NjZmNGcwUEhDaFBIQzJKekI3N01iQQ?oc=5",
+          "title": "US tariffs amplify China steel pressure on Mexico",
+          "summary": "Global trade barriers and shifting steel supply chains are creating regional imbalances in metal availability and pricing dynamics.",
+          "why": "Changes in global steel trade patterns affect local metal fabrication volumes, directly influencing regional demand for grinding and deburring products.",
+          "action": "Keep an eye on metal import flows and local steel processing activity as a leading indicator for industrial abrasive consumption.",
           "th": {
-            "title": "อุตสาหกรรมเหล็กโลกเผชิญหน้ากับภาวะล้นตลาดและลัทธิกีดกันทางการค้า",
-            "summary": "ภาคอุตสาหกรรมเหล็กทั่วโลกยังคงเผชิญกับปัญหากำลังการผลิตส่วนเกิน ควบคู่ไปกับมาตรการกีดกันทางการค้าและห่วงโซ่อุปทานที่เปลี่ยนไป",
-            "why": "ปริมาณการผลิตเหล็กและอัตราการเดินเครื่องของโรงงานส่งผลโดยตรงต่อความต้องการใช้งานหินเจียร แผ่นลบคม และเครื่องมือเตรียมพื้นผิวโลหะ",
-            "action": "ติดตามอัตราการใช้กำลังการผลิตของโรงงานเหล็กในภูมิภาคเพื่อคาดการณ์ความต้องการใช้วัสดุขัดในงานแปรรูปโลหะ"
+            "title": "ภาษีศุลกากรของสหรัฐฯ เพิ่มแรงกดดันเหล็กจีนในเม็กซิโก",
+            "summary": "มาตรการกีดกันทางการค้าและห่วงโซ่อุปทานเหล็กที่เปลี่ยนไปกำลังสร้างความไม่สมดุลระดับภูมิภาคในด้านความพร้อมและราคาโลหะ",
+            "why": "การเปลี่ยนแปลงของรูปแบบการค้าเหล็กโลกส่งผลกระทบต่อปริมาณการผลิตแปรรูปโลหะในท้องถิ่น ซึ่งเชื่อมโยงโดยตรงกับความต้องการผลิตภัณฑ์ลับคมและขัดลบคม",
+            "action": "ติดตามกระแสการนำเข้าโลหะและกิจวัตรการแปรรูปเหล็กในท้องถิ่น เพื่อใช้เป็นดัชนีชี้วัดล่วงหน้าสำหรับปริมาณการใช้วัสดุขัด"
           }
         }
       ]
