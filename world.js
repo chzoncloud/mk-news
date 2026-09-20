@@ -1,7 +1,89 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-09-20",
+  "updated": "2026-09-21",
   "days": [
+    {
+      "date": "2026-09-21",
+      "summary": "Today's briefing highlights niche high-growth abrasive segments driven by electronics and semiconductor finishing, alongside European coatings innovations and industrial growth in Thailand.",
+      "directCount": 4,
+      "th": {
+        "summary": "สรุปประเด็นสำคัญวันนี้เน้นกลุ่มผลิตภัณฑ์วัสดุขัดผิวเฉพาะทางที่เติบโตสูงจากอุตสาหกรรมอิเล็กทรอนิกส์และเซมิคอนดักเตอร์ รวมถึงนวัตกรรมสารเคลือบในยุโรปและการเติบโตของภาคอุตสาหกรรมในไทย"
+      },
+      "items": [
+        {
+          "id": "20260921-w1",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-09-20",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYlNPVXBmWG5YRTBvcFB1LXlsUlpseU44QUV6UjdCUzZfQVZRTUtscVJUdmxNbThRazVpcjE5cEdta2gxX2N1TENvWE1FeWg1NmxaSGNTMDlrWVZHZVBMOGoxdmZTcVE4VHUzcDdmMjFzVEFNU3JvVTh2WFZUOFY2UHhRQ2lqb0ZYdGRBUXYydGYtMmROckE3ZHVKVWprekFVNndxNWNzSS1scy1XY2FvRHFQLURQcExiU3VLUmZVcDlpbm9IQUZYU0FVRVZiWEZBb2x0OFJSdFU?oc=5",
+          "title": "Zirconia Abrasive Grain Market to Accelerate on Electronics Finishing Demand, Forecast Points Higher Toward 2035",
+          "summary": "The zirconia abrasive grain market is projected to see steady growth through 2035, significantly supported by high-precision demands in electronics finishing.",
+          "why": "Zirconia grains are crucial for heavy-duty grinding and high-durability belts used in metal fabrication and precision parts.",
+          "action": "Consider exploring specialized zirconia grain inventories tailored for tech-component manufacturing.",
+          "th": {
+            "title": "ตลาดเม็ดทรายขัดเซอร์โคเนียเติบโตตามความต้องการตกแต่งชิ้นส่วนอิเล็กทรอนิกส์",
+            "summary": "ตลาดเม็ดทรายขัดเซอร์โคเนียคาดว่าจะเติบโตอย่างต่อเนื่องจนถึงปี 2035 โดยได้รับแรงหนุนสำคัญจากความต้องการความแม่นยำสูงในงานตกแต่งผิวอิเล็กทรอนิกส์",
+            "why": "เม็ดทรายเซอร์โคเนียมีความสำคัญมากสำหรับงานขัดหยาบและสายพานขัดความทนทานสูงที่ใช้ในงานโลหะและการผลิตชิ้นส่วนความแม่นยำสูง",
+            "action": "พิจารณาศึกษาและสต็อกสินค้ากลุ่มเม็ดทรายเซอร์โคเนียที่รองรับการผลิตชิ้นส่วนเทคโนโลยี"
+          }
+        },
+        {
+          "id": "20260921-w2",
+          "tag": "coating",
+          "rating": "green",
+          "source": "MarketsandMarkets",
+          "date": "2026-09-18",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaXU3LUZMbTh1MWl1RGJRcEJ1VzF4a2JFVkJ1dkNHbW44WHdKLXU0MlhLOEc1YTdtMjdQcWdVX3BBbGxnc3p2ZWJCakp5cU93d1U3Wmh2alB3cTFsMFF2VEY5YllGbnJ0V2lSZWJPa3llaGJTaXZWNTBibG9RUlhfNXpBdmE5VmM2VHRTZkhsNUpNaTlKRkJNUFpR?oc=5",
+          "title": "Thailand Industrial Coatings Market Size, Share, Trends, Growth Analysis Report, 2031",
+          "summary": "A comprehensive growth analysis report outlines expansion drivers for the industrial coatings sector in Thailand up to 2031.",
+          "why": "Industrial coating growth directly parallels surface preparation and pre-painting abrasive demand in local factories.",
+          "action": "Align local sales targets with segments experiencing high growth in industrial coatings.",
+          "th": {
+            "title": "รายงานวิเคราะห์แนวโน้มขนาดและส่วนแบ่งตลาดสารเคลือบอุตสาหกรรมในประเทศไทยถึงปี 2031",
+            "summary": "รายงานการวิเคราะห์การเติบโตระบุปัจจัยขับเคลื่อนการขยายตัวของภาคสารเคลือบอุตสาหกรรมในประเทศไทยจนถึงปี 2031",
+            "why": "การเติบโตของสารเคลือบอุตสาหกรรมมีความเชื่อมโยงโดยตรงกับความต้องการใช้วัสดุขัดเพื่อเตรียมพื้นผิวก่อนพ่นสีในโรงงานท้องถิ่น",
+            "action": "ปรับเป้าหมายการขายในประเทศให้สอดคล้องกับกลุ่มอุตสาหกรรมเคลือบผิวที่มีการเติบโตสูง"
+          }
+        },
+        {
+          "id": "20260921-w3",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "European Coatings",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
+          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
+          "summary": "Industry leaders explore how innovation, digital tools, and strict sustainability targets are reshaping the future of coatings.",
+          "why": "Surface treatment and sanding processes must adapt to new eco-friendly and smart-coated materials.",
+          "action": "Monitor European formulation shifts to anticipate upcoming requirements for surface prep.",
+          "th": {
+            "title": "กำหนดอนาคตยุคใหม่แห่งสารเคลือบ: น่องวัตกรรม ความยั่งยืน และพลังแห่งดิจิทัล",
+            "summary": "ผู้นำอุตสาหกรรมสำรวจวิธีที่น่องวัตกรรม เครื่องมือดิจิทัล และเป้าหมายความยั่งยืนกำลังปรับเปลี่ยนอนาคตของสารเคลือบผิว",
+            "why": "กระบวนการเตรียมพื้นผิวและการขัดกระดาษทรายต้องปรับตัวให้เข้ากับวัสดุเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมและมีความฉลาดล้ำสมัย",
+            "action": "ติดตามการเปลี่ยนแปลงสูตรสารเคลือบในยุโรปเพื่อคาดการณ์ความต้องการใหม่ในการเตรียมพื้นผิว"
+          }
+        },
+        {
+          "id": "20260921-w4",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "Market Research Future",
+          "date": "2026-09-15",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTUJJU002LVplS1Fad25fNTR6ODZnQXlSeE9KVjRTVWNIM3RiZDZYVktLbWlRX1NKUElqSnZkSEdDeGFLLWRhUVZhV3BMbnNWNjR0WVBuM1NaWW04Q1dTVk5Mb0liWEFJTGw2UnQ3Z2hLUFk2aV9hNlZiRmxrZ3l2M1o3aFZrQzJHRktfeTRLa2RYMXh5?oc=5",
+          "title": "Waterborne Acrylic Coatings Market Size, Share & Growth Report 2035",
+          "summary": "The waterborne acrylic coatings market is expanding steadily with a long-term outlook pointing toward robust growth by 2035.",
+          "why": "Shift toward waterborne systems changes substrate preparation and sanding profiles in wood and metal finishing.",
+          "action": "Note the rising preference for eco-friendly coating substrates which influence post-coating finishing steps.",
+          "th": {
+            "title": "รายงานขนาด ส่วนแบ่ง และการเติบโตของตลาดสารเคลือบอะคริลิกสูตรน้ำถึงปี 2035",
+            "summary": "ตลาดสารเคลือบอะคริลิกสูตรน้ำกำลังขยายตัวอย่างต่อเนื่อง โดยมีมุมมองระยะยาวชี้ไปที่การเติบโตที่แข็งแกร่งภายในปี 2035",
+            "why": "การเปลี่ยนผ่านสู่ระบบสูตรน้ำส่งผลต่อการเตรียมพื้นผิวและลักษณะงานขัดในอุตสาหกรรมไม้และโลหะ",
+            "action": "สังเกตความนิยมที่เพิ่มขึ้นของสารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อม ซึ่งมีผลต่อขั้นตอนการขัดตกแต่งขั้นสุดท้าย"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-09-20",
       "summary": "Today's global briefing highlights the growth in buffing pads and industrial coatings, alongside steel and EV manufacturing shifts that directly impact surface preparation demand.",
@@ -884,70 +966,6 @@ window.WORLD_ARCHIVE = {
             "summary": "ความต้องการเศษเหล็กทั่วโลกกำลังเติบโตตามการรีไซเคิลโลหะและการผลิตเหล็กด้วยเตาอาร์ไฟฟ้า (EAF) ที่ได้รับความนิยมมากขึ้น",
             "why": "กระบวนการจัดการและรีไซเคิลเศษเหล็กต้องพึ่งพาเครื่องมือตัด เจียร และทำความสะอาดผิวงานแบบใช้งานหนัก",
             "action": "ประเมินกลุ่มผลิตภัณฑ์ของเราสำหรับงานขึ้นรูปโลหะหนัก งานตัด และการใช้งานในลานรีไซเคิล"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-09-07",
-      "summary": "Today's briefing features 3 key global trends focusing on automotive manufacturing equipment shifts in China and Japan, plus steel market dynamics and global steel industry challenges.",
-      "directCount": 1,
-      "th": {
-        "summary": "สรุปข่าววันนี้ประกอบด้วย 3 แนวโน้มสำคัญระดับโลก เน้นการเปลี่ยนแปลงของอุปกรณ์การผลิตยานยนต์ในจีนและญี่ปุ่น ตลอดจนพลวัตของตลาดเหล็กและความท้าทายในอุตสาหกรรมเหล็กโลก"
-      },
-      "items": [
-        {
-          "id": "20260907-w1",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "MarketsandMarkets",
-          "date": "2026-08-19",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUEFHclR5NnZiRmQ3ZWs1QWMycFZkZlZVempvMXlNMGxrUXc1alpac0trZnhoVG5pRnRISVhlYlJmUkpLVHp5T1FFQi04ODdlVmRoMDBYckx4SHVONkVEQVcxNWxfcTRBNS1DTmstS2JyZTh4OVQzbk9lN3dHZkt6cUFqZHVBcmlVbWtkUGJSejJvZVdoc3Z5dTRUM2ZlMUZEdzNsLVM2VGpqdw?oc=5",
-          "title": "China Automotive Manufacturing Equipment Market Size, Share, Trends, Growth Analysis Report, 2030",
-          "summary": "Report analyzes market size, share, trends, and growth for China's automotive manufacturing equipment sector through 2030.",
-          "why": "Chinese automotive manufacturing scale heavily dictates the regional demand for high-end robotic sanding, grinding, and surface preparation machinery.",
-          "action": "Monitor Chinese equipment advancements to understand where automated finishing cells are heading.",
-          "th": {
-            "title": "รายงานตลาดอุปกรณ์การผลิตยานยนต์ของจีน ขนาด ส่วนแบ่ง แนวโน้ม และการเติบโตถึงปี 2030",
-            "summary": "รายงานวิเคราะห์ขนาด ส่วนแบ่ง แนวโน้ม และการเติบโตของภาคอุปกรณ์การผลิตยานยนต์ในประเทศจีนจนถึงปี 2030",
-            "why": "ขนาดการผลิตยานยนต์ของจีนส่งผลต่อความต้องการในภูมิภาคสำหรับเครื่องจักรขัด ขัดหยาบ และเตรียมพื้นผิวด้วยระบบอัตโนมัติขั้นสูง",
-            "action": "ติดตามความก้าวหน้าด้านอุปกรณ์ของจีนเพื่อทำความเข้าใจทิศทางของระบบขัดผิวอัตโนมัติ"
-          }
-        },
-        {
-          "id": "20260907-w2",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "MarketsandMarkets",
-          "date": "2026-08-21",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdDdrSGc1R3dmakpUZ2wwVGR5YVZ5R1VGU25SQklaQjFGWDR2SzRfUHNhcEcwdFB1R1BMZWtZSjBUYTNOM0Y0ajZJZlQwbThLQU1EQ2pvaUNucjdxN1ZyQzU4cFZIRXpKQ1NORm43SGRaUW1fLXdvZXczVkdQUmVVSjVwYk1KSk9VZmo2bmUybXlBRUFwV2syajFabi12clNXWVZXNUxKbnVPdw?oc=5",
-          "title": "Japan Automotive Manufacturing Equipment Market Size, Share, Trends, Growth Analysis Report, 2030",
-          "summary": "Comprehensive analysis of Japan's automotive manufacturing equipment market dynamics and growth projections toward 2030.",
-          "why": "Japanese automotive factories maintain extremely high precision standards for metal deburring and finishing, setting technological benchmarks.",
-          "action": "Observe Japanese precision automation standards for potential adoption in premium manufacturing sectors.",
-          "th": {
-            "title": "รายงานตลาดอุปกรณ์การผลิตยานยนต์ของญี่ปุ่น ขนาด ส่วนแบ่ง แนวโน้ม และการเติบโตถึงปี 2030",
-            "summary": "การวิเคราะห์เชิงลึกเกี่ยวกับพลวัตของตลาดอุปกรณ์การผลิตยานยนต์ในญี่ปุ่นและการคาดการณ์การเติบโตถึงปี 2030",
-            "why": "โรงงานยานยนต์ของญี่ปุ่นรักษามาตรฐานความแม่นยำสูงมากสำหรับการลบคมและตกแต่งโลหะ ซึ่งเป็นเกณฑ์มาตรฐานทางเทคโนโลยี",
-            "action": "ศึกษามอเตอร์และมาตรฐานระบบอัตโนมัติที่มีความแม่นยำสูงของญี่ปุ่นเพื่อปรับใช้ในภาคการผลิตระดับพรีเมียม"
-          }
-        },
-        {
-          "id": "20260907-w3",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "S&P Global",
-          "date": "2026-01-12",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
-          "title": "Global steel industry battles surplus supply, protectionism",
-          "summary": "An examination of how global steel markets are navigating overcapacity issues and rising international trade protectionism.",
-          "why": "Steel production volume and mill operating rates directly influence regional demand for heavy-duty grinding wheels and cut-off discs.",
-          "action": "Keep an eye on regional steel mill utilization rates to anticipate shifts in metal fabrication consumables demand.",
-          "th": {
-            "title": "อุตสาหกรรมเหล็กโลกต่อสู้กับภาวะอุปทานล้นตลาดและลัทธิกีดกันทางการค้า",
-            "summary": "การตรวจสอบว่าตลาดเหล็กทั่วโลกกำลังจัดการกับปัญหาcapaส่วนเกินและการกีดกันทางการค้าระหว่างประเทศที่เพิ่มขึ้นอย่างไร",
-            "why": "ปริมาณการผลิตเหล็กและอัตราการเดินเครื่องของโรงงานมีอิทธิพลโดยตรงต่อความต้องการในภูมิภาคสำหรับล้อเจียรและใบตัดเกรดใช้งานหนัก",
-            "action": "จับตาอัตราการใช้กำลังการผลิตของโรงงานเหล็กในภูมิภาคเพื่อคาดการณ์ความเปลี่ยนแปลงของความต้องการใช้วัสดุสิ้นเปลืองในงานแปรรูปโลหะ"
           }
         }
       ]
