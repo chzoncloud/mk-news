@@ -4,10 +4,10 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-09-21",
-      "summary": "Today's briefing highlights global shifts in robotic abrasive finishing, electronics-driven surface prep demand, and automotive AI manufacturing transformations that impact future tool consumption.",
+      "summary": "Today's briefing highlights critical shifts in abrasive grain demand, specifically driven by electronics finishing and semiconductor manufacturing, alongside industrial coatings market movements.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปกระแสโลกวันนี้เน้นการเปลี่ยนแปลงระดับโลกในด้านการขัดผิวด้วยระบบหุ่นยนต์ ความต้องการเตรียมพื้นผิวที่ขับเคลื่อนด้วยอุตสาหกรรมอิเล็กทรอนิกส์ และการเปลี่ยนผ่านสู่การผลิตรถยนต์ด้วย AI ซึ่งส่งผลต่อการบริโภคเครื่องมือขัดในอนาคต"
+        "summary": "สรุปข่าววันนี้เน้นการเปลี่ยนแปลงที่สำคัญของความต้องการใช้วัสดุขัดถู โดยเฉพาะจากอุตสาหกรรมตกแต่งชิ้นส่วนอิเล็กทรอนิกส์และเซมิคอนดักเตอร์ ควบคู่ไปกับแนวโน้มตลาดสารเคลือบอุตสาหกรรม"
       },
       "items": [
         {
@@ -15,53 +15,53 @@ window.WORLD_ARCHIVE = {
           "tag": "abrasive",
           "rating": "green",
           "source": "indexbox.io",
-          "date": "2026-09-15",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd0JtN1luVVV1bGZ1c0JHQlZVSjFvWWhUS080WDVlLUtxSGRYVENBcVFKLWhGQnFEbU9NSURhZTRjV3I0azVLdDhRd3RyYWhFZ0hMV0lLZWRGQkZQTUhFdHdrV1RBVXJSaHkwQUNkc01xWjVpZ1FCODVaLUh1WmFuQUloLTJ5SVFhYVdkVjFfVEpCYTNlM0JQdGh1OFFEQUNCMDhjaFZxc1dwR0pmcEtBUGZMdElucHVYSkNOcG9n?oc=5",
-          "title": "Flap Wheels Market Forecast to 2035: Robotic Finishing and Semiconductor Demand Drive Growth",
-          "summary": "The global market for flap wheels is accelerating, driven by automated robotic finishing processes and precision semiconductor component manufacturing.",
-          "why": "Flap wheels are core abrasive products used for heavy stock removal and blending. Growth in robotic automation means higher precision and consistent abrasive consumption.",
-          "action": "Monitor automated and robotic surface finishing trends to supply longer-lasting, high-consistency flap wheels.",
+          "date": "2026-09-20",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYlNPVXBmWG5YRTBvcFB1LXlsUlpseU44QUV6UjdCUzZfQVZRTUtscVJUdmxNbThRazVpcjE5cEdta2gxX2N1TENvWE1FeWg1NmxaSGNTMDlrWVZHZVBMOGoxdmZTcVE4VHUzcDdmMjFzVEFNU3JvVTh2WFZUOFY2UHhRQ2lqb0ZYdGRBUXYydGYtMmROckE3ZHVKVWprekFVNndxNWNzSS1scy1XY2FvRHFQLURQcExiU3VLUmZVcDlpbm9IQUZYU0FVRVZiWEZBb2x0OFJSdFU?oc=5",
+          "title": "Zirconia Abrasive Grain Market to Accelerate on Electronics Finishing Demand, Forecast Points Higher Toward 2035",
+          "summary": "The zirconia abrasive grain market is projected for strong growth through 2035, fueled heavily by high-precision finishing demands in the electronics and semiconductor sectors.",
+          "why": "Zirconia grains are premium high-durability abrasives used in demanding metal and heavy-duty grinding applications. Their growth in electronics indicates a shift toward tougher, more precise surface prep requirements.",
+          "action": "Monitor inventory levels and supplier pricing for zirconia-based abrasive belts and discs geared toward high-precision applications.",
           "th": {
-            "title": "ตลาดใบเจียรซ้อน (Flap Wheels) ถึงปี 2035: การขัดด้วยหุ่นยนต์และความต้องการเซมิคอนดักเตอร์ขับเคลื่อนการเติบโต",
-            "summary": "ตลาดโลกสำหรับใบเจียรซ้อนกำลังเติบโตอย่างรวดเร็ว ขับเคลื่อนด้วยกระบวนการขัดผิวด้วยหุ่นยนต์อัตโนมัติและการผลิตชิ้นส่วนเซมิคอนดักเตอร์ที่มีความแม่นยำสูง",
-            "why": "ใบเจียรซ้อนเป็นผลิตภัณฑ์กระดาษทรายและวัสดุขัดเงาหลักที่ใช้สำหรับการขัดลบเนื้อโลหะและการตกแต่งผิว การเติบโตของระบบอัตโนมัติด้วยหุ่นยนต์หมายถึงความต้องการความแม่นยำและการใช้วัสดุขัดที่มีความสม่ำเสมอสูงขึ้น",
-            "action": "ติดตามแนวโน้มการขัดผิวอัตโนมัติและด้วยหุ่นยนต์เพื่อจัดหาใบเจียรซ้อนที่มีอายุการใช้งานยาวนานและมีความสม่ำเสมอสูง"
+            "title": "ตลาดเม็ดทรายขัดเซอร์โคเนียเติบโตเร่งตัวจากความต้องการขัดตกแต่งชิ้นส่วนอิเล็กทรอนิกส์ คาดการณ์แนวโน้มพุ่งสูงถึงปี 2035",
+            "summary": "ตลาดเม็ดทรายขัดเซอร์โคเนียคาดว่าจะเติบโตอย่างแข็งแกร่งจนถึงปี 2035 โดยได้รับแรงหนุนหลักจากความต้องการขัดผิวที่มีความแม่นยำสูงในกลุ่มอุตสาหกรรมอิเล็กทรอนิกส์และเซมิคอนดักเตอร์",
+            "why": "ทรายขัดเซอร์โคเนียเป็นวัสดุขัดเกรดพรีเมียมที่มีความทนทานสูง ใช้ในงานเจียรโลหะหนักและการเตรียมพื้นผิวที่ต้องการความทนทาน การเติบโตในกลุ่มอิเล็กทรอนิกส์บ่งชี้ถึงความต้องการงานเตรียมพื้นผิวที่แข็งแกร่งและแม่นยำยิ่งขึ้น",
+            "action": "ติดตามระดับสินค้าคงคลังและราคาจากซัพพลายเออร์สำหรับกระดาษทรายสายพานและแผ่นขัดที่ทำจากเซอร์โคเนียสำหรับงานความแม่นยำสูง"
           }
         },
         {
           "id": "20260921-w2",
-          "tag": "auto",
+          "tag": "coating",
           "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-09-02",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUUpWSmpHLVowSXdiLUJqcFlpQ3ZfRmdQYjJiTVFCNk00ZW0tM0ZqenQtd2F4emNVNEdzT3Q3amZ3M050YnNuTldQZFQyTlgyX3ByekdEbkdlaURacG5yRlBUSEZucnBQalBmNzVadXVrSDdXcEd0d2t4UXptUzJ5dXZ6ckE1Q3RVV3IyUkY4SFdVSERveVJYem0yM3lNbWFUY1dXWHYyRFZ2cXdldWFqRmJTNE4tQ1RXWWp4N3NCN1h5Vmt3d3hEbkFPc2ZqT0k?oc=5",
-          "title": "A global AI manufacturing transformation at Hyundai Motor Group",
-          "summary": "Hyundai is implementing comprehensive AI and smart manufacturing transformations across its global production facilities.",
-          "why": "Advanced automotive manufacturing plants demand higher quality standards, tighter tolerances, and automated tooling feedback loops.",
-          "action": "Prepare to align product offerings with smart factory requirements that prioritize efficiency and defect reduction.",
+          "source": "MarketsandMarkets",
+          "date": "2026-09-18",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaEtDOWNDZy15X3RwNGVyTTBHaUZ3a1FrUU9rMmpMVnBwNGJ3Rk1WUm1vaERWUE10a1A0MVU0NmlWRzd0aUNYd1hYZmY2b0FVVmRXSUNvQ1NabUhTanpUekN5X3daQkNzUFVjUldMa244SDE1dFFtWWZ4MWZpMUJkMWtSQjVDTEVjc1ZVazdzT2M1aGJDTXFB?oc=5",
+          "title": "Europe Industrial Coatings Market Size, Share, Trends, Growth Analysis Report, 2031",
+          "summary": "European industrial coatings market analysis points to steady evolution through 2031, impacting manufacturing finishing standards and environmental regulations.",
+          "why": "Coating standards dictate surface preparation requirements. Changes in European industrial coatings often foreshadow global shifts in pre-treatment and sanding protocols.",
+          "action": "Keep an eye on European coating specification trends to anticipate future surface prep demands from global manufacturers.",
           "th": {
-            "title": "การเปลี่ยนผ่านสู่การผลิตระดับโลกด้วย AI ของฮุนได มอเตอร์ กรุ๊ป",
-            "summary": "ฮุนไดกำลังดำเนินการเปลี่ยนผ่านสู่ระบบ AI และการผลิตอัจฉริยะอย่างครอบคลุมทั่วทั้งโรงงานผลิตทั่วโลก",
-            "why": "โรงงานผลิตยานยนต์ขั้นสูงต้องการมาตรฐานคุณภาพที่สูงขึ้น ความคลาดเคลื่อนที่น้อยลง และระบบป้อนกลับของเครื่องมืออัตโนมัติ",
-            "action": "เตรียมความพร้อมในการปรับผลิตภัณฑ์ให้สอดคล้องกับข้อกำหนดของโรงงานอัจฉริยะที่ให้ความสำคัญกับประสิทธิภาพและการลดของเสีย"
+            "title": "รายงานขนาด ส่วนแบ่ง แนวโน้ม และการวิเคราะห์การเติบโตของตลาดสารเคลือบอุตสาหกรรมในยุโรปถึงปี 2031",
+            "summary": "การวิเคราะห์ตลาดสารเคลือบอุตสาหกรรมในยุโรปชี้ให้เห็นถึงการพัฒนาที่มั่นคงจนถึงปี 2031 ซึ่งส่งผลต่อมาตรฐานการตกแต่งพื้นผิวการผลิตและกฎระเบียบด้านสิ่งแวดล้อม",
+            "why": "มาตรฐานสารเคลือบเป็นตัวกำหนดข้อกำหนดในการเตรียมพื้นผิว การเปลี่ยนแปลงของสารเคลือบอุตสาหกรรมในยุโรปมักสะท้อนถึงแนวโน้มระดับโลกในด้านการเตรียมผิวและการขัด",
+            "action": "ติดตามแนวโน้มข้อกำหนดสารเคลือบของยุโรปเพื่อคาดการณ์ความต้องการเตรียมพื้นผิวในอนาคตจากผู้ผลิตระดับโลก"
           }
         },
         {
           "id": "20260921-w3",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "S&P Global",
-          "date": "2026-01-12",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
-          "title": "Global steel industry battles surplus supply, protectionism",
-          "summary": "The international steel market is facing persistent challenges from surplus production capacity and rising trade protectionism.",
-          "why": "Steel production volume and mill operating rates directly dictate the consumption of heavy grinding wheels, deburring products, and metal surface prep abrasives.",
-          "action": "Keep a close eye on regional steel mill utilization rates as an indicator of local industrial abrasive demand.",
+          "tag": "coating",
+          "rating": "white",
+          "source": "European Coatings",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
+          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
+          "summary": "Industry leaders discuss how innovation, sustainability goals, and digital integration are reshaping the future of the global coatings sector.",
+          "why": "General awareness of how paint and coating manufacturers are evolving helps us align our surface preparation solutions with modern finishing lines.",
+          "action": "Note sustainability and digital tracking trends in industrial manufacturing for long-term B2B positioning.",
           "th": {
-            "title": "อุตสาหกรรมเหล็กโลกต่อสู้กับภาวะอุปทานล้นตลาดและลัทธิกีดกันทางการค้า",
-            "summary": "ตลาดเหล็กระหว่างประเทศกำลังเผชิญกับความท้าทายอย่างต่อเนื่องจากกำลังการผลิตส่วนเกินและลัทธิกีดกันทางการค้าที่เพิ่มขึ้น",
-            "why": "ปริมาณการผลิตเหล็กและอัตราการเดินเครื่องของโรงงานส่งผลโดยตรงต่อการบริโภคหินเจียรขนาดใหญ่ ผลิตภัณฑ์ลบคม และวัสดุขัดเตรียมพื้นผิวโลหะ",
-            "action": "ติดตามอัตราการใช้กำลังการผลิตของโรงงานเหล็กในภูมิภาคอย่างใกล้ชิดเพื่อใช้เป็นตัวชี้วัดความต้องการใช้วัสดุขัดในภาคอุตสาหกรรมท้องถิ่น"
+            "title": "กำหนดอนาคตยุคใหม่แห่งสารเคลือบ: นวัตกรรม ความยั่งยืน และพลังแห่งดิจิทัล",
+            "summary": "ผู้นำอุตสาหกรรมร่วมหารือถึงวิธีที่นวัตกรรม เป้าหมายด้านความยั่งยืน และการบูรณาการดิจิทัลกำลังหลอมรวมอนาคตของภาคอุตสาหกรรมสารเคลือบโลก",
+            "why": "ความเข้าใจภาพรวมเกี่ยวกับการพัฒนาของผู้ผลิตสีและสารเคลือบช่วยให้เราปรับโซลูชันการเตรียมพื้นผิวให้สอดคล้องกับสายการผลิตสมัยใหม่ได้ดียิ่งขึ้น",
+            "action": "บันทึกแนวโน้มความยั่งยืนและการติดตามด้วยดิจิทัลในอุตสาหกรรมการผลิตเพื่อวางแผนกลยุทธ์ B2B ระยะยาว"
           }
         }
       ]
