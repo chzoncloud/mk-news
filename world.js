@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-09-21",
+  "updated": "2026-09-22",
   "days": [
+    {
+      "date": "2026-09-22",
+      "summary": "Today's global trend briefing highlights niche growth in advanced abrasive applications like robotic flap wheels for electronics finishing, alongside supply chain shifts in the global steel surplus.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปกระแสโลกประจำวันนี้เน้นการเติบโตเฉพาะกลุ่มของวัสดุขัดผิวขั้นสูง เช่น ใบเจียรผ้าทรายขัดแบบหุ่นยนต์สำหรับงานตกแต่งอิเล็กทรอนิกส์ ควบคู่ไปกับการเปลี่ยนแปลงของห่วงโซ่อุปทานในตลาดเหล็กส่วนเกินทั่วโลก"
+      },
+      "items": [
+        {
+          "id": "20260922-w1",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-09-15",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd0JtN1luVVV1bGZ1c0JHQlZVSjFvWWhUS080WDVlLUtxSGRYVENBcVFKLWhGQnFEbU9NSURhZTRjV3I0azVLdDhRd3RyYWhFZ0hMV0lLZWRGQkZQTUhFdHdrV1RBVXJSaHkwQUNkc01xWjVpZ1FCODVaLUh1WmFuQUloLTJ5SVFhYVdkVjFfVEpCYTNlM0JQdGh1OFFEQUNCMDhjaFZxc1dwR0pmcEtBUGZMdElucHVYSkNOcG9n?oc=5",
+          "title": "Flap Wheels Market Forecast to 2035: Robotic Finishing and Semiconductor Demand Drive Growth",
+          "summary": "The global demand for flap wheels is projected to grow steadily through 2035, significantly propelled by automated robotic finishing and semiconductor manufacturing needs.",
+          "why": "Flap wheels are a core product line for metal fabrication and deburring; rising automation means higher expectations for abrasive consistency and durability.",
+          "action": "Monitor high-durability flap wheels suited for robotic arm applications and precision metal finishing.",
+          "th": {
+            "title": "ตลาดใบเจียรผ้าทรายขัด (Flap Wheels) สู่ปี 2035: การขัดด้วยหุ่นยนต์และความต้องการเซมิคอนดักเตอร์ขับเคลื่อนการเติบโต",
+            "summary": "ความต้องการใบเจียรผ้าทรายขัดทั่วโลกคาดว่าจะเติบโตอย่างต่อเนื่องจนถึงปี 2035 โดยได้รับแรงหนุนสำคัญจากงานขัดผิวด้วยหุ่นยนต์อัตโนมัติและความต้องการในการผลิตเซมิคอนดักเตอร์",
+            "why": "ใบเจียรผ้าทรายขัดเป็นสินค้าหลักสำหรับงานขึ้นรูปโลหะและการลบคม การใช้ระบบอัตโนมัติที่เพิ่มขึ้นหมายถึงความคาดหวังที่สูงขึ้นต่อความสม่ำเสมอและความทนทานของวัสดุขัด",
+            "action": "ติดตามและคัดสรรใบเจียรผ้าทรายขัดที่มีความทนทานสูง ซึ่งเหมาะสำหรับการใช้งานกับแขนกลหุ่นยนต์และงานตกแต่งโลหะที่มีความแม่นยำสูง"
+          }
+        },
+        {
+          "id": "20260922-w2",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "S&P Global",
+          "date": "2026-01-12",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
+          "title": "Global steel industry battles surplus supply, protectionism",
+          "summary": "The worldwide steel sector continues to face overcapacity issues and rising trade protectionism, impacting regional metal pricing and manufacturing competition.",
+          "why": "Steel production volume directly correlates with local metal fabrication activity, surface grinding consumable usage, and customer cost pressures.",
+          "action": "Keep track of metal manufacturing output trends to anticipate fluctuations in local deburring and abrasive consumption.",
+          "th": {
+            "title": "อุตสาหกรรมเหล็กโลกเผชิญศึกอุปทานล้นตลาดและมาตรการกีดกันทางการค้า",
+            "summary": "ภาคอุตสาหกรรมเหล็กทั่วโกลยังคงเผชิญกับปัญหากำลัง 1 การผลิตส่วนเกินและมาตรการกีดกันทางการค้าที่เพิ่มขึ้น ซึ่งส่งผลกระทบต่อราคาระดับภูมิภาคและการแข่งขันในการผลิต",
+            "why": "ปริมาณการผลิตเหล็กมีความเชื่อมโยงโดยตรงกับกิจกรรมการแปรรูปโลหะในท้องถิ่น การใช้วัสดุสิ้นเปลืองสำหรับขัดผิว และแรงกดดันด้านต้นทุนของลูกค้า",
+            "action": "ติดตามแนวโน้มผลผลิตการผลิตโลหะเพื่อคาดการณ์ความผันผวนของการใช้งานวัสดุขัดและงานลบคมในท้องตลาด"
+          }
+        },
+        {
+          "id": "20260922-w3",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "Shanghai Metals Market",
+          "date": "2026-05-19",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMmw1akRRMFZCQ2I5NGhHdE1NOXhoaE1GY0h5UmxlQVNUVGxHTko2U0NBQ0o0Q19ZYmZ1VnBCTTB6a2JJQTFNOUpDSUtpWXdaR3hkeGhlOXF4dF9yUElCd1ZkWTl4MmZGOWhVeUlXc2VCMXFCOHQzZ0ZGZ1RtZ3p6aUNObEczWFhKMkdKQ3JuRWF5SjVNZmpOQVBaSGs4TWJKS1lVa0VTdmoxdDBQTF8zRDlxME1qeEtOUzJzSTBERURobWltWTlVUlpaZ3d2WlFRNEY1b0UwbVVfLXc0cXBZ?oc=5",
+          "title": "[SMM Global Steel Company Special] Nucor: 100% EAF, High Profits, and Vertical Integration Mitigating Costs",
+          "summary": "Analysis of Nucor highlights how electric arc furnace (EAF) steelmaking and vertical integration help major producers navigate cost pressures and market volatility.",
+          "why": "EAF steel production and metal recycling create different scale profiles for heavy fabrication plants that require heavy-duty grinding and cutting wheels.",
+          "action": "Observe how eco-friendly steel mill technology (EAF) influences local structural steel preparation requirements.",
+          "th": {
+            "title": "[SMM รายงานพิเศษบริษัทเหล็กโลก] Nucor: เตาหลอมไฟฟ้า 100% (EAF), กำไรสูง และการบูรณาการในแนวดิ่งเพื่อช่วยลดต้นทุน",
+            "summary": "การวิเคราะห์ Nucor เน้นย้ำว่าการผลิตเหล็กด้วยเตาอาร์คไฟฟ้า (EAF) และการบูรณาการในแนวดิ่งช่วยให้ผู้ผลิตรายใหญ่รับมือกับแรงกดดันด้านต้นทุนและความผันผวนของตลาดได้อย่างไร",
+            "why": "การผลิตเหล็กด้วยเตา EAF และการรีไซเคิลโลหะสร้างรูปแบบต้นทุนที่แตกต่างกันสำหรับโรงงานแปรรูปเหล็กหนัก ซึ่งต้องใช้ใบตัดและใบเจียรประสิทธิภาพสูง",
+            "action": "สังเกตว่าเทคโนโลยีโรงงานเหล็กที่เป็นมิตรต่อสิ่งแวดล้อม (EAF) ส่งผลต่อข้อกำหนดในการเตรียมผิวเหล็กโครงสร้างในท้องถิ่นอย่างไร"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-09-21",
       "summary": "Today's briefing highlights critical shifts in abrasive grain demand, specifically driven by electronics finishing and semiconductor manufacturing, alongside industrial coatings market movements.",
@@ -866,88 +930,6 @@ window.WORLD_ARCHIVE = {
             "summary": "ภาคธุรกิจเครื่องขัดไม้กำลังขยายตัวด้วยอัตราการเติบโตเฉลี่ยสะสมต่อปี (CAGR) ที่ 4.3% สะท้อนถึงความต้องการอุปกรณ์แปรรูปไม้อัตโนมัติที่มั่นคง",
             "why": "มีความเชื่อมโยงโดยตรงกับอุตสาหกรรมเฟอร์นิเจอร์ไม้และพื้น ซึ่งเป็นผู้ใช้รายใหญ่ของสายพานขัดและกระดาษทรายกลม",
             "action": "เสริมสร้างความร่วมมือกับซัพพลายเออร์เครื่องจักรงานไม้เพื่อเสนอโซลูชันวัสดุขัดที่สอดคล้องกัน"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-09-08",
-      "summary": "Today's briefing focuses on global manufacturing shifts, including performance coatings growth, robotic sanding advancements by Mirka, EV assembly expansion, and steel scrap market dynamics.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปข่าววันนี้เน้นการเปลี่ยนแปลงของภาคการผลิตระดับโลก ทั้งการเติบโตของตลาดสารเคลือบผิว เทคโนโลยีขัดผิวด้วยหุ่นยนต์จาก Mirka การขยายตัวของการประกอบรถยนต์ EV และแนวโน้มตลาดเศษเหล็ก"
-      },
-      "items": [
-        {
-          "id": "20260908-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "woodworkingnetwork.com",
-          "date": "2022-09-14",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdks1TWZwY2RMY21ZNl8zQ1hJZ201QnJzY3Bsb2gyc0NQajRiRHMtSkJ1QW9OX1JaTzVrYm15ZkFvclM2bjZ1cTJQZVlaYk1JWVpnQVpyanBkMFFTVEZCaG9ZQ0ttWTh2VnRNRGVtbzB4WUVCamVPbzc4MTdfbEdYQm5zem1QXzlaYk5XMHpPOU9IZ3Fsc3dKVG9VM01IX3dMdDRiMXNYRmJNN1pQN2hSOHFielVqQWxWWVVMUHc2NUdhOTkxaW5lY19mc1I?oc=5",
-          "title": "Mirka to feature robotic sanding, antistatic abrasives and more at SIBO",
-          "summary": "Mirka showcases advanced robotic sanding solutions and specialized antistatic abrasives tailored for automated manufacturing lines.",
-          "why": "Automation in sanding is becoming standard globally, shifting demand toward specialized industrial abrasives designed for robotic arms.",
-          "action": "Monitor customer demand for robotic-compatible abrasive discs and antistatic surface prep products.",
-          "th": {
-            "title": "Mirka นำเสนอระบบขัดด้วยหุ่นยนต์และกระดาษทรายป้องกันไฟฟ้าสถิตในงาน SIBO",
-            "summary": "Mirka จัดแสดงโซลูชันการขัดด้วยหุ่นยนต์ขั้นสูงและกระดาษทรายป้องกันไฟฟ้าสถิตที่ออกแบบมาสำหรับไลน์ผลิตอัตโนมัติ",
-            "why": "ระบบอัตโนมัติในการขัดกำลังกลายเป็นมาตรฐานสากล ผลักดันความต้องการสินค้ากลุ่มกระดาษทรายอุตสาหกรรมที่รองรับแขนกล",
-            "action": "ติดตามความต้องการของลูกค้าสำหรับแผ่นขัดที่รองรับระบบหุ่นยนต์และสินค้าเตรียมพื้นผิวป้องกันไฟฟ้าสถิต"
-          }
-        },
-        {
-          "id": "20260908-w2",
-          "tag": "auto",
-          "rating": "green",
-          "source": "MarketsandMarkets",
-          "date": "2026-07-10",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUXhqQk54c1g4cXhycTVMTFlJY3l2bGNZYU5hWG1zdDRYZmYwM0FaUzVXOTlCTXNCR1dabXhiLTJnMllTWFl6UWt1TE9KMkFqYmxxRUNjcC1nQlFhR3ZPSng5QVNtQnZRMEZ2cGREVGhaa0VPSTVfSkg1UEtlNER4emMyYW83SUkzSGc?oc=5",
-          "title": "EV Assembly Market Report 2026-2035",
-          "summary": "The electric vehicle assembly market continues its rapid expansion path through 2035, requiring specialized component finishing.",
-          "why": "EV manufacturing involves different lightweight metals and structural parts that require precise deburring, grinding, and surface finishing.",
-          "action": "Identify specific abrasive lines suited for lightweight EV metals like aluminum and composite materials.",
-          "th": {
-            "title": "รายงานตลาดการประกอบรถยนต์ไฟฟ้า (EV Assembly) ปี 2026-2035",
-            "summary": "ตลาดการประกอบรถยนต์ไฟฟ้ายังคงขยายตัวอย่างรวดเร็วถึงปี 2035 ซึ่งต้องอาศัยกระบวนการตกแต่งชิ้นส่วนเฉพาะทาง",
-            "why": "การผลิต EV เกี่ยวข้องกับโลหะน้ำหนักเบาและชิ้นส่วนโครงสร้างที่ต้องใช้การลบคม การเจียร และการขัดแต่งผิวที่แม่นยำ",
-            "action": "ระบุกลุ่มสินค้ากระดาษทรายที่เหมาะกับโลหะน้ำหนักเบาสำหรับ EV เช่น อลูมิเนียมและวัสดุคอมโพสิต"
-          }
-        },
-        {
-          "id": "20260908-w3",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "Straits Research",
-          "date": "2026-08-24",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NN1NfTHlMbm83VVBSSk84UmI2aldwS0VobVdKVFNuM2hsWGRMc00tczY1aE1XRlVSS3BtbEtlRlBfZjY5NjFudlNNU3dkSGpMRG5PNzVGcWhUNjBfdkRmZkk3cmhYUmtvcTFxeXln?oc=5",
-          "title": "Performance Coating Market Size, Share & Growth Graph by 2034",
-          "summary": "Global analysis projects steady growth for the performance coating sector, highlighting new chemical formulations and applications.",
-          "why": "Surface prep and sanding are critical preliminary steps before applying high-performance coatings in industrial sectors.",
-          "action": "Keep an eye on coating tech shifts that demand finer surface profiles or specialized pre-treatment abrasives.",
-          "th": {
-            "title": "ขนาด ส่วนแบ่ง และกราฟการเติบโตของตลาดสารเคลือบผิวประสิทธิภาพสูงถึงปี 2034",
-            "summary": "การวิเคราะห์ระดับโลกคาดการณ์การเติบโตอย่างต่อเนื่องของตลาดสารเคลือบประสิทธิภาพสูง พร้อมเน้นย้ำสูตรเคมีและการใช้งานใหม่ๆ",
-            "why": "งานเตรียมพื้นผิวและการขัดเป็นขั้นตอนสำคัญก่อนการพ่นเคลือบสารประสิทธิภาพสูงในภาคอุตสาหกรรม",
-            "action": "จับตาดูความเปลี่ยนแปลงของเทคโนโลยีสารเคลือบที่ต้องการความละเอียดของผิวชิ้นงานหรือกระดาษทรายเตรียมพื้นผิวเฉพาะทาง"
-          }
-        },
-        {
-          "id": "20260908-w4",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "Fact.MR",
-          "date": "2026-04-13",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QdlVWYkhUUHFMQ042anhjZWhnN25NSnZfX2F3QU1IVnpHdHVIeWpSS2R0RnVCQjBHVVgwQjhTR21WeThVSF9Td2p5LUxpN3dKekd0UXJpdHMxWENF?oc=5",
-          "title": "Steel Scrap Market, Global Market Analysis Report - 2036",
-          "summary": "Global demand for steel scrap is evolving as metal recycling and electric arc furnace (EAF) steelmaking gain traction.",
-          "why": "Steel scrap processing and recycling heavily rely on heavy-duty grinding, cutting, and surface cleaning tools.",
-          "action": "Evaluate our product range for heavy metal fabrication, cutting, and recycling yard applications.",
-          "th": {
-            "title": "รายงานวิเคราะห์ตลาดเศษเหล็กโลก ปี 2036",
-            "summary": "ความต้องการเศษเหล็กทั่วโลกกำลังเติบโตตามการรีไซเคิลโลหะและการผลิตเหล็กด้วยเตาอาร์ไฟฟ้า (EAF) ที่ได้รับความนิยมมากขึ้น",
-            "why": "กระบวนการจัดการและรีไซเคิลเศษเหล็กต้องพึ่งพาเครื่องมือตัด เจียร และทำความสะอาดผิวงานแบบใช้งานหนัก",
-            "action": "ประเมินกลุ่มผลิตภัณฑ์ของเราสำหรับงานขึ้นรูปโลหะหนัก งานตัด และการใช้งานในลานรีไซเคิล"
           }
         }
       ]
