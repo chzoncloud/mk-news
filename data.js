@@ -2,6 +2,71 @@
 window.NEWS_ARCHIVE = {
   "days": [
     {
+      "date": "2026-09-23",
+      "summary": "Today has limited new developments, but BYD's plan to produce pickup trucks in Rayong represents a direct, high-value demand driver for automotive surface finishing abrasives.",
+      "directCount": 1,
+      "th": {
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก แต่ข่าวเด่นคือ BYD เตรียมขึ้นไลน์ผลิตรถกระบะที่โรงงานระยอง ซึ่งจะกระตุ้นความต้องการใช้วัสดุขัดแต่งผิวโลหะในสายการผลิตโดยตรง"
+      },
+      "items": [
+        {
+          "id": "20260923-1",
+          "tag": "auto",
+          "rating": "green",
+          "source": "Thansettakij",
+          "date": "2026-09-22",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Md3JXLVc5eVB2QzR0ckhNZUJzTm04VW1uWjA5aVF5TTl1bFlCQXZ2UHJCRkJ6cmVZTjdZNTFUNWVQUzlBLXFQZmMtWlIyNThYUzM3RjVkaw?oc=5",
+          "title": "BYD Backs New Auto Tax and Plans Pickup Truck Production in Rayong",
+          "summary": "BYD praised Thailand's new auto tax structure and announced plans to assemble pickup trucks and new EV models at its Rayong facility to serve both domestic and export markets.",
+          "why": "Expanding into pickup truck manufacturing will substantially increase metal stamping, chassis welding, and surface prep work, directly boosting consumption of abrasive belts, flap discs, and sanding discs.",
+          "action": "Target Tier 1 and Tier 2 metal stamping and body-in-white suppliers contracting for BYD's upcoming pickup platform in the Rayong automotive cluster.",
+          "th": {
+            "title": "บีวายดีหนุนภาษีใหม่ เล็งผลิตปิกอัพและรถโมเดลใหม่ที่โรงงานระยอง",
+            "summary": "บีวายดีขานรับโครงสร้างภาษีรถยนต์ใหม่ของไทย พร้อมเผยแผนเตรียมผลิตรถกระบะและรถยนต์โมเดลใหม่ที่โรงงาน จ.ระยอง เพื่อส่งออกและจำหน่ายในประเทศ",
+            "why": "การขึ้นไลน์ผลิตรถกระบะจะเพิ่มปริมาณงานปั๊มขึ้นรูปโครงสร้าง งานเชื่อม และงานเตรียมผิวโลหะ ซึ่งสร้างดีมานด์โดยตรงต่อกระดาษทรายขัดสี สายพานขัด และจานทรายขัดรอยเชื่อม",
+            "action": "เร่งเจาะกลุ่มโรงงานปั๊มชิ้นส่วนโลหะและซัพพลายเออร์ Tier 1/2 ในแถบระยองที่ได้รับสัญญาผลิตชิ้นส่วนโมเดลกระบะใหม่ของ BYD"
+          }
+        },
+        {
+          "id": "20260923-2",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "LINE TODAY",
+          "date": "2025-12-27",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MbDY2SkFDN1VRQXdMaUF1Nmhlb3U0dTZLVzlMUkVDTTJlTy1UMFhMWFctVHJzWEhCd1lZUXZzaGpCMnJoNDBFOXRUclB2TXZ1ZkVlbjZB?oc=5",
+          "title": "10 Steel Associations Warn of Chinese Dumping Crisis, Urge Finished Steel Import Ban",
+          "summary": "Ten domestic steel associations sounded alarms over aggressive Chinese dumping and formally pushed authorities to ban or heavily restrict imports of cheap finished steel products.",
+          "why": "Prolonged dumping forces local steel fabricators and mills to slash production output, indirectly weakening recurring orders for heavy-duty cutting and grinding wheels.",
+          "action": "Monitor credit terms closely for domestic structural steel fabricators and shift sales focus toward specialized fabricators supplying high-spec automotive and industrial machinery.",
+          "th": {
+            "title": "10 สมาคมเหล็กรับวิกฤตปีม้า 'จีน' ทุ่มตลาด จี้รัฐคุมเข้มห้ามนำเข้าเหล็กสำเร็จรูป",
+            "summary": "10 สมาคมอุตสาหกรรมเหล็กส่งสัญญาณเตือนภัยการทุ่มตลาดจากเหล็กจีน พร้อมร้องเรียนภาครัฐให้สกัดการนำเข้าเหล็กสำเร็จรูป หลังโรงงานในประเทศเผชิญปัญหากำลังการผลิตตกต่ำอย่างหนัก",
+            "why": "การทุ่มตลาดที่ยืดเยื้อกดดันให้โรงงานแปรรูปเหล็กในประเทศลดกำลังผลิต ซึ่งส่งผลทางอ้อมให้ยอดสั่งซื้อใบตัดและหินเจียรกลุ่มงานเหล็กโครงสร้างชะลอตัว",
+            "action": "เฝ้าระวังความเสี่ยงด้านเครดิตเทอมของโรงงานแปรรูปเหล็กโครงสร้างทั่วไป และเบนเข็มไปโฟกัสกลุ่มโรงงานแปรรูปโลหะเฉพาะทางที่ซัพพลายให้ยานยนต์และเครื่องจักร"
+          }
+        },
+        {
+          "id": "20260923-3",
+          "tag": "steel",
+          "rating": "white",
+          "source": "krungsri.com",
+          "date": "2026-01-20",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE55MTc5UHRvTG83VWdiellMeVZmeWk3UmhfbU5lNGF0RGFxZ0Q0ZjZmWXlRaktLTllwaWpQS2NQbF94N1d0dmdxTUczanlULV9MamhPazEtX2Fvc093TUo2OHloZnhrVnZkcTVtY0MtX3MzUVhKOGpsZWFaNA?oc=5",
+          "title": "Krungsri Research Highlights Industry Trends and Manufacturing Shifts for 2026–2028",
+          "summary": "Krungsri Research projected medium-term industrial trends, emphasizing that EV-related manufacturing, automation, and precision components will outpace traditional commodity industries.",
+          "why": "Provides strategic visibility to ensure MK shifts abrasive inventory planning away from contracting basic sectors toward growth-oriented precision metalworking segments.",
+          "action": "Use these medium-term manufacturing projections to align MK's 2027 inventory planning toward high-precision abrasive belts and aerospace/auto-grade finishing products.",
+          "th": {
+            "title": "วิจัยกรุงศรีเผยแนวโน้มธุรกิจและอุตสาหกรรมไทย ปี 2569–2571 ชี้การเปลี่ยนผ่านการผลิต",
+            "summary": "วิจัยกรุงศรีประเมินทิศทางอุตสาหกรรมระยะกลาง ระบุการผลิตที่เกี่ยวเนื่องกับ EV ออโตเมชัน และชิ้นส่วนความแม่นยำสูงจะเติบโตได้ดีกว่ากลุ่มคอมโมดิตี้ดั้งเดิม",
+            "why": "เป็นข้อมูลภาพรวมระยะกลางที่ช่วยยืนยันให้ MK จัดการสต็อกสินค้าโดยลดน้ำหนักกลุ่มเหล็กพื้นฐาน แล้วมุ่งสู่กลุ่มชิ้นส่วนโลหะความแม่นยำสูงที่มีอนาคตสดใสกว่า",
+            "action": "ใช้ข้อมูลคาดการณ์นี้ปรับแผนสต็อกสินค้าปี 2570 โดยเน้นสำรองสายพานผ้าทรายความแม่นยำสูงและวัสดุขัดเกรดเฉพาะทางสำหรับยานยนต์และการบิน"
+          }
+        }
+      ],
+      "terms": {}
+    },
+    {
       "date": "2026-09-22",
       "summary": "Today features fewer fresh headlines as previous policy updates consolidate; notable signals show Japanese automakers pledging 50 billion baht in new local investment while Vietjet explores U-Tapao MRO operations, supporting industrial abrasives demand.",
       "directCount": 1,
@@ -612,5 +677,5 @@ window.NEWS_ARCHIVE = {
       "terms": {}
     }
   ],
-  "updated": "2026-09-22"
+  "updated": "2026-09-23"
 };
