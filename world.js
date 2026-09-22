@@ -1,7 +1,89 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-09-22",
+  "updated": "2026-09-23",
   "days": [
+    {
+      "date": "2026-09-23",
+      "summary": "Today's global briefing highlights key developments in advanced abrasive materials like fused alumina and aluminum oxide driven by electronics finishing, alongside shifts in EV manufacturing and metal recycling markets.",
+      "directCount": 4,
+      "th": {
+        "summary": "สรุปสถานการณ์โลกประจำวันนี้เน้นย้ำการพัฒนาวัสดุขัดถูขั้นสูง เช่น ฟิวส์อัลลูมินาและอะลูมิเนียมออกไซด์ตามความต้องการในอุตสาหกรรมอิเล็กทรอนิกส์ ควบคู่ไปกับการเปลี่ยนแปลงในภาคการผลิต EV และตลาดรีไซเคิลโลหะ"
+      },
+      "items": [
+        {
+          "id": "20260923-w1",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-09-22",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa3prOHdTb1BJS0dDaF9fWnpxMnRrUlB2dU9zdjJBRllhY2pBaU13V1Z3MGhRX19xR3RVVVVCbUpkbjRfd0ZMSzc3X2swMmtvSVVHYm5nazA1c3ZSZ2YxOGgxUTRkWVhweV9ULUd4My1MNnNTaWNtdGlaOVMzT2MtNzBqNUpxWHZ3aV9LOFZKeTNNdmZ3R0lFREh0SVB0Ym5sdlZtaHVTOTJOM1VBcjhiUTAxSDVHLXJBQWRBOTB3?oc=5",
+          "title": "Fused Alumina Market to Accelerate on Electronics Demand, Forecast Points Higher Toward 2035",
+          "summary": "The global fused alumina market is projected to grow steadily toward 2035, significantly fueled by high-precision finishing demands in the electronics and semiconductor sectors.",
+          "why": "Fused alumina is a core raw material for high-performance coated and bonded abrasives. Rising demand in electronics means higher quality expectations for surface prep.",
+          "action": "Monitor raw material pricing and availability for fused alumina-based grinding products.",
+          "th": {
+            "title": "ตลาดฟิวส์อัลลูมินาเติบโตตามความต้องการด้านอิเล็กทรอนิกส์ คาดการณ์พุ่งสูงถึงปี 2035",
+            "summary": "ตลาดฟิวส์อัลลูมินาทั่วโลกคาดว่าจะเติบโตอย่างต่อเนื่องจนถึงปี 2035 โดยได้รับแรงหนุนสำคัญจากความต้องการขัดผิวความแม่นยำสูงในอุตสาหกรรมอิเล็กทรอนิกส์และเซมิคอนดักเตอร์",
+            "why": "ฟิวส์อัลลูมินาเป็นวัตถุดิบหลักสำหรับกระดาษทรายและหินเจียรประสิทธิภาพสูง ความต้องการที่เพิ่มขึ้นในอิเล็กทรอนิกส์หมายถึงความคาดหวังด้านคุณภาพที่สูงขึ้นในการเตรียมพื้นผิว",
+            "action": "ติดตามราคาและอุปทานของวัตถุดิบฟิวส์อัลลูมินาสำหรับผลิตภัณฑ์กลุ่มงานขัด"
+          }
+        },
+        {
+          "id": "20260923-w2",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-09-21",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUHU4VlhPWmlncTZzTEcwZGo4SHNBRWVYMTh4X2VtU2R1SHdJbG9pRk5uelVRcUNxLVdsSWt5VS02dDVBZjFJN3ByZlhaNkJnQ2llejN1LTB1MFY0S3NubVJ2RmdJaldDM1k0NEpfZFBadFlHSFlraENPdjVDR1dVVVRncU11Zms?oc=5",
+          "title": "Aluminum Oxide Sanding Disc Market Outlook to 2035",
+          "summary": "The outlook for aluminum oxide sanding discs highlights steady replacement demand across metal fabrication and general woodworking applications.",
+          "why": "Aluminum oxide discs are a high-volume stock item for general industrial distribution. Understanding long-term demand helps in inventory planning.",
+          "action": "Ensure stable supply lines for standard aluminum oxide sanding discs to capture steady B2B replacement demand.",
+          "th": {
+            "title": "แนวโน้มตลาดแผ่นขัดอะลูมิเนียมออกไซด์ถึงปี 2035",
+            "summary": "แนวโน้มของแผ่นกระดาษทรายกลมอะลูมิเนียมออกไซด์สะท้อนความต้องการเปลี่ยนทดแทนที่มั่นคงทั้งในอุตสาหกรรมแปรรูปโลหะและงานไม้ทั่วไป",
+            "why": "แผ่นขัดอะลูมิเนียมออกไซด์เป็นสินค้าหมุนเวียนปริมาณมากสำหรับการจัดจำหน่ายอุตสาหกรรมทั่วไป การเข้าใจความต้องการระยะยาวช่วยในการวางแผนสินค้าคงคลัง",
+            "action": "รักษาเสถียรภาพห่วงโซ่อุปทานของแผ่นขัดอะลูมิเนียมออกไซด์มาตรฐานเพื่อรองรับความต้องการเปลี่ยนทดแทนใน B2B"
+          }
+        },
+        {
+          "id": "20260923-w3",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-09-02",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUUpWSmpHLVowSXdiLUJqcFlpQ3ZfRmdQYjJiTVFCNk00ZW0tM0ZqenQtd2F4emNVNEdzT3Q3amZ3M050YnNuTldQZFQyTlgyX3ByekdEbkdlaURacG5yRlBUSEZucnBQalBmNzVadXVrSDdXcEd0d2t4UXptUzJ5dXZ6ckE1V3RVV3IyUkY4SFdVSERveVJYem0yM3lNbWFUY1dXWHYyRFZ2cXdldWFqRmJTNE4tQ1RXWWp4N3NCN1h5Vmt3d3hEbkFPc2ZqT0k?oc=5",
+          "title": "A global AI manufacturing transformation at Hyundai Motor Group",
+          "summary": "Hyundai is scaling artificial intelligence and smart automation across its global manufacturing network to optimize vehicle production and assembly processes.",
+          "why": "Automated and AI-driven automotive plants require specialized robotic deburring, sanding, and surface finishing tools rather than manual labor.",
+          "action": "Explore how automated manufacturing trends influence demand for robotic abrasive pads and quick-change discs.",
+          "th": {
+            "title": "การเปลี่ยนแปลงการผลิตด้วย AI ระดับโลกที่ Hyundai Motor Group",
+            "summary": "ฮุนไดกำลังขยายการใช้ปัญญาประดิษฐ์และระบบอัตโนมัติอัจฉริยะทั่วเครือข่ายการผลิตเพื่อเพิ่มประสิทธิภาพการผลิตและการประกอบรถยนต์",
+            "why": "โรงงานยานยนต์ที่ขับเคลื่อนด้วยระบบอัตโนมัติและ AI ต้องการเครื่องมือขัด ลบคม และเตรียมพื้นผิวด้วยหุ่นยนต์ แทนการใช้แรงงานคน",
+            "action": "ศึกษาว่าแนวโน้มการผลิตอัตโนมัติส่งผลอย่างไรต่อความต้องการแผ่นขัดและแผ่นขัดแบบเปลี่ยนเร็วสำหรับหุ่นยนต์"
+          }
+        },
+        {
+          "id": "20260923-w4",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "Fortune Business Insights",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92cGoxdE1hdU1yLU5SOWdZVkp2OFp3VVRVY0pTUTdYR1VMRGtTQld5emF1LWxTV1VvZ0NOT0ZBLWJoNkxJVlVVV0hyd0RDdWlXNW13SDAtbjdtMVYzVC0tdURJeWg2SzBTM3BLQmh5aVliYVQ4eWNidg?oc=5",
+          "title": "Metal Recycling Market Size, Share | Growth Forecast [2034]",
+          "summary": "The global metal recycling market is expanding as industries push toward circular economy goals, scrap utilization, and sustainable raw material sourcing.",
+          "why": "Recycled structural steel and metal components require heavy weld blending, surface cleaning, and deburring using heavy-duty grinding wheels and abrasive belts.",
+          "action": "Target metal recycling and scrap processing yards as potential users for heavy-duty grinding and cut-off wheels.",
+          "th": {
+            "title": "ขนาดส่วนแบ่งและการคาดการณ์การเติบโตของตลาดรีไซเคิลโลหะถึงปี 2034",
+            "summary": "ตลาดรีไซเคิลโลหะทั่วโลกกำลังขยายตัวตามเป้าหมายเศรษฐกิจหมุนเวียน การใช้เศษโลหะ และการจัดหาวัตถุดิบที่ยั่งยืน",
+            "why": "โครงสร้างเหล็กและชิ้นส่วนโลหะรีไซเคิลต้องผ่านการเจียรแนวเชื่อม ทำความสะอาดพื้นผิว และลบคมด้วยล้อหินเจียรและสายพานขัดงานหนัก",
+            "action": "เจาะกลุ่มธุรกิจรีไซเคิลโลหะและลานเศษเหล็กในฐานะผู้ใช้งานที่มีศักยภาพสำหรับใบตัดและใบเจียรงานหนัก"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-09-22",
       "summary": "Today's briefing highlights new market data for industrial and waterborne acrylic coatings, the rise of robotic finishing in the flap wheels market, and strategic adjustments in steel production like Nucor's EAF model.",
@@ -866,70 +948,6 @@ window.WORLD_ARCHIVE = {
             "summary": "การวิเคราะห์อุปทานนิกเกิลเกรดแบตเตอรี่และแนวโน้มราคาตลาดโลหะลอนดอนที่ส่งผลกระทบต่อห่วงโซ่การผลิต EV โดยรวม",
             "why": "นิกเกิลเป็นโลหะสำคัญสำหรับแบตเตอรี่ EV ซึ่งส่งผลต่อการผลิตสแตนเลสและห่วงโซ่อุปทานงานโลหะที่ต้องใช้กระบวนการเจียรและตกแต่งผิว",
             "action": "ติดตามแนวโน้มราคาโลหะดิบเพื่อใช้เป็นตัวชี้วัดแรงกดดันด้านต้นทุนการผลิตในภาคอุตสาหกรรมโลหะ"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-09-09",
-      "summary": "Today's global briefing focuses on advanced coating technologies, digital and AI integration in surface finishing, and European abrasives market forecasts. These developments highlight the ongoing shift toward precision, automation, and high-performance materials in manufacturing.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปสถานการณ์โลกประจำวันนี้เน้นไปที่เทคโนโลยีการเคลือบผิวขั้นสูง การบูรณาการ AI และดิจิทัลในการตกแต่งพื้นผิว รวมถึงการคาดการณ์ตลาดสารขัดถูในยุโรป ซึ่งสะท้อนถึงการเปลี่ยนแปลงไปสู่ความแม่นยำ ระบบอัตโนมัติ และวัสดุประสิทธิภาพสูงในภาคการผลิต"
-      },
-      "items": [
-        {
-          "id": "20260909-w1",
-          "tag": "coating",
-          "rating": "green",
-          "source": "European Coatings",
-          "date": "2026-09-07",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
-          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
-          "summary": "The European coatings industry emphasizes digital transformation, sustainability, and innovative formulation techniques to redefine surface performance standards.",
-          "why": "Advanced surface coatings directly influence the prep work and abrasives needed for bonding and finishing.",
-          "action": "Monitor digital coating standards to anticipate changing demands for industrial surface preparation.",
-          "th": {
-            "title": "กำหนดอนาคตใหม่แห่งการเคลือบผิว: นวัตกรรม ความยั่งยืน และพลังแห่งดิจิทัล",
-            "summary": "อุตสาหกรรมสีเคลือบในยุโรปให้ความสำคัญกับการเปลี่ยนผ่านสู่ดิจิทัล ความยั่งยืน และนวัตกรรมการผสมสูตรเพื่อยกระดับมาตรฐานประสิทธิภาพพื้นผิว",
-            "why": "สารเคลือบผิวขั้นสูงส่งผลโดยตรงต่อขั้นตอนการเตรียมพื้นผิวและกระดาษทรายที่จำเป็นสำหรับการยึดเกาะและการขัดแต่ง",
-            "action": "ติดตามมาตรฐานการเคลือบดิจิทัลเพื่อคาดการณ์ความต้องการที่เปลี่ยนไปในการเตรียมพื้นผิวอุตสาหกรรม"
-          }
-        },
-        {
-          "id": "20260909-w2",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "Market Data Forecast",
-          "date": "2026-07-24",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QdEVXWnRKRG40YWFXWDVwY09BdElfOGotQVNaazA2Q2p2VkluOXlhT1RSeEF3STZKZVI3b21NZlB3MWlwLTVXaVNDQWtQSHNUX3RPZXQ4Y0wwY1pwaGVfYzdKeXNNdDFZMkNpcDVhSm5OUjRraTM4ZV9fRHcyZw?oc=5",
-          "title": "Europe Abrasives Market Size, Share and Analysis, 2034",
-          "summary": "The European abrasives market report highlights steady growth projections up to 2034, driven by industrial manufacturing and precision finishing needs.",
-          "why": "Provides a benchmark for global market growth trends and product adoption rates in developed economies.",
-          "action": "Use European market growth patterns to evaluate our high-end abrasive product portfolio.",
-          "th": {
-            "title": "ขนาด ส่วนแบ่ง และการวิเคราะห์ตลาดวัสดุขัดถูในยุโรป ถึงปี 2034",
-            "summary": "รายงานตลาดวัสดุขัดถูของยุโรปคาดการณ์การเติบโตอย่างต่อเนื่องจนถึงปี 2034 โดยได้รับแรงหนุนจากภาคการผลิตอุตสาหกรรมและความต้องการขัดผิวความแม่นยำสูง",
-            "why": "ให้ข้อมูลอ้างอิงสำหรับแนวโน้มการเติบโตของตลาดโลกและอัตราการยอมรับผลิตภัณฑ์ในประเทศพัฒนาแล้ว",
-            "action": "นำรูปแบบการเติบโตของตลาดยยุโรปมาประเมินกลุ่มผลิตภัณฑ์กระดาษทรายและวัสดุขัดเกรดพรีเมียมของเรา"
-          }
-        },
-        {
-          "id": "20260909-w3",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "Market.us",
-          "date": "2026-01-22",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ISWl4S1FIYTlibDJlR001VnBXdy1xQ1ZobnhYTzBkc3pWOEdrOFQ4VWl2VzA5NjNDcGp3VEU3ZGQ2R0VFdXQwRmZxVEVpOTE4dVl4RlF4WlBHX3pXQ3QtTkJQWQ?oc=5",
-          "title": "Wood Sanding Machine Market Size, Share | CAGR of 4.3%",
-          "summary": "The wood sanding machine sector is expanding at a steady CAGR of 4.3%, indicating solid demand for automated wood processing equipment.",
-          "why": "Direct correlation to the wood furniture and flooring sectors which are major consumers of sanding belts and discs.",
-          "action": "Strengthen partnerships with woodworking machinery suppliers for joint abrasive solution offerings.",
-          "th": {
-            "title": "ขนาดและส่วนแบ่งตลาดเครื่องขัดไม้ เติบโตด้วยอัตรา CAGR 4.3%",
-            "summary": "ภาคธุรกิจเครื่องขัดไม้กำลังขยายตัวด้วยอัตราการเติบโตเฉลี่ยสะสมต่อปี (CAGR) ที่ 4.3% สะท้อนถึงความต้องการอุปกรณ์แปรรูปไม้อัตโนมัติที่มั่นคง",
-            "why": "มีความเชื่อมโยงโดยตรงกับอุตสาหกรรมเฟอร์นิเจอร์ไม้และพื้น ซึ่งเป็นผู้ใช้รายใหญ่ของสายพานขัดและกระดาษทรายกลม",
-            "action": "เสริมสร้างความร่วมมือกับซัพพลายเออร์เครื่องจักรงานไม้เพื่อเสนอโซลูชันวัสดุขัดที่สอดคล้องกัน"
           }
         }
       ]
