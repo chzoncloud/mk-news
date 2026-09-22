@@ -4,10 +4,10 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-09-22",
-      "summary": "Today's global briefing highlights key shifts in electronics finishing and semiconductor demand driving specialized abrasives, alongside ongoing automotive coating innovations and regional steel market dynamics.",
+      "summary": "Today's briefing highlights new market data for industrial and waterborne acrylic coatings, the rise of robotic finishing in the flap wheels market, and strategic adjustments in steel production like Nucor's EAF model.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปข้อมูลเชิงลึกระดับโลกประจำวันนี้ เน้นย้ำการเปลี่ยนแปลงสำคัญในงานขัดแต่งชิ้นส่วนอิเล็กทรอนิกส์และเซมิคอนดักเตอร์ที่ขับเคลื่อนตลาดวัสดุขัดผิว ควบคู่ไปกับนวัตกรรมการเคลือบสีรถยนต์และสถานการณ์ตลาดเหล็กโลก"
+        "summary": "สรุปข้อมูลแนวโน้มโลกวันนี้เน้นรายงานตลาดสีและสารเคลือบอุตสาหกรรม การเติบโตของงานขัดผิวด้วยระบบหุ่นยนต์ในตลาดล้อทราย (Flap Wheels) และการปรับตัวเชิงกลยุทธ์ในอุตสาหกรรมเหล็ก"
       },
       "items": [
         {
@@ -15,71 +15,53 @@ window.WORLD_ARCHIVE = {
           "tag": "abrasive",
           "rating": "green",
           "source": "IndexBox",
-          "date": "2026-09-16",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNb0Q5M1RPYjlHdElGeXctWllESFpkc3l4U0IxckRudVdxdEM1RF9DVzBpRWNDV0tuX0x1dEZNN1llMlNvYk5qUHdzcUozMjRXVDdwckFOSHdRbkJpUUNQMUd1dll3SGJfZzMxUkR1cWJNek1fLTg0d2RxYkF1Z3dCSk5UbWNpSXJPeC1sSEVOWnBmRlJZQndtZS1HUXIwTFdGenRpVmVMdVI5aW1VVGpualdfeG93QWU5MkFoNTZtR0taWG5CZzNCREo2YXhxbU5UWm9BRGlOOTgtaXlROUg0U1pMWlhlX3Fx?oc=5",
-          "title": "Coated Sanding Sheets Market Forecast to 2035: Replacement Demand in Electronics and Semiconductor Finishing Drives 4–6% CAGR",
-          "summary": "The market for coated sanding sheets is projected to experience steady growth through 2035, heavily driven by replacement demand in electronics and semiconductor finishing applications.",
-          "why": "High-precision electronic component and semiconductor manufacturing require specialized micro-finishing coated abrasives, offering high-margin product opportunities.",
-          "action": "Explore sourcing higher-grade precision sanding sheets suitable for delicate electronic component and semiconductor finishing.",
+          "date": "2026-09-15",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd0JtN1luVVV1bGZ1c0JHQlZVSjFvWWhUS080WDVlLUtxSGRYVENBcVFKLWhGQnFEbU9NSURhZTRjV3I0azVLdDhRd3RyYWhFZ0hMV0lLZWRGQkZQTUhFdHdrV1RBVXJSaHkwQUNkc01xWjVpZ1FCODVaLUh1WmFuQUloLTJ5SVFhYVdkVjFfVEpCYTNlM0JQdGh1OFFEQUNCMDhjaFZxc1dwR0pmcEtBUGZMdElucHVYSkNOcG9n?oc=5",
+          "title": "Flap Wheels Market Forecast to 2035: Robotic Finishing and Semiconductor Demand Drive Growth",
+          "summary": "The global flap wheels market is accelerating, driven by increased demand for automated robotic finishing and precision manufacturing.",
+          "why": "Flap wheels are a core product for heavy metal deburring and blending. The shift towards robotic finishing means we must supply consistent, high-durability products suitable for automated systems.",
+          "action": "Evaluate our flap wheel specifications for compatibility with automated robotic grinding setups.",
           "th": {
-            "title": "ตลาดกระดาษทรายเคลือบคาดการณ์ถึงปี 2035: ความต้องการทดแทนในอุตสาหกรรมอิเล็กทรอนิกส์และเซมิคอนดักเตอร์ผลักดันอัตราเติบโต 4-6%",
-            "summary": "ตลาดกระดาษทรายเคลือบเติบโตอย่างต่อเนื่องจนถึงปี 2035 โดยได้รับแรงหนุนหลักจากความต้องการเปลี่ยนทดแทนในการขัดแต่งชิ้นส่วนอิเล็กทรอนิกส์และเซมิคอนดักเตอร์",
-            "why": "การผลิตชิ้นส่วนอิเล็กทรอนิกส์และเซมิคอนดักเตอร์ความแม่นยำสูงจำเป็นต้องใช้กระดาษทรายเคลือบสำหรับงานขัดละเอียดพิเศษ ซึ่งเป็นกลุ่มผลิตภัณฑ์ที่มีอัตรากำไรสูง",
-            "action": "พิจารณาจัดหากระดาษทรายขัดความละเอียดสูงเกรดพิเศษที่เหมาะสำหรับงานขัดชิ้นส่วนอิเล็กทรอนิกส์และเซมิคอนดักเตอร์"
+            "title": "ตลาดล้อทราย (Flap Wheels) เติบโตรับความต้องการงานขัดผิวด้วยหุ่นยนต์",
+            "summary": "ตลาดล้อทรายทั่วโลกกำลังขยายตัว ขับเคลื่อนด้วยความต้องการที่เพิ่มขึ้นสำหรับงานขัดผิวอัตโนมัติด้วยหุ่นยนต์และการผลิตที่มีความแม่นยำสูง",
+            "why": "ล้อทรายเป็นสินค้าหลักสำหรับงานลบคมและตกแต่งผิวโลหะ การเปลี่ยนผ่านไปสู่ระบบอัตโนมัติทำให้เราต้องจัดหาสินค้าที่มีความทนทานและได้มาตรฐานสม่ำเสมอเพื่อรองรับหุ่นยนต์",
+            "action": "ประเมินสเปกสินค้าล้อทรายของเราว่ารองรับการใช้งานกับเครื่องขัดระบบอัตโนมัติได้ดีเพียงใด"
           }
         },
         {
           "id": "20260922-w2",
           "tag": "coating",
-          "rating": "green",
-          "source": "European Coatings",
-          "date": "2026-09-09",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
-          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
-          "summary": "The European coatings sector highlights innovation centered on sustainability, advanced formulations, and digital integration in manufacturing processes.",
-          "why": "Changes in industrial paint and surface coatings directly alter how manufacturers prep, sand, and finish substrates, affecting abrasive performance requirements.",
-          "action": "Monitor new eco-friendly and advanced coating formulations to understand how they impact surface sanding and preparation workflows.",
+          "rating": "amber",
+          "source": "marketresearchfuture.com",
+          "date": "2026-09-15",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTUJJU002LVplS1Fad25fNTR6ODZnQXlSeE9KVjRTVWNIM3RiZDZYVktLbWlRX1NKUElqSnZkSEdDeGFLLWRhUVZhV3BMbnNWNjR0WVBuM1NaWW04Q1dTVk5Mb0liWEFJTGw2UnQ3Z2hLUFk2aV9hNlZiRmxrZ3l2M1o3aFZrQzJHRktfeTRLa2RYMXh5?oc=5",
+          "title": "Waterborne Acrylic Coatings Market Size, Share & Growth Report 2035 | MRFR",
+          "summary": "A comprehensive report outlines strong long-term growth for waterborne acrylic coatings driven by environmental regulations and sustainability demands.",
+          "why": "Surface treatment and coating trends dictate how metal and wood parts are prepared, primed, and finished, indirectly influencing the sanding stages required before and after coating.",
+          "action": "Monitor changes in surface finish requirements as industries adopt more waterborne and eco-friendly coatings.",
           "th": {
-            "title": "กำหนดอนาคตแห่งการเคลือบผิว: นวัตกรรม ความยั่งยืน และพลังแห่งดิจิทัล",
-            "summary": "ภาคอุตสาหกรรมการเคลือบผิวของยุโรปเน้นย้ำนวัตกรรมที่มุ่งเน้นความยั่งยืน สูตรผลิตภัณฑ์ขั้นสูง และการผสานรวมเทคโนโลยีดิจิทัลในกระบวนการผลิต",
-            "why": "การเปลี่ยนแปลงของสีอุตสาหกรรมและการเคลือบผิวส่งผลโดยตรงต่อวิธีที่ผู้ผลิตเตรียมพื้นผิว ขัด และตกแต่งชิ้นงาน ซึ่งมีผลต่อคุณสมบัติของกระดาษทรายที่ต้องใช้งานร่วมกัน",
-            "action": "ติดตามสูตรสารเคลือบผิวที่เป็นมิตรต่อสิ่งแวดล้อมและเทคโนโลยีใหม่ๆ เพื่อทำความเข้าใจผลกระทบต่อขั้นตอนการเตรียมพื้นผิวและการขัด"
+            "title": "รายงานตลาดสีเคลือบอะคริลิกสูตรน้ำถึงปี 2035",
+            "summary": "รายงานระบุถึงการเติบโตระยะยาวของสีเคลือบอะคริลิกสูตรน้ำ ซึ่งขับเคลื่อนโดยกฎระเบียบด้านสิ่งแวดล้อมและความต้องการความยั่งยืน",
+            "why": "แนวโน้มของสารเคลือบและเตรียมพื้นผิวส่งผลโดยตรงต่อวิธีที่ชิ้นงานโลหะและไม้ถูกเตรียมและขัดแต่ง ซึ่งเชื่อมโยงกับขั้นตอนการขัดกระดาษทรายทั้งก่อนและหลังเคลือบสี",
+            "action": "ติดตามการเปลี่ยนแปลงของข้อกำหนดพื้นผิวชิ้นงาน เมื่ออุตสาหกรรมหันมาใช้สีสูตรน้ำและเป็นมิตรต่อสิ่งแวดล้อมมากขึ้น"
           }
         },
         {
           "id": "20260922-w3",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-09-10",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVjkzSTlDYzItRzJSVXhQSjc1a0ttQ0dIRVYxRDgxaHFiQ0x3c1ZsLTdZQ0RRSk04bmhjdHQ4ZGJrV0lLVk45XzQ5ZzQwN1VwMDNERWNWVEpJNTRVYzZqTFFmcEIyUUZRNG9LOHp6ODIxYm80eEZrcTBOdENvenJqdktfcm5neXlITEZSRXNQclF2ZUpGUXVLTmY3SmhCRUlHdldDVC11QjRnZ3UtYzRlbzAwYS1yaW5oZV8zWmRMY2k?oc=5",
-          "title": "Smart-factory wiring woes: EVs demand automation now, not later",
-          "summary": "EV manufacturers are accelerating factory automation to tackle complex electrical architecture challenges and improve production efficiency.",
-          "why": "Increased factory automation in EV manufacturing drives demand for robotic deburring, automated surface preparation, and specialized robotic abrasive tooling.",
-          "action": "Keep track of robotic integration trends in assembly plants to identify opportunities for automated grinding and finishing supplies.",
-          "th": {
-            "title": "ปัญหาเรื่องสายไฟในโรงงานอัจฉริยะ: รถยนต์ไฟฟ้าต้องการระบบอัตโนมัติเดี๋ยวนี้ ไม่ใช่รอช้า",
-            "summary": "ผู้ผลิตรถยนต์ไฟฟ้าเร่งนำระบบอัตโนมัติมาใช้ในโรงงานเพื่อรับมือกับความท้าทายด้านโครงสร้างพื้นฐานทางไฟฟ้าที่ซับซ้อนและเพิ่มประสิทธิภาพการผลิต",
-            "why": "การใช้ระบบอัตโนมัติที่เพิ่มขึ้นในโรงงานผลิต EV ขับเคลื่อนความต้องการใช้งานเครื่องมือขัดครีบด้วยหุ่นยนต์ (robotic deburring) และอุปกรณ์เตรียมพื้นผิวอัตโนมัติ",
-            "action": "ติดตามแนวโน้มการผสานรวมหุ่นยนต์ในโรงงานประกอบ เพื่อมองหาโอกาสสำหรับสินค้ากลุ่มงานขัดและตกแต่งผิวด้วยระบบอัตโนมัติ"
-          }
-        },
-        {
-          "id": "20260922-w4",
           "tag": "steel",
           "rating": "amber",
-          "source": "S&P Global",
-          "date": "2026-01-12",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
-          "title": "Global steel industry battles surplus supply, protectionism",
-          "summary": "The global steel market continues to navigate challenges related to oversupply capacity and rising international trade protectionism.",
-          "why": "Steel production volume and mill operating rates dictate overall metal fabrication activity, directly influencing consumable abrasive demand in heavy industry.",
-          "action": "Monitor steel mill operating trends globally to gauge upcoming metal fabrication activity levels and abrasive consumption rates.",
+          "source": "Shanghai Metals Market",
+          "date": "2026-05-19",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMmw1akRRMFZCQ2I5NGhHdE1NOXhoaE1GY0h5UmxlQVNUVGxHTko2U0NBQ0o0Q19ZYmZ1VnBCTTB6a2JJQTFNOUpDSUtpWXdaR3hkeGhlOXF4dF9yUElCd1ZkWTl4MmZGOWhVeUlXc2VCMXFCOHQzZ0ZGZ1RtZ3p6aUNObEczWFhKMkdKQ3JuRWF5SjVNZmpOQVBySGs4TWJKS1lVa0VTdmoxdDBQTF8zRDlxME1qeEtOUzJzSTBERURobWltWTlVUlpaZ3d2WlFRNEY1b0UwbVVfLXc0cXBZ?oc=5",
+          "title": "Nucor: 100% EAF, High Profits, and Vertical Integration Mitigating Costs",
+          "summary": "Analysis of Nucor's operational model highlights the success of Electric Arc Furnace (EAF) steelmaking and vertical integration in managing costs.",
+          "why": "EAF steel production and overall steel mill activity dictate the volume of raw metal fabrication, cutting, grinding, and surface conditioning required in heavy industries.",
+          "action": "Keep an eye on regional steel mill activity and scrap-based steel production shifts as indicators of metal fabrication demand.",
           "th": {
-            "title": "อุตสาหกรรมเหล็กโลกเผชิญศึกหนักกับภาวะอุปทานล้นตลาดและลัทธิคุ้มครองทางการค้า",
-            "summary": "ตลาดเหล็กโลกยังคงต้องเผชิญกับความท้าทายจากกำลังการผลิตส่วนเกินและมาตรการกีดกันทางการค้าระหว่างประเทศที่เพิ่มขึ้น",
-            "why": "ปริมาณการผลิตเหล็กและอัตราการเดินเครื่องของโรงงานเป็นตัวกำหนดกิจกรรมการแปรรูปโลหะโดยรวม ซึ่งส่งผลโดยตรงต่อความต้องการใช้วัสดุสิ้นเปลืองประเภทงานขัดในอุตสาหกรรมหนัก",
-            "action": "ติดตามแนวโน้มการดำเนินงานของโรงงานเหล็กทั่วโลก เพื่อประเมินระดับกิจกรรมการแปรรูปโลหะและอัตราการใช้วัสดุขัด"
+            "title": "เจาะลึกโมเดล Nucor: โรงงานเตาหลอมไฟฟ้า (EAF) 100% และการควบคุมต้นทุน",
+            "summary": "บทวิเคราะห์โมเดลธุรกิจของ Nucor แสดงให้เห็นถึงความสำเร็จของการผลิตเหล็กด้วยเตาหลอมไฟฟ้า (EAF) และการบูรณาการแนวตั้งในการบริหารต้นทุน",
+            "why": "การผลิตเหล็กด้วยระบบ EAF และกิจกรรมในโรงงานเหล็กส่งผลต่อปริมาณงานตัด เจียร และเตรียมผิวโลหะในอุตสาหกรรมหนัก",
+            "action": "ติดตามกิจกรรมของโรงงานเหล็กในภูมิภาคและการเปลี่ยนแปลงการผลิตเหล็กจากเศษเหล็ก เพื่อประเมินความต้องการในงานแปรรูปโลหะ"
           }
         }
       ]
