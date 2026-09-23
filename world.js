@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-09-24",
-      "summary": "Today's briefing focuses on global manufacturing shifts, including electronics-driven abrasive grains, EV assembly automation, and steel supply dynamics that influence industrial surface preparation demand.",
-      "directCount": 3,
+      "summary": "Today's briefing features 3 selected stories focusing on electronics and semiconductor finishing demands driving specialized abrasives, and regional coatings market growth.",
+      "directCount": 2,
       "th": {
-        "summary": "สรุปทิศทางอุตสาหกรรมโลกประจำวันนี้ เน้นการเติบโตของวัสดุขัดผิวสำหรับอิเล็กทรอนิกส์ ระบบอัตโนมัติในสายการผลิต EV และสถานการณ์เหล็กโลกที่มีผลต่อความต้องการงานเตรียมพื้นผิว"
+        "summary": "สรุปข่าวประจำวันนี้คัดเลือก 3 เรื่องเด่น เน้นความต้องการวัสดุขัดผิวสำหรับอิเล็กทรอนิกส์และเซมิคอนดักเตอร์ รวมถึงการเติบโตของตลาดสารเคลือบ"
       },
       "items": [
         {
           "id": "20260924-w1",
           "tag": "abrasive",
           "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-09-22",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa3prOHdTb1BJS0dDaF9fWnpxMnRrUlB2dU9zdjJBRllhY2pBaU13V1Z3MGhRX19xR3RVVVVCbUpkbjRfd0ZMSzc3X2swMmtvSVVHYm5nazA1c3ZSZ2YxOGgxUTRkWVhweV9ULUd4My1MNnNTaWNtdGlaOVMzT2MtNzBqNUpxWHZ3aV9LOFZKeTNNdmZ3R0lFREh0SVB0Ym5sdlZtaHVTOTJOM1VBcjhiUTAxSDVHLXJBQWRBOTB3?oc=5",
-          "title": "Fused Alumina Market to Accelerate on Electronics Demand, Forecast Points Higher Toward 2035",
-          "summary": "The global fused alumina market is projected to grow steadily through 2035, heavily driven by precision finishing demands in the electronics and semiconductor sectors.",
-          "why": "Fused alumina is a core raw material for sandpaper, grinding wheels, and coated abrasives. Growth in electronics finishing signals strong demand for fine-grit abrasive products.",
-          "action": "Monitor high-grade fused alumina pricing and ensure reliable supply lines for precision finishing sectors.",
+          "source": "indexbox.io",
+          "date": "2026-09-20",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYlNPVXBmWG5YRTBvcFB1LXlsUlpseU44QUV6UjdCUzZfQVZRTUtscVJUdmxNbThRazVpcjE5cEdta2gxX2N1TENvWE1FeWg1NmxaSGNTMDlrWVZHZVBMOGoxdmZTcVE4VHUzcDdmMjFzVEFNU3JvVTh2WFZUOFY2UHhRQ2lqb0ZYdGRBUXYydGYtMmROckE3ZHVKVWprekFVNndxNWNzSS1scy1XY2FvRHFQLURQcExiU3VLUmZVcDlpbm9IQUZYU0FVRVZiWEZBb2x0OFJSdFU?oc=5",
+          "title": "Zirconia Abrasive Grain Market to Accelerate on Electronics Finishing Demand, Forecast Points Higher Toward 2035",
+          "summary": "Demand for zirconia abrasive grains is growing, fueled heavily by high-tech electronics finishing requirements up to 2035.",
+          "why": "Zirconia is a high-performance grain used in heavy-duty grinding belts and discs. Growth in electronics finishing opens up profitable niche segments beyond traditional metalwork.",
+          "action": "Explore high-end zirconia abrasive products tailored for precision electronics and component manufacturing.",
           "th": {
-            "title": "ตลาดฟิวส์อะลูมิเนียมเติบโตตามความต้องการใช้อุปกรณ์อิเล็กทรอนิกส์ถึงปี 2035",
-            "summary": "ตลาดฟิวส์อะลูมิเนียมทั่วโลกมีแนวโน้มเติบโตต่อเนื่องจนถึงปี 2035 โดยได้รับแรงหนุนหลักจากความต้องการขัดแต่งความละเอียดสูงในอุตสาหกรรมอิเล็กทรอนิกส์และเซมิคอนดักเตอร์",
-            "why": "ฟิวส์อะลูมิเนียมเป็นวัตถุดิบหลักสำหรับกระดาษทรายและหินเจียร การเติบโตนี้บ่งชี้ถึงความต้องการผลิตภัณฑ์ขัดผิวความละเอียดสูงที่เพิ่มขึ้น",
-            "action": "ติดตามราชาตวัตถุดิบฟิวส์อะลูมิเนียมและรักษาเสถียรภาพห่วงโซ่อุปทานสำหรับกลุ่มงานขัดละเอียด"
+            "title": "ตลาดเม็ดทรายขัดเซอร์โคเนียเติบโตตามความต้องการตกแต่งผิวอิเล็กทรอนิกส์ คาดการณ์พุ่งถึงปี 2035",
+            "summary": "ความต้องการเม็ดทรายขัดเซอร์โคเนียกำลังเติบโต ได้แรงหนุนสำคัญจากความต้องการขัดแต่งผิวชิ้นส่วนอิเล็กทรอนิกส์ไฮเทค",
+            "why": "เซอร์โคเนียเป็นวัสดุขัดเกรดสูงที่ใช้ในสายพานและแผ่นขัดงานหนัก การเติบโตนี้ช่วยเปิดตลาดใหม่ๆ นอกเหนือจากงานโลหะทั่วไป",
+            "action": "พิจารณาศึกษาและจัดหาผลิตภัณฑ์ทรายขัดเซอร์โคเนียเกรดสูงที่เหมาะสำหรับงานประกอบชิ้นส่วนอิเล็กทรอนิกส์"
           }
         },
         {
           "id": "20260924-w2",
-          "tag": "auto",
+          "tag": "abrasive",
           "rating": "green",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-09-10",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVjkzSTlDYzItRzJSVXhQSjc1a0ttQ0dIRVYxRDgxaHFiQ0x3c1ZsLTdZQ0RRSk04bmhjdHQ4ZGJrV0lLVk45XzQ5ZzQwN1VwMDNERWNWVEpJNTRVYzZqTFFmcEIyUUZRNG9LOHp6ODIxYm80eEZrcTBOdENvenJqdktfcm5neXlITEZSRXNQclF2ZUpGUXVLTmY3SmhCRUlHdldDVC11QjRnZ3UtYzRlbzAwYS1yaW5oZV8zWmRMY2k?oc=5",
-          "title": "Smart-factory wiring woes: EVs demand automation now, not later",
-          "summary": "Automotive manufacturers are accelerating factory floor automation to handle complex EV wiring and structural assembly challenges.",
-          "why": "Automated EV assembly lines require robotic deburring, surface conditioning, and precision finishing tools rather than manual labor.",
-          "action": "Explore partnerships or product lines suited for robotic finishing and automated automotive component manufacturing.",
+          "source": "indexbox.io",
+          "date": "2026-09-18",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONFd0S1M1TXBTcnc1bVNQS19jWVRfRnd1c1ZHYmhxbWs4T3RBcEk3NTVnaFFUNU9LUm9xaTEySl9DZzlSeWU3NUVnbV85N1Jxc0JDOHVlUzNYbGRuU25nYUVjOW9jNjZkN2F2QUUyRUNlSk9hVkZ6TzJmTzhnSnlWNEQzTy1iOXRSbUFLQWNoTlBTX3lZWTdtd2plNXRncHgyR3FYbjk5LWtmUk1SZjJ4SzJfZm5LTU1hRW84N244TjZKTzEwOXgtRw?oc=5",
+          "title": "Buffing Pads Market Forecast to 2035: Electronics and Semiconductor Finishing Demand Drives 4-6% CAGR",
+          "summary": "The buffing pads market is projected to see a 4-6% CAGR driven by semiconductor and advanced electronics finishing applications.",
+          "why": "Buffing and polishing pads are critical final-step consumables in surface finishing. Rising electronics standards mean higher demand for precision finishing tools.",
+          "action": "Monitor trends in specialized polishing and buffing pads for high-tech manufacturing supply chains.",
           "th": {
-            "title": "ปัญหาการเดินสายไฟในโรงงานอัจฉริยะ: รถยนต์ EV เร่งผลักดันระบบอัตโนมัติทันที",
-            "summary": "ผู้ผลิตรถยนต์กำลังเร่งนำระบบอัตโนมัติมาใช้ในโรงงานเพื่อรองรับความซับซ้อนของการเดินสายไฟและการประกอบโครงสร้างรถยนต์ EV",
-            "why": "สายการผลิตรถยนต์ EV แบบอัตโนมัติจำเป็นต้องใช้อุปกรณ์ขัดลบคมและเตรียมพื้นผิวด้วยหุ่นยนต์ แทนที่จะใช้แรงงานคน",
-            "action": "ศึกษาและเตรียมกลุ่มผลิตภัณฑ์ที่รองรับระบบขัดผิวอัตโนมัติและหุ่นยนต์ในโรงงานผลิตชิ้นส่วนรถยนต์"
+            "title": "คาดการณ์ตลาดแผ่นขัดเงาปี 2035: อุปสงค์จากเซมิคอนดักเตอร์และอิเล็กทรอนิกส์ดัน CAGR โต 4-6%",
+            "summary": "ตลาดแผ่นขัดเงาคาดว่าจะเติบโต 4-6% ต่อปี ขับเคลื่อนโดยงานขัดแต่งผิวเซมิคอนดักเตอร์และอิเล็กทรอนิกส์ขั้นสูง",
+            "why": "แผ่นขัดเงาเป็นวัสดุสิ้นเปลืองขั้นตอนสุดท้ายที่สำคัญ มาตรฐานอิเล็กทรอนิกส์ที่สูงขึ้นหมายถึงความต้องการเครื่องมือขัดผิวที่แม่นยำยิ่งขึ้น",
+            "action": "ติดตามแนวโน้มของแผ่นขัดเงาเฉพาะทางสำหรับซัพพลายเชนการผลิตไฮเทค"
           }
         },
         {
           "id": "20260924-w3",
-          "tag": "steel",
+          "tag": "coating",
           "rating": "amber",
-          "source": "S&P Global",
-          "date": "2026-01-12",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
-          "title": "Global steel industry battles surplus supply, protectionism",
-          "summary": "The global steel sector continues to face oversupply issues alongside rising trade protectionism measures across major markets.",
-          "why": "Steel production volume and mill utilization rates directly dictate local metal fabrication activity, which drives consumption of grinding discs and deburring abrasives.",
-          "action": "Keep an eye on local steel mill output and metal fabrication trends to anticipate shifts in workshop abrasive consumption.",
+          "source": "MarketsandMarkets",
+          "date": "2026-09-18",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcXFmaElYaEMzdkRGSGI2N3hRZmNYTjMtQXhybHZUMndkeDF2WHZRN1lHS3B2dVAwYTFQN1NXLXFpNFJCV2ViclRqbTRETDNyLWZlWmNGaVZvR1Q0YjlHb082NF9USVhjbEwtR3JTcmtyX3o3UkFpYlBIN2NGckFsX3lyQ3hXQjF0R0k3NUY2c3RhLVRXMXgzN2dpNGlIT1J4?oc=5",
+          "title": "North-America Industrial Coatings Market Size, Share, Trends, Growth Analysis Report, 2031",
+          "summary": "An analysis report outlines growth drivers and trends for the North American industrial coatings market through 2031.",
+          "why": "Industrial coatings and surface abrasives go hand in hand; pretreatment and surface prep are required before any coating application.",
+          "action": "Keep track of regional industrial coatings demand as an indirect indicator of surface prep activity.",
           "th": {
-            "title": "อุตสาหกรรมเหล็กโลกเผชิญหน้ากับภาวะล้นตลาดและมาตรการกีดกันทางการค้า",
-            "summary": "ภาคอุตสาหกรรมเหล็กทั่วโลกยังคงเผชิญกับปัญหาสินค้าล้นตลาดควบคู่ไปกับมาตรการปกป้องทางการค้าที่เพิ่มขึ้นในตลาดหลัก",
-            "why": "ปริมาณการผลิตเหล็กและอัตราการเดินเครื่องของโรงงานส่งผลโดยตรงต่อกิจกรรมการแปรรูปโลหะ ซึ่งเป็นตัวขับเคลื่อนการใช้แผ่นตัดและใบเจียร",
-            "action": "ติดตามผลผลิตของโรงงานเหล็กในประเทศและแนวโน้มการแปรรูปโลหะ เพื่อคาดการณ์ความต้องการใช้วัสดุขัดในภาคอุตสาหกรรม"
+            "title": "รายงานตลาดสารเคลือบอุตสาหกรรมในอเมริกาเหนือ: ขนาด ส่วนแบ่ง และแนวโน้มถึงปี 2031",
+            "summary": "รายงานวิเคราะห์เผยปัจจัยขับเคลื่อนและแนวโน้มการเติบโตของตลาดสารเคลือบอุตสาหกรรมในอเมริกาเหนือจนถึงปี 2031",
+            "why": "สารเคลือบอุตสาหกรรมและวัสดุขัดผิวมีความเกี่ยวข้องกันอย่างใกล้ชิด งานเตรียมพื้นผิวเป็นสิ่งจำเป็นเสมอก่อนการเคลือบ",
+            "action": "ติดตามความต้องการสารเคลือบอุตสาหกรรมในภูมิภาคต่างๆ เพื่อใช้เป็นดัชนีชี้วัดกิจกรรมการเตรียมพื้นผิว"
           }
         }
       ]
