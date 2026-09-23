@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-09-23",
+  "updated": "2026-09-24",
   "days": [
+    {
+      "date": "2026-09-24",
+      "summary": "Today's briefing focuses on global manufacturing shifts, including electronics-driven abrasive grains, EV assembly automation, and steel supply dynamics that influence industrial surface preparation demand.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปทิศทางอุตสาหกรรมโลกประจำวันนี้ เน้นการเติบโตของวัสดุขัดผิวสำหรับอิเล็กทรอนิกส์ ระบบอัตโนมัติในสายการผลิต EV และสถานการณ์เหล็กโลกที่มีผลต่อความต้องการงานเตรียมพื้นผิว"
+      },
+      "items": [
+        {
+          "id": "20260924-w1",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-09-22",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa3prOHdTb1BJS0dDaF9fWnpxMnRrUlB2dU9zdjJBRllhY2pBaU13V1Z3MGhRX19xR3RVVVVCbUpkbjRfd0ZMSzc3X2swMmtvSVVHYm5nazA1c3ZSZ2YxOGgxUTRkWVhweV9ULUd4My1MNnNTaWNtdGlaOVMzT2MtNzBqNUpxWHZ3aV9LOFZKeTNNdmZ3R0lFREh0SVB0Ym5sdlZtaHVTOTJOM1VBcjhiUTAxSDVHLXJBQWRBOTB3?oc=5",
+          "title": "Fused Alumina Market to Accelerate on Electronics Demand, Forecast Points Higher Toward 2035",
+          "summary": "The global fused alumina market is projected to grow steadily through 2035, heavily driven by precision finishing demands in the electronics and semiconductor sectors.",
+          "why": "Fused alumina is a core raw material for sandpaper, grinding wheels, and coated abrasives. Growth in electronics finishing signals strong demand for fine-grit abrasive products.",
+          "action": "Monitor high-grade fused alumina pricing and ensure reliable supply lines for precision finishing sectors.",
+          "th": {
+            "title": "ตลาดฟิวส์อะลูมิเนียมเติบโตตามความต้องการใช้อุปกรณ์อิเล็กทรอนิกส์ถึงปี 2035",
+            "summary": "ตลาดฟิวส์อะลูมิเนียมทั่วโลกมีแนวโน้มเติบโตต่อเนื่องจนถึงปี 2035 โดยได้รับแรงหนุนหลักจากความต้องการขัดแต่งความละเอียดสูงในอุตสาหกรรมอิเล็กทรอนิกส์และเซมิคอนดักเตอร์",
+            "why": "ฟิวส์อะลูมิเนียมเป็นวัตถุดิบหลักสำหรับกระดาษทรายและหินเจียร การเติบโตนี้บ่งชี้ถึงความต้องการผลิตภัณฑ์ขัดผิวความละเอียดสูงที่เพิ่มขึ้น",
+            "action": "ติดตามราชาตวัตถุดิบฟิวส์อะลูมิเนียมและรักษาเสถียรภาพห่วงโซ่อุปทานสำหรับกลุ่มงานขัดละเอียด"
+          }
+        },
+        {
+          "id": "20260924-w2",
+          "tag": "auto",
+          "rating": "green",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-09-10",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVjkzSTlDYzItRzJSVXhQSjc1a0ttQ0dIRVYxRDgxaHFiQ0x3c1ZsLTdZQ0RRSk04bmhjdHQ4ZGJrV0lLVk45XzQ5ZzQwN1VwMDNERWNWVEpJNTRVYzZqTFFmcEIyUUZRNG9LOHp6ODIxYm80eEZrcTBOdENvenJqdktfcm5neXlITEZSRXNQclF2ZUpGUXVLTmY3SmhCRUlHdldDVC11QjRnZ3UtYzRlbzAwYS1yaW5oZV8zWmRMY2k?oc=5",
+          "title": "Smart-factory wiring woes: EVs demand automation now, not later",
+          "summary": "Automotive manufacturers are accelerating factory floor automation to handle complex EV wiring and structural assembly challenges.",
+          "why": "Automated EV assembly lines require robotic deburring, surface conditioning, and precision finishing tools rather than manual labor.",
+          "action": "Explore partnerships or product lines suited for robotic finishing and automated automotive component manufacturing.",
+          "th": {
+            "title": "ปัญหาการเดินสายไฟในโรงงานอัจฉริยะ: รถยนต์ EV เร่งผลักดันระบบอัตโนมัติทันที",
+            "summary": "ผู้ผลิตรถยนต์กำลังเร่งนำระบบอัตโนมัติมาใช้ในโรงงานเพื่อรองรับความซับซ้อนของการเดินสายไฟและการประกอบโครงสร้างรถยนต์ EV",
+            "why": "สายการผลิตรถยนต์ EV แบบอัตโนมัติจำเป็นต้องใช้อุปกรณ์ขัดลบคมและเตรียมพื้นผิวด้วยหุ่นยนต์ แทนที่จะใช้แรงงานคน",
+            "action": "ศึกษาและเตรียมกลุ่มผลิตภัณฑ์ที่รองรับระบบขัดผิวอัตโนมัติและหุ่นยนต์ในโรงงานผลิตชิ้นส่วนรถยนต์"
+          }
+        },
+        {
+          "id": "20260924-w3",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "S&P Global",
+          "date": "2026-01-12",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
+          "title": "Global steel industry battles surplus supply, protectionism",
+          "summary": "The global steel sector continues to face oversupply issues alongside rising trade protectionism measures across major markets.",
+          "why": "Steel production volume and mill utilization rates directly dictate local metal fabrication activity, which drives consumption of grinding discs and deburring abrasives.",
+          "action": "Keep an eye on local steel mill output and metal fabrication trends to anticipate shifts in workshop abrasive consumption.",
+          "th": {
+            "title": "อุตสาหกรรมเหล็กโลกเผชิญหน้ากับภาวะล้นตลาดและมาตรการกีดกันทางการค้า",
+            "summary": "ภาคอุตสาหกรรมเหล็กทั่วโลกยังคงเผชิญกับปัญหาสินค้าล้นตลาดควบคู่ไปกับมาตรการปกป้องทางการค้าที่เพิ่มขึ้นในตลาดหลัก",
+            "why": "ปริมาณการผลิตเหล็กและอัตราการเดินเครื่องของโรงงานส่งผลโดยตรงต่อกิจกรรมการแปรรูปโลหะ ซึ่งเป็นตัวขับเคลื่อนการใช้แผ่นตัดและใบเจียร",
+            "action": "ติดตามผลผลิตของโรงงานเหล็กในประเทศและแนวโน้มการแปรรูปโลหะ เพื่อคาดการณ์ความต้องการใช้วัสดุขัดในภาคอุตสาหกรรม"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-09-23",
       "summary": "Today's briefing focuses on raw material market shifts in fused alumina and aluminum oxide, alongside automotive OEM trends and metal recycling expansion, signaling steady demand for precision surface finishing.",
@@ -884,70 +948,6 @@ window.WORLD_ARCHIVE = {
             "summary": "โลหะอุตสาหกรรมทั่วโลก โดยเฉพาะอลูมิเนียมและเหล็ก พุ่งแตะระดับสูงสุดในรอบหลายปีเนื่องจากข้อจำกัดด้านอุปทานและการปรับการผลิต",
             "why": "ราคาสเหล็กและอลูมิเนียมที่สูงขึ้นส่งผลต่อต้นทุนการแปรรูปโลหะและแหล่งวัตถุดิบ ซึ่งส่งผลโดยตรงต่อมุ่งเน้นงบประมาณของลูกค้าสำหรับหินเจียรและกระดาษทราย",
             "action": "ติดตามต้นทุนการผลิตโลหะอย่างใกล้ชิด เนื่องจากความผันผวนส่งผลกระทบโดยตรงต่อการใช้จ่ายของลูกค้า B2B ในกลุ่มสินค้าสิ้นเปลือง"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-09-10",
-      "summary": "Today's briefing features 3 key global signals covering EV assembly shifts, stainless steel powder markets, and automotive refinish coatings demand. These trends highlight ongoing surface preparation requirements across metal and automotive sectors.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปประเด็นแนวโน้มโลกประจำวันนี้ 3 เรื่องสำคัญ ครอบคลุมการเปลี่ยนแปลงในสายการผลิต EV ตลาดผงสแตนเลส และความต้องการสีพ่นซ่อมรถยนต์ ซึ่งสะท้อนถึงความต้องการเตรียมพื้นผิวในภาคอุตสาหกรรมโลหะและยานยนต์อย่างต่อเนื่อง"
-      },
-      "items": [
-        {
-          "id": "20260910-w1",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "marketsandmarkets.com",
-          "date": "2026-08-19",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWEhwQ2p3b3pNX0E1cGFWOGdvT2pLdGxXOFFLYWVnTS1zaXFnV0o4Nnl4cHFMQkE0RGFYdXFuekJaTVJ1U1Z0bGRJY1dTMk5hTEpVaWtMendld3NQb0ZtcmRWMFlHWlN2cUVKMUlmaE0zQy1aZ25STUlITUx1aTFTZ0w5X2c4TWxvMUhv?oc=5",
-          "title": "US Automotive Refinish Coatings Market Size, Share, Trends, Growth Analysis Report, 2030",
-          "summary": "The US automotive refinish coatings market is analyzed for growth trends and market size out to 2030, indicating steady demand in vehicle body repair and painting sectors.",
-          "why": "Body shop refinishing is a major end-user market for sanding discs, masking papers, and surface preparation abrasives.",
-          "action": "Monitor US and global refinish coating trends to anticipate demand for automotive sanding consumables.",
-          "th": {
-            "title": "ขนาดตลาดสีพ่นซ่อมรถยนต์ในสหรัฐฯ ส่วนแบ่ง แนวโน้ม รายงานการวิเคราะห์การเติบโต ปี 2030",
-            "summary": "ตลาดสีพ่นซ่อมรถยนต์ในสหรัฐฯ กำลังเติบโต ซึ่งบ่งบอกถึงความต้องการที่มั่นคงในภาคการซ่อมแซมและทำสีตัวถังรถยนต์",
-            "why": "อู่ซ่อมสีรถยนต์เป็นตลาดผู้ใช้หลักสำหรับแผ่นขัดกระดาษทราย แผ่นขัดลบรอย และวัสดุสิ้นเปลืองสำหรับการเตรียมพื้นผิว",
-            "action": "ติดตามแนวโน้มสีพ่นซ่อมรถยนต์ทั่วโลกเพื่อคาดการณ์ความต้องการใช้วัสดุขัดกระดาษทรายในกลุ่มยานยนต์"
-          }
-        },
-        {
-          "id": "20260910-w2",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "marketsandmarkets.com",
-          "date": "2025-12-03",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVXVYZWVHaDBhMjdYc1BFRjVnV01BWUJZZnBNd1FESWpfanVMUVFaZkxUNGYzT0VVX3ZvT0dGSVpMTmRNRVBpRjNQZ3QyWU5jM0MxQmhLZVQ1cTJsbF9LNGV2aGZpaVdZb0NrWndDWFZJZ0g4V2dTY1NkNU5Hd3NhZmx0dmNtYktWWHM5LXlfYVlxRnlNQVgyag?oc=5",
-          "title": "Stainless Steel Powder Market Report 2025-2030",
-          "summary": "A comprehensive market report detailing the growth of stainless steel powders through 2030, driven by advanced manufacturing and industrial applications.",
-          "why": "Stainless steel powder processing and parts finishing require specialized deburring, tumbling, and fine abrasive media.",
-          "action": "Keep an eye on powder metallurgy and additive manufacturing trends for emerging metal finishing needs.",
-          "th": {
-            "title": "รายงานตลาดผงสแตนเลส ปี 2025-2030",
-            "summary": "รายงานตลาดที่ให้รายละเอียดการเติบโตของผงสแตนเลสถึงปี 2030 ซึ่งขับเคลื่อนโดยการผลิตขั้นสูงและการใช้งานทางอุตสาหกรรม",
-            "why": "กระบวนการผลิตชิ้นส่วนจากผงสแตนเลสและการตกแต่งผิวต้องการวัสดุขัดและอุปกรณ์ลบคมที่มีความเฉพาะเจาะจง",
-            "action": "จับตาดูแนวโน้มโลหะวิทยาแบบผงและการผลิตแบบเพิ่มเนื้อวัสดุสำหรับความต้องการขัดแต่งผิวโลหะใหม่ๆ"
-          }
-        },
-        {
-          "id": "20260910-w3",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Benchmark Mineral Intelligence",
-          "date": "2026-01-15",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4bTlDdk1Pc2dKcFVvMm1SakpQMkJxNmxxRTZxbVpIeF9jQ0VTRmxOZWY3cWxZWWlSaVhuNnplZlVBZnMzbmdldU56WWdndFpMWGdQa0U5UXpxeW9aTlJia3FLY3BleE5n?oc=5",
-          "title": "Nickel: Battery-Grade Supply, LME Prices & Market Analysis",
-          "summary": "An analysis of battery-grade nickel supply and London Metal Exchange pricing trends impacting the broader EV manufacturing chain.",
-          "why": "Nickel is a critical metal for EV batteries, influencing stainless steel production and metal fabrication supply chains that require grinding and finishing.",
-          "action": "Track raw metal pricing trends as an indicator of broader manufacturing cost pressures in the metal sector.",
-          "th": {
-            "title": "นิกเกิล: อุปทานเกรดแบตเตอรี่ ราคา LME และการวิเคราะห์ตลาด",
-            "summary": "การวิเคราะห์อุปทานนิกเกิลเกรดแบตเตอรี่และแนวโน้มราคาตลาดโลหะลอนดอนที่ส่งผลกระทบต่อห่วงโซ่การผลิต EV โดยรวม",
-            "why": "นิกเกิลเป็นโลหะสำคัญสำหรับแบตเตอรี่ EV ซึ่งส่งผลต่อการผลิตสแตนเลสและห่วงโซ่อุปทานงานโลหะที่ต้องใช้กระบวนการเจียรและตกแต่งผิว",
-            "action": "ติดตามแนวโน้มราคาโลหะดิบเพื่อใช้เป็นตัวชี้วัดแรงกดดันด้านต้นทุนการผลิตในภาคอุตสาหกรรมโลหะ"
           }
         }
       ]
