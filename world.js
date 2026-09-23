@@ -4,64 +4,82 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-09-23",
-      "summary": "Today's global briefing highlights key shifts in industrial coatings markets across regions, semiconductor replacement demand driving specialized coated sanding sheets, and smart-factory automation challenges in EV production.",
+      "summary": "Today's briefing focuses on raw material market shifts in fused alumina and aluminum oxide, alongside automotive OEM trends and metal recycling expansion, signaling steady demand for precision surface finishing.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปทิศทางโลกประจำวันเน้นการเติบโตของตลาดเคลือบอุตสาหกรรมในภูมิภาคต่างๆ ความต้องการกระดาษทรายแผ่นเคลือบสำหรับอุตสาหกรรมอิเล็กทรอนิกส์ และความท้าทายด้านระบบอัตโนมัติในโรงงานผลิต EV"
+        "summary": "สรุปข่าววันนี้เน้นการเปลี่ยนแปลงของวัตถุดิบกลุ่มฟิวส์อะลูมิเนียมและอะลูมิเนียมออกไซด์ ควบคู่ไปกับแนวโน้มยานยนต์ OEM และการขยายตัวของการรีไซเคิลโลหะ ซึ่งบ่งชี้ถึงความต้องการงานขัดตกแต่งผิวที่ยังคงมีอย่างต่อเนื่อง"
       },
       "items": [
         {
           "id": "20260923-w1",
           "tag": "abrasive",
           "rating": "green",
-          "source": "indexbox.io",
-          "date": "2026-09-16",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNb0Q5M1RPYjlHdElGeXctWllESFpkc3l4U0IxckRudVdxdEM1RF9DVzBpRWNDV0tuX0x1dEZNN1llMlNvYk5qUHdzcUozMjRXVDdwckFOSHdRbkJpUUNQMUd1dll3SGJfZzMxUkR1cWJNek1fLTg0d2RxYkF1Z3dCSk5UbWNpSXJPeC1sSEVOWnBmRlJZQndtZS1HUXIwTFdGenRpVmVMdVI5aW1VVGpualdfeG93QWU5MkFoNTZtR0taWG5CZzNCREo2YXhxbU5UWm9BRGlOOTgtaXlROUg0U1pMWlhlX3Fx?oc=5",
-          "title": "Coated Sanding Sheets Market Forecast to 2035: Replacement Demand in Electronics and Semiconductor Finishing Drives 4–6% CAGR",
-          "summary": "The coated sanding sheets market is projected to grow at a 4-6% CAGR through 2035, heavily driven by replacement demand in electronics and semiconductor finishing applications.",
-          "why": "High-precision electronics and semiconductor manufacturing demand consistent, high-quality surface finishing, opening profitable niche opportunities for specialized coated abrasives.",
-          "action": "Consider exploring high-precision coated sanding sheets tailored for electronics and micro-finishing applications.",
+          "source": "IndexBox",
+          "date": "2026-09-22",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa3prOHdTb1BJS0dDaF9fWnpxMnRrUlB2dU9zdjJBRllhY2pBaU13V1Z3MGhRX19xR3RVVVVCbUpkbjRfd0ZMSzc3X2swMmtvSVVHYm5nazA1c3ZSZ2YxOGgxUTRkWVhweV9ULUd4My1MNnNTaWNtdGlaOVMzT2MtNzBqNUpxWHZ3aV9LOFZKeTNNdmZ3R0lFREh0SVB0Ym5sdlZtaHVTOTJOM1VBcjhiUTAxSDVHLXJBQWRBOTB3?oc=5",
+          "title": "Fused Alumina Market to Accelerate on Electronics Demand, Forecast Points Higher Toward 2035",
+          "summary": "The global fused alumina market is projected to grow toward 2035, heavily propelled by demand for high-precision electronics and semiconductor finishing applications.",
+          "why": "Fused alumina is a primary raw material for making high-quality sandpaper and grinding wheels. Higher demand upstream directly impacts abrasive manufacturing costs and supply.",
+          "action": "Monitor fused alumina raw material pricing and secure reliable supply chains for high-grade grains.",
           "th": {
-            "title": "ตลาดกระดาษทรายแผ่นเคลือบถึงปี 2035: ความต้องการเปลี่ยนทดแทนในอุตสาหกรรมอิเล็กทรอนิกส์และเซมิคอนดักเตอร์ดันอัตราเติบโต 4-6%",
-            "summary": "ตลาดกระดาษทรายแผ่นเคลือบคาดว่าจะเติบโต 4-6% ต่อปีจนถึงปี 2035 โดยขับเคลื่อนจากความต้องการเปลี่ยนทดแทนในงานขัดแต่งชิ้นส่วนอิเล็กทรอนิกส์และเซมิคอนดักเตอร์",
-            "why": "การผลิตอิเล็กทรอนิกส์และความแม่นยำสูงต้องการการขัดผิวที่สม่ำเสมอ เปิดโอกาสให้กลุ่มสินค้าวัสดุขัดเงาเฉพาะทางทำกำไรได้ดี",
-            "action": "พิจารณาศึกษาตลาดกระดาษทรายแผ่นเคลือบความละเอียดสูงสำหรับกลุ่มอุตสาหกรรมอิเล็กทรอนิกส์"
+            "title": "ตลาดฟิวส์อะลูมิเนียมเติบโตตามความต้องการในอุตสาหกรรมอิเล็กทรอนิกส์ คาดการณ์พุ่งสูงถึงปี 2035",
+            "summary": "ตลาดฟิวส์อะลูมิเนียมทั่วโลกมีแนวโน้มเติบโตถึงปี 2035 ขับเคลื่อนโดยความต้องการชิ้นส่วนอิเล็กทรอนิกส์ความแม่นยำสูงและการขัดตกแต่งเซมิคอนดักเตอร์",
+            "why": "ฟิวส์อะลูมิเนียมเป็นวัตถุดิบหลักในการผลิตกระดาษทรายและล้อเจียรคุณภาพสูง ความต้องการที่เพิ่มขึ้นต้นน้ำจะส่งผลโดยตรงต่อต้นทุนและอุปทานของสินค้ากลุ่มอัดเม็ดทราย",
+            "action": "ติดตามราคาวัตถุดิบฟิวส์อะลูมิเนียมและรักษาเสถียรภาพห่วงโซ่อุปทานสำหรับเม็ดทรายเกรดสูง"
           }
         },
         {
           "id": "20260923-w2",
-          "tag": "coating",
+          "tag": "abrasive",
           "rating": "green",
-          "source": "MarketsandMarkets",
-          "date": "2026-09-18",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaEtDOWNDZy15X3RwNGVyTTBHaUZ3a1FrUU9rMmpMVnBwNGJ3Rk1WUm1vaERWUE10a1A0MVU0NmlWRzd0aUNYd1hYZmY2b0FVVmRXSUNvQ1NabUhTanpUekN5X3daQkNzUFVjUldMa244SDE1dFFtWWZ4MWZpMUJkMWtSQjVDTEVjc1ZVazdzT2M1aGJDTXFB?oc=5",
-          "title": "Europe Industrial Coatings Market Size, Share, Trends, Growth Analysis Report, 2031",
-          "summary": "A new market analysis details the growth trajectory and trends for industrial coatings across Europe up to 2031, reflecting strong manufacturing surface treatment needs.",
-          "why": "Industrial coatings and abrasive surface preparation go hand in hand; growth in coatings points directly to increased metal and parts prep activity.",
-          "action": "Monitor European coating specs as an indicator for future industrial surface preparation standards.",
+          "source": "IndexBox",
+          "date": "2026-09-21",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUHU4VlhPWmlncTZzTEcwZGo4SHNBRWVYMTh4X2VtU2R1SHdJbG9pRk5uelVRcUNxLVdsSWt5VS02dDVBZjFJN3ByZlhaNkJnQ2llejN1LTB1MFY0S3NubVJ2RmdJaldDM1k0NEpfZFBadFlHSFlraENPdjVDR1dVVVRncU11Zms?oc=5",
+          "title": "Aluminum Oxide Sanding Disc Market Outlook to 2035",
+          "summary": "A comprehensive market outlook reveals steady long-term growth for aluminum oxide sanding discs across industrial and general fabrication sectors.",
+          "why": "Aluminum oxide discs are a core product line in our B2B catalog for metal and wood surface preparation.",
+          "action": "Ensure stable inventory and promotional focus on core aluminum oxide sanding discs.",
           "th": {
-            "title": "รายงานขนาด ส่วนแบ่ง และแนวโน้มตลาดสารเคลือบอุตสาหกรรมในยุโรปถึงปี 2031",
-            "summary": "บทวิเคราะห์ตลาดแสดงแนวโน้มการเติบโตของสารเคลือบอุตสาหกรรมในยุโรปถึงปี 2031 สะท้อนความต้องการการเตรียมพื้นผิวในการผลิตที่ยังคงแข็งแกร่ง",
-            "why": "งานเคลือบอุตสาหกรรมและการเตรียมพื้นผิวด้วยวัสดุขัดต้องทำร่วมกัน การเติบโตของสีเคลือบชี้ถึงกิจกรรมการเตรียมผิวโลหะและชิ้นส่วนที่เพิ่มขึ้น",
-            "action": "ติดตามมาตรฐานงานเคลือบของยุโรปเพื่อใช้เป็นสัญญาณเตือนล่วงหน้าสำหรับมาตรฐานการเตรียมพื้นผิว"
+            "title": "แนวโน้มตลาดแผ่นขัดอะลูมิเนียมออกไซด์ถึงปี 2035",
+            "summary": "ภาพรวมตลาดเผยให้เห็นการเติบโตในระยะยาวอย่างมั่นคงสำหรับแผ่นขัดอะลูมิเนียมออกไซด์ในภาคอุตสาหกรรมและการผลิตทั่วไป",
+            "why": "แผ่นขัดอะลูมิเนียมออกไซด์คือกลุ่มผลิตภัณฑ์หลักในแคตตาล็อก B2B ของเราสำหรับการเตรียมพื้นผิวโลหะและไม้",
+            "action": "รักษาระดับสินค้าคงคลังให้เสถียรและเน้นทำการตลาดกลุ่มแผ่นขัดอะลูมิเนียมออกไซด์ที่เป็นสินค้าหลัก"
           }
         },
         {
           "id": "20260923-w3",
           "tag": "auto",
           "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-09-10",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVjkzSTlDYzItRzJSVXhQSjc1a0ttQ0dIRVYxRDgxaHFiQ0x3c1ZsLTdZQ0RRSk04bmhjdHQ4ZGJrV0lLVk45XzQ5ZzQwN1VwMDNERWNWVEpJNTRVYzZqTFFmcEIyUUZRNG9LOHp6ODIxYm80eEZrcTBOdENvenJqdktfcm5neXlITEZSRXNQclF2ZUpGUXVLTmY3SmhCRUlHdldDVC11QjRnZ3UtYzRlbzAwYS1yaW5oZV8zWmRMY2k?oc=5",
-          "title": "Smart-factory wiring woes: EVs demand automation now, not later",
-          "summary": "Automotive manufacturers are facing complex wiring and assembly challenges in electric vehicles, pushing an urgent shift toward advanced factory automation.",
-          "why": "As EV production lines automate and adapt to new structural designs, the tooling and deburring processes for vehicle body parts must evolve accordingly.",
-          "action": "Keep an eye on automated robotic deburring trends required for modern EV manufacturing lines.",
+          "source": "Fortune Business Insights",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXjjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
+          "title": "Automotive OEM Coatings Market Size, Share | Growth [2034]",
+          "summary": "The automotive OEM coatings sector continues to evolve with a strong emphasis on advanced surface treatments and protective finishes.",
+          "why": "Automotive manufacturing and painting lines require rigorous surface preparation and sanding before coating application.",
+          "action": "Track surface prep standards used by automotive Tier-1 suppliers for new coating applications.",
           "th": {
-            "title": "ปัญหาการเดินสายไฟในสมาร์ทแฟกทอรี่: รถยนต์ EV ต้องการระบบอัตโนมัติทันที",
-            "summary": "ผู้ผลิตรถยนต์เผชิญความท้าทายด้านการเดินสายไฟและการประกอบในรถยนต์ไฟฟ้า ผลักดันให้เกิดการปรับเปลี่ยนสู่ระบบอัตโนมัติในโรงงานอย่างเร่งด่วน",
-            "why": "เมื่อสายการผลิต EV เปลี่ยนเป็นระบบอัตโนมัติและปรับรับโครงสร้างใหม่ กระบวนการขัดลบครีบ (deburring) สำหรับชิ้นส่วนรถยนต์จึงต้องพัฒนาตามไปด้วย",
-            "action": "จับตาดูแนวโน้มการใช้ระบบหุ่นยนต์ขัดลบครีบอัตโนมัติที่จำเป็นในสายการผลิต EV สมัยใหม่"
+            "title": "ขนาดส่วนแบ่งและอัตราการเติบโตของตลาดเคลือบสีรถยนต์ OEM ถึงปี 2034",
+            "summary": "อุตสาหกรรมเคลือบสีรถยนต์ OEM ยังคงพัฒนาอย่างต่อเนื่องโดยเน้นการเคลือบผิวขั้นสูงและการปกป้องพื้นผิว",
+            "why": "กระบวนการผลิตและพ่นสีรถยนต์ต้องอาศัยการเตรียมพื้นผิวและการขัดที่เข้มงวดก่อนการพ่นเคลือบ",
+            "action": "ติดตามมาตรฐานการเตรียมพื้นผิวที่ใช้โดยผู้ผลิตชิ้นส่วนยานยนต์ Tier-1 สำหรับการเคลือบสีใหม่ๆ"
+          }
+        },
+        {
+          "id": "20260923-w4",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "Fortune Business Insights",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92cGoxdE1hdU1yLU5SOWdZVkp2OFp3VVRVY0pTUTdYR1VMRGtTQld5emF1LWxTV1VvZ0NOT0ZBLWJoNkxJVlVVV0hyd0RDdWlXNW13SDAtbjdtMVYzVC0tdURJeWg2SzBTM3BLQmh5aVliYVQ4eWNidg?oc=5",
+          "title": "Metal Recycling Market Size, Share | Growth Forecast [2034]",
+          "summary": "The global metal recycling market is expanding as industries push for circular economies and sustainable metal sourcing.",
+          "why": "Recycled metal structures and components require heavy weld cleaning, deburring, and surface re-conditioning using industrial abrasives.",
+          "action": "Target metal recycling and fabrication workshops with heavy-duty grinding and deburring solutions.",
+          "th": {
+            "title": "การคาดการณ์ขนาดส่วนแบ่งและการเติบโตของตลาดรีไซเคิลโลหะถึงปี 2034",
+            "summary": "ตลาดรีไซเคิลโลหะทั่วโลกกำลังขยายตัวตามความต้องการเศรษฐกิจหมุนเวียนและการจัดหาโลหะอย่างยั่งยืน",
+            "why": "โครงสร้างและชิ้นส่วนโลหะรีไซเคิลต้องผ่านการทำความสะอาดรอยเชื่อม การลบคม และการปรับสภาพพื้นผิวด้วยวัสดุขัดอุตสาหกรรม",
+            "action": "เจาะกลุ่มตลาดรีไซเคิลโลหะและโรงงานแปรรูปด้วยโซลูชันงานเจียรและลบคมงานหนัก"
           }
         }
       ]
