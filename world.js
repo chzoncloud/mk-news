@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-09-24",
+  "updated": "2026-09-25",
   "days": [
+    {
+      "date": "2026-09-25",
+      "summary": "Today's briefing features new signals from electronics finishing demands for coated sanding sheets, shifts in regional industrial coatings markets, and ongoing steel demand contraction.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปรายงานวันนี้เน้นสัญญาณใหม่จากความต้องการขัดผิวงานอิเล็กทรอนิกส์สำหรับแผ่นขัดทราย การเปลี่ยนแปลงของตลาดเคลือบอุตสาหกรรมระดับภูมิภาค และภาวะความต้องการเหล็กที่ลดลงอย่างต่อเนื่อง"
+      },
+      "items": [
+        {
+          "id": "20260925-w1",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "indexbox.io",
+          "date": "2026-09-16",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNb0Q5M1RPYjlHdElGeXctWllESFpkc3l4U0IxckRudVdxdEM1RF9DVzBpRWNDV0tuX0x1dEZNN1llMlNvYk5qUHdzcUozMjRXVDdwckFOSHdRbkJpUUNQMUd1dll3SGJfZzMxUkR1cWJNek1fLTg0d2RxYkF1Z3dCSk5UbWNpSXJPeC1sSEVOWnBmRlJZQndtZS1HUXIwTFdGenRpVmVMdVI5aW1VVGpualdfeG93WWU5MkFoNTZtR0taWG5CZzNCREo2YXhxbU5UWm9BRGlOOTgtaXlROUg0U1pMWlhlX3Fx?oc=5",
+          "title": "Coated Sanding Sheets Market Forecast to 2035: Replacement Demand in Electronics and Semiconductor Finishing Drives 4–6% CAGR",
+          "summary": "The global market for coated sanding sheets is projected to see steady growth driven primarily by high-precision replacement demands in electronics and semiconductor manufacturing.",
+          "why": "Highlights a lucrative high-margin vertical (electronics/semiconductors) requiring precision coated abrasives rather than heavy industrial stock removal.",
+          "action": "Evaluate our product lineup for fine-grit coated sheets targeted at electronics and precision component finishing.",
+          "th": {
+            "title": "ตลาดแผ่นกระดาษทรายเคลือบถึงปี 2035: ความต้องการเปลี่ยนทดแทนในงานตกแต่งอิเล็กทรอนิกส์และเซมิคอนดักเตอร์ขับเคลื่อนการเติบโต 4-6%",
+            "summary": "ตลาดโลกสำหรับแผ่นกระดาษทรายเคลือบคาดว่าจะเติบโตอย่างมั่นคง ขับเคลื่อนโดยความต้องการเปลี่ยนทดแทนที่มีความแม่นยำสูงในอุตสาหกรรมการผลิตอิเล็กทรอนิกส์และเซมิคอนดักเตอร์",
+            "why": "เน้นย้ำถึงตลาดเฉพาะกลุ่มที่มีกำไรสูง (อิเล็กทรอนิกส์/เซมิคอนดักเตอร์) ซึ่งต้องการวัสดุขัดเคลือบที่มีความแม่นยำสูง แทนที่จะเป็นงานขัดหยาบในอุตสาหกรรมหนัก",
+            "action": "ประเมินกลุ่มผลิตภัณฑ์แผ่นขัดความละเอียดสูงของเราเพื่อเจาะตลาดการตกแต่งชิ้นส่วนอิเล็กทรอนิกส์และอุปกรณ์ความแม่นยำ"
+          }
+        },
+        {
+          "id": "20260925-w2",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "MarketsandMarkets",
+          "date": "2026-09-18",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaEtDOWNDZy15X3RwNGVyTTBHaUZ3a1FrUU9rMmpMVnBwNGJ3Rk1WUm1vaERWUE10a1A0MVU0NmlWRzd0aUNYd1hYZmY2b0FVVmRXSUNvQ1NabUhTanpUekN5X3daQkNzUFVjUldMa244SDE1dFFtWWZ4MWZpMUJkMWtSQjVDTEVjc1ZVazdzT2M1aGJDTXFB?oc=5",
+          "title": "Europe Industrial Coatings Market Size, Share, Trends, Growth Analysis Report, 2031",
+          "summary": "A comprehensive report outlining long-term trends, size, and growth drivers for the European industrial coatings sector through 2031.",
+          "why": "Industrial coatings and abrasives are closely tied; changes in European coating volumes directly influence surface prep and sanding requirements.",
+          "action": "Monitor European industrial manufacturing standards and eco-friendly coating regulations that impact surface treatment methods.",
+          "th": {
+            "title": "รายงานขนาด ส่วนแบ่ง แนวโน้ม และการวิเคราะห์การเติบโตของตลาดเคลือบอุตสาหกรรมยุโรป ปี 2031",
+            "summary": "รายงานฉบับสมบูรณ์ระบุแนวโน้มระยะยาว ขนาด และปัจจัยขับเคลื่อนการเติบโตของภาคการเคลือบอุตสาหกรรมในยุโรปจนถึงปี 2031",
+            "why": "สารเคลือบอุตสาหกรรมและวัสดุขัดมีความเกี่ยวުރ้องกันอย่างใกล้ชิด การเปลี่ยนแปลงปริมาณการเคลือบในยุโรปส่งผลโดยตรงต่อความต้องการในการเตรียมพื้นผิวและการขัด",
+            "action": "ติดตามมาตรฐานการผลิตอุตสาหกรรมของยุโรปและกฎระเบียบการเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมซึ่งส่งผลต่อวิธีการเตรียมพื้นผิว"
+          }
+        },
+        {
+          "id": "20260925-w3",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "Progressive Policy Institute",
+          "date": "2026-09-24",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTeHd1akw0WFVaUWFucjdlRWp1cFBVQjRiRi1rWFd2WlNVRkQzanJJMmpMV3BBM0QxVEF5N2FZcmFMSFNxQ3M1VTQ5c1VJYjhJRVRQQVM3M2tac1FFMGdSSlZ4eTdQdzNINFB1MDR0a09haWhpNkFIVV9aWlA?oc=5",
+          "title": "American Industry Is Using Less Steel",
+          "summary": "Recent data reveals a contraction in domestic steel consumption across various sectors in the United States, signaling shifts in heavy manufacturing demand.",
+          "why": "Lower steel usage directly correlates with reduced metal fabrication, cutting, and grinding activity, impacting baseline abrasive consumption.",
+          "action": "Keep an eye on global steel demand indicators to adjust inventory levels for metal-grinding discs and heavy-duty abrasives.",
+          "th": {
+            "title": "อุตสาหกรรมอเมริกันกำลังใช้เหล็กน้อยลง",
+            "summary": "ข้อมูลล่าสุดเผยให้เห็นการหดตัวของการบริโภคเหล็กภายในประเทศในภาคส่วนต่างๆ ของสหรัฐอเมริกา ซึ่งบ่งชี้ถึงการเปลี่ยนแปลงของความต้องการในการผลิตหนัก",
+            "why": "การใช้เหล็กที่ลดลงมีความสัมพันธ์โดยตรงกับการลดลงของกิจกรรมการขึ้นรูป การตัด และการเจียรโลหะ ซึ่งส่งผลกระทบต่อปริมาณการใช้วัสดุขัดพื้นฐาน",
+            "action": "ติดตามตัวชี้วัดความต้องการเหล็กทั่วโลกเพื่อปรับระดับสินค้าคงคลังสำหรับแผ่นเจียรโลหะและวัสดุขัดงานหนัก"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-09-24",
       "summary": "Today's briefing focuses on global automotive manufacturing shifts, steel industry volatility, and surface finishing technology updates that impact B2B industrial demand.",
@@ -884,70 +948,6 @@ window.WORLD_ARCHIVE = {
             "summary": "ตลาดสีพ่นซ่อมรถยนต์ในภูมิภาคหลักอย่างสหรัฐอเมริกายังคงพัฒนาอย่างต่อเนื่อง โดยเน้นเทคโนโลยีสารเคลือบพิเศษและประสิทธิภาพในการซ่อมแซม",
             "why": "ปริมาณงานซ่อมสีและตัวถังรถยนต์เป็นตัวกำหนดความต้องการที่สม่ำเสมอสำหรับกระดาษทราย แผ่นขัด และวัสดุเตรียมพื้นผิว",
             "action": "จับตาดูความต้องการของร้านซ่อมตัวถังรถยนต์ที่มีต่อแผ่นขัดความทนทานสูงและระบบเตรียมพื้นผิวสำหรับรถยนต์"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-09-11",
-      "summary": "Today's briefing focuses on automotive manufacturing shifts, industrial robotics automation, and structural metal market conditions impacting surface finishing and abrasives demand globally.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปประเด็นข่าววันนี้เน้นการเปลี่ยนแปลงในอุตสาหกรรมการผลิตรถยนต์ ระบบอัตโนมัติหุ่นยนต์ในโรงงาน และสถานการณ์ตลาดโลหะโครงสร้าง ซึ่งส่งผลกระทบต่อความต้องการงานขัดผิวและวัสดุกัดกร่อนทั่วโลก"
-      },
-      "items": [
-        {
-          "id": "20260911-w1",
-          "tag": "auto",
-          "rating": "green",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-09-10",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVjkzSTlDYzItRzJSVXhQSjc1a0ttQ0dIRVYxRDgxaHFiQ0x3c1ZsLTdZQ0RRSk04bmhjdHQ4ZGJrV0lLVk45XzQ5ZzQwN1VwMDNERWNWVEpJNTRVYzZqTFFmcEIyUUZRNG9LOHp6ODIxYm80eEZrcTBOdENvenJqdktfcm5neXlITEZSRXNQclF2ZUpGUXVLTmY3SmhCRUlHdldDVC11QjRnZ3UtYzRlbzAwYS1yaW5oZV8zWmRMY2k",
-          "title": "Smart-factory wiring woes: EVs demand automation now, not later",
-          "summary": "Electric vehicle production lines are accelerating automation timelines due to complex wiring and assembly challenges, transforming smart factory footprints.",
-          "why": "As EV assembly lines adopt higher levels of automated wiring and robotics, demand shifts toward automated surface prep, deburring, and specialized robotic-compatible abrasives.",
-          "action": "Monitor growth in automated robotic sanding and deburring solutions for EV manufacturing lines.",
-          "th": {
-            "title": "ปัญหาการเดินสายไฟในโรงงานอัจฉริยะ: รถยนต์ไฟฟ้า (EV) เรียกร้องระบบอัตโนมัติทันที",
-            "summary": "สายการผลิตรถยนต์ไฟฟ้ากำลังเร่งกรอบเวลาการใช้ระบบอัตโนมัติเนื่องจากความซับซ้อนของการเดินสายไฟและการประกอบ",
-            "why": "เมื่อสายการผลิต EV หันมาใช้ระบบอัตโนมัติและหุ่นยนต์มากขึ้น ความต้องการจึงเปลี่ยนไปสู่งานเตรียมพื้นผิว การลบคมอัตโนมัติ และกระดาษทรายที่รองรับการทำงานของหุ่นยนต์",
-            "action": "ติดตามการเติบโตของโซลูชันการขัดและลบคมด้วยหุ่นยนต์อัตโนมัติสำหรับสายการผลิตรถยนต์ EV"
-          }
-        },
-        {
-          "id": "20260911-w2",
-          "tag": "auto",
-          "rating": "green",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-09-02",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUUpWSmpHLVowSXdiLUJqcFlpQ3ZfRmdQYjJiTVFCNk00ZW0tM0ZqenQtd2F4emNVNEdzT3Q3amZ3M050YnNuTldQZFQyTlgyX3ByekdEbkdlaURacG5yRlBUSEZucnBQalBmNzVadXVrSDdXcEd0d2t4UXptUzJ5dXZ6ckE1Q3RVV3IyUkY4SFdVSERveVJYem0yM3lNbWFUY1dXWHYyRFZ2cXdldWFqRmJTNE4tQ1RXWWp4N3NCN1h5Vmt3d3hEbkFPc2ZqT0k",
-          "title": "A global AI manufacturing transformation at Hyundai Motor Group",
-          "summary": "Hyundai Motor Group is rolling out comprehensive artificial intelligence integrations across its global manufacturing operations to optimize production efficiency.",
-          "why": "AI-driven manufacturing optimizes quality control and robotic finishing processes, setting new precision benchmarks for metal and body-in-white surface treatment.",
-          "action": "Prepare for stricter automated finish tolerances required by major automotive OEMs deploying AI manufacturing.",
-          "th": {
-            "title": "การเปลี่ยนแปลงการผลิตด้วย AI ทั่วโลกของฮุนได มอเตอร์ กรุ๊ป",
-            "summary": "ฮุนได มอเตอร์ กรุ๊ป กำลังนำการบูรณาการปัญญาประดิษฐ์มาใช้ทั่วโลกเพื่อเพิ่มประสิทธิภาพการผลิต",
-            "why": "การผลิตที่ขับเคลื่อนด้วย AI ช่วยเพิ่มประสิทธิภาพการควบคุมคุณภาพและกระบวนการขัดผิว ทำให้เกิดมาตรฐานความแม่นยำใหม่สำหรับการเตรียมพื้นผิวโลหะและตัวถังรถยนต์",
-            "action": "เตรียมพร้อมรับมือกับเกณฑ์ความเผื่อของงานขัดผิวอัตโนมัติที่เข้มงวดขึ้นจากค่ายรถยนต์รายใหญ่ที่ใช้การผลิตด้วย AI"
-          }
-        },
-        {
-          "id": "20260911-w3",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "FinancialContent",
-          "date": "2026-03-27",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNREp0R2c5MDlEQnlKN0toMm9Ma1lDTmpzazZlUEtzWnpMOTR5NW1KUW5sd21hZzJpYWFVQ2ZfUFM5MTNyUjFlS3NleWFkUHgtSnlGM0ZkRHNjcEhIRF9ucHpEQUo2SzMxMzVVU3p4Skw1eHVrcVZfVWJMRmoyUmZqalRwWlRDelE3UmZuZ3N1WGN5R0JDV2VsLWlGenpqQ01Oc01IYmh0Ni1naG9kUFZLeVY5WUM0cWdDcjdTZjlpeHdWQXExVFl5cmE4ak9yWExkRlFKRkZrQnFiMTNKQzB5Y09COXFaYVM4R2xySmU3RWNXbElRT2lET3BnV3o1QQ",
-          "title": "Industrial Metals Hit Multi-Year Highs: Aluminum and Steel Surge Amid Global Supply Constraints",
-          "summary": "Global industrial metals, notably aluminum and steel, have surged to multi-year highs driven by ongoing supply constraints and production adjustments.",
-          "why": "Higher steel and aluminum prices impact metal fabrication costs and material sourcing, directly influencing customer budgets for grinding and cutting abrasives.",
-          "action": "Keep close tabs on metal fabrication input costs as fluctuations directly affect B2B customer spending on consumable tools.",
-          "th": {
-            "title": "โลหะอุตสาหกรรมพุ่งแตะระดับสูงสุดในรอบหลายปี: อลูมิเนียมและเหล็กพุ่งสูงขึ้นท่ามกลางข้อจำกัดด้านอุปทานโลก",
-            "summary": "โลหะอุตสาหกรรมทั่วโลก โดยเฉพาะอลูมิเนียมและเหล็ก พุ่งแตะระดับสูงสุดในรอบหลายปีเนื่องจากข้อจำกัดด้านอุปทานและการปรับการผลิต",
-            "why": "ราคาสเหล็กและอลูมิเนียมที่สูงขึ้นส่งผลต่อต้นทุนการแปรรูปโลหะและแหล่งวัตถุดิบ ซึ่งส่งผลโดยตรงต่อมุ่งเน้นงบประมาณของลูกค้าสำหรับหินเจียรและกระดาษทราย",
-            "action": "ติดตามต้นทุนการผลิตโลหะอย่างใกล้ชิด เนื่องจากความผันผวนส่งผลกระทบโดยตรงต่อการใช้จ่ายของลูกค้า B2B ในกลุ่มสินค้าสิ้นเปลือง"
           }
         }
       ]
