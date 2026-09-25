@@ -4,82 +4,82 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-09-26",
-      "summary": "Today's briefing focuses on global industrial shifts in industrial coatings markets, specialty ceramic/zirconia abrasives demand for electronics finishing, and the US steel industry rising amid trade tariffs.",
-      "directCount": 3,
+      "summary": "Today's briefing highlights global shifts in industrial coatings, European market growth, and digital manufacturing integration. We tracked 4 key insights spanning coatings and regional market trajectories.",
+      "directCount": 2,
       "th": {
-        "summary": "สรุปรายงานวันนี้เน้นการเปลี่ยนแปลงของตลาดเคลือบผิวอุตสาหกรรม ความต้องการวัสดุขัดประเภทเซรามิกและเซอร์โคเนียสำหรับงานอิเล็กทรอนิกส์ และการเติบโตของอุตสาหกรรมเหล็กสหรัฐฯ จากมาตรการภาษี"
+        "summary": "สรุปสถานการณ์โลกวันนี้เน้นการเปลี่ยนแปลงของอุตสาหกรรมสีเคลือบ การเติบโตของตลาดในยุโรป และการผสานรวมการผลิตดิจิทัล โดยเราได้คัด 4 ประเด็นสำคัญเกี่ยวกับสารเคลือบและทิศทางตลาดภูมิภาค"
       },
       "items": [
         {
           "id": "20260926-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "marketresearchfuture.com",
-          "date": "2026-08-24",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY0JpWXlQSC1LeGU2eUdGRW1zTEZ4amNoRXAyUWcxcnpWbEdzWmprSTBFM1htcllTNmQtdlRENmZ2NlhXbV9oNTlJbnJ0UjV5cENzZC1yTUdwM21YRi0wZUxBd1l6ODNDM1NxSUdQcFMwMGpCRnJuY041elNoT1RSRA?oc=5",
-          "title": "Ceramic Flap Disc Market Size, Share & Growth Report 2035",
-          "summary": "The global ceramic flap disc market is projected to expand significantly through 2035, driven by high-performance metal fabrication and heavy-duty grinding needs.",
-          "why": "Ceramic grain is a premium, high-margin line in our abrasive portfolio. Tracking this growth helps us align our stock with high-end metalworking demands.",
-          "action": "Ensure stable sourcing of ceramic flap discs and promote their longevity benefits to heavy metal fabrication clients.",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "European Coatings",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
+          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
+          "summary": "The coatings industry is accelerating towards digital transformation, sustainability, and advanced product innovations to meet new environmental and efficiency demands.",
+          "why": "Surface prep and abrasives must adapt to match new eco-friendly and high-performance coatings being developed globally.",
+          "action": "Monitor how sustainable coating formulations change surface preparation and sanding requirements.",
           "th": {
-            "title": "ตลาดแผ่นขัดซ้อนเซรามิก (Ceramic Flap Disc) เติบโตต่อเนื่องถึงปี 2035",
-            "summary": "ตลาดแผ่นขัดซ้อนเซรามิกทั่วโลกมีแนวโน้มขยายตัวอย่างมากจนถึงปี 2035 ขับเคลื่อนด้วยความต้องการงานขึ้นรูปโลหะประสิทธิภาพสูงและการเจียรหนัก",
-            "why": "เม็ดทรายเซรามิกเป็นสินค้าพรีเมียมที่มีอัตรากำไรสูง การติดตามการเติบโตนี้ช่วยให้เราจัดสต็อกสินค้าให้สอดคล้องกับความต้องการงานโลหะระดับบน",
-            "action": "รักษาแหล่งจัดซื้อแผ่นขัดเซรามิกให้มั่นคง และโปรโมตจุดเด่นเรื่องอายุการใช้งานที่ยาวนานให้กับลูกค้ากลุ่มอุตสาหกรรมโลหะหนัก"
+            "title": "กำหนดอนาคตยุคใหม่แห่งสีเคลือบ: นวัตกรรม ความยั่งยืน และพลังแห่งดิจิทัล",
+            "summary": "อุตสาหกรรมสีเคลือบกำลังเร่งไปสู่การเปลี่ยนผ่านสู่ดิจิทัล ความยั่งยืน และนวัตกรรมผลิตภัณฑ์ขั้นสูงเพื่อตอบสนองความต้องการด้านสิ่งแวดล้อมและประสิทธิภาพใหม่",
+            "why": "งานเตรียมพื้นผิวและกระดาษทรายต้องปรับตัวให้สอดคล้องกับสีเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมและมีประสิทธิภาพสูงที่กำลังพัฒนาทั่วโลก",
+            "action": "ติดตามว่าสูตรสีเคลือบที่ยั่งยืนส่งผลต่อความต้องการในการเตรียมพื้นผิวและการขัดอย่างไร"
           }
         },
         {
           "id": "20260926-w2",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-09-20",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYlNPVXBmWG5YRTBvcFB1LXlsUlpseU44QUV6UjdCUzZfQVZRTUtscVJUdmxNbThRazVpcjE5cEdta2gxX2N1TENvWE1FeWg1NmxaSGNTMDlrWVZHZVBMOGoxdmZTcVE4VHUzcDdmMjFzVEFNU3JvVTh2WFZUOFY2UHhRQ2lqb0ZYdGRBUXYydGYtMmROckE3ZHVKVWprekFVNndxNWNzSS1scy1XY2FvRHFQLURQcExiU3VLUmZVcDlpbm9IQUZYU0FVRVZiWEZBb2x0OFJSdFU?oc=5",
-          "title": "Zirconia Abrasive Grain Market to Accelerate on Electronics Finishing Demand",
-          "summary": "Demand for zirconia abrasive grain is accelerating, bolstered by precision finishing requirements in the electronics manufacturing sector.",
-          "why": "Zirconia is essential for heavy stock removal and durable sanding belts/discs. Expanding electronics sector finishing creates new niche opportunities.",
-          "action": "Explore niche marketing for zirconia belts and discs aimed at precision component and electronics hardware manufacturers.",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "MarketsandMarkets",
+          "date": "2026-09-18",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaEtDOWNDZy15X3RwNGVyTTBHaUZ3a1FrUU9rMmpMVnBwNGJ3Rk1WUm1vaERWUE10a1A0MVU0NmlWRzd0aUNYd1hYZmY2b0FVVmRXSUNvQ1NabUhTanpUekN5X3daQkNzUFVjUldMa244SDE1dFFtWWZ4MWZpMUJkMWtSQjVDTEVjc1ZVazdzT2M1aGJDTXFB?oc=5",
+          "title": "Europe Industrial Coatings Market Size, Share, Trends, Growth Analysis Report, 2031",
+          "summary": "Market analysis projects steady growth for industrial coatings across Europe through 2031, driven by industrial manufacturing and protective application demands.",
+          "why": "Strong industrial coating activity in Europe signals robust downstream demand for surface finishing, polishing, and sanding tools.",
+          "action": "Keep an eye on European finishing standards and machinery trends that often influence global B2B buyer expectations.",
           "th": {
-            "title": "ตลาดเม็ดทรายขัดเซอร์โคเนียเร่งตัวขึ้นจากความต้องการตกแต่งผิวอิเล็กทรอนิกส์",
-            "summary": "ความต้องการเม็ดทรายขัดเซอร์โคเนียกำลังเร่งตัวขึ้น หนุนโดยความต้องการงานตกแต่งผิวความแม่นยำสูงในภาคการผลิตอิเล็กทรอนิกส์",
-            "why": "เซอร์โคเนียเป็นวัสดุสำคัญสำหรับงานขัดลบเนื้อโลหะหนักและกระดาษทรายสายพาน/แผ่นกลมที่ทนทาน การขยายตัวในภาคอิเล็กทรอนิกส์สร้างโอกาสใหม่ๆ",
-            "action": "สำรวจตลาดเฉพาะกลุ่มสำหรับสายพานและแผ่นขัดเซอร์โคเนียที่มุ่งเป้าไปยังผู้ผลิตชิ้นส่วนความแม่นยำและฮาร์ดแวร์อิเล็กทรอนิกส์"
+            "title": "รายงานขนาด ส่วนแบ่ง แนวโน้ม และการวิเคราะห์การเติบโตของตลาดสีเคลือบอุตสาหกรรมยุโรป ถึงปี 2031",
+            "summary": "การวิเคราะห์ตลาดคาดการณ์การเติบโตอย่างต่อเนื่องของสีเคลือบอุตสาหกรรมทั่วยุโรปจนถึงปี 2031 ขับเคลื่อนโดยภาคการผลิตอุตสาหกรรมและความต้องการการเคลือบป้องกัน",
+            "why": "กิจกรรมสีเคลือบอุตสาหกรรมที่แข็งแกร่งในยุโรปบ่งบอกถึงความต้องการขั้นปลายน้ำที่แข็งแกร่งสำหรับเครื่องมือตกแต่งผิว ขัดเงา และขัดกระดาษทราย",
+            "action": "จับตาดูมาตรฐานการตกแต่งพื้นผิวและแนวโน้มเครื่องจักรของยุโรป ซึ่งมักมีอิทธิพลต่อความคาดหวังของผู้ซื้อ B2B ทั่วโลก"
           }
         },
         {
           "id": "20260926-w3",
           "tag": "coating",
           "rating": "amber",
-          "source": "MarketsandMarkets",
-          "date": "2026-09-18",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcXFmaElYaEMzdkRGSGI2N3hRZmNYTjMtQXhybHZUMndkeDF2WHZRN1lHS3B2dVAwYTFQN1NXLXFpNFJCV2ViclRqbTRETDNyLWZlWmNGaVZvR1Q0YjlHb082NF9USVhjbEwtR3JTcmtyX3o3UkFpYlBIN2NGckFsX3lyQ3hXQjF0R0k3NUY2c3RhLVRXMXgzN2dpNGlIT1J4?oc=5",
-          "title": "North-America Industrial Coatings Market Size, Share, Trends, Growth Analysis Report, 2031",
-          "summary": "The North American industrial coatings market is analyzed for steady growth through 2031, reflecting broad manufacturing and infrastructure investments.",
-          "why": "Industrial coatings and surface abrasives go hand in hand; coating market trends indicate overall manufacturing activity and surface prep volume.",
-          "action": "Monitor North American coating innovations as a leading indicator for surface preparation techniques that will reach Asia later.",
+          "source": "Precedence Research",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOU01tbEkxd3pyNFhxa1NWeFM2QlRlMUFjeWVJRmFMTTF0R3VweWotbFY4WGVtMUhEcFotMlNjZWxRNHFQOUQwcVB2ZzQ2TU11WFBUcWctazlBSjV1aVBlUENkZk9XLWZKd1FUMl93?oc=5",
+          "title": "Paints and Coatings Market Companies, Size & Trends 2026-2035",
+          "summary": "A comprehensive outlook on the global paints and coatings market highlights key players, market sizing, and long-term expansion drivers up to 2035.",
+          "why": "Paints and coatings consumption directly mirrors the volume of surface treatment, metal prep, and industrial sanding required globally.",
+          "action": "Use long-term coatings market growth forecasts to plan inventory and distributor partnerships for industrial abrasives.",
           "th": {
-            "title": "รายงานขนาดและแนวโน้มตลาดสารเคลือบอุตสาหกรรมในอเมริกาเหนือถึงปี 2031",
-            "summary": "ตลาดสารเคลือบอุตสาหกรรมในอเมริกาเหนือถูกคาดการณ์ว่าจะมีเติบโตอย่างมั่นคงถึงปี 2031 สะท้อนถึงการลงทุนในภาคการผลิตและโครงสร้างพื้นฐาน",
-            "why": "สารเคลือบอุตสาหกรรมและวัสดุขัดผิวเป็นสิ่งที่ใช้คู่กัน แนวโน้มตลาดสารเคลือบช่วยบ่งบอกกิจกรรมการผลิตและปริมาณงานเตรียมพื้นผิวโดยรวม",
-            "action": "ติดตามนวัตกรรมสารเคลือบจากอเมริกาเหนือเพื่อใช้เป็นสัญญาณล่วงหน้าสำหรับเทคนิคการเตรียมผิวที่จะเข้ามาในเอเชียในอนาคต"
+            "title": "บริษัท ขนาด และแนวโน้มตลาดสีและสารเคลือบ ปี 2026-2035",
+            "summary": "มุมมองที่ครอบคลุมเกี่ยวกับตลาดสีและสารเคลือบระดับโลก เน้นย้ำถึงผู้เล่นหลัก ขนาดตลาด และปัจจัยขับเคลื่อนการขยายตัวระยะยาวจนถึงปี 2035",
+            "why": "การบริโภคสีและสารเคลือบสะท้อนถึงปริมาณการเตรียมผิว การเตรียมโลหะ และการขัดอุตสาหกรรมที่จำเป็นทั่วโลกโดยตรง",
+            "action": "ใช้การคาดการณ์การเติบโตของตลาดสีเคลือบระยะยาวเพื่อวางแผนสินค้าคงคลังและความร่วมมือกับผู้จัดจำหน่ายสำหรับผลิตภัณฑ์กระดาษทรายอุตสาหกรรม"
           }
         },
         {
           "id": "20260926-w4",
-          "tag": "steel",
+          "tag": "coating",
           "rating": "amber",
-          "source": "economy.ac",
-          "date": "2026-09-22",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YQWhOYlJ3eW9jTUhwa25XdE55eHh3a2JoODhWdDAtOW00UzhXcWwtNnJJXzZGMjMtNXN6MTYwTUhib3ZHUDNXaTdIbWY2N092QXNsOXFfdw?oc=5",
-          "title": "'Trump Tariffs and AI Boom' Propel U.S. Steel Past Japan to World No. 3",
-          "summary": "Driven by trade policies and tech-driven industrial demand, U.S. steel production has surpassed Japan to become the world's third-largest producer.",
-          "why": "Shifts in global steel production geography impact raw material supply chains, local metal fabrication activity, and abrasives consumption.",
-          "action": "Keep an eye on how US steel market shifts affect global pricing and export availability of steel used in local engineering.",
+          "source": "marketresearchfuture.com",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE40VENBdkR6MDRta2Z3Wl9sb2JhakcwVzJKb1pGQmU3RGpvWGJsVWNFNTBiVzVUMnlCNnNhRXVtZWduczV1WmFON2tkakpQRmZDajM2Ty1kX0tUWW53X3NWOVppb3dNbS16TUlPWFBQMG9za28zcm9WT2NNWQ?oc=5",
+          "title": "Epoxy Coatings Market Size, Share & Growth Report 2035 | MRFR",
+          "summary": "The epoxy coatings market report outlines steady sector expansion through 2035, driven by heavy-duty flooring, marine, and industrial anti-corrosion applications.",
+          "why": "Epoxy-coated metal and concrete surfaces require rigorous mechanical surface preparation and abrasive blasting or sanding before application.",
+          "action": "Identify opportunities to supply heavy-duty sanding and grinding products to contractors specializing in epoxy flooring and structural steel prep.",
           "th": {
-            "title": "'ภาษีการค้าและบูม AI' ดันเหล็กสหรัฐฯแซงญี่ปุ่นขึ้นเป็นเบอร์ 3 ของโลก",
-            "summary": "ขับเคลื่อนด้วยนโยบายการค้าและความต้องการทางอุตสาหกรรมที่ขับเคลื่อนด้วยเทคโนโลยี การผลิตเหล็กของสหรัฐฯแซงหน้าญี่ปุ่นขึ้นเป็นผู้ผลิตรายใหญ่อันดับ 3 ของโลก",
-            "why": "การเปลี่ยนแปลงภูมิศาสตร์การผลิตเหล็กโลกส่งผลกระทบต่อห่วงโซ่อุปทานวัตถุดิบ กิจกรรมการแปรรูปโลหะในท้องถิ่น และการใช้วัสดุขัด",
-            "action": "จับตาดูว่าการเปลี่ยนแปลงตลาดเหล็กสหรัฐฯ ส่งผลต่อราคาระดับโลกและความพร้อมในการส่งออกเหล็กที่ใช้ในงานวิศวกรรมท้องถิ่นอย่างไร"
+            "title": "รายงานขนาด ส่วนแบ่ง และการเติบโตของตลาดสีเคลือบอีพ็อกซี่ ปี 2035 | MRFR",
+            "summary": "รายงานตลาดสีเคลือบอีพ็อกซี่ระบุการขยายตัวของภาคส่วนอย่างต่อเนื่องจนถึงปี 2035 ขับเคลื่อนโดยงานพื้นสำหรับงานหนัก งานทางทะเล และงานป้องกันการกัดกร่อนในอุตสาหกรรม",
+            "why": "พื้นผิวโลหะและคอนกรีตที่เคลือบอีพ็อกซี่จำเป็นต้องมีการเตรียมพื้นผิวทางกลไกอย่างเข้มงวดและการพ่นทรายหรือขัดก่อนการเคลือบ",
+            "action": "ระบุโอกาสในการจัดหาผลิตภัณฑ์ขัดและเจียรสำหรับงานหนักให้กับผู้รับเหมาที่เชี่ยวชาญด้านพื้นอีพ็อกซี่และการเตรียมเหล็กโครงสร้าง"
           }
         }
       ]
