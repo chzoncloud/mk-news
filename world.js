@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-09-25",
-      "summary": "Today's briefing highlights 3 new strategic signals focused on industrial coatings growth, high-performance disc developments for demanding cutting tasks, and subsidiary shifts in the global abrasives sector.",
+      "summary": "Today's briefing highlights shifts in precision mineral demand for electronics finishing, regional industrial coating updates, and structural changes in industrial metal and manufacturing inputs.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปประเด็นข่าววันนี้เน้น 3 สัญญาณเชิงกลยุทธ์ใหม่ ได้แก่ การเติบโตของตลาดสีอุตสาหกรรม, การพัฒนาแผ่นขัดประสิทธิภาพสูงสำหรับงานตัดที่ท้าทาย, และการเปลี่ยนแปลงของบริษัทลูกในอุตสาหกรรมวัสดุขัดระดับโลก"
+        "summary": "สรุปประเด็นข่าววันนี้เน้นการเติบโตของวัตถุดิบขัดถูสำหรับงานอิเล็กทรอนิกส์ แนวโน้มตลาดเคลือบผิวอุตสาหกรรม และการเปลี่ยนแปลงโครงสร้างโลหะและภาคการผลิต"
       },
       "items": [
         {
           "id": "20260925-w1",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "MarketsandMarkets",
-          "date": "2026-09-18",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcXFmaElYaEMzdkRGSGI2N3hRZmNYTjMtQXhybHZUMndkeDF2WHZRN1lHS3B2dVAwYTFQN1NXLXFpNFJCV2ViclRqbTRETDNyLWZlWmNGaVZvR1Q0YjlHb082NF9USVhjbEwtR3JTcmtyX3o3UkFpYlBIN2NGckFsX3lyQ3hXQjF0R0k3NUY2c3RhLVRXMXgzN2dpNGlIT1J4?oc=5",
-          "title": "North-America Industrial Coatings Market Size, Share, Trends, Growth Analysis Report, 2031",
-          "summary": "The North-America industrial coatings market report projects steady expansion through 2031, driven by advanced manufacturing and protective finish requirements.",
-          "why": "Industrial coatings growth often goes hand-in-hand with pre- and post-surface preparation abrasives demand in heavy manufacturing.",
-          "action": "Monitor North American coating specifications to anticipate high-end surface prep media trends.",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-09-16",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNb0Q5M1RPYjlHdElGeXctWllESFpkc3l4U0IxckRudVdxdEM1RF9DVzBpRWNDV0tuX0x1dEZNN1llMlNvYk5qUHdzcUozMjRXVDdwckFOSHdRbkJpUUNQMUd1dll3SGJfZzMxUkR1cWJNek1fLTg0d2RxYkF1Z3dCSk5UbWNpSXJPeC1sSEVOWnBmRlJZQndtZS1HUXIwTFdGenRpVmVMdVI5aW1VVGpualdfeG93WWU5MkFoNTZtR0taWG5CZzNCREo2YXhxbU5UWm9BRGlOOTgtaXlROUg0U1pMWlhlX3Fx?oc=5",
+          "title": "Coated Sanding Sheets Market Forecast to 2035: Replacement Demand in Electronics and Semiconductor Finishing Drives 4–6% CAGR",
+          "summary": "The coated sanding sheets market is projected to see steady growth driven by replacement demand in high-tech electronics and semiconductor finishing.",
+          "why": "Signals a clear growth vertical for precision coated abrasives beyond traditional metalworking into high-value electronics manufacturing.",
+          "action": "Evaluate our product lineup for fine-grit coated sheets suited for electronic component and semiconductor supply chains.",
           "th": {
-            "title": "รายงานขนาด ส่วนแบ่ง และแนวโน้มตลาดสีอุตสาหกรรมในอเมริกาเหนือ ถึงปี 2031",
-            "summary": "รายงานตลาดสีอุตสาหกรรมอเมริกาเหนือคาดการณ์การเติบโตอย่างต่อเนื่องจนถึงปี 2031 ขับเคลื่อนโดยความต้องการการผลิตขั้นสูงและการเคลือบผิวป้องกัน",
-            "why": "การเติบโตของสีอุตสาหกรรมมักดำเนินควบคู่ไปกับความต้องการใช้วัสดุขัดสำหรับการเตรียมพื้นผิวก่อนและหลังการเคลือบในอุตสาหกรรมการผลิตหนัก",
-            "action": "ติดตามข้อกำหนดการเคลือบผิวในอเมริกาเหนือเพื่อคาดการณ์แนวโน้มความต้องการวัสดุเตรียมพื้นผิวระดับไฮเอนด์"
+            "title": "ตลาดกระดาษทรายเคลือบถึงปี 2035: ความต้องการในอุตสาหกรรมอิเล็กทรอนิกส์และเซมิคอนดักเตอร์หนุนการเติบโต",
+            "summary": "ตลาดกระดาษทรายเคลือบมีแนวโน้มเติบโตต่อเนื่อง ขับเคลื่อนโดยความต้องการเปลี่ยนทดแทนในงานตกแต่งผิวชิ้นส่วนอิเล็กทรอนิกส์และเซมิคอนดักเตอร์ไฮเทค",
+            "why": "เป็นสัญญาณบ่งชี้โอกาสเติบโตของกระดาษทรายขัดความละเอียดสูง นอกเหนือจากงานโลหะทั่วไปสู่อุตสาหกรรมอิเล็กทรอนิกส์มูลค่าสูง",
+            "action": "ประเมินกลุ่มผลิตภัณฑ์กระดาษทรายขัดละเอียดของเราว่าสอดคล้องกับความต้องการของห่วงโซ่อุปทานอิเล็กทรอนิกส์และเซมิคอนดักเตอร์หรือไม่"
           }
         },
         {
           "id": "20260925-w2",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "Cutting Tool Engineering",
-          "date": "2026-01-22",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE93Z2pIbXdKeWhpTHU1dU5XUDdxTGJsa1l5blhyYlZRanhTb3RuWmVUdGxiNmRWYjBOZC04NGs5OG9kRS1OOGpiQjdabTFCTndYZzhzU2M5bDNaT0RxeHVFSUpRUQ?oc=5",
-          "title": "Coolcut XX Sanding Discs",
-          "summary": "Cutting Tool Engineering highlights specialized heavy-duty sanding discs engineered for aggressive material removal and cooler cutting performance.",
-          "why": "Directly relevant to our core abrasive lines; innovations in heat reduction during grinding improve tool life and user satisfaction.",
-          "action": "Evaluate high-performance cool-cutting discs for potential sourcing or benchmarking against our current metal-grinding products.",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "MarketsandMarkets",
+          "date": "2026-09-18",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaXU3LUZMbTh1MWl1RGJRcEJ1VzF4a2JFVkJ1dkNHbW44WHdKLXU0MlhLOEc1YTdtMjdQcWdVX3BBbGxnc3p2ZWJCakp5cU93d1U3Wmh2alB3cTFsMFF2VEY5YllGbnJ0V2lSZWJPa3llaGJTaXZWNTBibG9RUlhfNXpBdmE5VmM2VHRTZkhsNUpNaTlKRkJNUFpR?oc=5",
+          "title": "Thailand Industrial Coatings Market Size, Share, Trends, Growth Analysis Report, 2031",
+          "summary": "A comprehensive look at growth factors, size, and shares within Thailand's industrial coatings sector through 2031.",
+          "why": "Industrial coating activity closely parallels surface preparation and pre-painting abrasive consumption in local manufacturing plants.",
+          "action": "Cross-reference industrial coating growth sectors in Thailand with our direct B2B customer targets.",
           "th": {
-            "title": "แผ่นขัดทราย Coolcut XX",
-            "summary": "สื่อ Cutting Tool Engineering นำเสนอแผ่นขัดงานหนักเฉพาะทางที่ออกแบบมาเพื่อการลบเนื้อวัสดุอย่างรวดเร็วและลดความร้อนขณะขัด",
-            "why": "เกี่ยวข้องโดยตรงกับกลุ่มผลิตภัณฑ์วัสดุขัดหลักของเรา นวัตกรรมการลดความร้อนระหว่างการเจียรช่วยยืดอายุการใช้งานของเครื่องมือและความพึงพอใจของลูกค้า",
-            "action": "ประเมินแผ่นขัดที่ช่วยลดความร้อนประสิทธิภาพสูงสำหรับการจัดหาหรือใช้เปรียบเทียบกับผลิตภัณฑ์เจียรโลหะที่มีอยู่ของเรา"
+            "title": "รายงานขนาด ส่วนแบ่ง และแนวโน้มตลาดสีเคลือบอุตสาหกรรมไทย ถึงปี 2031",
+            "summary": "ภาพรวมเชิงลึกเกี่ยวกับปัจจัยการเติบโต ขนาด และส่วนแบ่งตลาดในภาคสีเคลือบอุตสาหกรรมของประเทศไทยจนถึงปี 2031",
+            "why": "กิจกรรมการเคลือบอุตสาหกรรมมีความเชื่อมโยงโดยตรงกับปริมาณการใช้กระดาษทรายและวัสดุขัดเพื่อเตรียมพื้นผิวก่อนพ่นสีในโรงงาน",
+            "action": "นำข้อมูลการเติบโตของอุตสาหกรรมการเคลือบในไทยมาเทียบเคียงกับกลุ่มลูกค้าเป้าหมาย B2B ของเรา"
           }
         },
         {
           "id": "20260925-w3",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "Univest",
-          "date": "2026-08-07",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFMG44UFZ0TFdzby1NbUVUZGRublRBUzZOaENmTzRwWlN3Vm5KZXJIbGx0Ukt4VU5WS3BUV2hLSXZOMnItMDhzQk5RczlmZERBd1oyN2hoUF8tbFJmQy12YnZKYzlzYi0wZlhabA?oc=5",
-          "title": "Grindwell Norton Share Pros and Cons: Saint-Gobain's India Abrasives Subsidiary",
-          "summary": "An analysis of Grindwell Norton, the Indian subsidiary of global abrasive giant Saint-Gobain, highlights operational positioning and market dynamics.",
-          "why": "Keeping an eye on global multinational subsidiaries (like Saint-Gobain) gives us visibility into regional supply chain shifts and pricing pressures.",
-          "action": "Review competitor subsidiary movements in emerging Asian hubs to ensure competitive positioning.",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "Progressive Policy Institute",
+          "date": "2026-09-24",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTeHd1akw0WFVaUWFucjdlRWp1cFBVQjRiRi1rWFd2WlNVRkQzanJJMmpMV3BBM0QxVEF5N2FZcmFMSFNxQ3M1VTQ5c1VJYjhJRVRQQVM3M2tac1FFMGdSSlZ4eTdQdzNINFB1MDR0a09haWhpNkFIVV9aWlA?oc=5",
+          "title": "American Industry Is Using Less Steel",
+          "summary": "Recent data and analysis show shifting structural trends in American manufacturing leading to lower overall steel consumption.",
+          "why": "Changes in primary steel consumption impact metal fabrication volume, which directly dictates heavy grinding and deburring consumable demand.",
+          "action": "Monitor global metal consumption trends to anticipate shifts in heavy industrial abrasive demand.",
           "th": {
-            "title": "วิเคราะห์ข้อดีข้อเสียหุ้น Grindwell Norton: บริษัทลูกด้านวัสดุขัดในอินเดียของ Saint-Gobain",
-            "summary": "บทวิเคราะห์ของ Grindwell Norton ซึ่งเป็นบริษัทลูกในอินเดียของยักษ์ใหญ่วัสดุขัดระดับโลกอย่าง Saint-Gobain สะท้อนถึงตำแหน่งทางการตลาดและพลวัตของห่วงโซ่อุปทาน",
-            "why": "การจับตาดูบริษัทลูกของกลุ่มข้ามชาติระดับโลก (เช่น Saint-Gobain) ช่วยให้เราเห็นภาพการเปลี่ยนแปลงของห่วงโซ่อุปทานระดับภูมิภาคและแรงกดดันด้านราคา",
-            "action": "ตรวจสอบความเคลื่อนไหวของบริษัทลูกคู่แข่งในศูนย์กลางการผลิตเกิดใหม่ในเอเชียเพื่อรักษาความสามารถในการแข่งขัน"
+            "title": "อุตสาหกรรมสหรัฐฯ ใช้เหล็กกล้าน้อยลง",
+            "summary": "ข้อมูลและบทวิเคราะห์ล่าสุดแสดงให้เห็นถึงการเปลี่ยนแปลงเชิงโครงสร้างในภาคการผลิตของสหรัฐฯ ส่งผลให้การบริโภคเหล็กโดยรวมลดลง",
+            "why": "การเปลี่ยนแปลงของการบริโภคเหล็กขั้นต้นส่งผลกระทบต่อปริมาณงานแปรรูปโลหะ ซึ่งกำหนดความต้องการใช้วัสดุขัดหยาบและลบคมโดยตรง",
+            "action": "ติดตามแนวโน้มการบริโภคโลหะทั่วโลกเพื่อคาดการณ์การเปลี่ยนแปลงความต้องการใช้วัสดุขัดในอุตสาหกรรมหนัก"
           }
         }
       ]
