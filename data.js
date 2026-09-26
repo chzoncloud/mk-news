@@ -3,64 +3,64 @@ window.NEWS_ARCHIVE = {
   "days": [
     {
       "date": "2026-09-27",
-      "summary": "There are relatively few new headlines today. The most notable development is the Thai Commerce Ministry pressing GWM and SAIC Motor to increase local parts sourcing, which directly benefits our Tier 1/2 metalworking abrasive demand.",
+      "summary": "There are few new developments today; key updates center on EV import taxes linked to local parts, national MRO hub investments, and furniture export contraction forecasts.",
       "directCount": 1,
       "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยประเด็นเด่นที่สุดคือกระทรวงพาณิชย์เจรจาเร่งรัดให้ GWM และ SAIC Motor เพิ่มสัดส่วนการใช้ชิ้นส่วนในประเทศ ซึ่งส่งผลบวกโดยตรงต่อความต้องการวัสดุขัดในกลุ่มผู้ผลิตชิ้นส่วนโลหะ Tier 1/2 ของเรา"
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก ประเด็นสำคัญอยู่ที่การปรับภาษีอีวีที่ผูกกับการใช้ชิ้นส่วนในประเทศ แผนลงทุนศูนย์ซ่อม MRO อู่ตะเภา และการคาดการณ์การส่งออกเฟอร์นิเจอร์ชะลอตัว"
       },
       "items": [
         {
           "id": "20260927-1",
           "tag": "auto",
           "rating": "green",
-          "source": "commercenewsagency",
-          "date": "2026-09-25",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wZXd2YXhtWWpXczRGaVdJeVpnWTNRZE9Bb0dxSzYxb01FZEk0WTlMTk1VLWM4WGxINmdHY2hzTW1jdlhhNWh4U2pnYVl0Q0lRNnNuZGhJVQ?oc=5",
-          "title": "Commerce Ministry Urges GWM and SAIC to Maximize Thai Local Parts Sourcing",
-          "summary": "The Commerce Ministry met with Chinese EV leaders GWM and SAIC Motor to encourage higher local investments and deeper integration of Thai auto parts suppliers. The government aims to connect local manufacturers directly into the Chinese EV supply chain.",
-          "why": "Mandating higher local content forces EV makers and Tier 1 suppliers to machine, stamp, and finish metal components locally, driving direct demand for deburring, grinding, and surface-finishing abrasives.",
-          "action": "Map and approach Tier 1 and Tier 2 metal-stamping and casting suppliers contracted with GWM and SAIC to introduce MK grinding discs and sanding belts.",
+          "source": "ข่าวหุ้นธุรกิจออนไลน์",
+          "date": "2026-09-10",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02VFpVaGk2WGlKU2I3ZlBkN1JtUUFQczdkN3laQ2lIUTE2YWliZGFWZDZCOTdmdVVKUnVYaHZoS1FZSzdobUptXzdKTmlXTmo5Y1M0?oc=5",
+          "title": "National EV Board Ties Import Incentives to Mandatory Local Component Sourcing",
+          "summary": "The National EV Board has endorsed revised EV tax guidelines that condition import privileges on tangible investment in local component manufacturing. This policy aims to safeguard Thailand's automotive supply chain during the transition to electric vehicles.",
+          "why": "Mandating local components pushes foreign EV makers to contract Thai Tier-1/Tier-2 stamping, welding, and machining plants, directly increasing factory demand for grinding wheels, flap discs, and deburring belts.",
+          "action": "Pitch ceramic grinding discs and deburring flap wheels to Tier-1 metal stamping vendors bidding on new EV structural component contracts.",
           "th": {
-            "title": "พาณิชย์ถก GWM-SAIC Motor ยักษ์ใหญ่ EV จีน เพิ่มลงทุนและใช้ชิ้นส่วนไทย",
-            "summary": "กระทรวงพาณิชย์เข้าหารือกับบิ๊กยานยนต์จีน GWM และ SAIC Motor เพื่อผลักดันการลงทุนและดึงซัพพลายเออร์ชิ้นส่วนยานยนต์ไทยเข้าสู่ห่วงโซ่อุปทานการผลิต EV",
-            "why": "การผลักดันให้ใช้ชิ้นส่วนในประเทศมากขึ้น จะเร่งให้โรงงานปั๊มขึ้นรูปและกลึงโลหะผลิตงานเพิ่มขึ้น ส่งผลบวกโดยตรงต่อความต้องการใช้วัสดุขัด เจียร และลบครีบของ MK",
-            "action": "เร่งตรวจสอบรายชื่อโรงงาน Tier 1 และ Tier 2 ที่ส่งชิ้นส่วนให้ GWM และ SAIC เพื่อนำเสนอจานขัดและสายพานผ้าทรายสำหรับงานขึ้นรูปโลหะ"
+            "title": "บอร์ดอีวีเคาะเกณฑ์ภาษีใหม่ ผูกสิทธินำเข้ากับการลงทุนใช้ชิ้นส่วนในประเทศ",
+            "summary": "บอร์ดอีวีเห็นชอบแนวทางการปรับภาษีรถยนต์ไฟฟ้า โดยกำหนดให้สิทธินำเข้าต้องแลกด้วยการลงทุนผลิตและใช้ชิ้นส่วนในประเทศ หวังรักษาห่วงโซ่อุปทานเดิมของไทย",
+            "why": "การบังคับใช้ชิ้นส่วนในประเทศทำให้โรงงานปั๊มขึ้นรูป เชื่อมประกอบ และแปรรูปโลหะในไทยมีงานเพิ่มขึ้น ส่งผลให้ความต้องการใช้วัสดุขัดลบครีบและเจียรรอยเชื่อมเพิ่มขึ้นโดยตรง",
+            "action": "เร่งเข้าพบซัพพลายเออร์ปั๊มขึ้นรูปโครงสร้างโลหะ Tier-1 เพื่อนำเสนอจานทรายซ้อนและใบเจียรเซรามิกสำหรับงานผลิตชิ้นส่วนอีวีรุ่นใหม่"
           }
         },
         {
           "id": "20260927-2",
-          "tag": "auto",
+          "tag": "aero",
           "rating": "amber",
-          "source": "ditp.go.th",
-          "date": "2026-09-23",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pWWtMYlMtbEc3eTVkcWVCTTlQQ0Z5UWZUTTFLSmhCcE5XRFVYeGlMQ2JjVVZSOHE2U2RPSlNPUzhpRHduSjExdUFSZXZrVEhFMDgzQ3NuNFdUbEdVVjRnNDh3?oc=5",
-          "title": "Ford Considers Chennai Plant as EV Production Hub for Asia-Pacific",
-          "summary": "Ford is evaluating plans to repurpose its manufacturing facility in Chennai, India, into an EV production base dedicated to serving the Asia-Pacific export market. This highlights Tamil Nadu's growing supply chain competitiveness in regional EV manufacturing.",
-          "why": "If international automakers prioritize India as an EV export hub over Thailand, local auto assembly and parts manufacturing volumes could face long-term growth limitations.",
-          "action": "Keep close track of regional export volume shifts and expand MK's customer base into non-export-dependent Tier 2/3 metal fabricators.",
+          "source": "thansettakij",
+          "date": "2026-02-22",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WYk9IRDVDZTBaVk54WmhwM0g4RjhJR3hBT19NaG1kZ2x6UGtobHU2bXBoYV9ZeXIxb2NSdENWR1BoVGFndXhTSWt3cjFQcFUyWS1EdEhpb1loV1R0dXUtbnpn?oc=5",
+          "title": "Thai Airways Prepares 100-Aircraft Fleet and 10 Billion Baht U-Tapao MRO Hub",
+          "summary": "Thai Airways is expanding its operational fleet to 100 aircraft and committing 10 billion baht to develop its comprehensive MRO center at U-Tapao airport. The hub will serve both internal fleet maintenance and third-party regional airlines.",
+          "why": "Large-scale domestic aircraft maintenance creates recurring long-term demand for high-spec, aviation-certified abrasives for paint stripping, composite repair, and turbine blade finishing.",
+          "action": "Audit current abrasive inventory against aviation maintenance specifications to prepare product lines for future MRO sub-tier tenders.",
           "th": {
-            "title": "Ford พิจารณาใช้โรงงานเจนไน เป็นฐานผลิต EV ส่งออกตลาดเอเชียแปซิฟิก",
-            "summary": "ฟอร์ดกำลังศึกษาความเป็นไปได้ในการเปลี่ยนโรงงานที่เมืองเจนไน ประเทศอินเดีย ให้กลายเป็นฐานผลิตรถยนต์ไฟฟ้าเพื่อส่งออกไปยังตลาดเอเชียแปซิฟิก สะท้อนการเติบโตของซัพพลายเชนในอินเดีย",
-            "why": "หากค่ายรถยนต์ระดับโลกหันไปใช้ฐานผลิตในอินเดียเพื่อส่งออกแทนไทย อาจจำกัดอัตราการเติบโตของยอดผลิตประกอบและชิ้นส่วนยานยนต์ในไทยระยะยาว",
-            "action": "ติดตามการย้ายฐานการผลิตเพื่อประเมินความเสี่ยง และเร่งกระจายยอดขายไปยังกลุ่มงานแปรรูปโลหะทั่วไปที่ไม่พึ่งพาการส่งออกรถยนต์เพียงอย่างเดียว"
+            "title": "การบินไทยเดินหน้าจัดทัพฝูงบิน 100 ลำ พร้อมทุ่ม 1 หมื่นล้านดันศูนย์ซ่อม MRO อู่ตะเภา",
+            "summary": "การบินไทยวางแผนขยายฝูงบินเป็น 100 ลำ พร้อมเดินหน้าแผนร่วมทุน 1 หมื่นล้านบาท สร้างศูนย์ซ่อมบำรุงอากาศยาน (MRO) อู่ตะเภา เพื่อรองรับทั้งฝูงบินตัวเองและสายการบินในภูมิภาค",
+            "why": "ศูนย์ซ่อมอากาศยานขนาดใหญ่จะสร้างความต้องการใช้วัสดุขัดเกรดเฉพาะทางอย่างต่อเนื่อง เช่น งานขัดลอกสีลำตัวเครื่องบิน งานเจียรชิ้นส่วนเครื่องยนต์ และงานผิวคอมโพสิต",
+            "action": "ตรวจสอบมาตรฐานและคัดเลือกกลุ่มสินค้ารองรับงาน MRO อากาศยาน เพื่อเตรียมความพร้อมในการเข้าเป็นผู้จัดจำหน่ายวัสดุขัดให้กับผู้รับเหมาช่วงงานซ่อมบำรุง"
           }
         },
         {
           "id": "20260927-3",
-          "tag": "aero",
+          "tag": "furniture",
           "rating": "amber",
-          "source": "thansettakij",
-          "date": "2026-08-01",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJbG91NDM0Z1ZuZmRPYUc4dlRzSXYwVXRnb1l5dGZyZUJLSDZqUXhOSnVzSXVQeTdRME04Y1c5TVB5SC0wOENDcm9VeDhaT3Fha0ZocE90aEgzNXpNOGVmYklR?oc=5",
-          "title": "Thai Airways Commits Over 100 Billion Baht to Expand Fleet to 150 Aircraft",
-          "summary": "Thai Airways is pursuing a major 100-billion-baht strategy to expand its operational fleet to 150 aircraft to regain global competitiveness. This significant fleet expansion will drive substantial domestic maintenance, repair, and overhaul (MRO) workloads.",
-          "why": "A large commercial fleet operating domestically guarantees recurring airframe surface preparation, paint removal, and composite sanding work, expanding the addressable MRO abrasives market.",
-          "action": "Accelerate product qualification and contact engineers at Thai Airways Technical Department to evaluate MK's specialized aerospace surface-finishing abrasives.",
+          "source": "kasikornresearch.com",
+          "date": "2025-10-09",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR0I3LUFaeENxbzdDQVF4UDdVMFlmRWp4Y3BBdFZ6OGFQeUdZZ3Y5dHA5Q2ZxRXJIaTUtLVNVY29QM3RuSk1RMmpaeXhucHEwLWRiMFlsbkJRNEtYY3RWSDZNNXRBUXdfb0hDV0IzR1pkRW5ERC1xSkQtN21WZTVveUNtdURRYmN3QjQxUDRHS2g1dDNkSGdRVVJGU2tBNGJ3WDREcGh1N2VrdnN6MExB?oc=5",
+          "title": "Thai Furniture Exports Face 4.5% Contraction in 2026 After Pre-Tariff Rush",
+          "summary": "Kasikorn Research forecasts a 4.5% decline in Thai furniture exports for 2026 after strong 2025 growth, attributed to high US inventory accumulation. Exporters face declining volume and pressure to manage overhead costs.",
+          "why": "A slowdown in export wooden furniture manufacturing will decrease volume orders for industrial wide sanding belts and paper rolls in domestic wood mills.",
+          "action": "Counter factory-level volume softness by accelerating retail sanding pack listings for DIY woodworkers and refurbishment shops via Shopee and TikTok.",
           "th": {
-            "title": "การบินไทย ทุ่มแสนล้าน ดันฝูงบินแตะ 150 ลำ ทวงบัลลังก์การบิน",
-            "summary": "การบินไทยเตรียมทุ่มงบกว่าแสนล้านบาทเพื่อขยายฝูงบินสู่ 150 ลำ เสริมศักยภาพการแข่งขันระดับโลก ซึ่งจะส่งผลให้ปริมาณงานซ่อมบำรุงอากาศยาน (MRO) ในไทยเติบโตตามอย่างมีนัยสำคัญ",
-            "why": "จำนวนเครื่องบินประจำการที่เพิ่มขึ้นจะสร้างดีมานด์ต่อเนื่องในงานขัดลอกสี เตรียมพื้นผิวโครงสร้าง และงานขัดคอมโพสิต ซึ่งเป็นตลาดเป้าหมายระดับบนของ MK",
-            "action": "เร่งนำเสนอผลิตภัณฑ์และขออนุมัติสเปกวัสดุขัดเกรดอากาศยานของ MK กับฝ่ายช่างและทีมจัดซื้อของการบินไทยเพื่อรองรับรอบการซ่อมบำรุงล่วงหน้า"
+            "title": "ส่งออกเฟอร์นิเจอร์ไทยจ่อหดตัว 4.5% ปี 69 หลังคู่ค้าเร่งสต็อกล่วงหน้า",
+            "summary": "ศูนย์วิจัยกสิกรไทยประเมินส่งออกเฟอร์นิเจอร์ไทยปี 2569 จะหดตัว 4.5% หลังเติบโตสูงในปี 2568 เนื่องจากผู้ซื้อสหรัฐฯ เร่งนำเข้าล่วงหน้าจนสต็อกล้น ส่งผลให้คำสั่งซื้อโรงงานชะลอตัว",
+            "why": "การผลิตเฟอร์นิเจอร์ไม้ส่งออกที่ลดลงจะกระทบต่อยอดสั่งซื้อสายพานขัดผืนกว้างและม้วนกระดาษทรายจากโรงงานแปรรูปไม้ขนาดใหญ่",
+            "action": "ลดความเสี่ยงจากยอดโรงงานหดตัว โดยกระจายสินค้าประเภทกระดาษทรายกลมและกระดาษทรายแผ่นเข้าช่องทาง B2C บน Shopee และ TikTok เพื่อจับกลุ่มงานช่าง DIY และงานซ่อมแซม"
           }
         }
       ],
