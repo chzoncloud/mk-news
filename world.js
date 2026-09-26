@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-09-27",
-      "summary": "Today's briefing highlights niche material demand in electronics and metal finishing, specifically fused alumina and coarse sandpaper sheets, alongside shifts in the steel and EV assembly sectors.",
+      "summary": "Today's briefing focuses on global industrial coatings, advanced automotive manufacturing tech, and metal casting trends. These signals help us anticipate shifts in surface preparation demand across automotive and metal fabrication sectors.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปสถานการณ์ประจำวันเน้นความต้องการวัสดุเฉพาะทางในอุตสาหกรรมอิเล็กทรอนิกส์และการตกแต่งโลหะ เช่น อะลูมิเนียมออกไซด์และกระดาษทรายหยาบ ควบคู่ไปกับการเปลี่ยนแปลงในภาคการผลิตเหล็กและประกอบรถยนต์ EV"
+        "summary": "สรุปประเด็นข่าววันนี้เน้นเรื่องตลาดเคลือบผิวอุตสาหกรรมระดับโลก เทคโนโลยีการผลิตรถยนต์สมัยใหม่ และแนวโน้มอุตสาหกรรมหล่อโลหะ ซึ่งช่วยให้เราคาดการณ์ความต้องการเตรียมพื้นผิวในภาคยานยนต์และโลหะได้ล่วงหน้า"
       },
       "items": [
         {
           "id": "20260927-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-09-22",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa3prOHdTb1BJS0dDaF9fWnpxMnRrUlB2dU9zdjJBRllhY2pBaU13V1Z3MGhRX19xR3RVVVVCbUpkbjRfd0ZMSzc3X2swMmtvSVVHYm5nazA1c3ZSZ2YxOGgxUTRkWVhweV9ULUd4My1MNnNTaWNtdGlaOVMzT2MtNzBqNUpxWHZ3aV9LOFZKeTNNdmZ3R0lFREh0SVB0Ym5sdlZtaHVTOTJOM1VBcjhiUTAxSDVHLXJBQWRBOTB3?oc=5",
-          "title": "Fused Alumina Market to Accelerate on Electronics Demand, Forecast Points Higher Toward 2035",
-          "summary": "The fused alumina market is projected to grow significantly through 2035, driven primarily by rising demand in electronics manufacturing and precision grinding applications.",
-          "why": "Fused alumina is a core abrasive grain used in grinding wheels and heavy-duty coated abrasives; rising electronics demand means increased need for micro-finishing and precise component prep.",
-          "action": "Monitor raw material costs for fused alumina and assess opportunities in high-precision electronic component grinding.",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "European Coatings",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
+          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
+          "summary": "The European coatings sector is shifting toward digital integration and sustainability, focusing on innovative formulations and eco-friendly manufacturing processes.",
+          "why": "Changes in industrial coatings and surface finishes directly impact how manufacturers prepare, sand, and finish substrates.",
+          "action": "Monitor eco-friendly and high-performance coating trends to align our abrasive finishing recommendations with modern surface requirements.",
           "th": {
-            "title": "ตลาดฟิวส์อะลูมิเนียม (Fused Alumina) เติบโตตามความต้องการด้านอิเล็กทรอนิกส์ คาดการณ์พุ่งถึงปี 2035",
-            "summary": "ตลาดฟิวส์อะลูมิเนียมคาดว่าจะเติบโตอย่างต่อเนื่องจนถึงปี 2035 โดยได้รับแรงหนุนจากความต้องการในอุตสาหกรรมการผลิตอิเล็กทรอนิกส์และการเจียรความละเอียดสูง",
-            "why": "ฟิวส์อะลูมิเนียมเป็นเม็ดทรายขัดหลักในล้อเจียรและกระดาษทราย ความต้องการอิเล็กทรอนิกส์ที่เพิ่มขึ้นส่งผลให้ต้องเตรียมผิวชิ้นงานที่มีความแม่นยำสูงขึ้น",
-            "action": "ติดตามต้นทุนวัตถุดิบฟิวส์อะลูมิเนียมและมองหาโอกาสในกลุ่มงานเจียรชิ้นส่วนอิเล็กทรอนิกส์ความแม่นยำสูง"
+            "title": "กำหนดอนาคตแห่งงานเคลือบผิว: นวัตกรรม ความยั่งยืน และพลังแห่งดิจิทัล",
+            "summary": "อุตสาหกรรมสีเคลือบในยุโรปกำลังมุ่งสู่การบูรณาการด้านดิจิทัลและความยั่งยืน โดยเน้นสูตรนวัตกรรมและกระบวนการผลิตที่เป็นมิตรต่อสิ่งแวดล้อม",
+            "why": "การเปลี่ยนแปลงของสารเคลือบและพื้นผิวอุตสาหกรรมส่งผลโดยตรงต่อวิธีที่ผู้ผลิตเตรียมพื้นผิว ขัด และตกแต่งชิ้นงาน",
+            "action": "ติดตามแนวโน้มสารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมเพื่อปรับคำแนะนำด้านงานขัดให้สอดคล้องกับความต้องการพื้นผิวสมัยใหม่"
           }
         },
         {
           "id": "20260927-w2",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-09-13",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNampPT2tfdEQzcFJFejdVSjM3bGtXSmZUNlFBQWFiTHlEa0ZiLWswbHZNNkdNV0pJaFFnZ2I1NXhQWjc3RlNqVTRGQ09HcTVvYjlPSno5dGtramktX1FKN3hGOFhTeGJfZjJ6dGxtSDF2Yi14VGZwYlRydFMtM3VVdW0wVU9yWVlPNDlweFQ2c0pSN3FNSS03Yk4zRUFsVlB0cGJybHZKV1h5Yzc3OVBVdWZaaEp4NDBWRTVHYXlpbEVOaDF0Z29BODFnZGFuRUVXNVlfVw?oc=5",
-          "title": "Sandpaper Sheets Coarse Market Forecast to 2035: Growth Accelerates on Electronics and Metal Finishing Demand",
-          "summary": "The global market for coarse sandpaper sheets is accelerating, fueled by robust requirements in metal finishing and electronic hardware manufacturing.",
-          "why": "Coarse sandpaper sheets are essential for stock removal and surface preparation in metal fabrication and heavy engineering sectors.",
-          "action": "Ensure strong inventory and product availability for heavy-duty coarse sanding sheets targeting metal and electronics workshops.",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-09-02",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUUpWSmpHLVowSXdiLUJqcFlpQ3ZfRmdQYjJiTVFCNk00ZW0tM0ZqenQtd2F4emNVNEdzT3Q3amZ3M050YnNuTldQZFQyTlgyX3ByekdEbkdlaURacG5yRlBUSEZucnBQalBmNzVadXVrSDdXcEd0d2t4UXptUzJ5dXZ6ckE1Q3RVV3IyUkY4SFdVSERveVJYem0yM3lNbWFUY1dXWHYyRFZ2cXdldWFqRmJTNE4tQ1RXWWp4N3NCN1h5Vmt3d3hEbkFPc2ZqT0k?oc=5",
+          "title": "A global AI manufacturing transformation at Hyundai Motor Group",
+          "summary": "Hyundai Motor Group is rolling out an AI-driven manufacturing transformation globally to automate production lines and boost factory efficiency.",
+          "why": "Automated EV and car manufacturing lines require consistent, high-speed robotic deburring, grinding, and surface preparation tools.",
+          "action": "Prepare our product line for automated robotic sanding and deburring applications as carmakers adopt AI manufacturing.",
           "th": {
-            "title": "ตลาดกระดาษทรายหยาบคาดการณ์เติบโตถึงปี 2035: เร่งตัวขึ้นจากความต้องการตกแต่งโลหะและอิเล็กทรอนิกส์",
-            "summary": "ตลาดกระดาษทรายแผ่นแบบหยาบทั่วโลกกำลังเติบโตอย่างรวดเร็ว ขับเคลื่อนโดยความต้องการในงานตกแต่งโลหะและการผลิตฮาร์ดแวร์อิเล็กทรอนิกส์",
-            "why": "กระดาษทรายหยาบเป็นสิ่งจำเป็นสำหรับการลบเนื้อวัสดุและการเตรียมผิวในอุตสาหกรรมแปรรูปโลหะและวิศวกรรมหนัก",
-            "action": "รักษาสต็อกสินค้ากระดาษทรายหยาบให้เพียงพอเพื่อรองรับกลุ่มลูกค้าโรงงานโลหะและอิเล็กทรอนิกส์"
+            "title": "การเปลี่ยนแปลงการผลิตด้วย AI ระดับโลกที่ฮุนได มอเตอร์ กรุ๊ป",
+            "summary": "ฮุนได มอเตอร์ กรุ๊ปกำลังขับเคลื่อนการเปลี่ยนแปลงการผลิตด้วย AI ทั่วโลก เพื่ออัตโนมัติสายการผลิตและเพิ่มประสิทธิภาพโรงงาน",
+            "why": "สายการผลิตรถยนต์และ EV แบบอัตโนมัติจำเป็นต้องใช้เครื่องมือลบคม ขัดผิว และเตรียมพื้นผิวด้วยหุ่นยนต์ที่รวดเร็วและแม่นยำ",
+            "action": "เตรียมความพร้อมผลิตภัณฑ์สำหรับงานขัดและลบคมด้วยหุ่นยนต์อัตโนมัติ ตามที่ค่ายรถยนต์ปรับใช้การผลิตด้วย AI"
           }
         },
         {
           "id": "20260927-w3",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "fool.com",
-          "date": "2026-09-25",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNTlNa3plT2hhb1ZiZ3hOLWdua21Hcm5UaXlwdEhraXd3bDJReThSLWpkMjdNMDR1OE1EUFRaMjM1bXhtU1REeFBmcjZsajlrNjc3MVJxX3hIUkFzZTNhcVdMS3RvekhWZ0U1Z0xhRXZTdk9tV1A2WjBEQzQ0ZHlnT2V3cEZkcEU0cHc?oc=5",
-          "title": "5 Best Steel Stocks for 2026 and How to Invest",
-          "summary": "Financial analysts outline top-performing steel stocks for 2026, reflecting ongoing structural adjustments and market demand resilience amid global trade shifts.",
-          "why": "Steel production output directly dictates regional consumption of heavy grinding wheels, cutting discs, and deburring tools.",
-          "action": "Keep an eye on steel mill activity as a leading indicator for industrial abrasive consumption in metal fabrication.",
+          "tag": "auto",
+          "rating": "green",
+          "source": "Fortune Business Insights",
+          "date": "2026-09-07",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kYlp3TXBwdU5JVl9Gc0pFd3lJSFpjSUhLeEFGOVZVS19BbHBoTFNGb1BFOC1UNEN4c1o0c2xjdTFZYXhVdGRVb0dIeXZqakt1bTJkQy10SC0wRlh0RVVBZHZaWDFYbDk3cHdUbXBsYnRyYTlFVEE?oc=5",
+          "title": "Metal Casting Market Growth Analysis & Industry Forecast, 2034",
+          "summary": "The global metal casting market continues to expand steadily, driven by demand from automotive, aerospace, and industrial machinery sectors.",
+          "why": "Metal castings require extensive foundry snagging, surface grinding, gating removal, and defect cleanup using heavy-duty abrasives.",
+          "action": "Keep a close eye on foundry and metal casting growth as a primary demand driver for heavy-duty grinding wheels and sanding belts.",
           "th": {
-            "title": "5 หุ้นเหล็กยอดเยี่ยมสำหรับปี 2026 และแนวทางการลงทุน",
-            "summary": "นักวิเคราะห์การเงินระบุหุ้นกลุ่มเหล็กที่มีผลงานโดดเด่นในปี 2026 ซึ่งสะท้อนถึงการปรับโครงสร้างตลาดและความยืดหยุ่นของอุปสงค์ท่ามกลางความเปลี่ยนแปลงทางการค้าระดับโลก",
-            "why": "ปริมาณการผลิตเหล็กส่งผลโดยตรงต่อการใช้งานหินเจียร ใบตัด และอุปกรณ์ลบคมในระดับภูมิภาค",
-            "action": "จับตาดูความเคลื่อนไหวของโรงงานเหล็กในฐานะตัวชี้วัดล่วงหน้าสำหรับปริมาณการใช้อุปกรณ์ขัดในงานแปรรูปโลหะ"
+            "title": "การวิเคราะห์การเติบโตของตลาดการหล่อโลหะและแนวโน้มอุตสาหกรรมถึงปี 2034",
+            "summary": "ตลาดการหล่อโลหะทั่วโลกยังคงขยายตัวอย่างต่อเนื่อง โดยได้รับแรงหนุนจากความต้องการในภาคยานยนต์ อากาศยาน และเครื่องจักรกลอุตสาหกรรม",
+            "why": "งานหล่อโลหะจำเป็นต้องผ่านกระบวนการเจียรแต่งผิว การลบครีบ และการเตรียมพื้นผิวโดยใช้ผลิตภัณฑ์ขัดสำหรับงานหนัก",
+            "action": "จับตาดูการเติบโตของโรงหล่อและงานหล่อโลหะในฐานะกลุ่มลูกค้าหลักสำหรับล้อเจียรและกระดาษทรายสายพานสำหรับงานหนัก"
           }
         }
       ]
