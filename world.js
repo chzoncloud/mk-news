@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-09-26",
+  "updated": "2026-09-27",
   "days": [
+    {
+      "date": "2026-09-27",
+      "summary": "Today's briefing highlights niche material demand in electronics and metal finishing, specifically fused alumina and coarse sandpaper sheets, alongside shifts in the steel and EV assembly sectors.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปสถานการณ์ประจำวันเน้นความต้องการวัสดุเฉพาะทางในอุตสาหกรรมอิเล็กทรอนิกส์และการตกแต่งโลหะ เช่น อะลูมิเนียมออกไซด์และกระดาษทรายหยาบ ควบคู่ไปกับการเปลี่ยนแปลงในภาคการผลิตเหล็กและประกอบรถยนต์ EV"
+      },
+      "items": [
+        {
+          "id": "20260927-w1",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-09-22",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa3prOHdTb1BJS0dDaF9fWnpxMnRrUlB2dU9zdjJBRllhY2pBaU13V1Z3MGhRX19xR3RVVVVCbUpkbjRfd0ZMSzc3X2swMmtvSVVHYm5nazA1c3ZSZ2YxOGgxUTRkWVhweV9ULUd4My1MNnNTaWNtdGlaOVMzT2MtNzBqNUpxWHZ3aV9LOFZKeTNNdmZ3R0lFREh0SVB0Ym5sdlZtaHVTOTJOM1VBcjhiUTAxSDVHLXJBQWRBOTB3?oc=5",
+          "title": "Fused Alumina Market to Accelerate on Electronics Demand, Forecast Points Higher Toward 2035",
+          "summary": "The fused alumina market is projected to grow significantly through 2035, driven primarily by rising demand in electronics manufacturing and precision grinding applications.",
+          "why": "Fused alumina is a core abrasive grain used in grinding wheels and heavy-duty coated abrasives; rising electronics demand means increased need for micro-finishing and precise component prep.",
+          "action": "Monitor raw material costs for fused alumina and assess opportunities in high-precision electronic component grinding.",
+          "th": {
+            "title": "ตลาดฟิวส์อะลูมิเนียม (Fused Alumina) เติบโตตามความต้องการด้านอิเล็กทรอนิกส์ คาดการณ์พุ่งถึงปี 2035",
+            "summary": "ตลาดฟิวส์อะลูมิเนียมคาดว่าจะเติบโตอย่างต่อเนื่องจนถึงปี 2035 โดยได้รับแรงหนุนจากความต้องการในอุตสาหกรรมการผลิตอิเล็กทรอนิกส์และการเจียรความละเอียดสูง",
+            "why": "ฟิวส์อะลูมิเนียมเป็นเม็ดทรายขัดหลักในล้อเจียรและกระดาษทราย ความต้องการอิเล็กทรอนิกส์ที่เพิ่มขึ้นส่งผลให้ต้องเตรียมผิวชิ้นงานที่มีความแม่นยำสูงขึ้น",
+            "action": "ติดตามต้นทุนวัตถุดิบฟิวส์อะลูมิเนียมและมองหาโอกาสในกลุ่มงานเจียรชิ้นส่วนอิเล็กทรอนิกส์ความแม่นยำสูง"
+          }
+        },
+        {
+          "id": "20260927-w2",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-09-13",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNampPT2tfdEQzcFJFejdVSjM3bGtXSmZUNlFBQWFiTHlEa0ZiLWswbHZNNkdNV0pJaFFnZ2I1NXhQWjc3RlNqVTRGQ09HcTVvYjlPSno5dGtramktX1FKN3hGOFhTeGJfZjJ6dGxtSDF2Yi14VGZwYlRydFMtM3VVdW0wVU9yWVlPNDlweFQ2c0pSN3FNSS03Yk4zRUFsVlB0cGJybHZKV1h5Yzc3OVBVdWZaaEp4NDBWRTVHYXlpbEVOaDF0Z29BODFnZGFuRUVXNVlfVw?oc=5",
+          "title": "Sandpaper Sheets Coarse Market Forecast to 2035: Growth Accelerates on Electronics and Metal Finishing Demand",
+          "summary": "The global market for coarse sandpaper sheets is accelerating, fueled by robust requirements in metal finishing and electronic hardware manufacturing.",
+          "why": "Coarse sandpaper sheets are essential for stock removal and surface preparation in metal fabrication and heavy engineering sectors.",
+          "action": "Ensure strong inventory and product availability for heavy-duty coarse sanding sheets targeting metal and electronics workshops.",
+          "th": {
+            "title": "ตลาดกระดาษทรายหยาบคาดการณ์เติบโตถึงปี 2035: เร่งตัวขึ้นจากความต้องการตกแต่งโลหะและอิเล็กทรอนิกส์",
+            "summary": "ตลาดกระดาษทรายแผ่นแบบหยาบทั่วโลกกำลังเติบโตอย่างรวดเร็ว ขับเคลื่อนโดยความต้องการในงานตกแต่งโลหะและการผลิตฮาร์ดแวร์อิเล็กทรอนิกส์",
+            "why": "กระดาษทรายหยาบเป็นสิ่งจำเป็นสำหรับการลบเนื้อวัสดุและการเตรียมผิวในอุตสาหกรรมแปรรูปโลหะและวิศวกรรมหนัก",
+            "action": "รักษาสต็อกสินค้ากระดาษทรายหยาบให้เพียงพอเพื่อรองรับกลุ่มลูกค้าโรงงานโลหะและอิเล็กทรอนิกส์"
+          }
+        },
+        {
+          "id": "20260927-w3",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "fool.com",
+          "date": "2026-09-25",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNTlNa3plT2hhb1ZiZ3hOLWdua21Hcm5UaXlwdEhraXd3bDJReThSLWpkMjdNMDR1OE1EUFRaMjM1bXhtU1REeFBmcjZsajlrNjc3MVJxX3hIUkFzZTNhcVdMS3RvekhWZ0U1Z0xhRXZTdk9tV1A2WjBEQzQ0ZHlnT2V3cEZkcEU0cHc?oc=5",
+          "title": "5 Best Steel Stocks for 2026 and How to Invest",
+          "summary": "Financial analysts outline top-performing steel stocks for 2026, reflecting ongoing structural adjustments and market demand resilience amid global trade shifts.",
+          "why": "Steel production output directly dictates regional consumption of heavy grinding wheels, cutting discs, and deburring tools.",
+          "action": "Keep an eye on steel mill activity as a leading indicator for industrial abrasive consumption in metal fabrication.",
+          "th": {
+            "title": "5 หุ้นเหล็กยอดเยี่ยมสำหรับปี 2026 และแนวทางการลงทุน",
+            "summary": "นักวิเคราะห์การเงินระบุหุ้นกลุ่มเหล็กที่มีผลงานโดดเด่นในปี 2026 ซึ่งสะท้อนถึงการปรับโครงสร้างตลาดและความยืดหยุ่นของอุปสงค์ท่ามกลางความเปลี่ยนแปลงทางการค้าระดับโลก",
+            "why": "ปริมาณการผลิตเหล็กส่งผลโดยตรงต่อการใช้งานหินเจียร ใบตัด และอุปกรณ์ลบคมในระดับภูมิภาค",
+            "action": "จับตาดูความเคลื่อนไหวของโรงงานเหล็กในฐานะตัวชี้วัดล่วงหน้าสำหรับปริมาณการใช้อุปกรณ์ขัดในงานแปรรูปโลหะ"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-09-26",
       "summary": "Today's briefing focuses on key growth segments in surface finishing, including Zirconia abrasive grains and Ceramic flap discs driven by electronics and metal fabrication, alongside shifting global steel dynamics with the U.S. rising in production.",
@@ -938,34 +1002,6 @@ window.WORLD_ARCHIVE = {
             "summary": "ตลาดเหล็กโลกยังคงต้องเผชิญกับภาวะอุปทานล้นเกินและมาตรการปกป้องทางการค้าที่เพิ่มขึ้นในภูมิภาคหลักๆ",
             "why": "ความผันผวนของอุปทานเหล็กส่งผลโดยตรงต่อปริมาณงานขึ้นรูปโลหะ ความต้องการงานขัดผิว และต้นทุนวัตถุดิบของสินค้ากลุ่มลับคมและขัดผิว",
             "action": "วางแผนกลยุทธ์การจัดซื้อและการตั้งราคาผลิตภัณฑ์กลุ่มงานขัดเหล็กให้มีความยืดหยุ่นสูง"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-09-13",
-      "summary": "Today's briefing highlights global coatings innovation and automotive manufacturing shifts, offering insights into surface finishing and supply chain trends.",
-      "directCount": 1,
-      "th": {
-        "summary": "สรุปข้อมูลประจำวันนี้เน้นไปที่นวัตกรรมเคลือบผิวระดับโลกและการเปลี่ยนแปลงในอุตสาหกรรมการผลิตยานยนต์ ซึ่งช่วยให้เห็นแนวโน้มการเตรียมพื้นผิวและห่วงโซ่อุปทาน"
-      },
-      "items": [
-        {
-          "id": "20260913-w1",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "European Coatings",
-          "date": "2026-09-07",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
-          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
-          "summary": "The European coatings sector focuses on sustainability, advanced innovation, and digital integration to drive future manufacturing standards.",
-          "why": "Coatings and surface treatments go hand-in-hand with abrasive preparation; changes in coating tech dictate how surfaces must be prepped.",
-          "action": "Monitor how new eco-friendly coatings alter surface roughness requirements for metal and wood substrates.",
-          "th": {
-            "title": "การกำหนดอนาคตยุคใหม่แห่งการเคลือบผิว: นวัตกรรม ความยั่งยืน และพลังแห่งดิจิทัล",
-            "summary": "ภาคอุตสาหกรรมการเคลือบผิวในยุโรปมุ่งเน้นเรื่องความยั่งยืน นวัตกรรมขั้นสูง และการบูรณาการดิจิทัลเพื่อขับเคลื่อนมาตรฐานการผลิตในอนาคต",
-            "why": "กระบวนการเคลือบผิวและการเตรียมพื้นผิวมีความเกี่ยวเนื่องกันอย่างใกล้ชิด เทคโนโลยีการเคลือบที่เปลี่ยนไปจะกำหนดว่าพื้นผิวต้องได้รับการเตรียมอย่างไร",
-            "action": "ติดตามว่าเทคโนโลยีสีเคลือบที่เป็นมิตรต่อสิ่งแวดล้อม ส่งผลต่อความต้องการความหยาบของพื้นผิวโลหะและไม้ปาร์เกต์อย่างไร"
           }
         }
       ]
