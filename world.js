@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-09-27",
-      "summary": "Today's briefing focuses on global industrial coatings, advanced automotive manufacturing tech, and metal casting trends. These signals help us anticipate shifts in surface preparation demand across automotive and metal fabrication sectors.",
+      "summary": "Today's global briefing highlights key developments in industrial coatings demand across Europe, growth in fused alumina for electronics and metal finishing, and structural cost efficiency in electric arc furnace steel production.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปประเด็นข่าววันนี้เน้นเรื่องตลาดเคลือบผิวอุตสาหกรรมระดับโลก เทคโนโลยีการผลิตรถยนต์สมัยใหม่ และแนวโน้มอุตสาหกรรมหล่อโลหะ ซึ่งช่วยให้เราคาดการณ์ความต้องการเตรียมพื้นผิวในภาคยานยนต์และโลหะได้ล่วงหน้า"
+        "summary": "สรุปทิศทางโลกประจำวันนี้เน้นย้ำการเติบโตของตลาดสารเคลือบอุตสาหกรรมในยุโรป ความต้องการอะลูมินาหลอมสำหรับงานอิเล็กทรอนิกส์และตกแต่งผิวโลหะ และประสิทธิภาพด้านต้นทุนของการผลิตเหล็กเตาหลอมอาร์ไฟฟ้า"
       },
       "items": [
         {
           "id": "20260927-w1",
           "tag": "coating",
           "rating": "amber",
-          "source": "European Coatings",
-          "date": "2026-09-09",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
-          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
-          "summary": "The European coatings sector is shifting toward digital integration and sustainability, focusing on innovative formulations and eco-friendly manufacturing processes.",
-          "why": "Changes in industrial coatings and surface finishes directly impact how manufacturers prepare, sand, and finish substrates.",
-          "action": "Monitor eco-friendly and high-performance coating trends to align our abrasive finishing recommendations with modern surface requirements.",
+          "source": "marketsandmarkets.com",
+          "date": "2026-09-18",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaEtDOWNDZy15X3RwNGVyTTBHaUZ3a1FrUU9rMmpMVnBwNGJ3Rk1WUm1vaERWUE10a1A0MVU0NmlWRzd0aUNYd1hYZmY2b0FVVmRXSUNvQ1NabUhTanpUekN5X3daQkNzUFVjUldMa244SDE1dFFtWWZ4MWZpMUJkMWtSQjVDTEVjc1ZVazdzT2M1aGJDTXFB?oc=5",
+          "title": "Europe Industrial Coatings Market Size, Share, Trends, Growth Analysis Report, 2031",
+          "summary": "The Europe industrial coatings market report projects steady growth through 2031, driven by strict environmental standards and high-performance finishing requirements across manufacturing sectors.",
+          "why": "Industrial coatings growth directly correlates with surface preparation and pre-painting sanding requirements in European export-oriented supply chains.",
+          "action": "Monitor European coating specifications to anticipate shifting requirements for surface preparation abrasives.",
           "th": {
-            "title": "กำหนดอนาคตแห่งงานเคลือบผิว: นวัตกรรม ความยั่งยืน และพลังแห่งดิจิทัล",
-            "summary": "อุตสาหกรรมสีเคลือบในยุโรปกำลังมุ่งสู่การบูรณาการด้านดิจิทัลและความยั่งยืน โดยเน้นสูตรนวัตกรรมและกระบวนการผลิตที่เป็นมิตรต่อสิ่งแวดล้อม",
-            "why": "การเปลี่ยนแปลงของสารเคลือบและพื้นผิวอุตสาหกรรมส่งผลโดยตรงต่อวิธีที่ผู้ผลิตเตรียมพื้นผิว ขัด และตกแต่งชิ้นงาน",
-            "action": "ติดตามแนวโน้มสารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมเพื่อปรับคำแนะนำด้านงานขัดให้สอดคล้องกับความต้องการพื้นผิวสมัยใหม่"
+            "title": "รายงานขนาด ส่วนแบ่ง และแนวโน้มตลาดสารเคลือบอุตสาหกรรมในยุโรปถึงปี 2031",
+            "summary": "รายงานตลาดสารเคลือบอุตสาหกรรมในยุโรปคาดการณ์การเติบโตอย่างต่อเนื่องจนถึงปี 2031 ขับเคลื่อนด้วยมาตรฐานสิ่งแวดล้อมที่เข้มงวดและความต้องการการเคลือบผิวประสิทธิภาพสูง",
+            "why": "การเติบโตของสารเคลือบอุตสาหกรรมเชื่อมโยงโดยตรงกับความต้องการเตรียมพื้นผิวและงานขัดก่อนพ่นสีในห่วงโซ่อุปทาน",
+            "action": "ติดตามข้อกำหนดการเคลือบของยุโรปเพื่อคาดการณ์ความต้องการวัสดุขัดเตรียมพื้นผิวที่เปลี่ยนไป"
           }
         },
         {
           "id": "20260927-w2",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-09-02",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUUpWSmpHLVowSXdiLUJqcFlpQ3ZfRmdQYjJiTVFCNk00ZW0tM0ZqenQtd2F4emNVNEdzT3Q3amZ3M050YnNuTldQZFQyTlgyX3ByekdEbkdlaURacG5yRlBUSEZucnBQalBmNzVadXVrSDdXcEd0d2t4UXptUzJ5dXZ6ckE1Q3RVV3IyUkY4SFdVSERveVJYem0yM3lNbWFUY1dXWHYyRFZ2cXdldWFqRmJTNE4tQ1RXWWp4N3NCN1h5Vmt3d3hEbkFPc2ZqT0k?oc=5",
-          "title": "A global AI manufacturing transformation at Hyundai Motor Group",
-          "summary": "Hyundai Motor Group is rolling out an AI-driven manufacturing transformation globally to automate production lines and boost factory efficiency.",
-          "why": "Automated EV and car manufacturing lines require consistent, high-speed robotic deburring, grinding, and surface preparation tools.",
-          "action": "Prepare our product line for automated robotic sanding and deburring applications as carmakers adopt AI manufacturing.",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-09-22",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa3prOHdTb1BJS0dDaF9fWnpxMnRrUlB2dU9zdjJBRllhY2pBaU13V1Z3MGhRX19xR3RVVVVCbUpkbjRfd0ZMSzc3X2swMmtvSVVHYm5nazA1c3ZSZ2YxOGgxUTRkWVhweV9ULUd4My1MNnNTaWNtdGlaOVMzT2MtNzBqNUpxWHZ3aV9LOFZKeTNNdmZ3R0lFREh0SVB0Ym5sdlZtaHVTOTJOM1VBcjhiUTAxSDVHLXJBQWRBOTB3?oc=5",
+          "title": "Fused Alumina Market to Accelerate on Electronics Demand, Forecast Points Higher Toward 2035",
+          "summary": "Global demand for fused alumina is accelerating, propelled by precision electronics manufacturing and advanced metal finishing applications extending toward 2035.",
+          "why": "Fused alumina is a core raw material for bonded and coated abrasives; rising input demand signals strong downstream manufacturing activity.",
+          "action": "Secure stable raw material pricing and supply lines for fused alumina-based abrasive products.",
           "th": {
-            "title": "การเปลี่ยนแปลงการผลิตด้วย AI ระดับโลกที่ฮุนได มอเตอร์ กรุ๊ป",
-            "summary": "ฮุนได มอเตอร์ กรุ๊ปกำลังขับเคลื่อนการเปลี่ยนแปลงการผลิตด้วย AI ทั่วโลก เพื่ออัตโนมัติสายการผลิตและเพิ่มประสิทธิภาพโรงงาน",
-            "why": "สายการผลิตรถยนต์และ EV แบบอัตโนมัติจำเป็นต้องใช้เครื่องมือลบคม ขัดผิว และเตรียมพื้นผิวด้วยหุ่นยนต์ที่รวดเร็วและแม่นยำ",
-            "action": "เตรียมความพร้อมผลิตภัณฑ์สำหรับงานขัดและลบคมด้วยหุ่นยนต์อัตโนมัติ ตามที่ค่ายรถยนต์ปรับใช้การผลิตด้วย AI"
+            "title": "ตลาดอะลูมินาหลอมเร่งตัวจากความต้องการด้านอิเล็กทรอนิกส์ มุ่งสู่ปี 2035",
+            "summary": "ความต้องการฟิวส์อะลูมินาทั่วโลกกำลังเร่งตัวขึ้น ขับเคลื่อนโดยการผลิตชิ้นส่วนอิเล็กทรอนิกส์ที่มีความแม่นยำและการตกแต่งผิวโลหะขั้นสูง",
+            "why": "ฟิวส์อะลูมินาเป็นวัตถุดิบหลักสำหรับกระดาษทรายและหินเจียร ความต้องการที่สูงขึ้นบ่งบอกถึงกิจกรรมการผลิตปลายน้ำที่แข็งแกร่ง",
+            "action": "รักษาเสถียรภาพราคาและแหล่งวัตถุดิบสำหรับผลิตภัณฑ์กลุ่มอะลูมินาหลอม"
           }
         },
         {
           "id": "20260927-w3",
-          "tag": "auto",
+          "tag": "steel",
           "rating": "green",
-          "source": "Fortune Business Insights",
-          "date": "2026-09-07",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kYlp3TXBwdU5JVl9Gc0pFd3lJSFpjSUhLeEFGOVZVS19BbHBoTFNGb1BFOC1UNEN4c1o0c2xjdTFZYXhVdGRVb0dIeXZqakt1bTJkQy10SC0wRlh0RVVBZHZaWDFYbDk3cHdUbXBsYnRyYTlFVEE?oc=5",
-          "title": "Metal Casting Market Growth Analysis & Industry Forecast, 2034",
-          "summary": "The global metal casting market continues to expand steadily, driven by demand from automotive, aerospace, and industrial machinery sectors.",
-          "why": "Metal castings require extensive foundry snagging, surface grinding, gating removal, and defect cleanup using heavy-duty abrasives.",
-          "action": "Keep a close eye on foundry and metal casting growth as a primary demand driver for heavy-duty grinding wheels and sanding belts.",
+          "source": "Shanghai Metals Market",
+          "date": "2026-05-19",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMmw1akRRMFZCQ2I5NGhHdE1NOXhoaE1GY0h5UmxlQVNUVGxHTko2U0NBQ0o0Q19ZYmZ1VnBCTTB6a2JJQTFNOUpDSUtpWXdaR3hkeGhlOXF4dF9yUElCd1ZkWTl4MmZGOWhVeUlXc2VCMXFCOHQzZ0ZGZ1RtZ3p6aUNObEczWFhKMkdKQ3JuRWF5SjVNZmpOQVBaSGs4TWJKS1lVa0VTdmoxdDBQTF8zRDlxME1qeEtOUzJzSTBERURobWltWTlVUlpaZ3d2WlFRNEY1b0UwbVVfLXc0cXBZ?oc=5",
+          "title": "[SMM Global Steel Company Special] Nucor: 100% EAF, High Profits, and Vertical Integration Mitigating Costs",
+          "summary": "Leading electric arc furnace (EAF) steel producers leverage vertical integration and scrap-based recycling to optimize margins despite global cost pressures.",
+          "why": "EAF steel production yields specific surface scales and characteristics that require specialized heavy-duty grinding and deburring solutions.",
+          "action": "Target metal fabrication plants utilizing EAF steel with specialized grinding wheels designed for tougher alloy surfaces.",
           "th": {
-            "title": "การวิเคราะห์การเติบโตของตลาดการหล่อโลหะและแนวโน้มอุตสาหกรรมถึงปี 2034",
-            "summary": "ตลาดการหล่อโลหะทั่วโลกยังคงขยายตัวอย่างต่อเนื่อง โดยได้รับแรงหนุนจากความต้องการในภาคยานยนต์ อากาศยาน และเครื่องจักรกลอุตสาหกรรม",
-            "why": "งานหล่อโลหะจำเป็นต้องผ่านกระบวนการเจียรแต่งผิว การลบครีบ และการเตรียมพื้นผิวโดยใช้ผลิตภัณฑ์ขัดสำหรับงานหนัก",
-            "action": "จับตาดูการเติบโตของโรงหล่อและงานหล่อโลหะในฐานะกลุ่มลูกค้าหลักสำหรับล้อเจียรและกระดาษทรายสายพานสำหรับงานหนัก"
+            "title": "[พิเศษ] Nucor กับระบบเตาอาร์ไฟฟ้า 100%: กำไรสูงและการบูรณาการแนวดิ่งเพื่อลดต้นทุน",
+            "summary": "ผู้ผลิตเหล็กด้วยเตาหลอมอาร์ไฟฟ้า (EAF) ชั้นนำใช้การบูรณาการแนวดิ่งและการรีไซเคิลเศษเหล็กเพื่อเพิ่มอัตรากำไรท่ามกลางแรงกดดันด้านต้นทุน",
+            "why": "การผลิตเหล็กด้วยเตา EAF จะสร้างผิวเหล็กและสะเก็ดที่มีลักษณะเฉพาะ ซึ่งต้องใช้วัสดุขัดและใยขัดลบคมงานหนักที่จำเพาะ",
+            "action": "เจาะกลุ่มโรงงานแปรรูปโลหะที่ใช้เหล็กจากเตา EAF ด้วยผลิตภัณฑ์หินเจียรที่ออกแบบมาเพื่อผิวโลหะผสมที่แข็งแกร่งเป็นพิเศษ"
           }
         }
       ]
