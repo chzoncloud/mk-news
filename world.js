@@ -4,82 +4,82 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-09-28",
-      "summary": "Today's global briefing highlights new developments in industrial coatings, cutting discs, and steel demand shifts, signaling evolving surface prep and finishing requirements across electronics, metalworking, and manufacturing.",
+      "summary": "Global intelligence for today highlights critical shifts in aluminum oxide market projections, EV manufacturing automation demands, and North American industrial coatings trends that directly impact surface preparation and abrasive consumption.",
       "directCount": 4,
       "th": {
-        "summary": "สรุปสถานการณ์โลกประจำวันนี้เน้นย้ำพัฒนาการใหม่ๆ ในตลาดสีเคลือบอุตสาหกรรม แผ่นตัด และการเปลี่ยนแปลงของอุปสงค์เหล็ก ซึ่งส่งสัญญาณถึงความต้องการในการเตรียมพื้นผิวและการขัดแต่งที่เปลี่ยนไปในอุตสาหกรรมอิเล็กทรอนิกส์ งานโลหะ และการผลิต"
+        "summary": "ข่าวกรองระดับโลกสำหรับวันนี้เน้นย้ำการเปลี่ยนแปลงสำคัญในตลาดอลูมิเนียมออกไซด์ ความต้องการระบบอัตโนมัติในการผลิต EV และแนวโน้มอุตสาหกรรมเคลือบผิวในอเมริกาเหนือ ซึ่งส่งผลกระทบโดยตรงต่อการเตรียมพื้นผิวและการใช้วัสดุขัด"
       },
       "items": [
         {
           "id": "20260928-w1",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "european-coatings.com",
-          "date": "2026-09-09",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
-          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
-          "summary": "Industry leaders discuss how innovation, sustainability goals, and digital integration are transforming the future of surface coatings.",
-          "why": "Coating innovations directly affect surface preparation requirements, as new coating types require specific abrasive profiles and pre-treatment standards.",
-          "action": "Monitor how new eco-friendly coatings alter substrate prep requirements for metal and wood.",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-09-21",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUHU4VlhPWmlncTZzTEcwZGo4SHNBRWVYMTh4X2VtU2R1SHdJbG9pRk5uelVRcUNxLVdsSWt5VS02dDVBZjFJN3ByZlhaNkJnQ2llejN1LTB1MFY0S3NubVJ2RmdJaldDM1k0NEpfZFBadFlHSFlraENPdjVDR1dVVVRncU11Zms?oc=5",
+          "title": "Aluminum Oxide Sanding Disc Market Outlook to 2035",
+          "summary": "A new market outlook report highlights steady growth for aluminum oxide sanding discs through 2035, driven by strong metal and woodworking finishing demand.",
+          "why": "Aluminum oxide is a foundational grain for MK's core sandpaper and disc product lines; long-term growth ensures steady baseline demand.",
+          "action": "Ensure stable supply contracts for raw aluminum oxide grains to hedge against potential price fluctuations.",
           "th": {
-            "title": "กำหนดอนาคตใหม่แห่งงานเคลือบ: นวัตกรรม ความยั่งยืน และพลังแห่งดิจิทัล",
-            "summary": "ผู้นำอุตสาหกรรมหารือถึงวิธีที่นวัตกรรม เป้าหมายความยั่งยืน และการบูรณาการดิจิทัลกำลังเปลี่ยนอนาคตของงานเคลือบผิว",
-            "why": "นวัตกรรมสารเคลือบส่งผลโดยตรงต่อข้อกำหนดในการเตรียมพื้นผิว เนื่องจากสารเคลือบประเภทใหม่ๆ ต้องการโปรไฟล์งานขัดและมาตรฐานการเตรียมผิวที่เฉพาะเจาะจง",
-            "action": "ติดตามว่าสารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมแบบใหม่ๆ เปลี่ยนแปลงข้อกำหนดการเตรียมพื้นผิวสำหรับโลหะและไม้อย่างไร"
+            "title": "แนวโน้มตลาดแผ่นขัดอลูมิเนียมออกไซด์ถึงปี 2035",
+            "summary": "รายงานแนวโน้มตลาดใหม่เน้นย้ำการเติบโตอย่างต่อเนื่องของแผ่นขัดอลูมิเนียมออกไซด์จนถึงปี 2035 โดยได้รับแรงหนุนจากความต้องการงานขัดโลหะและไม้ที่แข็งแกร่ง",
+            "why": "อลูมิเนียมออกไซด์เป็นเม็ดทรายพื้นฐานสำหรับกลุ่มผลิตภัณฑ์กระดาษทรายและแผ่นขัดหลักของ MK การเติบโตในระยะยาวจะช่วยรักษาระดับความต้องการขั้นพื้นฐานให้มั่นคง",
+            "action": "รักษาเสถียรภาพสัญญาจัดซื้อวัตถุดิบเม็ดทรายอลูมิเนียมออกไซด์เพื่อป้องกันความเสี่ยงจากความผันผวนของราคา"
           }
         },
         {
           "id": "20260928-w2",
-          "tag": "abrasive",
+          "tag": "auto",
           "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-09-27",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUjROMDdtWnhLRnRQWEZxcmtSUTB0U1pmNTVyYVNpZVE2RERSc1VFSWtITzdDZlpRY0VtZkZmRDZwalRwak1aMGJZLVhJSHpBQ2ZfSFVKc2VEbU1fTVpUVXg3MDhIeEFobGR5ZlN5ZFVZdDNDRkZ5NkpkNGNucHZ0NDR6dUVfdTlQUkJiYkhmcDdJYm9aaGFUOHpZOGFra2N5cUczQmVxY2t5MjdESldpbFlnTnE0ek5Ya0dyVw?oc=5",
-          "title": "World Cutting Discs - Market Analysis, Forecast, Size, Trends and Insights",
-          "summary": "Latest market insights outline growth drivers and size forecasts for the global cutting discs sector across industrial applications.",
-          "why": "Cutting discs are a core consumable product line in metal fabrication and heavy grinding; tracking market trajectory helps forecast raw material and stock needs.",
-          "action": "Review current stock levels and supplier pricing for industrial cutting and grinding discs.",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-09-10",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVjkzSTlDYzItRzJSVXhQSjc1a0ttQ0dIRVYxRDgxaHFiQ0x3c1ZsLTdZQ0RRSk04bmhjdHQ4ZGJrV0lLVk45XzQ5ZzQwN1VwMDNERWNWVEpJNTRVYzZqTFFmcEIyUUZRNG9LOHp6ODIxYm80eEZrcTBOdENvenJqdktfcm5neXlITEZSRXNQclF2ZUpGUXVLTmY3SmhCRUlHdldDVC11QjRnZ3UtYzRlbzAwYS1yaW5oZV8zWmRMY2k?oc=5",
+          "title": "Smart-factory wiring woes: EVs demand automation now, not later",
+          "summary": "Automotive manufacturers are rapidly adopting automation to overcome complex EV wiring and assembly challenges.",
+          "why": "As EV production lines automate surface preparation, deburring, and finishing, demand for robotic-compatible abrasive pads and discs will rise.",
+          "action": "Monitor trends in robotic surface finishing tools and connect with industrial automation integrators.",
           "th": {
-            "title": "แผ่นตัดทั่วโลก - การวิเคราะห์ตลาด การคาดการณ์ ขนาด แนวโน้ม และข้อมูลเชิงลึก",
-            "summary": "ข้อมูลเชิงลึกตลาดล่าสุดระบุถึงปัจจัยขับเคลื่อนการเติบโตและการคาดการณ์ขนาดสำหรับภาคส่วนแผ่นตัดทั่วโลกในการใช้งานทางอุตสาหกรรม",
-            "why": "แผ่นตัดเป็นผลิตภัณฑ์สิ้นเปลืองหลักในงานขึ้นรูปโลหะและการเจียรหนัก การติดตามทิศทางตลาดช่วยคาดการณ์ความต้องการวัตถุดิบและสินค้าคงคลัง",
-            "action": "ทบทวนระดับสินค้าคงคลังและราคากลุ่มผลิตภัณฑ์แผ่นตัดและแผ่นเจียรอุตสาหกรรมในปัจจุบัน"
+            "title": "ปัญหาการเดินสายในโรงงานอัจฉริยะ: รถยนต์ EV เรียกร้องระบบอัตโนมัติทันที",
+            "summary": "ผู้ผลิตยานยนต์กำลังนำระบบอัตโนมัติมาใช้อย่างรวดเร็วเพื่อเอาชนะความท้าทายในการเดินสายไฟและการประกอบรถยนต์ EV ที่ซับซ้อน",
+            "why": "เมื่อสายการผลิต EV หันมาใช้ระบบอัตโนมัติในการเตรียมพื้นผิว การลบคม และการขัดเงา ความต้องการแผ่นขัดและจานขัดที่รองรับระบบหุ่นยนต์จะเพิ่มสูงขึ้น",
+            "action": "ติดตามแนวโน้มเครื่องมือขัดผิวด้วยระบบหุ่นยนต์และสร้างเครือข่ายกับผู้บูรณาการระบบอัตโนมัติอุตสาหกรรม"
           }
         },
         {
           "id": "20260928-w3",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-09-13",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNampPT2tfdEQzcFJFejdVSjM3bGtXSmZUNlFBQWFiTHlEa0ZiLWswbHZNNkdNV0pJaFFnZ2I1NXhQWjc3RlNqVTRGQ09HcTVvYjlPSno5dGtramktX1FKN3hGOFhTeGJfZjJ6dGxtSDF2Yi14VGZwYlRydFMtM3VVdW0wVU9yWVlPNDlweFQ2c0pSN3FNSS03Yk4zRUFsVlB0cGJybHZKV1h5Yzc3OVBVdWZaaEp4NDBWRTVHYXlpbEVOaDF0Z29BODFnZGFuRUVXNVlfVw?oc=5",
-          "title": "Sandpaper Sheets Coarse Market Forecast to 2035: Growth Accelerates on Electronics and Metal Finishing Demand",
-          "summary": "Coarse sandpaper sheets demand is projected to grow steadily, driven by increased requirements in electronics manufacturing and metal finishing.",
-          "why": "Coarse abrasive sheets are essential for heavy stock removal in metal finishing and precision electronics parts preparation.",
-          "action": "Ensure strong product positioning for heavy-grit sandpaper sheets targeting metal and electronics workshops.",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "MarketsandMarkets",
+          "date": "2026-09-18",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcXFmaElYaEMzdkRGSGI2N3hRZmNYTjMtQXhybHZUMndkeDF2WHZRN1lHS3B2dVAwYTFQN1NXLXFpNFJCV2ViclRqbTRETDNyLWZlWmNGaVZvR1Q0YjlHb082NF9USVhjbEwtR3JTcmtyX3o3UkFpYlBIN2NGckFsX3lyQ3hXQjF0R0k3NUY2c3RhLVRXMXgzN2dpNGlIT1J4?oc=5",
+          "title": "North-America Industrial Coatings Market Size, Share, Trends, Growth Analysis Report, 2031",
+          "summary": "The North American industrial coatings market is projected for steady expansion through 2031, driven by strict quality standards in manufacturing.",
+          "why": "Industrial coatings require intensive surface preparation and sanding before and after application, linking coating growth directly to abrasive consumption.",
+          "action": "Keep an eye on premium surface preparation requirements demanded by new coating technologies.",
           "th": {
-            "title": "ตลาดกระดาษทรายหยาบคาดการณ์ถึงปี 2035: การเติบโตเร่งตัวขึ้นจากอุปสงค์ด้านอิเล็กทรอนิกส์และการขัดแต่งโลหะ",
-            "summary": "ความต้องการกระดาษทรายหยาบคาดว่าจะเติบโตอย่างต่อเนื่อง ขับเคลื่อนโดยความต้องการที่เพิ่มขึ้นในอุตสาหกรรมการผลิตอิเล็กทรอนิกส์และการขัดแต่งโลหะ",
-            "why": "กระดาษทรายหยาบเป็นสิ่งจำเป็นสำหรับการลอกเนื้อวัสดุออกจำนวนมากในงานขัดแต่งโลหะและการเตรียมชิ้นส่วนอิเล็กทรอนิกส์ที่มีความแม่นยำ",
-            "action": "รักษาตำแหน่งทางการตลาดของผลิตภัณฑ์กระดาษทรายเบอร์หยาบที่เจาะกลุ่มโรงงานโลหะและอิเล็กทรอนิกส์ให้แข็งแกร่ง"
+            "title": "รายงานขนาด ส่วนแบ่ง แนวโน้ม และการวิเคราะห์การเติบโตของตลาดสารเคลือบอุตสาหกรรมในอเมริกาเหนือ ปี 2031",
+            "summary": "ตลาดสารเคลือบอุตสาหกรรมในอเมริกาเหนือคาดว่าจะมีการขยายตัวอย่างต่อเนื่องจนถึงปี 2031 ซึ่งขับเคลื่อนโดยมาตรฐานคุณภาพที่เข้มงวดในการผลิต",
+            "why": "สารเคลือบอุตสาหกรรมจำเป็นต้องมีการเตรียมพื้นผิวและการขัดอย่างเข้มข้นทั้งก่อนและหลังการพ่น ซึ่งเชื่อมโยงการเติบโตของสารเคลือบเข้ากับการใช้วัสดุขัดโดยตรง",
+            "action": "จับตาข้อกำหนดการเตรียมพื้นผิวระดับพรีเมียมที่ต้องการโดยเทคโนโลยีสารเคลือบใหม่ๆ"
           }
         },
         {
           "id": "20260928-w4",
           "tag": "steel",
           "rating": "amber",
-          "source": "fool.com",
-          "date": "2026-09-25",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNTlNa3plT2hhb1ZiZ3hOLWdua21Hcm5UaXlwdEhraXd3bDJReThSLWpkMjdNMDR1OE1EUFRaMjM1bXhtU1REeFBmcjZsajlrNjc3MVJxX3hIUkFzZTNhcVdMS3RvekhWZ0U1Z0xhRXZTdk9tV1A2WjBEQzQ0ZHlnT2V3cEZkcEU0cHc?oc=5",
-          "title": "5 Best Steel Stocks for 2026 and How to Invest",
-          "summary": "Analysis highlights top-performing steel stocks and industry conditions shaping global metal production markets.",
-          "why": "Steel production output dictates local metal fabrication activity, directly correlating with regional demand for grinding wheels, sanding belts, and deburring tools.",
-          "action": "Track local steel fabrication order volumes to anticipate shifts in workshop abrasive consumption.",
+          "source": "economy.ac",
+          "date": "2026-09-22",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YQWhOYlJ3eW9jTUhwa25XdE55eHh3a2JoODhWdDAtOW00UzhXcWwtNnJJXzZGMjMtNXN6MTYwTUhib3ZHUDNXaTdIbWY2N092QXNsOXFfdw?oc=5",
+          "title": "‘Trump Tariffs and AI Boom’ Propel U.S. Steel Past Japan to World No. 3 for First Time in 26 Years",
+          "summary": "Boosted by tariffs and domestic tech demand, U.S. steel production has surpassed Japan for the first time in over two decades.",
+          "why": "Shifts in global steel production hubs alter regional demand patterns for heavy-duty grinding discs and metal fabrication abrasives.",
+          "action": "Track North American metal fabrication trends to identify export or supply chain partnership opportunities.",
           "th": {
-            "title": "5 หุ้นเหล็กที่ดีที่สุดสำหรับปี 2026 และวิธีการลงทุน",
-            "summary": "บทวิเคราะห์ไฮไลต์หุ้นเหล็กที่มีผลงานยอดเยี่ยมและสภาวะอุตสาหกรรมที่หล่อหลอมตลาดการผลิตโลหะทั่วโลก",
-            "why": "ปริมาณการผลิตเหล็กเป็นตัวกำหนดกิจกรรมการขึ้นรูปโลหะในท้องถิ่น ซึ่งเชื่อมโยงโดยตรงกับความต้องการใช้งานหินเจียร สายพานขัด และเครื่องมือลบคมในภูมิภาค",
-            "action": "ติดตามปริมาณคำสั่งซื้อในอุตสาหกรรมแปรรูปโลหะท้องถิ่นเพื่อคาดการณ์การเปลี่ยนแปลงของการใช้วัสดุขัดในโรงงาน"
+            "title": "'ภาษีทรัมป์และบูม AI' ผลักดันเหล็กสหรัฐฯแซงญี่ปุ่นขึ้นสู่อันดับ 3 ของโลกเป็นครั้งแรกในรอบ 26 ปี",
+            "summary": "ด้วยแรงหนุนจากกำแพงภาษีและความต้องการเทคโนโลยีภายในประเทศ การผลิตเหล็กของสหรัฐฯแซงหน้าญี่ปุ่นเป็นครั้งแรกในรอบกว่าสองทศวรรษ",
+            "why": "การเปลี่ยนแปลงของศูนย์กลางการผลิตเหล็กโลกส่งผลให้รูปแบบความต้องการแผ่นตัดงานหนักและวัสดุขัดสำหรับงานแปรรูปโลหะในภูมิภาคเปลี่ยนไป",
+            "action": "ติดตามแนวโน้มการแปรรูปโลหะในอเมริกาเหนือเพื่อค้นหาโอกาสในการส่งออกหรือเป็นพันธมิตรห่วงโซ่อุปทาน"
           }
         }
       ]
