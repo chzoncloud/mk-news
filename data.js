@@ -2,6 +2,71 @@
 window.NEWS_ARCHIVE = {
   "days": [
     {
+      "date": "2026-09-28",
+      "summary": "There are few new headlines today; key focus remains on Thailand's newly finalized three-tier EV tax structure driving local assembly, alongside long-term aviation MRO investments and export headwind forecasts in furniture.",
+      "directCount": 1,
+      "th": {
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก ประเด็นสำคัญอยู่ที่การเคาะโครงสร้างภาษี EV แบบ 3 เทียร์เพื่อเร่งการผลิตและประกอบในประเทศ ควบคู่กับการลงทุนศูนย์ซ่อมบำรุงอากาศยาน (MRO) และแนวโน้มการชะลอตัวของภาคส่งออกเฟอร์นิเจอร์"
+      },
+      "items": [
+        {
+          "id": "20260928-1",
+          "tag": "auto",
+          "rating": "green",
+          "source": "Matichon Online",
+          "date": "2026-09-21",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3YkdiUjdFRVhyTUJkeERxZkxWYk1qeEdLT20xS2VpV2c2WllpNV9OTnJoQS0yTHlyS0hScS0xU1NuOGswXzBZbUVkUk9rYm9UYXVfWjYzUllpWTA?oc=5",
+          "title": "EV Board Approves Three-Tier Tax Structure to Enforce Domestic Assembly",
+          "summary": "The national EV board finalized a three-tier excise tax system designed to pressure automakers to transition from importing completely built units (CBU) to local manufacturing. The measure intends to safeguard Thailand's automotive supply chain and protect local parts makers.",
+          "why": "Mandating local EV assembly directly stimulates domestic stamping, welding, and robotic metal-finishing lines, increasing factory floor demand for abrasive discs and deburring belts.",
+          "action": "Pitch high-durability deburring belts and grinding discs to Tier-1 and Tier-2 sheet metal suppliers ramping up for EV contracts.",
+          "th": {
+            "title": "บอร์ดอีวีเคาะโครงสร้างภาษี 3 เทียร์ บีบค่ายรถเร่งตั้งไลน์ผลิตในประเทศ",
+            "summary": "คณะกรรมการ EV เคาะโครงสร้างภาษีสรรพสามิต 3 เทียร์ มุ่งจูงใจและกดดันให้ผู้ผลิตรถยนต์เปลี่ยนจากการนำเข้าทั้งคันมาเป็นการตั้งฐานประกอบในไทย เพื่อปกป้องซัพพลายเชนชิ้นส่วนยานยนต์ในประเทศ",
+            "why": "การบังคับให้ประกอบรถยนต์ในประเทศกระตุ้นการปั๊มขึ้นรูป การเชื่อม และงานเตรียมผิวโลหะโดยตรง ส่งผลให้ความต้องการใช้วัสดุขัด ลบครีบ และเจียรในโรงงานเพิ่มขึ้น",
+            "action": "เร่งนำเสนอสายพานขัดและจานขัดลบครีบคุณภาพสูงให้แก่โรงงานซัพพลายเออร์ชิ้นส่วนโลหะ Tier-1 และ Tier-2 ที่เตรียมรองรับงานประกอบ EV"
+          }
+        },
+        {
+          "id": "20260928-2",
+          "tag": "aero",
+          "rating": "amber",
+          "source": "ฐานเศรษฐกิจ",
+          "date": "2026-02-22",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WYk9IRDVDZTBaVk54WmhwM0g4RjhJR3hBT19NaG1kZ2x6UGtobHU2bXBoYV9ZeXIxb2NSdENWR1BoVGFndXhTSWt3cjFQcFUyWS1EdEhpb1loV1R0dXUtbnpn?oc=5",
+          "title": "Thai Airways Allocates 10 Billion Baht to Expand U-Tapao MRO Hub",
+          "summary": "Thai Airways is moving forward with a 10-billion-baht investment plan to establish a comprehensive aircraft maintenance facility at U-Tapao Airport. The hub will service its growing fleet and third-party airlines across the region.",
+          "why": "Aviation MRO facilities require high-precision, certified specialty abrasives for airframe maintenance, turbine blade polishing, and composite surface prep.",
+          "action": "Identify technical procurement standards and aerospace certifications needed to qualify MK polishing products for aircraft maintenance supply chains.",
+          "th": {
+            "title": "การบินไทยทุ่มงบหมื่นล้าน ดันศูนย์ซ่อมอากาศยาน MRO อู่ตะเภา",
+            "summary": "การบินไทยเดินหน้าแผนร่วมทุนมูลค่า 1 หมื่นล้านบาท เพื่อพัฒนาศูนย์ซ่อมบำรุงอากาศยานครบวงจร ณ สนามบินอู่ตะเภา รองรับทั้งฝูงบินที่ขยายตัวและสายการบินพันธมิตรในภูมิภาค",
+            "why": "ศูนย์ซ่อม MRO ขนาดใหญ่จำเป็นต้องใช้วัสดุขัดเกรดเฉพาะทางและงานขัดผิวความแม่นยำสูง สำหรับการขัดลอกสีลำตัวเครื่องบิน ขัดเงาใบพัด และเตรียมผิวชิ้นส่วนอากาศยาน",
+            "action": "ศึกษาข้อกำหนดและมาตรฐานสากลด้านวัสดุขัดเกรดการบิน เพื่อเตรียมขึ้นทะเบียนเป็นผู้จัดจำหน่ายแก่องค์กรซ่อมบำรุงอากาศยาน"
+          }
+        },
+        {
+          "id": "20260928-3",
+          "tag": "furniture",
+          "rating": "amber",
+          "source": "kasikornresearch.com",
+          "date": "2025-10-09",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR0I3LUFaeENxbzdDQVF4UDdVMFlmRWp4Y3BBdFZ6OGFQeUdZZ3Y5dHA5Q2ZxRXJIaTUtLVNVY29QM3RuSk1RMmpaeXhucHEwLWRiMFlsbkJRNEtYY3RWSDZNNXRBUXdfb0hDV0IzR1pkRW5ERC1xSkQtN21WZTVveUNtdURRYmN3QjQxUDRHS2g1dDNkSGdRVVJGU2tBNGJ3WDREcGh1N2VrdnN6MExB?oc=5",
+          "title": "Thai Furniture Exports Face Forecast 4.5% Contraction Amid Shifting Demand",
+          "summary": "Kasikorn Research projects Thailand's furniture exports to contract by 4.5% due to reduced purchase orders from key markets following prior front-loaded demand. The slowdown poses revenue and volume risks for export-heavy manufacturing factories.",
+          "why": "Lower production volumes in export woodworking and metal furniture factories will soften commercial demand for wide sanding belts and finish-sanding sheets.",
+          "action": "Offset industrial volume drops by boosting retail marketing for sanding discs and DIY finishing paper on Shopee and TikTok.",
+          "th": {
+            "title": "ศูนย์วิจัยกสิกรฯ คาดส่งออกเฟอร์นิเจอร์ไทยพลิกหดตัว 4.5% รับแรงกดดันตลาดโลก",
+            "summary": "ศูนย์วิจัยกสิกรไทยคาดการณ์การส่งออกเฟอร์นิเจอร์ไทยมีแนวโน้มหดตัว 4.5% หลังจากตลาดสหรัฐฯ เร่งนำเข้าไปก่อนหน้า ประกอบกับแรงกดดันด้านคำสั่งซื้อที่ชะลอตัวลง",
+            "why": "โรงงานผลิตเฟอร์นิเจอร์ไม้และโลหะเพื่อการส่งออกอาจลดกำลังการผลิตลง ส่งผลให้ปริมาณการสั่งซื้อกระดาษทรายสายพานหน้ากว้างและจานขัดงานไม้ชะลอตัว",
+            "action": "ชดเชยยอดขายระดับโรงงานด้วยการเร่งทำแคมเปญกระดาษทรายกลมและกระดาษทรายขัดไม้บน Shopee และ TikTok เจาะกลุ่มช่างไม้และผู้ใช้งาน DIY"
+          }
+        }
+      ],
+      "terms": {}
+    },
+    {
       "date": "2026-09-27",
       "summary": "News flow is relatively light today. The primary highlight is government pressure on Chinese EV makers to maximize local parts procurement, directly benefiting domestic metal fabricators, alongside regional auto competition and long-term aviation fleet expansion.",
       "directCount": 1,
@@ -475,5 +540,5 @@ window.NEWS_ARCHIVE = {
       "terms": {}
     }
   ],
-  "updated": "2026-09-27"
+  "updated": "2026-09-28"
 };
