@@ -4,10 +4,10 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-09-28",
-      "summary": "Global intelligence for today highlights critical shifts in aluminum oxide market projections, EV manufacturing automation demands, and North American industrial coatings trends that directly impact surface preparation and abrasive consumption.",
+      "summary": "Today's global briefing focuses on emerging material demands in electronics and metal finishing, alongside evolving steel trade policies impacting global manufacturing supply chains.",
       "directCount": 4,
       "th": {
-        "summary": "ข่าวกรองระดับโลกสำหรับวันนี้เน้นย้ำการเปลี่ยนแปลงสำคัญในตลาดอลูมิเนียมออกไซด์ ความต้องการระบบอัตโนมัติในการผลิต EV และแนวโน้มอุตสาหกรรมเคลือบผิวในอเมริกาเหนือ ซึ่งส่งผลกระทบโดยตรงต่อการเตรียมพื้นผิวและการใช้วัสดุขัด"
+        "summary": "รายงานแนวโน้มโลกประจำวันนี้มุ่งเน้นไปที่ความต้องการวัสดุใหม่ในอุตสาหกรรมอิเล็กทรอนิกส์และการตกแต่งโลหะ ควบคู่ไปกับนโยบายการค้าเหล็กที่เปลี่ยนแปลงซึ่งส่งผลต่อห่วงโซ่อุปทานการผลิตทั่วโลก"
       },
       "items": [
         {
@@ -15,71 +15,89 @@ window.WORLD_ARCHIVE = {
           "tag": "abrasive",
           "rating": "green",
           "source": "IndexBox",
-          "date": "2026-09-21",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUHU4VlhPWmlncTZzTEcwZGo4SHNBRWVYMTh4X2VtU2R1SHdJbG9pRk5uelVRcUNxLVdsSWt5VS02dDVBZjFJN3ByZlhaNkJnQ2llejN1LTB1MFY0S3NubVJ2RmdJaldDM1k0NEpfZFBadFlHSFlraENPdjVDR1dVVVRncU11Zms?oc=5",
-          "title": "Aluminum Oxide Sanding Disc Market Outlook to 2035",
-          "summary": "A new market outlook report highlights steady growth for aluminum oxide sanding discs through 2035, driven by strong metal and woodworking finishing demand.",
-          "why": "Aluminum oxide is a foundational grain for MK's core sandpaper and disc product lines; long-term growth ensures steady baseline demand.",
-          "action": "Ensure stable supply contracts for raw aluminum oxide grains to hedge against potential price fluctuations.",
+          "date": "2026-09-13",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNampPT2tfdEQzcFJFejdVSjM3bGtXSmZUNlFBQWFiTHlEa0ZiLWswbHZNNkdNV0pJaFFnZ2I1NXhQWjc3RlNqVTRGQ09HcTVvYjlPSno5dGtramktX1FKN3hGOFhTeGJfZjJ6dGxtSDF2Yi14VGZwYlRydFMtM3VVdW0wVU9yWVlPNDlweFQ2c0pSN3FNSS03Yk4zRUFsVlB0cGJybHZKV1h5Yzc3OVBVdWZaaEp4NDBWRTVHYXlpbEVOaDF0Z29BODFnZGFuRUVXNVlfVw?oc=5",
+          "title": "Sandpaper Sheets Coarse Market Forecast to 2035: Growth Accelerates on Electronics and Metal Finishing Demand",
+          "summary": "Coarse sandpaper sheets demand is projected to grow steadily, driven by increasing applications in electronic components and advanced metal finishing.",
+          "why": "Growth in electronics and metal finishing directly increases demand for coarse sandpaper sheets and coated abrasive products.",
+          "action": "Stock up on high-durability coarse sandpaper sheets geared toward electronics and metal processing sectors.",
           "th": {
-            "title": "แนวโน้มตลาดแผ่นขัดอลูมิเนียมออกไซด์ถึงปี 2035",
-            "summary": "รายงานแนวโน้มตลาดใหม่เน้นย้ำการเติบโตอย่างต่อเนื่องของแผ่นขัดอลูมิเนียมออกไซด์จนถึงปี 2035 โดยได้รับแรงหนุนจากความต้องการงานขัดโลหะและไม้ที่แข็งแกร่ง",
-            "why": "อลูมิเนียมออกไซด์เป็นเม็ดทรายพื้นฐานสำหรับกลุ่มผลิตภัณฑ์กระดาษทรายและแผ่นขัดหลักของ MK การเติบโตในระยะยาวจะช่วยรักษาระดับความต้องการขั้นพื้นฐานให้มั่นคง",
-            "action": "รักษาเสถียรภาพสัญญาจัดซื้อวัตถุดิบเม็ดทรายอลูมิเนียมออกไซด์เพื่อป้องกันความเสี่ยงจากความผันผวนของราคา"
+            "title": "ตลาดกระดาษทรายหยาบคาดการณ์ถึงปี 2035: เติบโตเร่งตัวจากความต้องการในอุตสาหกรรมอิเล็กทรอนิกส์และการตกแต่งโลหะ",
+            "summary": "ความต้องการกระดาษทรายหยาบคาดว่าจะเติบโตอย่างต่อเนื่อง ขับเคลื่อนโดยการใช้งานที่เพิ่มขึ้นในชิ้นส่วนอิเล็กทรอนิกส์และการตกแต่งโลหะขั้นสูง",
+            "why": "การเติบโตในอุตสาหกรรมอิเล็กทรอนิกส์และการตกแต่งโลหะส่งผลโดยตรงต่อความต้องการกระดาษทรายหยาบและผลิตภัณฑ์กระดาษทรายเคลือบ",
+            "action": "เตรียมสต็อกกระดาษทรายหยาบที่มีความทนทานสูงซึ่งมุ่งเป้าไปที่ภาคส่วนอิเล็กทรอนิกส์และการแปรรูปโลหะ"
           }
         },
         {
           "id": "20260928-w2",
-          "tag": "auto",
+          "tag": "abrasive",
           "rating": "green",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-09-10",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVjkzSTlDYzItRzJSVXhQSjc1a0ttQ0dIRVYxRDgxaHFiQ0x3c1ZsLTdZQ0RRSk04bmhjdHQ4ZGJrV0lLVk45XzQ5ZzQwN1VwMDNERWNWVEpJNTRVYzZqTFFmcEIyUUZRNG9LOHp6ODIxYm80eEZrcTBOdENvenJqdktfcm5neXlITEZSRXNQclF2ZUpGUXVLTmY3SmhCRUlHdldDVC11QjRnZ3UtYzRlbzAwYS1yaW5oZV8zWmRMY2k?oc=5",
-          "title": "Smart-factory wiring woes: EVs demand automation now, not later",
-          "summary": "Automotive manufacturers are rapidly adopting automation to overcome complex EV wiring and assembly challenges.",
-          "why": "As EV production lines automate surface preparation, deburring, and finishing, demand for robotic-compatible abrasive pads and discs will rise.",
-          "action": "Monitor trends in robotic surface finishing tools and connect with industrial automation integrators.",
+          "source": "IndexBox",
+          "date": "2026-09-22",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa3prOHdTb1BJS0dDaF9fWnpxMnRrUlB2dU9zdjJBRllhY2pBaU13V1Z3MGhRX19xR3RVVVVCbUpkbjRfd0ZMSzc3X2swMmtvSVVHYm5nazA1c3ZSZ2YxOGgxUTRkWVhweV9ULUd4My1MNnNTaWNtdGlaOVMzT2MtNzBqNUpxWHZ3aV9LOFZKeTNNdmZ3R0lFREh0SVB0Ym5sdlZtaHVTOTJOM1VBcjhiUTAxSDVHLXJBQWRBOTB3?oc=5",
+          "title": "Fused Alumina Market to Accelerate on Electronics Demand, Forecast Points Higher Toward 2035",
+          "summary": "The market for fused alumina, a key raw material for abrasives, is accelerating due to rising consumption in electronics and precision manufacturing.",
+          "why": "Fused alumina is a core abrasive grain; rising raw material costs or demand shifts will impact our manufacturing and product pricing.",
+          "action": "Monitor fused alumina supply stability and adjust procurement strategies ahead of price fluctuations.",
           "th": {
-            "title": "ปัญหาการเดินสายในโรงงานอัจฉริยะ: รถยนต์ EV เรียกร้องระบบอัตโนมัติทันที",
-            "summary": "ผู้ผลิตยานยนต์กำลังนำระบบอัตโนมัติมาใช้อย่างรวดเร็วเพื่อเอาชนะความท้าทายในการเดินสายไฟและการประกอบรถยนต์ EV ที่ซับซ้อน",
-            "why": "เมื่อสายการผลิต EV หันมาใช้ระบบอัตโนมัติในการเตรียมพื้นผิว การลบคม และการขัดเงา ความต้องการแผ่นขัดและจานขัดที่รองรับระบบหุ่นยนต์จะเพิ่มสูงขึ้น",
-            "action": "ติดตามแนวโน้มเครื่องมือขัดผิวด้วยระบบหุ่นยนต์และสร้างเครือข่ายกับผู้บูรณาการระบบอัตโนมัติอุตสาหกรรม"
+            "title": "ตลาดอลูมินาหลอมเร่งตัวขึ้นจากความต้องการใช้อิเล็กทรอนิกส์ คาดการณ์แนวโน้มพุ่งสูงถึงปี 2035",
+            "summary": "ตลาดอลูมินาหลอมซึ่งเป็นวัตถุดิบสำคัญสำหรับวัสดุขัดกำลังเติบโตอย่างรวดเร็ว เนื่องจากการบริโภคที่เพิ่มขึ้นในอุตสาหกรรมอิเล็กทรอนิกส์และการผลิตที่มีความแม่นยำสูง",
+            "why": "อลูมินาหลอมเป็นเม็ดขัดหลัก การเปลี่ยนแปลงของต้นทุนวัตถุดิบหรือความต้องการจะส่งผลต่อการผลิตและราคาสินค้าของเรา",
+            "action": "ติดตามเสถียรภาพของอุปทานอลูมินาหลอมและปรับกลยุทธ์การจัดซื้อล่วงหน้าเพื่อรับมือกับความผันผวนของราคา"
           }
         },
         {
           "id": "20260928-w3",
-          "tag": "coating",
+          "tag": "steel",
           "rating": "amber",
-          "source": "MarketsandMarkets",
-          "date": "2026-09-18",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcXFmaElYaEMzdkRGSGI2N3hRZmNYTjMtQXhybHZUMndkeDF2WHZRN1lHS3B2dVAwYTFQN1NXLXFpNFJCV2ViclRqbTRETDNyLWZlWmNGaVZvR1Q0YjlHb082NF9USVhjbEwtR3JTcmtyX3o3UkFpYlBIN2NGckFsX3lyQ3hXQjF0R0k3NUY2c3RhLVRXMXgzN2dpNGlIT1J4?oc=5",
-          "title": "North-America Industrial Coatings Market Size, Share, Trends, Growth Analysis Report, 2031",
-          "summary": "The North American industrial coatings market is projected for steady expansion through 2031, driven by strict quality standards in manufacturing.",
-          "why": "Industrial coatings require intensive surface preparation and sanding before and after application, linking coating growth directly to abrasive consumption.",
-          "action": "Keep an eye on premium surface preparation requirements demanded by new coating technologies.",
+          "source": "The World Economic Forum",
+          "date": "2026-04-21",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeFBmZTNpZDhjN1lHNlBlU0duZ3ZQWW9uanI0SWs3SDFVazlpbVVXMklqSTVjbDloUEI4NW1Ca2dGckgzanh5UlRfX1F5QlVfQWFZNGdSS1h5bHNIUElCTk9LeUktaGd2VWxwRDAyMGJmQ1F6ZHVEOURKVjF3MVdHWGd0OG4zYTNtUk0yZkp0QXN4R3p5LUEtWkFzODBVdUdlTVpLNTh3ZjQtTGJuanlfS0Y5dWVLVEo1WkEybk96dVY?oc=5",
+          "title": "How the Iran war is disrupting India's steel production amid fuel shortages and rising costs",
+          "summary": "Geopolitical conflicts and fuel shortages are causing severe disruptions in major steel-producing regions like India, driving up operational costs.",
+          "why": "Steel production slowdowns and rising costs in key markets affect global metal fabrication activity and abrasive tool consumption.",
+          "action": "Keep an eye on metal fabrication output in client regions to anticipate changes in deburring and grinding tool demand.",
           "th": {
-            "title": "รายงานขนาด ส่วนแบ่ง แนวโน้ม และการวิเคราะห์การเติบโตของตลาดสารเคลือบอุตสาหกรรมในอเมริกาเหนือ ปี 2031",
-            "summary": "ตลาดสารเคลือบอุตสาหกรรมในอเมริกาเหนือคาดว่าจะมีการขยายตัวอย่างต่อเนื่องจนถึงปี 2031 ซึ่งขับเคลื่อนโดยมาตรฐานคุณภาพที่เข้มงวดในการผลิต",
-            "why": "สารเคลือบอุตสาหกรรมจำเป็นต้องมีการเตรียมพื้นผิวและการขัดอย่างเข้มข้นทั้งก่อนและหลังการพ่น ซึ่งเชื่อมโยงการเติบโตของสารเคลือบเข้ากับการใช้วัสดุขัดโดยตรง",
-            "action": "จับตาข้อกำหนดการเตรียมพื้นผิวระดับพรีเมียมที่ต้องการโดยเทคโนโลยีสารเคลือบใหม่ๆ"
+            "title": "สงครามในอิหร่านส่งผลกระทบต่อการผลิตเหล็กของอินเดียท่ามกลางปัญหาขาดแคลนเชื้อเพลิงและต้นทุนที่สูงขึ้น",
+            "summary": "ความขัดแย้งทางภูมิรัฐศาสตร์และการขาดแคลนเชื้อเพลิงกำลังสร้างความปั่นป่วนอย่างรุนแรงในภูมิภาคผู้ผลิตเหล็กรายใหญ่อย่างอินเดีย ทำให้ต้นทุนการดำเนินงานพุ่งสูงขึ้น",
+            "why": "การชะลอตัวของการผลิตเหล็กและต้นทุนที่สูงขึ้นในตลาดสำคัญส่งผลต่อกิจกรรมการแปรรูปโลหะทั่วโลกและการบริโภคเครื่องมือขัด",
+            "action": "จับตาดูปริมาณการผลิตโลหะในภูมิภาคของลูกค้าเพื่อคาดการณ์การเปลี่ยนแปลงของความต้องการเครื่องมือขัดและลบคม"
           }
         },
         {
           "id": "20260928-w4",
           "tag": "steel",
           "rating": "amber",
-          "source": "economy.ac",
-          "date": "2026-09-22",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YQWhOYlJ3eW9jTUhwa25XdE55eHh3a2JoODhWdDAtOW00UzhXcWwtNnJJXzZGMjMtNXN6MTYwTUhib3ZHUDNXaTdIbWY2N092QXNsOXFfdw?oc=5",
-          "title": "‘Trump Tariffs and AI Boom’ Propel U.S. Steel Past Japan to World No. 3 for First Time in 26 Years",
-          "summary": "Boosted by tariffs and domestic tech demand, U.S. steel production has surpassed Japan for the first time in over two decades.",
-          "why": "Shifts in global steel production hubs alter regional demand patterns for heavy-duty grinding discs and metal fabrication abrasives.",
-          "action": "Track North American metal fabrication trends to identify export or supply chain partnership opportunities.",
+          "source": "Reuters",
+          "date": "2026-04-02",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWFZKb2ppb3RHdXNXbnBJZzR4WGc5dHJ3ZkVvVlVMYVFwUjN4TkxQR203bEtjTlo3d3NnTDBaSXZSZzMxUkY5QVlWMFF2V3NGM2VOMk0zMk14NkVfWDVyNF96QlVMQ2tHb0oyWm5nRm9pQmpOYTdoWTJQUTdXMHZOR1RLT0RJaldfT3NMRmNJXzhMcHhMM1p2dHVzaEtHaGtBME54MGJUbW5MdDFNX2tkZkktOGNiLTQ3ZjRiTw?oc=5",
+          "title": "A year after 'Liberation Day,' Trump sets new drug tariffs, adjusts metals duties",
+          "summary": "New adjustments to metal duties by the US administration continue to reshape international trade flows and supply chain economics for raw materials.",
+          "why": "Tariff adjustments alter global steel and metal trade routes, shifting manufacturing hubs and localized surface preparation demand.",
+          "action": "Assess how changing metal trade policies impact local metal processors and their need for surface finishing abrasives.",
           "th": {
-            "title": "'ภาษีทรัมป์และบูม AI' ผลักดันเหล็กสหรัฐฯแซงญี่ปุ่นขึ้นสู่อันดับ 3 ของโลกเป็นครั้งแรกในรอบ 26 ปี",
-            "summary": "ด้วยแรงหนุนจากกำแพงภาษีและความต้องการเทคโนโลยีภายในประเทศ การผลิตเหล็กของสหรัฐฯแซงหน้าญี่ปุ่นเป็นครั้งแรกในรอบกว่าสองทศวรรษ",
-            "why": "การเปลี่ยนแปลงของศูนย์กลางการผลิตเหล็กโลกส่งผลให้รูปแบบความต้องการแผ่นตัดงานหนักและวัสดุขัดสำหรับงานแปรรูปโลหะในภูมิภาคเปลี่ยนไป",
-            "action": "ติดตามแนวโน้มการแปรรูปโลหะในอเมริกาเหนือเพื่อค้นหาโอกาสในการส่งออกหรือเป็นพันธมิตรห่วงโซ่อุปทาน"
+            "title": "หนึ่งปีหลังวันปลดปล่อย ทรัมป์กำหนดภาษียาใหม่ ปรับภาษีโลหะ",
+            "summary": "การปรับเปลี่ยนภาษีโลหะครั้งใหม่โดยรัฐบาลสหรัฐฯ ยังคงปรับเปลี่ยนกระแสการค้าและเศรษฐกิจห่วงโซ่อุปทานสำหรับวัตถุดิบระหว่างประเทศ",
+            "why": "การปรับภาษีส่งผลต่อเส้นทางการค้าเหล็กและโลหะทั่วโลก เปลี่ยนแปลงศูนย์กลางการผลิตและความต้องการเตรียมพื้นผิวในท้องถิ่น",
+            "action": "ประเมินว่านโยบายการค้าโลหะที่เปลี่ยนไปส่งผลกระทบต่อผู้แปรรูปโลหะในท้องถิ่นและความต้องการใช้วัสดุขัดแต่งผิวอย่างไร"
+          }
+        },
+        {
+          "id": "20260928-w5",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-09-21",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUHU4VlhPWmlncTZzTEcwZGo4SHNBRWVYMTh4X2VtU2R1SHdJbG9pRk5uelVRcUNxLVdsSWt5VS02dDVBZjFJN3ByZlhaNkJnQ2llejN1LTB1MFY0S3NubVJ2RmdJaldDM1k0NEpfZFBadFlHSFlraENPdjVDR1dVVVRncU11Zms?oc=5",
+          "title": "Aluminum Oxide Sanding Disc Market Outlook to 2035",
+          "summary": "The market outlook for aluminum oxide sanding discs highlights steady long-term adoption across general metalworking and automotive industries.",
+          "why": "Aluminum oxide discs are standard workhorse products for MK; tracking market growth ensures stable inventory planning.",
+          "action": "Maintain competitive pricing and steady stock of standard aluminum oxide sanding discs for core industrial clients.",
+          "th": {
+            "title": "แนวโน้มตลาดแผ่นขัดอลูมิเนียมออกไซด์ถึงปี 2035",
+            "summary": "แนวโน้มตลาดสำหรับแผ่นขัดอลูมิเนียมออกไซด์เน้นย้ำถึงการใช้งานระยะยาวที่มั่นคงในอุตสาหกรรมโลหการทั่วไปและอุตสาหกรรมยานยนต์",
+            "why": "แผ่นขัดอลูมิเนียมออกไซด์เป็นสินค้าหลักของ MK การติดตามการเติบโตของตลาดช่วยให้วางแผนสินค้าคงคลังได้อย่างมั่นคง",
+            "action": "รักษาราคาที่แข่งขันได้และสต็อกแผ่นขัดอลูมิเนียมออกไซด์ให้สม่ำเสมอสำหรับลูกค้าอุตสาหกรรมหลัก"
           }
         }
       ]
