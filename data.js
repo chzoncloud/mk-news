@@ -3,64 +3,46 @@ window.NEWS_ARCHIVE = {
   "days": [
     {
       "date": "2026-09-28",
-      "summary": "There are few new headlines today; key focus remains on Thailand's newly finalized three-tier EV tax structure driving local assembly, alongside long-term aviation MRO investments and export headwind forecasts in furniture.",
-      "directCount": 1,
+      "summary": "News volume is light today with few new developments. Key focus remains on government crackdowns protecting compliant domestic steel mills and preparations for the upcoming TIWF 2026 woodworking exhibition.",
+      "directCount": 0,
       "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มาก ประเด็นสำคัญอยู่ที่การเคาะโครงสร้างภาษี EV แบบ 3 เทียร์เพื่อเร่งการผลิตและประกอบในประเทศ ควบคู่กับการลงทุนศูนย์ซ่อมบำรุงอากาศยาน (MRO) และแนวโน้มการชะลอตัวของภาคส่งออกเฟอร์นิเจอร์"
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยประเด็นสำคัญอยู่ที่การเดินหน้าปราบปรามเหล็กไม่ได้มาตรฐานเพื่อคุ้มครองโรงงานผลิตในประเทศที่ได้มาตรฐาน และการเตรียมความพร้อมจัดงานแสดงสินค้าอุตสาหกรรมงานไม้ TIWF 2026"
       },
       "items": [
         {
           "id": "20260928-1",
-          "tag": "auto",
-          "rating": "green",
-          "source": "Matichon Online",
-          "date": "2026-09-21",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3YkdiUjdFRVhyTUJkeERxZkxWYk1qeEdLT20xS2VpV2c2WllpNV9OTnJoQS0yTHlyS0hScS0xU1NuOGswXzBZbUVkUk9rYm9UYXVfWjYzUllpWTA?oc=5",
-          "title": "EV Board Approves Three-Tier Tax Structure to Enforce Domestic Assembly",
-          "summary": "The national EV board finalized a three-tier excise tax system designed to pressure automakers to transition from importing completely built units (CBU) to local manufacturing. The measure intends to safeguard Thailand's automotive supply chain and protect local parts makers.",
-          "why": "Mandating local EV assembly directly stimulates domestic stamping, welding, and robotic metal-finishing lines, increasing factory floor demand for abrasive discs and deburring belts.",
-          "action": "Pitch high-durability deburring belts and grinding discs to Tier-1 and Tier-2 sheet metal suppliers ramping up for EV contracts.",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "mitihoon.com",
+          "date": "2026-09-25",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9udF9SZWlMTGsyTVBmV0RNVHlBTE1KUHlvc0RMQnNkbjV6S1d3aGprUkxJNFhxNU5PTmVTNVBPTVh2OWtFT0xSM21xdGg5Sll2Yk1mV3pB?oc=5",
+          "title": "Steel Associations Commend Industry Ministry Crackdown on Substandard Mills",
+          "summary": "Ten local steel associations met with the Industry Ministry and TISI to praise ongoing crackdowns on non-compliant steel producers. Enforcing strict industrial standards helps safeguard compliant domestic manufacturers from unfair, low-quality competition.",
+          "why": "A healthier operating environment for compliant steelmakers stabilizes local structural steel and metal fabrication, supporting recurring demand for MK's grinding discs and abrasive products.",
+          "action": "Target sales outreach toward certified structural steel and metal fabrication plants that stand to gain market share from the crackdown.",
           "th": {
-            "title": "บอร์ดอีวีเคาะโครงสร้างภาษี 3 เทียร์ บีบค่ายรถเร่งตั้งไลน์ผลิตในประเทศ",
-            "summary": "คณะกรรมการ EV เคาะโครงสร้างภาษีสรรพสามิต 3 เทียร์ มุ่งจูงใจและกดดันให้ผู้ผลิตรถยนต์เปลี่ยนจากการนำเข้าทั้งคันมาเป็นการตั้งฐานประกอบในไทย เพื่อปกป้องซัพพลายเชนชิ้นส่วนยานยนต์ในประเทศ",
-            "why": "การบังคับให้ประกอบรถยนต์ในประเทศกระตุ้นการปั๊มขึ้นรูป การเชื่อม และงานเตรียมผิวโลหะโดยตรง ส่งผลให้ความต้องการใช้วัสดุขัด ลบครีบ และเจียรในโรงงานเพิ่มขึ้น",
-            "action": "เร่งนำเสนอสายพานขัดและจานขัดลบครีบคุณภาพสูงให้แก่โรงงานซัพพลายเออร์ชิ้นส่วนโลหะ Tier-1 และ Tier-2 ที่เตรียมรองรับงานประกอบ EV"
+            "title": "10 สมาคมเหล็กเข้าพบกระทรวงอุตสาหกรรม-สมอ. ชื่นชมการปราบปรามเหล็กไม่ได้มาตรฐาน",
+            "summary": "10 สมาคมเหล็กในประเทศเข้าพบกระทรวงอุตสาหกรรมและ สมอ. เพื่อแสดงความขอบคุณและสนับสนุนการกวาดล้างโรงงานเหล็กที่ไม่ได้มาตรฐาน การบังคับใช้กฎหมายอย่างเข้มงวดช่วยปกป้องผู้ผลิตที่ได้มาตรฐานในประเทศจากการแข่งขันที่ไม่เป็นธรรม",
+            "why": "การจัดระเบียบอุตสาหกรรมเหล็กช่วยรักษาเสถียรภาพของโรงงานแปรรูปโลหะและโครงสร้างเหล็กที่ได้มาตรฐาน ซึ่งช่วยพยุงยอดใช้วัสดุขัดและใบเจียรของ MK ในระยะยาว",
+            "action": "มุ่งขยายฐานลูกค้าในกลุ่มโรงงานโครงสร้างเหล็กและแปรรูปโลหะที่ได้รับรองมาตรฐาน มอก. ซึ่งจะได้รับอานิสงส์จากมาตรการนี้"
           }
         },
         {
           "id": "20260928-2",
-          "tag": "aero",
-          "rating": "amber",
-          "source": "ฐานเศรษฐกิจ",
-          "date": "2026-02-22",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WYk9IRDVDZTBaVk54WmhwM0g4RjhJR3hBT19NaG1kZ2x6UGtobHU2bXBoYV9ZeXIxb2NSdENWR1BoVGFndXhTSWt3cjFQcFUyWS1EdEhpb1loV1R0dXUtbnpn?oc=5",
-          "title": "Thai Airways Allocates 10 Billion Baht to Expand U-Tapao MRO Hub",
-          "summary": "Thai Airways is moving forward with a 10-billion-baht investment plan to establish a comprehensive aircraft maintenance facility at U-Tapao Airport. The hub will service its growing fleet and third-party airlines across the region.",
-          "why": "Aviation MRO facilities require high-precision, certified specialty abrasives for airframe maintenance, turbine blade polishing, and composite surface prep.",
-          "action": "Identify technical procurement standards and aerospace certifications needed to qualify MK polishing products for aircraft maintenance supply chains.",
-          "th": {
-            "title": "การบินไทยทุ่มงบหมื่นล้าน ดันศูนย์ซ่อมอากาศยาน MRO อู่ตะเภา",
-            "summary": "การบินไทยเดินหน้าแผนร่วมทุนมูลค่า 1 หมื่นล้านบาท เพื่อพัฒนาศูนย์ซ่อมบำรุงอากาศยานครบวงจร ณ สนามบินอู่ตะเภา รองรับทั้งฝูงบินที่ขยายตัวและสายการบินพันธมิตรในภูมิภาค",
-            "why": "ศูนย์ซ่อม MRO ขนาดใหญ่จำเป็นต้องใช้วัสดุขัดเกรดเฉพาะทางและงานขัดผิวความแม่นยำสูง สำหรับการขัดลอกสีลำตัวเครื่องบิน ขัดเงาใบพัด และเตรียมผิวชิ้นส่วนอากาศยาน",
-            "action": "ศึกษาข้อกำหนดและมาตรฐานสากลด้านวัสดุขัดเกรดการบิน เพื่อเตรียมขึ้นทะเบียนเป็นผู้จัดจำหน่ายแก่องค์กรซ่อมบำรุงอากาศยาน"
-          }
-        },
-        {
-          "id": "20260928-3",
           "tag": "furniture",
           "rating": "amber",
-          "source": "kasikornresearch.com",
-          "date": "2025-10-09",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR0I3LUFaeENxbzdDQVF4UDdVMFlmRWp4Y3BBdFZ6OGFQeUdZZ3Y5dHA5Q2ZxRXJIaTUtLVNVY29QM3RuSk1RMmpaeXhucHEwLWRiMFlsbkJRNEtYY3RWSDZNNXRBUXdfb0hDV0IzR1pkRW5ERC1xSkQtN21WZTVveUNtdURRYmN3QjQxUDRHS2g1dDNkSGdRVVJGU2tBNGJ3WDREcGh1N2VrdnN6MExB?oc=5",
-          "title": "Thai Furniture Exports Face Forecast 4.5% Contraction Amid Shifting Demand",
-          "summary": "Kasikorn Research projects Thailand's furniture exports to contract by 4.5% due to reduced purchase orders from key markets following prior front-loaded demand. The slowdown poses revenue and volume risks for export-heavy manufacturing factories.",
-          "why": "Lower production volumes in export woodworking and metal furniture factories will soften commercial demand for wide sanding belts and finish-sanding sheets.",
-          "action": "Offset industrial volume drops by boosting retail marketing for sanding discs and DIY finishing paper on Shopee and TikTok.",
+          "source": "dailynews.co.th",
+          "date": "2026-09-03",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQOG53VVJYRkd4MUZabFczX0FkeTVGTGNFYmZGUUxkTnJ6VjNmeklDTUZEYXlVRkpjS1gzeUxQczJHMXJRS3c1dEdWSk14eVVqczJN?oc=5",
+          "title": "TIWF 2026 Prepares Major Showcase to Upgrade Regional Woodworking and Furniture Industry",
+          "summary": "Organizers of TIWF 2026 announced their readiness to host Southeast Asia's major woodworking exhibition, focusing on technology upgrades and sustainability for furniture makers. The trade fair connects regional wood manufacturers with cutting-edge machinery, tooling, and finishing suppliers.",
+          "why": "Woodworking and furniture plants consume large volumes of wide sanding belts, abrasive rolls, and orbital sanding discs for surface preparation.",
+          "action": "Plan a business visit to TIWF 2026 to identify and network directly with procurement managers from leading export-oriented furniture manufacturers.",
           "th": {
-            "title": "ศูนย์วิจัยกสิกรฯ คาดส่งออกเฟอร์นิเจอร์ไทยพลิกหดตัว 4.5% รับแรงกดดันตลาดโลก",
-            "summary": "ศูนย์วิจัยกสิกรไทยคาดการณ์การส่งออกเฟอร์นิเจอร์ไทยมีแนวโน้มหดตัว 4.5% หลังจากตลาดสหรัฐฯ เร่งนำเข้าไปก่อนหน้า ประกอบกับแรงกดดันด้านคำสั่งซื้อที่ชะลอตัวลง",
-            "why": "โรงงานผลิตเฟอร์นิเจอร์ไม้และโลหะเพื่อการส่งออกอาจลดกำลังการผลิตลง ส่งผลให้ปริมาณการสั่งซื้อกระดาษทรายสายพานหน้ากว้างและจานขัดงานไม้ชะลอตัว",
-            "action": "ชดเชยยอดขายระดับโรงงานด้วยการเร่งทำแคมเปญกระดาษทรายกลมและกระดาษทรายขัดไม้บน Shopee และ TikTok เจาะกลุ่มช่างไม้และผู้ใช้งาน DIY"
+            "title": "TIWF 2026 ประกาศความพร้อมจัดงานใหญ่ ยกระดับอุตสาหกรรมไม้และเฟอร์นิเจอร์ภูมิภาค",
+            "summary": "ผู้จัดงาน TIWF 2026 ประกาศความพร้อมจัดงานแสดงสินค้าอุตสาหกรรมงานไม้และเฟอร์นิเจอร์ระดับภูมิภาคอาเซียน เพื่อขับเคลื่อนการยกระดับเทคโนโลยีการผลิตและความยั่งยืน โดยเป็นศูนย์รวมเครื่องจักร เครื่องมือช่าง และโซลูชันเตรียมผิวไม้",
+            "why": "โรงงานแปรรูปไม้และผู้ผลิตเฟอร์นิเจอร์มีความต้องการใช้วัสดุขัดสูง โดยเฉพาะสายพานผ้าทรายหน้ากว้าง ม้วนกระดาษทราย และจานขัดกลม",
+            "action": "วางแผนเข้าร่วมงาน TIWF 2026 เพื่อพบปะและเปิดการขายโดยตรงกับฝ่ายจัดซื้อของโรงงานผลิตเฟอร์นิเจอร์ส่งออกชั้นนำ"
           }
         }
       ],
@@ -469,71 +451,6 @@ window.NEWS_ARCHIVE = {
             "summary": "การค้าเฟอร์นิเจอร์ในภูมิภาคอาเซียนเติบโตโดยมี 4 ประเทศหลัก ได้แก่ ไทย เวียดนาม มาเลเซีย และอินโดนีเซีย ครองส่วนแบ่งการส่งออกรวมกันถึง 90%",
             "why": "การรักษาฐานส่งออกที่แข็งแกร่งของโรงงานเฟอร์นิเจอร์ไทยช่วยพยุงคำสั่งซื้อสายพานขัดขนาดใหญ่ (Wide Belts) และกระดาษทรายกลมสำหรับงานขัดไม้และไม้วีเนียร์อย่างต่อเนื่อง",
             "action": "นำเสนอสายพานผ้าทรายหน้ากว้างและจานขัดกระดาษทรายสำหรับงานไม้ระดับพรีเมียมให้แก่โรงงานเฟอร์นิเจอร์ที่ผลิตเพื่อการส่งออก"
-          }
-        }
-      ],
-      "terms": {}
-    },
-    {
-      "date": "2026-09-14",
-      "summary": "Today has limited new headlines beyond previously covered topics. Key distinct updates highlight the 3-tier EV tax structure stimulating local auto parts fabrication, Thai Airways' long-term fleet expansion boosting aviation MRO prospects, and an export contraction warning for the furniture sector.",
-      "directCount": 1,
-      "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มากนัก ประเด็นสำคัญที่น่าจับตาคือรายละเอียดโครงสร้างภาษี EV แบบ 3 ขั้นที่ช่วยกระตุ้นการผลิตชิ้นส่วนโลหะยานยนต์ในประเทศ แผนขยายฝูงบินระยะยาวของการบินไทยที่ส่งผลบวกต่อศูนย์ซ่อมบำรุงอากาศยาน (MRO) และการคาดการณ์ส่งออกเฟอร์นิเจอร์ที่อาจหดตัวลง"
-      },
-      "items": [
-        {
-          "id": "20260914-1",
-          "tag": "auto",
-          "rating": "green",
-          "source": "RYT9",
-          "date": "2026-09-10",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBLRHFCWkQ4bE5LNGxvb3JUWmtEdm9BNDhaZDd2cnl3SGxEdGJ0MGUxMVdEYmEzLTcwSHlsNDVOTExzRkZlSVo3NVBR?oc=5",
-          "title": "EV Board Approves 3-Tier Excise Tax Restructuring to Boost Local Manufacturing",
-          "summary": "Thailand's EV Board has approved a new 3-tier excise tax structure granting lower tax brackets to automakers that assemble locally and meet high domestic content thresholds. The policy explicitly penalizes complete vehicle imports to build a domestic supply and export hub.",
-          "why": "This directly accelerates local metal stamping, chassis welding, and finishing operations, driving recurring factory demand for our cutting, grinding, and surface-finishing abrasives.",
-          "action": "Target Tier-1 and Tier-2 automotive metal stamping suppliers that are ramping up localized parts production.",
-          "th": {
-            "title": "บอร์ด EV ไฟเขียวปรับโครงสร้างภาษีสรรพสามิต ชู 3 Tier หนุนผลิตในประเทศและดันไทยเป็นฮับส่งออก",
-            "summary": "บอร์ดอีวีเห็นชอบโครงสร้างภาษีสรรพสามิตใหม่แบบ 3 ขั้น (3 Tier) มอบสิทธิภาษีต่ำแก่ค่ายรถที่ตั้งโรงงานผลิตและใช้ชิ้นส่วนในประเทศในสัดส่วนสูง เพื่อสกัดการนำเข้าสำเร็จรูปและปั้นไทยเป็นศูนย์กลางการส่งออก",
-            "why": "ส่งผลดีโดยตรงต่อโรงงานปั๊มขึ้นรูปโลหะ เชื่อมประกอบโครงสร้าง และเตรียมผิวชิ้นส่วนยานยนต์ในประเทศ ซึ่งจะผลักดันยอดใช้งานใบตัด ใบเจียร และกระดาษทรายขัดโลหะ",
-            "action": "เร่งเข้าพบกลุ่มโรงงาน Tier-1 และ Tier-2 งานโลหะยานยนต์ที่กำลังขยายกำลังการผลิตเพื่อรองรับสัดส่วนชิ้นส่วนในประเทศ"
-          }
-        },
-        {
-          "id": "20260914-2",
-          "tag": "aero",
-          "rating": "amber",
-          "source": "Thansettakij",
-          "date": "2026-08-01",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJbG91NDM0Z1ZuZmRPYUc4dlRzSXYwVXRnb1l5dGZyZUJLSDZqUXhOSnVzSXVQeTdRME04Y1c5TVB5SC0wOENDcm9VeDhaT3Fha0ZocE90aEgzNXpNOGVmYklR?oc=5",
-          "title": "Thai Airways Plans 100-Billion-Baht Fleet Expansion to 150 Aircraft",
-          "summary": "Thai Airways is rolling out an aggressive fleet expansion targeting 150 aircraft backed by a 100-billion-baht investment plan. The sizable fleet growth will require substantial domestic maintenance capacity and long-term MRO infrastructure support.",
-          "why": "A larger commercial fleet based in Thailand broadens future recurring demand for specialized aerospace abrasives used in aircraft skin stripping, paint prep, and turbine blade finishing.",
-          "action": "Accelerate technical audits and certifications for aerospace-grade abrasive discs and belts with local aviation maintenance hangars.",
-          "th": {
-            "title": "การบินไทยทุ่มงบแสนล้าน ขยายฝูงบินแตะ 150 ลำ ทวงบัลลังก์การบินระดับโลก",
-            "summary": "การบินไทยเดินหน้าแผนลงทุน 1 แสนล้านบาท ขยายฝูงบินสู่เป้าหมาย 150 ลำ ซึ่งการเติบโตของฝูงบินขนาดใหญ่นี้จำเป็นต้องพึ่งพาและกระตุ้นการขยายตัวของศูนย์ซ่อมบำรุงอากาศยาน (MRO) ในประเทศอย่างมาก",
-            "why": "จำนวนฝูงบินประจำการที่เพิ่มขึ้นช่วยขยายตลาดวัสดุขัดเกรดการบินในระยะยาว สำหรับงานลอกสี เตรียมผิวลำตัวเครื่องบิน และงานเจียรขัดชิ้นส่วนเครื่องยนต์",
-            "action": "เร่งดำเนินกระบวนการรับรองมาตรฐานสินค้าและทดสอบผลิตภัณฑ์วัสดุขัดเกรดการบินร่วมกับฝ่ายช่างอากาศยานชั้นนำในไทย"
-          }
-        },
-        {
-          "id": "20260914-3",
-          "tag": "furniture",
-          "rating": "amber",
-          "source": "kasikornresearch.com",
-          "date": "2025-10-09",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR0I3LUFaeENxbzdDQVF4UDdVMFlmRWp4Y3BBdFZ6OGFQeUdZZ3Y5dHA5Q2ZxRXJIaTUtLVNVY29QM3RuSk1RMmpaeXhucHEwLWRiMFlsbkJRNEtYY3RWSDZNNXRBUXdfb0hDV0IzR1pkRW5ERC1xSkQtN21WZTVveUNtdURRYmN3QjQxUDRHS2g1dDNkSGdRVVJGU2tBNGJ3WDREcGh1N2VrdnN6MExB?oc=5",
-          "title": "Kasikorn Research Projects Thai Furniture Exports to Contract 4.5% in 2026",
-          "summary": "After front-loaded US import demand drove growth in 2025, Thai furniture exports are projected to decline by 4.5% in 2026 due to inventory digestion and tighter trade regulations. Export manufacturers face margin pressures and reduced production output.",
-          "why": "Weakening wood furniture manufacturing lowers industrial consumption of wide sanding belts, disc abrasives, and hand sanding sheets among export-focused woodworking plants.",
-          "action": "Offset B2B factory slowdown by pushing woodworking abrasives into DIY and retail segments on Shopee and TikTok, while monitoring credit risk in export mills.",
-          "th": {
-            "title": "ศูนย์วิจัยกสิกรฯ ชี้ส่งออกเฟอร์นิเจอร์ไทยปี 2569 ส่อพลิกหดตัว 4.5%",
-            "summary": "หลังเติบโตสูงจากการเร่งนำเข้าของสหรัฐฯ ในปี 2568 คาดว่าการส่งออกเฟอร์นิเจอร์ไทยในปี 2569 จะพลิกกลับมาหดตัว 4.5% จากการชะลอคำสั่งซื้อและการปรับตัวรับกฎเกณฑ์ภาษีใหม่ ส่งผลให้โรงงานส่งออกต้องลดกำลังการผลิต",
-            "why": "ปริมาณการผลิตเฟอร์นิเจอร์และงานไม้ที่ชะลอตัวจะกระทบต่อยอดสั่งซื้อกระดาษทรายสายพานหน้ากว้างและจานขัดกระดาษทรายจากกลุ่มโรงงานงานไม้เพื่อการส่งออก",
-            "action": "กระจายความเสี่ยงโดยเร่งทำตลาดวัสดุขัดงานไม้ในช่องทางช่างและ DIY บน Shopee/TikTok พร้อมคุมเข้มวงเงินสินเชื่อของโรงงานเฟอร์นิเจอร์ส่งออก"
           }
         }
       ],
