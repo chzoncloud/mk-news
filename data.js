@@ -3,64 +3,64 @@ window.NEWS_ARCHIVE = {
   "days": [
     {
       "date": "2026-09-30",
-      "summary": "There are few new headlines today as most major industry developments were tracked earlier. The main focus is on the EV Board's 3-tier tax policy encouraging domestic parts production, which directly benefits local metalworking and abrasive demand.",
-      "directCount": 1,
+      "summary": "Today has limited new breaking news, with focus centered on aircraft MRO development in U-Tapao, domestic steel standard disputes, and export tariffs affecting furniture manufacturing.",
+      "directCount": 0,
       "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มากเนื่องจากประเด็นหลักส่วนใหญ่ได้รับการรายงานไปแล้ว ข่าวสำคัญยังคงอยู่ที่บอร์ดอีวีเคาะโครงสร้างภาษี 3 เทียร์เพื่อบีบให้ใช้ชิ้นส่วนในประเทศ ซึ่งส่งผลบวกโดยตรงต่อความต้องการงานขัดโลหะของโรงงานไทย"
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยประเด็นสำคัญยังคงเน้นไปที่การผลักดันศูนย์ซ่อมบำรุงอากาศยาน (MRO) อู่ตะเภา ข้อพิพาทการคุมมาตรฐานโรงงานเหล็ก และแรงกดดันภาษีนำเข้าในกลุ่มส่งออกเฟอร์นิเจอร์"
       },
       "items": [
         {
           "id": "20260930-1",
-          "tag": "auto",
-          "rating": "green",
-          "source": "Matichon Online",
-          "date": "2026-09-21",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3YkdiUjdFRVhyTUJkeERxZkxWYk1qeEdLT20xS2VpV2c2WllpNV9OTnJoQS0yTHlyS0hScS0xU1NuOGswXzBZbUVkUk9rYm9UYXVfWjYzUllpWTA?oc=5",
-          "title": "EV Board Finalizes 3-Tier Tax Scheme to Mandate Local Parts Sourcing",
-          "summary": "Thailand's EV Board has finalized a 3-tier excise tax structure offering lower tax rates to EV makers that hit higher local content thresholds. The move is designed to force automakers to utilize existing Thai auto part manufacturing networks.",
-          "why": "This policy directly compels EV manufacturers to order stamped, cast, and machined metal components from local Tier-1 and Tier-2 factories, directly raising consumption of grinding wheels, flap discs, and deburring belts.",
-          "action": "Accelerate sales pitches to Tier-1 and Tier-2 metal stamping and machining suppliers preparing EV component lines.",
+          "tag": "aero",
+          "rating": "amber",
+          "source": "thansettakij",
+          "date": "2026-06-16",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pbFFnQlhiSG5UMVBfTjVmMUZtNXc4ZkYyOFljMVFtQlQwalZ5WUpidFlzX3prejlBWGoydDYzUUZXMlY4bE56VFUwZnZrLVJfWlRtV2t0Wi0xOWkzeVFLTUFJOVIwUQ?oc=5",
+          "title": "EECO Pins U-Tapao MRO Hub Awaiting Vietjet Investment Feasibility",
+          "summary": "The Eastern Economic Corridor Office (EECO) is advancing the U-Tapao aircraft maintenance center, awaiting an investment study from Vietjet to establish hangars. The project aims to capture maintenance demand from low-cost carrier fleets across the region.",
+          "why": "Expanding MRO facilities creates long-term demand for specialized aerospace-grade abrasives used in aircraft skin repair, paint stripping, and component blending.",
+          "action": "Track Vietjet's investment timeline at U-Tapao and prepare technical product sheets for certified aircraft surface conditioning discs.",
           "th": {
-            "title": "บอร์ดอีวีเคาะโครงสร้างภาษี 3 เทียร์ บีบค่ายรถใช้ชิ้นส่วนในประเทศ",
-            "summary": "บอร์ดอีวีเห็นชอบโครงสร้างภาษีสรรพสามิต 3 ระดับ โดยให้สิทธิภาษีต่ำแก่ค่ายรถที่ใช้ชิ้นส่วนในประเทศสูง เพื่อปกป้องและดึงซัพพลายเชนการผลิตยานยนต์ไทยเข้าสู่ระบบ",
-            "why": "นโยบายนี้จะเร่งให้โรงงานชิ้นส่วนโลหะและปั๊มขึ้นรูปในไทยได้รับคำสั่งผลิตเพิ่มขึ้น ส่งผลให้ความต้องการใช้วัสดุขัด ลบครีบคม และเจียรแต่งผิวเติบโตโดยตรง",
-            "action": "เร่งส่งทีมขายเข้าพบโรงงาน Tier-1 และ Tier-2 กลุ่มปั๊มขึ้นรูปและกลึงโลหะที่เริ่มเตรียมไลน์ผลิตชิ้นส่วนรองรับค่าย EV"
+            "title": "สกพอ. ปักหมุดศูนย์ซ่อมฯ อู่ตะเภา รอผลศึกษาแผนลงทุนจากเวียตเจ็ท",
+            "summary": "สำนักงานคณะกรรมการนโยบายเขตพัฒนาพิเศษภาคตะวันออก (สกพอ.) เดินหน้าโครงการศูนย์ซ่อมอากาศยานอู่ตะเภา โดยรอผลศึกษาแผนลงทุนจากสายการบินเวียตเจ็ทเพื่อสร้างโรงซ่อม หวังรองรับฝูงบินสายการบินราคาประหยัดในภูมิภาค",
+            "why": "การขยายศูนย์ซ่อมบำรุงอากาศยาน (MRO) จะสร้างความต้องการวัสดุขัดเกรดการบินสำหรับงานขัดลอกสี เตรียมผิว และขัดแต่งชิ้นส่วนอากาศยานในระยะยาว",
+            "action": "ติดตามความคืบหน้าแผนลงทุน MRO ของเวียตเจ็ท พร้อมเตรียมข้อมูลทางเทคนิคของจานขัดและผ้าทรายมาตรฐานการบินไว้ล่วงหน้า"
           }
         },
         {
           "id": "20260930-2",
           "tag": "steel",
           "rating": "amber",
-          "source": "ข่าวสด",
-          "date": "2026-05-21",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15SXhSTE9NZ09fLVZFdGQ0M0JDVXlYWHM4Y1FzbDcxc0VZcFdrX1laUTRTR3VDZkZYcUNENkVUMTA4MnVOcUpGTi1xZk04NVNoUW14Z29vYXRRakEwOVE?oc=5",
-          "title": "10 Steel Associations Urge TISI to Phase Out Induction Furnace Mills Within Three Years",
-          "summary": "Ten domestic steel associations have petitioned the Thai Industrial Standards Institute (TISI) to phase out substandard Induction Furnace (IF) steel plants within three years. They advocate transitioning fully to compliant Electric Arc Furnace (EAF) technologies to elevate industry quality standards.",
-          "why": "Phasing out substandard mills helps stabilize domestic steel manufacturing and protects compliant, higher-standard mills that regularly consume heavy-duty cutting and grinding abrasives.",
-          "action": "Strengthen supply relationships with compliant EAF steel makers and certified structural steel fabricators.",
+          "source": "bangkokbiznews",
+          "date": "2026-06-09",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1BZE5wSV9tN3JIMkxoeTBjenRHaWFGTThOMkNUWUgwUm4ybm02TTlNLWJ5U1RFdVFRQVBwSldqVWEyUHBIVXhfTnNiSHpzQXhoVDhUYjJoMVAyakhp?oc=5",
+          "title": "Industry Department Scrutinizes Xin Ke Yuan Over Substandard Steel Allegations",
+          "summary": "The Department of Industrial Works is facing strong calls from domestic steelmakers to thoroughly inspect Xin Ke Yuan and restrict substandard production. Local operators demand strict enforcement of standards to prevent market dumping and ensure industrial safety.",
+          "why": "Strict regulatory enforcement protects legitimate domestic steel mills and metal fabricators, which are reliable long-term buyers of quality industrial grinding and cutting abrasives.",
+          "action": "Maintain strong relationships with certified domestic steel mills by offering high-durability heavy grinding and deburring solutions.",
           "th": {
-            "title": "10 สมาคมเหล็กยื่น สมอ. ชงแผนยกเลิกโรงงานเตาหลอม IF ภายใน 3 ปี",
-            "summary": "10 สมาคมเหล็กในไทยรวมตัวยื่นข้อเสนอต่อ สมอ. ให้ยกเลิกโรงงานเหล็กที่ใช้เตาหลอม Induction Furnace (IF) ที่เสี่ยงผลิตไม่ได้มาตรฐานภายใน 3 ปี และผลักดันให้ใช้เตา EAF แทน",
-            "why": "การคัดกรองโรงงานที่ไม่ได้มาตรฐานออกไปจะช่วยฟื้นฟูตลาดและเพิ่มเสถียรภาพให้แก่โรงงานเหล็กมาตรฐานสูง ซึ่งเป็นกลุ่มลูกค้าที่ใช้วัสดุขัดและใบเจียรคุณภาพสูงเป็นประจำ",
-            "action": "เน้นรักษาฐานลูกค้าและเสนอแพ็กเกจสินค้าใบตัด-ใบเจียรเกรดอุตสาหกรรมหนักแก่กลุ่มโรงหลอม EAF และโรงแปรรูปโครงสร้างเหล็กมาตรฐาน"
+            "title": "กรมโรงงานฯ เร่งตรวจเข้ม 'ซิน เคอ หยวน' หลังผู้ผลิตไทยร้องสกัดเหล็กไร้มาตรฐาน",
+            "summary": "กรมโรงงานอุตสาหกรรมเผชิญแรงกดดันจากกลุ่มผู้ผลิตเหล็กในประเทศ ให้ตรวจสอบโรงงานซินเคอหยวนอย่างเข้มงวดและสกัดการผลิตเหล็กที่ไม่ได้มาตรฐาน เพื่อป้องกันปัญหาสินค้าราคาถูกทุ่มตลาดและรักษาความปลอดภัยในงานโครงสร้าง",
+            "why": "การคุมเข้มโรงงานที่ไม่ได้มาตรฐานช่วยปกป้องโรงงานเหล็กและงานโครงสร้างโลหะที่ได้มาตรฐาน ซึ่งเป็นกลุ่มลูกค้าหลักที่ใช้วัสดุขัดและใบเจียรคุณภาพสูงของ MK อย่างต่อเนื่อง",
+            "action": "กระชับความสัมพันธ์กับกลุ่มโรงงานเหล็กที่ได้รับมาตรฐาน มอก. พร้อมนำเสนอแพ็กเกจใบเจียรหนักและใบตัดที่มีความคุ้มค่าและความทนทานสูง"
           }
         },
         {
           "id": "20260930-3",
           "tag": "furniture",
           "rating": "amber",
-          "source": "LINE TODAY",
-          "date": "2026-02-19",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SdnFHbkI2cC12bTVyU0ZpODZiODNrZ2xoV1BtT2dIQ2hZN3AwVTcyRzVtY3ByN2tjazdNWGQ5VmphbXlMQU5iOEU4dVNGMU9iQW5QRUFB?oc=5",
-          "title": "ASEAN Furniture Sector Pushes for High-Value Design and Sustainable Exports",
-          "summary": "ASEAN furniture trade groups are collaborating to expand export competitiveness toward a 1.6-trillion-baht market by emphasizing sustainable materials and premium design finishes.",
-          "why": "The shift toward high-end surface finishing and premium wood/metal furniture requires higher quality abrasive belts and fine-grit finishing paper.",
-          "action": "Introduce MK premium wide sanding belts and fine-grit abrasives to export-focused wood and metal furniture producers.",
+          "source": "ditp.go.th",
+          "date": "2025-10-08",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WZ0s3TnpGQ1JjZHJpVkhVQ19La3lwT2hjMTR3cXZlczhtby1WNnFQaUcxb2RUZ1FPcGgwQTRWa2t6TnN4d3NNUXF6bXVjOEpKY3FrWlFocm9nRnJ5UGdZOFd3?oc=5",
+          "title": "Furniture Manufacturers Brace for Export Drops Under Impending US Tariff Rules",
+          "summary": "Thai wood and furniture manufacturers anticipate reduced purchase orders due to proposed revisions in US import tariff regulations. Exporters are advised to explore alternative regional markets to counter the slowdown from North American buyers.",
+          "why": "A slowdown in export-oriented furniture production will reduce factory-level consumption of wide sanding belts and surface finishing sandpaper.",
+          "action": "Offer competitive bulk sanding belt packages to cost-conscious furniture exporters while accelerating DIY sanding paper sales on Shopee and TikTok.",
           "th": {
-            "title": "อุตสาหกรรมเฟอร์นิเจอร์อาเซียนผนึกกำลัง ดันตลาดส่งออกงานดีไซน์มูลค่าสูงแตะ 1.6 ล้านล้าน",
-            "summary": "กลุ่มผู้ผลิตเฟอร์นิเจอร์อาเซียนร่วมมือยกระดับการแข่งขันในตลาดโลก มุ่งเน้นมาตรฐานความยั่งยืนและการออกแบบขั้นสูงเพื่อเพิ่มมูลค่าส่งออก",
-            "why": "การเน้นงานผิวละเอียดและเฟอร์นิเจอร์เกรดส่งออกระดับบนจะช่วยเพิ่มความต้องการกระดาษทรายสายพานหน้ากว้างและวัสดุขัดผิวเนียนละเอียด",
-            "action": "นำเสนอสายพานขัดไม้หน้ากว้างและกระดาษทรายเบอร์ละเอียดของ MK ให้แก่โรงงานเฟอร์นิเจอร์ไม้และโครงโลหะที่เน้นส่งออก"
+            "title": "ผู้ผลิตเฟอร์นิเจอร์คาดคำสั่งซื้อลดลง รับมือนโยบายภาษีนำเข้าใหม่ของสหรัฐฯ",
+            "summary": "ผู้ผลิตไม้และเฟอร์นิเจอร์ไทยเตรียมรับมือคำสั่งซื้อชะลอตัวจากความกังวลต่อนโยบายภาษีนำเข้าใหม่ของสหรัฐฯ โดยภาครัฐแนะผู้ส่งออกเร่งกระจายความเสี่ยงไปยังตลาดใหม่ในภูมิภาคเพื่อลดการพึ่งพาตลาดอเมริกาเหนือ",
+            "why": "หากโรงงานผลิตเฟอร์นิเจอร์ส่งออกชะลอการผลิต จะส่งผลให้ปริมาณการใช้สายพานขัดไม้ขนาดใหญ่และกระดาษทรายขัดผิวไม้ในสายการผลิตลดลง",
+            "action": "เสนอแพ็กเกจสายพานขัดไม้ที่เน้นลดต้นทุนให้แก่โรงงานเฟอร์นิเจอร์ ควบคู่ไปกับการเร่งยอดขายกระดาษทรายปลีกและงาน DIY บน Shopee และ TikTok"
           }
         }
       ],
