@@ -1,7 +1,89 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-09-29",
+  "updated": "2026-09-30",
   "days": [
+    {
+      "date": "2026-09-30",
+      "summary": "Today's briefing features 4 global market signals covering automotive OEM coatings, metal casting growth, AI adoption in surface finishes, and global steel oversupply challenges.",
+      "directCount": 4,
+      "th": {
+        "summary": "สรุปข่าวสารประจำวันนี้มีสัญญาณตลาดโลก 4 ประเด็นสำคัญ ได้แก่ ตลาดเคลือบผิวรถยนต์ OEM, การเติบโตของอุตสาหกรรมการหล่อโลหะ, การนำ AI มาใช้ในการเคลือบผิว และความท้าทายจากภาวะอุปทานเหลกล้นตลาดโลก"
+      },
+      "items": [
+        {
+          "id": "20260930-w1",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "fortunebusinessinsights.com",
+          "date": "2026-09-07",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
+          "title": "Automotive OEM Coatings Market Size, Share | Growth [2034]",
+          "summary": "The automotive OEM coatings market is expanding steadily through 2034, driven by vehicle production shifts and new finishing demands.",
+          "why": "Coatings and surface preparation go hand-in-hand with abrasives; understanding OEM paint trends helps us anticipate pre-painting sanding requirements.",
+          "action": "Monitor automotive coating thickness and surface prep specifications to align with upcoming vehicle finish standards.",
+          "th": {
+            "title": "ขนาด ส่วนแบ่ง และการเติบโตของตลาดสารเคลือบผิวรถยนต์ OEM ถึงปี 2034",
+            "summary": "ตลาดสารเคลือบผิวรถยนต์แบบ OEM กำลังขยายตัวอย่างต่อเนื่องจนถึงปี 2034 ขับเคลื่อนโดยการเปลี่ยนแปลงการผลิตยานยนต์และความต้องการการตกแต่งพื้นผิวใหม่ๆ",
+            "why": "งานเคลือบและเตรียมพื้นผิวต้องใช้กระดาษทรายร่วมด้วย การเข้าใจเทรนด์สีและสารเคลือบ OEM ช่วยให้เราคาดการณ์ความต้องการขัดผิวก่อนพ่นสีได้",
+            "action": "ติดตามข้อกำหนดความหนาของสารเคลือบรถยนต์และการเตรียมพื้นผิว เพื่อให้สอดคล้องกับมาตรฐานงานพ่นสีรถยนต์ในอนาคต"
+          }
+        },
+        {
+          "id": "20260930-w2",
+          "tag": "steel",
+          "rating": "green",
+          "source": "fortunebusinessinsights.com",
+          "date": "2026-09-07",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kYlp3TXBwdU5JVl9Gc0pFd3lJSFpjSUhLeEFGOVZVS19BbHBoTFNGb1BFOC1UNEN4c1o0c2xjdTFZYXhVdGRVb0dIeXZqakt1bTJkQy10SC0wRlh0RVVBZHZaWDFYbDk3cHdUbXBsYnRyYTlFVEE?oc=5",
+          "title": "Metal Casting Market Growth Analysis & Industry Forecast, 2034",
+          "summary": "The metal casting market is projected for steady long-term growth, supported by heavy industrial and automotive components manufacturing.",
+          "why": "Metal castings require extensive deburring, grinding, and surface smoothing using grinding discs and abrasive belts.",
+          "action": "Target metal casting foundries and fabrication shops with heavy-duty grinding and deburring product offerings.",
+          "th": {
+            "title": "วิเคราะห์การเติบโตและพยากรณ์อุตสาหกรรมการหล่อโลหะถึงปี 2034",
+            "summary": "ตลาดการหล่อโลหะคาดว่าจะเติบโตอย่างมั่นคงในระยะยาว สนับสนุนโดยการผลิตชิ้นส่วนอุตสาหกรรมหนักและยานยนต์",
+            "why": "งานหล่อโลหะจำเป็นต้องผ่านกระบวนการลบครีบ เจียร และปรับผิวให้เรียบ ซึ่งต้องใช้แผ่นตัดและสายพานขัดเป็นจำนวนมาก",
+            "action": "มุ่งเน้นทำตลาดกับโรงงานหล่อโลหะและร้านแปรรูปโลหะด้วยผลิตภัณฑ์กลุ่มใบเจียรและงานลบคมงานหนัก"
+          }
+        },
+        {
+          "id": "20260930-w3",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "Amazon Web Services (AWS)",
+          "date": "2025-10-22",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UMG9rVURtamVSUnVYZzhtYjBPZUVWNDdCb0J1V3lEd09EV1JsS3dsU0ZwNkRxbmc4MVlwcXRPZW5aQklBRGxEWWxVRmVzUUJEZUNfOXZfT0d3cnVPaW5ydjZ3bjBlS1NyRGhWSw?oc=5",
+          "title": "AI in Paints and Coatings Market: Trends, Growth, and Opportunities",
+          "summary": "Artificial intelligence is increasingly integrated into the paints and coatings sector to optimize formulation, quality control, and manufacturing processes.",
+          "why": "Smart manufacturing and automated surface inspection change how industrial customers evaluate surface defects and abrasive finish quality.",
+          "action": "Keep an eye on how AI-driven quality control in coating lines demands higher precision from preparatory abrasives.",
+          "th": {
+            "title": "ปัญญาประดิษฐ์ในตลาดสีและสารเคลือบ: เทรนด์ การเติบโต และโอกาส",
+            "summary": "ปัญญาประดิษฐ์ถูกนำมาบูรณาการในอุตสาหกรรมสีและสารเคลือบมากขึ้นเพื่อเพิ่มประสิทธิภาพสูตร การควบคุมคุณภาพ และกระบวนการผลิต",
+            "why": "การผลิตอัจฉริยะและการตรวจสอบพื้นผิวอัตโนมัติเปลี่ยนวิธีที่ลูกค้าอุตสาหกรรมประเมินข้อบกพร่องของพื้นผิวและคุณภาพงานขัด",
+            "action": "ติดตามดูว่าการควบคุมคุณภาพด้วย AI ในไลน์เคลือบผิว เรียกร้องความแม่นยำที่สูงขึ้นจากวัสดุขัดเตรียมพื้นผิวอย่างไร"
+          }
+        },
+        {
+          "id": "20260930-w4",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "S&P Global",
+          "date": "2026-01-12",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
+          "title": "Global steel industry battles surplus supply, protectionism",
+          "summary": "The global steel sector continues to face overcapacity issues and rising trade protectionism, impacting regional mill operations and pricing.",
+          "why": "Steel mill activity and fabrication output directly dictate the demand volume for industrial grinding wheels, cutting discs, and sanding products.",
+          "action": "Diversify customer segments across general metal fabrication to mitigate localized slowdowns in heavy steel production.",
+          "th": {
+            "title": "อุตสาหกรรมเหล็กโลกเผชิญศึกอุปทานล้นตลาดและลัทธิกีดกันทางการค้า",
+            "summary": "ภาคอุตสาหกรรมเหล็กทั่วโลกยังคงเผชิญกับปัญหากำลังการผลิตส่วนเกินและมาตรการปกป้องทางการค้าที่เพิ่มขึ้น ซึ่งส่งผลกระทบต่อการดำเนินงานและราคาของโรงงานในภูมิภาค",
+            "why": "กิจกรรมของโรงงานเหล็กและปริมาณการผลิตงานโลหะส่งผลโดยตรงต่อปริมาณความต้องการใบตัด ใบเจียร และผลิตภัณฑ์กระดาษทราย",
+            "action": "กระจายกลุ่มลูกค้าไปยังงานแปรรูปโลหะทั่วไป เพื่อลดความเสี่ยงจากภาวะชะลอตัวในภาคการผลิตเหล็กหนา"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-09-29",
       "summary": "Today's global trend briefing focuses on critical shifts in the abrasive materials market, cutting disc demand driven by metalworking expansion, and shifting steel production landscapes impacted by US tariffs and trade policies.",
@@ -956,88 +1038,6 @@ window.WORLD_ARCHIVE = {
             "summary": "อุตสาหกรรมการหล่อโลหะทั่วโลกแสดงการเติบโตอย่างมั่นคง ขับเคลื่อนโดยภาคยานยนต์ เครื่องจักร และอุปกรณ์อุตสาหกรรม",
             "why": "งานหล่อโลหะต้องการการลบคม การเจียร และการทำความสะอาดพื้นผิวอย่างมากโดยใช้ล้อเจียรและสายพานขัด",
             "action": "เจาะกลุ่มโรงงานหล่อโลหะด้วยผลิตภัณฑ์เจียรและลบคมที่มีความทนทานสูง"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-09-16",
-      "summary": "Today's briefing focuses on 4 fresh global signals highlighting high-tech robotic finishing, semiconductor and electronics applications for abrasives, and AI manufacturing transformations in the automotive sector.",
-      "directCount": 2,
-      "th": {
-        "summary": "สรุปข้อมูลแนวโน้มโลกวันนี้เน้น 4 สัญญาณใหม่ที่สำคัญเกี่ยวกับงานขัดผิวด้วยหุ่นยนต์ การใช้งานสารขัดถูในอุตสาหกรรมเซมิคอนดักเตอร์และอิเล็กทรอนิกส์ รวมถึงการเปลี่ยนผ่านสู่โรงงานอัจฉริยะ AI ในยานยนต์"
-      },
-      "items": [
-        {
-          "id": "20260916-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-09-15",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd0JtN1luVVV1bGZ1c0JHQlZVSjFvWWhUS080WDVlLUtxSGRYVENBcVFKLWhGQnFEbU9NSURhZTRjV3I0azVLdDhRd3RyYWhFZ0hMV0lLZWRGQkZQTUhFdHdrV1RBVXJSaHkwQUNkc01xWjVpZ1FCODVaLUh1WmFuQUloLTJ5SVFhYVdkVjFfVEpCYTNlM0JQdGh1OFFEQUNCMDhjaFZxc1dwR0pmcEtBUGZMdElucHVYSkNOcG9n?oc=5",
-          "title": "Flap Wheels Market Forecast to 2035: Robotic Finishing and Semiconductor Demand Drive Growth",
-          "summary": "The global market for flap wheels is forecasted to grow steadily through 2035, heavily driven by automation in robotic finishing and high-tech semiconductor manufacturing demands.",
-          "why": "Robotic integration requires high-consistency and precision abrasive tools like flap wheels. This signals a shift toward automated surface treatment in factories.",
-          "action": "Prepare to source and promote high-durability flap wheels suited for automated robotic arms rather than manual hand tools.",
-          "th": {
-            "title": "ตลาดใบขัดซ้อน (Flap Wheels) สู่ปี 2035: ขับเคลื่อนโดยงานขัดผิวด้วยหุ่นยนต์และความต้องการเซมิคอนดักเตอร์",
-            "summary": "ตลาดโลกของใบขัดซ้อนคาดว่าจะเติบโตต่อเนื่องถึงปี 2035 โดยได้รับแรงหนุนหลักจากระบบอัตโนมัติในการขัดผิวด้วยหุ่นยนต์และความต้องการในอุตสาหกรรมเซมิคอนดักเตอร์ไฮเทค",
-            "why": "การใช้หุ่นยนต์ต้องอาศัยเครื่องมือขัดที่มีความแม่นยำและสม่ำเสมอสูง เช่น ใบขัดซ้อน สะท้อนถึงทิศทางของโรงงานที่เปลี่ยนไปสู่การขัดผิวอัตโนมัติ",
-            "action": "เตรียมสรรหาและโปรโมตใบขัดซ้อนความทนทานสูงที่เหมาะสำหรับแขนกลหุ่นยนต์ แทนที่จะเน้นแต่วิธีใช้มือขัดแบบเดิม"
-          }
-        },
-        {
-          "id": "20260916-w2",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-09-11",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPM0IzU2FhMUZlR1lUSG1BY3VVdVZSaTVfVUxFeTJrV1VGazdzYURVUXZvN0VnTEdVYXEtbnRybGZkZ2FBUGotSHg2ejJfVDRQSld2Z3B1YU1mNjhxR0E2Mlg3eXdyT3ZCSjJSYXllN1lRSjByMXBKTVdHVlZ1WFBVZGhDZGVwM1ZpU3psc0dMTnZ4aUVnRVZDblFqOEMxUk9WVVFHVUlZN0lkSWF0X2JoSU5FWnRHeVNYTkJtMVVQZHBKMzNXTEQtZEJJZ09uQlpmcTNLdUdDdjY?oc=5",
-          "title": "Tab Surface Preparation Abrasives Market Forecast to 2035: Advanced Packaging and Semiconductor Capacity Drive Growth",
-          "summary": "Surface preparation abrasives used for specialized micro-components and tab structures are experiencing solid growth due to expanding advanced semiconductor packaging.",
-          "why": "High-tech electronics require extremely fine, precision surface prep products, opening niche opportunities outside traditional heavy metal and wood sectors.",
-          "action": "Keep an eye on ultra-fine grit and micro-finishing products tailored for electronics and semiconductor supply chains.",
-          "th": {
-            "title": "ตลาดวัสดุขัดเตรียมพื้นผิวแท็บ สู่ปี 2035: บรรจุภัณฑ์ขั้นสูงและกำลังการผลิตเซมิคอนดักเตอร์ขับเคลื่อนการเติบโต",
-            "summary": "วัสดุขัดเตรียมพื้นผิวสำหรับชิ้นส่วนไมโครและโครงสร้างแท็บกำลังเติบโตอย่างแข็งแกร่ง เนื่องจากการขยายตัวของบรรจุภัณฑ์เซมิคอนดักเตอร์ขั้นสูง",
-            "why": "อุปกรณ์อิเล็กทรอนิกส์ไฮเทคต้องการผลิตภัณฑ์เตรียมพื้นผิวที่มีความละเอียดและแม่นยำสูง ซึ่งช่วยเปิดโอกาสตลาดเฉพาะกลุ่มนอกเหนือจากอุตสาหกรรมโลหะและไม้แบบดั้งเดิม",
-            "action": "ติดตามและเตรียมพร้อมสำหรับกลุ่มสินค้ากระดาษทรายเบอร์ละเอียดพิเศษและผลิตภัณฑ์ขัดตกแต่งผิว (micro-finishing) สำหรับห่วงโซ่อุปทานอิเล็กทรอนิกส์"
-          }
-        },
-        {
-          "id": "20260916-w3",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-09-02",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUUpWSmpHLVowSXdiLUJqcFlpQ3ZfRmdQYjJiTVFCNk00ZW0tM0ZqenQtd2F4emNVNEdzT3Q3amZ3M050YnNuTldQZFQyTlgyX3ByekdEbkdlaURacG5yRlBUSEZucnBQalBmNzVadXVrSDdXcEd0d2t4UXptUzJ5dXZ6ckE1V3RVV3IyUkY4SFdVSERveVJYem0yM3lNbWFUY1dXWHYyRFZ2cXdldWFyRmJTNE4tQ1RXWWp4N3NCN1h5Vmt3d3hEbkFPc2ZqT0k?oc=5",
-          "title": "A global AI manufacturing transformation at Hyundai Motor Group",
-          "summary": "Hyundai Motor Group is scaling up its global manufacturing transformation by integrating artificial intelligence deeply across its production lines and assembly plants.",
-          "why": "Automotive manufacturing is modernizing rapidly. Smarter factories demand higher precision and automated tooling solutions to match digital production lines.",
-          "action": "Expect automotive tier-1 suppliers to upgrade their quality control and automated finishing specs; align B2B product offerings accordingly.",
-          "th": {
-            "title": "การเปลี่ยนผ่านสู่การผลิตระดับโลกด้วย AI ของฮุนได มอเตอร์ กรุ๊ป",
-            "summary": "ฮุนได มอเตอร์ กรุ๊ป กำลังยกระดับการแปลงโฉมการผลิตทั่วโลกด้วยการผสานรวมปัญญาประดิษฐ์เข้ากับสายการผลิตและโรงงานประกอบอย่างลึกซึ้ง",
-            "why": "การผลิตยานยนต์กำลังทันสมัยขึ้นอย่างรวดเร็ว โรงงานที่ฉลาดขึ้นย่อมต้องการความแม่นยำสูงและโซลูชันเครื่องมืออัตโนมัติให้สอดคล้องกับสายการผลิตดิจิทัล",
-            "action": "คาดการณ์ว่ากลุ่มผู้ผลิตชิ้นยานยนต์ Tier-1 จะยกระดับมาตรฐานการควบคุมคุณภาพและสเปกงานขัดอัตโนมัติ ควรปรับสินค้า B2B ให้รองรับความต้องการนี้"
-          }
-        },
-        {
-          "id": "20260916-w4",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "The World Economic Forum",
-          "date": "2026-04-21",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeFBmZTNpZDhjN1lHNlBlU0duZ3ZQWW9uanI0SWs3SDFVazlpbVVXMklqSTVjbDloUEI4NW1Ca2dGckgzanh5UlRfX1F5QlVfQWFZNGdSS1h5bHNIUElCTk9LeUktaGd2VWxwRDAyMGJmQ1F6ZHVEOURKVjF3MVdHWGd0OG4zYTNtUk0yZkp0QXN4R3p5LUEtWkFzODBVdUdlTVpLNTh3ZjQtTGJuanlfS0Y5dWVLVEo1WkEybk96dVY?oc=5",
-          "title": "How the Iran war is disrupting India's steel production amid fuel shortages and rising costs",
-          "summary": "Geopolitical conflicts and fuel shortages are causing severe supply disruptions and cost inflation for steel production in major hubs like India.",
-          "why": "Steel fabrication and metal manufacturing directly dictate industrial abrasive consumption. Volatile steel output impacts local metalworking shops and deburring demand.",
-          "action": "Monitor metal fabrication cost pressures and ensure flexible inventory management for metal-grinding discs and belts.",
-          "th": {
-            "title": "สงครามอิหร่านกระทบการผลิตเหล็กของอินเดียท่ามกลางภาวะขาดแคลนเชื้อเพลิงและต้นทุนที่พุ่งสูง",
-            "summary": "ความขัดแย้งทางภูมิรัฐศาสตร์และปัญหาขาดแคลนเชื้อเพลิงกำลังสร้างความปั่นป่วนในห่วงโซ่อุปทานและดันต้นทุนการผลิตเหล็กในแหล่งผลิตสำคัญอย่างอินเดียให้สูงขึ้น",
-            "why": "งานแปรรูปเหล็กและอุตสาหกรรมโลหะส่งผลโดยตรงต่อการใช้วัสดุขัดอุตสาหกรรม ความผันผวนของผลผลิตเหล็กย่อมส่งผลต่อความต้องการใช้แผ่นตัดและใบเจียรโลหะในตลาด",
-            "action": "ติดตามแรงกดดันด้านต้นทุนการผลิตโลหะ และบริหารสต็อกสินค้ากลุ่มใบเจียรและสายพานขัดโลหะให้มีความยืดหยุ่น"
           }
         }
       ]
