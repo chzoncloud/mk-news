@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-09-28",
+  "updated": "2026-09-29",
   "days": [
+    {
+      "date": "2026-09-29",
+      "summary": "Today's briefing focuses on global manufacturing developments, highlighting growth in abrasive materials driven by metalworking, cutting disc market dynamics, and industrial coatings trends.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปข่าวประจำวันนี้เน้นการพัฒนาการผลิตระดับโลก โดยระบุถึงการเติบโตของวัสดุกัดกร่อนที่ขับเคลื่อนด้วยงานโลหะ พลวัตของตลาดแผ่นตัด และแนวโน้มสีเคลือบอุตสาหกรรม"
+      },
+      "items": [
+        {
+          "id": "20260929-w1",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-09-27",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeWh0UnJDZ2FJeUdQelItenUwbTFWQy16N1pabE5kU0twSlJiSm9jRjZkb0NGRHdvU2J0SzJRRmhCbDNmMjRCTU1YZzNOVE9OUVZ4eFU0SWNuYzM0bjVjSkVuVEx0RTFxcWw5WE1wZ04xZUhERTVkTF8xNzFiSDlMblQ2cVJPaUtKMWcxWjlzcnVuVDZVYkpFMm5HcHhTbDhDVkhlckQzSjFqV0tCOTB1cU5vMUx0NnlQYlhHeg?oc=5",
+          "title": "Abrasive Materials Market Forecast to 2035: Metalworking Demand Supports Expansion",
+          "summary": "The global abrasive materials market is projected to expand steadily through 2035, heavily supported by sustained demand in general metalworking sectors.",
+          "why": "Metalworking is a core customer segment for our abrasives, sandpaper, and grinding products; rising demand directly signals steady consumption of consumable surface prep tools.",
+          "action": "Ensure stable stock levels of heavy-duty metalworking abrasives to capture expanding industrial demand.",
+          "th": {
+            "title": "คาดการณ์ตลาดวัสดุกัดกร่อนถึงปี 2035: ความต้องการด้านงานโลหะหนุนการขยายตัว",
+            "summary": "ตลาดวัสดุกัดกร่อนทั่วโลกคาดว่าจะเติบโตอย่างต่อเนื่องจนถึงปี 2035 โดยได้รับการสนับสนุนอย่างมากจากความต้องการในภาคอุตสาหกรรมงานโลหะ",
+            "why": "งานโลหะเป็นกลุ่มลูกค้าหลักของผลิตภัณฑ์กระดาษทรายและอุปกรณ์ขัดเงาของเรา ความต้องการที่เพิ่มขึ้นจึงบ่งชี้ถึงการบริโภคเครื่องมือเตรียมพื้นผิวที่มั่นคง",
+            "action": "รักษาระดับสต็อกสินค้ากลุ่มงานโลหะให้เพียงพอเพื่อรองรับความต้องการทางอุตสาหกรรมที่กำลังขยายตัว"
+          }
+        },
+        {
+          "id": "20260929-w2",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-09-27",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUjROMDdtWnhLRnRQWEZxcmtSUTB0U1pmNTVyYVNpZVE2RERSc1VFSWtITzdDZlpRY0VtZkZmRDZwalRwak1aMGJZLVhJSHpBQ2ZfSFVKc2VEbU1fTVpUVXg3MDhIeEFobGR5ZlN5ZFVZdDNDRkZ5NkpkNGNucHZ0NDR6dUVfdTlQUkJiYkhmcDdJYm9aaGFUOHpZOGFra2N5cUczQmVxY2t5MjdESldpbFlnTnE0ek5Ya0dyVw?oc=5",
+          "title": "World Cutting Discs - Market Analysis, Forecast, Size, Trends and Insights",
+          "summary": "A comprehensive market analysis highlights ongoing trends and future growth projections for cutting discs across global industrial applications.",
+          "why": "Cutting discs are high-turnover consumable items that complement our grinding and sanding product lines for B2B distributors.",
+          "action": "Review our cutting disc product portfolio and supplier pricing competitiveness.",
+          "th": {
+            "title": "แผ่นตัดทั่วโลก - การวิเคราะห์ตลาด การคาดการณ์ ขนาด แนวโน้ม และข้อมูลเชิงลึก",
+            "summary": "การวิเคราะห์ตลาดเชิงลึกระบุถึงแนวโน้มและการคาดการณ์การเติบโตของแผ่นตัดทั่วโลกสำหรับการใช้งานในอุตสาหกรรม",
+            "why": "แผ่นตัดเป็นสินค้าสิ้นเปลืองที่มีอัตราการหมุนเวียนสูง ซึ่งช่วยเติมเต็มกลุ่มผลิตภัณฑ์เจียรและขัดเงาสำหรับลูกค้า B2B ของเรา",
+            "action": "ทบทวนกลุ่มผลิตภัณฑ์แผ่นตัดและขีดความสามารถในการแข่งขันด้านราคาจากซัพพลายเออร์"
+          }
+        },
+        {
+          "id": "20260929-w3",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "European Coatings",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
+          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
+          "summary": "European industry leaders discuss how innovation, sustainability, and digital integration are reshaping the future of coatings technology.",
+          "why": "Surface coatings and industrial finishing go hand-in-hand with surface preparation and sanding processes.",
+          "action": "Monitor how new eco-friendly coatings alter surface preparation standards required by manufacturers.",
+          "th": {
+            "title": "กำหนดอนาคตใหม่แห่งงานเคลือบ: นวัตกรรม ความยั่งยืน และพลังแห่งดิจิทัล",
+            "summary": "ผู้นำอุตสาหกรรมยุโรปหารือเกี่ยวกับการใช้นวัตกรรม ความยั่งยืน และระบบดิจิทัลเพื่อขับเคลื่อนเทคโนโลยีสีเคลือบ",
+            "why": "งานเคลือบผิวและงานตกแต่งอุตสาหกรรมมีความเกี่ยวโยงโดยตรงกับกระบวนการเตรียมผิวและการขัดกระดาษทราย",
+            "action": "ติดตามว่าสีเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมรูปแบบใหม่ๆ จะเปลี่ยนมาตรฐานการเตรียมพื้นผิวที่ผู้ผลิตต้องการอย่างไร"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-09-28",
       "summary": "Today's global briefing focuses on emerging material demands in electronics and metal finishing, alongside evolving steel trade policies impacting global manufacturing supply chains.",
@@ -974,70 +1038,6 @@ window.WORLD_ARCHIVE = {
             "summary": "ความขัดแย้งทางภูมิรัฐศาสตร์และปัญหาขาดแคลนเชื้อเพลิงกำลังสร้างความปั่นป่วนในห่วงโซ่อุปทานและดันต้นทุนการผลิตเหล็กในแหล่งผลิตสำคัญอย่างอินเดียให้สูงขึ้น",
             "why": "งานแปรรูปเหล็กและอุตสาหกรรมโลหะส่งผลโดยตรงต่อการใช้วัสดุขัดอุตสาหกรรม ความผันผวนของผลผลิตเหล็กย่อมส่งผลต่อความต้องการใช้แผ่นตัดและใบเจียรโลหะในตลาด",
             "action": "ติดตามแรงกดดันด้านต้นทุนการผลิตโลหะ และบริหารสต็อกสินค้ากลุ่มใบเจียรและสายพานขัดโลหะให้มีความยืดหยุ่น"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-09-15",
-      "summary": "Today's global trends focus on advanced surface preparation for semiconductor packaging, European coatings industry innovations in digital and sustainability, and automation pressures in EV manufacturing.",
-      "directCount": 3,
-      "th": {
-        "summary": "แนวโน้มโลกวันนี้เน้นการเตรียมพื้นผิวขั้นสูงสำหรับบรรจุภัณฑ์เซมิคอนดักเตอร์ นวัตกรรมอุตสาหกรรมเคลือบผิวในยุโรปด้านดิจิทัลและความยั่งยืน และแรงกดดันด้านระบบอัตโนมัติในการผลิต EV"
-      },
-      "items": [
-        {
-          "id": "20260915-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-09-11",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPM0IzU2FhMUZlR1lUSG1BY3VVdVZSaTVfVUxFeTJrV1VGazdzYURVUXZvN0VnTEdVYXEtbnRybGZkZ2FBUGotSHg2ejJfVDRQSld2Z3B1YU1mNjhxR0E2Mlg3eXdyT3ZCSjJSYXllN1lRSjByMXBKTVdHVlZ1WFBVZGhDZGVwM1ZpU3psc0dMTnZ4aUVnRVZDblFqOEMxUk9WVVFHVUlZN0lkSWF0X2JoSU5FWnRHeVNYTkJtMVVQZHBKMzNXTEQtZEJJZ09uQlpmcTNLdUdDdjY?oc=5",
-          "title": "Tab Surface Preparation Abrasives Market Forecast to 2035: Advanced Packaging and Semiconductor Capacity Drive Growth",
-          "summary": "Demand for specialized surface preparation abrasives is accelerating due to the rapid expansion of advanced semiconductor packaging and electronics manufacturing capacity.",
-          "why": "High-tech electronics and semiconductor manufacturing require ultra-precise micro-finishing abrasives, creating high-margin opportunities away from traditional metal work.",
-          "action": "Explore precision micro-abrasives and films suited for electronics and semiconductor component finishing.",
-          "th": {
-            "title": "ตลาดสารขัดเตรียมพื้นผิว Tab คาดการณ์ถึงปี 2035: บรรจุภัณฑ์ขั้นสูงและกำลังการผลิตเซมิคอนดักเตอร์ขับเคลื่อนการเติบโต",
-            "summary": "ความต้องการสารขัดเตรียมพื้นผิวเฉพาะทางกำลังเร่งตัวขึ้น เนื่องจากการขยายตัวอย่างรวดเร็วของบรรจุภัณฑ์เซมิคอนดักเตอร์ขั้นสูงและการผลิตอิเล็กทรอนิกส์",
-            "why": "การผลิตอิเล็กทรอนิกส์ไฮเทคและเซมิคอนดักเตอร์ต้องใช้วัสดุขัดแต่งผิวละเอียดพิเศษ (micro-finishing) ซึ่งสร้างโอกาสทำกำไรสูงนอกเหนือจากงานโลหะทั่วไป",
-            "action": "สำรวจวัสดุขัดแต่งผิวความแม่นยำสูงและฟิล์มขัดที่เหมาะสำหรับการตกแต่งชิ้นส่วนอิเล็กทรอนิกส์และเซมิคอนดักเตอร์"
-          }
-        },
-        {
-          "id": "20260915-w2",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "European Coatings",
-          "date": "2026-09-07",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
-          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
-          "summary": "The European coatings sector highlights the integration of digital tools and sustainable chemistry to redefine surface protection and manufacturing standards.",
-          "why": "Changes in coating formulations and environmental standards directly affect how metal and wood surfaces are prepped, coated, and sanded globally.",
-          "action": "Keep track of eco-friendly coating trends that may require new surface preparation and sanding profiles.",
-          "th": {
-            "title": "กำหนดอนาคตยุคใหม่แห่งสารเคลือบผิว: นวัตกรรม ความยั่งยืน และพลังแห่งดิจิทัล",
-            "summary": "ภาคส่วนสารเคลือบผิวของยุโรปเน้นการบูรณาการเครื่องมือดิจิทัลและเคมีที่ยั่งยืนเพื่อกำหนดมาตรฐานการปกป้องพื้นผิวและการผลิตใหม่",
-            "why": "การเปลี่ยนแปลงในสูตรสารเคลือบและมาตรฐานสิ่งแวดล้อมส่งผลโดยตรงต่อวิธีการเตรียมพื้นผิว การเคลือบ และการขัดแต่งชิ้นงานโลหะและไม้ทั่วโลก",
-            "action": "ติดตามแนวโน้มสารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมซึ่งอาจต้องใช้กระบวนการเตรียมพื้นผิวและรูปแบบการขัดใหม่ๆ"
-          }
-        },
-        {
-          "id": "20260915-w3",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-09-10",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVjkzSTlDYzItRzJSVXhQSjc1a0ttQ0dIRVYxRDgxaHFiQ0x3c1ZsLTdZQ0RRSk04bmhjdHQ4ZGJrV0lLVk45XzQ5ZzQwN1VwMDNERWNWVEpJNTRVYzZqTFFmcEIyUUZRNG9LOHp6ODIxYm80eEZrcTBOdENvenJqdktfcm5neXlITEZSRXNQclF2ZUpGUXVLTmY3SmhCRUlHdldDVC11QjRnZ3UtYzRlbzAwYS1yaW5oZV8zWmRMY2k?oc=5",
-          "title": "Smart-factory wiring woes: EVs demand automation now, not later",
-          "summary": "Electric vehicle production lines face urgent automation challenges, forcing manufacturers to upgrade assembly and wiring processes rapidly.",
-          "why": "EV manufacturing shifts affect component machining, deburring needs, and automated robotic sanding integration in automotive supply chains.",
-          "action": "Monitor how automotive parts suppliers adopt automated deburring cells to align our product offerings.",
-          "th": {
-            "title": "ปัญหาการเดินสายไฟในโรงงานอัจฉริยะ: รถยนต์ไฟฟ้าต้องการระบบอัตโนมัติเดี๋ยวนี้ ไม่ใช่รอวันหลัง",
-            "summary": "สายการผลิตรถยนต์ไฟฟ้ากำลังเผชิญกับความท้าทายด้านระบบอัตโนมัติที่เร่งด่วน บังคับให้ผู้ผลิตต้องอัปเกรดกระบวนการประกอบและการเดินสายไฟอย่างรวดเร็ว",
-            "why": "การเปลี่ยนแปลงการผลิต EV ส่งผลกระทบต่อการตัดแต่งชิ้นส่วน ความต้องการลบคม และการบูรณาการระบบขัดด้วยหุ่นยนต์อัตโนมัติในห่วงโซ่อุปทานยานยนต์",
-            "action": "ติดตามว่าผู้ผลิตชิ้นส่วนยานยนต์นำระบบลบคมอัตโนมัติมาใช้พื่อปรับกลุ่มผลิตภัณฑ์ของเราให้สอดคล้องกัน"
           }
         }
       ]
