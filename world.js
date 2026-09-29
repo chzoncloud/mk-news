@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-09-29",
-      "summary": "Today's briefing features 3 key global trends focusing on automotive OEM coatings growth, EV manufacturing wiring challenges requiring new automation, and stainless steel powder market expansions. These signals highlight shifting surface prep and finishing requirements across global metal and EV manufacturing sectors.",
+      "summary": "Today's global trend briefing focuses on critical shifts in the abrasive materials market, cutting disc demand driven by metalworking expansion, and shifting steel production landscapes impacted by US tariffs and trade policies.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปประเด็นแนวโน้มโลกประจำวันนี้ 3 เรื่องสำคัญ ได้แก่ การเติบโตของตลาดสีพ่นรถยนต์ OEM, ความท้าทายด้านสายไฟในการผลิต EV ที่ต้องการระบบอัตโนมัติ และการขยายตัวของตลาดผงสแตนเลส สัญญาณเหล่านี้บ่งชี้ถึงความต้องการที่เปลี่ยนไปในการเตรียมพื้นผิวและการขัดแต่งในภาคอุตสาหกรรมโลหะและ EV ทั่วโลก"
+        "summary": "สรุปทิศรทางโลกประจำวันนี้เน้นย้ำการเปลี่ยนแปลงสำคัญในตลาดวัสดุขัด ความต้องการแผ่นตัดที่ขับเคลื่อนด้วยการขยายตัวของงานโลหะ และภูมิทัศน์การผลิตเหล็กที่ได้รับผลกระทบจากภาษีนำเข้าและนโยบายการค้าของสหรัฐฯ"
       },
       "items": [
         {
           "id": "20260929-w1",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Fortune Business Insights",
-          "date": "2026-09-07",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
-          "title": "Automotive OEM Coatings Market Size, Share | Growth [2034]",
-          "summary": "The global automotive OEM coatings market continues its steady long-term expansion through 2034, driven by vehicle production recovery and new aesthetic/protective coating demands.",
-          "why": "Automotive manufacturing and painting lines are major end-users of surface prep, sanding, and masking products before and during coating application.",
-          "action": "Monitor OEM coating specification shifts to anticipate changing requirements for body shop abrasives.",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-09-27",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeWh0UnJDZ2FJeUdQelItenUwbTFWQy16N1pabE5kU0twSlJiSm9jRjZkb0NGRHdvU2J0SzJRRmhCbDNmMjRCTU1YZzNOVE9OUVZ4eFU0SWNuYzM0bjVjSkVuVEx0RTFxcWw5WE1wZ04xZUhERTVkTF8xNzFiSDlMblQ2cVJPaUtKMWcxWjlzcnVuVDZVYkpFMm5HcHhTbDhDVkhlckQzSjFqV0tCOTB1cU5vMUx0NnlQYlhHeg?oc=5",
+          "title": "Abrasive Materials Market Forecast to 2035: Metalworking Demand Supports Expansion",
+          "summary": "Global demand for abrasive materials is projected to expand steadily through 2035, heavily supported by robust activities in the metalworking sector.",
+          "why": "Direct indicator of long-term demand for industrial abrasives, confirming that metal fabrication remains our core growth engine.",
+          "action": "Maintain strong inventory and supplier relationships for core metalworking abrasive raw materials.",
           "th": {
-            "title": "ขนาด ส่วนแบ่ง และการเติบโตของตลาดสีพ่นรถยนต์ OEM ถึงปี 2034",
-            "summary": "ตลาดสีพ่นรถยนต์ OEM ทั่วโลกยังคงเติบโตอย่างต่อเนื่องจนถึงปี 2034 หนุนโดยการฟื้นตัวของการผลิตรถยนต์และความต้องการสีเคลือบปกป้องและตกแต่งผิวแบบใหม่ๆ",
-            "why": "อุตสาหกรรมการผลิตยานยนต์และไลน์พ่นสีเป็นผู้ใช้รายใหญ่สำหรับผลิตภัณฑ์เตรียมพื้นผิว ขัดกระดาษทราย และวัสดุก่อนและระหว่างการพ่นสี",
-            "action": "ติดตามการเปลี่ยนแปลงของข้อกำหนดสี OEM เพื่อคาดการณ์ความต้องการที่เปลี่ยนไปของกระดาษทรายและวัสดุขัดในอู่ซ่อมและโรงงานประกอบรถยนต์"
+            "title": "การคาดการณ์ตลาดวัสดุขัดถึงปี 2035: ความต้องการงานโลหะหนุนการเติบโต",
+            "summary": "ความต้องการวัสดุขัดทั่วโลกคาดว่าจะเติบโตอย่างต่อเนื่องจนถึงปี 2035 โดยได้รับการสนับสนุนอย่างมากจากภาคอุตสาหกรรมแปรรูปโลหะ",
+            "why": "เป็นสัญญาณบ่งชี้โดยตรงถึงความต้องการวัสดุขัดอุตสาหกรรมในระยะยาว ยืนยันว่าการผลิตโลหะยังคงเป็นหัวใจสำคัญของการเติบโต",
+            "action": "รักษาสต็อกสินค้าและสายสัมพันธ์กับซัพพลายเออร์สำหรับวัตถุดิบวัสดุขัดงานโลหะหลักให้มั่นคง"
           }
         },
         {
           "id": "20260929-w2",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-09-10",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVjkzSTlDYzItRzJSVXhQSjc1a0ttQ0dIRVYxRDgxaHFiQ0x3c1ZsLTdZQ0RRSk04bmhjdHQ4ZGJrV0lLVk45XzQ5ZzQwN1VwMDNERWNWVEpJNTRVYzZqTFFmcEIyUUZRNG9LOHp6ODIxYm80eEZrcTBOdENvenJqdktfcm5neXlITEZSRXNQclF2ZUpGUXVLTmY3SmhCRUlHdldDVC11QjRnZ3UtYzRlbzAwYS1yaW5oZV8zWmRMY2k?oc=5",
-          "title": "Smart-factory wiring woes: EVs demand automation now, not later",
-          "summary": "Electric vehicle production plants face intense pressure to automate complex wiring and assembly processes due to structural design shifts in EVs.",
-          "why": "As EV factories automate assembly and component finishing, demand for robotic sanding, deburring, and automated surface finishing tools will accelerate.",
-          "action": "Keep an eye on automated abrasive solutions and robotic disc attachments suited for EV component manufacturing lines.",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-09-27",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUjROMDdtWnhLRnRQWEZxcmtSUTB0U1pmNTVyYVNpZVE2RERSc1VFSWtITzdDZlpRY0VtZkZmRDZwalRwak1aMGJZLVhJSHpBQ2ZfSFVKc2VEbU1fTVpUVXg3MDhIeEFobGR5ZlN5ZFVZdDNDRkZ5NkpkNGNucHZ0NDR6dUVfdTlQUkJiYkhmcDdJYm9aaGFUOHpZOGFra2N5cUczQmVxY2t5MjdESldpbFlnTnE0ek5Ya0dyVw?oc=5",
+          "title": "World Cutting Discs - Market Analysis, Forecast, Size, Trends and Insights",
+          "summary": "A comprehensive market analysis highlights steady growth trajectories and evolving specifications for cutting discs across global manufacturing markets.",
+          "why": "Cutting discs are high-turnover consumable items for metal workshops and structural fabrication, directly affecting our B2B sales volume.",
+          "action": "Review pricing strategies and quality tiers for high-demand cutting discs to capture market share.",
           "th": {
-            "title": "ปัญหาเรื่องสายไฟในโรงงานอัจฉริยะ: รถยนต์ไฟฟ้าต้องการระบบอัตโนมัติทันที ไม่ใช่รออนาคต",
-            "summary": "โรงงานผลิตรถยนต์ไฟฟ้ากำลังเผชิญกับแรงกดดันอย่างมากในการอัตโนมัติกระบวนการเดินสายไฟและประกอบชิ้นส่วนที่ซับซ้อน เนื่องจากการเปลี่ยนแปลงด้านการออกแบบโครงสร้างของ EV",
-            "why": "ในขณะที่โรงงาน EV หันมาใช้ระบบอัตโนมัติในการประกอบและการขัดตกแต่งชิ้นส่วน ความต้องการเครื่องมือขัด ลบคม และเตรียมพื้นผิวด้วยหุ่นยนต์จะเพิ่มสูงขึ้น",
-            "action": "ติดตามโซลูชันวัสดุขัดแบบอัตโนมัติและแผ่นขัดที่เหมาะกับสายการผลิตชิ้นส่วน EV"
+            "title": "แผ่นตัดทั่วโลก - การวิเคราะห์ตลาด การคาดการณ์ ขนาด แนวโน้ม และข้อมูลเชิงลึก",
+            "summary": "การวิเคราะห์ตลาดเชิงลึกเน้นย้ำถึงแนวโน้มการเติบโตที่มั่นคงและข้อกำหนดที่เปลี่ยนไปของแผ่นตัดทั่วตลาดการผลิตทั่วโลก",
+            "why": "แผ่นตัดเป็นสินค้าสิ้นเปลืองที่มีอัตราหมุนเวียนสูงสำหรับโรงงานโลหะและการผลิตโครงสร้าง ซึ่งส่งผลโดยตรงต่อยอดขาย B2B ของเรา",
+            "action": "ทบทวนกลยุทธ์ด้านราคาและระดับคุณภาพของแผ่นตัดที่มีความต้องการสูงเพื่อชิงส่วนแบ่งการตลาด"
           }
         },
         {
           "id": "20260929-w3",
           "tag": "steel",
-          "rating": "green",
-          "source": "MarketsandMarkets",
-          "date": "2025-12-03",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVXVYZWVHaDBhMjdYc1BFRjVnV01BWUJZZnBNd1FESWpfanVMUVFaZkxUNGYzT0VVX3ZvT0dGSVpMTmRNRVBpRjNQZ3QyWU5jM0MxQmhLZVQ1cTJsbF9LNGV2aGZpaVdZb0NrWndDWFZJZ0g4V2dTY1NkNU5Hd3NhZmx0dmNtYktWWHM5LXlfYVlxRnlNQVgyag?oc=5",
-          "title": "Stainless Steel Powder Market Report 2025-2030",
-          "summary": "The stainless steel powder market report outlines strong growth projections through 2030, driven by advanced manufacturing, metal injection molding, and additive manufacturing.",
-          "why": "Powder metallurgy and stainless steel component production require high-precision finishing, deburring, and polishing of complex shaped parts.",
-          "action": "Evaluate specialized finishing products like non-woven abrasives or fine-grit finishing discs suited for complex stainless steel components.",
+          "rating": "amber",
+          "source": "economy.ac",
+          "date": "2026-09-23",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YQWhOYlJ3eW9jTUhwa25XdE55eHh3a2JoODhWdDAtOW00UzhXcWwtNnJJXzZGMjMtNXN6MTYwTUhib3ZHUDNXaTdIbWY2N092QXNsOXFfdw?oc=5",
+          "title": "'Trump Tariffs and AI Boom' Propel U.S. Steel Past Japan to World No. 3 for First Time in 26 Years",
+          "summary": "Driven by recent trade policies and industrial demand surges, US steel output has climbed to world number three, shifting global metal supply dynamics.",
+          "why": "Shifts in regional steel production volumes directly alter where metal fabrication and heavy manufacturing are expanding globally.",
+          "action": "Monitor export-import flows for steel to anticipate regional shifts in metal surface preparation demand.",
           "th": {
-            "title": "รายงานตลาดผงสแตนเลส ปี 2025-2030",
-            "summary": "รายงานตลาดผงสแตนเลสระบุถึงการคาดการณ์การเติบโตที่แข็งแกร่งจนถึงปี 2030 ขับเคลื่อนโดยการผลิตขั้นสูง การฉีดขึ้นรูปโลหะ และการผลิตแบบเติมเนื้อวัสดุ (Additive Manufacturing)",
-            "why": "กระบวนการโลหะวิทยาผงและการผลิตชิ้นส่วนสแตนเลสต้องการการขัดแต่ง ลบคม และขัดเงาที่มีความแม่นยำสูงสำหรับชิ้นส่วนรูปทรงซับซ้อน",
-            "action": "ประเมินผลิตภัณฑ์ขัดแต่งเฉพาะทาง เช่น ผ้าขัดไม่ถักทอ (non-woven) หรือแผ่นขัดความละเอียดสูงที่เหมาะกับชิ้นส่วนสแตนเลสรูปทรงซับซ้อน"
+            "title": "'ภาษีทรัมป์และบูม AI' ดันเหล็กสหรัฐฯแซงญี่ปุ่นขึ้นเบอร์ 3 ของโลกครั้งแรกในรอบ 26 ปี",
+            "summary": "จากแรงขับเคลื่อนของนโยบายการค้าล่าสุดและความต้องการทางอุตสาหกรรมที่พุ่งสูงขึ้น การผลิตเหล็กของสหรัฐฯ ได้ทะยานขึ้นสู่อันดับ 3 ของโลก ซึ่งเปลี่ยนพลวัตอุปทานโลหะทั่วโลก",
+            "why": "การเปลี่ยนแปลงของปริมาณการผลิตเหล็กในแต่ละภูมิภาคส่งผลโดยตรงต่อพื้นที่ที่มีการขยายตัวของการแปรรูปโลหะและการผลิตหนักทั่วโลก",
+            "action": "ติดตามกระแสการนำเข้า-ส่งออกเหล็กเพื่อคาดการณ์การเปลี่ยนแปลงระดับภูมิภาคของความต้องการผลิตภัณฑ์เตรียมพื้นผิวโลหะ"
           }
         }
       ]
