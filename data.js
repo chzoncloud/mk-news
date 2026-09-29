@@ -2,6 +2,71 @@
 window.NEWS_ARCHIVE = {
   "days": [
     {
+      "date": "2026-09-29",
+      "summary": "Today has limited fresh updates; automotive production in August expanded on EV demand despite slumping pickup sales, while Thai Airways and Bangkok Airways advance their 10-billion-baht U-Tapao MRO joint venture.",
+      "directCount": 1,
+      "th": {
+        "summary": "วันนี้มีข่าวใหม่ไม่มากนัก ยอดผลิตรถยนต์เดือน ส.ค. ขยายตัวตามกระแส EV แม้ตลาดกระบะยังชะลอตัว ขณะที่การบินไทยและบางกอกแอร์เวย์สเดินหน้าร่วมทุนศูนย์ซ่อม MRO อู่ตะเภา 1 หมื่นล้านบาท"
+      },
+      "items": [
+        {
+          "id": "20260929-1",
+          "tag": "auto",
+          "rating": "green",
+          "source": "efin.finance",
+          "date": "2026-09-28",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4ybXc1ekItUjdUcnlaOFBDa0JZaWF1WExjQ21KX1ZoVFFhSVhrcm56bDFfRmtxVUgyZ01JRTFENzNqV0lZS3hMVDI2V2htZmhlVU1YemxNZUxDWUEyZXdDdi1R?oc=5",
+          "title": "FTI Reports August Auto Production Up Driven by EV Gains Amid Pickup Slump",
+          "summary": "The Federation of Thai Industries reported that total vehicle production and domestic sales expanded in August thanks to surging EV manufacturing, though auto exports and pickup truck demand remain weak.",
+          "why": "Rising EV assembly directly boosts grinding and finishing consumable consumption in stamping and body shops, but slumping pickup output may slow orders from traditional Japanese tier suppliers.",
+          "action": "Pitch body-in-white polishing and robotic deburring abrasive discs directly to expanding EV assembly plants in the Eastern Seaboard.",
+          "th": {
+            "title": "ส.อ.ท. เผยยอดผลิตรถ ส.ค. ขยายตัวรับแรงหนุน EV สวนทางตลาดกระบะชะลอตัว",
+            "summary": "ส.อ.ท. รายงานยอดผลิตและยอดขายรถยนต์เดือน ส.ค. ขยายตัวจากแรงหนุนการผลิต EV แม้ยอดส่งออกรวมและตลาดรถกระบะยังคงซบเซา",
+            "why": "การเร่งผลิตรถ EV เพิ่มความต้องการใช้วัสดุขัดเตรียมผิวโลหะในไลน์ประกอบโดยตรง แต่ยอดกระบะที่ลดลงอาจชะลอคำสั่งซื้อจากซัพพลายเออร์ค่ายญี่ปุ่น",
+            "action": "เสนอขายจานขัดลบครีบอัตโนมัติและกระดาษทรายขัดตัวถังแก่โรงงานประกอบ EV ที่กำลังเร่งกำลังการผลิตในแถบ EEC"
+          }
+        },
+        {
+          "id": "20260929-2",
+          "tag": "aero",
+          "rating": "amber",
+          "source": "today.line.me",
+          "date": "2025-11-24",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGRUZSdllROFR5LVMtQ1plTjJMNkFvRmNOeEtsWTJCNGxBbHFYNndUcWc0VVc4c05RVjdrdEIzVlZ3MXZWMGN0TWZ2RzFycWFyODBCYVdR?oc=5",
+          "title": "THAI and Bangkok Airways Move Ahead with 10-Billion-Baht U-Tapao MRO Venture",
+          "summary": "Thai Airways and Bangkok Airways are finalizing their partnership to co-invest 10 billion baht in an aircraft maintenance, repair, and overhaul facility at U-Tapao Airport.",
+          "why": "Large-scale aviation hangars will generate significant future recurring demand for aerospace-grade precision abrasives and surface conditioning belts.",
+          "action": "Audit MK's inventory for aerospace-certified specialty abrasives and initiate introductory talks with Thai Airways technical maintenance teams.",
+          "th": {
+            "title": "การบินไทยจับมือบางกอกแอร์เวย์ส รุกศูนย์ซ่อม MRO อู่ตะเภาหมื่นล้าน",
+            "summary": "การบินไทยและบางกอกแอร์เวย์สเตรียมร่วมทุน 1 หมื่นล้านบาท เพื่อบริหารพื้นที่ศูนย์ซ่อมบำรุงอากาศยาน (MRO) ณ สนามบินอู่ตะเภา",
+            "why": "ศูนย์ซ่อมอากาศยานขนาดใหญ่จะสร้างดีมานด์ระยะยาวสำหรับวัสดุขัดผิวเกรดการบินและสายพานเตรียมผิวโลหะผสมพิเศษ",
+            "action": "ตรวจเช็กสต็อกสินค้าเกรดการบินของ MK พร้อมเริ่มติดต่อฝ่ายเทคนิคและซ่อมบำรุงของการบินไทยเพื่อแนะนำสินค้า"
+          }
+        },
+        {
+          "id": "20260929-3",
+          "tag": "furniture",
+          "rating": "amber",
+          "source": "kasikornresearch.com",
+          "date": "2025-10-09",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR0I3LUFaeENxbzdDQVF4UDdVMFlmRWp4Y3BBdFZ6OGFQeUdZZ3Y5dHA5Q2ZxRXJIaTUtLVNVY29QM3RuSk1RMmpaeXhucHEwLWRiMFlsbkJRNEtYY3RWSDZNNXRBUXdfb0hDV0IzR1pkRW5ERC1xSkQtN21WZTVveUNtdURRYmN3QjQxUDRHS2g1dDNkSGdRVVJGU2tBNGJ3WDREcGh1N2VrdnN6MExB?oc=5",
+          "title": "Thai Furniture Exports Projected to Contract 4.5% in 2026 Following Prior US Front-Loading",
+          "summary": "Kasikorn Research projects Thai furniture exports will contract by 4.5% in 2026 due to softer demand after US buyers front-loaded inventory in late 2025.",
+          "why": "Export-oriented wooden and metal furniture factories face shrinking order books, likely lowering their daily abrasive belt and sandpaper consumption.",
+          "action": "Diversify woodworking abrasive sales toward local interior contractors and ramp up DIY sanding product promotions on Shopee and TikTok.",
+          "th": {
+            "title": "ส่งออกเฟอร์นิเจอร์ไทยปี 69 ส่อหดตัว 4.5% หลังสหรัฐฯ เร่งนำเข้าล่วงหน้า",
+            "summary": "ศูนย์วิจัยกสิกรไทยคาดส่งออกเฟอร์นิเจอร์ปี 2569 จะพลิกหดตัว 4.5% หลังผู้ซื้อในสหรัฐฯ เร่งสั่งสต็อกสินค้าไปแล้วล่วงหน้า",
+            "why": "โรงงานเฟอร์นิเจอร์ไม้และโลหะเพื่อการส่งออกมีแนวโน้มชะลอคำสั่งซื้อ ส่งผลให้ปริมาณการใช้สายพานขัดและกระดาษทรายลดลง",
+            "action": "กระจายความเสี่ยงโดยขยายฐานลูกค้าช่างรับเหมาตกแต่งภายใน พร้อมดันยอดขายกระดาษทราย DIY ผ่านช่องทาง Shopee และ TikTok"
+          }
+        }
+      ],
+      "terms": {}
+    },
+    {
       "date": "2026-09-28",
       "summary": "News volume is light today with few new developments. Key focus remains on government crackdowns protecting compliant domestic steel mills and preparations for the upcoming TIWF 2026 woodworking exhibition.",
       "directCount": 0,
@@ -390,72 +455,7 @@ window.NEWS_ARCHIVE = {
         }
       ],
       "terms": {}
-    },
-    {
-      "date": "2026-09-15",
-      "summary": "Limited fresh headlines are available today; the most actionable update focuses on FTI pushing to integrate local SME parts makers into the evolving EV supply chain, while aviation MRO and furniture exports offer steady medium-term growth. วันนี้มีข่าวใหม่ไม่มาก โดยประเด็นสำคัญอยู่ที่ ส.อ.ท. ผลักดันให้เชื่อมโยงซัพพลายเชนชิ้นส่วนยานยนต์สู่ผู้ผลิต SME ในประเทศ ส่วนอุตสาหกรรม MRO และเฟอร์นิเจอร์ส่งออกยังคงมีทิศทางขยายตัวในระยะกลาง",
-      "directCount": 1,
-      "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยประเด็นสำคัญอยู่ที่ ส.อ.ท. ผลักดันเชื่อมโยงซัพพลายเชนชิ้นส่วนยานยนต์สู่ผู้ผลิต SME ในประเทศ ส่วนอุตสาหกรรม MRO และเฟอร์นิเจอร์ส่งออกยังคงมีทิศทางขยายตัวในระยะกลาง"
-      },
-      "items": [
-        {
-          "id": "20260915-1",
-          "tag": "auto",
-          "rating": "green",
-          "source": "RYT9",
-          "date": "2026-09-11",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5sRUJ1MldJczNSUk1Oc0FBeEt0MDEtenBZaUpydklsQnVkRGlFalRtNG1zdTZmOXBkTWNPQ0hxUlJEZ0d1MkxDV3V3?oc=5",
-          "title": "FTI Backs Auto Tax Overhaul to Drive Investment and Link Supply Chains to Thai SMEs",
-          "summary": "The Federation of Thai Industries (FTI) supports automotive tax restructuring to encourage EV investment while urging concrete policies to integrate local Tier-2 and Tier-3 SME part makers into the supply chain.",
-          "why": "Higher local sourcing mandates will increase stamping, machining, and fabrication runs at Thai parts suppliers, directly driving demand for deburring, grinding, and blending abrasives.",
-          "action": "Target Tier-2/Tier-3 automotive metal fabricators with abrasive demo kits tailored for weld removal and fine surface finishing.",
-          "th": {
-            "title": "ส.อ.ท. หนุนปรับโครงสร้างภาษียานยนต์ ดึงลงทุน-เชื่อม Supply Chain สู่ SMEs",
-            "summary": "ส.อ.ท. ขานรับการปรับโครงสร้างภาษียานยนต์เพื่อกระตุ้นการลงทุน พร้อมผลักดันให้มีมาตรการดึงผู้ผลิตชิ้นส่วน SMEs ระดับ Tier-2 และ Tier-3 ของไทยเข้าสู่ห่วงโซ่อุปทานการผลิต",
-            "why": "การบังคับใช้ชิ้นส่วนในประเทศที่เข้มงวดขึ้นจะกระตุ้นยอดผลิตงานปั๊มขึ้นรูปและกลึงโลหะในโรงงานชิ้นส่วนไทย ส่งผลให้ความต้องการใช้วัสดุขัด ลบครีบคม และเจียรแต่งผิวเพิ่มขึ้นโดยตรง",
-            "action": "เร่งส่งทีมขายเข้าพบโรงงานผลิตชิ้นส่วนยานยนต์ระดับ Tier-2 และ Tier-3 พร้อมนำเสนอชุดทดลองจานขัดและผ้าทรายสำหรับงานเจียรลบรอยเชื่อมและเตรียมผิวก่อนพ่นสี"
-          }
-        },
-        {
-          "id": "20260915-2",
-          "tag": "aero",
-          "rating": "amber",
-          "source": "today.line.me",
-          "date": "2025-11-23",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGRUZSdllROFR5LVMtQ1plTjJMNkFvRmNOeEtsWTJCNGxBbHFYNndUcWc0VVc4c05RVjdrdEIzVlZ3MXZWMGN0TWZ2RzFycWFyODBCYVdR?oc=5",
-          "title": "THAI and Bangkok Airways Join Hands for 10-Billion-Baht U-Tapao Aircraft MRO Hub",
-          "summary": "Thai Airways and Bangkok Airways are teaming up to invest 10 billion baht in developing and operating aircraft maintenance hangars at U-Tapao Airport.",
-          "why": "A joint large-scale MRO base will generate long-term recurring needs for specialized aerospace-grade abrasives for airframe maintenance and coating removal.",
-          "action": "Map out approved procurement standards and test aerospace-grade fine-finishing abrasives ahead of facility setup.",
-          "th": {
-            "title": "การบินไทย-บางกอกแอร์เวย์ส ผนึกกำลังลุยศูนย์ซ่อมบำรุงอากาศยานอู่ตะเภา 1 หมื่นล้าน",
-            "summary": "การบินไทยร่วมมือกับบางกอกแอร์เวย์สเตรียมงบลงทุน 1 หมื่นล้านบาท เพื่อพัฒนาและบริหารโรงซ่อมอากาศยานครบวงจร ณ สนามบินอู่ตะเภา",
-            "why": "ศูนย์ซ่อมอากาศยานขนาดใหญ่จะสร้างความต้องการระยะยาวสำหรับวัสดุขัดเกรดการบิน ทั้งงานขัดลอกสีเก่า งานแต่งผิวโลหะ และการซ่อมบำรุงโครงสร้างเครื่องบิน",
-            "action": "ศึกษารายการและสเปกวัสดุขัดที่ได้รับรองมาตรฐานการบิน พร้อมเตรียมจับคู่สินค้าเกรดพิเศษล่วงหน้าเพื่อเตรียมพร้อมเข้าสู่ทะเบียนผู้ค้า"
-          }
-        },
-        {
-          "id": "20260915-3",
-          "tag": "furniture",
-          "rating": "amber",
-          "source": "posttoday",
-          "date": "2026-02-20",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxXzVZOHRNaDlMYzJBM2F6S1FPc0Vkcy1Sc2JWRnl1VklJY2ZCSEpsOUJ0RG13b0I1cHBpXzBUOUhlSHdpdV9uV1cyZGJHT2pNaF83cw?oc=5",
-          "title": "ASEAN Furniture Industry Expands as Top 4 Exporters Capture 90% Market Share",
-          "summary": "Regional furniture trade is consolidating, with Thailand, Vietnam, Malaysia, and Indonesia dominating 90% of Southeast Asia's global furniture export volume.",
-          "why": "Stable export market share among key Thai wood furniture manufacturers sustains healthy factory consumption of wide sanding belts and abrasive discs.",
-          "action": "Promote wide sanding belts and random orbital sanding discs to export-oriented solid wood and veneer furniture plants.",
-          "th": {
-            "title": "อุตสาหกรรมเฟอร์นิเจอร์อาเซียนโตต่อเนื่อง 4 ชาติหลักกวาดสัดส่วนส่งออก 90%",
-            "summary": "การค้าเฟอร์นิเจอร์ในภูมิภาคอาเซียนเติบโตโดยมี 4 ประเทศหลัก ได้แก่ ไทย เวียดนาม มาเลเซีย และอินโดนีเซีย ครองส่วนแบ่งการส่งออกรวมกันถึง 90%",
-            "why": "การรักษาฐานส่งออกที่แข็งแกร่งของโรงงานเฟอร์นิเจอร์ไทยช่วยพยุงคำสั่งซื้อสายพานขัดขนาดใหญ่ (Wide Belts) และกระดาษทรายกลมสำหรับงานขัดไม้และไม้วีเนียร์อย่างต่อเนื่อง",
-            "action": "นำเสนอสายพานผ้าทรายหน้ากว้างและจานขัดกระดาษทรายสำหรับงานไม้ระดับพรีเมียมให้แก่โรงงานเฟอร์นิเจอร์ที่ผลิตเพื่อการส่งออก"
-          }
-        }
-      ],
-      "terms": {}
     }
   ],
-  "updated": "2026-09-28"
+  "updated": "2026-09-29"
 };
