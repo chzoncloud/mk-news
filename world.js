@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-09-30",
-      "summary": "Today's global briefing features fresh signals in industrial coatings and steel production dynamics, highlighting ongoing shifts in metalworking and surface treatment demand.",
-      "directCount": 3,
+      "summary": "Today's briefing features 3 key global signals covering automotive OEM coatings, European coatings innovation, and the global steel supply surplus. These developments offer early insights into surface prep demands and metal processing shifts.",
+      "directCount": 2,
       "th": {
-        "summary": "รายงานแนวโน้มโลกประจำวันนี้เน้นสัญญาณใหม่ในอุตสาหกรรมเคลือบผิวอุตสาหกรรมและพลวัตการผลิตเหล็ก ซึ่งบ่งชี้ถึงการเปลี่ยนแปลงของความต้องการในงานโลหะและการเตรียมพื้นผิว"
+        "summary": "สรุปข่าวสารประจำวันนี้มี 3 สัญญาณสำคัญระดับโลก ครอบคลุมเรื่องสารเคลือบ OEM ยานยนต์, นวัตกรรมสารเคลือบในยุโรป และภาวะอุปทานเหล็กส่วนเกิน ซึ่งช่วยให้เห็นแนวโน้มความต้องการเตรียมพื้นผิวและการแปรรูปโลหะล่วงหน้า"
       },
       "items": [
         {
           "id": "20260930-w1",
           "tag": "coating",
           "rating": "amber",
-          "source": "MarketsandMarkets",
-          "date": "2026-09-18",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcXFmaElYaEMzdkRGSGI2N3hRZmNYTjMtQXhybHZUMndkeDF2WHZRN1lHS3B2dVAwYTFQN1NXLXFpNFJCV2ViclRqbTRETDNyLWZlWmNGaVZvR1Q0YjlHb082NF9USVhjbEwtR3JTcmtyX3o3UkFpYlBIN2NGckFsX3lyQ3hXQjF0R0k3NUY2c3RhLVRXMXgzN2dpNGlIT1J4?oc=5",
-          "title": "North-America Industrial Coatings Market Size, Share, Trends, Growth Analysis Report, 2031",
-          "summary": "A new market analysis highlights steady growth trajectories across the North American industrial coatings sector through 2031.",
-          "why": "Growth in industrial coatings directly correlates with increased surface preparation and finishing requirements across manufacturing.",
-          "action": "Monitor North American coating growth trends to anticipate future surface treatment specifications.",
+          "source": "European Coatings",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
+          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
+          "summary": "The European coatings sector is focusing on next-generation formulation, sustainability, and digital integration to improve surface finish performance.",
+          "why": "Advanced coatings directly influence the surface preparation, sanding, and finishing techniques required in manufacturing lines.",
+          "action": "Monitor how new eco-friendly coatings alter surface adhesion and sanding requirements.",
           "th": {
-            "title": "ขนาดตลาดสารเคลือบอุตสาหกรรมในอเมริกาเหนือ ส่วนแบ่ง แนวโน้ม และรายงานการวิเคราะห์การเติบโต ปี 2031",
-            "summary": "การวิเคราะห์ตลาดใหม่เน้นย้ำถึงแนวโน้มการเติบโตที่มั่นคงในภาคสารเคลือบอุตสาหกรรมของอเมริกาเหนือจนถึงปี 2031",
-            "why": "การเติบโตของสารเคลือบอุตสาหกรรมมีความเชื่อมโยงโดยตรงกับความต้องการเตรียมพื้นผิวและการขัดเงาที่เพิ่มขึ้นในภาคการผลิต",
-            "action": "ติดตามแนวโน้มการเติบโตของสารเคลือบในอเมริกาเหนือเพื่อคาดการณ์ข้อกำหนดการเตรียมพื้นผิวในอนาคต"
+            "title": "กำหนดอนาคตใหม่ของสารเคลือบ: นวัตกรรม ความยั่งยืน และพลังแห่งดิจิทัล",
+            "summary": "อุตสาหกรรมสารเคลือบในยุโรปกำลังมุ่งเน้นไปที่สูตรแห่งอนาคต ความยั่งยืน และการผสานรวมดิจิทัลเพื่อยقระดับประสิทธิภาพการตกแต่งพื้นผิว",
+            "why": "สารเคลือบขั้นสูงส่งผลโดยตรงต่อกระบวนการเตรียมพื้นผิว การขัดกระดาษทราย และเทคนิคการเก็บงานที่จำเป็นในสายการผลิต",
+            "action": "ติดตามว่าสารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมแบบใหม่ส่งผลต่อการยึดเกาะพื้นผิวและความต้องการในการขัดอย่างไร"
           }
         },
         {
           "id": "20260930-w2",
-          "tag": "steel",
+          "tag": "auto",
           "rating": "amber",
-          "source": "Reuters",
-          "date": "2026-08-18",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONjlMWFcwc09ZbG1aZVpKb0NRTU04M3hkRTl0VmJkNklLUkZlZ2Z2RnN0RlgwZWZ2cXBqUThiSVZRRDAwQll1TXRRLWV5cF9WMk5oZE1IRzNJcEhZSk5qQVp5a3lzSnByeEx4OGt2cnlIT3VqZjZZVGFlTlpoQU1fUkx1cjZDUHFZcm0wRmtMSW96RXhkNzhSZHIxZXBuN3FINmhqaTd1cWo1Y3dSUmp6SlNlVm9FazhwZ1pFWUIwVHlqYWlvSHQ2Nw?oc=5",
-          "title": "China's easing steel output reflects divergent demand drivers",
-          "summary": "China's steel production adjustments highlight varying demand forces across global industrial and construction markets.",
-          "why": "Changes in raw steel output directly impact metal fabrication volumes and subsequent abrasive consumption for grinding and deburring.",
-          "action": "Keep an eye on fluctuating steel output levels when planning raw material inventory for metalworking abrasives.",
+          "source": "Fortune Business Insights",
+          "date": "2026-09-07",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
+          "title": "Automotive OEM Coatings Market Size, Share | Growth [2034]",
+          "summary": "The automotive OEM coatings market continues to expand steadily toward 2034, driven by vehicle production recovery and EV manufacturing demands.",
+          "why": "Automotive manufacturing is a major consumer of coated metal sheets, welding cleanup abrasives, and body-shop sanding products.",
+          "action": "Keep track of EV body styling and composite-metal mixes that require specialized deburring and sanding.",
           "th": {
-            "title": "การผลิตเหล็กที่ผ่อนคลายลงของจีนสะท้อนถึงแรงขับเคลื่อนความต้องการที่แตกต่างกัน",
-            "summary": "การปรับลดการผลิตเหล็กของจีนเน้นย้ำถึงแรงกดดันด้านความต้องการที่แตกต่างกันในตลาดอุตสาหกรรมและการก่อสร้างทั่วโลก",
-            "why": "การเปลี่ยนแปลงในปริมาณการผลิตเหล็กดิบส่งผลโดยตรงต่อปริมาณการผลิตชิ้นส่วนโลหะและการใช้กระดาษทรายสำหรับขัดและลบคมตามมา",
-            "action": "จับตาระดับการผลิตเหล็กที่ผันผวนเมื่อวางแผนสินค้าคงคลังวัตถุดิบสำหรับผลิตภัณฑ์ขัดโลหะ"
+            "title": "ขนาดส่วนแบ่งและการเติบโตของตลาดสารเคลือบ OEM ยานยนต์ [2034]",
+            "summary": "ตลาดสารเคลือบ OEM ยานยนต์ยังคงขยายตัวอย่างต่อเนื่องถึงปี 2034 ขับเคลื่อนโดยการฟื้นตัวของการผลิตรถยนต์และความต้องการรถยนต์ไฟฟ้า",
+            "why": "อุตสาหกรรมยานยนต์เป็นผู้บริโภครายใหญ่ของแผ่นโลหะเคลือบ วัสดุกัดกร่อนสำหรับทำความสะอาดรอยเชื่อม และผลิตภัณฑ์ขัดสีรถยนต์",
+            "action": "ติดตามการออกแบบตัวถังรถ EV และส่วนผสมโลหะคอมโพสิตที่ต้องใช้การลบคมและการขัดผิวแบบพิเศษ"
           }
         },
         {
           "id": "20260930-w3",
           "tag": "steel",
-          "rating": "amber",
-          "source": "Fact.MR",
-          "date": "2026-04-13",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QdlVWYkhUUHFMQ042anhjZWhnN25NSnZfX2F3QU1IVnpHdHVIeWpSS2R0RnVCQjBHVVgwQjhTR21WeThVSF9Td2p5LUxpN3dKekd0UXJpdHMxWENF?oc=5",
-          "title": "Steel Scrap Market, Global Market Analysis Report - 2036",
-          "summary": "Global market analysis outlines long-term growth and recycling trends within the international steel scrap sector through 2036.",
-          "why": "Increased reliance on steel scrap and electric arc furnace recycling shifts the metallurgical properties of processed steel, influencing surface finishing needs.",
-          "action": "Stay informed on steel recycling trends as cleaner or recycled metals can alter deburring and grinding requirements.",
+          "rating": "green",
+          "source": "SP Global",
+          "date": "2026-01-12",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
+          "title": "Global steel industry battles surplus supply, protectionism",
+          "summary": "The global steel sector faces ongoing challenges from excess production capacity and rising trade protectionism across major regions.",
+          "why": "Steel oversupply impacts local steel service centers and metal fabricators, directly altering their purchasing volume for grinding wheels and cutting discs.",
+          "action": "Anticipate price sensitivity among local steel fabricators and target durable, cost-effective cutting solutions.",
           "th": {
-            "title": "ตลาดเศษเหล็ก รายงานการวิเคราะห์ตลาดโลก - ปี 2036",
-            "summary": "การวิเคราะห์ตลาดโลกสรุปแนวโน้มการเติบโตและการรีไซเคิลระยะยาวในภาคเศษเหล็กระหว่างประเทศจนถึงปี 2036",
-            "why": "การพึ่งพาเศษเหล็กและการรีไซเคิลด้วยเตาอาร์คไฟฟ้าที่เพิ่มขึ้น ทำให้คุณสมบัติทางโลหะวิทยาของเหล็กแปรรูปเปลี่ยนไป ซึ่งส่งผลต่อความต้องการในการตกแต่งพื้นผิว",
-            "action": "ติดตามแนวโน้มการรีไซเคิลเหล็ก เนื่องจากโลหะรีไซเคิลอาจเปลี่ยนข้อกำหนดในการลบคมและการเจียร"
+            "title": "อุตสาหกรรมเหล็กโลกต่อสู้กับภาวะอุปทานล้นตลาดและลัทธิคุ้มครองทางการค้า",
+            "summary": "ภาคอุตสาหกรรมเหล็กทั่วโลกกำลังเผชิญกับความท้าทายอย่างต่อเนื่องจากกำลังการผลิตส่วนเกินและมาตรการกีดกันทางการค้าที่เพิ่มขึ้นในภูมิภาคหลักๆ",
+            "why": "ภาวะเหล็กล้นตลาดส่งผลกระทบต่อศูนย์บริการเหล็กและผู้รับเหมาช่วงโลหะในท้องถิ่น ซึ่งเปลี่ยนปริมาณการจัดซื้อใบเจียรและใบตัดโดยตรง",
+            "action": "คาดการณ์ความอ่อนไหวต่อราคาของผู้ผลิตโลหะในประเทศและนำเสนอโซลูชันการตัดที่ทนทานและคุ้มค่า"
           }
         }
       ]
