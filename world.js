@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-01",
-      "summary": "Today's briefing features 3 fresh global signals highlighting trends in coatings, EV manufacturing automation, and steel scrap markets. These insights help us track shifting surface preparation and metal fabrication demands globally.",
-      "directCount": 1,
+      "summary": "Today's global trend briefing highlights a mix of raw material growth for electronics and metal finishing, shifts in metal casting and steel dynamics under trade policies, and evolving automotive contract manufacturing landscapes.",
+      "directCount": 3,
       "th": {
-        "summary": "สรุปข่าวประจำวันนี้คัดเลือก 3 สัญญาณสำคัญจากทั่วโลก ครอบคลุมเรื่องอุตสาหกรรมสีและสารเคลือบ ระบบอัตโนมัติในการผลิต EV และตลาดเศษเหล็ก เพื่อช่วยติดตามทิศทางความต้องการเตรียมผิวและงานโลหะของโลก"
+        "summary": "สรุปกระแสโลกประจำวันนี้เน้นการเติบโตของวัตถุดิบสำหรับงานอิเล็กทรอนิกส์และการขัดโลหะ การเปลี่ยนแปลงในอุตสาหกรรมการหล่อโลหะและเหล็กภายใต้นโยบายการค้า รวมถึงทิศทางการผลิตรถยนต์ที่เปลี่ยนไป"
       },
       "items": [
         {
           "id": "20261001-w1",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "precedenceresearch.com",
-          "date": "2026-09-09",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOU01tbEkxd3pyNFhxa1NWeFM2QlRlMUFjeWVJRmFMTTF0R3VweWotbFY4WGVtMUhEcFotMlNjZWxRNHFQOUQwcVB2ZzQ2TU11WFBUcWctazlBSjV1aVBlUENkZk9XLWZKd1FUMl93?oc=5",
-          "title": "Paints and Coatings Market Companies, Size & Trends 2026-2035",
-          "summary": "The global paints and coatings market continues its steady trajectory through 2035, driven by industrial expansion and architectural demand.",
-          "why": "Coating production growth often mirrors surface preparation and sanding activity, as substrates require heavy prep before coating application.",
-          "action": "Monitor coating market expansions to anticipate demand spikes in preparatory sanding supplies.",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-09-22",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa3prOHdTb1BJS0dDaF9fWnpxMnRrUlB2dU9zdjJBRllhY2pBaU13V1Z3MGhRX19xR3RVVVVCbUpkbjRfd0ZMSzc3X2swMmtvSVVHYm5nazA1c3ZSZ2YxOGgxUTRkWVhweV9ULUd4My1MNnNTaWNtdGlaOVMzT2MtNzBqNUpxWHZ3aV9LOFZKeTNNdmZ3R0lFREh0SVB0Ym5sdlZtaHVTOTJOM1VBcjhiUTAxSDVHLXJBQWRBOTB3?oc=5",
+          "title": "Fused Alumina Market to Accelerate on Electronics Demand, Forecast Points Higher Toward 2035",
+          "summary": "Demand for fused alumina, a primary raw material for abrasives, is projected to grow significantly driven by electronics and metal finishing applications.",
+          "why": "Fused alumina is a core abrasive grain used in grinding wheels and sandpaper. Higher demand directly impacts our raw material costs and availability.",
+          "action": "Monitor fused alumina pricing and secure stable supply agreements with grain manufacturers.",
           "th": {
-            "title": "ตลาดสีและสารเคลือบ: ขนาดบริษัทและแนวโน้ม ปี 2026-2035",
-            "summary": "ตลาดสีและสารเคลือบโลกเติบโตอย่างต่อเนื่องจนถึงปี 2035 ขับเคลื่อนโดยการขยายตัวของภาคอุตสาหกรรมและการก่อสร้าง",
-            "why": "การเติบโตของการผลิตสารเคลือบมักสะท้อนถึงกิจกรรมการเตรียมผิวและการขัดกระดาษทราย เนื่องจากพื้นผิวต้องผ่านการเตรียมอย่างดีก่อนเคลือบ",
-            "action": "ติดตามการเติบโตของตลาดสารเคลือบเพื่อคาดการณ์ความต้องการวัสดุขัดผิวที่ใช้เตรียมพื้นผิว"
+            "title": "ตลาดฟิวส์อะลูมิเนียมเติบโตตามความต้องการด้านอิเล็กทรอนิกส์ คาดการณ์พุ่งสูงถึงปี 2035",
+            "summary": "ความต้องการฟิวส์อะลูมิเนียม ซึ่งเป็นวัตถุดิบหลักสำหรับกระดาษทรายและหินเจียร มีแนวโน้มเติบโตสูงจากภาคอิเล็กทรอนิกส์และการตกแต่งผิวโลหะ",
+            "why": "ฟิวส์อะลูมิเนียมคือเม็ดทรายขัดหลักในล้อเจียรและกระดาษทราย ความต้องการที่สูงขึ้นส่งผลโดยตรงต่อต้นทุนและสต็อกวัตถุดิบของเรา",
+            "action": "ติดตามราคารับซื้อฟิวส์อะลูมิเนียมและรักษาความสัมพันธ์เพื่อความมั่นคงของซัพพลายกับผู้ผลิตเม็ดทราย"
           }
         },
         {
           "id": "20261001-w2",
-          "tag": "auto",
+          "tag": "steel",
           "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-09-10",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVjkzSTlDYzItRzJSVXhQSjc1a0ttQ0dIRVYxRDgxaHFiQ0x3c1ZsLTdZQ0RRSk04bmhjdHQ4ZGJrV0lLVk45XzQ5ZzQwN1VwMDNERWNWVEpJNTRVYzZqTFFmcEIyUUZRNG9LOHp6ODIxYm80eEZrcTBOdENvenJqdktfcm5neXlITEZSRXNQclF2ZUpGUXVLTmY3SmhCRUlHdldDVC11QjRnZ3UtYzRlbzAwYS1yaW5oZV8zWmRMY2k?oc=5",
-          "title": "Smart-factory wiring woes: EVs demand automation now, not later",
-          "summary": "EV manufacturers are rapidly shifting toward smart-factory automation to solve complex wiring and structural assembly challenges.",
-          "why": "Automated assembly lines in EV production require specialized robotic sanding, deburring, and surface finishing tools.",
-          "action": "Keep an eye on automated manufacturing requirements for robotic-compatible abrasive products.",
+          "source": "Fortune Business Insights",
+          "date": "2026-09-07",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kYlp3TXBwdU5JVl9Gc0pFd3lJSFpjSUhLeEFGOVZVS19BbHBoTFNGb1BFOC1UNEN4c1o0c2xjdTFZYXhVdGRVb0dIeXZqakt1bTJkQy10SC0wRlh0RVVBZHZaWDFYbDk3cHdUbXBsYnRyYTlFVEE?oc=5",
+          "title": "Metal Casting Market Growth Analysis & Industry Forecast, 2034",
+          "summary": "The global metal casting market continues to expand steadily through 2034, driven by automotive, aerospace, and general industrial fabrication.",
+          "why": "Metal castings require extensive surface preparation, deburring, and grinding, representing a major end-user segment for industrial abrasives.",
+          "action": "Target casting foundries and metal fabrication shops with heavy-duty grinding and deburring solutions.",
           "th": {
-            "title": "ปัญหาเดินสายไฟในสมาร์ทแฟคทอรี่: รถยนต์ไฟฟ้าต้องการระบบอัตโนมัติเดี๋ยวนี้ ไม่ใช่รอวันหน้า",
-            "summary": "ผู้ผลิตรถยนต์ไฟฟ้ากำลังเปลี่ยนผ่านสู่ระบบอัตโนมัติในโรงงานอัจฉริยะอย่างรวดเร็ว เพื่อแก้ปัญหาความซับซ้อนในการเดินสายไฟและการประกอบโครงสร้าง",
-            "why": "สายการผลิตอัตโนมัติในการผลิต EV จำเป็นต้องใช้อุปกรณ์ขัด ลบคม และตกแต่งผิวที่รองรับระบบหุ่นยนต์",
-            "action": "จับตาความต้องการของภาคการผลิตอัตโนมัติสำหรับผลิตภัณฑ์วัสดุขัดที่ใช้กับแขนกลหุ่นยนต์"
+            "title": "วิเคราะห์การเติบโตและแนวโน้มอุตสาหกรรมการหล่อโลหะถึงปี 2034",
+            "summary": "ตลาดการหล่อโลหะทั่วโลกยังคงขยายตัวอย่างต่อเนื่องจนถึงปี 2034 ขับเคลื่อนโดยอุตสาหกรรมยานยนต์ อากาศยาน และการผลิตชิ้นส่วนอุตสาหกรรมทั่วไป",
+            "why": "ชิ้นงานหล่อโลหะจำเป็นต้องผ่านกระบวนการเตรียมผิว การลบคม และการเจียรแต่งอย่างมาก ซึ่งเป็นกลุ่มลูกค้าหลักของสินค้าประเภทแผ่นเจียรและกระดาษทราย",
+            "action": "มุ่งเน้นทำตลาดกับโรงงานหล่อโลหะและชอปงานโลหะด้วยผลิตภัณฑ์สำหรับงานเจียรหนักและการลบคม"
           }
         },
         {
           "id": "20261001-w3",
-          "tag": "steel",
-          "rating": "green",
-          "source": "Fact.MR",
-          "date": "2026-04-13",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QdlVWYkhUUHFMQ042anhjZWhnN25NSnZfX2F3QU1IVnpHdHVIeWpSS2R0RnVCQjBHVVgwQjhTR21WeThVSF9Td2p5LUxpN3dKekd0UXJpdHMxWENF?oc=5",
-          "title": "Steel Scrap Market, Global Market Analysis Report - 2036",
-          "summary": "The global steel scrap market analysis highlights long-term supply trends and recycling demands extending toward 2036.",
-          "why": "Recycled steel and scrap processing require heavy grinding, cutting discs, and surface preparation to remove defects.",
-          "action": "Ensure stable inventory of heavy-duty cutting and grinding discs tailored for metal recycling and fabrication.",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Fortune Business Insights",
+          "date": "2026-09-07",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLXZXWE5udjN1MklocExRanFpY2pBQ21wdHVBNkhuYW9Lbk81MG9iZTY0bFNENWl6UFlsSS1IZXFlWUh6enJSdjBkcEVqQ1VHMnNJbEJqWFV1VHJFT3A3dDN5WmtUeWVaR2ZXZUdWcjVvaVUzYm1tMmUtRzNWbUJoZ2VURkJrSmpLRlROZk9rdXQ?oc=5",
+          "title": "Automotive Contract Manufacturing Market Size, Share, Report, 2034",
+          "summary": "Automotive contract manufacturing is reshaping supply chains as global automakers outsource production to specialized partners.",
+          "why": "Shift in manufacturing locations means surface finishing and welding prep standards may vary across new production hubs, requiring tailored abrasive types.",
+          "action": "Keep track of where automotive assembly outsourcing is growing to align our industrial distribution network.",
           "th": {
-            "title": "ตลาดเศษเหล็ก: รายงานวิเคราะห์ตลาดโลก ปี 2036",
-            "summary": "การวิเคราะห์ตลาดเศษเหล็กทั่วโลกเน้นย้ำแนวโน้มอุปทานระยะยาวและความต้องการรีไซเคิลที่มีเป้าหมายไปถึงปี 2036",
-            "why": "กระบวนการแปรรูปเหล็กรีไซเคิลและเศษเหล็กต้องใช้งานเจียรหนัก แผ่นตัด และการเตรียมผิวเพื่อขจัดตำหนิ",
-            "action": "รักษาระดับสินค้าคงคลังของแผ่นตัดและใบเจียรสำหรับงานหนักที่ออกแบบมาเพื่ออุตสาหกรรมรีไซเคิลและแปรรูปโลหะ"
+            "title": "ขนาด ส่วนแบ่ง และรายงานตลาดรับจ้างผลิตยานยนต์ถึงปี 2034",
+            "summary": "การรับจ้างผลิตยานยนต์กำลังเปลี่ยนโฉมหน้าห่วงโซ่อุปทาน เนื่องจากค่ายรถยนต์ทั่วโลกจ้างบริษัทเฉพาะทางผลิตแทน",
+            "why": "การย้ายฐานการผลิตทำให้มาตรฐานการเตรียมผิวและงานเชื่อมอาจแตกต่างกันไปในแต่ละศูนย์การผลิตใหม่ ซึ่งต้องใช้ผลิตภัณฑ์ขัดที่เหมาะสม",
+            "action": "ติดตามการเติบโตของการจ้างประกอบยานยนต์เพื่อปรับเครือข่ายการจัดจำหน่ายอุตสาหกรรมให้สอดคล้องกัน"
           }
         }
       ]
