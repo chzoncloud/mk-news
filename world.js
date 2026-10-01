@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-10-01",
+  "updated": "2026-10-02",
   "days": [
+    {
+      "date": "2026-10-02",
+      "summary": "Today's global briefing highlights the expanding metal casting sector, Saint-Gobain's strategic subsidiary shifts in India, and the evolving EV assembly landscape, signaling continuous raw material and surface finishing demand.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปทิศทางโลกประจำวันไฮไลต์การเติบโตของอุตสาหกรรมการหล่อโลหะ การปรับกลยุทธ์บริษัทลูกของ Saint-Gobain ในอินเดีย และการเติบโตของการประกอบ EV ซึ่งส่งสัญญาณความต้องการใช้วัสดุและการขัดผิวอย่างต่อเนื่อง"
+      },
+      "items": [
+        {
+          "id": "20261002-w1",
+          "tag": "steel",
+          "rating": "green",
+          "source": "Fortune Business Insights",
+          "date": "2026-09-14",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kYlp3TXBwdU5JVl9Gc0pFd3lJSFpjSUhLeEFGOVZVS19BbHBoTFNGb1BFOC1UNEN4c1o0c2xjdTFZYXhVdGRVb0dIeXZqakt1bTJkQy10SC0wRlh0RVVBZHZaWDFYbDk3cHdUbXBsYnRyYTlFVEE?oc=5",
+          "title": "Metal Casting Market Growth Analysis & Industry Forecast, 2034",
+          "summary": "The metal casting market is projected for steady long-term growth through 2034, driven by industrial manufacturing expansion.",
+          "why": "Metal casting heavily requires deburring, grinding, and surface preparation using heavy-duty abrasives and cutting discs.",
+          "action": "Monitor foundry and metal casting hubs as prime customers for heavy-duty grinding and deburring products.",
+          "th": {
+            "title": "ตลาดการหล่อโลหะเติบโตและการคาดการณ์อุตสาหกรรมถึงปี 2034",
+            "summary": "ตลาดการหล่อโลหะมีแนวโน้มเติบโตอย่างต่อเนื่องระยะยาวถึงปี 2034 ขับเคลื่อนโดยการขยายตัวของการผลิตภาคอุตสาหกรรม",
+            "why": "งานหล่อโลหะมีความต้องการกระบวนการลบครีบ การเจียร และการเตรียมพื้นผิวเป็นอย่างมาก ซึ่งต้องใช้กระดาษทรายและแผ่นตัดคุณภาพสูง",
+            "action": "ติดตามกลุ่มอุตสาหกรรมโรงหล่อและแปรรูปโลหะว่าเป็นลูกค้าหลักสำหรับผลิตภัณฑ์งานเจียรและลบคม"
+          }
+        },
+        {
+          "id": "20261002-w2",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "Univest",
+          "date": "2026-08-07",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFMG44UFZ0TFdzby1NbUVUZGRublRBUzZOaENmTzRwWlN3Vm5KZXJIbGx0Ukt4VU5WS3BUV2hLSXZOMnItMDhzQk5RczlmZERBd1oyN2hoUF8tbFJmQy12YnZKYzlzYi0wZlhabA?oc=5",
+          "title": "Grindwell Norton Share Pros and Cons: Saint-Gobain's India Abrasives Subsidiary",
+          "summary": "Analysis highlights the market position and growth factors of Grindwell Norton, Saint-Gobain's prominent abrasives subsidiary in India.",
+          "why": "Tracking major multinational players like Saint-Gobain provides insights into global supply chain strategies and competitive positioning in emerging manufacturing markets.",
+          "action": "Study how global abrasive giants position their product lines in developing regions to benchmark our own offerings.",
+          "th": {
+            "title": "วิเคราะห์หุ้น Grindwell Norton: บริษัทลูกด้านวัสดุขัดถูของ Saint-Gobain ในอินเดีย",
+            "summary": "บทวิเคราะห์เจาะลึกถึงตำแหน่งทางการตลาดและปัจจัยการเติบโตของ Grindwell Norton ซึ่งเป็นบริษัทลูกด้านวัสดุขัดถูรายใหญ่ของ Saint-Gobain ในอินเดีย",
+            "why": "การติดตามความเคลื่อนไหวของยักษ์ใหญ่อย่าง Saint-Gobain ช่วยให้เข้าใจกลยุทธ์ห่วงโซ่อุปทานระดับโลกและการแข่งขันในตลาดเกิดใหม่",
+            "action": "ศึกษาแนวทางการทำตลาดของแบรนด์ระดับโลกในภูมิภาคกำลังพัฒนาเพื่อนำมาปรับใช้เป็นบรรทัดฐานสำหรับสินค้าของเรา"
+          }
+        },
+        {
+          "id": "20261002-w3",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "MarketsandMarkets",
+          "date": "2026-07-10",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUXhqQk54c1g4cXhycTVMTFlJY3l2bGNZYU5hWG1zdDRYZmYwM0FaUzVXOTlCTXNCR1dabXhiLTJnMllTWFl6UWt1TE9KMkFqYmxxRUNjcC1nQlFhR3ZPSng5QVNtQnZRMEZ2cGREVGhaa0VPSTVfSkg1UEtlNER4emMyYW83SUkzSGc?oc=5",
+          "title": "EV Assembly Market Report 2026-2035 [486 Pages & 200 Tables]",
+          "summary": "A comprehensive market report outlines the transformation, scale, and assembly technologies expected in the global electric vehicle sector through 2035.",
+          "why": "EV manufacturing shifts assembly line materials and body structures, altering the surface treatment and finishing requirements for parts.",
+          "action": "Anticipate changes in surface finishing specs as EV manufacturers adopt lightweight alloys and new structural components.",
+          "th": {
+            "title": "รายงานตลาดการประกอบรถยนต์ไฟฟ้า (EV) ปี 2026-2035",
+            "summary": "รายงานตลาดเชิงลึกเผยถึงการเปลี่ยนแปลง สเกล และเทคโนโลยีการประกอบในอุตสาหกรรมยานยนต์ไฟฟ้าทั่วโลกจนถึงปี 2035",
+            "why": "การผลิต EV ทำให้วัสดุและโครงสร้างตัวถังเปลี่ยนไป ซึ่งส่งผลต่อข้อกำหนดในการเตรียมพื้นผิวและการขัดแต่งชิ้นส่วน",
+            "action": "เตรียมรับมือกับการเปลี่ยนแปลงสเปกงานขัดผิว เนื่องจากผู้ผลิต EV หันมาใช้อัลลอยด์น้ำหนักเบาและชิ้นส่วนโครงสร้างใหม่ๆ"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-10-01",
       "summary": "Today's briefing focuses on niche industrial coatings, electric vehicle supply chains, and evolving steel production landscapes. With several major topics excluded due to recent coverage, we highlight 3 distinct global signals.",
@@ -920,88 +984,6 @@ window.WORLD_ARCHIVE = {
             "summary": "มาตรการกีดกันทางการค้าและห่วงโซ่อุปทานเหล็กที่เปลี่ยนไปกำลังสร้างความไม่สมดุลระดับภูมิภาคในด้านความพร้อมและราคาโลหะ",
             "why": "การเปลี่ยนแปลงของรูปแบบการค้าเหล็กโลกส่งผลกระทบต่อปริมาณการผลิตแปรรูปโลหะในท้องถิ่น ซึ่งเชื่อมโยงโดยตรงกับความต้องการผลิตภัณฑ์ลับคมและขัดลบคม",
             "action": "ติดตามกระแสการนำเข้าโลหะและกิจวัตรการแปรรูปเหล็กในท้องถิ่น เพื่อใช้เป็นดัชนีชี้วัดล่วงหน้าสำหรับปริมาณการใช้วัสดุขัด"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-09-18",
-      "summary": "Today's global briefing highlights new growth frontiers for coated abrasives driven by electronics, semiconductor finishing, and metal-forming shifts like EAF steel production, while automotive sectors tackle smart-factory automation.",
-      "directCount": 4,
-      "th": {
-        "summary": "สรุปทิศทางโลกวันนี้เน้นโอกาสการเติบโตใหม่ของกระดาษทรายและวัสดุขัดผิวที่ขับเคลื่อนโดยอุตสาหกรรมอิเล็กทรอนิกส์ การผลิตเซมิคอนดักเตอร์ และการปรับตัวของอุตสาหกรรมเหล็ก รวมถึงระบบอัตโนมัติในโรงงานยานยนต์"
-      },
-      "items": [
-        {
-          "id": "20260918-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-09-16",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNb0Q5M1RPYjlHdElGeXctWllESFpkc3l4U0IxckRudVdxdEM1RF9DVzBpRWNDV0tuX0x1dEZNN1llMlNvYk5qUHdzcUozMjRXVDdwckFOSHdRbkJpUUNQMUd1dll3SGJfZzMxUkR1cWJNek1fLTg0d2RxYkF1Z3dCSk5UbWNpSXJPeC1sSEVOWnBmRlJZQndtZS1HUXIwTFdGenRpVmVMdVI5aW1VVGpualdfeG93QWU5MkFoNTZtR0taWG5CZzNCREo2YXhxbU5UWm9BRGlOOTgtaXlROUg0U1pMWlhlX3Fx?oc=5",
-          "title": "Coated Sanding Sheets Market Forecast to 2035: Replacement Demand in Electronics and Semiconductor Finishing Drives 4–6% CAGR",
-          "summary": "The global market for coated sanding sheets is projected to grow at a 4-6% CAGR through 2035, significantly propelled by replacement demand in electronics and semiconductor finishing.",
-          "why": "Signals strong high-margin growth in precision micro-finishing abrasives rather than traditional heavy industrial uses alone.",
-          "action": "Evaluate inventory of fine-grade coated sanding sheets tailored for electronics and precision components.",
-          "th": {
-            "title": "ตลาดแผ่นกระดาษทรายเคลือบคาดโตถึงปี 2035: ความต้องการในอุตสาหกรรมอิเล็กทรอนิกส์และเซมิคอนดักเตอร์ดันอัตราเติบโต 4-6%",
-            "summary": "ตลาดแผ่นกระดาษทรายเคลือบทั่วโลกคาดว่าจะเติบโตอย่างต่อเนื่องจนถึงปี 2035 โดยได้แรงหนุนสำคัญจากความต้องการในกลุ่มอิเล็กทรอนิกส์และการขัดแต่งเซมิคอนดักเตอร์",
-            "why": "เป็นสัญญาณว่าตลาดวัสดุขัดผิวความละเอียดสูงมีอัตรากำไรและโอกาสเติบโตสูงกว่างานอุตสาหกรรมหนักแบบดั้งเดิม",
-            "action": "พิจารณาเพิ่มสต็อกกระดาษทรายเคลือบเบอร์ละเอียดที่เหมาะสำหรับงานอิเล็กทรอนิกส์และชิ้นส่วนความแม่นยำสูง"
-          }
-        },
-        {
-          "id": "20260918-w2",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-09-10",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZDJqd2xKZGF5aVhTN1NIQUh5Q3RIUEk0M2o1dzlkLXBsVDZIbXdwSFNqQ2ZEV0YtUEF2bElKN0pIcmZ3Tzk5TE1uTUQyNm9kNWxma1NkXzJvWjRCUnNWN2FjUnZFQ0ZlcFRnSjdDYW5QWGlWdVJtdVFVVjV0X3JmSGE5ZTRKR0N4S2Q4c2haLUpydEltcXVTNXFQUE9DLVh0QWFxQUtCX0NfT2dQeXgzdW01NTQzbWpJWmZiT0EtZHhMQTN1N29J?oc=5",
-          "title": "Sanding Screen Mesh Market to Accelerate on Electronics and Semiconductor Finishing Demand by 2035",
-          "summary": "Demand for sanding screen mesh is accelerating, driven heavily by specialized finishing applications in electronics and semiconductor manufacturing.",
-          "why": "Mesh abrasives provide superior dust extraction and longevity, making them increasingly popular across tech manufacturing sectors.",
-          "action": "Explore sourcing more advanced sanding screen mesh products to capture tech-sector surface prep demand.",
-          "th": {
-            "title": "ตลาดตาข่ายขัด (Sanding Screen Mesh) เร่งตัวขึ้นจากความต้องการขัดผิวอิเล็กทรอนิกส์และเซมิคอนดักเตอร์",
-            "summary": "ความต้องการใช้ตาข่ายขัดกำลังเร่งตัวขึ้นอย่างมาก โดยขับเคลื่อนจากการใช้งานตกแต่งผิวในอุตสาหกรรมการผลิตอิเล็กทรอนิกส์และเซมิคอนดักเตอร์",
-            "why": "ตาข่ายขัดมีจุดเด่นเรื่องการระบายฝุ่นและอายุการใช้งานที่ยาวนาน ทำให้เป็นที่นิยมในภาคการผลิตเทคโนโลยี",
-            "action": "สำรวจหาแหล่งนำเข้าผลิตภัณฑ์ตาข่ายขัดรุ่นใหม่ๆ เพื่อรองรับความต้องการเตรียมพื้นผิวในภาคเทคโนโลยี"
-          }
-        },
-        {
-          "id": "20260918-w3",
-          "tag": "steel",
-          "rating": "green",
-          "source": "Shanghai Metals Market",
-          "date": "2026-05-19",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMmw1akRRMFZCQ2I5NGhHdE1NOXhoaE1GY0h5UmxlQVNUVGxHTko2U0NBQ0o0Q19ZYmZ1VnBCTTB6a2JJQTFNOUpDSUtpWXdaR3hkeGhlOXF4dF9yUElCd1ZkWTl4MmZGOWhVeUlXc2VCMXFCOHQzZ0ZGZ1RtZ3p6aUNObEczWFhKMkdKQ3JuRWF5SjVNZmpOQVBaSGs4TWJKS1lVa0VTdmoxdDBQTF8zRDlxME1qeEtOUzJzSTBERURobWltWTlVUlpaZ3d2WlFRNEY1b0UwbVVfLXc0cXBZ?oc=5",
-          "title": "Nucor: 100% EAF, High Profits, and Vertical Integration Mitigating Costs",
-          "summary": "Major steelmakers utilizing 100% Electric Arc Furnace (EAF) production are achieving high profitability and cost efficiency through scrap recycling models.",
-          "why": "EAF steel production creates distinct metal scaling and surface characteristics that require specific grinding and deburring solutions.",
-          "action": "Monitor growth in EAF steel mills as key targets for heavy-duty grinding wheels and deburring abrasives.",
-          "th": {
-            "title": "Nucor เผยความสำเร็จ: ใช้เตาหลอมไฟฟ้า EAF 100% ทำกำไรสูงและคุมต้นทุนด้วยการบูรณาการในแนวดิ่ง",
-            "summary": "ผู้ผลิตเหล็กรายใหญ่ที่หันมาใช้เตาหลอมไฟฟ้า (EAF) 100% สามารถทำกำไรและบริหารต้นทุนได้ดีเยี่ยมผ่านโมเดลการรีไซเคิลเศษเหล็ก",
-            "why": "กระบวนการผลิตเหล็กด้วยเตา EAF ทำให้เกิดผิวโลหะและคราบตะกรันที่มีลักษณะเฉพาะ ซึ่งต้องใช้ผลิตภัณฑ์หินเจียรและใบตัดที่เหมาะสม",
-            "action": "ติดตามการเติบโตของโรงงานเหล็ก EAF เพื่อใช้เป็นกลุ่มเป้าหมายหลักสำหรับสินค้ากลุ่มงานขัดหยาบและลบครีบ (Deburring)"
-          }
-        },
-        {
-          "id": "20260918-w4",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-09-10",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVjkzSTlDYzItRzJSVXhQSjc1a0ttQ0dIRVYxRDgxaHFiQ0x3c1ZsLTdZQ0RRSk04bmhjdHQ4ZGJrV0lLVk45XzQ5ZzQwN1VwMDNERWNWVEpJNTRVYzZqTFFmcEIyUUZRNG9LOHp6ODIxYm80eEZrcTBOdENvenJqdktfcm5neXlITEZSRXNQclF2ZUpGUXVLTmY3SmhCRUlHdldDVC11QjRnZ3UtYzRlbzAwYS1yaW5oZV8zWmRMY2k?oc=5",
-          "title": "Smart-factory wiring woes: EVs demand automation now, not later",
-          "summary": "Electric vehicle production lines are heavily accelerating factory automation to overcome complex wiring and assembly bottlenecks.",
-          "why": "Automated assembly plants require robotic sanding, deburring, and surface prep attachments rather than manual labor.",
-          "action": "Keep an eye on robotic-compatible abrasive formats (like quick-change discs and automated sanding pads) for future automation trends.",
-          "th": {
-            "title": "ปัญหาการเดินสายไฟในสมาร์ทแฟคตอรี่: รถยนต์ไฟฟ้า (EV) เรียกร้องระบบอัตโนมัติทันที",
-            "summary": "สายการผลิตรถยนต์ไฟฟ้ากำลังเร่งนำระบบอัตโนมัติเข้ามาใช้ในโรงงานอย่างรวดเร็ว เพื่อแก้ปัญหาคอขวดในการประกอบและเดินสายไฟที่ซับซ้อน",
-            "why": "โรงงานประกอบอัตโนมัติจำเป็นต้องใช้อุปกรณ์ขัดกระดาษทราย ลบครีบ และเตรียมผิวที่ทำงานร่วมกับหุ่นยนต์ได้ แทนการใช้แรงงานคน",
-            "action": "ติดตามรูปแบบผลิตภัณฑ์กลุ่ม abrasives ที่รองรับระบบแขนกลหุ่นยนต์ (เช่น แผ่นขัดแบบเปลี่ยนเร็วและแป้นขัดอัตโนมัติ) เพื่อเตรียมรับกระแส automation"
           }
         }
       ]
