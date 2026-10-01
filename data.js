@@ -2,6 +2,71 @@
 window.NEWS_ARCHIVE = {
   "days": [
     {
+      "date": "2026-10-01",
+      "summary": "There is limited fresh news today; developments remain concentrated on the auto sector where the EV Board's 3-tier local content tax restructuring promises to spur domestic metal parts fabrication despite ongoing weakness in pickup truck manufacturing.",
+      "directCount": 1,
+      "th": {
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก ประเด็นหลักยังคงเกาะกลุ่มอยู่ในภาคยานยนต์ที่บอร์ด EV เคาะโครงสร้างภาษี 3 เทียร์เพื่อบีบให้ใช้วัตถุดิบและชิ้นส่วนในประเทศ ซึ่งจะช่วยกระตุ้นการผลิตชิ้นส่วนโลหะในไทย แม้ยอดผลิตกระบะจะยังชะลอตัวต่อเนื่อง"
+      },
+      "items": [
+        {
+          "id": "20261001-1",
+          "tag": "auto",
+          "rating": "green",
+          "source": "Matichon Online",
+          "date": "2026-09-21",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3YkdiUjdFRVhyTUJkeERxZkxWYk1qeEdLT20xS2VpV2c2WllpNV9OTnJoQS0yTHlyS0hScS0xU1NuOGswXzBZbUVkUk9rYm9UYXVfWjYzUllpWTA?oc=5",
+          "title": "EV Board Approves 3-Tier Excise Overhaul to Retain Thai Manufacturing Base",
+          "summary": "The National EV Policy Committee finalized a 3-tier excise tax structure that scales tax breaks based on domestic assembly depth and local content, penalizing pure vehicle importers.",
+          "why": "Mandating foreign EV brands to utilize domestic metal stamping and body fabrication directly boosts workshop demand for flap discs, grinding wheels, and sanding belts in Thailand.",
+          "action": "Target newly established EV assembly plants and local Tier-1 stampers with specialized weld-blending and deburring abrasive solutions.",
+          "th": {
+            "title": "บอร์ด EV เคาะภาษี 3 เทียร์ครั้งใหญ่ ดึงลงทุน-รักษาฐานผลิตชิ้นส่วนไทย",
+            "summary": "บอร์ด EV ไฟเขียวปรับโครงสร้างภาษีสรรพสามิต 3 เทียร์ ยิ่งผลิตและใช้ชิ้นส่วนในประเทศมากยิ่งได้ภาษีต่ำ เพื่อสกัดรถนำเข้าและรักษาฐานผลิตยานยนต์ในไทย",
+            "why": "การบีบให้ค่ายรถ EV ต้องปั๊มขึ้นรูปและประกอบชิ้นงานโลหะในประเทศส่งผลให้โรงงานต้องใช้วัสดุขัด เจียร และลบครีบคมรอยเชื่อมเพิ่มขึ้นโดยตรง",
+            "action": "รุกนำเสนอโซลูชันจานทรายซ้อนและหินเจียรเก็บรอยเชื่อมแก่โรงงานผลิตชิ้นส่วนปั๊มโลหะที่เตรียมรับงานโครงสร้าง EV"
+          }
+        },
+        {
+          "id": "20261001-2",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Car2Day",
+          "date": "2026-09-28",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5teHlMNzlNSGtaM002WXJVdmxSR2FHVmhEaDd5MDhjTDNZU3ZIanRDRlpDTExvV2ZuVG9XWXl6M2V6dmNaQ3NMVFZRSTRCWEJiMFJZME5CcUF6cGJxR01vZzNHU2tJZllq?oc=5",
+          "title": "Auto Sector Overview: EV Board Seeks Domestic Revival as Pickup Slump Continues",
+          "summary": "Thailand's automotive output faces a sharp divergence as commercial pickup truck production remains severely depressed, pushing authorities to accelerate EV localization to offset factory slowdowns.",
+          "why": "Pickup truck lines represent the bedrock of heavy metal sanding and body finishing for Japanese OEMs; their persistent slump drags down overall baseline abrasive usage.",
+          "action": "Rebalance sales targets toward EV battery tray and chassis fabricators to compensate for volume drop in pickup truck assembly lines.",
+          "th": {
+            "title": "ภาพรวมยานยนต์ไทย บอร์ด EV เร่งฟื้นผลิตในประเทศ ท่ามกลางกระบะยอดหดตัวต่อเนื่อง",
+            "summary": "อุตสาหกรรมยานยนต์ไทยเผชิญภาวะสองขั้ว โดยสายการผลิตรถกระบะยังคงหดตัวรุนแรง ภาครัฐจึงต้องเร่งผลักดันมาตรการ EV เพื่อดึงยอดผลิตในโรงงานกลับคืนมา",
+            "why": "สายการผลิตกระบะของค่ายญี่ปุ่นเป็นผู้ใช้วัสดุขัดและเตรียมผิวเหล็กปริมาณมหาศาล การชะลอตัวต่อเนื่องจึงกดดันยอดใช้วัสดุขัดระดับฐานราก",
+            "action": "กระจายความเสี่ยงโดยมุ่งเจาะกลุ่มโรงงานผลิตโครงสร้างและถาดแบตเตอรี่ EV เพื่อชดเชยยอดสั่งซื้อที่ลดลงจากสายผลิตกระบะ"
+          }
+        },
+        {
+          "id": "20261001-3",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "thaipbs.or.th",
+          "date": "2026-09-11",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5UWnpkOVRxUzRQMWR5dG55OC1qNTVoRGpWd0RDa2ZRSUpQb3lLMFBRQi14MG1ZOWtfQkx3MzVUa243ZXlNY2hSVVR1ZXZZak43cm5CZnNhUko?oc=5",
+          "title": "Thai Chamber of Commerce Endorses EV Tax Revamp to Accelerate Local Content",
+          "summary": "The Thai Chamber of Commerce supported the EV Board's tax incentives, urging rapid implementation to protect domestic Tier-1 and Tier-2 auto parts suppliers from being sidelined.",
+          "why": "Strong local industry backing indicates automotive metal suppliers will actively retool production lines to supply EV makers rather than cutting production.",
+          "action": "Audit existing Japanese Tier-1 customer accounts to identify which plants are retooling stamping and machining lines for EV component production.",
+          "th": {
+            "title": "หอการค้าไทยขานรับบอร์ด EV ชงภาษีจูงใจลงทุน เร่งดึง Local Content สู่โรงงานไทย",
+            "summary": "หอการค้าไทยหนุนมาตรการภาษีบอร์ด EV เรียกร้องให้บังคับใช้จริงโดยเร็ว เพื่อพยุงผู้ผลิตชิ้นส่วนยานยนต์ในประเทศไม่ให้หลุดออกจากห่วงโซ่อุปทาน",
+            "why": "แรงหนุนจากภาคธุรกิจสะท้อนว่าโรงงานซัพพลายเออร์โลหะจะเร่งปรับไลน์ผลิตมารับชิ้นส่วน EV มากขึ้น ช่วยรักษาฐานลูกค้าโรงงานไม่ให้ปิดตัว",
+            "action": "เข้าสำรวจบัญชีลูกค้า Tier-1 ญี่ปุ่นเดิมเพื่อเช็กแผนการปรับเปลี่ยนไลน์ผลิตชิ้นส่วนโลหะ EV และเตรียมสต็อกวัสดุขัดให้ตรงสเปกใหม่"
+          }
+        }
+      ],
+      "terms": {}
+    },
+    {
       "date": "2026-09-30",
       "summary": "Today has limited new breaking news, with focus centered on aircraft MRO development in U-Tapao, domestic steel standard disputes, and export tariffs affecting furniture manufacturing.",
       "directCount": 0,
@@ -455,72 +520,7 @@ window.NEWS_ARCHIVE = {
         }
       ],
       "terms": {}
-    },
-    {
-      "date": "2026-09-16",
-      "summary": "Today has few new updates as major EV tax policies and MRO projects were previously covered; focus shifts to factory standard crackdowns in the steel sector and upcoming regional woodworking expos.",
-      "directCount": 0,
-      "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มากเนื่องจากประเด็นภาษี EV และศูนย์ซ่อม MRO ถูกรายงานไปแล้ว โดยมีข่าวเด่นเรื่องการปราบปรามโรงงานเหล็กไม่ได้มาตรฐานและการเตรียมจัดงานแสดงสินค้าอุตสาหกรรมไม้ระดับภูมิภาค"
-      },
-      "items": [
-        {
-          "id": "20260916-1",
-          "tag": "furniture",
-          "rating": "amber",
-          "source": "เดลินิวส์",
-          "date": "2026-09-03",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQOG53VVJYRkd4MUZabFczX0FkeTVGTGNFYmZGUUxkTnJ6VjNmeklDTUZEYXlVRkpjS1gzeUxQczJHMXJRS3c1dEdWSk14eVVqczJN?oc=5",
-          "title": "TIWF 2026 Set to Elevate Regional Woodworking and Furniture Manufacturing",
-          "summary": "The Thailand International Woodworking & Furniture Exhibition (TIWF 2026) has announced its readiness to showcase advanced machinery and sustainable manufacturing solutions.",
-          "why": "Machinery upgrades and increased output among furniture makers directly drive ongoing consumption of wide sanding belts, discs, and finishing abrasives.",
-          "action": "Engage participating woodworking machinery distributors and furniture exporters to promote MK wide belts and finishing supplies.",
-          "th": {
-            "title": "TIWF 2026 ประกาศความพร้อม ยกระดับอุตสาหกรรมงานไม้และเฟอร์นิเจอร์ระดับภูมิภาค",
-            "summary": "งานแสดงสินค้าเครื่องจักรงานไม้และเฟอร์นิเจอร์ TIWF 2026 ประกาศความพร้อมจัดงานใหญ่เพื่อโชว์เทคโนโลยีการผลิตและแปรรูปไม้ที่ยั่งยืน",
-            "why": "การยกระดับเครื่องจักรและกำลังผลิตของโรงงานเฟอร์นิเจอร์ส่งผลให้ความต้องการสายพานขัดและจานขัดเตรียมผิวเพิ่มขึ้นตามไปด้วย",
-            "action": "รวบรวมรายชื่อผู้แทนจำหน่ายเครื่องจักรและโรงงานเฟอร์นิเจอร์ในงาน เพื่อนำเสนอสินค้าสายพานขัดและจานขัดของ MK"
-          }
-        },
-        {
-          "id": "20260916-2",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "Thairath.co.th",
-          "date": "2026-05-22",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5yOEdKVkRNRnBpc1dWRGRuNzNtN1NHR09mSlc3eHpQem1iLUg4TVY0bkN2eDF4bWhhZ3JfTU5idGxKN2trZUJfS1hRMlkxZHQ5T29sTVBMdU5fTHR0V09GQ2h0c19ZSGRrVU9oaTI3eVQydWc?oc=5",
-          "title": "Industry Ministry Commended for Cracking Down on Substandard Steel Plants",
-          "summary": "Ten steel trade associations praised the Ministry of Industry for decisive legal enforcement against substandard induction furnace steel manufacturers.",
-          "why": "Eliminating substandard and non-compliant operators stabilizes production conditions for certified steel and metal fabrication plants, our key abrasive consumers.",
-          "action": "Strengthen supply contracts and surface-finishing inventory with compliant steel fabricators benefiting from market stabilization.",
-          "th": {
-            "title": "10 สมาคมเหล็กปลื้มกระทรวงอุตสาหกรรม เดินหน้าเชือดโรงงานผลิตเหล็กไม่ได้มาตรฐาน",
-            "summary": "กลุ่มสมาคมเหล็กขานรับมาตรการบังคับใช้กฎหมายของกระทรวงอุตสาหกรรม ในการสั่งปิดโรงงานเตาหลอมที่ผลิตเหล็กไม่ได้มาตรฐาน มอก.",
-            "why": "การกวาดล้างโรงงานไร้มาตรฐานช่วยพยุงผู้ผลิตเหล็กโครงสร้างที่ได้มาตรฐานในไทย ซึ่งเป็นกลุ่มลูกค้าหลักที่ใช้วัสดุขัดและเจียรโลหะอย่างต่อเนื่อง",
-            "action": "เร่งกระชับความสัมพันธ์และเสนอสต็อกหินเจียร/จานขัดแก่กลุ่มโรงงานเหล็กมาตรฐานที่ได้รับอานิสงส์เชิงบวก"
-          }
-        },
-        {
-          "id": "20260916-3",
-          "tag": "furniture",
-          "rating": "white",
-          "source": "LINE TODAY",
-          "date": "2026-02-19",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SdnFHbkI2cC12bTVyU0ZpODZiODNrZ2xoV1BtT2dIQ2hZN3AwVTcyRzVtY3ByN2tjazdNWGQ5VmphbXlMQU5iOEU4dVNGMU9iQW5QRUFB?oc=5",
-          "title": "ASEAN Furniture Sector Aligns on Design and Sustainability for Global Market",
-          "summary": "ASEAN furniture manufacturers are joining forces to shift production strategies toward premium design and sustainable materials targeting 1.6 trillion baht in global value.",
-          "why": "A shift toward high-end and sustainable wood furniture increases demand for high-grit finishing papers and specialized polishing materials.",
-          "action": "Monitor export-oriented furniture makers adopting eco-friendly finishes to introduce MK fine-grit abrasives.",
-          "th": {
-            "title": "อาเซียนผนึกกำลังรุกตลาดเฟอร์นิเจอร์โลก ปรับกลยุทธ์ชูดีไซน์และความยั่งยืน",
-            "summary": "กลุ่มผู้ผลิตเฟอร์นิเจอร์อาเซียนจับมือปรับยุทธศาสตร์เน้นงานดีไซน์พรีเมียมและวัสดุที่เป็นมิตรต่อสิ่งแวดล้อมเพื่อชิงเค้กตลาดโลก 1.6 ล้านล้านบาท",
-            "why": "การปรับสายการผลิตสู่งานไม้เกรดพรีเมียมผลักดันให้ความต้องการกระดาษทรายเบอร์ละเอียดและวัสดุเตรียมผิวคุณภาพสูงเติบโตขึ้น",
-            "action": "ติดตามกลุ่มผู้ผลิตเฟอร์นิเจอร์ส่งออกที่ปรับไลน์สินค้า เพื่อนำเสนอกระดาษทรายขัดละเอียดสำหรับงานผิวไม้ประณีต"
-          }
-        }
-      ],
-      "terms": {}
     }
   ],
-  "updated": "2026-09-30"
+  "updated": "2026-10-01"
 };
