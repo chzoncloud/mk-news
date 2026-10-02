@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-02",
-      "summary": "Today's global briefing highlights the expanding metal casting sector, Saint-Gobain's strategic subsidiary shifts in India, and the evolving EV assembly landscape, signaling continuous raw material and surface finishing demand.",
+      "summary": "Today's briefing focuses on global manufacturing shifts, including U.S. steel sector gains, EV composites, and niche electronics-driven raw material demand like fused alumina.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปทิศทางโลกประจำวันไฮไลต์การเติบโตของอุตสาหกรรมการหล่อโลหะ การปรับกลยุทธ์บริษัทลูกของ Saint-Gobain ในอินเดีย และการเติบโตของการประกอบ EV ซึ่งส่งสัญญาณความต้องการใช้วัสดุและการขัดผิวอย่างต่อเนื่อง"
+        "summary": "สรุปประเด็นข่าววันนี้เน้นการเปลี่ยนแปลงของภาคการผลิตโลก รวมถึงการเติบโตของอุตสาหกรรมเหล็กสหรัฐฯ วัสดุคอมโพสิตสำหรับ EV และความต้องการวัตถุดิบกลุ่มอะลูมินาฟิวส์สำหรับอิเล็กทรอนิกส์"
       },
       "items": [
         {
           "id": "20261002-w1",
           "tag": "steel",
-          "rating": "green",
-          "source": "Fortune Business Insights",
-          "date": "2026-09-14",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kYlp3TXBwdU5JVl9Gc0pFd3lJSFpjSUhLeEFGOVZVS19BbHBoTFNGb1BFOC1UNEN4c1o0c2xjdTFZYXhVdGRVb0dIeXZqakt1bTJkQy10SC0wRlh0RVVBZHZaWDFYbDk3cHdUbXBsYnRyYTlFVEE?oc=5",
-          "title": "Metal Casting Market Growth Analysis & Industry Forecast, 2034",
-          "summary": "The metal casting market is projected for steady long-term growth through 2034, driven by industrial manufacturing expansion.",
-          "why": "Metal casting heavily requires deburring, grinding, and surface preparation using heavy-duty abrasives and cutting discs.",
-          "action": "Monitor foundry and metal casting hubs as prime customers for heavy-duty grinding and deburring products.",
+          "rating": "amber",
+          "source": "economy.ac",
+          "date": "2026-09-23",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YQWhOYlJ3eW9jTUhwa25XdE55eHh3a2JoODhWdDAtOW00UzhXcWwtNnJJXzZGMjMtNXN6MTYwTUhib3ZHUDNXaTdIbWY2N092QXNsOXFfdw?oc=5",
+          "title": "'Trump Tariffs and AI Boom' Propel U.S. Steel Past Japan to World No. 3 for First Time in 26 Years",
+          "summary": "Driven by tariffs and the tech boom, U.S. steel output surged to the world number three spot, shifting global metal supply dynamics.",
+          "why": "Shifts in global steel production geography impact regional metal fabrication activity and the baseline demand for heavy-duty grinding and deburring products.",
+          "action": "Monitor shifting steel export flows and adjust inventory focus toward regions ramping up metal fabrication.",
           "th": {
-            "title": "ตลาดการหล่อโลหะเติบโตและการคาดการณ์อุตสาหกรรมถึงปี 2034",
-            "summary": "ตลาดการหล่อโลหะมีแนวโน้มเติบโตอย่างต่อเนื่องระยะยาวถึงปี 2034 ขับเคลื่อนโดยการขยายตัวของการผลิตภาคอุตสาหกรรม",
-            "why": "งานหล่อโลหะมีความต้องการกระบวนการลบครีบ การเจียร และการเตรียมพื้นผิวเป็นอย่างมาก ซึ่งต้องใช้กระดาษทรายและแผ่นตัดคุณภาพสูง",
-            "action": "ติดตามกลุ่มอุตสาหกรรมโรงหล่อและแปรรูปโลหะว่าเป็นลูกค้าหลักสำหรับผลิตภัณฑ์งานเจียรและลบคม"
+            "title": "'ภาษีทรัมป์และบูม AI' ผลักดันเหล็กสหรัฐฯ แซงญี่ปุ่นขึ้นเบอร์ 3 ของโลกในรอบ 26 ปี",
+            "summary": "แรงหนุนจากมาตรการภาษีและกระแสเทคโนโลยีทำให้ผลผลิตเหล็กของสหรัฐฯ พุ่งขึ้นสู่อันดับ 3 ของโลก เปลี่ยนแปลงพลวัตอุปทานโลหะทั่วโลก",
+            "why": "การเปลี่ยนแปลงของภูมิศาสตร์การผลิตเหล็กโลกส่งผลต่อกิจกรรมการแปรรูปโลหะในระดับภูมิภาคและความต้องการผลิตภัณฑ์ขัดและลบคม",
+            "action": "ติดตามการเปลี่ยนแปลงของกระแสการส่งออกเหล็กและปรับโฟกัสสต็อกสินค้าไปยังภูมิภาคที่กำลังเพิ่มกำลังการผลิตโลหะ"
           }
         },
         {
           "id": "20261002-w2",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "Univest",
-          "date": "2026-08-07",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFMG44UFZ0TFdzby1NbUVUZGRublRBUzZOaENmTzRwWlN3Vm5KZXJIbGx0Ukt4VU5WS3BUV2hLSXZOMnItMDhzQk5RczlmZERBd1oyN2hoUF8tbFJmQy12YnZKYzlzYi0wZlhabA?oc=5",
-          "title": "Grindwell Norton Share Pros and Cons: Saint-Gobain's India Abrasives Subsidiary",
-          "summary": "Analysis highlights the market position and growth factors of Grindwell Norton, Saint-Gobain's prominent abrasives subsidiary in India.",
-          "why": "Tracking major multinational players like Saint-Gobain provides insights into global supply chain strategies and competitive positioning in emerging manufacturing markets.",
-          "action": "Study how global abrasive giants position their product lines in developing regions to benchmark our own offerings.",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "MarketsandMarkets",
+          "date": "2026-09-20",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQb1BFUU5qdVhNTTJOaUw1V3lCUmVpM1FYcUw2QUdwZ1M4YjNNSmZYcnlhUG81eXdxWE9uLWw1bGY5NkxVR2pURGw3MzBaeHdSWnp2QTh5SE4wRDVYa0ZULWRrcFBKeVdHTnk2UlJPS2t2MUJEQ1V3eVRQSkdiSmZrTDAzVFhwdWNKbUxYMHZ6VXIzeE1IWXBVaEZ1MmZaWVjVDBJWA?oc=5",
+          "title": "-rest-of-gcc-countries EV Composites Market Size, Share,Trends, Growth Analysis Report, 2029",
+          "summary": "The market for lightweight EV composites continues to expand rapidly as manufacturers seek efficiency and range improvements.",
+          "why": "EV composite materials require specialized surface preparation, sanding, and finishing techniques distinct from traditional steel automotive parts.",
+          "action": "Keep an eye on non-woven and flexible abrasives suitable for composite finishing in automotive applications.",
           "th": {
-            "title": "วิเคราะห์หุ้น Grindwell Norton: บริษัทลูกด้านวัสดุขัดถูของ Saint-Gobain ในอินเดีย",
-            "summary": "บทวิเคราะห์เจาะลึกถึงตำแหน่งทางการตลาดและปัจจัยการเติบโตของ Grindwell Norton ซึ่งเป็นบริษัทลูกด้านวัสดุขัดถูรายใหญ่ของ Saint-Gobain ในอินเดีย",
-            "why": "การติดตามความเคลื่อนไหวของยักษ์ใหญ่อย่าง Saint-Gobain ช่วยให้เข้าใจกลยุทธ์ห่วงโซ่อุปทานระดับโลกและการแข่งขันในตลาดเกิดใหม่",
-            "action": "ศึกษาแนวทางการทำตลาดของแบรนด์ระดับโลกในภูมิภาคกำลังพัฒนาเพื่อนำมาปรับใช้เป็นบรรทัดฐานสำหรับสินค้าของเรา"
+            "title": "รายงานวิเคราะห์ขนาด ส่วนแบ่ง และแนวโน้มตลาดคอมโพสิต EV",
+            "summary": "ตลาดวัสดุคอมโพสิตน้ำหนักเบาสำหรับยานยนต์ไฟฟ้าขยายตัวอย่างรวดเร็ว เนื่องจากผู้ผลิตต้องการเพิ่มประสิทธิภาพและระยะทางวิ่งของรถ",
+            "why": "วัสดุคอมโพสิตสำหรับ EV ต้องการกระบวนการเตรียมพื้นผิว การขัด และการตกแต่งที่แตกต่างจากชิ้นส่วนโลหะยานยนต์แบบดั้งเดิม",
+            "action": "จับตาดูผลิตภัณฑ์กลุ่มกระดาษทรายน้ำและวัสดุขัดชนิดยืดหยุ่นที่เหมาะกับการแต่งผิวคอมโพสิตในงานยานยนต์"
           }
         },
         {
           "id": "20261002-w3",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "MarketsandMarkets",
-          "date": "2026-07-10",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUXhqQk54c1g4cXhycTVMTFlJY3l2bGNZYU5hWG1zdDRYZmYwM0FaUzVXOTlCTXNCR1dabXhiLTJnMllTWFl6UWt1TE9KMkFqYmxxRUNjcC1nQlFhR3ZPSng5QVNtQnZRMEZ2cGREVGhaa0VPSTVfSkg1UEtlNER4emMyYW83SUkzSGc?oc=5",
-          "title": "EV Assembly Market Report 2026-2035 [486 Pages & 200 Tables]",
-          "summary": "A comprehensive market report outlines the transformation, scale, and assembly technologies expected in the global electric vehicle sector through 2035.",
-          "why": "EV manufacturing shifts assembly line materials and body structures, altering the surface treatment and finishing requirements for parts.",
-          "action": "Anticipate changes in surface finishing specs as EV manufacturers adopt lightweight alloys and new structural components.",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-09-22",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa3prOHdTb1BJS0dDaF9fWnpxMnRrUlB2dU9zdjJBRllhY2pBaU13V1Z3MGhRX19xR3RVVVVCbUpkbjRfd0ZMSzc3X2swMmtvSVVHYm5nazA1c3ZSZ2YxOGgxUTRkWVhweV9ULUd4My1MNnNTaWNtdGlaOVMzT2MtNzBqNUpxWHZ3aV9LOFZKeTNNdmZ3R0lFREh0SVB0Ym5sdlZtaHVTOTJOM1VBcjhiUTAxSDVHLXJBQWRBOTB3?oc=5",
+          "title": "Fused Alumina Market to Accelerate on Electronics Demand, Forecast Points Higher Toward 2035",
+          "summary": "Demand for fused alumina—a key raw material in abrasives—is accelerating due to growing needs in electronics and advanced manufacturing.",
+          "why": "Fused alumina is a fundamental grain used to manufacture grinding wheels and sandpaper. Rising raw material demand can signal cost pressures or tightening supply for abrasive makers.",
+          "action": "Factor potential raw material price fluctuations into procurement plans for bonded and coated abrasive lines.",
           "th": {
-            "title": "รายงานตลาดการประกอบรถยนต์ไฟฟ้า (EV) ปี 2026-2035",
-            "summary": "รายงานตลาดเชิงลึกเผยถึงการเปลี่ยนแปลง สเกล และเทคโนโลยีการประกอบในอุตสาหกรรมยานยนต์ไฟฟ้าทั่วโลกจนถึงปี 2035",
-            "why": "การผลิต EV ทำให้วัสดุและโครงสร้างตัวถังเปลี่ยนไป ซึ่งส่งผลต่อข้อกำหนดในการเตรียมพื้นผิวและการขัดแต่งชิ้นส่วน",
-            "action": "เตรียมรับมือกับการเปลี่ยนแปลงสเปกงานขัดผิว เนื่องจากผู้ผลิต EV หันมาใช้อัลลอยด์น้ำหนักเบาและชิ้นส่วนโครงสร้างใหม่ๆ"
+            "title": "ตลาดอะลูมิเนียมออกไซด์หลอม (Fused Alumina) เร่งตัวตามความต้องการด้านอิเล็กทรอนิกส์ คาดการณ์แนวโน้มพุ่งสูงถึงปี 2035",
+            "summary": "ความต้องการอะลูมิเนียมออกไซด์หลอม ซึ่งเป็นวัตถุดิบสำคัญในผลิตภัณฑ์ขัดกำลังเร่งตัวขึ้นจากภาคอิเล็กทรอนิกส์และการผลิตขั้นสูง",
+            "why": "Fused Alumina เป็นเม็ดทรายตั้งต้นในการผลิตหินเจียรและกระดาษทราย ความต้องการวัตถุดิบที่สูงขึ้นอาจส่งสัญญาณต้นทุนที่เพิ่มขึ้นหรืออุปทานที่ตึงตัว",
+            "action": "นำความเสี่ยงเรื่องความผันผวนของราคาวัตถุดิบมาประกอบการวางแผนจัดซื้อสำหรับกลุ่มสินค้าหินเจียรและกระดาษทราย"
           }
         }
       ]
