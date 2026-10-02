@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-10-02",
+  "updated": "2026-10-03",
   "days": [
+    {
+      "date": "2026-10-03",
+      "summary": "Today's briefing features 3 key signals focused on global steel market shifts, trade protectionism, and cutting tool demand driven by metalworking expansion.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปข่าวประจำวันนี้เน้น 3 สัญญาณสำคัญเกี่ยวกับความเปลี่ยนแปลงของตลาดเหล็กโลก มาตรการกีดกันทางการค้า และความต้องการเครื่องมือตัดเฉือนที่เติบโตตามอุตสาหกรรมแปรรูปโลหะ"
+      },
+      "items": [
+        {
+          "id": "20261003-w1",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "IndexBox",
+          "date": "2026-09-27",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeWh0UnJDZ2FJeUdQelItenUwbTFWQy16N1pabE5kU0twSlJiSm9jRjZkb0NGRHdvU2J0SzJRRmhCbDNmMjRCTU1YZzNOVE9OUVZ4eFU0SWNuYzM0bjVjSkVuVEx0RTFxcWw5WE1wZ04xZUhERTVkTF8xNzFiSDlMblQ2cVJPaUtKMWcxWjlzcnVuVDZVYkpFMm5HcHhTbDhDVkhlckQzSjFqV0tCOTB1cU5vMUx0NnlQYlhHeg?oc=5",
+          "title": "Abrasive Materials Market Forecast to 2035: Metalworking Demand Supports Expansion",
+          "summary": "The global abrasive materials market is projected to expand steadily through 2035, heavily supported by sustained manufacturing and metalworking demand.",
+          "why": "Direct confirmation that long-term industrial metalworking demand remains the core engine for raw abrasive consumption.",
+          "action": "Maintain focus on core metalworking segments and monitor raw material cost trends.",
+          "th": {
+            "title": "ตลาดวัสดุขัดกระดาษทรายคาดโตถึงปี 2035 หนุนโดยความต้องการแปรรูปโลหะ",
+            "summary": "ตลาดวัสดุขัดทั่วโลกคาดว่าจะขยายตัวอย่างต่อเนื่องจนถึงปี 2035 โดยได้รับแรงหนุนหลักจากภาคการผลิตและการแปรรูปโลหะ",
+            "why": "เป็นเครื่องยืนยันชัดเจนว่าความต้องการในภาคอุตสาหกรรมโลหะระยะยาวยังคงเป็นหัวใจสำคัญของการบริโภควัสดุขัด",
+            "action": "รักษากลุ่มเป้าหมายหลักในภาคอุตสาหกรรมโลหะและติดตามแนวโน้มต้นทุนวัตถุดิบอย่างใกล้ชิด"
+          }
+        },
+        {
+          "id": "20261003-w2",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-09-27",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUjROMDdtWnhLRnRQWEZxcmtSUTB0U1pmNTVyYVNpZVE2RERSc1VFSWtITzdDZlpRY0VtZkZmRDZwalRwak1aMGJZLVhJSHpBQ2ZfSFVKc2VEbU1fTVpUVXg3MDhIeEFobGR5ZlN5ZFVZdDNDRkZ5NkpkNGNucHZ0NDR6dUVfdTlQUkJiYkhmcDdJYm9aaGFUOHpZOGFra2N5cUczQmVxY2t5MjdESldpbFlnTnE0ek5Ya0dyVw?oc=5",
+          "title": "World Cutting Discs - Market Analysis, Forecast, Size, Trends and Insights",
+          "summary": "A comprehensive analysis of the global cutting discs market highlights evolving volume demands across fabrication and heavy industry.",
+          "why": "Cutting discs are high-turnover consumable items that directly reflect activity levels in metal cutting and workshops.",
+          "action": "Ensure strong stock availability and competitive pricing on fast-moving cutting and grinding discs.",
+          "th": {
+            "title": "ภาพรวมตลาดแผ่นตัดทั่วโลก: การวิเคราะห์ แนวโน้ม และขนาดตลาด",
+            "summary": "การวิเคราะห์เชิงลึกของตลาดแผ่นตัดทั่วโลกชี้ให้เห็นถึงความต้องการใช้งานที่เติบโตในงานอุตสาหกรรมหนักและงานขึ้นรูปโลหะ",
+            "why": "แผ่นตัดเป็นสินค้าสิ้นเปลืองที่มีอัตราการหมุนเวียนสูง ซึ่งสะท้อนระดับกิจกรรมในงานตัดโลหะและโรงงานได้โดยตรง",
+            "action": "ตรวจสอบสต็อกสินค้าแผ่นตัดและแผ่นเจียรให้พร้อมจำหน่าย พร้อมแข่งขันด้านราคาในกลุ่มสินค้าหมุนเวียนเร็ว"
+          }
+        },
+        {
+          "id": "20261003-w3",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "S&P Global",
+          "date": "2026-01-12",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
+          "title": "Global steel industry battles surplus supply, protectionism",
+          "summary": "The global steel sector continues to face oversupply issues combined with rising international trade protectionism and tariffs.",
+          "why": "Steel oversupply and trade friction directly impact local steel mill operations, raw material costs, and downstream metal fabrication output.",
+          "action": "Monitor how steel import pricing affects local Thai metal fabricators and their willingness to spend on abrasives.",
+          "th": {
+            "title": "อุตสาหกรรมเหล็กโลกเผชิญปัญหาสลักล้นตลาดและมาตรการกีดกันทางการค้า",
+            "summary": "ภาคอุตสาหกรรมเหล็กทั่วโลกยังคงเผชิญกับภาวะอุปทานล้นตลาด ควบคู่ไปกับมาตรการกีดกันทางการค้าและกำแพงภาษีที่เพิ่มขึ้น",
+            "why": "ภาวะเหล็กกล้าล้นตลาดและข้อพิพาททางการค้าส่งผลกระทบโดยตรงต่อการดำเนินงานของโรงงานเหล็กในท้องถิ่น ต้นทุนวัตถุดิบ และผลผลิตในอุตสาหกรรมแปรรูปโลหะปลายน้ำ",
+            "action": "ติดตามว่าราคานำเข้าเหล็กส่งผลกระทบต่อผู้แปรรูปโลหะในไทยอย่างไร และส่งผลต่อกำลังซื้อวัสดุขัดมากแค่ไหน"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-10-02",
       "summary": "Today's global briefing highlights key developments in metal casting growth, non-woven abrasives market expansion, and regional coatings dynamics that impact surface finishing and industrial demand.",
@@ -920,70 +984,6 @@ window.WORLD_ARCHIVE = {
             "summary": "กระแสการค้าเหล็กและอลูมิเนียมทั่วโลกยังคงเผชิญกับพลวัตด้านอุปทานระดับภูมิภาคที่ซับซ้อนและนโยบายการส่งออกที่เปลี่ยนแปลงไป",
             "why": "ปริมาณและราคาของเหล็กและอลูมิเนียมเป็นตัวกำหนดกิจกรรมการแปรรูปโลหะในท้องถิ่น ซึ่งส่งผลต่อการใช้วัสดุสิ้นเปลืองสำหรับงานขัดหยาบและลบคม",
             "action": "ติดตามความผันผวนของราคาวัตถุดิบเพื่อคาดการณ์พฤติกรรมการจัดซื้อของโรงงานโลหะในท้องถิ่น"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-09-19",
-      "summary": "Today's briefing focuses on advanced surface preparation and semiconductor finishing, alongside shifts in the global steel and powder coatings sectors that directly impact metal fabrication and surface finishing supply chains.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปกระแสโลกวันนี้เน้นเรื่องการเตรียมพื้นผิวขั้นสูงและการขัดแต่งชิ้นส่วนอิเล็กทรอนิกส์ รวมถึงการเปลี่ยนแปลงในอุตสาหกรรมเหล็กและสีฝุ่นระดับโลก ซึ่งส่งผลกระทบโดยตรงต่อห่วงโซ่อุปทานงานโลหะและการขัดผิว"
-      },
-      "items": [
-        {
-          "id": "20260919-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-09-13",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNampPT2tfdEQzcFJFejdVSjM3bGtXSmZUNlFBQWFiTHlEa0ZiLWswbHZNNkdNV0pJaFFnZ2I1NXhQWjc3RlNqVTRGQ09HcTVvYjlPSno5dGtramktX1FKN3hGOFhTeGJfZjJ6dGxtSDF2Yi14VGZwYlRydFMtM3VVdW0wVU9yWVlPNDlweFQ2c0pSN3FNSS03Yk4zRUFsVlB0cGJybHZKV1h5Yzc3OVBVdWZaaEp4NDBWRTVHYXlpbEVOaDF0Z29BODFnZGFuRUVXNVlfVw?oc=5",
-          "title": "Sandpaper Sheets Coarse Market Forecast to 2035: Growth Accelerates on Electronics and Metal Finishing Demand",
-          "summary": "Coarse sandpaper sheets demand is projected to see steady growth through 2035, heavily driven by electronics manufacturing and metal finishing requirements.",
-          "why": "Highlights that traditional coarse sandpaper remains critical for high-tech metal and electronic component manufacturing, not just wood.",
-          "action": "Ensure our heavy-duty and coarse sandpaper inventory aligns with industrial metal and precision finishing specs.",
-          "th": {
-            "title": "ตลาดกระดาษทรายหยาบคาดการณ์ถึงปี 2035: เติบโตเร่งตัวตามความต้องการในอุตสาหกรรมอิเล็กทรอนิกส์และการขัดโลหะ",
-            "summary": "ความต้องการกระดาษทรายหยาบคาดว่าจะเติบโตอย่างต่อเนื่องจนถึงปี 2035 โดยขับเคลื่อนหลักจากภาคการผลิตอิเล็กทรอนิกส์และการตกแต่งโลหะ",
-            "why": "แสดงให้เห็นว่ากระดาษทรายหยาบแบบดั้งเดิมยังคงมีความสำคัญต่อการผลิตโลหะไฮเทคและชิ้นส่วนอิเล็กทรอนิกส์ ไม่ใช่แค่งานไม้เท่านั้น",
-            "action": "ตรวจสอบสต็อกกระดาษทรายหยาบและงานหนักให้สอดคล้องกับสเปกของอุตสาหกรรมโลหะและการขัดผิวความแม่นยำสูง"
-          }
-        },
-        {
-          "id": "20260919-w2",
-          "tag": "coating",
-          "rating": "green",
-          "source": "MarketsandMarkets",
-          "date": "2026-08-23",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZXlFT2FNLWpkU3NtWlZ5azlmR3FjcmN4X192QjVTbVZvSlFuWW5XeFZkbXI2aDR5UlV5TExhMzNQSVp0WEd1R3gtUWg5VWZ3S2VIMjRCejFBcENNNkx3dVlTS1RzaEl6eDVpVFFaZDFEUlg2b3JfZV90aTZFck1XeUJsOEJHNy1GMVVfZVpoTHY?oc=5",
-          "title": "China Powder Coatings Market Size, Share, Trends, Growth Analysis Report, 2031",
-          "summary": "The powder coatings market in China continues to expand, driven by environmental regulations and durable finish requirements across manufacturing sectors.",
-          "why": "Powder coating applications require extensive pre-treatment, sanding, and surface preparation before coating is applied.",
-          "action": "Monitor growth trends in powder coating pre-treatment methods to identify emerging surface preparation needs.",
-          "th": {
-            "title": "รายงานขนาด ส่วนแบ่ง และแนวโน้มตลาดสีฝุ่นในประเทศจีน ปี 2031",
-            "summary": "ตลาดสีฝุ่นในจีนยังคงขยายตัวอย่างต่อเนื่อง ขับเคลื่อนด้วยกฎระเบียบด้านสิ่งแวดล้อมและความต้องการพื้นผิวที่ทนทานในภาคการผลิต",
-            "why": "กระบวนการพ่นสีฝุ่นต้องอาศัยการเตรียมพื้นผิว การขัด และการปรับสภาพผิวชิ้นงานอย่างละเอียดก่อนพ่นเสมอ",
-            "action": "ติดตามแนวโน้มการเติบโตของวิธีเตรียมพื้นผิวก่อนพ่นสีฝุ่น เพื่อมองหาความต้องการวัสดุขัดผิวใหม่ๆ"
-          }
-        },
-        {
-          "id": "20260919-w3",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "BNamericas",
-          "date": "2026-06-08",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMnhGVWhxLUFaQUQ4Ym16T3hDVTM1cDZHYnV4aGFEUGgwRkIzemRVQjlINy04dnc4NkpDemhZczJLOVpzdmJaNG1Xa0QzQ3lRLWxzblhReWdoVlZ0ZnR1ZmhHbkhlM2hxWmhNT19VSnRPSjJQdGFwUXJrRW82NjZmNGcwUEhDaFBIQzJKekI3N01iQQ?oc=5",
-          "title": "US tariffs amplify China steel pressure on Mexico",
-          "summary": "Global trade barriers and shifting steel supply chains are creating regional imbalances in metal availability and pricing dynamics.",
-          "why": "Changes in global steel trade patterns affect local metal fabrication volumes, directly influencing regional demand for grinding and deburring products.",
-          "action": "Keep an eye on metal import flows and local steel processing activity as a leading indicator for industrial abrasive consumption.",
-          "th": {
-            "title": "ภาษีศุลกากรของสหรัฐฯ เพิ่มแรงกดดันเหล็กจีนในเม็กซิโก",
-            "summary": "มาตรการกีดกันทางการค้าและห่วงโซ่อุปทานเหล็กที่เปลี่ยนไปกำลังสร้างความไม่สมดุลระดับภูมิภาคในด้านความพร้อมและราคาโลหะ",
-            "why": "การเปลี่ยนแปลงของรูปแบบการค้าเหล็กโลกส่งผลกระทบต่อปริมาณการผลิตแปรรูปโลหะในท้องถิ่น ซึ่งเชื่อมโยงโดยตรงกับความต้องการผลิตภัณฑ์ลับคมและขัดลบคม",
-            "action": "ติดตามกระแสการนำเข้าโลหะและกิจวัตรการแปรรูปเหล็กในท้องถิ่น เพื่อใช้เป็นดัชนีชี้วัดล่วงหน้าสำหรับปริมาณการใช้วัสดุขัด"
           }
         }
       ]
