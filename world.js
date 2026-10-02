@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-02",
-      "summary": "Today's briefing focuses on global manufacturing shifts, including U.S. steel sector gains, EV composites, and niche electronics-driven raw material demand like fused alumina.",
+      "summary": "Today's global briefing highlights key developments in metal casting growth, non-woven abrasives market expansion, and regional coatings dynamics that impact surface finishing and industrial demand.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปประเด็นข่าววันนี้เน้นการเปลี่ยนแปลงของภาคการผลิตโลก รวมถึงการเติบโตของอุตสาหกรรมเหล็กสหรัฐฯ วัสดุคอมโพสิตสำหรับ EV และความต้องการวัตถุดิบกลุ่มอะลูมินาฟิวส์สำหรับอิเล็กทรอนิกส์"
+        "summary": "สรุปทิศทางโลกประจำวันนี้เน้นการเติบโตของอุตสาหกรรมการหล่อโลหะ ตลาดวัสดุขัดถูแบบไม่ถักทอ และแนวโน้มตลาดสารเคลือบระดับภูมิภาคที่ส่งผลต่อความต้องการงานขัดและเตรียมพื้นผิว"
       },
       "items": [
         {
           "id": "20261002-w1",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "economy.ac",
-          "date": "2026-09-23",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YQWhOYlJ3eW9jTUhwa25XdE55eHh3a2JoODhWdDAtOW00UzhXcWwtNnJJXzZGMjMtNXN6MTYwTUhib3ZHUDNXaTdIbWY2N092QXNsOXFfdw?oc=5",
-          "title": "'Trump Tariffs and AI Boom' Propel U.S. Steel Past Japan to World No. 3 for First Time in 26 Years",
-          "summary": "Driven by tariffs and the tech boom, U.S. steel output surged to the world number three spot, shifting global metal supply dynamics.",
-          "why": "Shifts in global steel production geography impact regional metal fabrication activity and the baseline demand for heavy-duty grinding and deburring products.",
-          "action": "Monitor shifting steel export flows and adjust inventory focus toward regions ramping up metal fabrication.",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "Market.us",
+          "date": "2025-03-04",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91alpTXzlIaHVncXdQT2g3dVU2YjM5QTQ1amZIZGRMN0VQMGhzaXdEUXlIWV9nUXZRQ18wMUdrMmYzMkxLa25tdHpwTVctQ2JuYXhXWmxsQW1Pd1gxN1FhM2tkV20yV1psbHhv?oc=5",
+          "title": "Non-woven Abrasives Market Size, Share | CAGR of 3.8%",
+          "summary": "The global non-woven abrasives market continues steady growth driven by increasing demand for fine surface finishing, blending, and deburring across manufacturing sectors.",
+          "why": "Non-woven abrasives are core product categories for surface conditioning, cleaning, and fine finishing in metal and automotive workshops.",
+          "action": "Review stock levels and demand trends for non-woven conditioning pads and wheels.",
           "th": {
-            "title": "'ภาษีทรัมป์และบูม AI' ผลักดันเหล็กสหรัฐฯ แซงญี่ปุ่นขึ้นเบอร์ 3 ของโลกในรอบ 26 ปี",
-            "summary": "แรงหนุนจากมาตรการภาษีและกระแสเทคโนโลยีทำให้ผลผลิตเหล็กของสหรัฐฯ พุ่งขึ้นสู่อันดับ 3 ของโลก เปลี่ยนแปลงพลวัตอุปทานโลหะทั่วโลก",
-            "why": "การเปลี่ยนแปลงของภูมิศาสตร์การผลิตเหล็กโลกส่งผลต่อกิจกรรมการแปรรูปโลหะในระดับภูมิภาคและความต้องการผลิตภัณฑ์ขัดและลบคม",
-            "action": "ติดตามการเปลี่ยนแปลงของกระแสการส่งออกเหล็กและปรับโฟกัสสต็อกสินค้าไปยังภูมิภาคที่กำลังเพิ่มกำลังการผลิตโลหะ"
+            "title": "ขนาดส่วนแบ่งและแนวโน้มตลาดวัสดุขัดถูแบบไม่ถักทอ (Non-woven Abrasives)",
+            "summary": "ตลาดวัสดุขัดถูแบบไม่ถักทอทั่วโลกเติบโตอย่างต่อเนื่องจากความต้องการงานตกแต่งผิว ลบคม และขัดเกลี้ยงในภาคการผลิตที่เพิ่มขึ้น",
+            "why": "ผลิตภัณฑ์ขัดถูแบบไม่ถักทอเป็นกลุ่มสินค้าหลักสำหรับงานปรับสภาพผิว ทำความสะอาด และขัดเงาในอุตสาหกรรมโลหะและยานยนต์",
+            "action": "ตรวจสอบระดับสินค้าคงคลังและแนวโน้มความต้องการสำหรับแผ่นใยขัดและล้อขัดประเภทไม่ถักทอ"
           }
         },
         {
           "id": "20261002-w2",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "MarketsandMarkets",
-          "date": "2026-09-20",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQb1BFUU5qdVhNTTJOaUw1V3lCUmVpM1FYcUw2QUdwZ1M4YjNNSmZYcnlhUG81eXdxWE9uLWw1bGY5NkxVR2pURGw3MzBaeHdSWnp2QTh5SE4wRDVYa0ZULWRrcFBKeVdHTnk2UlJPS2t2MUJEQ1V3eVRQSkdiSmZrTDAzVFhwdWNKbUxYMHZ6VXIzeE1IWXBVaEZ1MmZaWVjVDBJWA?oc=5",
-          "title": "-rest-of-gcc-countries EV Composites Market Size, Share,Trends, Growth Analysis Report, 2029",
-          "summary": "The market for lightweight EV composites continues to expand rapidly as manufacturers seek efficiency and range improvements.",
-          "why": "EV composite materials require specialized surface preparation, sanding, and finishing techniques distinct from traditional steel automotive parts.",
-          "action": "Keep an eye on non-woven and flexible abrasives suitable for composite finishing in automotive applications.",
+          "tag": "steel",
+          "rating": "green",
+          "source": "Fortune Business Insights",
+          "date": "2026-09-14",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kYlp3TXBwdU5JVl9Gc0pFd3lJSFpjSUhLeEFGOVZVS19BbHBoTFNGb1BFOC1UNEN4c1o0c2xjdTFZYXhVdGRVb0dIeXZqakt1bTJkQy10SC0wRlh0RVVBZHZaWDFYbDk3cHdUbXBsYnRyYTlFVEE?oc=5",
+          "title": "Metal Casting Market Growth Analysis & Industry Forecast, 2034",
+          "summary": "The metal casting market is projected for solid expansion up to 2034, driven by automotive, machinery, and heavy industrial component manufacturing.",
+          "why": "Metal castings require extensive grinding, deburring, and surface finishing, driving direct demand for heavy-duty grinding discs and abrasive belts.",
+          "action": "Target foundry and metal casting workshops with aggressive pricing for heavy-removal grinding products.",
           "th": {
-            "title": "รายงานวิเคราะห์ขนาด ส่วนแบ่ง และแนวโน้มตลาดคอมโพสิต EV",
-            "summary": "ตลาดวัสดุคอมโพสิตน้ำหนักเบาสำหรับยานยนต์ไฟฟ้าขยายตัวอย่างรวดเร็ว เนื่องจากผู้ผลิตต้องการเพิ่มประสิทธิภาพและระยะทางวิ่งของรถ",
-            "why": "วัสดุคอมโพสิตสำหรับ EV ต้องการกระบวนการเตรียมพื้นผิว การขัด และการตกแต่งที่แตกต่างจากชิ้นส่วนโลหะยานยนต์แบบดั้งเดิม",
-            "action": "จับตาดูผลิตภัณฑ์กลุ่มกระดาษทรายน้ำและวัสดุขัดชนิดยืดหยุ่นที่เหมาะกับการแต่งผิวคอมโพสิตในงานยานยนต์"
+            "title": "การวิเคราะห์การเติบโตและคาดการณ์อุตสาหกรรมการหล่อโลหะถึงปี 2034",
+            "summary": "ตลาดการหล่อโลหะคาดว่าจะเติบโตอย่างแข็งแกร่งจนถึงปี 2034 ขับเคลื่อนโดยภาคยานยนต์ เครื่องจักร และการผลิตชิ้นส่วนอุตสาหกรรมหนัก",
+            "why": "ชิ้นงานหล่อโลหะต้องผ่านกระบวนการเจียร ลบคม และตกแต่งผิวจำนวนมาก ซึ่งสร้างความต้องการตรงต่อแผ่นเจียรและสายพานขัดสำหรับงานหนัก",
+            "action": "มุ่งเน้นเจาะกลุ่มโรงหล่อและงานโลหะด้วยผลิตภัณฑ์สำหรับงานขัดหยาบและเจียรที่มีความคุ้มค่าสูง"
           }
         },
         {
           "id": "20261002-w3",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-09-22",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa3prOHdTb1BJS0dDaF9fWnpxMnRrUlB2dU9zdjJBRllhY2pBaU13V1Z3MGhRX19xR3RVVVVCbUpkbjRfd0ZMSzc3X2swMmtvSVVHYm5nazA1c3ZSZ2YxOGgxUTRkWVhweV9ULUd4My1MNnNTaWNtdGlaOVMzT2MtNzBqNUpxWHZ3aV9LOFZKeTNNdmZ3R0lFREh0SVB0Ym5sdlZtaHVTOTJOM1VBcjhiUTAxSDVHLXJBQWRBOTB3?oc=5",
-          "title": "Fused Alumina Market to Accelerate on Electronics Demand, Forecast Points Higher Toward 2035",
-          "summary": "Demand for fused alumina—a key raw material in abrasives—is accelerating due to growing needs in electronics and advanced manufacturing.",
-          "why": "Fused alumina is a fundamental grain used to manufacture grinding wheels and sandpaper. Rising raw material demand can signal cost pressures or tightening supply for abrasive makers.",
-          "action": "Factor potential raw material price fluctuations into procurement plans for bonded and coated abrasive lines.",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "Precedence Research",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOU01tbEkxd3pyNFhxa1NWeFM2QlRlMUFjeWVJRmFMTTF0R3VweWotbFY4WGVtMUhEcFotMlNjZWxRNHFQOUQwcVB2ZzQ2TU11WFBUcWctazlBSjV1aVBlUENkZk9XLWZKd1FUMl93?oc=5",
+          "title": "Paints and Coatings Market Companies, Size & Trends 2026-2035",
+          "summary": "The global paints and coatings market is expanding rapidly through 2035, driven by architectural and industrial protective coating applications.",
+          "why": "Surface preparation and sanding are mandatory pre-steps before any high-performance industrial coating can be applied.",
+          "action": "Monitor coating technology shifts to align sanding grit profiles with new primer and paint adhesion requirements.",
           "th": {
-            "title": "ตลาดอะลูมิเนียมออกไซด์หลอม (Fused Alumina) เร่งตัวตามความต้องการด้านอิเล็กทรอนิกส์ คาดการณ์แนวโน้มพุ่งสูงถึงปี 2035",
-            "summary": "ความต้องการอะลูมิเนียมออกไซด์หลอม ซึ่งเป็นวัตถุดิบสำคัญในผลิตภัณฑ์ขัดกำลังเร่งตัวขึ้นจากภาคอิเล็กทรอนิกส์และการผลิตขั้นสูง",
-            "why": "Fused Alumina เป็นเม็ดทรายตั้งต้นในการผลิตหินเจียรและกระดาษทราย ความต้องการวัตถุดิบที่สูงขึ้นอาจส่งสัญญาณต้นทุนที่เพิ่มขึ้นหรืออุปทานที่ตึงตัว",
-            "action": "นำความเสี่ยงเรื่องความผันผวนของราคาวัตถุดิบมาประกอบการวางแผนจัดซื้อสำหรับกลุ่มสินค้าหินเจียรและกระดาษทราย"
+            "title": "บริษัท ขนาด และแนวโน้มตลาดสีและสารเคลือบ ปี 2026-2035",
+            "summary": "ตลาดสีและสารเคลือบโลกกำลังขยายตัวอย่างรวดเร็วถึงปี 2035 ขับเคลื่อนโดยงานสถาปัตยกรรมและการเคลือบป้องกันพื้นผิวอุตสาหกรรม",
+            "why": "งานเตรียมพื้นผิวและการขัดกระดาษทรายเป็นขั้นตอนจำเป็นก่อนการลงสีหรือสารเคลือบอุตสาหกรรมที่มีประสิทธิภาพสูงทุกประเภท",
+            "action": "ติดตามการเปลี่ยนแปลงของเทคโนโลยีสารเคลือบเพื่อปรับความละเอียดกระดาษทรายให้สอดคล้องกับความต้องการในการยึดเกาะของสีรองพื้น"
           }
         }
       ]
