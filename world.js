@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-03",
-      "summary": "Today's briefing features 3 key signals focused on global steel market shifts, trade protectionism, and cutting tool demand driven by metalworking expansion.",
-      "directCount": 3,
+      "summary": "Today's briefing focuses on niche supply chain shifts, including fused alumina demand driven by electronics, regional paint and coatings market dynamics, and global steel trade adjustments. We have selected 3 fresh stories that impact our industrial materials sector.",
+      "directCount": 2,
       "th": {
-        "summary": "สรุปข่าวประจำวันนี้เน้น 3 สัญญาณสำคัญเกี่ยวกับความเปลี่ยนแปลงของตลาดเหล็กโลก มาตรการกีดกันทางการค้า และความต้องการเครื่องมือตัดเฉือนที่เติบโตตามอุตสาหกรรมแปรรูปโลหะ"
+        "summary": "สรุปข่าวประจำวันนี้เน้นการเปลี่ยนแปลงของห่วงโซ่อุปทานเฉพาะกลุ่ม เช่น ความต้องการฟิวส์อะลูมินาจากอุตสาหกรรมอิเล็กทรอนิกส์, พลวัตตลาดสีและสารเคลือบระดับภูมิภาค และการปรับตัวของอุตสาหกรรมเหล็กโลก โดยคัดเลือกข่าวใหม่ที่ส่งผลกระทบต่อภาคธุรกิจวัสดุอุตสาหกรรมจำนวน 3 ข่าว"
       },
       "items": [
         {
           "id": "20261003-w1",
-          "tag": "steel",
-          "rating": "amber",
+          "tag": "abrasive",
+          "rating": "green",
           "source": "IndexBox",
-          "date": "2026-09-27",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeWh0UnJDZ2FJeUdQelItenUwbTFWQy16N1pabE5kU0twSlJiSm9jRjZkb0NGRHdvU2J0SzJRRmhCbDNmMjRCTU1YZzNOVE9OUVZ4eFU0SWNuYzM0bjVjSkVuVEx0RTFxcWw5WE1wZ04xZUhERTVkTF8xNzFiSDlMblQ2cVJPaUtKMWcxWjlzcnVuVDZVYkpFMm5HcHhTbDhDVkhlckQzSjFqV0tCOTB1cU5vMUx0NnlQYlhHeg?oc=5",
-          "title": "Abrasive Materials Market Forecast to 2035: Metalworking Demand Supports Expansion",
-          "summary": "The global abrasive materials market is projected to expand steadily through 2035, heavily supported by sustained manufacturing and metalworking demand.",
-          "why": "Direct confirmation that long-term industrial metalworking demand remains the core engine for raw abrasive consumption.",
-          "action": "Maintain focus on core metalworking segments and monitor raw material cost trends.",
+          "date": "2026-09-22",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa3prOHdTb1BJS0dDaF9fWnpxMnRrUlB2dU9zdjJBRllhY2pBaU13V1Z3MGhRX19xR3RVVVVCbUpkbjRfd0ZMSzc3X2swMmtvSVVHYm5nazA1c3ZSZ2YxOGgxUTRkWVhweV9ULUd4My1MNnNTaWNtdGlaOVMzT2MtNzBqNUpxWHZ3aV9LOFZKeTNNdmZ3R0lFREh0SVB0Ym5sdlZtaHVTOTJOM1VBcjhiUTAxSDVHLXJBQWRBOTB3?oc=5",
+          "title": "Fused Alumina Market to Accelerate on Electronics Demand, Forecast Points Higher Toward 2035",
+          "summary": "The fused alumina market is projected to grow, supported heavily by rising electronics sector requirements and broader industrial applications up to 2035.",
+          "why": "Fused alumina is a critical raw material for manufacturing bonded and coated abrasives. Higher electronic and industrial demand could influence raw material costs and availability for our products.",
+          "action": "Monitor raw material pricing trends for fused alumina and maintain close communication with our abrasive grain suppliers.",
           "th": {
-            "title": "ตลาดวัสดุขัดกระดาษทรายคาดโตถึงปี 2035 หนุนโดยความต้องการแปรรูปโลหะ",
-            "summary": "ตลาดวัสดุขัดทั่วโลกคาดว่าจะขยายตัวอย่างต่อเนื่องจนถึงปี 2035 โดยได้รับแรงหนุนหลักจากภาคการผลิตและการแปรรูปโลหะ",
-            "why": "เป็นเครื่องยืนยันชัดเจนว่าความต้องการในภาคอุตสาหกรรมโลหะระยะยาวยังคงเป็นหัวใจสำคัญของการบริโภควัสดุขัด",
-            "action": "รักษากลุ่มเป้าหมายหลักในภาคอุตสาหกรรมโลหะและติดตามแนวโน้มต้นทุนวัตถุดิบอย่างใกล้ชิด"
+            "title": "ตลาดฟิวส์อะลูมินาเติบโตตามความต้องการด้านอิเล็กทรอนิกส์ คาดการณ์แนวโน้มพุ่งสูงถึงปี 2035",
+            "summary": "ตลาดฟิวส์อะลูมินามีแนวโน้มเติบโตขึ้น โดยได้รับการสนับสนุนอย่างมากจากความต้องการในภาคอิเล็กทรอนิกส์และการใช้งานทางอุตสาหกรรมที่กว้างขึ้นจนถึงปี 2035",
+            "why": "ฟิวส์อะลูมินาเป็นวัตถุดิบสำคัญในการผลิตกระดาษทรายและหินเจียร ความต้องการที่สูงขึ้นอาจส่งผลกระทบต่อต้นทุนและอุปทานของวัตถุดิบในสินค้าของเรา",
+            "action": "ติดตามแนวโน้มราคาวัตถุดิบฟิวส์อะลูมินาและรักษาการสื่อสารที่ใกล้ชิดกับซัพพลายเออร์เม็ดทรายขัด"
           }
         },
         {
           "id": "20261003-w2",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-09-27",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUjROMDdtWnhLRnRQWEZxcmtSUTB0U1pmNTVyYVNpZVE2RERSc1VFSWtITzdDZlpRY0VtZkZmRDZwalRwak1aMGJZLVhJSHpBQ2ZfSFVKc2VEbU1fTVpUVXg3MDhIeEFobGR5ZlN5ZFVZdDNDRkZ5NkpkNGNucHZ0NDR6dUVfdTlQUkJiYkhmcDdJYm9aaGFUOHpZOGFra2N5cUczQmVxY2t5MjdESldpbFlnTnE0ek5Ya0dyVw?oc=5",
-          "title": "World Cutting Discs - Market Analysis, Forecast, Size, Trends and Insights",
-          "summary": "A comprehensive analysis of the global cutting discs market highlights evolving volume demands across fabrication and heavy industry.",
-          "why": "Cutting discs are high-turnover consumable items that directly reflect activity levels in metal cutting and workshops.",
-          "action": "Ensure strong stock availability and competitive pricing on fast-moving cutting and grinding discs.",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "MarketsandMarkets",
+          "date": "2026-08-03",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaGhMbkxadjBkWjAzWldqbUxFUUJ3UU9jV2U2VDRXbE5EVkFqWl9jUjVsYU1nUUFINU1yNkltcEhJb1RrUmJla1d5d1h6YnFZX1pCcEJYdllteVoxdnFyUXNKazJBWmhaeWk3el9fTFB6SGVUdUsxRzVFMTlDa2FLeGw0YXFOZWV4QVprdmNtYw?oc=5",
+          "title": "Mexico Paints & Coatings Market Size, Share, Trends, Growth Analysis Report, 2030",
+          "summary": "A detailed market report analyzes the expansion and growth trends of paints and coatings across Mexico through 2030.",
+          "why": "Coatings and surface finishing industries often move in tandem with abrasive product usage for surface preparation and post-coating smoothing.",
+          "action": "Keep an eye on regional manufacturing shifts in the global coatings sector to anticipate where surface prep tools will be in demand.",
           "th": {
-            "title": "ภาพรวมตลาดแผ่นตัดทั่วโลก: การวิเคราะห์ แนวโน้ม และขนาดตลาด",
-            "summary": "การวิเคราะห์เชิงลึกของตลาดแผ่นตัดทั่วโลกชี้ให้เห็นถึงความต้องการใช้งานที่เติบโตในงานอุตสาหกรรมหนักและงานขึ้นรูปโลหะ",
-            "why": "แผ่นตัดเป็นสินค้าสิ้นเปลืองที่มีอัตราการหมุนเวียนสูง ซึ่งสะท้อนระดับกิจกรรมในงานตัดโลหะและโรงงานได้โดยตรง",
-            "action": "ตรวจสอบสต็อกสินค้าแผ่นตัดและแผ่นเจียรให้พร้อมจำหน่าย พร้อมแข่งขันด้านราคาในกลุ่มสินค้าหมุนเวียนเร็ว"
+            "title": "รายงานขนาด ส่วนแบ่ง แนวโน้ม และการวิเคราะห์การเติบโตของตลาดสีและสารเคลือบในเม็กซิโก ปี 2030",
+            "summary": "รายงานตลาดฉบับเจาะลึกวิเคราะห์การขยายตัวและแนวโน้มการเติบโตของอุตสาหกรรมสีและสารเคลือบในเม็กซิโกจนถึงปี 2030",
+            "why": "อุตสาหกรรมการเคลือบผิวและตกแต่งพื้นผิว มักเติบโตควบคู่ไปกับการใช้ผลิตภัณฑ์กระดาษทรายสำหรับการเตรียมพื้นผิวและการขัดเรียบหลังเคลือบ",
+            "action": "จับตาดูการเปลี่ยนแปลงการผลิตระดับภูมิภาคในภาคส่วนสารเคลือบ เพื่อคาดการณ์ความต้องการใช้เครื่องมือเตรียมพื้นผิว"
           }
         },
         {
           "id": "20261003-w3",
           "tag": "steel",
           "rating": "amber",
-          "source": "S&P Global",
-          "date": "2026-01-12",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
-          "title": "Global steel industry battles surplus supply, protectionism",
-          "summary": "The global steel sector continues to face oversupply issues combined with rising international trade protectionism and tariffs.",
-          "why": "Steel oversupply and trade friction directly impact local steel mill operations, raw material costs, and downstream metal fabrication output.",
-          "action": "Monitor how steel import pricing affects local Thai metal fabricators and their willingness to spend on abrasives.",
+          "source": "economy.ac",
+          "date": "2026-08-07",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YQWhOYlJ3eW9jTUhwa25XdE55eHh3a2JoODhWdDAtOW00UzhXcWwtNnJJXzZGMjMtNXN6MTYwTUhib3ZHUDNXaTdIbWY2N092QXNsOXFfdw?oc=5",
+          "title": "'Trump Tariffs and AI Boom' Propel U.S. Steel Past Japan to World No. 3 for First Time in 26 Years",
+          "summary": "Driven by recent tariffs and industrial tech booms, U.S. steel production has overtaken Japan's for the first time in over two decades.",
+          "why": "Shifts in global steel production rankings indicate changing geographical hotspots for metal fabrication, which directly dictates regional demand for grinding and deburring products.",
+          "action": "Note shifts in major steel-producing nations to understand changing global export destinations for heavy metalworking abrasives.",
           "th": {
-            "title": "อุตสาหกรรมเหล็กโลกเผชิญปัญหาสลักล้นตลาดและมาตรการกีดกันทางการค้า",
-            "summary": "ภาคอุตสาหกรรมเหล็กทั่วโลกยังคงเผชิญกับภาวะอุปทานล้นตลาด ควบคู่ไปกับมาตรการกีดกันทางการค้าและกำแพงภาษีที่เพิ่มขึ้น",
-            "why": "ภาวะเหล็กกล้าล้นตลาดและข้อพิพาททางการค้าส่งผลกระทบโดยตรงต่อการดำเนินงานของโรงงานเหล็กในท้องถิ่น ต้นทุนวัตถุดิบ และผลผลิตในอุตสาหกรรมแปรรูปโลหะปลายน้ำ",
-            "action": "ติดตามว่าราคานำเข้าเหล็กส่งผลกระทบต่อผู้แปรรูปโลหะในไทยอย่างไร และส่งผลต่อกำลังซื้อวัสดุขัดมากแค่ไหน"
+            "title": "'ภาษีทรัมป์และบูม AI' ผลักดันเหล็กสหรัฐฯแซงญี่ปุ่นขึ้นสู่อันดับ 3 ของโลกเป็นครั้งแรกในรอบ 26 ปี",
+            "summary": "การผลิตเหล็กของสหรัฐฯ ขยายตัวแซงหน้าญี่ปุ่นเป็นครั้งแรกในรอบกว่าสองทศวรรษ จากอิทธิพลของภาษีการค้าและการเติบโตทางเทคโนโลยี",
+            "why": "การเปลี่ยนแปลงอันดับการผลิตเหล็กโลกบ่งชี้ถึงการย้ายถิ่นฐานของศูนย์กลางการผลิตโลหะ ซึ่งส่งผลโดยตรงต่อความต้องการใช้ผลิตภัณฑ์ขัดและลบคมในภูมิภาคนั้นๆ",
+            "action": "สังเกตการเปลี่ยนแปลงของประเทศผู้ผลิตเหล็กรายใหญ่ เพื่อทำความเข้าใจทิศทางตลาดส่งออกของวัสดุขัดสำหรับงานโลหะหนัก"
           }
         }
       ]
