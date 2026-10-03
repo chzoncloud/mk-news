@@ -2,6 +2,71 @@
 window.NEWS_ARCHIVE = {
   "days": [
     {
+      "date": "2026-10-03",
+      "summary": "News flow is relatively light today with limited new developments. The standout signal is the Finance Ministry's plan to slap a 30% tariff on imported CBU EVs to force localized production, while the FTI cuts total automotive output targets amid export headwinds.",
+      "directCount": 1,
+      "th": {
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยประเด็นเด่นอยู่ที่กระทรวงการคลังเตรียมเก็บภาษีนำเข้ารถ EV ทั้งคัน 30% เพื่อบีบให้เกิดการลงทุนตั้งโรงงานผลิตในไทย ขณะที่ ส.อ.ท. ปรับลดคาดการณ์การผลิตรถยนต์ปี 2569 ลงจากผลกระทบตลาดส่งออก"
+      },
+      "items": [
+        {
+          "id": "20261003-1",
+          "tag": "auto",
+          "rating": "green",
+          "source": "ryt9.com",
+          "date": "2026-09-23",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9Dcm1TZjJlUFRId21uZlRHRWxVSDZxMUhlWVoxZV9PalpGUFZCTGNOU3l1OVlXN2V2YzN6X1dVUUl3X1pxUDFQc1BB?oc=5",
+          "title": "Finance Ministry Eyes 30% Import Tariff on CBU EVs to Compel Local Manufacturing",
+          "summary": "The Ministry of Finance revealed plans to impose an import duty of around 30% on completely built-up (CBU) electric vehicles. The aggressive tariff is aimed at discouraging finished-vehicle imports and forcing automakers to invest in local assembly plants.",
+          "why": "Higher CBU barriers will force Chinese and foreign EV makers to localize body welding, stamping, and painting in Thailand, directly boosting factory demand for our sanding discs and deburring abrasives.",
+          "action": "Map out new EV plant construction projects and pitch body-shop sanding disc packages to newly localized OEM suppliers.",
+          "th": {
+            "title": "รมว.คลังเผยไทยจ่อเก็บภาษี EV นำเข้าทั้งคัน 30% หวังดึงเม็ดเงินตั้งฐานผลิตในประเทศ",
+            "summary": "กระทรวงการคลังเตรียมพิจารณาจัดเก็บภาษีรถยนต์ไฟฟ้าสำเร็จรูปนำเข้า (CBU) ประมาณ 30% เพื่อสกัดการนำเข้าทั้งคันและผลักดันให้ค่ายรถยนต์เร่งลงทุนตั้งไลน์ผลิตในไทย",
+            "why": "มาตรการบีบให้ประกอบในประเทศจะกระตุ้นให้เกิดไลน์ปั๊มขึ้นรูป เชื่อมตัวถัง และขัดเตรียมผิวก่อนพ่นสีในไทยมากขึ้น เพิ่มความต้องการวัสดุขัดและจานทรายโดยตรง",
+            "action": "ติดตามรายชื่อโรงงานประกอบ EV ที่กำลังเร่งสร้างไลน์ผลิต และนำเสนอโซลูชันกระดาษทรายสำหรับงานเตรียมผิวตัวถังไปยังซัพพลายเออร์ OEM"
+          }
+        },
+        {
+          "id": "20261003-2",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "facebook.com",
+          "date": "2026-07-24",
+          "url": "https://news.google.com/rss/articles/CBMivAdBVV95cUxPZTc0NDh5NHJzNmhYMnBOU2tUMkphRVA5MzhWVUxkSmdKeEppTW5fX3h6ZjN3Nm5PdERmUFVRQldvZnA1NHFNQ2lVbEMtU1F5emY1YVlOWGE0RlEteG5sRGF2dFZmeVFVWExGNUFjbXhPcl9QWTUzdVc5S1ZLYmd3MVNScS1CZmxKRlBUNnR0aF95R3dyMEFkVllsNG1LNTVtUzJ5dTA4aXlkZ0YyMHBPY29ZZHAwMTUxd25LMFJ5RFE1YUQ2VjBZYzhwMlFyMXlzTWdTa2VxeGM2Z3MzRktQYm5URzZBamZfQzJiNzlnMzVhSUlnUlEzaERGWXZFQjEyUTROazZPMVVmRHFqZzhZRENqQTZYLTJpNXFUT1pnNnpkRGRRVDljZlVndjh3ckN5NzlKckdFM0xWejhqZnhqQURXb1VqV1hwanFLLTc3TjJaMHNzZ0FxclhfckJnY0ZycHp1OE1rVGdhUjEza3g4THZRUDlVbmFGOTlNQnNlQkVETTNpSzdfZVVDR2lwTk1JVzN3YWVTYnhsS2xNMGZnelpZLUt5NWJWWWR5c05VR2pTZUlicTFzMkw0MFcxQTl2V21OQnhObjdkaURKSVdRNUItM2dwZjQ4REltX3dBYmVuckRnNFA2S3FPNmc0VzlYSjJqYzdYZ3I5TjJHRmdwb3V6NzExR2hmSS1ESWxuWVBtZ1ZVOGdrWW16T0Nsc1psZHNINXV2YWFuYkJLWGxLZ2YySEhaVDhkSU1aU2xjTUgtTXJsTXNnelZ5T1N1Y2c5Rlp0Si16VlYtLWpBLUxuOW4wa3RYbUxRd1J3Z1JSX0tpbjZ4QjRzNXBUWlVCNnAzc3gyaTFzUTB0VEdpbV9vX2NwMmZVSzExTFVrUGdEbktaWmtXbThuNWI1OFV1clh2cHNYa2JSdVA4UUdRRENwbDMtQU84amI0cjdmeW5UbXZXMG5JLUNmellLaEpybFgzNkxTQTltVENzUC1vWWRwX2dZUGhjWWJhaEVKejZJd3ZYUDZFdWZsTXoxX0ZkN3h4aGxWT3I3SU40QjZ1Zk00WWlOOHhRbVNOSkVxMmRLSTF1SjQ5ZGpwODBIeFU2T2s3YjZVN0xoNnVNaXo2MUxkYlVuVlY2ZWpteXk1VHFVRnFFNk1EeW1RWktobTZ0NFNqb3d3MEczdFZuUU9QTU51Yk5Fb2xxd24yeGU3ekw1LWViRUdnaVNHNFdvUkJvMWVaQVV2MzFaWlJUZ3hJRVhFb2RRMURKTng5OWRKaQ?oc=5",
+          "title": "FTI Slashes 2026 Vehicle Production Target to 1.45 Million Units Amid Export Drag",
+          "summary": "The Federation of Thai Industries (FTI) revised down its 2026 automotive production target to 1.45 million units, weighed down by weak exports to the Middle East and sluggish domestic consumption. The downgrade reflects prolonged pressure on local auto assembly lines.",
+          "why": "Lower production volumes across Tier 1 and Tier 2 automotive part suppliers mean reduced monthly turnover and slower re-orders for surface finishing and metal grinding consumables.",
+          "action": "Diversify sales focus toward general metal fabrication, MRO, and aftermarket repair shops to cushion against reduced automotive OEM consumption.",
+          "th": {
+            "title": "พิษตลาดส่งออกฉุด ส.อ.ท. หั่นเป้าผลิตรถยนต์ปี 69 เหลือ 1.45 ล้านคัน",
+            "summary": "สภาอุตสาหกรรมแห่งประเทศไทย (ส.อ.ท.) ปรับลดเป้าการผลิตรถยนต์ปี 2569 ลงสู่ระดับ 1.45 ล้านคัน จากผลกระทบของการส่งออกที่ชะลอตัวในตลาดตะวันออกกลางและกำลังซื้อในประเทศที่ยังเปราะบาง",
+            "why": "ยอดผลิตรถยนต์รวมที่ลดลงกระทบโรงงานชิ้นส่วน Tier 1 และ Tier 2 ทำให้รอบการสั่งซื้อซ้ำของวัสดุขัดแต่งผิวโลหะและจานเจียรชะลอตัวลง",
+            "action": "กระจายความเสี่ยงโดยรุกตลาดโรงงานแปรรูปโลหะทั่วไป งานซ่อมบำรุง และอู่ซ่อมสีทดแทนเพื่อชดเชยยอดขายจากโรงงาน OEM"
+          }
+        },
+        {
+          "id": "20261003-3",
+          "tag": "aero",
+          "rating": "amber",
+          "source": "posttoday",
+          "date": "2026-07-27",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lak5sZXQtNktSd3dqWTVQcmdhN2JJdGVhSEUxUzk5RFI5TUs4T3kzMzBqVDdNUnp4N2k3M2FBalNXd0UwaS1XeUxkczM4Rzg4QnVBQXJR?oc=5",
+          "title": "EECO Mobilizes Capital to Push U-Tapao Aviation MRO Hub",
+          "summary": "The Eastern Economic Corridor Office (EECO) is moving ahead with fundraising and partnership structures to build out U-Tapao as a regional aircraft maintenance, repair, and overhaul (MRO) center. The initiative aims to capture rising regional aircraft fleet servicing demands.",
+          "why": "While hangar construction is still progressing, securing a footprint in the aerospace MRO supply chain will unlock high-margin opportunities for aviation-grade specialty abrasives.",
+          "action": "Research international aviation surface-finishing standards (such as composite prep and turbine blade deburring) to prepare certified product lines for incoming MRO operators.",
+          "th": {
+            "title": "สกพอ. ระดมทุน ดันอุตสาหกรรม MRO ปั้นอู่ตะเภาสู่ศูนย์กลางซ่อมอากาศยานภูมิภาค",
+            "summary": "สำนักงานคณะกรรมการนโยบายเขตพัฒนาพิเศษภาคตะวันออก (สกพอ.) เดินหน้าจัดหาเงินทุนและโครงสร้างพันธมิตร เพื่อผลักดันศูนย์ซ่อมบำรุงอากาศยาน (MRO) สนามบินอู่ตะเภา รองรับฝูงบินในภูมิภาค",
+            "why": "แม้โครงการยังอยู่ในขั้นพัฒนาโครงสร้าง แต่การเติบโตของศูนย์ MRO จะเปิดตลาดวัสดุขัดผิวเกรดการบินที่มีอัตรากำไรสูง เช่น งานขัดปีก ขัดโครงสร้างคอมโพสิต และลบครีบชิ้นส่วนเครื่องยนต์",
+            "action": "ศึกษามาตรฐานและข้อกำหนดของวัสดุขัดสำหรับงานซ่อมบำรุงอากาศยานล่วงหน้า เพื่อเตรียมรับรองสินค้าเกรด MRO สำหรับเสนอผู้ประกอบการศูนย์ซ่อม"
+          }
+        }
+      ],
+      "terms": {}
+    },
+    {
       "date": "2026-10-01",
       "summary": "There is limited fresh news today; developments remain concentrated on the auto sector where the EV Board's 3-tier local content tax restructuring promises to spur domestic metal parts fabrication despite ongoing weakness in pickup truck manufacturing.",
       "directCount": 1,
@@ -455,72 +520,7 @@ window.NEWS_ARCHIVE = {
         }
       ],
       "terms": {}
-    },
-    {
-      "date": "2026-09-19",
-      "summary": "Today has limited fresh news as major EV tax overhauls and MRO projects were covered in recent days. Notable developments center on policies safeguarding 800,000 auto jobs through localized assembly, EECO's fundraising for the U-Tapao MRO hub, and industry calls to eliminate substandard induction furnace steel mills.",
-      "directCount": 1,
-      "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มากนักเนื่องจากประเด็นภาษี EV และโครงการ MRO ได้ถูกรายงานไปแล้วในช่วงก่อนหน้า โดยประเด็นสำคัญที่น่าติดตามคือการปรับภาษียานยนต์เพื่อรักษาการจ้างงาน 8 แสนตำแหน่ง การระดมทุนของ สกพอ. เพื่อพัฒนาศูนย์ซ่อมบำรุงอากาศยานอู่ตะเภา และการผลักดันให้ยกเลิกเตาหลอมเหล็ก IF ที่ไม่ได้มาตรฐาน"
-      },
-      "items": [
-        {
-          "id": "20260919-1",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "TrueID",
-          "date": "2026-09-17",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56ZTlxYUtJUWdtbmptZVZ0U0xNRmFHQUdFbTJXNWFxZ2RBc3Nuemcyd1hpQkpIRkRjVzhlaVIxb2NYemJuSlJERGl0THhFbGNiVW1YUXBR?oc=5",
-          "title": "Thailand Adjusts Auto Taxes as EV Sales Outpace ICE, Aiming to Protect 800,000 Auto Workforce",
-          "summary": "With electric vehicles rapidly gaining ground against internal combustion engines, Thailand is restructuring auto excise taxes to force automakers to localize production and preserve 800,000 domestic auto manufacturing jobs. The framework incentivizes local part sourcing while penalizing pure imports.",
-          "why": "Our Japanese OEM and Tier-1 customers must accelerate localized hybrid/EV component production, sustaining steady demand for stamping, deburring, and surface finishing abrasives.",
-          "action": "Audit our Japanese automotive supply chain clients on their EV transition timelines and introduce specialized abrasive solutions for lightweight alloy finishing.",
-          "th": {
-            "title": "ไทยปรับโครงสร้างภาษีดึงฐานผลิตรถยนต์ ป้องแรงงานยานยนต์ 8 แสนคนรับกระแสอีวี",
-            "summary": "ท่ามกลางยอดขายรถยนต์ไฟฟ้าที่เพิ่มขึ้นอย่างรวดเร็วแทนที่รถยนต์สันดาป รัฐบาลเร่งปรับโครงสร้างภาษีสรรพสามิตเพื่อดึงดูดให้ค่ายรถตั้งฐานการผลิตและใช้ชิ้นส่วนในประเทศ หวังปกป้องการจ้างงานในห่วงโซ่ยานยนต์กว่า 800,000 ตำแหน่ง",
-            "why": "โรงงานลูกค้าค่ายญี่ปุ่นและผู้ผลิตชิ้นส่วน Tier-1 ต้องเร่งปรับสายการผลิตสู่ชิ้นส่วนไฮบริดและ EV ซึ่งยังคงรักษาอุปสงค์ของกระดาษทรายและจานขัดในงานปั๊มโลหะ ลบครีบ และขัดผิวไว้ได้",
-            "action": "เข้าตรวจสอบสถานะของลูกค้ากลุ่มชิ้นส่วนยานยนต์ญี่ปุ่นเพื่อรับทราบแผนการปรับสายการผลิต พร้อมนำเสนอวัสดุขัดเกรดเฉพาะสำหรับชิ้นงานโลหะผสมน้ำหนักเบา"
-          }
-        },
-        {
-          "id": "20260919-2",
-          "tag": "aero",
-          "rating": "green",
-          "source": "posttoday.com",
-          "date": "2026-07-27",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lak5sZXQtNktSd3dqWTVQcmdhN2JJdGVhSEUxUzk5RFI5TUs4T3kzMzBqVDdNUnp4N2k3M2FBalNXd0UwaS1XeUxkczM4Rzg4QnVBQXJR?oc=5",
-          "title": "EECO Mobilizes Investment Funds to Build U-Tapao Regional Aviation MRO Hub",
-          "summary": "The Eastern Economic Corridor Office (EECO) is accelerating capital-raising efforts to construct aviation maintenance, repair, and overhaul (MRO) facilities at U-Tapao. The project aims to establish Thailand as Southeast Asia's core aerospace servicing center.",
-          "why": "Direct commercial opportunity for MK as expanding MRO hangar capacities generates high-margin demand for certified aviation-grade abrasives, surface prep tools, and precision metal finishing belts.",
-          "action": "Compile certified technical data sheets for MK's aerospace-grade abrasive lines and establish direct contact with engineering contractors involved in U-Tapao hangar infrastructure.",
-          "th": {
-            "title": "สกพอ. เร่งระดมทุน ปั้นศูนย์ซ่อมบำรุงอากาศยาน MRO อู่ตะเภา สู่ศูนย์กลางภูมิภาค",
-            "summary": "สำนักงานคณะกรรมการนโยบายเขตพัฒนาพิเศษภาคตะวันออก (สกพอ.) เดินหน้าระดมทุนเพื่อเร่งก่อสร้างโครงสร้างพื้นฐานศูนย์ซ่อมบำรุงอากาศยาน (MRO) ที่อู่ตะเภา มุ่งเป้าผลักดันไทยสู่การเป็นศูนย์กลางการบินของภูมิภาค",
-            "why": "เป็นโอกาสทางธุรกิจโดยตรงของ MK เนื่องจากการขยายโรงซ่อมบำรุงอากาศยานจะสร้างอุปสงค์วัสดุขัดเกรดการบิน จานขัดเตรียมผิว และสายพานเจียรความแม่นยำสูงที่มีมูลค่ากำไรสูง",
-            "action": "จัดทำเอกสารรับรองมาตรฐานสำหรับกลุ่มสินค้าวัสดุขัดเกรดการบินของ MK และเริ่มสร้างเครือข่ายติดต่อกับผู้รับเหมาและวิศวกรที่เกี่ยวข้องกับโครงการ MRO อู่ตะเภา"
-          }
-        },
-        {
-          "id": "20260919-3",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "ข่าวสด",
-          "date": "2026-05-21",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15SXhSTE9NZ09fLVZFdGQ0M0JDVXlYWHM4Y1FzbDcxc0VZcFdrX1laUTRTR3VDZkZYcUNENkVUMTA4MnVOcUpGTi1xZk04NVNoUW14Z29vYXRRakEwOVE?oc=5",
-          "title": "Steel Associations Urge TISI to Phase Out Induction Furnace Mills Within Three Years",
-          "summary": "Ten Thai steel associations have petitioned the Thai Industrial Standards Institute (TISI) to ban substandard induction furnace (IF) steel manufacturing plants within three years. The campaign aims to combat structural market distortion caused by substandard domestic and imported steel.",
-          "why": "Eliminating low-standard IF mills shields certified, standardized domestic steelmakers and foundries, stabilizing regular factory operations and sustained usage of heavy-duty grinding and cutting discs.",
-          "action": "Target marketing and bulk supply agreements toward certified EAF steelmakers and structural metal fabricators who will capture market share as regulators clamp down.",
-          "th": {
-            "title": "10 สมาคมเหล็กยื่น สมอ. ร้องยกเลิกโรงงานเหล็กเตา IF ด้อยมาตรฐานภายใน 3 ปี",
-            "summary": "10 สมาคมผู้ผลิตเหล็กในประเทศร่วมยื่นข้อเสนอต่อ สมอ. ให้มีมาตรการสั่งยกเลิกโรงงานผลิตเหล็กจากเตาหลอม Induction Furnace (IF) ที่ไม่ได้มาตรฐานภายใน 3 ปี เพื่อแก้ปัญหาวิกฤตเหล็กด้อยคุณภาพทุ่มตลาด",
-            "why": "การกำจัดเตาหลอมที่ไร้มาตรฐานจะช่วยปกป้องโรงงานผลิตเหล็กมาตรฐานและโรงหล่อโลหะที่ใช้เตา EAF ให้ดำเนินกิจการต่อได้ ส่งผลให้ความต้องการหินเจียร ใบตัด และจานขัดงานหนักมีเสถียรภาพมากขึ้น",
-            "action": "มุ่งขยายฐานลูกค้าและทำข้อตกลงจำหน่ายวัสดุขัดกับโรงงานหลอมเหล็กและโครงสร้างโลหะที่ผ่านมาตรฐาน สมอ. ซึ่งจะได้ส่วนแบ่งการตลาดเพิ่มขึ้นจากการกวาดล้างนี้"
-          }
-        }
-      ],
-      "terms": {}
     }
   ],
-  "updated": "2026-10-01"
+  "updated": "2026-10-03"
 };
