@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-03",
-      "summary": "Today's briefing focuses on niche supply chain shifts, including fused alumina demand driven by electronics, regional paint and coatings market dynamics, and global steel trade adjustments. We have selected 3 fresh stories that impact our industrial materials sector.",
-      "directCount": 2,
+      "summary": "Today's briefing focuses on global manufacturing dynamics, including U.S. steel sector shifts driven by trade policy and EV supply chain challenges, highlighting continued metalworking demand relevant to industrial abrasives.",
+      "directCount": 3,
       "th": {
-        "summary": "สรุปข่าวประจำวันนี้เน้นการเปลี่ยนแปลงของห่วงโซ่อุปทานเฉพาะกลุ่ม เช่น ความต้องการฟิวส์อะลูมินาจากอุตสาหกรรมอิเล็กทรอนิกส์, พลวัตตลาดสีและสารเคลือบระดับภูมิภาค และการปรับตัวของอุตสาหกรรมเหล็กโลก โดยคัดเลือกข่าวใหม่ที่ส่งผลกระทบต่อภาคธุรกิจวัสดุอุตสาหกรรมจำนวน 3 ข่าว"
+        "summary": "สรุปข่าวประจำวันนี้เน้นพลวัตการผลิตระดับโลก รวมถึงการเปลี่ยนแปลงในอุตสาหกรรมเหล็กของสหรัฐฯ จากนโยบายการค้าและความท้าทายในห่วงโซ่อุปทาน EV ซึ่งสะท้อนถึงความต้องการงานแปรรูปโลหะที่เกี่ยวข้องกับอุตสาหกรรมวัสดุขัดกระดาษทราย"
       },
       "items": [
         {
           "id": "20261003-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-09-22",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa3prOHdTb1BJS0dDaF9fWnpxMnRrUlB2dU9zdjJBRllhY2pBaU13V1Z3MGhRX19xR3RVVVVCbUpkbjRfd0ZMSzc3X2swMmtvSVVHYm5nazA1c3ZSZ2YxOGgxUTRkWVhweV9ULUd4My1MNnNTaWNtdGlaOVMzT2MtNzBqNUpxWHZ3aV9LOFZKeTNNdmZ3R0lFREh0SVB0Ym5sdlZtaHVTOTJOM1VBcjhiUTAxSDVHLXJBQWRBOTB3?oc=5",
-          "title": "Fused Alumina Market to Accelerate on Electronics Demand, Forecast Points Higher Toward 2035",
-          "summary": "The fused alumina market is projected to grow, supported heavily by rising electronics sector requirements and broader industrial applications up to 2035.",
-          "why": "Fused alumina is a critical raw material for manufacturing bonded and coated abrasives. Higher electronic and industrial demand could influence raw material costs and availability for our products.",
-          "action": "Monitor raw material pricing trends for fused alumina and maintain close communication with our abrasive grain suppliers.",
-          "th": {
-            "title": "ตลาดฟิวส์อะลูมินาเติบโตตามความต้องการด้านอิเล็กทรอนิกส์ คาดการณ์แนวโน้มพุ่งสูงถึงปี 2035",
-            "summary": "ตลาดฟิวส์อะลูมินามีแนวโน้มเติบโตขึ้น โดยได้รับการสนับสนุนอย่างมากจากความต้องการในภาคอิเล็กทรอนิกส์และการใช้งานทางอุตสาหกรรมที่กว้างขึ้นจนถึงปี 2035",
-            "why": "ฟิวส์อะลูมินาเป็นวัตถุดิบสำคัญในการผลิตกระดาษทรายและหินเจียร ความต้องการที่สูงขึ้นอาจส่งผลกระทบต่อต้นทุนและอุปทานของวัตถุดิบในสินค้าของเรา",
-            "action": "ติดตามแนวโน้มราคาวัตถุดิบฟิวส์อะลูมินาและรักษาการสื่อสารที่ใกล้ชิดกับซัพพลายเออร์เม็ดทรายขัด"
-          }
-        },
-        {
-          "id": "20261003-w2",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "MarketsandMarkets",
-          "date": "2026-08-03",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaGhMbkxadjBkWjAzWldqbUxFUUJ3UU9jV2U2VDRXbE5EVkFqWl9jUjVsYU1nUUFINU1yNkltcEhJb1RrUmJla1d5d1h6YnFZX1pCcEJYdllteVoxdnFyUXNKazJBWmhaeWk3el9fTFB6SGVUdUsxRzVFMTlDa2FLeGw0YXFOZWV4QVprdmNtYw?oc=5",
-          "title": "Mexico Paints & Coatings Market Size, Share, Trends, Growth Analysis Report, 2030",
-          "summary": "A detailed market report analyzes the expansion and growth trends of paints and coatings across Mexico through 2030.",
-          "why": "Coatings and surface finishing industries often move in tandem with abrasive product usage for surface preparation and post-coating smoothing.",
-          "action": "Keep an eye on regional manufacturing shifts in the global coatings sector to anticipate where surface prep tools will be in demand.",
-          "th": {
-            "title": "รายงานขนาด ส่วนแบ่ง แนวโน้ม และการวิเคราะห์การเติบโตของตลาดสีและสารเคลือบในเม็กซิโก ปี 2030",
-            "summary": "รายงานตลาดฉบับเจาะลึกวิเคราะห์การขยายตัวและแนวโน้มการเติบโตของอุตสาหกรรมสีและสารเคลือบในเม็กซิโกจนถึงปี 2030",
-            "why": "อุตสาหกรรมการเคลือบผิวและตกแต่งพื้นผิว มักเติบโตควบคู่ไปกับการใช้ผลิตภัณฑ์กระดาษทรายสำหรับการเตรียมพื้นผิวและการขัดเรียบหลังเคลือบ",
-            "action": "จับตาดูการเปลี่ยนแปลงการผลิตระดับภูมิภาคในภาคส่วนสารเคลือบ เพื่อคาดการณ์ความต้องการใช้เครื่องมือเตรียมพื้นผิว"
-          }
-        },
-        {
-          "id": "20261003-w3",
           "tag": "steel",
           "rating": "amber",
           "source": "economy.ac",
           "date": "2026-08-07",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YQWhOYlJ3eW9jTUhwa25XdE55eHh3a2JoODhWdDAtOW00UzhXcWwtNnJJXzZGMjMtNXN6MTYwTUhib3ZHUDNXaTdIbWY2N092QXNsOXFfdw?oc=5",
-          "title": "'Trump Tariffs and AI Boom' Propel U.S. Steel Past Japan to World No. 3 for First Time in 26 Years",
-          "summary": "Driven by recent tariffs and industrial tech booms, U.S. steel production has overtaken Japan's for the first time in over two decades.",
-          "why": "Shifts in global steel production rankings indicate changing geographical hotspots for metal fabrication, which directly dictates regional demand for grinding and deburring products.",
-          "action": "Note shifts in major steel-producing nations to understand changing global export destinations for heavy metalworking abrasives.",
+          "title": "‘Trump Tariffs and AI Boom’ Propel U.S. Steel Past Japan to World No. 3 for First Time in 26 Years",
+          "summary": "Trump tariffs and the artificial intelligence boom have propelled the U.S. steel industry past Japan to become the world's third-largest steel producer for the first time in over two decades.",
+          "why": "Shifts in major steel-producing countries impact the global supply of raw metals, directly influencing regional demand for heavy grinding, deburring, and surface finishing abrasives.",
+          "action": "Monitor shifting steel production hubs to identify emerging export opportunities for industrial abrasive products.",
           "th": {
-            "title": "'ภาษีทรัมป์และบูม AI' ผลักดันเหล็กสหรัฐฯแซงญี่ปุ่นขึ้นสู่อันดับ 3 ของโลกเป็นครั้งแรกในรอบ 26 ปี",
-            "summary": "การผลิตเหล็กของสหรัฐฯ ขยายตัวแซงหน้าญี่ปุ่นเป็นครั้งแรกในรอบกว่าสองทศวรรษ จากอิทธิพลของภาษีการค้าและการเติบโตทางเทคโนโลยี",
-            "why": "การเปลี่ยนแปลงอันดับการผลิตเหล็กโลกบ่งชี้ถึงการย้ายถิ่นฐานของศูนย์กลางการผลิตโลหะ ซึ่งส่งผลโดยตรงต่อความต้องการใช้ผลิตภัณฑ์ขัดและลบคมในภูมิภาคนั้นๆ",
-            "action": "สังเกตการเปลี่ยนแปลงของประเทศผู้ผลิตเหล็กรายใหญ่ เพื่อทำความเข้าใจทิศทางตลาดส่งออกของวัสดุขัดสำหรับงานโลหะหนัก"
+            "title": "มาตรการภาษีและบูม AI ดันเหล็กสหรัฐฯแซงญี่ปุ่นขึ้นเบอร์ 3 ของโลกในรอบ 26 ปี",
+            "summary": "มาตรการภาษีและการเติบโตของ AI ส่งให้อุตสาหกรรมเหล็กสหรัฐฯ แซงหน้าญี่ปุ่นขึ้นเป็นผู้ผลิตเหล็กรายใหญ่อันดับ 3 ของโลกเป็นครั้งแรกในรอบกว่าสองทศวรรษ",
+            "why": "การเปลี่ยนแปลงของประเทศผู้ผลิตเหล็กรายใหญ่ส่งผลต่ออุปทานโลหะดิบและกระทบโดยตรงต่อความต้องการใช้กระดาษทรายขัด ลบคม และเตรียมพื้นผิวโลหะในภูมิภาค",
+            "action": "ติดตามการย้ายฐานการผลิตเหล็กเพื่อมองหาโอกาสใหม่ๆ ในการส่งออกสินค้ากลุ่มผลิตภัณฑ์ขัดผิว"
+          }
+        },
+        {
+          "id": "20261003-w2",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-09-10",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVjkzSTlDYzItRzJSVXhQSjc1a0ttQ0dIRVYxRDgxaHFiQ0x3c1ZsLTdZQ0RRSk04bmhjdHQ4ZGJrV0lLVk45XzQ5ZzQwN1VwMDNERWNWVEpJNTRVYzZqTFFmcEIyUUZRNG9LOHp6ODIxYm80eEZrcTBOdENvenJqdktfcm5neXlITEZSRXNQclF2ZUpGUXVLTmY3SmhCRUlHdldDVC11QjRnZ3UtYzRlbzAwYS1yaW5oZV8zWmRMY2k?oc=5",
+          "title": "Smart-factory wiring woes: EVs demand automation now, not later",
+          "summary": "Electric vehicle manufacturers face severe wiring challenges, forcing plants to accelerate automation and smart-factory integrations to handle complex EV assemblies.",
+          "why": "As EV production lines adopt advanced automation for wiring and structural components, surface prep, welding cleanup, and robotic finishing tools must evolve to match automated cells.",
+          "action": "Keep an eye on automated robotic sanding and deburring solutions compatible with smart EV manufacturing lines.",
+          "th": {
+            "title": "ปัญหาการเดินสายไฟในสมาร์ทแฟคตอรี่: รถยนต์ EV เรียกร้องระบบอัตโนมัติเดี๋ยวนี้",
+            "summary": "ผู้ผลิตรถยนต์ไฟฟ้ากำลังเผชิญกับความท้าทายเรื่องระบบสายไฟ บังคับให้โรงงานต้องเร่งนำระบบอัตโนมัติและสมาร์ทแฟคตอรี่มาใช้เพื่อรองรับการประกอบ EV ที่ซับซ้อน",
+            "why": "เมื่อสายการผลิต EV หันมาใช้ระบบอัตโนมัติขั้นสูง เครื่องมือเตรียมพื้นผิว การทำความสะอาดรอยเชื่อม และการขัดด้วยหุ่นยนต์จึงต้องพัฒนาตามไปด้วยเพื่อให้รองรับกระบวนการอัตโนมัติได้",
+            "action": "ติดตามโซลูชันการขัดและลบคมด้วยระบบอัตโนมัติ/หุ่นยนต์ที่ใช้งานร่วมกับสายการผลิตรถยนต์ EV สมาร์ทแฟคตอรี่"
+          }
+        },
+        {
+          "id": "20261003-w3",
+          "tag": "steel",
+          "rating": "green",
+          "source": "news.metal.com",
+          "date": "2026-05-19",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMmw1akRRMFZCQ2I5NGhHdE1NOXhoaE1GY0h5UmxlQVNUVGxHTko2U0NBQ0o0Q19ZYmZ1VnBCTTB6a2JJQTFNOUpDSUtpWXdaR3hkeGhlOXF4dF9yUElCd1ZkWTl4MmZGOWhVeUlXc2VCMXFCOHQzZ0ZGZ1RtZ3p6aUNObEczWFhKMkdKQ3JuRWF5SjVNZmpOQVBaSGs4TWJKS1lVa0VTdmoxdDBQTF8zRDlxME1qeEtOUzJzSTBERURobWltWTlVUlpaZ3d2WlFRNEY1b0UwbVVfLXc0cXBZ?oc=5",
+          "title": "Nucor: 100% EAF, High Profits, and Vertical Integration Mitigating Costs",
+          "summary": "Major steel producer Nucor highlights the efficiency of 100% Electric Arc Furnace (EAF) operations and vertical integration in managing costs and maintaining high profits.",
+          "why": "EAF steel production and scrap metal recycling generate different surface scale and burrs compared to blast furnaces, directly influencing the specific grinding discs and heavy-duty abrasives required by mills and metal fabricators.",
+          "action": "Understand EAF steel finishing requirements to better serve metal fabrication clients upgrading their cutting and grinding tools.",
+          "th": {
+            "title": "Nucor: เตาหลอมไฟฟ้า EAF 100%, กำไรสูง และการบูรณาการแนวตั้งช่วยลดต้นทุน",
+            "summary": "Nucor ผู้ผลิตเหล็กรายใหญ่เน้นย้ำถึงประสิทธิภาพของการดำเนินงานด้วยเตาหลอมไฟฟ้า (EAF) 100% และการบูรณาการแนวตั้งในการบริหารต้นทุนและรักษากำไร",
+            "why": "การผลิตเหล็กด้วยเตา EAF และการรีไซเคิลเศษเหล็กทำให้เกิดสะเก็ดผิวและครีบโลหะที่แตกต่างจากเตาลมเป่า ซึ่งส่งผลโดยตรงต่อชนิดของใบตัด ใบเจียร และวัสดุขัดถูสำหรับงานหนักที่โรงงานและผู้แปรรูปโลหะต้องการ",
+            "action": "ทำความเข้าใจความต้องการในการขัดตกแต่งผิวเหล็กจากเตา EAF เพื่อให้บริการลูกค้ากลุ่มแปรรูปโลหะที่อัปเกรดเครื่องมือตัดและเจียรได้ดียิ่งขึ้น"
           }
         }
       ]
