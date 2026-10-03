@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-10-03",
+  "updated": "2026-10-04",
   "days": [
+    {
+      "date": "2026-10-04",
+      "summary": "Today's briefing focuses on global metalworking and regional manufacturing expansion, highlighting rising demand in abrasive materials and protective coatings.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปข่าวประจำวันนี้เน้นไปที่การเติบโตของอุตสาหกรรมแปรรูปโลหะและการขยายตัวของการผลิตระดับภูมิภาค ซึ่งส่งสัญญาณความต้องการที่เพิ่มขึ้นในกลุ่มวัสดุกัดกร่อนและสารเคลือบผิว"
+      },
+      "items": [
+        {
+          "id": "20261004-w1",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "indexbox.io",
+          "date": "2026-09-27",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeWh0UnJDZ2FJeUdQelItenUwbTFWQy16N1pabE5kU0twSlJiSm9jRjZkb0NGRHdvU2J0SzJRRmhCbDNmMjRCTU1YZzNOVE9OUVZ4eFU0SWNuYzM0bjVjSkVuVEx0RTFxcWw5WE1wZ04xZUhERTVkTF8xNzFiSDlMblQ2cVJPaUtKMWcxWjlzcnVuVDZVYkpFMm5HcHhTbDhDVkhlckQzSjFqV0tCOTB1cU5vMUx0NnlQYlhHeg?oc=5",
+          "title": "Abrasive Materials Market Forecast to 2035: Metalworking Demand Supports Expansion",
+          "summary": "The global abrasive materials market is projected to expand steadily through 2035, heavily driven by ongoing metalworking sector demands.",
+          "why": "Direct confirmation that industrial metalworking demand remains the primary growth engine for sandpaper, grinding, and surface finishing products.",
+          "action": "Maintain strong stock levels and technical support for heavy metal fabrication abrasive lines.",
+          "th": {
+            "title": "ตลาดวัสดุกัดกร่อนคาดเติบโตถึงปี 2035: ความต้องการแปรรูปโลหะหนุนการขยายตัว",
+            "summary": "ตลาดวัสดุกัดกร่อนทั่วโลกคาดว่าจะเติบโตอย่างต่อเนื่องจนถึงปี 2035 โดยได้รับแรงหนุนหลักจากความต้องการในภาคการแปรรูปโลหะ",
+            "why": "เป็นเครื่องยืนยันโดยตรงว่าความต้องการในอุตสาหกรรมแปรรูปโลหะยังคงเป็นหัวใจสำคัญในการขับเคลื่อนยอดขายกระดาษทรายและผลิตภัณฑ์ขัดผิว",
+            "action": "รักษาระดับสต็อกสินค้าและการสนับสนุนด้านเทคนิคสำหรับกลุ่มผลิตภัณฑ์งานโลหะหนักให้มีความพร้อม"
+          }
+        },
+        {
+          "id": "20261004-w2",
+          "tag": "coating",
+          "rating": "green",
+          "source": "MarketsandMarkets",
+          "date": "2026-08-03",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaGhMbkxadjBkWjAzWldqbUxFUUJ3UU9jV2U2VDRXbE5EVkFqWl9jUjVsYU1nUUFINU1yNkltcEhJb1RrUmJla1d5d1h6YnFZX1pCcEJYdllteVoxdnFyUXNKazJBWmhaeWk3el9fTFB6SGVUdUsxRzVFMTlDa2FLeGw0YXFOZWV4QVprdmNtYw?oc=5",
+          "title": "Mexico Paints & Coatings Market Size, Share, Trends, Growth Analysis Report, 2030",
+          "summary": "Mexico's paints and coatings market is showing substantial growth trends up to 2030, reflecting increased regional manufacturing and assembly activity.",
+          "why": "Coating and painting applications require rigorous surface preparation using abrasives before and after application, indicating upstream business opportunities.",
+          "action": "Monitor export and supply chain trends for surface prep materials feeding into expanding manufacturing hubs like Mexico.",
+          "th": {
+            "title": "รายงานตลาดสีและสารเคลือบเม็กซิโก: ขนาด ส่วนแบ่ง และแนวโน้มการเติบโตถึงปี 2030",
+            "summary": "ตลาดสีและสารเคลือบของเม็กซิโกแสดงแนวโน้มการเติบโตอย่างมีนัยสำคัญจนถึงปี 2030 สะท้อนถึงกิจกรรมการผลิตและการประกอบในภูมิภาคที่เพิ่มขึ้น",
+            "why": "กระบวนการพ่นสีและเคลือบผิวจำเป็นต้องมีการเตรียมพื้นผิวด้วยวัสดุกัดกร่อนอย่างเข้มข้นทั้งก่อนและหลังเคลือบ ซึ่งเชื่อมโยงกับโอกาสทางธุรกิจต้นน้ำ",
+            "action": "ติดตามแนวโน้มห่วงโซ่อุปทานสำหรับวัสดุเตรียมพื้นผิวที่ป้อนเข้าสู่ศูนย์กลางการผลิตที่กำลังขยายตัว"
+          }
+        },
+        {
+          "id": "20261004-w3",
+          "tag": "coating",
+          "rating": "green",
+          "source": "MarketsandMarkets",
+          "date": "2026-08-13",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYjdlTDdLRTc1YUthZUx6b19yeVVGcllnck03bHcyQ0tWYmRNa2UzekxZbHBOZ3dESldJLU9kWDk3a0draWVIY1pVLV9RX3I5YW9scEdzQkMyTXF2VUd2cFZBemJXMlh5VGFOTGRsWEREYWpTeERQTGNlXzM3M01FMmh2RTN6dDdxTzZkUC1NbHNXdHdqQkk5Mg?oc=5",
+          "title": "GCC-Countries Paints & Coatings Market Size, Share, Trends, Growth Analysis Report, 2030",
+          "summary": "The GCC region is experiencing robust demand for industrial paints and protective coatings driven by infrastructure and heavy industry projects.",
+          "why": "Heavy infrastructure and industrial projects in the Middle East require extensive surface treatment, deburring, and protective coating preparation.",
+          "action": "Keep an eye on industrial finishing specifications popular in Middle Eastern markets for potential product benchmarking.",
+          "th": {
+            "title": "รายงานตลาดสีและสารเคลือบกลุ่มประเทศ GCC: ขนาด ส่วนแบ่ง และแนวโน้มถึงปี 2030",
+            "summary": "ภูมิภาค GCC กำลังมีความต้องการสีอุตสาหกรรมและสารเคลือบป้องกันเพิ่มขึ้นอย่างแข็งแกร่ง จากโครงการโครงสร้างพื้นฐานและอุตสาหกรรมหนัก",
+            "why": "โครงการโครงสร้างพื้นฐานและอุตสาหกรรมหนักในตะวันออกกลางจำเป็นต้องมีการเตรียมพื้นผิว การลบคม และการเตรียมผิวเคลือบป้องกันขนานใหญ่",
+            "action": "ศึกษาข้อกำหนดการตกแต่งพื้นผิวอุตสาหกรรมที่เป็นที่นิยมในตลาดตะวันออกกลางเพื่อใช้เป็นแนวทางเทียบเคียงผลิตภัณฑ์"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-10-03",
       "summary": "Today's briefing focuses on global manufacturing dynamics, including U.S. steel sector shifts driven by trade policy and EV supply chain challenges, highlighting continued metalworking demand relevant to industrial abrasives.",
@@ -902,88 +966,6 @@ window.WORLD_ARCHIVE = {
             "summary": "ผู้นำอุตสาหกรรมร่วมหารือถึงวิธีที่นวัตกรรม เป้าหมายด้านความยั่งยืน และการบูรณาการดิจิทัลกำลังหลอมรวมอนาคตของภาคอุตสาหกรรมสารเคลือบโลก",
             "why": "ความเข้าใจภาพรวมเกี่ยวกับการพัฒนาของผู้ผลิตสีและสารเคลือบช่วยให้เราปรับโซลูชันการเตรียมพื้นผิวให้สอดคล้องกับสายการผลิตสมัยใหม่ได้ดียิ่งขึ้น",
             "action": "บันทึกแนวโน้มความยั่งยืนและการติดตามด้วยดิจิทัลในอุตสาหกรรมการผลิตเพื่อวางแผนกลยุทธ์ B2B ระยะยาว"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-09-20",
-      "summary": "Today's global briefing highlights the growth in buffing pads and industrial coatings, alongside steel and EV manufacturing shifts that directly impact surface preparation demand.",
-      "directCount": 4,
-      "th": {
-        "summary": "สรุปทิศทางโลกวันนี้เน้นการเติบโตของตลาดแผ่นขัดเงาและสารเคลือบอุตสาหกรรม รวมถึงการเปลี่ยนแปลงในอุตสาหกรรมเหล็กและการผลิตรถยนต์ EV ซึ่งส่งผลโดยตรงต่อความต้องการเตรียมพื้นผิว"
-      },
-      "items": [
-        {
-          "id": "20260920-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-09-18",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONFd0S1M1TXBTcnc1bVNQS19jWVRfRnd1c1ZHYmhxbWs4T3RBcEk3NTVnaFFUNU9LUm9xaTEySl9DZzlSeWU3NUVnbV85N1Jxc0JDOHVlUzNYbGRuU25nYUVjOW9jNjZkN2F2QUUyRUNlSk9hVkZ6TzJmTzhnSnlWNEQzTy1iOXRSbUFLQWNoTlBTX3lZWTdtd2plNXRncHgyR3FYbjk5LWtmUk1SZjJ4SzJfZm5LTU1hRW84N244TjZKTzEwOXgtRw?oc=5",
-          "title": "Buffing Pads Market Forecast to 2035: Electronics and Semiconductor Finishing Demand Drives 4-6% CAGR",
-          "summary": "The global buffing pads market is expanding at a 4-6% CAGR, propelled heavily by finishing requirements in electronics and semiconductor manufacturing.",
-          "why": "Highlights a lucrative, high-precision vertical (electronics/semiconductors) where specialty buffing and polishing products are seeing accelerated demand.",
-          "action": "Monitor high-precision micro-finishing and buffing pad lines suited for electronics supply chains.",
-          "th": {
-            "title": "ตลาดแผ่นขัดเงา (Buffing Pads) คาดการณ์ถึงปี 2035: ความต้องการด้านอิเล็กทรอนิกส์และเซมิคอนดักเตอร์ขับเคลื่อนการเติบโต 4-6%",
-            "summary": "ตลาดแผ่นขัดเงาทั่วโลกกำลังเติบโตอย่างต่อเนื่อง ขับเคลื่อนโดยความต้องการงานขัดแต่งผิวในอุตสาหกรรมอิเล็กทรอนิกส์และเซมิคอนดักเตอร์",
-            "why": "แสดงให้เห็นถึงตลาดกลุ่มไฮเทคที่มีมูลค่าสูง ซึ่งมีความต้องการผลิตภัณฑ์ขัดและตกแต่งผิวที่มีความแม่นยำสูงเพิ่มขึ้น",
-            "action": "ติดตามกลุ่มผลิตภัณฑ์แผ่นขัดเงาความละเอียดสูงที่เหมาะกับห่วงโซ่อุปทานอิเล็กทรอนิกส์"
-          }
-        },
-        {
-          "id": "20260920-w2",
-          "tag": "coating",
-          "rating": "green",
-          "source": "MarketsandMarkets",
-          "date": "2026-09-18",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcXFmaElYaEMzdkRGSGI2N3hRZmNYTjMtQXhybHZUMndkeDF2WHZRN1lHS3B2dVAwYTFQN1NXLXFpNFJCV2ViclRqbTRETDNyLWZlWmNGaVZvR1Q0YjlHb082NF9USVhjbEwtR3JTcmtyX3o3UkFpYlBIN2NGckFsX3lyQ3hXQjF0R0k3NUY2c3RhLVRXMXgzN2dpNGlIT1J4?oc=5",
-          "title": "North-America Industrial Coatings Market Size, Share, Trends, Growth Analysis Report, 2031",
-          "summary": "The industrial coatings market in North America continues to grow through 2031, driven by strict finish quality and protective standards in manufacturing.",
-          "why": "Coating growth directly correlates with upstream surface preparation, sanding, and pre-treatment requirements.",
-          "action": "Keep an eye on North American coating standards as benchmark references for industrial surface prep.",
-          "th": {
-            "title": "รายงานขนาด ส่วนแบ่ง และแนวโน้มตลาดสารเคลือบอุตสาหกรรมในอเมริกาเหนือ ถึงปี 2031",
-            "summary": "ตลาดสารเคลือบอุตสาหกรรมในอเมริกาเหนือยังคงเติบโตต่อเนื่องถึงปี 2031 ขับเคลื่อนด้วยมาตรฐานคุณภาพผิวเคลือบและการปกป้องในภาคการผลิตที่เข้มงวด",
-            "why": "การเติบโตของสีและสารเคลือบมีความเชื่อมโยงโดยตรงกับความต้องการเตรียมพื้นผิว การขัดกระดาษทราย และงานปรับสภาพก่อนเคลือบ",
-            "action": "ติดตามมาตรฐานงานเคลือบของอเมริกาเหนือเพื่อใช้เป็นแนวGทางอ้างอิงสำหรับงานเตรียมพื้นผิวอุตสาหกรรม"
-          }
-        },
-        {
-          "id": "20260920-w3",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Fortune Business Insights",
-          "date": "2026-08-31",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbDdPM0VwRXE3dDlfTTJFS3BVX2FmU0ZLWVVDR2JLcWk5UjVnUmJQaDJ2N2E1Z1VkMWdIUzdnWXVrSFc3cHBLWmhSb3dodGpOTlZzejhjaFRBcm5fRi1jMzhzTV9CcFRqVVRVUVdWUWliWkdiMXdzLXpFMWY3M1doOW1hTHBaUnlnYV81YmMyLTU?oc=5",
-          "title": "Electric Vehicle Market Size, Share & Global Analysis, 2034",
-          "summary": "Global EV market projections emphasize ongoing scale-up and structural changes in automotive manufacturing lines through 2034.",
-          "why": "EV production changes body-in-white fabrication, lightweight aluminum/composite welding, and deburring needs.",
-          "action": "Prepare for shifting abrasive profiles tailored to lightweight metals and EV body structures.",
-          "th": {
-            "title": "ขนาด ส่วนแบ่ง และการวิเคราะห์ตลาดรถยนต์ไฟฟ้าระดับโลก ถึงปี 2034",
-            "summary": "การคาดการณ์ตลาด EV ทั่วโลกเน้นย้ำถึงการขยายตัวอย่างต่อเนื่องและการเปลี่ยนแปลงเชิงโครงสร้างในสายการผลิตยานยนต์จนถึงปี 2034",
-            "why": "การผลิตรถยนต์ EV เปลี่ยนแปลงกระบวนการประกอบโครงสร้างตัวถัง การเชื่อมโลหะผสมน้ำหนักเบา/คอมโพสิต และความต้องการงานลบคม",
-            "action": "เตรียมพร้อมสำหรับกลุ่มผลิตภัณฑ์สารขัดที่ปรับแต่งมาสำหรับโลหะน้ำหนักเบาและโครงสร้างตัวถัง EV"
-          }
-        },
-        {
-          "id": "20260920-w4",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "Statista",
-          "date": "2026-08-05",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9DUFd0NVg2RlR5UXpTYkc1V0pKVVVnTVN0ZHFBb0RMQ0JUQnB2Y0QxOUUzY1lzRF9VUjVCY1VZTmp1OE11cllQb2VyOEFmNFczY2s3RS1FQlo5OTJvWW12MU1rWkt6RjVGWUR0aEZ1YTQ5NFBtTkpKc2hHVUxlQQ?oc=5",
-          "title": "Topic: Steel and aluminum trade worldwide",
-          "summary": "Global steel and aluminum trade flows continue to face complex regional supply dynamics and shifting export policies.",
-          "why": "Steel and aluminum volume and pricing dictate local metal fabrication activity, affecting heavy grinding and deburring consumable consumption.",
-          "action": "Monitor raw material price volatility to anticipate local metal workshop purchasing behaviors.",
-          "th": {
-            "title": "หัวข้อ: การค้าเหล็กและอลูมิเนียมทั่วโลก",
-            "summary": "กระแสการค้าเหล็กและอลูมิเนียมทั่วโลกยังคงเผชิญกับพลวัตด้านอุปทานระดับภูมิภาคที่ซับซ้อนและนโยบายการส่งออกที่เปลี่ยนแปลงไป",
-            "why": "ปริมาณและราคาของเหล็กและอลูมิเนียมเป็นตัวกำหนดกิจกรรมการแปรรูปโลหะในท้องถิ่น ซึ่งส่งผลต่อการใช้วัสดุสิ้นเปลืองสำหรับงานขัดหยาบและลบคม",
-            "action": "ติดตามความผันผวนของราคาวัตถุดิบเพื่อคาดการณ์พฤติกรรมการจัดซื้อของโรงงานโลหะในท้องถิ่น"
           }
         }
       ]
