@@ -2,6 +2,89 @@
 window.NEWS_ARCHIVE = {
   "days": [
     {
+      "date": "2026-10-05",
+      "summary": "Today offers few completely fresh headlines, with attention centering on regional automotive competition from Indonesia and India alongside cumulative BOI EV investment figures. While foreign competition poses long-term risks to Thailand's traditional Japanese auto base, steady industrial EV investments and local steel quality reforms offer targeted abrasive sales opportunities.",
+      "directCount": 1,
+      "th": {
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยประเด็นสำคัญเน้นไปที่การแข่งขันในอุตสาหกรรมยานยนต์ระดับภูมิภาคจากอินโดนีเซียและอินเดีย รวมถึงตัวเลขยอดส่งเสริมการลงทุน EV จากบีโอไอ แม้การแข่งขันในภูมิภาคจะสร้างแรงกดดันต่อฐานการผลิตรถยนต์ญี่ปุ่นในไทย แต่การลงทุนตั้งโรงงาน EV จริงและการกวาดล้างเตาหลอมเหล็กไม่ได้มาตรฐานยังคงเปิดโอกาสให้สินค้าวัสดุขัดเกรดคุณภาพของ MK"
+      },
+      "items": [
+        {
+          "id": "20261005-1",
+          "tag": "auto",
+          "rating": "green",
+          "source": "เว็บไซต์รัฐบาลไทย",
+          "date": "2026-07-02",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zOHo0X01meExtendzNTNja1RMTUxKa2dWM0hFZ1JrRzJ4dmJPLWhSdHVwb19IU01fVTRVOWtaX2lkMVJUSlRPb3FCNVg5UQ?oc=5",
+          "title": "BOI Reports Cumulative EV Investment Exceeds 130 Billion Baht Across Technologies",
+          "summary": "The Board of Investment (BOI) confirmed that total approved EV investments in Thailand have surpassed 130 billion baht, covering battery EVs, hybrids, and critical components.",
+          "why": "Actual plant construction and component fabrication directly increase manufacturing demand for grinding discs, sanding belts, and weld-seam finishing abrasives.",
+          "action": "Dispatch sales teams to engage newly approved tier-1 EV component factories and battery pack casing fabricators in the EEC.",
+          "th": {
+            "title": "บีโอไอเผยยอดลงทุน EV ทะลุ 1.3 แสนล้าน หนุนเป้าฐานผลิตยานยนต์ไฟฟ้าครบวงจร",
+            "summary": "สำนักงานคณะกรรมการส่งเสริมการลงทุน (BOI) เปิดเผยยอดอนุมัติลงทุนในอุตสาหกรรมยานยนต์ไฟฟ้าทะลุ 1.3 แสนล้านบาท ครอบคลุมทั้ง BEV, ไฮบริด และชิ้นส่วนสำคัญ",
+            "why": "การเร่งตั้งโรงงานผลิตชิ้นส่วนและประกอบตัวถังจริงกระตุ้นความต้องการจานขัด สายพานผ้าทราย และงานลบรอยเชื่อมโลหะโดยตรง",
+            "action": "ส่งทีมขายเชิงรุกเข้าติดต่อโรงงานผลิตชิ้นส่วนโครงสร้างและกล่องบรรจุแบตเตอรี่ในพื้นที่ EEC ที่ได้รับส่งเสริมการลงทุนใหม่"
+          }
+        },
+        {
+          "id": "20261005-2",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "brandinside.asia",
+          "date": "2026-08-14",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNnp5aUZLY2RzNjVBTHl1dVozcFVRLS1hZUtiY1lBOFlOZXJFX3RoMU11dm9ISDBVMG40Y09JOUJ2QmVGV3hHWjNPdFRySDVRYmZWLXd0UjJlUGh1Z0gzaUFPcUpXT0Z1Y0h0TkN3S19wYVp0QVhVdnlrd0NUbjZSUm9qRQ?oc=5",
+          "title": "Indonesia Courts Toyota Amid Concerns Over Thailand's Heavy Pivot to Chinese EVs",
+          "summary": "Indonesia is aggressively offering incentives to persuade Toyota to relocate manufacturing facilities, taking advantage of Japanese automakers' unease with Thailand's intense subsidization of Chinese EV brands.",
+          "why": "Japanese automotive supply chains represent MK's core industrial client base; any long-term production shift to Indonesia threatens abrasive consumable consumption in Thai supplier hubs.",
+          "action": "Strengthen technical support and vendor relationships with Japanese Tier-1 stamping and machining suppliers to defend current supply contracts.",
+          "th": {
+            "title": "อินโดนีเซียรุกดึง Toyota ย้ายฐานผลิต ขณะไทยถูกจับตาเทงบหนุน EV จีน",
+            "summary": "อินโดนีเซียเร่งออกมาตรการจูงใจดึงดูด Toyota ย้ายฐานการผลิต อาศัยจังหวะที่ค่ายรถญี่ปุ่นเริ่มกังวลต่อนโยบายของไทยที่มุ่งอุดหนุนแบรนด์ EV สัญชาติจีนเป็นหลัก",
+            "why": "ซัพพลายเชนยานยนต์ญี่ปุ่นคือกลุ่มลูกค้าหลักของ MK หากมีการย้ายฐานผลิตจริงจะส่งผลกระทบต่อยอดใช้กระดาษทรายและหินเจียรในไทยระยะยาว",
+            "action": "กระชับความสัมพันธ์และเข้าบริการหลังการขายกับโรงงานปั๊มขึ้นรูปโลหะญี่ปุ่นกลุ่ม Tier-1 อย่างใกล้ชิดเพื่อรักษาฐานยอดสั่งซื้อเดิม"
+          }
+        },
+        {
+          "id": "20261005-3",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "ditp.go.th",
+          "date": "2026-09-23",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pWWtMYlMtbEc3eTVkcWVCTTlQQ0Z5UWZUTTFLSmhCcE5XRFVYeGlMQ2JjVVZSOHE2U2RPSlNPUzhpRHduSjExdUFSZXZrVEhFMDgzQ3NuNFdUbEdVVjRnNDh3?oc=5",
+          "title": "Ford Explores Chennai Plant as Dedicated EV Export Hub for Asia-Pacific",
+          "summary": "Ford is considering repurposing its Chennai factory in Tamil Nadu, India, into an EV production base dedicated to serving Asia-Pacific export markets.",
+          "why": "Rising EV assembly capacity in India presents direct export competition to Rayong-based automotive assembly clusters, potentially capping vehicle fabrication growth in Thailand.",
+          "action": "Monitor Ford Thailand's model allocation plans to anticipate production adjustments at their local assembly and supplier plants.",
+          "th": {
+            "title": "Ford เล็งใช้โรงงานเจนไนเป็นฐานส่งออก EV ป้อนตลาดเอเชียแปซิฟิก",
+            "summary": "Ford กำลังพิจารณาใช้โรงงานในเมืองเจนไน ประเทศอินเดีย เป็นฐานผลิตและส่งออกรถยนต์ไฟฟ้าสำหรับภูมิภาคเอเชียแปซิฟิก",
+            "why": "การขยายฐานส่งออก EV ของอินเดียถือเป็นคู่แข่งโดยตรงของฐานผลิตยานยนต์ในไทย อาจจำกัดอัตราการเติบโตของงานโลหะยานยนต์ในประเทศ",
+            "action": "ติดตามแผนการจัดสรรรุ่นผลิตของ Ford ในไทยเพื่อวางแผนสต็อกวัสดุขัดที่ป้อนกลุ่มซัพพลายเออร์ในแถบระยองได้อย่างแม่นยำ"
+          }
+        },
+        {
+          "id": "20261005-4",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "ข่าวสด",
+          "date": "2026-05-21",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15SXhSTE9NZ09fLVZFdGQ0M0JDVXlYWHM4Y1FzbDcxc0VZcFdrX1laUTRTR3VDZkZYcUNENkVUMTA4MnVOcUpGTi1xZk04NVNoUW14Z29vYXRRakEwOVE?oc=5",
+          "title": "Ten Steel Associations Urge TISI to Ban Induction Furnace Mills Within Three Years",
+          "summary": "Ten local steel associations have petitioned the Thai Industrial Standards Institute (TISI) to phase out substandard Induction Furnace (IF) steelmakers within three years to safeguard the domestic supply chain.",
+          "why": "Phasing out substandard IF mills shifts market volume back to compliant, quality-focused EAF steelmakers and certified fabricators that invest in proper surface preparation and abrasive grinding.",
+          "action": "Focus sales efforts of heavy-duty grinding wheels and zirconium flap discs on certified structural steel fabricators and EAF mills.",
+          "th": {
+            "title": "10 สมาคมเหล็กจี้ สมอ. ปลดล็อกสั่งเลิกโรงงานเตาหลอม IF ภายใน 3 ปี",
+            "summary": "กลุ่ม 10 สมาคมเหล็กไทยยื่นหนังสือต่อ สมอ. ให้เร่งยกเลิกใบอนุญาตโรงงานหลอมเหล็กด้วยเตา Induction Furnace (IF) ด้อยมาตรฐานภายใน 3 ปี",
+            "why": "การกำจัดโรงงานหลอมเหล็กที่ไม่ได้มาตรฐานจะช่วยหนุนผู้ผลิตเหล็กเตา EAF และโรงงานแปรรูปโครงสร้างเหล็กคุณภาพสูง ซึ่งเป็นผู้ซื้อวัสดุขัดและใบเจียรเกรดมาตรฐาน",
+            "action": "มุ่งทำการตลาดใบเจียรหนาและจานทรายซ้อนสำหรับงานเหล็กหนักกับกลุ่มโรงงานโครงสร้างเหล็กมาตรฐาน มอก."
+          }
+        }
+      ],
+      "terms": {}
+    },
+    {
       "date": "2026-10-03",
       "summary": "News flow is relatively light today with limited new developments. The standout signal is the Finance Ministry's plan to slap a 30% tariff on imported CBU EVs to force localized production, while the FTI cuts total automotive output targets amid export headwinds.",
       "directCount": 1,
@@ -522,5 +605,5 @@ window.NEWS_ARCHIVE = {
       "terms": {}
     }
   ],
-  "updated": "2026-10-03"
+  "updated": "2026-10-05"
 };
