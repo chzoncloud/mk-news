@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-05",
-      "summary": "Today's global trend briefing focuses on cutting tools, metal casting forecasts, and regional automotive coatings growth. These indicators show steady underlying demand for surface preparation in metalworking and EV manufacturing.",
+      "summary": "Today's briefing focuses on global manufacturing dynamics, including automotive OEM coating trends and digital transformation in industrial coatings, offering strategic insights for surface prep and finishing demand.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปแนวโน้มโลกประจำวันนี้เน้นไปที่ตลาดแผ่นตัด (Cutting Discs) การคาดการณ์อุตสาหกรรมหล่อโลหะ และการเติบโตของสีเคลือบยานยนต์ในภูมิภาค ซึ่งสะท้อนถึงความต้องการใช้งานเตรียมพื้นผิวในงานโลหะและการผลิต EV ที่ยังคงมีอย่างต่อเนื่อง"
+        "summary": "สรุปสถานการณ์โลกประจำวันนี้เน้นไปที่การเปลี่ยนแปลงในภาคการผลิตยานยนต์ แนวโน้มการเคลือบผิวระดับ OEM และการเปลี่ยนผ่านสู่ดิจิทัลในอุตสาหกรรมเคลือบผิว ซึ่งให้ข้อมูลเชิงกลยุทธ์สำหรับทิศทางความต้องการสินค้าขัดและเตรียมผิว"
       },
       "items": [
         {
           "id": "20261005-w1",
-          "tag": "abrasive",
+          "tag": "coating",
           "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-09-27",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUjROMDdtWnhLRnRQWEZxcmtSUTB0U1pmNTVyYVNpZVE2RERSc1VFSWtITzdDZlpRY0VtZkZmRDZwalRwak1aMGJZLVhJSHpBQ2ZfSFVKc2VEbU1fTVpUVXg3MDhIeEFobGR5ZlN5ZFVZdDNDRkZ5NkpkNGNucHZ0NDR6dUVfdTlQUkJiYkhmcDdJYm9aaGFUOHpZOGFra2N5cUczQmVxY2t5MjdESldpbFlnTnE0ek5Ya0dyVw?oc=5",
-          "title": "World Cutting Discs - Market Analysis, Forecast, Size, Trends and Insights",
-          "summary": "A comprehensive global market analysis and forecast for cutting discs highlights ongoing industrial demand and technological shifts in abrasive applications.",
-          "why": "Cutting discs are a core consumable product closely linked to our sanding and grinding portfolio; tracking their market direction helps us gauge industrial activity.",
-          "action": "Review our inventory levels and supplier pricing for cutting and grinding discs to stay competitive.",
+          "source": "European Coatings",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
+          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
+          "summary": "The coatings industry is accelerating innovations around sustainability and digital integration to meet future manufacturing demands.",
+          "why": "New coating technologies and sustainable formulas change how metal and wood surfaces are prepped, directly affecting sanding and abrasive requirements.",
+          "action": "Monitor eco-friendly and high-performance coating shifts that require specialized surface preparation and sanding techniques.",
           "th": {
-            "title": "รายงานวิเคราะห์ตลาดแผ่นตัดทั่วโลก: ขนาด แนวโน้ม และการคาดการณ์",
-            "summary": "การวิเคราะห์และคาดการณ์ตลาดแผ่นตัดทั่วโลกแสดงให้เห็นถึงความต้องการทางอุตสาหกรรมและการเปลี่ยนแปลงทางเทคโนโลยีในกลุ่มผลิตภัณฑ์abrasives",
-            "why": "แผ่นตัดเป็นสินค้าสิ้นเปลืองหลักที่เกี่ยวข้องโดยตรงกับกลุ่มผลิตภัณฑ์ขัดและเจียรของเรา การติดตามทิศทางตลาดนี้ช่วยให้เราประเมินกิจกรรมทางอุตสาหกรรมได้",
-            "action": "ทบทวนระดับสินค้าคงคลังและราคาจากซัพพลายเออร์สำหรับแผ่นตัดและแผ่นเจียรเพื่อให้สามารถแข่งขันได้"
+            "title": "กำหนดอนาคตใหม่แห่งการเคลือบผิว: นวัตกรรม ความยั่งยืน และพลังแห่งดิจิทัล",
+            "summary": "อุตสาหกรรมการเคลือบผิวเร่งพัฒนานวัตกรรมด้านความยั่งยืนและการบูรณาการดิจิทัลเพื่อรองรับความต้องการด้านการผลิตในอนาคต",
+            "why": "เทคโนโลยีการเคลือบผิวและสูตรที่เป็นมิตรต่อสิ่งแวดล้อมส่งผลต่อวิธีการเตรียมผิวโลหะและไม้ ซึ่งเกี่ยวข้องโดยตรงกับความต้องการกระบวนการขัด",
+            "action": "ติดตามการเปลี่ยนแปลงของสารเคลือบผิวที่เป็นมิตรต่อสิ่งแวดล้อมและประสิทธิภาพสูง ซึ่งจำเป็นต้องใช้เทคนิคการเตรียมผิวและการขัดเฉพาะทาง"
           }
         },
         {
           "id": "20261005-w2",
-          "tag": "steel",
+          "tag": "auto",
           "rating": "green",
           "source": "Fortune Business Insights",
           "date": "2026-09-14",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kYlp3TXBwdU5JVl9Gc0pFd3lJSFpjSUhLeEFGOVZVS19BbHBoTFNGb1BFOC1UNEN4c1o0c2xjdTFZYXhVdGRVb0dIeXZqakt1bTJkQy10SC0wRlh0RVVBZHZaWDFYbDk3cHdUbXBsYnRyYTlFVEE?oc=5",
-          "title": "Metal Casting Market Growth Analysis & Industry Forecast, 2034",
-          "summary": "The metal casting market report outlines long-term growth driven by automotive and heavy machinery manufacturing sectors up to 2034.",
-          "why": "Metal castings require extensive deburring, surface grinding, and finishing, generating high volume demand for industrial abrasives.",
-          "action": "Target marketing efforts toward metal foundries and casting finishing shops that need high-durability grinding tools.",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
+          "title": "Automotive OEM Coatings Market Size, Share | Growth [2034]",
+          "summary": "The automotive OEM coatings market continues its steady projection, reflecting continuous vehicle manufacturing activity globally.",
+          "why": "OEM automotive production is a primary driver of high-precision metal finishing, deburring, and body sanding applications.",
+          "action": "Keep close ties with automotive tier suppliers who require consistent abrasive supplies for body panels and metal parts.",
           "th": {
-            "title": "วิเคราะห์การเติบโตของตลาดการหล่อโลหะและการคาดการณ์อุตสาหกรรมถึงปี 2034",
-            "summary": "รายงานตลาดการหล่อโลหะระบุถึงการเติบโตในระยะยาวซึ่งขับเคลื่อนโดยภาคการผลิตยานยนต์และเครื่องจักรหนักจนถึงปี 2034",
-            "why": "งานหล่อโลหะจำเป็นต้องผ่านกระบวนการลบครีบ (debuffing) การเจียรผิว และการขัดแต่งอย่างมาก ซึ่งสร้างความต้องการใช้วัสดุขัดในปริมาณสูง",
-            "action": "มุ่งเน้นการตลาดไปที่โรงงานหล่อโลหะและร้านตกแต่งชิ้นงานหล่อที่ต้องการเครื่องมือขัดที่มีความทนทานสูง"
+            "title": "ขนาด ส่วนแบ่ง และการเติบโตของตลาดสารเคลือบผิว OEM ยานยนต์ [2034]",
+            "summary": "ตลาดสารเคลือบผิว OEM สำหรับยานยนต์ยังคงเติบโตอย่างต่อเนื่อง สะท้อนถึงกิจกรรมการผลิตยานยนต์ทั่วโลก",
+            "why": "การผลิตยานยนต์ระดับ OEM เป็นปัจจัยขับเคลื่อนหลักสำหรับงานขัดตกแต่งผิวโลหะ งานลบคม และการขัดเตรียมพื้นผิวตัวถัง",
+            "action": "รักษาความสัมพันธ์ที่ใกล้ชิดกับผู้ผลิตชิ้นส่วนยานยนต์ (Tier suppliers) ที่ต้องการใช้วัสดุขัดคุณภาพสม่ำเสมอสำหรับงานตัวถังและชิ้นส่วนโลหะ"
           }
         },
         {
           "id": "20261005-w3",
-          "tag": "coating",
+          "tag": "steel",
           "rating": "amber",
-          "source": "Precedence Research",
-          "date": "2026-09-08",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84OGJPdlhPN3V5UEwxaGlhNG5ZT21uSmN5bTRCODBPZWtNRVR2WnBrZ2NEMkRndlJQblVJbEhlVUk3NUFDR0dQQUJXT255NmRiQTd1THBndXZZSlRxNEZqeTBVM0ZmTWJ3SjMxOXRmb3RvM2RVODBlZzNMTlI?oc=5",
-          "title": "Automotive Paints and Coatings Market Companies, Size & Trends 2026-2035",
-          "summary": "An in-depth look at automotive paints and coatings companies and trends highlights ongoing developments in surface finishing and protection.",
-          "why": "Surface coating quality depends heavily on prior sanding and surface preparation quality in automotive manufacturing.",
-          "action": "Monitor paint shop prep requirements to align our sandpaper and fine-grit offerings with Tier-1 automotive suppliers.",
+          "source": "The Motley Fool",
+          "date": "2026-09-25",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNTlNa3plT2hhb1ZiZ3hOLWdua21Hcm5UaXlwdEhraXd3bDJReThSLWpkMjdNMDR1OE1EUFRaMjM1bXhtU1REeFBmcjZsajlrNjc3MVJxX3hIUkFzZTNhcVdMS3RvekhWZ0U1Z0xhRXZTdk9tV1A2WjBEQzQ0ZHlnT2V3cEZkcEU0cHc?oc=5",
+          "title": "5 Best Steel Stocks for 2026 and How to Invest",
+          "summary": "An analysis of top-performing steel stocks highlights current market conditions and investment strategies within the metal sector.",
+          "why": "Steel sector health dictates metal fabrication output, directly scaling up or down the industrial demand for heavy grinding discs and belts.",
+          "action": "Use steel stock trends as a proxy to forecast heavy industrial metalworking demand for our grinding products over the coming quarters.",
           "th": {
-            "title": "บริษัท ขนาด และแนวโน้มตลาดสีและสารเคลือบยานยนต์ ปี 2026-2035",
-            "summary": "การเจาะลึกบริษัทและแนวโน้มตลาดสีและสารเคลือบยานยนต์เน้นย้ำถึงการพัฒนาอย่างต่อเนื่องในด้านการตกแต่งและปกป้องพื้นผิว",
-            "why": "คุณภาพของสารเคลือบพื้นผิวขึ้นอยู่กับคุณภาพการขัดกระดาษทรายและการเตรียมพื้นผิวในกระบวนการผลิตยานยนต์เป็นอย่างมาก",
-            "action": "ติดตามความต้องการในการเตรียมผิวของห้องพ่นสี เพื่อให้ผลิตภัณฑ์กระดาษทรายและกระดาษทรายเบอร์ละเอียดสอดคล้องกับความต้องการของซัพพลายเออร์ยานยนต์ Tier-1"
+            "title": "5 หุ้นกลุ่มเหล็กที่ดีที่สุดสำหรับปี 2026 และวิธีลงทุน",
+            "summary": "การวิเคราะห์หุ้นกลุ่มเหล็กชั้นนำสะท้อนถึงสภาวะตลาดปัจจุบันและกลยุทธ์การลงทุนในภาคอุตสาหกรรมโลหะ",
+            "why": "สุขภาพของอุตสาหกรรมเหล็กเป็นตัวกำหนดปริมาณการผลิตชิ้นส่วนโลหะ ซึ่งส่งผลโดยตรงต่อความต้องการใช้แผ่นตัดและสายพานขัดในภาคอุตสาหกรรม",
+            "action": "ใช้แนวโน้มหุ้นกลุ่มเหล็กเป็นสัญญาณชี้นำเพื่อคาดการณ์ความต้องการใช้งานโลหะหนักในไตรมาสถัดไป"
           }
         }
       ]
