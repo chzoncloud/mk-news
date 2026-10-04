@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-10-04",
+  "updated": "2026-10-05",
   "days": [
+    {
+      "date": "2026-10-05",
+      "summary": "Today's global trend briefing focuses on cutting tools, metal casting forecasts, and regional automotive coatings growth. These indicators show steady underlying demand for surface preparation in metalworking and EV manufacturing.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปแนวโน้มโลกประจำวันนี้เน้นไปที่ตลาดแผ่นตัด (Cutting Discs) การคาดการณ์อุตสาหกรรมหล่อโลหะ และการเติบโตของสีเคลือบยานยนต์ในภูมิภาค ซึ่งสะท้อนถึงความต้องการใช้งานเตรียมพื้นผิวในงานโลหะและการผลิต EV ที่ยังคงมีอย่างต่อเนื่อง"
+      },
+      "items": [
+        {
+          "id": "20261005-w1",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-09-27",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUjROMDdtWnhLRnRQWEZxcmtSUTB0U1pmNTVyYVNpZVE2RERSc1VFSWtITzdDZlpRY0VtZkZmRDZwalRwak1aMGJZLVhJSHpBQ2ZfSFVKc2VEbU1fTVpUVXg3MDhIeEFobGR5ZlN5ZFVZdDNDRkZ5NkpkNGNucHZ0NDR6dUVfdTlQUkJiYkhmcDdJYm9aaGFUOHpZOGFra2N5cUczQmVxY2t5MjdESldpbFlnTnE0ek5Ya0dyVw?oc=5",
+          "title": "World Cutting Discs - Market Analysis, Forecast, Size, Trends and Insights",
+          "summary": "A comprehensive global market analysis and forecast for cutting discs highlights ongoing industrial demand and technological shifts in abrasive applications.",
+          "why": "Cutting discs are a core consumable product closely linked to our sanding and grinding portfolio; tracking their market direction helps us gauge industrial activity.",
+          "action": "Review our inventory levels and supplier pricing for cutting and grinding discs to stay competitive.",
+          "th": {
+            "title": "รายงานวิเคราะห์ตลาดแผ่นตัดทั่วโลก: ขนาด แนวโน้ม และการคาดการณ์",
+            "summary": "การวิเคราะห์และคาดการณ์ตลาดแผ่นตัดทั่วโลกแสดงให้เห็นถึงความต้องการทางอุตสาหกรรมและการเปลี่ยนแปลงทางเทคโนโลยีในกลุ่มผลิตภัณฑ์abrasives",
+            "why": "แผ่นตัดเป็นสินค้าสิ้นเปลืองหลักที่เกี่ยวข้องโดยตรงกับกลุ่มผลิตภัณฑ์ขัดและเจียรของเรา การติดตามทิศทางตลาดนี้ช่วยให้เราประเมินกิจกรรมทางอุตสาหกรรมได้",
+            "action": "ทบทวนระดับสินค้าคงคลังและราคาจากซัพพลายเออร์สำหรับแผ่นตัดและแผ่นเจียรเพื่อให้สามารถแข่งขันได้"
+          }
+        },
+        {
+          "id": "20261005-w2",
+          "tag": "steel",
+          "rating": "green",
+          "source": "Fortune Business Insights",
+          "date": "2026-09-14",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kYlp3TXBwdU5JVl9Gc0pFd3lJSFpjSUhLeEFGOVZVS19BbHBoTFNGb1BFOC1UNEN4c1o0c2xjdTFZYXhVdGRVb0dIeXZqakt1bTJkQy10SC0wRlh0RVVBZHZaWDFYbDk3cHdUbXBsYnRyYTlFVEE?oc=5",
+          "title": "Metal Casting Market Growth Analysis & Industry Forecast, 2034",
+          "summary": "The metal casting market report outlines long-term growth driven by automotive and heavy machinery manufacturing sectors up to 2034.",
+          "why": "Metal castings require extensive deburring, surface grinding, and finishing, generating high volume demand for industrial abrasives.",
+          "action": "Target marketing efforts toward metal foundries and casting finishing shops that need high-durability grinding tools.",
+          "th": {
+            "title": "วิเคราะห์การเติบโตของตลาดการหล่อโลหะและการคาดการณ์อุตสาหกรรมถึงปี 2034",
+            "summary": "รายงานตลาดการหล่อโลหะระบุถึงการเติบโตในระยะยาวซึ่งขับเคลื่อนโดยภาคการผลิตยานยนต์และเครื่องจักรหนักจนถึงปี 2034",
+            "why": "งานหล่อโลหะจำเป็นต้องผ่านกระบวนการลบครีบ (debuffing) การเจียรผิว และการขัดแต่งอย่างมาก ซึ่งสร้างความต้องการใช้วัสดุขัดในปริมาณสูง",
+            "action": "มุ่งเน้นการตลาดไปที่โรงงานหล่อโลหะและร้านตกแต่งชิ้นงานหล่อที่ต้องการเครื่องมือขัดที่มีความทนทานสูง"
+          }
+        },
+        {
+          "id": "20261005-w3",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "Precedence Research",
+          "date": "2026-09-08",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84OGJPdlhPN3V5UEwxaGlhNG5ZT21uSmN5bTRCODBPZWtNRVR2WnBrZ2NEMkRndlJQblVJbEhlVUk3NUFDR0dQQUJXT255NmRiQTd1THBndXZZSlRxNEZqeTBVM0ZmTWJ3SjMxOXRmb3RvM2RVODBlZzNMTlI?oc=5",
+          "title": "Automotive Paints and Coatings Market Companies, Size & Trends 2026-2035",
+          "summary": "An in-depth look at automotive paints and coatings companies and trends highlights ongoing developments in surface finishing and protection.",
+          "why": "Surface coating quality depends heavily on prior sanding and surface preparation quality in automotive manufacturing.",
+          "action": "Monitor paint shop prep requirements to align our sandpaper and fine-grit offerings with Tier-1 automotive suppliers.",
+          "th": {
+            "title": "บริษัท ขนาด และแนวโน้มตลาดสีและสารเคลือบยานยนต์ ปี 2026-2035",
+            "summary": "การเจาะลึกบริษัทและแนวโน้มตลาดสีและสารเคลือบยานยนต์เน้นย้ำถึงการพัฒนาอย่างต่อเนื่องในด้านการตกแต่งและปกป้องพื้นผิว",
+            "why": "คุณภาพของสารเคลือบพื้นผิวขึ้นอยู่กับคุณภาพการขัดกระดาษทรายและการเตรียมพื้นผิวในกระบวนการผลิตยานยนต์เป็นอย่างมาก",
+            "action": "ติดตามความต้องการในการเตรียมผิวของห้องพ่นสี เพื่อให้ผลิตภัณฑ์กระดาษทรายและกระดาษทรายเบอร์ละเอียดสอดคล้องกับความต้องการของซัพพลายเออร์ยานยนต์ Tier-1"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-10-04",
       "summary": "Today's global trend briefing highlights a steady expansion in metalworking-driven abrasive materials and regional shifts in paint, coatings, and steel production, offering clear signals for industrial demand.",
@@ -902,70 +966,6 @@ window.WORLD_ARCHIVE = {
             "summary": "บทวิเคราะห์โมเดลธุรกิจของ Nucor แสดงให้เห็นถึงความสำเร็จของการผลิตเหล็กด้วยเตาหลอมไฟฟ้า (EAF) และการบูรณาการแนวตั้งในการบริหารต้นทุน",
             "why": "การผลิตเหล็กด้วยระบบ EAF และกิจกรรมในโรงงานเหล็กส่งผลต่อปริมาณงานตัด เจียร และเตรียมผิวโลหะในอุตสาหกรรมหนัก",
             "action": "ติดตามกิจกรรมของโรงงานเหล็กในภูมิภาคและการเปลี่ยนแปลงการผลิตเหล็กจากเศษเหล็ก เพื่อประเมินความต้องการในงานแปรรูปโลหะ"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-09-21",
-      "summary": "Today's briefing highlights critical shifts in abrasive grain demand, specifically driven by electronics finishing and semiconductor manufacturing, alongside industrial coatings market movements.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปข่าววันนี้เน้นการเปลี่ยนแปลงที่สำคัญของความต้องการใช้วัสดุขัดถู โดยเฉพาะจากอุตสาหกรรมตกแต่งชิ้นส่วนอิเล็กทรอนิกส์และเซมิคอนดักเตอร์ ควบคู่ไปกับแนวโน้มตลาดสารเคลือบอุตสาหกรรม"
-      },
-      "items": [
-        {
-          "id": "20260921-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "indexbox.io",
-          "date": "2026-09-20",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYlNPVXBmWG5YRTBvcFB1LXlsUlpseU44QUV6UjdCUzZfQVZRTUtscVJUdmxNbThRazVpcjE5cEdta2gxX2N1TENvWE1FeWg1NmxaSGNTMDlrWVZHZVBMOGoxdmZTcVE4VHUzcDdmMjFzVEFNU3JvVTh2WFZUOFY2UHhRQ2lqb0ZYdGRBUXYydGYtMmROckE3ZHVKVWprekFVNndxNWNzSS1scy1XY2FvRHFQLURQcExiU3VLUmZVcDlpbm9IQUZYU0FVRVZiWEZBb2x0OFJSdFU?oc=5",
-          "title": "Zirconia Abrasive Grain Market to Accelerate on Electronics Finishing Demand, Forecast Points Higher Toward 2035",
-          "summary": "The zirconia abrasive grain market is projected for strong growth through 2035, fueled heavily by high-precision finishing demands in the electronics and semiconductor sectors.",
-          "why": "Zirconia grains are premium high-durability abrasives used in demanding metal and heavy-duty grinding applications. Their growth in electronics indicates a shift toward tougher, more precise surface prep requirements.",
-          "action": "Monitor inventory levels and supplier pricing for zirconia-based abrasive belts and discs geared toward high-precision applications.",
-          "th": {
-            "title": "ตลาดเม็ดทรายขัดเซอร์โคเนียเติบโตเร่งตัวจากความต้องการขัดตกแต่งชิ้นส่วนอิเล็กทรอนิกส์ คาดการณ์แนวโน้มพุ่งสูงถึงปี 2035",
-            "summary": "ตลาดเม็ดทรายขัดเซอร์โคเนียคาดว่าจะเติบโตอย่างแข็งแกร่งจนถึงปี 2035 โดยได้รับแรงหนุนหลักจากความต้องการขัดผิวที่มีความแม่นยำสูงในกลุ่มอุตสาหกรรมอิเล็กทรอนิกส์และเซมิคอนดักเตอร์",
-            "why": "ทรายขัดเซอร์โคเนียเป็นวัสดุขัดเกรดพรีเมียมที่มีความทนทานสูง ใช้ในงานเจียรโลหะหนักและการเตรียมพื้นผิวที่ต้องการความทนทาน การเติบโตในกลุ่มอิเล็กทรอนิกส์บ่งชี้ถึงความต้องการงานเตรียมพื้นผิวที่แข็งแกร่งและแม่นยำยิ่งขึ้น",
-            "action": "ติดตามระดับสินค้าคงคลังและราคาจากซัพพลายเออร์สำหรับกระดาษทรายสายพานและแผ่นขัดที่ทำจากเซอร์โคเนียสำหรับงานความแม่นยำสูง"
-          }
-        },
-        {
-          "id": "20260921-w2",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "MarketsandMarkets",
-          "date": "2026-09-18",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaEtDOWNDZy15X3RwNGVyTTBHaUZ3a1FrUU9rMmpMVnBwNGJ3Rk1WUm1vaERWUE10a1A0MVU0NmlWRzd0aUNYd1hYZmY2b0FVVmRXSUNvQ1NabUhTanpUekN5X3daQkNzUFVjUldMa244SDE1dFFtWWZ4MWZpMUJkMWtSQjVDTEVjc1ZVazdzT2M1aGJDTXFB?oc=5",
-          "title": "Europe Industrial Coatings Market Size, Share, Trends, Growth Analysis Report, 2031",
-          "summary": "European industrial coatings market analysis points to steady evolution through 2031, impacting manufacturing finishing standards and environmental regulations.",
-          "why": "Coating standards dictate surface preparation requirements. Changes in European industrial coatings often foreshadow global shifts in pre-treatment and sanding protocols.",
-          "action": "Keep an eye on European coating specification trends to anticipate future surface prep demands from global manufacturers.",
-          "th": {
-            "title": "รายงานขนาด ส่วนแบ่ง แนวโน้ม และการวิเคราะห์การเติบโตของตลาดสารเคลือบอุตสาหกรรมในยุโรปถึงปี 2031",
-            "summary": "การวิเคราะห์ตลาดสารเคลือบอุตสาหกรรมในยุโรปชี้ให้เห็นถึงการพัฒนาที่มั่นคงจนถึงปี 2031 ซึ่งส่งผลต่อมาตรฐานการตกแต่งพื้นผิวการผลิตและกฎระเบียบด้านสิ่งแวดล้อม",
-            "why": "มาตรฐานสารเคลือบเป็นตัวกำหนดข้อกำหนดในการเตรียมพื้นผิว การเปลี่ยนแปลงของสารเคลือบอุตสาหกรรมในยุโรปมักสะท้อนถึงแนวโน้มระดับโลกในด้านการเตรียมผิวและการขัด",
-            "action": "ติดตามแนวโน้มข้อกำหนดสารเคลือบของยุโรปเพื่อคาดการณ์ความต้องการเตรียมพื้นผิวในอนาคตจากผู้ผลิตระดับโลก"
-          }
-        },
-        {
-          "id": "20260921-w3",
-          "tag": "coating",
-          "rating": "white",
-          "source": "European Coatings",
-          "date": "2026-09-09",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
-          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
-          "summary": "Industry leaders discuss how innovation, sustainability goals, and digital integration are reshaping the future of the global coatings sector.",
-          "why": "General awareness of how paint and coating manufacturers are evolving helps us align our surface preparation solutions with modern finishing lines.",
-          "action": "Note sustainability and digital tracking trends in industrial manufacturing for long-term B2B positioning.",
-          "th": {
-            "title": "กำหนดอนาคตยุคใหม่แห่งสารเคลือบ: นวัตกรรม ความยั่งยืน และพลังแห่งดิจิทัล",
-            "summary": "ผู้นำอุตสาหกรรมร่วมหารือถึงวิธีที่นวัตกรรม เป้าหมายด้านความยั่งยืน และการบูรณาการดิจิทัลกำลังหลอมรวมอนาคตของภาคอุตสาหกรรมสารเคลือบโลก",
-            "why": "ความเข้าใจภาพรวมเกี่ยวกับการพัฒนาของผู้ผลิตสีและสารเคลือบช่วยให้เราปรับโซลูชันการเตรียมพื้นผิวให้สอดคล้องกับสายการผลิตสมัยใหม่ได้ดียิ่งขึ้น",
-            "action": "บันทึกแนวโน้มความยั่งยืนและการติดตามด้วยดิจิทัลในอุตสาหกรรมการผลิตเพื่อวางแผนกลยุทธ์ B2B ระยะยาว"
           }
         }
       ]
