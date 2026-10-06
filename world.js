@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-10-05",
+  "updated": "2026-10-06",
   "days": [
+    {
+      "date": "2026-10-06",
+      "summary": "Today's briefing focuses on global coatings innovation, sustainability standards, and steel trade shifts impacting metal fabrication and surface preparation demands.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปประเด็นข่าววันนี้เน้นเรื่องนวัตกรรมสีและสารเคลือบระดับโลก มาตรฐานความยั่งยืน และการเปลี่ยนแปลงทางการค้าเหล็ก ซึ่งส่งผลต่อความต้องการในอุตสาหกรรมแปรรูปโลหะและการเตรียมพื้นผิว"
+      },
+      "items": [
+        {
+          "id": "20261006-w1",
+          "tag": "coating",
+          "rating": "green",
+          "source": "European Coatings",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
+          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
+          "summary": "The European coatings industry highlights sustainability, digital integration, and advanced innovation as key drivers for the next era of surface treatments.",
+          "why": "Changes in surface coatings directly impact how metal parts are prepped, sanded, and finished before and after coating applications.",
+          "action": "Monitor eco-friendly coating trends that may require changes in surface roughness and abrasive finishing specs.",
+          "th": {
+            "title": "กำหนดอนาคตใหม่แห่งวงการเคลือบผิว: นวัตกรรม ความยั่งยืน และพลังแห่งดิจิทัล",
+            "summary": "อุตสาหกรรมสารเคลือบผิวในยุโรปเน้นย้ำเรื่องความยั่งยืน การบูรณาการดิจิทัล และนวัตกรรมขั้นสูงว่าเป็นปัจจัยขับเคลื่อนยุคถัดไปของการบำบัดพื้นผิว",
+            "why": "การเปลี่ยนแปลงของสารเคลือบผิวส่งผลโดยตรงต่อวิธีการเตรียมพื้นผิว ขัดกระดาษทราย และการตกแต่งชิ้นส่วนโลหะทั้งก่อนและหลังการเคลือบ",
+            "action": "ติดตามแนวโน้มสารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อม ซึ่งอาจต้องปรับเปลี่ยนข้อกำหนดด้านความหยาบของพื้นผิวและงานขัด"
+          }
+        },
+        {
+          "id": "20261006-w2",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "economy.ac",
+          "date": "2026-10-01",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YQWhOYlJ3eW9jTUhwa25XdE55eHh3a2JoODhWdDAtOW00UzhXcWwtNnJJXzZGMjMtNXN6MTYwTUhib3ZHUDNXaTdIbWY2N092QXNsOXFfdw?oc=5",
+          "title": "‘Trump Tariffs and AI Boom’ Propel U.S. Steel Past Japan to World No. 3 for First Time in 26 Years",
+          "summary": "U.S. steel production has surged past Japan to become the world's third-largest producer, driven by recent trade tariffs and domestic infrastructure demand.",
+          "why": "Higher steel production volumes in key markets directly translate to increased demand for heavy grinding, deburring, and cutting abrasives.",
+          "action": "Expect steady metalworking activity in North America and prepare supply chains for robust steel fabrication tools.",
+          "th": {
+            "title": "'ภาษีทรัมป์และบูม AI' ดันเหล็กสหรัฐฯแซงญี่ปุ่นขึ้นอันดับ 3 ของโลกเป็นครั้งแรกในรอบ 26 ปี",
+            "summary": "การผลิตเหล็กของสหรัฐฯ พุ่งแซงญี่ปุ่นขึ้นเป็นผู้ผลิตรายใหญ่อันดับ 3 ของโลก ขับเคลื่อนโดยมาตรการภาษีการค้าและความต้องการโครงสร้างพื้นฐานในประเทศ",
+            "why": "ปริมาณการผลิตเหล็กที่สูงขึ้นในตลาดหลักส่งผลโดยตรงต่อความต้องการสินค้าประเภทงานเจียรหนัก ลบครีบ และตัดชิ้นงานที่เพิ่มขึ้น",
+            "action": "คาดการณ์กิจกรรมการแปรรูปโลหะที่เติบโตในอเมริกาเหนือ และเตรียมห่วงโซ่อุปทานสำหรับเครื่องมือเตรียมผิวเหล็กที่แข็งแกร่ง"
+          }
+        },
+        {
+          "id": "20261006-w3",
+          "tag": "coating",
+          "rating": "green",
+          "source": "precedenceresearch.com",
+          "date": "2026-09-08",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84OGJPdlhPN3V5UEwxaGlhNG5ZT21uSmN5bTRCODBPZWtNRVR2WnBrZ2NEMkRndlJQblVJbEhlVUk3NUFDR0dQQUJXT255NmRiQTd1THBndXZZSlRxNEZqeTBVM0ZmTWJ3SjMxOXRmb3RvM2RVODBlZzNMTlI?oc=5",
+          "title": "Automotive Paints and Coatings Market Companies, Size & Trends 2026-2035",
+          "summary": "The automotive paints and coatings market is expanding steadily through 2035, driven by new manufacturing standards and EV finishing requirements.",
+          "why": "Automotive body finishing requires strict surface preparation, sanding, and polishing to ensure paint adhesion and flawless aesthetics.",
+          "action": "Keep an eye on automotive OEM surface prep specifications, especially for EV body panels.",
+          "th": {
+            "title": "บริษัท ขนาด และแนวโน้มตลาดสีและสารเคลือบยานยนต์ ปี 2026-2035",
+            "summary": "ตลาดสีและสารเคลือบยานยนต์เติบโตอย่างต่อเนื่องจนถึงปี 2035 ขับเคลื่อนโดยมาตรฐานการผลิตใหม่และข้อกำหนดการทำสีรถยนต์ไฟฟ้า (EV)",
+            "why": "งานตกแต่งพื้นผิวตัวถังรถยนต์ต้องอาศัยการเตรียมพื้นผิว การขัด และการขัดเงาที่เข้มงวด เพื่อให้สีเกาะติดทนนานและมีความสวยงามไร้ที่ติ",
+            "action": "จับตาดูกฎเกณฑ์การเตรียมพื้นผิวของโรงงานประกอบรถยนต์ (OEM) โดยเฉพาะสำหรับชิ้นส่วนตัวถังรถ EV"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-10-05",
       "summary": "Today's briefing highlights global shifts in cutting tools, EV assembly automation, and metalcasting trends that directly affect industrial surface finishing demand.",
@@ -902,70 +966,6 @@ window.WORLD_ARCHIVE = {
             "summary": "ตลาดรีไซเคิลโลหะทั่วโลกกำลังขยายตัวตามความต้องการเศรษฐกิจหมุนเวียนและการจัดหาโลหะอย่างยั่งยืน",
             "why": "โครงสร้างและชิ้นส่วนโลหะรีไซเคิลต้องผ่านการทำความสะอาดรอยเชื่อม การลบคม และการปรับสภาพพื้นผิวด้วยวัสดุขัดอุตสาหกรรม",
             "action": "เจาะกลุ่มตลาดรีไซเคิลโลหะและโรงงานแปรรูปด้วยโซลูชันงานเจียรและลบคมงานหนัก"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-09-22",
-      "summary": "Today's briefing highlights new market data for industrial and waterborne acrylic coatings, the rise of robotic finishing in the flap wheels market, and strategic adjustments in steel production like Nucor's EAF model.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปข้อมูลแนวโน้มโลกวันนี้เน้นรายงานตลาดสีและสารเคลือบอุตสาหกรรม การเติบโตของงานขัดผิวด้วยระบบหุ่นยนต์ในตลาดล้อทราย (Flap Wheels) และการปรับตัวเชิงกลยุทธ์ในอุตสาหกรรมเหล็ก"
-      },
-      "items": [
-        {
-          "id": "20260922-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-09-15",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd0JtN1luVVV1bGZ1c0JHQlZVSjFvWWhUS080WDVlLUtxSGRYVENBcVFKLWhGQnFEbU9NSURhZTRjV3I0azVLdDhRd3RyYWhFZ0hMV0lLZWRGQkZQTUhFdHdrV1RBVXJSaHkwQUNkc01xWjVpZ1FCODVaLUh1WmFuQUloLTJ5SVFhYVdkVjFfVEpCYTNlM0JQdGh1OFFEQUNCMDhjaFZxc1dwR0pmcEtBUGZMdElucHVYSkNOcG9n?oc=5",
-          "title": "Flap Wheels Market Forecast to 2035: Robotic Finishing and Semiconductor Demand Drive Growth",
-          "summary": "The global flap wheels market is accelerating, driven by increased demand for automated robotic finishing and precision manufacturing.",
-          "why": "Flap wheels are a core product for heavy metal deburring and blending. The shift towards robotic finishing means we must supply consistent, high-durability products suitable for automated systems.",
-          "action": "Evaluate our flap wheel specifications for compatibility with automated robotic grinding setups.",
-          "th": {
-            "title": "ตลาดล้อทราย (Flap Wheels) เติบโตรับความต้องการงานขัดผิวด้วยหุ่นยนต์",
-            "summary": "ตลาดล้อทรายทั่วโลกกำลังขยายตัว ขับเคลื่อนด้วยความต้องการที่เพิ่มขึ้นสำหรับงานขัดผิวอัตโนมัติด้วยหุ่นยนต์และการผลิตที่มีความแม่นยำสูง",
-            "why": "ล้อทรายเป็นสินค้าหลักสำหรับงานลบคมและตกแต่งผิวโลหะ การเปลี่ยนผ่านไปสู่ระบบอัตโนมัติทำให้เราต้องจัดหาสินค้าที่มีความทนทานและได้มาตรฐานสม่ำเสมอเพื่อรองรับหุ่นยนต์",
-            "action": "ประเมินสเปกสินค้าล้อทรายของเราว่ารองรับการใช้งานกับเครื่องขัดระบบอัตโนมัติได้ดีเพียงใด"
-          }
-        },
-        {
-          "id": "20260922-w2",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "marketresearchfuture.com",
-          "date": "2026-09-15",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTUJJU002LVplS1Fad25fNTR6ODZnQXlSeE9KVjRTVWNIM3RiZDZYVktLbWlRX1NKUElqSnZkSEdDeGFLLWRhUVZhV3BMbnNWNjR0WVBuM1NaWW04Q1dTVk5Mb0liWEFJTGw2UnQ3Z2hLUFk2aV9hNlZiRmxrZ3l2M1o3aFZrQzJHRktfeTRLa2RYMXh5?oc=5",
-          "title": "Waterborne Acrylic Coatings Market Size, Share & Growth Report 2035 | MRFR",
-          "summary": "A comprehensive report outlines strong long-term growth for waterborne acrylic coatings driven by environmental regulations and sustainability demands.",
-          "why": "Surface treatment and coating trends dictate how metal and wood parts are prepared, primed, and finished, indirectly influencing the sanding stages required before and after coating.",
-          "action": "Monitor changes in surface finish requirements as industries adopt more waterborne and eco-friendly coatings.",
-          "th": {
-            "title": "รายงานตลาดสีเคลือบอะคริลิกสูตรน้ำถึงปี 2035",
-            "summary": "รายงานระบุถึงการเติบโตระยะยาวของสีเคลือบอะคริลิกสูตรน้ำ ซึ่งขับเคลื่อนโดยกฎระเบียบด้านสิ่งแวดล้อมและความต้องการความยั่งยืน",
-            "why": "แนวโน้มของสารเคลือบและเตรียมพื้นผิวส่งผลโดยตรงต่อวิธีที่ชิ้นงานโลหะและไม้ถูกเตรียมและขัดแต่ง ซึ่งเชื่อมโยงกับขั้นตอนการขัดกระดาษทรายทั้งก่อนและหลังเคลือบสี",
-            "action": "ติดตามการเปลี่ยนแปลงของข้อกำหนดพื้นผิวชิ้นงาน เมื่ออุตสาหกรรมหันมาใช้สีสูตรน้ำและเป็นมิตรต่อสิ่งแวดล้อมมากขึ้น"
-          }
-        },
-        {
-          "id": "20260922-w3",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "Shanghai Metals Market",
-          "date": "2026-05-19",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMmw1akRRMFZCQ2I5NGhHdE1NOXhoaE1GY0h5UmxlQVNUVGxHTko2U0NBQ0o0Q19ZYmZ1VnBCTTB6a2JJQTFNOUpDSUtpWXdaR3hkeGhlOXF4dF9yUElCd1ZkWTl4MmZGOWhVeUlXc2VCMXFCOHQzZ0ZGZ1RtZ3p6aUNObEczWFhKMkdKQ3JuRWF5SjVNZmpOQVBySGs4TWJKS1lVa0VTdmoxdDBQTF8zRDlxME1qeEtOUzJzSTBERURobWltWTlVUlpaZ3d2WlFRNEY1b0UwbVVfLXc0cXBZ?oc=5",
-          "title": "Nucor: 100% EAF, High Profits, and Vertical Integration Mitigating Costs",
-          "summary": "Analysis of Nucor's operational model highlights the success of Electric Arc Furnace (EAF) steelmaking and vertical integration in managing costs.",
-          "why": "EAF steel production and overall steel mill activity dictate the volume of raw metal fabrication, cutting, grinding, and surface conditioning required in heavy industries.",
-          "action": "Keep an eye on regional steel mill activity and scrap-based steel production shifts as indicators of metal fabrication demand.",
-          "th": {
-            "title": "เจาะลึกโมเดล Nucor: โรงงานเตาหลอมไฟฟ้า (EAF) 100% และการควบคุมต้นทุน",
-            "summary": "บทวิเคราะห์โมเดลธุรกิจของ Nucor แสดงให้เห็นถึงความสำเร็จของการผลิตเหล็กด้วยเตาหลอมไฟฟ้า (EAF) และการบูรณาการแนวตั้งในการบริหารต้นทุน",
-            "why": "การผลิตเหล็กด้วยระบบ EAF และกิจกรรมในโรงงานเหล็กส่งผลต่อปริมาณงานตัด เจียร และเตรียมผิวโลหะในอุตสาหกรรมหนัก",
-            "action": "ติดตามกิจกรรมของโรงงานเหล็กในภูมิภาคและการเปลี่ยนแปลงการผลิตเหล็กจากเศษเหล็ก เพื่อประเมินความต้องการในงานแปรรูปโลหะ"
           }
         }
       ]
