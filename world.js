@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-10-06",
+  "updated": "2026-10-07",
   "days": [
+    {
+      "date": "2026-10-07",
+      "summary": "Today's global trend briefing highlights key developments in automotive OEM coatings, evolving manufacturing technologies in India's coated abrasives sector, and structural shifts in U.S. and global steel supply dynamics.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปแนวโน้มโลกประจำวันนี้เน้นย้ำพัฒนาการสำคัญด้านสีเคลือบรถยนต์ OEM เทคโนโลยีการผลิตที่เปลี่ยนไปในอุตสาหกรรมกระดาษทรายเคลือบของอินเดีย และการเปลี่ยนแปลงโครงสร้างอุปทานเหล็กทั่วโลกและสหรัฐอเมริกา"
+      },
+      "items": [
+        {
+          "id": "20261007-w1",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "Fortune Business Insights",
+          "date": "2026-09-14",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXJjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
+          "title": "Automotive OEM Coatings Market Size, Share | Growth [2034]",
+          "summary": "The automotive OEM coatings market is experiencing steady long-term growth through 2034, driven by vehicle customization and strict surface finish standards.",
+          "why": "Higher standards in automotive OEM paint and surface coatings directly correlate with the demand for precision sanding and surface preparation abrasives.",
+          "action": "Monitor OEM coating finishing specifications to align with upcoming auto-maker surface requirements.",
+          "th": {
+            "title": "ตลาดสีเคลือบ OEM ยานยนต์: ขนาด ส่วนแบ่ง และการเติบโตถึงปี 2034",
+            "summary": "ตลาดสีเคลือบ OEM สำหรับยานยนต์กำลังเติบโตอย่างต่อเนื่องจนถึงปี 2034 ขับเคลื่อนโดยความต้องการการตกแต่งรถยนต์และมาตรฐานพื้นผิวที่เข้มงวด",
+            "why": "มาตรฐานที่สูงขึ้นในการพ่นสีและเคลือบพื้นผิวรถยนต์ OEM ส่งผลโดยตรงต่อความต้องการใช้อุปกรณ์ขัดและเตรียมพื้นผิวที่มีความแม่นยำสูง",
+            "action": "ติดตามข้อกำหนดการตกแต่งพื้นผิวสี OEM เพื่อให้สอดคล้องกับความต้องการของค่ายรถยนต์"
+          }
+        },
+        {
+          "id": "20261007-w2",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "Market Research Future",
+          "date": "2026-09-17",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd0FKMXFQcDczZm1uUkMteUtna0ptYU1rVlNuSUgybmpCcmtTU1lnc1hLZGJ5bm9fNnFQX0xRSGhhRGRUQ1Zqd05CZW9vbjlNa0NhTU0tVjJrTUxBOGdWNjFGemJnWGFPZFJ6ZXNTVnVOeG1ONDhUb0hYMVdlZi1tOW9ITU50Ym8?oc=5",
+          "title": "India Coated Abrasives Market Size, Share & Trends 2035",
+          "summary": "The coated abrasives market in India is expanding rapidly, fueled by surging industrialization, metal fabrication, and automotive manufacturing growth.",
+          "why": "India is emerging as a major manufacturing and sourcing hub for abrasives, shifting regional supply chains and competitive landscapes.",
+          "action": "Keep an eye on Indian manufacturing trends and material sourcing costs as potential competitive benchmarks.",
+          "th": {
+            "title": "ตลาดกระดาษทรายและวัสดุขัดเคลือบของอินเดีย: ขนาด ส่วนแบ่ง และแนวโน้มถึงปี 2035",
+            "summary": "ตลาดวัสดุขัดเคลือบในอินเดียกำลังขยายตัวอย่างรวดเร็ว ได้แรงหนุนจากการเติบโตของอุตสาหกรรม การขึ้นรูปโลหะ และการผลิตยานยนต์",
+            "why": "อินเดียกำลังก้าวขึ้นเป็นศูนย์กลางการผลิตและจัดซื้อวัสดุขัดที่สำคัญ ซึ่งจะส่งผลต่อห่วงโซ่อุปทานและสภาพการแข่งขันในภูมิภาค",
+            "action": "จับตาดูแนวโน้มการผลิตของอินเดียและต้นทุนการจัดหาวัตถุดิบเพื่อใช้เป็นเกณฑ์มาตรฐานในการแข่งขัน"
+          }
+        },
+        {
+          "id": "20261007-w3",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "The Motley Fool",
+          "date": "2026-09-25",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNTlNa3plT2hhb1ZiZ3hOLWdua21Hcm5UaXlwdEhraXd3bDJReThSLWpkMjdNMDR1OE1EUFRaMjM1bXhtU1REeFBmcjZsajlrNjc3MVJxX3hIUkFzZTNhcVdMS3RvekhWZ0U1Z0xhRXZTdk9tV1A2WjBEQzQ0ZHlnT2V3cEZkcEU0cHc?oc=5",
+          "title": "5 Best Steel Stocks for 2026 and How to Invest",
+          "summary": "Steel market analysis highlights sector resilience and investment strategies amid shifting global trade policies and industrial demand.",
+          "why": "Steel production output directly dictates the volume of heavy grinding, deburring, and cutting disc usage in metal fabrication.",
+          "action": "Use steel sector outlooks as a leading indicator for local heavy metal fabrication activity and consumable turnover.",
+          "th": {
+            "title": "5 หุ้นเหล็กยอดเยี่ยมสำหรับปี 2026 และวิธีการลงทุน",
+            "summary": "การวิเคราะห์ตลาดเหล็กเน้นย้ำถึงความยืดหยุ่นของภาคอุตสาหกรรมและกลยุทธ์การลงทุนท่ามกลางนโยบายการค้าโลกและความต้องการทางอุตสาหกรรมที่เปลี่ยนไป",
+            "why": "ปริมาณการผลิตเหล็กส่งผลโดยตรงต่อยอดการใช้งานใบเจียร ใบตัด และงานลบคมในอุตสาหกรรมแปรรูปโลหะ",
+            "action": "ใช้แนวโน้มอุตสาหกรรมเหล็กเป็นตัวชี้วัดล่วงหน้าสำหรับกิจกรรมการผลิตโลหะหนักและความต้องการวัสดุสิ้นเปลือง"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-10-06",
       "summary": "Today's briefing highlights shifts in European coatings innovation, global paint and coatings market scale exceeding USD 200B, and US-led metals adjustments impacting manufacturing supply chains.",
@@ -884,88 +948,6 @@ window.WORLD_ARCHIVE = {
             "summary": "ตลาดเหล็กโลกยังคงต้องเผชิญกับความท้าทายเรื่องอุปทานส่วนเกินและมาตรการคุ้มครองทางการค้าที่เพิ่มขึ้น",
             "why": "ปริมาณการผลิตเหล็กและกิจการของโรงงานส่งผลโดยตรงต่อความต้องการล้อเจียร สายพานขัด และผลิตภัณฑ์ลบคมโลหะในตลาด",
             "action": "รักษาความสัมพันธ์ที่ใกล้ชิดกับผู้แปรรูปโลหะในท้องถิ่นที่ต้องปรับเปลี่ยนกำลังการผลิตตามแนวโน้มเหล็กนำเข้า"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-09-23",
-      "summary": "Today's briefing focuses on raw material market shifts in fused alumina and aluminum oxide, alongside automotive OEM trends and metal recycling expansion, signaling steady demand for precision surface finishing.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปข่าววันนี้เน้นการเปลี่ยนแปลงของวัตถุดิบกลุ่มฟิวส์อะลูมิเนียมและอะลูมิเนียมออกไซด์ ควบคู่ไปกับแนวโน้มยานยนต์ OEM และการขยายตัวของการรีไซเคิลโลหะ ซึ่งบ่งชี้ถึงความต้องการงานขัดตกแต่งผิวที่ยังคงมีอย่างต่อเนื่อง"
-      },
-      "items": [
-        {
-          "id": "20260923-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-09-22",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa3prOHdTb1BJS0dDaF9fWnpxMnRrUlB2dU9zdjJBRllhY2pBaU13V1Z3MGhRX19xR3RVVVVCbUpkbjRfd0ZMSzc3X2swMmtvSVVHYm5nazA1c3ZSZ2YxOGgxUTRkWVhweV9ULUd4My1MNnNTaWNtdGlaOVMzT2MtNzBqNUpxWHZ3aV9LOFZKeTNNdmZ3R0lFREh0SVB0Ym5sdlZtaHVTOTJOM1VBcjhiUTAxSDVHLXJBQWRBOTB3?oc=5",
-          "title": "Fused Alumina Market to Accelerate on Electronics Demand, Forecast Points Higher Toward 2035",
-          "summary": "The global fused alumina market is projected to grow toward 2035, heavily propelled by demand for high-precision electronics and semiconductor finishing applications.",
-          "why": "Fused alumina is a primary raw material for making high-quality sandpaper and grinding wheels. Higher demand upstream directly impacts abrasive manufacturing costs and supply.",
-          "action": "Monitor fused alumina raw material pricing and secure reliable supply chains for high-grade grains.",
-          "th": {
-            "title": "ตลาดฟิวส์อะลูมิเนียมเติบโตตามความต้องการในอุตสาหกรรมอิเล็กทรอนิกส์ คาดการณ์พุ่งสูงถึงปี 2035",
-            "summary": "ตลาดฟิวส์อะลูมิเนียมทั่วโลกมีแนวโน้มเติบโตถึงปี 2035 ขับเคลื่อนโดยความต้องการชิ้นส่วนอิเล็กทรอนิกส์ความแม่นยำสูงและการขัดตกแต่งเซมิคอนดักเตอร์",
-            "why": "ฟิวส์อะลูมิเนียมเป็นวัตถุดิบหลักในการผลิตกระดาษทรายและล้อเจียรคุณภาพสูง ความต้องการที่เพิ่มขึ้นต้นน้ำจะส่งผลโดยตรงต่อต้นทุนและอุปทานของสินค้ากลุ่มอัดเม็ดทราย",
-            "action": "ติดตามราคาวัตถุดิบฟิวส์อะลูมิเนียมและรักษาเสถียรภาพห่วงโซ่อุปทานสำหรับเม็ดทรายเกรดสูง"
-          }
-        },
-        {
-          "id": "20260923-w2",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-09-21",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUHU4VlhPWmlncTZzTEcwZGo4SHNBRWVYMTh4X2VtU2R1SHdJbG9pRk5uelVRcUNxLVdsSWt5VS02dDVBZjFJN3ByZlhaNkJnQ2llejN1LTB1MFY0S3NubVJ2RmdJaldDM1k0NEpfZFBadFlHSFlraENPdjVDR1dVVVRncU11Zms?oc=5",
-          "title": "Aluminum Oxide Sanding Disc Market Outlook to 2035",
-          "summary": "A comprehensive market outlook reveals steady long-term growth for aluminum oxide sanding discs across industrial and general fabrication sectors.",
-          "why": "Aluminum oxide discs are a core product line in our B2B catalog for metal and wood surface preparation.",
-          "action": "Ensure stable inventory and promotional focus on core aluminum oxide sanding discs.",
-          "th": {
-            "title": "แนวโน้มตลาดแผ่นขัดอะลูมิเนียมออกไซด์ถึงปี 2035",
-            "summary": "ภาพรวมตลาดเผยให้เห็นการเติบโตในระยะยาวอย่างมั่นคงสำหรับแผ่นขัดอะลูมิเนียมออกไซด์ในภาคอุตสาหกรรมและการผลิตทั่วไป",
-            "why": "แผ่นขัดอะลูมิเนียมออกไซด์คือกลุ่มผลิตภัณฑ์หลักในแคตตาล็อก B2B ของเราสำหรับการเตรียมพื้นผิวโลหะและไม้",
-            "action": "รักษาระดับสินค้าคงคลังให้เสถียรและเน้นทำการตลาดกลุ่มแผ่นขัดอะลูมิเนียมออกไซด์ที่เป็นสินค้าหลัก"
-          }
-        },
-        {
-          "id": "20260923-w3",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Fortune Business Insights",
-          "date": "2026-08-24",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXjjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
-          "title": "Automotive OEM Coatings Market Size, Share | Growth [2034]",
-          "summary": "The automotive OEM coatings sector continues to evolve with a strong emphasis on advanced surface treatments and protective finishes.",
-          "why": "Automotive manufacturing and painting lines require rigorous surface preparation and sanding before coating application.",
-          "action": "Track surface prep standards used by automotive Tier-1 suppliers for new coating applications.",
-          "th": {
-            "title": "ขนาดส่วนแบ่งและอัตราการเติบโตของตลาดเคลือบสีรถยนต์ OEM ถึงปี 2034",
-            "summary": "อุตสาหกรรมเคลือบสีรถยนต์ OEM ยังคงพัฒนาอย่างต่อเนื่องโดยเน้นการเคลือบผิวขั้นสูงและการปกป้องพื้นผิว",
-            "why": "กระบวนการผลิตและพ่นสีรถยนต์ต้องอาศัยการเตรียมพื้นผิวและการขัดที่เข้มงวดก่อนการพ่นเคลือบ",
-            "action": "ติดตามมาตรฐานการเตรียมพื้นผิวที่ใช้โดยผู้ผลิตชิ้นส่วนยานยนต์ Tier-1 สำหรับการเคลือบสีใหม่ๆ"
-          }
-        },
-        {
-          "id": "20260923-w4",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "Fortune Business Insights",
-          "date": "2026-08-24",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92cGoxdE1hdU1yLU5SOWdZVkp2OFp3VVRVY0pTUTdYR1VMRGtTQld5emF1LWxTV1VvZ0NOT0ZBLWJoNkxJVlVVV0hyd0RDdWlXNW13SDAtbjdtMVYzVC0tdURJeWg2SzBTM3BLQmh5aVliYVQ4eWNidg?oc=5",
-          "title": "Metal Recycling Market Size, Share | Growth Forecast [2034]",
-          "summary": "The global metal recycling market is expanding as industries push for circular economies and sustainable metal sourcing.",
-          "why": "Recycled metal structures and components require heavy weld cleaning, deburring, and surface re-conditioning using industrial abrasives.",
-          "action": "Target metal recycling and fabrication workshops with heavy-duty grinding and deburring solutions.",
-          "th": {
-            "title": "การคาดการณ์ขนาดส่วนแบ่งและการเติบโตของตลาดรีไซเคิลโลหะถึงปี 2034",
-            "summary": "ตลาดรีไซเคิลโลหะทั่วโลกกำลังขยายตัวตามความต้องการเศรษฐกิจหมุนเวียนและการจัดหาโลหะอย่างยั่งยืน",
-            "why": "โครงสร้างและชิ้นส่วนโลหะรีไซเคิลต้องผ่านการทำความสะอาดรอยเชื่อม การลบคม และการปรับสภาพพื้นผิวด้วยวัสดุขัดอุตสาหกรรม",
-            "action": "เจาะกลุ่มตลาดรีไซเคิลโลหะและโรงงานแปรรูปด้วยโซลูชันงานเจียรและลบคมงานหนัก"
           }
         }
       ]
