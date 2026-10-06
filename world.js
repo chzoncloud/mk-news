@@ -4,82 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-06",
-      "summary": "Today's briefing focuses on global trends in cutting discs, regional coated abrasives growth in India, and steel market dynamics driven by tariff policies and electric vehicle production shifts.",
+      "summary": "Today's briefing highlights shifts in European coatings innovation, global paint and coatings market scale exceeding USD 200B, and US-led metals adjustments impacting manufacturing supply chains.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปรายงานประจำวันนี้เน้นแนวโน้มระดับโลกเกี่ยวกับแผ่นตัด ตลาดวัสดุขัดถูเคลือบที่เติบโตในอินเดีย และพลวัตของตลาดเหล็กที่ขับเคลื่อนด้วยนโยบายภาษีและการเปลี่ยนแปลงการผลิตยานยนต์ไฟฟ้า"
+        "summary": "สรุปทิศทางโลกวันนี้เน้นย้ำการนวัตกรรมสารเคลือบในยุโรป ตลาดสีและสารเคลือบโลกที่เติบโตเกิน 2.0 หมื่นล้านดอลลาร์ และการปรับเปลี่ยนนโยบายโลหะของสหรัฐฯ ที่ส่งผลต่อห่วงโซ่อุปทานการผลิต"
       },
       "items": [
         {
           "id": "20261006-w1",
-          "tag": "abrasive",
+          "tag": "coating",
           "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-09-27",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUjROMDdtWnhLRnRQWEZxcmtSUTB0U1pmNTVyYVNpZVE2RERSc1VFSWtITzdDZlpRY0VtZkZmRDZwalRwak1aMGJZLVhJSHpBQ2ZfSFVKc2VEbU1fTVpUVXg3MDhIeEFobGR5ZlN5ZFVZdDNDRkZ5NkpkNGNucHZ0NDR6dUVfdTlQUkJiYkhmcDdJYm9aaGFUOHpZOGFra2N5cUczQmVxY2t5MjdESldpbFlnTnE0ek5Ya0dyVw?oc=5",
-          "title": "World Cutting Discs - Market Analysis, Forecast, Size, Trends and Insights",
-          "summary": "IndexBox released a comprehensive analysis on the global cutting discs market, highlighting steady demand and future growth projections for industrial applications.",
-          "why": "Cutting discs are a core product category for MK; tracking market size and forecast trends helps us plan inventory and pricing strategies.",
-          "action": "Review current stock levels and supplier pricing for cutting discs to prepare for sustained demand.",
+          "source": "European Coatings",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
+          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
+          "summary": "European coatings industry leaders discuss integrating digital tech and strict sustainability goals into next-generation surface treatments.",
+          "why": "Advanced surface coatings often require rigorous pre-treatment and sanding using specialized abrasives to ensure adhesion and finish quality.",
+          "action": "Monitor European sustainability standards as they influence global surface preparation and abrasive specs.",
           "th": {
-            "title": "แผ่นตัดทั่วโลก - การวิเคราะห์ตลาด การคาดการณ์ ขนาด แนวโน้ม และข้อมูลเชิงลึก",
-            "summary": "IndexBox เผยแพร่บทวิเคราะห์ตลาดแผ่นตัดทั่วโลก โดยเน้นย้ำถึงอุปสงค์ที่มั่นคงและการคาดการณ์การเติบโตในอนาคตสำหรับการใช้งานในภาคอุตสาหกรรม",
-            "why": "แผ่นตัดเป็นกลุ่มผลิตภัณฑ์หลักของ MK การติดตามขนาดตลาดและแนวโน้มการคาดการณ์ช่วยให้เราวางแผนสินค้าคงคลังและกลยุทธ์ด้านราคาได้ดีขึ้น",
-            "action": "ตรวจสอบระดับสินค้าคงคลังปัจจุบันและราคาจากซัพพลายเออร์สำหรับแผ่นตัดเพื่อเตรียมรับมือกับอุปสงค์ที่ต่อเนื่อง"
+            "title": "กำหนดอนาคตยุคใหม่แห่งสารเคลือบ: นวัตกรรม ความยั่งยืน และพลังแห่งดิจิทัล",
+            "summary": "ผู้นำอุตสาหกรรมสารเคลือบในยุโรปหารือเกี่ยวกับการบูรณาการเทคโนโลยีิดิจิทัลและเป้าหมายความยั่งยืนเข้ากับการเคลือบพื้นผิวรุ่นใหม่",
+            "why": "สารเคลือบพื้นผิวขั้นสูงมักต้องมีการเตรียมผิวและการขัดกระดาษทรายอย่างเข้มงวดด้วยวัสดุขัดพิเศษเพื่อให้การยึดเกาะและคุณภาพผิวงานสมบูรณ์แบบ",
+            "action": "ติดตามมาตรฐานความยั่งยืนของยุโรป เนื่องจากมีอิทธิพลต่อกระบวนการเตรียมพื้นผิวและสเปกของวัสดุขัดทั่วโลก"
           }
         },
         {
           "id": "20261006-w2",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "Market Research Future",
-          "date": "2026-09-17",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd0FKMXFQcDczZm1uUkMteUtna0ptYU1rVlNuSUgybmpCcmtTU1lnc1hLZGJ5bm9fNnFQX0xRSGhhRGRUQ1Zqd05CZW9vbjlNa0NhTU0tVjJrTUxBOGdWNjFGemJnWGFPZFJ6ZXNTVnVOeG1ONDhUb0hYMVdlZi1tOW9ITU50Ym8?oc=5",
-          "title": "India Coated Abrasives Market Size, Share & Trends 2035",
-          "summary": "A recent report details the expansion of the coated abrasives market in India up to 2035, driven by manufacturing and industrial growth.",
-          "why": "India is a major emerging manufacturing hub and competitor/supplier source in the region, affecting global supply chains for coated abrasives.",
-          "action": "Monitor raw material sourcing trends originating from South Asia.",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "StartUs Insights",
+          "date": "2026-02-07",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNWRORUY5MEFQT2VreS11dDNnYmo1R3psOVlxMHNDWFA2NGJ0elhET0dtUDF1Mm00ZlV2YUhUZU1HTUQ1Ukc0NzliVnFUOWlDdEpueGhFZk1uVzB5TVNXd3gxNTM0cEpMcFhaTDBVYk5STGJqbzJaeTI0ckZPWWt1OWt3bzFTb2gyZnROdGdaT3RsckNubXBaS3NyT2NPbDFjWHlrVnRxM1FTNDN6?oc=5",
+          "title": "Global Paint and Coatings Industry Market Analysis Report [2026]: Navigating a USD 200B+ Market",
+          "summary": "An extensive market analysis shows the global paint and coatings industry navigating robust demand past the USD 200 billion mark.",
+          "why": "A thriving coatings market directly correlates with heavy industrial and manufacturing activity that consumes sanding and finishing supplies.",
+          "action": "Expect steady baseline demand for surface preparation tools and abrasives across manufacturing sectors.",
           "th": {
-            "title": "ขนาด ส่วนแบ่ง และแนวโน้มตลาดสารขัดเคลือบของอินเดีย ปี 2035",
-            "summary": "รายงานฉบับใหม่ระบุรายละเอียดการเติบโตของตลาดสารขัดเคลือบในอินเดียจนถึงปี 2035 ซึ่งขับเคลื่อนโดยการเติบโตของภาคการผลิตและอุตสาหกรรม",
-            "why": "อินเดียเป็นศูนย์กลางการผลิตและแหล่งซัพพลายเออร์ที่สำคัญในภูมิภาค ซึ่งส่งผลกระทบต่อห่วงโซ่อุปทานระดับโลกสำหรับกระดาษทรายและวัสดุขัดเคลือบ",
-            "action": "ติดตามแนวโน้มการจัดหาวัตถุดิบที่มาจากภูมิภาคเอเชียใต้"
+            "title": "รายงานวิเคราะห์ตลาดอุตสาหกรรมสีและสารเคลือบโลก [2026]: ท่องตลาดมูลค่ากว่า 2 แสนล้านดอลลาร์",
+            "summary": "การวิเคราะห์ตลาดอย่างครอบคลุมแสดงให้เห็นว่าอุตสาหกรรมสีและสารเคลือบโลกกำลังเผชิญกับอุปสงค์ที่แข็งแกร่งทะลุหลัก 2 แสนล้านดอลลาร์",
+            "why": "ตลาดสารเคลือบที่เติบโตมีความเชื่อมโยงโดยตรงกับกิจกรรมภาคอุตสาหกรรมและการผลิตที่ต้องใช้วัสดุขัดและตกแต่งผิว",
+            "action": "คาดการณ์ความต้องการใช้อุปกรณ์เตรียมพื้นผิวและวัสดุขัดในภาคการผลิตให้อยู่ในระดับที่มั่นคง"
           }
         },
         {
           "id": "20261006-w3",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Fortune Business Insights",
-          "date": "2026-09-14",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
-          "title": "Automotive OEM Coatings Market Size, Share | Growth [2034]",
-          "summary": "The automotive OEM coatings market report outlines long-term growth trends and innovations in vehicle surface treatments through 2034.",
-          "why": "Automotive manufacturing and surface coating processes directly dictate the types of sanding and finishing abrasives required by factories.",
-          "action": "Keep an eye on shifting automotive finishing standards that require finer surface preparation.",
-          "th": {
-            "title": "ขนาด ส่วนแบ่ง และการเติบโตของตลาดสีพ่นรถยนต์ OEM [2034]",
-            "summary": "รายงานตลาดสีพ่นรถยนต์ OEM เผยแนวโน้มการเติบโตในระยะยาวและนวัตกรรมการเตรียมพื้นผิวรถยนต์จนถึงปี 2034",
-            "why": "กระบวนการผลิตยานยนต์และการเคลือบผิวส่งผลโดยตรงต่อประเภทของกระดาษทรายและอุปกรณ์ขัดตกแต่งที่โรงงานอุตสาหกรรมต้องการใช้",
-            "action": "จับตาดูมาตรฐานการทำสีและตกแต่งผิวรถยนต์ที่เปลี่ยนแปลงไป ซึ่งอาจต้องการการเตรียมพื้นผิวที่ละเอียดขึ้น"
-          }
-        },
-        {
-          "id": "20261006-w4",
           "tag": "steel",
-          "rating": "amber",
-          "source": "S&P Global",
-          "date": "2026-01-12",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
-          "title": "Global steel industry battles surplus supply, protectionism",
-          "summary": "The global steel sector faces ongoing challenges with oversupply and rising trade protectionism measures across various regions.",
-          "why": "Steel production volume and metal fabrication activity dictate the heavy industrial demand for grinding wheels and metalworking abrasives.",
-          "action": "Anticipate fluctuating metal fabrication output when planning sales targets for industrial metal sectors.",
+          "rating": "green",
+          "source": "Reuters",
+          "date": "2026-04-02",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWFZKb2ppb3RHdXNXbnBJZzR4WGc5dHJ3ZkVvVlVMYVFwUjN4TkxQR203bEtjTlo3d3NnTDBaSXZSZzMxUkY5QVlWMFF2V3NGM2VOMk0zMk14NkVfWDVyNF96QlVMQ2tHb0oyWm5nRm9pQmpOYTdoWTJQUTdXMHZOR1RLT0RJaldfT3NMRmNJXzhMcHhMM1p2dHVzaEtHaGtBME54MGJUbW5MdDFNX2tkZkktOGNiLTQ3ZjRiTw?oc=5",
+          "title": "A year after 'Liberation Day,' Trump sets new drug tariffs, adjusts metals duties",
+          "summary": "Recent trade policy shifts introduce adjusted metals tariffs, altering international steel and raw material trade flows.",
+          "why": "Changes in metal duties shift global steel sourcing and local fabrication volumes, directly impacting regional metalworking and deburring abrasive consumption.",
+          "action": "Keep an eye on regional metal processing trends as tariff adjustments redirect steel supply chains.",
           "th": {
-            "title": "อุตสาหกรรมเหล็กโลกเผชิญภาวะล้นตลาดและลัทธิคุ้มครองทางการค้า",
-            "summary": "ภาคอุตสาหกรรมเหล็กทั่วโลกกำลังเผชิญกับความท้าทายจากอุปทานส่วนเกินและมาตรการคุ้มครองทางการค้าที่เพิ่มขึ้นในภูมิภาคต่างๆ",
-            "why": "ปริมาณการผลิตเหล็กและกิจกรรมการแปรรูปโลหะเป็นตัวกำหนดอุปสงค์ในภาคอุตสาหกรรมหนักสำหรับล้อเจียรและวัสดุขัดโลหะ",
-            "action": "คาดการณ์ความผันผวนของผลผลิตการแปรรูปโลหะเมื่อวางแผนเป้าหมายยอดขายสำหรับกลุ่มอุตสาหกรรมโลหะ"
+            "title": "หนึ่งปีหลังวันปลดปล่อย สหรัฐฯ ประกาศภาษียาเสพติดใหม่และปรับภาษีโลหะ",
+            "summary": "การปรับเปลี่ยนนโยบายการค้าล่าสุดได้ปรับอัตราภาษีโลหะ ซึ่งส่งผลเปลี่ยนแปลงกระแสการค้าระหว่างประเทศสำหรับเหล็กและวัตถุดิบ",
+            "why": "การเปลี่ยนแปลงภาษีโลหะส่งผลต่อแหล่งจัดหาเหล็กและปริมาณการผลิตในท้องถิ่น ซึ่งกระทบโดยตรงต่อการใช้วัสดุกรัดและขัดลบคมโลหะในภูมิภาค",
+            "action": "จับตาดูแนวโน้มการแปรรูปโลหะในภูมิภาคเนื่องจากการปรับภาษีส่งผลให้ห่วงโซ่อุปทานเหล็กเปลี่ยนทิศทาง"
           }
         }
       ]
