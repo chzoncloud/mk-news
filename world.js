@@ -4,64 +4,46 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-07",
-      "summary": "Today's global trend briefing highlights key developments in automotive OEM coatings, evolving manufacturing technologies in India's coated abrasives sector, and structural shifts in U.S. and global steel supply dynamics.",
-      "directCount": 3,
+      "summary": "Today's global briefing highlights key manufacturing shifts, including U.S. steel rising to world number three due to trade policies, expanding EV assembly automation, and new regional market dynamics in coatings and metal casting that impact industrial supply chains.",
+      "directCount": 5,
       "th": {
-        "summary": "สรุปแนวโน้มโลกประจำวันนี้เน้นย้ำพัฒนาการสำคัญด้านสีเคลือบรถยนต์ OEM เทคโนโลยีการผลิตที่เปลี่ยนไปในอุตสาหกรรมกระดาษทรายเคลือบของอินเดีย และการเปลี่ยนแปลงโครงสร้างอุปทานเหล็กทั่วโลกและสหรัฐอเมริกา"
+        "summary": "สรุปกระแสโลกประจำวันนี้เน้นย้ำการเปลี่ยนแปลงที่สำคัญในภาคการผลิต เช่น เหล็กสหรัฐฯ ขยับขึ้นสู่อันดับ 3 ของโลกจากนโยบายการค้า การเติบโตของระบบอัตโนมัติในการประกอบ EV และทิศทางตลาดสารเคลือบและงานหล่อโลหะที่ส่งผลต่อห่วงโซ่อุปทานอุตสาหกรรม"
       },
       "items": [
         {
           "id": "20261007-w1",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "Fortune Business Insights",
-          "date": "2026-09-14",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXJjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
-          "title": "Automotive OEM Coatings Market Size, Share | Growth [2034]",
-          "summary": "The automotive OEM coatings market is experiencing steady long-term growth through 2034, driven by vehicle customization and strict surface finish standards.",
-          "why": "Higher standards in automotive OEM paint and surface coatings directly correlate with the demand for precision sanding and surface preparation abrasives.",
-          "action": "Monitor OEM coating finishing specifications to align with upcoming auto-maker surface requirements.",
+          "tag": "steel",
+          "rating": "green",
+          "source": "https://economy.ac/",
+          "date": "2026-10-01",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YQWhOYlJ3eW9jTUhwa25XdE55eHh3a2JoODhWdDAtOW00UzhXcWwtNnJJXzZGMjMtNXN6MTYwTUhib3ZHUDNXaTdIbWY2N092QXNsOXFfdw?oc=5",
+          "title": "‘Trump Tariffs and AI Boom’ Propel U.S. Steel Past Japan to World No. 3 for First Time in 26 Years",
+          "summary": "Driven by trade policies and technology demand, U.S. steel production has surpassed Japan for the first time in over two decades, altering global metal supply and demand flows.",
+          "why": "Higher U.S. domestic steel production and trade shifts directly influence the consumption of grinding wheels, cutting discs, and heavy-duty abrasives used in steel mills and fabrication.",
+          "action": "Monitor U.S. steel manufacturing output and export trends to anticipate shifting global demand for heavy industrial abrasives.",
           "th": {
-            "title": "ตลาดสีเคลือบ OEM ยานยนต์: ขนาด ส่วนแบ่ง และการเติบโตถึงปี 2034",
-            "summary": "ตลาดสีเคลือบ OEM สำหรับยานยนต์กำลังเติบโตอย่างต่อเนื่องจนถึงปี 2034 ขับเคลื่อนโดยความต้องการการตกแต่งรถยนต์และมาตรฐานพื้นผิวที่เข้มงวด",
-            "why": "มาตรฐานที่สูงขึ้นในการพ่นสีและเคลือบพื้นผิวรถยนต์ OEM ส่งผลโดยตรงต่อความต้องการใช้อุปกรณ์ขัดและเตรียมพื้นผิวที่มีความแม่นยำสูง",
-            "action": "ติดตามข้อกำหนดการตกแต่งพื้นผิวสี OEM เพื่อให้สอดคล้องกับความต้องการของค่ายรถยนต์"
+            "title": "ภาษีทรัมป์และบูม AI ดันเหล็กสหรัฐฯแซงญี่ปุ่นขึ้นสู่อันดับ 3 ของโลกครั้งแรกในรอบ 26 ปี",
+            "summary": "การผลิตเหล็กของสหรัฐฯ แซงหน้าญี่ปุ่นเป็นครั้งแรกในรอบกว่าสองทศวรรษ ขับเคลื่อนด้วยนโยบายการค้าและความต้องการด้านเทคโนโลยี ซึ่งส่งผลต่อกระแสอุปสงค์และอุปทานโลหะทั่วโลก",
+            "why": "การผลิตเหล็กในสหรัฐฯ ที่เพิ่มขึ้นและการเปลี่ยนแปลงทางการค้า ส่งผลโดยตรงต่อการใช้วัสดุขัด ใบตัด และกระดาษทรายสำหรับงานหนักในโรงงานเหล็กและงานแปรรูป",
+            "action": "ติดตามปริมาณการผลิตเหล็กของสหรัฐฯ และแนวโน้มการส่งออก เพื่อคาดการณ์ความต้องการสารขัดถูในอุตสาหกรรมหนักที่อาจเปลี่ยนแปลงไป"
           }
         },
         {
           "id": "20261007-w2",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "Market Research Future",
-          "date": "2026-09-17",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd0FKMXFQcDczZm1uUkMteUtna0ptYU1rVlNuSUgybmpCcmtTU1lnc1hLZGJ5bm9fNnFQX0xRSGhhRGRUQ1Zqd05CZW9vbjlNa0NhTU0tVjJrTUxBOGdWNjFGemJnWGFPZFJ6ZXNTVnVOeG1ONDhUb0hYMVdlZi1tOW9ITU50Ym8?oc=5",
-          "title": "India Coated Abrasives Market Size, Share & Trends 2035",
-          "summary": "The coated abrasives market in India is expanding rapidly, fueled by surging industrialization, metal fabrication, and automotive manufacturing growth.",
-          "why": "India is emerging as a major manufacturing and sourcing hub for abrasives, shifting regional supply chains and competitive landscapes.",
-          "action": "Keep an eye on Indian manufacturing trends and material sourcing costs as potential competitive benchmarks.",
-          "th": {
-            "title": "ตลาดกระดาษทรายและวัสดุขัดเคลือบของอินเดีย: ขนาด ส่วนแบ่ง และแนวโน้มถึงปี 2035",
-            "summary": "ตลาดวัสดุขัดเคลือบในอินเดียกำลังขยายตัวอย่างรวดเร็ว ได้แรงหนุนจากการเติบโตของอุตสาหกรรม การขึ้นรูปโลหะ และการผลิตยานยนต์",
-            "why": "อินเดียกำลังก้าวขึ้นเป็นศูนย์กลางการผลิตและจัดซื้อวัสดุขัดที่สำคัญ ซึ่งจะส่งผลต่อห่วงโซ่อุปทานและสภาพการแข่งขันในภูมิภาค",
-            "action": "จับตาดูแนวโน้มการผลิตของอินเดียและต้นทุนการจัดหาวัตถุดิบเพื่อใช้เป็นเกณฑ์มาตรฐานในการแข่งขัน"
-          }
-        },
-        {
-          "id": "20261007-w3",
-          "tag": "steel",
+          "tag": "auto",
           "rating": "amber",
-          "source": "The Motley Fool",
-          "date": "2026-09-25",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNTlNa3plT2hhb1ZiZ3hOLWdua21Hcm5UaXlwdEhraXd3bDJReThSLWpkMjdNMDR1OE1EUFRaMjM1bXhtU1REeFBmcjZsajlrNjc3MVJxX3hIUkFzZTNhcVdMS3RvekhWZ0U1Z0xhRXZTdk9tV1A2WjBEQzQ0ZHlnT2V3cEZkcEU0cHc?oc=5",
-          "title": "5 Best Steel Stocks for 2026 and How to Invest",
-          "summary": "Steel market analysis highlights sector resilience and investment strategies amid shifting global trade policies and industrial demand.",
-          "why": "Steel production output directly dictates the volume of heavy grinding, deburring, and cutting disc usage in metal fabrication.",
-          "action": "Use steel sector outlooks as a leading indicator for local heavy metal fabrication activity and consumable turnover.",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-09-10",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVjkzSTlDYzItRzJSVXhQSjc1a0ttQ0dIRVYxRDgxaHFiQ0x3c1ZsLTdZQ0RRSk04bmhjdHQ4ZGJrV0lLVk45XzQ5ZzQwN1VwMDNERWNWVEpJNTRVYzZqTFFmcEIyUUZRNG9LOHp6ODIxYm80eEZrcTBOdENvenJqdktfcm5neXlITEZSRXNQclF2ZUpGUXVLTmY3SmhCRUlHdldDVC11QjRnZ3UtYzRlbzAwYS1yaW5oZV8zWmRMY2k?oc=5",
+          "title": "Smart-factory wiring woes: EVs demand automation now, not later",
+          "summary": "Electric vehicle manufacturers are accelerating factory automation to overcome complex wiring and assembly challenges.",
+          "why": "As EV production lines become more automated, the types of robotic surface finishing, deburring, and precision sanding tools required in automotive manufacturing are also evolving.",
+          "action": "Explore automated robotic abrasive solutions and flexible surface prep tools suited for smart EV manufacturing lines.",
           "th": {
-            "title": "5 หุ้นเหล็กยอดเยี่ยมสำหรับปี 2026 และวิธีการลงทุน",
-            "summary": "การวิเคราะห์ตลาดเหล็กเน้นย้ำถึงความยืดหยุ่นของภาคอุตสาหกรรมและกลยุทธ์การลงทุนท่ามกลางนโยบายการค้าโลกและความต้องการทางอุตสาหกรรมที่เปลี่ยนไป",
-            "why": "ปริมาณการผลิตเหล็กส่งผลโดยตรงต่อยอดการใช้งานใบเจียร ใบตัด และงานลบคมในอุตสาหกรรมแปรรูปโลหะ",
-            "action": "ใช้แนวโน้มอุตสาหกรรมเหล็กเป็นตัวชี้วัดล่วงหน้าสำหรับกิจกรรมการผลิตโลหะหนักและความต้องการวัสดุสิ้นเปลือง"
+            "title": "ปัญหาการเดินสายไฟในโรงงานอัจฉริยะ: รถยนต์ EV เรียกร้องระบบอัตโนมัติทันทีโดยรอไม่ได้",
+            "summary": "ผู้ผลิตรถยนต์ไฟฟ้ากำลังเร่งนำระบบอัตโนมัติมาใช้ในโรงงานเพื่อแก้ปัญหาความซับซ้อนในการเดินสายไฟและการประกอบ",
+            "why": "เมื่อสายการผลิต EV มีความเป็นอัตโนมัติมากขึ้น เครื่องมือขัดแต่งผิว ลบครีบ และขัดความละเอียดแบบหุ่นยนต์ที่ใช้ในอุตสาหกรรมยานยนต์จึงต้องพัฒนาตามไปด้วย",
+            "action": "ศึกษาโซลูชันงานขัดด้วยหุ่นยนต์อัตโนมัติและเครื่องมือเตรียมพื้นผิวที่มีความยืดหยุ่น เพื่อให้สอดคล้องกับสายการผลิต EV อัจฉริยะ"
           }
         }
       ]
