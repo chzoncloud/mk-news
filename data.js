@@ -2,6 +2,71 @@
 window.NEWS_ARCHIVE = {
   "days": [
     {
+      "date": "2026-10-07",
+      "summary": "Today has limited new developments. The standout news is the official contract signing between EEC and Thai Airways for a 10-billion-baht MRO hub at U-Tapao, securing long-term opportunities for aerospace-grade abrasives.",
+      "directCount": 1,
+      "th": {
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก ไฮไลต์สำคัญที่สุดคือการลงนามสัญญาอย่างเป็นทางการระหว่าง EEC และการบินไทย เพื่อพัฒนาศูนย์ซ่อมอากาศยาน (MRO) อู่ตะเภา มูลค่า 1 หมื่นล้านบาท ซึ่งจะสร้างโอกาสสำคัญระยะยาวแก่วัสดุขัดเกรดการบิน"
+      },
+      "items": [
+        {
+          "id": "20261007-1",
+          "tag": "aero",
+          "rating": "green",
+          "source": "ผู้จัดการออนไลน์",
+          "date": "2026-10-06",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIazdnNjc2TVdpRWNOSTNQS2tlaWFWdl9KbE5OaEdlLWlZX0RaWERWWjhJV1l0MjdTejNaSHVhOEMwSThnWmtFaUJMWVAydHIxVkFKTktiQ0pXb09KVVRLWg?oc=5",
+          "title": "EEC and Thai Airways Formally Sign 10-Billion-Baht U-Tapao MRO Deal",
+          "summary": "EEC and Thai Airways have officially signed an agreement to develop an aircraft maintenance, repair, and overhaul (MRO) facility at U-Tapao with an investment of 10 billion baht. Construction is scheduled to break ground in 2027 with full operations expected by 2030.",
+          "why": "Heavy aircraft maintenance requires specialized surface prep, paint stripping, and precision deburring abrasives, creating high-margin sales avenues for MK.",
+          "action": "Map procurement processes and establish distribution ties for aviation-certified abrasive product lines ahead of hangar construction.",
+          "th": {
+            "title": "EEC จับมือ การบินไทย เซ็นสัญญาลงทุนศูนย์ซ่อม MRO อู่ตะเภา 1 หมื่นล้านบาท",
+            "summary": "EEC และการบินไทย ลงนามสัญญาอย่างเป็นทางการในการร่วมพัฒนาศูนย์ซ่อมบำรุงอากาศยาน (MRO) อู่ตะเภา มูลค่า 1 หมื่นล้านบาท เตรียมตอกเสาเข็มปี 2570 และเปิดบริการปี 2573",
+            "why": "งานซ่อมบำรุงโครงสร้างและชิ้นส่วนอากาศยานต้องใช้วัสดุขัดเตรียมผิว ลอกสี และลบครีบมาตรฐานสูง ซึ่งเป็นโอกาสขยายสินค้าพรีเมียมมาร์จิ้นสูงของ MK",
+            "action": "ศึกษามาตรฐานและเตรียมจัดหาสินค้าวัสดุขัดเกรดการบิน (Aerospace-grade) เพื่อเตรียมพร้อมเจาะกลุ่มจัดซื้อศูนย์ซ่อมล่วงหน้า"
+          }
+        },
+        {
+          "id": "20261007-2",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Facebook",
+          "date": "2026-08-25",
+          "url": "https://news.google.com/rss/articles/CBMigAdBVV95cUxQMDRPUDcxV0JMRVZydFpTcjlXV210T2xsWS1hbjl0blhYVWxTdEotMHJtMHVnZFAwWVlKQVQ5VW1hQWxZOUhBSHNuWjAyNlduWHp4R2F4MlBnMmZBSXJWWG1QT2VnYVNhTzRKMXc1TzFhbWxBRWtoNWQwcUtBS0tBM2JYZml3aGUzS0VBR3FScHZWU1dpRGdqaXJ5YjRmZ2NMdDcxU2otYmdqYmhNcDNXT3FrRmNSSG1LZFUyNU1XZlJKc0tJc3htZnNERFFXX3VjQWl1bGVlc3FuZGVjX2UweFZMTGhaREF1amhrVWo0NElVTEN1OW1TQk0xVHczbXJpakVlOGc1SERHd3V3TVZvNHZJU3lzSVhvNEU1U19pMTBYZjFVejh4NnpQV1FQVjZlU2hQSGlPR3VwTjl5YlRYb04tcFNuUUlMd25QLWxyb1V4T3VDNWV3WW94YW92XzZXYjFiTW9DVnVhVk5LbENlVllDWHU4ejdwNl93aDZNTTZBNVIxc3ZjYlU1U2o3YlUxUnZYQ3RzWTBJUmw0UFRmYW96X29aM1NFcEdFMzVPNGdYcEdzYUpPSFBzN2s4ZU1lNFhyV2plNDZPZkR2LURKaEdvQkVMOFZQYzZuU0ZRUlZqQUZXM25qdE91WXVONWZGOW8xQkNmN3kxSE1sRzU5OWhqYmFpLTBHMW42akYyRmpKaWtqU3VvTWRIcGFPdElTaHBKLVhJNnF6NnVqZ28yUEFGMjMwVm42MkZrWmhtc3E4dDgwZE8tbEdMMndEc2tGNXFoRnk3eWRsRk1RYlMteEFqUkQ0TVFlRHkwblJfQVhlc3NEWXY3OWQwU2hYRUpSaHFiT3ZXOTgwZ0VaMjRQSkNyeTlULUR3R0RobTFuX3FJSmRXY3d4T2VMT0RJNnd1cTVJY0E3TE5COVhBQnM3MW1BMEhrekRTWS1UWDhzMGhPQldPdmRBYUJSODlHelE0ZG1kNEJ5clI3MC1BNWpKSFdCWE9uOTNCQkFWSE00UTdqbjFabHk2aEFsNW5vV2cxX0hacVRoR1hoVjRzUzd0OExjWkx3azh0VUJKQ0hOelJyV0wtV29PMDktUHN4UVgxREpMazVTZ2UtNjg3Y0lURnktYmEwdThvRU14ZTRaY2xzdkUwTWo5YTFEU1lmXzU5dVA3LVJqMkxYNEZGeFdIdw?oc=5",
+          "title": "FTI Warns Surging CBU Imports Threaten Local Vehicle Production and Supply Chains",
+          "summary": "FTI reported that imported EVs rose over 62%, while domestic vehicle manufacturing continues to struggle amid weak pickup truck sales. Industry leaders are pushing for faster tax restructuring to protect local production lines.",
+          "why": "A contraction in local automotive assembly directly lowers grinding and surface finishing workloads among Japanese Tier-1/Tier-2 parts manufacturers.",
+          "action": "Balance the client portfolio by expanding into general metal fabrication and automotive aftermarket repair shops.",
+          "th": {
+            "title": "ส.อ.ท. เตือนรถนำเข้าพุ่ง 62% กระทบฐานการผลิตในประเทศและซัพพลายเชนชิ้นส่วน",
+            "summary": "ส.อ.ท. เผยยอดนำเข้ารถ EV โตทะลัก 62.58% สวนทางฐานการผลิตในประเทศที่ยังชะลอตัวจากวิกฤตรถกระบะ หวั่นกระทบห่วงโซ่ผู้ผลิตชิ้นส่วนไทย",
+            "why": "หากโรงงานประกอบรถยนต์ในประเทศชะลอการผลิต จะกระทบต่อยอดใช้วัสดุขัดและเจียรแต่งผิวโลหะของซัพพลายเออร์ชิ้นส่วนญี่ปุ่นซึ่งเป็นลูกค้าหลัก",
+            "action": "กระจายความเสี่ยงโดยเร่งขยายฐานลูกค้าสู่งานโครงสร้างโลหะทั่วไปและอู่ซ่อมสี/ตัวถังเพื่อชดเชยยอดจากโรงงาน OEM"
+          }
+        },
+        {
+          "id": "20261007-3",
+          "tag": "furniture",
+          "rating": "amber",
+          "source": "posttoday",
+          "date": "2026-02-20",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxXzVZOHRNaDlMYzJBM2F6S1FPc0Vkcy1Sc2JWRnl1VklJY2ZCSEpsOUJ0RG13b0I1cHBpXzBUOUhlSHdpdV9uV1cyZGJHT2pNaF83cw?oc=5",
+          "title": "ASEAN Furniture Hub Expands with Top Four Nations Controlling 90% of Exports",
+          "summary": "Southeast Asian furniture makers are boosting global exports, with four countries including Thailand dominating 90% of regional shipments. The industry is driving growth through higher-value design and advanced manufacturing standards.",
+          "why": "Expanding wood furniture production sustains steady demand for abrasive wide belts, sanding discs, and fine-grit finishing paper.",
+          "action": "Offer customized wide sanding belt bundles and orbital sander discs directly to export-scale wood furniture factories.",
+          "th": {
+            "title": "อุตสาหกรรมเฟอร์นิเจอร์อาเซียนขยายตัว 4 ชาติหลักกุมส่วนแบ่งส่งออก 90%",
+            "summary": "อุตสาหกรรมเฟอร์นิเจอร์ในอาเซียนเติบโตต่อเนื่อง โดยมี 4 ประเทศหลักรวมถึงไทยครองสัดส่วนส่งออกถึง 90% ของภูมิภาค พร้อมยกระดับงานดีไซน์และมาตรฐานการผลิต",
+            "why": "การผลิตงานไม้และเฟอร์นิเจอร์ส่งออกใช้วัสดุขัดจำนวนมาก ทั้งสายพานผ้าทรายขัดเทียบผิว (Wide Belt) และกระดาษทรายกลมสำหรับขัดเนียน",
+            "action": "ทำแคมเปญนำเสนอสายพานขัดไม้ขนาดสั่งตัดและจานขัดกระดาษทรายเข้าสู่โรงงานเฟอร์นิเจอร์ส่งออกรายใหญ่โดยตรง"
+          }
+        }
+      ],
+      "terms": {}
+    },
+    {
       "date": "2026-10-06",
       "summary": "Today has limited fresh news as many macro updates overlap with recent reports. Focus remains on EV local-sourcing tax pressures and commercial airline fleet expansions driving future metal surface prep and MRO abrasive demand.",
       "directCount": 1,
@@ -520,72 +585,7 @@ window.NEWS_ARCHIVE = {
         }
       ],
       "terms": {}
-    },
-    {
-      "date": "2026-09-23",
-      "summary": "Today has limited new developments, but BYD's plan to produce pickup trucks in Rayong represents a direct, high-value demand driver for automotive surface finishing abrasives.",
-      "directCount": 1,
-      "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มาก แต่ข่าวเด่นคือ BYD เตรียมขึ้นไลน์ผลิตรถกระบะที่โรงงานระยอง ซึ่งจะกระตุ้นความต้องการใช้วัสดุขัดแต่งผิวโลหะในสายการผลิตโดยตรง"
-      },
-      "items": [
-        {
-          "id": "20260923-1",
-          "tag": "auto",
-          "rating": "green",
-          "source": "Thansettakij",
-          "date": "2026-09-22",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Md3JXLVc5eVB2QzR0ckhNZUJzTm04VW1uWjA5aVF5TTl1bFlCQXZ2UHJCRkJ6cmVZTjdZNTFUNWVQUzlBLXFQZmMtWlIyNThYUzM3RjVkaw?oc=5",
-          "title": "BYD Backs New Auto Tax and Plans Pickup Truck Production in Rayong",
-          "summary": "BYD praised Thailand's new auto tax structure and announced plans to assemble pickup trucks and new EV models at its Rayong facility to serve both domestic and export markets.",
-          "why": "Expanding into pickup truck manufacturing will substantially increase metal stamping, chassis welding, and surface prep work, directly boosting consumption of abrasive belts, flap discs, and sanding discs.",
-          "action": "Target Tier 1 and Tier 2 metal stamping and body-in-white suppliers contracting for BYD's upcoming pickup platform in the Rayong automotive cluster.",
-          "th": {
-            "title": "บีวายดีหนุนภาษีใหม่ เล็งผลิตปิกอัพและรถโมเดลใหม่ที่โรงงานระยอง",
-            "summary": "บีวายดีขานรับโครงสร้างภาษีรถยนต์ใหม่ของไทย พร้อมเผยแผนเตรียมผลิตรถกระบะและรถยนต์โมเดลใหม่ที่โรงงาน จ.ระยอง เพื่อส่งออกและจำหน่ายในประเทศ",
-            "why": "การขึ้นไลน์ผลิตรถกระบะจะเพิ่มปริมาณงานปั๊มขึ้นรูปโครงสร้าง งานเชื่อม และงานเตรียมผิวโลหะ ซึ่งสร้างดีมานด์โดยตรงต่อกระดาษทรายขัดสี สายพานขัด และจานทรายขัดรอยเชื่อม",
-            "action": "เร่งเจาะกลุ่มโรงงานปั๊มชิ้นส่วนโลหะและซัพพลายเออร์ Tier 1/2 ในแถบระยองที่ได้รับสัญญาผลิตชิ้นส่วนโมเดลกระบะใหม่ของ BYD"
-          }
-        },
-        {
-          "id": "20260923-2",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "LINE TODAY",
-          "date": "2025-12-27",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MbDY2SkFDN1VRQXdMaUF1Nmhlb3U0dTZLVzlMUkVDTTJlTy1UMFhMWFctVHJzWEhCd1lZUXZzaGpCMnJoNDBFOXRUclB2TXZ1ZkVlbjZB?oc=5",
-          "title": "10 Steel Associations Warn of Chinese Dumping Crisis, Urge Finished Steel Import Ban",
-          "summary": "Ten domestic steel associations sounded alarms over aggressive Chinese dumping and formally pushed authorities to ban or heavily restrict imports of cheap finished steel products.",
-          "why": "Prolonged dumping forces local steel fabricators and mills to slash production output, indirectly weakening recurring orders for heavy-duty cutting and grinding wheels.",
-          "action": "Monitor credit terms closely for domestic structural steel fabricators and shift sales focus toward specialized fabricators supplying high-spec automotive and industrial machinery.",
-          "th": {
-            "title": "10 สมาคมเหล็กรับวิกฤตปีม้า 'จีน' ทุ่มตลาด จี้รัฐคุมเข้มห้ามนำเข้าเหล็กสำเร็จรูป",
-            "summary": "10 สมาคมอุตสาหกรรมเหล็กส่งสัญญาณเตือนภัยการทุ่มตลาดจากเหล็กจีน พร้อมร้องเรียนภาครัฐให้สกัดการนำเข้าเหล็กสำเร็จรูป หลังโรงงานในประเทศเผชิญปัญหากำลังการผลิตตกต่ำอย่างหนัก",
-            "why": "การทุ่มตลาดที่ยืดเยื้อกดดันให้โรงงานแปรรูปเหล็กในประเทศลดกำลังผลิต ซึ่งส่งผลทางอ้อมให้ยอดสั่งซื้อใบตัดและหินเจียรกลุ่มงานเหล็กโครงสร้างชะลอตัว",
-            "action": "เฝ้าระวังความเสี่ยงด้านเครดิตเทอมของโรงงานแปรรูปเหล็กโครงสร้างทั่วไป และเบนเข็มไปโฟกัสกลุ่มโรงงานแปรรูปโลหะเฉพาะทางที่ซัพพลายให้ยานยนต์และเครื่องจักร"
-          }
-        },
-        {
-          "id": "20260923-3",
-          "tag": "steel",
-          "rating": "white",
-          "source": "krungsri.com",
-          "date": "2026-01-20",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE55MTc5UHRvTG83VWdiellMeVZmeWk3UmhfbU5lNGF0RGFxZ0Q0ZjZmWXlRaktLTllwaWpQS2NQbF94N1d0dmdxTUczanlULV9MamhPazEtX2Fvc093TUo2OHloZnhrVnZkcTVtY0MtX3MzUVhKOGpsZWFaNA?oc=5",
-          "title": "Krungsri Research Highlights Industry Trends and Manufacturing Shifts for 2026–2028",
-          "summary": "Krungsri Research projected medium-term industrial trends, emphasizing that EV-related manufacturing, automation, and precision components will outpace traditional commodity industries.",
-          "why": "Provides strategic visibility to ensure MK shifts abrasive inventory planning away from contracting basic sectors toward growth-oriented precision metalworking segments.",
-          "action": "Use these medium-term manufacturing projections to align MK's 2027 inventory planning toward high-precision abrasive belts and aerospace/auto-grade finishing products.",
-          "th": {
-            "title": "วิจัยกรุงศรีเผยแนวโน้มธุรกิจและอุตสาหกรรมไทย ปี 2569–2571 ชี้การเปลี่ยนผ่านการผลิต",
-            "summary": "วิจัยกรุงศรีประเมินทิศทางอุตสาหกรรมระยะกลาง ระบุการผลิตที่เกี่ยวเนื่องกับ EV ออโตเมชัน และชิ้นส่วนความแม่นยำสูงจะเติบโตได้ดีกว่ากลุ่มคอมโมดิตี้ดั้งเดิม",
-            "why": "เป็นข้อมูลภาพรวมระยะกลางที่ช่วยยืนยันให้ MK จัดการสต็อกสินค้าโดยลดน้ำหนักกลุ่มเหล็กพื้นฐาน แล้วมุ่งสู่กลุ่มชิ้นส่วนโลหะความแม่นยำสูงที่มีอนาคตสดใสกว่า",
-            "action": "ใช้ข้อมูลคาดการณ์นี้ปรับแผนสต็อกสินค้าปี 2570 โดยเน้นสำรองสายพานผ้าทรายความแม่นยำสูงและวัสดุขัดเกรดเฉพาะทางสำหรับยานยนต์และการบิน"
-          }
-        }
-      ],
-      "terms": {}
     }
   ],
-  "updated": "2026-10-06"
+  "updated": "2026-10-07"
 };
