@@ -4,46 +4,82 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-07",
-      "summary": "Today's global briefing highlights key manufacturing shifts, including U.S. steel rising to world number three due to trade policies, expanding EV assembly automation, and new regional market dynamics in coatings and metal casting that impact industrial supply chains.",
-      "directCount": 5,
+      "summary": "Today's global trends highlight critical shifts in EV manufacturing, metal casting, and regional abrasives market demands, presenting new surface preparation and finishing opportunities.",
+      "directCount": 4,
       "th": {
-        "summary": "สรุปกระแสโลกประจำวันนี้เน้นย้ำการเปลี่ยนแปลงที่สำคัญในภาคการผลิต เช่น เหล็กสหรัฐฯ ขยับขึ้นสู่อันดับ 3 ของโลกจากนโยบายการค้า การเติบโตของระบบอัตโนมัติในการประกอบ EV และทิศทางตลาดสารเคลือบและงานหล่อโลหะที่ส่งผลต่อห่วงโซ่อุปทานอุตสาหกรรม"
+        "summary": "แนวโน้มโลกวันนี้เน้นย้ำการเปลี่ยนแปลงครั้งสำคัญในการผลิตรถยนต์ EV การหล่อโลหะ และความต้องการตลาดวัสดุขัดถูในภูมิภาค ซึ่งสร้างโอกาสใหม่ๆ ในด้านการเตรียมพื้นผิวและการขัดแต่งสำเร็จ"
       },
       "items": [
         {
           "id": "20261007-w1",
-          "tag": "steel",
-          "rating": "green",
-          "source": "https://economy.ac/",
-          "date": "2026-10-01",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YQWhOYlJ3eW9jTUhwa25XdE55eHh3a2JoODhWdDAtOW00UzhXcWwtNnJJXzZGMjMtNXN6MTYwTUhib3ZHUDNXaTdIbWY2N092QXNsOXFfdw?oc=5",
-          "title": "‘Trump Tariffs and AI Boom’ Propel U.S. Steel Past Japan to World No. 3 for First Time in 26 Years",
-          "summary": "Driven by trade policies and technology demand, U.S. steel production has surpassed Japan for the first time in over two decades, altering global metal supply and demand flows.",
-          "why": "Higher U.S. domestic steel production and trade shifts directly influence the consumption of grinding wheels, cutting discs, and heavy-duty abrasives used in steel mills and fabrication.",
-          "action": "Monitor U.S. steel manufacturing output and export trends to anticipate shifting global demand for heavy industrial abrasives.",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Fortune Business Insights",
+          "date": "2026-09-21",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbDdPM0VwRXE3dDlfTTJFS3BVX2FmU0ZLWVVDR2JLcWk5UjVnUmJQaDJ2N2E1Z1VkMWdIUzdnWXVrSFc3cHBLWmhSb3dodGpOTlZzejhjaFRBcm5fRi1jMzhzTV9CcFRqVVRVUVdWUWliWkdiMXdzLXpFMWY3M1doOW1hTHBaUnlnYV81YmMyLTU?oc=5",
+          "title": "Electric Vehicle Market Size, Share & Global Analysis, 2034",
+          "summary": "The global electric vehicle market continues its long-term expansion trajectory toward 2034, transforming automotive supply chains and manufacturing requirements.",
+          "why": "EV production requires specialized lightweight body components, battery enclosures, and precision finishing, altering abrasive and deburring specs.",
+          "action": "Monitor EV structural design changes to align our deburring and finishing solutions with new lightweight metal alloys.",
           "th": {
-            "title": "ภาษีทรัมป์และบูม AI ดันเหล็กสหรัฐฯแซงญี่ปุ่นขึ้นสู่อันดับ 3 ของโลกครั้งแรกในรอบ 26 ปี",
-            "summary": "การผลิตเหล็กของสหรัฐฯ แซงหน้าญี่ปุ่นเป็นครั้งแรกในรอบกว่าสองทศวรรษ ขับเคลื่อนด้วยนโยบายการค้าและความต้องการด้านเทคโนโลยี ซึ่งส่งผลต่อกระแสอุปสงค์และอุปทานโลหะทั่วโลก",
-            "why": "การผลิตเหล็กในสหรัฐฯ ที่เพิ่มขึ้นและการเปลี่ยนแปลงทางการค้า ส่งผลโดยตรงต่อการใช้วัสดุขัด ใบตัด และกระดาษทรายสำหรับงานหนักในโรงงานเหล็กและงานแปรรูป",
-            "action": "ติดตามปริมาณการผลิตเหล็กของสหรัฐฯ และแนวโน้มการส่งออก เพื่อคาดการณ์ความต้องการสารขัดถูในอุตสาหกรรมหนักที่อาจเปลี่ยนแปลงไป"
+            "title": "ขนาดส่วนแบ่งและการวิเคราะห์ตลาดรถยนต์ไฟฟ้าระดับโลก ปี 2034",
+            "summary": "ตลาดรถยนต์ไฟฟ้าระดับโลกยังคงเติบโตอย่างต่อเนื่องไปจนถึงปี 2034 ซึ่งส่งผลให้ห่วงโซ่อุปทานและข้อกำหนดในการผลิตยานยนต์ต้องปรับเปลี่ยน",
+            "why": "การผลิตรถยนต์ EV ต้องการชิ้นส่วนโครงสร้างน้ำหนักเบาและตัวเรือนแบตเตอรี่ที่มีความแม่นยำ ซึ่งส่งผลต่อสเปกของวัสดุขัดและการลบคม",
+            "action": "ติดตามการเปลี่ยนแปลงการออกแบบโครงสร้าง EV เพื่อปรับโซลูชันการขัดและการลบคมให้เข้ากับโลหะผสมน้ำหนักเบาแบบใหม่"
           }
         },
         {
           "id": "20261007-w2",
-          "tag": "auto",
+          "tag": "steel",
           "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-09-10",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVjkzSTlDYzItRzJSVXhQSjc1a0ttQ0dIRVYxRDgxaHFiQ0x3c1ZsLTdZQ0RRSk04bmhjdHQ4ZGJrV0lLVk45XzQ5ZzQwN1VwMDNERWNWVEpJNTRVYzZqTFFmcEIyUUZRNG9LOHp6ODIxYm80eEZrcTBOdENvenJqdktfcm5neXlITEZSRXNQclF2ZUpGUXVLTmY3SmhCRUlHdldDVC11QjRnZ3UtYzRlbzAwYS1yaW5oZV8zWmRMY2k?oc=5",
-          "title": "Smart-factory wiring woes: EVs demand automation now, not later",
-          "summary": "Electric vehicle manufacturers are accelerating factory automation to overcome complex wiring and assembly challenges.",
-          "why": "As EV production lines become more automated, the types of robotic surface finishing, deburring, and precision sanding tools required in automotive manufacturing are also evolving.",
-          "action": "Explore automated robotic abrasive solutions and flexible surface prep tools suited for smart EV manufacturing lines.",
+          "source": "Fortune Business Insights",
+          "date": "2026-09-14",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kYlp3TXBwdU5JVl9Gc0pFd3lJSFpjSUhLeEFGOVZVS19BbHBoTFNGb1BFOC1UNEN4c1o0c2xjdTFZYXhVdGRVb0dIeXZqakt1bTJkQy10SC0wRlh0RVVBZHZaWDFYbDk3cHdUbXBsYnRyYTlFVEE?oc=5",
+          "title": "Metal Casting Market Growth Analysis & Industry Forecast, 2034",
+          "summary": "The metal casting market is experiencing steady growth driven by heavy machinery, automotive, and industrial infrastructure demands.",
+          "why": "Metal castings require extensive surface grinding, gate/riser removal, and defect smoothing, which are core application areas for our grinding wheels and sanding belts.",
+          "action": "Keep an adequate stock of heavy-duty grinding discs and snagging products targeted at foundry and casting finish work.",
           "th": {
-            "title": "ปัญหาการเดินสายไฟในโรงงานอัจฉริยะ: รถยนต์ EV เรียกร้องระบบอัตโนมัติทันทีโดยรอไม่ได้",
-            "summary": "ผู้ผลิตรถยนต์ไฟฟ้ากำลังเร่งนำระบบอัตโนมัติมาใช้ในโรงงานเพื่อแก้ปัญหาความซับซ้อนในการเดินสายไฟและการประกอบ",
-            "why": "เมื่อสายการผลิต EV มีความเป็นอัตโนมัติมากขึ้น เครื่องมือขัดแต่งผิว ลบครีบ และขัดความละเอียดแบบหุ่นยนต์ที่ใช้ในอุตสาหกรรมยานยนต์จึงต้องพัฒนาตามไปด้วย",
-            "action": "ศึกษาโซลูชันงานขัดด้วยหุ่นยนต์อัตโนมัติและเครื่องมือเตรียมพื้นผิวที่มีความยืดหยุ่น เพื่อให้สอดคล้องกับสายการผลิต EV อัจฉริยะ"
+            "title": "การวิเคราะห์การเติบโตและแนวโน้มอุตสาหกรรมการหล่อโลหะถึงปี 2034",
+            "summary": "ตลาดการหล่อโลหะกำลังเติบโตอย่างมั่นคงจากความต้องการในอุตสาหกรรมเครื่องจักรหนัก ยานยนต์ และโครงสร้างพื้นฐาน",
+            "why": "งานหล่อโลหะต้องผ่านการเจียรผิว การตัดแต่งประตูน้ำหล่อ และการขัดเรียบ ซึ่งเป็นตลาดหลักสำหรับล้อเจียรและกระดาษทรายสายพานของเรา",
+            "action": "รักษาระดับสต็อกล้อเจียรสำหรับงานหนักและผลิตภัณฑ์ขัดแต่งที่เจาะกลุ่มโรงงานหล่อโลหะให้เพียงพอ"
+          }
+        },
+        {
+          "id": "20261007-w3",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "Market Research Future",
+          "date": "2026-09-17",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd0FKMXFQcDczZm1uUkMteUtna0ptYU1rVlNuSUgybmpCcmtTU1lnc1hLZGJ5bm9fNnFQX0xRSGhhRGRUQ1Zqd05CZW9vbjlNa0NhTU0tVjJrTUxBOGdWNjFGemJnWGFPZFJ6ZXNTVnVOeG1ONDhUb0hYMVdlZi1tOW9ITU50Ym8?oc=5",
+          "title": "India Coated Abrasives Market Size, Share & Trends 2035",
+          "summary": "India's coated abrasives market is projected to expand significantly, driven by rapid industrialization, manufacturing growth, and automotive expansion.",
+          "why": "Rising regional manufacturing activities signal increased global supply chain competition and shifting sourcing hubs for industrial abrasives.",
+          "action": "Analyze how competitive pricing from emerging regional hubs like India impacts global abrasive raw material costs and availability.",
+          "th": {
+            "title": "ขนาดส่วนแบ่งและแนวโน้มตลาดกระดาษทรายและผ้าทรายเคลือบสารขัดของอินเดีย ปี 2035",
+            "summary": "ตลาดกระดาษทรายและวัสดุขัดเคลือบของอินเดียมีแนวโน้มขยายตัวอย่างมาก ขับเคลื่อนโดยการพัฒนาอุตสาหกรรมและการเติบโตของภาคการผลิตยานยนต์",
+            "why": "กิจกรรมการผลิตในภูมิภาคที่เพิ่มขึ้นบ่งชี้ถึงการแข่งขันในห่วงโซ่อุปทานโลกที่สูงขึ้นและการเปลี่ยนแปลงแหล่งจัดหาวัสดุขัดถูอุตสาหกรรม",
+            "action": "วิเคราะห์ผลกระทบด้านราคาจากศูนย์กลางการผลิตในภูมิภาค เช่น อินเดีย ที่มีต่อต้นทุนและความพร้อมของวัตถุดิบขัดถูทั่วโลก"
+          }
+        },
+        {
+          "id": "20261007-w4",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "Market Data Forecast",
+          "date": "2026-07-24",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QdEVXWnRKRG40YWFXWDVwY09BdElfOGotQVNaazA2Q2p2VkluOXlhT1RSeEF3STZKZVI3b21NZlB3MWlwLTVXaVNDQWtQSHNUX3RPZXQ4Y0wwY1pwaGVfYzdKeXNNdDFZMkNpcDVhSm5OUjRraTM4ZV9fRHcyZw?oc=5",
+          "title": "Europe Abrasives Market Size, Share and Analysis, 2034",
+          "summary": "The European abrasives market faces stringent environmental regulations and high demand for high-performance automated finishing solutions.",
+          "why": "European manufacturing trends often dictate strict product quality standards and sustainability benchmarks that eventually influence global markets.",
+          "action": "Track European technical standards for eco-friendly and dust-free sanding technologies to anticipate future customer quality demands in B2B sectors.",
+          "th": {
+            "title": "ขนาดส่วนแบ่งและการวิเคราะห์ตลาดวัสดุขัดถูในยุโรป ปี 2034",
+            "summary": "ตลาดวัสดุขัดถูในยุโรปกำลังเผชิญกับกฎระเบียบด้านสิ่งแวดล้อมที่เข้มงวดและความต้องการโซลูชันการขัดอัตโนมัติประสิทธิภาพสูง",
+            "why": "แนวโน้มการผลิตในยุโรปมักกำหนดมาตรฐานคุณภาพสินค้าและเกณฑ์ความยั่งยืน ซึ่งท้ายที่สุดจะส่งผลต่อตลาดโลก",
+            "action": "ติดตามมาตรฐานทางเทคนิคของยุโรปสำหรับเทคโนโลยีการขัดที่เป็นมิตรต่อสิ่งแวดล้อมและไร้ฝุ่น เพื่อคาดการณ์ความต้องการของลูกค้า B2B ในอนาคต"
           }
         }
       ]
