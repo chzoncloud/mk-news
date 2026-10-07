@@ -2,6 +2,71 @@
 window.NEWS_ARCHIVE = {
   "days": [
     {
+      "date": "2026-10-08",
+      "summary": "There is limited new industry news today as major automotive and aviation policies were covered in previous briefings; current developments highlight Vietjet's interest in U-Tapao MRO, crackdowns on substandard steel mills, and a projected slowdown in furniture exports.",
+      "directCount": 0,
+      "th": {
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก เนื่องจากประเด็นหลักด้านยานยนต์และการบินถูกรายงานไปก่อนหน้านี้แล้ว ข่าวเด่นวันนี้จึงอยู่ที่ความคืบหน้าของเวียตเจ็ทในศูนย์ซ่อม MRO อู่ตะเภา, การกวาดล้างโรงงานเหล็กไม่ได้มาตรฐาน และแนวโน้มการชะลอตัวของการส่งออกเฟอร์นิเจอร์"
+      },
+      "items": [
+        {
+          "id": "20261008-1",
+          "tag": "aero",
+          "rating": "amber",
+          "source": "Thansettakij",
+          "date": "2026-05-29",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFSElmenNfbV9JTnV2dUV3WklDZ05NcEN3ZkdQOTFmT1lzcEpKRUpSbkNISHFUYnczSnZBeDFCSlhYbW00SHZTLTlBVEs3bUJaYzBTZllB?oc=5",
+          "title": "EECO Partners with Vietjet to Study U-Tapao Aviation MRO Center",
+          "summary": "The Eastern Economic Corridor Office (EECO) is working with Vietjet to explore joint development of an aircraft maintenance, repair, and overhaul (MRO) facility at U-Tapao Airport.",
+          "why": "Expanding MRO participants beyond Thai Airways creates additional future demand for certified aerospace-grade abrasives and precision deburring tools.",
+          "action": "Track technical partnerships and maintenance contractors tied to Vietjet's fleet to position MK's surface-finishing solutions early.",
+          "th": {
+            "title": "สกพอ. จับมือ ‘เวียตเจ็ท’ ศึกษาแผนร่วมพัฒนาศูนย์ซ่อมบำรุงอากาศยานอู่ตะเภา",
+            "summary": "สำนักงานคณะกรรมการนโยบายเขตพัฒนาพิเศษภาคตะวันออก (สกพอ.) ร่วมมือกับสายการบินเวียตเจ็ทเพื่อศึกษาความเป็นไปได้ในการลงทุนศูนย์ซ่อมอากาศยาน (MRO) ณ สนามบินอู่ตะเภา",
+            "why": "การมีสายการบินอื่นร่วมพัฒนาศูนย์ MRO เพิ่มเติมจาก บมจ.การบินไทย จะช่วยขยายฐานความต้องการวัสดุขัดเกรดการบินและงานลบครีบโลหะในระยะยาว",
+            "action": "ติดตามความคืบหน้าของพันธมิตรและผู้รับเหมาซ่อมบำรุงอากาศยานของเวียตเจ็ทเพื่อเตรียมนำเสนอวัสดุขัดผิวมาตรฐานการบิน"
+          }
+        },
+        {
+          "id": "20261008-2",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "Thairath.co.th",
+          "date": "2026-05-22",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5yOEdKVkRNRnBpc1dWRGRuNzNtN1NHR09mSlc3eHpQem1iLUg4TVY0bkN2eDF4bWhhZ3JfTU5idGxKN2trZUJfS1hRMlkxZHQ5T29sTVBMdU5fTHR0V09GQ2h0c19ZSGRrVU9oaTI3eVQydWc?oc=5",
+          "title": "Steel Industry Endorses Ministry Crackdown on Substandard Mills",
+          "summary": "Ten Thai steel associations supported the Ministry of Industry's enforcement measures against non-compliant steel plants and illegal induction furnace operations.",
+          "why": "Enforcing safety and quality standards protects compliant local steel mills and fabricators, which are core users of industrial cutting and grinding abrasives.",
+          "action": "Prioritize sales outreach toward certified Thai and Japanese-partnered structural fabricators who rely on premium, durable grinding wheels.",
+          "th": {
+            "title": "10 สมาคมเหล็กขานรับกระทรวงอุตสาหกรรม เดินหน้าปราบปรามโรงงานเหล็กไม่ได้มาตรฐาน",
+            "summary": "10 สมาคมผู้ผลิตเหล็กแสดงความพอใจที่กระทรวงอุตสาหกรรมบังคับใช้กฎหมายเข้มงวดกับโรงงานเหล็กที่ไม่ได้มาตรฐาน มอก. และเตาหลอม IF ที่ไม่ถูกต้อง",
+            "why": "การกวาดล้างโรงงานที่ไม่ได้มาตรฐานช่วยหนุนให้โรงงานแปรรูปเหล็กมาตรฐานยังดำเนินงานต่อได้ ซึ่งกลุ่มนี้คือผู้ใช้ใบเจียรและใบตัดอุตสาหกรรมหลักของ MK",
+            "action": "มุ่งเน้นการขายไปยังโรงงานโครงสร้างเหล็กและโลหะที่ผ่าน มอก. ซึ่งต้องการวัสดุขัดคุณภาพสูงเพื่อความปลอดภัยและทนทาน"
+          }
+        },
+        {
+          "id": "20261008-3",
+          "tag": "furniture",
+          "rating": "amber",
+          "source": "kasikornbank.com",
+          "date": "2025-10-09",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR0I3LUFaeENxbzdDQVF4UDdVMFlmRWp4Y3BBdFZ6OGFQeUdZZ3Y5dHA5Q2ZxRXJIaTUtLVNVY29QM3RuSk1RMmpaeXhucHEwLWRiMFlsbkJRNEtYY3RWSDZNNXRBUXdfb0hDV0IzR1pkRW5ERC1xSkQtN21WZTVveUNtdURRYmN3QjQxUDRHS2g1dDNkSGdRVVJGU2tBNGJ3WDREcGh1N2VrdnN6MExB?oc=5",
+          "title": "Thai Furniture Exports Projected to Contract 4.5% in 2026",
+          "summary": "Kasikorn Research warns that Thai furniture exports are expected to shrink by 4.5% in 2026 following previous front-loading and escalating global trade friction.",
+          "why": "A contraction in export furniture manufacturing may lower volume demand for wide sanding belts and wood surface-finishing abrasives among large OEM mills.",
+          "action": "Hedge against OEM export weakness by promoting woodworking abrasives to domestic custom furniture makers and DIY segments via Shopee and TikTok.",
+          "th": {
+            "title": "ศูนย์วิจัยกสิกรฯ คาดส่งออกเฟอร์นิเจอร์ไทยปี 2569 เสี่ยงหดตัว 4.5%",
+            "summary": "ศูนย์วิจัยกสิกรไทยประเมินว่าการส่งออกเฟอร์นิเจอร์ไทยอาจกลับมาหดตัว 4.5% ในปี 2569 หลังหมดรอบเร่งนำเข้าของสหรัฐฯ และแรงกดดันจากกำแพงภาษีการค้า",
+            "why": "การชะลอตัวของโรงงานเฟอร์นิเจอร์ส่งออกขนาดใหญ่อาจลดทอนยอดสั่งซื้อกระดาษทรายสายพานหน้ากว้างและวัสดุขัดไม้ในภาพรวม",
+            "action": "กระจายความเสี่ยงด้วยการเจาะกลุ่มช่างเฟอร์นิเจอร์สั่งทำในประเทศ พร้อมขยายสินค้ารองรับตลาดงานไม้ DIY ผ่านช่องทาง Shopee และ TikTok"
+          }
+        }
+      ],
+      "terms": {}
+    },
+    {
       "date": "2026-10-07",
       "summary": "Today has limited new developments. The standout news is the official contract signing between EEC and Thai Airways for a 10-billion-baht MRO hub at U-Tapao, securing long-term opportunities for aerospace-grade abrasives.",
       "directCount": 1,
@@ -587,5 +652,5 @@ window.NEWS_ARCHIVE = {
       "terms": {}
     }
   ],
-  "updated": "2026-10-07"
+  "updated": "2026-10-08"
 };
