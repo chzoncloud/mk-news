@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-10-07",
+  "updated": "2026-10-08",
   "days": [
+    {
+      "date": "2026-10-08",
+      "summary": "Today's global briefing highlights key shifts in steel production dynamics, EV manufacturing automation, and cutting disk market trends, signaling evolving demand patterns for industrial abrasives and surface finishing.",
+      "directCount": 2,
+      "th": {
+        "summary": "สรุปทิศทางโลกวันนี้เน้นการเปลี่ยนแปลงในอุตสาหกรรมเหล็ก ระบบอัตโนมัติในการผลิต EV และตลาดแผ่นตัด ซึ่งบ่งชี้ถึงรูปแบบความต้องการที่เปลี่ยนไปสำหรับวัสดุขัดกระดาษทรายและงานตกแต่งผิวโลหะ"
+      },
+      "items": [
+        {
+          "id": "20261008-w1",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "https://economy.ac/",
+          "date": "2026-10-01",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YQWhOYlJ3eW9jTUhwa25XdE55eHh3a2JoODhWdDAtOW00UzhXcWwtNnJJXzZGMjMtNXN6MTYwTUhib3ZHUDNXaTdIbWY2N092QXNsOXFfdw?oc=5",
+          "title": "‘Trump Tariffs and AI Boom’ Propel U.S. Steel Past Japan to World No. 3 for First Time in 26 Years",
+          "summary": "Driven by tariffs and AI-related infrastructure demand, U.S. steel output has surpassed Japan, altering global steel supply chains and regional manufacturing footprints.",
+          "why": "Shifts in global steel production rankings directly impact where heavy metal fabrication and subsequent grinding, deburring, and surface prep activities are concentrated.",
+          "action": "Monitor U.S. and North American metal fabrication growth as a potential export or supply chain destination for abrasive consumption.",
+          "th": {
+            "title": "นโยบายภาษีและบูม AI ดันเหล็กสหรัฐฯแซงญี่ปุ่นขึ้นอันดับ 3 ของโลกในรอบ 26 ปี",
+            "summary": "การเติบโตจากกำแพงภาษีและอุปสงค์โครงสร้างพื้นฐาน AI ทำให้ผลผลิตเหล็กของสหรัฐฯ แซงหน้าญี่ปุ่น ซึ่งเปลี่ยนห่วงโซ่อุปทานเหล็กโลก",
+            "why": "การเปลี่ยนแปลงลำดับการผลิตเหล็กโลกส่งผลโดยตรงต่อแหล่งผลิตงานแปรรูปโลหะหนักและความต้องการใช้, ลบคม และเตรียมพื้นผิว",
+            "action": "ติดตามการเติบโตของการผลิตโลหะในอเมริกาเหนือในฐานะตลาดหรือห่วงโซ่อุปทานที่มีศักยภาพสำหรับผลิตภัณฑ์ขัด"
+          }
+        },
+        {
+          "id": "20261008-w2",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-09-27",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUjROMDdtWnhLRnRQWEZxcmtSUTB0U1pmNTVyYVNpZVE2RERSc1VFSWtITzdDZlpRY0VtZkZmRDZwalRwak1aMGJZLVhJSHpBQ2ZfSFVKc2VEbU1fTVpUVXg3MDhIeEFobGR5ZlN5ZFVZdDNDRkZ5NkpkNGNucHZ0NDR6dUVfdTlQUkJiYkhmcDdJYm9aaGFUOHpZOGFra2N5cUczQmVxY2t5MjdESldpbFlnTnE0ek5Ya0dyVw?oc=5",
+          "title": "World Cutting Discs - Market Analysis, Forecast, Size, Trends and Insights",
+          "summary": "A comprehensive market analysis outlines ongoing trends, demand drivers, and size forecasts for cutting discs across global industrial sectors.",
+          "why": "Cutting discs are a core product line in our abrasive portfolio; tracking their global market trajectory helps benchmark our product lineup.",
+          "action": "Review cutting disc inventory and source competitive specifications to match rising global performance standards.",
+          "th": {
+            "title": "ตลาดแผ่นตัดทั่วโลก - การวิเคราะห์ตลาด การคาดการณ์ ขนาด แนวโน้ม และเชิงลึก",
+            "summary": "การวิเคราะห์ตลาดเชิงลึกเผยถึงแนวโน้ม ตัวขับเคลื่อนอุปสงค์ และการคาดการณ์ขนาดตลาดสำหรับแผ่นตัดในภาคอุตสาหกรรมทั่วโลก",
+            "why": "แผ่นตัดเป็นสินค้าหลักในกลุ่มผลิตภัณฑ์วัสดุขัดของเรา การติดตามทิศทางตลาดช่วยให้เปรียบเทียบและพัฒนาสินค้าได้ดีขึ้น",
+            "action": "ทบทวนสต็อกแผ่นตัดและจัดหาสเปกสินค้าที่แข่งขันได้เพื่อให้สอดคล้องกับมาตรฐานประสิทธิภาพโลกที่สูงขึ้น"
+          }
+        },
+        {
+          "id": "20261008-w3",
+          "tag": "auto",
+          "rating": "green",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-09-10",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVjkzSTlDYzItRzJSVXhQSjc1a0ttQ0dIRVYxRDgxaHFiQ0x3c1ZsLTdZQ0RRSk04bmhjdHQ4ZGJrV0lLVk45XzQ5ZzQwN1VwMDNERWNWVEpJNTRVYzZqTFFmcEIyUUZRNG9LOHp6ODIxYm80eEZrcTBOdENvenJqdktfcm5neXlITEZSRXNQclF2ZUpGUXVLTmY3SmhCRUlHdldDVC11QjRnZ3UtYzRlbzAwYS1yaW5oZV8zWmRMY2k?oc=5",
+          "title": "Smart-factory wiring woes: EVs demand automation now, not later",
+          "summary": "As EV production ramps up, complex wiring and assembly challenges are forcing automakers to accelerate factory automation strategies immediately.",
+          "why": "Automated EV manufacturing lines require high-precision robotic deburring, surface finishing, and specialized sanding components.",
+          "action": "Explore automated-compatible abrasive solutions and deburring tools tailored for robotic applications in modern smart factories.",
+          "th": {
+            "title": "ปัญหาการเดินสายไฟในโรงงานอัจฉริยะ: รถยนต์ไฟฟ้าต้องการระบบอัตโนมัติเดี๋ยวนี้ไม่ใช่รอช้า",
+            "summary": "การผลิต EV ที่เพิ่มขึ้นและความซับซ้อนของการประกอบ บีบให้ผู้ผลิตรถยนต์ต้องเร่งนำระบบอัตโนมัติมาใช้ในโรงงานทันที",
+            "why": "สายการผลิต EV แบบอัตโนมัติจำเป็นต้องใช้อุปกรณ์ลบคมและตกแต่งผิวด้วยหุ่นยนต์ที่มีความแม่นยำสูง",
+            "action": "สำรวจโซลูชันกระดาษทรายและเครื่องมือลบคมที่รองรับระบบอัตโนมัติ สำหรับการใช้งานกับหุ่นยนต์ในโรงงานอัจฉริยะ"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-10-07",
       "summary": "Today's global trends highlight critical shifts in EV manufacturing, metal casting, and regional abrasives market demands, presenting new surface preparation and finishing opportunities.",
@@ -902,70 +966,6 @@ window.WORLD_ARCHIVE = {
             "summary": "ข้อมูลและบทวิเคราะห์ล่าสุดแสดงให้เห็นถึงการเปลี่ยนแปลงเชิงโครงสร้างในภาคการผลิตของสหรัฐฯ ส่งผลให้การบริโภคเหล็กโดยรวมลดลง",
             "why": "การเปลี่ยนแปลงของการบริโภคเหล็กขั้นต้นส่งผลกระทบต่อปริมาณงานแปรรูปโลหะ ซึ่งกำหนดความต้องการใช้วัสดุขัดหยาบและลบคมโดยตรง",
             "action": "ติดตามแนวโน้มการบริโภคโลหะทั่วโลกเพื่อคาดการณ์การเปลี่ยนแปลงความต้องการใช้วัสดุขัดในอุตสาหกรรมหนัก"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-09-24",
-      "summary": "Today's briefing focuses on global automotive manufacturing shifts, steel industry volatility, and surface finishing technology updates that impact B2B industrial demand.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปประเด็นข่าววันนี้เน้นการเปลี่ยนแปลงในอุตสาหกรรมการผลิตรถยนต์ ความผันผวนของอุตสาหกรรมเหล็ก และเทคโนโลยีการตกแต่งผิวที่ส่งผลต่อความต้องการในตลาด B2B"
-      },
-      "items": [
-        {
-          "id": "20260924-w1",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-09-10",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVjkzSTlDYzItRzJSVXhQSjc1a0ttQ0dIRVYxRDgxaHFiQ0x3c1ZsLTdZQ0RRSk04bmhjdHQ4ZGJrV0lLVk45XzQ5ZzQwN1VwMDNERWNWVEpJNTRVYzZqTFFmcEIyUUZRNG9LOHp6ODIxYm80eEZrcTBOdENvenJqdktfcm5neXlITEZSRXNQclF2ZUpGUXVLTmY3SmhCRUlHdldDVC11QjRnZ3UtYzRlbzAwYS1yaW5oZV8zWmRMY2k?oc=5",
-          "title": "Smart-factory wiring woes: EVs demand automation now, not later",
-          "summary": "Electric vehicle manufacturers are accelerating factory automation to resolve complex production challenges.",
-          "why": "Increased automation in EV production plants changes how metal parts are handled and finished, raising the need for automated robotic sanding and deburring solutions.",
-          "action": "Monitor demand for robotic-compatible abrasive discs and automated surface finishing accessories.",
-          "th": {
-            "title": "ปัญหาการเดินสายไฟในโรงงานอัจฉริยะ: รถยนต์ EV ต้องการระบบอัตโนมัติทันที",
-            "summary": "ผู้ผลิตรถยนต์ไฟฟ้ากำลังเร่งนำระบบอัตโนมัติมาใช้ในโรงงานเพื่อแก้ปัญหาความซับซ้อนในการผลิต",
-            "why": "ระบบอัตโนมัติที่เพิ่มขึ้นในโรงงานผลิต EV เปลี่ยนแปลงวิธีการจัดการและตกแต่งชิ้นงานโลหะ ซึ่งเพิ่มความต้องการโซลูชันการขัดและลบคมด้วยหุ่นยนต์",
-            "action": "ติดตามความต้องการแผ่นขัดที่รองรับระบบหุ่นยนต์และอุปกรณ์ขัดผิวอัตโนมัติ"
-          }
-        },
-        {
-          "id": "20260924-w2",
-          "tag": "auto",
-          "rating": "green",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-09-02",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUUpWSmpHLVowSXdiLUJqcFlpQ3ZfRmdQYjJiTVFCNk00ZW0tM0ZqenQtd2F4emNVNEdzT3Q3amZ3M050YnNuTldQZFQyTlgyX3ByekdEbkdlaURacG5yRlBUSEZucnBQalBmNzVadXVrSDdXcEd0d2t4UXptUzJ5dXZ6ckE1Q3RVV3IyUkY4SFdVSERveVJYem0yM3lNbWFUY1dXWHYyRFZ2cXdldWFqRmJTNE4tQ1RXWWp4N3NCN1h5Vmt3d3hEbkFPc2ZqT0k?oc=5",
-          "title": "A global AI manufacturing transformation at Hyundai Motor Group",
-          "summary": "Hyundai Motor Group is rolling out an AI-driven manufacturing transformation globally to boost efficiency and precision.",
-          "why": "AI-driven factories demand higher consistency and precision in component surface prep, affecting abrasive tooling choices.",
-          "action": "Prepare to supply high-precision, long-lasting abrasives suited for smart manufacturing lines.",
-          "th": {
-            "title": "การพลิกโฉมการผลิตระดับโลกด้วย AI ของฮุนได มอเตอร์ กรุ๊ป",
-            "summary": "ฮุนได มอเตอร์ กรุ๊ป กำลังนำเทคโนโลยีการผลิตที่ขับเคลื่อนด้วย AI มาใช้ทั่วโลกเพื่อเพิ่มประสิทธิภาพและความแม่นยำ",
-            "why": "โรงงานที่ขับเคลื่อนด้วย AI ต้องการความสม่ำเสมอและความแม่นยำสูงในการเตรียมพื้นผิวชิ้นส่วน ซึ่งส่งผลต่อการเลือกใช้เครื่องมือขัด",
-            "action": "เตรียมพร้อมจัดหาผลิตภัณฑ์กระดาษทรายและวัสดุขัดที่มีความแม่นยำสูงและใช้งานได้ยาวนานสำหรับสายการผลิตอัจฉริยะ"
-          }
-        },
-        {
-          "id": "20260924-w3",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "S&P Global",
-          "date": "2026-01-12",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
-          "title": "Global steel industry battles surplus supply, protectionism",
-          "summary": "The global steel market continues to navigate challenges related to excess supply and rising trade protectionism.",
-          "why": "Steel production volume and mill operations directly dictate local demand for heavy-duty grinding wheels, belts, and metal deburring products.",
-          "action": "Keep close ties with local metal fabricators who adjust output based on imported steel trends.",
-          "th": {
-            "title": "อุตสาหกรรมเหล็กโลกต่อสู้กับภาวะอุปทานล้นตลาดและลัทธิคุ้มครองทางการค้า",
-            "summary": "ตลาดเหล็กโลกยังคงต้องเผชิญกับความท้าทายเรื่องอุปทานส่วนเกินและมาตรการคุ้มครองทางการค้าที่เพิ่มขึ้น",
-            "why": "ปริมาณการผลิตเหล็กและกิจการของโรงงานส่งผลโดยตรงต่อความต้องการล้อเจียร สายพานขัด และผลิตภัณฑ์ลบคมโลหะในตลาด",
-            "action": "รักษาความสัมพันธ์ที่ใกล้ชิดกับผู้แปรรูปโลหะในท้องถิ่นที่ต้องปรับเปลี่ยนกำลังการผลิตตามแนวโน้มเหล็กนำเข้า"
           }
         }
       ]
