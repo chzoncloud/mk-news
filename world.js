@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-08",
-      "summary": "Today's briefing focuses on global shifts in the steel scrap supply chain, wood sanding machine market growth, and automotive coatings market trends. These indicators highlight evolving surface finishing requirements across metal and woodworking sectors.",
+      "summary": "Today's briefing focuses on shifting global steel dynamics with the U.S. rising to world No. 3, alongside AI and digital integration transforming manufacturing and coating lines which influence surface preparation standards.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปประเด็นข่าววันนี้เน้นการเปลี่ยนแปลงของห่วงโซ่อุปทานเศษเหล็กในระดับโลก การเติบโตของตลาดเครื่องขัดไม้ และแนวโน้มตลาดสีเคลือบยานยนต์ ซึ่งบ่งชี้ถึงความต้องการงานเตรียมพื้นผิวที่เปลี่ยนไปในอุตสาหกรรมโลหะและไม้"
+        "summary": "สรุปข่าววันนี้เน้นการเปลี่ยนแปลงของตลาดเหล็กโลกที่สหรัฐฯ ขยับขึ้นมาอยู่อันดับ 3 ของโลก พร้อมกับการนำเทคโนโลยี AI และดิจิทัลมาใช้ในภาคการผลิตและการเคลือบผิว ซึ่งส่งผลต่อมาตรฐานการเตรียมพื้นผิว"
       },
       "items": [
         {
           "id": "20261008-w1",
           "tag": "steel",
-          "rating": "amber",
-          "source": "Fact.MR",
-          "date": "2026-04-13",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QdlVWYkhUUHFMQ042anhjZWhnN25NSnZfX2F3QU1IVnpHdHVIeWpSS2R0RnVCQjBHVVgwQjhTR21WeThVSF9Td2p5LUxpN3dKekd0UXJpdHMxWENF?oc=5",
-          "title": "Steel Scrap Market, Global Market Analysis Report - 2036",
-          "summary": "The global steel scrap market continues to expand as steelmakers increasingly adopt electric arc furnaces to reduce emissions, altering raw material processing standards.",
-          "why": "Recycled steel and electric arc furnace processing change the hardness and surface scale of metals, directly impacting the type of grinding wheels and heavy-duty abrasives required for metal preparation.",
-          "action": "Monitor demand shifts towards heavy-duty grinding discs suited for recycled steel processing.",
+          "rating": "green",
+          "source": "economy.ac",
+          "date": "2026-10-01",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YQWhOYlJ3eW9jTUhwa25XdE55eHh3a2JoODhWdDAtOW00UzhXcWwtNnJJXzZGMjMtNXN6MTYwTUhib3ZHUDNXaTdIbWY2N092QXNsOXFfdw?oc=5",
+          "title": "‘Trump Tariffs and AI Boom’ Propel U.S. Steel Past Japan to World No. 3 for First Time in 26 Years",
+          "summary": "Driven by tariffs and domestic demand, U.S. steel production has surpassed Japan for the first time in 26 years, reshaping North American metal fabrication output.",
+          "why": "Higher U.S. steel production and regional fabrication directly drive demand for heavy-duty grinding, deburring, and abrasive cutting discs.",
+          "action": "Monitor export opportunities and specifications required for North American metal fabrication standards.",
           "th": {
-            "title": "ตลาดเศษเหล็กโลก: รายงานการวิเคราะห์ตลาดและแนวโน้มถึงปี 2036",
-            "summary": "ตลาดเศษเหล็กทั่วโลกขยายตัวต่อเนื่อง เนื่องจากผู้ผลิตเหล็กหันมาใช้เตาหลอมอาร์กไฟฟ้า (EAF) มากขึ้นเพื่อลดการปล่อยมลพิษ ซึ่งเปลี่ยนมาตรฐานการแปรรูปวัตถุดิบ",
-            "why": "เหล็กรีไซเคิลและกระบวนการผลิตด้วยเตา EAF ทำให้ความแข็งและผิวของโลหะเปลี่ยนแปลงไป ซึ่งส่งผลโดยตรงต่อประเภทของหินเจียรและกระดาษทรายสำหรับงานโลหะ",
-            "action": "ติดตามความต้องการที่เปลี่ยนไปของแผ่นเจียรและใบตัดรองรับงานเหล็กรีไซเคิล"
+            "title": "'ภาษีทรัมป์และบูม AI' ผลักดันให้เหล็กสหรัฐฯแซงญี่ปุ่นขึ้นสู่อันดับ 3 ของโลกเป็นครั้งแรกในรอบ 26 ปี",
+            "summary": "จากแรงหนุนของกำแพงภาษีและความต้องการภายในประเทศ การผลิตเหล็กของสหรัฐฯ ได้แซงหน้าญี่ปุ่นเป็นครั้งแรกในรอบ 26 ปี ซึ่งเปลี่ยนโฉมภาคการแปรรูปโลหะในอเมริกาเหนือ",
+            "why": "การผลิตเหล็กและการแปรรูปโลหะในสหรัฐฯ ที่เพิ่มขึ้น ส่งความต้องการโดยตรงไปยังแผ่นตัด ใบเจียร และผลิตภัณฑ์ขัดกระดาษทรายสำหรับงานหนัก",
+            "action": "ติดตามโอกาสในการส่งออกและข้อกำหนดสเปกสินค้าที่จำเป็นสำหรับมาตรฐานงานแปรรูปโลหะในอเมริกาเหนือ"
           }
         },
         {
           "id": "20261008-w2",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "Market.us",
-          "date": "2026-01-22",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ISWl4S1FIYTlibDJlR001VnBXdy1xQ1ZobnhYTzBkc3pWOEdrOFQ4VWl2VzA5NjNDcGp3VEU3ZGQ2R0VFdXQwRmZxVEVpOTE4dVl4RlF4WlBHX3pXQ3QtTkJQWQ?oc=5",
-          "title": "Wood Sanding Machine Market Size, Share | CAGR of 4.3%",
-          "summary": "The wood sanding machine market is projected to grow at a steady CAGR of 4.3%, driven by automation and precision finishing demands in furniture and construction.",
-          "why": "Growth in wood sanding machinery directly correlates with higher consumption of wide belt abrasives and woodworking sandpaper rolls.",
-          "action": "Align our abrasive inventory and roll-splitting services with woodworking machinery trends.",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "Amazon Web Services (AWS)",
+          "date": "2025-10-22",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UMG9rVURtamVSUnVYZzhtYjBPZUVWNDdCb0J1V3lEd09EV1JsS3dsU0ZwNkRxbmc4MVlwcXRPZW5aQklBRGxEWWxVRmVzUUJEZUNfOXZfT0d3cnVPaW5ydjZ3bjBlS1NyRGhWSw?oc=5",
+          "title": "AI in Paints and Coatings Market: Trends, Growth, and Opportunities",
+          "summary": "Artificial intelligence is increasingly integrated into paint and coating formulations, quality inspection, and automated surface defect detection.",
+          "why": "Advanced coating inspections and smart manufacturing lines demand more precise, high-tolerance surface preparation and sanding substrates.",
+          "action": "Keep an eye on how automated surface analysis affects customer expectations for sheet finish consistency.",
           "th": {
-            "title": "ขนาดส่วนแบ่งตลาดเครื่องขัดไม้ เติบโตด้วย CAGR 4.3%",
-            "summary": "ตลาดเครื่องขัดไม้คาดว่าจะเติบโตอย่างมั่นคงด้วยอัตราเติบโตเฉลี่ยสะสม (CAGR) 4.3% ขับเคลื่อนโดยความต้องการระบบอัตโนมัติและการขัดผิวที่มีความแม่นยำสูงในอุตสาหกรรมเฟอร์นิเจอร์และการก่อสร้าง",
-            "why": "การเติบโตของเครื่องจักรขัดไม้เชื่อมโยงโดยตรงกับการบริโภคกระดาษทรายสายพานกว้าง (wide belts) และกระดาษทรายม้วนสำหรับงานไม้ที่เพิ่มขึ้น",
-            "action": "เตรียมสต็อกสินค้ากลุ่มกระดาษทรายสายพานและบริการตัดม้วนให้สอดคล้องกับแนวโน้มเครื่องจักรงานไม้"
+            "title": "ตลาดปูนและสารเคลือบผิวด้วย AI: แนวโน้ม การเติบโต และโอกาส",
+            "summary": "ปัญญาประดิษฐ์ถูกนำมาผสานเข้ากับสูตรสารเคลือบสี การตรวจสอบคุณภาพ และการตรวจจับข้อบกพร่องบนพื้นผิวแบบอัตโนมัติมากขึ้น",
+            "why": "การตรวจสอบงานเคลือบขั้นสูงและสายการผลิตอัจฉริยะ เรียกร้องความแม่นยำและการเตรียมพื้นผิวที่มีความคลาดเคลื่อนต่ำ รวมถึงวัสดุกระดาษทรายที่ได้มาตรฐานสูง",
+            "action": "ติดตามดูว่าระบบวิเคราะห์พื้นผิวอัตโนมัติส่งผลอย่างไรต่อความคาดหวังของลูกค้าในด้านความสม่ำเสมอของผิวชิ้นงาน"
           }
         },
         {
           "id": "20261008-w3",
-          "tag": "coating",
+          "tag": "steel",
           "rating": "amber",
-          "source": "Fortune Business Insights",
-          "date": "2026-09-14",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXJjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
-          "title": "Automotive OEM Coatings Market Size, Share | Growth [2034]",
-          "summary": "The automotive OEM coatings market is evolving with new chemical formulations focused on durability, sustainability, and advanced surface finishes.",
-          "why": "Changes in automotive paint and coating layers require precise pre-treatment, sanding, and surface defect correction using specialized micro-abrasives.",
-          "action": "Keep an eye on advanced automotive finishing requirements for high-end paint preparation.",
+          "source": "S&P Global",
+          "date": "2026-01-12",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
+          "title": "Global steel industry battles surplus supply, protectionism",
+          "summary": "The global steel sector continues to navigate overcapacity issues and rising trade protectionism, forcing mills to optimize operational efficiencies.",
+          "why": "When steel mills face margin pressure from oversupply, they look for cost-effective, high-durability grinding and finishing consumables to optimize production costs.",
+          "action": "Position our abrasive lines as reliable, cost-efficient alternatives for mills and fabricators looking to reduce consumable overhead.",
           "th": {
-            "title": "ขนาดและส่วนแบ่งตลาดสีเคลือบ OEM ยานยนต์ ถึงปี 2034",
-            "summary": "ตลาดสีเคลือบรถยนต์สำหรับผู้ผลิตดั้งเดิม (OEM) กำลังพัฒนาด้วยสูตรเคมีใหม่ๆ ที่เน้นความทนทาน ความยั่งยืน และการตกแต่งพื้นผิวขั้นสูง",
-            "why": "การเปลี่ยนแปลงของชั้นสีและสารเคลือบรถยนต์ต้องอาศัยการเตรียมพื้นผิว การขัดกระดาษทราย และการแก้ไขข้อบกพร่องที่แม่นยำด้วยกระดาษทรายเบอร์ละเอียดพิเศษ",
-            "action": "ติดตามความต้องการงานขัดผิวรถยนต์ระดับสูงเพื่อรองรับการเตรียมพื้นผิวก่อนพ่นสี"
+            "title": "อุตสาหกรรมเหล็กโลกเผชิญศึกหนักกับภาวะล้นตลาดและลัทธิกีดกันทางการค้า",
+            "summary": "ภาคอุตสาหกรรมเหล็กทั่วโลกยังคงต้องเผชิญกับปัญหากำลังการผลิตส่วนเกินและมาตรการกีดกันทางการค้าที่เพิ่มขึ้น ซึ่งบีบให้โรงงานต้องเพิ่มประสิทธิภาพการดำเนินงาน",
+            "why": "เมื่อโรงงานเหล็กเผชิญแรงกดดันด้านกำไรจากภาวะล้นตลาด พวกเขาจะมองหาวัสดุสิ้นเปลืองสำหรับงานขัดและตกแต่งผิวที่มีความทนทานและคุ้มค่า เพื่อลดต้นทุนการผลิต",
+            "action": "ชูจุดขายสินค้ากลุ่มกระดาษทรายและใบเจียรของเราว่าเป็นทางเลือกที่คุ้มค่าและพึ่งพาได้ สำหรับโรงงานและผู้รับเหมาที่ต้องการลดต้นทุนวัสดุสิ้นเปลือง"
           }
         }
       ]
