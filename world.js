@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-08",
-      "summary": "Today's global briefing highlights key shifts in steel production dynamics, EV manufacturing automation, and cutting disk market trends, signaling evolving demand patterns for industrial abrasives and surface finishing.",
-      "directCount": 2,
+      "summary": "Today's briefing focuses on global shifts in the steel scrap supply chain, wood sanding machine market growth, and automotive coatings market trends. These indicators highlight evolving surface finishing requirements across metal and woodworking sectors.",
+      "directCount": 3,
       "th": {
-        "summary": "สรุปทิศทางโลกวันนี้เน้นการเปลี่ยนแปลงในอุตสาหกรรมเหล็ก ระบบอัตโนมัติในการผลิต EV และตลาดแผ่นตัด ซึ่งบ่งชี้ถึงรูปแบบความต้องการที่เปลี่ยนไปสำหรับวัสดุขัดกระดาษทรายและงานตกแต่งผิวโลหะ"
+        "summary": "สรุปประเด็นข่าววันนี้เน้นการเปลี่ยนแปลงของห่วงโซ่อุปทานเศษเหล็กในระดับโลก การเติบโตของตลาดเครื่องขัดไม้ และแนวโน้มตลาดสีเคลือบยานยนต์ ซึ่งบ่งชี้ถึงความต้องการงานเตรียมพื้นผิวที่เปลี่ยนไปในอุตสาหกรรมโลหะและไม้"
       },
       "items": [
         {
           "id": "20261008-w1",
           "tag": "steel",
           "rating": "amber",
-          "source": "https://economy.ac/",
-          "date": "2026-10-01",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YQWhOYlJ3eW9jTUhwa25XdE55eHh3a2JoODhWdDAtOW00UzhXcWwtNnJJXzZGMjMtNXN6MTYwTUhib3ZHUDNXaTdIbWY2N092QXNsOXFfdw?oc=5",
-          "title": "‘Trump Tariffs and AI Boom’ Propel U.S. Steel Past Japan to World No. 3 for First Time in 26 Years",
-          "summary": "Driven by tariffs and AI-related infrastructure demand, U.S. steel output has surpassed Japan, altering global steel supply chains and regional manufacturing footprints.",
-          "why": "Shifts in global steel production rankings directly impact where heavy metal fabrication and subsequent grinding, deburring, and surface prep activities are concentrated.",
-          "action": "Monitor U.S. and North American metal fabrication growth as a potential export or supply chain destination for abrasive consumption.",
+          "source": "Fact.MR",
+          "date": "2026-04-13",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QdlVWYkhUUHFMQ042anhjZWhnN25NSnZfX2F3QU1IVnpHdHVIeWpSS2R0RnVCQjBHVVgwQjhTR21WeThVSF9Td2p5LUxpN3dKekd0UXJpdHMxWENF?oc=5",
+          "title": "Steel Scrap Market, Global Market Analysis Report - 2036",
+          "summary": "The global steel scrap market continues to expand as steelmakers increasingly adopt electric arc furnaces to reduce emissions, altering raw material processing standards.",
+          "why": "Recycled steel and electric arc furnace processing change the hardness and surface scale of metals, directly impacting the type of grinding wheels and heavy-duty abrasives required for metal preparation.",
+          "action": "Monitor demand shifts towards heavy-duty grinding discs suited for recycled steel processing.",
           "th": {
-            "title": "นโยบายภาษีและบูม AI ดันเหล็กสหรัฐฯแซงญี่ปุ่นขึ้นอันดับ 3 ของโลกในรอบ 26 ปี",
-            "summary": "การเติบโตจากกำแพงภาษีและอุปสงค์โครงสร้างพื้นฐาน AI ทำให้ผลผลิตเหล็กของสหรัฐฯ แซงหน้าญี่ปุ่น ซึ่งเปลี่ยนห่วงโซ่อุปทานเหล็กโลก",
-            "why": "การเปลี่ยนแปลงลำดับการผลิตเหล็กโลกส่งผลโดยตรงต่อแหล่งผลิตงานแปรรูปโลหะหนักและความต้องการใช้, ลบคม และเตรียมพื้นผิว",
-            "action": "ติดตามการเติบโตของการผลิตโลหะในอเมริกาเหนือในฐานะตลาดหรือห่วงโซ่อุปทานที่มีศักยภาพสำหรับผลิตภัณฑ์ขัด"
+            "title": "ตลาดเศษเหล็กโลก: รายงานการวิเคราะห์ตลาดและแนวโน้มถึงปี 2036",
+            "summary": "ตลาดเศษเหล็กทั่วโลกขยายตัวต่อเนื่อง เนื่องจากผู้ผลิตเหล็กหันมาใช้เตาหลอมอาร์กไฟฟ้า (EAF) มากขึ้นเพื่อลดการปล่อยมลพิษ ซึ่งเปลี่ยนมาตรฐานการแปรรูปวัตถุดิบ",
+            "why": "เหล็กรีไซเคิลและกระบวนการผลิตด้วยเตา EAF ทำให้ความแข็งและผิวของโลหะเปลี่ยนแปลงไป ซึ่งส่งผลโดยตรงต่อประเภทของหินเจียรและกระดาษทรายสำหรับงานโลหะ",
+            "action": "ติดตามความต้องการที่เปลี่ยนไปของแผ่นเจียรและใบตัดรองรับงานเหล็กรีไซเคิล"
           }
         },
         {
           "id": "20261008-w2",
           "tag": "abrasive",
           "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-09-27",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUjROMDdtWnhLRnRQWEZxcmtSUTB0U1pmNTVyYVNpZVE2RERSc1VFSWtITzdDZlpRY0VtZkZmRDZwalRwak1aMGJZLVhJSHpBQ2ZfSFVKc2VEbU1fTVpUVXg3MDhIeEFobGR5ZlN5ZFVZdDNDRkZ5NkpkNGNucHZ0NDR6dUVfdTlQUkJiYkhmcDdJYm9aaGFUOHpZOGFra2N5cUczQmVxY2t5MjdESldpbFlnTnE0ek5Ya0dyVw?oc=5",
-          "title": "World Cutting Discs - Market Analysis, Forecast, Size, Trends and Insights",
-          "summary": "A comprehensive market analysis outlines ongoing trends, demand drivers, and size forecasts for cutting discs across global industrial sectors.",
-          "why": "Cutting discs are a core product line in our abrasive portfolio; tracking their global market trajectory helps benchmark our product lineup.",
-          "action": "Review cutting disc inventory and source competitive specifications to match rising global performance standards.",
+          "source": "Market.us",
+          "date": "2026-01-22",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ISWl4S1FIYTlibDJlR001VnBXdy1xQ1ZobnhYTzBkc3pWOEdrOFQ4VWl2VzA5NjNDcGp3VEU3ZGQ2R0VFdXQwRmZxVEVpOTE4dVl4RlF4WlBHX3pXQ3QtTkJQWQ?oc=5",
+          "title": "Wood Sanding Machine Market Size, Share | CAGR of 4.3%",
+          "summary": "The wood sanding machine market is projected to grow at a steady CAGR of 4.3%, driven by automation and precision finishing demands in furniture and construction.",
+          "why": "Growth in wood sanding machinery directly correlates with higher consumption of wide belt abrasives and woodworking sandpaper rolls.",
+          "action": "Align our abrasive inventory and roll-splitting services with woodworking machinery trends.",
           "th": {
-            "title": "ตลาดแผ่นตัดทั่วโลก - การวิเคราะห์ตลาด การคาดการณ์ ขนาด แนวโน้ม และเชิงลึก",
-            "summary": "การวิเคราะห์ตลาดเชิงลึกเผยถึงแนวโน้ม ตัวขับเคลื่อนอุปสงค์ และการคาดการณ์ขนาดตลาดสำหรับแผ่นตัดในภาคอุตสาหกรรมทั่วโลก",
-            "why": "แผ่นตัดเป็นสินค้าหลักในกลุ่มผลิตภัณฑ์วัสดุขัดของเรา การติดตามทิศทางตลาดช่วยให้เปรียบเทียบและพัฒนาสินค้าได้ดีขึ้น",
-            "action": "ทบทวนสต็อกแผ่นตัดและจัดหาสเปกสินค้าที่แข่งขันได้เพื่อให้สอดคล้องกับมาตรฐานประสิทธิภาพโลกที่สูงขึ้น"
+            "title": "ขนาดส่วนแบ่งตลาดเครื่องขัดไม้ เติบโตด้วย CAGR 4.3%",
+            "summary": "ตลาดเครื่องขัดไม้คาดว่าจะเติบโตอย่างมั่นคงด้วยอัตราเติบโตเฉลี่ยสะสม (CAGR) 4.3% ขับเคลื่อนโดยความต้องการระบบอัตโนมัติและการขัดผิวที่มีความแม่นยำสูงในอุตสาหกรรมเฟอร์นิเจอร์และการก่อสร้าง",
+            "why": "การเติบโตของเครื่องจักรขัดไม้เชื่อมโยงโดยตรงกับการบริโภคกระดาษทรายสายพานกว้าง (wide belts) และกระดาษทรายม้วนสำหรับงานไม้ที่เพิ่มขึ้น",
+            "action": "เตรียมสต็อกสินค้ากลุ่มกระดาษทรายสายพานและบริการตัดม้วนให้สอดคล้องกับแนวโน้มเครื่องจักรงานไม้"
           }
         },
         {
           "id": "20261008-w3",
-          "tag": "auto",
-          "rating": "green",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-09-10",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVjkzSTlDYzItRzJSVXhQSjc1a0ttQ0dIRVYxRDgxaHFiQ0x3c1ZsLTdZQ0RRSk04bmhjdHQ4ZGJrV0lLVk45XzQ5ZzQwN1VwMDNERWNWVEpJNTRVYzZqTFFmcEIyUUZRNG9LOHp6ODIxYm80eEZrcTBOdENvenJqdktfcm5neXlITEZSRXNQclF2ZUpGUXVLTmY3SmhCRUlHdldDVC11QjRnZ3UtYzRlbzAwYS1yaW5oZV8zWmRMY2k?oc=5",
-          "title": "Smart-factory wiring woes: EVs demand automation now, not later",
-          "summary": "As EV production ramps up, complex wiring and assembly challenges are forcing automakers to accelerate factory automation strategies immediately.",
-          "why": "Automated EV manufacturing lines require high-precision robotic deburring, surface finishing, and specialized sanding components.",
-          "action": "Explore automated-compatible abrasive solutions and deburring tools tailored for robotic applications in modern smart factories.",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "Fortune Business Insights",
+          "date": "2026-09-14",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXJjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
+          "title": "Automotive OEM Coatings Market Size, Share | Growth [2034]",
+          "summary": "The automotive OEM coatings market is evolving with new chemical formulations focused on durability, sustainability, and advanced surface finishes.",
+          "why": "Changes in automotive paint and coating layers require precise pre-treatment, sanding, and surface defect correction using specialized micro-abrasives.",
+          "action": "Keep an eye on advanced automotive finishing requirements for high-end paint preparation.",
           "th": {
-            "title": "ปัญหาการเดินสายไฟในโรงงานอัจฉริยะ: รถยนต์ไฟฟ้าต้องการระบบอัตโนมัติเดี๋ยวนี้ไม่ใช่รอช้า",
-            "summary": "การผลิต EV ที่เพิ่มขึ้นและความซับซ้อนของการประกอบ บีบให้ผู้ผลิตรถยนต์ต้องเร่งนำระบบอัตโนมัติมาใช้ในโรงงานทันที",
-            "why": "สายการผลิต EV แบบอัตโนมัติจำเป็นต้องใช้อุปกรณ์ลบคมและตกแต่งผิวด้วยหุ่นยนต์ที่มีความแม่นยำสูง",
-            "action": "สำรวจโซลูชันกระดาษทรายและเครื่องมือลบคมที่รองรับระบบอัตโนมัติ สำหรับการใช้งานกับหุ่นยนต์ในโรงงานอัจฉริยะ"
+            "title": "ขนาดและส่วนแบ่งตลาดสีเคลือบ OEM ยานยนต์ ถึงปี 2034",
+            "summary": "ตลาดสีเคลือบรถยนต์สำหรับผู้ผลิตดั้งเดิม (OEM) กำลังพัฒนาด้วยสูตรเคมีใหม่ๆ ที่เน้นความทนทาน ความยั่งยืน และการตกแต่งพื้นผิวขั้นสูง",
+            "why": "การเปลี่ยนแปลงของชั้นสีและสารเคลือบรถยนต์ต้องอาศัยการเตรียมพื้นผิว การขัดกระดาษทราย และการแก้ไขข้อบกพร่องที่แม่นยำด้วยกระดาษทรายเบอร์ละเอียดพิเศษ",
+            "action": "ติดตามความต้องการงานขัดผิวรถยนต์ระดับสูงเพื่อรองรับการเตรียมพื้นผิวก่อนพ่นสี"
           }
         }
       ]
