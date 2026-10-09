@@ -2,6 +2,71 @@
 window.NEWS_ARCHIVE = {
   "days": [
     {
+      "date": "2026-10-10",
+      "summary": "Today has limited new developments; the primary focus remains on Thailand's three-tier EV tax structure supporting local component makers, alongside ongoing margin pressures in steel and export furniture.",
+      "directCount": 1,
+      "th": {
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก ประเด็นสำคัญยังคงอยู่ที่โครงสร้างภาษี EV แบบ 3 เทียร์ที่ช่วยหนุนผู้ผลิตชิ้นส่วนในประเทศ ควบคู่กับแรงกดดันด้านผลกำไรในกลุ่มเหล็กและเฟอร์นิเจอร์ส่งออก"
+      },
+      "items": [
+        {
+          "id": "20261010-1",
+          "tag": "auto",
+          "rating": "green",
+          "source": "มติชนออนไลน์",
+          "date": "2026-09-21",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3YkdiUjdFRVhyTUJkeERxZkxWYk1qeEdLT20xS2VpV2c2WllpNV9OTnJoQS0yTHlyS0hScS0xU1NuOGswXzBZbUVkUk9rYm9UYXVfWjYzUllpWTA?oc=5",
+          "title": "Thailand Approves Three-Tier EV Tax Restructuring to Protect Local Supply Chain",
+          "summary": "The National EV Policy Committee has approved a three-tier excise tax structure that imposes higher duties on imported vehicles while providing tax incentives for manufacturers utilizing local components.",
+          "why": "Stricter local content requirements safeguard production volume at tier-1 and tier-2 auto parts stampers, directly preserving demand for our metal deburring and finishing abrasives.",
+          "action": "Target automotive metal stamping and chassis fabrication clients with customized grinding discs and flap wheel replenishment packages.",
+          "th": {
+            "title": "เคาะภาษีอีวี 3 เทียร์ หนุนการผลิตในประเทศและรักษาห่วงโซ่อุปทานชิ้นส่วนไทย",
+            "summary": "บอร์ดอีวีเห็นชอบโครงสร้างภาษีสรรพสามิต 3 เทียร์ โดยเพิ่มภาระภาษีรถนำเข้า และให้สิทธิประโยชน์สูงสุดแก่ผู้ผลิตที่ใช้ชิ้นส่วนในประเทศ",
+            "why": "เกณฑ์สัดส่วนชิ้นส่วนในประเทศช่วยรักษาการผลิตของโรงงานปั๊มขึ้นรูปและผลิตชิ้นส่วนยานยนต์ ซึ่งเป็นผู้ใช้วัสดุขัดลบครีบและเตรียมผิวโลหะหลักของบริษัท",
+            "action": "รุกนำเสนอจานขัดและผ้าทรายเรียงซ้อนแก่โรงงานปั๊มชิ้นส่วนและโครงสร้างยานยนต์เพื่อรองรับยอดผลิตชิ้นส่วนในประเทศ"
+          }
+        },
+        {
+          "id": "20261010-2",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "bangkokbiznews",
+          "date": "2026-06-09",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1BZE5wSV9tN3JIMkxoeTBjenRHaWFGTThOMkNUWUgwUm4ybm02TTlNLWJ5U1RFdVFRQVBwSldqVWEyUHBIVXhfTnNiSHpzQXhoVDhUYjJoMVAyakhp?oc=5",
+          "title": "Domestic Steel Makers Petition Ministry Against Reopening of Substandard Mill",
+          "summary": "Thai steel producer associations have urged the Department of Industrial Works to block the reopening of the Xin Ke Yuan mill over ongoing product standard and environmental concerns.",
+          "why": "Unfair competition from non-standard operators undermines capacity utilization and cash flow among compliant domestic steel mills, our core abrasive users.",
+          "action": "Monitor credit terms for steel mill clients while focusing sales on standard-certified steel processors.",
+          "th": {
+            "title": "ผู้ผลิตเหล็กไทยร้องกรมโรงงานฯ สกัดเปิดโรงงาน 'ซิน เคอ หยวน' หวั่นไร้มาตรฐานกระทบตลาด",
+            "summary": "สมาคมเหล็กไทยยื่นหนังสือต่อกรมโรงงานอุตสาหกรรม คัดค้านการอนุญาตเปิดโรงงานซิน เคอ หยวน หลังพบปัญหามาตรฐานผลิตภัณฑ์และสิ่งแวดล้อมต่อเนื่อง",
+            "why": "การตัดราคาจากโรงงานที่ไม่ได้มาตรฐานกดดันกำลังการผลิตและสภาพคล่องของโรงงานเหล็กมาตรฐานที่เป็นลูกค้าหินเจียรและวัสดุขัดของเรา",
+            "action": "เข้มงวดเงื่อนไขสินเชื่อในกลุ่มลูกค้าโรงงานเหล็ก และเน้นเจาะกลุ่มผู้แปรรูปเหล็กที่ได้การรับรองมาตรฐาน มอก."
+          }
+        },
+        {
+          "id": "20261010-3",
+          "tag": "furniture",
+          "rating": "amber",
+          "source": "กรมส่งเสริมการค้าระหว่างประเทศ (DITP)",
+          "date": "2025-10-08",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WZ0s3TnpGQ1JjZHJpVkhVQ19La3lwT2hjMTR3cXZlczhtby1WNnFQaUcxb2RUZ1FPcGgwQTRWa2t6TnN4d3NNUXF6bXVjOEpKY3FrWlFocm9nRnJ5UGdZOFd3?oc=5",
+          "title": "Furniture Makers Anticipate Slower Export Orders Under US Tariff Headwinds",
+          "summary": "Thai wooden and metal furniture manufacturers expect export orders to decline under tightening US tariff measures, prompting calls to diversify export destinations.",
+          "why": "A drop in export furniture fabrication reduces operational hours and belt sanding abrasive consumption across OEM woodworking plants.",
+          "action": "Shift excess woodworking abrasive stock to DIY woodcraft channels on Shopee and TikTok to mitigate industrial order softness.",
+          "th": {
+            "title": "ผู้ผลิตเฟอร์นิเจอร์คาดยอดสั่งซื้อชะลอตัวจากนโยบายภาษีนำเข้าใหม่ของสหรัฐฯ",
+            "summary": "ผู้ผลิตเฟอร์นิเจอร์ส่งออกของไทยคาดการณ์คำสั่งซื้อลดลงหลังสหรัฐฯ ปรับใช้นโยบายภาษีนำเข้าใหม่ พร้อมเร่งมองหาตลาดทดแทน",
+            "why": "คำสั่งซื้อเฟอร์นิเจอร์ส่งออกที่ลดลงจะทำให้ชั่วโมงการผลิตลดลง ส่งผลต่อยอดใช้กระดาษทรายสายพานผ้าทรายและจานขัดไม้ในโรงงาน OEM",
+            "action": "กระจายสต็อกกระดาษทรายงานไม้บางส่วนไปทำโปรโมชันกลุ่มช่าง DIY ผ่านช่องทาง Shopee และ TikTok เพื่อชดเชยยอดโรงงาน"
+          }
+        }
+      ],
+      "terms": {}
+    },
+    {
       "date": "2026-10-09",
       "summary": "There are limited fresh headlines today as major EV tax overhauls and aerospace MRO agreements were covered in recent briefings. The focus remains on domestic parts localization support and the ongoing margin pressure on local steel fabricators.",
       "directCount": 1,
@@ -717,5 +782,5 @@ window.NEWS_ARCHIVE = {
       "terms": {}
     }
   ],
-  "updated": "2026-10-09"
+  "updated": "2026-10-10"
 };
