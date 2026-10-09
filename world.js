@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-10-08",
+  "updated": "2026-10-09",
   "days": [
+    {
+      "date": "2026-10-09",
+      "summary": "Today's briefing focuses on global manufacturing shifts in EV wiring automation, regional coatings market growth, and scrap metal/EAF steel integration that directly impacts heavy metal surface preparation.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปรายงานวันนี้เน้นการเปลี่ยนแปลงการผลิตระดับโลกในด้านระบบอัตโนมัติสายไฟ EV การเติบโตของตลาดสีเคลือบระดับภูมิภาค และการหลอมรวมเหล็กเศษซาก/EAF ซึ่งส่งผลกระทบโดยตรงต่อธุรกิจเตรียมพื้นผิวโลหะหนัก"
+      },
+      "items": [
+        {
+          "id": "20261009-w1",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-09-10",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVjkzSTlDYzItRzJSVXhQSjc1a0ttQ0dIRVYxRDgxaHFiQ0x3c1ZsLTdZQ0RRSk04bmhjdHQ4ZGJrV0lLVk45XzQ5ZzQwN1VwMDNERWNWVEpJNTRVYzZqTFFmcEIyUUZRNG9LOHp6ODIxYm80eEZrcTBOdENvenJqdktfcm5neXlITEZSRXNQclF2ZUpGUXVLTmY3SmhCRUlHdldDVC11QjRnZ3UtYzRlbzAwYS1yaW5oZV8zWmRMY2k?oc=5",
+          "title": "Smart-factory wiring woes: EVs demand automation now, not later",
+          "summary": "Electric vehicle manufacturers are rapidly accelerating factory automation to resolve complex wiring and assembly challenges.",
+          "why": "EV assembly automation changes how metal and composite components are handled, deburred, and finished before wiring and final assembly.",
+          "action": "Monitor automated deburring and surface finishing solutions compatible with robotic arms.",
+          "th": {
+            "title": "ปัญหาการเดินสายไฟในโรงงานอัจฉริยะ: รถยนต์ไฟฟ้าเรียกร้องระบบอัตโนมัติทันที",
+            "summary": "ผู้ผลิตรถยนต์ไฟฟ้ากำลังเร่งนำระบบอัตโนมัติมาใช้ในโรงงานอย่างรวดเร็ว เพื่อแก้ปัญหาความซับซ้อนในการเดินสายไฟและการประกอบ",
+            "why": "ระบบอัตโนมัติในการประกอบ EV เปลี่ยนแปลงวิธีการจัดการ ลบคม และขัดแต่งชิ้นส่วนโลหะและคอมโพสิตก่อนเดินสายและประกอบขั้นสุดท้าย",
+            "action": "ติดตามโซลูชันการลบคมและขัดผิวอัตโนมัติที่รองรับแขนกลหุ่นยนต์"
+          }
+        },
+        {
+          "id": "20261009-w2",
+          "tag": "steel",
+          "rating": "green",
+          "source": "Shanghai Metals Market",
+          "date": "2026-05-19",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMmw1akRRMFZCQ2I5NGhHdE1NOXhoaE1GY0h5UmxlQVNUVGxHTko2U0NBQ0o0Q19ZYmZ1VnBCTTB6a2JJQTFNOUpDSUtpWXdaR3hkeGhlOXF4dF9yUElCd1ZkWTl4MmZGOWhVeUlXc2VCMXFCOHQzZ0ZGZ1RtZ3p6aUNObEczWFhKMkdKQ3JuRWF5SjVNZmpOQVBaSGs4TWJKS1lVa0VTdmoxdDBQTF8zRDlxME1qeEtOUzJzSTBERURobWltWTlVUlpaZ3d2WlFRNEY1b0UwbVVfLXc0cXBZ?oc=5",
+          "title": "[SMM Global Steel Company Special] Nucor: 100% EAF, High Profits, and Vertical Integration Mitigating Costs",
+          "summary": "Nucor's 100% Electric Arc Furnace (EAF) model and vertical integration continue to drive high profitability and cost mitigation.",
+          "why": "EAF steel production and recycling mills represent heavy metal output that constantly requires grinding wheels, cutting discs, and heavy-duty abrasives.",
+          "action": "Keep strong inventory support for heavy-duty cutting discs and grinding wheels tailored for steel mills and metal fabricators.",
+          "th": {
+            "title": "[พิเศษจาก SMM Global Steel] Nucor: เตาหลอมไฟฟ้า 100%, กำไรสูง และการรวมกิจการแนวดิ่งเพื่อลดต้นทุน",
+            "summary": "โมเดลเตาหลอมไฟฟ้า (EAF) 100% และการรวมธุรกิจแบบครบวงจรของ Nucor ช่วยขับเคลื่อนความสามารถทำกำไรและลดต้นทุนอย่างต่อเนื่อง",
+            "why": "การผลิตเหล็กด้วยเตา EAF และโรงงานรีไซเคิลคือแหล่งผลิตโลหะหนักที่ต้องใช้หินเจียร แผ่นตัด และวัสดุขัดกระดาษทรายสำหรับงานหนักอยู่เสมอ",
+            "action": "รักษาระดับสต็อกสินค้าแผ่นตัดและหินเจียรสำหรับงานหนักที่เหมาะกับโรงงานเหล็กและผู้ผลิตโลหะให้พร้อมอยู่เสมอ"
+          }
+        },
+        {
+          "id": "20261009-w3",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "MarketsandMarkets",
+          "date": "2026-08-03",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUTNUMnQ5Z2tsa1ZIYWdiWXFIRDEwNEVzOUNTX0pwSXY2TFhXZnJEaktRaWVObWs3UzFqd3lWd2pTRlR6eHJnNWRkMHhfeFpjZFdqUGRZcmxvcHFHUFNjVW80TnYtZ09zRE1xejZZQnc1ZjVsT05pOEpjOEwwSUZzSDdwOEN5NTJyTmc?oc=5",
+          "title": "US Paints & Coatings Market Size, Share, Trends, Growth Analysis Report, 2030",
+          "summary": "Market analysis projects steady long-term growth and shifting manufacturing standards within the US paints and coatings sector.",
+          "why": "Coatings and surface prep are deeply linked; changes in coating thickness and material types dictate shifting abrasive sanding requirements.",
+          "action": "Watch for new coating formulas that demand finer or specialized micro-finishing abrasives.",
+          "th": {
+            "title": "รายงานขนาด ส่วนแบ่ง แนวโน้ม และการวิเคราะห์การเติบโตของตลาดสีและสารเคลือบในสหรัฐอเมริกา ปี 2030",
+            "summary": "การวิเคราะห์ตลาดคาดการณ์การเติบโตในระยะยาวที่มั่นคงและการเปลี่ยนแปลงมาตรฐานการผลิตในกลุ่มอุตสาหกรรมสีและสารเคลือบของสหรัฐฯ",
+            "why": "งานเคลือบและงานเตรียมพื้นผิวมีความเกี่ยวުރ้องกันอย่างมาก ความเปลี่ยนแปลงของความหนาชั้นเคลือบและชนิดวัสดุจะกำหนดความต้องการกระดาษทรายและวัสดุขัดที่เปลี่ยนไป",
+            "action": "คอยสังเกตสูตรสารเคลือบใหม่ๆ ที่ต้องการวัสดุขัดผิวละเอียดหรือไมโครฟินิชชิ่งแบบพิเศษ"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-10-08",
       "summary": "Today's briefing focuses on shifting global steel dynamics with the U.S. rising to world No. 3, alongside AI and digital integration transforming manufacturing and coating lines which influence surface preparation standards.",
@@ -902,70 +966,6 @@ window.WORLD_ARCHIVE = {
             "summary": "ตลาดสารเคลือบอุตสาหกรรมในอเมริกาเหนือมีแนวโน้มเติบโตอย่างต่อเนื่องจนถึงปี 2031 ได้รับอิทธิพลจากความต้องการด้านการผลิตขั้นสูงและการปกป้องพื้นผิว",
             "why": "สารเคลือบอุตสาหกรรมและวัสดุขัดมักใช้งานร่วมกันในกระบวนการเตรียมพื้นผิวก่อนพ่นเคลือบ",
             "action": "ติดตามนวัตกรรมการเคลือบผิวในภูมิภาคต่างๆ เพื่อใช้เป็นสัญญาณบ่งชี้มาตรฐานการเตรียมผิวที่จำเป็นสำหรับอุตสาหกรรมการส่งออก"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-09-25",
-      "summary": "Today's briefing highlights shifts in precision mineral demand for electronics finishing, regional industrial coating updates, and structural changes in industrial metal and manufacturing inputs.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปประเด็นข่าววันนี้เน้นการเติบโตของวัตถุดิบขัดถูสำหรับงานอิเล็กทรอนิกส์ แนวโน้มตลาดเคลือบผิวอุตสาหกรรม และการเปลี่ยนแปลงโครงสร้างโลหะและภาคการผลิต"
-      },
-      "items": [
-        {
-          "id": "20260925-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-09-16",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNb0Q5M1RPYjlHdElGeXctWllESFpkc3l4U0IxckRudVdxdEM1RF9DVzBpRWNDV0tuX0x1dEZNN1llMlNvYk5qUHdzcUozMjRXVDdwckFOSHdRbkJpUUNQMUd1dll3SGJfZzMxUkR1cWJNek1fLTg0d2RxYkF1Z3dCSk5UbWNpSXJPeC1sSEVOWnBmRlJZQndtZS1HUXIwTFdGenRpVmVMdVI5aW1VVGpualdfeG93WWU5MkFoNTZtR0taWG5CZzNCREo2YXhxbU5UWm9BRGlOOTgtaXlROUg0U1pMWlhlX3Fx?oc=5",
-          "title": "Coated Sanding Sheets Market Forecast to 2035: Replacement Demand in Electronics and Semiconductor Finishing Drives 4–6% CAGR",
-          "summary": "The coated sanding sheets market is projected to see steady growth driven by replacement demand in high-tech electronics and semiconductor finishing.",
-          "why": "Signals a clear growth vertical for precision coated abrasives beyond traditional metalworking into high-value electronics manufacturing.",
-          "action": "Evaluate our product lineup for fine-grit coated sheets suited for electronic component and semiconductor supply chains.",
-          "th": {
-            "title": "ตลาดกระดาษทรายเคลือบถึงปี 2035: ความต้องการในอุตสาหกรรมอิเล็กทรอนิกส์และเซมิคอนดักเตอร์หนุนการเติบโต",
-            "summary": "ตลาดกระดาษทรายเคลือบมีแนวโน้มเติบโตต่อเนื่อง ขับเคลื่อนโดยความต้องการเปลี่ยนทดแทนในงานตกแต่งผิวชิ้นส่วนอิเล็กทรอนิกส์และเซมิคอนดักเตอร์ไฮเทค",
-            "why": "เป็นสัญญาณบ่งชี้โอกาสเติบโตของกระดาษทรายขัดความละเอียดสูง นอกเหนือจากงานโลหะทั่วไปสู่อุตสาหกรรมอิเล็กทรอนิกส์มูลค่าสูง",
-            "action": "ประเมินกลุ่มผลิตภัณฑ์กระดาษทรายขัดละเอียดของเราว่าสอดคล้องกับความต้องการของห่วงโซ่อุปทานอิเล็กทรอนิกส์และเซมิคอนดักเตอร์หรือไม่"
-          }
-        },
-        {
-          "id": "20260925-w2",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "MarketsandMarkets",
-          "date": "2026-09-18",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaXU3LUZMbTh1MWl1RGJRcEJ1VzF4a2JFVkJ1dkNHbW44WHdKLXU0MlhLOEc1YTdtMjdQcWdVX3BBbGxnc3p2ZWJCakp5cU93d1U3Wmh2alB3cTFsMFF2VEY5YllGbnJ0V2lSZWJPa3llaGJTaXZWNTBibG9RUlhfNXpBdmE5VmM2VHRTZkhsNUpNaTlKRkJNUFpR?oc=5",
-          "title": "Thailand Industrial Coatings Market Size, Share, Trends, Growth Analysis Report, 2031",
-          "summary": "A comprehensive look at growth factors, size, and shares within Thailand's industrial coatings sector through 2031.",
-          "why": "Industrial coating activity closely parallels surface preparation and pre-painting abrasive consumption in local manufacturing plants.",
-          "action": "Cross-reference industrial coating growth sectors in Thailand with our direct B2B customer targets.",
-          "th": {
-            "title": "รายงานขนาด ส่วนแบ่ง และแนวโน้มตลาดสีเคลือบอุตสาหกรรมไทย ถึงปี 2031",
-            "summary": "ภาพรวมเชิงลึกเกี่ยวกับปัจจัยการเติบโต ขนาด และส่วนแบ่งตลาดในภาคสีเคลือบอุตสาหกรรมของประเทศไทยจนถึงปี 2031",
-            "why": "กิจกรรมการเคลือบอุตสาหกรรมมีความเชื่อมโยงโดยตรงกับปริมาณการใช้กระดาษทรายและวัสดุขัดเพื่อเตรียมพื้นผิวก่อนพ่นสีในโรงงาน",
-            "action": "นำข้อมูลการเติบโตของอุตสาหกรรมการเคลือบในไทยมาเทียบเคียงกับกลุ่มลูกค้าเป้าหมาย B2B ของเรา"
-          }
-        },
-        {
-          "id": "20260925-w3",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "Progressive Policy Institute",
-          "date": "2026-09-24",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTeHd1akw0WFVaUWFucjdlRWp1cFBVQjRiRi1rWFd2WlNVRkQzanJJMmpMV3BBM0QxVEF5N2FZcmFMSFNxQ3M1VTQ5c1VJYjhJRVRQQVM3M2tac1FFMGdSSlZ4eTdQdzNINFB1MDR0a09haWhpNkFIVV9aWlA?oc=5",
-          "title": "American Industry Is Using Less Steel",
-          "summary": "Recent data and analysis show shifting structural trends in American manufacturing leading to lower overall steel consumption.",
-          "why": "Changes in primary steel consumption impact metal fabrication volume, which directly dictates heavy grinding and deburring consumable demand.",
-          "action": "Monitor global metal consumption trends to anticipate shifts in heavy industrial abrasive demand.",
-          "th": {
-            "title": "อุตสาหกรรมสหรัฐฯ ใช้เหล็กกล้าน้อยลง",
-            "summary": "ข้อมูลและบทวิเคราะห์ล่าสุดแสดงให้เห็นถึงการเปลี่ยนแปลงเชิงโครงสร้างในภาคการผลิตของสหรัฐฯ ส่งผลให้การบริโภคเหล็กโดยรวมลดลง",
-            "why": "การเปลี่ยนแปลงของการบริโภคเหล็กขั้นต้นส่งผลกระทบต่อปริมาณงานแปรรูปโลหะ ซึ่งกำหนดความต้องการใช้วัสดุขัดหยาบและลบคมโดยตรง",
-            "action": "ติดตามแนวโน้มการบริโภคโลหะทั่วโลกเพื่อคาดการณ์การเปลี่ยนแปลงความต้องการใช้วัสดุขัดในอุตสาหกรรมหนัก"
           }
         }
       ]
