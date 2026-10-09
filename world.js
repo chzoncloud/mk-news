@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-09",
-      "summary": "Today's briefing focuses on global manufacturing shifts in EV wiring automation, regional coatings market growth, and scrap metal/EAF steel integration that directly impacts heavy metal surface preparation.",
+      "summary": "Today's briefing highlights shifts in the automotive OEM coatings landscape, cutting-edge wood sanding machinery growth, and Saint-Gobain's strategic movements in the abrasive sector.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปรายงานวันนี้เน้นการเปลี่ยนแปลงการผลิตระดับโลกในด้านระบบอัตโนมัติสายไฟ EV การเติบโตของตลาดสีเคลือบระดับภูมิภาค และการหลอมรวมเหล็กเศษซาก/EAF ซึ่งส่งผลกระทบโดยตรงต่อธุรกิจเตรียมพื้นผิวโลหะหนัก"
+        "summary": "สรุปประเด็นสำคัญวันนี้เน้นการเปลี่ยนแปลงในตลาดสีเคลือบ OEM ยานยนต์ การเติบโตของเครื่องจักรขัดไม้ และความเคลื่อนไหวเชิงกลยุทธ์ของ Saint-Gobain ในกลุ่มธุรกิจวัสดุขัด"
       },
       "items": [
         {
           "id": "20261009-w1",
           "tag": "auto",
           "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-09-10",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVjkzSTlDYzItRzJSVXhQSjc1a0ttQ0dIRVYxRDgxaHFiQ0x3c1ZsLTdZQ0RRSk04bmhjdHQ4ZGJrV0lLVk45XzQ5ZzQwN1VwMDNERWNWVEpJNTRVYzZqTFFmcEIyUUZRNG9LOHp6ODIxYm80eEZrcTBOdENvenJqdktfcm5neXlITEZSRXNQclF2ZUpGUXVLTmY3SmhCRUlHdldDVC11QjRnZ3UtYzRlbzAwYS1yaW5oZV8zWmRMY2k?oc=5",
-          "title": "Smart-factory wiring woes: EVs demand automation now, not later",
-          "summary": "Electric vehicle manufacturers are rapidly accelerating factory automation to resolve complex wiring and assembly challenges.",
-          "why": "EV assembly automation changes how metal and composite components are handled, deburred, and finished before wiring and final assembly.",
-          "action": "Monitor automated deburring and surface finishing solutions compatible with robotic arms.",
+          "source": "Fortune Business Insights",
+          "date": "2026-09-14",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
+          "title": "Automotive OEM Coatings Market Size, Share | Growth [2034]",
+          "summary": "The automotive OEM coatings market is expanding steadily, driven by vehicle customization and strict environmental standards requiring advanced surface finishes.",
+          "why": "Changes in automotive body coatings directly impact how metal surfaces are prepared, primed, and sanded before final finishing.",
+          "action": "Monitor OEM coating trends to anticipate demand changes in automotive paint prep supplies.",
           "th": {
-            "title": "ปัญหาการเดินสายไฟในโรงงานอัจฉริยะ: รถยนต์ไฟฟ้าเรียกร้องระบบอัตโนมัติทันที",
-            "summary": "ผู้ผลิตรถยนต์ไฟฟ้ากำลังเร่งนำระบบอัตโนมัติมาใช้ในโรงงานอย่างรวดเร็ว เพื่อแก้ปัญหาความซับซ้อนในการเดินสายไฟและการประกอบ",
-            "why": "ระบบอัตโนมัติในการประกอบ EV เปลี่ยนแปลงวิธีการจัดการ ลบคม และขัดแต่งชิ้นส่วนโลหะและคอมโพสิตก่อนเดินสายและประกอบขั้นสุดท้าย",
-            "action": "ติดตามโซลูชันการลบคมและขัดผิวอัตโนมัติที่รองรับแขนกลหุ่นยนต์"
+            "title": "ขนาด ส่วนแบ่ง และการเติบโตของตลาดสีเคลือบ OEM ยานยนต์ [2034]",
+            "summary": "ตลาดสีเคลือบ OEM ยานยนต์กำลังเติบโตอย่างต่อเนื่อง จากความต้องการการปรับแต่งรถยนต์และมาตรฐานสิ่งแวดล้อมที่เข้มงวดซึ่งต้องใช้การเตรียมพื้นผิวขั้นสูง",
+            "why": "การเปลี่ยนแปลงของสีเคลือบรถยนต์ส่งผลโดยตรงต่อวิธีเตรียมพื้นผิว ขัดรองพื้น และขัดแต่งก่อนพ่นจริง",
+            "action": "ติดตามแนวโน้มสีเคลือบ OEM เพื่อคาดการณ์ความต้องการใช้วัสดุเตรียมพื้นผิวรถยนต์"
           }
         },
         {
           "id": "20261009-w2",
-          "tag": "steel",
+          "tag": "abrasive",
           "rating": "green",
-          "source": "Shanghai Metals Market",
-          "date": "2026-05-19",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMmw1akRRMFZCQ2I5NGhHdE1NOXhoaE1GY0h5UmxlQVNUVGxHTko2U0NBQ0o0Q19ZYmZ1VnBCTTB6a2JJQTFNOUpDSUtpWXdaR3hkeGhlOXF4dF9yUElCd1ZkWTl4MmZGOWhVeUlXc2VCMXFCOHQzZ0ZGZ1RtZ3p6aUNObEczWFhKMkdKQ3JuRWF5SjVNZmpOQVBaSGs4TWJKS1lVa0VTdmoxdDBQTF8zRDlxME1qeEtOUzJzSTBERURobWltWTlVUlpaZ3d2WlFRNEY1b0UwbVVfLXc0cXBZ?oc=5",
-          "title": "[SMM Global Steel Company Special] Nucor: 100% EAF, High Profits, and Vertical Integration Mitigating Costs",
-          "summary": "Nucor's 100% Electric Arc Furnace (EAF) model and vertical integration continue to drive high profitability and cost mitigation.",
-          "why": "EAF steel production and recycling mills represent heavy metal output that constantly requires grinding wheels, cutting discs, and heavy-duty abrasives.",
-          "action": "Keep strong inventory support for heavy-duty cutting discs and grinding wheels tailored for steel mills and metal fabricators.",
+          "source": "Market.us",
+          "date": "2026-01-22",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ISWl4S1FIYTlibDJlR001VnBXdy1xQ1ZobnhYTzBkc3pWOEdrOFQ4VWl2VzA5NjNDcGp3VEU3ZGQ2R0VFdXQwRmZxVEVpOTE4dVl4RlF4WlBHX3pXQ3QtTkJQWQ?oc=5",
+          "title": "Wood Sanding Machine Market Size, Share | CAGR of 4.3%.",
+          "summary": "The wood sanding machine market is projected to grow at a stable 4.3% CAGR, reflecting steady demand in furniture and wood processing sectors.",
+          "why": "More wood sanding machines in operation directly mean higher consumption of wide belt sanders and wood sandpaper rolls.",
+          "action": "Ensure our inventory for wood-working abrasives and sanding belts aligns with machinery growth.",
           "th": {
-            "title": "[พิเศษจาก SMM Global Steel] Nucor: เตาหลอมไฟฟ้า 100%, กำไรสูง และการรวมกิจการแนวดิ่งเพื่อลดต้นทุน",
-            "summary": "โมเดลเตาหลอมไฟฟ้า (EAF) 100% และการรวมธุรกิจแบบครบวงจรของ Nucor ช่วยขับเคลื่อนความสามารถทำกำไรและลดต้นทุนอย่างต่อเนื่อง",
-            "why": "การผลิตเหล็กด้วยเตา EAF และโรงงานรีไซเคิลคือแหล่งผลิตโลหะหนักที่ต้องใช้หินเจียร แผ่นตัด และวัสดุขัดกระดาษทรายสำหรับงานหนักอยู่เสมอ",
-            "action": "รักษาระดับสต็อกสินค้าแผ่นตัดและหินเจียรสำหรับงานหนักที่เหมาะกับโรงงานเหล็กและผู้ผลิตโลหะให้พร้อมอยู่เสมอ"
+            "title": "ขนาดและส่วนแบ่งตลาดเครื่องขัดไม้ เติบโตด้วยอัตรา CAGR 4.3%",
+            "summary": "ตลาดเครื่องขัดไม้คาดว่าจะเติบโตอย่างมั่นคง สะท้อนถึงความต้องการที่ต่อเนื่องในอุตสาหกรรมเฟอร์นิเจอร์และแปรรูปไม้",
+            "why": "การใช้เครื่องขัดไม้ที่เพิ่มขึ้นหมายถึงปริมาณการใช้กระดาษทรายสายพานและกระดาษทรายขัดไม้ที่สูงขึ้น",
+            "action": "ตรวจสอบสต็อกสินค้ากลุ่มกระดาษทรายขัดไม้และสายพานขัดให้สอดคล้องกับการเติบโตของเครื่องจักร"
           }
         },
         {
           "id": "20261009-w3",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "MarketsandMarkets",
-          "date": "2026-08-03",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUTNUMnQ5Z2tsa1ZIYWdiWXFIRDEwNEVzOUNTX0pwSXY2TFhXZnJEaktRaWVObWs3UzFqd3lWd2pTRlR6eHJnNWRkMHhfeFpjZFdqUGRZcmxvcHFHUFNjVW80TnYtZ09zRE1xejZZQnc1ZjVsT05pOEpjOEwwSUZzSDdwOEN5NTJyTmc?oc=5",
-          "title": "US Paints & Coatings Market Size, Share, Trends, Growth Analysis Report, 2030",
-          "summary": "Market analysis projects steady long-term growth and shifting manufacturing standards within the US paints and coatings sector.",
-          "why": "Coatings and surface prep are deeply linked; changes in coating thickness and material types dictate shifting abrasive sanding requirements.",
-          "action": "Watch for new coating formulas that demand finer or specialized micro-finishing abrasives.",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "Univest",
+          "date": "2026-08-07",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFMG44UFZ0TFdzby1NbUVUZGRublRBUzZOaENmTzRwWlN3Vm5KZXJIbGx0Ukt4VU5WS3BUV2hLSXZOMnItMDhzQk5RczlmZERBd1oyN2hoUF8tbFJmQy12YnZKYzlzYi0wZlhabA?oc=5",
+          "title": "Grindwell Norton Share Pros and Cons: Saint-Gobain's India Abrasives Subsidiary",
+          "summary": "An analysis of Grindwell Norton highlights the competitive positioning and market strategies of Saint-Gobain's subsidiary in the abrasives space.",
+          "why": "Major global players like Saint-Gobain set benchmarks in abrasive technology pricing and distribution models.",
+          "action": "Observe how major multinational brands adapt their product lines to regional industrial demands.",
           "th": {
-            "title": "รายงานขนาด ส่วนแบ่ง แนวโน้ม และการวิเคราะห์การเติบโตของตลาดสีและสารเคลือบในสหรัฐอเมริกา ปี 2030",
-            "summary": "การวิเคราะห์ตลาดคาดการณ์การเติบโตในระยะยาวที่มั่นคงและการเปลี่ยนแปลงมาตรฐานการผลิตในกลุ่มอุตสาหกรรมสีและสารเคลือบของสหรัฐฯ",
-            "why": "งานเคลือบและงานเตรียมพื้นผิวมีความเกี่ยวުރ้องกันอย่างมาก ความเปลี่ยนแปลงของความหนาชั้นเคลือบและชนิดวัสดุจะกำหนดความต้องการกระดาษทรายและวัสดุขัดที่เปลี่ยนไป",
-            "action": "คอยสังเกตสูตรสารเคลือบใหม่ๆ ที่ต้องการวัสดุขัดผิวละเอียดหรือไมโครฟินิชชิ่งแบบพิเศษ"
+            "title": "วิเคราะห์หุ้น Grindwell Norton: บริษัทลูกด้านวัสดุขัดในอินเดียของ Saint-Gobain",
+            "summary": "บทวิเคราะห์ Grindwell Norton สะท้อนถึงตำแหน่งทางการแข่งขันและกลยุทธ์ของบริษัทในเครือ Saint-Gobain ในตลาดวัสดุขัด",
+            "why": "ผู้เล่นระดับโลกอย่าง Saint-Gobain เป็นผู้กำหนดมาตรฐานทั้งด้านเทคโนโลยีวัสดุขัด ราคา และรูปแบบการจัดจำหน่าย",
+            "action": "สังเกตวิธีที่แบรนด์ข้ามชาติปรับกลุ่มผลิตภัณฑ์ให้เข้ากับความต้องการของอุตสาหกรรมภูมิภาค"
           }
         }
       ]
