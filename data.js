@@ -3,64 +3,64 @@ window.NEWS_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-11",
-      "summary": "Limited fresh developments emerged today; primary intelligence highlights regional automotive manufacturing competition from Indonesia and India, alongside domestic steelmakers pushing to eliminate substandard mills.",
-      "directCount": 0,
+      "summary": "There are few new developments today as primary automotive tax and steel policies were previously reported. Notable fresh opportunities include the upcoming TIWF woodworking fair for abrasive sales and long-term fleet expansion boosting aviation MRO demand.",
+      "directCount": 1,
       "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยประเด็นสำคัญเน้นไปที่การแข่งขันแย่งชิงฐานการผลิตยานยนต์ในระดับภูมิภาคจากอินโดนีเซียและอินเดีย รวมถึงความเคลื่อนไหวของกลุ่มสมาคมเหล็กไทยที่เรียกร้องให้กวาดล้างโรงงานเหล็กที่ไม่ได้มาตรฐาน"
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก เนื่องจากประเด็นหลักเรื่องโครงสร้างภาษีอีวีและการจัดระเบียบโรงงานเหล็กได้รายงานไปก่อนหน้านี้แล้ว จุดสนใจใหม่ในวันนี้คืองานแสดงสินค้างานไม้ TIWF ที่เปิดโอกาสขายวัสดุขัดโดยตรง และแผนขยายฝูงบินระยะยาวที่จะช่วยหนุนงานขัดซ่อมบำรุง MRO อากาศยาน"
       },
       "items": [
         {
           "id": "20261011-1",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Brand Inside",
-          "date": "2026-08-14",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNnp5aUZLY2RzNjVBTHl1dVozcFVRLS1hZUtiY1lBOFlOZXJFX3RoMU11dm9ISDBVMG40Y09JOUJ2QmVGV3hHWjNPdFRySDVRYmZWLXd0UjJlUGh1Z0gzaUFPcUpXT0Z1Y0h0TkN3S19wYVp0QVhVdnlrd0NUbjZSUm9qRQ?oc=5",
-          "title": "Indonesia Aggressively Woos Toyota to Shift Investment from Thailand",
-          "summary": "Indonesia is rolling out aggressive incentives to persuade Toyota to expand EV investments locally, raising concerns over Thailand losing key Japanese auto production lines.",
-          "why": "Japanese automakers and tier suppliers form MK's core abrasive customer base; any production migration threatens grinding and surface finishing volume in Thailand.",
-          "action": "Strengthen ties with local Japanese tier-1 stamping and body shops by offering bundled abrasive cost-reduction programs.",
+          "tag": "furniture",
+          "rating": "green",
+          "source": "เดลินิวส์",
+          "date": "2026-09-03",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQOG53VVJYRkd4MUZabFczX0FkeTVGTGNFYmZGUUxkTnJ6VjNmeklDTUZEYXlVRkpjS1gzeUxQczJHMXJRS3c1dEdWSk14eVVqczJN?oc=5",
+          "title": "TIWF 2026 Trade Exhibition Announced to Upgrade ASEAN Woodworking and Furniture Sector",
+          "summary": "Organizers have confirmed the regional TIWF 2026 trade exhibition in Bangkok, focusing on modern woodworking machinery, tooling, and surface finishing technologies.",
+          "why": "Wood and furniture manufacturing consumes high volumes of wide sanding belts and abrasive discs; this event serves as a premier venue to meet factory purchasing managers directly.",
+          "action": "Plan MK attendance or marketing sponsorship to pitch wide sanding belts and orbital sanding discs to wood product manufacturers.",
           "th": {
-            "title": "อินโดนีเซียรุกหนักดึง Toyota ย้ายฐานการลงทุน เสี่ยงกระทบไทย",
-            "summary": "อินโดนีเซียเดินหน้าเสนอสิทธิประโยชน์เต็มรูปแบบเพื่อจูงใจให้ Toyota ขยายการลงทุน EV ที่นั่น ทำให้เกิดความกังวลว่าไทยอาจสูญเสียการลงทุนสำคัญจากค่ายรถยนต์ญี่ปุ่น",
-            "why": "ผู้ผลิตและซัพพลายเออร์สัญชาติญี่ปุ่นคือลูกค้าหลักของ MK หากมีการย้ายฐานผลิตจริง จะกระทบต่อปริมาณการใช้วัสดุขัดและเตรียมผิวโลหะในไทยระยะยาว",
-            "action": "เร่งกระชับความสัมพันธ์กับโรงงาน Tier-1 สัญชาติญี่ปุ่นในไทย และนำเสนอแพ็กเกจลดต้นทุนวัสดุขัดเพื่อช่วยรักษาฐานลูกค้า"
+            "title": "TIWF 2026 ประกาศความพร้อมจัดงานใหญ่ ยกระดับอุตสาหกรรมไม้และเฟอร์นิเจอร์อาเซียน",
+            "summary": "ผู้จัดงานประกาศความพร้อมจัดงานแสดงสินค้า TIWF 2026 ณ กรุงเทพฯ เพื่อนำเสนอนวัตกรรมเครื่องจักร วัสดุ และเทคโนโลยีการเตรียมผิวสำหรับอุตสาหกรรมไม้และเฟอร์นิเจอร์",
+            "why": "โรงงานไม้และเฟอร์นิเจอร์เป็นผู้ใช้วัสดุขัดปริมาณสูงทั้งสายพานขัดผืนกว้างและจานขัดกลม งานนี้เป็นโอกาสเข้าถึงฝ่ายจัดซื้อและโรงงานแปรรูปไม้โดยตรง",
+            "action": "เตรียมแผนเข้าร่วมงานหรือส่งทีมขายสำรวจงาน เพื่อนำเสนอสายพานขัดและจานขัดกระดาษทรายแก่โรงงานผลิตเฟอร์นิเจอร์ส่งออก"
           }
         },
         {
           "id": "20261011-2",
-          "tag": "auto",
+          "tag": "aero",
           "rating": "amber",
-          "source": "กรมส่งเสริมการค้าระหว่างประเทศ (DITP)",
-          "date": "2026-09-23",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pWWtMYlMtbEc3eTVkcWVCTTlQQ0Z5UWZUTTFLSmhCcE5XRFVYeGlMQ2JjVVZSOHE2U2RPSlNPUzhpRHduSjExdUFSZXZrVEhFMDgzQ3NuNFdUbEdVVjRnNDh3?oc=5",
-          "title": "Ford Explores Chennai Plant as Regional EV Export Hub for Asia-Pacific",
-          "summary": "Ford is evaluating its Chennai plant in India as an EV production base for the Asia-Pacific market, supported by Tamil Nadu's robust supply chain.",
-          "why": "If major automakers pivot EV export capacity to India rather than Rayong, growth in Thai automotive metal-cutting and finishing operations will face regional headwinds.",
-          "action": "Monitor production utilization across Ford's local supply chain in Rayong and diversify into multi-OEM contract parts makers.",
+          "source": "Thansettakij",
+          "date": "2026-08-01",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJbG91NDM0Z1ZuZmRPYUc4dlRzSXYwVXRnb1l5dGZyZUJLSDZqUXhOSnVzSXVQeTdRME04Y1c5TVB5SC0wOENDcm9VeDhaT3Fha0ZocE90aEgzNXpNOGVmYklR?oc=5",
+          "title": "Thai Airways Invests 100 Billion Baht to Expand Fleet to 150 Aircraft",
+          "summary": "Thai Airways is committing 100 billion baht to expand its fleet to 150 aircraft, driving a significant long-term increase in domestic airline operations.",
+          "why": "A substantially larger domestic fleet increases scheduled maintenance intervals, engine component refurbishing, and airframe surface preparation within local MRO facilities.",
+          "action": "Map out specialized abrasive consumables such as non-woven blending discs and precision finishing rolls required for aircraft structural repair workshops.",
           "th": {
-            "title": "Ford เล็งใช้โรงงานเจนไนเป็นฐานผลิต EV ส่งออกภูมิภาคเอเชียแปซิฟิก",
-            "summary": "Ford กำลังพิจารณาใช้โรงงานในเมืองเจนไนของอินเดียเป็นฐานผลิตรถยนต์ไฟฟ้าสำหรับตลาดเอเชียแปซิฟิก โดยอาศัยความแข็งแกร่งของห่วงโซ่อุปทานในรัฐทมิฬนาฑู",
-            "why": "หากค่ายรถยนต์กระจายสายการผลิต EV ไปยังอินเดียแทนโรงงานในระยอง อาจส่งผลให้งานตัดและเจียรชิ้นส่วนยานยนต์ในไทยเติบโตช้ากว่าที่คาด",
-            "action": "ติดตามกำลังการผลิตของซัพพลายเออร์ Ford ในพื้นที่ระยองอย่างใกล้ชิด และขยายการขายไปยังผู้ผลิตชิ้นส่วนที่รับงานหลายค่ายเพื่อลดความเสี่ยง"
+            "title": "การบินไทย ทุ่มแสนล้าน ดันฝูงบิน 150 ลำ ทวงบัลลังก์สายการบินระดับโลก",
+            "summary": "การบินไทยเตรียมทุ่มงบกว่า 1 แสนล้านบาท เพื่อเพิ่มขนาดฝูงบินสู่ 150 ลำ รองรับการเติบโตและการแข่งขันในระดับสากล",
+            "why": "ฝูงบินขนาดใหญ่ขึ้นในประเทศจะผลักดันความต้องการซ่อมบำรุงตามรอบ งานขัดผิวโครงสร้างเครื่องบิน และการขัดชิ้นส่วนเครื่องยนต์ในศูนย์ซ่อม MRO อย่างมีนัยสำคัญ",
+            "action": "จัดเตรียมแคตตาล็อกวัสดุขัดเกรดเฉพาะทาง เช่น แผ่นใยสังเคราะห์ขัดเงาและจานทรายขัดเก็บผิวงานโครงสร้าง เพื่อเจาะกลุ่มช่างซ่อมบำรุงอากาศยาน"
           }
         },
         {
           "id": "20261011-3",
-          "tag": "steel",
+          "tag": "auto",
           "rating": "amber",
-          "source": "Thansettakij",
-          "date": "2026-05-20",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYUkQ1OTVxM3QtdnAtcUlCc1JQelZVNU53OUNENkd5QnBfeVUtN29mVlZ6Y251UzBWVW9OQ3VKQVQ4cmtyT2lpc0NuemY3THhrOHlhNG53UHM4bnZSaVBUYnVScjZUTmNlU1VhY3B3?oc=5",
-          "title": "Steel Associations Urge Government Ban on Substandard Induction Furnaces",
-          "summary": "Ten domestic steel associations urged the Ministry of Industry to eliminate substandard induction furnace (IF) mills to protect legitimate local producers from substandard products.",
-          "why": "Shutting down non-compliant mills protects compliant domestic steel fabricators, preserving stable operations and recurring demand for heavy grinding discs.",
-          "action": "Prioritize direct sales outreach to certified domestic structural steel fabricators and audit their grinding consumable stock.",
+          "source": "เว็บไซต์รัฐบาลไทย",
+          "date": "2026-07-02",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zOHo0X01meExtendzNTNja1RMTUxKa2dWM0hFZ1JrRzJ4dmJPLWhSdHVwb19IU01fVTRVOWtaX2lkMVJUSlRPb3FCNVg5UQ?oc=5",
+          "title": "BOI Confirms Cumulative EV Investments Surpass 130 Billion Baht",
+          "summary": "Thailand's BOI reported that total approved investments in electric vehicles and components have exceeded 130 billion baht across multiple technologies.",
+          "why": "Approved assembly and battery investments will progressively transition into operational factories requiring robotic deburring, weld grinding, and metal preparation consumables.",
+          "action": "Target Tier-1 and Tier-2 stamping and chassis welding vendors supplying these BOI-backed EV assembly lines.",
           "th": {
-            "title": "10 สมาคมเหล็กจี้รัฐเร่งปิดโรงงานเตา IF ไร้มาตรฐานเพื่อปกป้องผู้ผลิตไทย",
-            "summary": "10 สมาคมเหล็กไทยยื่นเรื่องต่อกระทรวงอุตสาหกรรม เรียกร้องให้สั่งปิดและยกเลิกใบอนุญาตโรงงานเตาหลอม IF ที่ไม่ได้มาตรฐาน เพื่อปกป้องผู้ผลิตในประเทศที่ดำเนินงานถูกต้อง",
-            "why": "การกำจัดโรงงานที่ผิดกฎหมายช่วยรักษาเสถียรภาพให้แก่โรงงานเหล็กและงานโครงสร้างที่ได้มาตรฐาน ซึ่งเป็นกลุ่มลูกค้าหลักที่ใช้วัสดุเจียรและใบตัดอย่างต่อเนื่อง",
-            "action": "มุ่งเน้นการขายตรงไปยังโรงงานแปรรูปเหล็กโครงสร้างที่ได้รับมาตรฐาน มอก. พร้อมตรวจสอบความต้องการใช้งานใบเจียรหนักเพื่อเสนอสัญญาจัดส่งประจำ"
+            "title": "บีโอไอเผยยอดลงทุน EV ทะลุ 1.3 แสนล้าน หนุนเป้าฐานผลิตยานยนต์ไฟฟ้าทุกเทคโนโลยี",
+            "summary": "บีโอไอเปิดเผยว่ายอดส่งเสริมการลงทุนยานยนต์ไฟฟ้าและชิ้นส่วนในไทยสะสมแตะ 1.3 แสนล้านบาท ครอบคลุมทั้งสายการประกอบและระบบแบตเตอรี่",
+            "why": "เม็ดเงินลงทุนที่ได้รับอนุมัติจะทยอยเปลี่ยนเป็นสายการผลิตจริง ซึ่งต้องใช้ใบเจียร จานทราย และวัสดุลบครีบคมในงานเชื่อมตัวถังและโครงสร้างโลหะ",
+            "action": "ติดตามโรงงานผู้ผลิตชิ้นส่วน Tier-1 และ Tier-2 ที่ได้รับงานซัพพลายให้โรงงานประกอบ EV เหล่านี้ เพื่อเสนอโซลูชันวัสดุขัดงานเชื่อมและโครงสร้าง"
           }
         }
       ],
