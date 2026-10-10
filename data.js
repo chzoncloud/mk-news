@@ -2,6 +2,71 @@
 window.NEWS_ARCHIVE = {
   "days": [
     {
+      "date": "2026-10-11",
+      "summary": "Limited fresh developments emerged today; primary intelligence highlights regional automotive manufacturing competition from Indonesia and India, alongside domestic steelmakers pushing to eliminate substandard mills.",
+      "directCount": 0,
+      "th": {
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยประเด็นสำคัญเน้นไปที่การแข่งขันแย่งชิงฐานการผลิตยานยนต์ในระดับภูมิภาคจากอินโดนีเซียและอินเดีย รวมถึงความเคลื่อนไหวของกลุ่มสมาคมเหล็กไทยที่เรียกร้องให้กวาดล้างโรงงานเหล็กที่ไม่ได้มาตรฐาน"
+      },
+      "items": [
+        {
+          "id": "20261011-1",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Brand Inside",
+          "date": "2026-08-14",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNnp5aUZLY2RzNjVBTHl1dVozcFVRLS1hZUtiY1lBOFlOZXJFX3RoMU11dm9ISDBVMG40Y09JOUJ2QmVGV3hHWjNPdFRySDVRYmZWLXd0UjJlUGh1Z0gzaUFPcUpXT0Z1Y0h0TkN3S19wYVp0QVhVdnlrd0NUbjZSUm9qRQ?oc=5",
+          "title": "Indonesia Aggressively Woos Toyota to Shift Investment from Thailand",
+          "summary": "Indonesia is rolling out aggressive incentives to persuade Toyota to expand EV investments locally, raising concerns over Thailand losing key Japanese auto production lines.",
+          "why": "Japanese automakers and tier suppliers form MK's core abrasive customer base; any production migration threatens grinding and surface finishing volume in Thailand.",
+          "action": "Strengthen ties with local Japanese tier-1 stamping and body shops by offering bundled abrasive cost-reduction programs.",
+          "th": {
+            "title": "อินโดนีเซียรุกหนักดึง Toyota ย้ายฐานการลงทุน เสี่ยงกระทบไทย",
+            "summary": "อินโดนีเซียเดินหน้าเสนอสิทธิประโยชน์เต็มรูปแบบเพื่อจูงใจให้ Toyota ขยายการลงทุน EV ที่นั่น ทำให้เกิดความกังวลว่าไทยอาจสูญเสียการลงทุนสำคัญจากค่ายรถยนต์ญี่ปุ่น",
+            "why": "ผู้ผลิตและซัพพลายเออร์สัญชาติญี่ปุ่นคือลูกค้าหลักของ MK หากมีการย้ายฐานผลิตจริง จะกระทบต่อปริมาณการใช้วัสดุขัดและเตรียมผิวโลหะในไทยระยะยาว",
+            "action": "เร่งกระชับความสัมพันธ์กับโรงงาน Tier-1 สัญชาติญี่ปุ่นในไทย และนำเสนอแพ็กเกจลดต้นทุนวัสดุขัดเพื่อช่วยรักษาฐานลูกค้า"
+          }
+        },
+        {
+          "id": "20261011-2",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "กรมส่งเสริมการค้าระหว่างประเทศ (DITP)",
+          "date": "2026-09-23",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pWWtMYlMtbEc3eTVkcWVCTTlQQ0Z5UWZUTTFLSmhCcE5XRFVYeGlMQ2JjVVZSOHE2U2RPSlNPUzhpRHduSjExdUFSZXZrVEhFMDgzQ3NuNFdUbEdVVjRnNDh3?oc=5",
+          "title": "Ford Explores Chennai Plant as Regional EV Export Hub for Asia-Pacific",
+          "summary": "Ford is evaluating its Chennai plant in India as an EV production base for the Asia-Pacific market, supported by Tamil Nadu's robust supply chain.",
+          "why": "If major automakers pivot EV export capacity to India rather than Rayong, growth in Thai automotive metal-cutting and finishing operations will face regional headwinds.",
+          "action": "Monitor production utilization across Ford's local supply chain in Rayong and diversify into multi-OEM contract parts makers.",
+          "th": {
+            "title": "Ford เล็งใช้โรงงานเจนไนเป็นฐานผลิต EV ส่งออกภูมิภาคเอเชียแปซิฟิก",
+            "summary": "Ford กำลังพิจารณาใช้โรงงานในเมืองเจนไนของอินเดียเป็นฐานผลิตรถยนต์ไฟฟ้าสำหรับตลาดเอเชียแปซิฟิก โดยอาศัยความแข็งแกร่งของห่วงโซ่อุปทานในรัฐทมิฬนาฑู",
+            "why": "หากค่ายรถยนต์กระจายสายการผลิต EV ไปยังอินเดียแทนโรงงานในระยอง อาจส่งผลให้งานตัดและเจียรชิ้นส่วนยานยนต์ในไทยเติบโตช้ากว่าที่คาด",
+            "action": "ติดตามกำลังการผลิตของซัพพลายเออร์ Ford ในพื้นที่ระยองอย่างใกล้ชิด และขยายการขายไปยังผู้ผลิตชิ้นส่วนที่รับงานหลายค่ายเพื่อลดความเสี่ยง"
+          }
+        },
+        {
+          "id": "20261011-3",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "Thansettakij",
+          "date": "2026-05-20",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYUkQ1OTVxM3QtdnAtcUlCc1JQelZVNU53OUNENkd5QnBfeVUtN29mVlZ6Y251UzBWVW9OQ3VKQVQ4cmtyT2lpc0NuemY3THhrOHlhNG53UHM4bnZSaVBUYnVScjZUTmNlU1VhY3B3?oc=5",
+          "title": "Steel Associations Urge Government Ban on Substandard Induction Furnaces",
+          "summary": "Ten domestic steel associations urged the Ministry of Industry to eliminate substandard induction furnace (IF) mills to protect legitimate local producers from substandard products.",
+          "why": "Shutting down non-compliant mills protects compliant domestic steel fabricators, preserving stable operations and recurring demand for heavy grinding discs.",
+          "action": "Prioritize direct sales outreach to certified domestic structural steel fabricators and audit their grinding consumable stock.",
+          "th": {
+            "title": "10 สมาคมเหล็กจี้รัฐเร่งปิดโรงงานเตา IF ไร้มาตรฐานเพื่อปกป้องผู้ผลิตไทย",
+            "summary": "10 สมาคมเหล็กไทยยื่นเรื่องต่อกระทรวงอุตสาหกรรม เรียกร้องให้สั่งปิดและยกเลิกใบอนุญาตโรงงานเตาหลอม IF ที่ไม่ได้มาตรฐาน เพื่อปกป้องผู้ผลิตในประเทศที่ดำเนินงานถูกต้อง",
+            "why": "การกำจัดโรงงานที่ผิดกฎหมายช่วยรักษาเสถียรภาพให้แก่โรงงานเหล็กและงานโครงสร้างที่ได้มาตรฐาน ซึ่งเป็นกลุ่มลูกค้าหลักที่ใช้วัสดุเจียรและใบตัดอย่างต่อเนื่อง",
+            "action": "มุ่งเน้นการขายตรงไปยังโรงงานแปรรูปเหล็กโครงสร้างที่ได้รับมาตรฐาน มอก. พร้อมตรวจสอบความต้องการใช้งานใบเจียรหนักเพื่อเสนอสัญญาจัดส่งประจำ"
+          }
+        }
+      ],
+      "terms": {}
+    },
+    {
       "date": "2026-10-10",
       "summary": "There are few new headlines today, with most automotive and aerospace MRO updates continuing from earlier briefings. The most notable development is the Cabinet formally acknowledging the EV Board's tax overhaul to heavily penalize CBU imports, which will support local vehicle assembly and steady abrasive consumption.",
       "directCount": 1,
@@ -782,5 +847,5 @@ window.NEWS_ARCHIVE = {
       "terms": {}
     }
   ],
-  "updated": "2026-10-10"
+  "updated": "2026-10-11"
 };
