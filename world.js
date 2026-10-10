@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-10-10",
+  "updated": "2026-10-11",
   "days": [
+    {
+      "date": "2026-10-11",
+      "summary": "Today's global briefing highlights key developments in robotic sanding integration, coil coating sustainability standards, and evolving metal casting and steel scrap markets.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปข้อมูลเชิงลึกระดับโลกประจำวันนี้ เน้นย้ำพัฒนาการสำคัญด้านระบบขัดผิวด้วยหุ่นยนต์ มาตรฐานความยั่งยืนของสีเคลือบม้วนโลหะ และตลาดการหล่อโลหะกับเศษเหล็กที่กำลังเปลี่ยนแปลง"
+      },
+      "items": [
+        {
+          "id": "20261011-w1",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "Woodworking Network",
+          "date": "2022-09-14",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdks1TWZwY2RMY21ZNl8zQ1hJZ201QnJzY3Bsb2gyc0NQajRiRHMtSkJ1QW9OX1JaTzVrYm15ZkFvclM2bjZ1cTJQZVlaYk1JWVpnQVpyanBkMFFTVEZCaG9ZQ0ttWTh2VnRNRGVtbzB4WUVCamVPbzc4MTdfbEdYQm5zem1QXzlaYk5XMHpPOU9IZ3Fsc3dKVG9VM01IX3dMdDRiMXNYRmJNN1pQN2hSOHFielVqWWxWWVVMUHc2NUdhOTkxaW5lY19mc1I?oc=5",
+          "title": "Mirka to feature robotic sanding, antistatic abrasives and more at SIBO",
+          "summary": "Mirka showcases advanced robotic sanding systems and specialized antistatic abrasives tailored for automated manufacturing lines.",
+          "why": "Automation and anti-static properties are becoming critical for high-end surface finishing and dust control in modern factories.",
+          "action": "Monitor automated robotic sanding adoption among high-end Thai wood and metal manufacturers.",
+          "th": {
+            "title": "Mirka นำเสนอระบบขัดผิวด้วยหุ่นยนต์ กระดาษทรายป้องกันไฟฟ้าสถิต และอื่นๆ ในงาน SIBO",
+            "summary": "Mirka จัดแสดงระบบขัดผิวด้วยหุ่นยนต์ขั้นสูงและวัสดุกัดกรองป้องกันไฟฟ้าสถิตสำหรับสายการผลิตอัตโนมัติ",
+            "why": "ระบบอัตโนมัติและคุณสมบัติป้องกันไฟฟ้าสถิตกำลังกลายเป็นสิ่งสำคัญสำหรับการขัดผิวและการควบคุมฝุ่นในโรงงานสมัยใหม่",
+            "action": "ติดตามการใช้งานระบบขัดผิวอัตโนมัติด้วยหุ่นยนต์ในกลุ่มผู้ผลิตไม้และโลหะระดับบนของไทย"
+          }
+        },
+        {
+          "id": "20261011-w2",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "PR Newswire UK",
+          "date": "2026-05-08",
+          "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQLWJCTzl4bnlhbUl3c2o5aXByM0Mxc3k0cUtGTHJQak5MYVNSNDk1bk50b29XS3BJbS1ySXFhV3dhWXRuMXB0bVB2Z2Q1WVN6UjRJY0N2LWpsNFRvU2o0aUU2dkx3d2htTVMxYURkLWxINlcydFRqdG1PV1ZaRWxtNndMMkc2T1hNenN2R0tBdlFaUllWV1d1N2huRTE2TlNOM0lxSEhlbkw5ajhSR0YtZWFVb01TZXlJS1VCbXNibWRreEVWQnVOUk5halB6YzBJdnNBZTJrOWxwdHppOG5jZWVETWJ0XzJuOE1mb2JqNEpmXzAxcDF4TGtRRWxaaW9DTzFPYUZCa28wbmp1ZGhtRVZ0X19lZ1ZqSUotLW1GaC0xRHRJNmNLdXVqOXNJdlpHQkF1NklvTXJOOWM?oc=5",
+          "title": "Coil Coatings Market to Reach USD 9.2 Billion by 2035 as Sustainable, High-Performance Coating Technologies Transform Construction and Industrial Applications",
+          "summary": "The coil coatings sector is expanding rapidly, driven by demand for sustainable and high-performance pre-painted metal solutions.",
+          "why": "Coil-coated metal processing requires strict pre-treatment and surface preparation, influencing abrasive usage in metal coil lines.",
+          "action": "Explore surface prep requirements for pre-coated metal applications in construction and appliances.",
+          "th": {
+            "title": "ตลาดสีเคลือบม้วนโลหะพุ่งแตะ 9.2 พันล้านดอลลาร์ภายในปี 2035 จากเทคโนโลยีเคลือบผิวประสิทธิภาพสูงและยั่งยืน",
+            "summary": "ตลาดสีเคลือบม้วนโลหะเติบโตอย่างรวดเร็ว ขับเคลื่อนโดยความต้องการโซลูชันโลหะเคลือบสีล่วงหน้าที่ยั่งยืนและมีประสิทธิภาพสูง",
+            "why": "กระบวนการแปรรูปโลหะเคลือบม้วนต้องอาศัยการเตรียมผิวที่เข้มงวด ซึ่งส่งผลต่อการใช้วัสดุขัดในสายการผลิตโลหะ",
+            "action": "สำรวจความต้องการในการเตรียมพื้นผิวสำหรับการใช้งานโลหะเคลือบในกลุ่มก่อสร้างและเครื่องใช้ไฟฟ้า"
+          }
+        },
+        {
+          "id": "20261011-w3",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "Fact.MR",
+          "date": "2026-04-13",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QdlVWYkhUUHFMQ042anhjZWhnN25NSnZfX2F3QU1IVnpHdHVIeWpSS2R0RnVCQjBHVVgwQjhTR21WeThVSF9Td2p5LUxpN3dKekd0UXJpdHMxWENF?oc=5",
+          "title": "Steel Scrap Market, Global Market Analysis Report - 2036",
+          "summary": "Global analysis highlights sustained growth in the steel scrap market as electric arc furnace (EAF) steelmaking expands.",
+          "why": "EAF steel production and scrap metal recycling generate heavy demand for robust grinding, cutting, and surface conditioning abrasives.",
+          "action": "Align abrasive product offerings with foundries and recycling yards processing scrap metal.",
+          "th": {
+            "title": "รายงานวิเคราะห์ตลาดเศษเหล็กระดับโลก ปี 2036",
+            "summary": "การวิเคราะห์ระดับโลกเน้นย้ำถึงการเติบโตอย่างต่อเนื่องของตลาดเศษเหล็ก ตามการขยายตัวของการผลิตเหล็กด้วยเตาอาร์กไฟฟ้า (EAF)",
+            "why": "การผลิตเหล็ก EAF และการรีไซเคิลเศษโลหะสร้างความต้องการสูงสำหรับผลิตภัณฑ์หินเจียร ใบตัด และผลิตภัณฑ์ปรับสภาพผิว",
+            "action": "ปรับกลุ่มผลิตภัณฑ์วัสดุขัดให้สอดคล้องกับโรงหล่อและลานรีไซเคิลที่แปรรูปเศษโลหะ"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-10-10",
       "summary": "Today's briefing features 3 key global trends focusing on automotive AI manufacturing transformations, electric vehicle structural assembly demands, and specialized steel market dynamics impacting metal finishing.",
@@ -884,70 +948,6 @@ window.WORLD_ARCHIVE = {
             "summary": "แนวโน้มตลาดสำหรับแผ่นขัดอลูมิเนียมออกไซด์เน้นย้ำถึงการใช้งานระยะยาวที่มั่นคงในอุตสาหกรรมโลหการทั่วไปและอุตสาหกรรมยานยนต์",
             "why": "แผ่นขัดอลูมิเนียมออกไซด์เป็นสินค้าหลักของ MK การติดตามการเติบโตของตลาดช่วยให้วางแผนสินค้าคงคลังได้อย่างมั่นคง",
             "action": "รักษาราคาที่แข่งขันได้และสต็อกแผ่นขัดอลูมิเนียมออกไซด์ให้สม่ำเสมอสำหรับลูกค้าอุตสาหกรรมหลัก"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-09-27",
-      "summary": "Today's global briefing highlights key developments in industrial coatings demand across Europe, growth in fused alumina for electronics and metal finishing, and structural cost efficiency in electric arc furnace steel production.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปทิศทางโลกประจำวันนี้เน้นย้ำการเติบโตของตลาดสารเคลือบอุตสาหกรรมในยุโรป ความต้องการอะลูมินาหลอมสำหรับงานอิเล็กทรอนิกส์และตกแต่งผิวโลหะ และประสิทธิภาพด้านต้นทุนของการผลิตเหล็กเตาหลอมอาร์ไฟฟ้า"
-      },
-      "items": [
-        {
-          "id": "20260927-w1",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "marketsandmarkets.com",
-          "date": "2026-09-18",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaEtDOWNDZy15X3RwNGVyTTBHaUZ3a1FrUU9rMmpMVnBwNGJ3Rk1WUm1vaERWUE10a1A0MVU0NmlWRzd0aUNYd1hYZmY2b0FVVmRXSUNvQ1NabUhTanpUekN5X3daQkNzUFVjUldMa244SDE1dFFtWWZ4MWZpMUJkMWtSQjVDTEVjc1ZVazdzT2M1aGJDTXFB?oc=5",
-          "title": "Europe Industrial Coatings Market Size, Share, Trends, Growth Analysis Report, 2031",
-          "summary": "The Europe industrial coatings market report projects steady growth through 2031, driven by strict environmental standards and high-performance finishing requirements across manufacturing sectors.",
-          "why": "Industrial coatings growth directly correlates with surface preparation and pre-painting sanding requirements in European export-oriented supply chains.",
-          "action": "Monitor European coating specifications to anticipate shifting requirements for surface preparation abrasives.",
-          "th": {
-            "title": "รายงานขนาด ส่วนแบ่ง และแนวโน้มตลาดสารเคลือบอุตสาหกรรมในยุโรปถึงปี 2031",
-            "summary": "รายงานตลาดสารเคลือบอุตสาหกรรมในยุโรปคาดการณ์การเติบโตอย่างต่อเนื่องจนถึงปี 2031 ขับเคลื่อนด้วยมาตรฐานสิ่งแวดล้อมที่เข้มงวดและความต้องการการเคลือบผิวประสิทธิภาพสูง",
-            "why": "การเติบโตของสารเคลือบอุตสาหกรรมเชื่อมโยงโดยตรงกับความต้องการเตรียมพื้นผิวและงานขัดก่อนพ่นสีในห่วงโซ่อุปทาน",
-            "action": "ติดตามข้อกำหนดการเคลือบของยุโรปเพื่อคาดการณ์ความต้องการวัสดุขัดเตรียมพื้นผิวที่เปลี่ยนไป"
-          }
-        },
-        {
-          "id": "20260927-w2",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-09-22",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa3prOHdTb1BJS0dDaF9fWnpxMnRrUlB2dU9zdjJBRllhY2pBaU13V1Z3MGhRX19xR3RVVVVCbUpkbjRfd0ZMSzc3X2swMmtvSVVHYm5nazA1c3ZSZ2YxOGgxUTRkWVhweV9ULUd4My1MNnNTaWNtdGlaOVMzT2MtNzBqNUpxWHZ3aV9LOFZKeTNNdmZ3R0lFREh0SVB0Ym5sdlZtaHVTOTJOM1VBcjhiUTAxSDVHLXJBQWRBOTB3?oc=5",
-          "title": "Fused Alumina Market to Accelerate on Electronics Demand, Forecast Points Higher Toward 2035",
-          "summary": "Global demand for fused alumina is accelerating, propelled by precision electronics manufacturing and advanced metal finishing applications extending toward 2035.",
-          "why": "Fused alumina is a core raw material for bonded and coated abrasives; rising input demand signals strong downstream manufacturing activity.",
-          "action": "Secure stable raw material pricing and supply lines for fused alumina-based abrasive products.",
-          "th": {
-            "title": "ตลาดอะลูมินาหลอมเร่งตัวจากความต้องการด้านอิเล็กทรอนิกส์ มุ่งสู่ปี 2035",
-            "summary": "ความต้องการฟิวส์อะลูมินาทั่วโลกกำลังเร่งตัวขึ้น ขับเคลื่อนโดยการผลิตชิ้นส่วนอิเล็กทรอนิกส์ที่มีความแม่นยำและการตกแต่งผิวโลหะขั้นสูง",
-            "why": "ฟิวส์อะลูมินาเป็นวัตถุดิบหลักสำหรับกระดาษทรายและหินเจียร ความต้องการที่สูงขึ้นบ่งบอกถึงกิจกรรมการผลิตปลายน้ำที่แข็งแกร่ง",
-            "action": "รักษาเสถียรภาพราคาและแหล่งวัตถุดิบสำหรับผลิตภัณฑ์กลุ่มอะลูมินาหลอม"
-          }
-        },
-        {
-          "id": "20260927-w3",
-          "tag": "steel",
-          "rating": "green",
-          "source": "Shanghai Metals Market",
-          "date": "2026-05-19",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMmw1akRRMFZCQ2I5NGhHdE1NOXhoaE1GY0h5UmxlQVNUVGxHTko2U0NBQ0o0Q19ZYmZ1VnBCTTB6a2JJQTFNOUpDSUtpWXdaR3hkeGhlOXF4dF9yUElCd1ZkWTl4MmZGOWhVeUlXc2VCMXFCOHQzZ0ZGZ1RtZ3p6aUNObEczWFhKMkdKQ3JuRWF5SjVNZmpOQVBaSGs4TWJKS1lVa0VTdmoxdDBQTF8zRDlxME1qeEtOUzJzSTBERURobWltWTlVUlpaZ3d2WlFRNEY1b0UwbVVfLXc0cXBZ?oc=5",
-          "title": "[SMM Global Steel Company Special] Nucor: 100% EAF, High Profits, and Vertical Integration Mitigating Costs",
-          "summary": "Leading electric arc furnace (EAF) steel producers leverage vertical integration and scrap-based recycling to optimize margins despite global cost pressures.",
-          "why": "EAF steel production yields specific surface scales and characteristics that require specialized heavy-duty grinding and deburring solutions.",
-          "action": "Target metal fabrication plants utilizing EAF steel with specialized grinding wheels designed for tougher alloy surfaces.",
-          "th": {
-            "title": "[พิเศษ] Nucor กับระบบเตาอาร์ไฟฟ้า 100%: กำไรสูงและการบูรณาการแนวดิ่งเพื่อลดต้นทุน",
-            "summary": "ผู้ผลิตเหล็กด้วยเตาหลอมอาร์ไฟฟ้า (EAF) ชั้นนำใช้การบูรณาการแนวดิ่งและการรีไซเคิลเศษเหล็กเพื่อเพิ่มอัตรากำไรท่ามกลางแรงกดดันด้านต้นทุน",
-            "why": "การผลิตเหล็กด้วยเตา EAF จะสร้างผิวเหล็กและสะเก็ดที่มีลักษณะเฉพาะ ซึ่งต้องใช้วัสดุขัดและใยขัดลบคมงานหนักที่จำเพาะ",
-            "action": "เจาะกลุ่มโรงงานแปรรูปโลหะที่ใช้เหล็กจากเตา EAF ด้วยผลิตภัณฑ์หินเจียรที่ออกแบบมาเพื่อผิวโลหะผสมที่แข็งแกร่งเป็นพิเศษ"
           }
         }
       ]
