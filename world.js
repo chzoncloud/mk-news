@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-10",
-      "summary": "Today's briefing highlights shifts in global steel production, smart EV factory wiring and automation, and emerging manufacturing strategies in Asian steel and automotive sectors.",
+      "summary": "Today's briefing focuses on cutting disc market forecasts, robotic sanding trends in woodworking, and EV assembly shifts. These signals highlight evolving mechanical prep demands and automated surface finishing requirements.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปข่าววันนี้เน้นการเปลี่ยนแปลงในอุตสาหกรรมการผลิตเหล็กระดับโลก ระบบอัตโนมัติและการเดินสายไฟในโรงงาน EV รวมถึงกลยุทธ์การผลิตในภาคส่วนเหล็กและยานยนต์ของเอเชีย"
+        "summary": "สรุปทิศทางโลกประจำวันนี้เน้นไปที่การคาดการณ์ตลาดแผ่นตัด แนวโน้มการขัดด้วยหุ่นยนต์ในงานไม้ และการเปลี่ยนแปลงในสายการผลิต EV สัญญาณเหล่านี้บ่งบอกถึงความต้องการที่เปลี่ยนไปในการเตรียมพื้นผิวและการขัดแต่งอัตโนมัติ"
       },
       "items": [
         {
           "id": "20261010-w1",
-          "tag": "steel",
+          "tag": "abrasive",
           "rating": "green",
-          "source": "Shanghai Metals Market",
-          "date": "2026-05-19",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMmw1akRRMFZCQ2I5NGhHdE1NOXhoaE1GY0h5UmxlQVNUVGxHTko2U0NBQ0o0Q19ZYmZ1VnBCTTB6a2JJQTFNOUpDSUtpWXdaR3hkeGhlOXF4dF9yUElCd1ZkWTl4MmZGOWhVeUlXc2VCMXFCOHQzZ0ZGZ1RtZ3p6aUNObEczWFhKMkdKQ3JuRWF5SjVNZmpOQVBaSGs4TWJKS1lVa0VTdmoxdDBQTF8zRDlxME1qeEtOUzJzSTBERURobWltWTlVUlpaZ3d2WlFRNEY1b0UwbVVfLXc0cXBZ?oc=5",
-          "title": "Nucor: 100% EAF, High Profits, and Vertical Integration Mitigating Costs",
-          "summary": "Nucor's 100% Electric Arc Furnace (EAF) model demonstrates high efficiency and profitability through vertical integration, navigating cost pressures effectively.",
-          "why": "EAF steel production creates different surface scale and burrs compared to blast furnaces, directly changing what metal fabrication shops demand from our grinding and cutting discs.",
-          "action": "Track EAF-produced steel trends to ensure our cutting and grinding discs match modern metal fabrication requirements.",
+          "source": "IndexBox",
+          "date": "2026-09-27",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUjROMDdtWnhLRnRQWEZxcmtSUTB0U1pmNTVyYVNpZVE2RERSc1VFSWtITzdDZlpRY0VtZkZmRDZwalRwak1aMGJZLVhJSHpBQ2ZfSFVKc2VEbU1fTVpUVXg3MDhIeEFobGR5ZlN5ZFVZdDNDRkZ5NkpkNGNucHZ0NDR6dUVfdTlQUkJiYkhmcDdJYm9aaGFUOHpZOGFra2N5cUczQmVxY2t5MjdESldpbFlnTnE0ekNYa0dyVw?oc=5",
+          "title": "World Cutting Discs - Market Analysis, Forecast, Size, Trends and Insights",
+          "summary": "IndexBox released a new market analysis and forecast report on the global cutting discs industry, detailing size, trends, and growth insights.",
+          "why": "Cutting discs are a core consumable product line for metal fabrication and industrial workshops; tracking their market trajectory helps us anticipate raw material and volume demand.",
+          "action": "Monitor global cutting disc volume projections to adjust inventory planning for grinding and cutting wheels.",
           "th": {
-            "title": "Nucor ใช้เตาเผาไฟฟ้า (EAF) 100% ทำกำไรสูงและบูรณาการแนวตั้งเพื่อลดต้นทุน",
-            "summary": "โมเดลเตาเผาอาร์กไฟฟ้า 100% ของ Nucor แสดงให้เห็นถึงประสิทธิภาพสูงและความสามารถในการทำกำไรผ่านการบูรณาการในแนวดิ่ง",
-            "why": "การผลิตเหล็กด้วยเตา EAF ทำให้เกิดตะกรันและครีบโลหะที่แตกต่างจากเตาลมเป่า ซึ่งส่งผลโดยตรงต่อความต้องการแผ่นตัดและแผ่นเจียรของลูกค้า",
-            "action": "ติดตามแนวโน้มเหล็กจากเตา EAF เพื่อให้มั่นใจว่าแผ่นตัดและแผ่นเจียรของเราตรงกับความต้องการของงานแปรรูปโลหะสมัยใหม่"
+            "title": "ตลาดแผ่นตัดทั่วโลก - การวิเคราะห์ตลาด การคาดการณ์ ขนาด แนวโน้ม และเชิงลึก",
+            "summary": "IndexBox เผยแพร่รายงานวิเคราะห์และคาดการณ์ตลาดอุตสาหกรรมแผ่นตัดทั่วโลก โดยให้รายละเอียดเกี่ยวกับขนาด แนวโน้ม และการเติบโต",
+            "why": "แผ่นตัดเป็นสินค้าสิ้นเปลืองหลักสำหรับงานขึ้นรูปโลหะและโรงงานอุตสาหกรรม การติดตามทิศทางตลาดช่วยให้เราคาดการณ์ความต้องการวัตถุดิบและปริมาณสินค้าได้ดีขึ้น",
+            "action": "ติดตามคาดการณ์ปริมาณแผ่นตัดทั่วโลกเพื่อปรับการวางแผนสต็อกสินค้าสำหรับล้อเจียรและตัด"
           }
         },
         {
           "id": "20261010-w2",
-          "tag": "auto",
+          "tag": "abrasive",
           "rating": "green",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-09-10",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVjkzSTlDYzItRzJSVXhQSjc1a0ttQ0dIRVYxRDgxaHFiQ0x3c1ZsLTdZQ0RRSk04bmhjdHQ4ZGJrV0lLVk45XzQ5ZzQwN1VwMDNERWNWVEpJNTRVYzZqTFFmcEIyUUZRNG9LOHp6ODIxYm80eEZrcTBOdENvenJqdktfcm5neXlITEZSRXNQclF2ZUpGUXVLTmY3SmhCRUlHdldDVC11QjRnZ3UtYzRlbzAwYS1yaW5oZV8zWmRMY2k?oc=5",
-          "title": "Smart-factory wiring woes: EVs demand automation now, not later",
-          "summary": "Automotive manufacturers are rapidly adopting automation to solve complex EV wiring and assembly challenges on the factory floor.",
-          "why": "As EV factories automate assembly and chassis production, demand for robotic-compatible surface preparation and automated deburring tools will rise.",
-          "action": "Keep an eye on robotic sanding and automated surface finishing integration trends in EV manufacturing lines.",
+          "source": "Woodworking Network",
+          "date": "2022-09-14",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdks1TWZwY2RMY21ZNl8zQ1hJZ201QnJzY3Bsb2gyc0NQajRiRHMtSkJ1QW9OX1JaTzVrYm15ZkFvclM2bjZ1cTJQZVlaYk1JWVpnQVpyanBkMFFTVEZCaG9ZQ0ttWTh2VnRNRGVtbzB4WUVCamVPbzc4MTdfbEdYQm5zem1QXzlaYk5XMHpPOU9IZ3Fsc3dKVG9VM01IX3dMdDRiMXNYRmJNN1pQN2hSOHFielVqWWxWWVVMUHc2NUdhOTkxaW5lY19mc1I?oc=5",
+          "title": "Mirka to feature robotic sanding, antistatic abrasives and more at SIBO",
+          "summary": "Global abrasive leader Mirka highlights automated robotic sanding solutions and specialized antistatic abrasives tailored for advanced manufacturing.",
+          "why": "Wood and furniture manufacturing sectors are rapidly adopting automation and antistatic solutions to improve surface finish quality and reduce dust hazards.",
+          "action": "Explore introducing antistatic abrasive lines and educating local Thai wood-processing customers on automated sanding readiness.",
           "th": {
-            "title": "ปัญหาการเดินสายไฟในโรงงานอัจฉริยะ: รถยนต์ EV เรียกร้องระบบอัตโนมัติทันที",
-            "summary": "ผู้ผลิตรถยนต์กำลังเร่งนำระบบอัตโนมัติมาใช้เพื่อแก้ปัญหาความซับซ้อนในการเดินสายไฟและการประกอบรถยนต์ EV ในโรงงาน",
-            "why": "เมื่อโรงงาน EV หันมาใช้ระบบอัตโนมัติในการประกอบและความต้องการเตรียมพื้นผิวด้วยหุ่นยนต์เพิ่มขึ้น จะส่งผลให้ความต้องการเครื่องมือขัดและลบคมอัตโนมัติสูงขึ้นตามไปด้วย",
-            "action": "จับตาดูแนวโน้มการใช้งานระบบขัดด้วยหุ่นยนต์และการเตรียมพื้นผิวอัตโนมัติในสายการผลิตรถยนต์ EV"
+            "title": "Mirka นำเสนอระบบขัดด้วยหุ่นยนต์ กระดาษทรายป้องกันไฟฟ้าสถิต และอื่นๆ ในงาน SIBO",
+            "summary": "Mirka ผู้นำด้านวัสดุขัดระดับโลก นำเสนอโซลูชันการขัดด้วยหุ่นยนต์อัตโนมัติและกระดาษทรายป้องกันไฟฟ้าสถิตที่ออกแบบมาสำหรับการผลิตขั้นสูง",
+            "why": "ภาคการผลิตไม้และเฟอร์นิเจอร์กำลังนำระบบอัตโนมัติและระบบป้องกันไฟฟ้าสถิตมาใช้รวดเร็ว เพื่อปรับปรุงคุณภาพผิวงานและลดอันตรายจากฝุ่น",
+            "action": "ศึกษาความเป็นไปได้ในการนำเข้ากลุ่มผลิตภัณฑ์กระดาษทรายป้องกันไฟฟ้าสถิต และให้ความรู้แก่ลูกค้าแปรรูปไม้ในไทยเกี่ยวกับการเตรียมพร้อมสู่ระบบขัดอัตโนมัติ"
           }
         },
         {
           "id": "20261010-w3",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "The World Economic Forum",
-          "date": "2026-04-21",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeFBmZTNpZDhjN1lHNlBlU0duZ3ZQWW9uanI0SWs3SDFVazlpbVVXMklqSTVjbDloUEI4NW1Ca2dGckgzanh5UlRfX1F5QlVfQWFZNGdSS1h5bHNIUElCTk9LeUktaGd2VWxwRDAyMGJmQ1F6ZHVEOURKVjF3MVdHWGd0OG4zYTNtUk0yZkp0QXN4R3p5LUEtWkFzODBVdUdlTVpLNTh3ZjQtTGJuanlfS0Y5dWVLVEo1WkEybk96dVY?oc=5",
-          "title": "How the Iran war is disrupting India's steel production amid fuel shortages and rising costs",
-          "summary": "Geopolitical conflicts and fuel shortages are causing production disruptions and cost spikes in India's critical steel sector.",
-          "why": "Supply chain disruptions in major steel-producing hubs like India shift regional competitive landscapes and raw material input costs for downstream metal industries.",
-          "action": "Monitor regional steel supply stability to anticipate cost fluctuations in metal fabrication materials.",
+          "tag": "auto",
+          "rating": "green",
+          "source": "MarketsandMarkets",
+          "date": "2026-07-10",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUXhqQk54c1g4cXhycTVMTFlJY3l2bGNZYU5hWG1zdDRYZmYwM0FaUzVXOTlCTXNCR1dabXhiLTJnMllTWFl6UWt1TE9KMkFqYmxxRUNjcC1nQlFhR3ZPSng5QVNtQnZRMEZ2cGREVGhaa0VPSTVfSkg1UEtlNER4emMyYW83SUkzSGc?oc=5",
+          "title": "EV Assembly Market Report 2026-2035 [486 Pages & 200 Tables]",
+          "summary": "A comprehensive EV assembly market report outlines long-term growth and structural changes in electric vehicle manufacturing plants through 2035.",
+          "why": "EV assembly processes require distinct welding, body-in-white prep, and component deburring techniques compared to traditional internal combustion engine vehicles.",
+          "action": "Keep track of EV body structure material shifts (e.g., aluminum and lightweight alloys) to target specialized deburring and surface prep tools.",
           "th": {
-            "title": "สงครามอิหร่านส่งผลกระทบต่อการผลิตเหล็กของอินเดียท่ามกลางภาวะขาดแคลนเชื้อเพลิงและต้นทุนที่สูงขึ้น",
-            "summary": "ความขัดแย้งทางภูมิรัฐศาสตร์และการขาดแคลนเชื้อเพลิงกำลังสร้างความปั่นป่วนและต้นทุนที่พุ่งสูงขึ้นในอุตสาหกรรมเหล็กของอินเดีย",
-            "why": "ความสะดุดของห่วงโซ่อุปทานในแหล่งผลิตเหล็กหลักอย่างอินเดีย ส่งผลกระทบต่อการแข่งขันในภูมิภาคและต้นทุนวัตถุดิบสำหรับอุตสาหกรรมแปรรูปโลหะปลายน้ำ",
-            "action": "ติดตามเสถียรภาพอุปทานเหล็กในภูมิภาคเพื่อคาดการณ์ความผันผวนของต้นทุนในอุตสาหกรรมแปรรูปโลหะ"
+            "title": "รายงานตลาดการประกอบรถยนต์ไฟฟ้า (EV) ปี 2026-2035 [486 หน้า และ 200 ตาราง]",
+            "summary": "รายงานตลาดการประกอบ EV ฉบับสมบูรณ์สรุปการเติบโตในระยะยาวและการเปลี่ยนแปลงเชิงโครงสร้างในโรงงานผลิตยานยนต์ไฟฟ้าจนถึงปี 2035",
+            "why": "กระบวนการประกอบ EV ต้องใช้เทคนิคการเชื่อม การเตรียมผิวตัวถัง (BIW) และการลบคมชิ้นส่วนที่แตกต่างจากรถยนต์สันดาปภายในแบบดั้งเดิม",
+            "action": "ติดตามการเปลี่ยนแปลงวัสดุโครงสร้างตัวถัง EV (เช่น อลูมิเนียมและโลหะผสมน้ำหนักเบา) เพื่อเจาะตลาดเครื่องมือลบคมและเตรียมพื้นผิวที่เฉพาะเจาะจง"
           }
         }
       ]
