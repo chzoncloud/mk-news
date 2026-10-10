@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-10-09",
+  "updated": "2026-10-10",
   "days": [
+    {
+      "date": "2026-10-10",
+      "summary": "Today's briefing highlights shifts in global steel production, smart EV factory wiring and automation, and emerging manufacturing strategies in Asian steel and automotive sectors.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปข่าววันนี้เน้นการเปลี่ยนแปลงในอุตสาหกรรมการผลิตเหล็กระดับโลก ระบบอัตโนมัติและการเดินสายไฟในโรงงาน EV รวมถึงกลยุทธ์การผลิตในภาคส่วนเหล็กและยานยนต์ของเอเชีย"
+      },
+      "items": [
+        {
+          "id": "20261010-w1",
+          "tag": "steel",
+          "rating": "green",
+          "source": "Shanghai Metals Market",
+          "date": "2026-05-19",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMmw1akRRMFZCQ2I5NGhHdE1NOXhoaE1GY0h5UmxlQVNUVGxHTko2U0NBQ0o0Q19ZYmZ1VnBCTTB6a2JJQTFNOUpDSUtpWXdaR3hkeGhlOXF4dF9yUElCd1ZkWTl4MmZGOWhVeUlXc2VCMXFCOHQzZ0ZGZ1RtZ3p6aUNObEczWFhKMkdKQ3JuRWF5SjVNZmpOQVBaSGs4TWJKS1lVa0VTdmoxdDBQTF8zRDlxME1qeEtOUzJzSTBERURobWltWTlVUlpaZ3d2WlFRNEY1b0UwbVVfLXc0cXBZ?oc=5",
+          "title": "Nucor: 100% EAF, High Profits, and Vertical Integration Mitigating Costs",
+          "summary": "Nucor's 100% Electric Arc Furnace (EAF) model demonstrates high efficiency and profitability through vertical integration, navigating cost pressures effectively.",
+          "why": "EAF steel production creates different surface scale and burrs compared to blast furnaces, directly changing what metal fabrication shops demand from our grinding and cutting discs.",
+          "action": "Track EAF-produced steel trends to ensure our cutting and grinding discs match modern metal fabrication requirements.",
+          "th": {
+            "title": "Nucor ใช้เตาเผาไฟฟ้า (EAF) 100% ทำกำไรสูงและบูรณาการแนวตั้งเพื่อลดต้นทุน",
+            "summary": "โมเดลเตาเผาอาร์กไฟฟ้า 100% ของ Nucor แสดงให้เห็นถึงประสิทธิภาพสูงและความสามารถในการทำกำไรผ่านการบูรณาการในแนวดิ่ง",
+            "why": "การผลิตเหล็กด้วยเตา EAF ทำให้เกิดตะกรันและครีบโลหะที่แตกต่างจากเตาลมเป่า ซึ่งส่งผลโดยตรงต่อความต้องการแผ่นตัดและแผ่นเจียรของลูกค้า",
+            "action": "ติดตามแนวโน้มเหล็กจากเตา EAF เพื่อให้มั่นใจว่าแผ่นตัดและแผ่นเจียรของเราตรงกับความต้องการของงานแปรรูปโลหะสมัยใหม่"
+          }
+        },
+        {
+          "id": "20261010-w2",
+          "tag": "auto",
+          "rating": "green",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-09-10",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVjkzSTlDYzItRzJSVXhQSjc1a0ttQ0dIRVYxRDgxaHFiQ0x3c1ZsLTdZQ0RRSk04bmhjdHQ4ZGJrV0lLVk45XzQ5ZzQwN1VwMDNERWNWVEpJNTRVYzZqTFFmcEIyUUZRNG9LOHp6ODIxYm80eEZrcTBOdENvenJqdktfcm5neXlITEZSRXNQclF2ZUpGUXVLTmY3SmhCRUlHdldDVC11QjRnZ3UtYzRlbzAwYS1yaW5oZV8zWmRMY2k?oc=5",
+          "title": "Smart-factory wiring woes: EVs demand automation now, not later",
+          "summary": "Automotive manufacturers are rapidly adopting automation to solve complex EV wiring and assembly challenges on the factory floor.",
+          "why": "As EV factories automate assembly and chassis production, demand for robotic-compatible surface preparation and automated deburring tools will rise.",
+          "action": "Keep an eye on robotic sanding and automated surface finishing integration trends in EV manufacturing lines.",
+          "th": {
+            "title": "ปัญหาการเดินสายไฟในโรงงานอัจฉริยะ: รถยนต์ EV เรียกร้องระบบอัตโนมัติทันที",
+            "summary": "ผู้ผลิตรถยนต์กำลังเร่งนำระบบอัตโนมัติมาใช้เพื่อแก้ปัญหาความซับซ้อนในการเดินสายไฟและการประกอบรถยนต์ EV ในโรงงาน",
+            "why": "เมื่อโรงงาน EV หันมาใช้ระบบอัตโนมัติในการประกอบและความต้องการเตรียมพื้นผิวด้วยหุ่นยนต์เพิ่มขึ้น จะส่งผลให้ความต้องการเครื่องมือขัดและลบคมอัตโนมัติสูงขึ้นตามไปด้วย",
+            "action": "จับตาดูแนวโน้มการใช้งานระบบขัดด้วยหุ่นยนต์และการเตรียมพื้นผิวอัตโนมัติในสายการผลิตรถยนต์ EV"
+          }
+        },
+        {
+          "id": "20261010-w3",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "The World Economic Forum",
+          "date": "2026-04-21",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeFBmZTNpZDhjN1lHNlBlU0duZ3ZQWW9uanI0SWs3SDFVazlpbVVXMklqSTVjbDloUEI4NW1Ca2dGckgzanh5UlRfX1F5QlVfQWFZNGdSS1h5bHNIUElCTk9LeUktaGd2VWxwRDAyMGJmQ1F6ZHVEOURKVjF3MVdHWGd0OG4zYTNtUk0yZkp0QXN4R3p5LUEtWkFzODBVdUdlTVpLNTh3ZjQtTGJuanlfS0Y5dWVLVEo1WkEybk96dVY?oc=5",
+          "title": "How the Iran war is disrupting India's steel production amid fuel shortages and rising costs",
+          "summary": "Geopolitical conflicts and fuel shortages are causing production disruptions and cost spikes in India's critical steel sector.",
+          "why": "Supply chain disruptions in major steel-producing hubs like India shift regional competitive landscapes and raw material input costs for downstream metal industries.",
+          "action": "Monitor regional steel supply stability to anticipate cost fluctuations in metal fabrication materials.",
+          "th": {
+            "title": "สงครามอิหร่านส่งผลกระทบต่อการผลิตเหล็กของอินเดียท่ามกลางภาวะขาดแคลนเชื้อเพลิงและต้นทุนที่สูงขึ้น",
+            "summary": "ความขัดแย้งทางภูมิรัฐศาสตร์และการขาดแคลนเชื้อเพลิงกำลังสร้างความปั่นป่วนและต้นทุนที่พุ่งสูงขึ้นในอุตสาหกรรมเหล็กของอินเดีย",
+            "why": "ความสะดุดของห่วงโซ่อุปทานในแหล่งผลิตเหล็กหลักอย่างอินเดีย ส่งผลกระทบต่อการแข่งขันในภูมิภาคและต้นทุนวัตถุดิบสำหรับอุตสาหกรรมแปรรูปโลหะปลายน้ำ",
+            "action": "ติดตามเสถียรภาพอุปทานเหล็กในภูมิภาคเพื่อคาดการณ์ความผันผวนของต้นทุนในอุตสาหกรรมแปรรูปโลหะ"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-10-09",
       "summary": "Today's briefing highlights shifts in the automotive OEM coatings landscape, cutting-edge wood sanding machinery growth, and Saint-Gobain's strategic movements in the abrasive sector.",
@@ -884,88 +948,6 @@ window.WORLD_ARCHIVE = {
             "summary": "ผู้ผลิตเหล็กด้วยเตาหลอมอาร์ไฟฟ้า (EAF) ชั้นนำใช้การบูรณาการแนวดิ่งและการรีไซเคิลเศษเหล็กเพื่อเพิ่มอัตรากำไรท่ามกลางแรงกดดันด้านต้นทุน",
             "why": "การผลิตเหล็กด้วยเตา EAF จะสร้างผิวเหล็กและสะเก็ดที่มีลักษณะเฉพาะ ซึ่งต้องใช้วัสดุขัดและใยขัดลบคมงานหนักที่จำเพาะ",
             "action": "เจาะกลุ่มโรงงานแปรรูปโลหะที่ใช้เหล็กจากเตา EAF ด้วยผลิตภัณฑ์หินเจียรที่ออกแบบมาเพื่อผิวโลหะผสมที่แข็งแกร่งเป็นพิเศษ"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-09-26",
-      "summary": "Today's briefing focuses on key growth segments in surface finishing, including Zirconia abrasive grains and Ceramic flap discs driven by electronics and metal fabrication, alongside shifting global steel dynamics with the U.S. rising in production.",
-      "directCount": 4,
-      "th": {
-        "summary": "สรุปสถานการณ์ประจำวันนี้เน้นไปที่การเติบโตของกลุ่มวัสดุขัดผิว เช่น เม็ดทรายขัด Zirconia และใบเจียรผ้าทรายซ้อน Ceramic ที่ขับเคลื่อนโดยอุตสาหกรรมอิเล็กทรอนิกส์และโลหะ พร้อมทั้งการเปลี่ยนแปลงของตลาดเหล็กโลกที่สหรัฐฯ มีการผลิตเพิ่มขึ้น"
-      },
-      "items": [
-        {
-          "id": "20260926-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "indexbox.io",
-          "date": "2026-09-20",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYlNPVXBmWG5YRTBvcFB1LXlsUlpseU44QUV6UjdCUzZfQVZRTUtscVJUdmxNbThRazVpcjE5cEdta2gxX2N1TENvWE1FeWg1NmxaSGNTMDlrWVZHZVBMOGoxdmZTcVE4VHUzcDdmMjFzVEFNU3JvVTh2WFZUOFY2UHhRQ2lqb0ZYdGRBUXYydGYtMmROckE3ZHVKVWprekFVNndxNWNzSS1scy1XY2FvRHFQLURQcExiU3VLUmZVcDlpbm9IQUZYU0FVRVZiWEZBb2x0OFJSdFU?oc=5",
-          "title": "Zirconia Abrasive Grain Market to Accelerate on Electronics Finishing Demand, Forecast Points Higher Toward 2035",
-          "summary": "Demand for Zirconia abrasive grains is accelerating rapidly up to 2035, heavily pushed by precision finishing requirements in electronics and high-tech manufacturing.",
-          "why": "Zirconia is a high-performance raw material for heavy-duty grinding and deburring. As electronics and metal parts require finer precision, our product line should feature high-grade Zirconia belts and discs.",
-          "action": "Review our inventory and supplier pricing for Zirconia abrasive rolls and belts to target high-precision metal and electronics finishing clients.",
-          "th": {
-            "title": "ตลาดเม็ดทรายขัด Zirconia เติบโตเร่งตัวตามความต้องการขัดแต่งผิวในอุตสาหกรรมอิเล็กทรอนิกส์",
-            "summary": "ความต้องการเม็ดทรายขัด Zirconia กำลังเติบโตอย่างรวดเร็วถึงปี 2035 ขับเคลื่อนโดยความต้องการขัดแต่งผิวที่มีความแม่นยำสูงในอุตสาหกรรมอิเล็กทรอนิกส์และการผลิตไฮเทค",
-            "why": "Zirconia เป็นวัตถุดิบประสิทธิภาพสูงสำหรับการเจียรและลบคมงานหนัก เนื่องจากชิ้นส่วนอิเล็กทรอนิกส์และโลหะต้องการความแม่นยำสูง กลุ่มผลิตภัณฑ์ของเราจึงควรมีสายพานและแผ่นขัด Zirconia เกรดสูงรองรับ",
-            "action": "ทบทวนสต็อกสินค้าและราคาจากซัพพลายเออร์สำหรับกระดาษทรายสายพานและม้วน Zirconia เพื่อเจาะกลุ่มลูกค้างานโลหะและอิเล็กทรอนิกส์ที่มีความแม่นยำสูง"
-          }
-        },
-        {
-          "id": "20260926-w2",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "Market Research Future",
-          "date": "2026-08-24",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY0JpWXlQSC1LeGU2eUdGRW1zTEZ4amNoRXAyUWcxcnpWbEdzWmprSTBFM1htcllTNmQtdlRENmZ2NlhXbV9oNTlJbnJ0UjV5cENzZC1yTUdwM21YRi0wZUxBd1l6ODNDM1NxSUdQcFMwMGpCRnJuY041elNoT1RSRA?oc=5",
-          "title": "Ceramic Flap Disc Market Size, Share & Growth Report 2035",
-          "summary": "The global ceramic flap disc market shows steady expansion through 2035, driven by industrial automation and heavy metal fabrication needs.",
-          "why": "Ceramic abrasives offer self-sharpening properties and long lifespan, making them popular in automated robotic grinding and heavy fabrication shops.",
-          "action": "Consider highlighting ceramic flap discs in our B2B catalog for heavy metal and stainless steel fabrication customers.",
-          "th": {
-            "title": "รายงานขนาดและแนวโน้มการเติบโตของตลาดใบเจียรผ้าทรายซ้อน Ceramic ถึงปี 2035",
-            "summary": "ตลาดใบเจียรผ้าทรายซ้อน Ceramic ทั่วโลกแสดงการขยายตัวอย่างต่อเนื่องจนถึงปี 2035 ขับเคลื่อนโดยระบบอัตโนมัติในอุตสาหกรรมและความต้องการผลิตโลหะหนัก",
-            "why": "สารAbrasive ชนิดเซรามิกมีคุณสมบัติลับคมตัวเองได้และมีอายุการใช้งานยาวนาน ทำให้เป็นที่นิยมในงานเจียรด้วยหุ่นยนต์อัตโนมัติและโรงงานผลิตโลหะงานหนัก",
-            "action": "พิจารณาชูจุดเด่นของใบเจียรผ้าทรายซ้อนเซรามิกในแคตตาล็อก B2B สำหรับกลุ่มลูกค้างานโลหะหนักและสแตนเลส"
-          }
-        },
-        {
-          "id": "20260926-w3",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "economy.ac",
-          "date": "2026-09-22",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YQWhOYlJ3eW9jTUhwa25XdE55eHh3a2JoODhWdDAtOW00UzhXcWwtNnJJXzZGMjMtNXN6MTYwTUhib3ZHUDNXaTdIbWY2N092QXNsOXFfdw?oc=5",
-          "title": "'Trump Tariffs and AI Boom' Propel U.S. Steel Past Japan to World No. 3 for First Time in 26 Years",
-          "summary": "Driven by tariffs and structural shifts, the U.S. steel industry has surpassed Japan to become the world's third-largest steel producer after 26 years.",
-          "why": "Shifts in global steel production geography impact regional metalworking activity, equipment investments, and local steel processing supply chains.",
-          "action": "Monitor how shifting steel production hubs in North America and Asia affect local machinery imports and metal finishing requirements.",
-          "th": {
-            "title": "'ภาษีศุลกากรและบูม AI' ผลักดันเหล็กสหรัฐฯแซงญี่ปุ่นขึ้นสู่อันดับ 3 ของโลกในรอบ 26 ปี",
-            "summary": "ขับเคลื่อนโดยนโยบายภาษีและการเปลี่ยนแปลงโครงสร้าง อุตสาหกรรมเหล็กของสหรัฐฯ ได้แซงหน้าญี่ปุ่นขึ้นเป็นผู้ผลิตเหล็กรายใหญ่อันดับ 3 ของโลกในรอบ 26 ปี",
-            "why": "การเปลี่ยนแปลงภูมิศาสตร์การผลิตเหล็กโลกส่งผลต่อกิจกรรมการแปรรูปโลหะในภูมิภาค การลงทุนด้านเครื่องจักร และห่วงโซ่อุปทานการแปรรูปเหล็กในท้องถิ่น",
-            "action": "ติดตามว่าการเปลี่ยนแปลงศูนย์กลางการผลิตเหล็กในอเมริกาเหนือและเอเชียส่งผลต่อการนำเข้าเครื่องจักรและความต้องการใช้วัสดุขัดผิวโลหะอย่างไร"
-          }
-        },
-        {
-          "id": "20260926-w4",
-          "tag": "coating",
-          "rating": "white",
-          "source": "MarketsandMarkets",
-          "date": "2026-09-18",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcXFmaElYaEMzdkRGSGI2N3hRZmNYTjMtQXhybHZUMndkeDF2WHZRN1lHS3B2dVAwYTFQN1NXLXFpNFJCV2ViclRqbTRETDNyLWZlWmNGaVZvR1Q0YjlHb082NF9USVhjbEwtR3JTcmtyX3o3UkFpYlBIN2NGckFsX3lyQ3hXQjF0R0k3NUY2c3RhLVRXMXgzN2dpNGlIT1J4?oc=5",
-          "title": "North-America Industrial Coatings Market Size, Share, Trends, Growth Analysis Report, 2031",
-          "summary": "The North American industrial coatings market is projected for steady gains through 2031, influenced by advanced manufacturing and protective surface demands.",
-          "why": "Industrial coatings and surface abrasives often go hand-in-hand in surface preparation supply chains (sanding before coating).",
-          "action": "Keep an eye on regional coating innovations as indicators for surface preparation standards required in export manufacturing.",
-          "th": {
-            "title": "รายงานขนาด ส่วนแบ่ง และแนวโน้มตลาดสารเคลือบอุตสาหกรรมอเมริกาเหนือถึงปี 2031",
-            "summary": "ตลาดสารเคลือบอุตสาหกรรมในอเมริกาเหนือมีแนวโน้มเติบโตอย่างต่อเนื่องจนถึงปี 2031 ได้รับอิทธิพลจากความต้องการด้านการผลิตขั้นสูงและการปกป้องพื้นผิว",
-            "why": "สารเคลือบอุตสาหกรรมและวัสดุขัดมักใช้งานร่วมกันในกระบวนการเตรียมพื้นผิวก่อนพ่นเคลือบ",
-            "action": "ติดตามนวัตกรรมการเคลือบผิวในภูมิภาคต่างๆ เพื่อใช้เป็นสัญญาณบ่งชี้มาตรฐานการเตรียมผิวที่จำเป็นสำหรับอุตสาหกรรมการส่งออก"
           }
         }
       ]
