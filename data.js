@@ -3,64 +3,64 @@ window.NEWS_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-10",
-      "summary": "Today has limited new developments as major EV tax and aerospace MRO announcements were covered in recent briefings. Key emerging risks center on regional competition, with India and Indonesia actively challenging Thailand for automotive manufacturing and export capacity.",
-      "directCount": 0,
+      "summary": "There are few new headlines today, with most automotive and aerospace MRO updates continuing from earlier briefings. The most notable development is the Cabinet formally acknowledging the EV Board's tax overhaul to heavily penalize CBU imports, which will support local vehicle assembly and steady abrasive consumption.",
+      "directCount": 1,
       "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มาก เนื่องจากประเด็นหลักเรื่องโครงสร้างภาษี EV และ MRO อู่ตะเภาถูกรายงานไปก่อนหน้านี้แล้ว ข่าวสำคัญเน้นไปที่ความเสี่ยงจากการแข่งขันระดับภูมิภาค โดยอินเดียและอินโดนีเซียเร่งชิงเม็ดเงินลงทุนและฐานการผลิตยานยนต์จากไทย"
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยข่าวส่วนใหญ่เรื่องโครงสร้างภาษี EV และศูนย์ซ่อมอากาศยาน MRO เป็นความต่อเนื่องจากสรุปข่าวก่อนหน้า ประเด็นเด่นที่สุดคือ ครม. รับทราบมติบอร์ด EV เพื่อรื้อโครงสร้างภาษีและสกัดรถนำเข้า CBU ซึ่งช่วยหนุนการประกอบรถยนต์ในประเทศและความต้องการใช้วัสดุขัดผิว"
       },
       "items": [
         {
           "id": "20261010-1",
           "tag": "auto",
-          "rating": "amber",
-          "source": "กรมส่งเสริมการค้าระหว่างประเทศ (DITP)",
-          "date": "2026-09-23",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pWWtMYlMtbEc3eTVkcWVCTTlQQ0Z5UWZUTTFLSmhCcE5XRFVYeGlMQ2JjVVZSOHE2U2RPSlNPUzhpRHduSjExdUFSZXZrVEhFMDgzQ3NuNFdUbEdVVjRnNDh3?oc=5",
-          "title": "Ford Considers Chennai Plant as EV Production Hub for Asia-Pacific Region",
-          "summary": "Ford is evaluating plans to repurpose its Chennai facility in Tamil Nadu, India, into an export base for electric vehicles serving the broader Asia-Pacific market.",
-          "why": "If international OEMs divert export-oriented production to India, local assembly volumes and metal fabrication for auto parts in Thailand face medium-term stagnation.",
-          "action": "Strengthen supply contracts with existing American and Japanese Tier-1 metal stamping suppliers in Thailand to secure current abrasive consumption volume.",
+          "rating": "green",
+          "source": "bangkokbiznews",
+          "date": "2026-10-09",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UZ0hQTFFGbDJCaXpsMFdIcEF4N2oybHBqQUdFbm1RRHJsSWpleW9IQi0yMmYydmNJNEhRNERPQUZrYThmV1dOSDNnSTZNaV9DeW9VeHZhNFFjcGZm?oc=5",
+          "title": "Cabinet Formally Receives EV Board Resolution to Overhaul Automotive Taxes and Maximize Tariffs on CBU Imports",
+          "summary": "The Cabinet has officially acknowledged the EV Board's resolution to restructure automotive excise taxes and apply maximum tax rates on completely built-up (CBU) imported vehicles. This policy pressures automakers to shift from importing finished cars to running local assembly plants in Thailand.",
+          "why": "Tax penalties on finished car imports will compel automakers to ramp up domestic vehicle assembly, directly driving demand for abrasives in body preparation and metal component finishing.",
+          "action": "Target tier-1 Japanese automotive parts suppliers that are ramping up local production lines to offer MK sanding belts and finishing discs.",
           "th": {
-            "title": "ฟอร์ดพิจารณาใช้โรงงานเจนไนเป็นฐานผลิตรถยนต์ไฟฟ้าส่งออกตลาดเอเชียแปซิฟิก",
-            "summary": "ฟอร์ดกำลังศึกษาแผนนำโรงงานเจนไนในรัฐทมิฬนาฑู ประเทศอินเดีย มาเป็นฐานการผลิตและส่งออกรถยนต์ไฟฟ้าสำหรับตลาดเอเชียแปซิฟิก",
-            "why": "หากค่ายรถยนต์รายใหญ่หันไปใช้ฐานการผลิตในอินเดียเพื่อการส่งออก จะส่งผลกระทบต่อยอดผลิตและงานแปรรูปโลหะชิ้นส่วนยานยนต์ในไทยในระยะกลาง",
-            "action": "กระชับความสัมพันธ์และเร่งทำสัญญาจัดส่งวัสดุขัดกับกลุ่มผู้ผลิตชิ้นส่วนปั๊มขึ้นรูปโลหะ Tier-1 ในไทยเพื่อรักษายอดใช้งานเดิม"
+            "title": "ครม. รับทราบมติบอร์ด EV รื้อภาษีรถยนต์ยกแผง ขูดภาษีสูงสุดรถนำเข้า CBU",
+            "summary": "คณะรัฐมนตรีรับทราบมติบอร์ด EV ในการปรับโครงสร้างภาษีสรรพสามิตยานยนต์ พร้อมบังคับใช้ภาษีอัตราสูงสุดกับรถยนต์นำเข้าสำเร็จรูปทั้งคัน (CBU) เพื่อกดดันให้ค่ายรถยนต์เร่งเดินสายการผลิตและประกอบในประเทศ",
+            "why": "การเก็บภาษีนำเข้ารถทั้งคันในอัตราสูงสุดบีบให้ค่ายรถต้องประกอบในไทย ซึ่งช่วยเพิ่มปริมาณการใช้วัสดุขัดเตรียมผิวตัวถังและชิ้นส่วนยานยนต์ในประเทศโดยตรง",
+            "action": "เข้าพบซัพพลายเออร์ชิ้นส่วนยานยนต์ญี่ปุ่นระดับ Tier-1 ที่เตรียมเร่งกำลังการผลิตในประเทศเพื่อนำเสนอสายพานและจานขัด MK"
           }
         },
         {
           "id": "20261010-2",
           "tag": "auto",
           "rating": "amber",
-          "source": "Brand Inside",
-          "date": "2026-08-14",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNnp5aUZLY2RzNjVBTHl1dVozcFVRLS1hZUtiY1lBOFlOZXJFX3RoMU11dm9ISDBVMG40Y09JOUJ2QmVGV3hHWjNPdFRySDVRYmZWLXd0UjJlUGh1Z0gzaUFPcUpXT0Z1Y0h0TkN3S19wYVp0QVhVdnlrd0NUbjZSUm9qRQ?oc=5",
-          "title": "Indonesia Aggressively Courts Toyota to Shift Production Away from Thailand",
-          "summary": "Indonesia is offering aggressive tax and supply chain incentives to entice Toyota to relocate investment, raising strategic concerns over Thailand's dominance in Japanese automotive manufacturing.",
-          "why": "Japanese auto factories and their parts suppliers represent MK's core abrasive customer base; any long-term production relocation threatens high-volume grinding disc and belt sales.",
-          "action": "Deliver specialized on-site abrasive optimization audits to Japanese Tier-1 part makers in the Eastern Seaboard to enhance operational stickiness and lower their production costs.",
+          "source": "มติชนออนไลน์",
+          "date": "2026-09-21",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3YkdiUjdFRVhyTUJkeERxZkxWYk1qeEdLT20xS2VpV2c2WllpNV9OTnJoQS0yTHlyS0hScS0xU1NuOGswXzBZbUVkUk9rYm9UYXVfWjYzUllpWTA?oc=5",
+          "title": "Three-Tier EV Tax Structure Finalized to Retain Local Supply Chains and Attract Investments",
+          "summary": "The government has drafted a 3-tier EV tax framework that rewards automakers based on local parts content while penalizing non-compliant assemblers. The structure aims to retain domestic tier-2 and tier-3 component manufacturers as the industry transitions from ICE to EV.",
+          "why": "Enforcing higher local content requirements preserves order volumes for domestic stamping and metal machining plants that utilize deburring and grinding consumables.",
+          "action": "Monitor tier-2 metal stamping subcontractors winning new localized parts contracts to supply deburring and surface preparation abrasives.",
           "th": {
-            "title": "อินโดนีเซียรุกหนักจูงใจโตโยต้าย้ายฐานการผลิต ท้าทายแชมป์ยานยนต์ไทย",
-            "summary": "อินโดนีเซียเสนอสิทธิประโยชน์รอบด้านเพื่อดึงดูดการลงทุนจากโตโยต้า ทำให้เกิดความกังวลว่าไทยอาจสูญเสียความได้เปรียบในฐานะศูนย์กลางการผลิตของค่ายรถยนต์ญี่ปุ่น",
-            "why": "โรงงานประกอบและชิ้นส่วนยานยนต์สัญชาติญี่ปุ่นคือกลุ่มลูกค้าอุดมคติของ MK การย้ายฐานผลิตย่อมกระทบต่อความต้องการใช้จานขัดและสายพานขัดปริมาณมาก",
-            "action": "นำเสนอการตรวจสอบประสิทธิภาพวัสดุขัดเชิงลึก (Cost-saving Audit) ให้แก่ซัพพลายเออร์ชิ้นส่วนญี่ปุ่นในแถบ EEC เพื่อผูกสัมพันธ์ทางการค้าและช่วยลดต้นทุนโรงงาน"
+            "title": "เคาะโครงสร้างภาษี EV แบบ 3 เทียร์ ปกป้องซัพพลายเชนในประเทศและดึงดูดการลงทุน",
+            "summary": "ภาครัฐวางโครงสร้างภาษีสรรพสามิต EV แบบ 3 ระดับเพื่อจูงใจค่ายรถที่ใช้ชิ้นส่วนในประเทศสูง และลงโทษผู้ผลิตที่ไม่ยอมใช้ชิ้นส่วนในไทย เพื่อรักษาฐานการผลิตของซัพพลายเออร์ Tier-2 และ Tier-3 ท้องถิ่น",
+            "why": "การบังคับใช้ชิ้นส่วนในประเทศช่วยรักษาคำสั่งซื้อให้แก่โรงงานปั๊มขึ้นรูปและกลึงโลหะไทย ซึ่งจำเป็นต้องใช้วัสดุขัดลบครีบและขัดแต่งผิวงาน",
+            "action": "ติดตามโรงกลึงและโรงปั๊มโลหะ Tier-2 ที่ได้รับคำสั่งผลิตชิ้นส่วนยานยนต์ใหม่เพื่อนำเสนอสินค้าขัดลบครีบและปรับสภาพผิวงาน"
           }
         },
         {
           "id": "20261010-3",
           "tag": "steel",
           "rating": "amber",
-          "source": "ข่าวสด",
-          "date": "2026-05-21",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15SXhSTE9NZ09fLVZFdGQ0M0JDVXlYWHM4Y1FzbDcxc0VZcFdrX1laUTRTR3VDZkZYcUNENkVUMTA4MnVOcUpGTi1xZk04NVNoUW14Z29vYXRRakEwOVE?oc=5",
-          "title": "Steel Associations Urge Ministry to Phase Out Induction Furnace Mills Within Three Years",
-          "summary": "Ten local steel associations have formally petitioned industrial regulators to ban substandard Induction Furnace (IF) operations within three years to safeguard the quality of domestic steel production.",
-          "why": "Phasing out substandard operators protects legitimate Electric Arc Furnace (EAF) mills and structured metal fabricators who consistently invest in industrial-grade cutting and grinding consumables.",
-          "action": "Focus business development efforts on certified EAF steel rolling and structural fabrication plants that require consistent, high-durability heavy grinding wheels.",
+          "source": "bangkokbiznews",
+          "date": "2026-06-09",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1BZE5wSV9tN3JIMkxoeTBjenRHaWFGTThOMkNUWUgwUm4ybm02TTlNLWJ5U1RFdVFRQVBwSldqVWEyUHBIVXhfTnNiSHpzQXhoVDhUYjJoMVAyakhp?oc=5",
+          "title": "Industry Ministry Under Pressure Over Substandard Mill Permits as Domestic Producers Push Back",
+          "summary": "Thai steel associations are keeping pressure on the Department of Industrial Works regarding licensing reviews for mills like Xin Ke Yuan, urging authorities to shut down substandard induction furnaces. Domestic producers emphasize that low-standard operations disrupt the local supply chain and create unfair competition.",
+          "why": "Stricter regulation of substandard mills protects legitimate Thai and Japanese joint-venture steel fabricators, who are consistent buyers of premium industrial abrasives.",
+          "action": "Focus sales efforts on standardized structural steel fabricators and metal works that prioritize product quality and high-durability cutting wheels.",
           "th": {
-            "title": "10 สมาคมเหล็กยื่น สมอ. จี้สั่งยกเลิกโรงงานเตา IF ภายใน 3 ปี สกัดเหล็กไร้มาตรฐาน",
-            "summary": "10 สมาคมผู้ผลิตเหล็กไทยยื่นเรื่องต่อกระทรวงอุตสาหกรรมและ สมอ. เรียกร้องให้สั่งปิดและยกเลิกโรงงานเหล็กที่ใช้เตาหลอม Induction Furnace ภายใน 3 ปี เพื่อรักษามาตรฐานอุตสาหกรรม",
-            "why": "การกวาดล้างโรงงานเหล็กที่ไม่ได้มาตรฐานช่วยฟื้นฟูโรงงานเหล็กเตา EAF ที่ได้มาตรฐาน ซึ่งเป็นกลุ่มลูกค้าที่มีการใช้วัสดุขัดและตัดระดับอุตสาหกรรมอย่างต่อเนื่อง",
-            "action": "โฟกัสการขายใบเจียรหนาและใบตัดเกรดพรีเมียมไปยังโรงงานหลอมรีดเหล็กเตา EAF และโรงงานแปรรูปโครงสร้างเหล็กที่ได้รับมาตรฐาน มอก."
+            "title": "กรมโรงงานฯ เผชิญแรงกดดันปมโรงงานเหล็กไม่ได้มาตรฐาน หลังผู้ผลิตไทยต้านซินเคอหยวน",
+            "summary": "สมาคมเหล็กไทยติดตามการพิจารณาใบอนุญาตโรงงานเตา IF ที่ไม่ได้มาตรฐานอย่างใกล้ชิด โดยเรียกร้องให้กระทรวงอุตสาหกรรมเข้มงวดเพื่อไม่ให้เหล็กคุณภาพต่ำเข้ามาทำลายห่วงโซ่อุปทานและการแข่งขันที่เป็นธรรม",
+            "why": "การกวาดล้างโรงงานเหล็กไม่ได้มาตรฐานช่วยรักษาฐานตลาดของโรงงานแปรรูปโครงสร้างเหล็กมาตรฐานของไทยและญี่ปุ่น ซึ่งเป็นกลุ่มลูกค้าที่ใช้วัสดุขัดเจียรเกรดอุตสาหกรรมอย่างต่อเนื่อง",
+            "action": "มุ่งเน้นการขายไปยังโรงงานโครงสร้างเหล็กและงานแปรรูปโลหะมาตรฐานที่ให้ความสำคัญกับคุณภาพและใบตัดความทนทานสูง"
           }
         }
       ],
