@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-11",
-      "summary": "Today's global briefing highlights key developments in robotic sanding integration, coil coating sustainability standards, and evolving metal casting and steel scrap markets.",
+      "summary": "Today's briefing focuses on global manufacturing shifts, including U.S. steel industry restructuring driven by trade policy, and regional coatings market growth which heavily impacts surface preparation and finishing demands.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปข้อมูลเชิงลึกระดับโลกประจำวันนี้ เน้นย้ำพัฒนาการสำคัญด้านระบบขัดผิวด้วยหุ่นยนต์ มาตรฐานความยั่งยืนของสีเคลือบม้วนโลหะ และตลาดการหล่อโลหะกับเศษเหล็กที่กำลังเปลี่ยนแปลง"
+        "summary": "สรุปข่าวประจำวันนี้เน้นการเปลี่ยนแปลงด้านการผลิตระดับโลก เช่น การปรับโครงสร้างอุตสาหกรรมเหล็กในสหรัฐฯ ตามนโยบายการค้า และการเติบโตของตลาดสีเคลือบภูมิภาค ซึ่งส่งผลกระทบอย่างมากต่อความต้องการเตรียมพื้นผิวและงานขัดแต่ง"
       },
       "items": [
         {
           "id": "20261011-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "Woodworking Network",
-          "date": "2022-09-14",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdks1TWZwY2RMY21ZNl8zQ1hJZ201QnJzY3Bsb2gyc0NQajRiRHMtSkJ1QW9OX1JaTzVrYm15ZkFvclM2bjZ1cTJQZVlaYk1JWVpnQVpyanBkMFFTVEZCaG9ZQ0ttWTh2VnRNRGVtbzB4WUVCamVPbzc4MTdfbEdYQm5zem1QXzlaYk5XMHpPOU9IZ3Fsc3dKVG9VM01IX3dMdDRiMXNYRmJNN1pQN2hSOHFielVqWWxWWVVMUHc2NUdhOTkxaW5lY19mc1I?oc=5",
-          "title": "Mirka to feature robotic sanding, antistatic abrasives and more at SIBO",
-          "summary": "Mirka showcases advanced robotic sanding systems and specialized antistatic abrasives tailored for automated manufacturing lines.",
-          "why": "Automation and anti-static properties are becoming critical for high-end surface finishing and dust control in modern factories.",
-          "action": "Monitor automated robotic sanding adoption among high-end Thai wood and metal manufacturers.",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "Economy.ac",
+          "date": "2026-08-07",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YQWhOYlJ3eW9jTUhwa25XdE55eHh3a2JoODhWdDAtOW00UzhXcWwtNnJJXzZGMjMtNXN6MTYwTUhib3ZHUDNXaTdIbWY2N092QXNsOXFfdw?oc=5",
+          "title": "Trump Tariffs and AI Boom Propel U.S. Steel Past Japan to World No. 3 for First Time in 26 Years",
+          "summary": "Fueled by trade policy shifts and technology investments, U.S. steel production has surged past Japan, reshaping global metal supply chains.",
+          "why": "Changes in global steel production rankings directly signal shifting metal fabrication hubs and regional demand for heavy-duty grinding and deburring products.",
+          "action": "Monitor shifting steel export flows and adjust inventory focus toward regions ramping up metal fabrication.",
           "th": {
-            "title": "Mirka นำเสนอระบบขัดผิวด้วยหุ่นยนต์ กระดาษทรายป้องกันไฟฟ้าสถิต และอื่นๆ ในงาน SIBO",
-            "summary": "Mirka จัดแสดงระบบขัดผิวด้วยหุ่นยนต์ขั้นสูงและวัสดุกัดกรองป้องกันไฟฟ้าสถิตสำหรับสายการผลิตอัตโนมัติ",
-            "why": "ระบบอัตโนมัติและคุณสมบัติป้องกันไฟฟ้าสถิตกำลังกลายเป็นสิ่งสำคัญสำหรับการขัดผิวและการควบคุมฝุ่นในโรงงานสมัยใหม่",
-            "action": "ติดตามการใช้งานระบบขัดผิวอัตโนมัติด้วยหุ่นยนต์ในกลุ่มผู้ผลิตไม้และโลหะระดับบนของไทย"
+            "title": "มาตรการภาษีและกระแส AI ดันเหล็กสหรัฐฯแซงญี่ปุ่นขึ้นอันดับ 3 ของโลกครั้งแรกในรอบ 26 ปี",
+            "summary": "ด้วยแรงหนุนจากนโยบายการค้าและการลงทุนด้านเทคโนโลยี การผลิตเหล็กของสหรัฐฯ พุ่งแซงญี่ปุ่น ซึ่งเปลี่ยนโฉมหน้าห่วงโซ่อุปทานโลหะโลก",
+            "why": "การเปลี่ยนแปลงของอันดับการผลิตเหล็กโลกบ่งบอกถึงการย้ายฐานการผลิตโลหะและความต้องการผลิตภัณฑ์ขัดและลบคมที่เปลี่ยนไปตามภูมิภาค",
+            "action": "ติดตามทิศทางการส่งออกเหล็กและปรับการสต็อกสินค้าให้สอดคล้องกับภูมิภาคที่กำลังเพิ่มกำลังการผลิตงานโลหะ"
           }
         },
         {
           "id": "20261011-w2",
           "tag": "coating",
           "rating": "amber",
-          "source": "PR Newswire UK",
-          "date": "2026-05-08",
-          "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQLWJCTzl4bnlhbUl3c2o5aXByM0Mxc3k0cUtGTHJQak5MYVNSNDk1bk50b29XS3BJbS1ySXFhV3dhWXRuMXB0bVB2Z2Q1WVN6UjRJY0N2LWpsNFRvU2o0aUU2dkx3d2htTVMxYURkLWxINlcydFRqdG1PV1ZaRWxtNndMMkc2T1hNenN2R0tBdlFaUllWV1d1N2huRTE2TlNOM0lxSEhlbkw5ajhSR0YtZWFVb01TZXlJS1VCbXNibWRreEVWQnVOUk5halB6YzBJdnNBZTJrOWxwdHppOG5jZWVETWJ0XzJuOE1mb2JqNEpmXzAxcDF4TGtRRWxaaW9DTzFPYUZCa28wbmp1ZGhtRVZ0X19lZ1ZqSUotLW1GaC0xRHRJNmNLdXVqOXNJdlpHQkF1NklvTXJOOWM?oc=5",
-          "title": "Coil Coatings Market to Reach USD 9.2 Billion by 2035 as Sustainable, High-Performance Coating Technologies Transform Construction and Industrial Applications",
-          "summary": "The coil coatings sector is expanding rapidly, driven by demand for sustainable and high-performance pre-painted metal solutions.",
-          "why": "Coil-coated metal processing requires strict pre-treatment and surface preparation, influencing abrasive usage in metal coil lines.",
-          "action": "Explore surface prep requirements for pre-coated metal applications in construction and appliances.",
+          "source": "MarketsandMarkets",
+          "date": "2026-08-03",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUTNUMnQ5Z2tsa1ZIYWdiWXFIRDEwNEVzOUNTX0pwSXY2TFhXZnJEaktRaWVObWs3UzFqd3lWd2pTRlR6eHJnNWRkMHhfeFpjZFdqUGRZcmxvcHFHUFNjVW80TnYtZ09zRE1xejZZQnc1ZjVsT05pOEpjOEwwSUZzSDdwOEN5NTJyTmc?oc=5",
+          "title": "US Paints & Coatings Market Size, Share, Trends, Growth Analysis Report, 2030",
+          "summary": "A comprehensive market report outlines steady expansion and new trend directions for the US paints and coatings sector through 2030.",
+          "why": "Coatings application heavily relies on prior surface preparation, sanding, and profiling, linking growth in coating markets directly to abrasive consumption.",
+          "action": "Keep track of surface finishing requirements tied to advanced coating formulations.",
           "th": {
-            "title": "ตลาดสีเคลือบม้วนโลหะพุ่งแตะ 9.2 พันล้านดอลลาร์ภายในปี 2035 จากเทคโนโลยีเคลือบผิวประสิทธิภาพสูงและยั่งยืน",
-            "summary": "ตลาดสีเคลือบม้วนโลหะเติบโตอย่างรวดเร็ว ขับเคลื่อนโดยความต้องการโซลูชันโลหะเคลือบสีล่วงหน้าที่ยั่งยืนและมีประสิทธิภาพสูง",
-            "why": "กระบวนการแปรรูปโลหะเคลือบม้วนต้องอาศัยการเตรียมผิวที่เข้มงวด ซึ่งส่งผลต่อการใช้วัสดุขัดในสายการผลิตโลหะ",
-            "action": "สำรวจความต้องการในการเตรียมพื้นผิวสำหรับการใช้งานโลหะเคลือบในกลุ่มก่อสร้างและเครื่องใช้ไฟฟ้า"
+            "title": "รายงานขนาด ส่วนแบ่ง และแนวโน้มตลาดสีและสารเคลือบในสหรัฐฯ ปี 2030",
+            "summary": "รายงานตลาดฉบับสมบูรณ์ระบุถึงการเติบโตที่มั่นคงและทิศทางแนวโน้มใหม่ของกลุ่มธุรกิจสีและสารเคลือบในสหรัฐฯ จนถึงปี 2030",
+            "why": "การเคลือบสีต้องพึ่งพาขั้นตอนการเตรียมพื้นผิว การขัดกระดาษทราย และการปรับสภาพผิวเป็นสำคัญ ทำให้การเติบโตของตลาดสีเชื่อมโยงโดยตรงกับยอดใช้กระดาษทราย",
+            "action": "ติดตามข้อกำหนดด้านการเตรียมพื้นผิวที่เกี่ยวข้องกับสูตรสารเคลือบใหม่ๆ"
           }
         },
         {
           "id": "20261011-w3",
-          "tag": "steel",
+          "tag": "coating",
           "rating": "amber",
-          "source": "Fact.MR",
-          "date": "2026-04-13",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QdlVWYkhUUHFMQ042anhjZWhnN25NSnZfX2F3QU1IVnpHdHVIeWpSS2R0RnVCQjBHVVgwQjhTR21WeThVSF9Td2p5LUxpN3dKekd0UXJpdHMxWENF?oc=5",
-          "title": "Steel Scrap Market, Global Market Analysis Report - 2036",
-          "summary": "Global analysis highlights sustained growth in the steel scrap market as electric arc furnace (EAF) steelmaking expands.",
-          "why": "EAF steel production and scrap metal recycling generate heavy demand for robust grinding, cutting, and surface conditioning abrasives.",
-          "action": "Align abrasive product offerings with foundries and recycling yards processing scrap metal.",
+          "source": "Precedence Research",
+          "date": "2026-09-08",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84OGJPdlhPN3V5UEwxaGlhNG5ZT21uSmN5bTRCODBPZWtNRVR2WnBrZ2NEMkRndlJQblVJbEhlVUk3NUFDR0dQQUJXT255NmRiQTd1THBndXZZSlRxNEZqeTBVM0ZmTWJ3SjMxOXRmb3RvM2RVODBlZzNMTlI?oc=5",
+          "title": "Automotive Paints and Coatings Market Companies, Size & Trends 2026-2035",
+          "summary": "The automotive paints and coatings market analysis highlights ongoing transformations and competitive landscapes expected over the next decade.",
+          "why": "Automotive manufacturing requires precise surface sanding and finishing before and after paint application, making coating trends a leading indicator for industrial abrasives.",
+          "action": "Identify opportunities to supply specialised sanding pads used in automotive paint prep lines.",
           "th": {
-            "title": "รายงานวิเคราะห์ตลาดเศษเหล็กระดับโลก ปี 2036",
-            "summary": "การวิเคราะห์ระดับโลกเน้นย้ำถึงการเติบโตอย่างต่อเนื่องของตลาดเศษเหล็ก ตามการขยายตัวของการผลิตเหล็กด้วยเตาอาร์กไฟฟ้า (EAF)",
-            "why": "การผลิตเหล็ก EAF และการรีไซเคิลเศษโลหะสร้างความต้องการสูงสำหรับผลิตภัณฑ์หินเจียร ใบตัด และผลิตภัณฑ์ปรับสภาพผิว",
-            "action": "ปรับกลุ่มผลิตภัณฑ์วัสดุขัดให้สอดคล้องกับโรงหล่อและลานรีไซเคิลที่แปรรูปเศษโลหะ"
+            "title": "ตลาดสีและสารเคลือบยานยนต์: บริษัท ขนาด และแนวโน้มปี 2026-2035",
+            "summary": "บทวิเคราะห์ตลาดสีและสารเคลือบยานยนต์ไฮไลต์การเปลี่ยนแปลงและภูมิทัศน์การแข่งขันที่จะเกิดขึ้นในทศวรรษหน้า",
+            "why": "การผลิตยานยนต์ต้องอาศัยการขัดและตกแต่งผิวอย่างแม่นยำทั้งก่อนและหลังพ่นสี ทำให้แนวโน้มสารเคลือบเป็นตัวชี้วัดสำคัญของตลาดวัสดุขัด",
+            "action": "มองหาโอกาสในการจัดหาแผ่นขัดเฉพาะทางที่ใช้ในสายงานเตรียมพื้นผิวก่อนพ่นสียานยนต์"
           }
         }
       ]
