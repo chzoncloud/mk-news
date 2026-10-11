@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-10-11",
+  "updated": "2026-10-12",
   "days": [
+    {
+      "date": "2026-10-12",
+      "summary": "Today's briefing highlights global shifts in surface finishing, EV adoption, and metal processing, focusing on sustainability, digital innovation, and regional steel dynamics.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปทิศทางโลกวันนี้เน้นการเปลี่ยนแปลงด้านการตกแต่งพื้นผิว ยานยนต์ไฟฟ้า และอุตสาหกรรมโลหะ โดยให้ความสำคัญกับความยั่งยืน นวัตกรรมดิจิทัล และตลาดเหล็กระดับภูมิภาค"
+      },
+      "items": [
+        {
+          "id": "20261012-w1",
+          "tag": "coating",
+          "rating": "green",
+          "source": "European Coatings",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
+          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
+          "summary": "The coatings industry is accelerating towards digital transformation, advanced green formulations, and enhanced sustainability standards.",
+          "why": "New coating formulations and surface technologies directly change how industrial parts are prepped, sanded, and finished.",
+          "action": "Monitor sustainable surface treatments to anticipate future customer preparation requirements.",
+          "th": {
+            "title": "กำหนดอนาคตยุคใหม่ของอุตสาหกรรมสีและสารเคลือบ: นวัตกรรม ความยั่งยืน และพลังแห่งดิจิทัล",
+            "summary": "อุตสาหกรรมสารเคลือบกำลังเร่งขับเคลื่อนสู่การแปลงโฉมด้วยดิจิทัล สูตรที่เป็นมิตรต่อสิ่งแวดล้อม และมาตรฐานความยั่งยืนที่สูงขึ้น",
+            "why": "สูตรสารเคลือบและเทคโนโลยีพื้นผิวใหม่ส่งผลโดยตรงต่อวิธีการเตรียมผิว ขัด และตกแต่งชิ้นงานอุตสาหกรรม",
+            "action": "ติดตามเทคโนโลยีการเตรียมผิวที่ยั่งยืนเพื่อคาดการณ์ความต้องการของลูกค้าในอนาคต"
+          }
+        },
+        {
+          "id": "20261012-w2",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Precedence Research",
+          "date": "2026-09-08",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84OGJPdlhPN3V5UEwxaGlhNG5ZT21uSmN5bTRCODBPZWtNRVR2WnBrZ2NEMkRndlJQblVJbEhlVUk3NUFDR0dQQUJXT255NmRiQTd1THBndXZZSlRxNEZqeTBVM0ZmTWJ3SjMxOXRmb3RvM2RVODBlZzNMTlI?oc=5",
+          "title": "Automotive Paints and Coatings Market Companies, Size & Trends 2026-2035",
+          "summary": "The automotive paints and coatings market is projected for steady growth, driven by EV production lines and advanced exterior finishes.",
+          "why": "Automotive body finishing directly dictates the demand for high-precision sanding, polishing, and surface preparation abrasives.",
+          "action": "Keep track of EV manufacturing hubs scaling up body shop surface finishing lines.",
+          "th": {
+            "title": "บริษัท ขนาด และแนวโน้มตลาดสีและสารเคลือบยานยนต์ ปี 2026-2035",
+            "summary": "ตลาดสีและสารเคลือบยานยนต์คาดว่าจะเติบโตอย่างต่อเนื่อง ขับเคลื่อนโดยสายการผลิตรถยนต์ไฟฟ้าและการเคลือบผิวภายนอกขั้นสูง",
+            "why": "งานตกแต่งตัวถังรถยนต์ส่งผลโดยตรงต่อความต้องการใช้วัสดุขัดกระดาษทรายและอุปกรณ์เตรียมผิวที่มีความแม่นยำสูง",
+            "action": "ติดตามฐานการผลิตยานยนต์ไฟฟ้าที่มีการขยายสายการผลิตและตกแต่งพื้นผิว"
+          }
+        },
+        {
+          "id": "20261012-w3",
+          "tag": "steel",
+          "rating": "white",
+          "source": "Progressive Policy Institute",
+          "date": "2026-09-24",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTeHd1akw0WFVaUWFucjdlRWp1cFBVQjRiRi1rWFd2WlNVRkQzanJJMmpMV3BBM0QxVEF5N2FZcmFMSFNxQ3M1VTQ5c1VJYjhJRVRQQVM3M2tac1FFMGdSSlZ4eTdQdzNINFB1MDR0a09haWhpNkFIVV9aWlA?oc=5",
+          "title": "American Industry Is Using Less Steel",
+          "summary": "Data shows shifts in industrial material usage as efficiency and alternative lightweight materials gain ground in manufacturing.",
+          "why": "Changes in raw steel consumption patterns signal potential shifts in metal fabrication and heavy industry volumes.",
+          "action": "Observe material substitution trends among local and global metal-working clients.",
+          "th": {
+            "title": "อุตสาหกรรมอเมริกันใช้เหล็กน้อยลง",
+            "summary": "ข้อมูลแสดงให้เห็นถึงการเปลี่ยนแปลงในการใช้วัสดุอุตสาหกรรม เนื่องจากประสิทธิภาพการผลิตและวัสดุน้ำหนักเบาทางเลือกเริ่มได้รับความนิยมมากขึ้น",
+            "why": "รูปแบบการบริโภคเหล็กดิบที่เปลี่ยนไปบ่งบอกถึงแนวโน้มปริมาณงานแปรรูปโลหะและอุตสาหกรรมหนัก",
+            "action": "สังเกตแนวโน้มการใช้วัสดุแทนกันในกลุ่มลูกค้างานโลหะทั้งในและต่างประเทศ"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-10-11",
       "summary": "Today's briefing highlights shifts in coil coatings, robotized wood sanding applications, and global steel trade pressures that directly influence industrial surface preparation and finishing demand.",
@@ -848,106 +912,6 @@ window.WORLD_ARCHIVE = {
             "summary": "จากแรงขับเคลื่อนของนโยบายการค้าล่าสุดและความต้องการทางอุตสาหกรรมที่พุ่งสูงขึ้น การผลิตเหล็กของสหรัฐฯ ได้ทะยานขึ้นสู่อันดับ 3 ของโลก ซึ่งเปลี่ยนพลวัตอุปทานโลหะทั่วโลก",
             "why": "การเปลี่ยนแปลงของปริมาณการผลิตเหล็กในแต่ละภูมิภาคส่งผลโดยตรงต่อพื้นที่ที่มีการขยายตัวของการแปรรูปโลหะและการผลิตหนักทั่วโลก",
             "action": "ติดตามกระแสการนำเข้า-ส่งออกเหล็กเพื่อคาดการณ์การเปลี่ยนแปลงระดับภูมิภาคของความต้องการผลิตภัณฑ์เตรียมพื้นผิวโลหะ"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-09-28",
-      "summary": "Today's global briefing focuses on emerging material demands in electronics and metal finishing, alongside evolving steel trade policies impacting global manufacturing supply chains.",
-      "directCount": 4,
-      "th": {
-        "summary": "รายงานแนวโน้มโลกประจำวันนี้มุ่งเน้นไปที่ความต้องการวัสดุใหม่ในอุตสาหกรรมอิเล็กทรอนิกส์และการตกแต่งโลหะ ควบคู่ไปกับนโยบายการค้าเหล็กที่เปลี่ยนแปลงซึ่งส่งผลต่อห่วงโซ่อุปทานการผลิตทั่วโลก"
-      },
-      "items": [
-        {
-          "id": "20260928-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-09-13",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNampPT2tfdEQzcFJFejdVSjM3bGtXSmZUNlFBQWFiTHlEa0ZiLWswbHZNNkdNV0pJaFFnZ2I1NXhQWjc3RlNqVTRGQ09HcTVvYjlPSno5dGtramktX1FKN3hGOFhTeGJfZjJ6dGxtSDF2Yi14VGZwYlRydFMtM3VVdW0wVU9yWVlPNDlweFQ2c0pSN3FNSS03Yk4zRUFsVlB0cGJybHZKV1h5Yzc3OVBVdWZaaEp4NDBWRTVHYXlpbEVOaDF0Z29BODFnZGFuRUVXNVlfVw?oc=5",
-          "title": "Sandpaper Sheets Coarse Market Forecast to 2035: Growth Accelerates on Electronics and Metal Finishing Demand",
-          "summary": "Coarse sandpaper sheets demand is projected to grow steadily, driven by increasing applications in electronic components and advanced metal finishing.",
-          "why": "Growth in electronics and metal finishing directly increases demand for coarse sandpaper sheets and coated abrasive products.",
-          "action": "Stock up on high-durability coarse sandpaper sheets geared toward electronics and metal processing sectors.",
-          "th": {
-            "title": "ตลาดกระดาษทรายหยาบคาดการณ์ถึงปี 2035: เติบโตเร่งตัวจากความต้องการในอุตสาหกรรมอิเล็กทรอนิกส์และการตกแต่งโลหะ",
-            "summary": "ความต้องการกระดาษทรายหยาบคาดว่าจะเติบโตอย่างต่อเนื่อง ขับเคลื่อนโดยการใช้งานที่เพิ่มขึ้นในชิ้นส่วนอิเล็กทรอนิกส์และการตกแต่งโลหะขั้นสูง",
-            "why": "การเติบโตในอุตสาหกรรมอิเล็กทรอนิกส์และการตกแต่งโลหะส่งผลโดยตรงต่อความต้องการกระดาษทรายหยาบและผลิตภัณฑ์กระดาษทรายเคลือบ",
-            "action": "เตรียมสต็อกกระดาษทรายหยาบที่มีความทนทานสูงซึ่งมุ่งเป้าไปที่ภาคส่วนอิเล็กทรอนิกส์และการแปรรูปโลหะ"
-          }
-        },
-        {
-          "id": "20260928-w2",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-09-22",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa3prOHdTb1BJS0dDaF9fWnpxMnRrUlB2dU9zdjJBRllhY2pBaU13V1Z3MGhRX19xR3RVVVVCbUpkbjRfd0ZMSzc3X2swMmtvSVVHYm5nazA1c3ZSZ2YxOGgxUTRkWVhweV9ULUd4My1MNnNTaWNtdGlaOVMzT2MtNzBqNUpxWHZ3aV9LOFZKeTNNdmZ3R0lFREh0SVB0Ym5sdlZtaHVTOTJOM1VBcjhiUTAxSDVHLXJBQWRBOTB3?oc=5",
-          "title": "Fused Alumina Market to Accelerate on Electronics Demand, Forecast Points Higher Toward 2035",
-          "summary": "The market for fused alumina, a key raw material for abrasives, is accelerating due to rising consumption in electronics and precision manufacturing.",
-          "why": "Fused alumina is a core abrasive grain; rising raw material costs or demand shifts will impact our manufacturing and product pricing.",
-          "action": "Monitor fused alumina supply stability and adjust procurement strategies ahead of price fluctuations.",
-          "th": {
-            "title": "ตลาดอลูมินาหลอมเร่งตัวขึ้นจากความต้องการใช้อิเล็กทรอนิกส์ คาดการณ์แนวโน้มพุ่งสูงถึงปี 2035",
-            "summary": "ตลาดอลูมินาหลอมซึ่งเป็นวัตถุดิบสำคัญสำหรับวัสดุขัดกำลังเติบโตอย่างรวดเร็ว เนื่องจากการบริโภคที่เพิ่มขึ้นในอุตสาหกรรมอิเล็กทรอนิกส์และการผลิตที่มีความแม่นยำสูง",
-            "why": "อลูมินาหลอมเป็นเม็ดขัดหลัก การเปลี่ยนแปลงของต้นทุนวัตถุดิบหรือความต้องการจะส่งผลต่อการผลิตและราคาสินค้าของเรา",
-            "action": "ติดตามเสถียรภาพของอุปทานอลูมินาหลอมและปรับกลยุทธ์การจัดซื้อล่วงหน้าเพื่อรับมือกับความผันผวนของราคา"
-          }
-        },
-        {
-          "id": "20260928-w3",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "The World Economic Forum",
-          "date": "2026-04-21",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeFBmZTNpZDhjN1lHNlBlU0duZ3ZQWW9uanI0SWs3SDFVazlpbVVXMklqSTVjbDloUEI4NW1Ca2dGckgzanh5UlRfX1F5QlVfQWFZNGdSS1h5bHNIUElCTk9LeUktaGd2VWxwRDAyMGJmQ1F6ZHVEOURKVjF3MVdHWGd0OG4zYTNtUk0yZkp0QXN4R3p5LUEtWkFzODBVdUdlTVpLNTh3ZjQtTGJuanlfS0Y5dWVLVEo1WkEybk96dVY?oc=5",
-          "title": "How the Iran war is disrupting India's steel production amid fuel shortages and rising costs",
-          "summary": "Geopolitical conflicts and fuel shortages are causing severe disruptions in major steel-producing regions like India, driving up operational costs.",
-          "why": "Steel production slowdowns and rising costs in key markets affect global metal fabrication activity and abrasive tool consumption.",
-          "action": "Keep an eye on metal fabrication output in client regions to anticipate changes in deburring and grinding tool demand.",
-          "th": {
-            "title": "สงครามในอิหร่านส่งผลกระทบต่อการผลิตเหล็กของอินเดียท่ามกลางปัญหาขาดแคลนเชื้อเพลิงและต้นทุนที่สูงขึ้น",
-            "summary": "ความขัดแย้งทางภูมิรัฐศาสตร์และการขาดแคลนเชื้อเพลิงกำลังสร้างความปั่นป่วนอย่างรุนแรงในภูมิภาคผู้ผลิตเหล็กรายใหญ่อย่างอินเดีย ทำให้ต้นทุนการดำเนินงานพุ่งสูงขึ้น",
-            "why": "การชะลอตัวของการผลิตเหล็กและต้นทุนที่สูงขึ้นในตลาดสำคัญส่งผลต่อกิจกรรมการแปรรูปโลหะทั่วโลกและการบริโภคเครื่องมือขัด",
-            "action": "จับตาดูปริมาณการผลิตโลหะในภูมิภาคของลูกค้าเพื่อคาดการณ์การเปลี่ยนแปลงของความต้องการเครื่องมือขัดและลบคม"
-          }
-        },
-        {
-          "id": "20260928-w4",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "Reuters",
-          "date": "2026-04-02",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWFZKb2ppb3RHdXNXbnBJZzR4WGc5dHJ3ZkVvVlVMYVFwUjN4TkxQR203bEtjTlo3d3NnTDBaSXZSZzMxUkY5QVlWMFF2V3NGM2VOMk0zMk14NkVfWDVyNF96QlVMQ2tHb0oyWm5nRm9pQmpOYTdoWTJQUTdXMHZOR1RLT0RJaldfT3NMRmNJXzhMcHhMM1p2dHVzaEtHaGtBME54MGJUbW5MdDFNX2tkZkktOGNiLTQ3ZjRiTw?oc=5",
-          "title": "A year after 'Liberation Day,' Trump sets new drug tariffs, adjusts metals duties",
-          "summary": "New adjustments to metal duties by the US administration continue to reshape international trade flows and supply chain economics for raw materials.",
-          "why": "Tariff adjustments alter global steel and metal trade routes, shifting manufacturing hubs and localized surface preparation demand.",
-          "action": "Assess how changing metal trade policies impact local metal processors and their need for surface finishing abrasives.",
-          "th": {
-            "title": "หนึ่งปีหลังวันปลดปล่อย ทรัมป์กำหนดภาษียาใหม่ ปรับภาษีโลหะ",
-            "summary": "การปรับเปลี่ยนภาษีโลหะครั้งใหม่โดยรัฐบาลสหรัฐฯ ยังคงปรับเปลี่ยนกระแสการค้าและเศรษฐกิจห่วงโซ่อุปทานสำหรับวัตถุดิบระหว่างประเทศ",
-            "why": "การปรับภาษีส่งผลต่อเส้นทางการค้าเหล็กและโลหะทั่วโลก เปลี่ยนแปลงศูนย์กลางการผลิตและความต้องการเตรียมพื้นผิวในท้องถิ่น",
-            "action": "ประเมินว่านโยบายการค้าโลหะที่เปลี่ยนไปส่งผลกระทบต่อผู้แปรรูปโลหะในท้องถิ่นและความต้องการใช้วัสดุขัดแต่งผิวอย่างไร"
-          }
-        },
-        {
-          "id": "20260928-w5",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-09-21",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUHU4VlhPWmlncTZzTEcwZGo4SHNBRWVYMTh4X2VtU2R1SHdJbG9pRk5uelVRcUNxLVdsSWt5VS02dDVBZjFJN3ByZlhaNkJnQ2llejN1LTB1MFY0S3NubVJ2RmdJaldDM1k0NEpfZFBadFlHSFlraENPdjVDR1dVVVRncU11Zms?oc=5",
-          "title": "Aluminum Oxide Sanding Disc Market Outlook to 2035",
-          "summary": "The market outlook for aluminum oxide sanding discs highlights steady long-term adoption across general metalworking and automotive industries.",
-          "why": "Aluminum oxide discs are standard workhorse products for MK; tracking market growth ensures stable inventory planning.",
-          "action": "Maintain competitive pricing and steady stock of standard aluminum oxide sanding discs for core industrial clients.",
-          "th": {
-            "title": "แนวโน้มตลาดแผ่นขัดอลูมิเนียมออกไซด์ถึงปี 2035",
-            "summary": "แนวโน้มตลาดสำหรับแผ่นขัดอลูมิเนียมออกไซด์เน้นย้ำถึงการใช้งานระยะยาวที่มั่นคงในอุตสาหกรรมโลหการทั่วไปและอุตสาหกรรมยานยนต์",
-            "why": "แผ่นขัดอลูมิเนียมออกไซด์เป็นสินค้าหลักของ MK การติดตามการเติบโตของตลาดช่วยให้วางแผนสินค้าคงคลังได้อย่างมั่นคง",
-            "action": "รักษาราคาที่แข่งขันได้และสต็อกแผ่นขัดอลูมิเนียมออกไซด์ให้สม่ำเสมอสำหรับลูกค้าอุตสาหกรรมหลัก"
           }
         }
       ]
