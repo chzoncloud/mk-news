@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-11",
-      "summary": "Today's briefing focuses on global manufacturing shifts, including U.S. steel industry restructuring driven by trade policy, and regional coatings market growth which heavily impacts surface preparation and finishing demands.",
+      "summary": "Today's briefing highlights shifts in coil coatings, robotized wood sanding applications, and global steel trade pressures that directly influence industrial surface preparation and finishing demand.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปข่าวประจำวันนี้เน้นการเปลี่ยนแปลงด้านการผลิตระดับโลก เช่น การปรับโครงสร้างอุตสาหกรรมเหล็กในสหรัฐฯ ตามนโยบายการค้า และการเติบโตของตลาดสีเคลือบภูมิภาค ซึ่งส่งผลกระทบอย่างมากต่อความต้องการเตรียมพื้นผิวและงานขัดแต่ง"
+        "summary": "สรุปประเด็นข่าววันนี้เน้นการเปลี่ยนแปลงในกลุ่มสีเคลือบแผ่นเหล็ก งานขัดไม้ด้วยระบบอัตโนมัติ และแรงกดดันในตลาดเหล็กโลก ซึ่งล้วนส่งผลกระทบโดยตรงต่อความต้องการใช้ผลิตภัณฑ์ขัดกระดาษทรายและเตรียมพื้นผิว"
       },
       "items": [
         {
           "id": "20261011-w1",
-          "tag": "steel",
+          "tag": "coating",
           "rating": "amber",
-          "source": "Economy.ac",
-          "date": "2026-08-07",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YQWhOYlJ3eW9jTUhwa25XdE55eHh3a2JoODhWdDAtOW00UzhXcWwtNnJJXzZGMjMtNXN6MTYwTUhib3ZHUDNXaTdIbWY2N092QXNsOXFfdw?oc=5",
-          "title": "Trump Tariffs and AI Boom Propel U.S. Steel Past Japan to World No. 3 for First Time in 26 Years",
-          "summary": "Fueled by trade policy shifts and technology investments, U.S. steel production has surged past Japan, reshaping global metal supply chains.",
-          "why": "Changes in global steel production rankings directly signal shifting metal fabrication hubs and regional demand for heavy-duty grinding and deburring products.",
-          "action": "Monitor shifting steel export flows and adjust inventory focus toward regions ramping up metal fabrication.",
+          "source": "PR Newswire UK",
+          "date": "2026-05-08",
+          "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQLWJCTzl4bnlhbUl3c2o5aXByM0Mxc3k0cUtGTHJQak5MYVNSNDk1bk50b29XS3BJbS1ySXFhV3dhWXRuMXB0bVB2Z2Q1WVN6UjRJY0N2LWpsNFRvU2o0aUU2dkx3d2htTVMxYURkLWxINlcydFRqdG1PV1ZaRWxtNndMMkc2T1hNenN2R0tBdlFaUllWV1d1N2huRTE2TlNOM0lxSEhlbkw5ajhSR0YtZWFVb01TZXlJS1VCbXNibWRreEVWQnVOUk5halB6YzBJdnNBZTJrOWxwdHppOG5jZWVETWJ0XzJuOE1mb2JqNEpmXzAxcDF4TGtRRWxaaW9DTzFPYUZCa28wbmp1ZGhtRVZ0X19lZ1ZqSUotLW1GaC0xRHRJNmNLdXVqOXNJdlpHQkF1NklvTXJOOWM?oc=5",
+          "title": "Coil Coatings Market to Reach USD 9.2 Billion by 2035 as Sustainable, High-Performance Coating Technologies Transform Construction and Industrial Applications",
+          "summary": "The coil coatings market is expanding through 2035, driven by demand for sustainable and high-performance pre-painted metal solutions in construction and manufacturing.",
+          "why": "Pre-painted metal and coil coating lines require intensive surface preparation, cleaning, and sometimes deburring or finishing before coating application.",
+          "action": "Monitor coil-coating processors as potential bulk end-users for specialized industrial belts and rolls.",
           "th": {
-            "title": "มาตรการภาษีและกระแส AI ดันเหล็กสหรัฐฯแซงญี่ปุ่นขึ้นอันดับ 3 ของโลกครั้งแรกในรอบ 26 ปี",
-            "summary": "ด้วยแรงหนุนจากนโยบายการค้าและการลงทุนด้านเทคโนโลยี การผลิตเหล็กของสหรัฐฯ พุ่งแซงญี่ปุ่น ซึ่งเปลี่ยนโฉมหน้าห่วงโซ่อุปทานโลหะโลก",
-            "why": "การเปลี่ยนแปลงของอันดับการผลิตเหล็กโลกบ่งบอกถึงการย้ายฐานการผลิตโลหะและความต้องการผลิตภัณฑ์ขัดและลบคมที่เปลี่ยนไปตามภูมิภาค",
-            "action": "ติดตามทิศทางการส่งออกเหล็กและปรับการสต็อกสินค้าให้สอดคล้องกับภูมิภาคที่กำลังเพิ่มกำลังการผลิตงานโลหะ"
+            "title": "ตลาดสีเคลือบขดลวดเหล็ก (Coil Coatings) มุ่งสู่ 9.2 พันล้านดอลลาร์สหรัฐภายในปี 2035",
+            "summary": "ตลาดสีเคลือบแผ่นโลหะม้วนกำลังเติบโตอย่างต่อเนื่องจนถึงปี 2035 หนุนโดยความต้องการวัสดุเคลือบผิวประสิทธิภาพสูงและเป็นมิตรต่อสิ่งแวดล้อม",
+            "why": "กระบวนการผลิตเหล็กเคลือบม้วนต้องอาศัยการเตรียมพื้นผิว ขัดทำความสะอาด และขัดแต่งคมก่อนพ่นสีเคลือบ",
+            "action": "ติดตามกลุ่มผู้ผลิตเหล็กเคลือบม้วนในฐานะลูกค้ากลุ่มเป้าหมายสำหรับกระดาษทรายสายพานและลูกกลิ้งขัดอุตสาหกรรม"
           }
         },
         {
           "id": "20261011-w2",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "MarketsandMarkets",
-          "date": "2026-08-03",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUTNUMnQ5Z2tsa1ZIYWdiWXFIRDEwNEVzOUNTX0pwSXY2TFhXZnJEaktRaWVObWs3UzFqd3lWd2pTRlR6eHJnNWRkMHhfeFpjZFdqUGRZcmxvcHFHUFNjVW80TnYtZ09zRE1xejZZQnc1ZjVsT05pOEpjOEwwSUZzSDdwOEN5NTJyTmc?oc=5",
-          "title": "US Paints & Coatings Market Size, Share, Trends, Growth Analysis Report, 2030",
-          "summary": "A comprehensive market report outlines steady expansion and new trend directions for the US paints and coatings sector through 2030.",
-          "why": "Coatings application heavily relies on prior surface preparation, sanding, and profiling, linking growth in coating markets directly to abrasive consumption.",
-          "action": "Keep track of surface finishing requirements tied to advanced coating formulations.",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "Woodworking Network",
+          "date": "2022-09-14",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdks1TWZwY2RMY21ZNl8zQ1hJZ201QnJzY3Bsb2gyc0NQajRiRHMtSkJ1WU9OX1JaTzVrYm15ZkFvclM2bjZ1cTJQZVlaYk1JWVpnQVpyanBkMFFTVEZCaG9ZQ0ttWTh2VnRNRGVtbzB4WUVCamVPbzc4MTdfbEdYQm5zem1QXzlaYk5XMHpPOU9IZ3Fsc3dKVG9VM01IX3dMdDRiMXNYRmJNN1pQN2hSOHFielVqQWxWWVVMUHc2NUdhOTkxaW5lY19mc1I?oc=5",
+          "title": "Mirka to feature robotic sanding, antistatic abrasives and more at SIBO",
+          "summary": "Major abrasive manufacturers are showcasing automated robotic sanding setups combined with antistatic abrasives to boost efficiency in woodworking.",
+          "why": "Automation and antistatic properties are fast becoming standard requirements for high-volume wood and composite sanding operations.",
+          "action": "Evaluate our product lineup for antistatic sanding sheets and rolls suited for automated or high-speed woodworking.",
           "th": {
-            "title": "รายงานขนาด ส่วนแบ่ง และแนวโน้มตลาดสีและสารเคลือบในสหรัฐฯ ปี 2030",
-            "summary": "รายงานตลาดฉบับสมบูรณ์ระบุถึงการเติบโตที่มั่นคงและทิศทางแนวโน้มใหม่ของกลุ่มธุรกิจสีและสารเคลือบในสหรัฐฯ จนถึงปี 2030",
-            "why": "การเคลือบสีต้องพึ่งพาขั้นตอนการเตรียมพื้นผิว การขัดกระดาษทราย และการปรับสภาพผิวเป็นสำคัญ ทำให้การเติบโตของตลาดสีเชื่อมโยงโดยตรงกับยอดใช้กระดาษทราย",
-            "action": "ติดตามข้อกำหนดด้านการเตรียมพื้นผิวที่เกี่ยวข้องกับสูตรสารเคลือบใหม่ๆ"
+            "title": "Mirka เผยโฉมนวัตกรรมการขัดด้วยหุ่นยนต์และกระดาษทรายป้องกันไฟฟ้าสถิตในงาน SIBO",
+            "summary": "ผู้ผลิตวัสดุขัดชั้นนำกำลังผลักดันระบบการขัดด้วยหุ่นยนต์อัตโนมัติร่วมกับกระดาษทรายป้องกันไฟฟ้าสถิตเพื่อเพิ่มประสิทธิภาพงานไม้",
+            "why": "ระบบอัตโนมัติและคุณสมบัติป้องกันไฟฟ้าสถิตกำลังกลายเป็นมาตรฐานสำคัญในอุตสาหกรรมงานขัดไม้และวัสดุคอมโพสิตปริมาณมาก",
+            "action": "ประเมินสต็อกสินค้ากระดาษทรายป้องกันไฟฟ้าสถิตทั้งแบบแผ่นและม้วนที่รองรับงานขัดไม้ความเร็วสูงหรือระบบอัตโนมัติ"
           }
         },
         {
           "id": "20261011-w3",
-          "tag": "coating",
+          "tag": "steel",
           "rating": "amber",
-          "source": "Precedence Research",
-          "date": "2026-09-08",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84OGJPdlhPN3V5UEwxaGlhNG5ZT21uSmN5bTRCODBPZWtNRVR2WnBrZ2NEMkRndlJQblVJbEhlVUk3NUFDR0dQQUJXT255NmRiQTd1THBndXZZSlRxNEZqeTBVM0ZmTWJ3SjMxOXRmb3RvM2RVODBlZzNMTlI?oc=5",
-          "title": "Automotive Paints and Coatings Market Companies, Size & Trends 2026-2035",
-          "summary": "The automotive paints and coatings market analysis highlights ongoing transformations and competitive landscapes expected over the next decade.",
-          "why": "Automotive manufacturing requires precise surface sanding and finishing before and after paint application, making coating trends a leading indicator for industrial abrasives.",
-          "action": "Identify opportunities to supply specialised sanding pads used in automotive paint prep lines.",
+          "source": "S&P Global",
+          "date": "2026-01-12",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
+          "title": "Global steel industry battles surplus supply, protectionism",
+          "summary": "The global steel sector continues to face overcapacity issues alongside rising trade protectionism measures across various key regions.",
+          "why": "Fluctuations in steel production volumes directly impact the consumption of grinding wheels, deburring discs, and heavy-duty coated abrasives in metal fabrication.",
+          "action": "Keep close tabs on local steel mill and metal processor utilization rates to forecast abrasive re-order cycles.",
           "th": {
-            "title": "ตลาดสีและสารเคลือบยานยนต์: บริษัท ขนาด และแนวโน้มปี 2026-2035",
-            "summary": "บทวิเคราะห์ตลาดสีและสารเคลือบยานยนต์ไฮไลต์การเปลี่ยนแปลงและภูมิทัศน์การแข่งขันที่จะเกิดขึ้นในทศวรรษหน้า",
-            "why": "การผลิตยานยนต์ต้องอาศัยการขัดและตกแต่งผิวอย่างแม่นยำทั้งก่อนและหลังพ่นสี ทำให้แนวโน้มสารเคลือบเป็นตัวชี้วัดสำคัญของตลาดวัสดุขัด",
-            "action": "มองหาโอกาสในการจัดหาแผ่นขัดเฉพาะทางที่ใช้ในสายงานเตรียมพื้นผิวก่อนพ่นสียานยนต์"
+            "title": "อุตสาหกรรมเหล็กโลกเผชิญภาวะล้นตลาดและมาตรการกีดกันทางการค้า",
+            "summary": "ภาคการผลิตเหล็กทั่วโลกยังคงเผชิญกับปัญหาอุปทานส่วนเกิน ควบคู่ไปกับมาตรการปกป้องทางการค้าในภูมิภาคต่างๆ",
+            "why": "ความผันผวนของปริมาณการผลิตเหล็กส่งผลโดยตรงต่ออัตราการใช้ใบเจียร แผ่นขัดลบคม และกระดาษทรายสำหรับอุตสาหกรรมโลหะ",
+            "action": "ติดตามอัตราการดำเนินงานของโรงงานเหล็กและผู้แปรรูปโลหะในประเทศ เพื่อคาดการณ์รอบการสั่งซื้อผลิตภัณฑ์ขัดล่วงหน้า"
           }
         }
       ]
