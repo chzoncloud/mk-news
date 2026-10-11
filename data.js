@@ -2,6 +2,89 @@
 window.NEWS_ARCHIVE = {
   "days": [
     {
+      "date": "2026-10-12",
+      "summary": "New developments are relatively limited today. However, key updates highlight initiatives to retain Japanese automotive supply chains, Thai Airways' aggressive fleet expansion, and upcoming woodworking manufacturing showcases.",
+      "directCount": 1,
+      "th": {
+        "summary": "วันนี้มีข่าวใหม่ไม่มากนัก แต่มีประเด็นสำคัญที่น่าติดตามคือความพยายามรั้งห่วงโซ่อุปทานค่ายรถยนต์ญี่ปุ่น การขยายฝูงบินขนาดใหญ่ของการบินไทย และการเตรียมจัดงานแสดงเทคโนโลยีการผลิตงานไม้และเฟอร์นิเจอร์"
+      },
+      "items": [
+        {
+          "id": "20261012-1",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Matichon Online",
+          "date": "2026-08-29",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6UWlkVWd4aE45T3h4d0cybm1KZm1TWnBrdFpKLUViaVR6cGlZTHlta1NSc3pJOGtMOFFuOUdrMUJQelFXM05WdGdaUEZ0dlo0NHN1M2g2ZXdEb3c?oc=5",
+          "title": "Thai Auto Parts Association Backs Government Push to Retain Japanese Auto Production Bases",
+          "summary": "The Thai Auto Parts Manufacturers Association urged the government to negotiate with Japanese carmakers and revise excise taxes to protect local supply chains from cost disadvantages.",
+          "why": "Japanese auto assemblers and Tier 1-2 suppliers represent MK's core industrial abrasive customer base in Thailand.",
+          "action": "Maintain close contact with Tier 1 Japanese accounts to monitor potential factory shifts or tooling budget cuts.",
+          "th": {
+            "title": "สมาคมชิ้นส่วนยานยนต์ฯ หนุนรัฐเร่งเจรจาค่ายรถญี่ปุ่นเพื่อรั้งฐานการผลิตในไทย",
+            "summary": "สมาคมผู้ผลิตชิ้นส่วนยานยนต์ไทยสนับสนุนให้ภาครัฐเร่งหารือกับค่ายรถยนต์ญี่ปุ่น พร้อมพิจารณาโครงสร้างภาษีสรรพสามิตเพื่อลดช่องว่างต้นทุนและพยุงห่วงโซ่อุปทานในประเทศ",
+            "why": "โรงงานประกอบรถยนต์และผู้ผลิตชิ้นส่วนสัญชาติญี่ปุ่นคือกลุ่มลูกค้าหลักของ MK สำหรับวัสดุขัดโลหะ",
+            "action": "ติดตามแผนการผลิตและงบจัดซื้อของโรงงาน Tier 1 ญี่ปุ่นอย่างใกล้ชิดเพื่อรับมือการปรับลดกำลังผลิต"
+          }
+        },
+        {
+          "id": "20261012-2",
+          "tag": "aero",
+          "rating": "amber",
+          "source": "Thansettakij",
+          "date": "2026-08-01",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJbG91NDM0Z1ZuZmRPYUc4dlRzSXYwVXRnb1l5dGZyZUJLSDZqUXhOSnVzSXVQeTdRME04Y1c5TVB5SC0wOENDcm9VeDhaT3Fha0ZocE90aEgzNXpNOGVmYklR?oc=5",
+          "title": "Thai Airways Invests 100 Billion Baht to Expand Fleet to 150 Aircraft",
+          "summary": "Thai Airways announced an aggressive fleet renewal and expansion strategy, aiming for 150 operational aircraft through heavy capital investments.",
+          "why": "A larger commercial fleet operating in Bangkok will drive continuous demand for airframe repair, surface refinishing, and MRO maintenance.",
+          "action": "Prepare aviation-grade abrasive product sheets to approach maintenance hangars servicing Thai Airways aircraft.",
+          "th": {
+            "title": "การบินไทยทุ่มแสนล้านขยายฝูงบินแตะ 150 ลำ ทวงบัลลังก์การบินพาณิชย์",
+            "summary": "การบินไทยเดินหน้าแผนจัดหาและขยายฝูงบินรวม 150 ลำด้วยงบลงทุนกว่าแสนล้านบาท เพื่อรองรับการเติบโตของเส้นทางบิน",
+            "why": "จำนวนเครื่องบินพาณิชย์ที่เพิ่มขึ้นจะช่วยขยายงานซ่อมบำรุง ขัดสี และเตรียมผิวโลหะอากาศยานในระยะยาว",
+            "action": "จัดทำแค็ตตาล็อกวัสดุขัดเกรดการบินเพื่อเตรียมเจาะศูนย์ซ่อมบำรุงที่รองรับฝูงบินของการบินไทย"
+          }
+        },
+        {
+          "id": "20261012-3",
+          "tag": "furniture",
+          "rating": "green",
+          "source": "เดลินิวส์",
+          "date": "2026-09-03",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQOG53VVJYRkd4MUZabFczX0FkeTVGTGNFYmZGUUxkTnJ6VjNmeklDTUZEYXlVRkpjS1gzeUxQczJHMXJRS3c1dEdWSk14eVVqczJN?oc=5",
+          "title": "TIWF 2026 Showcases Cutting-Edge Regional Woodworking and Furniture Manufacturing Technology",
+          "summary": "The Thailand International Woodworking & Furniture Exhibition (TIWF 2026) is set to host regional manufacturers to modernize woodworking machinery and surface finishing capabilities.",
+          "why": "Furniture and woodworking factories rely heavily on wide sanding belts, abrasive rolls, and finishing papers.",
+          "action": "Plan booth presence or sales visits to TIWF 2026 to connect directly with furniture factory procurement managers.",
+          "th": {
+            "title": "TIWF 2026 เตรียมจัดงานใหญ่ระดับภูมิภาค ยกระดับเทคโนโลยีผลิตไม้และเฟอร์นิเจอร์",
+            "summary": "งาน TIWF 2026 เตรียมเปิดเวทีนำเสนอนวัตกรรมเครื่องจักรงานไม้และเทคโนโลยีการผลิตเฟอร์นิเจอร์ เพื่อยกระดับโรงงานแปรรูปไม้ในอาเซียน",
+            "why": "โรงงานไม้และเฟอร์นิเจอร์เป็นผู้ใช้งานกระดาษทรายสายพานกว้าง ม้วนขัด และจานขัดผิวไม้โดยตรง",
+            "action": "พิจารณาเข้าร่วมงานหรือส่งทีมขายเข้าพบคู่ค้าในงาน TIWF เพื่อเจาะตลาดจัดซื้อของโรงงานเฟอร์นิเจอร์"
+          }
+        },
+        {
+          "id": "20261012-4",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "เว็บไซต์รัฐบาลไทย",
+          "date": "2026-07-02",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zOHo0X01meExtendzNTNja1RMTUxKa2dWM0hFZ1JrRzJ4dmJPLWhSdHVwb19IU01fVTRVOWtaX2lkMVJUSlRPb3FCNVg5UQ?oc=5",
+          "title": "BOI Reports EV Investment Approvals Exceed 130 Billion Baht Across Vehicle and Component Ecosystems",
+          "summary": "The Board of Investment confirmed that cumulative EV-related investments have surpassed 130 billion baht, covering vehicle assembly and core electrical components.",
+          "why": "New manufacturing lines require precision deburring, robotic grinding, and metal finishing solutions for chassis and battery enclosures.",
+          "action": "Audit tooling requirements for newly licensed EV assembly plants in the EEC to offer specialized grinding abrasives.",
+          "th": {
+            "title": "บีโอไอเผยยอดลงทุนอุตสาหกรรม EV ทะลุ 1.3 แสนล้านบาท ครอบคลุมทุกเทคโนโลยี",
+            "summary": "สำนักงานคณะกรรมการส่งเสริมการลงทุนเปิดเผยมูลค่าอนุมัติโครงการ EV และชิ้นส่วนที่เกี่ยวข้องรวมกว่า 1.3 แสนล้านบาท",
+            "why": "การตั้งสายการผลิตใหม่จำเป็นต้องใช้วัสดุขัดเจียร ลบครีบชิ้นงาน และขัดเตรียมผิวโครงสร้างโลหะ/กล่องแบตเตอรี่",
+            "action": "ตรวจสอบรายชื่อโรงงาน EV ใหม่ที่ได้รับส่งเสริมการลงทุนใน EEC เพื่อนำเสนอวัสดุขัดสำหรับงานเจียรชิ้นงาน"
+          }
+        }
+      ],
+      "terms": {}
+    },
+    {
       "date": "2026-10-11",
       "summary": "New developments are limited today, but regional competition is intensifying as Indonesia courts Toyota and Ford explores India as an EV export hub. These structural shifts pose medium-term risks to Thailand's automotive supply chain and MK's core Japanese manufacturing client base.",
       "directCount": 0,
@@ -800,5 +883,5 @@ window.NEWS_ARCHIVE = {
       "terms": {}
     }
   ],
-  "updated": "2026-10-11"
+  "updated": "2026-10-12"
 };
