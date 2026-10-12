@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-12",
-      "summary": "Today's briefing highlights global shifts in surface finishing, EV adoption, and metal processing, focusing on sustainability, digital innovation, and regional steel dynamics.",
+      "summary": "Today's global trends highlight shifts in automotive powertrain manufacturing, rising activity in stainless steel powders, and shifting metal tariffs that impact downstream surface preparation demand.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปทิศทางโลกวันนี้เน้นการเปลี่ยนแปลงด้านการตกแต่งพื้นผิว ยานยนต์ไฟฟ้า และอุตสาหกรรมโลหะ โดยให้ความสำคัญกับความยั่งยืน นวัตกรรมดิจิทัล และตลาดเหล็กระดับภูมิภาค"
+        "summary": "เทรนด์โลกประจำวันนี้เน้นย้ำถึงการเปลี่ยนแปลงในการผลิตระบบขับเคลื่อนยานยนต์ การเติบโตของผงสแตนเลส และมาตรการภาษีโลหะที่ส่งผลต่อความต้องการเตรียมพื้นผิว"
       },
       "items": [
         {
           "id": "20261012-w1",
-          "tag": "coating",
-          "rating": "green",
-          "source": "European Coatings",
-          "date": "2026-09-09",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
-          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
-          "summary": "The coatings industry is accelerating towards digital transformation, advanced green formulations, and enhanced sustainability standards.",
-          "why": "New coating formulations and surface technologies directly change how industrial parts are prepped, sanded, and finished.",
-          "action": "Monitor sustainable surface treatments to anticipate future customer preparation requirements.",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Precedence Research",
+          "date": "2026-09-10",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55Unk5SmloN3VleVV4dFM2cHNTR0xjZ3drOVR1d3BYN0dXX0pLMko0aHVwOUZSdnFNdHpoOTdqZ3lmd2xTQXBBVHM5SUxCMnFIbVJpTUp6bGluLVVQQ0pYd0lBLWcyOVpaR3VLWGFCd1M?oc=5",
+          "title": "Automotive Powertrain Market Companies, Size & Trends 2026-2035",
+          "summary": "The automotive powertrain market is undergoing structural shifts through 2035 as propulsion technologies evolve, affecting how components are machined and finished.",
+          "why": "Powertrain component transitions dictate changes in deburring, grinding, and precision finishing requirements for metal parts.",
+          "action": "Monitor evolving powertrain part designs to anticipate shifts in specialized abrasive tooling demand.",
           "th": {
-            "title": "กำหนดอนาคตยุคใหม่ของอุตสาหกรรมสีและสารเคลือบ: นวัตกรรม ความยั่งยืน และพลังแห่งดิจิทัล",
-            "summary": "อุตสาหกรรมสารเคลือบกำลังเร่งขับเคลื่อนสู่การแปลงโฉมด้วยดิจิทัล สูตรที่เป็นมิตรต่อสิ่งแวดล้อม และมาตรฐานความยั่งยืนที่สูงขึ้น",
-            "why": "สูตรสารเคลือบและเทคโนโลยีพื้นผิวใหม่ส่งผลโดยตรงต่อวิธีการเตรียมผิว ขัด และตกแต่งชิ้นงานอุตสาหกรรม",
-            "action": "ติดตามเทคโนโลยีการเตรียมผิวที่ยั่งยืนเพื่อคาดการณ์ความต้องการของลูกค้าในอนาคต"
+            "title": "ตลาดระบบขับเคลื่อนยานยนต์: ขนาด บริษัท และแนวโน้ม 2026-2035",
+            "summary": "ตลาดระบบขับเคลื่อนยานยนต์กำลังเปลี่ยนผ่านอย่างมีโครงสร้างจนถึงปี 2035 ตามวิวัฒนาการของเทคโนโลยีการขับเคลื่อน ส่งผลต่อวิธีการตัดเฉือนและตกแต่งชิ้นส่วน",
+            "why": "การเปลี่ยนแปลงของชิ้นส่วนระบบขับเคลื่อนกำหนดความต้องการที่เปลี่ยนไปในการลบคม การเจียร และการขัดผิวละเอียดสำหรับชิ้นส่วนโลหะ",
+            "action": "ติดตามการออกแบบชิ้นส่วนระบบขับเคลื่อนที่เปลี่ยนไป เพื่อคาดการณ์ความต้องการเครื่องมือขัดเฉพาะทาง"
           }
         },
         {
           "id": "20261012-w2",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Precedence Research",
-          "date": "2026-09-08",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84OGJPdlhPN3V5UEwxaGlhNG5ZT21uSmN5bTRCODBPZWtNRVR2WnBrZ2NEMkRndlJQblVJbEhlVUk3NUFDR0dQQUJXT255NmRiQTd1THBndXZZSlRxNEZqeTBVM0ZmTWJ3SjMxOXRmb3RvM2RVODBlZzNMTlI?oc=5",
-          "title": "Automotive Paints and Coatings Market Companies, Size & Trends 2026-2035",
-          "summary": "The automotive paints and coatings market is projected for steady growth, driven by EV production lines and advanced exterior finishes.",
-          "why": "Automotive body finishing directly dictates the demand for high-precision sanding, polishing, and surface preparation abrasives.",
-          "action": "Keep track of EV manufacturing hubs scaling up body shop surface finishing lines.",
+          "tag": "steel",
+          "rating": "green",
+          "source": "MarketsandMarkets",
+          "date": "2025-12-03",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVXVYZWVHaDBhMjdYc1BFRjVnV01BWUJZZnBNd1FESWpfanVMUVFaZkxUNGYzT0VVX3ZvT0dGSVpMTmRNRVBpRjNQZ3QyWU5jM0MxQmhLZVQ1cTJsbF9LNGV2aGZpaVdZb0NrWndDWFZJZ0g4V2dTY1NkNU5Hd3NhZmx0dmNtYktWWHM5LXlfYVlxRnlNQVgyag?oc=5",
+          "title": "Stainless Steel Powder Market Report 2025-2030",
+          "summary": "The stainless steel powder market is expanding, driven by advanced manufacturing techniques like powder metallurgy and additive manufacturing.",
+          "why": "Powder metallurgy and metal 3D printing create complex parts that require specialized finishing, deburring, and micro-polishing solutions.",
+          "action": "Explore abrasive solutions tailored for finishing complex geometry or additive-manufactured metal parts.",
           "th": {
-            "title": "บริษัท ขนาด และแนวโน้มตลาดสีและสารเคลือบยานยนต์ ปี 2026-2035",
-            "summary": "ตลาดสีและสารเคลือบยานยนต์คาดว่าจะเติบโตอย่างต่อเนื่อง ขับเคลื่อนโดยสายการผลิตรถยนต์ไฟฟ้าและการเคลือบผิวภายนอกขั้นสูง",
-            "why": "งานตกแต่งตัวถังรถยนต์ส่งผลโดยตรงต่อความต้องการใช้วัสดุขัดกระดาษทรายและอุปกรณ์เตรียมผิวที่มีความแม่นยำสูง",
-            "action": "ติดตามฐานการผลิตยานยนต์ไฟฟ้าที่มีการขยายสายการผลิตและตกแต่งพื้นผิว"
+            "title": "รายงานตลาดผงสแตนเลส 2025-2030",
+            "summary": "ตลาดผงสแตนเลสกำลังขยายตัว ขับเคลื่อนด้วยเทคนิคการผลิตขั้นสูง เช่น โลหะวิทยาผงและการผลิตแบบเพิ่มเนื้อวัสดุ",
+            "why": "โลหะวิทยาผงและการพิมพ์ 3 มิติโลหะสร้างชิ้นส่วนซับซ้อนที่ต้องใช้โซลูชันการขัด การลบคม และการขัดเงาแบบละเอียดพิเศษ",
+            "action": "สำรวจโซลูชันกระดาษทรายและวัสดุขัดที่ออกแบบมาสำหรับการขัดแต่งชิ้นส่วนโลหะรูปทรงซับซ้อนหรือชิ้นงานพิมพ์ 3 มิติ"
           }
         },
         {
           "id": "20261012-w3",
           "tag": "steel",
-          "rating": "white",
-          "source": "Progressive Policy Institute",
-          "date": "2026-09-24",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTeHd1akw0WFVaUWFucjdlRWp1cFBVQjRiRi1rWFd2WlNVRkQzanJJMmpMV3BBM0QxVEF5N2FZcmFMSFNxQ3M1VTQ5c1VJYjhJRVRQQVM3M2tac1FFMGdSSlZ4eTdQdzNINFB1MDR0a09haWhpNkFIVV9aWlA?oc=5",
-          "title": "American Industry Is Using Less Steel",
-          "summary": "Data shows shifts in industrial material usage as efficiency and alternative lightweight materials gain ground in manufacturing.",
-          "why": "Changes in raw steel consumption patterns signal potential shifts in metal fabrication and heavy industry volumes.",
-          "action": "Observe material substitution trends among local and global metal-working clients.",
+          "rating": "amber",
+          "source": "Reuters",
+          "date": "2026-04-02",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWFZKb2ppb3RHdXNXbnBJZzR4WGc5dHJ3ZkVvVlVMYVFwUjN4TkxQR203bEtjTlo3d3NnTDBaSXZSZzMxUkY5QVlWMFF2V3NGM2VOMk0zMk14NkVfWDVyNF96QlVMQ2tHb0oyWm5nRm9pQmpOYTdoWTJQUTdXMHZOR1RLT0RJaldfT3NMRmNJXzhMcHhMM1p2dHVzaEtHaGtBME54MGJUbW5MdDFNX2tkZkktOGNiLTQ3ZjRiTw?oc=5",
+          "title": "Trump sets new drug tariffs, adjusts metals duties",
+          "summary": "Recent trade adjustments and metal duties continue to alter global supply chains, affecting steel and metal sourcing patterns across industrial markets.",
+          "why": "Metal duty shifts alter regional production costs and capacity utilization for steel and aluminum fabricators, directly impacting their abrasive consumption.",
+          "action": "Keep an eye on metal trade flow changes to spot shifting manufacturing hubs and industrial customer activity.",
           "th": {
-            "title": "อุตสาหกรรมอเมริกันใช้เหล็กน้อยลง",
-            "summary": "ข้อมูลแสดงให้เห็นถึงการเปลี่ยนแปลงในการใช้วัสดุอุตสาหกรรม เนื่องจากประสิทธิภาพการผลิตและวัสดุน้ำหนักเบาทางเลือกเริ่มได้รับความนิยมมากขึ้น",
-            "why": "รูปแบบการบริโภคเหล็กดิบที่เปลี่ยนไปบ่งบอกถึงแนวโน้มปริมาณงานแปรรูปโลหะและอุตสาหกรรมหนัก",
-            "action": "สังเกตแนวโน้มการใช้วัสดุแทนกันในกลุ่มลูกค้างานโลหะทั้งในและต่างประเทศ"
+            "title": "ทรัมป์กำหนดภาษียาเสพติดใหม่ ปรับภาษีโลหะ",
+            "summary": "การปรับเปลี่ยนนโยบายการค้าและภาษีโลหะล่าสุดยังคงเปลี่ยนแปลงห่วงโซ่อุปทานโลก ส่งผลต่อรูปแบบการจัดหาเหล็กและโลหะทั่วตลาดอุตสาหกรรม",
+            "why": "การเปลี่ยนแปลงภาษีโลหะส่งผลต่อต้นทุนการผลิตระดับภูมิภาคและอัตราการใช้กำลังการผลิตของผู้ผลิตเหล็กและอลูมิเนียม ซึ่งส่งผลโดยตรงต่อการใช้วัสดุขัด",
+            "action": "ติดตามการเปลี่ยนแปลงของกระแสการค้าโลหะเพื่อมองหาฐานการผลิตที่ย้ายถิ่นฐานและกิจกรรมของลูกค้าอุตสาหกรรม"
           }
         }
       ]
