@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-10-13",
+  "updated": "2026-10-14",
   "days": [
+    {
+      "date": "2026-10-14",
+      "summary": "Today's briefing features 3 key global signals covering long-term abrasives market forecasts and automotive manufacturing equipment trends in Asia-Pacific.",
+      "directCount": 2,
+      "th": {
+        "summary": "สรุปทิศทางโลกประจำวันนี้ 3 ประเด็นสำคัญ ครอบคลุมการคาดการณ์ตลาดวัสดุขัดถัดและแนวโน้มเครื่องจักรการผลิตยานยนต์ในภูมิภาคเอเชียแปซิฟิก"
+      },
+      "items": [
+        {
+          "id": "20261014-w1",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "Grand View Research",
+          "date": "2016-03-06",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdy1BQXJXWXIwQ2F5Sm1XU3lLejVVQkZVSWVvZElIVkFZWEZ4NlN1TThqZGhZdUZrdGk5X2oxUFNRaUROUHFlVXE2S2hJMXBDN0ticXNnVWdURDJUWXAxUkFGdGhvbWdDVHA5WmVKc3JiVHJDWkxFTTFzeENhcmU2Qg?oc=5",
+          "title": "Coated Abrasives Market Size & Share Report, 2026-2033",
+          "summary": "A comprehensive outlook on the coated abrasives market up to 2033, highlighting steady demand in global manufacturing and surface preparation.",
+          "why": "Directly tracks our core product category (coated abrasives/sandpaper) and long-term industry growth expectations.",
+          "action": "Use long-term market growth projections to plan inventory capacity and supplier contracts for coated goods.",
+          "th": {
+            "title": "รายงานขนาดและส่วนแบ่งตลาดกระดาษทรายและวัสดุขัดเคลือบผิว ปี 2026-2033",
+            "summary": "มุมมองภาพรวมตลาดกระดาษทรายและวัสดุขัดเคลือบผิวถึงปี 2033 สะท้อนความต้องการที่ต่อเนื่องในภาคการผลิตและการเตรียมพื้นผิวทั่วโลก",
+            "why": "เกี่ยวข้องโดยตรงกับกลุ่มสินค้าหลักของเรา (กระดาษทรายและวัสดุขัดเคลือบ) และคาดการณ์การเติบโตระยะยาวในอุตสาหกรรม",
+            "action": "ใช้ข้อมูลคาดการณ์การเติบโตระยะยาวเพื่อวางแผนสต็อกสินค้าและเจรจากับซัพพลายเออร์สำหรับสินค้ากลุ่มเคลือบผิว"
+          }
+        },
+        {
+          "id": "20261014-w2",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "MarketsandMarkets",
+          "date": "2026-08-19",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMjRUVFZhcTJITnZ4NUV2UnRycFNKX21Ed0M5MmRXdzNwQzhXSjN6bHgteDMwTEZnRE5jVWxfWmI1eGtsWDcwLW1vNVNUejNWYlZZZWhabk1NRDFXb09HczBORXNmTGpDY2dkUV9GWUtReFZibmhrQU5BTnFNRlBDNjhkQ3BFcUlieGZkRlZkWnkyQU0ybjMteWNremZhZDJwcGF4a2lPeTBFalR2OXVVOWFJNA?oc=5",
+          "title": "asia-pacific Automotive Manufacturing Equipment Market Size, Share, Trends, Growth Analysis Report, 2030",
+          "summary": "Analysis of the Asia-Pacific automotive manufacturing equipment market through 2030, highlighting equipment upgrades and factory investments.",
+          "why": "Automotive factories are major buyers of grinding and deburring tools; equipment upgrades drive new surface finishing requirements.",
+          "action": "Monitor factory automation trends in APAC to align our metal deburring and finishing solutions with new equipment standards.",
+          "th": {
+            "title": "รายงานขนาด ส่วนแบ่ง แนวโน้ม และวิเคราะห์การเติบโตตลาดอุปกรณ์การผลิตยานยนต์ในเอเชียแปซิฟิก ปี 2030",
+            "summary": "วิเคราะห์ตลาดอุปกรณ์การผลิตยานยนต์ในภูมิภาคเอเชียแปซิฟิกถึงปี 2030 เน้นการอัปเกรดเครื่องจักรและการลงทุนในโรงงาน",
+            "why": "โรงงานยานยนต์คือลูกค้ารายใหญ่ของAbrasives การอัปเกรดเครื่องจักรจะสร้างความต้องการใหม่ๆ ด้านการขัดแต่งผิว",
+            "action": "ติดตามแนวโน้มระบบอัตโนมัติในโรงงานฝั่งเอเชีย เพื่อเตรียมโซลูชันงานขัดโลหะให้สอดคล้องกับมาตรฐานเครื่องจักรใหม่"
+          }
+        },
+        {
+          "id": "20261014-w3",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "openPR.com",
+          "date": "2026-10-08",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR1l0eDZGcTMzc2oyRF9Wc2NxT3VrT2stalZFaDE5dE84bUpfbnVJbmh6VGpQMlBoTXNQcVowcmN0cWY5TzVBQlVReHo1MVhPeURickl6REljcnlKTjJOZ0ZlblZkOTZNSTJXS3ZySW1QeUtwTzRzQTc3Z1JCOW8xMzlubnVEVHA2eTIxYzU4bFE5WTdTOHg0?oc=5",
+          "title": "Abrasives Market to Reach US$74.9 Billion by 2033 Driven by Strong Construction Growth",
+          "summary": "Global abrasives market projected to hit US$74.9 billion by 2033, heavily supported by expansion in construction and industrial sectors.",
+          "why": "Confirms robust global demand for grinding and finishing products, validating our core B2B business focus.",
+          "action": "Identify high-growth segments within construction and metal fabrication to target with specialized abrasive supplies.",
+          "th": {
+            "title": "ตลาดวัสดุขัดถูคาดแตะ 74,900 ล้านดอลลาร์สหรัฐภายในปี 2033 หนุนโดยการเติบโตของภาคการก่อสร้าง",
+            "summary": "ตลาดวัสดุขัดถูทั่วโลกถูกคาดการณ์ว่าจะเติบโตถึง 74,900 ล้านดอลลาร์ภายในปี 2033 โดยได้แรงหนุนจากการขยายตัวของภาคการก่อสร้างและอุตสาหกรรม",
+            "why": "ยืนยันถึงความต้องการที่แข็งแกร่งระดับโลกสำหรับผลิตภัณฑ์ขัดและแต่งผิว ซึ่งสอดคล้องกับทิศทางธุรกิจ B2B ของเรา",
+            "action": "เจาะหาเซกเมนต์ที่มีการเติบโตสูงในกลุ่มงานก่อสร้างและประกอบโลหะ เพื่อนำเสนอสินค้าวัสดุขัดถูที่ตรงกลุ่มเป้าหมาย"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-10-13",
       "summary": "Today's briefing highlights shifts in the global steel and metal casting sectors driven by trade tariffs and AI booms, alongside market growth in automotive coatings and non-woven abrasives.",
@@ -866,70 +930,6 @@ window.WORLD_ARCHIVE = {
             "summary": "ตลาดเศษเหล็กทั่วโลกยังคงพัฒนาอย่างต่อเนื่องจนถึงปี 2036 โดยได้รับอิทธิพลจากข้อกำหนดการรีไซเคิลและแนวโน้มการผลิตเหล็กด้วยเตาอาร์กไฟฟ้า (EAF)",
             "why": "โรงงานเหล็ก EAF และกระบวนการรีไซเคิลมักสร้างขอบโลหะที่ขรุขระ ซึ่งต้องใช้หินเจียร แผ่นตัด และงานลบคมอย่างหนักหน่วง",
             "action": "สังเกตว่าการเติบโตของการแปรรูปเศษเหล็กและโรงงาน EAF ช่วยรักษาระดับความต้องการใช้งานหินเจียรและแผ่นตัดอุตสาหกรรมให้คงที่"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-09-30",
-      "summary": "Today's briefing features 3 key global signals covering automotive OEM coatings, European coatings innovation, and the global steel supply surplus. These developments offer early insights into surface prep demands and metal processing shifts.",
-      "directCount": 2,
-      "th": {
-        "summary": "สรุปข่าวสารประจำวันนี้มี 3 สัญญาณสำคัญระดับโลก ครอบคลุมเรื่องสารเคลือบ OEM ยานยนต์, นวัตกรรมสารเคลือบในยุโรป และภาวะอุปทานเหล็กส่วนเกิน ซึ่งช่วยให้เห็นแนวโน้มความต้องการเตรียมพื้นผิวและการแปรรูปโลหะล่วงหน้า"
-      },
-      "items": [
-        {
-          "id": "20260930-w1",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "European Coatings",
-          "date": "2026-09-09",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
-          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
-          "summary": "The European coatings sector is focusing on next-generation formulation, sustainability, and digital integration to improve surface finish performance.",
-          "why": "Advanced coatings directly influence the surface preparation, sanding, and finishing techniques required in manufacturing lines.",
-          "action": "Monitor how new eco-friendly coatings alter surface adhesion and sanding requirements.",
-          "th": {
-            "title": "กำหนดอนาคตใหม่ของสารเคลือบ: นวัตกรรม ความยั่งยืน และพลังแห่งดิจิทัล",
-            "summary": "อุตสาหกรรมสารเคลือบในยุโรปกำลังมุ่งเน้นไปที่สูตรแห่งอนาคต ความยั่งยืน และการผสานรวมดิจิทัลเพื่อยقระดับประสิทธิภาพการตกแต่งพื้นผิว",
-            "why": "สารเคลือบขั้นสูงส่งผลโดยตรงต่อกระบวนการเตรียมพื้นผิว การขัดกระดาษทราย และเทคนิคการเก็บงานที่จำเป็นในสายการผลิต",
-            "action": "ติดตามว่าสารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมแบบใหม่ส่งผลต่อการยึดเกาะพื้นผิวและความต้องการในการขัดอย่างไร"
-          }
-        },
-        {
-          "id": "20260930-w2",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Fortune Business Insights",
-          "date": "2026-09-07",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
-          "title": "Automotive OEM Coatings Market Size, Share | Growth [2034]",
-          "summary": "The automotive OEM coatings market continues to expand steadily toward 2034, driven by vehicle production recovery and EV manufacturing demands.",
-          "why": "Automotive manufacturing is a major consumer of coated metal sheets, welding cleanup abrasives, and body-shop sanding products.",
-          "action": "Keep track of EV body styling and composite-metal mixes that require specialized deburring and sanding.",
-          "th": {
-            "title": "ขนาดส่วนแบ่งและการเติบโตของตลาดสารเคลือบ OEM ยานยนต์ [2034]",
-            "summary": "ตลาดสารเคลือบ OEM ยานยนต์ยังคงขยายตัวอย่างต่อเนื่องถึงปี 2034 ขับเคลื่อนโดยการฟื้นตัวของการผลิตรถยนต์และความต้องการรถยนต์ไฟฟ้า",
-            "why": "อุตสาหกรรมยานยนต์เป็นผู้บริโภครายใหญ่ของแผ่นโลหะเคลือบ วัสดุกัดกร่อนสำหรับทำความสะอาดรอยเชื่อม และผลิตภัณฑ์ขัดสีรถยนต์",
-            "action": "ติดตามการออกแบบตัวถังรถ EV และส่วนผสมโลหะคอมโพสิตที่ต้องใช้การลบคมและการขัดผิวแบบพิเศษ"
-          }
-        },
-        {
-          "id": "20260930-w3",
-          "tag": "steel",
-          "rating": "green",
-          "source": "SP Global",
-          "date": "2026-01-12",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
-          "title": "Global steel industry battles surplus supply, protectionism",
-          "summary": "The global steel sector faces ongoing challenges from excess production capacity and rising trade protectionism across major regions.",
-          "why": "Steel oversupply impacts local steel service centers and metal fabricators, directly altering their purchasing volume for grinding wheels and cutting discs.",
-          "action": "Anticipate price sensitivity among local steel fabricators and target durable, cost-effective cutting solutions.",
-          "th": {
-            "title": "อุตสาหกรรมเหล็กโลกต่อสู้กับภาวะอุปทานล้นตลาดและลัทธิคุ้มครองทางการค้า",
-            "summary": "ภาคอุตสาหกรรมเหล็กทั่วโลกกำลังเผชิญกับความท้าทายอย่างต่อเนื่องจากกำลังการผลิตส่วนเกินและมาตรการกีดกันทางการค้าที่เพิ่มขึ้นในภูมิภาคหลักๆ",
-            "why": "ภาวะเหล็กล้นตลาดส่งผลกระทบต่อศูนย์บริการเหล็กและผู้รับเหมาช่วงโลหะในท้องถิ่น ซึ่งเปลี่ยนปริมาณการจัดซื้อใบเจียรและใบตัดโดยตรง",
-            "action": "คาดการณ์ความอ่อนไหวต่อราคาของผู้ผลิตโลหะในประเทศและนำเสนอโซลูชันการตัดที่ทนทานและคุ้มค่า"
           }
         }
       ]
