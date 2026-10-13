@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-10-12",
+  "updated": "2026-10-13",
   "days": [
+    {
+      "date": "2026-10-13",
+      "summary": "Today's briefing highlights shifts in metal casting and stainless steel markets alongside global EV manufacturing growth. These supply chain and material dynamics directly impact downstream surface finishing and abrasive consumption.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปรายงานวันนี้เน้นการเปลี่ยนแปลงในตลาดการหล่อโลหะและเหล็กกล้าไร้สนิม ควบคู่กับการเติบโตของการผลิตรถยนต์ EV ทั่วโลก ซึ่งพลวัตของห่วงโซ่อุปทานและวัสดุเหล่านี้ส่งผลโดยตรงต่อการเตรียมพื้นผิวและการใช้วัสดุขัด"
+      },
+      "items": [
+        {
+          "id": "20261013-w1",
+          "tag": "steel",
+          "rating": "green",
+          "source": "Fortune Business Insights",
+          "date": "2026-09-21",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kYlp3TXBwdU5JVl9Gc0pFd3lJSFpjSUhLeEFGOVZVS19BbHBoTFNGb1BFOC1UNEN4c1o0c2xjdTFZYXhVdGRVb0dIeXZqakt1bTJkQy10SC0wRlh0RVVBZHZaWDFYbDk3cHdUbXBsYnRyYTlFVEE?oc=5",
+          "title": "Metal Casting Market Growth Analysis & Industry Forecast, 2034",
+          "summary": "The metal casting market is expanding steadily, driven by rising demand in automotive, industrial machinery, and construction sectors requiring precision post-processing.",
+          "why": "Cast metal parts heavily rely on industrial abrasives, grinding wheels, and deburring tools for surface smoothing and defect removal.",
+          "action": "Monitor growth in foundries and casting houses to align stock levels for heavy-duty grinding and deburring products.",
+          "th": {
+            "title": "การวิเคราะห์การเติบโตของตลาดการหล่อโลหะและการคาดการณ์อุตสาหกรรมถึงปี 2034",
+            "summary": "ตลาดการหล่อโลหะเติบโตอย่างต่อเนื่อง ขับเคลื่อนโดยความต้องการที่เพิ่มขึ้นในภาคยานยนต์ เครื่องจักรกลอุตสาหกรรม และการก่อสร้างที่ต้องมีการตกแต่งผิวหลังการผลิตที่มีความแม่นยำสูง",
+            "why": "ชิ้นส่วนโลหะหล่อต้องพึ่งพาวัสดุขัดอุตสาหกรรม หินเจียร และเครื่องมือลบคมอย่างมากในการปรับผิวให้เรียบและกำจัดตำหนิ",
+            "action": "ติดตามการเติบโตของโรงหล่อโลหะเพื่อปรับระดับสินค้าคงคลังสำหรับผลิตภัณฑ์งานเจียรและลบคมงานหนัก"
+          }
+        },
+        {
+          "id": "20261013-w2",
+          "tag": "steel",
+          "rating": "green",
+          "source": "Shanghai Metals Market",
+          "date": "2025-12-26",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNlQ3MnVYRHBLbFMxVVRxS2xsSXFES1dVMS1Bdk5lV3dnZG9GUzVLN3JkQWhyRjhpemkxSURqSkRNZ1NyeU1DMVZVUTJGU3h6aUNseWFHaEtiNWVGVnJiN1BXdUhVODU5TXk4YTJVZTN0amkzZmJMVXlZYWVYeTRZQW8zYlpjaUpUd21yNExQcFREamFOZXZwaWNGQ01DVEFlZmJabmFtNGkxSlJhMHZUMVo4SmduYW9ycjAtU05QQmEtMHJmUElvZUxjc2gwVjZaM1dlaEQyalZQQm1CcnJrel9fc0pyYU9G?oc=5",
+          "title": "[SMM Analysis] 2025 Global Stainless Steel Market Review and 2026 Outlook: Global Realignment and Asian Engines",
+          "summary": "Global stainless steel markets are experiencing regional realignment with strong production shifts across Asian manufacturing hubs.",
+          "why": "Stainless steel fabrication requires specialized non-woven and coated abrasives for satin finishing, scratch removal, and mirror polishing.",
+          "action": "Ensure strong inventory of high-grade waterproof sandpaper and surface conditioning belts tailored for stainless steel processors.",
+          "th": {
+            "title": "[วิเคราะห์ SMM] ทบทวนตลาดสแตนเลสโลกปี 2025 และแนวโน้มปี 2026: การปรับโครงสร้างระดับโลกและกลไกขับเคลื่อนจากเอเชีย",
+            "summary": "ตลาดสแตนเลสทั่วโลกกำลังประสบกับการปรับโครงสร้างระดับภูมิภาค โดยมีการย้ายฐานการผลิตที่สำคัญในกลุ่มฮับการผลิตของเอเชีย",
+            "why": "งานแปรรูปสแตนเลสต้องการกระดาษทรายและผลิตภัณฑ์ขัดชนิด non-woven แบบพิเศษสำหรับการทำผิวซาติน การลบรอยขีดข่วน และการขัดเงา",
+            "action": "เตรียมสต็อกกระดาษทรายกันน้ำเกรดสูงและสายพานปรับสภาพผิวที่ออกแบบมาสำหรับผู้แปรรูปสแตนเลสโดยเฉพาะ"
+          }
+        },
+        {
+          "id": "20261013-w3",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Fortune Business Insights",
+          "date": "2026-09-21",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbDdPM0VwRXE3dDlfTTJFS3BVX2FmU0ZLWVVDR2JLcWk5UjVnUmJQaDJ2N2E1Z1VkMWdIUzdnWXVrSFc3cHBLWmhSb3dodGpOTlZzejhjaFRBcm5fRi1jMzhzTV9CcFRqVVRVUVdWUWliWkdiMXdzLXpFMWY3M1doOW1hTHBaUnlnYV81YmMyLTU?oc=5",
+          "title": "Electric Vehicle Market Size, Share & Global Analysis, 2034",
+          "summary": "The EV market continues long-term expansion, transforming vehicle architectures, body weight materials, and assembly line requirements.",
+          "why": "EV production uses different structural alloys and composite parts, changing how automotive manufacturers approach welding prep and body finishing.",
+          "action": "Keep abreast of lightweight metal alloys and composite usage in automotive supply chains to anticipate shifts in finishing media.",
+          "th": {
+            "title": "ขนาด ส่วนแบ่ง และการวิเคราะห์ระดับโลกของตลาดรถยนต์ไฟฟ้า (EV) ถึงปี 2034",
+            "summary": "ตลาดยานยนต์ไฟฟ้ายังคงขยายตัวในระยะยาว ซึ่งเปลี่ยนแปลงโครงสร้างตัวรถ วัสดุน้ำหนักเบา และข้อกำหนดในสายการประกอบ",
+            "why": "การผลิต EV ใช้โลหะผสมและชิ้นส่วนคอมโพสิตที่แตกต่างกัน ซึ่งเปลี่ยนวิธีที่ผู้ผลิตยานยนต์เตรียมรอยเชื่อมและตกแต่งตัวถัง",
+            "action": "ติดตามการใช้วัลลอยด์น้ำหนักเบาและวัสดุคอมโพสิตในห่วงโซ่อุปทานยานยนต์เพื่อคาดการณ์การเปลี่ยนแปลงของวัสดุขัดตกแต่ง"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-10-12",
       "summary": "Today's briefing highlights digital innovation in surface finishing, global automotive manufacturing shifts toward AI and composites, and steel sector adjustments impacting industrial demand.",
@@ -848,70 +912,6 @@ window.WORLD_ARCHIVE = {
             "summary": "ภาคอุตสาหกรรมเหล็กทั่วโลกกำลังเผชิญกับความท้าทายอย่างต่อเนื่องจากกำลังการผลิตส่วนเกินและมาตรการกีดกันทางการค้าที่เพิ่มขึ้นในภูมิภาคหลักๆ",
             "why": "ภาวะเหล็กล้นตลาดส่งผลกระทบต่อศูนย์บริการเหล็กและผู้รับเหมาช่วงโลหะในท้องถิ่น ซึ่งเปลี่ยนปริมาณการจัดซื้อใบเจียรและใบตัดโดยตรง",
             "action": "คาดการณ์ความอ่อนไหวต่อราคาของผู้ผลิตโลหะในประเทศและนำเสนอโซลูชันการตัดที่ทนทานและคุ้มค่า"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-09-29",
-      "summary": "Today's global trend briefing focuses on critical shifts in the abrasive materials market, cutting disc demand driven by metalworking expansion, and shifting steel production landscapes impacted by US tariffs and trade policies.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปทิศรทางโลกประจำวันนี้เน้นย้ำการเปลี่ยนแปลงสำคัญในตลาดวัสดุขัด ความต้องการแผ่นตัดที่ขับเคลื่อนด้วยการขยายตัวของงานโลหะ และภูมิทัศน์การผลิตเหล็กที่ได้รับผลกระทบจากภาษีนำเข้าและนโยบายการค้าของสหรัฐฯ"
-      },
-      "items": [
-        {
-          "id": "20260929-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-09-27",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeWh0UnJDZ2FJeUdQelItenUwbTFWQy16N1pabE5kU0twSlJiSm9jRjZkb0NGRHdvU2J0SzJRRmhCbDNmMjRCTU1YZzNOVE9OUVZ4eFU0SWNuYzM0bjVjSkVuVEx0RTFxcWw5WE1wZ04xZUhERTVkTF8xNzFiSDlMblQ2cVJPaUtKMWcxWjlzcnVuVDZVYkpFMm5HcHhTbDhDVkhlckQzSjFqV0tCOTB1cU5vMUx0NnlQYlhHeg?oc=5",
-          "title": "Abrasive Materials Market Forecast to 2035: Metalworking Demand Supports Expansion",
-          "summary": "Global demand for abrasive materials is projected to expand steadily through 2035, heavily supported by robust activities in the metalworking sector.",
-          "why": "Direct indicator of long-term demand for industrial abrasives, confirming that metal fabrication remains our core growth engine.",
-          "action": "Maintain strong inventory and supplier relationships for core metalworking abrasive raw materials.",
-          "th": {
-            "title": "การคาดการณ์ตลาดวัสดุขัดถึงปี 2035: ความต้องการงานโลหะหนุนการเติบโต",
-            "summary": "ความต้องการวัสดุขัดทั่วโลกคาดว่าจะเติบโตอย่างต่อเนื่องจนถึงปี 2035 โดยได้รับการสนับสนุนอย่างมากจากภาคอุตสาหกรรมแปรรูปโลหะ",
-            "why": "เป็นสัญญาณบ่งชี้โดยตรงถึงความต้องการวัสดุขัดอุตสาหกรรมในระยะยาว ยืนยันว่าการผลิตโลหะยังคงเป็นหัวใจสำคัญของการเติบโต",
-            "action": "รักษาสต็อกสินค้าและสายสัมพันธ์กับซัพพลายเออร์สำหรับวัตถุดิบวัสดุขัดงานโลหะหลักให้มั่นคง"
-          }
-        },
-        {
-          "id": "20260929-w2",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-09-27",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUjROMDdtWnhLRnRQWEZxcmtSUTB0U1pmNTVyYVNpZVE2RERSc1VFSWtITzdDZlpRY0VtZkZmRDZwalRwak1aMGJZLVhJSHpBQ2ZfSFVKc2VEbU1fTVpUVXg3MDhIeEFobGR5ZlN5ZFVZdDNDRkZ5NkpkNGNucHZ0NDR6dUVfdTlQUkJiYkhmcDdJYm9aaGFUOHpZOGFra2N5cUczQmVxY2t5MjdESldpbFlnTnE0ek5Ya0dyVw?oc=5",
-          "title": "World Cutting Discs - Market Analysis, Forecast, Size, Trends and Insights",
-          "summary": "A comprehensive market analysis highlights steady growth trajectories and evolving specifications for cutting discs across global manufacturing markets.",
-          "why": "Cutting discs are high-turnover consumable items for metal workshops and structural fabrication, directly affecting our B2B sales volume.",
-          "action": "Review pricing strategies and quality tiers for high-demand cutting discs to capture market share.",
-          "th": {
-            "title": "แผ่นตัดทั่วโลก - การวิเคราะห์ตลาด การคาดการณ์ ขนาด แนวโน้ม และข้อมูลเชิงลึก",
-            "summary": "การวิเคราะห์ตลาดเชิงลึกเน้นย้ำถึงแนวโน้มการเติบโตที่มั่นคงและข้อกำหนดที่เปลี่ยนไปของแผ่นตัดทั่วตลาดการผลิตทั่วโลก",
-            "why": "แผ่นตัดเป็นสินค้าสิ้นเปลืองที่มีอัตราหมุนเวียนสูงสำหรับโรงงานโลหะและการผลิตโครงสร้าง ซึ่งส่งผลโดยตรงต่อยอดขาย B2B ของเรา",
-            "action": "ทบทวนกลยุทธ์ด้านราคาและระดับคุณภาพของแผ่นตัดที่มีความต้องการสูงเพื่อชิงส่วนแบ่งการตลาด"
-          }
-        },
-        {
-          "id": "20260929-w3",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "economy.ac",
-          "date": "2026-09-23",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YQWhOYlJ3eW9jTUhwa25XdE55eHh3a2JoODhWdDAtOW00UzhXcWwtNnJJXzZGMjMtNXN6MTYwTUhib3ZHUDNXaTdIbWY2N092QXNsOXFfdw?oc=5",
-          "title": "'Trump Tariffs and AI Boom' Propel U.S. Steel Past Japan to World No. 3 for First Time in 26 Years",
-          "summary": "Driven by recent trade policies and industrial demand surges, US steel output has climbed to world number three, shifting global metal supply dynamics.",
-          "why": "Shifts in regional steel production volumes directly alter where metal fabrication and heavy manufacturing are expanding globally.",
-          "action": "Monitor export-import flows for steel to anticipate regional shifts in metal surface preparation demand.",
-          "th": {
-            "title": "'ภาษีทรัมป์และบูม AI' ดันเหล็กสหรัฐฯแซงญี่ปุ่นขึ้นเบอร์ 3 ของโลกครั้งแรกในรอบ 26 ปี",
-            "summary": "จากแรงขับเคลื่อนของนโยบายการค้าล่าสุดและความต้องการทางอุตสาหกรรมที่พุ่งสูงขึ้น การผลิตเหล็กของสหรัฐฯ ได้ทะยานขึ้นสู่อันดับ 3 ของโลก ซึ่งเปลี่ยนพลวัตอุปทานโลหะทั่วโลก",
-            "why": "การเปลี่ยนแปลงของปริมาณการผลิตเหล็กในแต่ละภูมิภาคส่งผลโดยตรงต่อพื้นที่ที่มีการขยายตัวของการแปรรูปโลหะและการผลิตหนักทั่วโลก",
-            "action": "ติดตามกระแสการนำเข้า-ส่งออกเหล็กเพื่อคาดการณ์การเปลี่ยนแปลงระดับภูมิภาคของความต้องการผลิตภัณฑ์เตรียมพื้นผิวโลหะ"
           }
         }
       ]
