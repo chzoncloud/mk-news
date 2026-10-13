@@ -4,64 +4,82 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-13",
-      "summary": "Today's briefing features 3 selected stories tracking structural shifts in steel protectionism, stainless steel powder technology, and EV manufacturing trends. This provides valuable macro intelligence for anticipating surface preparation and finishing demands across global industrial sectors.",
+      "summary": "Today's briefing highlights shifts in the global steel and metal casting sectors driven by trade tariffs and AI booms, alongside market growth in automotive coatings and non-woven abrasives.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปข่าววันนี้คัดเลือก 3 เรื่องเด่นที่ติดตามการเปลี่ยนแปลงเชิงโครงสร้างในตลาดเหล็ก เทคโนโลยีผงสแตนเลส และแนวโน้มการผลิตยานยนต์ไฟฟ้า ซึ่งช่วยให้มองเห็นภาพรวมและคาดการณ์ความต้องการงานเตรียมพื้นผิวและขัดเงาในภาคอุตสาหกรรมทั่วโลกได้ล่วงหน้า"
+        "summary": "สรุปทิศทางโลกวันนี้เน้นการเปลี่ยนแปลงในอุตสาหกรรมเหล็กและหล่อโลหะทั่วโลกที่ขับเคลื่อนด้วยภาษีการค้าและบูม AI รวมถึงการเติบโตของตลาดสีเคลือบยานยนต์และกระดาษทรายแบบไม่ถักทอ"
       },
       "items": [
         {
           "id": "20261013-w1",
           "tag": "steel",
-          "rating": "amber",
-          "source": "Reuters",
-          "date": "2026-04-02",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWFZKb2ppb3RHdXNXbnBJZzR4WGc5dHJ3ZkVvVlVMYVFwUjN4TkxQR203bEtjTlo3d3NnTDBaSXZSZzMxUkY5QVlWMFF2V3NGM2VOMk0zMk14NkVfWDVyNF96QlVMQ2tHb0oyWm5nRm9pQmpOYTdoWTJQUTdXMHZOR1RLT0RJaldfT3NMRmNJXzhMcHhMM1p2dHVzaEtHaGtBME54MGJUbW5MdDFNX2tkZkktOGNiLTQ3ZjRiTw?oc=5",
-          "title": "A year after 'Liberation Day,' Trump sets new drug tariffs, adjusts metals duties",
-          "summary": "Recent trade policy adjustments introduce new metal duties and tariffs, reshaping global steel supply chains and regional production economics.",
-          "why": "Tariff and trade shifts alter where metal fabrication and steel processing take place, directly impacting regional demand for heavy grinding, deburring, and surface finishing abrasives.",
-          "action": "Monitor how shifting steel trade flows affect regional metal fabrication activity and adjust inventory planning for industrial abrasives accordingly.",
+          "rating": "green",
+          "source": "economy.ac",
+          "date": "2026-08-07",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YQWhOYlJ3eW9jTUhwa25XdE55eHh3a2JoODhWdDAtOW00UzhXcWwtNnJJXzZGMjMtNXN6MTYwTUhib3ZHUDNXaTdIbWY2N092QXNsOXFfdw?oc=5",
+          "title": "‘Trump Tariffs and AI Boom’ Propel U.S. Steel Past Japan to World No. 3 for First Time in 26 Years",
+          "summary": "U.S. steel production surged past Japan to become the world's number three producer, fueled by recent tariff policies and industrial demand driven by the AI infrastructure boom.",
+          "why": "Higher domestic U.S. steel production and changing trade flows impact global metal fabrication output and subsequent demand for heavy-duty grinding and deburring abrasives.",
+          "action": "Monitor shifting steel production hubs and align abrasive supply chain strategies with key metal-producing regions.",
           "th": {
-            "title": "หนึ่งปีหลังวันปลดปล่อย ทรัมป์ประกาศมาตรการภาษีและปรับอัตราภาษีโลหะครั้งใหม่",
-            "summary": "การปรับนโยบายการค้าล่าสุดมีการกำหนดภาษีโลหะรอบใหม่ ซึ่งส่งผลกระทบต่อห่วงโซ่อุปทานเหล็กทั่วโลกและเศรษฐกิจการผลิตในระดับภูมิภาค",
-            "why": "การเปลี่ยนแปลงด้านภาษีและการค้าส่งผลต่อพื้นที่ในการแปรรูปโลหะและการผลิตเหล็ก ซึ่งกระทบโดยตรงต่อความต้องการหินเจียร ใบตัด และวัสดุขัดผิวในภูมิภาคนั้น ๆ",
-            "action": "ติดตามว่าทิศทางการค้าเหล็กที่เปลี่ยนไปส่งผลต่อกิจกรรมการผลิตโลหะในภูมิภาคอย่างไร และปรับการวางแผนสต็อกสินค้าขัดกระดาษทรายและหินเจียรให้สอดคล้องกัน"
+            "title": "มาตรการภาษีของทรัมป์และบูม AI ดันเหล็กสหรัฐฯแซงญี่ปุ่นขึ้นแท่นเบอร์ 3 ของโลกครั้งแรกในรอบ 26 ปี",
+            "summary": "การผลิตเหล็กของสหรัฐฯ พุ่งแซงญี่ปุ่นขึ้นเป็นผู้ผลิตอันดับ 3 ของโลก ได้แรงหนุนจากนโยบายภาษีและอุปสงค์ภาคอุตสาหกรรมที่ขับเคลื่อนโดยโครงสร้างพื้นฐาน AI",
+            "why": "การผลิตเหล็กในสหรัฐฯ ที่สูงขึ้นและการเปลี่ยนPแปลงของทิศทางการค้าส่งผลต่อปริมาณการผลิตงานโลหะทั่วโลกและความต้องการใช้งานกระดาษทรายและใบเจียรโลหะหนัก",
+            "action": "ติดตามการเปลี่ยนแปลงของแหล่งผลิตเหล็กและปรับกลยุทธ์ห่วงโซ่อุปทานวัสดุขัดให้สอดคล้องกับภูมิภาคผู้ผลิตโลหะหลัก"
           }
         },
         {
           "id": "20261013-w2",
           "tag": "steel",
           "rating": "green",
-          "source": "MarketsandMarkets",
-          "date": "2025-12-03",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVXVYZWVHaDBhMjdYc1BFRjVnV01BWUJZZnBNd1FESWpfanVMUVFaZkxUNGYzT0VVX3ZvT0dGSVpMTmRNRVBpRjNQZ3QyWU5jM0MxQmhLZVQ1cTJsbF9LNGV2aGZpaVdZb0NrWndDWFZJZ0g4V2dTY1NkNU5Hd3NhZmx0dmNtYktWWHM5LXlfYVlxRnlNQVgyag?oc=5",
-          "title": "Stainless Steel Powder Market Report 2025-2030",
-          "summary": "The stainless steel powder market is experiencing steady growth driven by advanced manufacturing techniques like powder metallurgy and additive manufacturing.",
-          "why": "Powder metallurgy and high-performance metal parts require specialized deburring, finishing, and polishing solutions for complex, additive-manufactured surfaces.",
-          "action": "Keep an eye on emerging surface finishing requirements for powder-metallurgy and 3D-printed metal parts as high-value niche opportunities.",
+          "source": "Fortune Business Insights",
+          "date": "2026-09-21",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kYlp3TXBwdU5JVl9Gc0pFd3lJSFpjSUhLeEFGOVZVS19BbHBoTFNGb1BFOC1UNEN4c1o0c2xjdTFZYXhVdGRVb0dIeXZqakt1bTJkQy10SC0wRlh0RVVBZHZaWDFYbDk3cHdUbXBsYnRyYTlFVEE?oc=5",
+          "title": "Metal Casting Market Growth Analysis & Industry Forecast, 2034",
+          "summary": "The global metal casting market is seeing steady growth forecasts through 2034, driven by lightweighting needs in automotive and advanced industrial manufacturing.",
+          "why": "Metal casting processes require extensive surface finishing, deburring, and cleaning, which directly drive the consumption of grinding wheels and coated abrasives.",
+          "action": "Targetfoundries and casting workshops with specialized heavy-duty grinding and fettling abrasive solutions.",
           "th": {
-            "title": "รายงานตลาดผงสแตนเลส ปี 2025-2030",
-            "summary": "ตลาดผงสแตนเลสกำลังเติบโตอย่างต่อเนื่อง ขับเคลื่อนด้วยเทคนิคการผลิตขั้นสูง เช่น โลหะวิทยาผงและการผลิตแบบเพิ่มเนื้อวัสดุ (Additive Manufacturing)",
-            "why": "กระบวนการโลหะวิทยาผงและชิ้นส่วนโลหะสมรรถนะสูงต้องการโซลูชันการลบคม ขัดแต่ง และขัดเงาแบบพิเศษสำหรับพื้นผิวที่มีความซับซ้อนจากการผลิตแบบ 3D",
-            "action": "ติดตามความต้องการด้านการเตรียมและตกแต่งพื้นผิวสำหรับชิ้นส่วนโลหะที่ผลิตด้วยผงโลหะและเทคโนโลยี 3D เพื่อมองหาโอกาสในตลาดเฉพาะกลุ่มที่มีมูลค่าสูง"
+            "title": "วิเคราะห์การเติบโตตลาดการหล่อโลหะและแนวโน้มอุตสาหกรรมถึงปี 2034",
+            "summary": "ตลาดการหล่อโลหะทั่วโลกเติบโตอย่างต่อเนื่องจนถึงปี 2034 ขับเคลื่อนโดยความต้องการชิ้นส่วนน้ำหนักเบาในอุตสาหกรรมยานยนต์และการผลิตขั้นสูง",
+            "why": "กระบวนการหล่อโลหะต้องอาศัยการแต่งผิว ลบครีบ และทำความสะอาดชิ้นงานเป็นจำนวนมาก ซึ่งส่งผลโดยตรงต่อปริมาณการใช้งานใบเจียรและกระดาษทรายขัด",
+            "action": "มุ่งเน้นเจาะกลุ่มโรงงานหล่อโลหะ (Foundry) ด้วยผลิตภัณฑ์กลุ่มงานขัดหยาบและลบครีบที่มีความทนทานสูง"
           }
         },
         {
           "id": "20261013-w3",
-          "tag": "auto",
-          "rating": "green",
-          "source": "IEA - International Energy Agency",
-          "date": "2026-05-20",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBdlRidlFWTllkZFUwX0tURmp4UmxwenFiRk5tT29WQndpN0xVbU55TV9VRGFJaFBGMm1weTZyczc5MjJ5aDZDVlhqSnh6Mk5EMV84UE0wWk1JWXFjWGpfY0EwN2JXcjZuckx0dVJ1LWFFTjU5bnpSc1lPek1SMWc?oc=5",
-          "title": "Manufacturing and trade - Global EV Outlook 2026",
-          "summary": "Global electric vehicle manufacturing and international trade continue to expand rapidly, shifting industrial footprints across major automotive hubs.",
-          "why": "EV production changes body-in-white fabrication, lightweight aluminum welding, and battery enclosure manufacturing — all operations heavily reliant on precise grinding, sanding, and weld blending.",
-          "action": "Align our abrasive product portfolio with lightweight metal fabrication and EV component manufacturing standards.",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "Precedence Research",
+          "date": "2026-09-08",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84OGJPdlhPN3V5UEwxaGlhNG5ZT21uSmN5bTRCODBPZWtNRVR2WnBrZ2NEMkRndlJQblVJbEhlVUk3NUFDR0dQQUJXT255NmRiQTd1THBndXZZSlRxNEZqeTBVM0ZmTWJ3SjMxOXRmb3RvM2RVODBlZzNMTlI?oc=5",
+          "title": "Automotive Paints and Coatings Market Companies, Size & Trends 2026-2035",
+          "summary": "The automotive paints and coatings market continues its expansion through 2035, emphasizing high performance, durability, and environmentally friendly formulations.",
+          "why": "Surface preparation and sanding are critical steps before automotive painting; growth in OEM coatings signals robust underlying demand for fine-grit sanding products.",
+          "action": "Keep track of new primer and clearcoat technologies that require specialized high-precision micro-finishing abrasives.",
           "th": {
-            "title": "การผลิตและการค้า - แนวโน้มยานยนต์ไฟฟ้าระดับโลกปี 2026",
-            "summary": "การผลิตยานยนต์ไฟฟ้าและการค้าระหว่างประเทศทั่วโลกยังคงขยายตัวอย่างรวดเร็ว ส่งผลให้ฐานการผลิตอุตสาหกรรมในศูนย์กลางยานยนต์หลักเกิดการเปลี่ยนแปลง",
-            "why": "การผลิต EV เปลี่ยนแปลงกระบวนการประกอบตัวถังรถยนต์ การเชื่อมอลูมิเนียมน้ำหนักเบา และการผลิตชุดแบตเตอรี่ ซึ่งทั้งหมดต้องพึ่งพางานเจียร ขัดกระดาษทราย และเกลี่ยรอยเชื่อม",
-            "action": "ปรับกลุ่มผลิตภัณฑ์วัสดุขัดและกระดาษทรายให้สอดคล้องกับมาตรฐานการผลิตโลหะน้ำหนักเบาและชิ้นส่วนยานยนต์ไฟฟ้า"
+            "title": "บริษัท ขนาด และแนวโน้มตลาดสีและสารเคลือบยานยนต์ ปี 2026-2035",
+            "summary": "ตลาดสีและสารเคลือบยานยนต์เติบโตอย่างต่อเนื่องจนถึงปี 2035 โดยเน้นย้ำเรื่องสมรรถนะสูง ความทนทาน และสูตรที่เป็นมิตรต่อสิ่งแวดล้อม",
+            "why": "การเตรียมพื้นผิวและการขัดกระดาษทรายเป็นขั้นตอนสำคัญก่อนการพ่นสีรถยนต์ การเติบโตของสีเคลือบ OEM บ่งบอกถึงความต้องการผลิตภัณฑ์กระดาษทรายละเอียดอย่างต่อเนื่อง",
+            "action": "ติดตามเทคโนโลยีสีรองพื้นและแลคเกอร์ใหม่ๆ ที่ต้องใช้กระดาษทรายขัดละเอียดความแม่นยำสูงเฉพาะทาง"
+          }
+        },
+        {
+          "id": "20261013-w4",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "Market.us",
+          "date": "2025-03-04",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91alpTXzlIaHVncXdQT2g3dVU2YjM5QTQ1amZIZGRMN0VQMGhzaXdEUXlIWV9nUXZRQ18wMUdrMmYzMkxLa25tdHpwTVctQ2JuYXhXWmxsQW1Pd1gxN1FhM2tkV20yV1psbHhv?oc=5",
+          "title": "Non-woven Abrasives Market Size, Share | CAGR of 3.8%",
+          "summary": "The global non-woven abrasives market is projected to expand at a steady CAGR of 3.8%, driven by increasing demand for surface conditioning, blending, and satin finishing in metalwork.",
+          "why": "Non-woven abrasives are core product categories for surface blending and finishing in metal fabrication, making market trends directly actionable for inventory planning.",
+          "action": "Ensure stable stock and promote non-woven surface conditioning pads and wheels for metal finishing clients.",
+          "th": {
+            "title": "ขนาด ส่วนแบ่ง และอัตราการเติบโตของตลาดวัสดุขัดแบบไม่ถักทอ (Non-woven Abrasives)",
+            "summary": "ตลาดวัสดุขัดแบบไม่ถักทอทั่วโลกคาดว่าจะเติบโตอย่างมั่นคงด้วยอัตรา CAGR 3.8% ขับเคลื่อนโดยความต้องการที่เพิ่มขึ้นในการปรับสภาพผิว การผสมลายผิว และการขัดซาตินในงานโลหะ",
+            "why": "กลุ่มผลิตภัณฑ์วัสดุขัดแบบไม่ถักทอเป็นสินค้าหลักสำหรับการขัดตกแต่งผิวโลหะ ข้อมูลนี้ช่วยให้วางแผนสต็อกสินค้าได้อย่างแม่นยำ",
+            "action": "รักษาระดับสต็อกและทำตลาดผลิตภัณฑ์แผ่นขัดและลูกล้อปรับสภาพผิว (Surface Conditioning) ให้กับลูกค้ากลุ่มงานโลหะ"
           }
         }
       ]
