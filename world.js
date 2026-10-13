@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-13",
-      "summary": "Today's briefing highlights shifts in metal casting and stainless steel markets alongside global EV manufacturing growth. These supply chain and material dynamics directly impact downstream surface finishing and abrasive consumption.",
+      "summary": "Today's briefing features 3 selected stories tracking structural shifts in steel protectionism, stainless steel powder technology, and EV manufacturing trends. This provides valuable macro intelligence for anticipating surface preparation and finishing demands across global industrial sectors.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปรายงานวันนี้เน้นการเปลี่ยนแปลงในตลาดการหล่อโลหะและเหล็กกล้าไร้สนิม ควบคู่กับการเติบโตของการผลิตรถยนต์ EV ทั่วโลก ซึ่งพลวัตของห่วงโซ่อุปทานและวัสดุเหล่านี้ส่งผลโดยตรงต่อการเตรียมพื้นผิวและการใช้วัสดุขัด"
+        "summary": "สรุปข่าววันนี้คัดเลือก 3 เรื่องเด่นที่ติดตามการเปลี่ยนแปลงเชิงโครงสร้างในตลาดเหล็ก เทคโนโลยีผงสแตนเลส และแนวโน้มการผลิตยานยนต์ไฟฟ้า ซึ่งช่วยให้มองเห็นภาพรวมและคาดการณ์ความต้องการงานเตรียมพื้นผิวและขัดเงาในภาคอุตสาหกรรมทั่วโลกได้ล่วงหน้า"
       },
       "items": [
         {
           "id": "20261013-w1",
           "tag": "steel",
-          "rating": "green",
-          "source": "Fortune Business Insights",
-          "date": "2026-09-21",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kYlp3TXBwdU5JVl9Gc0pFd3lJSFpjSUhLeEFGOVZVS19BbHBoTFNGb1BFOC1UNEN4c1o0c2xjdTFZYXhVdGRVb0dIeXZqakt1bTJkQy10SC0wRlh0RVVBZHZaWDFYbDk3cHdUbXBsYnRyYTlFVEE?oc=5",
-          "title": "Metal Casting Market Growth Analysis & Industry Forecast, 2034",
-          "summary": "The metal casting market is expanding steadily, driven by rising demand in automotive, industrial machinery, and construction sectors requiring precision post-processing.",
-          "why": "Cast metal parts heavily rely on industrial abrasives, grinding wheels, and deburring tools for surface smoothing and defect removal.",
-          "action": "Monitor growth in foundries and casting houses to align stock levels for heavy-duty grinding and deburring products.",
+          "rating": "amber",
+          "source": "Reuters",
+          "date": "2026-04-02",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWFZKb2ppb3RHdXNXbnBJZzR4WGc5dHJ3ZkVvVlVMYVFwUjN4TkxQR203bEtjTlo3d3NnTDBaSXZSZzMxUkY5QVlWMFF2V3NGM2VOMk0zMk14NkVfWDVyNF96QlVMQ2tHb0oyWm5nRm9pQmpOYTdoWTJQUTdXMHZOR1RLT0RJaldfT3NMRmNJXzhMcHhMM1p2dHVzaEtHaGtBME54MGJUbW5MdDFNX2tkZkktOGNiLTQ3ZjRiTw?oc=5",
+          "title": "A year after 'Liberation Day,' Trump sets new drug tariffs, adjusts metals duties",
+          "summary": "Recent trade policy adjustments introduce new metal duties and tariffs, reshaping global steel supply chains and regional production economics.",
+          "why": "Tariff and trade shifts alter where metal fabrication and steel processing take place, directly impacting regional demand for heavy grinding, deburring, and surface finishing abrasives.",
+          "action": "Monitor how shifting steel trade flows affect regional metal fabrication activity and adjust inventory planning for industrial abrasives accordingly.",
           "th": {
-            "title": "การวิเคราะห์การเติบโตของตลาดการหล่อโลหะและการคาดการณ์อุตสาหกรรมถึงปี 2034",
-            "summary": "ตลาดการหล่อโลหะเติบโตอย่างต่อเนื่อง ขับเคลื่อนโดยความต้องการที่เพิ่มขึ้นในภาคยานยนต์ เครื่องจักรกลอุตสาหกรรม และการก่อสร้างที่ต้องมีการตกแต่งผิวหลังการผลิตที่มีความแม่นยำสูง",
-            "why": "ชิ้นส่วนโลหะหล่อต้องพึ่งพาวัสดุขัดอุตสาหกรรม หินเจียร และเครื่องมือลบคมอย่างมากในการปรับผิวให้เรียบและกำจัดตำหนิ",
-            "action": "ติดตามการเติบโตของโรงหล่อโลหะเพื่อปรับระดับสินค้าคงคลังสำหรับผลิตภัณฑ์งานเจียรและลบคมงานหนัก"
+            "title": "หนึ่งปีหลังวันปลดปล่อย ทรัมป์ประกาศมาตรการภาษีและปรับอัตราภาษีโลหะครั้งใหม่",
+            "summary": "การปรับนโยบายการค้าล่าสุดมีการกำหนดภาษีโลหะรอบใหม่ ซึ่งส่งผลกระทบต่อห่วงโซ่อุปทานเหล็กทั่วโลกและเศรษฐกิจการผลิตในระดับภูมิภาค",
+            "why": "การเปลี่ยนแปลงด้านภาษีและการค้าส่งผลต่อพื้นที่ในการแปรรูปโลหะและการผลิตเหล็ก ซึ่งกระทบโดยตรงต่อความต้องการหินเจียร ใบตัด และวัสดุขัดผิวในภูมิภาคนั้น ๆ",
+            "action": "ติดตามว่าทิศทางการค้าเหล็กที่เปลี่ยนไปส่งผลต่อกิจกรรมการผลิตโลหะในภูมิภาคอย่างไร และปรับการวางแผนสต็อกสินค้าขัดกระดาษทรายและหินเจียรให้สอดคล้องกัน"
           }
         },
         {
           "id": "20261013-w2",
           "tag": "steel",
           "rating": "green",
-          "source": "Shanghai Metals Market",
-          "date": "2025-12-26",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNlQ3MnVYRHBLbFMxVVRxS2xsSXFES1dVMS1Bdk5lV3dnZG9GUzVLN3JkQWhyRjhpemkxSURqSkRNZ1NyeU1DMVZVUTJGU3h6aUNseWFHaEtiNWVGVnJiN1BXdUhVODU5TXk4YTJVZTN0amkzZmJMVXlZYWVYeTRZQW8zYlpjaUpUd21yNExQcFREamFOZXZwaWNGQ01DVEFlZmJabmFtNGkxSlJhMHZUMVo4SmduYW9ycjAtU05QQmEtMHJmUElvZUxjc2gwVjZaM1dlaEQyalZQQm1CcnJrel9fc0pyYU9G?oc=5",
-          "title": "[SMM Analysis] 2025 Global Stainless Steel Market Review and 2026 Outlook: Global Realignment and Asian Engines",
-          "summary": "Global stainless steel markets are experiencing regional realignment with strong production shifts across Asian manufacturing hubs.",
-          "why": "Stainless steel fabrication requires specialized non-woven and coated abrasives for satin finishing, scratch removal, and mirror polishing.",
-          "action": "Ensure strong inventory of high-grade waterproof sandpaper and surface conditioning belts tailored for stainless steel processors.",
+          "source": "MarketsandMarkets",
+          "date": "2025-12-03",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVXVYZWVHaDBhMjdYc1BFRjVnV01BWUJZZnBNd1FESWpfanVMUVFaZkxUNGYzT0VVX3ZvT0dGSVpMTmRNRVBpRjNQZ3QyWU5jM0MxQmhLZVQ1cTJsbF9LNGV2aGZpaVdZb0NrWndDWFZJZ0g4V2dTY1NkNU5Hd3NhZmx0dmNtYktWWHM5LXlfYVlxRnlNQVgyag?oc=5",
+          "title": "Stainless Steel Powder Market Report 2025-2030",
+          "summary": "The stainless steel powder market is experiencing steady growth driven by advanced manufacturing techniques like powder metallurgy and additive manufacturing.",
+          "why": "Powder metallurgy and high-performance metal parts require specialized deburring, finishing, and polishing solutions for complex, additive-manufactured surfaces.",
+          "action": "Keep an eye on emerging surface finishing requirements for powder-metallurgy and 3D-printed metal parts as high-value niche opportunities.",
           "th": {
-            "title": "[วิเคราะห์ SMM] ทบทวนตลาดสแตนเลสโลกปี 2025 และแนวโน้มปี 2026: การปรับโครงสร้างระดับโลกและกลไกขับเคลื่อนจากเอเชีย",
-            "summary": "ตลาดสแตนเลสทั่วโลกกำลังประสบกับการปรับโครงสร้างระดับภูมิภาค โดยมีการย้ายฐานการผลิตที่สำคัญในกลุ่มฮับการผลิตของเอเชีย",
-            "why": "งานแปรรูปสแตนเลสต้องการกระดาษทรายและผลิตภัณฑ์ขัดชนิด non-woven แบบพิเศษสำหรับการทำผิวซาติน การลบรอยขีดข่วน และการขัดเงา",
-            "action": "เตรียมสต็อกกระดาษทรายกันน้ำเกรดสูงและสายพานปรับสภาพผิวที่ออกแบบมาสำหรับผู้แปรรูปสแตนเลสโดยเฉพาะ"
+            "title": "รายงานตลาดผงสแตนเลส ปี 2025-2030",
+            "summary": "ตลาดผงสแตนเลสกำลังเติบโตอย่างต่อเนื่อง ขับเคลื่อนด้วยเทคนิคการผลิตขั้นสูง เช่น โลหะวิทยาผงและการผลิตแบบเพิ่มเนื้อวัสดุ (Additive Manufacturing)",
+            "why": "กระบวนการโลหะวิทยาผงและชิ้นส่วนโลหะสมรรถนะสูงต้องการโซลูชันการลบคม ขัดแต่ง และขัดเงาแบบพิเศษสำหรับพื้นผิวที่มีความซับซ้อนจากการผลิตแบบ 3D",
+            "action": "ติดตามความต้องการด้านการเตรียมและตกแต่งพื้นผิวสำหรับชิ้นส่วนโลหะที่ผลิตด้วยผงโลหะและเทคโนโลยี 3D เพื่อมองหาโอกาสในตลาดเฉพาะกลุ่มที่มีมูลค่าสูง"
           }
         },
         {
           "id": "20261013-w3",
           "tag": "auto",
-          "rating": "amber",
-          "source": "Fortune Business Insights",
-          "date": "2026-09-21",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbDdPM0VwRXE3dDlfTTJFS3BVX2FmU0ZLWVVDR2JLcWk5UjVnUmJQaDJ2N2E1Z1VkMWdIUzdnWXVrSFc3cHBLWmhSb3dodGpOTlZzejhjaFRBcm5fRi1jMzhzTV9CcFRqVVRVUVdWUWliWkdiMXdzLXpFMWY3M1doOW1hTHBaUnlnYV81YmMyLTU?oc=5",
-          "title": "Electric Vehicle Market Size, Share & Global Analysis, 2034",
-          "summary": "The EV market continues long-term expansion, transforming vehicle architectures, body weight materials, and assembly line requirements.",
-          "why": "EV production uses different structural alloys and composite parts, changing how automotive manufacturers approach welding prep and body finishing.",
-          "action": "Keep abreast of lightweight metal alloys and composite usage in automotive supply chains to anticipate shifts in finishing media.",
+          "rating": "green",
+          "source": "IEA - International Energy Agency",
+          "date": "2026-05-20",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBdlRidlFWTllkZFUwX0tURmp4UmxwenFiRk5tT29WQndpN0xVbU55TV9VRGFJaFBGMm1weTZyczc5MjJ5aDZDVlhqSnh6Mk5EMV84UE0wWk1JWXFjWGpfY0EwN2JXcjZuckx0dVJ1LWFFTjU5bnpSc1lPek1SMWc?oc=5",
+          "title": "Manufacturing and trade - Global EV Outlook 2026",
+          "summary": "Global electric vehicle manufacturing and international trade continue to expand rapidly, shifting industrial footprints across major automotive hubs.",
+          "why": "EV production changes body-in-white fabrication, lightweight aluminum welding, and battery enclosure manufacturing — all operations heavily reliant on precise grinding, sanding, and weld blending.",
+          "action": "Align our abrasive product portfolio with lightweight metal fabrication and EV component manufacturing standards.",
           "th": {
-            "title": "ขนาด ส่วนแบ่ง และการวิเคราะห์ระดับโลกของตลาดรถยนต์ไฟฟ้า (EV) ถึงปี 2034",
-            "summary": "ตลาดยานยนต์ไฟฟ้ายังคงขยายตัวในระยะยาว ซึ่งเปลี่ยนแปลงโครงสร้างตัวรถ วัสดุน้ำหนักเบา และข้อกำหนดในสายการประกอบ",
-            "why": "การผลิต EV ใช้โลหะผสมและชิ้นส่วนคอมโพสิตที่แตกต่างกัน ซึ่งเปลี่ยนวิธีที่ผู้ผลิตยานยนต์เตรียมรอยเชื่อมและตกแต่งตัวถัง",
-            "action": "ติดตามการใช้วัลลอยด์น้ำหนักเบาและวัสดุคอมโพสิตในห่วงโซ่อุปทานยานยนต์เพื่อคาดการณ์การเปลี่ยนแปลงของวัสดุขัดตกแต่ง"
+            "title": "การผลิตและการค้า - แนวโน้มยานยนต์ไฟฟ้าระดับโลกปี 2026",
+            "summary": "การผลิตยานยนต์ไฟฟ้าและการค้าระหว่างประเทศทั่วโลกยังคงขยายตัวอย่างรวดเร็ว ส่งผลให้ฐานการผลิตอุตสาหกรรมในศูนย์กลางยานยนต์หลักเกิดการเปลี่ยนแปลง",
+            "why": "การผลิต EV เปลี่ยนแปลงกระบวนการประกอบตัวถังรถยนต์ การเชื่อมอลูมิเนียมน้ำหนักเบา และการผลิตชุดแบตเตอรี่ ซึ่งทั้งหมดต้องพึ่งพางานเจียร ขัดกระดาษทราย และเกลี่ยรอยเชื่อม",
+            "action": "ปรับกลุ่มผลิตภัณฑ์วัสดุขัดและกระดาษทรายให้สอดคล้องกับมาตรฐานการผลิตโลหะน้ำหนักเบาและชิ้นส่วนยานยนต์ไฟฟ้า"
           }
         }
       ]
