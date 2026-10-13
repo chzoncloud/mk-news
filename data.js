@@ -2,6 +2,71 @@
 window.NEWS_ARCHIVE = {
   "days": [
     {
+      "date": "2026-10-14",
+      "summary": "Today has limited new developments as major EV tax overhauls and Thai Airways MRO deals were already tracked. Key secondary updates focus on regulatory crackdowns protecting compliant domestic steelmakers, cumulative BOI EV capital commitments, and expanding airline interest in U-Tapao MRO.",
+      "directCount": 0,
+      "th": {
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก เนื่องจากประเด็นหลักเรื่องโครงสร้างภาษี EV และข้อตกลง MRO ของการบินไทยได้รับการรายงานไปแล้ว โดยมีข่าวติดตามรองได้แก่ การปราบปรามเหล็กผิดมาตรฐาน ยอดสะสมการลงทุน EV ของบีโอไอ และความสนใจลงทุน MRO อู่ตะเภาจากสายการบินเพิ่มเติม"
+      },
+      "items": [
+        {
+          "id": "20261014-1",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "มิติหุ้น",
+          "date": "2026-09-25",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9udF9SZWlMTGsyTVBmV0RNVHlBTE1KUHlvc0RMQnNkbjV6S1d3aGprUkxJNFhxNU5PTmVTNVBPTVh2OWtFT0xSM21xdGg5Sll2Yk1mV3pB?oc=5",
+          "title": "Steel Associations Commend Industry Ministry and TISI Crackdown on Substandard Steel",
+          "summary": "Representatives from 10 domestic steel associations met with the Industry Ministry and TISI to support intensified crackdowns on substandard imported and induction-furnace steel. This regulatory enforcement aims to restore fair competition for compliant domestic mills.",
+          "why": "Protecting compliant local steelmakers and structural metal fabricators prevents facility shutdowns, preserving ongoing demand for heavy grinding discs and flap wheels.",
+          "action": "Engage procurement teams at certified local structural steel and metal fabrication plants to secure recurring abrasive supply orders.",
+          "th": {
+            "title": "10 สมาคมเหล็กเข้าพบกระทรวงอุตสาหกรรม-สมอ. ชื่นชมการปราบปรามเหล็กไม่ได้มาตรฐาน",
+            "summary": "ตัวแทน 10 สมาคมเหล็กในประเทศเข้าพบกระทรวงอุตสาหกรรมและ สมอ. เพื่อสนับสนุนการบังคับใช้กฎหมายเข้มงวดกับเหล็กนำเข้าและเหล็กเตา IF ที่ไม่ได้มาตรฐาน เพื่อคืนความเป็นธรรมให้ผู้ผลิตไทย",
+            "why": "การคุ้มครองโรงงานเหล็กและแปรรูปโลหะที่ได้มาตรฐานช่วยลดความเสี่ยงการปิดตัวของลูกค้า รักษาการใช้วัสดุขัดเจียรหนักและจานทรายซ้อนอย่างต่อเนื่อง",
+            "action": "เข้าพบทีมจัดซื้อของโรงงานผลิตและแปรรูปโครงสร้างเหล็กมาตรฐานเพื่อรักษาโควตาสั่งซื้อวัสดุขัดระยะยาว"
+          }
+        },
+        {
+          "id": "20261014-2",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "เว็บไซต์รัฐบาลไทย",
+          "date": "2026-07-02",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zOHo0X01meExtendzNTNja1RMTUxKa2dWM0hFZ1JrRzJ4dmJPLWhSdHVwb19IU01fVTRVOWtaX2lkMVJUSlRPb3FCNVg5UQ?oc=5",
+          "title": "BOI Reports EV Investment Exceeding 130 Billion Baht Across Vehicle Technologies",
+          "summary": "The Board of Investment confirmed that cumulative investment value for electric vehicle projects has surpassed 130 billion baht, covering BEVs, hybrids, and core component manufacturing. The government continues promoting local supply chain participation across all EV technologies.",
+          "why": "Realized factory construction and tooling investments generate downstream deburring and finishing demands for lightweight battery casings, stamping parts, and chassis assemblies.",
+          "action": "Identify Tier-1 and Tier-2 component suppliers tied to approved BOI EV projects to pitch high-grit finishing and deburring abrasives.",
+          "th": {
+            "title": "บีโอไอเผยยอดลงทุน EV ทะลุ 1.3 แสนล้านบาท หนุนฐานผลิตครอบคลุมทุกเทคโนโลยี",
+            "summary": "บีโอไอรายงานยอดขอรับการส่งเสริมการลงทุนยานยนต์ไฟฟ้าสะสมทะลุ 1.3 แสนล้านบาท ครอบคลุมทั้ง BEV ไฮบริด และชิ้นส่วนสำคัญ พร้อมเร่งดึงซัพพลายเชนในประเทศเข้าสู่ระบบ",
+            "why": "การก่อสร้างโรงงานและสายการผลิตที่เกิดขึ้นจริงจะกระตุ้นความต้องการใช้วัสดุขัดลบครีบและเตรียมผิวโลหะสำหรับเคสแบตเตอรี่และชิ้นส่วนโครงสร้างรถยนต์",
+            "action": "รวบรวมรายชื่อซัพพลายเออร์ Tier 1-2 ในเครือข่ายโครงการที่ได้รับอนุมัติบีโอไอเพื่อนำเสนอวัสดุขัดเตรียมผิวโลหะคุณภาพสูง"
+          }
+        },
+        {
+          "id": "20261014-3",
+          "tag": "aero",
+          "rating": "amber",
+          "source": "Thansettakij",
+          "date": "2026-06-16",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pbFFnQlhiSG5UMVBfTjVmMUZtNXc4ZkYyOFljMVFtQlQwalZ5WUpidFlzX3prejlBWGoydDYzUUZXMlY4bE56VFUwZnZrLVJfWlRtV2t0Wi0xOWkzeVFLTUFJOVIwUQ?oc=5",
+          "title": "EECO Prepares U-Tapao MRO Facilities as Vietjet Evaluates Maintenance Hub Investment",
+          "summary": "The Eastern Economic Corridor Office confirmed site readiness for the U-Tapao aircraft maintenance center, noting pending feasibility proposals from private airlines including Vietjet. The project seeks to expand Thailand's commercial aviation MRO footprint.",
+          "why": "Broadening MRO operators beyond legacy flag carriers increases the commercial addressable market for specialized aviation-grade sanding and surface prep consumables in the Eastern Seaboard.",
+          "action": "Review aerospace MRO vendor approval procedures and certify product compliance for specialized aluminum and composite sanding rolls.",
+          "th": {
+            "title": "อีอีซีเดินหน้าศูนย์ซ่อมอากาศยานอู่ตะเภา รอผลศึกษาแผนลงทุนจากเวียตเจ็ท",
+            "summary": "สกพอ. ยืนยันความพร้อมพื้นที่ศูนย์ซ่อมอากาศยาน MRO อู่ตะเภา พร้อมรอข้อเสนอการศึกษาความเป็นไปได้จากสายการบินเอกชนอย่างเวียตเจ็ท เพื่อผลักดันไทยเป็นศูนย์กลางซ่อมบำรุง",
+            "why": "การขยายตัวของผู้ประกอบการ MRO นอกเหนือจากสายการบินหลัก ช่วยเปิดโอกาสตลาดใหม่ให้กับกระดาษทรายและวัสดุขัดเกรดอากาศยานในเขต EEC",
+            "action": "ศึกษาเกณฑ์การขึ้นทะเบียนซัพพลายเออร์ด้านการบิน พร้อมเตรียมเอกสารรับรองมาตรฐานสำหรับกระดาษทรายขัดอลูมิเนียมและคอมโพสิต"
+          }
+        }
+      ],
+      "terms": {}
+    },
+    {
       "date": "2026-10-13",
       "summary": "News flow is relatively light today; key developments highlight high-level diplomatic efforts to protect Japanese automotive plants in Thailand and the formal contract signing for Thai Airways' 10-billion-baht U-Tapao MRO hub.",
       "directCount": 0,
@@ -818,5 +883,5 @@ window.NEWS_ARCHIVE = {
       "terms": {}
     }
   ],
-  "updated": "2026-10-13"
+  "updated": "2026-10-14"
 };
