@@ -2,6 +2,89 @@
 window.NEWS_ARCHIVE = {
   "days": [
     {
+      "date": "2026-10-15",
+      "summary": "Today has few new breaking updates as major automotive policy and aviation fleet announcements were covered previously. Key highlights focus on export wood manufacturing expansion and aviation MRO capital mobilization, which offer steady abrasive demand.",
+      "directCount": 1,
+      "th": {
+        "summary": "วันนี้มีข่าวใหม่ไม่มากเนื่องจากประเด็นหลักด้านนโยบายยานยนต์ไฟฟ้าและการบินได้รับการรายงานไปแล้วก่อนหน้านี้ สัญญาณสำคัญในวันนี้มุ่งเน้นไปที่การขยายเครือข่ายแปรรูปไม้ส่งออกและการระดมทุนศูนย์ซ่อมอากาศยาน MRO ซึ่งยังคงรักษาโอกาสของตลาดวัสดุขัด"
+      },
+      "items": [
+        {
+          "id": "20261015-1",
+          "tag": "furniture",
+          "rating": "green",
+          "source": "Thansettakij",
+          "date": "2026-07-13",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTbVhNaVNKdGxyaVdOOEpkRmV6YnRxaEVaMk1FdFdsTUNFLXZBZFR2YVBCS09LSGxzX3BtMG14VEZjVVRVZnhxMURPWXlxdUhPak5hay1R?oc=5",
+          "title": "Thai Wood Industry Accelerates Global Business Links to Boost Exports",
+          "summary": "Thai wood processors are expanding international trade partnerships to upgrade manufacturing standards and boost export value. This growth pushes factories to increase surface finishing and mass production of premium wooden products.",
+          "why": "Higher processing volumes of wood products directly boost plant-level consumption of wide sanding belts, abrasive rolls, and finishing paper.",
+          "action": "Target export-oriented wood processing factories with MK's heavy-duty wide sanding belts and fine-grit finishing abrasives.",
+          "th": {
+            "title": "อุตสาหกรรมไม้ไทยเร่งเครื่อง เชื่อมเครือข่ายธุรกิจโลก ดันมูลค่าส่งออกโต",
+            "summary": "ผู้ผลิตและแปรรูปไม้ของไทยกำลังขยายเครือข่ายการค้าสู่ตลาดโลกเพื่อผลักดันยอดส่งออกและยกระดับมาตรฐานการผลิต ซึ่งช่วยหนุนโรงงานในประเทศให้เพิ่มกำลังผลิตและการเตรียมผิวไม้เกรดพรีเมียม",
+            "why": "การเร่งแปรรูปไม้ส่งผลดีโดยตรงต่อยอดการใช้กระดาษทรายสายพานกว้าง (Wide Belts) และจานขัดกระดาษทรายของโรงงานแปรรูป",
+            "action": "เสนอขายกระดาษทรายสายพานและกระดาษทรายขัดละเอียดแบรนด์ MK ให้แก่โรงงานแปรรูปไม้เพื่อการส่งออก"
+          }
+        },
+        {
+          "id": "20261015-2",
+          "tag": "aero",
+          "rating": "amber",
+          "source": "posttoday",
+          "date": "2026-07-27",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lak5sZXQtNktSd3dqWTVQcmdhN2JJdGVhSEUxUzk5RFI5TUs4T3kzMzBqVDdNUnp4N2k3M2FBalNXd0UwaS1XeUxkczM4Rzg4QnVBQXJR?oc=5",
+          "title": "EECO Mobilizes Investment to Establish U-Tapao Regional Aircraft MRO Hub",
+          "summary": "The Eastern Economic Corridor Office (EECO) is actively mobilizing domestic and global capital to establish a regional aircraft maintenance, repair, and overhaul (MRO) center at U-Tapao.",
+          "why": "Long-term development of regional MRO hangars will create sustained demand for certified aviation abrasives, surface prep discs, and deburring wheels.",
+          "action": "Prepare aviation-grade abrasive product specifications and compliance data to qualify for future aerospace procurement tenders.",
+          "th": {
+            "title": "EECO ระดมทุน ดันอุตสาหกรรม MRO ปั้นอู่ตะเภาสู่ศูนย์กลางซ่อมอากาศยานภูมิภาค",
+            "summary": "สำนักงาน อีอีซี เร่งระดมทุนทั้งในและต่างประเทศเพื่อพัฒนาศูนย์ซ่อมบำรุงอากาศยานครบวงจร (MRO) ณ สนามบินอู่ตะเภา",
+            "why": "การพัฒนาศูนย์ MRO ในระยะยาวจะสร้างความต้องการใช้วัสดุขัดเกรดการบิน ทั้งจานขัด ลูกขัด และเครื่องมือลบครีบชิ้นส่วนเครื่องบินอย่างต่อเนื่อง",
+            "action": "จัดทำแคตตาล็อกวัสดุขัดเกรดอุตสาหกรรมการบินและเตรียมเอกสารรับรองมาตรฐานสำหรับกระบวนการจัดซื้อจัดจ้างในอนาคต"
+          }
+        },
+        {
+          "id": "20261015-3",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "posttoday",
+          "date": "2025-10-24",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56LWpoTlNPYU9GbXhGME9TeFNFaldyT1c0RTdDaUhmQ3RsTG9SZkowSV9QSDA3dDRNWnVfMVdrdWgzcGpWSEEwVmotSUxfREdfaGtheTdlUmk?oc=5",
+          "title": "Ten Steel Associations Oppose Factory Reopening Over Substandard Standards",
+          "summary": "Ten local steel industry groups have petitioned authorities against reopening suspended induction furnace mills, citing economic harm from substandard metal products.",
+          "why": "Restricting substandard low-cost mills protects quality-certified domestic steel makers, who are steady B2B buyers of industrial cutting and grinding abrasives.",
+          "action": "Maintain strong sales relationships with certified local structural steel fabricators and monitor supply stability.",
+          "th": {
+            "title": "10 สมาคมเหล็กค้าน “ซินเคอหยวน” เปิดโรงงาน หวั่นเหล็กไร้มาตรฐานกระทบเศรษฐกิจ",
+            "summary": "10 สมาคมเหล็กในประเทศร่วมยื่นคัดค้านการเปิดโรงงานเตาหลอม IF ของทุนต่างชาติที่ถูกสั่งปิดไป เพื่อสกัดเหล็กคุณภาพต่ำไม่ให้ทะลักเข้าสู่ระบบเศรษฐกิจ",
+            "why": "การสกัดโรงงานเหล็กไม่ได้มาตรฐานช่วยรักษาเสถียรภาพให้ผู้ผลิตเหล็กโครงสร้างและท่อเหล็กมาตรฐานในไทย ซึ่งเป็นกลุ่มลูกค้าหลักที่ซื้อหินเจียรและใบตัดเกรดอุตสาหกรรม",
+            "action": "รักษาฐานลูกค้าโรงงานผลิตและแปรรูปเหล็กมาตรฐานในประเทศ พร้อมประเมินสภาพคล่องและวงเงินสินเชื่อของคู่ค้าอย่างใกล้ชิด"
+          }
+        },
+        {
+          "id": "20261015-4",
+          "tag": "furniture",
+          "rating": "amber",
+          "source": "กรมส่งเสริมการค้าระหว่างประเทศ (DITP)",
+          "date": "2025-10-08",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WZ0s3TnpGQ1JjZHJpVkhVQ19La3lwT2hjMTR3cXZlczhtby1WNnFQaUcxb2RUZ1FPcGgwQTRWa2t6TnN4d3NNUXF6bXVjOEpKY3FrWlFocm9nRnJ5UGdZOFd3?oc=5",
+          "title": "Furniture Makers Brace for Slower Orders Under Tightened US Import Tariffs",
+          "summary": "Thai furniture exporters report rising concerns that revised US import tariffs will lower order volumes from North American buyers.",
+          "why": "A potential slowdown in furniture export factories could reduce consumable abrasive turnover such as orbital sanding discs and finishing sheets.",
+          "action": "Offer cost-effective sanding solutions to export mills while expanding retail woodworking abrasive sales on Shopee and TikTok.",
+          "th": {
+            "title": "ผู้ผลิตเฟอร์นิเจอร์คาดว่าคำสั่งซื้อจะลดลงภายใต้นโยบายเก็บภาษีนำเข้าฉบับใหม่ของสหรัฐฯ",
+            "summary": "กลุ่มผู้ผลิตเฟอร์นิเจอร์ส่งออกของไทยประเมินว่านโยบายภาษีนำเข้าใหม่ของสหรัฐฯ อาจส่งผลให้คำสั่งซื้อจากคู่ค้าสหรัฐฯ ชะลอตัวลง",
+            "why": "โรงงานเฟอร์นิเจอร์ไม้ที่เน้นตลาดส่งออกอาจลดกำลังการผลิตลง ซึ่งจะส่งผลให้ปริมาณการสั่งซื้อกระดาษทรายขัดไม้ลดลงตามไปด้วย",
+            "action": "นำเสนอโซลูชันวัสดุขัดที่ช่วยโรงงานลดต้นทุนต่อชิ้นงาน พร้อมกระจายสินค้าวัสดุขัดงานไม้สู่ตลาดช่างและ DIY ผ่าน Shopee และ TikTok"
+          }
+        }
+      ],
+      "terms": {}
+    },
+    {
       "date": "2026-10-14",
       "summary": "Today has few major new updates. However, ongoing EV supply chain investments and aerospace MRO initiatives at U-Tapao continue to present steady medium-term opportunities for specialized abrasive tooling.",
       "directCount": 1,
@@ -836,5 +919,5 @@ window.NEWS_ARCHIVE = {
       "terms": {}
     }
   ],
-  "updated": "2026-10-14"
+  "updated": "2026-10-15"
 };
