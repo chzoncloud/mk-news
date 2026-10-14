@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-15",
-      "summary": "Today's briefing focuses on global manufacturing shifts, including automotive OEM coatings and regional market growth reports, signaling evolving surface treatment demands.",
+      "summary": "Today's briefing focuses on global manufacturing equipment shifts, AI integration in smart factories, and regional shifts in metal processing and stainless steel markets. These trends signal evolving surface preparation and automation demands across automotive and metal sectors.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปข้อมูลแนวโน้มโลกวันนี้เน้นการเปลี่ยนแปลงในภาคการผลิตระดับโลก รวมถึงรายงานตลาดสารเคลือบยานยนต์ OEM และการเติบโตของตลาดภูมิภาค ซึ่งบ่งชี้ถึงความต้องการการปรับปรุงพื้นผิวที่เปลี่ยนไป"
+        "summary": "สรุปข้อมูลแนวโน้มอุตสาหกรรมโลกประจำวันนี้เน้นไปที่การเปลี่ยนแปลงของอุปกรณ์การผลิต การบูรณาการ AI ในโรงงานอัจฉริยะ และการเปลี่ยนแปลงของตลาดโลหะและสแตนเลส ซึ่งส่งสัญญาณถึงความต้องการด้านการเตรียมพื้นผิวและระบบอัตโนมัติที่กำลังเปลี่ยนไปในอุตสาหกรรมยานยนต์และโลหะ"
       },
       "items": [
         {
           "id": "20261015-w1",
           "tag": "auto",
-          "rating": "green",
-          "source": "Fortune Business Insights",
-          "date": "2026-09-28",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
-          "title": "Automotive OEM Coatings Market Size, Share | Growth [2034]",
-          "summary": "The automotive OEM coatings market is expanding steadily towards 2034, driven by advanced manufacturing requirements and new vehicle finishes.",
-          "why": "OEM coating trends directly impact the surface preparation and sanding steps required before and after painting vehicles.",
-          "action": "Monitor changes in automotive paint tech to anticipate shifting demands for fine-grit abrasives and polishing pads.",
+          "rating": "amber",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-09-02",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUUpWSmpHLVowSXdiLUJqcFlpQ3ZfRmdQYjJiTVFCNk00ZW0tM0ZqenQtd2F4emNVNEdzT3Q3amZ3M050YnNuTldQZFQyTlgyX3ByekdEbkdlaURacG5yRlBUSEZucnBQalBmNzVadXVrSDdXcEd0d2t4UXptUzJ5dXZ6ckE1Q3RVV3IyUkY4SFdVSERveVJYem0yM3lNbWFUY1dXWHYyRFZ2cXdldWFqRmJTNE4tQ1RXWWp4N3NCN1h5Vmt3d3hEbkFPc2ZqT0k?oc=5",
+          "title": "A global AI manufacturing transformation at Hyundai Motor Group",
+          "summary": "Hyundai Motor Group is scaling up global AI manufacturing transformations, heavily automating its production lines and assembly processes.",
+          "why": "As major automotive OEMs adopt AI and advanced automation, the demand for precision robotic deburring and consistent automated surface finishing tools increases.",
+          "action": "Monitor automated manufacturing deployments to identify future opportunities for robotic-compatible abrasive products.",
           "th": {
-            "title": "ขนาด ส่วนแบ่ง และการเติบโตของตลาดสารเคลือบยานยนต์ OEM ถึงปี 2034",
-            "summary": "ตลาดสารเคลือบยานยนต์ OEM กำลังเติบโตอย่างต่อเนื่องจนถึงปี 2034 ขับเคลื่อนโดยข้อกำหนดการผลิตขั้นสูงและการเคลือบผิวรถยนต์แบบใหม่",
-            "why": "แนวโน้มสารเคลือบ OEM ส่งผลโดยตรงต่อขั้นตอนการเตรียมพื้นผิวและการขัดกระดาษทรายที่จำเป็นก่อนและหลังการพ่นสีรถยนต์",
-            "action": "ติดตามการเปลี่ยนแปลงของเทคโนโลยีสีรถยนต์เพื่อคาดการณ์ความต้องการกระดาษทรายเบอร์ละเอียดและผ้าขัดที่เปลี่ยนไป"
+            "title": "การเปลี่ยนแปลงการผลิตด้วย AI ระดับโลกของกลุ่มฮุนไดมอเตอร์",
+            "summary": "กลุ่มฮุนไดมอเตอร์กำลังยกระดับการเปลี่ยนแปลงการผลิตด้วย AI ทั่วโลก โดยเพิ่มระบบอัตโนมัติให้กับสายการผลิตและกระบวนการประกอบอย่างหนัก",
+            "why": "เมื่อผู้ผลิตยานยนต์รายใหญ่ปรับใช้ AI และระบบอัตโนมัติขั้นสูง ความต้องการเครื่องมือลบคมด้วยหุ่นยนต์ที่มีความแม่นยำและการขัดผิวสำเร็จอัตโนมัติที่สม่ำเสมอก็เพิ่มขึ้นตามไปด้วย",
+            "action": "ติดตามการติดตั้งระบบการผลิตอัตโนมัติเพื่อหาโอกาสใหม่สำหรับผลิตภัณฑ์กระดาษทรายและวัสดุขัดที่รองรับระบบหุ่นยนต์"
           }
         },
         {
           "id": "20261015-w2",
-          "tag": "coating",
+          "tag": "steel",
           "rating": "amber",
-          "source": "MarketsandMarkets",
-          "date": "2026-05-07",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSllZOTN0cVc5V3doWTkxVGNZZERHWWtYN2MtVVZMRTF5aEM1SFdrYThXNFN4TTUtQ3RDR2dCNzV5TG9TWHZCcjUxZ0E3S0RZb1F6bndWaTFHdTc1em52VHk5UW1YSy01SFNGakRELVJ5bmRfSEM5Y3pLTU9Ia0Jka1E0cDNvWExPMXY5VXdfckhjRllSQ2dQUUQyNHJFNEsxZGc?oc=5",
-          "title": "Europe Architectural Coating Market Report 2026-2031",
-          "summary": "A comprehensive 250-page report outlines the European architectural coating market trends and growth forecasts through 2031.",
-          "why": "Architectural coatings drive demand for surface prep, wall sanding, and wood finishing tools in the construction sector.",
-          "action": "Keep an eye on European coating standards as they often influence global specifications for surface preparation equipment.",
+          "source": "Shanghai Metals Market",
+          "date": "2026-03-02",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQ2xHd0lUb2NjUDd1RnlTdGpDOV96UzRtZzZCdGlCTmdFaWNxSUJjdUFzVmxOLXVZYkh2VnFsSzRZb1lhdDJCMnJYWUFvUFByYkRSRkZSTE9wUkIxVGVvbWxRYkFHQjBTb2g2VmdRbXV3QW03STFFc2ZzRlVGSTQwVnZIdzdPVm9uRjlmN1hvVWlyYlpjd1o0c092di1YLUJtaDVucldZNS12VE5hTWVKa2VuNEE2bXA0WW9nTV94Yzg1Qk5CWkoyQ3lGVHI5OThkc3JrUU5CZGZieTY0eVpwZnQzbW1ENmlBZlNj?oc=5",
+          "title": "[SMM Analysis] Global Stainless Steel Market Navigates Complex Landscape in February, What's the Long-Term Outlook?",
+          "summary": "The global stainless steel market is navigating a complex landscape involving fluctuating supply dynamics and shifting regional demand.",
+          "why": "Stainless steel fabrication requires specialized grinding, blending, and polishing abrasives to meet strict surface finish standards.",
+          "action": "Keep track of stainless steel production trends to forecast demand for heavy-duty grinding wheels and fine-grit polishing belts.",
           "th": {
-            "title": "รายงานตลาดสารเคลือบสถาปัตยกรรมยุโรป ปี 2026-2031",
-            "summary": "รายงานฉบับสมบูรณ์กว่า 250 หน้าสรุปแนวโน้มตลาดสารเคลือบสถาปัตยกรรมของยุโรปและการคาดการณ์การเติบโตจนถึงปี 2031",
-            "why": "สารเคลือบสำหรับงานสถาปัตยกรรมสร้างความต้องการในด้านการเตรียมพื้นผิว การขัดผนัง และเครื่องมือตกแต่งพื้นผิวไม้ในภาคการก่อสร้าง",
-            "action": "จับตาดูมาตรฐานสารเคลือบของยุโรปเนื่องจากมักมีอิทธิพลต่อข้อกำหนดระดับโลกสำหรับอุปกรณ์เตรียมพื้นผิว"
+            "title": "[วิเคราะห์ SMM] ตลาดสแตนเลสโลกเผชิญสถานการณ์ที่ซับซ้อนในเดือนกุมภาพันธ์ พร้อมมุมมองระยะยาว",
+            "summary": "ตลาดสแตนเลสทั่วโลกกำลังเผชิญกับสถานการณ์ที่ซับซ้อน ทั้งจากความผันผวนของอุปทานและความต้องการในแต่ละภูมิภาคที่เปลี่ยนแปลงไป",
+            "why": "กระบวนการผลิตสแตนเลสจำเป็นต้องใช้ผลิตภัณฑ์ขัดและขัดเงาเฉพาะทางเพื่อให้ได้มาตรฐานผิวงานที่เข้มงวด",
+            "action": "ติดตามแนวโน้มการผลิตสแตนเลสเพื่อคาดการณ์ความต้องการใบเจียรงานหนักและสายพานขัดละอองละเอียด"
           }
         },
         {
           "id": "20261015-w3",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "Market.us",
-          "date": "2026-01-22",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ISWl4S1FIYTlibDJlR001VnBXdy1xQ1ZobnhYTzBkc3pWOEdrOFQ4VWl2VzA5NjNDcGp3VEU3ZGQ2R0VFdXQwRmZxVEVpOTE4dVl4RlF4WlBHX3pXQ3QtTkJQWQ?oc=5",
-          "title": "Wood Sanding Machine Market Size, Share | CAGR of 4.3%",
-          "summary": "The global wood sanding machine market is projected to grow at a steady CAGR of 4.3%, reflecting continued demand in furniture and flooring production.",
-          "why": "Wood sanding machinery growth directly correlates with the consumption of wide belt abrasives and sanding discs used in woodworking.",
-          "action": "Align our wood-industry abrasive product offerings with regions experiencing growth in automated woodworking machinery.",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "MarketsandMarkets",
+          "date": "2025-12-03",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVXVYZWVHaDBhMjdYc1BFRjVnV01BWUJZZnBNd1FESWpfanVMUVFaZkxUNGYzT0VVX3ZvT0dGSVpMTmRNRVBpRjNQZ3QyWU5jM0MxQmhLZVQ1cTJsbF9LNGV2aGZpaVdZb0NrWndDWFZJZ0g4V2dTY1NkNU5Hd3NhZmx0dmNtYktWWHM5LXlfYVlxRnlNQVgyag?oc=5",
+          "title": "Stainless Steel Powder Market Report 2025-2030",
+          "summary": "A market report highlighting growth trajectories in the stainless steel powder sector, driven by advanced manufacturing and additive tech.",
+          "why": "Powder metallurgy and additive manufacturing parts often require post-processing, deburring, and surface finishing using precision abrasives.",
+          "action": "Note the growth of advanced metal powders as a niche segment requiring specialized finishing solutions.",
           "th": {
-            "title": "ขนาดและส่วนแบ่งตลาดเครื่องขัดไม้ เติบโตด้วย CAGR 4.3%",
-            "summary": "ตลาดเครื่องขัดไม้ทั่วโลกคาดว่าจะเติบโตด้วยอัตรา CAGR ที่ 4.3% สะท้อนถึงความต้องการอย่างต่อเนื่องในการผลิตเฟอร์นิเจอร์และพื้นไม้",
-            "why": "การเติบโตของเครื่องจักรขัดไม้นั้นสัมพันธ์โดยตรงกับการบริโภคกระดาษทรายสายพานกว้างและแผ่นขัดที่ใช้ในงานไม้",
-            "action": "ปรับกลุ่มผลิตภัณฑ์กระดาษทรายสำหรับอุตสาหกรรมไม้ให้สอดคล้องกับภูมิภาคที่มีการเติบโตของเครื่องจักรแปรรูปไม้อัตโนมัติ"
+            "title": "รายงานตลาดผงสแตนเลส ปี 2025-2030",
+            "summary": "รายงานตลาดที่เน้นย้ำถึงการเติบโตในกลุ่มผงสแตนเลส ขับเคลื่อนโดยเทคโนโลยีการผลิตขั้นสูงและการพิมพ์สามมิติ",
+            "why": "ชิ้นส่วนจากโลหะผงและการผลิตแบบเพิ่มเนื้อวัสดุมักต้องผ่านกระบวนการตกแต่งผิว การลบคม และการขัดเงาโดยใช้อุปกรณ์ขัดที่มีความแม่นยำ",
+            "action": "สังเกตการเติบโตของผงโลหะขั้นสูงในฐานะกลุ่มตลาดเฉพาะทางที่ต้องการโซลูชันการขัดผิวแบบพิเศษ"
           }
         }
       ]
