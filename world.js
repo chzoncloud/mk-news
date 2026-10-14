@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-14",
-      "summary": "Today's briefing features 3 key global signals covering long-term abrasives market forecasts and automotive manufacturing equipment trends in Asia-Pacific.",
-      "directCount": 2,
+      "summary": "Today's global trend briefing highlights a surge in advanced automotive OEM coatings, European automotive coating market expansions, and evolving stainless steel and global manufacturing landscapes. These signals point to continuous surface preparation demands in precision manufacturing.",
+      "directCount": 3,
       "th": {
-        "summary": "สรุปทิศทางโลกประจำวันนี้ 3 ประเด็นสำคัญ ครอบคลุมการคาดการณ์ตลาดวัสดุขัดถัดและแนวโน้มเครื่องจักรการผลิตยานยนต์ในภูมิภาคเอเชียแปซิฟิก"
+        "summary": "สรุปเทรนด์โลกประจำวันนี้เน้นย้ำการเติบโตของตลาดเคลือบสีรถยนต์ OEM ในยุโรป ตลอดจนทิศทางตลาดสแตนเลสและภาคการผลิตระดับโลก ซึ่งสะท้อนถึงความต้องการงานเตรียมพื้นผิวในภาคการผลิตขั้นสูงอย่างต่อเนื่อง"
       },
       "items": [
         {
           "id": "20261014-w1",
-          "tag": "abrasive",
+          "tag": "auto",
           "rating": "green",
-          "source": "Grand View Research",
-          "date": "2016-03-06",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdy1BQXJXWXIwQ2F5Sm1XU3lLejVVQkZVSWVvZElIVkFZWEZ4NlN1TThqZGhZdUZrdGk5X2oxUFNRaUROUHFlVXE2S2hJMXBDN0ticXNnVWdURDJUWXAxUkFGdGhvbWdDVHA5WmVKc3JiVHJDWkxFTTFzeENhcmU2Qg?oc=5",
-          "title": "Coated Abrasives Market Size & Share Report, 2026-2033",
-          "summary": "A comprehensive outlook on the coated abrasives market up to 2033, highlighting steady demand in global manufacturing and surface preparation.",
-          "why": "Directly tracks our core product category (coated abrasives/sandpaper) and long-term industry growth expectations.",
-          "action": "Use long-term market growth projections to plan inventory capacity and supplier contracts for coated goods.",
+          "source": "Fortune Business Insights",
+          "date": "2026-09-21",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
+          "title": "Automotive OEM Coatings Market Size, Share | Growth [2034]",
+          "summary": "The automotive OEM coatings market is projected for steady long-term growth through 2034, driven by stringent quality standards and vehicle customization.",
+          "why": "More automotive OEM coatings mean higher demand for fine sanding, surface smoothing, and paint preparation abrasives in vehicle manufacturing plants.",
+          "action": "Monitor high-performance finishing abrasives used in automotive paint prep lines.",
           "th": {
-            "title": "รายงานขนาดและส่วนแบ่งตลาดกระดาษทรายและวัสดุขัดเคลือบผิว ปี 2026-2033",
-            "summary": "มุมมองภาพรวมตลาดกระดาษทรายและวัสดุขัดเคลือบผิวถึงปี 2033 สะท้อนความต้องการที่ต่อเนื่องในภาคการผลิตและการเตรียมพื้นผิวทั่วโลก",
-            "why": "เกี่ยวข้องโดยตรงกับกลุ่มสินค้าหลักของเรา (กระดาษทรายและวัสดุขัดเคลือบ) และคาดการณ์การเติบโตระยะยาวในอุตสาหกรรม",
-            "action": "ใช้ข้อมูลคาดการณ์การเติบโตระยะยาวเพื่อวางแผนสต็อกสินค้าและเจรจากับซัพพลายเออร์สำหรับสินค้ากลุ่มเคลือบผิว"
+            "title": "ขนาด ส่วนแบ่ง และการเติบโตของตลาดเคลือบสีรถยนต์ OEM ถึงปี 2034",
+            "summary": "ตลาดเคลือบสีรถยนต์ OEM มีแนวโน้มเติบโตอย่างต่อเนื่องจนถึงปี 2034 ขับเคลื่อนด้วยมาตรฐานคุณภาพที่เข้มงวดและการปรับแต่งยานยนต์",
+            "why": "การเคลือบสีรถยนต์ OEM ที่เพิ่มขึ้นหมายถึงความต้องการกระดาษทรายขัดแต่งผิวและเตรียมพื้นผิวก่อนพ่นสีในโรงงานผลิตรถยนต์ที่สูงขึ้น",
+            "action": "ติดตามกลุ่มสินค้ากระดาษทรายและวัสดุขัดผิวละเอียดสำหรับใช้ในไลน์เตรียมพื้นผิวก่อนพ่นสีรถยนต์"
           }
         },
         {
           "id": "20261014-w2",
-          "tag": "auto",
+          "tag": "coating",
           "rating": "amber",
-          "source": "MarketsandMarkets",
-          "date": "2026-08-19",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMjRUVFZhcTJITnZ4NUV2UnRycFNKX21Ed0M5MmRXdzNwQzhXSjN6bHgteDMwTEZnRE5jVWxfWmI1eGtsWDcwLW1vNVNUejNWYlZZZWhabk1NRDFXb09HczBORXNmTGpDY2dkUV9GWUtReFZibmhrQU5BTnFNRlBDNjhkQ3BFcUlieGZkRlZkWnkyQU0ybjMteWNremZhZDJwcGF4a2lPeTBFalR2OXVVOWFJNA?oc=5",
-          "title": "asia-pacific Automotive Manufacturing Equipment Market Size, Share, Trends, Growth Analysis Report, 2030",
-          "summary": "Analysis of the Asia-Pacific automotive manufacturing equipment market through 2030, highlighting equipment upgrades and factory investments.",
-          "why": "Automotive factories are major buyers of grinding and deburring tools; equipment upgrades drive new surface finishing requirements.",
-          "action": "Monitor factory automation trends in APAC to align our metal deburring and finishing solutions with new equipment standards.",
+          "source": "Market Data Forecast",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY2xqOWN4RUVuWm55eld6MklJOFZzejBqRmxIN1R4OXZYT1VFYkRzSVNGVVJ3UXNNWEpBWnA3SC1mTnRjM0h1ZXZoY25WTWxER1c3MlJudzAzQm00XzRJTHlhd29WMFlsV08yWHR1MUpVcHNFeC15NFAxSXhybktoYUlSTnBvWG1DbHN3?oc=5",
+          "title": "Europe Automotive Coatings Market Size, Share & Growth 2034",
+          "summary": "The European automotive coatings sector is evolving with a focus on advanced performance formulations and environmental sustainability.",
+          "why": "Stricter coating technologies in Europe often set global standards for surface preparation, substrate bonding, and mechanical sanding processes.",
+          "action": "Keep an eye on European finishing techniques that require specialized non-woven or micro-abrasives.",
           "th": {
-            "title": "รายงานขนาด ส่วนแบ่ง แนวโน้ม และวิเคราะห์การเติบโตตลาดอุปกรณ์การผลิตยานยนต์ในเอเชียแปซิฟิก ปี 2030",
-            "summary": "วิเคราะห์ตลาดอุปกรณ์การผลิตยานยนต์ในภูมิภาคเอเชียแปซิฟิกถึงปี 2030 เน้นการอัปเกรดเครื่องจักรและการลงทุนในโรงงาน",
-            "why": "โรงงานยานยนต์คือลูกค้ารายใหญ่ของAbrasives การอัปเกรดเครื่องจักรจะสร้างความต้องการใหม่ๆ ด้านการขัดแต่งผิว",
-            "action": "ติดตามแนวโน้มระบบอัตโนมัติในโรงงานฝั่งเอเชีย เพื่อเตรียมโซลูชันงานขัดโลหะให้สอดคล้องกับมาตรฐานเครื่องจักรใหม่"
+            "title": "ขนาด ส่วนแบ่ง และการเติบโตของตลาดเคลือบสีรถยนต์ในยุโรปถึงปี 2034",
+            "summary": "ภาคอุตสาหกรรมเคลือบสีรถยนต์ในยุโรปกำลังพัฒนาโดยเน้นสูตรที่มีประสิทธิภาพสูงและความยั่งยืนด้านสิ่งแวดล้อม",
+            "why": "เทคโนโลยีการเคลือบที่เข้มงวดในยุโรปมักกำหนดมาตรฐานโลกสำหรับการเตรียมพื้นผิว การยึดเกาะ และกระบวนการขัดด้วยเครื่องจักร",
+            "action": "จับตาเทคนิคการขัดผิวของยุโรปที่ต้องใช้วัสดุขัดประเภท Non-woven หรือกระดาษทรายเบอร์ละเอียดพิเศษ"
           }
         },
         {
           "id": "20261014-w3",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "openPR.com",
-          "date": "2026-10-08",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR1l0eDZGcTMzc2oyRF9Wc2NxT3VrT2stalZFaDE5dE84bUpfbnVJbmh6VGpQMlBoTXNQcVowcmN0cWY5TzVBQlVReHo1MVhPeURickl6REljcnlKTjJOZ0ZlblZkOTZNSTJXS3ZySW1QeUtwTzRzQTc3Z1JCOW8xMzlubnVEVHA2eTIxYzU4bFE5WTdTOHg0?oc=5",
-          "title": "Abrasives Market to Reach US$74.9 Billion by 2033 Driven by Strong Construction Growth",
-          "summary": "Global abrasives market projected to hit US$74.9 billion by 2033, heavily supported by expansion in construction and industrial sectors.",
-          "why": "Confirms robust global demand for grinding and finishing products, validating our core B2B business focus.",
-          "action": "Identify high-growth segments within construction and metal fabrication to target with specialized abrasive supplies.",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "Shanghai Metals Market",
+          "date": "2026-03-02",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQ2xHd0lUb2NjUDd1RnlTdGpDOV96UzRtZzZCdGlCTmdFaWNxSUJjdUFzVmxOLXVZYkh2VnFsSzRZb1lhdDJCMnJYWUFvUFByYkRSRkZSTE9wUkIxVGVvbWxRYkFHQjBTb2g2VmdRbXV3QW03STFFc2ZzRlVGSTQwVnZIdzdPVm9uRjlmN1hvVWlyYlpjd1o0c092di1YLUJtaDVucldZNS12VE5hTWVKa2VuNEE2bXA0WW9nTV94Yzg1Qk5CWkoyQ3lGVHI5OThkc3JrUU5CZGZieTY0eVpwZnQzbW1ENmlBZlNj?oc=5",
+          "title": "[SMM Analysis] Global Stainless Steel Market Navigates Complex Landscape in February, What's the Long-Term Outlook?",
+          "summary": "Global stainless steel markets are adapting to changing supply chains, pricing volatility, and regional manufacturing adjustments.",
+          "why": "Stainless steel fabrication is a primary consumer of grinding wheels, deburring discs, and polishing belts in metalworking industries.",
+          "action": "Ensure stable stock and technical support for stainless steel grinding and deburring products.",
           "th": {
-            "title": "ตลาดวัสดุขัดถูคาดแตะ 74,900 ล้านดอลลาร์สหรัฐภายในปี 2033 หนุนโดยการเติบโตของภาคการก่อสร้าง",
-            "summary": "ตลาดวัสดุขัดถูทั่วโลกถูกคาดการณ์ว่าจะเติบโตถึง 74,900 ล้านดอลลาร์ภายในปี 2033 โดยได้แรงหนุนจากการขยายตัวของภาคการก่อสร้างและอุตสาหกรรม",
-            "why": "ยืนยันถึงความต้องการที่แข็งแกร่งระดับโลกสำหรับผลิตภัณฑ์ขัดและแต่งผิว ซึ่งสอดคล้องกับทิศทางธุรกิจ B2B ของเรา",
-            "action": "เจาะหาเซกเมนต์ที่มีการเติบโตสูงในกลุ่มงานก่อสร้างและประกอบโลหะ เพื่อนำเสนอสินค้าวัสดุขัดถูที่ตรงกลุ่มเป้าหมาย"
+            "title": "วิเคราะห์ตลาดสแตนเลสโลกท่ามกลางภูมิทัศน์ที่ซับซ้อนและแนวโน้มระยะยาว",
+            "summary": "ตลาดสแตนเลสทั่วโลกกำลังปรับตัวต่อความเปลี่ยนแปลงของห่วงโซ่อุปทาน ความผันผวนของราคา และการปรับปรุงการผลิตระดับภูมิภาค",
+            "why": "งานแปรรูปสแตนเลสคือผู้ใช้งานหลักของใบเจียร แผ่นขัดลบคม และสายพานขัดในอุตสาหกรรมโลหะ",
+            "action": "รักษาระดับสต็อกและการสนับสนุนทางเทคนิคสำหรับผลิตภัณฑ์กลุ่มงานเจียรและลบคมสแตนเลสให้พร้อมเสมอ"
           }
         }
       ]
