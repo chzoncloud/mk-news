@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-10-14",
+  "updated": "2026-10-15",
   "days": [
+    {
+      "date": "2026-10-15",
+      "summary": "Today's briefing focuses on global manufacturing shifts, including automotive OEM coatings and regional market growth reports, signaling evolving surface treatment demands.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปข้อมูลแนวโน้มโลกวันนี้เน้นการเปลี่ยนแปลงในภาคการผลิตระดับโลก รวมถึงรายงานตลาดสารเคลือบยานยนต์ OEM และการเติบโตของตลาดภูมิภาค ซึ่งบ่งชี้ถึงความต้องการการปรับปรุงพื้นผิวที่เปลี่ยนไป"
+      },
+      "items": [
+        {
+          "id": "20261015-w1",
+          "tag": "auto",
+          "rating": "green",
+          "source": "Fortune Business Insights",
+          "date": "2026-09-28",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
+          "title": "Automotive OEM Coatings Market Size, Share | Growth [2034]",
+          "summary": "The automotive OEM coatings market is expanding steadily towards 2034, driven by advanced manufacturing requirements and new vehicle finishes.",
+          "why": "OEM coating trends directly impact the surface preparation and sanding steps required before and after painting vehicles.",
+          "action": "Monitor changes in automotive paint tech to anticipate shifting demands for fine-grit abrasives and polishing pads.",
+          "th": {
+            "title": "ขนาด ส่วนแบ่ง และการเติบโตของตลาดสารเคลือบยานยนต์ OEM ถึงปี 2034",
+            "summary": "ตลาดสารเคลือบยานยนต์ OEM กำลังเติบโตอย่างต่อเนื่องจนถึงปี 2034 ขับเคลื่อนโดยข้อกำหนดการผลิตขั้นสูงและการเคลือบผิวรถยนต์แบบใหม่",
+            "why": "แนวโน้มสารเคลือบ OEM ส่งผลโดยตรงต่อขั้นตอนการเตรียมพื้นผิวและการขัดกระดาษทรายที่จำเป็นก่อนและหลังการพ่นสีรถยนต์",
+            "action": "ติดตามการเปลี่ยนแปลงของเทคโนโลยีสีรถยนต์เพื่อคาดการณ์ความต้องการกระดาษทรายเบอร์ละเอียดและผ้าขัดที่เปลี่ยนไป"
+          }
+        },
+        {
+          "id": "20261015-w2",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "MarketsandMarkets",
+          "date": "2026-05-07",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSllZOTN0cVc5V3doWTkxVGNZZERHWWtYN2MtVVZMRTF5aEM1SFdrYThXNFN4TTUtQ3RDR2dCNzV5TG9TWHZCcjUxZ0E3S0RZb1F6bndWaTFHdTc1em52VHk5UW1YSy01SFNGakRELVJ5bmRfSEM5Y3pLTU9Ia0Jka1E0cDNvWExPMXY5VXdfckhjRllSQ2dQUUQyNHJFNEsxZGc?oc=5",
+          "title": "Europe Architectural Coating Market Report 2026-2031",
+          "summary": "A comprehensive 250-page report outlines the European architectural coating market trends and growth forecasts through 2031.",
+          "why": "Architectural coatings drive demand for surface prep, wall sanding, and wood finishing tools in the construction sector.",
+          "action": "Keep an eye on European coating standards as they often influence global specifications for surface preparation equipment.",
+          "th": {
+            "title": "รายงานตลาดสารเคลือบสถาปัตยกรรมยุโรป ปี 2026-2031",
+            "summary": "รายงานฉบับสมบูรณ์กว่า 250 หน้าสรุปแนวโน้มตลาดสารเคลือบสถาปัตยกรรมของยุโรปและการคาดการณ์การเติบโตจนถึงปี 2031",
+            "why": "สารเคลือบสำหรับงานสถาปัตยกรรมสร้างความต้องการในด้านการเตรียมพื้นผิว การขัดผนัง และเครื่องมือตกแต่งพื้นผิวไม้ในภาคการก่อสร้าง",
+            "action": "จับตาดูมาตรฐานสารเคลือบของยุโรปเนื่องจากมักมีอิทธิพลต่อข้อกำหนดระดับโลกสำหรับอุปกรณ์เตรียมพื้นผิว"
+          }
+        },
+        {
+          "id": "20261015-w3",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "Market.us",
+          "date": "2026-01-22",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ISWl4S1FIYTlibDJlR001VnBXdy1xQ1ZobnhYTzBkc3pWOEdrOFQ4VWl2VzA5NjNDcGp3VEU3ZGQ2R0VFdXQwRmZxVEVpOTE4dVl4RlF4WlBHX3pXQ3QtTkJQWQ?oc=5",
+          "title": "Wood Sanding Machine Market Size, Share | CAGR of 4.3%",
+          "summary": "The global wood sanding machine market is projected to grow at a steady CAGR of 4.3%, reflecting continued demand in furniture and flooring production.",
+          "why": "Wood sanding machinery growth directly correlates with the consumption of wide belt abrasives and sanding discs used in woodworking.",
+          "action": "Align our wood-industry abrasive product offerings with regions experiencing growth in automated woodworking machinery.",
+          "th": {
+            "title": "ขนาดและส่วนแบ่งตลาดเครื่องขัดไม้ เติบโตด้วย CAGR 4.3%",
+            "summary": "ตลาดเครื่องขัดไม้ทั่วโลกคาดว่าจะเติบโตด้วยอัตรา CAGR ที่ 4.3% สะท้อนถึงความต้องการอย่างต่อเนื่องในการผลิตเฟอร์นิเจอร์และพื้นไม้",
+            "why": "การเติบโตของเครื่องจักรขัดไม้นั้นสัมพันธ์โดยตรงกับการบริโภคกระดาษทรายสายพานกว้างและแผ่นขัดที่ใช้ในงานไม้",
+            "action": "ปรับกลุ่มผลิตภัณฑ์กระดาษทรายสำหรับอุตสาหกรรมไม้ให้สอดคล้องกับภูมิภาคที่มีการเติบโตของเครื่องจักรแปรรูปไม้อัตโนมัติ"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-10-14",
       "summary": "Today's briefing focuses on global manufacturing shifts, including EV battery integration, automation in smart factories, and sustainability-driven high-performance coatings that impact surface preparation and metal demand.",
@@ -902,70 +966,6 @@ window.WORLD_ARCHIVE = {
             "summary": "ตลาดสีและสารเคลือบโลกกำลังขยายตัวอย่างรวดเร็วถึงปี 2035 ขับเคลื่อนโดยงานสถาปัตยกรรมและการเคลือบป้องกันพื้นผิวอุตสาหกรรม",
             "why": "งานเตรียมพื้นผิวและการขัดกระดาษทรายเป็นขั้นตอนจำเป็นก่อนการลงสีหรือสารเคลือบอุตสาหกรรมที่มีประสิทธิภาพสูงทุกประเภท",
             "action": "ติดตามการเปลี่ยนแปลงของเทคโนโลยีสารเคลือบเพื่อปรับความละเอียดกระดาษทรายให้สอดคล้องกับความต้องการในการยึดเกาะของสีรองพื้น"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-10-01",
-      "summary": "Today's briefing focuses on niche industrial coatings, electric vehicle supply chains, and evolving steel production landscapes. With several major topics excluded due to recent coverage, we highlight 3 distinct global signals.",
-      "directCount": 1,
-      "th": {
-        "summary": "สรุปข่าวประจำวันนี้เน้นไปที่ตลาดสารเคลือบอุตสาหกรรมเฉพาะทาง ห่วงโซ่อุปทานรถยนต์ไฟฟ้า และทิศทางการผลิตเหล็กระดับโลก โดยคัดกรองหัวข้อที่ซ้ำออก เหลือสัญญาณสำคัญที่น่าสนใจ 3 ประเด็น"
-      },
-      "items": [
-        {
-          "id": "20261001-w1",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "Market Research Future",
-          "date": "2026-08-24",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE40VENBdkR6MDRta2Z3Wl9sb2JhakcwVzJKb1pGQmU3RGpvWGJsVWNFNTBiVzVUMnlCNnNhRXVtZWduczV1WmFON2tkakpQRmZDajM2Ty1kX0tUWW53X3NWOVppb3dNbS16TUlPWFBQMG9za28zcm9WT2NNWQ?oc=5",
-          "title": "Epoxy Coatings Market Size, Share & Growth Report 2035 | MRFR",
-          "summary": "The epoxy coatings market is projected for steady long-term growth through 2035, driven by heavy-duty industrial and corrosion protection needs.",
-          "why": "Epoxy-coated surfaces often require specialized surface preparation, sanding, and profiling before and between coats, impacting industrial abrasive demand.",
-          "action": "Monitor growth in protective epoxy applications to identify potential segments for heavy-duty prep abrasives.",
-          "th": {
-            "title": "รายงานขนาด ส่วนแบ่ง และการเติบโตของตลาดสีเคลือบอีพ็อกซี่ถึงปี 2035",
-            "summary": "ตลาดสีเคลือบอีพ็อกซี่คาดว่าจะเติบโตอย่างต่อเนื่องจนถึงปี 2035 ขับเคลื่อนด้วยความต้องการด้านการป้องกันการกัดกร่อนในงานอุตสาหกรรมหนัก",
-            "why": "พื้นผิวที่เคลือบอีพ็อกซื้อมักต้องผ่านการเตรียมพื้นผิว การขัด และการปรับแต่งโปรไฟล์ก่อนและระหว่างการพ่นสี ซึ่งส่งผลโดยตรงต่อความต้องการกระดาษทรายและวัสดุขัดสำหรับงานอุตสาหกรรม",
-            "action": "ติดตามการเติบโตของการใช้งานอีพ็อกซี่เพื่อหาโอกาสในกลุ่มผลิตภัณฑ์วัสดุขัดสำหรับงานเตรียมพื้นผิวหนัก"
-          }
-        },
-        {
-          "id": "20261001-w2",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-09-10",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVjkzSTlDYzItRzJSVXhQSjc1a0ttQ0dIRVYxRDgxaHFiQ0x3c1ZsLTdZQ0RRSk04bmhjdHQ4ZGJrV0lLVk45XzQ5ZzQwN1VwMDNERWNWVEpJNTRVYzZqTFFmcEIyUUZRNG9LOHp6ODIxYm80eEZrcTBOdENvenJqdktfcm5neXlITEZSRXNQclF2ZUpGUXVLTmY3SmhCRUlHdldDVC11QjRnZ3UtYzRlbzAwYS1yaW5oZV8zWmRMY2k?oc=5",
-          "title": "Smart-factory wiring woes: EVs demand automation now, not later",
-          "summary": "EV manufacturers are rapidly accelerating factory automation to resolve complex wiring and assembly challenges.",
-          "why": "Automated EV assembly lines increasingly rely on robotic deburring, surface conditioning, and automated finishing tools rather than manual labor.",
-          "action": "Keep an eye on automated robotic sanding and deburring trends demanded by modern EV smart factories.",
-          "th": {
-            "title": "ปัญหาการเดินสายไฟในโรงงานอัจฉริยะ: รถยนต์ไฟฟ้าต้องการระบบอัตโนมัติเดี๋ยวนี้ ไม่ใช่รอวันหน้า",
-            "summary": "ผู้ผลิตรถยนต์ไฟฟ้ากำลังเร่งนำระบบอัตโนมัติมาใช้ในโรงงานอย่างรวดเร็ว เพื่อแก้ปัญหาความซับซ้อนในการเดินสายไฟและการประกอบ",
-            "why": "สายการผลิตรถยนต์ไฟฟ้าแบบอัตโนมัติหันมาใช้ระบบลบคม ขัดผิว และตกแต่งพื้นผิวด้วยหุ่นยนต์มากขึ้น แทนการใช้แรงงานคน",
-            "action": "ติดตามแนวโน้มการขัดและลบคมด้วยหุ่นยนต์อัตโนมัติที่โรงงานอัจฉริยะกลุ่ม EV ต้องการ"
-          }
-        },
-        {
-          "id": "20261001-w3",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "Fact.MR",
-          "date": "2026-04-13",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QdlVWYkhUUHFMQ042anhjZWhnN25NSnZfX2F3QU1IVnpHdHVIeWpSS2R0RnVCQjBHVVgwQjhTR21WeThVSF9Td2p5LUxpN3dKekd0UXJpdHMxWENF?oc=5",
-          "title": "Steel Scrap Market, Global Market Analysis Report - 2036",
-          "summary": "The global steel scrap market continues to evolve through 2036, influenced by recycling mandates and electric arc furnace (EAF) steelmaking trends.",
-          "why": "EAF steel mills and recycling operations generate rough, uneven metal edges that require extensive grinding, cutting discs, and heavy-duty deburring.",
-          "action": "Note that rising steel scrap processing and EAF adoption sustain steady demand for heavy grinding wheels and cutting discs.",
-          "th": {
-            "title": "รายงานวิเคราะห์ตลาดเศษเหล็กโลก ถึงปี 2036",
-            "summary": "ตลาดเศษเหล็กทั่วโลกยังคงพัฒนาอย่างต่อเนื่องจนถึงปี 2036 โดยได้รับอิทธิพลจากข้อกำหนดการรีไซเคิลและแนวโน้มการผลิตเหล็กด้วยเตาอาร์กไฟฟ้า (EAF)",
-            "why": "โรงงานเหล็ก EAF และกระบวนการรีไซเคิลมักสร้างขอบโลหะที่ขรุขระ ซึ่งต้องใช้หินเจียร แผ่นตัด และงานลบคมอย่างหนักหน่วง",
-            "action": "สังเกตว่าการเติบโตของการแปรรูปเศษเหล็กและโรงงาน EAF ช่วยรักษาระดับความต้องการใช้งานหินเจียรและแผ่นตัดอุตสาหกรรมให้คงที่"
           }
         }
       ]
