@@ -4,64 +4,100 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-14",
-      "summary": "Today's global trend briefing highlights a surge in advanced automotive OEM coatings, European automotive coating market expansions, and evolving stainless steel and global manufacturing landscapes. These signals point to continuous surface preparation demands in precision manufacturing.",
+      "summary": "Today's briefing focuses on global manufacturing shifts, including EV battery integration, automation in smart factories, and sustainability-driven high-performance coatings that impact surface preparation and metal demand.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปเทรนด์โลกประจำวันนี้เน้นย้ำการเติบโตของตลาดเคลือบสีรถยนต์ OEM ในยุโรป ตลอดจนทิศทางตลาดสแตนเลสและภาคการผลิตระดับโลก ซึ่งสะท้อนถึงความต้องการงานเตรียมพื้นผิวในภาคการผลิตขั้นสูงอย่างต่อเนื่อง"
+        "summary": "สรุปข้อมูลแนวโน้มโลกวันนี้เน้นการเปลี่ยนแปลงในการผลิตระดับโลก เช่น การประกอบแบตเตอรี่ EV, ระบบอัตโนมัติในสมาร์ทแฟคตอรี่ และสารเคลือบประสิทธิภาพสูงที่ขับเคลื่อนด้วยความยั่งยืน ซึ่งส่งผลต่อกระบวนการเตรียมผิวและความต้องการโลหะ"
       },
       "items": [
         {
           "id": "20261014-w1",
           "tag": "auto",
           "rating": "green",
-          "source": "Fortune Business Insights",
-          "date": "2026-09-21",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
-          "title": "Automotive OEM Coatings Market Size, Share | Growth [2034]",
-          "summary": "The automotive OEM coatings market is projected for steady long-term growth through 2034, driven by stringent quality standards and vehicle customization.",
-          "why": "More automotive OEM coatings mean higher demand for fine sanding, surface smoothing, and paint preparation abrasives in vehicle manufacturing plants.",
-          "action": "Monitor high-performance finishing abrasives used in automotive paint prep lines.",
+          "source": "IEA - International Energy Agency",
+          "date": "2026-05-20",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUmhMdjBTMHNNQVA3WnI0QWx2dnlrZDVLUklVdE1XNmsxeEVPZ2tUN0pVUkstbzBOYXZsbFVjcVhpWk8wUXlvRGhUcVR4alN2TmQyQ1Y0SnVhMUVoeEtna2V2R0ZSdGVoR2hTQVZBaFdqdG5INHdoVzUzNW93TkxfNVUxVQ",
+          "title": "Electric vehicle batteries - Global EV Outlook 2026",
+          "summary": "The IEA report highlights ongoing scaling and production trends in electric vehicle batteries, driving new precision manufacturing requirements.",
+          "why": "Battery casing production and EV structural components require specialized deburring, grinding, and surface finishing solutions.",
+          "action": "Monitor EV battery housing manufacturing methods for emerging abrasive requirements.",
           "th": {
-            "title": "ขนาด ส่วนแบ่ง และการเติบโตของตลาดเคลือบสีรถยนต์ OEM ถึงปี 2034",
-            "summary": "ตลาดเคลือบสีรถยนต์ OEM มีแนวโน้มเติบโตอย่างต่อเนื่องจนถึงปี 2034 ขับเคลื่อนด้วยมาตรฐานคุณภาพที่เข้มงวดและการปรับแต่งยานยนต์",
-            "why": "การเคลือบสีรถยนต์ OEM ที่เพิ่มขึ้นหมายถึงความต้องการกระดาษทรายขัดแต่งผิวและเตรียมพื้นผิวก่อนพ่นสีในโรงงานผลิตรถยนต์ที่สูงขึ้น",
-            "action": "ติดตามกลุ่มสินค้ากระดาษทรายและวัสดุขัดผิวละเอียดสำหรับใช้ในไลน์เตรียมพื้นผิวก่อนพ่นสีรถยนต์"
+            "title": "แบตเตอรี่รถยนต์ไฟฟ้า - มุมมองยานยนต์ไฟฟ้าโลกปี 2026",
+            "summary": "รายงานของ IEA เน้นย้ำถึงแนวโน้มการปรับขนาดและการผลิตแบตเตอรี่รถยนต์ไฟฟ้า ซึ่งขับเคลื่อนความต้องการใหม่ๆ ด้านการผลิตที่มีความแม่นยำสูง",
+            "why": "การผลิตตัวเรือนแบตเตอรี่และชิ้นส่วนโครงสร้าง EV จำเป็นต้องมีโซลูชันการลบคม การเจียร และการตกแต่งพื้นผิวที่จำเพาะเจาะจง",
+            "action": "ติดตามวิธีการผลิตตัวเรือนแบตเตอรี่ EV เพื่อมองหาความต้องการผลิตภัณฑ์กระดาษทรายและหินเจียรใหม่ๆ"
           }
         },
         {
           "id": "20261014-w2",
-          "tag": "coating",
+          "tag": "auto",
           "rating": "amber",
-          "source": "Market Data Forecast",
-          "date": "2026-09-09",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY2xqOWN4RUVuWm55eld6MklJOFZzejBqRmxIN1R4OXZYT1VFYkRzSVNGVVJ3UXNNWEpBWnA3SC1mTnRjM0h1ZXZoY25WTWxER1c3MlJudzAzQm00XzRJTHlhd29WMFlsV08yWHR1MUpVcHNFeC15NFAxSXhybktoYUlSTnBvWG1DbHN3?oc=5",
-          "title": "Europe Automotive Coatings Market Size, Share & Growth 2034",
-          "summary": "The European automotive coatings sector is evolving with a focus on advanced performance formulations and environmental sustainability.",
-          "why": "Stricter coating technologies in Europe often set global standards for surface preparation, substrate bonding, and mechanical sanding processes.",
-          "action": "Keep an eye on European finishing techniques that require specialized non-woven or micro-abrasives.",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-09-10",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVjkzSTlDYzItRzJSVXhQSjc1a0ttQ0dIRVYxRDgxaHFiQ0x3c1ZsLTdZQ0RRSk04bmhjdHQ4ZGJrV0lLVk45XzQ5ZzQwN1VwMDNERWNWVEpJNTRVYzZqTFFmcEIyUUZRNG9LOHp6ODIxYm80eEZrcTBOdENvenJqdktfcm5neXlITEZSRXNQclF2ZUpGUXVLTmY3SmhCRUlHdldDVC11QjRnZ3UtYzRlbzAwYS1yaW5oZV8zWmRMY2k",
+          "title": "Smart-factory wiring woes: EVs demand automation now, not later",
+          "summary": "Automotive manufacturers are accelerating factory automation to resolve complex EV production bottlenecks.",
+          "why": "Higher adoption of factory automation directly increases demand for robotic sanding and automated surface finishing integration.",
+          "action": "Prepare to support industrial customers looking to integrate robotic and automated abrasive tools.",
           "th": {
-            "title": "ขนาด ส่วนแบ่ง และการเติบโตของตลาดเคลือบสีรถยนต์ในยุโรปถึงปี 2034",
-            "summary": "ภาคอุตสาหกรรมเคลือบสีรถยนต์ในยุโรปกำลังพัฒนาโดยเน้นสูตรที่มีประสิทธิภาพสูงและความยั่งยืนด้านสิ่งแวดล้อม",
-            "why": "เทคโนโลยีการเคลือบที่เข้มงวดในยุโรปมักกำหนดมาตรฐานโลกสำหรับการเตรียมพื้นผิว การยึดเกาะ และกระบวนการขัดด้วยเครื่องจักร",
-            "action": "จับตาเทคนิคการขัดผิวของยุโรปที่ต้องใช้วัสดุขัดประเภท Non-woven หรือกระดาษทรายเบอร์ละเอียดพิเศษ"
+            "title": "ปัญหาการเดินสายไฟในสมาร์ทแฟคตอรี่: รถยนต์ไฟฟ้าต้องการระบบอัตโนมัติเดี๋ยวนี้ ไม่ใช่รอวันหน้า",
+            "summary": "ผู้ผลิตรถยนต์กำลังเร่งนำระบบอัตโนมัติมาใช้ในโรงงานเพื่อแก้ปัญหาคอขวดในการผลิต EV ที่มีความซับซ้อน",
+            "why": "การนำระบบอัตโนมัติในโรงงานมาใช้มากขึ้น จะเพิ่มความต้องการในการขัดด้วยหุ่นยนต์และการผสานระบบตกแต่งพื้นผิวอัตโนมัติโดยตรง",
+            "action": "เตรียมพร้อมสนับสนุนลูกค้าอุตสาหกรรมที่ต้องการผสานรวมเครื่องมือขัดผิวด้วยระบบหุ่นยนต์และระบบอัตโนมัติ"
           }
         },
         {
           "id": "20261014-w3",
+          "tag": "coating",
+          "rating": "green",
+          "source": "PR Newswire UK",
+          "date": "2026-05-08",
+          "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQLWJCTzl4bnlhbUl3c2o5aXByM0Mxc3k0cUtGTHJQak5MYVNSNDk1bk50b29XS3BJbS1ySXFhV3dhWXRuMXB0bVB2Z2Q1WVN6UjRJY0N2LWpsNFRvU2o0aUU2dkx3d2htTVMxYURkLWxINlcydFRqdG1PV1ZaRWxtNndMMkc2T1hNenN2R0tBdlFaUllWV1d1N2huRTE2TlNOM0lxSEhlbkw5ajhSR0YtZWFVb01TZXlJS1VCbXNibWRreEVWQnVOUk5halB6YzBJdnNBZTJrOWxwdHppOG5jZWVETWJ0XzJuOE1mb2JqNEpmXzAxcDF4TGtRRWxaaW9DTzFPYUZCa28wbmp1ZGhtRVZ0X19lZ1ZqSUotLW1GaC0xRHRJNmNLdXVqOXNJdlpHQkF1NklvTXJOOWM",
+          "title": "Coil Coatings Market to Reach USD 9.2 Billion by 2035 as Sustainable, High-Performance Coating Technologies Transform Construction and Industrial Applications",
+          "summary": "The coil coatings market is expanding rapidly, driven by demand for sustainable and high-performance coated metal substrates in construction and industry.",
+          "why": "Pre-coated metal processing requires precise surface preparation, cleaning, and sometimes edge deburring before and after coating applications.",
+          "action": "Keep track of coil coating and metal pretreatment trends to identify niche applications for surface prep abrasives.",
+          "th": {
+            "title": "ตลาดเคลือบผิวคอยล์ (Coil Coatings) มีมูลค่าแตะ 9.2 พันล้านดอลลาร์ภายในปี 2035",
+            "summary": "ตลาดเคลือบผิวคอยล์กำลังขยายตัวอย่างรวดเร็ว ขับเคลื่อนโดยความต้องการวัสดุโลหะเคลือบผิวประสิทธิภาพสูงและยั่งยืนในงานก่อสร้างและอุตสาหกรรม",
+            "why": "กระบวนการแปรรูปโลหะเคลือบผิวล่วงหน้าจำเป็นต้องมีการเตรียมพื้นผิว การทำความสะอาด และบางครั้งการลบคมขอบ ทั้งก่อนและหลังการเคลือบ",
+            "action": "ติดตามแนวโน้มการเคลือบผิวคอยล์และการเตรียมผิวกิโลหะ เพื่อค้นหาโอกาสในการใช้ผลิตภัณฑ์เตรียมผิวและกระดาษทราย"
+          }
+        },
+        {
+          "id": "20261014-w4",
           "tag": "steel",
           "rating": "amber",
-          "source": "Shanghai Metals Market",
-          "date": "2026-03-02",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQ2xHd0lUb2NjUDd1RnlTdGpDOV96UzRtZzZCdGlCTmdFaWNxSUJjdUFzVmxOLXVZYkh2VnFsSzRZb1lhdDJCMnJYWUFvUFByYkRSRkZSTE9wUkIxVGVvbWxRYkFHQjBTb2g2VmdRbXV3QW03STFFc2ZzRlVGSTQwVnZIdzdPVm9uRjlmN1hvVWlyYlpjd1o0c092di1YLUJtaDVucldZNS12VE5hTWVKa2VuNEE2bXA0WW9nTV94Yzg1Qk5CWkoyQ3lGVHI5OThkc3JrUU5CZGZieTY0eVpwZnQzbW1ENmlBZlNj?oc=5",
-          "title": "[SMM Analysis] Global Stainless Steel Market Navigates Complex Landscape in February, What's the Long-Term Outlook?",
-          "summary": "Global stainless steel markets are adapting to changing supply chains, pricing volatility, and regional manufacturing adjustments.",
-          "why": "Stainless steel fabrication is a primary consumer of grinding wheels, deburring discs, and polishing belts in metalworking industries.",
-          "action": "Ensure stable stock and technical support for stainless steel grinding and deburring products.",
+          "source": "S&P Global",
+          "date": "2026-01-12",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw",
+          "title": "Global steel industry battles surplus supply, protectionism",
+          "summary": "Global steel producers face ongoing challenges from oversupply conditions and rising international trade protectionism.",
+          "why": "Fluctuations in steel production volumes directly impact local metal fabrication activity and the baseline demand for industrial grinding products.",
+          "action": "Monitor local steel mill and service center capacity utilization to gauge near-term abrasive consumption.",
           "th": {
-            "title": "วิเคราะห์ตลาดสแตนเลสโลกท่ามกลางภูมิทัศน์ที่ซับซ้อนและแนวโน้มระยะยาว",
-            "summary": "ตลาดสแตนเลสทั่วโลกกำลังปรับตัวต่อความเปลี่ยนแปลงของห่วงโซ่อุปทาน ความผันผวนของราคา และการปรับปรุงการผลิตระดับภูมิภาค",
-            "why": "งานแปรรูปสแตนเลสคือผู้ใช้งานหลักของใบเจียร แผ่นขัดลบคม และสายพานขัดในอุตสาหกรรมโลหะ",
-            "action": "รักษาระดับสต็อกและการสนับสนุนทางเทคนิคสำหรับผลิตภัณฑ์กลุ่มงานเจียรและลบคมสแตนเลสให้พร้อมเสมอ"
+            "title": "อุตสาหกรรมเหล็กโลกต่อสู้กับภาวะอุปทานล้นตลาดและลัทธิกีดกันทางการค้า",
+            "summary": "ผู้ผลิตเหล็กทั่วโลกกำลังเผชิญกับความท้าทายจากภาวะอุปทานล้นตลาดและลัทธิกีดกันทางการค้าระหว่างประเทศที่เพิ่มขึ้น",
+            "why": "ความผันผวนของปริมาณการผลิตเหล็กส่งผลโดยตรงต่อกิจกรรมการแปรรูปโลหะในท้องถิ่นและความต้องการพื้นฐานสำหรับผลิตภัณฑ์หินเจียรและกระดาษทรายอุตสาหกรรม",
+            "action": "ติดตามอัตราการใช้กำลังการผลิตของโรงงานเหล็กและศูนย์บริการเหล็กในท้องถิ่นเพื่อประเมินความต้องการใช้อุปกรณ์ขัดในระยะสั้น"
+          }
+        },
+        {
+          "id": "20261014-w5",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "Grand View Research",
+          "date": "2016-03-06",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdy1BQXJXWXIwQ2F5Sm1XU3lLejVVQkZVSWVvZElIVkFZWEZ4NlN1TThqZGhZdUZrdGk5X2oxUFNRaUROUHFlVXE2S2hJMXBDN0ticXNnVWdURDJUWXAxUkFGdGhvbWdDVHA5WmVKc3JiVHJDWkxFTTFzeENhcmU2Qg",
+          "title": "Coated Abrasives Market Size & Share Report, 2026-2033",
+          "summary": "Market analyses continue to project steady long-term growth for coated abrasives across global manufacturing and finishing sectors.",
+          "why": "Validates the core business model and highlights ongoing global reliance on advanced coated abrasive products for surface prep.",
+          "action": "Align product catalog strategies with high-growth segments identified in global coated abrasive research.",
+          "th": {
+            "title": "รายงานขนาดและส่วนแบ่งตลาดกระดาษทรายและผ้าทราย (Coated Abrasives) ปี 2026-2033",
+            "summary": "การวิเคราะห์ตลาดคาดการณ์การเติบโตในระยะยาวอย่างต่อเนื่องสำหรับกลุ่มผลิตภัณฑ์กระดาษและผ้าทรายในภาคการผลิตและการตกแต่งผิวทั่วโลก",
+            "why": "ยืนยันรูปแบบธุรกิจหลักและเน้นย้ำถึงความพึ่งพาผลิตภัณฑ์กระดาษทรายเคลือบขั้นสูงทั่วโลกสำหรับการเตรียมพื้นผิว",
+            "action": "ปรับกลยุทธ์แคตตาล็อกสินค้าให้สอดคล้องกับกลุ่มผลิตภัณฑ์ที่มีการเติบโตสูงซึ่งระบุไว้ในงานวิจัยตลาดกระดาษทรายระดับโลก"
           }
         }
       ]
