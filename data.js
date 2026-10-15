@@ -3,64 +3,64 @@ window.NEWS_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-16",
-      "summary": "News flow is relatively light today with few genuinely new developments. The key highlight is the National EV Board's push to impose maximum excise taxes on imported vehicles to force localized production, directly protecting domestic metal stamping and body-finishing abrasive demand.",
-      "directCount": 1,
+      "summary": "Today has few fresh news updates; the key takeaways highlight mounting regional competition against Thailand's automotive manufacturing base from India and Indonesia, alongside persistent price dumping pressures hitting domestic steel fabricators.",
+      "directCount": 0,
       "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยประเด็นสำคัญที่สุดคือบอร์ดอีวีเดินหน้ารื้อภาษีสรรพสามิตเพื่อรีดภาษีสูงสุดกับรถนำเข้า หวังบีบให้เกิดการประกอบในประเทศ ซึ่งช่วยปกป้องความต้องการวัสดุขัดในโรงงานปั๊มขึ้นรูปและประกอบตัวถังยานยนต์ไทยโดยตรง"
+        "summary": "วันนี้มีข่าวใหม่ไม่มากนัก ประเด็นสำคัญเน้นไปที่การแข่งขันระดับภูมิภาคที่ทวีความรุนแรงขึ้นจากอินเดียและอินโดนีเซียซึ่งกระทบฐานผลิตยานยนต์ในไทย รวมถึงแรงกดดันจากการทุ่มตลาดเหล็กจีนที่ยังคงบั่นทอนผู้แปรรูปโลหะในประเทศ"
       },
       "items": [
         {
           "id": "20261016-1",
           "tag": "auto",
-          "rating": "green",
-          "source": "bangkokbiznews",
-          "date": "2026-10-08",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UZ0hQTFFGbDJCaXpsMFdIcEF4N2oybHBqQUdFbm1RRHJsSWpleW9IQi0yMmYydmNJNEhRNERPQUZrYThmV1dOSDNnSTZNaV9DeW9VeHZhNFFjcGZm?oc=5",
-          "title": "National EV Board Backs Major Vehicle Tax Overhaul to Penalize CBU Imports",
-          "summary": "The National EV Board has agreed to overhaul automotive excise taxes, proposing maximum tax rates on fully imported vehicles to accelerate domestic EV assembly.",
-          "why": "Penalizing imported CBUs forces automakers to manufacture locally, directly sustaining metal stamping, robotic welding, and abrasive deburring volumes in Thai plants.",
-          "action": "Target Tier 1 automotive stamping and welding contractors bidding on localized EV models with MK flap discs and grinding wheels.",
+          "rating": "amber",
+          "source": "กรมส่งเสริมการค้าระหว่างประเทศ (DITP)",
+          "date": "2026-09-23",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pWWtMYlMtbEc3eTVkcWVCTTlQQ0Z5UWZUTTFLSmhCcE5XRFVYeGlMQ2JjVVZSOHE2U2RPSlNPUzhpRHduSjExdUFSZXZrVEhFMDgzQ3NuNFdUbEdVVjRnNDh3?oc=5",
+          "title": "Ford Explores Chennai Plant as Regional EV Export Base for Asia-Pacific",
+          "summary": "Ford is evaluating repurposing its Chennai manufacturing plant in Tamil Nadu, India, into an electric vehicle production hub for export across the Asia-Pacific region.",
+          "why": "A shift of Western EV production and export capacity to India creates regional rivalry that could divert future metal stamping and body-assembly volume away from Thai factories.",
+          "action": "Monitor Ford and Tier-1 body component suppliers in Rayong to protect existing metal-finishing and body shop abrasive supply contracts.",
           "th": {
-            "title": "บอร์ดอีวีเคาะรื้อภาษีรถยนต์ยกแผง เล็งรีดภาษีสูงสุดรถนำเข้า บีบตั้งฐานผลิตในไทย",
-            "summary": "บอร์ดอีวีเห็นชอบแนวทางปรับโครงสร้างภาษีสรรพสามิตรถยนต์ใหม่ โดยเตรียมจัดเก็บภาษีอัตราสูงสุดสำหรับรถยนต์นำเข้าทั้งคัน เพื่อเร่งผลักดันค่ายรถยนต์ให้ผลิตและประกอบในประเทศ",
-            "why": "การสกัดรถนำเข้าและบีบให้ประกอบในประเทศช่วยปกป้องปริมาณงานของโรงงานไทย ส่งผลดีโดยตรงต่อยอดใช้งานจานขัด ใบเจียร และวัสดุลบรอยเชื่อม",
-            "action": "เร่งเจาะกลุ่มโรงงานปั๊มขึ้นรูปโลหะและเชื่อมประกอบชิ้นส่วนยานยนต์ Tier 1 ที่เตรียมสายการผลิตสำหรับรถยนต์ไฟฟ้าด้วยจานขัดและใบเจียร MK"
+            "title": "ฟอร์ดเล็งใช้โรงงานเจนไนเป็นฐานส่งออกรถ EV ประจำภูมิภาคเอเชียแปซิฟิก",
+            "summary": "ฟอร์ดกำลังพิจารณาปรับปรุงโรงงานในเมืองเจนไน รัฐทมิฬนาฑู ประเทศอินเดีย ให้เป็นฐานผลิตยานยนต์ไฟฟ้าเพื่อส่งออกไปยังตลาดเอเชียแปซิฟิก",
+            "why": "การที่ค่ายรถขยายฐานผลิต EV ไปอินเดียอาจแย่งส่วนแบ่งการส่งออกและลดปริมาณงานปั๊มขึ้นรูปตัวถังโลหะของโรงงานในไทย",
+            "action": "ติดตามทิศทางของฟอร์ดและซัพพลายเออร์ Tier-1 ในระยองอย่างใกล้ชิดเพื่อรักษาฐานยอดขายวัสดุขัดในไลน์ตัวถังเดิม"
           }
         },
         {
           "id": "20261016-2",
-          "tag": "aero",
+          "tag": "auto",
           "rating": "amber",
-          "source": "LINE TODAY",
-          "date": "2025-11-24",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGRUZSdllROFR5LVMtQ1plTjJMNkFvRmNOeEtsWTJCNGxBbHFYNndUcWc0VVc4c05RVjdrdEIzVlZ3MXZWMGN0TWZ2RzFycWFyODBCYVdR?oc=5",
-          "title": "Thai Airways and Bangkok Airways Partner to Operate 10-Billion-Baht U-Tapao MRO Facility",
-          "summary": "Thai Airways and Bangkok Airways have formed a partnership to co-manage operational maintenance areas at the 10-billion-baht U-Tapao aviation hub.",
-          "why": "Joint fleet maintenance infrastructure solidifies medium-to-long-term demand for certified aerospace-grade abrasive rolls, sheets, and surface-conditioning non-wovens.",
-          "action": "Review aerospace abrasive specification requirements and begin outreach to maintenance procurement units of both airlines.",
+          "source": "Brand Inside",
+          "date": "2026-08-14",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNnp5aUZLY2RzNjVBTHl1dVozcFVRLS1hZUtiY1lBOFlOZXJFX3RoMU11dm9ISDBVMG40Y09JOUJ2QmVGV3hHWjNPdFRySDVRYmZWLXd0UjJlUGh1Z0gzaUFPcUpXT0Z1Y0h0TkN3S19wYVp0QVhVdnlrd0NUbjZSUm9qRQ?oc=5",
+          "title": "Indonesia Aggressively Courts Toyota as Regional Competitors Pressure Thailand's Auto Hub",
+          "summary": "Indonesia is offering extensive incentives to persuade Toyota to shift future manufacturing investments, directly challenging Thailand's long-standing dominance in automotive manufacturing.",
+          "why": "Japanese auto assemblers and Tier-1 suppliers represent MK's core abrasive market; any production relocation directly decreases local demand for metal polishing and deburring abrasives.",
+          "action": "Deepen ties with Japanese Tier-1 and Tier-2 auto parts accounts in Thailand by offering technical abrasive efficiency audits to help them control production costs.",
           "th": {
-            "title": "การบินไทยจับมือบางกอกแอร์เวย์ส ร่วมบริหารพื้นที่ศูนย์ซ่อมอากาศยานอู่ตะเภาหมื่นล้าน",
-            "summary": "การบินไทยและบางกอกแอร์เวย์สร่วมมือแบ่งพื้นที่บริหารจัดการศูนย์ซ่อมบำรุงอากาศยาน (MRO) มูลค่า 1 หมื่นล้านบาท ณ ท่าอากาศยานอู่ตะเภา",
-            "why": "การขยายศูนย์ซ่อมอากาศยานร่วมกันส่งสัญญาณบวกต่อความต้องการวัสดุขัดเกรดการบินสำหรับการเตรียมผิว ขัดลอกสี และซ่อมบำรุงชิ้นส่วนโลหะในระยะกลางถึงยาว",
-            "action": "ศึกษาข้อกำหนดและมาตรฐานวัสดุขัดเกรดอากาศยาน พร้อมประสานงานแผนกจัดซื้อฝ่ายช่างของทั้งสองสายการบิน"
+            "title": "อินโดนีเซียเดินหน้ารุกจีบโตโยต้า ยกระดับการแข่งขันแย่งฐานผลิตยานยนต์จากไทย",
+            "summary": "อินโดนีเซียยื่นข้อเสนอและสิทธิประโยชน์เต็มรูปแบบเพื่อดึงดูดโตโยต้าให้ย้ายฐานลงทุน ท้าทายสถานะการเป็นศูนย์กลางผลิตรถยนต์ดั้งเดิมของไทย",
+            "why": "กลุ่มยานยนต์ญี่ปุ่นคือฐานลูกค้ารายใหญ่ที่สุดของ MK หากมีการกระจายฐานผลิตไปต่างประเทศ ย่อมลดความต้องการใช้วัสดุขัดแต่งผิวและลบครีบชิ้นส่วนในประเทศ",
+            "action": "กระชับความสัมพันธ์กับลูกค้าชิ้นส่วนยานยนต์ญี่ปุ่นระดับ Tier-1 และ Tier-2 ในไทย พร้อมนำเสนอบริการตรวจสอบประสิทธิภาพวัสดุขัดเพื่อช่วยโรงงานลดต้นทุน"
           }
         },
         {
           "id": "20261016-3",
-          "tag": "furniture",
+          "tag": "steel",
           "rating": "amber",
-          "source": "กรมส่งเสริมการค้าระหว่างประเทศ (DITP)",
-          "date": "2025-10-08",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WZ0s3TnpGQ1JjZHJpVkhVQ19La3lwT2hjMTR3cXZlczhtby1WNnFQaUcxb2RUZ1FPcGgwQTRWa2t6TnN4d3NNUXF6bXVjOEpKY3FrWlFocm9nRnJ5UGdZOFd3?oc=5",
-          "title": "Furniture Makers Brace for Order Declines Under Impending US Import Tariffs",
-          "summary": "Export manufacturers express rising concern over anticipated drop-offs in overseas purchasing orders due to tightening US tariff policies on consumer goods.",
-          "why": "Weakening export orders among wood and metal furniture makers can suppress factory operating rates and reduce consumption of wide sanding belts and abrasive discs.",
-          "action": "Hedge against export softness by expanding wood-sanding consumable sales to domestic carpentry workshops and DIY consumers via Shopee and TikTok.",
+          "source": "เดลินิวส์",
+          "date": "2026-05-21",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3cWgyMzlsVU90VjFUWTJ4czV4U2ZIZi1QbnBzeUR5ZzNHQ21jTzR6RmVpaDFDVVF2ODVsTlFmYVZLbUlCdGhEUXExQTdSbng0U29n?oc=5",
+          "title": "Thai Steel Sector Faces Severe Pressure from Low Consumption and Cheap Chinese Imports",
+          "summary": "Domestic steelmakers describe current market conditions as a battlefield due to sluggish construction demand combined with heavy dumping of low-cost induction furnace steel products from China.",
+          "why": "Reduced production capacity and closures among local steel mills and metal fabrication shops directly shrink the consumption of heavy grinding discs and cutoff wheels.",
+          "action": "Shift abrasive sales focus away from struggling standard structural steel workshops toward higher-margin stainless steel and precision sheet metal fabricators.",
           "th": {
-            "title": "ผู้ผลิตเฟอร์นิเจอร์หวั่นคำสั่งซื้อชะลอตัว รับมือนโยบายภาษีนำเข้าใหม่ของสหรัฐฯ",
-            "summary": "กลุ่มผู้ผลิตและส่งออกเฟอร์นิเจอร์แสดงความกังวลว่ายอดสั่งซื้อจากต่างประเทศอาจชะลอตัวลงจากแรงกดดันของนโยบายปรับขึ้นภาษีนำเข้าสินค้าของสหรัฐฯ",
-            "why": "หากคำสั่งซื้อส่งออกลดลง โรงงานผลิตเฟอร์นิเจอร์ไม้อาจปรับลดกำลังการผลิต ซึ่งจะกระทบต่อยอดสั่งซื้อกระดาษทรายสายพานหน้ากว้างและจานขัดไม้",
-            "action": "กระจายความเสี่ยงด้วยการขยายตลาดกระดาษทรายงานไม้ไปยังกลุ่มโรงงานเฟอร์นิเจอร์ในประเทศ และผลักดันยอดขายกลุ่มช่าง DIY ผ่าน Shopee และ TikTok"
+            "title": "อุตสาหกรรมเหล็กไทยเผชิญวิกฤตหนักจากยอดใช้ต่ำและการทุ่มตลาดเหล็กราคาถูกจากจีน",
+            "summary": "ผู้ผลิตเหล็กในประเทศระบุสถานการณ์ตลาดเหมือนอยู่ในสนามรบ หลังเผชิญทั้งภาวะความต้องการซบเซาและสินค้าเหล็กเตา IF ราคาถูกจากจีนทะลักเข้ามากดดันอย่างต่อเนื่อง",
+            "why": "การลดกำลังการผลิตและการหยุดกิจการของโรงหลอมและโรงงานโครงสร้างเหล็กส่งผลให้ยอดการใช้งานใบเจียรและใบตัดลดลงตามไปด้วย",
+            "action": "ปรับสัดส่วนการขายโดยเบนเข็มจากโรงงานโครงสร้างเหล็กทั่วไป ไปยังกลุ่มแปรรูปสเตนเลสและงานโลหะแผ่นความแม่นยำสูงที่มีมูลค่าเพิ่มมากกว่า"
           }
         }
       ],
