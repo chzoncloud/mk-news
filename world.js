@@ -4,82 +4,82 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-16",
-      "summary": "Today's global briefing highlights emerging green coatings innovations, the expanding wood sanding machinery sector, and regional shifts in stainless steel powder and metal casting markets that impact surface finishing demand.",
-      "directCount": 4,
+      "summary": "Today's briefing highlights shifts in the global steel market due to protectionism and supply issues, alongside high-performance coil coatings and India's abrasives sector positioning.",
+      "directCount": 2,
       "th": {
-        "summary": "สรุปทิศทางโลกประจำวันนี้เน้นย้ำนวัตกรรมสีเคลือบที่เป็นมิตรต่อสิ่งแวดล้อม ตลาดเครื่องขัดไม้ที่กำลังเติบโต รวมถึงการเปลี่ยนแปลงระดับภูมิภาคในตลาดผงสแตนเลสและงานหล่อโลหะที่ส่งผลต่อความต้องการงานขัดผิว"
+        "summary": "สรุปรายงานประจำวันนี้เน้นย้ำการเปลี่ยนแปลงในตลาดเหล็กโลกจากมาตรการปกป้องทางการค้าและปัญหาด้านอุปทาน พร้อมด้วยเทคโนโลยีเคลือบผิวคอยล์สมรรถนะสูงและทิศทางอุตสาหกรรมวัสดุขัดในอินเดีย"
       },
       "items": [
         {
           "id": "20261016-w1",
-          "tag": "coating",
+          "tag": "steel",
           "rating": "amber",
-          "source": "Market Business Insights",
-          "date": "2026-10-15",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBSDItTlp3MlgweDg2N3hibzBRRVgwVGJKa3RRWUpXc0pMcjJ3U241dE1LcnRYR3hna3hBUjNRdzZBdFIwUUEtTnd1MlFYdXIwTGpOVWNCVWpjeU45M1JISk1tVkZUYVpjR25UVUN3?oc=5",
-          "title": "Green Coatings Market Size & Growth Analysis, 2026-2035",
-          "summary": "The green coatings market is projected for steady growth through 2035, driven by environmental regulations and demand for sustainable industrial finishes.",
-          "why": "Eco-friendly coatings often require specialized surface preparation and sanding techniques to ensure proper adhesion on sustainable substrates.",
-          "action": "Monitor eco-coating trends to align our abrasive recommendations with green manufacturing standards.",
+          "source": "S&P Global",
+          "date": "2026-01-12",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
+          "title": "Global steel industry battles surplus supply, protectionism",
+          "summary": "The international steel sector faces ongoing challenges from oversupply and increasing trade protectionism across major economies.",
+          "why": "Steel production volume and surface finishing requirements directly influence the demand for heavy-duty grinding, deburring, and abrasive belt products.",
+          "action": "Monitor steel mill operating rates to anticipate fluctuations in regional demand for metal preparation abrasives.",
           "th": {
-            "title": "ขนาดตลาดสีเคลือบสีเขียวและการวิเคราะห์การเติบโต 2026-2035",
-            "summary": "ตลาดสีเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมคาดว่าจะเติบโตอย่างต่อเนื่องจนถึงปี 2035 ขับเคลื่อนด้วยกฎระเบียบด้านสิ่งแวดล้อมและความต้องการงานเคลือบอุตสาหกรรมที่ยั่งยืน",
-            "why": "สีเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมมักต้องอาศัยการเตรียมพื้นผิวและเทคนิคการขัดที่เฉพาะเจาะจง เพื่อให้มั่นใจว่าการยึดเกาะบนวัสดุที่ยั่งยืนเป็นไปอย่างมีประสิทธิภาพ",
-            "action": "ติดตามแนวโน้มสีเคลือบอีโคเพื่อปรับคำแนะนำผลิตภัณฑ์กระดาษทรายให้สอดคล้องกับมาตรฐานการผลิตสีเขียว"
+            "title": "อุตสาหกรรมเหล็กโลกเผชิญหน้ากับภาวะล้นตลาดและลัทธิคุ้มครองทางการค้า",
+            "summary": "ภาคอุตสาหกรรมเหล็กค้าระหว่างประเทศกำลังเผชิญกับความท้าทายจากภาวะอุปทานส่วนเกินและมาตรการกีดกันทางการค้าที่เพิ่มขึ้นในเศรษฐกิจหลัก",
+            "why": "ปริมาณการผลิตเหล็กและความต้องการในการเตรียมพื้นผิวส่งผลโดยตรงต่อความต้องการผลิตภัณฑ์กระดาษทรายสายพาน งานเจียร และงานลบคม",
+            "action": "ติดตามอัตราการดำเนินงานของโรงงานเหล็กเพื่อคาดการณ์ความผันผวนของความต้องการใช้วัสดุขัดสำหรับการเตรียมผิวโลหะในภูมิภาค"
           }
         },
         {
           "id": "20261016-w2",
-          "tag": "abrasive",
+          "tag": "coating",
           "rating": "green",
-          "source": "Market.us",
-          "date": "2026-01-22",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ISWl4S1FIYTlibDJlR001VnBXdy1xQ1ZobnhYTzBkc3pWOEdrOFQ4VWl2VzA5NjNDcGp3VEU3ZGQ2R0VFdXQwRmZxVEVpOTE4dVl4RlF4WlBHX3pXQ3QtTkJQWQ?oc=5",
-          "title": "Wood Sanding Machine Market Size, Share | CAGR of 4.3%",
-          "summary": "The global wood sanding machine market is expanding at a CAGR of 4.3%, indicating steady mechanical processing demand in woodworking industries.",
-          "why": "More automated wood sanding machines mean higher consumption of wide belt and specialized wood sanding abrasives.",
-          "action": "Ensure our inventory of woodworking abrasives, belts, and discs matches machine automation trends.",
+          "source": "PR Newswire UK",
+          "date": "2026-05-08",
+          "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQLWJCTzl4bnlhbUl3c2o5aXByM0Mxc3k0cUtGTHJQak5MYVNSNDk1bk50b29XS3BJbS1ySXFhV3dhWXRuMXB0bVB2Z2Q1WVN6UjRJY0N2LWpsNFRvU2o0aUU2dkx3d2htTVMxYURkLWxINlcydFRqdG1PV1ZaRWxtNndMMkc2T1hNenN2R0tBdlFaUllWV1d1N2huRTE2TlNOM0lxSEhlbkw5ajhSR0YtZWFVb01TZXlJS1VCbXNibWRreEVWQnVOUk5halB6YzBJdnNBZTJrOWxwdHppOG5jZWVETWJ0XzJuOE1mb2JqNEpmXzAxcDF4TGtRRWxaaW9DTzFPYUZCa28wbmp1ZGhtRVZ0X19lZ1ZqSUotLW1GaC0xRHRJNmNLdXVqOXNJdlpHQkF1NklvTXJOOWM?oc=5",
+          "title": "Coil Coatings Market to Reach USD 9.2 Billion by 2035 as Sustainable, High-Performance Coating Technologies Transform Construction and Industrial Applications",
+          "summary": "The coil coatings market is expanding rapidly, driven by demand for sustainable and high-performance pre-painted metal solutions in construction and industry.",
+          "why": "Coil coating lines require extensive surface preparation, cleaning, and mechanical sanding before application, creating steady demand for industrial abrasive systems.",
+          "action": "Target coil coating and pre-finished metal processors with specialized surface preparation abrasive solutions.",
           "th": {
-            "title": "ขนาดและส่วนแบ่งตลาดเครื่องขัดไม้ เติบโต CAGR 4.3%",
-            "summary": "ตลาดเครื่องขัดไม้ทั่วโลกกำลังขยายตัวด้วยอัตราเติบโตเฉลี่ยสะสม (CAGR) 4.3% ซึ่งบ่งชี้ถึงความต้องการกระบวนการแปรรูปเชิงกลที่มั่นคงในอุตสาหกรรมไม้",
-            "why": "เครื่องขัดไม้อัตโนมัติที่เพิ่มขึ้นหมายถึงอัตราการบริโภคกระดาษทรายสายพานกว้างและวัสดุขัดสำหรับไม้อุตสาหกรรมที่สูงขึ้นตามไปด้วย",
-            "action": "ตรวจสอบสต็อกสินค้ากลุ่มกระดาษทรายสายพานและแผ่นขัดงานไม้ให้สอดคล้องกับแนวโน้มเครื่องจักรอัตโนมัติ"
+            "title": "ตลาดเคลือบผิวคอยล์คาดว่าจะเติบโตถึง 9.2 พันล้านดอลลาร์สหรัฐภายในปี 2035 จากเทคโนโลยีเคลือบผิวที่ยั่งยืนและมีประสิทธิภาพสูง",
+            "summary": "ตลาดการเคลือบผิวคอยล์กำลังขยายตัวอย่างรวดเร็ว ขับเคลื่อนโดยความต้องการโซลูชันโลหะเคลือบสียอดนิยมที่มีความยั่งยืนและประสิทธิภาพสูงในงานก่อสร้างและอุตสาหกรรม",
+            "why": "กระบวนการเคลือบผิวคอยล์จำเป็นต้องมีการเตรียมพื้นผิว การทำความสะอาด และการขัดด้วยเครื่องจักรก่อนพ่นเคลือบ ซึ่งสร้างความต้องการใช้วัสดุขัดอุตสาหกรรมอย่างต่อเนื่อง",
+            "action": "มุ่งเน้นเจาะกลุ่มลูกค้าผู้แปรรูปโลหะเคลือบและคอยล์ด้วยโซลูชันวัสดุกระดาษทรายสำหรับเตรียมพื้นผิวโดยเฉพาะ"
           }
         },
         {
           "id": "20261016-w3",
-          "tag": "steel",
+          "tag": "abrasive",
           "rating": "green",
-          "source": "MarketsandMarkets",
-          "date": "2025-12-03",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVXVYZWVHaDBhMjdYc1BFRjVnV01BWUJZZnBNd1FESWpfanVMUVFaZkxUNGYzT0VVX3ZvT0dGSVpMTmRNRVBpRjNQZ3QyWU5jM0MxQmhLZVQ1cTJsbF9LNGV2aGZpaVdZb0NrWndDWFZJZ0g4V2dTY1NkNU5Hd3NhZmx0dmNtYktWWHM5LXlfYVlxRnlNQVgyag?oc=5",
-          "title": "Stainless Steel Powder Market Report 2025-2030",
-          "summary": "The stainless steel powder market is seeing structured reporting for 2025-2030, highlighting advanced metal component manufacturing applications.",
-          "why": "Additive manufacturing and powder metallurgy parts require precise deburring, surface finishing, and specialized polishing media.",
-          "action": "Explore niche finishing solutions suitable for complex metal powder components.",
+          "source": "Univest",
+          "date": "2026-08-07",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFMG44UFZ0TFdzby1NbUVUZGRublRBUzZOaENmTzRwWlN3Vm5KZXJIbGx0Ukt4VU5WS3BUV2hLSXZOMnItMDhzQk5RczlmZERBd1oyN2hoUF8tbFJmQy12YnZKYzlzYi0wZlhabA?oc=5",
+          "title": "Grindwell Norton Share Pros and Cons: Saint-Gobain's India Abrasives Subsidiary",
+          "summary": "Market analysis of Grindwell Norton, Saint-Gobain's abrasives subsidiary in India, highlights regional growth and competitive dynamics in the manufacturing sector.",
+          "why": "Monitoring major multinational players like Saint-Gobain and their regional subsidiaries offers a benchmark for global pricing, product innovation, and supply trends.",
+          "action": "Keep track of competitor moves in emerging Asian manufacturing hubs to benchmark product quality and supply chain strategies.",
           "th": {
-            "title": "รายงานตลาดผงสแตนเลส 2025-2030",
-            "summary": "ตลาดผงสแตนเลสมีการจัดทำรายงานวิเคราะห์ปี 2025-2030 ซึ่งเน้นย้ำการใช้งานในการผลิตชิ้นส่วนโลหะขั้นสูง",
-            "why": "การผลิตแบบเติมเนื้อวัสดุ (Additive Manufacturing) และชิ้นส่วนโลหะผง จำเป็นต้องมีการลบคม การขัดแต่งผิว และใช้วัสดุขัดเงาเฉพาะทาง",
-            "action": "ศึกษาโซลูชันการขัดผิวเฉพาะทางที่เหมาะกับชิ้นส่วนผงโลหะที่มีรูปทรงซับซ้อน"
+            "title": "วิเคราะห์หุ้น Grindwell Norton: บริษัทลูกด้านวัสดุขัดในอินเดียของ Saint-Gobain",
+            "summary": "การวิเคราะห์ตลาดของ Grindwell Norton ซึ่งเป็นบริษัทลูกด้านวัสดุขัดของ Saint-Gobain ในอินเดีย สะท้อนให้เห็นถึงการเติบโตระดับภูมิภาคและพลวัตการแข่งขันในภาคการผลิต",
+            "why": "การติดตามผู้เล่นข้ามชาติรายใหญ่เช่น Saint-Gobain และบริษัทลูกช่วยให้เห็นเกณฑ์มาตรฐานด้านราคาระดับโลก นวัตกรรมผลิตภัณฑ์ และแนวโน้มอุปทาน",
+            "action": "ติดตามความเคลื่อนไหวของคู่แข่งในศูนย์กลางการผลิตที่กำลังเติบโตในเอเชีย เพื่อใช้เป็นเกณฑ์มาตรฐานด้านคุณภาพสินค้าและกลยุทธ์ห่วงโซ่อุปทาน"
           }
         },
         {
           "id": "20261016-w4",
           "tag": "steel",
           "rating": "amber",
-          "source": "Fortune Business Insights",
-          "date": "2026-09-21",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kYlp3TXBwdU5JVl9Gc0pFd3lJSFpjSUhLeEFGOVZVS19BbHBoTFNGb1BFOC1UNEN4c1o0c2xjdTFZYXhVdGRVb0dIeXZqakt1bTJkQy10SC0wRlh0RVVBZHZaWDFYbDk3cHdUbXBsYnRyYTlFVEE?oc=5",
-          "title": "Metal Casting Market Growth Analysis & Industry Forecast, 2034",
-          "summary": "The metal casting market is forecasted through 2034, reflecting ongoing demand for cast components across various industrial sectors.",
-          "why": "Metal castings require heavy snagging, grinding, and deburring abrasives to clean up gates, risers, and surface imperfections.",
-          "action": "Maintain strong stock lines of heavy-duty grinding wheels and fiber discs for foundry and casting clients.",
+          "source": "The World Economic Forum",
+          "date": "2026-04-21",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeFBmZTNpZDhjN1lHNlBlU0duZ3ZQWW9uanI0SWs3SDFVazlpbVVXMklqSTVjbDloUEI4NW1Ca2dGckgzanh5UlRfX1F5QlVfQWFZNGdSS1h5bHNIUElCTk9LeUktaGd2VWxwRDAyMGJmQ1F6ZHVEOURKVjF3MVdHWGd0OG4zYTNtUk0yZkp0QXN4R3p5LUEtWkFzODBVdUdlTVpLNTh3ZjQtTGJuanlfS0Y5dWVLVEo1WkEybk96dVY?oc=5",
+          "title": "How the Iran war is disrupting India's steel production amid fuel shortages and rising costs",
+          "summary": "Geopolitical conflicts and fuel shortages are causing severe disruptions in India's steel manufacturing sector, inflating production costs.",
+          "why": "Supply disruptions in key steel-producing regions impact raw material availability and pricing for downstream metal fabrication industries.",
+          "action": "Diversify abrasive product sourcing and monitor regional metal pricing volatility to protect B2B margins.",
           "th": {
-            "title": "การวิเคราะห์การเติบโตและพยากรณ์อุตสาหกรรมตลาดหล่อโลหะถึงปี 2034",
-            "summary": "ตลาดการหล่อโลหะมีแนวโน้มการเติบโตยาวนานจนถึงปี 2034 ซึ่งสะท้อนถึงความต้องการชิ้นส่วนหล่อในภาคอุตสาหกรรมต่างๆ อย่างต่อเนื่อง",
-            "why": "งานหล่อโลหะต้องใช้หินเจียรหนัก ใบเจียร และแผ่นขัดสำหรับงานหยาบ เพื่อตัดแต่งรอยเชื่อม ช่องเท และความไม่สมบูรณ์ของผิวชิ้นงาน",
-            "action": "รักษาสต็อกสินค้ากลุ่มหินเจียรงานหนักและแผ่นขัดไฟเบอร์สำหรับลูกค้ากลุ่มโรงหล่อและงานโลหะให้เพียงพอ"
+            "title": "สงครามอิหร่านส่งผลกระทบต่อการผลิตเหล็กของอินเดียท่ามกลางปัญหาขาดแคลนเชื้อเพลิงและต้นทุนที่สูงขึ้น",
+            "summary": "ความขัดแย้งทางภูมิรัฐศาสตร์และการขาดแคลนเชื้อเพลิงกำลังสร้างความเสียหายอย่างหนักต่อภาคการผลิตเหล็กของอินเดีย ส่งผลให้ต้นทุนการผลิตสูงขึ้น",
+            "why": "การหยุดชะงักของห่วงโซ่อุปทานในภูมิภาคผลิตเหล็กหลักส่งผลต่อความพร้อมและราคาของวัตถุดิบสำหรับอุตสาหกรรมแปรรูปโลหะปลายน้ำ",
+            "action": "กระจายแหล่งจัดซื้อผลิตภัณฑ์วัสดุขัดและติดตามความผันผวนของราคาโลหะในภูมิภาคเพื่อปกป้องอัตรากำไรของธุรกิจ B2B"
           }
         }
       ]
