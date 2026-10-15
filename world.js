@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-15",
-      "summary": "Today's briefing focuses on global manufacturing equipment shifts, AI integration in smart factories, and regional shifts in metal processing and stainless steel markets. These trends signal evolving surface preparation and automation demands across automotive and metal sectors.",
+      "summary": "Today's briefing focuses on automotive OEM coatings growth, global EV market expansion, and the long-term outlook for the global steel industry, highlighting shifts in surface treatment and metal processing demand.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปข้อมูลแนวโน้มอุตสาหกรรมโลกประจำวันนี้เน้นไปที่การเปลี่ยนแปลงของอุปกรณ์การผลิต การบูรณาการ AI ในโรงงานอัจฉริยะ และการเปลี่ยนแปลงของตลาดโลหะและสแตนเลส ซึ่งส่งสัญญาณถึงความต้องการด้านการเตรียมพื้นผิวและระบบอัตโนมัติที่กำลังเปลี่ยนไปในอุตสาหกรรมยานยนต์และโลหะ"
+        "summary": "สรุปข่าววันนี้เน้นการเติบโตของตลาดสีเคลือบรถยนต์ OEM การขยายตัวของตลาดยานยนต์ไฟฟ้า (EV) และทิศทางของอุตสาหกรรมเหล็กโลก ซึ่งส่งผลโดยตรงต่อความต้องการในการเตรียมพื้นผิวและแปรรูปโลหะ"
       },
       "items": [
         {
           "id": "20261015-w1",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-09-02",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUUpWSmpHLVowSXdiLUJqcFlpQ3ZfRmdQYjJiTVFCNk00ZW0tM0ZqenQtd2F4emNVNEdzT3Q3amZ3M050YnNuTldQZFQyTlgyX3ByekdEbkdlaURacG5yRlBUSEZucnBQalBmNzVadXVrSDdXcEd0d2t4UXptUzJ5dXZ6ckE1Q3RVV3IyUkY4SFdVSERveVJYem0yM3lNbWFUY1dXWHYyRFZ2cXdldWFqRmJTNE4tQ1RXWWp4N3NCN1h5Vmt3d3hEbkFPc2ZqT0k?oc=5",
-          "title": "A global AI manufacturing transformation at Hyundai Motor Group",
-          "summary": "Hyundai Motor Group is scaling up global AI manufacturing transformations, heavily automating its production lines and assembly processes.",
-          "why": "As major automotive OEMs adopt AI and advanced automation, the demand for precision robotic deburring and consistent automated surface finishing tools increases.",
-          "action": "Monitor automated manufacturing deployments to identify future opportunities for robotic-compatible abrasive products.",
+          "tag": "coating",
+          "rating": "green",
+          "source": "Fortune Business Insights",
+          "date": "2026-09-28",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXJjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
+          "title": "Automotive OEM Coatings Market Size, Share | Growth [2034]",
+          "summary": "The automotive OEM coatings market is experiencing steady long-term growth projections through 2034, driven by vehicle production demands and advanced coating technologies.",
+          "why": "More automotive OEM coatings mean higher demand for surface preparation, sanding, and defect correction using abrasives prior to painting.",
+          "action": "Monitor OEM coating trends to anticipate surface prep and sanding requirements in local tier suppliers.",
           "th": {
-            "title": "การเปลี่ยนแปลงการผลิตด้วย AI ระดับโลกของกลุ่มฮุนไดมอเตอร์",
-            "summary": "กลุ่มฮุนไดมอเตอร์กำลังยกระดับการเปลี่ยนแปลงการผลิตด้วย AI ทั่วโลก โดยเพิ่มระบบอัตโนมัติให้กับสายการผลิตและกระบวนการประกอบอย่างหนัก",
-            "why": "เมื่อผู้ผลิตยานยนต์รายใหญ่ปรับใช้ AI และระบบอัตโนมัติขั้นสูง ความต้องการเครื่องมือลบคมด้วยหุ่นยนต์ที่มีความแม่นยำและการขัดผิวสำเร็จอัตโนมัติที่สม่ำเสมอก็เพิ่มขึ้นตามไปด้วย",
-            "action": "ติดตามการติดตั้งระบบการผลิตอัตโนมัติเพื่อหาโอกาสใหม่สำหรับผลิตภัณฑ์กระดาษทรายและวัสดุขัดที่รองรับระบบหุ่นยนต์"
+            "title": "ขนาดและแนวโน้มการเติบโตของตลาดสีเคลือบรถยนต์ OEM ถึงปี 2034",
+            "summary": "ตลาดสีเคลือบ OEM สำหรับรถยนต์คาดว่าจะเติบโตอย่างต่อเนื่องถึงปี 2034 ขับเคลื่อนโดยความต้องการผลิตยานยนต์และเทคโนโลยีการเคลือบผิวขั้นสูง",
+            "why": "ตลาดสีเคลือบ OEM ที่เติบโตหมายถึงความต้องการที่สูงขึ้นในการเตรียมพื้นผิว การขัดกระดาษทราย และการแก้ไขข้อบกพร่องด้วยวัสดุขัดก่อนพ่นสี",
+            "action": "ติดตามแนวโน้มสีเคลือบ OEM เพื่อคาดการณ์ความต้องการงานเตรียมผิวและขัดผิวในกลุ่มผู้ผลิตชิ้นส่วนรถยนต์ท้องถิ่น"
           }
         },
         {
           "id": "20261015-w2",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "Shanghai Metals Market",
-          "date": "2026-03-02",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQ2xHd0lUb2NjUDd1RnlTdGpDOV96UzRtZzZCdGlCTmdFaWNxSUJjdUFzVmxOLXVZYkh2VnFsSzRZb1lhdDJCMnJYWUFvUFByYkRSRkZSTE9wUkIxVGVvbWxRYkFHQjBTb2g2VmdRbXV3QW03STFFc2ZzRlVGSTQwVnZIdzdPVm9uRjlmN1hvVWlyYlpjd1o0c092di1YLUJtaDVucldZNS12VE5hTWVKa2VuNEE2bXA0WW9nTV94Yzg1Qk5CWkoyQ3lGVHI5OThkc3JrUU5CZGZieTY0eVpwZnQzbW1ENmlBZlNj?oc=5",
-          "title": "[SMM Analysis] Global Stainless Steel Market Navigates Complex Landscape in February, What's the Long-Term Outlook?",
-          "summary": "The global stainless steel market is navigating a complex landscape involving fluctuating supply dynamics and shifting regional demand.",
-          "why": "Stainless steel fabrication requires specialized grinding, blending, and polishing abrasives to meet strict surface finish standards.",
-          "action": "Keep track of stainless steel production trends to forecast demand for heavy-duty grinding wheels and fine-grit polishing belts.",
+          "tag": "auto",
+          "rating": "green",
+          "source": "Fortune Business Insights",
+          "date": "2026-09-28",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbDdPM0VwRXE3dDlfTTJFS3BVX2FmU0ZLWVVDR2JLcWk5UjVnUmJQaDJ2N2E1Z1VkMWdIUzdnWXVrSFc3cHBLWmhSb3dodGpOTlZzejhjaFRBcm5fRi1jMzhzTV9CcFRqVVRVUVdWUWliWkdiMXdzLXpFMWY3M1doOW1hTHBaUnlnYV81YmMyLTU?oc=5",
+          "title": "Electric Vehicle Market Size, Share & Global Analysis, 2034",
+          "summary": "Global analysis of the electric vehicle market shows continuous expansion projections toward 2034, reshaping global manufacturing priorities and automotive supply chains.",
+          "why": "EV manufacturing relies heavily on lightweight metals (aluminum) and precision-stamped parts, which require specialized deburring and surface finishing solutions.",
+          "action": "Ensure our product line includes abrasives optimized for aluminum and lightweight EV components.",
           "th": {
-            "title": "[วิเคราะห์ SMM] ตลาดสแตนเลสโลกเผชิญสถานการณ์ที่ซับซ้อนในเดือนกุมภาพันธ์ พร้อมมุมมองระยะยาว",
-            "summary": "ตลาดสแตนเลสทั่วโลกกำลังเผชิญกับสถานการณ์ที่ซับซ้อน ทั้งจากความผันผวนของอุปทานและความต้องการในแต่ละภูมิภาคที่เปลี่ยนแปลงไป",
-            "why": "กระบวนการผลิตสแตนเลสจำเป็นต้องใช้ผลิตภัณฑ์ขัดและขัดเงาเฉพาะทางเพื่อให้ได้มาตรฐานผิวงานที่เข้มงวด",
-            "action": "ติดตามแนวโน้มการผลิตสแตนเลสเพื่อคาดการณ์ความต้องการใบเจียรงานหนักและสายพานขัดละอองละเอียด"
+            "title": "ขนาด ส่วนแบ่ง และการวิเคราะห์ตลาดรถยนต์ไฟฟ้าระดับโลก ถึงปี 2034",
+            "summary": "การวิเคราะห์ตลาดยานยนต์ไฟฟ้าระดับโลกแสดงแนวโน้มการขยายตัวต่อเนื่องถึงปี 2034 ซึ่งปรับเปลี่ยนลำดับความสำคัญในการผลิตและห่วงโซ่อุปทานยานยนต์",
+            "why": "การผลิต EV พึ่งพาโลหะน้ำหนักเบา (เช่น อลูมิเนียม) และชิ้นส่วนปั๊มขึ้นรูปที่มีความแม่นยำสูง ซึ่งต้องใช้โซลูชันการลบคมและขัดผิวที่เฉพาะเจาะจง",
+            "action": "ตรวจสอบให้แน่ใจว่ากลุ่มผลิตภัณฑ์กระดาษทรายและวัสดุขัดของเราเหมาะสมกับงานอลูมิเนียมและชิ้นส่วน EV น้ำหนักเบา"
           }
         },
         {
           "id": "20261015-w3",
           "tag": "steel",
           "rating": "amber",
-          "source": "MarketsandMarkets",
-          "date": "2025-12-03",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVXVYZWVHaDBhMjdYc1BFRjVnV01BWUJZZnBNd1FESWpfanVMUVFaZkxUNGYzT0VVX3ZvT0dGSVpMTmRNRVBpRjNQZ3QyWU5jM0MxQmhLZVQ1cTJsbF9LNGV2aGZpaVdZb0NrWndDWFZJZ0g4V2dTY1NkNU5Hd3NhZmx0dmNtYktWWHM5LXlfYVlxRnlNQVgyag?oc=5",
-          "title": "Stainless Steel Powder Market Report 2025-2030",
-          "summary": "A market report highlighting growth trajectories in the stainless steel powder sector, driven by advanced manufacturing and additive tech.",
-          "why": "Powder metallurgy and additive manufacturing parts often require post-processing, deburring, and surface finishing using precision abrasives.",
-          "action": "Note the growth of advanced metal powders as a niche segment requiring specialized finishing solutions.",
+          "source": "S&P Global",
+          "date": "2026-01-12",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
+          "title": "Global steel industry battles surplus supply, protectionism",
+          "summary": "The global steel sector faces ongoing challenges from surplus supply capacity and rising international trade protectionism and tariffs.",
+          "why": "Steel production volume and mill operating rates dictate the foundational demand for grinding wheels, heavy-duty belts, and metal conditioning abrasives.",
+          "action": "Keep an eye on regional steel mill output to gauge general industrial metal fabrication activity.",
           "th": {
-            "title": "รายงานตลาดผงสแตนเลส ปี 2025-2030",
-            "summary": "รายงานตลาดที่เน้นย้ำถึงการเติบโตในกลุ่มผงสแตนเลส ขับเคลื่อนโดยเทคโนโลยีการผลิตขั้นสูงและการพิมพ์สามมิติ",
-            "why": "ชิ้นส่วนจากโลหะผงและการผลิตแบบเพิ่มเนื้อวัสดุมักต้องผ่านกระบวนการตกแต่งผิว การลบคม และการขัดเงาโดยใช้อุปกรณ์ขัดที่มีความแม่นยำ",
-            "action": "สังเกตการเติบโตของผงโลหะขั้นสูงในฐานะกลุ่มตลาดเฉพาะทางที่ต้องการโซลูชันการขัดผิวแบบพิเศษ"
+            "title": "อุตสาหกรรมเหล็กโลกเผชิญศึกอุปทานล้นตลาดและมาตรการกีดกันทางการค้า",
+            "summary": "ภาคอุตสาหกรรมเหล็กทั่วโลกกำลังเผชิญกับความท้าทายจากกำลังการผลิตที่ล้นเกิน รวมถึงมาตรการกีดกันทางการค้าและภาษีนำเข้าที่เพิ่มขึ้น",
+            "why": "ปริมาณการผลิตเหล็กและอัตราการเดินเครื่องของโรงงานส่งผลโดยตรงต่อความต้องการพื้นฐานสำหรับหินเจียร สายพานขัด และวัสดุกำจัดเนื้อโลหะ",
+            "action": "คอยติดตามปริมาณผลผลิตของโรงงานเหล็กในภูมิภาคเพื่อประเมินกิจกรรมการแปรรูปโลหะอุตสาหกรรมโดยรวม"
           }
         }
       ]
