@@ -1,7 +1,89 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-10-15",
+  "updated": "2026-10-16",
   "days": [
+    {
+      "date": "2026-10-16",
+      "summary": "Today's global briefing highlights emerging green coatings innovations, the expanding wood sanding machinery sector, and regional shifts in stainless steel powder and metal casting markets that impact surface finishing demand.",
+      "directCount": 4,
+      "th": {
+        "summary": "สรุปทิศทางโลกประจำวันนี้เน้นย้ำนวัตกรรมสีเคลือบที่เป็นมิตรต่อสิ่งแวดล้อม ตลาดเครื่องขัดไม้ที่กำลังเติบโต รวมถึงการเปลี่ยนแปลงระดับภูมิภาคในตลาดผงสแตนเลสและงานหล่อโลหะที่ส่งผลต่อความต้องการงานขัดผิว"
+      },
+      "items": [
+        {
+          "id": "20261016-w1",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "Market Business Insights",
+          "date": "2026-10-15",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBSDItTlp3MlgweDg2N3hibzBRRVgwVGJKa3RRWUpXc0pMcjJ3U241dE1LcnRYR3hna3hBUjNRdzZBdFIwUUEtTnd1MlFYdXIwTGpOVWNCVWpjeU45M1JISk1tVkZUYVpjR25UVUN3?oc=5",
+          "title": "Green Coatings Market Size & Growth Analysis, 2026-2035",
+          "summary": "The green coatings market is projected for steady growth through 2035, driven by environmental regulations and demand for sustainable industrial finishes.",
+          "why": "Eco-friendly coatings often require specialized surface preparation and sanding techniques to ensure proper adhesion on sustainable substrates.",
+          "action": "Monitor eco-coating trends to align our abrasive recommendations with green manufacturing standards.",
+          "th": {
+            "title": "ขนาดตลาดสีเคลือบสีเขียวและการวิเคราะห์การเติบโต 2026-2035",
+            "summary": "ตลาดสีเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมคาดว่าจะเติบโตอย่างต่อเนื่องจนถึงปี 2035 ขับเคลื่อนด้วยกฎระเบียบด้านสิ่งแวดล้อมและความต้องการงานเคลือบอุตสาหกรรมที่ยั่งยืน",
+            "why": "สีเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมมักต้องอาศัยการเตรียมพื้นผิวและเทคนิคการขัดที่เฉพาะเจาะจง เพื่อให้มั่นใจว่าการยึดเกาะบนวัสดุที่ยั่งยืนเป็นไปอย่างมีประสิทธิภาพ",
+            "action": "ติดตามแนวโน้มสีเคลือบอีโคเพื่อปรับคำแนะนำผลิตภัณฑ์กระดาษทรายให้สอดคล้องกับมาตรฐานการผลิตสีเขียว"
+          }
+        },
+        {
+          "id": "20261016-w2",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "Market.us",
+          "date": "2026-01-22",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ISWl4S1FIYTlibDJlR001VnBXdy1xQ1ZobnhYTzBkc3pWOEdrOFQ4VWl2VzA5NjNDcGp3VEU3ZGQ2R0VFdXQwRmZxVEVpOTE4dVl4RlF4WlBHX3pXQ3QtTkJQWQ?oc=5",
+          "title": "Wood Sanding Machine Market Size, Share | CAGR of 4.3%",
+          "summary": "The global wood sanding machine market is expanding at a CAGR of 4.3%, indicating steady mechanical processing demand in woodworking industries.",
+          "why": "More automated wood sanding machines mean higher consumption of wide belt and specialized wood sanding abrasives.",
+          "action": "Ensure our inventory of woodworking abrasives, belts, and discs matches machine automation trends.",
+          "th": {
+            "title": "ขนาดและส่วนแบ่งตลาดเครื่องขัดไม้ เติบโต CAGR 4.3%",
+            "summary": "ตลาดเครื่องขัดไม้ทั่วโลกกำลังขยายตัวด้วยอัตราเติบโตเฉลี่ยสะสม (CAGR) 4.3% ซึ่งบ่งชี้ถึงความต้องการกระบวนการแปรรูปเชิงกลที่มั่นคงในอุตสาหกรรมไม้",
+            "why": "เครื่องขัดไม้อัตโนมัติที่เพิ่มขึ้นหมายถึงอัตราการบริโภคกระดาษทรายสายพานกว้างและวัสดุขัดสำหรับไม้อุตสาหกรรมที่สูงขึ้นตามไปด้วย",
+            "action": "ตรวจสอบสต็อกสินค้ากลุ่มกระดาษทรายสายพานและแผ่นขัดงานไม้ให้สอดคล้องกับแนวโน้มเครื่องจักรอัตโนมัติ"
+          }
+        },
+        {
+          "id": "20261016-w3",
+          "tag": "steel",
+          "rating": "green",
+          "source": "MarketsandMarkets",
+          "date": "2025-12-03",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVXVYZWVHaDBhMjdYc1BFRjVnV01BWUJZZnBNd1FESWpfanVMUVFaZkxUNGYzT0VVX3ZvT0dGSVpMTmRNRVBpRjNQZ3QyWU5jM0MxQmhLZVQ1cTJsbF9LNGV2aGZpaVdZb0NrWndDWFZJZ0g4V2dTY1NkNU5Hd3NhZmx0dmNtYktWWHM5LXlfYVlxRnlNQVgyag?oc=5",
+          "title": "Stainless Steel Powder Market Report 2025-2030",
+          "summary": "The stainless steel powder market is seeing structured reporting for 2025-2030, highlighting advanced metal component manufacturing applications.",
+          "why": "Additive manufacturing and powder metallurgy parts require precise deburring, surface finishing, and specialized polishing media.",
+          "action": "Explore niche finishing solutions suitable for complex metal powder components.",
+          "th": {
+            "title": "รายงานตลาดผงสแตนเลส 2025-2030",
+            "summary": "ตลาดผงสแตนเลสมีการจัดทำรายงานวิเคราะห์ปี 2025-2030 ซึ่งเน้นย้ำการใช้งานในการผลิตชิ้นส่วนโลหะขั้นสูง",
+            "why": "การผลิตแบบเติมเนื้อวัสดุ (Additive Manufacturing) และชิ้นส่วนโลหะผง จำเป็นต้องมีการลบคม การขัดแต่งผิว และใช้วัสดุขัดเงาเฉพาะทาง",
+            "action": "ศึกษาโซลูชันการขัดผิวเฉพาะทางที่เหมาะกับชิ้นส่วนผงโลหะที่มีรูปทรงซับซ้อน"
+          }
+        },
+        {
+          "id": "20261016-w4",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "Fortune Business Insights",
+          "date": "2026-09-21",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kYlp3TXBwdU5JVl9Gc0pFd3lJSFpjSUhLeEFGOVZVS19BbHBoTFNGb1BFOC1UNEN4c1o0c2xjdTFZYXhVdGRVb0dIeXZqakt1bTJkQy10SC0wRlh0RVVBZHZaWDFYbDk3cHdUbXBsYnRyYTlFVEE?oc=5",
+          "title": "Metal Casting Market Growth Analysis & Industry Forecast, 2034",
+          "summary": "The metal casting market is forecasted through 2034, reflecting ongoing demand for cast components across various industrial sectors.",
+          "why": "Metal castings require heavy snagging, grinding, and deburring abrasives to clean up gates, risers, and surface imperfections.",
+          "action": "Maintain strong stock lines of heavy-duty grinding wheels and fiber discs for foundry and casting clients.",
+          "th": {
+            "title": "การวิเคราะห์การเติบโตและพยากรณ์อุตสาหกรรมตลาดหล่อโลหะถึงปี 2034",
+            "summary": "ตลาดการหล่อโลหะมีแนวโน้มการเติบโตยาวนานจนถึงปี 2034 ซึ่งสะท้อนถึงความต้องการชิ้นส่วนหล่อในภาคอุตสาหกรรมต่างๆ อย่างต่อเนื่อง",
+            "why": "งานหล่อโลหะต้องใช้หินเจียรหนัก ใบเจียร และแผ่นขัดสำหรับงานหยาบ เพื่อตัดแต่งรอยเชื่อม ช่องเท และความไม่สมบูรณ์ของผิวชิ้นงาน",
+            "action": "รักษาสต็อกสินค้ากลุ่มหินเจียรงานหนักและแผ่นขัดไฟเบอร์สำหรับลูกค้ากลุ่มโรงหล่อและงานโลหะให้เพียงพอ"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-10-15",
       "summary": "Today's briefing focuses on automotive OEM coatings growth, global EV market expansion, and the long-term outlook for the global steel industry, highlighting shifts in surface treatment and metal processing demand.",
@@ -902,70 +984,6 @@ window.WORLD_ARCHIVE = {
             "summary": "Nucor ผู้ผลิตเหล็กรายใหญ่เน้นย้ำถึงประสิทธิภาพของการดำเนินงานด้วยเตาหลอมไฟฟ้า (EAF) 100% และการบูรณาการแนวตั้งในการบริหารต้นทุนและรักษากำไร",
             "why": "การผลิตเหล็กด้วยเตา EAF และการรีไซเคิลเศษเหล็กทำให้เกิดสะเก็ดผิวและครีบโลหะที่แตกต่างจากเตาลมเป่า ซึ่งส่งผลโดยตรงต่อชนิดของใบตัด ใบเจียร และวัสดุขัดถูสำหรับงานหนักที่โรงงานและผู้แปรรูปโลหะต้องการ",
             "action": "ทำความเข้าใจความต้องการในการขัดตกแต่งผิวเหล็กจากเตา EAF เพื่อให้บริการลูกค้ากลุ่มแปรรูปโลหะที่อัปเกรดเครื่องมือตัดและเจียรได้ดียิ่งขึ้น"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-10-02",
-      "summary": "Today's global briefing highlights key developments in metal casting growth, non-woven abrasives market expansion, and regional coatings dynamics that impact surface finishing and industrial demand.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปทิศทางโลกประจำวันนี้เน้นการเติบโตของอุตสาหกรรมการหล่อโลหะ ตลาดวัสดุขัดถูแบบไม่ถักทอ และแนวโน้มตลาดสารเคลือบระดับภูมิภาคที่ส่งผลต่อความต้องการงานขัดและเตรียมพื้นผิว"
-      },
-      "items": [
-        {
-          "id": "20261002-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "Market.us",
-          "date": "2025-03-04",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91alpTXzlIaHVncXdQT2g3dVU2YjM5QTQ1amZIZGRMN0VQMGhzaXdEUXlIWV9nUXZRQ18wMUdrMmYzMkxLa25tdHpwTVctQ2JuYXhXWmxsQW1Pd1gxN1FhM2tkV20yV1psbHhv?oc=5",
-          "title": "Non-woven Abrasives Market Size, Share | CAGR of 3.8%",
-          "summary": "The global non-woven abrasives market continues steady growth driven by increasing demand for fine surface finishing, blending, and deburring across manufacturing sectors.",
-          "why": "Non-woven abrasives are core product categories for surface conditioning, cleaning, and fine finishing in metal and automotive workshops.",
-          "action": "Review stock levels and demand trends for non-woven conditioning pads and wheels.",
-          "th": {
-            "title": "ขนาดส่วนแบ่งและแนวโน้มตลาดวัสดุขัดถูแบบไม่ถักทอ (Non-woven Abrasives)",
-            "summary": "ตลาดวัสดุขัดถูแบบไม่ถักทอทั่วโลกเติบโตอย่างต่อเนื่องจากความต้องการงานตกแต่งผิว ลบคม และขัดเกลี้ยงในภาคการผลิตที่เพิ่มขึ้น",
-            "why": "ผลิตภัณฑ์ขัดถูแบบไม่ถักทอเป็นกลุ่มสินค้าหลักสำหรับงานปรับสภาพผิว ทำความสะอาด และขัดเงาในอุตสาหกรรมโลหะและยานยนต์",
-            "action": "ตรวจสอบระดับสินค้าคงคลังและแนวโน้มความต้องการสำหรับแผ่นใยขัดและล้อขัดประเภทไม่ถักทอ"
-          }
-        },
-        {
-          "id": "20261002-w2",
-          "tag": "steel",
-          "rating": "green",
-          "source": "Fortune Business Insights",
-          "date": "2026-09-14",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kYlp3TXBwdU5JVl9Gc0pFd3lJSFpjSUhLeEFGOVZVS19BbHBoTFNGb1BFOC1UNEN4c1o0c2xjdTFZYXhVdGRVb0dIeXZqakt1bTJkQy10SC0wRlh0RVVBZHZaWDFYbDk3cHdUbXBsYnRyYTlFVEE?oc=5",
-          "title": "Metal Casting Market Growth Analysis & Industry Forecast, 2034",
-          "summary": "The metal casting market is projected for solid expansion up to 2034, driven by automotive, machinery, and heavy industrial component manufacturing.",
-          "why": "Metal castings require extensive grinding, deburring, and surface finishing, driving direct demand for heavy-duty grinding discs and abrasive belts.",
-          "action": "Target foundry and metal casting workshops with aggressive pricing for heavy-removal grinding products.",
-          "th": {
-            "title": "การวิเคราะห์การเติบโตและคาดการณ์อุตสาหกรรมการหล่อโลหะถึงปี 2034",
-            "summary": "ตลาดการหล่อโลหะคาดว่าจะเติบโตอย่างแข็งแกร่งจนถึงปี 2034 ขับเคลื่อนโดยภาคยานยนต์ เครื่องจักร และการผลิตชิ้นส่วนอุตสาหกรรมหนัก",
-            "why": "ชิ้นงานหล่อโลหะต้องผ่านกระบวนการเจียร ลบคม และตกแต่งผิวจำนวนมาก ซึ่งสร้างความต้องการตรงต่อแผ่นเจียรและสายพานขัดสำหรับงานหนัก",
-            "action": "มุ่งเน้นเจาะกลุ่มโรงหล่อและงานโลหะด้วยผลิตภัณฑ์สำหรับงานขัดหยาบและเจียรที่มีความคุ้มค่าสูง"
-          }
-        },
-        {
-          "id": "20261002-w3",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "Precedence Research",
-          "date": "2026-09-09",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOU01tbEkxd3pyNFhxa1NWeFM2QlRlMUFjeWVJRmFMTTF0R3VweWotbFY4WGVtMUhEcFotMlNjZWxRNHFQOUQwcVB2ZzQ2TU11WFBUcWctazlBSjV1aVBlUENkZk9XLWZKd1FUMl93?oc=5",
-          "title": "Paints and Coatings Market Companies, Size & Trends 2026-2035",
-          "summary": "The global paints and coatings market is expanding rapidly through 2035, driven by architectural and industrial protective coating applications.",
-          "why": "Surface preparation and sanding are mandatory pre-steps before any high-performance industrial coating can be applied.",
-          "action": "Monitor coating technology shifts to align sanding grit profiles with new primer and paint adhesion requirements.",
-          "th": {
-            "title": "บริษัท ขนาด และแนวโน้มตลาดสีและสารเคลือบ ปี 2026-2035",
-            "summary": "ตลาดสีและสารเคลือบโลกกำลังขยายตัวอย่างรวดเร็วถึงปี 2035 ขับเคลื่อนโดยงานสถาปัตยกรรมและการเคลือบป้องกันพื้นผิวอุตสาหกรรม",
-            "why": "งานเตรียมพื้นผิวและการขัดกระดาษทรายเป็นขั้นตอนจำเป็นก่อนการลงสีหรือสารเคลือบอุตสาหกรรมที่มีประสิทธิภาพสูงทุกประเภท",
-            "action": "ติดตามการเปลี่ยนแปลงของเทคโนโลยีสารเคลือบเพื่อปรับความละเอียดกระดาษทรายให้สอดคล้องกับความต้องการในการยึดเกาะของสีรองพื้น"
           }
         }
       ]
