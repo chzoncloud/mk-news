@@ -2,6 +2,71 @@
 window.NEWS_ARCHIVE = {
   "days": [
     {
+      "date": "2026-10-16",
+      "summary": "News flow is relatively light today with few genuinely new developments. The key highlight is the National EV Board's push to impose maximum excise taxes on imported vehicles to force localized production, directly protecting domestic metal stamping and body-finishing abrasive demand.",
+      "directCount": 1,
+      "th": {
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยประเด็นสำคัญที่สุดคือบอร์ดอีวีเดินหน้ารื้อภาษีสรรพสามิตเพื่อรีดภาษีสูงสุดกับรถนำเข้า หวังบีบให้เกิดการประกอบในประเทศ ซึ่งช่วยปกป้องความต้องการวัสดุขัดในโรงงานปั๊มขึ้นรูปและประกอบตัวถังยานยนต์ไทยโดยตรง"
+      },
+      "items": [
+        {
+          "id": "20261016-1",
+          "tag": "auto",
+          "rating": "green",
+          "source": "bangkokbiznews",
+          "date": "2026-10-08",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UZ0hQTFFGbDJCaXpsMFdIcEF4N2oybHBqQUdFbm1RRHJsSWpleW9IQi0yMmYydmNJNEhRNERPQUZrYThmV1dOSDNnSTZNaV9DeW9VeHZhNFFjcGZm?oc=5",
+          "title": "National EV Board Backs Major Vehicle Tax Overhaul to Penalize CBU Imports",
+          "summary": "The National EV Board has agreed to overhaul automotive excise taxes, proposing maximum tax rates on fully imported vehicles to accelerate domestic EV assembly.",
+          "why": "Penalizing imported CBUs forces automakers to manufacture locally, directly sustaining metal stamping, robotic welding, and abrasive deburring volumes in Thai plants.",
+          "action": "Target Tier 1 automotive stamping and welding contractors bidding on localized EV models with MK flap discs and grinding wheels.",
+          "th": {
+            "title": "บอร์ดอีวีเคาะรื้อภาษีรถยนต์ยกแผง เล็งรีดภาษีสูงสุดรถนำเข้า บีบตั้งฐานผลิตในไทย",
+            "summary": "บอร์ดอีวีเห็นชอบแนวทางปรับโครงสร้างภาษีสรรพสามิตรถยนต์ใหม่ โดยเตรียมจัดเก็บภาษีอัตราสูงสุดสำหรับรถยนต์นำเข้าทั้งคัน เพื่อเร่งผลักดันค่ายรถยนต์ให้ผลิตและประกอบในประเทศ",
+            "why": "การสกัดรถนำเข้าและบีบให้ประกอบในประเทศช่วยปกป้องปริมาณงานของโรงงานไทย ส่งผลดีโดยตรงต่อยอดใช้งานจานขัด ใบเจียร และวัสดุลบรอยเชื่อม",
+            "action": "เร่งเจาะกลุ่มโรงงานปั๊มขึ้นรูปโลหะและเชื่อมประกอบชิ้นส่วนยานยนต์ Tier 1 ที่เตรียมสายการผลิตสำหรับรถยนต์ไฟฟ้าด้วยจานขัดและใบเจียร MK"
+          }
+        },
+        {
+          "id": "20261016-2",
+          "tag": "aero",
+          "rating": "amber",
+          "source": "LINE TODAY",
+          "date": "2025-11-24",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGRUZSdllROFR5LVMtQ1plTjJMNkFvRmNOeEtsWTJCNGxBbHFYNndUcWc0VVc4c05RVjdrdEIzVlZ3MXZWMGN0TWZ2RzFycWFyODBCYVdR?oc=5",
+          "title": "Thai Airways and Bangkok Airways Partner to Operate 10-Billion-Baht U-Tapao MRO Facility",
+          "summary": "Thai Airways and Bangkok Airways have formed a partnership to co-manage operational maintenance areas at the 10-billion-baht U-Tapao aviation hub.",
+          "why": "Joint fleet maintenance infrastructure solidifies medium-to-long-term demand for certified aerospace-grade abrasive rolls, sheets, and surface-conditioning non-wovens.",
+          "action": "Review aerospace abrasive specification requirements and begin outreach to maintenance procurement units of both airlines.",
+          "th": {
+            "title": "การบินไทยจับมือบางกอกแอร์เวย์ส ร่วมบริหารพื้นที่ศูนย์ซ่อมอากาศยานอู่ตะเภาหมื่นล้าน",
+            "summary": "การบินไทยและบางกอกแอร์เวย์สร่วมมือแบ่งพื้นที่บริหารจัดการศูนย์ซ่อมบำรุงอากาศยาน (MRO) มูลค่า 1 หมื่นล้านบาท ณ ท่าอากาศยานอู่ตะเภา",
+            "why": "การขยายศูนย์ซ่อมอากาศยานร่วมกันส่งสัญญาณบวกต่อความต้องการวัสดุขัดเกรดการบินสำหรับการเตรียมผิว ขัดลอกสี และซ่อมบำรุงชิ้นส่วนโลหะในระยะกลางถึงยาว",
+            "action": "ศึกษาข้อกำหนดและมาตรฐานวัสดุขัดเกรดอากาศยาน พร้อมประสานงานแผนกจัดซื้อฝ่ายช่างของทั้งสองสายการบิน"
+          }
+        },
+        {
+          "id": "20261016-3",
+          "tag": "furniture",
+          "rating": "amber",
+          "source": "กรมส่งเสริมการค้าระหว่างประเทศ (DITP)",
+          "date": "2025-10-08",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WZ0s3TnpGQ1JjZHJpVkhVQ19La3lwT2hjMTR3cXZlczhtby1WNnFQaUcxb2RUZ1FPcGgwQTRWa2t6TnN4d3NNUXF6bXVjOEpKY3FrWlFocm9nRnJ5UGdZOFd3?oc=5",
+          "title": "Furniture Makers Brace for Order Declines Under Impending US Import Tariffs",
+          "summary": "Export manufacturers express rising concern over anticipated drop-offs in overseas purchasing orders due to tightening US tariff policies on consumer goods.",
+          "why": "Weakening export orders among wood and metal furniture makers can suppress factory operating rates and reduce consumption of wide sanding belts and abrasive discs.",
+          "action": "Hedge against export softness by expanding wood-sanding consumable sales to domestic carpentry workshops and DIY consumers via Shopee and TikTok.",
+          "th": {
+            "title": "ผู้ผลิตเฟอร์นิเจอร์หวั่นคำสั่งซื้อชะลอตัว รับมือนโยบายภาษีนำเข้าใหม่ของสหรัฐฯ",
+            "summary": "กลุ่มผู้ผลิตและส่งออกเฟอร์นิเจอร์แสดงความกังวลว่ายอดสั่งซื้อจากต่างประเทศอาจชะลอตัวลงจากแรงกดดันของนโยบายปรับขึ้นภาษีนำเข้าสินค้าของสหรัฐฯ",
+            "why": "หากคำสั่งซื้อส่งออกลดลง โรงงานผลิตเฟอร์นิเจอร์ไม้อาจปรับลดกำลังการผลิต ซึ่งจะกระทบต่อยอดสั่งซื้อกระดาษทรายสายพานหน้ากว้างและจานขัดไม้",
+            "action": "กระจายความเสี่ยงด้วยการขยายตลาดกระดาษทรายงานไม้ไปยังกลุ่มโรงงานเฟอร์นิเจอร์ในประเทศ และผลักดันยอดขายกลุ่มช่าง DIY ผ่าน Shopee และ TikTok"
+          }
+        }
+      ],
+      "terms": {}
+    },
+    {
       "date": "2026-10-15",
       "summary": "Today has limited new developments following extensive coverage of key automotive and government policies over previous days. Focus turns to structural background progress in regional aerospace MRO funding, steel industry standards enforcement, and timber export expansion.",
       "directCount": 0,
@@ -836,5 +901,5 @@ window.NEWS_ARCHIVE = {
       "terms": {}
     }
   ],
-  "updated": "2026-10-15"
+  "updated": "2026-10-16"
 };
