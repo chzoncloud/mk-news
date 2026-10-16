@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-10-16",
+  "updated": "2026-10-17",
   "days": [
+    {
+      "date": "2026-10-17",
+      "summary": "Today's briefing highlights shifts in European automotive coatings, robotic sanding tech adoption in woodworking, and regional steel and aluminum market disruptions. These signals reflect ongoing automation and material changes impacting surface prep demand.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปทรนด์โลกประจำวันนี้เน้นการเปลี่ยนแปลงในอุตสาหกรรมเคลือบสีรถยนต์ในยุโรป การนำเทคโนโลยีขัดด้วยหุ่นยนต์มาใช้ในงานไม้ และความผันผวนของตลาดเหล็กและอลูมิเนียม ซึ่งล้วนส่งผลกระทบต่อความต้องการใช้ผลิตภัณฑ์ขัดผิว"
+      },
+      "items": [
+        {
+          "id": "20261017-w1",
+          "tag": "auto",
+          "rating": "green",
+          "source": "Market Data Forecast",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY2xqOWN4RUVuWm55eld6MklJOFZzejBqRmxIN1R4OXZYT1VFYkRzSVNGVVJ3UXNNWEpBWnA3SC1mTnRjM0h1ZXZoY25WTWxER1c3MlJudzAzQm00XzRJTHlhd29WMFlsV08yWHR1MUpVcHNFeC15NFAxSXhybktoYUlSTnBvWG1DbHN3?oc=5",
+          "title": "Europe Automotive Coatings Market Size, Share & Growth 2034",
+          "summary": "The European automotive coatings market is expanding steadily, driven by stringent environmental regulations and demand for advanced surface finishes.",
+          "why": "Automotive manufacturing and repainting require extensive surface preparation, grinding, and sanding. Knowing coating growth trends helps us anticipate demand for automotive-grade abrasives.",
+          "action": "Monitor European automotive coating standards as early indicators for upcoming surface prep specifications in export markets.",
+          "th": {
+            "title": "ขนาด ส่วนแบ่ง และการเติบโตของตลาดสารเคลือบยานยนต์ในยุโรปถึงปี 2034",
+            "summary": "ตลาดสารเคลือบยานยนต์ในยุโรปเติบโตอย่างต่อเนื่อง ขับเคลื่อนด้วยกฎระเบียบด้านสิ่งแวดล้อมที่เข้มงวดและความต้องการพื้นผิวที่ประณีตขั้นสูง",
+            "why": "การผลิตและการทำสีรถยนต์ต้องอาศัยการเตรียมพื้นผิว การเจียร และการขัดอย่างมาก การรู้แนวโน้มการเติบโตของสารเคลือบช่วยให้เราคาดการณ์ความต้องการกระดาษทรายและวัสดุขัดสำหรับยานยนต์ได้",
+            "action": "ติดตามมาตรฐานสารเคลือบยานยนต์ของยุโรปเพื่อใช้เป็นสัญญาณล่วงหน้าสำหรับข้อกำหนดการเตรียมพื้นผิวในตลาดส่งออก"
+          }
+        },
+        {
+          "id": "20261017-w2",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "Woodworking Network",
+          "date": "2022-09-14",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdks1TWZwY2RMY21ZNl8zQ1hJZ201QnJzY3Bsb2gyc0NQajRiRHMtSkJ1QW9OX1JaTzVrYm15ZkFvclM2bjZ1cTJQZVlaYk1JWVpnQVpyanBkMFFTVEZCaG9ZQ0ttWTh2VnRNRGVtbzB4WUVCamVPbzc4MTdfbEdYQm5zem1QXzlaYk5XMHpPOU9IZ3Fsc3dKVG9VM01IX3dMdDRiMXNYRmJNN1pQN2hSOHFielVqQWxWWVVMUHc2NUdhOTkxaW5lY19mc1I?oc=5",
+          "title": "Mirka to feature robotic sanding, antistatic abrasives and more at SIBO",
+          "summary": "Major abrasive manufacturers are heavily promoting automated robotic sanding solutions and specialized antistatic abrasives for wood processing.",
+          "why": "Woodworking automation changes how sanding belts and discs are consumed. Factories adopting robots require high-consistency, precision-engineered abrasives.",
+          "action": "Explore partnerships or stocking strategies for antistatic abrasive lines suited for automated woodworking applications.",
+          "th": {
+            "title": "Mirka เตรียมจัดแสดงการขัดด้วยหุ่นยนต์ วัสดุขัดป้องกันไฟฟ้าสถิต และอื่นๆ ในงาน SIBO",
+            "summary": "ผู้ผลิตวัสดุขัดรายใหญ่กำลังผลักดันโซลูชันการขัดด้วยหุ่นยนต์อัตโนมัติและกระดาษทรายป้องกันไฟฟ้าสถิตสำหรับงานแปรรูปไม้",
+            "why": "ระบบอัตโนมัติในงานไม้เปลี่ยนรูปแบบการใช้กระดาษทรายและจานขัด โรงงานที่ใช้หุ่นยนต์ต้องการวัสดุขัดที่มีความสม่ำเสมอและแม่นยำสูง",
+            "action": "สำรวจพันธมิตรหรือวางแผนสต็อกสินค้ากลุ่มกระดาษทรายป้องกันไฟฟ้าสถิตที่เหมาะสำหรับงานไม้ระบบอัตโนมัติ"
+          }
+        },
+        {
+          "id": "20261017-w3",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "Financial Post",
+          "date": "2026-07-16",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYzVENV9lOXd1cm0xeEt4Y2JBNVF4R3M1aDRReTk5T0xoNzJ0a3c5VnBueWdRenBEcUp2NHNNMldrU20teUI0Z3RocldKbjAyVHNjWjNKN1FtdFlUVXZVSHlfNUZqY016Q0pWMDlDMWxTa3gwMGN0SmNmNjVoRzJQdW9YWDRlYU9PeGt0WGh4VQ?oc=5",
+          "title": "'We're getting hammered': Why this Canadian aluminum sector is crumbling while prices boom",
+          "summary": "Canadian aluminum producers face severe operational pressures despite rising global commodity prices, highlighting regional manufacturing cost imbalances.",
+          "why": "Metal fabrication costs directly influence the profitability and production volume of downstream industries that consume heavy deburring and grinding products.",
+          "action": "Keep an eye on metal input cost volatility as it can squeeze metalworking clients' budgets for consumable tooling like abrasives.",
+          "th": {
+            "title": "'เรากำลังแย่': ทำไมภาคส่วนอลูมิเนียมของแคนาดาจึงทรุดตัวลงท่ามกลางราคาสินค้าโภคภัณฑ์ที่พุ่งสูง",
+            "summary": "ผู้ผลิตอลูมิเนียมในแคนาดากำลังเผชิญกับแรงกดดันด้านการดำเนินงานอย่างรุนแรง แม้ว่าราคาสินค้าโภคภัณฑ์โลกจะสูงขึ้น สะท้อนถึงความไม่สมดุลของต้นทุนการผลิตในภูมิภาค",
+            "why": "ต้นทุนการแปรรูปโลหะส่งผลโดยตรงต่อความสามารถในการทำกำไรและปริมาณการผลิตของอุตสาหกรรมปลายน้ำที่ต้องใช้ผลิตภัณฑ์ลบคมและเจียรผิว",
+            "action": "จับตาความผันผวนของต้นทุนวัตถุดิบโลหะ เนื่องจากอาจส่งผลกระทบต่อบัดเจ็ทของลูกค้ากลุ่มงานโลหะในการซื้อเครื่องมือสิ้นเปลืองอย่างวัสดุขัด"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-10-16",
       "summary": "Today's briefing focuses on emerging green coating technologies, wood sanding machinery growth, and global steel trade shifts driven by tariffs and AI booms.",
@@ -902,70 +966,6 @@ window.WORLD_ARCHIVE = {
             "summary": "ภาคการผลิตโลหะในระดับภูมิภาคกำลังเผชิญกับแรงกดดันด้านกำไรและอุปสรรคในการดำเนินงาน แม้ว่าราคาสินค้าโภคภัณฑ์โลกจะมีความผันผวน",
             "why": "ความผันผวนในสุขภาพของผู้ผลิตโลหะอาจส่งผลกระทบต่อกิจกรรมการขึ้นรูปและการตกแต่งในท้องถิ่น ซึ่งส่งผลทางอ้อมต่อการใช้จ่ายสินค้าสิ้นเปลืองอุตสาหกรรม",
             "action": "จับตาด่วนเรื่องสภาพคล่องของลูกค้าและการชะลอตัวในการดำเนินงานในภาคการผลิตโลหะ"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-10-03",
-      "summary": "Today's briefing focuses on global manufacturing dynamics, including U.S. steel sector shifts driven by trade policy and EV supply chain challenges, highlighting continued metalworking demand relevant to industrial abrasives.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปข่าวประจำวันนี้เน้นพลวัตการผลิตระดับโลก รวมถึงการเปลี่ยนแปลงในอุตสาหกรรมเหล็กของสหรัฐฯ จากนโยบายการค้าและความท้าทายในห่วงโซ่อุปทาน EV ซึ่งสะท้อนถึงความต้องการงานแปรรูปโลหะที่เกี่ยวข้องกับอุตสาหกรรมวัสดุขัดกระดาษทราย"
-      },
-      "items": [
-        {
-          "id": "20261003-w1",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "economy.ac",
-          "date": "2026-08-07",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YQWhOYlJ3eW9jTUhwa25XdE55eHh3a2JoODhWdDAtOW00UzhXcWwtNnJJXzZGMjMtNXN6MTYwTUhib3ZHUDNXaTdIbWY2N092QXNsOXFfdw?oc=5",
-          "title": "‘Trump Tariffs and AI Boom’ Propel U.S. Steel Past Japan to World No. 3 for First Time in 26 Years",
-          "summary": "Trump tariffs and the artificial intelligence boom have propelled the U.S. steel industry past Japan to become the world's third-largest steel producer for the first time in over two decades.",
-          "why": "Shifts in major steel-producing countries impact the global supply of raw metals, directly influencing regional demand for heavy grinding, deburring, and surface finishing abrasives.",
-          "action": "Monitor shifting steel production hubs to identify emerging export opportunities for industrial abrasive products.",
-          "th": {
-            "title": "มาตรการภาษีและบูม AI ดันเหล็กสหรัฐฯแซงญี่ปุ่นขึ้นเบอร์ 3 ของโลกในรอบ 26 ปี",
-            "summary": "มาตรการภาษีและการเติบโตของ AI ส่งให้อุตสาหกรรมเหล็กสหรัฐฯ แซงหน้าญี่ปุ่นขึ้นเป็นผู้ผลิตเหล็กรายใหญ่อันดับ 3 ของโลกเป็นครั้งแรกในรอบกว่าสองทศวรรษ",
-            "why": "การเปลี่ยนแปลงของประเทศผู้ผลิตเหล็กรายใหญ่ส่งผลต่ออุปทานโลหะดิบและกระทบโดยตรงต่อความต้องการใช้กระดาษทรายขัด ลบคม และเตรียมพื้นผิวโลหะในภูมิภาค",
-            "action": "ติดตามการย้ายฐานการผลิตเหล็กเพื่อมองหาโอกาสใหม่ๆ ในการส่งออกสินค้ากลุ่มผลิตภัณฑ์ขัดผิว"
-          }
-        },
-        {
-          "id": "20261003-w2",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-09-10",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVjkzSTlDYzItRzJSVXhQSjc1a0ttQ0dIRVYxRDgxaHFiQ0x3c1ZsLTdZQ0RRSk04bmhjdHQ4ZGJrV0lLVk45XzQ5ZzQwN1VwMDNERWNWVEpJNTRVYzZqTFFmcEIyUUZRNG9LOHp6ODIxYm80eEZrcTBOdENvenJqdktfcm5neXlITEZSRXNQclF2ZUpGUXVLTmY3SmhCRUlHdldDVC11QjRnZ3UtYzRlbzAwYS1yaW5oZV8zWmRMY2k?oc=5",
-          "title": "Smart-factory wiring woes: EVs demand automation now, not later",
-          "summary": "Electric vehicle manufacturers face severe wiring challenges, forcing plants to accelerate automation and smart-factory integrations to handle complex EV assemblies.",
-          "why": "As EV production lines adopt advanced automation for wiring and structural components, surface prep, welding cleanup, and robotic finishing tools must evolve to match automated cells.",
-          "action": "Keep an eye on automated robotic sanding and deburring solutions compatible with smart EV manufacturing lines.",
-          "th": {
-            "title": "ปัญหาการเดินสายไฟในสมาร์ทแฟคตอรี่: รถยนต์ EV เรียกร้องระบบอัตโนมัติเดี๋ยวนี้",
-            "summary": "ผู้ผลิตรถยนต์ไฟฟ้ากำลังเผชิญกับความท้าทายเรื่องระบบสายไฟ บังคับให้โรงงานต้องเร่งนำระบบอัตโนมัติและสมาร์ทแฟคตอรี่มาใช้เพื่อรองรับการประกอบ EV ที่ซับซ้อน",
-            "why": "เมื่อสายการผลิต EV หันมาใช้ระบบอัตโนมัติขั้นสูง เครื่องมือเตรียมพื้นผิว การทำความสะอาดรอยเชื่อม และการขัดด้วยหุ่นยนต์จึงต้องพัฒนาตามไปด้วยเพื่อให้รองรับกระบวนการอัตโนมัติได้",
-            "action": "ติดตามโซลูชันการขัดและลบคมด้วยระบบอัตโนมัติ/หุ่นยนต์ที่ใช้งานร่วมกับสายการผลิตรถยนต์ EV สมาร์ทแฟคตอรี่"
-          }
-        },
-        {
-          "id": "20261003-w3",
-          "tag": "steel",
-          "rating": "green",
-          "source": "news.metal.com",
-          "date": "2026-05-19",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMmw1akRRMFZCQ2I5NGhHdE1NOXhoaE1GY0h5UmxlQVNUVGxHTko2U0NBQ0o0Q19ZYmZ1VnBCTTB6a2JJQTFNOUpDSUtpWXdaR3hkeGhlOXF4dF9yUElCd1ZkWTl4MmZGOWhVeUlXc2VCMXFCOHQzZ0ZGZ1RtZ3p6aUNObEczWFhKMkdKQ3JuRWF5SjVNZmpOQVBaSGs4TWJKS1lVa0VTdmoxdDBQTF8zRDlxME1qeEtOUzJzSTBERURobWltWTlVUlpaZ3d2WlFRNEY1b0UwbVVfLXc0cXBZ?oc=5",
-          "title": "Nucor: 100% EAF, High Profits, and Vertical Integration Mitigating Costs",
-          "summary": "Major steel producer Nucor highlights the efficiency of 100% Electric Arc Furnace (EAF) operations and vertical integration in managing costs and maintaining high profits.",
-          "why": "EAF steel production and scrap metal recycling generate different surface scale and burrs compared to blast furnaces, directly influencing the specific grinding discs and heavy-duty abrasives required by mills and metal fabricators.",
-          "action": "Understand EAF steel finishing requirements to better serve metal fabrication clients upgrading their cutting and grinding tools.",
-          "th": {
-            "title": "Nucor: เตาหลอมไฟฟ้า EAF 100%, กำไรสูง และการบูรณาการแนวตั้งช่วยลดต้นทุน",
-            "summary": "Nucor ผู้ผลิตเหล็กรายใหญ่เน้นย้ำถึงประสิทธิภาพของการดำเนินงานด้วยเตาหลอมไฟฟ้า (EAF) 100% และการบูรณาการแนวตั้งในการบริหารต้นทุนและรักษากำไร",
-            "why": "การผลิตเหล็กด้วยเตา EAF และการรีไซเคิลเศษเหล็กทำให้เกิดสะเก็ดผิวและครีบโลหะที่แตกต่างจากเตาลมเป่า ซึ่งส่งผลโดยตรงต่อชนิดของใบตัด ใบเจียร และวัสดุขัดถูสำหรับงานหนักที่โรงงานและผู้แปรรูปโลหะต้องการ",
-            "action": "ทำความเข้าใจความต้องการในการขัดตกแต่งผิวเหล็กจากเตา EAF เพื่อให้บริการลูกค้ากลุ่มแปรรูปโลหะที่อัปเกรดเครื่องมือตัดและเจียรได้ดียิ่งขึ้น"
           }
         }
       ]
