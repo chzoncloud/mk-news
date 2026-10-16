@@ -3,64 +3,82 @@ window.NEWS_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-16",
-      "summary": "Today has few fresh news updates; the key takeaways highlight mounting regional competition against Thailand's automotive manufacturing base from India and Indonesia, alongside persistent price dumping pressures hitting domestic steel fabricators.",
-      "directCount": 0,
+      "summary": "Today has limited new updates; the primary highlight is the EV Board's plan to overhaul excise taxes on imported vehicles to force localized manufacturing, which directly supports domestic automotive parts fabrication and abrasive demand.",
+      "directCount": 1,
       "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มากนัก ประเด็นสำคัญเน้นไปที่การแข่งขันระดับภูมิภาคที่ทวีความรุนแรงขึ้นจากอินเดียและอินโดนีเซียซึ่งกระทบฐานผลิตยานยนต์ในไทย รวมถึงแรงกดดันจากการทุ่มตลาดเหล็กจีนที่ยังคงบั่นทอนผู้แปรรูปโลหะในประเทศ"
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยประเด็นหลักคือบอร์ด EV เตรียมรื้อโครงสร้างภาษีเพื่อรีดภาษีรถนำเข้าและเร่งให้เกิดการตั้งฐานผลิตในไทย ซึ่งจะเป็นผลบวกโดยตรงต่อความต้องการใช้วัสดุขัดในโรงงานผลิตชิ้นส่วนยานยนต์"
       },
       "items": [
         {
           "id": "20261016-1",
           "tag": "auto",
-          "rating": "amber",
-          "source": "กรมส่งเสริมการค้าระหว่างประเทศ (DITP)",
-          "date": "2026-09-23",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pWWtMYlMtbEc3eTVkcWVCTTlQQ0Z5UWZUTTFLSmhCcE5XRFVYeGlMQ2JjVVZSOHE2U2RPSlNPUzhpRHduSjExdUFSZXZrVEhFMDgzQ3NuNFdUbEdVVjRnNDh3?oc=5",
-          "title": "Ford Explores Chennai Plant as Regional EV Export Base for Asia-Pacific",
-          "summary": "Ford is evaluating repurposing its Chennai manufacturing plant in Tamil Nadu, India, into an electric vehicle production hub for export across the Asia-Pacific region.",
-          "why": "A shift of Western EV production and export capacity to India creates regional rivalry that could divert future metal stamping and body-assembly volume away from Thai factories.",
-          "action": "Monitor Ford and Tier-1 body component suppliers in Rayong to protect existing metal-finishing and body shop abrasive supply contracts.",
+          "rating": "green",
+          "source": "bangkokbiznews",
+          "date": "2026-10-08",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UZ0hQTFFGbDJCaXpsMFdIcEF4N2oybHBqQUdFbm1RRHJsSWpleW9IQi0yMmYydmNJNEhRNERPQUZrYThmV1dOSDNnSTZNaV9DeW9VeHZhNFFjcGZm?oc=5",
+          "title": "Thailand EV Board Plans Tax Overhaul to Impose Maximum Rates on Imported Vehicles",
+          "summary": "The National EV Policy Board approved a vehicle excise tax restructuring, proposing maximum tax rates on imported fully built vehicles to accelerate local manufacturing.",
+          "why": "Mandating local vehicle assembly directly boosts stamping, welding, and surface treatment lines in Thai factories, generating direct demand for grinding and finishing abrasives.",
+          "action": "Target Tier-1 metal stamping and chassis fabrication suppliers preparing to expand production lines for localized EV models.",
           "th": {
-            "title": "ฟอร์ดเล็งใช้โรงงานเจนไนเป็นฐานส่งออกรถ EV ประจำภูมิภาคเอเชียแปซิฟิก",
-            "summary": "ฟอร์ดกำลังพิจารณาปรับปรุงโรงงานในเมืองเจนไน รัฐทมิฬนาฑู ประเทศอินเดีย ให้เป็นฐานผลิตยานยนต์ไฟฟ้าเพื่อส่งออกไปยังตลาดเอเชียแปซิฟิก",
-            "why": "การที่ค่ายรถขยายฐานผลิต EV ไปอินเดียอาจแย่งส่วนแบ่งการส่งออกและลดปริมาณงานปั๊มขึ้นรูปตัวถังโลหะของโรงงานในไทย",
-            "action": "ติดตามทิศทางของฟอร์ดและซัพพลายเออร์ Tier-1 ในระยองอย่างใกล้ชิดเพื่อรักษาฐานยอดขายวัสดุขัดในไลน์ตัวถังเดิม"
+            "title": "บอร์ดอีวีเคาะรื้อภาษีรถยนต์ยกแผง เตรียมรีดภาษีสูงสุดรถนำเข้า บีบผลิตในประเทศ",
+            "summary": "บอร์ดอีวีเห็นชอบการปรับโครงสร้างภาษีสรรพสามิตรถยนต์ครั้งใหญ่ โดยเสนอเก็บภาษีสูงสุดสำหรับรถยนต์สำเร็จรูปนำเข้า เพื่อเร่งผลักดันให้เกิดการตั้งโรงงานผลิตในไทย",
+            "why": "การผลักดันให้ประกอบรถยนต์ในประเทศช่วยเพิ่มงานปั๊มขึ้นรูป เชื่อมประกอบ และเตรียมผิวโลหะ ซึ่งจะกระตุ้นยอดใช้วัสดุขัด เจียร และแต่งผิวของ MK โดยตรง",
+            "action": "เร่งติดต่อซัพพลายเออร์ชิ้นส่วนโลหะและโครงสร้างตัวถังระดับ Tier-1 ที่เตรียมขยายสายการผลิตรองรับการประกอบ EV ในประเทศ"
           }
         },
         {
           "id": "20261016-2",
           "tag": "auto",
           "rating": "amber",
-          "source": "Brand Inside",
-          "date": "2026-08-14",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNnp5aUZLY2RzNjVBTHl1dVozcFVRLS1hZUtiY1lBOFlOZXJFX3RoMU11dm9ISDBVMG40Y09JOUJ2QmVGV3hHWjNPdFRySDVRYmZWLXd0UjJlUGh1Z0gzaUFPcUpXT0Z1Y0h0TkN3S19wYVp0QVhVdnlrd0NUbjZSUm9qRQ?oc=5",
-          "title": "Indonesia Aggressively Courts Toyota as Regional Competitors Pressure Thailand's Auto Hub",
-          "summary": "Indonesia is offering extensive incentives to persuade Toyota to shift future manufacturing investments, directly challenging Thailand's long-standing dominance in automotive manufacturing.",
-          "why": "Japanese auto assemblers and Tier-1 suppliers represent MK's core abrasive market; any production relocation directly decreases local demand for metal polishing and deburring abrasives.",
-          "action": "Deepen ties with Japanese Tier-1 and Tier-2 auto parts accounts in Thailand by offering technical abrasive efficiency audits to help them control production costs.",
+          "source": "ไทยโพสต์",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRMFNRQjQySW9WNHdaVl9ReVJRV3hZaUdUMnpnbzVtN1VKX3JaOFo4RVB1ZXZjSWNLYWFlTzVZb0tzcnl3QXVOMTZNTTh5R09DU2hHZlNqNFFKQQ?oc=5",
+          "title": "Thai Auto Industry Faces Warning Over Loss of Regional Competitiveness",
+          "summary": "Auto manufacturing leaders warned that Thailand risks losing its automotive edge unless the government revises incentive policies to support traditional supply chains during the EV transition.",
+          "why": "Slowing vehicle production among Japanese automakers impacts abrasive consumable turnover across existing Tier-1 and Tier-2 parts factories.",
+          "action": "Diversify sales outreach toward hybrid component fabricators and industrial machinery maintenance to mitigate pure ICE production declines.",
           "th": {
-            "title": "อินโดนีเซียเดินหน้ารุกจีบโตโยต้า ยกระดับการแข่งขันแย่งฐานผลิตยานยนต์จากไทย",
-            "summary": "อินโดนีเซียยื่นข้อเสนอและสิทธิประโยชน์เต็มรูปแบบเพื่อดึงดูดโตโยต้าให้ย้ายฐานลงทุน ท้าทายสถานะการเป็นศูนย์กลางผลิตรถยนต์ดั้งเดิมของไทย",
-            "why": "กลุ่มยานยนต์ญี่ปุ่นคือฐานลูกค้ารายใหญ่ที่สุดของ MK หากมีการกระจายฐานผลิตไปต่างประเทศ ย่อมลดความต้องการใช้วัสดุขัดแต่งผิวและลบครีบชิ้นส่วนในประเทศ",
-            "action": "กระชับความสัมพันธ์กับลูกค้าชิ้นส่วนยานยนต์ญี่ปุ่นระดับ Tier-1 และ Tier-2 ในไทย พร้อมนำเสนอบริการตรวจสอบประสิทธิภาพวัสดุขัดเพื่อช่วยโรงงานลดต้นทุน"
+            "title": "สัญญาณเตือนอุตสาหกรรมยานยนต์ไทย เสี่ยงสูญเสียความสามารถการแข่งขันในภูมิภาค",
+            "summary": "กลุ่มผู้นำอุตสาหกรรมยานยนต์ส่งสัญญาณเตือนว่าไทยอาจสูญเสียความเป็นฐานผลิตหลัก หากรัฐบาลไม่ทบทวนนโยบายสนับสนุนห่วงโซ่อุปทานเดิมในช่วงเปลี่ยนผ่านสู่ EV",
+            "why": "ยอดผลิตรถยนต์ที่ชะลอตัวของค่ายรถญี่ปุ่นส่งผลกระทบต่ออัตราการใช้วัสดุขัดสิ้นเปลืองในโรงงานชิ้นส่วน Tier-1 และ Tier-2 ซึ่งเป็นลูกค้าหลักของ MK",
+            "action": "กระจายความเสี่ยงโดยขยายฐานลูกค้าไปยังผู้ผลิตชิ้นส่วนรถยนต์ไฮบริดและงานบำรุงรักษาเครื่องจักรในโรงงาน เพื่อชดเชยกำลังผลิต ICE ที่ลดลง"
           }
         },
         {
           "id": "20261016-3",
           "tag": "steel",
           "rating": "amber",
-          "source": "เดลินิวส์",
+          "source": "มติชนออนไลน์",
           "date": "2026-05-21",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3cWgyMzlsVU90VjFUWTJ4czV4U2ZIZi1QbnBzeUR5ZzNHQ21jTzR6RmVpaDFDVVF2ODVsTlFmYVZLbUlCdGhEUXExQTdSbng0U29n?oc=5",
-          "title": "Thai Steel Sector Faces Severe Pressure from Low Consumption and Cheap Chinese Imports",
-          "summary": "Domestic steelmakers describe current market conditions as a battlefield due to sluggish construction demand combined with heavy dumping of low-cost induction furnace steel products from China.",
-          "why": "Reduced production capacity and closures among local steel mills and metal fabrication shops directly shrink the consumption of heavy grinding discs and cutoff wheels.",
-          "action": "Shift abrasive sales focus away from struggling standard structural steel workshops toward higher-margin stainless steel and precision sheet metal fabricators.",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UYW10Tk1DUVRKUmhSc0EtelBFYk5QMlZpSE5XTGR1S1FEaGFuVExkWVVjZ3Fyc3dnek5ZNlozMWNUNWxSQTVrY3FmOTVDT0MzX0E2SjZkYm1QQ28?oc=5",
+          "title": "Ten Steel Associations Urge Ministry of Industry to Curb Cheap Imports and Regulate IF Mills",
+          "summary": "Thai steel associations submitted a petition demanding strict TISI quality controls against dumped Chinese imports and regulatory enforcement on induction furnace (IF) mills.",
+          "why": "Protecting compliant domestic steel mills and fabricators stabilizes structural steel processing, which sustains heavy-duty grinding wheel and flap disc sales.",
+          "action": "Focus marketing of heavy-duty grinding discs and belts on compliant, standard-certified Thai structural steel and fabrication plants.",
           "th": {
-            "title": "อุตสาหกรรมเหล็กไทยเผชิญวิกฤตหนักจากยอดใช้ต่ำและการทุ่มตลาดเหล็กราคาถูกจากจีน",
-            "summary": "ผู้ผลิตเหล็กในประเทศระบุสถานการณ์ตลาดเหมือนอยู่ในสนามรบ หลังเผชิญทั้งภาวะความต้องการซบเซาและสินค้าเหล็กเตา IF ราคาถูกจากจีนทะลักเข้ามากดดันอย่างต่อเนื่อง",
-            "why": "การลดกำลังการผลิตและการหยุดกิจการของโรงหลอมและโรงงานโครงสร้างเหล็กส่งผลให้ยอดการใช้งานใบเจียรและใบตัดลดลงตามไปด้วย",
-            "action": "ปรับสัดส่วนการขายโดยเบนเข็มจากโรงงานโครงสร้างเหล็กทั่วไป ไปยังกลุ่มแปรรูปสเตนเลสและงานโลหะแผ่นความแม่นยำสูงที่มีมูลค่าเพิ่มมากกว่า"
+            "title": "10 สมาคมเหล็กจี้กระทรวงอุตสาหกรรมคุมเข้มเหล็กจีนทะลัก พร้อมจัดระเบียบเตา IF",
+            "summary": "กลุ่ม 10 สมาคมเหล็กไทยยื่นหนังสือเรียกร้องให้บังคับใช้มาตรฐาน มอก. อย่างเข้มงวดเพื่อสกัดเหล็กจีนทุ่มตลาด และเร่งควบคุมมาตรฐานโรงงานเหล็กที่ใช้เตาเหนี่ยวนำไฟฟ้า (IF)",
+            "why": "การปกป้องผู้ผลิตเหล็กในประเทศที่ได้มาตรฐานช่วยรักษาปริมาณงานแปรรูปโครงสร้างโลหะ ซึ่งช่วยพยุงยอดขายหินเจียร ใบเจียร และจานทรายซ้อนของ MK",
+            "action": "มุ่งทำการตลาดผลิตภัณฑ์ใบเจียรและสายพานผ้าทรายสำหรับงานหนักกับกลุ่มโรงงานแปรรูปโลหะและโครงสร้างเหล็กที่ได้รับมาตรฐาน มอก."
+          }
+        },
+        {
+          "id": "20261016-4",
+          "tag": "furniture",
+          "rating": "amber",
+          "source": "posttoday",
+          "date": "2026-02-20",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxXzVZOHRNaDlMYzJBM2F6S1FPc0Vkcy1Sc2JWRnl1VklJY2ZCSEpsOUJ0RG13b0I1cHBpXzBUOUhlSHdpdV9uV1cyZGJHT2pNaF83cw?oc=5",
+          "title": "ASEAN Furniture Sector Expands with Four Major Exporting Nations Leading",
+          "summary": "The ASEAN furniture industry is showing robust expansion, with Thailand, Vietnam, Malaysia, and Indonesia capturing 90% of regional furniture exports through sustainable production.",
+          "why": "Steady wooden furniture production for export drives recurring demand for wood sanding paper, wide sanding belts, and fine-finishing abrasives.",
+          "action": "Promote wide sanding belts and finish-sanding abrasive rolls to leading export-oriented wooden furniture factories.",
+          "th": {
+            "title": "อุตสาหกรรมเฟอร์นิเจอร์อาเซียนขยายตัว โดยมี 4 ชาติหลักครองส่วนแบ่งส่งออก 90%",
+            "summary": "อุตสาหกรรมเฟอร์นิเจอร์ในกลุ่มอาเซียนยังคงเติบโต โดยไทย เวียดนาม มาเลเซีย และอินโดนีเซีย ครองส่วนแบ่งการส่งออกรวมกันถึง 90% โดยเน้นงานผลิตไม้ที่ยั่งยืน",
+            "why": "การผลิตเฟอร์นิเจอร์ไม้เพื่อการส่งออกอย่างต่อเนื่องช่วยสร้างความต้องการใช้กระดาษทรายขัดไม้ สายพานหน้ากว้าง และวัสดุขัดผิวละเอียดอย่างสม่ำเสมอ",
+            "action": "นำเสนอสินค้าสายพานขัดไม้หน้ากว้างและม้วนกระดาษทรายสำหรับงานขัดละเอียดแก่โรงงานผลิตเฟอร์นิเจอร์ไม้ส่งออกชั้นนำ"
           }
         }
       ],
