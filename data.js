@@ -2,6 +2,107 @@
 window.NEWS_ARCHIVE = {
   "days": [
     {
+      "date": "2026-10-17",
+      "summary": "Today features limited new developments, but key highlights include Thai government pressure on Chinese EV makers to source local parts, prospective 30% CBU tariffs driving domestic assembly, and AirAsia's push into Thai MRO operations.",
+      "directCount": 3,
+      "th": {
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยประเด็นเด่นคือแรงผลักดันภาครัฐให้ค่ายรถจีนใช้ชิ้นส่วนในประเทศ นโยบายเตรียมเก็บภาษี EV นำเข้า 30% เพื่อเร่งการผลิตในไทย และแอร์เอเชียเล็งขยายศูนย์ซ่อม MRO ในไทย"
+      },
+      "items": [
+        {
+          "id": "20261017-1",
+          "tag": "auto",
+          "rating": "green",
+          "source": "commercenewsagency",
+          "date": "2026-09-25",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wZXd2YXhtWWpXczRGaVdJeVpnWTNRZE9Bb0dxSzYxb01FZEk0WTlMTk1VLWM4WGxINmdHY2hzTW1jdlhhNWh4U2pnYVl0Q0lRNnNuZGhJVQ?oc=5",
+          "title": "Commerce Ministry Urges GWM and SAIC to Increase Local EV Parts Sourcing",
+          "summary": "The Ministry of Commerce met with Chinese automakers GWM and SAIC Motor, urging them to expand investment and increase the utilization of local Thai automotive components.",
+          "why": "Higher local content requirements force OEMs to procure stamped metal, chassis, and battery enclosures locally, driving consumable abrasive demand among Tier 1 and Tier 2 suppliers.",
+          "action": "Map out the Tier 1 stamping and fabrication suppliers supplying GWM and SAIC to offer MK flap discs and deburring belts.",
+          "th": {
+            "title": "พาณิชย์ถก GWM-SAIC ดึงค่ายรถจีนเพิ่มลงทุนและใช้ชิ้นส่วนในไทย",
+            "summary": "กระทรวงพาณิชย์เจรจากับผู้ผลิตรถยนต์ไฟฟ้ารายใหญ่จากจีน GWM และ SAIC Motor เพื่อผลักดันการเพิ่มสัดส่วนการใช้ชิ้นส่วนยานยนต์ที่ผลิตภายในประเทศ",
+            "why": "การบังคับใช้ชิ้นส่วนในประเทศจะกระตุ้นให้โรงงานปั๊มขึ้นรูปโลหะ โครงรถ และถาดแบตเตอรี่ในไทยเร่งผลิต ส่งผลให้ยอดใช้วัสดุขัด เจียร และลบครีบคมเพิ่มขึ้น",
+            "action": "ตรวจสอบรายชื่อซัพพลายเออร์ชิ้นส่วน Tier 1 ของ GWM และ SAIC เพื่อส่งทีมขายเข้าเสนอกลุ่มจานทรายและสายพานขัดรอยเชื่อม"
+          }
+        },
+        {
+          "id": "20261017-2",
+          "tag": "auto",
+          "rating": "green",
+          "source": "RYT9",
+          "date": "2026-09-23",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9Dcm1TZjJlUFRId21uZlRHRWxVSDZxMUhlWVoxZV9PalpGUFZCTGNOU3l1OVlXN2V2YzN6X1dVUUl3X1pxUDFQc1BB?oc=5",
+          "title": "Finance Ministry Weighs 30% Tariff on Imported CBU EVs to Spur Local Assembly",
+          "summary": "Thailand's Ministry of Finance plans to levy an import tariff of around 30% on completely built-up (CBU) electric vehicles to compel foreign brands to manufacture locally.",
+          "why": "A steep tariff on finished imports accelerates domestic vehicle assembly and sheet metal surface prep work inside Thai factories.",
+          "action": "Prepare product bundles including orbital sanders and fine-grit finishing paper tailored for OEM body-in-white (BIW) prep lines.",
+          "th": {
+            "title": "คลังเล็งเก็บภาษี EV นำเข้าสำเร็จรูปราว 30% บีบเปิดไลน์ผลิตในไทย",
+            "summary": "กระทรวงการคลังเตรียมออกมาตรการเก็บภาษีนำเข้ารถยนต์ไฟฟ้าทั้งคัน (CBU) ประมาณ 30% เพื่อจูงใจให้ค่ายรถยนต์ตั้งสายการผลิตในประเทศ",
+            "why": "กำแพงภาษีนำเข้าจะเร่งให้เกิดการประกอบตัวถังและงานเตรียมผิวกระดาษทรายในโรงงานไทยแทนการนำเข้ารถสำเร็จรูป",
+            "action": "จัดชุดสินค้ากระดาษทรายกลมและระบบขัดละเอียดรองรับไลน์เตรียมผิวก่อนพ่นสีของโรงงานประกอบยานยนต์"
+          }
+        },
+        {
+          "id": "20261017-3",
+          "tag": "aero",
+          "rating": "green",
+          "source": "Facebook",
+          "date": "2026-09-18",
+          "url": "https://news.google.com/rss/articles/CBMiiAdBVV95cUxQMkhrTnQ5Y3dtWlh3cUtub3MtbWRTNFJsQzA4ZG9sNzR0ZHRtM1QzallzSEFydlBvaFJqSG04Yy1IbnJxel95UU5DY3Z3VUVwRVhrV1ByZTFjcUc4aXNSc1Nwd0ZWSzdrZFNDYmRFWnlHS1h5cmk5QVg5NHhWaGlMVlhYNFUxS19hSDNrN3luZ1BWR1lleGFJV2xiSldyZjdKcjBKa2Jja09uNElYYUM0bXJIZUl0dkQ0aUFXcEJDN1k4ZDZ5UWJ6bjd3cVJDYlRlV05mVC1iZlhWQVc1clhyVzZWUnFnMjZKQzlMcExZX2Q2Vl9mSXVDWVktNzhEWUZBMG9WOHhqclUzX0ppb0N5QnN1clZkR2RKUXJJVGNwUXc0U3JmVlEtQ2xxUWhsQTFuRWtyUHJheUdQNl96cjZnN3BJY1VlR2dtNHJhQU5jYnBtQ0VrdDQ3MExhUGlBQ3lGNFhmaWdXWDdDcjdXZVU4b0lQX3JnSFN1UXMtWjRxMWNZQ09Rb2NTelVQQWx5SWNNRkdBWTBObzBiQ0lFM2U5SzJ0VXpfTWtVa0pfaXVvekh6TlNpU1Zvd2tjWEF1R2htcGEtWnFBVkx2ZDhpaTBmbjVTZklEUWFNcVl3NElnMkI2YTdyd0ZUellYNkU3QnpQLWJYNGFlMko3UXFXYWNhaW1Hejh0NVk5YnB1cVQya3I5MFA3d1pjR04tZ1EydUdXWW9UUjlYUWlIbHJMQ1JDTG85eTBMRFRPY1V5T2JTMC1zWnZlV3JoSU43SXV0UkJsOTVnZGY0LV9CcEtjLTIyd3Fvem1hcV9wVzk1dkNsOGlwNUhDbDdRbXlOTUdaeGlpLU5WVHdnZEtNM2VWVi1UenNCaHk2UjdHSVNKYmRhV0h5ZFVyV0NDc1VmZjRrRUUxcUZJbFNlVmlKWTZpY3p1aDA3X2NSTVA0VTNUS1FNeWUxUFdSRkxmWXdjVDcwN3RBYV9CS0hjQzIyUnJCa0pyTHJiNWg5eXExMkpoSG1YVXF1eWpaQ1ZYdTFEZjVnWHhzcEpmc3pqaFRzNXZzcUNLSFFaX1Z5UVJDWXdWSV8xa0dGblpNVXJ4TmpsUlR6cEpuWW40a2pFdXJXalRqSF9SSml6SkRzcG9NdWU5RGNFMUdsVlh3ZmowemY2TzNKRFp2RGRwRmdDSWc5WFFIRnkzZ0FDVVRQTkxm?oc=5",
+          "title": "AirAsia Eyes Major Aircraft MRO Investment in Thailand Backed by Strong Liquidity",
+          "summary": "AirAsia chief Tony Fernandes affirmed strong group cash reserves of over $1 billion and signaled aggressive plans to expand aircraft maintenance, repair, and overhaul (MRO) facilities in Thailand.",
+          "why": "Expansion of commercial fleet maintenance hubs creates high-margin demand for aerospace-grade precision abrasives, non-woven scouring pads, and surface stripping discs.",
+          "action": "Fast-track technical certification and audit compliance for MK aviation-grade abrasives to approach AirAsia's maintenance engineering team.",
+          "th": {
+            "title": "แอร์เอเชียสภาพคล่องแกร่ง เดินหน้าปักหมุดลงทุนศูนย์ซ่อม MRO ในไทย",
+            "summary": "โทนี่ เฟอร์นานเดส ยืนยันแอร์เอเชียมีเงินสดสำรองกว่า 1 พันล้านดอลลาร์ พร้อมเดินหน้ารุกลงทุนศูนย์ซ่อมบำรุงอากาศยาน (MRO) ในประเทศไทย",
+            "why": "ศูนย์ซ่อมบำรุงเครื่องบินขนาดใหญ่ต้องการวัสดุขัดเกรดอากาศยานสำหรับงานลอกสี ขัดแต่งโลหะผสม และงานเตรียมผิวที่มีมาร์จิ้นสูง",
+            "action": "เร่งเตรียมเอกสารรับรองมาตรฐานวัสดุขัดเกรดการบิน เพื่อนำเสนอฝ่ายจัดซื้อของศูนย์ซ่อมบำรุงอากาศยานแอร์เอเชีย"
+          }
+        },
+        {
+          "id": "20261017-4",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "กรมส่งเสริมการค้าระหว่างประเทศ (DITP)",
+          "date": "2026-09-23",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pWWtMYlMtbEc3eTVkcWVCTTlQQ0Z5UWZUTTFLSmhCcE5XRFVYeGlMQ2JjVVZSOHE2U2RPSlNPUzhpRHduSjExdUFSZXZrVEhFMDgzQ3NuNFdUbEdVVjRnNDh3?oc=5",
+          "title": "Ford Explores Chennai Plant as Asia-Pacific EV Production Hub",
+          "summary": "Ford Motor is evaluating the repurposing of its Chennai manufacturing plant in Tamil Nadu, India, as an export-oriented EV production base for the Asia-Pacific region.",
+          "why": "Indicates rising regional competition from India, which could divert export-focused EV model lines away from Ford's Rayong facilities in Thailand.",
+          "action": "Monitor Ford Thailand's local plant utilization and diversify sales outreach toward Japanese and European Tier 1 auto body producers.",
+          "th": {
+            "title": "ฟอร์ดเล็งใช้โรงงานเจนไนเป็นฐานส่งออก EV ตะลุยเอเชียแปซิฟิก",
+            "summary": "ฟอร์ด มอเตอร์ พิจารณาฟื้นฟูโรงงานในเมืองเจนไน ประเทศอินเดีย ให้กลายเป็นฐานผลิตและส่งออกรถยนต์ไฟฟ้าสำหรับภูมิภาคเอเชียแปซิฟิก",
+            "why": "สะท้อนแรงแข่งขันระดับภูมิภาคจากอินเดียที่อาจแย่งชิงโควตาการผลิตรถ EV ส่งออกจากโรงงานฟอร์ดในจังหวัดระยอง",
+            "action": "ติดตามกำลังการผลิตของโรงงานฟอร์ดในระยอง พร้อมกระจายความเสี่ยงไปยังผู้ผลิตชิ้นส่วนยานยนต์ค่ายญี่ปุ่นและยุโรปเพิ่มเติม"
+          }
+        },
+        {
+          "id": "20261017-5",
+          "tag": "furniture",
+          "rating": "amber",
+          "source": "กรมส่งเสริมการค้าระหว่างประเทศ (DITP)",
+          "date": "2025-10-08",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WZ0s3TnpGQ1JjZHJpVkhVQ19La3lwT2hjMTR3cXZlczhtby1WNnFQaUcxb2RUZ1FPcGgwQTRWa2t6TnN4d3NNUXF6bXVjOEpKY3FrWlFocm9nRnJ5UGdZOFd3?oc=5",
+          "title": "Furniture Manufacturers Anticipate Order Declines Under New US Import Tariffs",
+          "summary": "Furniture exporters project a drop in international orders following tightened US tariff regulations on wood and furniture imports.",
+          "why": "Weaker export order volumes reduce sanding operations and wide-belt abrasive consumption across domestic wood and furniture manufacturing plants.",
+          "action": "Pivot marketing of wood sanding belts and orbital discs toward domestic interior contractors and B2C woodworkers on Shopee and TikTok.",
+          "th": {
+            "title": "ผู้ผลิตเฟอร์นิเจอร์รับมือออเดอร์ชะลอตัว หลังสหรัฐฯ ปรับนโยบายภาษีนำเข้า",
+            "summary": "ผู้ผลิตและส่งออกเฟอร์นิเจอร์คาดการณ์คำสั่งซื้อลดลงหลังสหรัฐฯ บังคับใช้นโยบายเรียกเก็บภาษีนำเข้าฉบับใหม่สำหรับสินค้าเฟอร์นิเจอร์",
+            "why": "ยอดสั่งซื้อจากสหรัฐฯ ที่ลดลงจะกระทบอัตราการเดินเครื่องขัดไม้และลดการใช้กระดาษทรายสายพานหน้ากว้างในโรงงานเฟอร์นิเจอร์ไทย",
+            "action": "ปรับสัดส่วนการขายสายพานขัดไม้และกระดาษทรายกลมไปเน้นกลุ่มงานตกแต่งภายในและช่างไม้ DIY ผ่านช่องทาง Shopee และ TikTok"
+          }
+        }
+      ],
+      "terms": {}
+    },
+    {
       "date": "2026-10-16",
       "summary": "Today has limited new updates; the primary highlight is the EV Board's plan to overhaul excise taxes on imported vehicles to force localized manufacturing, which directly supports domestic automotive parts fabrication and abrasive demand.",
       "directCount": 1,
@@ -919,5 +1020,5 @@ window.NEWS_ARCHIVE = {
       "terms": {}
     }
   ],
-  "updated": "2026-10-16"
+  "updated": "2026-10-17"
 };
