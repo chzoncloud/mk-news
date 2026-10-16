@@ -4,82 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-16",
-      "summary": "Today's briefing highlights shifts in the global steel market due to protectionism and supply issues, alongside high-performance coil coatings and India's abrasives sector positioning.",
-      "directCount": 2,
+      "summary": "Today's briefing focuses on emerging green coating technologies, wood sanding machinery growth, and global steel trade shifts driven by tariffs and AI booms.",
+      "directCount": 3,
       "th": {
-        "summary": "สรุปรายงานประจำวันนี้เน้นย้ำการเปลี่ยนแปลงในตลาดเหล็กโลกจากมาตรการปกป้องทางการค้าและปัญหาด้านอุปทาน พร้อมด้วยเทคโนโลยีเคลือบผิวคอยล์สมรรถนะสูงและทิศทางอุตสาหกรรมวัสดุขัดในอินเดีย"
+        "summary": "สรุปประเด็นวันนี้เน้นไปที่เทคโนโลยีสีเคลือบที่เป็นมิตรต่อสิ่งแวดล้อม การเติบโตของเครื่องขัดกระดาษทรายสำหรับงานไม้ และการเปลี่ยนแปลงการค้าเหล็กโลกจากผลกระทบของกำแพงภาษีและกระแส AI"
       },
       "items": [
         {
           "id": "20261016-w1",
-          "tag": "steel",
+          "tag": "coating",
           "rating": "amber",
-          "source": "S&P Global",
-          "date": "2026-01-12",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
-          "title": "Global steel industry battles surplus supply, protectionism",
-          "summary": "The international steel sector faces ongoing challenges from oversupply and increasing trade protectionism across major economies.",
-          "why": "Steel production volume and surface finishing requirements directly influence the demand for heavy-duty grinding, deburring, and abrasive belt products.",
-          "action": "Monitor steel mill operating rates to anticipate fluctuations in regional demand for metal preparation abrasives.",
+          "source": "Market Business Insights",
+          "date": "2026-10-15",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBSDItTlp3MlgweDg2N3hibzBRRVgwVGJKa3RRWUpXc0pMcjJ3U241dE1LcnRYR3hna3hBUjNRdzZBdFIwUUEtTnd1MlFYdXIwTGpOVWNCVWpjeU45M1JISk1tVkZUYVpjR25UVUN3?oc=5",
+          "title": "Green Coatings Market Size & Growth Analysis, 2026-2035",
+          "summary": "The global market for green coatings is expanding rapidly through 2035, driven by strict environmental regulations and sustainable manufacturing demands.",
+          "why": "Eco-friendly surface treatments change how manufacturers prepare substrates, directly impacting the demand for specialized sanding and finishing supplies.",
+          "action": "Monitor environmentally friendly surface prep standards and ensure our product line aligns with green manufacturing trends.",
           "th": {
-            "title": "อุตสาหกรรมเหล็กโลกเผชิญหน้ากับภาวะล้นตลาดและลัทธิคุ้มครองทางการค้า",
-            "summary": "ภาคอุตสาหกรรมเหล็กค้าระหว่างประเทศกำลังเผชิญกับความท้าทายจากภาวะอุปทานส่วนเกินและมาตรการกีดกันทางการค้าที่เพิ่มขึ้นในเศรษฐกิจหลัก",
-            "why": "ปริมาณการผลิตเหล็กและความต้องการในการเตรียมพื้นผิวส่งผลโดยตรงต่อความต้องการผลิตภัณฑ์กระดาษทรายสายพาน งานเจียร และงานลบคม",
-            "action": "ติดตามอัตราการดำเนินงานของโรงงานเหล็กเพื่อคาดการณ์ความผันผวนของความต้องการใช้วัสดุขัดสำหรับการเตรียมผิวโลหะในภูมิภาค"
+            "title": "การวิเคราะห์ขนาดและการเติบโตของตลาดสีเคลือบสีเขียว ปี 2026-2035",
+            "summary": "ตลาดสีเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมทั่วโลกกำลังขยายตัวอย่างรวดเร็วถึงปี 2035 ขับเคลื่อนโดยกฎระเบียบด้านสิ่งแวดล้อมที่เข้มงวดและความต้องการการผลิตที่ยั่งยืน",
+            "why": "การเตรียมพื้นผิวที่เป็นมิตรต่อสิ่งแวดล้อมเปลี่ยนแปลงวิธีที่ผู้ผลิตเตรียมชิ้นงาน ซึ่งส่งผลโดยตรงต่อความต้องการวัสดุกัดและอุปกรณ์ขัดตกแต่งเฉพาะทาง",
+            "action": "ติดตามมาตรฐานการเตรียมพื้นผิวที่เป็นมิตรต่อสิ่งแวดล้อม และตรวจสอบว่าสินค้าของเราสอดคล้องกับเทรนด์การผลิตสีเขียว"
           }
         },
         {
           "id": "20261016-w2",
-          "tag": "coating",
+          "tag": "abrasive",
           "rating": "green",
-          "source": "PR Newswire UK",
-          "date": "2026-05-08",
-          "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQLWJCTzl4bnlhbUl3c2o5aXByM0Mxc3k0cUtGTHJQak5MYVNSNDk1bk50b29XS3BJbS1ySXFhV3dhWXRuMXB0bVB2Z2Q1WVN6UjRJY0N2LWpsNFRvU2o0aUU2dkx3d2htTVMxYURkLWxINlcydFRqdG1PV1ZaRWxtNndMMkc2T1hNenN2R0tBdlFaUllWV1d1N2huRTE2TlNOM0lxSEhlbkw5ajhSR0YtZWFVb01TZXlJS1VCbXNibWRreEVWQnVOUk5halB6YzBJdnNBZTJrOWxwdHppOG5jZWVETWJ0XzJuOE1mb2JqNEpmXzAxcDF4TGtRRWxaaW9DTzFPYUZCa28wbmp1ZGhtRVZ0X19lZ1ZqSUotLW1GaC0xRHRJNmNLdXVqOXNJdlpHQkF1NklvTXJOOWM?oc=5",
-          "title": "Coil Coatings Market to Reach USD 9.2 Billion by 2035 as Sustainable, High-Performance Coating Technologies Transform Construction and Industrial Applications",
-          "summary": "The coil coatings market is expanding rapidly, driven by demand for sustainable and high-performance pre-painted metal solutions in construction and industry.",
-          "why": "Coil coating lines require extensive surface preparation, cleaning, and mechanical sanding before application, creating steady demand for industrial abrasive systems.",
-          "action": "Target coil coating and pre-finished metal processors with specialized surface preparation abrasive solutions.",
+          "source": "Market.us",
+          "date": "2026-01-22",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ISWl4S1FIYTlibDJlR001VnBXdy1xQ1ZobnhYTzBkc3pWOEdrOFQ4VWl2VzA5NjNDcGp3VEU3ZGQ2R0VFdXQwRmZxVEVpOTE4dVl4RlF4WlBHX3pXQ3QtTkJQWQ?oc=5",
+          "title": "Wood Sanding Machine Market Size, Share | CAGR of 4.3%.",
+          "summary": "The wood sanding machine market continues steady growth with a projected 4.3% CAGR, indicating robust activity in furniture and wood processing sectors.",
+          "why": "More automated and specialized wood sanding machines mean higher demand for continuous, high-performance abrasive belts and sanding rolls.",
+          "action": "Strengthen stock and marketing for wide belts and abrasive products tailored for wood processing and furniture manufacturing.",
           "th": {
-            "title": "ตลาดเคลือบผิวคอยล์คาดว่าจะเติบโตถึง 9.2 พันล้านดอลลาร์สหรัฐภายในปี 2035 จากเทคโนโลยีเคลือบผิวที่ยั่งยืนและมีประสิทธิภาพสูง",
-            "summary": "ตลาดการเคลือบผิวคอยล์กำลังขยายตัวอย่างรวดเร็ว ขับเคลื่อนโดยความต้องการโซลูชันโลหะเคลือบสียอดนิยมที่มีความยั่งยืนและประสิทธิภาพสูงในงานก่อสร้างและอุตสาหกรรม",
-            "why": "กระบวนการเคลือบผิวคอยล์จำเป็นต้องมีการเตรียมพื้นผิว การทำความสะอาด และการขัดด้วยเครื่องจักรก่อนพ่นเคลือบ ซึ่งสร้างความต้องการใช้วัสดุขัดอุตสาหกรรมอย่างต่อเนื่อง",
-            "action": "มุ่งเน้นเจาะกลุ่มลูกค้าผู้แปรรูปโลหะเคลือบและคอยล์ด้วยโซลูชันวัสดุกระดาษทรายสำหรับเตรียมพื้นผิวโดยเฉพาะ"
+            "title": "ขนาดและส่วนแบ่งตลาดเครื่องขัดกระดาษทรายไม้ อัตราการเติบโต CAGR 4.3%",
+            "summary": "ตลาดเครื่องขัดกระดาษทรายไม้ยังคงเติบโตอย่างต่อเนื่องด้วยอัตรา CAGR ที่คาดการณ์ไว้ที่ 4.3% บ่งบอกถึงกิจกรรมที่แข็งแกร่งในอุตสาหกรรมเฟอร์นิเจอร์และแปรรูปไม้",
+            "why": "เครื่องขัดไม้ที่มีความอัตโนมัติและเฉพาะทางมากขึ้นแปลว่าความต้องการสายพานขัดและกระดาษทรายม้วนที่มีประสิทธิภาพสูงและต่อเนื่องจะเพิ่มขึ้นตามไปด้วย",
+            "action": "เพิ่มสต็อกและการทำตลาดสำหรับสายพานขัดหน้ากว้างและผลิตภัณฑ์กระดาษทรายที่เหมาะกับอุตสาหกรรมแปรรูปไม้และเฟอร์นิเจอร์"
           }
         },
         {
           "id": "20261016-w3",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "Univest",
-          "date": "2026-08-07",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFMG44UFZ0TFdzby1NbUVUZGRublRBUzZOaENmTzRwWlN3Vm5KZXJIbGx0Ukt4VU5WS3BUV2hLSXZOMnItMDhzQk5RczlmZERBd1oyN2hoUF8tbFJmQy12YnZKYzlzYi0wZlhabA?oc=5",
-          "title": "Grindwell Norton Share Pros and Cons: Saint-Gobain's India Abrasives Subsidiary",
-          "summary": "Market analysis of Grindwell Norton, Saint-Gobain's abrasives subsidiary in India, highlights regional growth and competitive dynamics in the manufacturing sector.",
-          "why": "Monitoring major multinational players like Saint-Gobain and their regional subsidiaries offers a benchmark for global pricing, product innovation, and supply trends.",
-          "action": "Keep track of competitor moves in emerging Asian manufacturing hubs to benchmark product quality and supply chain strategies.",
-          "th": {
-            "title": "วิเคราะห์หุ้น Grindwell Norton: บริษัทลูกด้านวัสดุขัดในอินเดียของ Saint-Gobain",
-            "summary": "การวิเคราะห์ตลาดของ Grindwell Norton ซึ่งเป็นบริษัทลูกด้านวัสดุขัดของ Saint-Gobain ในอินเดีย สะท้อนให้เห็นถึงการเติบโตระดับภูมิภาคและพลวัตการแข่งขันในภาคการผลิต",
-            "why": "การติดตามผู้เล่นข้ามชาติรายใหญ่เช่น Saint-Gobain และบริษัทลูกช่วยให้เห็นเกณฑ์มาตรฐานด้านราคาระดับโลก นวัตกรรมผลิตภัณฑ์ และแนวโน้มอุปทาน",
-            "action": "ติดตามความเคลื่อนไหวของคู่แข่งในศูนย์กลางการผลิตที่กำลังเติบโตในเอเชีย เพื่อใช้เป็นเกณฑ์มาตรฐานด้านคุณภาพสินค้าและกลยุทธ์ห่วงโซ่อุปทาน"
-          }
-        },
-        {
-          "id": "20261016-w4",
           "tag": "steel",
           "rating": "amber",
-          "source": "The World Economic Forum",
-          "date": "2026-04-21",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeFBmZTNpZDhjN1lHNlBlU0duZ3ZQWW9uanI0SWs3SDFVazlpbVVXMklqSTVjbDloUEI4NW1Ca2dGckgzanh5UlRfX1F5QlVfQWFZNGdSS1h5bHNIUElCTk9LeUktaGd2VWxwRDAyMGJmQ1F6ZHVEOURKVjF3MVdHWGd0OG4zYTNtUk0yZkp0QXN4R3p5LUEtWkFzODBVdUdlTVpLNTh3ZjQtTGJuanlfS0Y5dWVLVEo1WkEybk96dVY?oc=5",
-          "title": "How the Iran war is disrupting India's steel production amid fuel shortages and rising costs",
-          "summary": "Geopolitical conflicts and fuel shortages are causing severe disruptions in India's steel manufacturing sector, inflating production costs.",
-          "why": "Supply disruptions in key steel-producing regions impact raw material availability and pricing for downstream metal fabrication industries.",
-          "action": "Diversify abrasive product sourcing and monitor regional metal pricing volatility to protect B2B margins.",
+          "source": "https://economy.ac/",
+          "date": "2026-08-07",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YQWhOYlJ3eW9jTUhwa25XdE55eHh3a2JoODhWdDAtOW00UzhXcWwtNnJJXzZGMjMtNXN6MTYwTUhib3ZHUDNXaTdIbWY2N092QXNsOXFfdw?oc=5",
+          "title": "'Trump Tariffs and AI Boom' Propel U.S. Steel Past Japan to World No. 3 for First Time in 26 Years",
+          "summary": "U.S. steel production surged past Japan to become the world's number three producer, fueled by trade tariffs and data center/AI infrastructure demand.",
+          "why": "Shifts in global steel production hubs change regional metal fabrication volumes and alter where abrasive distributors should target industrial customers.",
+          "action": "Keep an eye on how North American steel output and fabrication activity influence global raw material and abrasive pricing.",
           "th": {
-            "title": "สงครามอิหร่านส่งผลกระทบต่อการผลิตเหล็กของอินเดียท่ามกลางปัญหาขาดแคลนเชื้อเพลิงและต้นทุนที่สูงขึ้น",
-            "summary": "ความขัดแย้งทางภูมิรัฐศาสตร์และการขาดแคลนเชื้อเพลิงกำลังสร้างความเสียหายอย่างหนักต่อภาคการผลิตเหล็กของอินเดีย ส่งผลให้ต้นทุนการผลิตสูงขึ้น",
-            "why": "การหยุดชะงักของห่วงโซ่อุปทานในภูมิภาคผลิตเหล็กหลักส่งผลต่อความพร้อมและราคาของวัตถุดิบสำหรับอุตสาหกรรมแปรรูปโลหะปลายน้ำ",
-            "action": "กระจายแหล่งจัดซื้อผลิตภัณฑ์วัสดุขัดและติดตามความผันผวนของราคาโลหะในภูมิภาคเพื่อปกป้องอัตรากำไรของธุรกิจ B2B"
+            "title": "'ภาษีทรัมป์และบูม AI' ผลักดันเหล็กสหรัฐฯแซงญี่ปุ่นขึ้นสู่อันดับ 3 ของโลกในรอบ 26 ปี",
+            "summary": "การผลิตเหล็กของสหรัฐฯ พุ่งแซงญี่ปุ่นขึ้นเป็นผู้ผลิตอันดับ 3 ของโลก ได้รับแรงหนุนจากกำแพงภาษีการค้าและความต้องการโครงสร้างพื้นฐานดาต้าเซ็นเตอร์/AI",
+            "why": "การเปลี่ยนแปลงของศูนย์กลางการผลิตเหล็กโลกส่งผลต่อปริมาณงานขึ้นรูปโลหะในภูมิภาค และเปลี่ยนเป้าหมายที่ผู้จัดจำหน่ายวัสดุกัดควรเข้าหาลูกค้าอุตสาหกรรม",
+            "action": "จับตาดูว่าผลผลิตเหล็กและกิจกรรมการขึ้นรูปในอเมริกาเหนือส่งผลกระทบต่อราคาวัตถุดิบและราคาสินค้ากลุ่ม abrasives ทั่วโลกอย่างไร"
           }
         }
       ]
