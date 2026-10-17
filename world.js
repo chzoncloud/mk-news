@@ -4,82 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-18",
-      "summary": "Today's briefing highlights new superhard diamond sanding technology in China, Klingspor's latest flap disc release, and key shifts in European steel regulations and global EV manufacturing.",
-      "directCount": 2,
+      "summary": "Today's briefing focuses on global industrial shifts, highlighting sustainable coating tech, structural changes in US-Japan steel production, and the evolving metal casting market that impacts surface preparation and finishing demands.",
+      "directCount": 3,
       "th": {
-        "summary": "สรุปประเด็นข่าววันนี้เน้นเทคโนโลยีสายพานขัดเพชรความแข็งสูงจากจีน การเปิดตัวใบเจียรใบพัดรุ่นใหม่จาก Klingspor รวมถึงการเปลี่ยนแปลงด้านกฎระเบียบเหล็กในยุโรปและการผลิต EV ระดับโลก"
+        "summary": "สรุปข่าวสารประจำวันนี้เน้นการเปลี่ยนแปลงในอุตสาหกรรมระดับโลก ทั้งเทคโนโลยีสารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อม การเปลี่ยนแปลงโครงสร้างการผลิตเหล็กระหว่างสหรัฐฯ และญี่ปุ่น รวมถึงตลาดการหล่อโลหะที่ส่งผลต่อความต้องการงานเตรียมพื้นผิวและขัดแต่ง"
       },
       "items": [
         {
           "id": "20261018-w1",
-          "tag": "abrasive",
+          "tag": "coating",
           "rating": "green",
-          "source": "The National Law Review",
-          "date": "2026-10-16",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONzc1UG5lV0E3Z2JCYnd2dFpLZmt2VTRYVEk5cHlBS2FYaDIzNHNJeTNBd3R3dDE0cFF4QlhNZE9ZX3N4enpseURtMGRTMmFHRWNPdmY2NlZ2R1F6b01ma01GXzlTMXlJd3FJdzZsY093dEVCczVVNTNPaU56Z2l0emR3d2hPNDQwT2xDY01CZW5Ib195T3RMR0tQdTY0d1FwdGgxWnB5RGI1aXpwRkNXWnln?oc=5",
-          "title": "Five Reputable Diamond Sanding Belts Manufacturers in China 2026: Optimizing Superhard Abrasive Machining",
-          "summary": "An analysis of top Chinese manufacturers optimizing diamond sanding belts for superhard abrasive machining applications.",
-          "why": "Direct competitor and material trend intelligence regarding superhard diamond abrasives and sanding belts.",
-          "action": "Monitor advanced superhard abrasive manufacturing developments coming out of China.",
+          "source": "European Coatings",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
+          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
+          "summary": "The European coatings sector is driving forward with new digital innovations and sustainability initiatives to reshape the future of surface finishing.",
+          "why": "Surface coatings and abrasive sanding are closely linked; shifts in coating formulations often require new surface preparation and polishing techniques.",
+          "action": "Monitor European surface treatment trends to anticipate upcoming changes in substrate preparation requirements.",
           "th": {
-            "title": "5 ผู้ผลิตสายพานขัดเพชรที่มีชื่อเสียงในจีนปี 2026: การเพิ่มประสิทธิภาพการตัดเฉือนวัสดุแข็งพิเศษ",
-            "summary": "บทวิเคราะห์ผู้ผลิตชั้นนำของจีนที่กำลังพัฒนาสายพานขัดเพชรสำหรับการตัดเฉือนวัสดุที่มีความแข็งสูง",
-            "why": "ข้อมูลเชิงลึกด้านคู่แข่งและวัสดุเกี่ยวกับสารขัดถูเพชรความแข็งสูงและสายพานขัด",
-            "action": "ติดตามการพัฒนาการผลิตสารขัดถูความแข็งสูงขั้นสูงจากประเทศจีน"
+            "title": "กำหนดอนาคตใหม่แห่งสารเคลือบ: นวัตกรรม ความยั่งยืน และพลังแห่งดิจิทัล",
+            "summary": "อุตสาหกรรมสารเคลือบในยุโรปกำลังขับเคลื่อนด้วยนวัตกรรมดิจิทัลและความยั่งยืน เพื่อกำหนดรูปแบบอนาคตของการตกแต่งพื้นผิว",
+            "why": "กระบวนการเคลือบผิวและงานขัดกระดาษทรายมีความเกี่ยวข้องกันอย่างใกล้ชิด การเปลี่ยนแปลงของสูตรสารเคลือบมักต้องอาศัยเทคนิคการเตรียมพื้นผิวและการขัดเงาแบบใหม่",
+            "action": "ติดตามแนวโน้มการปรับ ฃพื้นผิวในยุโรปเพื่อคาดการณ์ความต้องการเตรียมพื้นผิวที่อาจเปลี่ยนแปลงไป"
           }
         },
         {
           "id": "20261018-w2",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "The Maritime Executive",
-          "date": "2026-09-15",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUzY2QWRmTVpKb2RFOHpPaGdrRjgwSWM0UFNwZUlRSUNqdnpXeVE5dHN1ZmxxVVZ6V1VkR0trVTZkRjgzN3NJbkdLLUdJYUlyOVA0Nkp1d2Joa2l0cnBmY1poVjRUVHhQbThNUEpOMU94RXhRRk1iUnh4T3pnNjFYeV95WGRucTRHSjZpZFo4UXJUb1pkRkJ4VXVYUzNmWkFUYUtacTRWYXRaS2RITk13?oc=5",
-          "title": "Klingspor Abrasives New Flap Disc Family with CMT, SMT & TITAN Solutions",
-          "summary": "Klingspor has introduced a new family of flap discs featuring CMT, SMT, and TITAN solutions designed for high-performance metal grinding.",
-          "why": "Shows how major global abrasive brands are innovating product lines for metal fabrication and heavy-duty grinding.",
-          "action": "Study competitor product tiering and marketing strategies for high-performance flap discs.",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "economy.ac",
+          "date": "2026-08-07",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YQWhOYlJ3eW9jTUhwa25XdE55eHh3a2JoODhWdDAtOW00UzhXcWwtNnJJXzZGMjMtNXN6MTYwTUhib3ZHUDNXaTdIbWY2N092QXNsOXFfdw?oc=5",
+          "title": "‘Trump Tariffs and AI Boom’ Propel U.S. Steel Past Japan to World No. 3 for First Time in 26 Years",
+          "summary": "Driven by tariffs and industrial demand, US steel production has overtaken Japan's for the first time in over two decades.",
+          "why": "Shifts in global steel manufacturing hubs directly impact regional metal fabrication activity and the baseline demand for industrial abrasives.",
+          "action": "Keep an eye on how US domestic metal manufacturing growth affects global steel trade flows and local metal processing.",
           "th": {
-            "title": "Klingspor Abrasives เปิดตัวกลุ่มผลิตภัณฑ์ใบเจียรใบพัดใหม่พร้อมโซลูชัน CMT, SMT และ TITAN",
-            "summary": "Klingspor เปิดตัวใบเจียรใบพัดตระกูลใหม่ที่มาพร้อมโซลูชัน CMT, SMT และ TITAN สำหรับการเจียรโลหะประสิทธิภาพสูง",
-            "why": "แสดงให้เห็นว่าแบรนด์สารขัดถูระดับโลกกำลังพัฒนานวัตกรรมผลิตภัณฑ์อย่างไรสำหรับงานโลหะและการเจียรงานหนัก",
-            "action": "ศึกษาการจัดระดับผลิตภัณฑ์และกลยุทธ์การตลาดของคู่แข่งสำหรับใบเจียรใบพัดประสิทธิภาพสูง"
+            "title": "ภาษีทรัมป์และบูม AI ดันเหล็กสหรัฐฯแซงญี่ปุ่นขึ้นเบอร์ 3 ของโลกครั้งแรกในรอบ 26 ปี",
+            "summary": "แรงหนุนจากมาตรการภาษีและความต้องการทางอุตสาหกรรม ทำให้การผลิตเหล็กของสหรัฐฯแซงหน้าญี่ปุ่นเป็นครั้งแรกในรอบกว่าสองทศวรรษ",
+            "why": "การเปลี่ยนแปลงของศูนย์กลางการผลิตเหล็กโลกส่งผลโดยตรงต่อกิจกรรมการแปรรูปโลหะระดับภูมิภาคและความต้องการใช้วัสดุขัดอุตสาหกรรม",
+            "action": "จับตาดูว่าการเติบโตของการผลิตโลหะในสหรัฐฯ ส่งผลอย่างไรต่อการค้าระดับโลกและการแปรรูปโลหะในท้องถิ่น"
           }
         },
         {
           "id": "20261018-w3",
           "tag": "steel",
-          "rating": "amber",
-          "source": "S&P Global",
-          "date": "2026-01-07",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSDJTcGFGbUFvRm15ZDhrczNqYkRzbHlXMTJZTHJpUF9CTjRHaTNXak4tdVBkbnBWcnNrRDRneXpBd1Z5SUJGSFZWTzJMNWhfcVl5czkzR0lSSjd4aTJzMTg3N2FWM3pHQ2NxbHg2dEp2ckNiNC16cWdJZ0t3anl3TzlUYldVajhqM05JQVEyWWdZYVdaYkEzZUpvUEJGdHAxXzRKdDRnNG1pQl9LaEN6Q0lpbFpPMTBOeElqT3V2NUdUSlJJNjZWOEpiMWc?oc=5",
-          "title": "Europe's steel industry faces its 2026 reckoning with CBAM",
-          "summary": "Europe's steel sector confronts the full implementation and financial impact of the Carbon Border Adjustment Mechanism (CBAM) in 2026.",
-          "why": "Changes in European steel production costs and export rules affect global metal processing standards and surface prep demand.",
-          "action": "Keep an eye on how environmental compliance regulations impact European metal export competitiveness.",
+          "rating": "green",
+          "source": "Fortune Business Insights",
+          "date": "2026-09-21",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kYlp3TXBwdU5JVl9Gc0pFd3lJSFpjSUhLeEFGOVZVS19BbHBoTFNGb1BFOC1UNEN4c1o0c2xjdTFZYXhVdGRVb0dIeXZqakt1bTJkQy10SC0wRlh0RVVBZHZaWDFYbDk3cHdUbXBsYnRyYTlFVEE?oc=5",
+          "title": "Metal Casting Market Growth Analysis & Industry Forecast, 2034",
+          "summary": "The global metal casting market continues to project steady growth through 2034, driven by automotive and general industrial needs.",
+          "why": "Cast metal parts require extensive deburring, grinding, and surface smoothing — directly driving the consumption of grinding wheels and sanding belts.",
+          "action": "Identify key foundries and metal casting players as prime targets for heavy-duty grinding and deburring product lines.",
           "th": {
-            "title": "อุตสาหกรรมเหล็กของยุโรปเผชิญบททดสอบในปี 2026 ด้วยมาตรการ CBAM",
-            "summary": "ภาคอุตสาหกรรมเหล็กของยุโรปเผชิญกับการบังคับใช้และผลกระทบทางการเงินของกลไกการปรับคาร์บอนก่อนข้ามพรมแดน (CBAM) ในปี 2026",
-            "why": "การเปลี่ยนแปลงต้นทุนการผลิตเหล็กและกฎระเบียบการส่งออกของยุโรปส่งผลต่อมาตรฐานการแปรรูปโลหะทั่วโลกและความต้องการเตรียมพื้นผิว",
-            "action": "ติดตามว่ากฎระเบียบด้านสิ่งแวดล้อมส่งผลกระทบต่อความสามารถในการแข่งขันส่งออกโลหะของยุโรปอย่างไร"
-          }
-        },
-        {
-          "id": "20261018-w4",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-09-02",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUUpWSmpHLVowSXdiLUJqcFlpQ3ZfRmdQYjJiTVFCNk00ZW0tM0ZqenQtd2F4emNVNEdzT3Q3amZ3M050YnNuTldQZFQyTlgyX3ByekdEbkdlaURacG5yRlBUSEZucnBQalBmNzVadXVrSDdXcEd0d2t4UXptUzJ5dXZ6ckE1O3RVV3IyUkY4SFdVSERveVJYem0yM3lNbWFUY1dXWHYyRFZ2cXdldWFqRmJTNE4tQ1RXWWp4N3NCN1h5Vmt3d3hEbkFPc2ZqT0k?oc=5",
-          "title": "A global AI manufacturing transformation at Hyundai Motor Group",
-          "summary": "Hyundai Motor Group is rolling out a comprehensive AI-driven manufacturing transformation across its global assembly plants.",
-          "why": "Advanced automation and AI in automotive manufacturing influence robotic deburring, grinding, and automated surface finishing requirements.",
-          "action": "Anticipate higher demand for automated-compatible abrasive tools in advanced automotive smart factories.",
-          "th": {
-            "title": "การเปลี่ยนผ่านการผลิตระดับโลกด้วย AI ที่ Hyundai Motor Group",
-            "summary": "Hyundai Motor Group กำลังดำเนินการเปลี่ยนผ่านการผลิตที่ขับเคลื่อนด้วย AI ครบวงจรทั่วทั้งโรงงานประกอบทั่วโลก",
-            "why": "ระบบอัตโนมัติขั้นสูงและ AI ในการผลิตยานยนต์ส่งผลต่อความต้องการเครื่องมือลบคม ขัดผิว และเตรียมพื้นผิวอัตโนมัติด้วยหุ่นยนต์",
-            "action": "คาดการณ์ความต้องการเครื่องมือขัดที่รองรับระบบอัตโนมัติที่สูงขึ้นในโรงงานอัจฉริยะยานยนต์ขั้นสูง"
+            "title": "การวิเคราะห์การเติบโตของตลาดการหล่อโลหะและการคาดการณ์อุตสาหกรรมถึงปี 2034",
+            "summary": "ตลาดการหล่อโลหะทั่วโลกยังคงเติบโตอย่างต่อเนื่องจนถึงปี 2034 ขับเคลื่อนโดยความต้องการจากอุตสาหกรรมยานยนต์และอุตสาหกรรมทั่วไป",
+            "why": "ชิ้นส่วนโลหะหล่อจำเป็นต้องผ่านกระบวนการลบครีบ เจียร และปรับผิวให้เรียบอย่างมาก ซึ่งส่งผลโดยตรงต่อปริมาณการใช้หินเจียรและสายพานขัด",
+            "action": "ระบุกลุ่มโรงหล่อโลหะและผู้ผลิตชิ้นส่วนหล่อเพื่อเป็นเป้าหมายหลักสำหรับผลิตภัณฑ์กลุ่มงานเจียรและลบครีบงานหนัก"
           }
         }
       ]
