@@ -4,82 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-17",
-      "summary": "Today's briefing focuses on global manufacturing updates across AI-driven production in automotive, metal casting growth, and emerging coil and industrial coating standards. These shifts directly impact surface preparation, deburring, and precision finishing demands for industrial abrasives.",
-      "directCount": 4,
+      "summary": "Today's briefing focuses on global manufacturing equipment shifts, metal market trade dynamics, and surface technology trends outside our recently covered topics.",
+      "directCount": 3,
       "th": {
-        "summary": "สรุปทรนด์โลกประจำวันนี้เน้นไปที่การอัปเดตการผลิตอุตสาหกรรมด้วย AI ในภาคยานยนต์ การเติบโตของการหล่อโลหะ และมาตรฐานเคลือบผิวอุตสาหกรรมใหม่ๆ ซึ่งส่งผลโดยตรงต่อความต้องการเตรียมพื้นผิว การลบคม และการขัดแต่งความแม่นยำสำหรับธุรกิจกระดาษทรายและวัสดุขัด"
+        "summary": "สรุปประเด็นข่าววันนี้เน้นการเปลี่ยนแปลงด้านเครื่องจักรการผลิตระดับโลก พลวัตการค้าตลาดโลหะ และแนวโน้มเทคโนโลยีพื้นผิว นอกเหนือจากหัวข้อที่เราเคยครอบคลุมไปแล้ว"
       },
       "items": [
         {
           "id": "20261017-w1",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-09-02",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUUpWSmpHLVowSXdiLUJqcFlpQ3ZfRmdQYjJiTVFCNk00ZW0tM0ZqenQtd2F4emNVNEdzT3Q3amZ3M050YnNuTldQZFQyTlgyX3ByekdEbkdlaURacG5yRlBUSEZucnBQalBmNzVadXVrSDdXcEd0d2t4UXptUzJ5dXZ6ckE1Q3RVV3IyUkY4SFdVSERveVJYem0yM3lNbWFUY1dXWHYyRFZ2cXdldWFyRmJTNE4tQ1RXWWp4N3NCN1h5Vmt3d3hEbkFPc2ZqT0k?oc=5",
-          "title": "A global AI manufacturing transformation at Hyundai Motor Group",
-          "summary": "Hyundai Motor Group is scaling up an enterprise-wide AI manufacturing transformation to optimize its global production and assembly lines.",
-          "why": "Higher automation and AI adoption in automotive manufacturing mean stricter tolerance requirements for parts, increasing the need for automated robotic sanding and high-precision abrasive tools.",
-          "action": "Monitor how smart automotive assembly lines change surface finishing specs and automation compatibility.",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "Vocal",
+          "date": "2025-10-15",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMEswYmdPeklIbjNIS0g2dlR0ZDc5d3lWRi1VRlFiczNncVY2OGk5U3I5ajJCLW5hMHlDM3o5NzZacWp5Rm0xa2RWZnd1QnZRM0h0UUZTekRacmpwNUpaZGwycjBva3JyS3pIYWE2RDZqM24tSV9JQVFHUmFTeXJESEdPN3VtYXZ2TTZEZ1VQbVlNZEJiNlhEejY1b0NzV0NUYXhGVA?oc=5",
+          "title": "Abrasives Market: Rising Manufacturing Demand and Global Growth Trends 2033",
+          "summary": "A comprehensive look into long-term global manufacturing demand driving growth across the abrasives and surface finishing sectors through 2033.",
+          "why": "It confirms the steady upward trajectory for precision finishing and industrial manufacturing demand over the next decade.",
+          "action": "Align long-term inventory and supplier planning with steady growth in industrial manufacturing demand.",
           "th": {
-            "title": "ฮุนได มอเตอร์ กรุ๊ป ยกระดับการผลิตอุตสาหกรรมระดับโลกด้วย AI",
-            "summary": "ฮุนได มอเตอร์ กรุ๊ป กำลังขยายผลการเปลี่ยนแปลงการผลิตด้วย AI ทั่วทั้งองค์กร เพื่อเพิ่มประสิทธิภาพสายการผลิตและการประกอบทั่วโลก",
-            "why": "การใช้งานระบบอัตโนมัติและ AI ที่เพิ่มขึ้นในอุตสาหกรรมยานยนต์ ทำให้ข้อกำหนดด้านความเผื่อของชิ้นส่วนเข้มงวดขึ้น เพิ่มความต้องการเครื่องมือขัดอัตโนมัติและวัสดุขัดความแม่นยำสูง",
-            "action": "ติดตามว่าสายการประกอบรถยนต์อัจฉริยะเปลี่ยนแปลงข้อกำหนดการตกแต่งผิวและความเข้ากันได้กับระบบอัตโนมัติอย่างไร"
+            "title": "ตลาดวัสดุขัด: ความต้องการในการผลิตที่เพิ่มขึ้นและแนวโน้มการเติบโตระดับโลกถึงปี 2033",
+            "summary": "ภาพรวมเชิงลึกเกี่ยวกับความต้องการด้านการผลิตระดับโลกในระยะยาว ซึ่งขับเคลื่อนการเติบโตของอุตสาหกรรมวัสดุขัดและการตกแต่งพื้นผิวจนถึงปี 2033",
+            "why": "ยืนยันแนวโน้มขาขึ้นที่มั่นคงสำหรับความต้องการด้านการตกแต่งผิวความแม่นยำสูงและการผลิตอุตสาหกรรมในทศวรรษหน้า",
+            "action": "ปรับแผนสินค้าคงคลังระยะยาวและการวางแผนซัพพลายเออร์ให้สอดคล้องกับการเติบโตอย่างมั่นคงของความต้องการภาคการผลิตอุตสาหกรรม"
           }
         },
         {
           "id": "20261017-w2",
           "tag": "steel",
-          "rating": "green",
-          "source": "Fortune Business Insights",
-          "date": "2026-09-21",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kYlp3TXBwdU5JVl9Gc0pFd3lJSFpjSUhLeEFGOVZVS19BbHBoTFNGb1BFOC1UNEN4c1o0c2xjdTFZYXhVdGRVb0dIeXZqakt1bTJkQy10SC0wRlh0RVVBZHZaWDFYbDk3cHdUbXBsYnRyYTlFVEE?oc=5",
-          "title": "Metal Casting Market Growth Analysis & Industry Forecast, 2034",
-          "summary": "The global metal casting market continues to grow steadily, driven by rising demand for cast components in heavy machinery, automotive, and industrial equipment.",
-          "why": "Metal castings require extensive surface preparation, including heavy grinding, burr removal, and defect cleanup, making it a primary end-market for grinding wheels and heavy-duty abrasives.",
-          "action": "Focus marketing and inventory efforts on foundry and casting applications that require heavy stock removal.",
+          "rating": "amber",
+          "source": "Financial Post",
+          "date": "2026-07-16",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYzVENV9lOXd1cm0xeEt4Y2JBNVF4R3M1aDRReTk5T0xoNzJ0a3c5VnBueWdRenBEcUp2NHNNMldrU20teUI0Z3RocldKbjAyVHNjWjNKN1FtdFlUVXZVSHlfNUZqY016Q0pWMDlDMWxTa3gwMGN0SmNmNjVoRzJQdW9YWDRlYU9PeGt0WGh4VQ?oc=5",
+          "title": "'We're getting hammered': Why this Canadian aluminum sector is crumbling while prices boom",
+          "summary": "An analysis of regional supply chain pressures and structural challenges facing specific metal sectors despite rising global commodity prices.",
+          "why": "Local metal processing challenges directly impact the operational health and purchasing power of our industrial customers in metal fabrication.",
+          "action": "Monitor metal sector cost pressures closely as they affect customer production volumes and abrasive consumption budgets.",
           "th": {
-            "title": "การวิเคราะห์การเติบโตของตลาดการหล่อโลหะและแนวโน้มอุตสาหกรรมถึงปี 2034",
-            "summary": "ตลาดการหล่อโลหะทั่วโลกยังคงเติบโตอย่างต่อเนื่อง ขับเคลื่อนโดยความต้องการชิ้นส่วนหล่อที่เพิ่มขึ้นในเครื่องจักรหนัก ยานยนต์ และอุปกรณ์อุตสาหกรรม",
-            "why": "งานหล่อโลหะต้องผ่านการเตรียมพื้นผิวอย่างมาก รวมถึงการเจียรหนัก การลบครีบ และการทำความสะอาดตำหนิ ทำให้เป็นตลาดหลักสำหรับหินเจียรและกระดาษทรายเพื่องานหนัก",
-            "action": "มุ่งเน้นความพยายามด้านการตลาดและสินค้าคงคลังไปยังกลุ่มโรงหล่อและงานหล่อที่ต้องการการขัดเนื้อโลหะออกจำนวนมาก"
+            "title": "'พวกเรากำลังย่อยยับ': ทำไมภาคส่วนอลูมิเนียมของแคนาดาจึงพังทลายในขณะที่ราคาพุ่งสูงขึ้น",
+            "summary": "การวิเคราะห์แรงกดดันด้านห่วงโซ่อุปทานระดับภูมิภาคและความท้าทายเชิงโครงสร้างที่เผชิญหน้ากับภาคส่วนโลหะบางประเภท แม้ว่าราคาสินค้าโภคภัณฑ์ทั่วโลกจะสูงขึ้นก็ตาม",
+            "why": "ความท้าทายในการแปรรูปโลหะในท้องถิ่นส่งผลโดยตรงต่อสุขภาพการดำเนินงานและกำลังซื้อของลูกค้าอุตสาหกรรมในกลุ่มการผลิตโลหะ",
+            "action": "ติดตามแรงกดดันด้านต้นทุนในภาคโลหะอย่างใกล้ชิด เนื่องจากส่งผลกระทบต่อปริมาณการผลิตของลูกค้าและงบประมาณการใช้วัสดุขัด"
           }
         },
         {
           "id": "20261017-w3",
           "tag": "coating",
-          "rating": "amber",
-          "source": "PR Newswire UK",
-          "date": "2026-05-08",
-          "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQLWJCTzl4bnlhbUl3c2o5aXByM0Mxc3k0cUtGTHJQak5MYVNSNDk1bk50b29XS3BJbS1ySXFhV3dhWXRuMXB0bVB2Z2Q1WVN6UjRJY0N2LWpsNFRvU2o0aUU2dkx3d2htTVMxYURkLWxINlcydFRqdG1PV1ZaRWxtNndMMkc2T1hNenN2R0tBdlFaUllWV1d1N2huRTE2TlNOM0lxSEhlbkw5ajhSR0YtZWFVb01TZXlJS1VCbXNibWRreEVWQnVOUk5halB6YzBJdnNBZTJrOWxwdHppOG5jZWVETWJ0XzJuOE1mb2jqNEpmXzAxcDF4TGtRRWxaaW9DTzFPYUZCa28wbmp1ZGhtRVZ0X19lZ1ZqSUotLW1GaC0xRHRJNmNLdXVqOXNJdlpHQkF1NklvTXJOOWM?oc=5",
-          "title": "Coil Coatings Market to Reach USD 9.2 Billion by 2035 as Sustainable, High-Performance Coating Technologies Transform Construction and Industrial Applications",
-          "summary": "The coil coatings market is expanding rapidly due to demand for sustainable, high-performance prepainted metal used in construction and appliances.",
-          "why": "Coil coating lines process massive quantities of sheet metal that require precise surface pre-treatment, cleaning, and sometimes mechanical smoothing before painting.",
-          "action": "Keep track of sheet metal preparation standards as coil coating quality requirements evolve.",
+          "rating": "green",
+          "source": "Research Nester",
+          "date": "2025-11-28",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14eWFoVV8xbm5acHpvcmNxN1pQVXhpb2JrZHZwNFBiSDFMRXNtOUlvaDc5eG9Lb3czYl9iRzVMVVhzSV92b18wWFFNVTVpbkd4cnRXRTZKZG5RdHJ3cHk1aXJodm0zUURuTW04UFZGcUx4OVRUQy1ZU1Q0WGlmRVE?oc=5",
+          "title": "Coating Thickness Gauge Market Size & Share, Forecast Report 2035",
+          "summary": "Market projections highlight growing demand for precise surface quality control and measurement tools across industrial applications.",
+          "why": "Strict surface preparation standards and coating thickness measurements require perfectly prepped and uniform substrates, driving quality demands for abrasives.",
+          "action": "Position our abrasive products as high-consistency solutions that help fabricators meet rigorous surface quality standards.",
           "th": {
-            "title": "ตลาดเคลือบขดลวดโลหะคาดว่าจะแตะ 9.2 พันล้านดอลลาร์ภายในปี 2035 จากเทคโนโลยีสีเคลือบประสิทธิภาพสูง",
-            "summary": "ตลาดการเคลือบขดลวดโลหะกำลังขยายตัวอย่างรวดเร็วเนื่องจากความต้องการโลหะเคลือบสีล่วงหน้าประสิทธิภาพสูงสำหรับงานก่อสร้างและเครื่องใช้ไฟฟ้า",
-            "why": "สายการเคลือบขดลวดโลหะต้องประมวลผลโลหะแผ่นจำนวนมากซึ่งต้องการการเตรียมพื้นผิว การทำความสะอาด และบางครั้งการขัดเรียบเชิงกลก่อนพ่นสี",
-            "action": "ติดตามมาตรฐานการเตรียมผิวโลหะแผ่นในขณะที่ข้อกำหนดด้านคุณภาพการเคลือบขดลวดพัฒนาขึ้น"
-          }
-        },
-        {
-          "id": "20261017-w4",
-          "tag": "coating",
-          "rating": "white",
-          "source": "European Coatings",
-          "date": "2026-09-09",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
-          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
-          "summary": "Industry leaders highlight how sustainability, digital tools, and advanced material formulations are driving the next wave of development in the coatings sector.",
-          "why": "Coating and surface finishing industries are closely linked; changes in surface pre-treatment requirements directly influence how abrasives prepare metals and wood before painting.",
-          "action": "Note the ongoing shift toward digital and sustainable manufacturing practices in the broader surface finishing supply chain.",
-          "th": {
-            "title": "กำหนดอนาคตใหม่แห่งวงการเคลือบผิว: นวัตกรรม ความยั่งยืน และพลังแห่งดิจิทัล",
-            "summary": "ผู้นำอุตสาหกรรมเน้นย้ำถึงวิธีที่ความยั่งยืน เครื่องมือดิจิทัล และสูตรวัสดุขั้นสูง กำลังขับเคลื่อนการพัฒนาคลื่นลูกใหม่ในภาคอุตสาหกรรมสีเคลือบ",
-            "why": "อุตสาหกรรมเคลือบผิวและตกแต่งผิวมีความเชื่อมโยงกันอย่างใกล้ชิด การเปลี่ยนแปลงข้อกำหนดการเตรียมพื้นผิวก่อนพ่นสีส่งผลโดยตรงต่อวิธีที่วัสดุขัดเตรียมพื้นผิวโลหะและไม้",
-            "action": "สังเกตการเปลี่ยนแปลงไปสู่กระบวนการผลิตแบบดิจิทัลและยั่งยืนในห่วงโซ่อุปทานการตกแต่งผิวโดยรวม"
+            "title": "ตลาดเครื่องวัดความหนาของสารเคลือบ: ขนาด ส่วนแบ่ง และรายงานคาดการณ์ถึงปี 2035",
+            "summary": "การคาดการณ์ตลาดเน้นย้ำถึงความต้องการที่เพิ่มขึ้นสำหรับเครื่องมือควบคุมคุณภาพพื้นผิวและเครื่องมือวัดที่แม่นยำในงานอุตสาหกรรมต่างๆ",
+            "why": "มาตรฐานการเตรียมพื้นผิวที่เข้มงวดและการวัดความหนาของสารเคลือบจำเป็นต้องมีพื้นผิวที่เตรียมอย่างสมบูรณ์แบบและสม่ำเสมอ ซึ่งผลักดันความต้องการด้านคุณภาพสำหรับวัสดุขัด",
+            "action": "วางตำแหน่งผลิตภัณฑ์วัสดุขัดของเราให้เป็นโซลูชันที่มีความสม่ำเสมอสูง ซึ่งช่วยให้ผู้ผลิตบรรลุมาตรฐานคุณภาพพื้นผิวที่เข้มงวดได้"
           }
         }
       ]
