@@ -3,82 +3,82 @@ window.NEWS_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-17",
-      "summary": "Fresh news is relatively limited today; key developments focus on auto parts makers lobbying to retain Japanese automakers amid Indonesian competition, Thai Airways expanding its fleet to boost MRO demand, and the upcoming TIWF 2026 expo creating opportunities for woodworking abrasives.",
-      "directCount": 1,
+      "summary": "Today offers few new developments as major automotive and MRO stories were previously covered; highlights focus on government efforts to mandate local Thai EV parts sourcing and AirAsia's aggressive push into domestic aviation MRO.",
+      "directCount": 2,
       "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยประเด็นสำคัญเน้นไปที่ความพยายามของกลุ่มชิ้นส่วนเพื่อรักษาฐานการผลิตรถยนต์ญี่ปุ่นท่ามกลางแรงกดดันจากอินโดนีเซีย การขยายฝูงบินของการบินไทยที่ช่วยหนุนงาน MRO และงานแสดงสินค้า TIWF 2026 ที่เปิดโอกาสสำหรับสินค้าขัดงานไม้"
+        "summary": "วันนี้มีข่าวใหม่ไม่มากเนื่องจากประเด็นหลักส่วนใหญ่ถูกรายงานไปแล้ว ข่าวเด่นอยู่ที่กระทรวงพาณิชย์ผลักดันค่าย EV จีนให้ใช้ชิ้นส่วนในประเทศ และแอร์เอเชียเตรียมรุกลงทุนศูนย์ซ่อมบำรุงอากาศยาน MRO ซึ่งหนุนความต้องการวัสดุขัดผิว"
       },
       "items": [
         {
           "id": "20261017-1",
           "tag": "auto",
-          "rating": "amber",
-          "source": "มติชนออนไลน์",
-          "date": "2026-08-29",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6UWlkVWd4aE45T3h4d0cybm1KZm1TWnBrdFpKLUViaVR6cGlZTHlta1NSc3pJOGtMOFFuOUdrMUJQelFXM05WdGdaUEZ0dlo0NHN1M2g2ZXdEb3c?oc=5",
-          "title": "Thai Auto Parts Makers Back High-Level Talks to Retain Japanese Automakers",
-          "summary": "The Thai Auto-Parts Manufacturers Association urges the government to engage Japanese carmakers and adjust excise tax policies to defend domestic factory operations.",
-          "why": "Japanese auto plants and their local Tier-1/2 component suppliers form our primary B2B customer base for metal polishing, deburring, and grinding abrasives.",
-          "action": "Engage key Japanese stamping and machining accounts directly to offer cost-saving abrasive solutions and secure contract retention.",
+          "rating": "green",
+          "source": "commercenewsagency",
+          "date": "2026-09-25",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wZXd2YXhtWWpXczRGaVdJeVpnWTNRZE9Bb0dxSzYxb01FZEk0WTlMTk1VLWM4WGxINmdHY2hzTW1jdlhhNWh4U2pnYVl0Q0lRNnNuZGhJVQ?oc=5",
+          "title": "Commerce Ministry Pushes GWM and SAIC to Maximize Thai EV Parts Procurement",
+          "summary": "The Ministry of Commerce met with Chinese auto leaders GWM and SAIC Motor to push for increased localization and greater use of Thai-made auto parts.",
+          "why": "Mandating higher local content compels Chinese automakers to purchase stamped, welded, and machined metal components from domestic tier-1 and tier-2 suppliers, directly increasing industrial abrasive consumption.",
+          "action": "Map and pitch high-performance grinding discs and deburring belts to local tier-1 metal stamping vendors supplying GWM and MG plants.",
           "th": {
-            "title": "กลุ่มชิ้นส่วนยานยนต์หนุนรัฐถกค่ายรถญี่ปุ่น รั้งฐานการผลิตในไทย",
-            "summary": "สมาคมผู้ผลิตชิ้นส่วนยานยนต์ไทยเรียกร้องให้รัฐบาลเร่งหารือกับค่ายรถยนต์ญี่ปุ่น พร้อมพิจารณามาตรการภาษีสรรพสามิตเพื่อลดช่องว่างต้นทุนและรักษาฐานการผลิต",
-            "why": "โรงงานค่ายรถยนต์ญี่ปุ่นและซัพพลายเออร์ชิ้นส่วนคือกลุ่มลูกค้าหลักที่ใช้วัสดุขัด เจียร และลบคมโลหะของบริษัท",
-            "action": "เข้าพบจัดซื้อโรงงานปั๊มขึ้นรูปและกลึงโลหะสัญชาติญี่ปุ่นเพื่อนำเสนอโซลูชันลดต้นทุนและรักษาคำสั่งซื้อระยะยาว"
+            "title": "พาณิชย์ถก GWM และ SAIC ดันเพิ่มสัดส่วนใช้ชิ้นส่วนยานยนต์ในประเทศ",
+            "summary": "กระทรวงพาณิชย์หารือสองค่ายรถยนต์รายใหญ่ของจีนทั้ง GWM และ SAIC Motor เพื่อผลักดันให้เพิ่มการลงทุนและดึงซัพพลายเออร์ไทยเข้าสู่ห่วงโซ่การผลิต EV",
+            "why": "การบังคับใช้ชิ้นส่วนในประเทศจะทำให้เกิดการสั่งผลิตชิ้นงานโลหะปั๊มขึ้นรูปและงานกลึงในไทยมากขึ้น ส่งผลให้โรงงานต้องการวัสดุขัด ลบครีบ และเจียรผิวเพิ่มขึ้นโดยตรง",
+            "action": "เข้าเจาะกลุ่มโรงงานผลิตชิ้นส่วนปั๊มขึ้นรูปโลหะ Tier-1 และ Tier-2 ที่ส่งมอบงานให้ค่าย GWM และ MG เพื่อเสนอใบเจียรและสายพานขัดเกรดอุตสาหกรรม"
           }
         },
         {
           "id": "20261017-2",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Brand Inside",
-          "date": "2026-08-14",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNnp5aUZLY2RzNjVBTHl1dVozcFVRLS1hZUtiY1lBOFlOZXJFX3RoMU11dm9ISDBVMG40Y09JOUJ2QmVGV3hHWjNPdFRySDVRYmZWLXd0UjJlUGh1Z0gzaUFPcUpXT0Z1Y0h0TkN3S19wYVp0QVhVdnlrd0NUbjZSUm9qRQ?oc=5",
-          "title": "Indonesia Courts Toyota with Aggressive Incentives Threatening Thai Automotive Base",
-          "summary": "Indonesia is offering heavy incentives to convince Toyota to relocate manufacturing facilities, posing a serious threat to Thailand's automotive cluster.",
-          "why": "Any reallocation of vehicle production from Thailand to Indonesia directly decreases operational run-rates and abrasive consumption among domestic parts suppliers.",
-          "action": "Monitor factory output trends among Japanese automotive suppliers and explore opportunities in non-automotive metal fabrication accounts.",
+          "tag": "aero",
+          "rating": "green",
+          "source": "Facebook",
+          "date": "2026-09-18",
+          "url": "https://news.google.com/rss/articles/CBMiiAdBVV95cUxQMkhrTnQ5Y3dtWlh3cUtub3MtbWRTNFJsQzA4ZG9sNzR0ZHRtM1QzallzSEFydlBvaFJqSG04Yy1IbnJxel95UU5DY3Z3VUVwRVhrV1ByZTFjcUc4aXNSc1Nwd0ZWSzdrZFNDYmRFWnlHS1h5cmk5QVg5NHhWaGlMVlhYNFUxS19hSDNrN3luZ1BWR1lleGFJV2xiSldyZjdKcjBKa2Jja09uNElYYUM0bXJIZUl0dkQ0aUFXcEJDN1k4ZDZ5UWJ6bjd3cVJDYlRlV05mVC1iZlhWQVc1clhyVzZWUnFnMjZKQzlMcExZX2Q2Vl9mSXVDWVktNzhEWUZBMG9WOHhqclUzX0ppb0N5QnN1clZkR2RKUXJJVGNwUXc0U3JmVlEtQ2xxUWhsQTFuRWtyUHJheUdQNl96cjZnN3BJY1VlR2dtNHJhQU5jYnBtQ0VrdDQ3MExhUGlBQ3lGNFhmaWdXWDdDcjdXZVU4b0lQX3JnSFN1UXMtWjRxMWNZQ09Rb2NTelVQQWx5SWNNRkdBWTBObzBiQ0lFM2U5SzJ0VXpfTWtVa0pfaXVvekh6TlNpU1Zvd2tjWEF1R2htcGEtWnFBVkx2ZDhpaTBmbjVTZklEUWFNcVl3NElnMkI2YTdyd0ZUellYNkU3QnpQLWJYNGFlMko3UXFXYWNhaW1Hejh0NVk5YnB1cVQya3I5MFA3d1pjR04tZ1EydUdXWW9UUjlYUWlIbHJMQ1JDTG85eTBMRFRPY1V5T2JTMC1zWnZlV3JoSU43SXV0UkJsOTVnZGY0LV9CcEtjLTIyd3Fvem1hcV9wVzk1dkNsOGlwNUhDbDdRbXlOTUdaeGlpLU5WVHdnZEtNM2VWVi1UenNCaHk2UjdHSVNKYmRhV0h5ZFVyV0NDc1VmZjRrRUUxcUZJbFNlVmlKWTZpY3p1aDA3X2NSTVA0VTNUS1FNeWUxUFdSRkxmWXdjVDcwN3RBYV9CS0hjQzIyUnJCa0pyTHJiNWg5eXExMkpoSG1YVXF1eWpaQ1ZYdTFEZjVnWHhzcEpmc3pqaFRzNXZzcUNLSFFaX1Z5UVJDWXdWSV8xa0dGblpNVXJ4TmpsUlR6cEpuWW40a2pFdXJXalRqSF9SSml6SkRzcG9NdWU5RGNFMUdsVlh3ZmowemY2TzNKRFp2RGRwRmdDSWc5WFFIRnkzZ0FDVVRQTkxm?oc=5",
+          "title": "AirAsia Plans Aggressive Expansion into Thai Aircraft MRO Sector",
+          "summary": "AirAsia announced robust liquidity exceeding one billion USD and confirmed plans to aggressively invest in aircraft maintenance, repair, and overhaul (MRO) facilities across Thailand.",
+          "why": "New aircraft maintenance hangars in Thailand create substantial recurring demand for specialized aerospace abrasives used in aircraft surface conditioning and paint stripping.",
+          "action": "Compile aerospace-grade abrasive product sheets and reach out to engineering contractors and tooling teams affiliated with low-cost carrier MRO facilities.",
           "th": {
-            "title": "อินโดนีเซียรุกดึง Toyota ย้ายฐานผลิต ส่งสัญญาณเตือนคลัสเตอร์ยานยนต์ไทย",
-            "summary": "อินโดนีเซียเดินหน้ายื่นข้อเสนอสิทธิประโยชน์เต็มรูปแบบเพื่อจูงใจให้ Toyota ย้ายฐานการผลิต ท้าทายสถานะศูนย์กลางยานยนต์ของไทย",
-            "why": "หากมีการย้ายกำลังการผลิตบางส่วนจริง จะลดอัตราการเดินเครื่องจักรของโรงงานชิ้นส่วนในไทยและกระทบต่อปริมาณการใช้วัสดุขัดแต่งผิว",
-            "action": "ติดตามทิศทางกำลังการผลิตของกลุ่มชิ้นส่วนยานยนต์ญี่ปุ่นอย่างใกล้ชิด พร้อมเร่งขยายฐานลูกค้าในกลุ่มงานแปรรูปโลหะทั่วไป"
+            "title": "แอร์เอเชียสภาพคล่องแกร่ง เตรียมรุกลงทุนศูนย์ซ่อมอากาศยาน MRO ในไทย",
+            "summary": "ผู้บริหารแอร์เอเชียยืนยันมีสภาพคล่องแข็งแกร่งด้วยเงินสดกว่า 1,000 ล้านดอลลาร์ พร้อมเดินหน้าลงทุนในศูนย์ซ่อมบำรุงอากาศยาน (MRO) ในประเทศไทย",
+            "why": "การขยายศูนย์ซ่อมบำรุงอากาศยานแห่งใหม่ในไทยหมายถึงอุปสงค์ต่อเนื่องของกระดาษทรายและวัสดุขัดเกรดการบินสำหรับงานขัดลอกสีและเตรียมพื้นผิวโครงสร้างเครื่องบิน",
+            "action": "จัดเตรียมแคตตาล็อกวัสดุขัดเกรดอากาศยานเพื่อติดต่อฝ่ายจัดซื้อวิศวกรรมของเครือข่ายซ่อมบำรุงสายการบินต้นทุนต่ำ"
           }
         },
         {
           "id": "20261017-3",
-          "tag": "aero",
+          "tag": "auto",
           "rating": "amber",
-          "source": "thansettakij",
-          "date": "2026-08-01",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJbG91NDM0Z1ZuZmRPYUc4dlRzSXYwVXRnb1l5dGZyZUJLSDZqUXhOSnVzSXVQeTdRME04Y1c5TVB5SC0wOENDcm9VeDhaT3Fha0ZocE90aEgzNXpNOGVmYklR?oc=5",
-          "title": "Thai Airways Plans 150-Aircraft Fleet Expansion Driving Long-Term MRO Growth",
-          "summary": "Thai Airways is executing a major expansion to grow its commercial fleet to 150 aircraft, reinforcing long-term regional maintenance and overhaul operations.",
-          "why": "A significantly larger domestic aircraft fleet increases demand for airframe polishing, surface rework, and engine maintenance abrasives.",
-          "action": "Prepare technical data sheets and compliance certifications for aviation-grade surface finishing abrasives to approach certified MRO contractors.",
+          "source": "RYT9",
+          "date": "2026-09-23",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9Dcm1TZjJlUFRId21uZlRHRWxVSDZxMUhlWVoxZV9PalpGUFZCTGNOU3l1OVlXN2V2YzN6X1dVUUl3X1pxUDFQc1BB?oc=5",
+          "title": "Finance Ministry Considers 30% Tariff on Imported CBU EVs to Spur Local Assembly",
+          "summary": "The Ministry of Finance indicated plans to impose an excise tax of approximately 30% on completely built-up (CBU) imported electric vehicles to incentivize domestic factory assembly.",
+          "why": "Taxing finished imports prevents local manufacturing lines from being bypassed and accelerates local metal stamping and welding operations required for assembly.",
+          "action": "Monitor imported EV brands planning factory tooling installations in Thailand to capture initial abrasive and polishing consumable supply contracts.",
           "th": {
-            "title": "การบินไทยทุ่มงบขยายฝูงบิน 150 ลำ หนุนศักยภาพการบินและการซ่อมบำรุงระยะยาว",
-            "summary": "การบินไทยเดินหน้าแผนขยายฝูงบินพาณิชย์แตะ 150 ลำ เพื่อยกระดับศักยภาพการบินและสร้างปริมาณงานซ่อมบำรุงอากาศยานในประเทศ",
-            "why": "การเพิ่มขนาดฝูงบินอย่างมีนัยสำคัญจะช่วยเพิ่มปริมาณงานซ่อมโครงสร้างและชิ้นส่วนอากาศยาน ซึ่งต้องใช้วัสดุขัดแต่งผิวเกรดความแม่นยำสูง",
-            "action": "เตรียมข้อมูลทางเทคนิคและมาตรฐานรับรองของวัสดุขัดผิวเกรดการบินเพื่อเริ่มติดต่อกลุ่มผู้รับเหมาซ่อมบำรุงอากาศยาน (MRO)"
+            "title": "คลังจ่อเก็บภาษี EV นำเข้าทั้งคัน 30% บีบค่ายรถเร่งตั้งไลน์ผลิตในประเทศ",
+            "summary": "กระทรวงการคลังเผยแผนเตรียมจัดเก็บภาษีสรรพสามิตรถ EV นำเข้าสำเร็จรูปราว 30% เพื่อจูงใจให้ค่ายรถยนต์เร่งลงทุนเปิดไลน์ประกอบจริงในประเทศไทย",
+            "why": "การสกัดการนำเข้ารถสำเร็จรูปจะช่วยปกป้องโรงงานประกอบในไทย ทำให้มีการเชื่อม ปั๊มโลหะ และขัดแต่งผิวตัวถังภายในประเทศแทนการพึ่งพาการนำเข้า",
+            "action": "ติดตามแบรนด์รถ EV ที่เริ่มเปลี่ยนจากการนำเข้า CBU มาเป็นการติดตั้งไลน์ประกอบ เพื่อนำเสนอวัสดุขัดสำหรับกระบวนการเตรียมผิวก่อนพ่นสี"
           }
         },
         {
           "id": "20261017-4",
-          "tag": "furniture",
-          "rating": "green",
-          "source": "เดลินิวส์",
-          "date": "2026-09-03",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQOG53VVJYRkd4MUZabFczX0FkeTVGTGNFYmZGUUxkTnJ6VjNmeklDTUZEYXlVRkpjS1gzeUxQczJHMXJRS3c1dEdWSk14eVVqczJN?oc=5",
-          "title": "TIWF 2026 Prepares Regional Platform for Woodworking and Furniture Industry",
-          "summary": "Organizers have confirmed preparations for TIWF 2026 to showcase machinery, surface materials, and manufacturing technologies for regional woodworking producers.",
-          "why": "Wood processing and furniture factories are heavy recurring consumers of wide sanding belts, flap wheels, and orbital sanding discs.",
-          "action": "Evaluate participation or launch targeted promotional campaigns for wide sanding belts and woodworking abrasive bundles ahead of the expo.",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "กรมส่งเสริมการค้าระหว่างประเทศ (DITP)",
+          "date": "2026-09-23",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pWWtMYlMtbEc3eTVkcWVCTTlQQ0Z5UWZUTTFLSmhCcE5XRFVYeGlMQ2JjVVZSOHE2U2RPSlNPUzhpRHduSjExdUFSZXZrVEhFMDgzQ3NuNFdUbEdVVjRnNDh3?oc=5",
+          "title": "Ford Weighs Chennai Plant in India as Regional Asia-Pacific EV Hub",
+          "summary": "Ford is considering utilizing its Chennai manufacturing plant as an electric vehicle export base for the broader Asia-Pacific market, highlighting rising regional competition from India.",
+          "why": "If global automakers divert regional EV export platforms to India instead of Thailand, potential growth in domestic metal component manufacturing and abrasive consumption will be capped.",
+          "action": "Diversify automotive client acquisition beyond Western OEMs by strengthening commercial ties with Japanese and established Chinese joint ventures anchored in Thailand.",
           "th": {
-            "title": "TIWF 2026 ประกาศความพร้อมจัดงานใหญ่ ยกระดับอุตสาหกรรมไม้และเฟอร์นิเจอร์",
-            "summary": "TIWF 2026 ยืนยันความพร้อมจัดงานแสดงเทคโนโลยี เครื่องจักร วัสดุปิดผิว และอุปกรณ์แปรรูปไม้ระดับภูมิภาคอาเซียน",
-            "why": "โรงงานแปรรูปไม้และเฟอร์นิเจอร์เป็นกลุ่มที่ใช้วัสดุขัดกระดาษทรายสายพานหน้ากว้าง จานขัดกลม และม้วนผ้าทรายเป็นประจำในกระบวนการผลิต",
-            "action": "ประเมินความคุ้มค่าในการออกบูธหรือจัดแคมเปญโปรโมชันสายพานขัดไม้หน้ากว้างและจานขัดกลมเจาะโรงงานเฟอร์นิเจอร์ช่วงก่อนเริ่มงาน"
+            "title": "Ford เล็งใช้โรงงานเจนไนในอินเดียเป็นฐานผลิต EV ส่งออกภูมิภาคเอเชียแปซิฟิก",
+            "summary": "Ford กำลังพิจารณาใช้โรงงานในเมืองเจนไนของอินเดียเป็นฐานการผลิตรถยนต์ไฟฟ้าสำหรับส่งออกตลาดเอเชียแปซิฟิก ชี้ให้เห็นถึงความพร้อมของห่วงโซ่อุปทานอินเดีย",
+            "why": "หากค่ายรถยนต์สัญชาติตะวันตกเลือกอินเดียเป็นฐานผลิตส่งออกแทนไทย จะกระทบต่อการขยายกำลังการผลิตของโรงงานชิ้นส่วนโลหะและลดโอกาสการเติบโตของยอดใช้วัสดุขัดในระยะยาว",
+            "action": "กระจายความเสี่ยงโดยมุ่งเน้นการรักษาฐานลูกค้าโรงงานประกอบรถยนต์ญี่ปุ่นและกลุ่มทุนจีนที่มีโรงงานผลิตขนาดใหญ่ในไทยอย่างเหนียวแน่น"
           }
         }
       ],
@@ -931,71 +931,6 @@ window.NEWS_ARCHIVE = {
             "summary": "กลุ่ม 10 สมาคมเหล็กไทยยื่นหนังสือต่อ สมอ. ให้เร่งยกเลิกใบอนุญาตโรงงานหลอมเหล็กด้วยเตา Induction Furnace (IF) ด้อยมาตรฐานภายใน 3 ปี",
             "why": "การกำจัดโรงงานหลอมเหล็กที่ไม่ได้มาตรฐานจะช่วยหนุนผู้ผลิตเหล็กเตา EAF และโรงงานแปรรูปโครงสร้างเหล็กคุณภาพสูง ซึ่งเป็นผู้ซื้อวัสดุขัดและใบเจียรเกรดมาตรฐาน",
             "action": "มุ่งทำการตลาดใบเจียรหนาและจานทรายซ้อนสำหรับงานเหล็กหนักกับกลุ่มโรงงานโครงสร้างเหล็กมาตรฐาน มอก."
-          }
-        }
-      ],
-      "terms": {}
-    },
-    {
-      "date": "2026-10-03",
-      "summary": "News flow is relatively light today with limited new developments. The standout signal is the Finance Ministry's plan to slap a 30% tariff on imported CBU EVs to force localized production, while the FTI cuts total automotive output targets amid export headwinds.",
-      "directCount": 1,
-      "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยประเด็นเด่นอยู่ที่กระทรวงการคลังเตรียมเก็บภาษีนำเข้ารถ EV ทั้งคัน 30% เพื่อบีบให้เกิดการลงทุนตั้งโรงงานผลิตในไทย ขณะที่ ส.อ.ท. ปรับลดคาดการณ์การผลิตรถยนต์ปี 2569 ลงจากผลกระทบตลาดส่งออก"
-      },
-      "items": [
-        {
-          "id": "20261003-1",
-          "tag": "auto",
-          "rating": "green",
-          "source": "ryt9.com",
-          "date": "2026-09-23",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9Dcm1TZjJlUFRId21uZlRHRWxVSDZxMUhlWVoxZV9PalpGUFZCTGNOU3l1OVlXN2V2YzN6X1dVUUl3X1pxUDFQc1BB?oc=5",
-          "title": "Finance Ministry Eyes 30% Import Tariff on CBU EVs to Compel Local Manufacturing",
-          "summary": "The Ministry of Finance revealed plans to impose an import duty of around 30% on completely built-up (CBU) electric vehicles. The aggressive tariff is aimed at discouraging finished-vehicle imports and forcing automakers to invest in local assembly plants.",
-          "why": "Higher CBU barriers will force Chinese and foreign EV makers to localize body welding, stamping, and painting in Thailand, directly boosting factory demand for our sanding discs and deburring abrasives.",
-          "action": "Map out new EV plant construction projects and pitch body-shop sanding disc packages to newly localized OEM suppliers.",
-          "th": {
-            "title": "รมว.คลังเผยไทยจ่อเก็บภาษี EV นำเข้าทั้งคัน 30% หวังดึงเม็ดเงินตั้งฐานผลิตในประเทศ",
-            "summary": "กระทรวงการคลังเตรียมพิจารณาจัดเก็บภาษีรถยนต์ไฟฟ้าสำเร็จรูปนำเข้า (CBU) ประมาณ 30% เพื่อสกัดการนำเข้าทั้งคันและผลักดันให้ค่ายรถยนต์เร่งลงทุนตั้งไลน์ผลิตในไทย",
-            "why": "มาตรการบีบให้ประกอบในประเทศจะกระตุ้นให้เกิดไลน์ปั๊มขึ้นรูป เชื่อมตัวถัง และขัดเตรียมผิวก่อนพ่นสีในไทยมากขึ้น เพิ่มความต้องการวัสดุขัดและจานทรายโดยตรง",
-            "action": "ติดตามรายชื่อโรงงานประกอบ EV ที่กำลังเร่งสร้างไลน์ผลิต และนำเสนอโซลูชันกระดาษทรายสำหรับงานเตรียมผิวตัวถังไปยังซัพพลายเออร์ OEM"
-          }
-        },
-        {
-          "id": "20261003-2",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "facebook.com",
-          "date": "2026-07-24",
-          "url": "https://news.google.com/rss/articles/CBMivAdBVV95cUxPZTc0NDh5NHJzNmhYMnBOU2tUMkphRVA5MzhWVUxkSmdKeEppTW5fX3h6ZjN3Nm5PdERmUFVRQldvZnA1NHFNQ2lVbEMtU1F5emY1YVlOWGE0RlEteG5sRGF2dFZmeVFVWExGNUFjbXhPcl9QWTUzdVc5S1ZLYmd3MVNScS1CZmxKRlBUNnR0aF95R3dyMEFkVllsNG1LNTVtUzJ5dTA4aXlkZ0YyMHBPY29ZZHAwMTUxd25LMFJ5RFE1YUQ2VjBZYzhwMlFyMXlzTWdTa2VxeGM2Z3MzRktQYm5URzZBamZfQzJiNzlnMzVhSUlnUlEzaERGWXZFQjEyUTROazZPMVVmRHFqZzhZRENqQTZYLTJpNXFUT1pnNnpkRGRRVDljZlVndjh3ckN5NzlKckdFM0xWejhqZnhqQURXb1VqV1hwanFLLTc3TjJaMHNzZ0FxclhfckJnY0ZycHp1OE1rVGdhUjEza3g4THZRUDlVbmFGOTlNQnNlQkVETTNpSzdfZVVDR2lwTk1JVzN3YWVTYnhsS2xNMGZnelpZLUt5NWJWWWR5c05VR2pTZUlicTFzMkw0MFcxQTl2V21OQnhObjdkaURKSVdRNUItM2dwZjQ4REltX3dBYmVuckRnNFA2S3FPNmc0VzlYSjJqYzdYZ3I5TjJHRmdwb3V6NzExR2hmSS1ESWxuWVBtZ1ZVOGdrWW16T0Nsc1psZHNINXV2YWFuYkJLWGxLZ2YySEhaVDhkSU1aU2xjTUgtTXJsTXNnelZ5T1N1Y2c5Rlp0Si16VlYtLWpBLUxuOW4wa3RYbUxRd1J3Z1JSX0tpbjZ4QjRzNXBUWlVCNnAzc3gyaTFzUTB0VEdpbV9vX2NwMmZVSzExTFVrUGdEbktaWmtXbThuNWI1OFV1clh2cHNYa2JSdVA4UUdRRENwbDMtQU84amI0cjdmeW5UbXZXMG5JLUNmellLaEpybFgzNkxTQTltVENzUC1vWWRwX2dZUGhjWWJhaEVKejZJd3ZYUDZFdWZsTXoxX0ZkN3h4aGxWT3I3SU40QjZ1Zk00WWlOOHhRbVNOSkVxMmRLSTF1SjQ5ZGpwODBIeFU2T2s3YjZVN0xoNnVNaXo2MUxkYlVuVlY2ZWpteXk1VHFVRnFFNk1EeW1RWktobTZ0NFNqb3d3MEczdFZuUU9QTU51Yk5Fb2xxd24yeGU3ekw1LWViRUdnaVNHNFdvUkJvMWVaQVV2MzFaWlJUZ3hJRVhFb2RRMURKTng5OWRKaQ?oc=5",
-          "title": "FTI Slashes 2026 Vehicle Production Target to 1.45 Million Units Amid Export Drag",
-          "summary": "The Federation of Thai Industries (FTI) revised down its 2026 automotive production target to 1.45 million units, weighed down by weak exports to the Middle East and sluggish domestic consumption. The downgrade reflects prolonged pressure on local auto assembly lines.",
-          "why": "Lower production volumes across Tier 1 and Tier 2 automotive part suppliers mean reduced monthly turnover and slower re-orders for surface finishing and metal grinding consumables.",
-          "action": "Diversify sales focus toward general metal fabrication, MRO, and aftermarket repair shops to cushion against reduced automotive OEM consumption.",
-          "th": {
-            "title": "พิษตลาดส่งออกฉุด ส.อ.ท. หั่นเป้าผลิตรถยนต์ปี 69 เหลือ 1.45 ล้านคัน",
-            "summary": "สภาอุตสาหกรรมแห่งประเทศไทย (ส.อ.ท.) ปรับลดเป้าการผลิตรถยนต์ปี 2569 ลงสู่ระดับ 1.45 ล้านคัน จากผลกระทบของการส่งออกที่ชะลอตัวในตลาดตะวันออกกลางและกำลังซื้อในประเทศที่ยังเปราะบาง",
-            "why": "ยอดผลิตรถยนต์รวมที่ลดลงกระทบโรงงานชิ้นส่วน Tier 1 และ Tier 2 ทำให้รอบการสั่งซื้อซ้ำของวัสดุขัดแต่งผิวโลหะและจานเจียรชะลอตัวลง",
-            "action": "กระจายความเสี่ยงโดยรุกตลาดโรงงานแปรรูปโลหะทั่วไป งานซ่อมบำรุง และอู่ซ่อมสีทดแทนเพื่อชดเชยยอดขายจากโรงงาน OEM"
-          }
-        },
-        {
-          "id": "20261003-3",
-          "tag": "aero",
-          "rating": "amber",
-          "source": "posttoday",
-          "date": "2026-07-27",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lak5sZXQtNktSd3dqWTVQcmdhN2JJdGVhSEUxUzk5RFI5TUs4T3kzMzBqVDdNUnp4N2k3M2FBalNXd0UwaS1XeUxkczM4Rzg4QnVBQXJR?oc=5",
-          "title": "EECO Mobilizes Capital to Push U-Tapao Aviation MRO Hub",
-          "summary": "The Eastern Economic Corridor Office (EECO) is moving ahead with fundraising and partnership structures to build out U-Tapao as a regional aircraft maintenance, repair, and overhaul (MRO) center. The initiative aims to capture rising regional aircraft fleet servicing demands.",
-          "why": "While hangar construction is still progressing, securing a footprint in the aerospace MRO supply chain will unlock high-margin opportunities for aviation-grade specialty abrasives.",
-          "action": "Research international aviation surface-finishing standards (such as composite prep and turbine blade deburring) to prepare certified product lines for incoming MRO operators.",
-          "th": {
-            "title": "สกพอ. ระดมทุน ดันอุตสาหกรรม MRO ปั้นอู่ตะเภาสู่ศูนย์กลางซ่อมอากาศยานภูมิภาค",
-            "summary": "สำนักงานคณะกรรมการนโยบายเขตพัฒนาพิเศษภาคตะวันออก (สกพอ.) เดินหน้าจัดหาเงินทุนและโครงสร้างพันธมิตร เพื่อผลักดันศูนย์ซ่อมบำรุงอากาศยาน (MRO) สนามบินอู่ตะเภา รองรับฝูงบินในภูมิภาค",
-            "why": "แม้โครงการยังอยู่ในขั้นพัฒนาโครงสร้าง แต่การเติบโตของศูนย์ MRO จะเปิดตลาดวัสดุขัดผิวเกรดการบินที่มีอัตรากำไรสูง เช่น งานขัดปีก ขัดโครงสร้างคอมโพสิต และลบครีบชิ้นส่วนเครื่องยนต์",
-            "action": "ศึกษามาตรฐานและข้อกำหนดของวัสดุขัดสำหรับงานซ่อมบำรุงอากาศยานล่วงหน้า เพื่อเตรียมรับรองสินค้าเกรด MRO สำหรับเสนอผู้ประกอบการศูนย์ซ่อม"
           }
         }
       ],
