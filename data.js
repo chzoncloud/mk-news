@@ -3,64 +3,82 @@ window.NEWS_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-18",
-      "summary": "Today there are few new updates; the primary focus is on Thai-Japan bilateral diplomacy to safeguard automotive assembly bases and the official contract signing for the U-Tapao MRO hub.",
+      "summary": "Fresh intelligence today is relatively light as several major automotive and industrial regulatory updates have already been covered. Key developments highlight persistent domestic efforts to retain Japanese auto supply chains against regional rivals, alongside Thai Airways' fleet expansion which signals long-term growth for aerospace MRO abrasives.",
       "directCount": 1,
       "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยประเด็นสำคัญอยู่ที่การเจรจาระดับผู้นำกับญี่ปุ่นเพื่อปกป้องฐานการผลิตยานยนต์ และการลงนามสัญญาอย่างเป็นทางการของศูนย์ซ่อมอากาศยานอู่ตะเภา"
+        "summary": "วันนี้มีข่าวใหม่ไม่มากนักเนื่องจากประเด็นนโยบายภาษีและอุตสาหกรรมหลักได้รับการรายงานไปแล้ว โดยไฮไลต์สำคัญอยู่ที่ความพยายามรั้งฐานการผลิตยานยนต์ค่ายญี่ปุ่นในไทยเพื่อสู้กับการดึงดูดของประเทศเพื่อนบ้าน และแผนขยายฝูงบิน 150 ลำของการบินไทยที่จะช่วยหนุนความต้องการวัสดุขัดในกลุ่มศูนย์ซ่อมบำรุงอากาศยาน (MRO) อย่างต่อเนื่อง"
       },
       "items": [
         {
           "id": "20261018-1",
           "tag": "auto",
           "rating": "amber",
-          "source": "Facebook",
-          "date": "2026-10-12",
-          "url": "https://news.google.com/rss/articles/CBMi8gZBVV95cUxPWjQtdXNzVFQ5ZkJNZXhYMmp3OExvOUM5eDFtcU1TYTVjOW9MeDhvUDNRUlNaQkY3QzZlN1BHVVVFeFpTeWNtclVZbThGeUtucVVFQlU0Z3RxTDgxUEFxUU5mODJnalRiOGpja1R0T1ZYNFd2WUt5MXJnd2VTSktDaEpBR0daQ29YYUU1RlE3YjdoOEdJU05oUi05aWt6Y3czd0N5YmdvYl9LN0VOQkx5TGFZYmxxOF93YjVITWFZTHFrcDB3OENrMzNCc3MzQ1JYMElsTC1vaU5neVpEdXJUUUxyNU83ZnE2OURQTWtZNjZXWlVKWGR2UFdPRTZhUXZ4cE9Gdmt5YV9XTjRxS0oyZGhJUHZiVU50Rk5PMmxmNU9TeHNBR255eGtQVjNLb1hRS01wTHZMd0NpOThmRlFncng1U25HTWNjZXNUeERRUEhoMEowTmJCOGlPQk1jWVBLcjNIbWxsazVZUTktZVZiWkwtYW9VZHdkcEVCX2RRM2N6dWs4NkVYWTJKNFF5aUZHTE9jTzRhUEJ3eU9mbEJQQkpTVWtYQTdzaHdmc2JBM3psblRTUnFvRjVEenJSWGY1ZDd3bzVYcmRUQVpvNm5FSkp3MFF3TkVqNHhtNkg0bVZwSHhiZ1QwMjNYUXNfbHRoX0ppc3Vlb0tBbGFRaTg4MHFJMkN0d0pzMjVNMUdZWThaanV1YTBtWURQLVM3REEyWm84NjkyZ2dmOU9KeC03blpuNi0tempIbU52al82ZTgxN0xuVFBWM0NmWU9TWGpGdTVWcWU2dFU5c21FNFF5SVljUHZ1YkM2YVdINE1fbVBSRVBJSWZxSjVXSHQtTWdoZjhWQ1RqLXVzeFFuZFR3eHFUQXU4STZZZGs0RXN3dlVOVGx3TVNfOVhoWmxhMmM1eElkUnNsWm5KWDluM2RIdkd1WV9TU3o2dDBhal85d0REc1NPVDJ1Q014RUxBc3BzbUZoS1F6TEpHbW5fbzdUakZ5Si13b3FQMjd3VmVrLWJEcHJaWm9xTnBjNW5ZWU1fbUpiR2h4NlJmYllhaTZJcmNYcTdYZjN2XzNGaEN1NWs0OXRkeHV3QWtnb0FBRWllX3U1eFhqZjYtb1BINkM2YWlGcWNEYTUyZTRhUENWY0pNdkdBelJMTXJQc05BalpIV2c?oc=5",
-          "title": "Thai PM Meets Former Japan PM Kishida to Safeguard Auto Base and Push EV Supply Chain",
-          "summary": "Thailand's Prime Minister met with former Japanese PM Kishida to emphasize EV tax measures protecting domestic production and invite Japan to integrate Thai suppliers into next-generation EV supply chains.",
-          "why": "Keeping Japanese automotive assembly in Thailand directly prevents our primary Tier-1 and Tier-2 abrasive customers from downsizing or relocating.",
-          "action": "Maintain proactive contact with Japanese automotive component clients to support tooling and abrasive trials for upcoming hybrid and EV parts.",
+          "source": "Matichon Online",
+          "date": "2026-08-29",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6UWlkVWd4aE45T3h4d0cybm1KZm1TWnBrdFpKLUViaVR6cGlZTHlta1NSc3pJOGtMOFFuOUdrMUJQelFXM05WdGdaUEZ0dlo0NHN1M2g2ZXdEb3c?oc=5",
+          "title": "Thai Auto Parts Association Backs Government Push to Retain Japanese Automaker Production Base",
+          "summary": "The Thai Auto Parts Manufacturers Association urged the government to hold urgent talks with Japanese carmakers and revise excise structures to bridge production cost gaps against imported EVs.",
+          "why": "Japanese OEMs and their Tier-1/2 local suppliers form MK's core industrial customer base for stamping, deburring, and metal polishing abrasives.",
+          "action": "Reaffirm technical support and bulk pricing commitments with Japanese auto parts accounts to help them optimize production costs.",
           "th": {
-            "title": "นายกฯ หารือ ‘คิชิดะ’ ย้ำรั้งฐานผลิตยานยนต์ญี่ปุ่น พร้อมผลักดันไทยเข้าห่วงโซ่ EV",
-            "summary": "นายกรัฐมนตรีหารืออดีตนายกฯ ญี่ปุ่น ฟูมิโอะ คิชิดะ ชูมาตรการภาษีสรรพสามิตดูแลฐานผลิตรถยนต์ในประเทศ และชวนญี่ปุ่นดึงซัพพลายเออร์ไทยเข้าสู่ห่วงโซ่การผลิต EV",
-            "why": "การปกป้องฐานการผลิตของค่ายรถญี่ปุ่นในไทยช่วยลดความเสี่ยงที่โรงงานชิ้นส่วน Tier-1 และ Tier-2 ซึ่งเป็นลูกค้าหลักของ MK จะย้ายฐานหนี",
-            "action": "ประสานงานกับโรงงานชิ้นส่วนยานยนต์ญี่ปุ่นอย่างต่อเนื่องเพื่อนำเสนอวัสดุขัดสำหรับการทดสอบชิ้นงานไฮบริดและ EV รุ่นใหม่"
+            "title": "สมาคมชิ้นส่วนยานยนต์ฯ หนุนรัฐบาลเจรจาค่ายรถญี่ปุ่น รั้งฐานการผลิตในไทย",
+            "summary": "สมาคมผู้ผลิตชิ้นส่วนยานยนต์ไทยหนุนรัฐบาลเปิดโต๊ะเจรจาค่ายรถยนต์ญี่ปุ่น พร้อมเสนอปรับโครงสร้างภาษีสรรพสามิตเพื่อลดช่องว่างต้นทุนและสกัดผลกระทบจากรถนำเข้า",
+            "why": "ค่ายรถยนต์ญี่ปุ่นและซัพพลายเออร์ชิ้นส่วนคือกลุ่มลูกค้าหลักของ MK ในการใช้วัสดุขัด เจียร และลบครีบชิ้นงานโลหะ",
+            "action": "เข้าพบและรักษาความสัมพันธ์กับโรงงานชิ้นส่วนค่ายญี่ปุ่น พร้อมนำเสนอโซลูชันวัสดุขัดที่ช่วยลดต้นทุนต่อชิ้นงาน"
           }
         },
         {
           "id": "20261018-2",
-          "tag": "aero",
-          "rating": "green",
-          "source": "ผู้จัดการออนไลน์",
-          "date": "2026-10-06",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIazdnNjc2TVdpRWNOSTNQS2tlaWFWdl9KbE5OaEdlLWlZX0RaWERWWjhJV1l0MjdTejNaSHVhOEMwSThnWmtFaUJMWVAydHIxVkFKTktiQ0pXb09KVVRLWg?oc=5",
-          "title": "EEC and Thai Airways Formally Sign 10-Billion-Baht U-Tapao Aircraft MRO Deal",
-          "summary": "The EEC and Thai Airways officially signed a contract to construct a 10-billion-baht aircraft maintenance, repair, and overhaul (MRO) center at U-Tapao, scheduled to break ground in 2027.",
-          "why": "Commercial aircraft maintenance operations require recurring, high-margin certified abrasives, grinding discs, and precision finishing products.",
-          "action": "Accelerate technical compliance and certification processes for aerospace abrasives to qualify as an approved vendor for Thai MRO operators.",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Brand Inside",
+          "date": "2026-08-14",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNnp5aUZLY2RzNjVBTHl1dVozcFVRLS1hZUtiY1lBOFlOZXJFX3RoMU11dm9ISDBVMG40Y09JOUJ2QmVGV3hHWjNPdFRySDVRYmZWLXd0UjJlUGh1Z0gzaUFPcUpXT0Z1Y0h0TkN3S19wYVp0QVhVdnlrd0NUbjZSUm9qRQ?oc=5",
+          "title": "Indonesia Woos Toyota to Relocate Production, Intensifying Regional Auto Competition",
+          "summary": "Indonesia is aggressively courting Toyota with major incentives to relocate manufacturing lines from Thailand, putting pressure on Thailand's traditional automotive supply base.",
+          "why": "Any volume shift from Thai assembly plants to regional competitors directly cuts the throughput of metal stamping and body-in-white finishing abrasive consumables.",
+          "action": "Expand the sales pipeline into emerging hybrid component makers and independent Tier-2 metal fabricators to spread volume risk.",
           "th": {
-            "title": "เซ็นทางการ! EEC และการบินไทย ลงนามสัญญาศูนย์ซ่อม MRO อู่ตะเภาหมื่นล้าน",
-            "summary": "อีอีซีและการบินไทยลงนามสัญญาอย่างเป็นทางการในการลงทุนศูนย์ซ่อมบำรุงอากาศยาน (MRO) มูลค่า 1 หมื่นล้านบาท ณ อู่ตะเภา เตรียมเริ่มก่อสร้างปี 2570",
-            "why": "ศูนย์ซ่อมอากาศยานเชิงพาณิชย์จะสร้างความต้องการใช้วัสดุขัด จานเจียร และผลิตภัณฑ์ลบครีบเกรดการบินที่มีมูลค่าสูงและซื้อซ้ำสม่ำเสมอ",
-            "action": "เร่งเตรียมเอกสารรับรองมาตรฐานวัสดุขัดเกรดการบินเพื่อเตรียมขึ้นทะเบียนเป็นผู้จัดจำหน่ายให้กับศูนย์ซ่อมบำรุงอากาศยาน"
+            "title": "อินโดนีเซียรุกจีบ Toyota ย้ายฐานการผลิต จุดชนวนความเสี่ยงห่วงโซ่ยานยนต์ไทย",
+            "summary": "อินโดนีเซียเร่งเสนอสิทธิประโยชน์เพื่อดึงดูด Toyota ให้ย้ายฐานการผลิตบางส่วนออกจากไทย ท่ามกลางกระแสการแข่งขันแย่งชิงการลงทุนในภูมิภาค",
+            "why": "หากมีการย้ายสายการผลิตหรือลดกำลังผลิตในไทย จะส่งผลกระทบโดยตรงต่อยอดการใช้วัสดุขัดขึ้นรูปและเตรียมผิวตัวถังรถยนต์",
+            "action": "เร่งกระจายพอร์ตโฟลิโอไปยังกลุ่มผู้ผลิตชิ้นส่วนรถยนต์ไฮบริดและโรงงานปั๊มโลหะ Tier-2 เพื่อลดความเสี่ยงจากการพึ่งพาไลน์ประกอบหลัก"
           }
         },
         {
           "id": "20261018-3",
+          "tag": "aero",
+          "rating": "green",
+          "source": "thansettakij",
+          "date": "2026-08-01",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJbG91NDM0Z1ZuZmRPYUc4dlRzSXYwVXRnb1l5dGZyZUJLSDZqUXhOSnVzSXVQeTdRME04Y1c5TVB5SC0wOENDcm9VeDhaT3Fha0ZocE90aEgzNXpNOGVmYklR?oc=5",
+          "title": "Thai Airways Outlines Plan to Expand Fleet to 150 Aircraft, Driving Local Maintenance Needs",
+          "summary": "Thai Airways is deploying massive investments to expand its active fleet to 150 aircraft, generating extensive domestic maintenance, repair, and overhaul (MRO) workloads.",
+          "why": "A significantly larger local commercial fleet creates continuous, recurring demand for certified abrasives used in airframe surface prep, paint stripping, and turbine maintenance.",
+          "action": "Accelerate product sampling and technical certification of MK's aerospace-grade abrasives with Thai MRO engineering contractors.",
+          "th": {
+            "title": "การบินไทยเดินหน้าแผนขยายฝูงบินสู่ 150 ลำ หนุนดีมานด์งานซ่อมบำรุงในประเทศ",
+            "summary": "การบินไทยวางแผนลงทุนขยายฝูงบินแตะ 150 ลำ เพื่อรองรับการฟื้นตัว ซึ่งจะส่งผลให้ปริมาณงานซ่อมบำรุงอากาศยาน (MRO) ภายในประเทศเพิ่มขึ้นอย่างต่อเนื่อง",
+            "why": "การเพิ่มขึ้นของฝูงบินขับเคลื่อนการซ่อมบำรุงผิวโครงสร้างและชิ้นส่วนเครื่องยนต์ ซึ่งใช้วัสดุขัดลอกสี ขัดเงา และเตรียมผิวมูลค่าสูง",
+            "action": "เร่งส่งตัวอย่างและทดสอบรับรองมาตรฐานวัสดุขัดเกรดการบินของ MK กับฝ่ายวิศวกรรมศูนย์ซ่อมบำรุงอากาศยาน"
+          }
+        },
+        {
+          "id": "20261018-4",
           "tag": "furniture",
           "rating": "amber",
-          "source": "กรมส่งเสริมการค้าระหว่างประเทศ (DITP)",
-          "date": "2025-10-08",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WZ0s3TnpGQ1JjZHJpVkhVQ19La3lwT2hjMTR3cXZlczhtby1WNnFQaUcxb2RUZ1FPcGgwQTRWa2t6TnN4d3NNUXF6bXVjOEpKY3FrWlFocm9nRnJ5UGdZOFd3?oc=5",
-          "title": "Furniture Manufacturers Anticipate Order Decline Following New US Tariff Policies",
-          "summary": "Thai furniture producers anticipate a drop in export purchase orders due to tightening US import tariff regulations that increase costs for global buyers.",
-          "why": "Export contractions dampen production runs and reduce wide sanding belt and sandpaper consumption among local wooden furniture factories.",
-          "action": "Counter potential export slowdowns by expanding promotional campaigns for wood sanding products toward domestic interior contractors and online DIY channels.",
+          "source": "เดลินิวส์",
+          "date": "2026-09-03",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQOG53VVJYRkd4MUZabFczX0FkeTVGTGNFYmZGUUxkTnJ6VjNmeklDTUZEYXlVRkpjS1gzeUxQczJHMXJRS3c1dEdWSk14eVVqczJN?oc=5",
+          "title": "TIWF 2026 Confirms Readiness to Showcase Regional Woodworking and Furniture Manufacturing Tech",
+          "summary": "Organizers announced full readiness for the TIWF 2026 exhibition to highlight advanced machinery, wood processing, and surface finishing technologies across ASEAN.",
+          "why": "Export furniture manufacturers are high-volume buyers of wide sanding belts, paper rolls, and finishing discs for surface calibration and lacquering.",
+          "action": "Register for exhibition attendance and schedule B2B meetings with participating wood processing and furniture factories.",
           "th": {
-            "title": "ผู้ผลิตเฟอร์นิเจอร์คาดยอดสั่งซื้อลดลงหลังเผชิญนโยบายภาษีนำเข้าใหม่ของสหรัฐฯ",
-            "summary": "ผู้ผลิตเฟอร์นิเจอร์ไทยประเมินว่าคำสั่งซื้ออาจชะลอตัวลงจากผลกระทบของนโยบายกำแพงภาษีนำเข้าฉบับใหม่ของสหรัฐฯ",
-            "why": "ยอดสั่งซื้อส่งออกที่ลดลงจะกระทบต่อการใช้วัสดุขัด เช่น กระดาษทรายสายพานกว้างและกระดาษทรายขัดไม้ในโรงงานส่งออก",
-            "action": "ชดเชยยอดขายโรงงานส่งออกด้วยการทำโปรโมชันกระดาษทรายงานไม้เจาะกลุ่มช่างตกแต่งภายในและตลาด DIY ผ่าน Shopee และ TikTok"
+            "title": "TIWF 2026 ประกาศความพร้อม จัดงานใหญ่ยกระดับอุตสาหกรรมไม้และเฟอร์นิเจอร์อาเซียน",
+            "summary": "ผู้จัดงาน TIWF 2026 ยืนยันความพร้อมจัดงานแสดงสินค้าและเทคโนโลยีงานไม้และเฟอร์นิเจอร์ระดับภูมิภาค เพื่อยกระดับสายการผลิตและการเตรียมผิวไม้",
+            "why": "กลุ่มผู้ผลิตเฟอร์นิเจอร์ไม้ใช้กระดาษทรายสายพานหน้ากว้าง (wide belt) และจานทรายขัดไม้ในปริมาณสูงสำหรับการเตรียมผิวก่อนทำสี",
+            "action": "วางแผนเข้าร่วมงานเพื่อเข้าพบฝ่ายจัดซื้อและฝ่ายผลิตของโรงงานเฟอร์นิเจอร์ส่งออกที่มาร่วมงาน"
           }
         }
       ],
