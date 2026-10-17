@@ -2,6 +2,89 @@
 window.NEWS_ARCHIVE = {
   "days": [
     {
+      "date": "2026-10-18",
+      "summary": "Today has limited new news; developments focus on regional risks to Japanese automotive supply chains while fleet expansions and woodworking exhibitions present clear opportunities for specialized abrasives.",
+      "directCount": 2,
+      "th": {
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยประเด็นสำคัญมุ่งไปที่ความเสี่ยงการแข่งขันระดับภูมิภาคต่อซัพพลายเชนยานยนต์ญี่ปุ่น ขณะที่การขยายฝูงบินและการจัดแสดงเทคโนโลยีงานไม้เปิดโอกาสเติบโตให้กับวัสดุขัดเฉพาะทาง"
+      },
+      "items": [
+        {
+          "id": "20261018-1",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Matichon Online",
+          "date": "2026-08-29",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6UWlkVWd4aE45T3h4d0cybm1KZm1TWnBrdFpKLUViaVR6cGlZTHlta1NSc3pJOGtMOFFuOUdrMUJQelFXM05WdGdaUEZ0dlo0NHN1M2g2ZXdEb3c?oc=5",
+          "title": "Thai Auto Parts Makers Urge Government Dialogue to Retain Japanese Automakers",
+          "summary": "The Thai Auto-Parts Manufacturers Association supports high-level government talks with Japanese carmakers to bridge cost disparities and prevent manufacturing relocation.",
+          "why": "Japanese automotive plants and their tier-1/tier-2 suppliers are MK's core industrial abrasive customers.",
+          "action": "Coordinate closely with Japanese automotive metal stamping and machining clients to safeguard existing supply contracts.",
+          "th": {
+            "title": "ผู้ผลิตชิ้นส่วนยานยนต์ไทยหนุนรัฐเร่งเจรจาค่ายรถญี่ปุ่นเพื่อรั้งฐานการผลิต",
+            "summary": "สมาคมผู้ผลิตชิ้นส่วนยานยนต์ไทยสนับสนุนการเจรจาระดับสูงกับผู้ผลิตรถยนต์ญี่ปุ่น เพื่อลดช่องว่างต้นทุนและสกัดการย้ายฐานการผลิต",
+            "why": "โรงงานรถยนต์ญี่ปุ่นและซัพพลายเออร์ชิ้นส่วนคือฐานลูกค้า B2B หลักสำหรับผลิตภัณฑ์ขัดโลหะของ MK",
+            "action": "ประสานงานใกล้ชิดกับโรงงานปั๊มและตัดกลึงโลหะกลุ่มซัพพลายเออร์ญี่ปุ่น เพื่อรักษาคำสั่งซื้อวัสดุขัดอย่างต่อเนื่อง"
+          }
+        },
+        {
+          "id": "20261018-2",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Brand Inside",
+          "date": "2026-08-14",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNnp5aUZLY2RzNjVBTHl1dVozcFVRLS1hZUtiY1lBOFlOZXJFX3RoMU11dm9ISDBVMG40Y09JOUJ2QmVGV3hHWjNPdFRySDVRYmZWLXd0UjJlUGh1Z0gzaUFPcUpXT0Z1Y0h0TkN3S19wYVp0QVhVdnlrd0NUbjZSUm9qRQ?oc=5",
+          "title": "Indonesia Aggressively Courts Toyota as Regional Rivalry for Automotive Plants Intensifies",
+          "summary": "Indonesia is actively offering comprehensive incentives to lure Toyota's production facilities away from Thailand as local policies heavily favor Chinese EV makers.",
+          "why": "Any production reduction or relocation among Japanese OEMs directly reduces local metal cutting, deburring, and finishing operations.",
+          "action": "Monitor production run rates at key Japanese automotive suppliers and expand sales calls to growing EV component machining lines.",
+          "th": {
+            "title": "อินโดนีเซียรุกหนักจีบ Toyota ย้ายฐานผลิต ท่ามกลางศึกชิงเม็ดเงินยานยนต์ในภูมิภาค",
+            "summary": "อินโดนีเซียเร่งเสนอมาตรการจูงใจรอบด้านเพื่อดึงฐานการผลิตของ Toyota ออกจากไทย หลังนโยบายไทยถูกมองว่าเน้นเอื้อ EV จีน",
+            "why": "หากการผลิตรถยนต์ญี่ปุ่นลดลงหรือย้ายฐาน ปริมาณงานเจียร ลบครีบ และขัดเงาโลหะของโรงงานในไทยจะหดตัวตาม",
+            "action": "ติดตามอัตราการเดินเครื่องของลูกค้าโรงงานญี่ปุ่นอย่างใกล้ชิด พร้อมเร่งเจาะกลุ่มไลน์ผลิตชิ้นส่วน EV ทดแทน"
+          }
+        },
+        {
+          "id": "20261018-3",
+          "tag": "aero",
+          "rating": "green",
+          "source": "thansettakij",
+          "date": "2026-08-01",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJbG91NDM0Z1ZuZmRPYUc4dlRzSXYwVXRnb1l5dGZyZUJLSDZqUXhOSnVzSXVQeTdRME04Y1c5TVB5SC0wOENDcm9VeDhaT3Fha0ZocE90aEgzNXpNOGVmYklR?oc=5",
+          "title": "Thai Airways Invests 100 Billion Baht to Expand Fleet to 150 Aircraft",
+          "summary": "Thai Airways plans a major expansion of its fleet to 150 aircraft, substantially driving future demand for heavy maintenance, repainting, and structural overhauls.",
+          "why": "Fleet enlargement translates into continuous demand for aerospace-grade sandpaper, non-woven abrasive pads, and stripping discs in local MRO hangars.",
+          "action": "Accelerate vendor registration and product testing of MK aerospace-grade abrasives with Thai Airways technical maintenance teams.",
+          "th": {
+            "title": "การบินไทยทุ่มแสนล้านขยายฝูงบินสู่ 150 ลำ หนุนงานซ่อมบำรุงระยะยาว",
+            "summary": "การบินไทยเตรียมขยายฝูงบินเป็น 150 ลำ ซึ่งจะช่วยเพิ่มปริมาณงานซ่อมบำรุงใหญ่ ขัดลอกสี และปรับโครงสร้างอากาศยานในไทยอย่างมหาศาล",
+            "why": "ฝูงบินที่ใหญ่ขึ้นส่งผลโดยตรงต่อความต้องการใช้วัสดุขัดเตรียมผิวก่อนทำสีและแผ่นขัดเกรดการบินสำหรับงาน MRO",
+            "action": "เร่งผลักดันการทดสอบและขอรับรองมาตรฐานผลิตภัณฑ์กระดาษทรายเกรดการบินของ MK กับฝ่ายช่างการบินไทยและศูนย์ซ่อมพันธมิตร"
+          }
+        },
+        {
+          "id": "20261018-4",
+          "tag": "furniture",
+          "rating": "green",
+          "source": "เดลินิวส์",
+          "date": "2026-09-03",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQOG53VVJYRkd4MUZabFczX0FkeTVGTGNFYmZGUUxkTnJ6VjNmeklDTUZEYXlVRkpjS1gzeUxQczJHMXJRS3c1dEdWSk14eVVqczJN?oc=5",
+          "title": "TIWF 2026 Prepares to Showcase Regional Woodworking and Furniture Manufacturing Technologies",
+          "summary": "The Thailand International Woodworking & Furniture Exhibition (TIWF 2026) aims to accelerate technological adoption, precision processing, and surface finishing for exporters.",
+          "why": "Participating furniture and wood processing factories are high-volume buyers of wide sanding belts, abrasive rolls, and sanding discs.",
+          "action": "Plan direct marketing outreach and prepare promotional packages for MK wide sanding belts targeting registered furniture manufacturing exhibitors.",
+          "th": {
+            "title": "TIWF 2026 ประกาศความพร้อมจัดงานใหญ่ ยกระดับอุตสาหกรรมเครื่องจักรไม้และเฟอร์นิเจอร์",
+            "summary": "งาน TIWF 2026 เตรียมจัดแสดงเทคโนโลยีแปรรูปไม้ขั้นสูงและงานเตรียมผิวสำเร็จ เพื่อผลักดันศักยภาพโรงงานผลิตเฟอร์นิเจอร์ส่งออก",
+            "why": "โรงงานเฟอร์นิเจอร์และงานไม้ที่เข้าร่วมงานเป็นกลุ่มผู้ใช้สายพานผ้าทรายหน้ากว้างและจานขัดกระดาษทรายปริมาณมาก",
+            "action": "วางแผนการตลาดตรงและจัดแพ็กเกจโปรโมชันสายพานผ้าทรายหน้ากว้างของ MK เจาะกลุ่มโรงงานเฟอร์นิเจอร์ที่จะร่วมงาน"
+          }
+        }
+      ],
+      "terms": {}
+    },
+    {
       "date": "2026-10-17",
       "summary": "Today offers few new developments as major automotive and MRO stories were previously covered; highlights focus on government efforts to mandate local Thai EV parts sourcing and AirAsia's aggressive push into domestic aviation MRO.",
       "directCount": 2,
@@ -937,5 +1020,5 @@ window.NEWS_ARCHIVE = {
       "terms": {}
     }
   ],
-  "updated": "2026-10-17"
+  "updated": "2026-10-18"
 };
