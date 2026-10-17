@@ -1,7 +1,89 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-10-17",
+  "updated": "2026-10-18",
   "days": [
+    {
+      "date": "2026-10-18",
+      "summary": "Today's briefing highlights new superhard diamond sanding technology in China, Klingspor's latest flap disc release, and key shifts in European steel regulations and global EV manufacturing.",
+      "directCount": 2,
+      "th": {
+        "summary": "สรุปประเด็นข่าววันนี้เน้นเทคโนโลยีสายพานขัดเพชรความแข็งสูงจากจีน การเปิดตัวใบเจียรใบพัดรุ่นใหม่จาก Klingspor รวมถึงการเปลี่ยนแปลงด้านกฎระเบียบเหล็กในยุโรปและการผลิต EV ระดับโลก"
+      },
+      "items": [
+        {
+          "id": "20261018-w1",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "The National Law Review",
+          "date": "2026-10-16",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONzc1UG5lV0E3Z2JCYnd2dFpLZmt2VTRYVEk5cHlBS2FYaDIzNHNJeTNBd3R3dDE0cFF4QlhNZE9ZX3N4enpseURtMGRTMmFHRWNPdmY2NlZ2R1F6b01ma01GXzlTMXlJd3FJdzZsY093dEVCczVVNTNPaU56Z2l0emR3d2hPNDQwT2xDY01CZW5Ib195T3RMR0tQdTY0d1FwdGgxWnB5RGI1aXpwRkNXWnln?oc=5",
+          "title": "Five Reputable Diamond Sanding Belts Manufacturers in China 2026: Optimizing Superhard Abrasive Machining",
+          "summary": "An analysis of top Chinese manufacturers optimizing diamond sanding belts for superhard abrasive machining applications.",
+          "why": "Direct competitor and material trend intelligence regarding superhard diamond abrasives and sanding belts.",
+          "action": "Monitor advanced superhard abrasive manufacturing developments coming out of China.",
+          "th": {
+            "title": "5 ผู้ผลิตสายพานขัดเพชรที่มีชื่อเสียงในจีนปี 2026: การเพิ่มประสิทธิภาพการตัดเฉือนวัสดุแข็งพิเศษ",
+            "summary": "บทวิเคราะห์ผู้ผลิตชั้นนำของจีนที่กำลังพัฒนาสายพานขัดเพชรสำหรับการตัดเฉือนวัสดุที่มีความแข็งสูง",
+            "why": "ข้อมูลเชิงลึกด้านคู่แข่งและวัสดุเกี่ยวกับสารขัดถูเพชรความแข็งสูงและสายพานขัด",
+            "action": "ติดตามการพัฒนาการผลิตสารขัดถูความแข็งสูงขั้นสูงจากประเทศจีน"
+          }
+        },
+        {
+          "id": "20261018-w2",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "The Maritime Executive",
+          "date": "2026-09-15",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUzY2QWRmTVpKb2RFOHpPaGdrRjgwSWM0UFNwZUlRSUNqdnpXeVE5dHN1ZmxxVVZ6V1VkR0trVTZkRjgzN3NJbkdLLUdJYUlyOVA0Nkp1d2Joa2l0cnBmY1poVjRUVHhQbThNUEpOMU94RXhRRk1iUnh4T3pnNjFYeV95WGRucTRHSjZpZFo4UXJUb1pkRkJ4VXVYUzNmWkFUYUtacTRWYXRaS2RITk13?oc=5",
+          "title": "Klingspor Abrasives New Flap Disc Family with CMT, SMT & TITAN Solutions",
+          "summary": "Klingspor has introduced a new family of flap discs featuring CMT, SMT, and TITAN solutions designed for high-performance metal grinding.",
+          "why": "Shows how major global abrasive brands are innovating product lines for metal fabrication and heavy-duty grinding.",
+          "action": "Study competitor product tiering and marketing strategies for high-performance flap discs.",
+          "th": {
+            "title": "Klingspor Abrasives เปิดตัวกลุ่มผลิตภัณฑ์ใบเจียรใบพัดใหม่พร้อมโซลูชัน CMT, SMT และ TITAN",
+            "summary": "Klingspor เปิดตัวใบเจียรใบพัดตระกูลใหม่ที่มาพร้อมโซลูชัน CMT, SMT และ TITAN สำหรับการเจียรโลหะประสิทธิภาพสูง",
+            "why": "แสดงให้เห็นว่าแบรนด์สารขัดถูระดับโลกกำลังพัฒนานวัตกรรมผลิตภัณฑ์อย่างไรสำหรับงานโลหะและการเจียรงานหนัก",
+            "action": "ศึกษาการจัดระดับผลิตภัณฑ์และกลยุทธ์การตลาดของคู่แข่งสำหรับใบเจียรใบพัดประสิทธิภาพสูง"
+          }
+        },
+        {
+          "id": "20261018-w3",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "S&P Global",
+          "date": "2026-01-07",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSDJTcGFGbUFvRm15ZDhrczNqYkRzbHlXMTJZTHJpUF9CTjRHaTNXak4tdVBkbnBWcnNrRDRneXpBd1Z5SUJGSFZWTzJMNWhfcVl5czkzR0lSSjd4aTJzMTg3N2FWM3pHQ2NxbHg2dEp2ckNiNC16cWdJZ0t3anl3TzlUYldVajhqM05JQVEyWWdZYVdaYkEzZUpvUEJGdHAxXzRKdDRnNG1pQl9LaEN6Q0lpbFpPMTBOeElqT3V2NUdUSlJJNjZWOEpiMWc?oc=5",
+          "title": "Europe's steel industry faces its 2026 reckoning with CBAM",
+          "summary": "Europe's steel sector confronts the full implementation and financial impact of the Carbon Border Adjustment Mechanism (CBAM) in 2026.",
+          "why": "Changes in European steel production costs and export rules affect global metal processing standards and surface prep demand.",
+          "action": "Keep an eye on how environmental compliance regulations impact European metal export competitiveness.",
+          "th": {
+            "title": "อุตสาหกรรมเหล็กของยุโรปเผชิญบททดสอบในปี 2026 ด้วยมาตรการ CBAM",
+            "summary": "ภาคอุตสาหกรรมเหล็กของยุโรปเผชิญกับการบังคับใช้และผลกระทบทางการเงินของกลไกการปรับคาร์บอนก่อนข้ามพรมแดน (CBAM) ในปี 2026",
+            "why": "การเปลี่ยนแปลงต้นทุนการผลิตเหล็กและกฎระเบียบการส่งออกของยุโรปส่งผลต่อมาตรฐานการแปรรูปโลหะทั่วโลกและความต้องการเตรียมพื้นผิว",
+            "action": "ติดตามว่ากฎระเบียบด้านสิ่งแวดล้อมส่งผลกระทบต่อความสามารถในการแข่งขันส่งออกโลหะของยุโรปอย่างไร"
+          }
+        },
+        {
+          "id": "20261018-w4",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-09-02",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUUpWSmpHLVowSXdiLUJqcFlpQ3ZfRmdQYjJiTVFCNk00ZW0tM0ZqenQtd2F4emNVNEdzT3Q3amZ3M050YnNuTldQZFQyTlgyX3ByekdEbkdlaURacG5yRlBUSEZucnBQalBmNzVadXVrSDdXcEd0d2t4UXptUzJ5dXZ6ckE1O3RVV3IyUkY4SFdVSERveVJYem0yM3lNbWFUY1dXWHYyRFZ2cXdldWFqRmJTNE4tQ1RXWWp4N3NCN1h5Vmt3d3hEbkFPc2ZqT0k?oc=5",
+          "title": "A global AI manufacturing transformation at Hyundai Motor Group",
+          "summary": "Hyundai Motor Group is rolling out a comprehensive AI-driven manufacturing transformation across its global assembly plants.",
+          "why": "Advanced automation and AI in automotive manufacturing influence robotic deburring, grinding, and automated surface finishing requirements.",
+          "action": "Anticipate higher demand for automated-compatible abrasive tools in advanced automotive smart factories.",
+          "th": {
+            "title": "การเปลี่ยนผ่านการผลิตระดับโลกด้วย AI ที่ Hyundai Motor Group",
+            "summary": "Hyundai Motor Group กำลังดำเนินการเปลี่ยนผ่านการผลิตที่ขับเคลื่อนด้วย AI ครบวงจรทั่วทั้งโรงงานประกอบทั่วโลก",
+            "why": "ระบบอัตโนมัติขั้นสูงและ AI ในการผลิตยานยนต์ส่งผลต่อความต้องการเครื่องมือลบคม ขัดผิว และเตรียมพื้นผิวอัตโนมัติด้วยหุ่นยนต์",
+            "action": "คาดการณ์ความต้องการเครื่องมือขัดที่รองรับระบบอัตโนมัติที่สูงขึ้นในโรงงานอัจฉริยะยานยนต์ขั้นสูง"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-10-17",
       "summary": "Today's briefing focuses on global manufacturing equipment shifts, metal market trade dynamics, and surface technology trends outside our recently covered topics.",
@@ -902,70 +984,6 @@ window.WORLD_ARCHIVE = {
             "summary": "อุตสาหกรรมการหล่อโลหะทั่วโลกคาดว่าจะเติบโตอย่างต่อเนื่องจากความต้องการด้านโครงสร้างพื้นฐานและเครื่องจักรกล",
             "why": "ชิ้นงานโลหะหล่อจำเป็นต้องผ่านกระบวนการเจียรหนัก การตัดแต่งครีบ และการปรับผิวเรียบโดยใช้วัสดุขัดประสิทธิภาพสูง",
             "action": "เสริมสร้างความสัมพันธ์กับโรงหล่อโลหะและผู้ประกอบการงานหล่อในพื้นที่ที่ต้องการสินค้ากลุ่มงานเจียรหนัก"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-10-04",
-      "summary": "Today's global trend briefing highlights a steady expansion in metalworking-driven abrasive materials and regional shifts in paint, coatings, and steel production, offering clear signals for industrial demand.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปกระแสโลกประจำวันนี้เน้นย้ำถึงการขยายตัวอย่างต่อเนื่องของวัสดุขัดที่ขับเคลื่อนโดยงานโลหะ ตลอดจนการเปลี่ยนแปลงระดับภูมิภาคในอุตสาหกรรมสี สารเคลือบ และการผลิตเหล็ก ซึ่งส่งสัญญาณที่ชัดเจนต่อความต้องการของภาคอุตสาหกรรม"
-      },
-      "items": [
-        {
-          "id": "20261004-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-09-27",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeWh0UnJDZ2FJeUdQelItenUwbTFWQy16N1pabE5kU0twSlJiSm9jRjZkb0NGRHdvU2J0SzJRRmhCbDNmMjRCTU1YZzNOVE9OUVZ4eFU0SWNuYzM0bjVjSkVuVEx0RTFxcWw5WE1wZ04xZUhERTVkTF8xNzFiSDlMblQ2cVJPaUtKMWcxWjlzcnVuVDZVYkpFMm5HcHhTbDhDVkhlckQzSjFqV0tCOTB1cU5vMUx0NnlQYlhHeg?oc=5",
-          "title": "Abrasive Materials Market Forecast to 2035: Metalworking Demand Supports Expansion",
-          "summary": "Global demand for abrasive materials is projected to grow steadily through 2035, heavily supported by robust activity in the metalworking sector.",
-          "why": "Direct growth in metalworking directly drives the consumption of industrial abrasives, grinding discs, and surface finishing tools.",
-          "action": "Ensure stable inventory and supplier relationships for heavy-duty metalworking abrasive lines.",
-          "th": {
-            "title": "การคาดการณ์ตลาดวัสดุขัดถึงปี 2035: ความต้องการด้านงานโลหะหนุนการขยายตัว",
-            "summary": "ความต้องการวัสดุขัดทั่วโลกคาดว่าจะเติบโตอย่างต่อเนื่องจนถึงปี 2035 โดยได้รับแรงหนุนหลักจากกิจรรมในภาคอุตสาหกรรมโลหะที่แข็งแกร่ง",
-            "why": "การเติบโตโดยตรงในงานโลหะส่งผลโดยตรงต่อปริมาณการใช้วัสดุขัดอุตสาหกรรม ใบเจียร และเครื่องมือตกแต่งพื้นผิว",
-            "action": "รักษาเสถียรภาพของสินค้าคงคลังและความสัมพันธ์กับซัพพลายเออร์สำหรับกลุ่มสินค้าวัสดุกัดสำหรับงานโลหะหนัก"
-          }
-        },
-        {
-          "id": "20261004-w2",
-          "tag": "coating",
-          "rating": "green",
-          "source": "Grand View Research",
-          "date": "2026-01-23",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wdl8zZEVHeGRhcFQ4NFM3NEVjM3lCTTNOMmNDSWVybUNKNWhfVlZQWXU4UG9CaWZjTlFibUdNSS1GVlZzQU50amhlREk2NFNtc2l6bE9oYl9SdEV6dU5tellWN1laN0U5d293eHNvRFBxT2RxQ2JnMDVsbHZ4Ulk?oc=5",
-          "title": "Coatings Market Size And Trends Report, 2026-2033",
-          "summary": "The global coatings market continues its upward trajectory, emphasizing high-performance surface finishes and advanced application technologies.",
-          "why": "Surface preparation and sanding are critical pre-requisites in the coatings lifecycle, meaning coating market expansion mirrors surface treatment needs.",
-          "action": "Monitor crossover opportunities where coating prep requires specialized sanding products.",
-          "th": {
-            "title": "รายงานขนาดและแนวโน้มตลาดสารเคลือบ ปี 2026-2033",
-            "summary": "ตลาดสารเคลือบโลกยังคงมีแนวโน้มเติบโตขึ้น โดยให้ความสำคัญกับสารเคลือบผิวประสิทธิภาพสูงและเทคโนโลยีการใช้งานขั้นสูง",
-            "why": "การเตรียมพื้นผิวและการขัดกระดาษทรายเป็นขั้นตอนสำคัญก่อนการเคลือบ ซึ่งหมายความว่าการขยายตัวของตลาดสารเคลือบสะท้อนถึงความต้องการในการเตรียมพื้นผิวเช่นกัน",
-            "action": "ติดตามโอกาสในกลุ่มงานเตรียมพื้นผิวที่ต้องใช้ผลิตภัณฑ์ขัดเฉพาะทาง"
-          }
-        },
-        {
-          "id": "20261004-w3",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "financialpost.com",
-          "date": "2026-07-16",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYzVENV9lOXd1cm0xeEt4Y2JBNVF4R3M1aDRReTk5T0xoNzJ0a3c5VnBueWdRenBEcUp2NHNNMldrU20teUI0Z3RocldKbjAyVHNjWjNKN1FtdFlUVXZVSHlfNUZqY016Q0pWMDlDMWxTa3gwMGN0SmNmNjVoRzJQdW9YWDRlYU9PeGt0WGh4VQ?oc=5",
-          "title": "'We're getting hammered': Why this Canadian aluminum sector is crumbling while prices boom",
-          "summary": "Regional metal manufacturing sectors are facing margin squeezes and operational headwinds despite fluctuating global commodity pricing.",
-          "why": "Fluctuations in metal producer health can impact local fabrication and finishing activity, indirectly affecting industrial consumable spending.",
-          "action": "Keep an eye on client liquidity and operational slowdowns in metal fabrication sectors.",
-          "th": {
-            "title": "'พวกเรากำลังแย่': เหตุใดภาคอุตสาหกรรมอลูมิเนียมของแคนาดาจึงซบเซาในขณะที่ราคาพุ่งสูง",
-            "summary": "ภาคการผลิตโลหะในระดับภูมิภาคกำลังเผชิญกับแรงกดดันด้านกำไรและอุปสรรคในการดำเนินงาน แม้ว่าราคาสินค้าโภคภัณฑ์โลกจะมีความผันผวน",
-            "why": "ความผันผวนในสุขภาพของผู้ผลิตโลหะอาจส่งผลกระทบต่อกิจกรรมการขึ้นรูปและการตกแต่งในท้องถิ่น ซึ่งส่งผลทางอ้อมต่อการใช้จ่ายสินค้าสิ้นเปลืองอุตสาหกรรม",
-            "action": "จับตาด่วนเรื่องสภาพคล่องของลูกค้าและการชะลอตัวในการดำเนินงานในภาคการผลิตโลหะ"
           }
         }
       ]
