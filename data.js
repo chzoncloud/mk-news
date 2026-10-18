@@ -2,6 +2,71 @@
 window.NEWS_ARCHIVE = {
   "days": [
     {
+      "date": "2026-10-19",
+      "summary": "News flow today contains fewer fresh developments; key highlights center on Thai leadership reassuring Japanese automakers to safeguard local production lines, alongside the formal contract signing for Thai Airways' 10-billion-baht U-Tapao MRO hub.",
+      "directCount": 1,
+      "th": {
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยประเด็นเด่นคือการที่นายกฯ หารืออดีตผู้นำญี่ปุ่นเพื่อสร้างความมั่นใจในการดูแลฐานผลิตยานยนต์ในไทย ควบคู่กับการเซ็นสัญญาอย่างเป็นทางการในโครงการศูนย์ซ่อม MRO อู่ตะเภา 1 หมื่นล้านบาท ซึ่งเปิดโอกาสระยะยาวสำหรับวัสดุขัดเกรดการบิน"
+      },
+      "items": [
+        {
+          "id": "20261019-1",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Facebook",
+          "date": "2026-10-12",
+          "url": "https://news.google.com/rss/articles/CBMi8gZBVV95cUxPWjQtdXNzVFQ5ZkJNZXhYMmp3OExvOUM5eDFtcU1TYTVjOW9MeDhvUDNRUlNaQkY3QzZlN1BHVVVFeFpTeWNtclVZbThGeUtucVVFQlU0Z3RxTDgxUEFxUU5mODJnalRiOGpja1R0T1ZYNFd2WUt5MXJnd2VTSktDaEpBR0daQ29YYUU1RlE3YjdoOEdJU05oUi05aWt6Y3czd0N5YmdvYl9LN0VOQkx5TGFZYmxxOF93YjVITWFZTHFrcDB3OENrMzNCc3MzQ1JYMElsTC1vaU5neVpEdXJUUUxyNU83ZnE2OURQTWtZNjZXWlVKWGR2UFdPRTZhUXZ4cE9Gdmt5YV9XTjRxS0oyZGhJUHZiVU50Rk5PMmxmNU9TeHNBR255eGtQVjNLb1hRS01wTHZMd0NpOThmRlFncng1U25HTWNjZXNUeERRUEhoMEowTmJCOGlPQk1jWVBLcjNIbWxsazVZUTktZVZiWkwtYW9VZHdkcEVCX2RRM2N6dWs4NkVYWTJKNFF5aUZHTE9jTzRhUEJ3eU9mbEJQQkpTVWtYQTdzaHdmc2JBM3psblRTUnFvRjVEenJSWGY1ZDd3bzVYcmRUQVpvNm5FSkp3MFF3TkVqNHhtNkg0bVZwSHhiZ1QwMjNYUXNfbHRoX0ppc3Vlb0tBbGFRaTg4MHFJMkN0d0pzMjVNMUdZWThaanV1YTBtWURQLVM3REEyWm84TjkyZ2dmOU9KeC03blpuNi0tempIbU52al82ZTgxN0xuVFBWM0NmWU9TWGpGdTVWcWU2dFU5c21FNFF5SVljUHZ1YkM2YVdINE1fbVBSRVBJSWZxSjVXSHQtTWdoZjhWQ1RqLXVzeFFuZFR3eHFUQXU4STZZZGs0RXN3dlVOVGx3TVNfOVhoWmxhMmM1eElkUnNsWm5KWDluM2RIdkd1WV9TU3o2dDBhal85d0REc1NPVDJ1Q014RUxBc3BzbUZoS1F6TEpHbW5fbzdUakZ5Si13b3FQMjd3VmVrLWJEcHJaWm9xTnBjNW5ZWU1fbUpiR2h4NlJmYllhaTZJcmNYcTdYZjN2XzNGaEN1NWs0OXRkeHV3QWtnb0FBRWllX3U1eFhqZjYtb1BINkM2YWlGcWNEYTUyZTRhUENWY0pNdkdBelJMTXJQc05BalpIV2c?oc=5",
+          "title": "Thai PM Reassures Kishida on Safeguarding Japanese Auto Hub Amid EV Shift",
+          "summary": "Thailand's Prime Minister met former Japanese PM Kishida to confirm excise measures curbing imported EVs and pledged to keep Japanese automakers central to Thailand's EV supply chain.",
+          "why": "Japanese auto plants are our primary abrasive clients; state backing for their local operations protects our ongoing industrial sandpaper and grinding disc demand.",
+          "action": "Engage with Japanese Tier-1 and Tier-2 auto parts makers to reinforce abrasive supply contracts for their current and next-gen production lines.",
+          "th": {
+            "title": "นายกฯ หารือ ‘คิชิดะ’ ย้ำมาตรการภาษีหนุนฐานผลิตรถยนต์ญี่ปุ่นในไทยรับกระแส EV",
+            "summary": "นายกรัฐมนตรีหารืออดีตผู้นำญี่ปุ่น ยืนยันใช้ภาษีสรรพสามิตสกัดรถนำเข้าเพื่อปกป้องฐานการผลิตยานยนต์ในไทย พร้อมผลักดันญี่ปุ่นร่วมห่วงโซ่การผลิต EV",
+            "why": "โรงงานยานยนต์ญี่ปุ่นคือลูกค้าหลักของ MK นโยบายปกป้องฐานการผลิตช่วยรักษาความต้องการใช้งานจานเจียรและกระดาษทรายอย่างต่อเนื่อง",
+            "action": "เข้าพบและกระชับความสัมพันธ์กับซัพพลายเออร์ชิ้นส่วน Tier-1 และ Tier-2 สัญชาติญี่ปุ่นเพื่อรักษาคำสั่งซื้อวัสดุขัดในไลน์ผลิตเดิมและไลน์ใหม่"
+          }
+        },
+        {
+          "id": "20261019-2",
+          "tag": "aero",
+          "rating": "green",
+          "source": "ผู้จัดการออนไลน์",
+          "date": "2026-10-06",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIazdnNjc2TVdpRWNOSTNQS2tlaWFWdl9KbE5OaEdlLWlZX0RaWERWWjhJV1l0MjdTejNaSHVhOEMwSThnWmtFaUJMWVAydHIxVkFKTktiQ0pXb09KVVRLWg?oc=5",
+          "title": "EEC and Thai Airways Formally Sign 10-Billion-Baht U-Tapao MRO Project Deal",
+          "summary": "The EEC and Thai Airways officially executed the contract to build a 10-billion-baht MRO hub at U-Tapao, targeting groundbreaking in 2027 and annual revenue of 4-6 billion baht by 2030.",
+          "why": "This confirmed megaproject represents Thailand's largest aviation maintenance hub, creating major future demand for certified aerospace abrasives and surface finishing supplies.",
+          "action": "Begin vendor listing research with Thai Airways Engineering and ensure MK's precision abrasive products meet international aviation standards.",
+          "th": {
+            "title": "เซ็นสัญญาแล้ว EEC ผนึกการบินไทย ลงทุนศูนย์ซ่อม MRO อู่ตะเภา 1 หมื่นล้าน",
+            "summary": "อีอีซีและการบินไทยลงนามสัญญาพัฒนาศูนย์ซ่อมบำรุงอากาศยาน (MRO) อู่ตะเภามูลค่า 1 หมื่นล้านบาท คาดตอกเสาเข็มปี 2570 และเปิดบริการสร้างรายได้ปี 2573",
+            "why": "โครงการเซ็นสัญญาเป็นรูปธรรมชัดเจน สร้างความต้องการใช้วัสดุขัดเกรดการบินความแม่นยำสูงที่มีอัตรากำไรสูงในอนาคตอันใกล้",
+            "action": "เริ่มศึกษาขั้นตอนขึ้นทะเบียนคู่ค้ากับฝ่ายช่างการบินไทย พร้อมเตรียมมาตรฐานรับรองวัสดุขัดเกรดอากาศยานของ MK ให้พร้อม"
+          }
+        },
+        {
+          "id": "20261019-3",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "efinanceThai",
+          "date": "2026-09-17",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY2JwVFpXeENxSjJqR0NxN1FNcjRXNG5mZlYzS0t0STRnNHlHSm5YMWFOWDRQMEhjOFo1aFdSV2pscGpCWE1TZ2YtSlpSMDdFYV9VMkdlZ0czVTN5dFlyU3ZxVFVSQU9HWnk3QkxVdk84SnUwZ0hyQmxHbXMyVGxRZnZESVI?oc=5",
+          "title": "Analysis of 3-Tier EV Tax Scheme Highlights Push for Local Factory Assembly",
+          "summary": "An analysis of Thailand's 3-tier EV tax framework shows high tariffs on imported CBU models alongside incentives that push automakers toward full local assembly and domestic component procurement.",
+          "why": "Pushing automakers toward domestic stamping and assembly directly protects sheet metal fabrication, deburring, and coating-prep abrasive consumption in Thai factories.",
+          "action": "Monitor automotive manufacturing clients transitioning from imported kits to full local fabrication to introduce body-shop grinding and finishing solutions.",
+          "th": {
+            "title": "ผ่าโครงสร้างภาษี EV 3 ระดับ บีบนำเข้าหนุนเร่งตั้งไลน์ประกอบและใช้ชิ้นส่วนในประเทศ",
+            "summary": "บทวิเคราะห์โครงสร้างภาษี EV แบบ 3 ระดับชี้ว่ารัฐบาลใช้ภาษีสกัดรถนำเข้าสำเร็จรูป เพื่อบีบให้ค่ายรถเร่งประกอบในประเทศและจัดซื้อชิ้นส่วนจากโรงงานไทย",
+            "why": "การบีบให้เกิดการประกอบและผลิตชิ้นส่วนในประเทศช่วยรักษาปริมาณงานปั๊มโลหะ งานเชื่อม และงานขัดลบครีบเตรียมผิวก่อนพ่นสี",
+            "action": "ติดตามโรงงานยานยนต์ที่เตรียมเปลี่ยนผ่านสู่การผลิตชิ้นส่วนในประเทศ เพื่อนำเสนอโซลูชันสายพานขัดและกระดาษทรายขัดตัวถัง"
+          }
+        }
+      ],
+      "terms": {}
+    },
+    {
       "date": "2026-10-18",
       "summary": "Fresh intelligence today is relatively light as several major automotive and industrial regulatory updates have already been covered. Key developments highlight persistent domestic efforts to retain Japanese auto supply chains against regional rivals, alongside Thai Airways' fleet expansion which signals long-term growth for aerospace MRO abrasives.",
       "directCount": 1,
@@ -935,90 +1000,7 @@ window.NEWS_ARCHIVE = {
         }
       ],
       "terms": {}
-    },
-    {
-      "date": "2026-10-05",
-      "summary": "Today offers few completely fresh headlines, with attention centering on regional automotive competition from Indonesia and India alongside cumulative BOI EV investment figures. While foreign competition poses long-term risks to Thailand's traditional Japanese auto base, steady industrial EV investments and local steel quality reforms offer targeted abrasive sales opportunities.",
-      "directCount": 1,
-      "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยประเด็นสำคัญเน้นไปที่การแข่งขันในอุตสาหกรรมยานยนต์ระดับภูมิภาคจากอินโดนีเซียและอินเดีย รวมถึงตัวเลขยอดส่งเสริมการลงทุน EV จากบีโอไอ แม้การแข่งขันในภูมิภาคจะสร้างแรงกดดันต่อฐานการผลิตรถยนต์ญี่ปุ่นในไทย แต่การลงทุนตั้งโรงงาน EV จริงและการกวาดล้างเตาหลอมเหล็กไม่ได้มาตรฐานยังคงเปิดโอกาสให้สินค้าวัสดุขัดเกรดคุณภาพของ MK"
-      },
-      "items": [
-        {
-          "id": "20261005-1",
-          "tag": "auto",
-          "rating": "green",
-          "source": "เว็บไซต์รัฐบาลไทย",
-          "date": "2026-07-02",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zOHo0X01meExtendzNTNja1RMTUxKa2dWM0hFZ1JrRzJ4dmJPLWhSdHVwb19IU01fVTRVOWtaX2lkMVJUSlRPb3FCNVg5UQ?oc=5",
-          "title": "BOI Reports Cumulative EV Investment Exceeds 130 Billion Baht Across Technologies",
-          "summary": "The Board of Investment (BOI) confirmed that total approved EV investments in Thailand have surpassed 130 billion baht, covering battery EVs, hybrids, and critical components.",
-          "why": "Actual plant construction and component fabrication directly increase manufacturing demand for grinding discs, sanding belts, and weld-seam finishing abrasives.",
-          "action": "Dispatch sales teams to engage newly approved tier-1 EV component factories and battery pack casing fabricators in the EEC.",
-          "th": {
-            "title": "บีโอไอเผยยอดลงทุน EV ทะลุ 1.3 แสนล้าน หนุนเป้าฐานผลิตยานยนต์ไฟฟ้าครบวงจร",
-            "summary": "สำนักงานคณะกรรมการส่งเสริมการลงทุน (BOI) เปิดเผยยอดอนุมัติลงทุนในอุตสาหกรรมยานยนต์ไฟฟ้าทะลุ 1.3 แสนล้านบาท ครอบคลุมทั้ง BEV, ไฮบริด และชิ้นส่วนสำคัญ",
-            "why": "การเร่งตั้งโรงงานผลิตชิ้นส่วนและประกอบตัวถังจริงกระตุ้นความต้องการจานขัด สายพานผ้าทราย และงานลบรอยเชื่อมโลหะโดยตรง",
-            "action": "ส่งทีมขายเชิงรุกเข้าติดต่อโรงงานผลิตชิ้นส่วนโครงสร้างและกล่องบรรจุแบตเตอรี่ในพื้นที่ EEC ที่ได้รับส่งเสริมการลงทุนใหม่"
-          }
-        },
-        {
-          "id": "20261005-2",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "brandinside.asia",
-          "date": "2026-08-14",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNnp5aUZLY2RzNjVBTHl1dVozcFVRLS1hZUtiY1lBOFlOZXJFX3RoMU11dm9ISDBVMG40Y09JOUJ2QmVGV3hHWjNPdFRySDVRYmZWLXd0UjJlUGh1Z0gzaUFPcUpXT0Z1Y0h0TkN3S19wYVp0QVhVdnlrd0NUbjZSUm9qRQ?oc=5",
-          "title": "Indonesia Courts Toyota Amid Concerns Over Thailand's Heavy Pivot to Chinese EVs",
-          "summary": "Indonesia is aggressively offering incentives to persuade Toyota to relocate manufacturing facilities, taking advantage of Japanese automakers' unease with Thailand's intense subsidization of Chinese EV brands.",
-          "why": "Japanese automotive supply chains represent MK's core industrial client base; any long-term production shift to Indonesia threatens abrasive consumable consumption in Thai supplier hubs.",
-          "action": "Strengthen technical support and vendor relationships with Japanese Tier-1 stamping and machining suppliers to defend current supply contracts.",
-          "th": {
-            "title": "อินโดนีเซียรุกดึง Toyota ย้ายฐานผลิต ขณะไทยถูกจับตาเทงบหนุน EV จีน",
-            "summary": "อินโดนีเซียเร่งออกมาตรการจูงใจดึงดูด Toyota ย้ายฐานการผลิต อาศัยจังหวะที่ค่ายรถญี่ปุ่นเริ่มกังวลต่อนโยบายของไทยที่มุ่งอุดหนุนแบรนด์ EV สัญชาติจีนเป็นหลัก",
-            "why": "ซัพพลายเชนยานยนต์ญี่ปุ่นคือกลุ่มลูกค้าหลักของ MK หากมีการย้ายฐานผลิตจริงจะส่งผลกระทบต่อยอดใช้กระดาษทรายและหินเจียรในไทยระยะยาว",
-            "action": "กระชับความสัมพันธ์และเข้าบริการหลังการขายกับโรงงานปั๊มขึ้นรูปโลหะญี่ปุ่นกลุ่ม Tier-1 อย่างใกล้ชิดเพื่อรักษาฐานยอดสั่งซื้อเดิม"
-          }
-        },
-        {
-          "id": "20261005-3",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "ditp.go.th",
-          "date": "2026-09-23",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pWWtMYlMtbEc3eTVkcWVCTTlQQ0Z5UWZUTTFLSmhCcE5XRFVYeGlMQ2JjVVZSOHE2U2RPSlNPUzhpRHduSjExdUFSZXZrVEhFMDgzQ3NuNFdUbEdVVjRnNDh3?oc=5",
-          "title": "Ford Explores Chennai Plant as Dedicated EV Export Hub for Asia-Pacific",
-          "summary": "Ford is considering repurposing its Chennai factory in Tamil Nadu, India, into an EV production base dedicated to serving Asia-Pacific export markets.",
-          "why": "Rising EV assembly capacity in India presents direct export competition to Rayong-based automotive assembly clusters, potentially capping vehicle fabrication growth in Thailand.",
-          "action": "Monitor Ford Thailand's model allocation plans to anticipate production adjustments at their local assembly and supplier plants.",
-          "th": {
-            "title": "Ford เล็งใช้โรงงานเจนไนเป็นฐานส่งออก EV ป้อนตลาดเอเชียแปซิฟิก",
-            "summary": "Ford กำลังพิจารณาใช้โรงงานในเมืองเจนไน ประเทศอินเดีย เป็นฐานผลิตและส่งออกรถยนต์ไฟฟ้าสำหรับภูมิภาคเอเชียแปซิฟิก",
-            "why": "การขยายฐานส่งออก EV ของอินเดียถือเป็นคู่แข่งโดยตรงของฐานผลิตยานยนต์ในไทย อาจจำกัดอัตราการเติบโตของงานโลหะยานยนต์ในประเทศ",
-            "action": "ติดตามแผนการจัดสรรรุ่นผลิตของ Ford ในไทยเพื่อวางแผนสต็อกวัสดุขัดที่ป้อนกลุ่มซัพพลายเออร์ในแถบระยองได้อย่างแม่นยำ"
-          }
-        },
-        {
-          "id": "20261005-4",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "ข่าวสด",
-          "date": "2026-05-21",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15SXhSTE9NZ09fLVZFdGQ0M0JDVXlYWHM4Y1FzbDcxc0VZcFdrX1laUTRTR3VDZkZYcUNENkVUMTA4MnVOcUpGTi1xZk04NVNoUW14Z29vYXRRakEwOVE?oc=5",
-          "title": "Ten Steel Associations Urge TISI to Ban Induction Furnace Mills Within Three Years",
-          "summary": "Ten local steel associations have petitioned the Thai Industrial Standards Institute (TISI) to phase out substandard Induction Furnace (IF) steelmakers within three years to safeguard the domestic supply chain.",
-          "why": "Phasing out substandard IF mills shifts market volume back to compliant, quality-focused EAF steelmakers and certified fabricators that invest in proper surface preparation and abrasive grinding.",
-          "action": "Focus sales efforts of heavy-duty grinding wheels and zirconium flap discs on certified structural steel fabricators and EAF mills.",
-          "th": {
-            "title": "10 สมาคมเหล็กจี้ สมอ. ปลดล็อกสั่งเลิกโรงงานเตาหลอม IF ภายใน 3 ปี",
-            "summary": "กลุ่ม 10 สมาคมเหล็กไทยยื่นหนังสือต่อ สมอ. ให้เร่งยกเลิกใบอนุญาตโรงงานหลอมเหล็กด้วยเตา Induction Furnace (IF) ด้อยมาตรฐานภายใน 3 ปี",
-            "why": "การกำจัดโรงงานหลอมเหล็กที่ไม่ได้มาตรฐานจะช่วยหนุนผู้ผลิตเหล็กเตา EAF และโรงงานแปรรูปโครงสร้างเหล็กคุณภาพสูง ซึ่งเป็นผู้ซื้อวัสดุขัดและใบเจียรเกรดมาตรฐาน",
-            "action": "มุ่งทำการตลาดใบเจียรหนาและจานทรายซ้อนสำหรับงานเหล็กหนักกับกลุ่มโรงงานโครงสร้างเหล็กมาตรฐาน มอก."
-          }
-        }
-      ],
-      "terms": {}
     }
   ],
-  "updated": "2026-10-18"
+  "updated": "2026-10-19"
 };
