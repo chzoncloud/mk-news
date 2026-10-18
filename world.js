@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-18",
-      "summary": "Today's briefing focuses on global industrial shifts, highlighting sustainable coating tech, structural changes in US-Japan steel production, and the evolving metal casting market that impacts surface preparation and finishing demands.",
+      "summary": "Today's global briefings highlight advanced superhard abrasives in China, new flap disc tooling innovations, and high-performance EV manufacturing automation shifts.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปข่าวสารประจำวันนี้เน้นการเปลี่ยนแปลงในอุตสาหกรรมระดับโลก ทั้งเทคโนโลยีสารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อม การเปลี่ยนแปลงโครงสร้างการผลิตเหล็กระหว่างสหรัฐฯ และญี่ปุ่น รวมถึงตลาดการหล่อโลหะที่ส่งผลต่อความต้องการงานเตรียมพื้นผิวและขัดแต่ง"
+        "summary": "สรุปกระแสโลกประจำวันนี้เน้นย้ำเรื่องวัสดุขัดเพชรความแข็งสูงจากจีน นวัตกรรมใบเจียรแบบซ้อนรุ่นใหม่ และการปรับเปลี่ยนระบบอัตโนมัติในการผลิต EV ประสิทธิภาพสูง"
       },
       "items": [
         {
           "id": "20261018-w1",
-          "tag": "coating",
+          "tag": "abrasive",
           "rating": "green",
-          "source": "European Coatings",
-          "date": "2026-09-09",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
-          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
-          "summary": "The European coatings sector is driving forward with new digital innovations and sustainability initiatives to reshape the future of surface finishing.",
-          "why": "Surface coatings and abrasive sanding are closely linked; shifts in coating formulations often require new surface preparation and polishing techniques.",
-          "action": "Monitor European surface treatment trends to anticipate upcoming changes in substrate preparation requirements.",
+          "source": "The National Law Review",
+          "date": "2026-10-16",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONzc1UG5lV0E3Z2JCYnd2dFpLZmt2VTRYVEk5cHlBS2FYaDIzNHNJeTNBd3R3dDE0cFF4QlhNZE9ZX3N4enpseURtMGRTMmFHRWNPdmY2NlZ2R1F6b01ma01GXzlTMXlJd3FJdzZsY093dEVCczVVNTNPaU56Z2l0emR3d2hPNDQwT2xDY01CZW5Ib195T3RMR0tQdTY0d1FwdGgxWnB5RGI1aXpwRkNXWnln?oc=5",
+          "title": "Five Reputable Diamond Sanding Belts Manufacturers in China 2026: Optimizing Superhard Abrasive Machining",
+          "summary": "The market highlights top Chinese manufacturers focusing on diamond sanding belts to optimize superhard abrasive machining for heavy industrial parts.",
+          "why": "Superhard abrasives like diamond and CBN represent the high-performance tier of surface finishing, impacting how we source and position premium belts for hard metals.",
+          "action": "Monitor Chinese superhard abrasive manufacturing capabilities and pricing trends for potential high-end product sourcing.",
           "th": {
-            "title": "กำหนดอนาคตใหม่แห่งสารเคลือบ: นวัตกรรม ความยั่งยืน และพลังแห่งดิจิทัล",
-            "summary": "อุตสาหกรรมสารเคลือบในยุโรปกำลังขับเคลื่อนด้วยนวัตกรรมดิจิทัลและความยั่งยืน เพื่อกำหนดรูปแบบอนาคตของการตกแต่งพื้นผิว",
-            "why": "กระบวนการเคลือบผิวและงานขัดกระดาษทรายมีความเกี่ยวข้องกันอย่างใกล้ชิด การเปลี่ยนแปลงของสูตรสารเคลือบมักต้องอาศัยเทคนิคการเตรียมพื้นผิวและการขัดเงาแบบใหม่",
-            "action": "ติดตามแนวโน้มการปรับ ฃพื้นผิวในยุโรปเพื่อคาดการณ์ความต้องการเตรียมพื้นผิวที่อาจเปลี่ยนแปลงไป"
+            "title": "5 ผู้ผลิตสายพานขัดเพชรชั้นนำในจีนปี 2026: การเพิ่มประสิทธิภาพงานขัดด้วยวัสดุความแข็งสูงพิเศษ",
+            "summary": "ตลาดให้ความสำคัญกับผู้ผลิตจีนรายใหญ่ที่เน้นสายพานขัดเพชร เพื่อเพิ่มประสิทธิภาพการขึ้นรูปด้วยวัสดุขัดความแข็งสูงสำหรับชิ้นส่วนอุตสาหกรรมหนัก",
+            "why": "วัสดุขัดความแข็งสูงอย่างเพชรและ CBN เป็นกลุ่มผลิตภัณฑ์ขัดผิวที่มีประสิทธิภาพสูง ซึ่งส่งผลต่อวิธีที่เราจัดหาและวางตำแหน่งสายพานเกรดพรีเมียมสำหรับโลหะแข็ง",
+            "action": "ติดตามศักยภาพการผลิตและแนวโน้มราคาวัสดุขัดความแข็งสูงจากจีนสำหรับการจัดหาผลิตภัณฑ์เกรดพรีเมียมในอนาคต"
           }
         },
         {
           "id": "20261018-w2",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "economy.ac",
-          "date": "2026-08-07",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YQWhOYlJ3eW9jTUhwa25XdE55eHh3a2JoODhWdDAtOW00UzhXcWwtNnJJXzZGMjMtNXN6MTYwTUhib3ZHUDNXaTdIbWY2N092QXNsOXFfdw?oc=5",
-          "title": "‘Trump Tariffs and AI Boom’ Propel U.S. Steel Past Japan to World No. 3 for First Time in 26 Years",
-          "summary": "Driven by tariffs and industrial demand, US steel production has overtaken Japan's for the first time in over two decades.",
-          "why": "Shifts in global steel manufacturing hubs directly impact regional metal fabrication activity and the baseline demand for industrial abrasives.",
-          "action": "Keep an eye on how US domestic metal manufacturing growth affects global steel trade flows and local metal processing.",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "The Maritime Executive",
+          "date": "2026-09-15",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUzY2QWRmTVpKb2RFOHpPaGdrRjgwSWM0UFNwZUlRSUNqdnpXeVE5dHN1ZmxxVVZ6V1VkR0trVTZkRjgzN3NJbkdLLUdJYUlyOVA0Nkp1d2Joa2l0cnBmY1poVjRUVHhQbThNUEpOMU94RXhRRk1iUnh4T3pnNjFYeV95WGRucTRHSjZpZFo4UXJUb1pkRkJ4VXVYUzNmWkFUYUtacTRWYXRaS2RITk13?oc=5",
+          "title": "Klingspor Abrasives New Flap Disc Family with CMT, SMT & TITAN Solutions",
+          "summary": "Klingspor has launched a new family of flap discs incorporating CMT, SMT, and TITAN technologies to improve stock removal and durability.",
+          "why": "Global competitors are constantly pushing the limits of flap disc design and life span. Knowing what technological solutions they offer helps us benchmark our own product lineup.",
+          "action": "Evaluate our current flap disc offerings against high-durability global standards like CMT/TITAN solutions.",
           "th": {
-            "title": "ภาษีทรัมป์และบูม AI ดันเหล็กสหรัฐฯแซงญี่ปุ่นขึ้นเบอร์ 3 ของโลกครั้งแรกในรอบ 26 ปี",
-            "summary": "แรงหนุนจากมาตรการภาษีและความต้องการทางอุตสาหกรรม ทำให้การผลิตเหล็กของสหรัฐฯแซงหน้าญี่ปุ่นเป็นครั้งแรกในรอบกว่าสองทศวรรษ",
-            "why": "การเปลี่ยนแปลงของศูนย์กลางการผลิตเหล็กโลกส่งผลโดยตรงต่อกิจกรรมการแปรรูปโลหะระดับภูมิภาคและความต้องการใช้วัสดุขัดอุตสาหกรรม",
-            "action": "จับตาดูว่าการเติบโตของการผลิตโลหะในสหรัฐฯ ส่งผลอย่างไรต่อการค้าระดับโลกและการแปรรูปโลหะในท้องถิ่น"
+            "title": "Klingspor Abrasives เปิดตัวใบเจียรแบบซ้อนตระกูลใหม่พร้อมโซลูชัน CMT, SMT และ TITAN",
+            "summary": "Klingspor เปิดตัวใบเจียรแบบซ้อนซีรีส์ใหม่ที่ผสานเทคโนโลยี CMT, SMT และ TITAN เพื่อเพิ่มอัตราการกินเนื้องานและความทนทาน",
+            "why": "คู่แข่งระดับโลกกำลังพัฒนาขีดจำกัดของดีไซน์และอายุการใช้งานใบเจียรอย่างต่อเนื่อง การรู้ทันเทคโนโลยีเหล่านี้ช่วยให้เราเปรียบเทียบกับสินค้าของเราเองได้",
+            "action": "ประเมินกลุ่มผลิตภัณฑ์ใบเจียรปัจจุบันของเราเทียบกับมาตรฐานความทนทานระดับโลก เช่น โซลูชัน CMT/TITAN"
           }
         },
         {
           "id": "20261018-w3",
-          "tag": "steel",
-          "rating": "green",
-          "source": "Fortune Business Insights",
-          "date": "2026-09-21",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kYlp3TXBwdU5JVl9Gc0pFd3lJSFpjSUhLeEFGOVZVS19BbHBoTFNGb1BFOC1UNEN4c1o0c2xjdTFZYXhVdGRVb0dIeXZqakt1bTJkQy10SC0wRlh0RVVBZHZaWDFYbDk3cHdUbXBsYnRyYTlFVEE?oc=5",
-          "title": "Metal Casting Market Growth Analysis & Industry Forecast, 2034",
-          "summary": "The global metal casting market continues to project steady growth through 2034, driven by automotive and general industrial needs.",
-          "why": "Cast metal parts require extensive deburring, grinding, and surface smoothing — directly driving the consumption of grinding wheels and sanding belts.",
-          "action": "Identify key foundries and metal casting players as prime targets for heavy-duty grinding and deburring product lines.",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-09-10",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVjkzSTlDYzItRzJSVXhQSjc1a0ttQ0dIRVYxRDgxaHFiQ0x3c1ZsLTdZQ0RRSk04bmhjdHQ4ZGJrV0lLVk45XzQ5ZzQwN1VwMDNERWNWVEpJNTRVYzZqTFFmcEIyUUZRNG9LOHp6ODIxYm80eEZrcTBOdENvenJqdktfcm5neXlITEZSRXNQclF2ZUpGUXVLTmY3SmhCRUlHdldDVC11QjRnZ3UtYzRlbzAwYS1yaW5oZV8zWmRMY2k?oc=5",
+          "title": "Smart-factory wiring woes: EVs demand automation now, not later",
+          "summary": "EV manufacturers are rapidly accelerating factory automation to resolve complex wiring and assembly challenges.",
+          "why": "As EV production lines become more automated, the demand for robotic deburring, automated surface prep, and precision finishing tools grows.",
+          "action": "Keep an eye on robotic-friendly abrasive applications and automated surface finishing accessories.",
           "th": {
-            "title": "การวิเคราะห์การเติบโตของตลาดการหล่อโลหะและการคาดการณ์อุตสาหกรรมถึงปี 2034",
-            "summary": "ตลาดการหล่อโลหะทั่วโลกยังคงเติบโตอย่างต่อเนื่องจนถึงปี 2034 ขับเคลื่อนโดยความต้องการจากอุตสาหกรรมยานยนต์และอุตสาหกรรมทั่วไป",
-            "why": "ชิ้นส่วนโลหะหล่อจำเป็นต้องผ่านกระบวนการลบครีบ เจียร และปรับผิวให้เรียบอย่างมาก ซึ่งส่งผลโดยตรงต่อปริมาณการใช้หินเจียรและสายพานขัด",
-            "action": "ระบุกลุ่มโรงหล่อโลหะและผู้ผลิตชิ้นส่วนหล่อเพื่อเป็นเป้าหมายหลักสำหรับผลิตภัณฑ์กลุ่มงานเจียรและลบครีบงานหนัก"
+            "title": "ปัญหาการเดินสายไฟในโรงงานอัจฉริยะ: รถยนต์ EV ต้องการระบบอัตโนมัติเดี๋ยวนี้ ไม่ใช่รอวันหน้า",
+            "summary": "ผู้ผลิตรถยนต์ EV เร่งนำระบบอัตโนมัติมาใช้ในโรงงานอย่างรวดเร็ว เพื่อแก้ปัญหาความซับซ้อนในการเดินสายไฟและการประกอบ",
+            "why": "เมื่อสายการผลิต EV เป็นอัตโนมัติมากขึ้น ความต้องการเครื่องมือขัดครีบด้วยหุ่นยนต์ การเตรียมพื้นผิวอัตโนมัติ และเครื่องมือตกแต่งผิวที่มีความแม่นยำจึงเพิ่มสูงขึ้น",
+            "action": "ติดตามการใช้งานผลิตภัณฑ์กระดาษทรายและวัสดุขัดที่รองรับระบบหุ่นยนต์และอุปกรณ์ตกแต่งผิวอัตโนมัติ"
           }
         }
       ]
