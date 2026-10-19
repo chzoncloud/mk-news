@@ -3,64 +3,64 @@ window.NEWS_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-20",
-      "summary": "Few new industry developments were reported today; the standout highlight is BOI approving Toyota's 1.49-billion-baht investment for hydrogen pickup production in Thailand, creating fresh opportunities in automotive metal finishing.",
+      "summary": "Today has limited new updates as major EV tax overhauls and steel enforcement actions have already been covered. Standout focus remains on funding momentum for the U-Tapao aviation MRO hub and strong cumulative EV manufacturing investments.",
       "directCount": 1,
       "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยข่าวเด่นสำคัญคือบีโอไออนุมัติการลงทุน 1.49 พันล้านบาทของโตโยต้าเพื่อผลิตรถกระบะไฮโดรเจนในไทย ซึ่งเปิดโอกาสใหม่ให้กับงานขัดและเตรียมผิวโลหะยานยนต์"
+        "summary": "วันนี้มีข่าวใหม่ไม่มากเนื่องจากประเด็นหลักเรื่องการปรับโครงสร้างภาษี EV และการปราบปรามเหล็กไม่ได้มาตรฐานได้รับการรายงานไปก่อนหน้านี้แล้ว ข่าวที่ยังน่าสนใจคือความคืบหน้าการระดมทุนสร้างศูนย์ซ่อม MRO อู่ตะเภา และยอดส่งเสริมการลงทุน EV ที่ยังคงขยายตัว"
       },
       "items": [
         {
           "id": "20261020-1",
-          "tag": "auto",
+          "tag": "aero",
           "rating": "green",
           "source": "posttoday",
-          "date": "2026-10-19",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oODIyVlR4UTVaTmtNMURSeW12LWdZODhhU0tiZWs1Tk05bU1YVC12TEtWXzZ1Yl9sMW4xRDBrR0duLXV2TWtuM3BNZFBaUWgxV1VZd05B?oc=5",
-          "title": "BOI Approves Toyota's 1.49-Billion-Baht Investment to Produce Hydrogen Pickups in Thailand",
-          "summary": "The BOI has approved a 1.49-billion-baht investment by Toyota to manufacture 3,000 hydrogen-powered Hilux pickups per year in Thailand for worldwide export.",
-          "why": "Directly benefits MK by cementing Japanese automaker assembly operations in Thailand, sustaining demand for abrasives used in chassis welding, frame finishing, and metal fabrication.",
-          "action": "Engage tooling and procurement teams at Toyota and their Tier-1 chassis/body suppliers to introduce abrasive consumables specialized for hydrogen vehicle fabrication.",
+          "date": "2026-07-27",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lak5sZXQtNktSd3dqWTVQcmdhN2JJdGVhSEUxUzk5RFI5TUs4T3kzMzBqVDdNUnp4N2k3M2FBalNXd0UwaS1XeUxkczM4Rzg4QnVBQXJR?oc=5",
+          "title": "EECO Mobilizes Investment to Accelerate U-Tapao Regional Aircraft MRO Hub",
+          "summary": "The Eastern Economic Corridor Office (EECO) is actively raising funds to establish U-Tapao as a regional aircraft maintenance, repair, and overhaul (MRO) center. The initiative aims to draw international aviation maintenance operators into Eastern Thailand.",
+          "why": "Operational setup of commercial aircraft hangars drives immediate, high-value demand for aerospace-certified abrasives and surface finishing tools.",
+          "action": "Connect with EECO aviation cluster coordinators and facility contractors to initiate vendor qualification for MK aviation-grade abrasives.",
           "th": {
-            "title": "บีโอไอไฟเขียวโตโยต้าทุ่ม 1.49 พันล้าน ผลิตกระบะไฮโดรเจนในไทยบุกตลาดโลก",
-            "summary": "บีโอไออนุมัติโครงการลงทุน 1.49 พันล้านบาทของโตโยต้า เพื่อผลิตรถกระบะ Hilux พลังงานไฮโดรเจน 3,000 คันต่อปีในไทยเพื่อส่งออกทั่วโลก",
-            "why": "ส่งผลดีต่อ MK โดยตรง เพราะช่วยรักษาฐานการผลิตรถยนต์ค่ายญี่ปุ่นในไทย และสร้างความต้องการใช้วัสดุขัดสำหรับงานเชื่อมโครงสร้าง แชสซี และแต่งผิวโลหะอย่างต่อเนื่อง",
-            "action": "เข้าพบฝ่ายเครื่องมือและจัดซื้อของโตโยต้า รวมถึงซัพพลายเออร์ Tier-1 ส่วนโครงสร้างตัวถัง เพื่อนำเสนอวัสดุขัดแต่งผิวสำหรับงานผลิตชิ้นส่วนยานยนต์ไฮโดรเจน"
+            "title": "EECO เดินหน้าระดมทุน ดันอุตสาหกรรม MRO ปั้นอู่ตะเภาสู่ศูนย์กลางซ่อมอากาศยานภูมิภาค",
+            "summary": "สำนักงาน อีอีซี เร่งระดมทุนเพื่อพัฒนาศูนย์ซ่อมบำรุงอากาศยาน (MRO) อู่ตะเภาให้เป็นฮับระดับภูมิภาค เพื่อดึงดูดผู้ประกอบการซ่อมบำรุงอากาศยานชั้นนำระดับโลกเข้ามาตั้งฐาน",
+            "why": "การเตรียมเปิดศูนย์ซ่อมอากาศยานขนาดใหญ่จะสร้างความต้องการใช้งานวัสดุขัดและเตรียมผิวมาตรฐานการบินมูลค่าสูงโดยตรง",
+            "action": "ประสานงานกับกลุ่มผู้รับเหมาและผู้บริหารโครงการในคลัสเตอร์การบินของ EEC เพื่อยื่นเสนอคุณสมบัติสินค้าวัสดุขัดเกรดการบินของ MK"
           }
         },
         {
           "id": "20261020-2",
-          "tag": "steel",
+          "tag": "auto",
           "rating": "amber",
-          "source": "มิติหุ้น",
-          "date": "2026-09-25",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9udF9SZWlMTGsyTVBmV0RNVHlBTE1KUHlvc0RMQnNkbjV6S1d3aGprUkxJNFhxNU5PTmVTNVBPTVh2OWtFT0xSM21xdGg5Sll2Yk1mV3pB?oc=5",
-          "title": "Ten Steel Associations Meet Ministry of Industry and TISI to Commend Substandard Steel Crackdown",
-          "summary": "Representatives from ten domestic steel associations praised the Ministry of Industry and TISI for actively cracking down on illegal induction furnace plants and non-compliant steel.",
-          "why": "Rigorous enforcement safeguards compliant domestic steel mills and metal fabricators, helping stabilize operations at local factories that regularly procure MK abrasive products.",
-          "action": "Focus sales prospecting on standard-certified domestic steel mills and heavy fabricators benefiting from reduced competition against substandard steel.",
+          "source": "Thaigov",
+          "date": "2026-07-02",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zOHo0X01meExtendzNTNja1RMTUxKa2dWM0hFZ1JrRzJ4dmJPLWhSdHVwb19IU01fVTRVOWtaX2lkMVJUSlRPb3FCNVg5UQ?oc=5",
+          "title": "BOI Reports EV Investment Applications Exceed 130 Billion Baht",
+          "summary": "Thailand's Board of Investment reported total EV investment applications surpassing 130 billion baht across battery, vehicle assembly, and critical parts manufacturing. The continuous inflow solidifies Thailand's status as a key regional automotive manufacturing hub.",
+          "why": "New component factories and expanded stamping lines require consistent abrasive supplies for deburring, seam grinding, and metal preparation.",
+          "action": "Identify newly approved Tier-1 and Tier-2 component suppliers from BOI lists to introduce MK heavy-duty grinding belts and wheels.",
           "th": {
-            "title": "10 สมาคมเหล็กพบกระทรวงอุตสาหกรรม-สมอ. ชื่นชมการปราบปรามเหล็กไม่ได้มาตรฐาน",
-            "summary": "ตัวแทน 10 สมาคมเหล็กในประเทศเข้าพบกระทรวงอุตสาหกรรมและ สมอ. เพื่อขอบคุณและสนับสนุนการกวาดล้างโรงงานเตา IF เถื่อนและเหล็กนำเข้าที่ไม่ได้มาตรฐาน",
-            "why": "การบังคับใช้กฎหมายที่เข้มงวดช่วยปกป้องโรงงานผลิตเหล็กและแปรรูปโลหะมาตรฐานในไทย ซึ่งช่วยรักษาเสถียรภาพของฐานลูกค้าโรงงานที่ใช้วัสดุขัดอุตสาหกรรมของ MK",
-            "action": "มุ่งเป้าการขายไปยังโรงงานเหล็กและงานโครงสร้างโลหะที่ผ่าน มอก. ซึ่งกำลังได้ส่วนแบ่งตลาดคืนจากการปราบปรามสินค้าด้อยคุณภาพ"
+            "title": "บีโอไอเผยยอดลงทุน EV ทะลุ 1.3 แสนล้าน หนุนฐานการผลิตยานยนต์ไฟฟ้าครบวงจร",
+            "summary": "บีโอไอเปิดเผยว่ายอดขอรับการส่งเสริมการลงทุนในอุตสาหกรรม EV และชิ้นส่วนสำคัญทะลุ 1.3 แสนล้านบาท ตอกย้ำความพร้อมของไทยในการเป็นฐานการผลิตยานยนต์แห่งอนาคต",
+            "why": "โรงงานผลิตชิ้นส่วนและโครงสร้างโลหะของ EV ที่เพิ่มขึ้นช่วยเพิ่มปริมาณการใช้วัสดุขัด ลบครีบคม และเจียรแต่งแนวเชื่อมอย่างต่อเนื่อง",
+            "action": "ตรวจสอบรายชื่อโรงงานชิ้นส่วน Tier-1 และ Tier-2 ที่ได้รับอนุมัติการส่งเสริมการลงทุนเพื่อนำเสนอสายพานและจานขัดงานโลหะของ MK"
           }
         },
         {
           "id": "20261020-3",
-          "tag": "aero",
+          "tag": "furniture",
           "rating": "amber",
           "source": "thansettakij",
-          "date": "2026-06-16",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pbFFnQlhiSG5UMVBfTjVmMUZtNXc4ZkYyOFljMVFtQlQwalZ5WUpidFlzX3prejlBWGoydDYzUUZXMlY4bE56VFUwZnZrLVJfWlRtV2t0Wi0xOWkzeVFLTUFJOVIwUQ?oc=5",
-          "title": "EECO Pushes Forward U-Tapao MRO Hub While Awaiting VietJet Investment Study",
-          "summary": "The Eastern Economic Corridor Office (EECO) continues to develop the U-Tapao MRO hub and is currently awaiting an investment feasibility study from VietJet.",
-          "why": "Attracting additional regional airlines to the U-Tapao MRO cluster broadens future commercial opportunities for aerospace-grade deburring, blending, and polishing abrasives.",
-          "action": "Monitor VietJet's maintenance investment timeline and prepare product technical sheets for aviation-grade surface finishing tools.",
+          "date": "2026-07-12",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTbVhNaVNKdGxyaVdOOEpkRmV6YnRxaEVaMk1FdFdsTUNFLXZBZFR2YVBCS09LSGxzX3BtMG14VEZjVVRVZnhxMURPWXlxdUhPak5hay1R?oc=5",
+          "title": "Thai Wood Industry Expands Global Business Networks to Spur Export Growth",
+          "summary": "Thai wood and furniture producers are accelerating international trade partnerships to boost exports and upgrade production standards. The sector is prioritizing higher-value wood products to compete against regional low-cost alternatives.",
+          "why": "High-value furniture and architectural woodwork demand premium broad sanding belts and fine orbital sandpaper for superior finishing.",
+          "action": "Promote MK wide sanding belts and finishing paper rolls directly to export-oriented furniture manufacturers through trade associations.",
           "th": {
-            "title": "อีอีซีปักหมุดศูนย์ซ่อมฯ อู่ตะเภา รอเวียตเจ็ทศึกษาชงแผนลงทุน",
-            "summary": "สำนักงาน อีอีซี เดินหน้าผลักดันศูนย์ซ่อมบำรุงอากาศยานอู่ตะเภาอย่างต่อเนื่อง โดยอยู่ระหว่างรอผลการศึกษาความเป็นไปได้ในการลงทุนจากสายการบินเวียตเจ็ท",
-            "why": "การดึงสายการบินต่างชาติเข้ามาตั้งศูนย์ซ่อมในไทยเพิ่มขึ้น จะช่วยขยายโอกาสระยะยาวสำหรับวัสดุขัดเกรดการบิน ทั้งงานลบครีบ ปรับเรียบ และขัดเงาชิ้นส่วนอากาศยาน",
-            "action": "ติดตามความคืบหน้าแผนการซ่อมบำรุงของเวียตเจ็ท และเตรียมข้อมูลทางเทคนิคของวัสดุขัดเกรดอากาศยานสำหรับนำเสนอทีมช่างอากาศยาน"
+            "title": "อุตสาหกรรมไม้ไทยเร่งเครื่อง เชื่อมเครือข่ายธุรกิจโลก ดันมูลค่าส่งออกโต",
+            "summary": "ผู้ผลิตไม้และเฟอร์นิเจอร์ไทยผนึกเครือข่ายธุรกิจระดับนานาชาติเพื่อยกระดับมาตรฐานการผลิตและกระตุ้นการส่งออก โดยมุ่งเน้นการแปรรูปผลิตภัณฑ์มูลค่าสูง",
+            "why": "การผลิตงานไม้และเฟอร์นิเจอร์เกรดส่งออกจำเป็นต้องใช้วัสดุขัดผิวคุณภาพสูง เช่น กระดาษทรายสายพานกว้างและกระดาษทรายกลมเพื่อเตรียมผิวก่อนทำสี",
+            "action": "ทำแคมเปญนำเสนอสายพานทรายขัดไม้หน้ากว้างและจานขัดละเอียดของ MK ให้แก่กลุ่มโรงงานเฟอร์นิเจอร์ส่งออกผ่านสมาคมการค้าไม้"
           }
         }
       ],
