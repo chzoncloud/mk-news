@@ -4,82 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-19",
-      "summary": "Today's global briefings highlight significant shifts in EV manufacturing equipment demand, automated factory transformations, and superhard abrasive applications, providing crucial forward-looking signals for surface finishing and metal fabrication sectors.",
-      "directCount": 4,
+      "summary": "Today's briefing focuses on global manufacturing dynamics, superhard abrasive optimization, and regional coatings shifts impacting metal and surface prep demand.",
+      "directCount": 3,
       "th": {
-        "summary": "สรุปข่าวสารและแนวโน้มโลกประจำวันนี้เน้นย้ำการเปลี่ยนแปลงครั้งสำคัญในความต้องการอุปกรณ์การผลิตรถยนต์ไฟฟ้า การปรับเปลี่ยนโรงงานสู่ระบบอัตโนมัติ และการประยุกต์ใช้วัสดุขัดถูความแข็งสูง ซึ่งเป็นสัญญาณชี้นำที่สำคัญสำหรับภาคธุรกิจการขัดแต่งผิวโลหะ"
+        "summary": "สรุปทรนด์โลกประจำวัน เน้นพลวัตการผลิตระดับโลก การเพิ่มประสิทธิภาพสารขัดถูแข็งพิเศษ (superhard abrasives) และการเปลี่ยนแปลงของตลาดสีเคลือบที่มีผลต่ออุตสาหกรรมโลหะและการเตรียมพื้นผิว"
       },
       "items": [
         {
           "id": "20261019-w1",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-09-02",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUUpWSmpHLVowSXdiLUJqcFlpQ3ZfRmdQYjJiTVFCNk00ZW0tM0ZqenQtd2F4emNVNEdzT3Q3amZ3M050YnNuTldQZFQyTlgyX3ByekdEbkdlaURacG5yRlBUSEZucnBQalBmNzVadXVrSDdXcEd0d2t4UXptUzJ5dXZ6ckE1O3RVV3IyUkY4SFdVSERveVJYem0yM3lNbWFUY1dXWHYyRFZ2cXdldWFqRmJTNE4tQ1RXWWp4N3NCN1h5Vmt3d3hEbkFPc2ZqT0k?oc=5",
-          "title": "A global AI manufacturing transformation at Hyundai Motor Group",
-          "summary": "Hyundai Motor Group is undergoing a massive global manufacturing transformation integrating AI across its production lines to boost efficiency and precision.",
-          "why": "AI-driven smart factories demand higher precision and automated finishing tools, changing how metal parts and welds are prepped.",
-          "action": "Monitor how automotive giants integrate AI into finishing lines to anticipate future automated abrasive tooling specs.",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "The National Law Review",
+          "date": "2026-10-16",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONzc1UG5lV0E3Z2JCYnd2dFpLZmt2VTRYVEk5cHlBS2FYaDIzNHNJeTNBd3R3dDE0cFF4QlhNZE9ZX3N4enpseURtMGRTMmFHRWNPdmY2NlZ2R1F6b01ma01GXzlTMXlJd3FJdzZsY093dEVCczVVNTNPaU56Z2l0emR3d2hPNDQwT2xDY01CZW5Ib195T3RMR0tQdTY0d1FwdGgxWnB5RGI1aXpwRkNXWnln?oc=5",
+          "title": "Five Reputable Diamond Sanding Belts Manufacturers in China 2026: Optimizing Superhard Abrasive Machining",
+          "summary": "A focus on top Chinese manufacturers highlights ongoing advancements in diamond sanding belts for precision machining.",
+          "why": "Superhard abrasives like diamond belts directly compete with and redefine high-end metal finishing and grinding applications.",
+          "action": "Monitor Chinese superhard abrasive manufacturing standards to stay competitive in precision metal applications.",
           "th": {
-            "title": "การเปลี่ยนแปลงการผลิตระดับโลกด้วย AI ของฮุนได มอเตอร์ กรุ๊ป",
-            "summary": "ฮุนได มอเตอร์ กรุ๊ป กำลังดำเนินการเปลี่ยนแปลงการผลิตครั้งใหญ่ทั่วโลกด้วยการบูรณาการ AI เข้ากับสายการผลิตเพื่อเพิ่มประสิทธิภาพและความแม่นยำ",
-            "why": "โรงงานอัจฉริยะที่ขับเคลื่อนด้วย AI ต้องการความแม่นยำสูงและเครื่องมือตกแต่งผิวอัตโนมัติ ซึ่งจะเปลี่ยนวิธีการเตรียมผิวชิ้นงานโลหะและรอยเชื่อม",
-            "action": "ติดตามวิธีที่ยักษ์ใหญ่ยานยนต์นำ AI มาใช้ในสายการผลิตเพื่อคาดการณ์สเปกเครื่องมือขัดอัตโนมัติในอนาคต"
+            "title": "5 ผู้ผลิตสายพานขัดเพชรชั้นนำในจีนปี 2026: การเพิ่มประสิทธิภาพการตัดเฉือนด้วยสารขัดถูความแข็งสูง",
+            "summary": "รายงานผู้ผลิตชั้นนำของจีนที่เน้นความก้าวหน้าของสายพานขัดเพชรสำหรับการตัดเฉือนความแม่นยำสูง",
+            "why": "สารขัดถูความแข็งสูง เช่น สายพานเพชร แข่งขันและกำหนดมาตรฐานใหม่ในงานขัดตกแต่งโลหะระดับพรีเมียม",
+            "action": "ติดตามมาตรฐานการผลิตสารขัดถูความแข็งสูงจากจีนเพื่อรักษาความสามารถในการแข่งขันในงานโลหะที่มีความแม่นยำ"
           }
         },
         {
           "id": "20261019-w2",
-          "tag": "auto",
+          "tag": "coating",
           "rating": "amber",
-          "source": "MarketsandMarkets",
-          "date": "2026-08-19",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUEFHclR5NnZiRmQ3ZWs1QWMycFZkZlZVempvMXlNMGxrUXc1alpac0trZnhoVG5pRnRISVhlYlJmUkpLVHp5T1FFQi04ODdlVmRoMDBYckx4SHVONkVEQVcxNWxfcTRBNS1DTmstS2JyZTh4OVQzbk9lN3dHZkt6cUFqZHVBcmlVbWtkUGJSejJvZVdoc3Z5dTRUM2ZlMUZEdzNsLVM2VGpqdw?oc=5",
-          "title": "China Automotive Manufacturing Equipment Market (2025-2030)",
-          "summary": "The market for automotive manufacturing equipment in China is evolving rapidly as domestic makers scale up advanced EV production lines.",
-          "why": "China remains a massive bellwether for automotive machinery, tooling, and surface treatment requirements.",
-          "action": "Keep an eye on Chinese equipment standards for EV body-in-white prep and chassis grinding components.",
+          "source": "European Coatings",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
+          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
+          "summary": "Industry leaders discuss how innovation, eco-friendly formulations, and digital technologies are shaping the future of industrial coatings.",
+          "why": "Changes in industrial coatings often require adjustments in surface preparation, sanding profiles, and pre-coating roughness.",
+          "action": "Keep an eye on sustainable coating trends that might alter surface prep requirements for metal and wood.",
           "th": {
-            "title": "ตลาดอุปกรณ์การผลิตรถยนต์ของจีน (2025-2030)",
-            "summary": "ตลาดอุปกรณ์การผลิตยานยนต์ในจีนกำลังพัฒนาอย่างรวดเร็ว เนื่องจากผู้ผลิตในประเทศเร่งขยายสายการผลิตรถยนต์ไฟฟ้าขั้นสูง",
-            "why": "จีนยังคงเป็นผู้นำสำคัญด้านเครื่องจักรยานยนต์ เครื่องมือ และข้อกำหนดในการบำบัดพื้นผิว",
-            "action": "จับตาดูมาตรฐานอุปกรณ์ของจีนสำหรับการเตรียมผิวตัวถังรถยนต์ EV และชิ้นส่วนการขัดแชสซี"
+            "title": "กำหนดอนาคตใหม่แห่งวงการสีเคลือบ: นวัตกรรม ความยั่งยืน และพลังแห่งดิจิทัล",
+            "summary": "ผู้นำอุตสาหกรรมหารือถึงวิธีที่นวัตกรรม สูตรที่เป็นมิตรต่อสิ่งแวดล้อม และเทคโนโลยีดิจิทัล กำหนดอนาคตของสีเคลือบอุตสาหกรรม",
+            "why": "การเปลี่ยนแปลงในสีเคลือบอุตสาหกรรมมักจะต้องมีการปรับเปลี่ยนกระบวนการเตรียมพื้นผิว การขัด และค่าความหยาบก่อนพ่นเคลือบ",
+            "action": "ติดตามแนวโน้มสีเคลือบที่ยั่งยืนซึ่งอาจเปลี่ยนข้อกำหนดการเตรียมพื้นผิวสำหรับโลหะและไม้"
           }
         },
         {
           "id": "20261019-w3",
           "tag": "steel",
           "rating": "amber",
-          "source": "Progressive Policy Institute",
-          "date": "2026-09-23",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTeHd1akw0WFVaUWFucjdlRWp1cFBVQjRiRi1rWFd2WlNVRkQzanJJMmpMV3BBM0QxVEF5N2FZcmFMSFNxQ3M1VTQ5c1VJYjhJRVRQQVM3M2tac1FFMGdSSlZ4eTdQdzNINFB1MDR0a09haWhpNkFIVV9aWlA?oc=5",
-          "title": "American Industry Is Using Less Steel",
-          "summary": "Recent reports show a structural shift in American manufacturing toward lower overall steel consumption per unit of economic output.",
-          "why": "Shifts in raw material consumption directly impact regional grinding, deburring, and metal removal volume.",
-          "action": "Diversify sector exposure by balancing metal fabrication accounts with growing wood and composite sanding segments.",
+          "source": "Shanghai Metals Market",
+          "date": "2026-05-19",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMmw1akRRMFZCQ2I5NGhHdE1NOXhoaE1GY0h5UmxlQVNUVGxHTko2U0NBQ0o0Q19ZYmZ1VnBCTTB6a2JJQTFNOUpDSUtpWXdaR3hkeGhlOXF4dF9yUElCd1ZkWTl4MmZGOWhVeUlXc2VCMXFCOHQzZ0ZGZ1RtZ3p6aUNObEczWFhKMkdKQ3JuRWF5SjVNZmpOQVBaSGs4TWJKS1lVa0VTdmoxdDBQTF8zRDlxME1qeEtOUzJzSTBERURobWltWTlVUlpaZ3d2WlFRNEY1b0UwbVVfLXc0cXBZ?oc=5",
+          "title": "[SMM Global Steel Company Special] Nucor: 100% EAF, High Profits, and Vertical Integration Mitigating Costs",
+          "summary": "Analysis of Nucor's electric arc furnace (EAF) model shows high efficiency and cost-mitigation strategies in North American steel production.",
+          "why": "EAF steel production and structural metal fabrication drive steady demand for heavy-duty grinding, deburring, and cutting abrasives.",
+          "action": "Track EAF steel mill expansions globally as a key indicator for industrial grinding consumable demand.",
           "th": {
-            "title": "อุตสาหกรรมอเมริกันใช้เหล็กน้อยลง",
-            "summary": "รายงานล่าสุดแสดงให้เห็นถึงการเปลี่ยนแปลงเชิงโครงสร้างในภาคการผลิตของอเมริกาไปสู่การบริโภคเหล็กโดยรวมที่ลดลงต่อหน่วยผลผลิตทางเศรษฐกิจ",
-            "why": "การเปลี่ยนแปลงการบริโภควัตถุดิบส่งผลโดยตรงต่อปริมาณงานขัด ลบคม และการกำจัดเนื้อโลหะในระดับภูมิภาค",
-            "action": "กระจายความเสี่ยงของตลาดโดยการรักษาสมดุลระหว่างลูกค้ากลุ่มแปรรูปโลหะกับกลุ่มงานขัดไม้และคอมโพสิตที่กำลังเติบโต"
-          }
-        },
-        {
-          "id": "20261019-w4",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "The World Economic Forum",
-          "date": "2026-04-21",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeFBmZTNpZDhjN1lHNlBlU0duZ3ZQWW9uanI0SWs3SDFVazlpbVVXMklqSTVjbDloUEI4NW1Ca2dGckgzanh5UlRfX1F5QlVfQWFZNGdSS1h5bHNIUElCTk9LeUktaGd2VWxwRDAyMGJmQ1F6ZHVEOURKVjF3MVdHWGd0OG4zYTNtUk0yZkp0QXN4R3p5LUEtWkFzODBVdUdlTVpLNTh3ZjQtTGJuanlfS0Y5dWVLVEo1WkEybk96dVY?oc=5",
-          "title": "How the Iran war is disrupting India's steel production amid fuel shortages and rising costs",
-          "summary": "Geopolitical conflicts and fuel shortages are causing severe cost spikes and production hurdles in India's major steel sector.",
-          "why": "Steel production stability dictates the baseline demand for grinding wheels, heavy-duty sanding belts, and slab conditioning abrasives.",
-          "action": "Stay alert to supply chain volatility in secondary metal markets and adjust inventory costs accordingly.",
-          "th": {
-            "title": "สงครามอิหร่านกำลังขัดขวางการผลิตเหล็กของอินเดียท่ามกลางปัญหาขาดแคลนเชื้อเพลิงและต้นทุนที่พุ่งสูงขึ้น",
-            "summary": "ความขัดแย้งทางภูมิรัฐศาสตร์และการขาดแคลนเชื้อเพลิงกำลังทำให้ต้นทุนพุ่งสูงขึ้นและเกิดอุปสรรคการผลิตในภาคส่วนเหล็กหลักของอินเดีย",
-            "why": "เสถียรภาพการผลิตเหล็กเป็นตัวกำหนดความต้องการพื้นฐานสำหรับหินเจียร สายพานขัดสำหรับงานหนัก และวัสดุขัดเตรียมผิวแผ่นเหล็ก",
-            "action": "ระมัดระวังความผันผวนของห่วงโซ่อุปทานในตลาดโลหะรองและปรับต้นทุนสินค้าคงคลังให้เหมาะสม"
+            "title": "[พิเศษจาก SMM Global Steel] Nucor: เตาหลอม EAF 100%, กำไรสูง และการรวมกิจการแบบครบวงจรช่วยลดต้นทุน",
+            "summary": "วิเคราะห์โมเดลเตาหลอมอาร์กไฟฟ้า (EAF) ของ Nucor ที่แสดงถึงประสิทธิภาพสูงและการจัดการต้นทุนในการผลิตเหล็กในอเมริกาเหนือ",
+            "why": "การผลิตเหล็กด้วยเตา EAF และการแปรรูปโครงสร้างโลหะสร้างความต้องการใช้วัสดุขัด งานเจียร และงานลบคมอย่างต่อเนื่อง",
+            "action": "ติดตามการขยายตัวของโรงงานเหล็ก EAF ทั่วโลกเพื่อใช้เป็นสัญญาณชี้วัดความต้องการวัสดุสิ้นเปลืองสำหรับงานเจียร"
           }
         }
       ]
