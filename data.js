@@ -2,6 +2,71 @@
 window.NEWS_ARCHIVE = {
   "days": [
     {
+      "date": "2026-10-20",
+      "summary": "Few new industry developments were reported today; the standout highlight is BOI approving Toyota's 1.49-billion-baht investment for hydrogen pickup production in Thailand, creating fresh opportunities in automotive metal finishing.",
+      "directCount": 1,
+      "th": {
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยข่าวเด่นสำคัญคือบีโอไออนุมัติการลงทุน 1.49 พันล้านบาทของโตโยต้าเพื่อผลิตรถกระบะไฮโดรเจนในไทย ซึ่งเปิดโอกาสใหม่ให้กับงานขัดและเตรียมผิวโลหะยานยนต์"
+      },
+      "items": [
+        {
+          "id": "20261020-1",
+          "tag": "auto",
+          "rating": "green",
+          "source": "posttoday",
+          "date": "2026-10-19",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oODIyVlR4UTVaTmtNMURSeW12LWdZODhhU0tiZWs1Tk05bU1YVC12TEtWXzZ1Yl9sMW4xRDBrR0duLXV2TWtuM3BNZFBaUWgxV1VZd05B?oc=5",
+          "title": "BOI Approves Toyota's 1.49-Billion-Baht Investment to Produce Hydrogen Pickups in Thailand",
+          "summary": "The BOI has approved a 1.49-billion-baht investment by Toyota to manufacture 3,000 hydrogen-powered Hilux pickups per year in Thailand for worldwide export.",
+          "why": "Directly benefits MK by cementing Japanese automaker assembly operations in Thailand, sustaining demand for abrasives used in chassis welding, frame finishing, and metal fabrication.",
+          "action": "Engage tooling and procurement teams at Toyota and their Tier-1 chassis/body suppliers to introduce abrasive consumables specialized for hydrogen vehicle fabrication.",
+          "th": {
+            "title": "บีโอไอไฟเขียวโตโยต้าทุ่ม 1.49 พันล้าน ผลิตกระบะไฮโดรเจนในไทยบุกตลาดโลก",
+            "summary": "บีโอไออนุมัติโครงการลงทุน 1.49 พันล้านบาทของโตโยต้า เพื่อผลิตรถกระบะ Hilux พลังงานไฮโดรเจน 3,000 คันต่อปีในไทยเพื่อส่งออกทั่วโลก",
+            "why": "ส่งผลดีต่อ MK โดยตรง เพราะช่วยรักษาฐานการผลิตรถยนต์ค่ายญี่ปุ่นในไทย และสร้างความต้องการใช้วัสดุขัดสำหรับงานเชื่อมโครงสร้าง แชสซี และแต่งผิวโลหะอย่างต่อเนื่อง",
+            "action": "เข้าพบฝ่ายเครื่องมือและจัดซื้อของโตโยต้า รวมถึงซัพพลายเออร์ Tier-1 ส่วนโครงสร้างตัวถัง เพื่อนำเสนอวัสดุขัดแต่งผิวสำหรับงานผลิตชิ้นส่วนยานยนต์ไฮโดรเจน"
+          }
+        },
+        {
+          "id": "20261020-2",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "มิติหุ้น",
+          "date": "2026-09-25",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9udF9SZWlMTGsyTVBmV0RNVHlBTE1KUHlvc0RMQnNkbjV6S1d3aGprUkxJNFhxNU5PTmVTNVBPTVh2OWtFT0xSM21xdGg5Sll2Yk1mV3pB?oc=5",
+          "title": "Ten Steel Associations Meet Ministry of Industry and TISI to Commend Substandard Steel Crackdown",
+          "summary": "Representatives from ten domestic steel associations praised the Ministry of Industry and TISI for actively cracking down on illegal induction furnace plants and non-compliant steel.",
+          "why": "Rigorous enforcement safeguards compliant domestic steel mills and metal fabricators, helping stabilize operations at local factories that regularly procure MK abrasive products.",
+          "action": "Focus sales prospecting on standard-certified domestic steel mills and heavy fabricators benefiting from reduced competition against substandard steel.",
+          "th": {
+            "title": "10 สมาคมเหล็กพบกระทรวงอุตสาหกรรม-สมอ. ชื่นชมการปราบปรามเหล็กไม่ได้มาตรฐาน",
+            "summary": "ตัวแทน 10 สมาคมเหล็กในประเทศเข้าพบกระทรวงอุตสาหกรรมและ สมอ. เพื่อขอบคุณและสนับสนุนการกวาดล้างโรงงานเตา IF เถื่อนและเหล็กนำเข้าที่ไม่ได้มาตรฐาน",
+            "why": "การบังคับใช้กฎหมายที่เข้มงวดช่วยปกป้องโรงงานผลิตเหล็กและแปรรูปโลหะมาตรฐานในไทย ซึ่งช่วยรักษาเสถียรภาพของฐานลูกค้าโรงงานที่ใช้วัสดุขัดอุตสาหกรรมของ MK",
+            "action": "มุ่งเป้าการขายไปยังโรงงานเหล็กและงานโครงสร้างโลหะที่ผ่าน มอก. ซึ่งกำลังได้ส่วนแบ่งตลาดคืนจากการปราบปรามสินค้าด้อยคุณภาพ"
+          }
+        },
+        {
+          "id": "20261020-3",
+          "tag": "aero",
+          "rating": "amber",
+          "source": "thansettakij",
+          "date": "2026-06-16",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pbFFnQlhiSG5UMVBfTjVmMUZtNXc4ZkYyOFljMVFtQlQwalZ5WUpidFlzX3prejlBWGoydDYzUUZXMlY4bE56VFUwZnZrLVJfWlRtV2t0Wi0xOWkzeVFLTUFJOVIwUQ?oc=5",
+          "title": "EECO Pushes Forward U-Tapao MRO Hub While Awaiting VietJet Investment Study",
+          "summary": "The Eastern Economic Corridor Office (EECO) continues to develop the U-Tapao MRO hub and is currently awaiting an investment feasibility study from VietJet.",
+          "why": "Attracting additional regional airlines to the U-Tapao MRO cluster broadens future commercial opportunities for aerospace-grade deburring, blending, and polishing abrasives.",
+          "action": "Monitor VietJet's maintenance investment timeline and prepare product technical sheets for aviation-grade surface finishing tools.",
+          "th": {
+            "title": "อีอีซีปักหมุดศูนย์ซ่อมฯ อู่ตะเภา รอเวียตเจ็ทศึกษาชงแผนลงทุน",
+            "summary": "สำนักงาน อีอีซี เดินหน้าผลักดันศูนย์ซ่อมบำรุงอากาศยานอู่ตะเภาอย่างต่อเนื่อง โดยอยู่ระหว่างรอผลการศึกษาความเป็นไปได้ในการลงทุนจากสายการบินเวียตเจ็ท",
+            "why": "การดึงสายการบินต่างชาติเข้ามาตั้งศูนย์ซ่อมในไทยเพิ่มขึ้น จะช่วยขยายโอกาสระยะยาวสำหรับวัสดุขัดเกรดการบิน ทั้งงานลบครีบ ปรับเรียบ และขัดเงาชิ้นส่วนอากาศยาน",
+            "action": "ติดตามความคืบหน้าแผนการซ่อมบำรุงของเวียตเจ็ท และเตรียมข้อมูลทางเทคนิคของวัสดุขัดเกรดอากาศยานสำหรับนำเสนอทีมช่างอากาศยาน"
+          }
+        }
+      ],
+      "terms": {}
+    },
+    {
       "date": "2026-10-19",
       "summary": "Today's fresh news volume is light. The key highlights are the formalized 10-billion-baht EEC-Thai Airways MRO agreement and ongoing bilateral and tax policy measures aimed at protecting domestic automotive manufacturing.",
       "directCount": 1,
@@ -935,72 +1000,7 @@ window.NEWS_ARCHIVE = {
         }
       ],
       "terms": {}
-    },
-    {
-      "date": "2026-10-06",
-      "summary": "Today has limited fresh news as many macro updates overlap with recent reports. Focus remains on EV local-sourcing tax pressures and commercial airline fleet expansions driving future metal surface prep and MRO abrasive demand.",
-      "directCount": 1,
-      "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มาก เนื่องจากหลายประเด็นซ้ำกับรายงานช่วงก่อนหน้า จุดสำคัญยังคงอยู่ที่มาตรการภาษีบีบให้ใช้ชิ้นส่วนในประเทศสำหรับ EV และการขยายฝูงบินสายการบินพาณิชย์ที่จะหนุนความต้องการวัสดุขัดงานโลหะและศูนย์ซ่อมบำรุงอากาศยาน (MRO)"
-      },
-      "items": [
-        {
-          "id": "20261006-1",
-          "tag": "auto",
-          "rating": "green",
-          "source": "Techsauce",
-          "date": "2026-09-11",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sRmQwb2FJZ19veGNwZE51X0djUWppVm9hUWc2NVFRR2xrcWlvaDlxN0ZWOVYySHpMUmNjMWljNUhlbllNTUdseC1lZ2xEUktoOTVYZWdsOGl5b3pQUTdIaQ?oc=5",
-          "title": "EV Board Mandates Stricter Local Content Rules: Higher Import Taxes for Non-Domestic Producers",
-          "summary": "The EV Board introduced a tiered tax structure penalizing imported EVs with no local manufacturing, offering lower rates only to companies maximizing domestic parts. This forces foreign EV makers to source stamping and metal body parts from Thai factories.",
-          "why": "More local parts production directly expands factory stamping, weld grinding, and deburring volume in Thailand, creating immediate demand for our abrasive flap discs and belts.",
-          "action": "Target Tier-1 and Tier-2 automotive metal stamping suppliers winning new localized EV component contracts.",
-          "th": {
-            "title": "บอร์ดอีวีเคาะแนวคิดใหม่: รถนำเข้าไม่มีโรงงานในไทยเจอภาษีแพง ยิ่งใช้ชิ้นส่วนในประเทศภาษียิ่งถูก",
-            "summary": "บอร์ดอีวีเตรียมปรับโครงสร้างภาษีให้ผู้ผลิตรถ EV ที่นำเข้าโดยไม่มีโรงงานผลิตในไทยต้องจ่ายภาษีสูงขึ้น ขณะที่ค่ายรถที่ผลิตและใช้ชิ้นส่วนในประเทศจะได้รับสิทธิประโยชน์ทางภาษีที่จูงใจกว่า",
-            "why": "การบังคับใช้ชิ้นส่วนในประเทศช่วยเพิ่มปริมาณงานปั๊มขึ้นรูป ลบคม และขัดแต่งรอยเชื่อมในโรงงานชิ้นส่วนยานยนต์ไทย ซึ่งเพิ่มยอดใช้วัสดุขัด จานทราย และสายพานผ้าทรายของ MK โดยตรง",
-            "action": "เร่งเข้าพบซัพพลายเออร์ชิ้นส่วนโลหะและปั๊มขึ้นรูป Tier-1/Tier-2 ที่เตรียมรับออเดอร์ผลิตชิ้นส่วน EV ภายในประเทศ"
-          }
-        },
-        {
-          "id": "20261006-2",
-          "tag": "aero",
-          "rating": "amber",
-          "source": "thansettakij",
-          "date": "2026-08-01",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJbG91NDM0Z1ZuZmRPYUc4dlRzSXYwVXRnb1l5dGZyZUJLSDZqUXhOSnVzSXVQeTdRME04Y1c5TVB5SC0wOENDcm9VeDhaT3Fha0ZocE90aEgzNXpNOGVmYklR?oc=5",
-          "title": "Thai Airways Invests Heavily to Expand Fleet to 150 Aircraft",
-          "summary": "Thai Airways announced aggressive fleet modernization and expansion targeting 150 commercial aircraft to reclaim global competitive status. This rapid fleet growth increases heavy maintenance cycles and MRO workload within domestic hangars.",
-          "why": "A larger commercial fleet directly correlates with higher maintenance frequency, boosting downstream consumption of certified aerospace-grade abrasives and surface conditioning tools.",
-          "action": "Audit inventory of aerospace-certified non-woven pads and precision sanding discs suitable for airline maintenance vendors.",
-          "th": {
-            "title": "การบินไทยทุ่มแสนล้าน ขยายฝูงบินแตะ 150 ลำ ทวงบัลลังก์สายการบินระดับโลก",
-            "summary": "การบินไทยเดินหน้าแผนจัดหาและปรับปรุงฝูงบินพาณิชย์สู่ 150 ลำ เพื่อรองรับการเติบโตของเส้นทางบิน ซึ่งจะเพิ่มปริมาณงานซ่อมบำรุงอากาศยานรอบหนักในประเทศอย่างมีนัยสำคัญ",
-            "why": "ฝูงบินที่ใหญ่ขึ้นนำไปสู่งานซ่อมบำรุงและขัดแต่งผิวเครื่องบินที่ถี่ขึ้น เป็นโอกาสขยายยอดขายวัสดุขัดเกรดการบินและลูกขัดแฮร์ไลน์ของ MK เข้าสู่อู่ซ่อมบำรุง",
-            "action": "ตรวจสอบสต็อกสินค้าและสเปกกระดาษทราย/แผ่นใยขัดที่ได้มาตรฐานการบิน เพื่อเตรียมนำเสนอซัพพลายเออร์ซ่อมบำรุงอากาศยาน"
-          }
-        },
-        {
-          "id": "20261006-3",
-          "tag": "furniture",
-          "rating": "amber",
-          "source": "เดลินิวส์",
-          "date": "2026-09-03",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQOG53VVJYRkd4MUZabFczX0FkeTVGTGNFYmZGUUxkTnJ6VjNmeklDTUZEYXlVRkpjS1gzeUxQczJHMXJRS3c1dEdWSk14eVVqczJN?oc=5",
-          "title": "TIWF 2026 Readies Major Regional Platform for Woodworking and Furniture Industry",
-          "summary": "Organizers confirmed readiness for TIWF 2026, positioning Thailand as an ASEAN regional hub for woodworking machinery, materials, and advanced furniture manufacturing solutions. The event aims to boost manufacturing efficiency through modern tooling and abrasives.",
-          "why": "Furniture manufacturers upgrading production processes to offset export slowdowns represent primary buyers for wide sanding belts and finish-sanding discs.",
-          "action": "Evaluate booth participation or direct B2B marketing campaigns to timber and wood-panel factories attending TIWF.",
-          "th": {
-            "title": "TIWF 2026 ประกาศความพร้อม จัดงานใหญ่ยกระดับอุตสาหกรรมไม้และเฟอร์นิเจอร์ระดับภูมิภาค",
-            "summary": "งานแสดงสินค้าเทคโนโลยีงานไม้และเฟอร์นิเจอร์ TIWF 2026 ประกาศความพร้อมจัดงานใหญ่ ดันไทยเป็นศูนย์กลางนวัตกรรมและเทคโนโลยีแปรรูปไม้เพื่อเพิ่มประสิทธิภาพการผลิตของโรงงาน",
-            "why": "โรงงานเฟอร์นิเจอร์ไม้ที่ต้องปรับปรุงกระบวนการขัดผิวเพื่อลดต้นทุนและยกระดับงานส่งออก คือกลุ่มลูกค้าหลักของกระดาษทรายสายพานหน้ากว้างและจานทรายขัดไม้",
-            "action": "พิจารณาการออกบูธหรือทำแคมเปญการตลาดนำเสนอสายพานขัดไม้ให้กับโรงงานแปรรูปไม้ที่จะเข้าร่วมงาน"
-          }
-        }
-      ],
-      "terms": {}
     }
   ],
-  "updated": "2026-10-19"
+  "updated": "2026-10-20"
 };
