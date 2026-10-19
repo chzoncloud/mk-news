@@ -3,100 +3,64 @@ window.NEWS_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-19",
-      "summary": "Today has limited new developments; highlights include export opportunities for Thai auto parts in Mexico, continued EV/MRO ecosystem buildup, and projected export slowdowns in furniture. MK should focus on supporting export-oriented auto parts stampers while mitigating furniture headwinds through DIY wood sanding channels.",
+      "summary": "Today's fresh news volume is light. The key highlights are the formalized 10-billion-baht EEC-Thai Airways MRO agreement and ongoing bilateral and tax policy measures aimed at protecting domestic automotive manufacturing.",
       "directCount": 1,
       "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยประเด็นเด่นอยู่ที่โอกาสส่งออกชิ้นส่วนยานยนต์ไทยไปเม็กซิโก ความคืบหน้าของระบบนิเวศ EV และศูนย์ซ่อม MRO รวมถึงสัญญาณส่งออกเฟอร์นิเจอร์ชะลอตัว MK ควรเร่งเจาะกลุ่มโรงงานผลิตชิ้นส่วนยานยนต์ส่งออก และผลักดันสินค้ากลุ่ม DIY เพื่อลดผลกระทบจากตลาดงานไม้ส่งออก"
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยประเด็นสำคัญอยู่ที่การลงนามสัญญาศูนย์ซ่อมบำรุงอากาศยาน MRO อู่ตะเภาหมื่นล้านระหว่าง EEC และการบินไทย รวมถึงมาตรการเจรจากับญี่ปุ่นและการปรับโครงสร้างภาษีเพื่อปกป้องฐานการผลิตยานยนต์ในประเทศ"
       },
       "items": [
         {
           "id": "20261019-1",
-          "tag": "auto",
+          "tag": "aero",
           "rating": "green",
-          "source": "กรมส่งเสริมการค้าระหว่างประเทศ (DITP)",
-          "date": "2026-09-10",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE55bUVLU2lqcFRhV0g4WkxtOHlmSGR1Mk9TM0Z5bzRwYU1EOG5iQUJEUHloNG5FTXZZSk1XaUdUdUFTVnE1OEZ5U2Y3QThOdWg3c0huLTM1YllLU0Z3REVXR2tn?oc=5",
-          "title": "Mexico Auto Output Reaches 2.64M Units, Boosting Thai Parts Export Opportunities",
-          "summary": "Mexican vehicle manufacturing produced 2.64 million units in eight months, opening supply opportunities for Thai automotive component manufacturers.",
-          "why": "Rising export demand directly increases stamping, deburring, and metal surface finishing volumes across Thai Tier-1 and Tier-2 auto parts factories.",
-          "action": "Target export-oriented automotive metal stampers with high-durability flap discs and deburring abrasive belts.",
+          "source": "ผู้จัดการออนไลน์",
+          "date": "2026-10-06",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIazdnNjc2TVdpRWNOSTNQS2tlaWFWdl9KbE5OaEdlLWlZX0RaWERWWjhJV1l0MjdTejNaSHVhOEMwSThnWmtFaUJMWVAydHIxVkFKTktiQ0pXb09KVVRLWg?oc=5",
+          "title": "EEC and Thai Airways Ink 10-Billion-Baht U-Tapao MRO Deal",
+          "summary": "The EEC and Thai Airways officially signed a 10-billion-baht agreement to develop an aircraft MRO facility at U-Tapao, scheduled to break ground in 2027 and open by 2030.",
+          "why": "This contract solidifies Thailand's flagship aerospace hub, unlocking significant long-term demand for aviation-certified abrasive belts, non-woven surface conditioning discs, and precision deburring tools.",
+          "action": "Map out aerospace MRO surface prep consumable standards and establish contact with Thai Airways' engineering and procurement teams.",
           "th": {
-            "title": "ยอดผลิตรถยนต์เม็กซิโก 8 เดือนแตะ 2.64 ล้านคัน หนุนโอกาสส่งออกชิ้นส่วนยานยนต์ไทย",
-            "summary": "ยอดผลิตรถยนต์ในเม็กซิโก 8 เดือนแรกแตะ 2.64 ล้านคัน ตอกย้ำฐานผลิตสำคัญและเปิดทางผู้ผลิตชิ้นส่วนยานยนต์ไทยขยายการส่งออก",
-            "why": "คำสั่งซื้อส่งออกชิ้นส่วนที่เพิ่มขึ้นช่วยกระตุ้นการปั๊มขึ้นรูป ตัดแต่ง และขัดผิวโลหะในโรงงาน Tier 1-2 ในไทยโดยตรง",
-            "action": "รุกเสนอจานขัดและสายพานขัดลบครีบคมแก่โรงงานปั๊มขึ้นรูปและกลึงโลหะกลุ่มที่ผลิตส่งออกตลาดอเมริกา"
+            "title": "เซ็นแล้ว! ‘EEC - การบินไทย’ ร่วมทุน MRO อู่ตะเภาหมื่นล้าน ตอกเข็มปี 70 เปิดปี 73",
+            "summary": "สำนักงาน EEC และการบินไทยลงนามสัญญาอย่างเป็นทางการในการพัฒนาศูนย์ซ่อมบำรุงอากาศยาน (MRO) อู่ตะเภา มูลค่า 10,000 ล้านบาท มีกำหนดเริ่มก่อสร้างปี 2570 และเปิดบริการปี 2573",
+            "why": "การเซ็นสัญญานี้ทำให้เกิดศูนย์ซ่อมอากาศยานขนาดใหญ่ที่สุดในไทยอย่างเป็นรูปธรรม สร้างดีมานด์ระยะยาวสำหรับวัสดุขัดเกรดการบิน จานขัดเตรียมผิว และเครื่องมือลบครีบความแม่นยำสูง",
+            "action": "จัดเตรียมแคตตาล็อกและสเปกวัสดุขัดเกรดอากาศยาน พร้อมเริ่มประสานงานฝ่ายจัดซื้อและวิศวกรรมของการบินไทย"
           }
         },
         {
           "id": "20261019-2",
           "tag": "auto",
           "rating": "amber",
-          "source": "Thaigov",
-          "date": "2026-07-02",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zOHo0X01meExtendzNTNja1RMTUxKa2dWM0hFZ1JrRzJ4dmJPLWhSdHVwb19IU01fVTRVOWtaX2lkMVJUSlRPb3FCNVg5UQ?oc=5",
-          "title": "BOI Reports EV Investment Exceeding 130 Billion Baht Across Vehicle Technologies",
-          "summary": "Thailand's BOI reported accumulated EV investments exceeding 130 billion baht, supporting assembly and parts manufacturing ecosystems.",
-          "why": "Sustained EV manufacturing expansion creates new demand for aluminum and stainless steel body and casing weld finishing.",
-          "action": "Map new EV component fabricators to pitch specialized non-woven and ceramic grinding products for aluminum finishing.",
+          "source": "Facebook",
+          "date": "2026-10-12",
+          "url": "https://news.google.com/rss/articles/CBMi8gZBVV95cUxPWjQtdXNzVFQ5ZkJNZXhYMmp3OExvOUM5eDFtcU1TYTVjOW9MeDhvUDNRUlNaQkY3QzZlN1BHVVVFeFpTeWNtclVZbThGeUtucVVFQlU0Z3RxTDgxUEFxUU5mODJnalRiOGpja1R0T1ZYNFd2WUt5MXJnd2VTSktDaEpBR0daQ29YYUU1RlE3YjdoOEdJU05oUi05aWt6Y3czd0N5YmdvYl9LN0VOQkx5TGFZYmxxOF93YjVITWFZTHFrcDB3OENrMzNCc3MzQ1JYMElsTC1vaU5neVpEdXJUUUxyNU83ZnE2OURQTWtZNjZXWlVKWGR2UFdPRTZhUXZ4cE9Gdmt5YV9XTjRxS0oyZGhJUHZiVU50Rk5PMmxmNU9TeHNBR255eGtQVjNLb1hRS01wTHZMd0NpOThmRlFncng1U25HTWNjZXNUeERRUEhoMEowTmJCOGlPQk1jWVBLcjNIbWxsazVZUTktZVZiWkwtYW9VZHdkcEVCX2RRM2N6dWs4NkVYWTJKNFF5aUZHTE9jTzRhUEJ3eU9mbEJQQkpTVWtYQTdzaHdmc2JBM3psblRTUnFvRjVEenJSWGY1ZDd3bzVYcmRUQVpvNm5FSkp3MFF3TkVqNHhtNkg0bVZwSHhiZ1QwMjNYUXNfbHRoX0ppc3Vlb0tBbGFRaTg4MHFJMkN0d0pzMjVNMUdZWThaanV1YTBtWURQLVM3REEyWm84TjkyZ2dmOU9KeC03blpuNi0tempIbU52al82ZTgxN0xuVFBWM0NmWU9TWGpGdTVWcWU2dFU5c21FNFF5SVljUHZ1YkM2YVdINE1fbVBSRVBJSWZxSjVXSHQtTWdoZjhWQ1RqLXVzeFFuZFR3eHFUQXU4STZZZGs0RXN3dlVOVGx3TVNfOVhoWmxhMmM1eElkUnNsWm5KWDluM2RIdkd1WV9TU3o2dDBhal85d0REc1NPVDJ1Q014RUxBc3BzbUZoS1F6TEpHbW5fbzdUakZ5Si13b3FQMjd3VmVrLWJEcHJaWm9xTnBjNW5ZWU1fbUpiR2h4NlJmYllhaTZJcmNYcTdYZjN2XzNGaEN1NWs0OXRkeHV3QWtnb0FBRWllX3U1eFhqZjYtb1BINkM2YWlGcWNEYTUyZTRhUENWY0pNdkdBelJMTXJQc05BalpIV2c?oc=5",
+          "title": "Thai PM Meets Japan's Kishida to Protect Automotive Base and EV Integration",
+          "summary": "Thailand's Prime Minister met former Japanese PM Kishida to reaffirm excise policies shielding domestic assembly lines and invite Japanese automakers into the Thai EV supply chain.",
+          "why": "Keeping Japanese automotive factories operational in Thailand protects MK's core client base and secures sustained demand for automotive metal stamping and finishing abrasives.",
+          "action": "Reinforce relationships with Japanese Tier-1 and Tier-2 auto parts makers adapting production lines to hybrid and EV components.",
           "th": {
-            "title": "บีโอไอเผยยอดลงทุน EV ทะลุ 1.3 แสนล้าน หนุนเป้าฐานผลิตยานยนต์ไฟฟ้าครบวงจร",
-            "summary": "บีโอไอเผยยอดขอรับการส่งเสริมการลงทุนกลุ่ม EV รวมกว่า 1.3 แสนล้านบาท ครอบคลุมทั้งสายการผลิตยานยนต์และห่วงโซ่ชิ้นส่วน",
-            "why": "เม็ดเงินลงทุนใหม่ช่วยขยายโรงงานประกอบ งานเชื่อมโครงสร้าง และกล่องแบตเตอรี่ ซึ่งต้องการวัสดุขัดผิวสำหรับสเตนเลสและอะลูมิเนียม",
-            "action": "ทำรายชื่อโรงงานประกอบ EV และผู้ผลิตชิ้นส่วนโครงสร้างรายใหม่เพื่อนำเสนอวัสดุขัดเกรดเฉพาะทางล่วงหน้า"
+            "title": "นายกฯ หารือ ‘คิชิดะ’ อดีตนายกฯ ญี่ปุ่น ย้ำปกป้องฐานการผลิตยานยนต์และดึงร่วมห่วงโซ่ EV",
+            "summary": "นายกรัฐมนตรีหารือร่วมกับอดีตนายกฯ ญี่ปุ่น ฟูมิโอะ คิชิดะ ย้ำมาตรการภาษีสรรพสามิตเพื่อดูแลฐานการผลิตยานยนต์เดิมในไทย พร้อมผลักดันค่ายรถญี่ปุ่นให้เข้าสู่ห่วงโซ่การผลิตยานยนต์ไฟฟ้า",
+            "why": "การปกป้องฐานโรงงานประกอบและชิ้นส่วนของญี่ปุ่นช่วยรักษาฐานลูกค้าอุดมคติของ MK และรักษาปริมาณการใช้วัสดุขัด ลบคม และขัดเงาชิ้นส่วนยานยนต์ในไทย",
+            "action": "กระชับความสัมพันธ์กับโรงงานผู้ผลิตชิ้นส่วนยานยนต์ญี่ปุ่น Tier-1 และ Tier-2 ที่กำลังปรับสายการผลิตไปสู่ชิ้นส่วนไฮบริดและ EV"
           }
         },
         {
           "id": "20261019-3",
-          "tag": "aero",
+          "tag": "auto",
           "rating": "amber",
-          "source": "thansettakij",
-          "date": "2026-06-16",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pbFFnQlhiSG5UMVBfNjFmNXc4ZkYyOFljMVFtQlQwalZ5WUpidFlzX3prejlBWGoydDYzUUZXMlY4bE56VFUwZnZrLVJfWlRtV2t0Wi0xOWkzeVFLTUFJOVIwUQ?oc=5",
-          "title": "EECO Prepares U-Tapao MRO Hub as Vietjet Considers Investment Study",
-          "summary": "The EEC Office continues developing the U-Tapao aircraft maintenance hub while reviewing an investment feasibility study from Vietjet.",
-          "why": "Additional airline operators establishing hangars will expand long-term regional demand for certified aerospace abrasives and surface prep tools.",
-          "action": "Monitor project progress to prepare certified aviation-grade abrasive product lines for future vendor registration.",
+          "source": "efinanceThai",
+          "date": "2026-09-17",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY2JwVFpXeENxSjJqR0NxN1FNcjRXNG5mZlYzS0t0STRnNHlHSm5YMWFOWDRQMEhjOFo1aFdSV2pscGpCWE1TZ2YtSlpSMDdFYV9VMkdlZ0czVTN5dFlyU3ZxVFVSQU9HWnk3QkxVdk84SnUwZ0hyQmxHbXMyVGxRZnZESVI?oc=5",
+          "title": "Analysis: 3-Tier EV Tax Restructuring to Reshape Thai Auto Supply Chain",
+          "summary": "An industry analysis explores the government's proposed 3-tier EV tax structure designed to mandate higher domestic value-add and incentivize local auto parts procurement.",
+          "why": "Stricter local manufacturing rules will compel EV makers to produce and process metal components locally rather than importing finished modules, supporting metal grinding and polishing volume.",
+          "action": "Identify and target fabricators supplying battery casings, motor housings, and chassis stampings for newly localized EV platforms.",
           "th": {
-            "title": "EECO ปักหมุดศูนย์ซ่อมฯ อู่ตะเภา รอเวียตเจ็ทศึกษาชงแผนลงทุน",
-            "summary": "สำนักงาน อีอีซี เร่งพัฒนาโครงสร้างพื้นฐานศูนย์ซ่อมอากาศยานอู่ตะเภา โดยอยู่ระหว่างรอผลศึกษาแผนลงทุน MRO จากสายการบินเวียตเจ็ท",
-            "why": "การมีสายการบินเข้ามาลงทุนศูนย์ซ่อมเพิ่มจะขยายฐานงานขัดซ่อมโครงสร้างและเครื่องยนต์อากาศยานในระยะยาว",
-            "action": "ติดตามความคืบหน้าของโครงการเพื่อเตรียมความพร้อมด้านการรับรองมาตรฐานวัสดุขัดเกรดการบินสำหรับขึ้นทะเบียนผู้ค้า"
-          }
-        },
-        {
-          "id": "20261019-4",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "มิติหุ้น",
-          "date": "2026-09-25",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9udF9SZWlMTGsyTVBmV0RNVHlBTE1KUHlvc0RMQnNkbjV6S1d3aGprUkxJNFhxNU5PTmVTNVBPTVh2OWtFT0xSM21xdGg5Sll2Yk1mV3pB?oc=5",
-          "title": "Steel Associations Commend Ministry of Industry on Substandard Steel Crackdown",
-          "summary": "Ten steel trade groups met with industry regulators to support continuous enforcement and suppression of non-standard imported steel.",
-          "why": "Regulatory enforcement protects compliant local steel mills and fabricators, preserving steady consumption of heavy-duty grinding wheels.",
-          "action": "Offer cost-efficient cutting and grinding packages to standard-compliant steel structure fabricators to secure long-term accounts.",
-          "th": {
-            "title": "10 สมาคมเหล็กพบกระทรวงอุตสาหกรรม-สมอ. ชื่นชมการปราบปรามเหล็กไม่ได้มาตรฐาน",
-            "summary": "ตัวแทน 10 สมาคมเหล็กเข้าพบกระทรวงอุตสาหกรรมและ สมอ. ขอบคุณภาครัฐที่เข้มงวดตรวจสอบและปราบปรามเหล็กด้อยคุณภาพ",
-            "why": "การสกัดเหล็กเถื่อนช่วยให้โรงงานผลิตเหล็กและโครงสร้างโลหะมาตรฐานในไทยยังเดินเครื่องต่อเนื่อง รักษาอุปสงค์ใบตัด-ใบเจียร",
-            "action": "เฝ้าระวังเครดิตเทอมของกลุ่มลูกค้าแปรรูปเหล็ก พร้อมจัดโปรโมชันใบเจียรลดต้นทุนเพื่อช่วยรักษาฐานลูกค้าเดิม"
-          }
-        },
-        {
-          "id": "20261019-5",
-          "tag": "furniture",
-          "rating": "amber",
-          "source": "kasikornbank.com",
-          "date": "2025-10-09",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR0I3LUFaeENxbzdDQVF4UDdVMFlmRWp4Y3BBdFZ6OGFQeUdZZ3Y5dHA5Q2ZxRXJIaTUtLVNVY29QM3RuSk1RMmpaeXhucHEwLWRiMFlsbkJRNEtYY3RWSDZNNXRBUXdfb0hDV0IzR1pkRW5ERC1xSkQtN21WZTVveUNtdURRYmN3QjQxUDRHS2g1dDNkSGdRVVJGU2tBNGJ3WDREcGh1N2VrdnN6MExB?oc=5",
-          "title": "Kasikorn Research Projects 4.5% Contraction in Thai Furniture Exports for 2026",
-          "summary": "Thai furniture exports are forecasted to contract by 4.5% in 2026 due to the waning effects of previous front-loading and tariff challenges in key markets.",
-          "why": "Reduced production at export furniture factories threatens bulk sales volumes of wide sanding belts and orbital sanding discs.",
-          "action": "Pivot sales capacity toward customized architectural woodwork and boost retail DIY wood sanding promotions on Shopee and TikTok.",
-          "th": {
-            "title": "ศูนย์วิจัยกสิกรไทยคาดส่งออกเฟอร์นิเจอร์ปี 2569 เสี่ยงหดตัว 4.5% หลังหมดรอบเร่งสต็อก",
-            "summary": "คาดการณ์ส่งออกเฟอร์นิเจอร์ไทยปี 2569 มีแนวโน้มหดตัว 4.5% จากผลกระทบภาษีนำเข้าสหรัฐฯ และความต้องการในตลาดโลกที่ชะลอตัวลง",
-            "why": "ยอดสั่งผลิตเฟอร์นิเจอร์ส่งออกที่ลดลงส่งผลให้โรงงานงานไม้ขนาดใหญ่ลดการสั่งซื้อกระดาษทรายสายพานหน้ากว้าง",
-            "action": "กระจายความเสี่ยงโดยเน้นกลุ่มผู้ผลิตเฟอร์นิเจอร์สั่งทำในประเทศ และจัดแคมเปญกระดาษทรายกลม DIY บน Shopee/TikTok เพิ่มเติม"
+            "title": "ผ่า 3 Tier ภาษี EV เกมใหม่เขย่าอุตฯ ยานยนต์ เอื้อผู้ผลิตไทยแค่ไหน",
+            "summary": "วิเคราะห์โครงสร้างภาษี EV แบบ 3 Tier ที่ออกแบบเพื่อกดดันให้เกิดการผลิตและจัดซื้อชิ้นส่วนภายในประเทศมากขึ้น แทนการพึ่งพาการนำเข้าชิ้นส่วนสำเร็จรูปจากต่างประเทศ",
+            "why": "ข้อกำหนดสัดส่วนการผลิตในประเทศที่เข้มงวดจะบีบให้เกิดการขึ้นรูป ปั๊ม และเชื่อมชิ้นงานโลหะในไทยมากขึ้น ส่งผลให้มีความต้องการใช้วัสดุขัดเจียรผิวโลหะเพิ่มขึ้น",
+            "action": "เข้าพบผู้ผลิตชิ้นงานโลหะ เช่น โครงแชสซี กล่องบรรจุแบตเตอรี่ และโครงมอเตอร์ไฟฟ้าที่กำลังขยายโรงงานเพื่อรองรับเกณฑ์ชิ้นส่วนในประเทศ"
           }
         }
       ],
