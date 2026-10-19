@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-10-19",
+  "updated": "2026-10-20",
   "days": [
+    {
+      "date": "2026-10-20",
+      "summary": "Today's intelligence highlights strong growth in the global abrasives market driven by precision finishing, ongoing shifts in automotive manufacturing, and metal casting market dynamics.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปข้อมูลเชิงลึกประจำวันนี้เน้นย้ำถึงการเติบโตของตลาดวัสดุขัดถูทั่วโลกจากความต้องการงานขัดแต่งผิวความแม่นยำสูง การเปลี่ยนแปลงในอุตสาหกรรมการผลิตรถยนต์ และทิศทางของตลาดหล่อโลหะ"
+      },
+      "items": [
+        {
+          "id": "20261020-w1",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "EIN News",
+          "date": "2026-10-19",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM2VsRTlqVWR6dlpoUXpZQ04wNnJsRUNBbndKSnNQODIyUXdnTTlIT0hZMC10bGhEUUk0clZ5ZWZRN0I2eVhiVHVPVmRYd05xWUdJdDJldTBsTkZEUVNBNG5qaE9WeXdDN2dSVzJ2TzNsVFhBNVMzakhwZFR6Z0dQeFFVS0ZPa0dmWmh1dHhiYXVXWWRrbk9XS251Ul9SVS1SZ3NON0VXRWxfOWtzazlNcXhUMVBnU2liODhqaXF6OEdGb2NEYkRoaG9uNmx6MlNjMUd2N3Q0emZnUXltZk1wbg?oc=5",
+          "title": "Abrasives Market to Reach $72.2 Billion by 2030, Growing at a 7.6% CAGR Driven by Precision Finishing Demand",
+          "summary": "The global abrasives market is projected to hit $72.2 billion by 2030, powered by an increasing demand for high-precision finishing across manufacturing sectors.",
+          "why": "This validates strong long-term global demand for abrasive products, particularly in high-tech and precision manufacturing sectors.",
+          "action": "Focus marketing and inventory strategies on high-precision finishing and superior quality sanding solutions.",
+          "th": {
+            "title": "ตลาดวัสดุขัดถูคาดว่าจะแตะ 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 ขยายตัว 7.6% จากความต้องการงานขัดผิวความแม่นยำสูง",
+            "summary": "ตลาดวัสดุขัดถูทั่วโลกมีแนวโน้มเติบโตถึง 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 หนุนโดยความต้องการงานขัดแต่งผิวที่มีความแม่นยำสูงในภาคการผลิต",
+            "why": "นี่เป็นเครื่องยืนยันถึงความต้องการผลิตภัณฑ์วัสดุขัดถูในระยะยาว โดยเฉพาะในกลุ่มอุตสาหกรรมการผลิตขั้นสูงและงานที่ต้องการความแม่นยำ",
+            "action": "มุ่งเน้นกลยุทธ์การตลาดและสต็อกสินค้าไปที่กลุ่มผลิตภัณฑ์งานขัดความแม่นยำสูงและโซลูชันการขัดผิวคุณภาพเยี่ยม"
+          }
+        },
+        {
+          "id": "20261020-w2",
+          "tag": "steel",
+          "rating": "green",
+          "source": "Fortune Business Insights",
+          "date": "2026-09-28",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kYlp3TXBwdU5JVl9Gc0pFd3lJSFpjSUhLeEFGOVZVS19BbHBoTFNGb1BFOC1UNEN4c1o0c2xjdTFZYXhVdGRVb0dIeXZqakt1bTJkQy10SC0wRlh0RVVBZHZaWDFYbDk3cHdUbXBsYnRyYTlFVEE?oc=5",
+          "title": "Metal Casting Market Growth Analysis & Industry Forecast, 2034",
+          "summary": "The metal casting market report analyzes growth trends and future forecasts through 2034, impacting heavy industrial manufacturing.",
+          "why": "Foundries and metal casting operations are prime users of heavy-duty grinding wheels, deburring tools, and surface prep abrasives.",
+          "action": "Monitor metal casting activity trends to anticipate industrial demand for heavy grinding and deburring supplies.",
+          "th": {
+            "title": "วิเคราะห์การเติบโตและแนวโน้มอุตสาหกรรมตลาดการหล่อโลหะถึงปี 2034",
+            "summary": "รายงานตลาดการหล่อโลหะวิเคราะห์แนวโน้มการเติบโตและการคาดการณ์ในอนาคตจนถึงปี 2034 ซึ่งส่งผลกระทบต่ออุตสาหกรรมการผลิตหนัก",
+            "why": "โรงหล่อและกิจการหล่อโลหะเป็นผู้ใช้งานหลักของล้อเจียรงานหนัก เครื่องมือลบคม และวัสดุขัดเตรียมพื้นผิว",
+            "action": "ติดตามแนวโน้มกิจกรรมการหล่อโลหะเพื่อคาดการณ์ความต้องการใช้อุปกรณ์งานเจียรหนักและงานลบคมในภาคอุตสาหกรรม"
+          }
+        },
+        {
+          "id": "20261020-w3",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Precedence Research",
+          "date": "2026-09-10",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55Unk5SmloN3VleVV4dFM2cHNTR0xjZ3drOVR1d3BYN0dXX0pLMko0aHVwOUZSdnFNdHpoOTdqZ3lmd2xTQXBBVHM5SUxCMnFIbVJpTUp6bGluLVVQQ0pYd0lBLWcyOVpaR3VLWGFCd1M?oc=5",
+          "title": "Automotive Powertrain Market Companies, Size & Trends 2026-2035",
+          "summary": "A comprehensive analysis of the automotive powertrain market size, company strategies, and global trends from 2026 to 2035.",
+          "why": "Powertrain manufacturing involves complex machining, grinding, and finishing of precision metal components.",
+          "action": "Keep an eye on powertrain component manufacturing shifts as an indicator for precision metal grinding needs.",
+          "th": {
+            "title": "บริษัท ขนาด และแนวโน้มตลาดระบบขับเคลื่อนยานยนต์ ปี 2026-2035",
+            "summary": "การวิเคราะห์เชิงลึกเกี่ยวกับขนาดตลาดระบบขับเคลื่อนยานยนต์ กลยุทธ์ของบริษัท และแนวโน้มทั่วโลกตั้งแต่ปี 2026 ถึง 2035",
+            "why": "การผลิตระบบขับเคลื่อนเกี่ยวข้องกับงานตัดเฉือน การเจียร และการขัดแต่งชิ้นส่วนโลหะที่มีความแม่นยำสูง",
+            "action": "จับตาดูการเปลี่ยนแปลงในการผลิตชิ้นส่วนระบบขับเคลื่อนเพื่อใช้เป็นตัวชี้วัดความต้องการใช้วัสดุขัดโลหะความแม่นยำสูง"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-10-19",
       "summary": "Today's briefing focuses on global manufacturing dynamics, superhard abrasive optimization, and regional coatings shifts impacting metal and surface prep demand.",
@@ -902,70 +966,6 @@ window.WORLD_ARCHIVE = {
             "summary": "ตลาดวัสดุขัดถูในยุโรปกำลังเผชิญกับกฎระเบียบด้านสิ่งแวดล้อมที่เข้มงวดและความต้องการโซลูชันการขัดอัตโนมัติประสิทธิภาพสูง",
             "why": "แนวโน้มการผลิตในยุโรปมักกำหนดมาตรฐานคุณภาพสินค้าและเกณฑ์ความยั่งยืน ซึ่งท้ายที่สุดจะส่งผลต่อตลาดโลก",
             "action": "ติดตามมาตรฐานทางเทคนิคของยุโรปสำหรับเทคโนโลยีการขัดที่เป็นมิตรต่อสิ่งแวดล้อมและไร้ฝุ่น เพื่อคาดการณ์ความต้องการของลูกค้า B2B ในอนาคต"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-10-06",
-      "summary": "Today's briefing highlights shifts in European coatings innovation, global paint and coatings market scale exceeding USD 200B, and US-led metals adjustments impacting manufacturing supply chains.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปทิศทางโลกวันนี้เน้นย้ำการนวัตกรรมสารเคลือบในยุโรป ตลาดสีและสารเคลือบโลกที่เติบโตเกิน 2.0 หมื่นล้านดอลลาร์ และการปรับเปลี่ยนนโยบายโลหะของสหรัฐฯ ที่ส่งผลต่อห่วงโซ่อุปทานการผลิต"
-      },
-      "items": [
-        {
-          "id": "20261006-w1",
-          "tag": "coating",
-          "rating": "green",
-          "source": "European Coatings",
-          "date": "2026-09-09",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
-          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
-          "summary": "European coatings industry leaders discuss integrating digital tech and strict sustainability goals into next-generation surface treatments.",
-          "why": "Advanced surface coatings often require rigorous pre-treatment and sanding using specialized abrasives to ensure adhesion and finish quality.",
-          "action": "Monitor European sustainability standards as they influence global surface preparation and abrasive specs.",
-          "th": {
-            "title": "กำหนดอนาคตยุคใหม่แห่งสารเคลือบ: นวัตกรรม ความยั่งยืน และพลังแห่งดิจิทัล",
-            "summary": "ผู้นำอุตสาหกรรมสารเคลือบในยุโรปหารือเกี่ยวกับการบูรณาการเทคโนโลยีิดิจิทัลและเป้าหมายความยั่งยืนเข้ากับการเคลือบพื้นผิวรุ่นใหม่",
-            "why": "สารเคลือบพื้นผิวขั้นสูงมักต้องมีการเตรียมผิวและการขัดกระดาษทรายอย่างเข้มงวดด้วยวัสดุขัดพิเศษเพื่อให้การยึดเกาะและคุณภาพผิวงานสมบูรณ์แบบ",
-            "action": "ติดตามมาตรฐานความยั่งยืนของยุโรป เนื่องจากมีอิทธิพลต่อกระบวนการเตรียมพื้นผิวและสเปกของวัสดุขัดทั่วโลก"
-          }
-        },
-        {
-          "id": "20261006-w2",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "StartUs Insights",
-          "date": "2026-02-07",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNWRORUY5MEFQT2VreS11dDNnYmo1R3psOVlxMHNDWFA2NGJ0elhET0dtUDF1Mm00ZlV2YUhUZU1HTUQ1Ukc0NzliVnFUOWlDdEpueGhFZk1uVzB5TVNXd3gxNTM0cEpMcFhaTDBVYk5STGJqbzJaeTI0ckZPWWt1OWt3bzFTb2gyZnROdGdaT3RsckNubXBaS3NyT2NPbDFjWHlrVnRxM1FTNDN6?oc=5",
-          "title": "Global Paint and Coatings Industry Market Analysis Report [2026]: Navigating a USD 200B+ Market",
-          "summary": "An extensive market analysis shows the global paint and coatings industry navigating robust demand past the USD 200 billion mark.",
-          "why": "A thriving coatings market directly correlates with heavy industrial and manufacturing activity that consumes sanding and finishing supplies.",
-          "action": "Expect steady baseline demand for surface preparation tools and abrasives across manufacturing sectors.",
-          "th": {
-            "title": "รายงานวิเคราะห์ตลาดอุตสาหกรรมสีและสารเคลือบโลก [2026]: ท่องตลาดมูลค่ากว่า 2 แสนล้านดอลลาร์",
-            "summary": "การวิเคราะห์ตลาดอย่างครอบคลุมแสดงให้เห็นว่าอุตสาหกรรมสีและสารเคลือบโลกกำลังเผชิญกับอุปสงค์ที่แข็งแกร่งทะลุหลัก 2 แสนล้านดอลลาร์",
-            "why": "ตลาดสารเคลือบที่เติบโตมีความเชื่อมโยงโดยตรงกับกิจกรรมภาคอุตสาหกรรมและการผลิตที่ต้องใช้วัสดุขัดและตกแต่งผิว",
-            "action": "คาดการณ์ความต้องการใช้อุปกรณ์เตรียมพื้นผิวและวัสดุขัดในภาคการผลิตให้อยู่ในระดับที่มั่นคง"
-          }
-        },
-        {
-          "id": "20261006-w3",
-          "tag": "steel",
-          "rating": "green",
-          "source": "Reuters",
-          "date": "2026-04-02",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWFZKb2ppb3RHdXNXbnBJZzR4WGc5dHJ3ZkVvVlVMYVFwUjN4TkxQR203bEtjTlo3d3NnTDBaSXZSZzMxUkY5QVlWMFF2V3NGM2VOMk0zMk14NkVfWDVyNF96QlVMQ2tHb0oyWm5nRm9pQmpOYTdoWTJQUTdXMHZOR1RLT0RJaldfT3NMRmNJXzhMcHhMM1p2dHVzaEtHaGtBME54MGJUbW5MdDFNX2tkZkktOGNiLTQ3ZjRiTw?oc=5",
-          "title": "A year after 'Liberation Day,' Trump sets new drug tariffs, adjusts metals duties",
-          "summary": "Recent trade policy shifts introduce adjusted metals tariffs, altering international steel and raw material trade flows.",
-          "why": "Changes in metal duties shift global steel sourcing and local fabrication volumes, directly impacting regional metalworking and deburring abrasive consumption.",
-          "action": "Keep an eye on regional metal processing trends as tariff adjustments redirect steel supply chains.",
-          "th": {
-            "title": "หนึ่งปีหลังวันปลดปล่อย สหรัฐฯ ประกาศภาษียาเสพติดใหม่และปรับภาษีโลหะ",
-            "summary": "การปรับเปลี่ยนนโยบายการค้าล่าสุดได้ปรับอัตราภาษีโลหะ ซึ่งส่งผลเปลี่ยนแปลงกระแสการค้าระหว่างประเทศสำหรับเหล็กและวัตถุดิบ",
-            "why": "การเปลี่ยนแปลงภาษีโลหะส่งผลต่อแหล่งจัดหาเหล็กและปริมาณการผลิตในท้องถิ่น ซึ่งกระทบโดยตรงต่อการใช้วัสดุกรัดและขัดลบคมโลหะในภูมิภาค",
-            "action": "จับตาดูแนวโน้มการแปรรูปโลหะในภูมิภาคเนื่องจากการปรับภาษีส่งผลให้ห่วงโซ่อุปทานเหล็กเปลี่ยนทิศทาง"
           }
         }
       ]
