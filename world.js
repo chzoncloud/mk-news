@@ -1,7 +1,89 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-10-20",
+  "updated": "2026-10-21",
   "days": [
+    {
+      "date": "2026-10-21",
+      "summary": "Today's global trend briefing highlights key developments in steel industry decarbonization, advanced nano-ceramic and OEM coatings, and EV manufacturing shifts that directly impact surface preparation and abrasive demands.",
+      "directCount": 4,
+      "th": {
+        "summary": "สรุปกระแสโลกประจำวันนี้เน้นการพัฒนาสำคัญในด้านการลดคาร์บอนของอุตสาหกรรมเหล็ก, การเคลือบผิวนาโนเซรามิกและ OEM ขั้นสูง รวมถึงการเปลี่ยนแปลงในการผลิต EV ซึ่งส่งผลกระทบโดยตรงต่อความต้องการวัสดุขัดและเตรียมผิวงาน"
+      },
+      "items": [
+        {
+          "id": "20261021-w1",
+          "tag": "steel",
+          "rating": "green",
+          "source": "S&P Global",
+          "date": "2026-01-07",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSDJTcGFGbUFvRm15ZDhrczNqYkRzbHlXMTJZTHJpUF9CTjRHaTNXak4tdVBkbnBWcnNrRDRneXpBd1Z5SUJGSFZWTzJMNWhfcVl5czkzR0lSSjd4aTJzMTg3N2FWM3pHQ2NxbHg2dEp2ckNiNC16cWdJZ0t3anl3TzlUYldVajhqM05JQVEyWWdZYVdaYkEzZUpvUEJGdHAxXzRKdDRnNG1pQl9LaEN6Q0lpbFpPMTBOeElqT3V2NUdUSlJJNjZWOEpiMWc?oc=5",
+          "title": "Europe's steel industry faces its 2026 reckoning with CBAM",
+          "summary": "Europe's steel sector is undergoing regulatory pressure from the Carbon Border Adjustment Mechanism (CBAM), pushing mills to optimize cleaner, more efficient production processes.",
+          "why": "Stricter European steel standards and green processing will alter surface finishing and deburring requirements for imported and local metal components.",
+          "action": "Monitor European metal standards and prepare to advise local steel processors on high-efficiency, low-waste finishing tools.",
+          "th": {
+            "title": "อุตสาหกรรมเหล็กของยุโรปเผชิญบททดสอบสำคัญในปี 2026 จากมาตรการ CBAM",
+            "summary": "ภาคอุตสาหกรรมเหล็กในยุโรปกำลังเผชิญแรงกดดันด้านกฎระเบียบจากกลไกการปรับคาร์บอนก่อนข้ามแดน (CBAM) ซึ่งผลักดันให้โรงงานต้องปรับปรุงกระบวนการผลิตให้สะอาดและมีประสิทธิภาพยิ่งขึ้น",
+            "why": "มาตรฐานเหล็กที่เข้มงวดขึ้นของยุโรปจะส่งผลให้ข้อกำหนดด้านการตกแต่งผิวและการลบคมของชิ้นส่วนโลหะทั้งนำเข้าและในท้องถิ่นเปลี่ยนแปลงไป",
+            "action": "ติดตามมาตรฐานโลหะของยุโรปและเตรียมให้คำปรึกษาแก่ผู้แปรรูปเหล็กในท้องถิ่นเกี่ยวกับเครื่องมือขัดที่มีประสิทธิภาพสูงและลดของเสีย"
+          }
+        },
+        {
+          "id": "20261021-w2",
+          "tag": "coating",
+          "rating": "green",
+          "source": "Fact.MR",
+          "date": "2026-03-24",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rcXJ4MUphbkZBcG45alo1UTFVT05na1kxQllsZVhHVE9wM2dKc2w0S1ExZnZXaEUxN3c4ZFk5bHlrdlJDZXJmbkRUbU5uRmNnY2taX0VncDBmTVY0NFJCUGg5Z1pEYjBWY2hPWkh3LWw?oc=5",
+          "title": "Nano Ceramic Coatings Market | Global Market Analysis Report - 2036",
+          "summary": "The global nano ceramic coatings market is experiencing steady expansion, driven by demand for ultra-durable, scratch-resistant surface protection across multiple industrial sectors.",
+          "why": "Nano-coatings require extremely precise surface preparation and sanding before application, creating demand for high-end abrasive grades.",
+          "action": "Target industrial coating applicators with ultra-fine grit abrasives designed for optimal nano-coating adhesion.",
+          "th": {
+            "title": "ตลาดสารเคลือบนาโนเซรามิก | รายงานวิเคราะห์ตลาดโลก - 2036",
+            "summary": "ตลาดสารเคลือบนาโนเซรามิกทั่วโลกกำลังเติบโตอย่างต่อเนื่อง ขับเคลื่อนโดยความต้องการการปกป้องพื้นผิวที่ทนทานเป็นพิเศษและป้องกันรอยขีดข่วนในหลากหลายภาคอุตสาหกรรม",
+            "why": "การเคลือบแบบนาโนจำเป็นต้องมีการเตรียมพื้นผิวและการขัดที่แม่นยำสูงก่อนการเคลือบ ซึ่งสร้างความต้องการกระดาษทรายและวัสดุขัดเกรดพรีเมียม",
+            "action": "เจาะกลุ่มผู้ให้บริการเคลือบผิวอุตสาหกรรมด้วยกระดาษทรายเบอร์ละเอียดพิเศษที่ออกแบบมาเพื่อการยึดเกาะของสารเคลือบนาโนที่ดีที่สุด"
+          }
+        },
+        {
+          "id": "20261021-w3",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Fortune Business Insights",
+          "date": "2026-09-28",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXJjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
+          "title": "Automotive OEM Coatings Market Size, Share | Growth [2034]",
+          "summary": "The automotive OEM coatings market continues to evolve as manufacturers seek advanced finishes that align with lightweight vehicle designs and strict environmental standards.",
+          "why": "Automotive body panels and parts require meticulous pre-paint sanding and surface conditioning, directly impacting our industrial abrasive product line.",
+          "action": "Align our automotive sanding supply catalog with OEM requirements for lightweight metal and composite finishing.",
+          "th": {
+            "title": "ตลาดสารเคลือบ OEM ยานยนต์ ขนาด ส่วนแบ่ง และการเติบโต [2034]",
+            "summary": "ตลาดสารเคลือบ OEM ยานยนต์ยังคงพัฒนาอย่างต่อเนื่องในขณะที่ผู้ผลิตมองหาพื้นผิวสำเร็จรูปขั้นสูงที่สอดคล้องกับการออกแบบรถยนต์ที่มีน้ำหนักเบาและมาตรฐานสิ่งแวดล้อมที่เข้มงวด",
+            "why": "แผงตัวถังรถยนต์และชิ้นส่วนต่างๆ จำเป็นต้องมีการขัดเตรียมผิวก่อนพ่นสีและการปรับสภาพพื้นผิวอย่างพิถีพิถัน ซึ่งส่งผลโดยตรงต่อกลุ่มผลิตภัณฑ์วัสดุขัดอุตสาหกรรมของเรา",
+            "action": "ปรับปรุงแคตตาล็อกสินค้าวัสดุขัดยานยนต์ให้สอดคล้องกับข้อกำหนดของ OEM สำหรับการขัดแต่งโลหะที่มีน้ำหนักเบาและวัสดุคอมโพสิต"
+          }
+        },
+        {
+          "id": "20261021-w4",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-09-02",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUUpWSmpHLVowSXdiLUJqcFlpQ3ZfRmdQYjJiTVFCNk00ZW0tM0ZqenQtd2F4emNVNEdzT3Q3amZ3M050YnNuTldQZFQyTlgyX3ByekdEbkdlaURacG5yRlBUSEZucnBQalBmNzVadXVrSDdXcEd0d2t4UXptUzJ5dXZ6ckE1O3RVV3IyUkY4SFdVSERveVJYem0yM3lNbWFUY1dXWHYyRFZ2cXdldWFyRmJTNE4tQ1RXWWp4N3NCN1h5Vmt3d3hEbkFPc2ZqT0k?oc=5",
+          "title": "A global AI manufacturing transformation at Hyundai Motor Group",
+          "summary": "Hyundai Motor Group is spearheading a global AI and smart-factory manufacturing transformation, integrating advanced automation across vehicle production lines.",
+          "why": "Smart factories and automated robotic grinding/deburring systems demand consistent, high-tolerance abrasive belts and discs suitable for machine integration.",
+          "action": "Prepare our product offerings for automated robotic sanding applications rather than manual-only operations.",
+          "th": {
+            "title": "การเปลี่ยนแปลงการผลิตระดับโลกด้วย AI ที่ฮุนได มอเตอร์ กรุ๊ป",
+            "summary": "ฮุนได มอเตอร์ กรุ๊ป เป็นผู้นำในการเปลี่ยนแปลงการผลิตด้วย AI และโรงงานอัจฉริยะ โดยบูรณาการระบบอัตโนมัติขั้นสูงทั่วทั้งสายการผลิตยานยนต์",
+            "why": "โรงงานอัจฉริยะและระบบหุ่นยนต์ขัด/ลบคมอัตโนมัติ ต้องการสายพานทรายและแผ่นขัดที่มีความสม่ำเสมอและมีความแม่นยำสูงซึ่งเหมาะสำหรับการทำงานร่วมกับเครื่องจักร",
+            "action": "เตรียมความพร้อมผลิตภัณฑ์ของเราสำหรับการใช้งานขัดด้วยระบบหุ่นยนต์อัตโนมัติ แทนที่จะเน้นเฉพาะงานที่ใช้มือทำเท่านั้น"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-10-20",
       "summary": "Today's briefing focuses on global manufacturing growth for abrasives, advanced EV assembly/powertrain shifts, and steel trade policy impacts. These updates signal steady demand for precision surface finishing and superhard materials.",
@@ -884,88 +966,6 @@ window.WORLD_ARCHIVE = {
             "summary": "ภาคอุตสาหกรรมเหล็กทั่วโลกยังคงต้องเผชิญกับปัญหากำลังการผลิตส่วนเกินและมาตรการกีดกันทางการค้าที่เพิ่มขึ้น ซึ่งบีบให้โรงงานต้องเพิ่มประสิทธิภาพการดำเนินงาน",
             "why": "เมื่อโรงงานเหล็กเผชิญแรงกดดันด้านกำไรจากภาวะล้นตลาด พวกเขาจะมองหาวัสดุสิ้นเปลืองสำหรับงานขัดและตกแต่งผิวที่มีความทนทานและคุ้มค่า เพื่อลดต้นทุนการผลิต",
             "action": "ชูจุดขายสินค้ากลุ่มกระดาษทรายและใบเจียรของเราว่าเป็นทางเลือกที่คุ้มค่าและพึ่งพาได้ สำหรับโรงงานและผู้รับเหมาที่ต้องการลดต้นทุนวัสดุสิ้นเปลือง"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-10-07",
-      "summary": "Today's global trends highlight critical shifts in EV manufacturing, metal casting, and regional abrasives market demands, presenting new surface preparation and finishing opportunities.",
-      "directCount": 4,
-      "th": {
-        "summary": "แนวโน้มโลกวันนี้เน้นย้ำการเปลี่ยนแปลงครั้งสำคัญในการผลิตรถยนต์ EV การหล่อโลหะ และความต้องการตลาดวัสดุขัดถูในภูมิภาค ซึ่งสร้างโอกาสใหม่ๆ ในด้านการเตรียมพื้นผิวและการขัดแต่งสำเร็จ"
-      },
-      "items": [
-        {
-          "id": "20261007-w1",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Fortune Business Insights",
-          "date": "2026-09-21",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbDdPM0VwRXE3dDlfTTJFS3BVX2FmU0ZLWVVDR2JLcWk5UjVnUmJQaDJ2N2E1Z1VkMWdIUzdnWXVrSFc3cHBLWmhSb3dodGpOTlZzejhjaFRBcm5fRi1jMzhzTV9CcFRqVVRVUVdWUWliWkdiMXdzLXpFMWY3M1doOW1hTHBaUnlnYV81YmMyLTU?oc=5",
-          "title": "Electric Vehicle Market Size, Share & Global Analysis, 2034",
-          "summary": "The global electric vehicle market continues its long-term expansion trajectory toward 2034, transforming automotive supply chains and manufacturing requirements.",
-          "why": "EV production requires specialized lightweight body components, battery enclosures, and precision finishing, altering abrasive and deburring specs.",
-          "action": "Monitor EV structural design changes to align our deburring and finishing solutions with new lightweight metal alloys.",
-          "th": {
-            "title": "ขนาดส่วนแบ่งและการวิเคราะห์ตลาดรถยนต์ไฟฟ้าระดับโลก ปี 2034",
-            "summary": "ตลาดรถยนต์ไฟฟ้าระดับโลกยังคงเติบโตอย่างต่อเนื่องไปจนถึงปี 2034 ซึ่งส่งผลให้ห่วงโซ่อุปทานและข้อกำหนดในการผลิตยานยนต์ต้องปรับเปลี่ยน",
-            "why": "การผลิตรถยนต์ EV ต้องการชิ้นส่วนโครงสร้างน้ำหนักเบาและตัวเรือนแบตเตอรี่ที่มีความแม่นยำ ซึ่งส่งผลต่อสเปกของวัสดุขัดและการลบคม",
-            "action": "ติดตามการเปลี่ยนแปลงการออกแบบโครงสร้าง EV เพื่อปรับโซลูชันการขัดและการลบคมให้เข้ากับโลหะผสมน้ำหนักเบาแบบใหม่"
-          }
-        },
-        {
-          "id": "20261007-w2",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "Fortune Business Insights",
-          "date": "2026-09-14",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kYlp3TXBwdU5JVl9Gc0pFd3lJSFpjSUhLeEFGOVZVS19BbHBoTFNGb1BFOC1UNEN4c1o0c2xjdTFZYXhVdGRVb0dIeXZqakt1bTJkQy10SC0wRlh0RVVBZHZaWDFYbDk3cHdUbXBsYnRyYTlFVEE?oc=5",
-          "title": "Metal Casting Market Growth Analysis & Industry Forecast, 2034",
-          "summary": "The metal casting market is experiencing steady growth driven by heavy machinery, automotive, and industrial infrastructure demands.",
-          "why": "Metal castings require extensive surface grinding, gate/riser removal, and defect smoothing, which are core application areas for our grinding wheels and sanding belts.",
-          "action": "Keep an adequate stock of heavy-duty grinding discs and snagging products targeted at foundry and casting finish work.",
-          "th": {
-            "title": "การวิเคราะห์การเติบโตและแนวโน้มอุตสาหกรรมการหล่อโลหะถึงปี 2034",
-            "summary": "ตลาดการหล่อโลหะกำลังเติบโตอย่างมั่นคงจากความต้องการในอุตสาหกรรมเครื่องจักรหนัก ยานยนต์ และโครงสร้างพื้นฐาน",
-            "why": "งานหล่อโลหะต้องผ่านการเจียรผิว การตัดแต่งประตูน้ำหล่อ และการขัดเรียบ ซึ่งเป็นตลาดหลักสำหรับล้อเจียรและกระดาษทรายสายพานของเรา",
-            "action": "รักษาระดับสต็อกล้อเจียรสำหรับงานหนักและผลิตภัณฑ์ขัดแต่งที่เจาะกลุ่มโรงงานหล่อโลหะให้เพียงพอ"
-          }
-        },
-        {
-          "id": "20261007-w3",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "Market Research Future",
-          "date": "2026-09-17",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd0FKMXFQcDczZm1uUkMteUtna0ptYU1rVlNuSUgybmpCcmtTU1lnc1hLZGJ5bm9fNnFQX0xRSGhhRGRUQ1Zqd05CZW9vbjlNa0NhTU0tVjJrTUxBOGdWNjFGemJnWGFPZFJ6ZXNTVnVOeG1ONDhUb0hYMVdlZi1tOW9ITU50Ym8?oc=5",
-          "title": "India Coated Abrasives Market Size, Share & Trends 2035",
-          "summary": "India's coated abrasives market is projected to expand significantly, driven by rapid industrialization, manufacturing growth, and automotive expansion.",
-          "why": "Rising regional manufacturing activities signal increased global supply chain competition and shifting sourcing hubs for industrial abrasives.",
-          "action": "Analyze how competitive pricing from emerging regional hubs like India impacts global abrasive raw material costs and availability.",
-          "th": {
-            "title": "ขนาดส่วนแบ่งและแนวโน้มตลาดกระดาษทรายและผ้าทรายเคลือบสารขัดของอินเดีย ปี 2035",
-            "summary": "ตลาดกระดาษทรายและวัสดุขัดเคลือบของอินเดียมีแนวโน้มขยายตัวอย่างมาก ขับเคลื่อนโดยการพัฒนาอุตสาหกรรมและการเติบโตของภาคการผลิตยานยนต์",
-            "why": "กิจกรรมการผลิตในภูมิภาคที่เพิ่มขึ้นบ่งชี้ถึงการแข่งขันในห่วงโซ่อุปทานโลกที่สูงขึ้นและการเปลี่ยนแปลงแหล่งจัดหาวัสดุขัดถูอุตสาหกรรม",
-            "action": "วิเคราะห์ผลกระทบด้านราคาจากศูนย์กลางการผลิตในภูมิภาค เช่น อินเดีย ที่มีต่อต้นทุนและความพร้อมของวัตถุดิบขัดถูทั่วโลก"
-          }
-        },
-        {
-          "id": "20261007-w4",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "Market Data Forecast",
-          "date": "2026-07-24",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QdEVXWnRKRG40YWFXWDVwY09BdElfOGotQVNaazA2Q2p2VkluOXlhT1RSeEF3STZKZVI3b21NZlB3MWlwLTVXaVNDQWtQSHNUX3RPZXQ4Y0wwY1pwaGVfYzdKeXNNdDFZMkNpcDVhSm5OUjRraTM4ZV9fRHcyZw?oc=5",
-          "title": "Europe Abrasives Market Size, Share and Analysis, 2034",
-          "summary": "The European abrasives market faces stringent environmental regulations and high demand for high-performance automated finishing solutions.",
-          "why": "European manufacturing trends often dictate strict product quality standards and sustainability benchmarks that eventually influence global markets.",
-          "action": "Track European technical standards for eco-friendly and dust-free sanding technologies to anticipate future customer quality demands in B2B sectors.",
-          "th": {
-            "title": "ขนาดส่วนแบ่งและการวิเคราะห์ตลาดวัสดุขัดถูในยุโรป ปี 2034",
-            "summary": "ตลาดวัสดุขัดถูในยุโรปกำลังเผชิญกับกฎระเบียบด้านสิ่งแวดล้อมที่เข้มงวดและความต้องการโซลูชันการขัดอัตโนมัติประสิทธิภาพสูง",
-            "why": "แนวโน้มการผลิตในยุโรปมักกำหนดมาตรฐานคุณภาพสินค้าและเกณฑ์ความยั่งยืน ซึ่งท้ายที่สุดจะส่งผลต่อตลาดโลก",
-            "action": "ติดตามมาตรฐานทางเทคนิคของยุโรปสำหรับเทคโนโลยีการขัดที่เป็นมิตรต่อสิ่งแวดล้อมและไร้ฝุ่น เพื่อคาดการณ์ความต้องการของลูกค้า B2B ในอนาคต"
           }
         }
       ]
