@@ -4,82 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-21",
-      "summary": "Today's global trend briefing highlights key developments in steel industry decarbonization, advanced nano-ceramic and OEM coatings, and EV manufacturing shifts that directly impact surface preparation and abrasive demands.",
-      "directCount": 4,
+      "summary": "Today's global briefing highlights ongoing shifts in green coating innovations, US-led steel tariff impacts, and specialized superhard diamond machining advancements that influence surface finishing and metal fabrication sectors.",
+      "directCount": 3,
       "th": {
-        "summary": "สรุปกระแสโลกประจำวันนี้เน้นการพัฒนาสำคัญในด้านการลดคาร์บอนของอุตสาหกรรมเหล็ก, การเคลือบผิวนาโนเซรามิกและ OEM ขั้นสูง รวมถึงการเปลี่ยนแปลงในการผลิต EV ซึ่งส่งผลกระทบโดยตรงต่อความต้องการวัสดุขัดและเตรียมผิวงาน"
+        "summary": "สรุปข้อมูลเชิงลึกระดับโลกในวันนี้เน้นย้ำถึงการเปลี่ยนแปลงด้านนวัตกรรมสีเคลือบที่เป็นมิตรต่อสิ่งแวดล้อม ผลกระทบจากมาตรการภาษีเหล็กของสหรัฐฯ และความก้าวหน้าในการตัดเฉือนด้วยเพชรสังเคราะห์ความแข็งสูง ซึ่งมีอิทธิพลต่อภาคธุรกิจการตกแต่งพื้นผิวและการผลิตโลหะ"
       },
       "items": [
         {
           "id": "20261021-w1",
-          "tag": "steel",
-          "rating": "green",
-          "source": "S&P Global",
-          "date": "2026-01-07",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSDJTcGFGbUFvRm15ZDhrczNqYkRzbHlXMTJZTHJpUF9CTjRHaTNXak4tdVBkbnBWcnNrRDRneXpBd1Z5SUJGSFZWTzJMNWhfcVl5czkzR0lSSjd4aTJzMTg3N2FWM3pHQ2NxbHg2dEp2ckNiNC16cWdJZ0t3anl3TzlUYldVajhqM05JQVEyWWdZYVdaYkEzZUpvUEJGdHAxXzRKdDRnNG1pQl9LaEN6Q0lpbFpPMTBOeElqT3V2NUdUSlJJNjZWOEpiMWc?oc=5",
-          "title": "Europe's steel industry faces its 2026 reckoning with CBAM",
-          "summary": "Europe's steel sector is undergoing regulatory pressure from the Carbon Border Adjustment Mechanism (CBAM), pushing mills to optimize cleaner, more efficient production processes.",
-          "why": "Stricter European steel standards and green processing will alter surface finishing and deburring requirements for imported and local metal components.",
-          "action": "Monitor European metal standards and prepare to advise local steel processors on high-efficiency, low-waste finishing tools.",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "Market Business Insights",
+          "date": "2026-10-15",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBSDItTlp3MlgweDg2N3hibzBRRVgwVGJKa3RRWUpXc0pMcjJ3U241dE1LcnRYR3hna3hBUjNRdzZBdFIwUUEtTnd1MlFYdXIwTGpOVWNCVWpjeU45M1JISk1tVkZUYVpjR25UVUN3?oc=5",
+          "title": "Green Coatings Market Size & Growth Analysis, 2026-2035",
+          "summary": "The green coatings market is projected to expand significantly from 2026 to 2035, driven by environmental regulations and sustainable manufacturing demands.",
+          "why": "Eco-friendly surface treatments and sustainable manufacturing processes change how metal and wood surfaces are prepared and coated worldwide.",
+          "action": "Monitor eco-friendly surface preparation requirements and align product portfolios with sustainable standards.",
           "th": {
-            "title": "อุตสาหกรรมเหล็กของยุโรปเผชิญบททดสอบสำคัญในปี 2026 จากมาตรการ CBAM",
-            "summary": "ภาคอุตสาหกรรมเหล็กในยุโรปกำลังเผชิญแรงกดดันด้านกฎระเบียบจากกลไกการปรับคาร์บอนก่อนข้ามแดน (CBAM) ซึ่งผลักดันให้โรงงานต้องปรับปรุงกระบวนการผลิตให้สะอาดและมีประสิทธิภาพยิ่งขึ้น",
-            "why": "มาตรฐานเหล็กที่เข้มงวดขึ้นของยุโรปจะส่งผลให้ข้อกำหนดด้านการตกแต่งผิวและการลบคมของชิ้นส่วนโลหะทั้งนำเข้าและในท้องถิ่นเปลี่ยนแปลงไป",
-            "action": "ติดตามมาตรฐานโลหะของยุโรปและเตรียมให้คำปรึกษาแก่ผู้แปรรูปเหล็กในท้องถิ่นเกี่ยวกับเครื่องมือขัดที่มีประสิทธิภาพสูงและลดของเสีย"
+            "title": "ขนาดตลาดสีเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมและการวิเคราะห์การเติบโต ปี 2026-2035",
+            "summary": "ตลาดสีเคลือบสีเขียวคาดว่าจะเติบโตอย่างมีนัยสำคัญในช่วงปี 2026 ถึง 2035 โดยขับเคลื่อนจากข้อบังคับด้านสิ่งแวดล้อมและความต้องการการผลิตที่ยั่งยืน",
+            "why": "การเตรียมพื้นผิวที่เป็นมิตรต่อสิ่งแวดล้อมและกระบวนการผลิตที่ยั่งยืนส่งผลต่อวิธีการเตรียมและเคลือบพื้นผิวโลหะและไม้ทั่วโลก",
+            "action": "ติดตามข้อกำหนดการเตรียมพื้นผิวที่เป็นมิตรต่อสิ่งแวดล้อมและปรับกลุ่มผลิตภัณฑ์ให้สอดคล้องกับมาตรฐานความยั่งยืน"
           }
         },
         {
           "id": "20261021-w2",
-          "tag": "coating",
-          "rating": "green",
-          "source": "Fact.MR",
-          "date": "2026-03-24",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rcXJ4MUphbkZBcG45alo1UTFVT05na1kxQllsZVhHVE9wM2dKc2w0S1ExZnZXaEUxN3c4ZFk5bHlrdlJDZXJmbkRUbU5uRmNnY2taX0VncDBmTVY0NFJCUGg5Z1pEYjBWY2hPWkh3LWw?oc=5",
-          "title": "Nano Ceramic Coatings Market | Global Market Analysis Report - 2036",
-          "summary": "The global nano ceramic coatings market is experiencing steady expansion, driven by demand for ultra-durable, scratch-resistant surface protection across multiple industrial sectors.",
-          "why": "Nano-coatings require extremely precise surface preparation and sanding before application, creating demand for high-end abrasive grades.",
-          "action": "Target industrial coating applicators with ultra-fine grit abrasives designed for optimal nano-coating adhesion.",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "https://economy.ac/",
+          "date": "2026-08-07",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YQWhOYlJ3eW9jTUhwa25XdE55eHh3a2JoODhWdDAtOW00UzhXcWwtNnJJXzZGMjMtNXN6MTYwTUhib3ZHUDNXaTdIbWY2N092QXNsOXFfdw?oc=5",
+          "title": "'Trump Tariffs and AI Boom' Propel U.S. Steel Past Japan to World No. 3 for First Time in 26 Years",
+          "summary": "New trade policies and technological booms have reshaped global steel production rankings, pushing the U.S. to the third position globally.",
+          "why": "Shifts in global steel production hubs directly alter where heavy fabrication, grinding, and metal finishing demands are concentrated.",
+          "action": "Track regional steel production shifts to identify growing export markets for heavy-duty industrial abrasives.",
           "th": {
-            "title": "ตลาดสารเคลือบนาโนเซรามิก | รายงานวิเคราะห์ตลาดโลก - 2036",
-            "summary": "ตลาดสารเคลือบนาโนเซรามิกทั่วโลกกำลังเติบโตอย่างต่อเนื่อง ขับเคลื่อนโดยความต้องการการปกป้องพื้นผิวที่ทนทานเป็นพิเศษและป้องกันรอยขีดข่วนในหลากหลายภาคอุตสาหกรรม",
-            "why": "การเคลือบแบบนาโนจำเป็นต้องมีการเตรียมพื้นผิวและการขัดที่แม่นยำสูงก่อนการเคลือบ ซึ่งสร้างความต้องการกระดาษทรายและวัสดุขัดเกรดพรีเมียม",
-            "action": "เจาะกลุ่มผู้ให้บริการเคลือบผิวอุตสาหกรรมด้วยกระดาษทรายเบอร์ละเอียดพิเศษที่ออกแบบมาเพื่อการยึดเกาะของสารเคลือบนาโนที่ดีที่สุด"
+            "title": "กำแพงภาษีและบูม AI ดันเหล็กสหรัฐฯแซงญี่ปุ่นขึ้นอันดับ 3 ของโลกครั้งแรกในรอบ 26 ปี",
+            "summary": "นโยบายการค้าใหม่และกระแสเทคโนโลยีได้ปรับเปลี่ยนอันดับการผลิตเหล็กโลก ส่งผลให้สหรัฐฯ ขึ้นสู่อันดับ 3 ของโลก",
+            "why": "การเปลี่ยนแปลงของศูนย์กลางการผลิตเหล็กโลกส่งผลโดยตรงต่อพื้นที่ที่มีความต้องการใช้งานขัด การเจียร และการตกแต่งผิวโลหะหนัก",
+            "action": "ติดตามการเปลี่ยนแปลงการผลิตเหล็กในแต่ละภูมิภาคเพื่อระบุตลาดส่งออกที่กำลังเติบโตสำหรับวัสดุขัดอุตสาหกรรมหนัก"
           }
         },
         {
           "id": "20261021-w3",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Fortune Business Insights",
-          "date": "2026-09-28",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXJjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
-          "title": "Automotive OEM Coatings Market Size, Share | Growth [2034]",
-          "summary": "The automotive OEM coatings market continues to evolve as manufacturers seek advanced finishes that align with lightweight vehicle designs and strict environmental standards.",
-          "why": "Automotive body panels and parts require meticulous pre-paint sanding and surface conditioning, directly impacting our industrial abrasive product line.",
-          "action": "Align our automotive sanding supply catalog with OEM requirements for lightweight metal and composite finishing.",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "The National Law Review",
+          "date": "2026-10-16",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONzc1UG5lV0E3Z2JCYnd2dFpLZmt2VTRYVEk5cHlBS2FYaDIzNHNJeTNBd3R3dDE0cFF4QlhNZE9ZX3N4enpseURtMGRTMmFHRWNPdmY2NlZ2R1F6b01ma01GXzlTMXlJd3FJdzZsY093dEVCczVVNTNPaU56Z2l0emR3d2hPNDQwT2xDY01CZW5Ib195T3RMR0tQdTY0d1FwdGgxWnB5RGI1aXpwRkNXWnln?oc=5",
+          "title": "Five Reputable Diamond Sanding Belts Manufacturers in China 2026: Optimizing Superhard Abrasive Machining",
+          "summary": "An analysis of top superhard abrasive manufacturers highlights advanced techniques in optimizing diamond sanding belts for precision machining.",
+          "why": "Superhard abrasives like diamond belts represent cutting-edge technology for hard material machining, setting benchmarks for high-end industrial applications.",
+          "action": "Evaluate the adoption of superhard diamond abrasive tools for high-precision applications in our catalog.",
           "th": {
-            "title": "ตลาดสารเคลือบ OEM ยานยนต์ ขนาด ส่วนแบ่ง และการเติบโต [2034]",
-            "summary": "ตลาดสารเคลือบ OEM ยานยนต์ยังคงพัฒนาอย่างต่อเนื่องในขณะที่ผู้ผลิตมองหาพื้นผิวสำเร็จรูปขั้นสูงที่สอดคล้องกับการออกแบบรถยนต์ที่มีน้ำหนักเบาและมาตรฐานสิ่งแวดล้อมที่เข้มงวด",
-            "why": "แผงตัวถังรถยนต์และชิ้นส่วนต่างๆ จำเป็นต้องมีการขัดเตรียมผิวก่อนพ่นสีและการปรับสภาพพื้นผิวอย่างพิถีพิถัน ซึ่งส่งผลโดยตรงต่อกลุ่มผลิตภัณฑ์วัสดุขัดอุตสาหกรรมของเรา",
-            "action": "ปรับปรุงแคตตาล็อกสินค้าวัสดุขัดยานยนต์ให้สอดคล้องกับข้อกำหนดของ OEM สำหรับการขัดแต่งโลหะที่มีน้ำหนักเบาและวัสดุคอมโพสิต"
-          }
-        },
-        {
-          "id": "20261021-w4",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-09-02",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUUpWSmpHLVowSXdiLUJqcFlpQ3ZfRmdQYjJiTVFCNk00ZW0tM0ZqenQtd2F4emNVNEdzT3Q3amZ3M050YnNuTldQZFQyTlgyX3ByekdEbkdlaURacG5yRlBUSEZucnBQalBmNzVadXVrSDdXcEd0d2t4UXptUzJ5dXZ6ckE1O3RVV3IyUkY4SFdVSERveVJYem0yM3lNbWFUY1dXWHYyRFZ2cXdldWFyRmJTNE4tQ1RXWWp4N3NCN1h5Vmt3d3hEbkFPc2ZqT0k?oc=5",
-          "title": "A global AI manufacturing transformation at Hyundai Motor Group",
-          "summary": "Hyundai Motor Group is spearheading a global AI and smart-factory manufacturing transformation, integrating advanced automation across vehicle production lines.",
-          "why": "Smart factories and automated robotic grinding/deburring systems demand consistent, high-tolerance abrasive belts and discs suitable for machine integration.",
-          "action": "Prepare our product offerings for automated robotic sanding applications rather than manual-only operations.",
-          "th": {
-            "title": "การเปลี่ยนแปลงการผลิตระดับโลกด้วย AI ที่ฮุนได มอเตอร์ กรุ๊ป",
-            "summary": "ฮุนได มอเตอร์ กรุ๊ป เป็นผู้นำในการเปลี่ยนแปลงการผลิตด้วย AI และโรงงานอัจฉริยะ โดยบูรณาการระบบอัตโนมัติขั้นสูงทั่วทั้งสายการผลิตยานยนต์",
-            "why": "โรงงานอัจฉริยะและระบบหุ่นยนต์ขัด/ลบคมอัตโนมัติ ต้องการสายพานทรายและแผ่นขัดที่มีความสม่ำเสมอและมีความแม่นยำสูงซึ่งเหมาะสำหรับการทำงานร่วมกับเครื่องจักร",
-            "action": "เตรียมความพร้อมผลิตภัณฑ์ของเราสำหรับการใช้งานขัดด้วยระบบหุ่นยนต์อัตโนมัติ แทนที่จะเน้นเฉพาะงานที่ใช้มือทำเท่านั้น"
+            "title": "5 ผู้ผลิตสายพานขัดเพชรที่มีชื่อเสียงในจีนปี 2026: การเพิ่มประสิทธิภาพการตัดเฉือนด้วยวัสดุขัดความแข็งสูงพิเศษ",
+            "summary": "การวิเคราะห์ผู้ผลิตวัสดุขัดความแข็งสูงชั้นนำเน้นย้ำถึงเทคนิคขั้นสูงในการเพิ่มประสิทธิภาพสายพานขัดเพชรสำหรับการตัดเฉือนความแม่นยำสูง",
+            "why": "วัสดุขัดความแข็งสูงพิเศษอย่างสายพานเพชรแสดงถึงเทคโนโลยีล้ำสมัยสำหรับการตัดเฉือนวัสดุแข็ง ซึ่งเป็นมาตรฐานสำหรับงานอุตสาหกรรมไฮ엔ด",
+            "action": "ประเมินการนำเครื่องมือขัดเพชรความแข็งสูงมาใช้สำหรับงานที่มีความแม่นยำสูงในแคตตาล็อกของเรา"
           }
         }
       ]
