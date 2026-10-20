@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-20",
-      "summary": "Today's briefing highlights shifts in nano-ceramic coating advancements, EV manufacturing assembly tech, and global steel trade policy dynamics. These signals offer critical intelligence for high-precision surface finishing and metal fabrication demand.",
+      "summary": "Today's briefing focuses on global manufacturing growth for abrasives, advanced EV assembly/powertrain shifts, and steel trade policy impacts. These updates signal steady demand for precision surface finishing and superhard materials.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปทิศทางโลกวันนี้เน้นการพัฒนาสารเคลือบนาโนเซรามิก เทคโนโลยีการประกอบยานยนต์ EV และพลวัตของนโยบายการค้าเหล็กโลก ซึ่งเป็นข้อมูลเชิงลึกสำคัญสำหรับตลาดขัดผิวโลหะและการผลิต"
+        "summary": "สรุปข้อมูลแนวโน้มโลกวันนี้เน้นการเติบโตของตลาดวัสดุขัดถู การเปลี่ยนแปลงในสายการผลิตรถยนต์ EV และผลกระทบจากนโยบายการค้าเหล็ก ซึ่งบ่งชี้ถึงความต้องการที่ต่อเนื่องในด้านการเตรียมผิวและการขัดแต่งความแม่นยำสูง"
       },
       "items": [
         {
           "id": "20261020-w1",
-          "tag": "coating",
+          "tag": "abrasive",
           "rating": "green",
-          "source": "Fact.MR",
-          "date": "2026-03-24",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rcXJ4MUphbkZBcG45alo1UTFVT05na1kxQllsZVhHVE9wM2dKc2w0S1ExZnZXaEUxN3c4ZFk5bHlrdlJDZXJmbkRUbU5uRmNnY2taX0VncDBmTVY0NFJCUGg5Z1pEYjBWY2hPWkh3LWw?oc=5",
-          "title": "Nano Ceramic Coatings Market | Global Market Analysis Report - 2036",
-          "summary": "The global nano ceramic coatings market is expanding steadily through 2036, driven by high durability requirements across automotive and industrial sectors.",
-          "why": "Nano-ceramic coatings demand extremely high surface preparation and precision polishing, opening premium segments for advanced abrasives.",
-          "action": "Monitor high-performance finishing solutions suited for ultra-hard surface preparation.",
+          "source": "EIN News",
+          "date": "2026-10-19",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM2VsRTlqVWR6dlpoUXpZQ04wNnJsRUNBbndKSnNQODIyUXdnTTlIT0hZMC10bGhEUUk0clZ5ZWZRN0I2eVhiVHVPVmRYd05xWUdJdDJldTBsTkZEUVNBNG5qaE9WeXdDN2dSVzJ2TzNsVFhBNVMzakhwZFR6Z0dQeFFVS0ZPa0dmWmh1dHhiYXVXWWRrbk9XS251Ul9SVS1SZ3NON0VXRWxfOWtzazlNcXhUMVBnU2liODhqaXF6OEdGb2NEYkRoaG9uNmx6MlNjMUd2N3Q0emZnUXltZk1wbg?oc=5",
+          "title": "Abrasives Market to Reach $72.2 Billion by 2030, Growing at a 7.6% CAGR Driven by Precision Finishing Demand",
+          "summary": "The global abrasives market is projected to reach $72.2 billion by 2030, expanding at a robust 7.6% CAGR driven by increasing demand for precision finishing across manufacturing sectors.",
+          "why": "Validates long-term global growth and robust demand for surface preparation, sanding, and grinding products in industrial supply chains.",
+          "action": "Maintain focus on high-margin precision finishing and specialized abrasives to capture expanding industrial demand.",
           "th": {
-            "title": "ตลาดสารเคลือบนาโนเซรามิก: รายงานวิเคราะห์ตลาดโลกถึงปี 2036",
-            "summary": "ตลาดสารเคลือบนาโนเซรามิกทั่วโลกเติบโตอย่างต่อเนื่องจนถึงปี 2036 ขับเคลื่อนด้วยความต้องการความทนทานสูงในอุตสาหกรรมยานยนต์และอุตสาหกรรมทั่วไป",
-            "why": "งานเคลือบนาโนเซรามิกต้องการการเตรียมพื้นผิวและการขัดเงาที่มีความแม่นยำสูงมาก ซึ่งเปิดโอกาสให้กับตลาดวัสดุขัดผิวเกรดพรีเมียม",
-            "action": "ติดตามโซลูชันการขัดตกแต่งผิวประสิทธิภาพสูงที่เหมาะสำหรับการเตรียมพื้นผิวที่มีความแข็งเป็นพิเศษ"
+            "title": "ตลาดวัสดุขัดถูเติบโตแตะ 7.22 หมื่นล้านดอลลาร์สหรัฐภายในปี 2030 หนุนโดยความต้องการขัดแต่งความแม่นยำสูง",
+            "summary": "ตลาดวัสดุขัดถูทั่วโลกคาดว่าจะเติบโตถึง 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 ด้วยอัตราการเติบโตเฉลี่ย 7.6% ต่อปี ขับเคลื่อนโดยความต้องการงานขัดผิวที่แม่นยำในภาคการผลิต",
+            "why": "ยืนยันการเติบโตในระยะยาวและความต้องการผลิตภัณฑ์กระดาษทรายและอุปกรณ์ขัดผิวที่แข็งแกร่งในห่วงโซ่อุปทานภาคอุตสาหกรรม",
+            "action": "มุ่งเน้นผลิตภัณฑ์กลุ่มงานขัดผิวความแม่นยำสูงและวัสดุขัดพิเศษเพื่อรองรับความต้องการของตลาดอุตสาหกรรมที่ขยายตัว"
           }
         },
         {
           "id": "20261020-w2",
           "tag": "auto",
-          "rating": "green",
-          "source": "MarketsandMarkets",
-          "date": "2026-07-10",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUXhqQk54c1g4cXhycTVMTFlJY3l2bGNZYU5hWG1zdDRYZmYwM0FaUzVXOTlCTXNCR1dabXhiLTJnMllTWFl6UWt1TE9KMkFqYmxxRUNjcC1nQlFhR3ZPSng5QVNtQnZRMEZ2cGREVGhaa0VPSTVfSkg1UEtlNER4emMyYW83SUkzSGc?oc=5",
-          "title": "EV Assembly Market Report 2026-2035",
-          "summary": "The EV assembly market is experiencing rapid transformation, focusing on specialized tooling, lightweight body structures, and automated production lines.",
-          "why": "EV manufacturing shifts require specialized deburring and grinding products for aluminum and lightweight alloy components.",
-          "action": "Align our product catalog with lightweight metal fabrication and EV component finishing requirements.",
+          "rating": "amber",
+          "source": "Precedence Research",
+          "date": "2026-09-10",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55Unk5SmloN3VleVV4dFM2cHNTR0xjZ3drOVR1d3BYN0dXX0pLMko0aHVwOUZSdnFNdHpoOTdqZ3lmd2xTQXBBVHM5SUxCMnFIbVJpTUp6bGluLVVQQ0pYd0lBLWcyOVpaR3VLWGFCd1M?oc=5",
+          "title": "Automotive Powertrain Market Companies, Size & Trends 2026-2035",
+          "summary": "The automotive powertrain market continues to evolve through 2035, balancing traditional internal combustion systems with fast-advancing EV propulsion components.",
+          "why": "Powertrain manufacturing heavily involves metal machining, deburring, and surface grinding of complex components, affecting industrial abrasive consumption.",
+          "action": "Monitor shifts in powertrain component machining requirements to adapt industrial abrasive supply for metal parts.",
           "th": {
-            "title": "รายงานตลาดการประกอบรถยนต์ไฟฟ้า (EV) ปี 2026-2035",
-            "summary": "ตลาดการประกอบ EV กำลังเปลี่ยนแปลงอย่างรวดเร็ว โดยเน้นที่เครื่องมือเฉพาะทาง โครงสร้างตัวถังน้ำหนักเบา และสายการผลิตแบบอัตโนมัติ",
-            "why": "การผลิต EV ต้องการผลิตภัณฑ์ลบคมและเจียรสำหรับอลูมิเนียมและโลหะผสมน้ำหนักเบาโดยเฉพาะ",
-            "action": "ปรับปรุงแคตตาล็อกสินค้าให้สอดคล้องกับความต้องการในการผลิตโลหะน้ำหนักเบาและการขัดชิ้นส่วน EV"
+            "title": "ตลาดระบบขับเคลื่อนยานยนต์: ขนาด บริษัท และแนวโน้มปี 2026-2035",
+            "summary": "ตลาดระบบขับเคลื่อนยานยนต์ยังคงพัฒนาอย่างต่อเนื่องถึงปี 2035 โดยสร้างสมดุลระหว่างระบบเครื่องยนต์สันดาปภายในแบบดั้งเดิมกับชิ้นส่วนขับเคลื่อน EV ที่พัฒนาอย่างรวดเร็ว",
+            "why": "กระบวนการผลิตระบบขับเคลื่อนเกี่ยวข้องกับงานตัดเฉือนโลหะ การลบคม และการเจียระไนผิวชิ้นส่วนซับซ้อน ซึ่งส่งผลโดยตรงต่อการใช้วัสดุขัดในอุตสาหกรรม",
+            "action": "ติดตามการเปลี่ยนแปลงข้อกำหนดในการตัดเฉือนชิ้นส่วนระบบขับเคลื่อน เพื่อปรับอุปทานวัสดุขัดโลหะให้สอดคล้อง"
           }
         },
         {
           "id": "20261020-w3",
           "tag": "steel",
           "rating": "amber",
-          "source": "Progressive Policy Institute",
-          "date": "2026-09-23",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTeHd1akw0WFVaUWFucjdlRWp1cFBVQjRiRi1rWFd2WlNVRkQzanJJMmpMV3BBM0QxVEF5N2FZcmFMSFNxQ3M1VTQ5c1VJYjhJRVRQQVM3M2tac1FFMGdSSlZ4eTdQdzNINFB1MDR0a09haWhpNkFIVV9aWlA?oc=5",
-          "title": "American Industry Is Using Less Steel",
-          "summary": "Data indicates structural shifts in domestic manufacturing inputs, with certain sectors reducing raw steel intensity in favor of alternative materials.",
-          "why": "Changes in metal intensity directly impact overall industrial abrasive consumption for weld cleaning and steel fabrication.",
-          "action": "Diversify our target customer base across mixed metal and composite workshops rather than relying solely on traditional steel.",
+          "source": "Reuters",
+          "date": "2026-04-02",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWFZKb2ppb3RHdXNXbnBJZzR4WGc5dHJ3ZkVvVlVMYVFwUjN4TkxQR203bEtjTlo3d3NnTDBaSXZSZzMxUkY5QVlWMFF2V3NGM2VOMk0zMk14NkVfWDVyNF96QlVMQ2tHb0oyWm5nRm9pQmpOYTdoWTJQUTdXMHZOR1RLT0RJaldfT3NMRmNJXzhMcHhMM1p2dHVzaEtHaGtBME54MGJUbW5MdDFNX2tkZkktOGNiLTQ3ZjRiTw?oc=5",
+          "title": "A year after 'Liberation Day,' Trump sets new drug tariffs, adjusts metals duties",
+          "summary": "Recent trade policy adjustments modify metal duties, creating ongoing shifts in global steel and metal pricing dynamics and supply sourcing.",
+          "why": "Metal prices and regional supply shifts directly influence production costs and demand levels among our heavy industry and steel fabrication customers.",
+          "action": "Keep an eye on metal market cost fluctuations to anticipate regional manufacturing output and abrasive buying patterns.",
           "th": {
-            "title": "อุตสาหกรรมอเมริกันใช้เหล็กลดลง",
-            "summary": "ข้อมูลบ่งชี้ถึงการเปลี่ยนแปลงเชิงโครงสร้างในภาคการผลิต โดยบางกลุ่มอุตสาหกรรมลดการใช้เหล็กดิบลงและหันไปใช้วัสดุทางเลือกอื่นแทน",
-            "why": "การเปลี่ยนแปลงปริมาณการใช้โลหะส่งผลโดยตรงต่อยอดการใช้อุปกรณ์ขัดในงานทำความสะอาดแนวเชื่อมและการขึ้นรูปเหล็ก",
-            "action": "กระจายฐานลูกค้าเป้าหมายไปยังกลุ่มงานโลหะผสมและวัสดุผสม (Composites) แทนที่จะพึ่งพาเหล็กแบบดั้งเดิมเพียงอย่างเดียว"
+            "title": "หนึ่งปีหลังวันประกาศอิสรภาพ: สหรัฐฯ ปรับขึ้นภาษีศุลกากรสินค้าและปรับเปลี่ยนอากรโลหะ",
+            "summary": "การปรับนโยบายการค้าล่าสุดได้เปลี่ยนแปลงอัตราอากรโลหะ ส่งผลให้เกิดความผันผวนและปรับเปลี่ยนทิศทางราคารวมถึงแหล่งที่มาของโลหะและเหล็กทั่วโลก",
+            "why": "ความผันผวนของราคาโลหะและห่วงโซ่อุปทานระดับภูมิภาคมีผลโดยตรงต่อต้นทุนการผลิตและระดับความต้องการของลูกค้าในกลุ่มอุตสาหกรรมหนักและแปรรูปเหล็ก",
+            "action": "จับตาความผันผวนของต้นทุนตลาดโลหะเพื่อคาดการณ์ปริมาณการผลิตในภูมิภาคและรูปแบบการซื้อวัสดุขัด"
           }
         }
       ]
