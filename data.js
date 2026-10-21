@@ -2,6 +2,71 @@
 window.NEWS_ARCHIVE = {
   "days": [
     {
+      "date": "2026-10-22",
+      "summary": "New news flow is limited today as most mainstream reports repeat recent EV tax and airline MRO updates. We focus on three structural developments across cumulative BOI automotive investments, steel furnace regulatory changes, and regional furniture manufacturing.",
+      "directCount": 1,
+      "th": {
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก เนื่องจากกระแสข่าวส่วนใหญ่ยังเป็นประเด็นภาษี EV และโครงการ MRO ที่รายงานไปแล้ว จึงเน้นติดตาม 3 ความเคลื่อนไหวเชิงโครงสร้าง ทั้งยอดส่งเสริมการลงทุน EV สะสมของบีโอไอ การควบคุมเตาหลอมเหล็ก และทิศทางตลาดส่งออกเฟอร์นิเจอร์"
+      },
+      "items": [
+        {
+          "id": "20261022-1",
+          "tag": "auto",
+          "rating": "green",
+          "source": "Thaigov",
+          "date": "2026-07-02",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zOHo0X01meExtendzNTNja1RMTUxKa2dWM0hFZ1JrRzJ4dmJPLWhSdHVwb19IU01fVTRVOWtaX2lkMVJUSlRPb3FCNVg5UQ?oc=5",
+          "title": "BOI Reports EV Investment Exceeds 130 Billion Baht Across Vehicle Technologies",
+          "summary": "The Board of Investment confirmed cumulative EV investment value has surpassed 130 billion Baht, covering multi-technology powertrain assembly and key component localization.",
+          "why": "Expansion of automotive assembly plants directly drives recurring abrasive usage for body stamping dies, weld grinding, and automated surface blending.",
+          "action": "Target newly approved Tier-1 metal stamping and component manufacturers with robotic deburring belts and high-performance finishing discs.",
+          "th": {
+            "title": "บีโอไอเผยยอดลงทุน EV ทะลุ 1.3 แสนล้าน หนุนเป้าฐานผลิตยานยนต์ไฟฟ้าทุกเทคโนโลยี",
+            "summary": "บีโอไอเปิดเผยมูลค่าการลงทุน EV สะสมทะลุ 1.3 แสนล้านบาท ครอบคลุมการผลิตยานยนต์หลากหลายระบบขับเคลื่อนและห่วงโซ่อุปทานชิ้นส่วนสำคัญในไทย",
+            "why": "การขยายตัวของฐานประกอบยานยนต์ช่วยผลักดันความต้องการใช้วัสดุขัดสำหรับการแต่งผิวแม่พิมพ์ปั๊มขึ้นรูป การขัดลบแนวเชื่อม และการเตรียมผิวก่อนพ่นสี",
+            "action": "เจาะกลุ่มโรงงานผลิตชิ้นส่วนและงานปั๊มขึ้นรูปโลหะ Tier-1 ที่เพิ่งได้รับบีโอไอ เพื่อนำเสนอสายพานขัดสำหรับหุ่นยนต์และจานขัดละเอียด"
+          }
+        },
+        {
+          "id": "20261022-2",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "ข่าวสด",
+          "date": "2026-05-21",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15SXhSTE9NZ09fLVZFdGQ0M0JDVXlYWHM4Y1FzbDcxc0VZcFdrX1laUTRTR3VDZkZYcUNENkVUMTA4MnVOcUpGTi1xZk04NVNoUW14Z29vYXRRakEwOVE?oc=5",
+          "title": "Ten Steel Associations Urge Phasing Out Induction Furnace Mills Within 3 Years",
+          "summary": "Domestic steelmaker alliances submitted a petition to industrial regulators demanding the complete phase-out of induction furnace (IF) steel facilities within three years to ensure standard compliance.",
+          "why": "Eliminating low-quality scrap-melting mills strengthens high-standard EAF operators and Japanese steel processing hubs that prioritize quality abrasives for surface conditioning.",
+          "action": "Expand marketing outreach to certified EAF steelmakers and structural steel fabricators requiring heavy-duty snagging wheels and cut-off discs.",
+          "th": {
+            "title": "10 สมาคมเหล็กร้อง สมอ. ยกเลิกโรงงานเหล็กจากเตา IF ภายใน 3 ปี",
+            "summary": "สมาคมผู้ผลิตเหล็กในประเทศยื่นข้อเรียกร้องต่อ สมอ. ให้กำหนดแผนยกเลิกใบอนุญาตโรงงานหลอมเหล็กเตา IF ภายใน 3 ปี เพื่อสกัดเหล็กเส้นไม่ได้มาตรฐานและคุมกำลังการผลิต",
+            "why": "การกำจัดเตาหลอมที่เน้นลดต้นทุนจะช่วยให้โรงหลอมเหล็กเตา EAF มาตรฐานสูงและศูนย์แปรรูปเหล็กทุนญี่ปุ่นที่เน้นคุณภาพผิวชิ้นงานกลับมาเดินเครื่องได้สม่ำเสมอ",
+            "action": "เพิ่มการเข้าพบโรงงานเหล็กเตา EAF ที่ได้มาตรฐาน และโรงงานโครงสร้างเหล็กเพื่อนำเสนอหินเจียรเก็บผิวโลหะและใบตัดเกรดงานหนัก"
+          }
+        },
+        {
+          "id": "20261022-3",
+          "tag": "furniture",
+          "rating": "amber",
+          "source": "posttoday",
+          "date": "2026-02-20",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxXzVZOHRNaDlMYzJBM2F6S1FPc0Vkcy1Sc2JWRnl1VklJY2ZCSEpsOUJ0RG13b0I1cHBpXzBUOUhlSHdpdV9uV1cyZGJHT2pNaF83cw?oc=5",
+          "title": "ASEAN Furniture Market Expands with Four Key Nations Dominating 90% of Exports",
+          "summary": "Industry data indicates steady regional growth in furniture manufacturing, with Thailand ranking among four ASEAN countries commanding 90% of total export volumes.",
+          "why": "Active furniture export operations sustain continuous demand for wide sanding belts, finishing paper rolls, and surface preparation consumables in woodworking facilities.",
+          "action": "Supply heavy-duty wide sanding belts to commercial export-oriented wood plants while marketing DIY wood-polishing disc bundles on Shopee and TikTok.",
+          "th": {
+            "title": "อุตสาหกรรมเฟอร์นิเจอร์อาเซียนขยายตัว 4 ชาติครองส่งออก 90%",
+            "summary": "รายงานตลาดระบุการผลิตเฟอร์นิเจอร์ในอาเซียนขยายตัวต่อเนื่อง โดยมีไทยเป็น 1 ใน 4 ประเทศหลักที่ครองสัดส่วนการส่งออกรวมกันสูงถึง 90% ของทั้งภูมิภาค",
+            "why": "การส่งออกเฟอร์นิเจอร์ที่เดินหน้าต่อเนื่องช่วยหนุนอัตราการใช้วัสดุขัด ทั้งกระดาษทรายสายพานกว้างและม้วนผ้าทรายสำหรับขัดปรับระดับผิวไม้ในโรงงาน",
+            "action": "นำเสนอกระดาษทรายสายพานหน้ากว้างสำหรับโรงงานเฟอร์นิเจอร์ส่งออก พร้อมจัดชุดเซ็ตจานขัดกลมสำหรับงานไม้ DIY ทำโปรโมชันบน Shopee และ TikTok"
+          }
+        }
+      ],
+      "terms": {}
+    },
+    {
       "date": "2026-10-21",
       "summary": "Today's fresh news volume is relatively low. Key developments focus on industry winners and losers under the proposed EV import tariffs, regulatory pressure against substandard Chinese steel mills, and aviation MRO expansion studies.",
       "directCount": 0,
@@ -971,72 +1036,7 @@ window.NEWS_ARCHIVE = {
         }
       ],
       "terms": {}
-    },
-    {
-      "date": "2026-10-08",
-      "summary": "There is limited new industry news today as major automotive and aviation policies were covered in previous briefings; current developments highlight Vietjet's interest in U-Tapao MRO, crackdowns on substandard steel mills, and a projected slowdown in furniture exports.",
-      "directCount": 0,
-      "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มาก เนื่องจากประเด็นหลักด้านยานยนต์และการบินถูกรายงานไปก่อนหน้านี้แล้ว ข่าวเด่นวันนี้จึงอยู่ที่ความคืบหน้าของเวียตเจ็ทในศูนย์ซ่อม MRO อู่ตะเภา, การกวาดล้างโรงงานเหล็กไม่ได้มาตรฐาน และแนวโน้มการชะลอตัวของการส่งออกเฟอร์นิเจอร์"
-      },
-      "items": [
-        {
-          "id": "20261008-1",
-          "tag": "aero",
-          "rating": "amber",
-          "source": "Thansettakij",
-          "date": "2026-05-29",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFSElmenNfbV9JTnV2dUV3WklDZ05NcEN3ZkdQOTFmT1lzcEpKRUpSbkNISHFUYnczSnZBeDFCSlhYbW00SHZTLTlBVEs3bUJaYzBTZllB?oc=5",
-          "title": "EECO Partners with Vietjet to Study U-Tapao Aviation MRO Center",
-          "summary": "The Eastern Economic Corridor Office (EECO) is working with Vietjet to explore joint development of an aircraft maintenance, repair, and overhaul (MRO) facility at U-Tapao Airport.",
-          "why": "Expanding MRO participants beyond Thai Airways creates additional future demand for certified aerospace-grade abrasives and precision deburring tools.",
-          "action": "Track technical partnerships and maintenance contractors tied to Vietjet's fleet to position MK's surface-finishing solutions early.",
-          "th": {
-            "title": "สกพอ. จับมือ ‘เวียตเจ็ท’ ศึกษาแผนร่วมพัฒนาศูนย์ซ่อมบำรุงอากาศยานอู่ตะเภา",
-            "summary": "สำนักงานคณะกรรมการนโยบายเขตพัฒนาพิเศษภาคตะวันออก (สกพอ.) ร่วมมือกับสายการบินเวียตเจ็ทเพื่อศึกษาความเป็นไปได้ในการลงทุนศูนย์ซ่อมอากาศยาน (MRO) ณ สนามบินอู่ตะเภา",
-            "why": "การมีสายการบินอื่นร่วมพัฒนาศูนย์ MRO เพิ่มเติมจาก บมจ.การบินไทย จะช่วยขยายฐานความต้องการวัสดุขัดเกรดการบินและงานลบครีบโลหะในระยะยาว",
-            "action": "ติดตามความคืบหน้าของพันธมิตรและผู้รับเหมาซ่อมบำรุงอากาศยานของเวียตเจ็ทเพื่อเตรียมนำเสนอวัสดุขัดผิวมาตรฐานการบิน"
-          }
-        },
-        {
-          "id": "20261008-2",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "Thairath.co.th",
-          "date": "2026-05-22",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5yOEdKVkRNRnBpc1dWRGRuNzNtN1NHR09mSlc3eHpQem1iLUg4TVY0bkN2eDF4bWhhZ3JfTU5idGxKN2trZUJfS1hRMlkxZHQ5T29sTVBMdU5fTHR0V09GQ2h0c19ZSGRrVU9oaTI3eVQydWc?oc=5",
-          "title": "Steel Industry Endorses Ministry Crackdown on Substandard Mills",
-          "summary": "Ten Thai steel associations supported the Ministry of Industry's enforcement measures against non-compliant steel plants and illegal induction furnace operations.",
-          "why": "Enforcing safety and quality standards protects compliant local steel mills and fabricators, which are core users of industrial cutting and grinding abrasives.",
-          "action": "Prioritize sales outreach toward certified Thai and Japanese-partnered structural fabricators who rely on premium, durable grinding wheels.",
-          "th": {
-            "title": "10 สมาคมเหล็กขานรับกระทรวงอุตสาหกรรม เดินหน้าปราบปรามโรงงานเหล็กไม่ได้มาตรฐาน",
-            "summary": "10 สมาคมผู้ผลิตเหล็กแสดงความพอใจที่กระทรวงอุตสาหกรรมบังคับใช้กฎหมายเข้มงวดกับโรงงานเหล็กที่ไม่ได้มาตรฐาน มอก. และเตาหลอม IF ที่ไม่ถูกต้อง",
-            "why": "การกวาดล้างโรงงานที่ไม่ได้มาตรฐานช่วยหนุนให้โรงงานแปรรูปเหล็กมาตรฐานยังดำเนินงานต่อได้ ซึ่งกลุ่มนี้คือผู้ใช้ใบเจียรและใบตัดอุตสาหกรรมหลักของ MK",
-            "action": "มุ่งเน้นการขายไปยังโรงงานโครงสร้างเหล็กและโลหะที่ผ่าน มอก. ซึ่งต้องการวัสดุขัดคุณภาพสูงเพื่อความปลอดภัยและทนทาน"
-          }
-        },
-        {
-          "id": "20261008-3",
-          "tag": "furniture",
-          "rating": "amber",
-          "source": "kasikornbank.com",
-          "date": "2025-10-09",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR0I3LUFaeENxbzdDQVF4UDdVMFlmRWp4Y3BBdFZ6OGFQeUdZZ3Y5dHA5Q2ZxRXJIaTUtLVNVY29QM3RuSk1RMmpaeXhucHEwLWRiMFlsbkJRNEtYY3RWSDZNNXRBUXdfb0hDV0IzR1pkRW5ERC1xSkQtN21WZTVveUNtdURRYmN3QjQxUDRHS2g1dDNkSGdRVVJGU2tBNGJ3WDREcGh1N2VrdnN6MExB?oc=5",
-          "title": "Thai Furniture Exports Projected to Contract 4.5% in 2026",
-          "summary": "Kasikorn Research warns that Thai furniture exports are expected to shrink by 4.5% in 2026 following previous front-loading and escalating global trade friction.",
-          "why": "A contraction in export furniture manufacturing may lower volume demand for wide sanding belts and wood surface-finishing abrasives among large OEM mills.",
-          "action": "Hedge against OEM export weakness by promoting woodworking abrasives to domestic custom furniture makers and DIY segments via Shopee and TikTok.",
-          "th": {
-            "title": "ศูนย์วิจัยกสิกรฯ คาดส่งออกเฟอร์นิเจอร์ไทยปี 2569 เสี่ยงหดตัว 4.5%",
-            "summary": "ศูนย์วิจัยกสิกรไทยประเมินว่าการส่งออกเฟอร์นิเจอร์ไทยอาจกลับมาหดตัว 4.5% ในปี 2569 หลังหมดรอบเร่งนำเข้าของสหรัฐฯ และแรงกดดันจากกำแพงภาษีการค้า",
-            "why": "การชะลอตัวของโรงงานเฟอร์นิเจอร์ส่งออกขนาดใหญ่อาจลดทอนยอดสั่งซื้อกระดาษทรายสายพานหน้ากว้างและวัสดุขัดไม้ในภาพรวม",
-            "action": "กระจายความเสี่ยงด้วยการเจาะกลุ่มช่างเฟอร์นิเจอร์สั่งทำในประเทศ พร้อมขยายสินค้ารองรับตลาดงานไม้ DIY ผ่านช่องทาง Shopee และ TikTok"
-          }
-        }
-      ],
-      "terms": {}
     }
   ],
-  "updated": "2026-10-21"
+  "updated": "2026-10-22"
 };
