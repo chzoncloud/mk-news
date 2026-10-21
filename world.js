@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-10-21",
+  "updated": "2026-10-22",
   "days": [
+    {
+      "date": "2026-10-22",
+      "summary": "Today's briefing focuses on global manufacturing shifts, including the expansion of the Nano Ceramic Coatings market, Trump's latest tariff adjustments on metals, and rising global demand for precision finishing and superhard abrasives.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปประเด็นข่าววันนี้เน้นการเปลี่ยนแปลงของภาคการผลิตโลก เช่น การเติบโตของตลาดนาโนเซรามิกโค้วติ้ง, การปรับลดภาษีโลหะของทรัมป์ และความต้องการขัดผิวและสารขัดแข็งพิเศษที่เพิ่มขึ้นทั่วโลก"
+      },
+      "items": [
+        {
+          "id": "20261022-w1",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "Fact.MR",
+          "date": "2026-03-24",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rcXJ4MUphbkZBcG45alo1UTFVT05na1kxQllsZVhHVE9wM2dKc2w0S1ExZnZXaEUxN3c4ZFk5bHlrdlJDZXJmbkRUbU5uRmNnY2taX0VncDBmTVY0NFJCUGg5Z1pEYjBWY2hPWkh3LWw?oc=5",
+          "title": "Nano Ceramic Coatings Market | Global Market Analysis Report - 2036",
+          "summary": "The global nano ceramic coatings market is expanding steadily through 2036, driven by high-performance protective applications across industries.",
+          "why": "Advanced surface treatments and ceramic coatings require precise preparation and finishing, influencing what abrasives are used beforehand.",
+          "action": "Monitor how nano-ceramic surface applications impact substrate preparation requirements.",
+          "th": {
+            "title": "ตลาดนาโนเซรามิกโค้วติ้ง: รายงานวิเคราะห์ตลาดโลกถึงปี 2036",
+            "summary": "ตลาดเคลือบผิวนาโนเซรามิกทั่วโลกกำลังขยายตัวอย่างต่อเนื่องจนถึงปี 2036 ขับเคลื่อนด้วยการใช้งานป้องกันประสิทธิภาพสูงในอุตสาหกรรมต่างๆ",
+            "why": "การเคลือบผิวขั้นสูงต้องการการเตรียมและตกแต่งพื้นผิวที่แม่นยำ ซึ่งส่งผลต่อประเภทของกระดาษทรายและวัสดุขัดที่ต้องใช้ก่อนเคลือบ",
+            "action": "ติดตามว่าการใช้งานเคลือบผิวนาโนเซรามิกส่งผลอย่างไรต่อความต้องการในการเตรียมพื้นผิวชิ้นงาน"
+          }
+        },
+        {
+          "id": "20261022-w2",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "Reuters",
+          "date": "2026-04-02",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSzdNYWRYM3hzTlpYRzJnQTBxYXBwbXlJdUthcER3X0pHWFBiTW5FQjVoS3lmWWZia19tZ2V0TzJ1SG5sZEdvejlMTnBDX0R1eUNpdHhma1ZtdlJWWFpJcWR1aTFsNUdETUo1UDZfR0R6RHpjX2pMOVRXNkJ3SHdIdG1xdWlnYktSWDZ1VDJvR1htTmlnczgyZlRONjBzQkhXY0tzSndnTUNXLTN4VEoxNA?oc=5",
+          "title": "Trump cuts US duty rates on steel, aluminum and copper derivative products",
+          "summary": "Recent trade policy shifts have lowered U.S. duty rates on various steel, aluminum, and copper derivative products, altering global supply costs.",
+          "why": "Metal import cost fluctuations directly affect metal fabrication volumes and steel service center activities globally.",
+          "action": "Keep an eye on metal price volatility and how it shifts regional metal fabrication output.",
+          "th": {
+            "title": "ทรัมป์ปรับลดอัตราภาษีนำเข้าผลิตภัณฑ์แปรรูปเหล็ก อลูมิเนียม และทองแดงของสหรัฐฯ",
+            "summary": "การปรับเปลี่ยนนโยบายการค้าล่าสุดได้ลดอัตราภาษีของสหรัฐฯ สำหรับผลิตภัณฑ์เหล็ก อลูมิเนียม และทองแดง ซึ่งส่งผลต่อต้นทุนอุปทานทั่วโลก",
+            "why": "ความผันผวนของต้นทุนโลหะส่งผลโดยตรงต่อปริมาณงานขึ้นรูปโลหะและกิจกรรมในศูนย์บริการเหล็กทั่วโลก",
+            "action": "จับตาความผันผวนของราคาโลหะและผลกระทบต่อปริมาณการผลิตงานโลหะในภูมิภาค"
+          }
+        },
+        {
+          "id": "20261022-w3",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "EIN News",
+          "date": "2026-10-19",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM2VsRTlqVWR6dlpoUXpZQ04wNnJsRUNBbndKSnNQODIyUXdnTTlIT0hZMC10bGhEUUk0clZ5ZWZRN0I2eVhiVHVPVmRYd05xWUdJdDJldTBsTkZEUVNBNG5qaE9WeXdDN2dSVzJ2TzNsVFhBNVMzakhwZFR6Z0dQeFFVS0ZPa0dmWmh1dHhiYXVXWWRrbk9XS251Ul9SVS1SZ3NON0VXRWxfOWtzazlNcXhUMVBnU2liODhqaXF6OEdGb2NEYkRoaG9uNmx6MlNjMUd2N3Q0emZnUXltZk1wbg?oc=5",
+          "title": "Abrasives Market to Reach $72.2 Billion by 2030, Growing at a 7.6% CAGR Driven by Precision Finishing Demand",
+          "summary": "The global abrasives market is projected to reach $72.2 billion by 2030, growing at a strong 7.6% CAGR propelled by industrial needs for precision finishing.",
+          "why": "Direct confirmation of steady macro growth in our core industry, especially driven by high-value precision applications.",
+          "action": "Align our product catalog with high-growth precision finishing segments to capture premium B2B demand.",
+          "th": {
+            "title": "ตลาดผลิตภัณฑ์ขัดและกระดาษทรายพุ่งแตะ 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 โต 7.6% หนุนโดยความต้องการขัดตกแต่งผิวแม่นยำสูง",
+            "summary": "ตลาดผลิตภัณฑ์ขัดทั่วโลกคาดว่าจะสูงถึง 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 เติบโตอย่างแข็งแกร่งด้วยอัตราเติบโตเฉลี่ย 7.6% จากความต้องการงานขัดผิวความแม่นยำสูงในภาคอุตสาหกรรม",
+            "why": "เป็นการยืนยันชัดเจนถึงการเติบโตในภาพรวมของอุตสาหกรรมหลักที่เราทำอยู่ โดยเฉพาะกลุ่มงานขัดผิวที่มีมูลค่าสูง",
+            "action": "ปรับสินค้าในแคตตาล็อกให้สอดคล้องกับกลุ่มงานขัดผิวความแม่นยำสูงเพื่อรองรับความต้องการลูกค้า B2B เกรดพรีเมียม"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-10-21",
       "summary": "Today's global trend briefing highlights key developments in superhard diamond abrasives, steel industry adjustments driven by carbon border tariffs, and smart EV manufacturing shifts impacting precision surface preparation.",
@@ -902,70 +966,6 @@ window.WORLD_ARCHIVE = {
             "summary": "บทวิเคราะห์ Grindwell Norton สะท้อนถึงตำแหน่งทางการแข่งขันและกลยุทธ์ของบริษัทในเครือ Saint-Gobain ในตลาดวัสดุขัด",
             "why": "ผู้เล่นระดับโลกอย่าง Saint-Gobain เป็นผู้กำหนดมาตรฐานทั้งด้านเทคโนโลยีวัสดุขัด ราคา และรูปแบบการจัดจำหน่าย",
             "action": "สังเกตวิธีที่แบรนด์ข้ามชาติปรับกลุ่มผลิตภัณฑ์ให้เข้ากับความต้องการของอุตสาหกรรมภูมิภาค"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-10-08",
-      "summary": "Today's briefing focuses on shifting global steel dynamics with the U.S. rising to world No. 3, alongside AI and digital integration transforming manufacturing and coating lines which influence surface preparation standards.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปข่าววันนี้เน้นการเปลี่ยนแปลงของตลาดเหล็กโลกที่สหรัฐฯ ขยับขึ้นมาอยู่อันดับ 3 ของโลก พร้อมกับการนำเทคโนโลยี AI และดิจิทัลมาใช้ในภาคการผลิตและการเคลือบผิว ซึ่งส่งผลต่อมาตรฐานการเตรียมพื้นผิว"
-      },
-      "items": [
-        {
-          "id": "20261008-w1",
-          "tag": "steel",
-          "rating": "green",
-          "source": "economy.ac",
-          "date": "2026-10-01",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YQWhOYlJ3eW9jTUhwa25XdE55eHh3a2JoODhWdDAtOW00UzhXcWwtNnJJXzZGMjMtNXN6MTYwTUhib3ZHUDNXaTdIbWY2N092QXNsOXFfdw?oc=5",
-          "title": "‘Trump Tariffs and AI Boom’ Propel U.S. Steel Past Japan to World No. 3 for First Time in 26 Years",
-          "summary": "Driven by tariffs and domestic demand, U.S. steel production has surpassed Japan for the first time in 26 years, reshaping North American metal fabrication output.",
-          "why": "Higher U.S. steel production and regional fabrication directly drive demand for heavy-duty grinding, deburring, and abrasive cutting discs.",
-          "action": "Monitor export opportunities and specifications required for North American metal fabrication standards.",
-          "th": {
-            "title": "'ภาษีทรัมป์และบูม AI' ผลักดันให้เหล็กสหรัฐฯแซงญี่ปุ่นขึ้นสู่อันดับ 3 ของโลกเป็นครั้งแรกในรอบ 26 ปี",
-            "summary": "จากแรงหนุนของกำแพงภาษีและความต้องการภายในประเทศ การผลิตเหล็กของสหรัฐฯ ได้แซงหน้าญี่ปุ่นเป็นครั้งแรกในรอบ 26 ปี ซึ่งเปลี่ยนโฉมภาคการแปรรูปโลหะในอเมริกาเหนือ",
-            "why": "การผลิตเหล็กและการแปรรูปโลหะในสหรัฐฯ ที่เพิ่มขึ้น ส่งความต้องการโดยตรงไปยังแผ่นตัด ใบเจียร และผลิตภัณฑ์ขัดกระดาษทรายสำหรับงานหนัก",
-            "action": "ติดตามโอกาสในการส่งออกและข้อกำหนดสเปกสินค้าที่จำเป็นสำหรับมาตรฐานงานแปรรูปโลหะในอเมริกาเหนือ"
-          }
-        },
-        {
-          "id": "20261008-w2",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "Amazon Web Services (AWS)",
-          "date": "2025-10-22",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UMG9rVURtamVSUnVYZzhtYjBPZUVWNDdCb0J1V3lEd09EV1JsS3dsU0ZwNkRxbmc4MVlwcXRPZW5aQklBRGxEWWxVRmVzUUJEZUNfOXZfT0d3cnVPaW5ydjZ3bjBlS1NyRGhWSw?oc=5",
-          "title": "AI in Paints and Coatings Market: Trends, Growth, and Opportunities",
-          "summary": "Artificial intelligence is increasingly integrated into paint and coating formulations, quality inspection, and automated surface defect detection.",
-          "why": "Advanced coating inspections and smart manufacturing lines demand more precise, high-tolerance surface preparation and sanding substrates.",
-          "action": "Keep an eye on how automated surface analysis affects customer expectations for sheet finish consistency.",
-          "th": {
-            "title": "ตลาดปูนและสารเคลือบผิวด้วย AI: แนวโน้ม การเติบโต และโอกาส",
-            "summary": "ปัญญาประดิษฐ์ถูกนำมาผสานเข้ากับสูตรสารเคลือบสี การตรวจสอบคุณภาพ และการตรวจจับข้อบกพร่องบนพื้นผิวแบบอัตโนมัติมากขึ้น",
-            "why": "การตรวจสอบงานเคลือบขั้นสูงและสายการผลิตอัจฉริยะ เรียกร้องความแม่นยำและการเตรียมพื้นผิวที่มีความคลาดเคลื่อนต่ำ รวมถึงวัสดุกระดาษทรายที่ได้มาตรฐานสูง",
-            "action": "ติดตามดูว่าระบบวิเคราะห์พื้นผิวอัตโนมัติส่งผลอย่างไรต่อความคาดหวังของลูกค้าในด้านความสม่ำเสมอของผิวชิ้นงาน"
-          }
-        },
-        {
-          "id": "20261008-w3",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "S&P Global",
-          "date": "2026-01-12",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
-          "title": "Global steel industry battles surplus supply, protectionism",
-          "summary": "The global steel sector continues to navigate overcapacity issues and rising trade protectionism, forcing mills to optimize operational efficiencies.",
-          "why": "When steel mills face margin pressure from oversupply, they look for cost-effective, high-durability grinding and finishing consumables to optimize production costs.",
-          "action": "Position our abrasive lines as reliable, cost-efficient alternatives for mills and fabricators looking to reduce consumable overhead.",
-          "th": {
-            "title": "อุตสาหกรรมเหล็กโลกเผชิญศึกหนักกับภาวะล้นตลาดและลัทธิกีดกันทางการค้า",
-            "summary": "ภาคอุตสาหกรรมเหล็กทั่วโลกยังคงต้องเผชิญกับปัญหากำลังการผลิตส่วนเกินและมาตรการกีดกันทางการค้าที่เพิ่มขึ้น ซึ่งบีบให้โรงงานต้องเพิ่มประสิทธิภาพการดำเนินงาน",
-            "why": "เมื่อโรงงานเหล็กเผชิญแรงกดดันด้านกำไรจากภาวะล้นตลาด พวกเขาจะมองหาวัสดุสิ้นเปลืองสำหรับงานขัดและตกแต่งผิวที่มีความทนทานและคุ้มค่า เพื่อลดต้นทุนการผลิต",
-            "action": "ชูจุดขายสินค้ากลุ่มกระดาษทรายและใบเจียรของเราว่าเป็นทางเลือกที่คุ้มค่าและพึ่งพาได้ สำหรับโรงงานและผู้รับเหมาที่ต้องการลดต้นทุนวัสดุสิ้นเปลือง"
           }
         }
       ]
