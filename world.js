@@ -4,64 +4,82 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-21",
-      "summary": "Today's global briefing highlights ongoing shifts in green coating innovations, US-led steel tariff impacts, and specialized superhard diamond machining advancements that influence surface finishing and metal fabrication sectors.",
-      "directCount": 3,
+      "summary": "Today's global trend briefing highlights key developments in superhard diamond abrasives, steel industry adjustments driven by carbon border tariffs, and smart EV manufacturing shifts impacting precision surface preparation.",
+      "directCount": 4,
       "th": {
-        "summary": "สรุปข้อมูลเชิงลึกระดับโลกในวันนี้เน้นย้ำถึงการเปลี่ยนแปลงด้านนวัตกรรมสีเคลือบที่เป็นมิตรต่อสิ่งแวดล้อม ผลกระทบจากมาตรการภาษีเหล็กของสหรัฐฯ และความก้าวหน้าในการตัดเฉือนด้วยเพชรสังเคราะห์ความแข็งสูง ซึ่งมีอิทธิพลต่อภาคธุรกิจการตกแต่งพื้นผิวและการผลิตโลหะ"
+        "summary": "สรุปแนวโน้มโลกประจำวันนี้เน้นการพัฒนาวัสดุขัดเพชรความแข็งสูง การปรับตัวของอุตสาหกรรมเหล็กจากภาษีคาร์บอน และการเปลี่ยนแปลงในสายการผลิต EV อัจฉริยะที่ส่งผลต่อธุรกิจขัดตกแต่งผิว"
       },
       "items": [
         {
           "id": "20261021-w1",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "Market Business Insights",
-          "date": "2026-10-15",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBSDItTlp3MlgweDg2N3hibzBRRVgwVGJKa3RRWUpXc0pMcjJ3U241dE1LcnRYR3hna3hBUjNRdzZBdFIwUUEtTnd1MlFYdXIwTGpOVWNCVWpjeU45M1JISk1tVkZUYVpjR25UVUN3?oc=5",
-          "title": "Green Coatings Market Size & Growth Analysis, 2026-2035",
-          "summary": "The green coatings market is projected to expand significantly from 2026 to 2035, driven by environmental regulations and sustainable manufacturing demands.",
-          "why": "Eco-friendly surface treatments and sustainable manufacturing processes change how metal and wood surfaces are prepared and coated worldwide.",
-          "action": "Monitor eco-friendly surface preparation requirements and align product portfolios with sustainable standards.",
-          "th": {
-            "title": "ขนาดตลาดสีเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมและการวิเคราะห์การเติบโต ปี 2026-2035",
-            "summary": "ตลาดสีเคลือบสีเขียวคาดว่าจะเติบโตอย่างมีนัยสำคัญในช่วงปี 2026 ถึง 2035 โดยขับเคลื่อนจากข้อบังคับด้านสิ่งแวดล้อมและความต้องการการผลิตที่ยั่งยืน",
-            "why": "การเตรียมพื้นผิวที่เป็นมิตรต่อสิ่งแวดล้อมและกระบวนการผลิตที่ยั่งยืนส่งผลต่อวิธีการเตรียมและเคลือบพื้นผิวโลหะและไม้ทั่วโลก",
-            "action": "ติดตามข้อกำหนดการเตรียมพื้นผิวที่เป็นมิตรต่อสิ่งแวดล้อมและปรับกลุ่มผลิตภัณฑ์ให้สอดคล้องกับมาตรฐานความยั่งยืน"
-          }
-        },
-        {
-          "id": "20261021-w2",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "https://economy.ac/",
-          "date": "2026-08-07",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YQWhOYlJ3eW9jTUhwa25XdE55eHh3a2JoODhWdDAtOW00UzhXcWwtNnJJXzZGMjMtNXN6MTYwTUhib3ZHUDNXaTdIbWY2N092QXNsOXFfdw?oc=5",
-          "title": "'Trump Tariffs and AI Boom' Propel U.S. Steel Past Japan to World No. 3 for First Time in 26 Years",
-          "summary": "New trade policies and technological booms have reshaped global steel production rankings, pushing the U.S. to the third position globally.",
-          "why": "Shifts in global steel production hubs directly alter where heavy fabrication, grinding, and metal finishing demands are concentrated.",
-          "action": "Track regional steel production shifts to identify growing export markets for heavy-duty industrial abrasives.",
-          "th": {
-            "title": "กำแพงภาษีและบูม AI ดันเหล็กสหรัฐฯแซงญี่ปุ่นขึ้นอันดับ 3 ของโลกครั้งแรกในรอบ 26 ปี",
-            "summary": "นโยบายการค้าใหม่และกระแสเทคโนโลยีได้ปรับเปลี่ยนอันดับการผลิตเหล็กโลก ส่งผลให้สหรัฐฯ ขึ้นสู่อันดับ 3 ของโลก",
-            "why": "การเปลี่ยนแปลงของศูนย์กลางการผลิตเหล็กโลกส่งผลโดยตรงต่อพื้นที่ที่มีความต้องการใช้งานขัด การเจียร และการตกแต่งผิวโลหะหนัก",
-            "action": "ติดตามการเปลี่ยนแปลงการผลิตเหล็กในแต่ละภูมิภาคเพื่อระบุตลาดส่งออกที่กำลังเติบโตสำหรับวัสดุขัดอุตสาหกรรมหนัก"
-          }
-        },
-        {
-          "id": "20261021-w3",
           "tag": "abrasive",
           "rating": "green",
           "source": "The National Law Review",
           "date": "2026-10-16",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONzc1UG5lV0E3Z2JCYnd2dFpLZmt2VTRYVEk5cHlBS2FYaDIzNHNJeTNBd3R3dDE0cFF4QlhNZE9ZX3N4enpseURtMGRTMmFHRWNPdmY2NlZ2R1F6b01ma01GXzlTMXlJd3FJdzZsY093dEVCczVVNTNPaU56Z2l0emR3d2hPNDQwT2xDY01CZW5Ib195T3RMR0tQdTY0d1FwdGgxWnB5RGI1aXpwRkNXWnln?oc=5",
           "title": "Five Reputable Diamond Sanding Belts Manufacturers in China 2026: Optimizing Superhard Abrasive Machining",
-          "summary": "An analysis of top superhard abrasive manufacturers highlights advanced techniques in optimizing diamond sanding belts for precision machining.",
-          "why": "Superhard abrasives like diamond belts represent cutting-edge technology for hard material machining, setting benchmarks for high-end industrial applications.",
-          "action": "Evaluate the adoption of superhard diamond abrasive tools for high-precision applications in our catalog.",
+          "summary": "A spotlight on top Chinese manufacturers producing superhard diamond sanding belts optimized for advanced industrial machining.",
+          "why": "Superhard diamond abrasives represent the high-performance tier of surface finishing, directly competing with and replacing conventional grains in hard metal applications.",
+          "action": "Monitor Chinese manufacturing capabilities in diamond belts to evaluate high-end product sourcing or competitive threats.",
           "th": {
-            "title": "5 ผู้ผลิตสายพานขัดเพชรที่มีชื่อเสียงในจีนปี 2026: การเพิ่มประสิทธิภาพการตัดเฉือนด้วยวัสดุขัดความแข็งสูงพิเศษ",
-            "summary": "การวิเคราะห์ผู้ผลิตวัสดุขัดความแข็งสูงชั้นนำเน้นย้ำถึงเทคนิคขั้นสูงในการเพิ่มประสิทธิภาพสายพานขัดเพชรสำหรับการตัดเฉือนความแม่นยำสูง",
-            "why": "วัสดุขัดความแข็งสูงพิเศษอย่างสายพานเพชรแสดงถึงเทคโนโลยีล้ำสมัยสำหรับการตัดเฉือนวัสดุแข็ง ซึ่งเป็นมาตรฐานสำหรับงานอุตสาหกรรมไฮ엔ด",
-            "action": "ประเมินการนำเครื่องมือขัดเพชรความแข็งสูงมาใช้สำหรับงานที่มีความแม่นยำสูงในแคตตาล็อกของเรา"
+            "title": "5 ผู้ผลิตสายพานขัดเพชรชั้นนำในจีน 2026: การเพิ่มประสิทธิภาพงานขัดด้วยวัสดุอัดเม็ดขัดความแข็งสูงพิเศษ",
+            "summary": "เจาะลึกผู้ผลิตจีนชั้นนำที่ผลิตสายพานขัดเพชรความแข็งสูงพิเศษสำหรับงานแปรรูปอุตสาหกรรมขั้นสูง",
+            "why": "วัสดุขัดเพชรความแข็งสูงคือกลุ่มผลิตภัณฑ์ตกแต่งผิวประสิทธิภาพสูง ซึ่งกำลังแย่งส่วนแบ่งและแทนที่เม็ดทรายขัดแบบดั้งเดิมในงานโลหะแข็ง",
+            "action": "ติดตามความสามารถในการผลิตสายพานเพชรของจีนเพื่อประเมินการจัดหาผลิตภัณฑ์ระดับบนหรือการแข่งขันในตลาด"
+          }
+        },
+        {
+          "id": "20261021-w2",
+          "tag": "steel",
+          "rating": "green",
+          "source": "S&P Global",
+          "date": "2026-01-07",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSDJTcGFGbUFvRm15ZDhrczNqYkRzbHlXMTJZTHJpUF9CTjRHaTNWak4tdVBkbnBWcnNrRDRneXpBd1Z5SUJGSFZWTzJMNWhfcVl5czkzR0lSSjd4aTJzMTg3N2FWM3pHQ2NxbHg2dEp2ckNiNC16cWdJZ0t3anl3TzlUYldVajhqM05JQVEyWWdZYVdaYkEzZUpvUEJGdHAxXzRKdDRnNG1pQl9LaEN6Q0lpbFpPMTBOeElqT3V2NUdUSlJJNjZWOEpiMWc?oc=5",
+          "title": "Europe's steel industry faces its 2026 reckoning with CBAM",
+          "summary": "European steel mills are grappling with the strict enforcement of the Carbon Border Adjustment Mechanism (CBAM), altering supply chains and production costs.",
+          "why": "European steel production adjustments directly influence local metal processing volumes, changing the demand for heavy-duty grinding and deburring abrasives.",
+          "action": "Keep an eye on European metal fabrication trends as strict carbon rules shift supplier preferences and processing methods.",
+          "th": {
+            "title": "อุตสาหกรรมเหล็กของยุโรปเผชิญบททดสอบสำคัญในปี 2026 ด้วยมาตรการ CBAM",
+            "summary": "โรงงานเหล็กในยุโรปกำลังเผชิญกับการบังคับใช้มาตรการปรับคาร์บอนก่อนข้ามแดน (CBAM) อย่างเข้มงวด ซึ่งส่งผลต่อห่วงโซ่อุปทานและต้นทุนการผลิต",
+            "why": "การปรับตัวของการผลิตเหล็กในยุโรปส่งผลโดยตรงต่อปริมาณการแปรรูปโลหะในท้องถิ่น และเปลี่ยนความต้องการใช้หินเจียรและใบขัดลบคมงานหนัก",
+            "action": "ติดตามแนวโน้มการผลิตโลหะในยุโรปเนื่องจากกฎระเบียบคาร์บอนที่เข้มงวดกำลังเปลี่ยนความต้องการของผู้ผลิตและวิธีการแปรรูป"
+          }
+        },
+        {
+          "id": "20261021-w3",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-09-10",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVjkzSTlDYzItRzJSVXhQSjc1a0ttQ0dIRVYxRDgxaHFiQ0x3c1ZsLTdZQ0RRSk04bmhjdHQ4ZGJrV0lLVk45XzQ5ZzQwN1VwMDNERWNWVEpJNTRVYzZqTFFmcEIyUUZRNG9LOHp6ODIxYm80eEZrcTBOdENvenJqdktfcm5neXlITEZSRXNQclF2ZUpGUXVLTmY3SmhCRUlHdldDVC11QjRnZ3UtYzRlbzAwYS1yaW5oZV8zWmRMY2k?oc=5",
+          "title": "Smart-factory wiring woes: EVs demand automation now, not later",
+          "summary": "EV manufacturers are urgently accelerating factory automation to resolve complex wiring and assembly bottlenecks.",
+          "why": "Automated EV component manufacturing requires specialized robotic surface preparation and precision deburring rather than manual hand sanding.",
+          "action": "Explore robotic-compatible abrasive discs and quick-change systems designed for automated robotic finishing cells.",
+          "th": {
+            "title": "ปัญหาการเดินสายไฟในโรงงานอัจฉริยะ: รถยนต์ EV เรียกร้องระบบอัตโนมัติเดี๋ยวนี้ไม่ใช่รอช้า",
+            "summary": "ผู้ผลิตรถยนต์ EV เร่งนำระบบอัตโนมัติมาใช้ในโรงงานเพื่อแก้ปัญหาคอขวดด้านการเดินสายไฟและการประกอบที่ซับซ้อน",
+            "why": "การผลิตชิ้นส่วน EV แบบอัตโนมัติจำเป็นต้องใช้กระบวนการเตรียมผิวและลบคมด้วยหุ่นยนต์ที่มีความแม่นยำสูง แทนการใช้คนขัดด้วยมือ",
+            "action": "ศึกษาผลิตภัณฑ์จานขัดที่รองรับระบบหุ่นยนต์และระบบเปลี่ยนเร็ว (Quick-change) สำหรับสายการผลิตอัตโนมัติ"
+          }
+        },
+        {
+          "id": "20261021-w4",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "Shanghai Metals Market",
+          "date": "2026-05-19",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMmw1akRRMFZCQ2I5NGhHdE1NOXhoaE1GY0h5UmxlQVNUVGxHTko2U0NBQ0o0Q19ZYmZ1VnBCTTB6a2JJQTFNOUpDSUtpWXdaR3hkeGhlOXF4dF9yUElCd1ZkWTl4MmZGOWhVeUlXc2VCMXFCOHQzZ0ZGZ1RtZ3p6aUNObEczWFhKMkdKQ3JuRWF5SjVNZmpOQVBaSGs4TWJKS1lVa0VTdmoxdDBQTF8zRDlxME1qeEtOUzJzSTBERURobWltWTlVUlpaZ3d2WlFRNEY1b0UwbVVfLXc0cXBZ?oc=5",
+          "title": "[SMM Global Steel Company Special] Nucor: 100% EAF, High Profits, and Vertical Integration Mitigating Costs",
+          "summary": "An analysis of Nucor's 100% Electric Arc Furnace (EAF) steelmaking model, highlighting high profitability and cost management through vertical integration.",
+          "why": "EAF steel mills produce scrap-heavy, recycled steel which often presents unique surface scaling and edge imperfections requiring heavy conditioning abrasives.",
+          "action": "Understand EAF steel surface characteristics to position snagging and grinding wheels tailored for recycled steel mills.",
+          "th": {
+            "title": "[เจาะลึกบริษัทเหล็กโลก SMM] Nucor: เตาอาร์กไฟฟ้า 100%, กำไรสูง และการบูรณาการในแนวดิ่งเพื่อลดต้นทุน",
+            "summary": "วิเคราะห์โมเดลการผลิตเหล็กด้วยเตาอาร์กไฟฟ้า (EAF) 100% ของ Nucor พร้อมเน้นความสามารถในการทำกำไรและการจัดการต้นทุนผ่านการบูรณาการแนวดิ่ง",
+            "why": "โรงงานเหล็ก EAF ผลิตเหล็กรีไซเคิลที่มีเศษเหล็กปะปน ซึ่งมักมีคราบผิวและรอยตำหนิที่ต้องใช้หินเจียรและแผ่นขัดหยาบสมรรถนะสูง",
+            "action": "ทำความเข้าใจลักษณะพื้นผิวเหล็กจากเตา EAF เพื่อนำเสนอหินเจียรและล้อขัดที่เหมาะสมกับโรงงานเหล็กรีไซเคิล"
           }
         }
       ]
