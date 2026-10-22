@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-10-22",
+  "updated": "2026-10-23",
   "days": [
+    {
+      "date": "2026-10-23",
+      "summary": "Today's briefing features 3 fresh global intelligence signals focusing on green coatings market growth, advanced single-layered coated abrasives in metalworking, and major geopolitical shifts in the U.S. steel sector.",
+      "directCount": 2,
+      "th": {
+        "summary": "สรุปข้อมูลข่าวกรองระดับโลกประจำวันนี้ 3 ประเด็นสำคัญ เน้นการเติบโตของตลาดสีและสารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อม เทคโนโลยีสารขัดถูแบบเคลือบชั้นเดียวสำหรับงานโลหะ และการเปลี่ยนแปลงทางภูมิรัฐศาสตร์ในอุตสาหกรรมเหล็กของสหรัฐฯ"
+      },
+      "items": [
+        {
+          "id": "20261023-w1",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "Market Business Insights",
+          "date": "2026-10-15",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBSDItTlp3MlgweDg2N3hibzBRRVgwVGJKa3RRWUpXc0pMcjJ3U241dE1LcnRYR3hna3hBUjNRdzZBdFIwUUEtTnd1MlFYdXIwTGpOVWNCVWpjeU45M1JISk1tVkZUYVpjR25UVUN3?oc=5",
+          "title": "Green Coatings Market Size & Growth Analysis, 2026-2035",
+          "summary": "The global market for green and eco-friendly coatings is expanding rapidly through 2035, driven by environmental regulations and sustainable manufacturing demands.",
+          "why": "Surface preparation and sanding processes must adapt to new eco-friendly coating formulations and stricter environmental standards in customer factories.",
+          "action": "Monitor how green coating shifts affect surface prep requirements and customer demand for sustainable finishing supplies.",
+          "th": {
+            "title": "ขนาดตลาดสีและสารเคลือบสีเขียวและการวิเคราะห์การเติบโต ปี 2026-2035",
+            "summary": "ตลาดโลกสำหรับสีและสารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมกำลังขยายตัวอย่างรวดเร็วถึงปี 2035 ขับเคลื่อนโดยกฎระเบียบด้านสิ่งแวดล้อมและความต้องการการผลิตที่ยั่งยืน",
+            "why": "กระบวนการเตรียมพื้นผิวและการขัดต้องปรับตัวให้เข้ากับสูตรสารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมและมาตรฐานสิ่งแวดล้อมที่เข้มงวดขึ้นในโรงงานของลูกค้า",
+            "action": "ติดตามว่าการเปลี่ยนแปลงด้านสีเคลือบสีเขียวส่งผลอย่างไรต่อความต้องการเตรียมพื้นผิวและวัสดุขัดผิวที่ยั่งยืน"
+          }
+        },
+        {
+          "id": "20261023-w2",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "Cutting Tool Engineering",
+          "date": "2026-01-19",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdlIxbnF0ZzBnSUozVVYybGZwMnF5R09nTWZib2VyNFB2WXpIYTJEcGFpd0lfQjBDcG42eTJiNDQ2eEJhUmdGT29PZ0w4NlNSRjhhQ2w3TmplcVloMDJ5bjNYZDF1UVdLbXYxS0RtYTRFSmtDMFVaVGxVVk5zMnVxeVBiTjhiVXpydFU3YUNMR19nRlJlT3NkT3Jjb3B3dHZqQnRN?oc=5",
+          "title": "Single-layered approach: The fundamentals of using coated abrasives in metalworking",
+          "summary": "An in-depth look at single-layered coated abrasives highlights how grain optimization improves cutting efficiency and lifespan in metal machining.",
+          "why": "Directly impacts our core business. Understanding advanced coated abrasive structures helps us recommend better products for metal deburring and finishing.",
+          "action": "Review our product catalog for high-performance coated abrasives and highlight grain distribution benefits to B2B metalworking clients.",
+          "th": {
+            "title": "แนวทางแบบชั้นเดียว: พื้นฐานการใช้สารขัดถูแบบเคลือบในงานโลหะ",
+            "summary": "การเจาะลึกสารขัดถูแบบเคลือบชั้นเดียวแสดงให้เห็นว่าการปรับปรุงเม็ดทรายช่วยเพิ่มประสิทธิภาพการตัดและอายุการใช้งานในงานตัดเฉือนโลหะอย่างไร",
+            "why": "ส่งผลโดยตรงต่อธุรกิจหลักของเรา การเข้าใจโครงสร้างสารขัดเคลือบขั้นสูงช่วยให้เราแนะนำผลิตภัณฑ์ที่ดีลบคมและตกแต่งผิวโลหะได้ดียิ่งขึ้น",
+            "action": "ทบทวนแคตตาล็อกสินค้ากระดาษทรายและผ้าทรายเคลือบประสิทธิภาพสูง พร้อมเน้นจุดเด่นด้านการกระจายเม็ดทรายให้กับลูกค้ากลุ่มงานโลหะ"
+          }
+        },
+        {
+          "id": "20261023-w3",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "https://economy.ac/",
+          "date": "2026-08-07",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YQWhOYlJ3eW9jTUhwa25XdE55eHh3a2JoODhWdDAtOW00UzhXcWwtNnJJXzZGMjMtNXN6MTYwTUhib3ZHUDNXaTdIbWY2N092QXNsOXFfdw?oc=5",
+          "title": "'Trump Tariffs and AI Boom' Propel U.S. Steel Past Japan to World No. 3 for First Time in 26 Years",
+          "summary": "Driven by trade policies and industrial demand, U.S. steel production has surged past Japan, reshaping the global metal supply landscape.",
+          "why": "Shifts in global steel manufacturing regions directly influence where heavy metal fabrication, grinding, and surface finishing equipment investments will flow.",
+          "action": "Keep an eye on regional steel output shifts to anticipate changes in global demand for heavy-duty grinding wheels and belts.",
+          "th": {
+            "title": "'ภาษีทรัมป์และบูม AI' ผลักดันเหล็กสหรัฐฯแซงญี่ปุ่นขึ้นสู่อันดับ 3 ของโลกเป็นครั้งแรกในรอบ 26 ปี",
+            "summary": "ขับเคลื่อนด้วยนโยบายการค้าและความต้องการทางอุตสาหกรรม การผลิตเหล็กของสหรัฐฯ พุ่งแซงหน้าญี่ปุ่น ซึ่งปรับเปลี่ยนภูมิทัศน์อุปทานโลหะของโลก",
+            "why": "การเปลี่ยนแปลงในภูมิภาคการผลิตเหล็กระดับโลกส่งผลโดยตรงต่อทิศทางการลงทุนในอุตสาหกรรมแปรรูปโลหะหนัก การเจียร และอุปกรณ์ตกแต่งพื้นผิว",
+            "action": "จับตาการเปลี่ยนแปลงการผลิตเหล็กรายภูมิภาคเพื่อคาดการณ์ความต้องการล้อเจียรและสายพานขัดสำหรับงานหนักทั่วโลก"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-10-22",
       "summary": "Today's briefing focuses on global manufacturing dynamics, including long-term forecasts for the abrasives market, metal casting growth, and nano ceramic coatings expansion. These trends highlight steady demand for precision finishing and surface preparation globally.",
@@ -920,70 +984,6 @@ window.WORLD_ARCHIVE = {
             "summary": "ผู้ผลิตเหล็กที่ใช้เตาหลอมอาร์กไฟฟ้า (EAF) กำลังเพิ่มประสิทธิภาพต้นทุนและขยายการผลิตผ่านความยืดหยุ่นและการบูรณาการในแนวดิ่ง",
             "why": "การผลิตเหล็กด้วยเตา EAF และการเพิ่มสัดส่วนเหล็กเศษรีไซเคิล ทำให้สภาพผิวเหล็กมีความหลากหลาย ซึ่งต้องใช้ผลิตภัณฑ์ตัดและเจียรที่มีคุณภาพสูง",
             "action": "ตรวจสอบให้แน่ใจว่าใบตัดและใบเจียรสำหรับงานหนักของเรา เหมาะสมที่สุดกับเกรดความแข็งของเหล็กรีไซเคิลที่หลากหลาย"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-10-09",
-      "summary": "Today's briefing highlights shifts in the automotive OEM coatings landscape, cutting-edge wood sanding machinery growth, and Saint-Gobain's strategic movements in the abrasive sector.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปประเด็นสำคัญวันนี้เน้นการเปลี่ยนแปลงในตลาดสีเคลือบ OEM ยานยนต์ การเติบโตของเครื่องจักรขัดไม้ และความเคลื่อนไหวเชิงกลยุทธ์ของ Saint-Gobain ในกลุ่มธุรกิจวัสดุขัด"
-      },
-      "items": [
-        {
-          "id": "20261009-w1",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Fortune Business Insights",
-          "date": "2026-09-14",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
-          "title": "Automotive OEM Coatings Market Size, Share | Growth [2034]",
-          "summary": "The automotive OEM coatings market is expanding steadily, driven by vehicle customization and strict environmental standards requiring advanced surface finishes.",
-          "why": "Changes in automotive body coatings directly impact how metal surfaces are prepared, primed, and sanded before final finishing.",
-          "action": "Monitor OEM coating trends to anticipate demand changes in automotive paint prep supplies.",
-          "th": {
-            "title": "ขนาด ส่วนแบ่ง และการเติบโตของตลาดสีเคลือบ OEM ยานยนต์ [2034]",
-            "summary": "ตลาดสีเคลือบ OEM ยานยนต์กำลังเติบโตอย่างต่อเนื่อง จากความต้องการการปรับแต่งรถยนต์และมาตรฐานสิ่งแวดล้อมที่เข้มงวดซึ่งต้องใช้การเตรียมพื้นผิวขั้นสูง",
-            "why": "การเปลี่ยนแปลงของสีเคลือบรถยนต์ส่งผลโดยตรงต่อวิธีเตรียมพื้นผิว ขัดรองพื้น และขัดแต่งก่อนพ่นจริง",
-            "action": "ติดตามแนวโน้มสีเคลือบ OEM เพื่อคาดการณ์ความต้องการใช้วัสดุเตรียมพื้นผิวรถยนต์"
-          }
-        },
-        {
-          "id": "20261009-w2",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "Market.us",
-          "date": "2026-01-22",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ISWl4S1FIYTlibDJlR001VnBXdy1xQ1ZobnhYTzBkc3pWOEdrOFQ4VWl2VzA5NjNDcGp3VEU3ZGQ2R0VFdXQwRmZxVEVpOTE4dVl4RlF4WlBHX3pXQ3QtTkJQWQ?oc=5",
-          "title": "Wood Sanding Machine Market Size, Share | CAGR of 4.3%.",
-          "summary": "The wood sanding machine market is projected to grow at a stable 4.3% CAGR, reflecting steady demand in furniture and wood processing sectors.",
-          "why": "More wood sanding machines in operation directly mean higher consumption of wide belt sanders and wood sandpaper rolls.",
-          "action": "Ensure our inventory for wood-working abrasives and sanding belts aligns with machinery growth.",
-          "th": {
-            "title": "ขนาดและส่วนแบ่งตลาดเครื่องขัดไม้ เติบโตด้วยอัตรา CAGR 4.3%",
-            "summary": "ตลาดเครื่องขัดไม้คาดว่าจะเติบโตอย่างมั่นคง สะท้อนถึงความต้องการที่ต่อเนื่องในอุตสาหกรรมเฟอร์นิเจอร์และแปรรูปไม้",
-            "why": "การใช้เครื่องขัดไม้ที่เพิ่มขึ้นหมายถึงปริมาณการใช้กระดาษทรายสายพานและกระดาษทรายขัดไม้ที่สูงขึ้น",
-            "action": "ตรวจสอบสต็อกสินค้ากลุ่มกระดาษทรายขัดไม้และสายพานขัดให้สอดคล้องกับการเติบโตของเครื่องจักร"
-          }
-        },
-        {
-          "id": "20261009-w3",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "Univest",
-          "date": "2026-08-07",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFMG44UFZ0TFdzby1NbUVUZGRublRBUzZOaENmTzRwWlN3Vm5KZXJIbGx0Ukt4VU5WS3BUV2hLSXZOMnItMDhzQk5RczlmZERBd1oyN2hoUF8tbFJmQy12YnZKYzlzYi0wZlhabA?oc=5",
-          "title": "Grindwell Norton Share Pros and Cons: Saint-Gobain's India Abrasives Subsidiary",
-          "summary": "An analysis of Grindwell Norton highlights the competitive positioning and market strategies of Saint-Gobain's subsidiary in the abrasives space.",
-          "why": "Major global players like Saint-Gobain set benchmarks in abrasive technology pricing and distribution models.",
-          "action": "Observe how major multinational brands adapt their product lines to regional industrial demands.",
-          "th": {
-            "title": "วิเคราะห์หุ้น Grindwell Norton: บริษัทลูกด้านวัสดุขัดในอินเดียของ Saint-Gobain",
-            "summary": "บทวิเคราะห์ Grindwell Norton สะท้อนถึงตำแหน่งทางการแข่งขันและกลยุทธ์ของบริษัทในเครือ Saint-Gobain ในตลาดวัสดุขัด",
-            "why": "ผู้เล่นระดับโลกอย่าง Saint-Gobain เป็นผู้กำหนดมาตรฐานทั้งด้านเทคโนโลยีวัสดุขัด ราคา และรูปแบบการจัดจำหน่าย",
-            "action": "สังเกตวิธีที่แบรนด์ข้ามชาติปรับกลุ่มผลิตภัณฑ์ให้เข้ากับความต้องการของอุตสาหกรรมภูมิภาค"
           }
         }
       ]
