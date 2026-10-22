@@ -3,82 +3,64 @@ window.NEWS_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-22",
-      "summary": "Today fresh news is limited; key updates highlight Thailand's push to raise EV import taxes to 30% to enforce domestic assembly, alongside AirAsia's aggressive Thai MRO expansion, both creating solid demand for industrial abrasives.",
-      "directCount": 2,
+      "summary": "Today has limited new developments as major automotive tax and aviation MRO announcements were already tracked earlier this week. Notable macro updates focus on cumulative BOI EV investments exceeding 130 billion baht, domestic steelmakers pushing to phase out substandard induction furnaces, and ASEAN furniture export expansion.",
+      "directCount": 0,
       "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยประเด็นเด่นอยู่ที่กระทรวงการคลังจ่อเคาะภาษีรถ EV นำเข้าเป็น 30% เพื่อบีบให้เกิดการประกอบในประเทศ และแอร์เอเชียรุกลงทุนศูนย์ซ่อม MRO ในไทย ซึ่งทั้งสองส่วนช่วยหนุนความต้องการใช้วัสดุขัดในภาคการผลิตและซ่อมบำรุงโดยตรง"
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก เนื่องจากประเด็นหลักด้านโครงสร้างภาษี EV และศูนย์ซ่อมบำรุงอากาศยาน (MRO) ได้รับการรายงานไปแล้ว ข่าวเด่นที่เหลือเน้นภาพรวมการลงทุน EV สะสมของบีโอไอที่ทะลุ 1.3 แสนล้านบาท, แรงผลักดันของสมาคมเหล็กในการสั่งปิดเตา IF ที่ไม่ได้มาตรฐาน และศักยภาพการส่งออกเฟอร์นิเจอร์ของไทยในอาเซียน"
       },
       "items": [
         {
           "id": "20261022-1",
           "tag": "auto",
-          "rating": "green",
-          "source": "Facebook",
-          "date": "2026-10-19",
-          "url": "https://news.google.com/rss/articles/CBMipwdBVV95cUxQUG9PbWZqN1VSVFFNblh5ZnBWc1U5cURJOGVZWTBfV3hFR2h0RWFjaFBoOGsxb0kwbVZPRXJaSXhsSUc2OS1ydEYwbGY3ODd5blFxUGp5S1RlbVZpTXFiLVVEVUJuT2dKaFI5YzBMZmV3NFJYMkpNSldYaVVhTERsSWJEcktQcXBHbFpySUdTVUszdkctaFZIQ3llWDlLbkw0M1lzaERmWXNvU2lYbEU3R3NlblJxTFFDWVRJYXU1UFM1ZGcxSmRfYXBGWE9wY0cyMTZpQTR1V3NZMWdEYmxSX1BRanVuVl8wYXp4THdWM3h1ekR0ZmlrRkMyYUx4a0FSUTlXRjV6ZkxlLWdYZUdseDh1VGFnSFZNSmpUaUxCT2JFU0lGWC12SXRTOW5mNWZ6UDRJSFFQcFp3YkVMLVdOcTlYLVFxb0I4czFtUjBkN3dlN2ZGbkUwamQ4YnFkRjc4ZENGRWtoMW1ETVJtd3pqQklITFI1NG1Eb2tTZklfejhDOElicnVaemRlQk1WZ2dBSmg4OVJOa0V1cGFsTDNRUlBSOWZ0QUZ3RllZZXJaRmd5dDhSYWpNVFNudVZqSldUNWc3M1prMTdKVHg4LUlKeHN1VzFkU2Ztb1g5enNnSzMzRkI4NWFRTnlhdXdESGdaYzN3dkNqOGo1YVVaV0d4aGo5bEVDdXZ3T3Q0ZTlhQlpnc2NFR3M4WkRRM2xKaS1Id0NZeXotaUlwV1psNGhveVZ3TU9FZURjMmdTRXNhb2g4bEVzaTVRZzNRVWhIZmxpZHpnQjc5V3I3T2hYRUFxb195M2hqQngtS3NFLTRmb2hsaGxNeHZSODR4UWphVkNObE5nMkloZ3hQSGhVcU4zOGc3QUI2RzVPdGpTdV9hWlAybEh4djA4TFRMRV9xMXQxWjZsMWJ0Q2FmWlVSQkszekR6d3YwUTRqUWZjQllqTVZaQUF4OHlMTlZjZWs4c2c1U3Z5SEpHR2VJLV9WX2QzU0l3SzBwTUhWSnNNMUZyTUJvU1d3ZldkSUt1ZFNxQXFBM2pVOU1tYzcxaTlSSnVfa0E3WThNRmNtQ2Y0bFNnRlpFb2NkbzgzaFdpeDlqT1d4R1E5TFY1eDAwak5JRk5DN2NOTnZuTE1LV3E4QUtieFBtcDB1bFBJbjBBYjJjYkc1UFFVMGY4RC1JRWI1UVBkZHI1X3JoeGdRVWJaNHIzTndiN3RkUVVMM2JvQndUUnRMNHBoS09XOA?oc=5",
-          "title": "Finance Ministry to Propose 30% Excise Tax on Imported EVs to Accelerate Domestic Assembly",
-          "summary": "The Ministry of Finance plans to submit a proposal to the Cabinet within two weeks to raise the excise tax on imported completely built-up (CBU) EVs from 10% to at least 30%. This measure aims to shield local manufacturers and compel importers to speed up domestic factory setup.",
-          "why": "Steep import duties will push carmakers to assemble EVs locally, boosting demand for abrasives used in metal stamping, body welding, and paint surface preparation.",
-          "action": "Target Tier-1 automotive stampers and body-parts suppliers preparing for localized EV production to secure trials for grinding discs and sanding belts.",
+          "rating": "amber",
+          "source": "Thaigov",
+          "date": "2026-07-02",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zOHo0X01meExtendzNTNja1RMTUxKa2dWM0hFZ1JrRzJ4dmJPLWhSdHVwb19IU01fVTRVOWtaX2lkMVJUSlRPb3FCNVg5UQ?oc=5",
+          "title": "BOI Confirms EV Investments Top 130 Billion Baht Across Full Ecosystem",
+          "summary": "The Board of Investment (BOI) announced that approved electric vehicle manufacturing projects have surpassed 130 billion baht, spanning battery production, key components, and final assembly lines.",
+          "why": "Expansion of local assembly facilities and metal chassis stamping steadily broadens the customer base for industrial surface grinding and deburring abrasives.",
+          "action": "Map newly licensed tier-1 and tier-2 auto parts suppliers to pitch MK flap discs and weld-blending abrasives.",
           "th": {
-            "title": "คลังจ่อชง ครม. เคาะภาษี EV นำเข้า 30% บีบตั้งโรงงานประกอบในประเทศ",
-            "summary": "กระทรวงการคลังเตรียมเสนอ ครม. ภายใน 2 สัปดาห์ ปรับขึ้นภาษีสรรพสามิตรถ EV นำเข้าทั้งคันจาก 10% เป็นไม่ต่ำกว่า 30% เพื่อปกป้องฐานการผลิตเดิมและกระตุ้นค่ายรถให้เร่งตั้งโรงงานผลิตในไทย",
-            "why": "มาตรการนี้จะเร่งให้เกิดการผลิตและปั๊มชิ้นส่วนตัวถังในไทยเร็วขึ้น ส่งผลให้ความต้องการกระดาษทราย จานขัดรอยเชื่อม และงานเตรียมผิวก่อนพ่นสีเพิ่มขึ้นโดยตรง",
-            "action": "เร่งเจาะกลุ่มโรงงานซัพพลายเออร์ Tier-1 ยานยนต์ที่เตรียมรับงานผลิตชิ้นส่วน EV ในประเทศเพื่อนำเสนอจานขัดและสายพานขัดสำหรับไลน์ผลิตใหม่"
+            "title": "บีโอไอเผยยอดลงทุนอุตสาหกรรม EV ทะลุ 1.3 แสนล้านบาท ครอบคลุมทั้งห่วงโซ่อุปทาน",
+            "summary": "บอร์ดบีโอไอเปิดเผยว่ายอดส่งเสริมการลงทุนในอุตสาหกรรมยานยนต์ไฟฟ้าทะลุ 1.3 แสนล้านบาท ครอบคลุมตั้งแต่โรงงานประกอบ ชิ้นส่วนสำคัญ ไปจนถึงการผลิตแบตเตอรี่",
+            "why": "การขยายตัวของโรงงานประกอบและปั๊มขึ้นรูปโครงสร้างโลหะช่วยเพิ่มฐานลูกค้าโรงงานที่ต้องใช้วัสดุขัดลบคมและเก็บรอยเชื่อมอย่างต่อเนื่อง",
+            "action": "จัดทำรายชื่อซัพพลายเออร์ชิ้นส่วน Tier-1 และ Tier-2 ที่ได้รับบัตรส่งเสริมฯ เพื่อนำเสนอจานทรายซ้อนและหินเจียร MK เข้าไลน์ผลิต"
           }
         },
         {
           "id": "20261022-2",
-          "tag": "aero",
-          "rating": "green",
-          "source": "Facebook",
-          "date": "2026-09-18",
-          "url": "https://news.google.com/rss/articles/CBMiiAdBVV95cUxQMkhrTnQ5Y3dtWlh3cUtub3MtbWRTNFJsQzA4ZG9sNzR0ZHRtM1QzallzSEFydlBvaFJqSG04Yy1IbnJxel95UU5DY3Z3VUVwRVhrV1ByZTFjcUc4aXNSc1Nwd0ZWSzdrZFNDYmRFWnlHS1h5cmk5QVg5NHhWaGlMVlhYNFUxS19hSDNrN3luZ1BWR1lleGFJV2xiSldyZjdKcjBKa2Jja09uNElYYUM0bXJIZUl0dkQ0aUFXcEJDN1k4ZDZ5UWJ6bjd3cVJDYlRlV05mVC1iZlhWQVc1clhyVzZWUnFnMjZKQzlMcExZX2Q2Vl9mSXVDWVktNzhEWUZBMG9WOHhqclUzX0ppb0N5QnN1clZkR2RKUXJJVGNwUXc0U3JmVlEtQ2xxUWhsQTFuRWtyUHJheUdQNl96cjZnN3BJY1VlR2dtNHJhQU5jYnBtQ0VrdDQ3MExhUGlBQ3lGNFhmaWdXWDdDcjdXZVU4b0lQX3JnSFN1UXMtWjRxMWNZQ09Rb2NTelVQQWx5SWNNRkdBWTBObzBiQ0lFM2U5SzJ0VXpfTWtVa0pfaXVvekh6TlNpU1Zvd2tjWEF1R2htcGEtWnFBVkx2ZDhpaTBmbjVTZklEUWFNcVl3NElnMkI2YTdyd0ZUellYNkU3QnpQLWJYNGFlMko3UXFXYWNhaW1Hejh0NVk5YnB1cVQya3I5MFA3d1pjR04tZ1EydUdXWW9UUjlYUWlIbHJMQ1JDTG85eTBMRFRPY1V5T2JTMC1zWnZlV3JoSU43SXV0UkJsOTVnZGY0LV9CcEtjLTIyd3Fvem1hcV9wVzk1dkNsOGlwNUhDbDdRbXlOTUdaeGlpLU5WVHdnZEtNM2VWVi1UenNCaHk2UjdHSVNKYmRhV0h5ZFVyV0NDc1VmZjRrRUUxcUZJbFNlVmlKWTZpY3p1aDA3X2NSTVA0VTNUS1FNeWUxUFdSRkxmWXdjVDcwN3RBYV9CS0hjQzIyUnJCa0pyTHJiNWg5eXExMkpoSG1YVXF1eWpaQ1ZYdTFEZjVnWHhzcEpmc3pqaFRzNXZzcUNLSFFaX1Z5UVJDWXdWSV8xa0dGblpNVXJ4TmpsUlR6cEpuWW40a2pFdXJXalRqSF9SSml6SkRzcG9NdWU5RGNFMUdsVlh3ZmowemY2TzNKRFp2RGRwRmdDSWc5WFFIRnkzZ0FDVVRQTkxm?oc=5",
-          "title": "AirAsia Leverages Strong Liquidity to Expand Aviation MRO Investments in Thailand",
-          "summary": "AirAsia confirmed a cash reserve of over one billion dollars to aggressively expand its aircraft maintenance, repair, and overhaul (MRO) footprint in Thailand.",
-          "why": "Expanding MRO hangar operations drives steady demand for aerospace-grade surface conditioning discs, precision sandpaper, and deburring abrasives.",
-          "action": "Audit MK's inventory for aviation-grade finishing abrasives and prepare product compliance datasheets for commercial MRO procurement teams.",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "ข่าวสด",
+          "date": "2026-05-21",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15SXhSTE9NZ09fLVZFdGQ0M0JDVXlYWHM4Y1FzbDcxc0VZcFdrX1laUTRTR3VDZkZYcUNENkVUMTA4MnVOcUpGTi1xZk04NVNoUW14Z29vYXRRakEwOVE?oc=5",
+          "title": "Ten Steel Associations Urge Regulators to Phase Out Induction Furnaces Within Three Years",
+          "summary": "Thai steel industry groups petitioned the Ministry of Industry and TISI to revoke permits for induction furnace (IF) plants within three years to eliminate substandard structural steel products.",
+          "why": "Phasing out substandard operators protects legitimate structural steel fabricators, ensuring stable demand from compliant mills that use certified cutting and grinding wheels.",
+          "action": "Solidify supply contracts with established domestic steel mills and heavy fabricators adhering to TISI certification.",
           "th": {
-            "title": "แอร์เอเชียชูสภาพคล่องแกร่ง เดินหน้าขยายการลงทุนศูนย์ซ่อม MRO ในไทย",
-            "summary": "ผู้บริหารแอร์เอเชียยืนยันฐานะการเงินและเงินสดสำรองกว่าพันล้านดอลลาร์ พร้อมเดินหน้ารุกลงทุนศูนย์ซ่อมบำรุงอากาศยาน (MRO) ในประเทศไทยเต็มสูบ",
-            "why": "การขยายโรงซ่อมบำรุงเครื่องบินในไทยช่วยสร้างอุปสงค์ระยะยาวสำหรับวัสดุขัดเกรดการบิน เช่น ใยสังเคราะห์ขัดผิวอลูมิเนียม กระดาษทรายความละเอียดสูง และใบเจียรแต่งขอบ",
-            "action": "ตรวจเช็กสต็อกวัสดุขัดเกรดอากาศยานของ MK และเตรียมเอกสารสเปกผลิตภัณฑ์เพื่อเข้าพบทีมวิศวกรรมซ่อมบำรุงของเครือสายการบิน"
+            "title": "10 สมาคมเหล็ก ร้อง สมอ. สั่งปิดโรงงานเหล็กเตา IF ภายใน 3 ปี",
+            "summary": "กลุ่มสมาคมผู้ผลิตเหล็กในประเทศยื่นหนังสือต่อกระทรวงอุตสาหกรรมและ สมอ. เพื่อขอยกเลิกโรงงานผลิตเหล็กจากเตาเหนี่ยวนำไฟฟ้า (IF) ภายใน 3 ปี แก้ปัญหาเหล็กไร้มาตรฐานเกลื่อนตลาด",
+            "why": "การกวาดล้างโรงงานเหล็กที่ไม่ได้มาตรฐานช่วยให้โรงงานผลิตโครงสร้างเหล็กมาตรฐานที่เป็นลูกค้าหลักของเรายังคงรักษากำลังการผลิตและใช้วัสดุเจียรตัดสม่ำเสมอ",
+            "action": "กระชับความสัมพันธ์กับกลุ่มโรงงานเหล็กและผู้แปรรูปโลหะมาตรฐาน มอก. เพื่อเสนอใบตัดและใบเจียรคุณภาพสูงทดแทนสินค้าราคาถูก"
           }
         },
         {
           "id": "20261022-3",
           "tag": "furniture",
           "rating": "amber",
-          "source": "kasikornbank.com",
-          "date": "2025-10-09",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR0I3LUFaeENxbzdDQVF4UDdVMFlmRWp4Y3BBdFZ6OGFQeUdZZ3Y5dHA5Q2ZxRXJIaTUtLVNVY29QM3RuSk1RMmpaeXhucHEwLWRiMFlsbkJRNEtYY3RWSDZNNXRBUXdfb0hDV0IzR1pkRW5ERC1xSkQtN21WZTVveUNtdURRYmN3QjQxUDRHS2g1dDNkSGdRVVJGU2tBNGJ3WDREcGh1N2VrdnN6MExB?oc=5",
-          "title": "KResearch Forecasts Thai Furniture Exports to Contract 4.5% in 2026 Under US Tariffs",
-          "summary": "Kasikorn Research Center projects Thai furniture exports will rise 9.3% in 2025 from US front-loading, before shrinking 4.5% in 2026 due to impending tariff barriers.",
-          "why": "An export slowdown in wooden furniture will curb bulk sandpaper roll and wide-belt abrasive usage among export-oriented woodworking factories.",
-          "action": "Diversify by targeting domestic interior design workshops and promoting DIY wood finishing sandpaper packs via Shopee and TikTok.",
+          "source": "posttoday",
+          "date": "2026-02-20",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxXzVZOHRNaDlMYzJBM2F6S1FPc0Vkcy1Sc2JWRnl1VklJY2ZCSEpsOUJ0RG13b0I1cHBpXzBUOUhlSHdpdV9uV1cyZGJHT2pNaF83cw?oc=5",
+          "title": "ASEAN Furniture Market Expands as Top Four Exporters Account for 90% Share",
+          "summary": "Regional industry data reveals steady expansion across ASEAN furniture manufacturing, with Thailand, Vietnam, Malaysia, and Indonesia dominating 90% of aggregate export shipments.",
+          "why": "High-volume furniture fabrication for international buyers requires continuous consumption of wide sanding belts and random orbital sanding discs for wood finishing.",
+          "action": "Target mid-to-large wooden furniture exporters with bulk packages of MK wide sanding belts and finish-prep sandpaper rolls.",
           "th": {
-            "title": "ศูนย์วิจัยกสิกรฯ คาดส่งออกเฟอร์นิเจอร์ไทยปี 68 โต 9.3% ก่อนหดตัว 4.5% ในปี 69 จากภาษีสหรัฐฯ",
-            "summary": "ศูนย์วิจัยกสิกรไทยคาดการณ์ว่าการส่งออกเฟอร์นิเจอร์ของไทยจะขยายตัว 9.3% ในปี 2568 จากการเร่งนำเข้าของสหรัฐฯ แต่จะพลิกกลับมาหดตัว 4.5% ในปี 2569 จากผลกระทบของกำแพงภาษีนำเข้าใหม่",
-            "why": "การชะลอตัวของโรงงานเฟอร์นิเจอร์ไม้ส่งออกจะส่งผลกระทบต่อยอดสั่งซื้อกระดาษทรายม้วนและสายพานขัดไม้ขนาดใหญ่ในกลุ่มลูกค้าโรงงานงานไม้",
-            "action": "กระจายความเสี่ยงด้วยการขยายฐานสู่กลุ่มช่างตกแต่งภายในภายในประเทศ และจัดเซ็ตกระดาษทรายขัดไม้ทำสีทำตลาด DIY ผ่าน Shopee และ TikTok"
-          }
-        },
-        {
-          "id": "20261022-4",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "กรมส่งเสริมการค้าระหว่างประเทศ (DITP)",
-          "date": "2026-09-23",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pWWtMYlMtbEc3eTVkcWVCTTlQQ0Z5UWZUTTFLSmhCcE5XRFVYeGlMQ2JjVVZSOHE2U2RPSlNPUzhpRHduSjExdUFSZXZrVEhFMDgzQ3NuNFdUbEdVVjRnNDh3?oc=5",
-          "title": "Ford Considers Chennai Plant as Asia-Pacific EV Hub, Signalling Rising Regional Competition",
-          "summary": "Ford is evaluating converting its Chennai facility in Tamil Nadu into an EV manufacturing and export base for the Asia-Pacific region, underscoring India's growing auto ecosystem.",
-          "why": "Global automakers expanding export capacity in India rather than ASEAN poses long-term competitive risks for Thailand's metalworking and auto assembly supply chain.",
-          "action": "Strengthen relationships with Japanese and joint-venture auto parts manufacturers in Thailand by offering cost-reduction trials on metal-finishing abrasives.",
-          "th": {
-            "title": "ฟอร์ดเล็งใช้โรงงานเจนไนเป็นฐานผลิต EV เอเชียแปซิฟิก สะท้อนศึกชิงฐานผลิตยานยนต์",
-            "summary": "ฟอร์ดกำลังพิจารณาใช้โรงงานในเมืองเจนไน รัฐทมิฬนาฑู เป็นฐานการผลิตและส่งออกรถยนต์ไฟฟ้าสำหรับภูมิภาคเอเชียแปซิฟิก สะท้อนถึงการเติบโตของห่วงโซ่อุปทาน EV ในอินเดีย",
-            "why": "การที่ค่ายรถระดับโลกเบนเข็มขยายฐานไปอินเดียแทนอาเซียน อาจสร้างแรงกดดันต่อยอดผลิตรถยนต์และการลงทุนระยะยาวในไทย ส่งผลกระทบต่อเครือข่ายโรงงานขึ้นรูปโลหะ",
-            "action": "รักษาฐานลูกค้าโรงงานชิ้นส่วนยานยนต์ญี่ปุ่นและโรงงานปั๊มโลหะในไทยอย่างใกล้ชิด พร้อมนำเสนอโซลูชันลดต้นทุนการขัดเพื่อตรึงยอดสั่งซื้อ"
+            "title": "อุตสาหกรรมเฟอร์นิเจอร์อาเซียนขยายตัว 4 ชาติหลักกวาดสัดส่วนส่งออก 90%",
+            "summary": "รายงานอุตสาหกรรมระบุว่าการผลิตเฟอร์นิเจอร์ในอาเซียนยังเติบโตต่อเนื่อง โดยมี 4 ประเทศหลักอย่าง ไทย เวียดนาม มาเลเซีย และอินโดนีเซีย ครองส่วนแบ่งการส่งออกรวมกันกว่า 90%",
+            "why": "โรงงานแปรรูปไม้และเฟอร์นิเจอร์ส่งออกมีความจำเป็นต้องใช้กระดาษทรายสายพานหน้ากว้างและจานทรายกลมสำหรับงานขัดเรียบเตรียมผิวก่อนทำสีเป็นจำนวนมาก",
+            "action": "รุกตลาดโรงงานเฟอร์นิเจอร์ไม้ส่งออกขนาดกลางและใหญ่ นำเสนอกระดาษทรายสายพานหน้ากว้างและกระดาษทรายม้วนแบรนด์ MK สำหรับสายการผลิต"
           }
         }
       ],
