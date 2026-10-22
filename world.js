@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-22",
-      "summary": "Today's briefing focuses on global manufacturing shifts, including the expansion of the Nano Ceramic Coatings market, Trump's latest tariff adjustments on metals, and rising global demand for precision finishing and superhard abrasives.",
-      "directCount": 3,
+      "summary": "Today's briefing highlights shifts in the global green coatings market, EV assembly trends, and US steel ranking updates driven by tariffs and the AI boom.",
+      "directCount": 2,
       "th": {
-        "summary": "สรุปประเด็นข่าววันนี้เน้นการเปลี่ยนแปลงของภาคการผลิตโลก เช่น การเติบโตของตลาดนาโนเซรามิกโค้วติ้ง, การปรับลดภาษีโลหะของทรัมป์ และความต้องการขัดผิวและสารขัดแข็งพิเศษที่เพิ่มขึ้นทั่วโลก"
+        "summary": "สรุปรายงานวันนี้เน้นการเปลี่ยนแปลงในตลาดสีเคลือบอนุรักษ์สิ่งแวดล้อม แนวโน้มการประกอบรถยนต์ไฟฟ้า และอันดับเหล็กของสหรัฐฯ ที่ขับเคลื่อนด้วยนโยบายภาษีและกระแส AI"
       },
       "items": [
         {
           "id": "20261022-w1",
           "tag": "coating",
           "rating": "amber",
-          "source": "Fact.MR",
-          "date": "2026-03-24",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rcXJ4MUphbkZBcG45alo1UTFVT05na1kxQllsZVhHVE9wM2dKc2w0S1ExZnZXaEUxN3c4ZFk5bHlrdlJDZXJmbkRUbU5uRmNnY2taX0VncDBmTVY0NFJCUGg5Z1pEYjBWY2hPWkh3LWw?oc=5",
-          "title": "Nano Ceramic Coatings Market | Global Market Analysis Report - 2036",
-          "summary": "The global nano ceramic coatings market is expanding steadily through 2036, driven by high-performance protective applications across industries.",
-          "why": "Advanced surface treatments and ceramic coatings require precise preparation and finishing, influencing what abrasives are used beforehand.",
-          "action": "Monitor how nano-ceramic surface applications impact substrate preparation requirements.",
+          "source": "Market Business Insights",
+          "date": "2026-10-15",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBSDItTlp3MlgweDg2N3hibzBRRVgwVGJKa3RRWUpXc0pMcjJ3U241dE1LcnRYR3hna3hBUjNRdzZBdFIwUUEtTnd1MlFYdXIwTGpOVWNCVWpjeU45M1JISk1tVkZUYVpjR25UVUN3?oc=5",
+          "title": "Green Coatings Market Size & Growth Analysis, 2026-2035",
+          "summary": "The green coatings market is seeing steady growth projections through 2035, driven by environmental regulations and sustainable manufacturing demands.",
+          "why": "Surface preparation and sanding processes must adapt to eco-friendly coating materials and stricter finishing requirements.",
+          "action": "Monitor eco-friendly coating adoption rates to anticipate new surface prep demands.",
           "th": {
-            "title": "ตลาดนาโนเซรามิกโค้วติ้ง: รายงานวิเคราะห์ตลาดโลกถึงปี 2036",
-            "summary": "ตลาดเคลือบผิวนาโนเซรามิกทั่วโลกกำลังขยายตัวอย่างต่อเนื่องจนถึงปี 2036 ขับเคลื่อนด้วยการใช้งานป้องกันประสิทธิภาพสูงในอุตสาหกรรมต่างๆ",
-            "why": "การเคลือบผิวขั้นสูงต้องการการเตรียมและตกแต่งพื้นผิวที่แม่นยำ ซึ่งส่งผลต่อประเภทของกระดาษทรายและวัสดุขัดที่ต้องใช้ก่อนเคลือบ",
-            "action": "ติดตามว่าการใช้งานเคลือบผิวนาโนเซรามิกส่งผลอย่างไรต่อความต้องการในการเตรียมพื้นผิวชิ้นงาน"
+            "title": "ขนาดตลาดและการวิเคราะห์การเติบโตของสีเคลือบที่เป็นมิตรต่อสิ่งแวดล้อม ปี 2026-2035",
+            "summary": "ตลาดสีเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมเติบโตอย่างต่อเนื่องจนถึงปี 2035 ขับเคลื่อนโดยกฎระเบียบด้านสิ่งแวดล้อมและความต้องการการผลิตที่ยั่งยืน",
+            "why": "กระบวนการเตรียมพื้นผิวและการขัดต้องปรับตัวให้เข้ากับวัสดุเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมและข้อกำหนดการตกแต่งที่เข้มงวดขึ้น",
+            "action": "ติดตามอัตราการใช้สีเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมเพื่อคาดการณ์ความต้องการเตรียมพื้นผิวรูปแบบใหม่"
           }
         },
         {
           "id": "20261022-w2",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "Reuters",
-          "date": "2026-04-02",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSzdNYWRYM3hzTlpYRzJnQTBxYXBwbXlJdUthcER3X0pHWFBiTW5FQjVoS3lmWWZia19tZ2V0TzJ1SG5sZEdvejlMTnBDX0R1eUNpdHhma1ZtdlJWWFpJcWR1aTFsNUdETUo1UDZfR0R6RHpjX2pMOVRXNkJ3SHdIdG1xdWlnYktSWDZ1VDJvR1htTmlnczgyZlRONjBzQkhXY0tzSndnTUNXLTN4VEoxNA?oc=5",
-          "title": "Trump cuts US duty rates on steel, aluminum and copper derivative products",
-          "summary": "Recent trade policy shifts have lowered U.S. duty rates on various steel, aluminum, and copper derivative products, altering global supply costs.",
-          "why": "Metal import cost fluctuations directly affect metal fabrication volumes and steel service center activities globally.",
-          "action": "Keep an eye on metal price volatility and how it shifts regional metal fabrication output.",
+          "tag": "auto",
+          "rating": "green",
+          "source": "MarketsandMarkets",
+          "date": "2026-07-10",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUXhqQk54c1g4cXhycTVMTFlJY3l2bGNZYU5hWG1zdDRYZmYwM0FaUzVXOTlCTXNCR1dabXhiLTJnMllTWFl6UWt1TE9KMkFqYmxxRUNjcC1nQlFhR3ZPSng5QVNtQnZRMEZ2cGREVGhaa0VPSTVfSkg1UEtlNER4emMyYW83SUkzSGc?oc=5",
+          "title": "EV Assembly Market Report 2026-2035 [486 Pages & 200 Tables]",
+          "summary": "A comprehensive report outlines the growth and assembly dynamics of electric vehicles through 2035, impacting manufacturing lines.",
+          "why": "EV production changes body-in-white materials and structural components, directly altering deburring, grinding, and finishing needs.",
+          "action": "Align abrasive product offerings with emerging EV lightweighting and assembly components.",
           "th": {
-            "title": "ทรัมป์ปรับลดอัตราภาษีนำเข้าผลิตภัณฑ์แปรรูปเหล็ก อลูมิเนียม และทองแดงของสหรัฐฯ",
-            "summary": "การปรับเปลี่ยนนโยบายการค้าล่าสุดได้ลดอัตราภาษีของสหรัฐฯ สำหรับผลิตภัณฑ์เหล็ก อลูมิเนียม และทองแดง ซึ่งส่งผลต่อต้นทุนอุปทานทั่วโลก",
-            "why": "ความผันผวนของต้นทุนโลหะส่งผลโดยตรงต่อปริมาณงานขึ้นรูปโลหะและกิจกรรมในศูนย์บริการเหล็กทั่วโลก",
-            "action": "จับตาความผันผวนของราคาโลหะและผลกระทบต่อปริมาณการผลิตงานโลหะในภูมิภาค"
+            "title": "รายงานตลาดการประกอบรถยนต์ไฟฟ้า ปี 2026-2035",
+            "summary": "รายงานเจาะลึกระบุถึงการเติบโตและกลไกการประกอบรถยนต์ไฟฟ้าจนถึงปี 2035 ซึ่งส่งผลกระทบต่อสายการผลิต",
+            "why": "การผลิต EV เปลี่ยนแปลงวัสดุโครงสร้างตัวถัง ส่งผลโดยตรงต่อความต้องการในการลบคม ขัดผิว และตกแต่งชิ้นงาน",
+            "action": "ปรับกลุ่มผลิตภัณฑ์กระดาษทรายและหินเจียรให้สอดคล้องกับชิ้นส่วนน้ำหนักเบาและการประกอบ EV ที่กำลังเติบโต"
           }
         },
         {
           "id": "20261022-w3",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "EIN News",
-          "date": "2026-10-19",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM2VsRTlqVWR6dlpoUXpZQ04wNnJsRUNBbndKSnNQODIyUXdnTTlIT0hZMC10bGhEUUk0clZ5ZWZRN0I2eVhiVHVPVmRYd05xWUdJdDJldTBsTkZEUVNBNG5qaE9WeXdDN2dSVzJ2TzNsVFhBNVMzakhwZFR6Z0dQeFFVS0ZPa0dmWmh1dHhiYXVXWWRrbk9XS251Ul9SVS1SZ3NON0VXRWxfOWtzazlNcXhUMVBnU2liODhqaXF6OEdGb2NEYkRoaG9uNmx6MlNjMUd2N3Q0emZnUXltZk1wbg?oc=5",
-          "title": "Abrasives Market to Reach $72.2 Billion by 2030, Growing at a 7.6% CAGR Driven by Precision Finishing Demand",
-          "summary": "The global abrasives market is projected to reach $72.2 billion by 2030, growing at a strong 7.6% CAGR propelled by industrial needs for precision finishing.",
-          "why": "Direct confirmation of steady macro growth in our core industry, especially driven by high-value precision applications.",
-          "action": "Align our product catalog with high-growth precision finishing segments to capture premium B2B demand.",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "https://economy.ac/",
+          "date": "2026-08-07",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YQWhOYlJ3eW9jTUhwa25XdE55eHh3a2JoODhWdDAtOW00UzhXcWwtNnJJXzZGMjMtNXN6MTYwTUhib3ZHUDNXaTdIbWY2N092QXNsOXFfdw?oc=5",
+          "title": "'Trump Tariffs and AI Boom' Propel U.S. Steel Past Japan to World No. 3 for First Time in 26 Years",
+          "summary": "U.S. steel production surged past Japan to rank 3rd globally, fueled by trade tariffs and industrial demand from the AI boom.",
+          "why": "Shifts in global steel manufacturing hubs influence regional metal fabrication activity and the consumption of heavy-duty grinding tools.",
+          "action": "Track regional steel production shifts to identify growing export and local supply opportunities.",
           "th": {
-            "title": "ตลาดผลิตภัณฑ์ขัดและกระดาษทรายพุ่งแตะ 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 โต 7.6% หนุนโดยความต้องการขัดตกแต่งผิวแม่นยำสูง",
-            "summary": "ตลาดผลิตภัณฑ์ขัดทั่วโลกคาดว่าจะสูงถึง 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 เติบโตอย่างแข็งแกร่งด้วยอัตราเติบโตเฉลี่ย 7.6% จากความต้องการงานขัดผิวความแม่นยำสูงในภาคอุตสาหกรรม",
-            "why": "เป็นการยืนยันชัดเจนถึงการเติบโตในภาพรวมของอุตสาหกรรมหลักที่เราทำอยู่ โดยเฉพาะกลุ่มงานขัดผิวที่มีมูลค่าสูง",
-            "action": "ปรับสินค้าในแคตตาล็อกให้สอดคล้องกับกลุ่มงานขัดผิวความแม่นยำสูงเพื่อรองรับความต้องการลูกค้า B2B เกรดพรีเมียม"
+            "title": "ภาษีทรัมป์และบูม AI ดันเหล็กสหรัฐฯแซงญี่ปุ่นขึ้นเบอร์ 3 ของโลกครั้งแรกในรอบ 26 ปี",
+            "summary": "การผลิตเหล็กของสหรัฐฯ พุ่งขึ้นแซงหน้าญี่ปุ่นขึ้นสู่อันดับ 3 ของโลก ขับเคลื่อนด้วยกำแพงภาษีการค้าและความต้องการทางอุตสาหกรรมจากกระแส AI",
+            "why": "การเปลี่ยนแปลงของศูนย์กลางการผลิตเหล็กโลกส่งผลต่อกิจกรรมการแปรรูปโลหะระดับภูมิภาคและการใช้อุปกรณ์ขัดสำหรับงานหนัก",
+            "action": "ติดตามการเปลี่ยนแปลงการผลิตเหล็กในระดับภูมิภาคเพื่อหาโอกาสในการส่งออกและอุปทานท้องถิ่นที่เติบโต"
           }
         }
       ]
