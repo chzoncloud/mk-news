@@ -4,64 +4,82 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-23",
-      "summary": "Today's briefing features 3 fresh global intelligence signals focusing on green coatings market growth, advanced single-layered coated abrasives in metalworking, and major geopolitical shifts in the U.S. steel sector.",
-      "directCount": 2,
+      "summary": "Today's briefing highlights global shifts in automotive manufacturing equipment and regional steel production adjustments, signaling evolving surface preparation and finishing demands for industrial supply chains.",
+      "directCount": 3,
       "th": {
-        "summary": "สรุปข้อมูลข่าวกรองระดับโลกประจำวันนี้ 3 ประเด็นสำคัญ เน้นการเติบโตของตลาดสีและสารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อม เทคโนโลยีสารขัดถูแบบเคลือบชั้นเดียวสำหรับงานโลหะ และการเปลี่ยนแปลงทางภูมิรัฐศาสตร์ในอุตสาหกรรมเหล็กของสหรัฐฯ"
+        "summary": "สรุปข่าวประจำวันนี้เน้นย้ำการเปลี่ยนแปลงระดับโลกในด้านอุปกรณ์การผลิตยานยนต์และการปรับเปลี่ยนการผลิตเหล็กในแต่ละภูมิภาค ซึ่งบ่งชี้ถึงความต้องการที่กำลังพัฒนาในด้านการเตรียมผิวและการขัดแต่งสำหรับห่วงโซ่อุปทานอุตสาหกรรม"
       },
       "items": [
         {
           "id": "20261023-w1",
-          "tag": "coating",
+          "tag": "auto",
           "rating": "amber",
-          "source": "Market Business Insights",
-          "date": "2026-10-15",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBSDItTlp3MlgweDg2N3hibzBRRVgwVGJKa3RRWUpXc0pMcjJ3U241dE1LcnRYR3hna3hBUjNRdzZBdFIwUUEtTnd1MlFYdXIwTGpOVWNCVWpjeU45M1JISk1tVkZUYVpjR25UVUN3?oc=5",
-          "title": "Green Coatings Market Size & Growth Analysis, 2026-2035",
-          "summary": "The global market for green and eco-friendly coatings is expanding rapidly through 2035, driven by environmental regulations and sustainable manufacturing demands.",
-          "why": "Surface preparation and sanding processes must adapt to new eco-friendly coating formulations and stricter environmental standards in customer factories.",
-          "action": "Monitor how green coating shifts affect surface prep requirements and customer demand for sustainable finishing supplies.",
+          "source": "MarketsandMarkets",
+          "date": "2026-08-19",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUEFHclR5NnZiRmQ3ZWs1QWMycFZkZlZVempvMXlNMGxrUXc1alpac0trZnhoVG5pRnRISVhlYlJmUkpLVHp5T1FFQi04ODdlVmRoMDBYckx4SHVONkVEQVcxNWxfcTRBNS1DTmstS2JyZTh4OVQzbk9lN3dHZkt6cUFqZHVBcmlVbWtkUGJSejJvZVdoc3Z5dTRUM2ZlMUZEdzNsLVM2VGpqdw?oc=5",
+          "title": "China Automotive Manufacturing Equipment Market (2025-2030)",
+          "summary": "A new market report outlines significant growth drivers and technological upgrades across China's automotive manufacturing equipment sector through 2030.",
+          "why": "China remains a massive manufacturing hub for vehicles and components; increased equipment investment directly correlates with higher demand for metal deburring, grinding, and automated surface finishing tools.",
+          "action": "Monitor Chinese equipment investment trends and identify partnership opportunities for high-performance industrial abrasives.",
           "th": {
-            "title": "ขนาดตลาดสีและสารเคลือบสีเขียวและการวิเคราะห์การเติบโต ปี 2026-2035",
-            "summary": "ตลาดโลกสำหรับสีและสารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมกำลังขยายตัวอย่างรวดเร็วถึงปี 2035 ขับเคลื่อนโดยกฎระเบียบด้านสิ่งแวดล้อมและความต้องการการผลิตที่ยั่งยืน",
-            "why": "กระบวนการเตรียมพื้นผิวและการขัดต้องปรับตัวให้เข้ากับสูตรสารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมและมาตรฐานสิ่งแวดล้อมที่เข้มงวดขึ้นในโรงงานของลูกค้า",
-            "action": "ติดตามว่าการเปลี่ยนแปลงด้านสีเคลือบสีเขียวส่งผลอย่างไรต่อความต้องการเตรียมพื้นผิวและวัสดุขัดผิวที่ยั่งยืน"
+            "title": "ตลาดอุปกรณ์การผลิตยานยนต์ของจีน (พ.ศ. 2568-2573)",
+            "summary": "รายงานตลาดใหม่ระบุถึงปัจจัยผลักดันการเติบโตที่สำคัญและการอัปเกรดทางเทคโนโลยีทั่วภาคอุปกรณ์การผลิตยานยนต์ของจีนจนถึงปี 2530",
+            "why": "จีนยังคงเป็นศูนย์กลางการผลิตยานยนต์และชิ้นส่วนขนาดใหญ่ การลงทุนด้านอุปกรณ์ที่เพิ่มขึ้นมีความเชื่อมโยงโดยตรงกับความต้องการเครื่องมือลบคมโลหะ การเจียร และเครื่องมือขัดผิวสำเร็จอัตโนมัติที่สูงขึ้น",
+            "action": "ติดตามแนวโน้มการลงทุนด้านอุปกรณ์ของจีนและระบุโอกาสในการเป็นหุ้นส่วนสำหรับผลิตภัณฑ์วัสดุขัดอุตสาหกรรมประสิทธิภาพสูง"
           }
         },
         {
           "id": "20261023-w2",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "Cutting Tool Engineering",
-          "date": "2026-01-19",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdlIxbnF0ZzBnSUozVVYybGZwMnF5R09nTWZib2VyNFB2WXpIYTJEcGFpd0lfQjBDcG42eTJiNDQ2eEJhUmdGT29PZ0w4NlNSRjhhQ2w3TmplcVloMDJ5bjNYZDF1UVdLbXYxS0RtYTRFSmtDMFVaVGxVVk5zMnVxeVBiTjhiVXpydFU3YUNMR19nRlJlT3NkT3Jjb3B3dHZqQnRN?oc=5",
-          "title": "Single-layered approach: The fundamentals of using coated abrasives in metalworking",
-          "summary": "An in-depth look at single-layered coated abrasives highlights how grain optimization improves cutting efficiency and lifespan in metal machining.",
-          "why": "Directly impacts our core business. Understanding advanced coated abrasive structures helps us recommend better products for metal deburring and finishing.",
-          "action": "Review our product catalog for high-performance coated abrasives and highlight grain distribution benefits to B2B metalworking clients.",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-09-02",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUUpWSmpHLVowSXdiLUJqcFlpQ3ZfRmdQYjJiTVFCNk00ZW0tM0ZqenQtd2F4emNVNEdzT3Q3amZ3M050YnNuTldQZFQyTlgyX3ByekdEbkdlaURacG5yRlBUSEZucnBQalBmNzVadXVrSDdXcEd0d2t4UXptUzJ5dXZ6ckE1V3RVV3IyUkY4SFdVSERveVJYem0yM3lNbWFUY1dXWHYyRFZ2cXdldWFqRmJTNE4tQ1RXWWp4N3NCN1h5Vmt3d3hEbkFPc2ZqT0k?oc=5",
+          "title": "A global AI manufacturing transformation at Hyundai Motor Group",
+          "summary": "Hyundai Motor Group is scaling artificial intelligence across its global manufacturing network to optimize production lines and smart factory efficiencies.",
+          "why": "Advanced automotive manufacturing lines powered by AI demand tighter tolerances and automated deburring/finishing processes, shifting buyer preferences toward precision abrasives.",
+          "action": "Keep track of how smart factory automation changes the specifications required for robotic sanding and grinding attachments.",
           "th": {
-            "title": "แนวทางแบบชั้นเดียว: พื้นฐานการใช้สารขัดถูแบบเคลือบในงานโลหะ",
-            "summary": "การเจาะลึกสารขัดถูแบบเคลือบชั้นเดียวแสดงให้เห็นว่าการปรับปรุงเม็ดทรายช่วยเพิ่มประสิทธิภาพการตัดและอายุการใช้งานในงานตัดเฉือนโลหะอย่างไร",
-            "why": "ส่งผลโดยตรงต่อธุรกิจหลักของเรา การเข้าใจโครงสร้างสารขัดเคลือบขั้นสูงช่วยให้เราแนะนำผลิตภัณฑ์ที่ดีลบคมและตกแต่งผิวโลหะได้ดียิ่งขึ้น",
-            "action": "ทบทวนแคตตาล็อกสินค้ากระดาษทรายและผ้าทรายเคลือบประสิทธิภาพสูง พร้อมเน้นจุดเด่นด้านการกระจายเม็ดทรายให้กับลูกค้ากลุ่มงานโลหะ"
+            "title": "การเปลี่ยนแปลงการผลิตด้วย AI ระดับโลกของกลุ่มบริษัทฮุนไดมอเตอร์",
+            "summary": "กลุ่มบริษัทฮุนไดมอเตอร์กำลังขยายการใช้ปัญญาประดิษฐ์ทั่วเครือข่ายการผลิตระดับโลก เพื่อปรับปรุงสายการผลิตและประสิทธิภาพของโรงงานอัจฉริยะให้เหมาะสมที่สุด",
+            "why": "สายการผลิตยานยนต์ขั้นสูงที่ขับเคลื่อนด้วย AI ต้องการความคลาดเคลื่อนที่น้อยลงและกระบวนการลบคม/ขัดผิวแบบอัตโนมัติ ซึ่งเปลี่ยนความต้องการของผู้ซื้อไปสู่ผลิตภัณฑ์วัสดุขัดที่มีความแม่นยำสูง",
+            "action": "ติดตามว่าระบบอัตโนมัติของโรงงานอัจฉริยะเปลี่ยนแปลงข้อกำหนดที่จำเป็นสำหรับอุปกรณ์เสริมการขัดและเจียรแบบใช้หุ่นยนต์อย่างไร"
           }
         },
         {
           "id": "20261023-w3",
           "tag": "steel",
           "rating": "amber",
-          "source": "https://economy.ac/",
-          "date": "2026-08-07",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YQWhOYlJ3eW9jTUhwa25XdE55eHh3a2JoODhWdDAtOW00UzhXcWwtNnJJXzZGMjMtNXN6MTYwTUhib3ZHUDNXaTdIbWY2N092QXNsOXFfdw?oc=5",
-          "title": "'Trump Tariffs and AI Boom' Propel U.S. Steel Past Japan to World No. 3 for First Time in 26 Years",
-          "summary": "Driven by trade policies and industrial demand, U.S. steel production has surged past Japan, reshaping the global metal supply landscape.",
-          "why": "Shifts in global steel manufacturing regions directly influence where heavy metal fabrication, grinding, and surface finishing equipment investments will flow.",
-          "action": "Keep an eye on regional steel output shifts to anticipate changes in global demand for heavy-duty grinding wheels and belts.",
+          "source": "Progressive Policy Institute",
+          "date": "2026-09-23",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTeHd1akw0WFVaUWFucjdlRWp1cFBVQjRiRi1rWFd2WlNVRkQzanJJMmpMV3BBM0QxVEF5N2FZcmFMSFNxQ3M1VTQ5c1VJYjhJRVRQQVM3M2tac1FFMGdSSlZ4eTdQdzNINFB1MDR0a09haWhpNkFIVV9aWlA?oc=5",
+          "title": "American Industry Is Using Less Steel",
+          "summary": "Recent analysis indicates a downward shift in total steel consumption by traditional American manufacturing sectors as material efficiency and alternative inputs take root.",
+          "why": "Changes in domestic steel consumption in major economies affect global metal processing volumes, influencing regional demand for heavy-duty grinding wheels and surface conditioning products.",
+          "action": "Diversify market intelligence tracking beyond raw metal volume to monitor high-value specialty metal fabrication sectors.",
           "th": {
-            "title": "'ภาษีทรัมป์และบูม AI' ผลักดันเหล็กสหรัฐฯแซงญี่ปุ่นขึ้นสู่อันดับ 3 ของโลกเป็นครั้งแรกในรอบ 26 ปี",
-            "summary": "ขับเคลื่อนด้วยนโยบายการค้าและความต้องการทางอุตสาหกรรม การผลิตเหล็กของสหรัฐฯ พุ่งแซงหน้าญี่ปุ่น ซึ่งปรับเปลี่ยนภูมิทัศน์อุปทานโลหะของโลก",
-            "why": "การเปลี่ยนแปลงในภูมิภาคการผลิตเหล็กระดับโลกส่งผลโดยตรงต่อทิศทางการลงทุนในอุตสาหกรรมแปรรูปโลหะหนัก การเจียร และอุปกรณ์ตกแต่งพื้นผิว",
-            "action": "จับตาการเปลี่ยนแปลงการผลิตเหล็กรายภูมิภาคเพื่อคาดการณ์ความต้องการล้อเจียรและสายพานขัดสำหรับงานหนักทั่วโลก"
+            "title": "อุตสาหกรรมอเมริกันใช้เหล็กน้อยลง",
+            "summary": "การวิเคราะห์ล่าสุดบ่งชี้ถึงแนวโน้มการบริโภคเหล็กโดยรวมที่ลดลงในภาคการผลิตดั้งเดิมของอเมริกา เนื่องจากประสิทธิภาพของวัสดุและปัจจัยนำเข้าทางเลือกเริ่มหยั่งราก",
+            "why": "การเปลี่ยนแปลงของการบริโภคเหล็กในประเทศเศรษฐกิจขนาดใหญ่ส่งผลกระทบต่อปริมาณการแปรรูปโลหะทั่วโลก ซึ่งมีอิทธิพลต่อความต้องการระดับภูมิภาคสำหรับล้อเจียรสำหรับงานหนักและผลิตภัณฑ์ปรับสภาพผิว",
+            "action": "กระจายการติดตามข้อมูลข่าวสารทางธุรกิจให้กว้างกว่าปริมาณโลหะดิบ เพื่อติดตามภาคการผลิตโลหะพิเศษที่มีมูลค่าสูง"
+          }
+        },
+        {
+          "id": "20261023-w4",
+          "tag": "steel",
+          "rating": "white",
+          "source": "World Economic Forum",
+          "date": "2026-04-21",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPc3hudkhpWE9BVTdWSk5BQWV2SWpBNHZxOUFfY2Rxcy0weW4tc2c2UFE1blAwRjVvYzRFcE9TdW1iVTdfYXBSVGk0UER5ZDVFQkZybG51bEY2QmhYemE3anRJbERYRW9KUkZHcHZ2eHZCMTRSMWlYMklYTDNPdzZGYzZZOFQtblNBMktoS2RNSndvX1dDRlZQSlBUT1pVdE1FN0ozOFZibUxlaHFGT1FjNUpZWEEyZGFrMTJUTXhPNA?oc=5",
+          "title": "How the Iran war is disrupting India's steel production amid fuel shortages and rising costs",
+          "summary": "Geopolitical conflict in the Middle East has created fuel and supply chain disruptions impacting India's steel manufacturing sector and operational costs.",
+          "why": "Energy shocks and raw material cost inflation in key steel-producing nations can cause ripple effects on the pricing and availability of metal fabrication supplies worldwide.",
+          "action": "Stay alert to energy and fuel cost fluctuations that impact abrasive manufacturing and shipping overhead.",
+          "th": {
+            "title": "สงครามในอิหร่านกำลังขัดขวางการผลิตเหล็กของอินเดียท่ามกลางปัญหาขาดแคลนเชื้อเพลิงและต้นทุนที่สูงขึ้น",
+            "summary": "ความขัดแย้งทางภูมิรัฐศาสตร์ในตะวันออกกลางได้สร้างความปั่นป่วนด้านเชื้อเพลิงและห่วงโซ่อุปทาน ซึ่งส่งผลกระทบต่อภาคการผลิตเหล็กและต้นทุนการดำเนินงานของอินเดีย",
+            "why": "ความตกใจด้านพลังงานและภาวะเงินเฟ้อของต้นทุนวัตถุดิบในประเทศผู้ผลิตเหล็กรายสำคัญสามารถส่งผลกระทบเป็นลูกโซ่ต่อราคาและความพร้อมใช้งานของอุปกรณ์แปรรูปโลหะทั่วโลก",
+            "action": "ระมัดระวังต่อความผันผวนของต้นทุนพลังงานและเชื้อเพลิงที่ส่งผลกระทบต่อค่าใช้จ่ายในการผลิตและการขนส่งวัสดุขัด"
           }
         }
       ]
