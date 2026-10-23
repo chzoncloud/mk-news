@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-10-23",
+  "updated": "2026-10-24",
   "days": [
+    {
+      "date": "2026-10-24",
+      "summary": "Today's briefing features 3 newly selected global industry signals focusing on coatings, digital manufacturing innovations, and advanced automotive components.",
+      "directCount": 2,
+      "th": {
+        "summary": "สรุปข้อมูลแนวโน้มโลกประจำวันนี้คัดเลือก 3 ข่าวสารใหม่ที่เน้นเรื่องสารเคลือบ นวัตกรรมการผลิตดิจิทัล และชิ้นส่วนยานยนต์ขั้นสูง"
+      },
+      "items": [
+        {
+          "id": "20261024-w1",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "European Coatings",
+          "date": "2026-06-04",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUDgzbkl5cWdzSnJwcGViRm5mVWNYTWllWVF6RENXM2dRbG84cTh6bFRXckpiYVZkMWRWZk5OWGZhTjZCdm9zTUpTLWJlUmhLR1BnUmhIUWJ3VUVSdW5WQ05tZjVnTmQ3Tld4RG5rbVdKNEJrblFzNlE0NFZyRWw3SEZ1RWdES2pzYndyWnZPOVgyRzB4YTBGT0NOZDU4ZDdnejhFRHpMYkQ2T1ZX?oc=5",
+          "title": "ETCC 2026 in Prague: A hub for coatings innovation and sustainability",
+          "summary": "The European Technical Coatings Congress highlighted major developments in sustainable and high-performance coating technologies.",
+          "why": "Surface coatings and abrasive pre-treatment or post-polishing processes are closely linked in manufacturing finishing lines.",
+          "action": "Track sustainable coating shifts to understand how surface finishing specs might change for metal and wood.",
+          "th": {
+            "title": "งาน ETCC 2026 ที่ปราก: ศูนย์กลางนวัตกรรมสารเคลือบและความยั่งยืน",
+            "summary": "การประชุมเทคโนโลยีสารเคลือบยุโรปเน้นย้ำพัฒนาการสำคัญด้านเทคโนโลยีสารเคลือบที่ยั่งยืนและมีประสิทธิภาพสูง",
+            "why": "กระบวนการเคลือบผิวและกระบวนการเตรียมผิวหรือขัดเงาด้วยกระดาษทรายมีความเชื่อมโยงกันอย่างใกล้ชิดในสายการผลิต",
+            "action": "ติดตามการเปลี่ยนแปลงของสารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมเพื่อเข้าใจว่าสเปกการตกแต่งผิวโลหะและไม้อาจเปลี่ยนไปอย่างไร"
+          }
+        },
+        {
+          "id": "20261024-w2",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-09-02",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUUpWSmpHLVowSXdiLUJqcFlpQ3ZfRmdQYjJiTVFCNk00ZW0tM0ZqenQtd2F4emNVNEdzT3Q3amZ3M050YnNuTldQZFQyTlgyX3ByekdEbkdlaURacG5yRlBUSEZucnBQalBmNzVadXVrSDdXcEd0d2t4UXptUzJ5dXZ6ckE1O3RVV3IyUkY4SFdVSERveVJYem0yM3lNbWFUY1dXWHYyRFZ2cXdldWFqRmJTNE4tQ1RXWWp4N3NCN1h5Vmt3d3hEbkFPc2ZqT0k?oc=5",
+          "title": "A global AI manufacturing transformation at Hyundai Motor Group",
+          "summary": "Hyundai is accelerating AI-driven automation across its global manufacturing plants to boost efficiency and precision.",
+          "why": "Smart factories and automated assembly lines require high-precision automated deburring and surface finishing tools.",
+          "action": "Prepare for future customer demands asking for abrasives compatible with robotic sanding and automated grinding arms.",
+          "th": {
+            "title": "การเปลี่ยนแปลงการผลิตด้วย AI ระดับโลกที่ฮุนได มอเตอร์ กรุ๊ป",
+            "summary": "ฮุนไดกำลังเร่งระบบอัตโนมัติที่ขับเคลื่อนด้วย AI ในโรงงานผลิตทั่วโลกเพื่อเพิ่มประสิทธิภาพและความแม่นยำ",
+            "why": "โรงงานอัจฉริยะและสายการผลิตอัตโนมัติจำเป็นต้องใช้เครื่องมือลบคมและขัดผิวที่มีความแม่นยำสูงแบบอัตโนมัติ",
+            "action": "เตรียมพร้อมรับความต้องการของลูกค้าในอนาคตที่มองหาวัสดุขัดที่รองรับการขัดด้วยหุ่นยนต์และแขนกลอัตโนมัติ"
+          }
+        },
+        {
+          "id": "20261024-w3",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Future Market Insights",
+          "date": "2026-02-12",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc2x3UG45VXZPYjdDdjdGZ21pUkZDc2FIZnlYOWdzRXlpM0ZlLXAzR2poSHN5YllRYk9EYkZLTW1fS1FZN3Z6ZEN1SXN5cTR5cXhkeGc3QjJxMG5WeFFVN0dRQjlZUmJ6NnhNN1lYWFMzUGE1dWhfY0FWd05FWnlwYlFDcGZfZzFPeC1fbWpn?oc=5",
+          "title": "Automotive Composite Leaf Springs Market",
+          "summary": "The market for lightweight composite leaf springs in vehicles is growing as manufacturers seek weight reduction solutions.",
+          "why": "Machining and finishing composite materials requires specialized diamond or silicon carbide abrasives to prevent delamination.",
+          "action": "Look into specialized abrasive tools designed specifically for cutting and finishing automotive composite materials.",
+          "th": {
+            "title": "ตลาดแหนบรถยนต์คอมโพสิต",
+            "summary": "ตลาดแหนบวัสดุคอมโพสิตน้ำหนักเบาในยานยนต์กำลังเติบโตเนื่องจากผู้ผลิตต้องการโซลูชันลดน้ำหนักรถ",
+            "why": "การตัดแต่งและตกแต่งวัสดุคอมโพสิตต้องใช้กระดาษทรายเพชรหรือซิลิคอนคาร์ไบด์พิเศษเพื่อป้องกันการแยกชั้น",
+            "action": "ศึกษาเครื่องมือขัดเฉพาะทางที่ออกแบบมาสำหรับการตัดและแต่งผิววัสดุคอมโพสิตในยานยนต์โดยเฉพาะ"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-10-23",
       "summary": "Today's global briefing highlights key developments in superhard abrasive machining standards and shifting metal trade policies, giving MK vital foresight into precision finishing and steel market dynamics.",
@@ -920,70 +984,6 @@ window.WORLD_ARCHIVE = {
             "summary": "ภาคการผลิตเหล็กทั่วโลกยังคงเผชิญกับปัญหาอุปทานส่วนเกิน ควบคู่ไปกับมาตรการปกป้องทางการค้าในภูมิภาคต่างๆ",
             "why": "ความผันผวนของปริมาณการผลิตเหล็กส่งผลโดยตรงต่ออัตราการใช้ใบเจียร แผ่นขัดลบคม และกระดาษทรายสำหรับอุตสาหกรรมโลหะ",
             "action": "ติดตามอัตราการดำเนินงานของโรงงานเหล็กและผู้แปรรูปโลหะในประเทศ เพื่อคาดการณ์รอบการสั่งซื้อผลิตภัณฑ์ขัดล่วงหน้า"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-10-10",
-      "summary": "Today's briefing features 3 key global trends focusing on automotive AI manufacturing transformations, electric vehicle structural assembly demands, and specialized steel market dynamics impacting metal finishing.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปข่าวสารประจำวันนี้เน้น 3 แนวโน้มสำคัญ ได้แก่ การเปลี่ยนผ่านสู่การผลิตด้วย AI ในอุตสาหกรรมยานยนต์, ความต้องการในการประกอบโครงสร้างรถยนต์ไฟฟ้า (EV), และพลวัตตลาดเหล็กเฉพาะทางที่ส่งผลต่ออุตสาหกรรมขัดผิวโลหะ"
-      },
-      "items": [
-        {
-          "id": "20261010-w1",
-          "tag": "auto",
-          "rating": "green",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-09-02",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUUpWSmpHLVowSXdiLUJqcFlpQ3ZfRmdQYjJiTVFCNk00ZW0tM0ZqenQtd2F4emNVNEdzT3Q3amZ3M050YnNuTldQZFQyTlgyX3ByekdEbkdlaURacG5yRlBUSEZucnBQalBmNzVadXVrSDdXcEd0d2t4UXptUzJ5dXZ6ckE1V3RVV3IyUkY4SFdVSERveVJYem0yM3lNbWFUY1dXWHYyRFZ2cXdldWFqRmJTNE4tQ1RXWWp4N3NCN1h5Vmt3d3hEbkFPc2ZqT0k?oc=5",
-          "title": "A global AI manufacturing transformation at Hyundai Motor Group",
-          "summary": "Hyundai is scaling global AI manufacturing transformations, driving automated precision across body shops and assembly lines where surface finishing is critical.",
-          "why": "AI-driven automated factories increase the demand for precision, robotic-compatible abrasive products that maintain consistent wear rates.",
-          "action": "Monitor automated robotic sanding integration trends to align our product specifications with smart factory requirements.",
-          "th": {
-            "title": "การเปลี่ยนแปลงการผลิตระดับโลกด้วย AI ของกลุ่มบริษัทฮุนไดมอเตอร์",
-            "summary": "ฮุนไดกำลังยกระดับการผลิตด้วย AI ทั่วโลก ขับเคลื่อนความแม่นยำอัตโนมัติในสายการผลิตตัวถังและประกอบชิ้นส่วน ซึ่งงานเตรียมพื้นผิวมีความสำคัญมาก",
-            "why": "โรงงานอัตโนมัติที่ขับเคลื่อนด้วย AI เพิ่มความต้องการผลิตภัณฑ์กระดาษทรายและวัสดุขัดที่แม่นยำและรองรับระบบหุ่นยนต์ เพื่อรักษาอัตราการสึกหรอที่สม่ำเสมอ",
-            "action": "ติดตามแนวโน้มการบูรณาการขัดผิวด้วยหุ่นยนต์อัตโนมัติ เพื่อปรับคุณสมบัติสินค้าให้สอดคล้องกับความต้องการของโรงงานอัจฉริยะ"
-          }
-        },
-        {
-          "id": "20261010-w2",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-09-10",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVjkzSTlDYzItRzJSVXhQSjc1a0ttQ0dIRVYxRDgxaHFiQ0x3c1ZsLTdZQ0RRSk04bmhjdHQ4ZGJrV0lLVk45XzQ5ZzQwN1VwMDNERWNWVEpJNTRVYzZqTFFmcEIyUUZRNG9LOHp6ODIxYm80eEZrcTBOdENvenJqdktfcm5neXlITEZSRXNQclF2ZUpGUXVLTmY3SmhCRUlHdldDVC11QjRnZ3UtYzRlbzAwYS1yaW5oZV8zWmRMY2k?oc=5",
-          "title": "Smart-factory wiring woes: EVs demand automation now, not later",
-          "summary": "Electric vehicle manufacturing is facing intense pressure to automate complex structural and wiring assemblies immediately to keep up with production targets.",
-          "why": "EV assembly lines require specialized deburring and surface preparation for lightweight frames and battery housings.",
-          "action": "Explore niche deburring tools suited for lightweight EV structural components and battery casing edges.",
-          "th": {
-            "title": "ปัญหาการเดินสายไฟในโรงงานอัจฉริยะ: รถยนต์ไฟฟ้า (EV) เรียกร้องระบบอัตโนมัติทันที",
-            "summary": "การผลิตยานยนต์ไฟฟ้ากำลังเผชิญกับแรงกดดันให้เร่งระบบอัตโนมัติในการประกอบโครงสร้างและสายไฟที่ซับซ้อน เพื่อให้ทันเป้าหมายการผลิต",
-            "why": "สายการผลิต EV ต้องการการลบคมและการเตรียมพื้นผิวที่จำเพาะสำหรับโครงรถน้ำหนักเบาและตัวเรือนแบตเตอรี่",
-            "action": "สำรวจเครื่องมือลบคมเฉพาะทางที่เหมาะสำหรับส่วนประกอบโครงสร้าง EV น้ำหนักเบาและขอบกล่องแบตเตอรี่"
-          }
-        },
-        {
-          "id": "20261010-w3",
-          "tag": "steel",
-          "rating": "green",
-          "source": "Shanghai Metals Market",
-          "date": "2026-05-19",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMmw1akRRMFZCQ2I5NGhHdE1NOXhoaE1GY0h5UmxlQVNUVGxHTko2U0NBQ0o0Q19ZYmZ1VnBCTTB6a2JJQTFNOUpDSUtpWXdaR3hkeGhlOXF4dF9yUElCd1ZkWTl4MmZGOWhVeUlXc2VCMXFCOHQzZ0ZGZ1RtZ3p6aUNObEczWFhKMkdKQ3JuRWF5SjVNZmpOQVBaSGs4TWJKS1lVa0VTdmoxdDBQTF8zRDlxME1qeEtOUzJzSTBERURobWltWTlVUlpaZ3d2WlFRNEY1b0UwbVVfLXc0cXBZ?oc=5",
-          "title": "Nucor: 100% EAF, High Profits, and Vertical Integration Mitigating Costs",
-          "summary": "Steel producers utilizing Electric Arc Furnaces (EAF) are optimizing costs and expanding production through high efficiency and vertical integration.",
-          "why": "EAF steel production and increased recycled scrap processing create varying steel surface conditions that require robust grinding and cutting solutions.",
-          "action": "Ensure our heavy-duty grinding discs and cut-off wheels are optimized for various recycled steel hardness grades.",
-          "th": {
-            "title": "นิวคอร์ (Nucor): ใช้เตาหลอมอาร์กไฟฟ้า (EAF) 100%, ทำกำไรสูง และบูรณาการแนวดิ่งเพื่อลดต้นทุน",
-            "summary": "ผู้ผลิตเหล็กที่ใช้เตาหลอมอาร์กไฟฟ้า (EAF) กำลังเพิ่มประสิทธิภาพต้นทุนและขยายการผลิตผ่านความยืดหยุ่นและการบูรณาการในแนวดิ่ง",
-            "why": "การผลิตเหล็กด้วยเตา EAF และการเพิ่มสัดส่วนเหล็กเศษรีไซเคิล ทำให้สภาพผิวเหล็กมีความหลากหลาย ซึ่งต้องใช้ผลิตภัณฑ์ตัดและเจียรที่มีคุณภาพสูง",
-            "action": "ตรวจสอบให้แน่ใจว่าใบตัดและใบเจียรสำหรับงานหนักของเรา เหมาะสมที่สุดกับเกรดความแข็งของเหล็กรีไซเคิลที่หลากหลาย"
           }
         }
       ]
