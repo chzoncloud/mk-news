@@ -2,6 +2,89 @@
 window.NEWS_ARCHIVE = {
   "days": [
     {
+      "date": "2026-10-24",
+      "summary": "Today has limited fresh headlines as major stories were covered previously, but imminent 30% tariffs on imported EVs and AirAsia's planned MRO investments provide strong medium-term demand for automotive metal finishing and aerospace abrasives.",
+      "directCount": 2,
+      "th": {
+        "summary": "วันนี้มีข่าวใหม่ไม่มากเนื่องจากประเด็นหลักส่วนใหญ่ถูกรายงานไปแล้วในรอบสัปดาห์ แต่แผนการขึ้นภาษีรถ EV นำเข้าเป็น 30% ภายใน 2 สัปดาห์ และการขยายการลงทุนศูนย์ซ่อม MRO ของแอร์เอเชีย จะช่วยขับเคลื่อนอุปสงค์วัสดุขัดในกลุ่มยานยนต์และการบินอย่างชัดเจน"
+      },
+      "items": [
+        {
+          "id": "20261024-1",
+          "tag": "auto",
+          "rating": "green",
+          "source": "Facebook",
+          "date": "2026-10-19",
+          "url": "https://news.google.com/rss/articles/CBMipwdBVV95cUxQUG9PbWZqN1VSVFFNblh5ZnBWc1U5cURJOGVZWTBfV3hFR2h0RWFjaFBoOGsxb0kwbVZPRXJaSXhsSUc2OS1ydEYwbGY3ODd5blFxUGp5S1RlbVZpTXFiLVVEVUJuT2dKaFI5YzBMZmV3NFJYMkpNSldYaVVhTERsSWJEcktQcXBHbFpySUdTVUszdkctaFZIQ3llWDlLbkw0M1lzaERmWXNvU2lYbEU3R3NlblJxTFFDWVRJYXU1UFM1ZGcxSmRfYXBGWE9wY0cyMTZpQTR1V3NZMWdEYmxSX1BRanVuVl8wYXp4THdWM3h1ekR0ZmlrRkMyYUx4a0FSUTlXRjV6ZkxlLWdYZUdseDh1VGFnSFZNSmpUaUxCT2JFU0lGWC12SXRTOW5mNWZ6UDRJSFFQcFp3YkVMLVdOcTlYLVFxb0I4czFtUjBkN3dlN2ZGbkUwamQ4YnFkRjc4ZENGRWtoMW1ETVJtd3pqQklITFI1NG1Eb2tTZklfejhDOElicnVaemRlQk1WZ2dBSmg4OVJOa0V1cGFsTDNRUlBSOWZ0QUZ3RllZZXJaRmd5dDhSYWpNVFNudVZqSldUNWc3M1prMTdKVHg4LUlKeHN1VzFkU2Ztb1g5enNnSzMzRkI4NWFRTnlhdXdESGdaYzN3dkNqOGo1YVVaV0d4aGo5bEVDdXZ3T3Q0ZTlhQlpnc2NFR3M4WkRRM2xKaS1Id0NZeXotaUlwV1psNGhveVZ3TU9FZURjMmdTRXNhb2g4bEVzaTVRZzNRVWhIZmxpZHpnQjc5V3I3T2hYRUFxb195M2hqQngtS3NFLTRmb2hsaGxNeHZSODR4UWphVkNObE5nMkloZ3hQSGhVcU4zOGc3QUI2RzVPdGpTdV9hWlAybEh4djA4TFRMRV9xMXQxWjZsMWJ0Q2FmWlVSQkszekR6d3YwUTRqUWZjQllqTVZaQUF4OHlMTlZjZWs4c2c1U3Z5SEpHR2VJLV9WX2QzU0l3SzBwTUhWSnNNMUZyTUJvU1d3ZldkSUt1ZFNxQXFBM2pVOU1tYzcxaTlSSnVfa0E3WThNRmNtQ2Y0bFNnRlpFb2NkbzgzaFdpeDlqT1d4R1E5TFY1eDAwak5JRk5DN2NOTnZuTE1LV3E4QUtieFBtcDB1bFBJbjBBYjJjYkc1UFFVMGY4RC1JRWI1UVBkZHI1X3JoeGdRVWJaNHIzTndiN3RkUVVMM2JvQndUUnRMNHBoS09XOA?oc=5",
+          "title": "Finance Ministry Readies 30% Excise Tax on Imported EVs to Enforce Local Production",
+          "summary": "The Ministry of Finance is submitting a proposal to the Cabinet within two weeks to raise excise duties on imported CBU EVs to at least 30%. This move aims to protect domestic manufacturers and force foreign automakers to set up local production lines in Thailand.",
+          "why": "Higher import duties accelerate domestic EV assembly and stamping operations, creating immediate demand for body grinding, robotic deburring, and surface preparation abrasives.",
+          "action": "Map out tier-1 suppliers and local assembly plants gearing up production to pitch heavy-duty sanding belts and finishing discs.",
+          "th": {
+            "title": "คลังจ่อชง ครม. เคาะภาษีสรรพสามิต EV นำเข้า 30% บังคับค่ายรถเร่งผลิตในไทย",
+            "summary": "กระทรวงการคลังเตรียมเสนอ ครม. ภายใน 2 สัปดาห์ ปรับขึ้นภาษีสรรพสามิตรถ EV นำเข้าทั้งคันเป็นไม่ต่ำกว่า 30% เพื่อปกป้องฐานการผลิตในประเทศและบีบให้ค่ายรถเร่งตั้งโรงงานประกอบในไทย",
+            "why": "การบีบให้ผลิตในประเทศจะเร่งให้โรงงานประกอบและปั๊มชิ้นส่วนโลหะเปิดสายการผลิตเร็วขึ้น ส่งผลให้อุปสงค์ของจานขัด สายพาน และวัสดุลบครีบขยายตัว",
+            "action": "เร่งทำแผนที่โรงงานประกอบและผู้ผลิตชิ้นส่วน Tier-1 เพื่อนำเสนอโซลูชันกระดาษทรายและจานขัดสำหรับสายการผลิตใหม่"
+          }
+        },
+        {
+          "id": "20261024-2",
+          "tag": "aero",
+          "rating": "green",
+          "source": "Facebook",
+          "date": "2026-09-18",
+          "url": "https://news.google.com/rss/articles/CBMiiAdBVV95cUxQMkhrTnQ5Y3dtWlh3cUtub3MtbWRTNFJsQzA4ZG9sNzR0ZHRtM1QzallzSEFydlBvaFJqSG04Yy1IbnJxel95UU5DY3Z3VUVwRVhrV1ByZTFjcUc4aXNSc1Nwd0ZWSzdrZFNDYmRFWnlHS1h5cmk5QVg5NHhWaGlMVlhYNFUxS19hSDNrN3luZ1BWR1lleGFJV2xiSldyZjdKcjBKa2Jja09uNElYYUM0bXJIZUl0dkQ0aUFXcEJDN1k4ZDZ5UWJ6bjd3cVJDYlRlV05mVC1iZlhWQVc1clhyVzZWUnFnMjZKQzlMcExZX2Q2Vl9mSXVDWVktNzhEWUZBMG9WOHhqclUzX0ppb0N5QnN1clZkR2RKUXJJVGNwUXc0U3JmVlEtQ2xxUWhsQTFuRWtyUHJheUdQNl96cjZnN3BJY1VlR2dtNHJhQU5jYnBtQ0VrdDQ3MExhUGlBQ3lGNFhmaWdXWDdDcjdXZVU4b0lQX3JnSFN1UXMtWjRxMWNZQ09Rb2NTelVQQWx5SWNNRkdBWTBObzBiQ0lFM2U5SzJ0VXpfTWtVa0pfaXVvekh6TlNpU1Zvd2tjWEF1R2htcGEtWnFBVkx2ZDhpaTBmbjVTZklEUWFNcVl3NElnMkI2YTdyd0ZUellYNkU3QnpQLWJYNGFlMko3UXFXYWNhaW1Hejh0NVk5YnB1cVQya3I5MFA3d1pjR04tZ1EydUdXWW9UUjlYUWlIbHJMQ1JDTG85eTBMRFRPY1V5T2JTMC1zWnZlV3JoSU43SXV0UkJsOTVnZGY0LV9CcEtjLTIyd3Fvem1hcV9wVzk1dkNsOGlwNUhDbDdRbXlOTUdaeGlpLU5WVHdnZEtNM2VWVi1UenNCaHk2UjdHSVNKYmRhV0h5ZFVyV0NDc1VmZjRrRUUxcUZJbFNlVmlKWTZpY3p1aDA3X2NSTVA0VTNUS1FNeWUxUFdSRkxmWXdjVDcwN3RBYV9CS0hjQzIyUnJCa0pyTHJiNWg5eXExMkpoSG1YVXF1eWpaQ1ZYdTFEZjVnWHhzcEpmc3pqaFRzNXZzcUNLSFFaX1Z5UVJDWXdWSV8xa0dGblpNVXJ4TmpsUlR6cEpuWW40a2pFdXJXalRqSF9SSml6SkRzcG9NdWU5RGNFMUdsVlh3ZmowemY2TzNKRFp2RGRwRmdDSWc5WFFIRnkzZ0FDVVRQTkxm?oc=5",
+          "title": "AirAsia Affirms Robust Liquidity to Expand Aviation MRO Investments in Thailand",
+          "summary": "AirAsia announced strong financial liquidity backed by billion-dollar cash reserves, confirming its strategic commitment to invest directly in aircraft maintenance, repair, and overhaul (MRO) facilities in Thailand.",
+          "why": "A second major carrier investing heavily in local MRO alongside Thai Airways multiplies long-term consumption of certified aerospace-grade non-woven and finishing abrasives.",
+          "action": "Fast-track technical compliance and supply chain certifications required to supply aviation-grade surface maintenance abrasives.",
+          "th": {
+            "title": "แอร์เอเชียยันสภาพคล่องแกร่ง เดินหน้าลุยลงทุนศูนย์ซ่อม MRO ในไทย",
+            "summary": "ผู้บริหารแอร์เอเชียยืนยันฐานะการเงินแข็งแกร่งพร้อมสภาพคล่องสูง เดินหน้าแผนลงทุนศูนย์ซ่อมบำรุงอากาศยาน (MRO) ในประเทศไทยอย่างเต็มตัว",
+            "why": "การที่สายการบินรายใหญ่อีกแห่งเข้ามาร่วมลงทุน MRO ในไทยตามหลังการบินไทย ช่วยขยายตลาดวัสดุขัดเกรดการบินสำหรับงานขัดลอกสีและซ่อมผิวอากาศยานในระยะยาว",
+            "action": "เร่งจัดเตรียมเอกสารรับรองมาตรฐานผลิตภัณฑ์วัสดุขัดสำหรับงานซ่อมบำรุงอากาศยานเพื่อรองรับห่วงโซ่อุปทานใหม่นี้"
+          }
+        },
+        {
+          "id": "20261024-3",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Brand Inside",
+          "date": "2026-08-14",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNnp5aUZLY2RzNjVBTHl1dVozcFVRLS1hZUtiY1lBOFlOZXJFX3RoMU11dm9ISDBVMG40Y09JOUJ2QmVGV3hHWjNPdFRySDVRYmZWLXd0UjJlUGh1Z0gzaUFPcUpXT0Z1Y0h0TkN3S19wYVp0QVhVdnlrd0NUbjZSUm9qRQ?oc=5",
+          "title": "Indonesia Aggressively Lures Toyota Amid Thailand's Heavy Focus on Chinese EVs",
+          "summary": "Indonesia is aggressively rolling out incentives to lure Toyota's main manufacturing footprint away from Thailand, raising concerns over whether Thailand's pivot toward Chinese EV makers may weaken its traditional Japanese auto manufacturing base.",
+          "why": "Japanese automotive plants form MK's core abrasive customer base; any shift in their investment toward Indonesia threatens long-term baseline factory consumption in Thailand.",
+          "action": "Reinforce direct relationships with Japanese OEM tiers while concurrently pitching technical abrasive solutions to emerging Chinese EV factories.",
+          "th": {
+            "title": "อินโดนีเซียรุกหนักดึงโตโยต้าย้ายฐาน ขณะไทยถูกจับตาเทใจอุ้มค่าย EV จีน",
+            "summary": "อินโดนีเซียเสนอสิทธิประโยชน์เต็มรูปแบบเพื่อดึงดูดฐานการผลิตหลักของโตโยต้า ท่ามกลางกระแสวิจารณ์ว่านโยบายไทยอาจเน้นหนุน EV จีนจนกระทบเสถียรภาพค่ายรถญี่ปุ่นเดิม",
+            "why": "กลุ่มโรงงานยานยนต์และชิ้นส่วนญี่ปุ่นคือลูกค้ากลุ่มอุดมคติของ MK หากมีการย้ายฐานการผลิตจริงจะกระทบต่อยอดใช้วัสดุขัดเจียรโลหะระยะยาว",
+            "action": "กระชับความสัมพันธ์กับซัพพลายเออร์กลุ่มทุนญี่ปุ่นอย่างใกล้ชิด ควบคู่ไปกับการรุกเจาะตลาดโรงงานประกอบ EV จีนแห่งใหม่ในไทย"
+          }
+        },
+        {
+          "id": "20261024-4",
+          "tag": "furniture",
+          "rating": "amber",
+          "source": "kasikornbank.com",
+          "date": "2025-10-09",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR0I3LUFaeENxbzdDQVF4UDdVMFlmRWp4Y3BBdFZ6OGFQeUdZZ3Y5dHA5Q2ZxRXJIaTUtLVNVY29QM3RuSk1RMmpaeXhucHEwLWRiMFlsbkJRNEtYY3RWSDZNNXRBUXdfb0hDV0IzR1pkRW5ERC1xSkQtN21WZTVveUNtdURRYmN3QjQxUDRHS2g1dDNkSGdRVVJGU2tBNGJ3WDREcGh1N2VrdnN6MExB?oc=5",
+          "title": "Thai Furniture Exports Projected to Drop 4.5% Following US Demand Slowdown",
+          "summary": "Kasikorn Research reports that after an export surge driven by front-loaded US orders, Thai furniture exports face a 4.5% contraction as global housing and consumer demand cool.",
+          "why": "Export slowdowns push local furniture makers to cut production runs, directly softening bulk orders for wide sanding belts and wood-polishing discs.",
+          "action": "Diversify woodworking abrasive sales toward smaller domestic workshops and DIY channels on Shopee and TikTok.",
+          "th": {
+            "title": "ส่งออกเฟอร์นิเจอร์ไทยจ่อหดตัว 4.5% หลังอุปสงค์สหรัฐฯ ชะลอตัว",
+            "summary": "ศูนย์วิจัยกสิกรไทยชี้การส่งออกเฟอร์นิเจอร์ของไทยมีแนวโน้มพลิกกลับมาหดตัว 4.5% หลังจากตลาดสหรัฐฯ เร่งนำเข้าไปก่อนหน้า ประกอบกับตลาดอสังหาฯ ทั่วโลกเริ่มชะลอตัว",
+            "why": "คำสั่งซื้อส่งออกเฟอร์นิเจอร์ไม้ที่ลดลงจะกดดันให้โรงงานลดกำลังการผลิต ส่งผลกระทบต่อยอดขายกระดาษทรายสายพานกว้างและจานขัดไม้",
+            "action": "กระจายความเสี่ยงโดยขยายการทำตลาดวัสดุขัดงานไม้ไปยังกลุ่มช่างท้องถิ่นและช่องทาง B2C DIY บน Shopee และ TikTok"
+          }
+        }
+      ],
+      "terms": {}
+    },
+    {
       "date": "2026-10-23",
       "summary": "Today has limited fresh news following major policy announcements earlier this week; key developments focus on broad EV excise tax overhauls to enforce local assembly, Thai Airways' massive fleet expansion supporting future MRO demand, and ASEAN furniture export collaborations.",
       "directCount": 0,
@@ -971,72 +1054,7 @@ window.NEWS_ARCHIVE = {
         }
       ],
       "terms": {}
-    },
-    {
-      "date": "2026-10-10",
-      "summary": "There are few new headlines today, with most automotive and aerospace MRO updates continuing from earlier briefings. The most notable development is the Cabinet formally acknowledging the EV Board's tax overhaul to heavily penalize CBU imports, which will support local vehicle assembly and steady abrasive consumption.",
-      "directCount": 1,
-      "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยข่าวส่วนใหญ่เรื่องโครงสร้างภาษี EV และศูนย์ซ่อมอากาศยาน MRO เป็นความต่อเนื่องจากสรุปข่าวก่อนหน้า ประเด็นเด่นที่สุดคือ ครม. รับทราบมติบอร์ด EV เพื่อรื้อโครงสร้างภาษีและสกัดรถนำเข้า CBU ซึ่งช่วยหนุนการประกอบรถยนต์ในประเทศและความต้องการใช้วัสดุขัดผิว"
-      },
-      "items": [
-        {
-          "id": "20261010-1",
-          "tag": "auto",
-          "rating": "green",
-          "source": "bangkokbiznews",
-          "date": "2026-10-09",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UZ0hQTFFGbDJCaXpsMFdIcEF4N2oybHBqQUdFbm1RRHJsSWpleW9IQi0yMmYydmNJNEhRNERPQUZrYThmV1dOSDNnSTZNaV9DeW9VeHZhNFFjcGZm?oc=5",
-          "title": "Cabinet Formally Receives EV Board Resolution to Overhaul Automotive Taxes and Maximize Tariffs on CBU Imports",
-          "summary": "The Cabinet has officially acknowledged the EV Board's resolution to restructure automotive excise taxes and apply maximum tax rates on completely built-up (CBU) imported vehicles. This policy pressures automakers to shift from importing finished cars to running local assembly plants in Thailand.",
-          "why": "Tax penalties on finished car imports will compel automakers to ramp up domestic vehicle assembly, directly driving demand for abrasives in body preparation and metal component finishing.",
-          "action": "Target tier-1 Japanese automotive parts suppliers that are ramping up local production lines to offer MK sanding belts and finishing discs.",
-          "th": {
-            "title": "ครม. รับทราบมติบอร์ด EV รื้อภาษีรถยนต์ยกแผง ขูดภาษีสูงสุดรถนำเข้า CBU",
-            "summary": "คณะรัฐมนตรีรับทราบมติบอร์ด EV ในการปรับโครงสร้างภาษีสรรพสามิตยานยนต์ พร้อมบังคับใช้ภาษีอัตราสูงสุดกับรถยนต์นำเข้าสำเร็จรูปทั้งคัน (CBU) เพื่อกดดันให้ค่ายรถยนต์เร่งเดินสายการผลิตและประกอบในประเทศ",
-            "why": "การเก็บภาษีนำเข้ารถทั้งคันในอัตราสูงสุดบีบให้ค่ายรถต้องประกอบในไทย ซึ่งช่วยเพิ่มปริมาณการใช้วัสดุขัดเตรียมผิวตัวถังและชิ้นส่วนยานยนต์ในประเทศโดยตรง",
-            "action": "เข้าพบซัพพลายเออร์ชิ้นส่วนยานยนต์ญี่ปุ่นระดับ Tier-1 ที่เตรียมเร่งกำลังการผลิตในประเทศเพื่อนำเสนอสายพานและจานขัด MK"
-          }
-        },
-        {
-          "id": "20261010-2",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "มติชนออนไลน์",
-          "date": "2026-09-21",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3YkdiUjdFRVhyTUJkeERxZkxWYk1qeEdLT20xS2VpV2c2WllpNV9OTnJoQS0yTHlyS0hScS0xU1NuOGswXzBZbUVkUk9rYm9UYXVfWjYzUllpWTA?oc=5",
-          "title": "Three-Tier EV Tax Structure Finalized to Retain Local Supply Chains and Attract Investments",
-          "summary": "The government has drafted a 3-tier EV tax framework that rewards automakers based on local parts content while penalizing non-compliant assemblers. The structure aims to retain domestic tier-2 and tier-3 component manufacturers as the industry transitions from ICE to EV.",
-          "why": "Enforcing higher local content requirements preserves order volumes for domestic stamping and metal machining plants that utilize deburring and grinding consumables.",
-          "action": "Monitor tier-2 metal stamping subcontractors winning new localized parts contracts to supply deburring and surface preparation abrasives.",
-          "th": {
-            "title": "เคาะโครงสร้างภาษี EV แบบ 3 เทียร์ ปกป้องซัพพลายเชนในประเทศและดึงดูดการลงทุน",
-            "summary": "ภาครัฐวางโครงสร้างภาษีสรรพสามิต EV แบบ 3 ระดับเพื่อจูงใจค่ายรถที่ใช้ชิ้นส่วนในประเทศสูง และลงโทษผู้ผลิตที่ไม่ยอมใช้ชิ้นส่วนในไทย เพื่อรักษาฐานการผลิตของซัพพลายเออร์ Tier-2 และ Tier-3 ท้องถิ่น",
-            "why": "การบังคับใช้ชิ้นส่วนในประเทศช่วยรักษาคำสั่งซื้อให้แก่โรงงานปั๊มขึ้นรูปและกลึงโลหะไทย ซึ่งจำเป็นต้องใช้วัสดุขัดลบครีบและขัดแต่งผิวงาน",
-            "action": "ติดตามโรงกลึงและโรงปั๊มโลหะ Tier-2 ที่ได้รับคำสั่งผลิตชิ้นส่วนยานยนต์ใหม่เพื่อนำเสนอสินค้าขัดลบครีบและปรับสภาพผิวงาน"
-          }
-        },
-        {
-          "id": "20261010-3",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "bangkokbiznews",
-          "date": "2026-06-09",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1BZE5wSV9tN3JIMkxoeTBjenRHaWFGTThOMkNUWUgwUm4ybm02TTlNLWJ5U1RFdVFRQVBwSldqVWEyUHBIVXhfTnNiSHpzQXhoVDhUYjJoMVAyakhp?oc=5",
-          "title": "Industry Ministry Under Pressure Over Substandard Mill Permits as Domestic Producers Push Back",
-          "summary": "Thai steel associations are keeping pressure on the Department of Industrial Works regarding licensing reviews for mills like Xin Ke Yuan, urging authorities to shut down substandard induction furnaces. Domestic producers emphasize that low-standard operations disrupt the local supply chain and create unfair competition.",
-          "why": "Stricter regulation of substandard mills protects legitimate Thai and Japanese joint-venture steel fabricators, who are consistent buyers of premium industrial abrasives.",
-          "action": "Focus sales efforts on standardized structural steel fabricators and metal works that prioritize product quality and high-durability cutting wheels.",
-          "th": {
-            "title": "กรมโรงงานฯ เผชิญแรงกดดันปมโรงงานเหล็กไม่ได้มาตรฐาน หลังผู้ผลิตไทยต้านซินเคอหยวน",
-            "summary": "สมาคมเหล็กไทยติดตามการพิจารณาใบอนุญาตโรงงานเตา IF ที่ไม่ได้มาตรฐานอย่างใกล้ชิด โดยเรียกร้องให้กระทรวงอุตสาหกรรมเข้มงวดเพื่อไม่ให้เหล็กคุณภาพต่ำเข้ามาทำลายห่วงโซ่อุปทานและการแข่งขันที่เป็นธรรม",
-            "why": "การกวาดล้างโรงงานเหล็กไม่ได้มาตรฐานช่วยรักษาฐานตลาดของโรงงานแปรรูปโครงสร้างเหล็กมาตรฐานของไทยและญี่ปุ่น ซึ่งเป็นกลุ่มลูกค้าที่ใช้วัสดุขัดเจียรเกรดอุตสาหกรรมอย่างต่อเนื่อง",
-            "action": "มุ่งเน้นการขายไปยังโรงงานโครงสร้างเหล็กและงานแปรรูปโลหะมาตรฐานที่ให้ความสำคัญกับคุณภาพและใบตัดความทนทานสูง"
-          }
-        }
-      ],
-      "terms": {}
     }
   ],
-  "updated": "2026-10-23"
+  "updated": "2026-10-24"
 };
