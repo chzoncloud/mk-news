@@ -4,82 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-23",
-      "summary": "Today's briefing highlights global shifts in automotive manufacturing equipment and regional steel production adjustments, signaling evolving surface preparation and finishing demands for industrial supply chains.",
+      "summary": "Today's global briefing highlights key developments in superhard abrasive machining standards and shifting metal trade policies, giving MK vital foresight into precision finishing and steel market dynamics.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปข่าวประจำวันนี้เน้นย้ำการเปลี่ยนแปลงระดับโลกในด้านอุปกรณ์การผลิตยานยนต์และการปรับเปลี่ยนการผลิตเหล็กในแต่ละภูมิภาค ซึ่งบ่งชี้ถึงความต้องการที่กำลังพัฒนาในด้านการเตรียมผิวและการขัดแต่งสำหรับห่วงโซ่อุปทานอุตสาหกรรม"
+        "summary": "สรุปทิศทางโลกประจำวันนี้เน้นย้ำการพัฒนาด้านมาตรฐานการตัดเฉือนด้วยวัสดุขัดถูแข็งพิเศษและการเปลี่ยนแปลงนโยบายการค้าโลหะ ซึ่งช่วยให้ MK มีข้อมูลเชิงลึกที่สำคัญเกี่ยวกับงานขัดความละเอียดและตลาดเหล็ก"
       },
       "items": [
         {
           "id": "20261023-w1",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "MarketsandMarkets",
-          "date": "2026-08-19",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUEFHclR5NnZiRmQ3ZWs1QWMycFZkZlZVempvMXlNMGxrUXc1alpac0trZnhoVG5pRnRISVhlYlJmUkpLVHp5T1FFQi04ODdlVmRoMDBYckx4SHVONkVEQVcxNWxfcTRBNS1DTmstS2JyZTh4OVQzbk9lN3dHZkt6cUFqZHVBcmlVbWtkUGJSejJvZVdoc3Z5dTRUM2ZlMUZEdzNsLVM2VGpqdw?oc=5",
-          "title": "China Automotive Manufacturing Equipment Market (2025-2030)",
-          "summary": "A new market report outlines significant growth drivers and technological upgrades across China's automotive manufacturing equipment sector through 2030.",
-          "why": "China remains a massive manufacturing hub for vehicles and components; increased equipment investment directly correlates with higher demand for metal deburring, grinding, and automated surface finishing tools.",
-          "action": "Monitor Chinese equipment investment trends and identify partnership opportunities for high-performance industrial abrasives.",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "The National Law Review",
+          "date": "2026-10-16",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONzc1UG5lV0E3Z2JCYnd2dFpLZmt2VTRYVEk5cHlBS2FYaDIzNHNJeTNBd3R3dDE0cFF4QlhNZE9ZX3N4enpseURtMGRTMmFHRWNPdmY2NlZ2R1F6b01ma01GXzlTMXlJd3FJdzZsY093dEVCczVVNTNPaU56Z2l0emR3d2hPNDQwT2xDY01CZW5Ib195T3RMR0tQdTY0d1FwdGgxWnB5RGI1aXpwRkNXWnln?oc=5",
+          "title": "Five Reputable Diamond Sanding Belts Manufacturers in China 2026: Optimizing Superhard Abrasive Machining",
+          "summary": "An analysis of top diamond sanding belt manufacturers in China highlights the ongoing optimization of superhard abrasive machining techniques.",
+          "why": "Diamond belts and superhard abrasives dictate the cutting edge of high-precision metal and hard-material finishing.",
+          "action": "Monitor Chinese superhard abrasive manufacturing standards to benchmark product quality and pricing competitiveness.",
           "th": {
-            "title": "ตลาดอุปกรณ์การผลิตยานยนต์ของจีน (พ.ศ. 2568-2573)",
-            "summary": "รายงานตลาดใหม่ระบุถึงปัจจัยผลักดันการเติบโตที่สำคัญและการอัปเกรดทางเทคโนโลยีทั่วภาคอุปกรณ์การผลิตยานยนต์ของจีนจนถึงปี 2530",
-            "why": "จีนยังคงเป็นศูนย์กลางการผลิตยานยนต์และชิ้นส่วนขนาดใหญ่ การลงทุนด้านอุปกรณ์ที่เพิ่มขึ้นมีความเชื่อมโยงโดยตรงกับความต้องการเครื่องมือลบคมโลหะ การเจียร และเครื่องมือขัดผิวสำเร็จอัตโนมัติที่สูงขึ้น",
-            "action": "ติดตามแนวโน้มการลงทุนด้านอุปกรณ์ของจีนและระบุโอกาสในการเป็นหุ้นส่วนสำหรับผลิตภัณฑ์วัสดุขัดอุตสาหกรรมประสิทธิภาพสูง"
+            "title": "5 ผู้ผลิตสายพานขัดเพชรที่มีชื่อเสียงในจีนปี 2026: การเพิ่มประสิทธิภาพการตัดเฉือนด้วยวัสดุขัดถูแข็งพิเศษ",
+            "summary": "การวิเคราะห์ผู้ผลิตสายพานขัดเพชรชั้นนำในจีนเน้นย้ำถึงการพัฒนาอย่างต่อเนื่องในการเพิ่มประสิทธิภาพเทคนิคการตัดเฉือนด้วยวัสดุขัดแข็งพิเศษ",
+            "why": "สายพานเพชรและวัสดุขัดแข็งพิเศษกำหนดมาตรฐานสูงสุดของการตกแต่งผิวโลหะและความแข็งระดับสูง",
+            "action": "ติดตามมาตรฐานการผลิตวัสดุขัดแข็งพิเศษของจีนเพื่อใช้เปรียบเทียบคุณภาพสินค้าและความสามารถในการแข่งขันด้านราคา"
           }
         },
         {
           "id": "20261023-w2",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-09-02",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUUpWSmpHLVowSXdiLUJqcFlpQ3ZfRmdQYjJiTVFCNk00ZW0tM0ZqenQtd2F4emNVNEdzT3Q3amZ3M050YnNuTldQZFQyTlgyX3ByekdEbkdlaURacG5yRlBUSEZucnBQalBmNzVadXVrSDdXcEd0d2t4UXptUzJ5dXZ6ckE1V3RVV3IyUkY4SFdVSERveVJYem0yM3lNbWFUY1dXWHYyRFZ2cXdldWFqRmJTNE4tQ1RXWWp4N3NCN1h5Vmt3d3hEbkFPc2ZqT0k?oc=5",
-          "title": "A global AI manufacturing transformation at Hyundai Motor Group",
-          "summary": "Hyundai Motor Group is scaling artificial intelligence across its global manufacturing network to optimize production lines and smart factory efficiencies.",
-          "why": "Advanced automotive manufacturing lines powered by AI demand tighter tolerances and automated deburring/finishing processes, shifting buyer preferences toward precision abrasives.",
-          "action": "Keep track of how smart factory automation changes the specifications required for robotic sanding and grinding attachments.",
+          "tag": "steel",
+          "rating": "green",
+          "source": "https://economy.ac/",
+          "date": "2026-08-07",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YQWhOYlJ3eW9jTUhwa25XdE55eHh3a2JoODhWdDAtOW00UzhXcWwtNnJJXzZGMjMtNXN6MTYwTUhib3ZHUDNXaTdIbWY2N092QXNsOXFfdw?oc=5",
+          "title": "‘Trump Tariffs and AI Boom’ Propel U.S. Steel Past Japan to World No. 3 for First Time in 26 Years",
+          "summary": "Driven by trade policies and industrial shifts, U.S. steel production has climbed to the global top 3, altering traditional steel supply chains.",
+          "why": "Shifts in global steel production hubs directly impact regional raw material availability and local metal fabrication activity.",
+          "action": "Keep an eye on shifting steel trade flows and tariffs which influence regional manufacturing costs and metal prep demand.",
           "th": {
-            "title": "การเปลี่ยนแปลงการผลิตด้วย AI ระดับโลกของกลุ่มบริษัทฮุนไดมอเตอร์",
-            "summary": "กลุ่มบริษัทฮุนไดมอเตอร์กำลังขยายการใช้ปัญญาประดิษฐ์ทั่วเครือข่ายการผลิตระดับโลก เพื่อปรับปรุงสายการผลิตและประสิทธิภาพของโรงงานอัจฉริยะให้เหมาะสมที่สุด",
-            "why": "สายการผลิตยานยนต์ขั้นสูงที่ขับเคลื่อนด้วย AI ต้องการความคลาดเคลื่อนที่น้อยลงและกระบวนการลบคม/ขัดผิวแบบอัตโนมัติ ซึ่งเปลี่ยนความต้องการของผู้ซื้อไปสู่ผลิตภัณฑ์วัสดุขัดที่มีความแม่นยำสูง",
-            "action": "ติดตามว่าระบบอัตโนมัติของโรงงานอัจฉริยะเปลี่ยนแปลงข้อกำหนดที่จำเป็นสำหรับอุปกรณ์เสริมการขัดและเจียรแบบใช้หุ่นยนต์อย่างไร"
+            "title": "มาตรการภาษีของทรัมป์และบูม AI ดันเหล็กสหรัฐฯแซงญี่ปุ่นขึ้นสู่อันดับ 3 ของโลกเป็นครั้งแรกในรอบ 26 ปี",
+            "summary": "ด้วยแรงขับเคลื่อนจากนโยบายการค้าและการเปลี่ยนแปลงทางอุตสาหกรรม การผลิตเหล็กของสหรัฐฯ ขยับขึ้นสู่ 3 อันดับแรกของโลก ส่งผลให้ห่วงโซ่อุปทานเหล็กแบบเดิมเปลี่ยนไป",
+            "why": "การเปลี่ยนแปลงของศูนย์กลางการผลิตเหล็กโลกส่งผลโดยตรงต่อความพร้อมของวัตถุดิบในภูมิภาคและกิจกรรมการขึ้นรูปโลหะในท้องถิ่น",
+            "action": "จับตาดูการเปลี่ยนแปลงของเส้นทางการค้าเหล็กและภาษีศุลกากรที่มีผลต่อต้นทุนการผลิตในภูมิภาคและความต้องการใช้วัสดุเตรียมผิวโลหะ"
           }
         },
         {
           "id": "20261023-w3",
           "tag": "steel",
           "rating": "amber",
-          "source": "Progressive Policy Institute",
-          "date": "2026-09-23",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTeHd1akw0WFVaUWFucjdlRWp1cFBVQjRiRi1rWFd2WlNVRkQzanJJMmpMV3BBM0QxVEF5N2FZcmFMSFNxQ3M1VTQ5c1VJYjhJRVRQQVM3M2tac1FFMGdSSlZ4eTdQdzNINFB1MDR0a09haWhpNkFIVV9aWlA?oc=5",
-          "title": "American Industry Is Using Less Steel",
-          "summary": "Recent analysis indicates a downward shift in total steel consumption by traditional American manufacturing sectors as material efficiency and alternative inputs take root.",
-          "why": "Changes in domestic steel consumption in major economies affect global metal processing volumes, influencing regional demand for heavy-duty grinding wheels and surface conditioning products.",
-          "action": "Diversify market intelligence tracking beyond raw metal volume to monitor high-value specialty metal fabrication sectors.",
+          "source": "Reuters",
+          "date": "2026-04-02",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSzdNYWRYM3hzTlpYRzJnQTBxYXBwbXlJdUthcER3X0pHWFBiTW5FQjVoS3lmWWZia19tZ2V0TzJ1SG5sZEdvejlMTnBDX0R1eUNpdHhma1ZtdlJWWFpJcWR1aTFsNUdETUo1UDZfR0R6RHpjX2pMOVRXNkJ3SHdIdG1xdWlnYktSWDZ1VDJvR1htTmlnczgyZlRONjBzQkhXY0tzSndnTUNXLTN4VEoxNA?oc=5",
+          "title": "Trump cuts US duty rates on steel, aluminum and copper derivative products",
+          "summary": "The U.S. administration implemented reductions in duty rates for imported steel, aluminum, and copper derivative goods.",
+          "why": "Altered import duties change metal pricing structures, potentially affecting margins for metal processors and downstream fabricators.",
+          "action": "Assess how localized metal cost adjustments might ripple through global export markets and influence customer manufacturing budgets.",
           "th": {
-            "title": "อุตสาหกรรมอเมริกันใช้เหล็กน้อยลง",
-            "summary": "การวิเคราะห์ล่าสุดบ่งชี้ถึงแนวโน้มการบริโภคเหล็กโดยรวมที่ลดลงในภาคการผลิตดั้งเดิมของอเมริกา เนื่องจากประสิทธิภาพของวัสดุและปัจจัยนำเข้าทางเลือกเริ่มหยั่งราก",
-            "why": "การเปลี่ยนแปลงของการบริโภคเหล็กในประเทศเศรษฐกิจขนาดใหญ่ส่งผลกระทบต่อปริมาณการแปรรูปโลหะทั่วโลก ซึ่งมีอิทธิพลต่อความต้องการระดับภูมิภาคสำหรับล้อเจียรสำหรับงานหนักและผลิตภัณฑ์ปรับสภาพผิว",
-            "action": "กระจายการติดตามข้อมูลข่าวสารทางธุรกิจให้กว้างกว่าปริมาณโลหะดิบ เพื่อติดตามภาคการผลิตโลหะพิเศษที่มีมูลค่าสูง"
-          }
-        },
-        {
-          "id": "20261023-w4",
-          "tag": "steel",
-          "rating": "white",
-          "source": "World Economic Forum",
-          "date": "2026-04-21",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPc3hudkhpWE9BVTdWSk5BQWV2SWpBNHZxOUFfY2Rxcy0weW4tc2c2UFE1blAwRjVvYzRFcE9TdW1iVTdfYXBSVGk0UER5ZDVFQkZybG51bEY2QmhYemE3anRJbERYRW9KUkZHcHZ2eHZCMTRSMWlYMklYTDNPdzZGYzZZOFQtblNBMktoS2RNSndvX1dDRlZQSlBUT1pVdE1FN0ozOFZibUxlaHFGT1FjNUpZWEEyZGFrMTJUTXhPNA?oc=5",
-          "title": "How the Iran war is disrupting India's steel production amid fuel shortages and rising costs",
-          "summary": "Geopolitical conflict in the Middle East has created fuel and supply chain disruptions impacting India's steel manufacturing sector and operational costs.",
-          "why": "Energy shocks and raw material cost inflation in key steel-producing nations can cause ripple effects on the pricing and availability of metal fabrication supplies worldwide.",
-          "action": "Stay alert to energy and fuel cost fluctuations that impact abrasive manufacturing and shipping overhead.",
-          "th": {
-            "title": "สงครามในอิหร่านกำลังขัดขวางการผลิตเหล็กของอินเดียท่ามกลางปัญหาขาดแคลนเชื้อเพลิงและต้นทุนที่สูงขึ้น",
-            "summary": "ความขัดแย้งทางภูมิรัฐศาสตร์ในตะวันออกกลางได้สร้างความปั่นป่วนด้านเชื้อเพลิงและห่วงโซ่อุปทาน ซึ่งส่งผลกระทบต่อภาคการผลิตเหล็กและต้นทุนการดำเนินงานของอินเดีย",
-            "why": "ความตกใจด้านพลังงานและภาวะเงินเฟ้อของต้นทุนวัตถุดิบในประเทศผู้ผลิตเหล็กรายสำคัญสามารถส่งผลกระทบเป็นลูกโซ่ต่อราคาและความพร้อมใช้งานของอุปกรณ์แปรรูปโลหะทั่วโลก",
-            "action": "ระมัดระวังต่อความผันผวนของต้นทุนพลังงานและเชื้อเพลิงที่ส่งผลกระทบต่อค่าใช้จ่ายในการผลิตและการขนส่งวัสดุขัด"
+            "title": "ทรัมป์ปรับลดอัตราภาษีนำเข้าผลิตภัณฑ์แปรรูปเหล็ก อลูมิเนียม และทองแดงของสหรัฐฯ",
+            "summary": "รัฐบาลสหรัฐฯ ดำเนินการปรับลดอัตราภาษีสำหรับสินค้าแปรรูปจากเหล็ก อลูมิเนียม และทองแดงที่นำเข้า",
+            "why": "อัตราภาษีนำคนที่เปลี่ยนไปทำให้โครงสร้างราคากระทบต่อกำไรของผู้แปรรูปโลหะและโรงงานผลิตปลายน้ำ",
+            "action": "ประเมินว่าการปรับต้นทุนโลหะในท้องถิ่นจะส่งผลกระทบต่อตลาดส่งออกและงบประมาณการผลิตของลูกค้าอย่างไร"
           }
         }
       ]
