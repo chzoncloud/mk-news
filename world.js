@@ -4,64 +4,46 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-24",
-      "summary": "Today's briefing features 3 newly selected global industry signals focusing on coatings, digital manufacturing innovations, and advanced automotive components.",
+      "summary": "Today's briefing highlights steady growth in precision finishing and specialized surface prep markets, led by developments in superhard diamond abrasives and sustainable green coatings technologies.",
       "directCount": 2,
       "th": {
-        "summary": "สรุปข้อมูลแนวโน้มโลกประจำวันนี้คัดเลือก 3 ข่าวสารใหม่ที่เน้นเรื่องสารเคลือบ นวัตกรรมการผลิตดิจิทัล และชิ้นส่วนยานยนต์ขั้นสูง"
+        "summary": "สรุปข้อมูลแนวโน้มโลกวันนี้เน้นย้ำการเติบโตอย่างต่อเนื่องในตลาดการขัดตกแต่งผิวความละเอียดสูงและวัสดุขัดพิเศษ นำโดยพัฒนาการด้านวัสดุขัดเพชรสังเคราะห์และเทคโนโลยีสารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อม"
       },
       "items": [
         {
           "id": "20261024-w1",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "European Coatings",
-          "date": "2026-06-04",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUDgzbkl5cWdzSnJwcGViRm5mVWNYTWllWVF6RENXM2dRbG84cTh6bFRXckpiYVZkMWRWZk5OWGZhTjZCdm9zTUpTLWJlUmhLR1BnUmhIUWJ3VUVSdW5WQ05tZjVnTmQ3Tld4RG5rbVdKNEJrblFzNlE0NFZyRWw3SEZ1RWdES2pzYndyWnZPOVgyRzB4YTBGT0NOZDU4ZDdnejhFRHpMYkQ2T1ZX?oc=5",
-          "title": "ETCC 2026 in Prague: A hub for coatings innovation and sustainability",
-          "summary": "The European Technical Coatings Congress highlighted major developments in sustainable and high-performance coating technologies.",
-          "why": "Surface coatings and abrasive pre-treatment or post-polishing processes are closely linked in manufacturing finishing lines.",
-          "action": "Track sustainable coating shifts to understand how surface finishing specs might change for metal and wood.",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "The National Law Review",
+          "date": "2026-10-16",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONzc1UG5lV0E3Z2JCYnd2dFpLZmt2VTRYVEk5cHlBS2FYaDIzNHNJeTNBd3R3dDE0cFF4QlhNZE9ZX3N4enpseURtMGRTMmFHRWNPdmY2NlZ2R1F6b01ma01GXzlTMXlJd3FJdzZsY093dEVCczVVNTNPaU56Z2l0emR3d2hPNDQwT2xDY01CZW5Ib195T3RMR0tQdTY0d1FwdGgxWnB5RGI1aXpwRkNXWnln?oc=5",
+          "title": "Five Reputable Diamond Sanding Belts Manufacturers in China 2026: Optimizing Superhard Abrasive Machining",
+          "summary": "An analysis of top Chinese manufacturers highlights ongoing optimization in superhard abrasive machining using advanced diamond sanding belts.",
+          "why": "Superhard diamond abrasives represent the high-performance tier of surface finishing for hard metals and advanced materials.",
+          "action": "Monitor Chinese manufacturing capabilities in diamond belts to assess potential high-end product sourcing.",
           "th": {
-            "title": "งาน ETCC 2026 ที่ปราก: ศูนย์กลางนวัตกรรมสารเคลือบและความยั่งยืน",
-            "summary": "การประชุมเทคโนโลยีสารเคลือบยุโรปเน้นย้ำพัฒนาการสำคัญด้านเทคโนโลยีสารเคลือบที่ยั่งยืนและมีประสิทธิภาพสูง",
-            "why": "กระบวนการเคลือบผิวและกระบวนการเตรียมผิวหรือขัดเงาด้วยกระดาษทรายมีความเชื่อมโยงกันอย่างใกล้ชิดในสายการผลิต",
-            "action": "ติดตามการเปลี่ยนแปลงของสารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมเพื่อเข้าใจว่าสเปกการตกแต่งผิวโลหะและไม้อาจเปลี่ยนไปอย่างไร"
+            "title": "5 ผู้ผลิตสายพานขัดเพชรชั้นนำในจีนปี 2026: การเพิ่มประสิทธิภาพงานตัดเฉือนด้วยวัสดุขัดแข็งพิเศษ",
+            "summary": "บทวิเคราะห์ผู้ผลิตชั้นนำของจีนเน้นย้ำการพัฒนาประสิทธิภาพการตัดเฉือนด้วยวัสดุขัดแข็งพิเศษโดยใช้สายพานขัดเพชรขั้นสูง",
+            "why": "วัสดุขัดเพชรความแข็งสูงเป็นกลุ่มผลิตภัณฑ์งานขัดผิวประสิทธิภาพสูงสำหรับโลหะแข็งและวัสดุสมัยใหม่",
+            "action": "ติดตามขีดความสามารถการผลิตสายพานขัดเพชรของจีนเพื่อประเมินโอกาสในการจัดหาสินค้าเกรดสูง"
           }
         },
         {
           "id": "20261024-w2",
-          "tag": "auto",
+          "tag": "coating",
           "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-09-02",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUUpWSmpHLVowSXdiLUJqcFlpQ3ZfRmdQYjJiTVFCNk00ZW0tM0ZqenQtd2F4emNVNEdzT3Q3amZ3M050YnNuTldQZFQyTlgyX3ByekdEbkdlaURacG5yRlBUSEZucnBQalBmNzVadXVrSDdXcEd0d2t4UXptUzJ5dXZ6ckE1O3RVV3IyUkY4SFdVSERveVJYem0yM3lNbWFUY1dXWHYyRFZ2cXdldWFqRmJTNE4tQ1RXWWp4N3NCN1h5Vmt3d3hEbkFPc2ZqT0k?oc=5",
-          "title": "A global AI manufacturing transformation at Hyundai Motor Group",
-          "summary": "Hyundai is accelerating AI-driven automation across its global manufacturing plants to boost efficiency and precision.",
-          "why": "Smart factories and automated assembly lines require high-precision automated deburring and surface finishing tools.",
-          "action": "Prepare for future customer demands asking for abrasives compatible with robotic sanding and automated grinding arms.",
+          "source": "Market Business Insights",
+          "date": "2026-10-14",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBSDItTlp3MlgweDg2N3hibzBRRVgwVGJKa3RRWUpXc0pMcjJ3U241dE1LcnRYR3hna3hBUjNRdzZBdFIwUUEtTnd1MlFYdXIwTGpOVWNCVWpjeU45M1JISk1tVkZUYVpjR25UVUN3?oc=5",
+          "title": "Green Coatings Market Size & Growth Analysis, 2026-2035",
+          "summary": "The green coatings market continues its expansion trajectory through 2035, driven by environmental regulations and sustainable formulation demands.",
+          "why": "Changes in industrial coatings and surface finishes directly impact how prep work, sanding, and surface roughening are performed prior to coating application.",
+          "action": "Keep track of eco-friendly surface preparation requirements that align with new green coating standards.",
           "th": {
-            "title": "การเปลี่ยนแปลงการผลิตด้วย AI ระดับโลกที่ฮุนได มอเตอร์ กรุ๊ป",
-            "summary": "ฮุนไดกำลังเร่งระบบอัตโนมัติที่ขับเคลื่อนด้วย AI ในโรงงานผลิตทั่วโลกเพื่อเพิ่มประสิทธิภาพและความแม่นยำ",
-            "why": "โรงงานอัจฉริยะและสายการผลิตอัตโนมัติจำเป็นต้องใช้เครื่องมือลบคมและขัดผิวที่มีความแม่นยำสูงแบบอัตโนมัติ",
-            "action": "เตรียมพร้อมรับความต้องการของลูกค้าในอนาคตที่มองหาวัสดุขัดที่รองรับการขัดด้วยหุ่นยนต์และแขนกลอัตโนมัติ"
-          }
-        },
-        {
-          "id": "20261024-w3",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Future Market Insights",
-          "date": "2026-02-12",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc2x3UG45VXZPYjdDdjdGZ21pUkZDc2FIZnlYOWdzRXlpM0ZlLXAzR2poSHN5YllRYk9EYkZLTW1fS1FZN3Z6ZEN1SXN5cTR5cXhkeGc3QjJxMG5WeFFVN0dRQjlZUmJ6NnhNN1lYWFMzUGE1dWhfY0FWd05FWnlwYlFDcGZfZzFPeC1fbWpn?oc=5",
-          "title": "Automotive Composite Leaf Springs Market",
-          "summary": "The market for lightweight composite leaf springs in vehicles is growing as manufacturers seek weight reduction solutions.",
-          "why": "Machining and finishing composite materials requires specialized diamond or silicon carbide abrasives to prevent delamination.",
-          "action": "Look into specialized abrasive tools designed specifically for cutting and finishing automotive composite materials.",
-          "th": {
-            "title": "ตลาดแหนบรถยนต์คอมโพสิต",
-            "summary": "ตลาดแหนบวัสดุคอมโพสิตน้ำหนักเบาในยานยนต์กำลังเติบโตเนื่องจากผู้ผลิตต้องการโซลูชันลดน้ำหนักรถ",
-            "why": "การตัดแต่งและตกแต่งวัสดุคอมโพสิตต้องใช้กระดาษทรายเพชรหรือซิลิคอนคาร์ไบด์พิเศษเพื่อป้องกันการแยกชั้น",
-            "action": "ศึกษาเครื่องมือขัดเฉพาะทางที่ออกแบบมาสำหรับการตัดและแต่งผิววัสดุคอมโพสิตในยานยนต์โดยเฉพาะ"
+            "title": "การวิเคราะห์ขนาดและการเติบโตของตลาดสารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อม ปี 2026-2035",
+            "summary": "ตลาดสารเคลือบสีเขียวยังคงเติบโตอย่างต่อเนื่องจนถึงปี 2035 ขับเคลื่อนโดยกฎระเบียบด้านสิ่งแวดล้อมและความต้องการสูตรการผลิตที่ยั่งยืน",
+            "why": "การเปลี่ยนแปลงของสารเคลือบอุตสาหกรรมส่งผลโดยตรงต่อกระบวนการเตรียมผิว การขัดกระดาษทราย และการปรับสภาพผิวก่อนพ่นเคลือบ",
+            "action": "ติดตามข้อกำหนดการเตรียมพื้นผิวที่เป็นมิตรต่อสิ่งแวดล้อมให้สอดคล้องกับมาตรฐานสารเคลือบใหม่ๆ"
           }
         }
       ]
