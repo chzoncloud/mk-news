@@ -2,6 +2,71 @@
 window.NEWS_ARCHIVE = {
   "days": [
     {
+      "date": "2026-10-25",
+      "summary": "News flow is relatively light today. The standout development is the Finance Ministry's fast-tracked proposal to raise CBU EV import taxes to 30%, which will accelerate domestic assembly and boost metal finishing abrasive demand.",
+      "directCount": 1,
+      "th": {
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก ประเด็นเด่นคือกระทรวงการคลังเตรียมเสนอ ครม. ปรับขึ้นภาษีรถ EV นำเข้าทั้งคันเป็น 30% ซึ่งจะเร่งให้ค่ายรถยนต์ตั้งฐานผลิตในประเทศและเพิ่มความต้องการวัสดุขัดแต่งผิวโลหะ"
+      },
+      "items": [
+        {
+          "id": "20261025-1",
+          "tag": "auto",
+          "rating": "green",
+          "source": "Facebook",
+          "date": "2026-10-19",
+          "url": "https://news.google.com/rss/articles/CBMipwdBVV95cUxQUG9PbWZqN1VSVFFNblh5ZnBWc1U5cURJOGVZWTBfV3hFR2h0RWFjaFBoOGsxb0kwbVZPRXJaSXhsSUc2OS1ydEYwbGY3ODd5blFxUGp5S1RlbVZpTXFiLVVEVUJuT2dKaFI5YzBMZmV3NFJYMkpNSldYaVVhTERsSWJEcktQcXBHbFpySUdTVUszdkctaFZIQ3llWDlLbkw0M1lzaERmWXNvU2lYbEU3R3NlblJxTFFDWVRJYXU1UFM1ZGcxSmRfYXBGWE9wY0cyMTZpQTR1V3NZMWdEYmxSX1BRanVuVl8wYXp4THdWM3h1ekR0ZmlrRkMyYUx4a0FSUTlXRjV6ZkxlLWdYZUdseDh1VGFnSFZNSmpUaUxCT2JFU0lGWC12SXRTOW5mNWZ6UDRJSFFQcFp3YkVMLVdOcTlYLVFxb0I4czFtUjBkN3dlN2ZGbkUwamQ4YnFkRjc4ZENGRWtoMW1ETVJtd3pqQklITFI1NG1Eb2tTZklfejhDOElicnVaemRlQk1WZ2dBSmg4OVJOa0V1cGFsTDNRUlBSOWZ0QUZ3RllZZXJaRmd5dDhSYWpNVFNudVZqSldUNWc3M1prMTdKVHg4LUlKeHN1VzFkU2Ztb1g5enNnSzMzRkI4NWFRTnlhdXdESGdaYzN3dkNqOGo1YVVaV0d4aGo5bEVDdXZ3T3Q0ZTlhQlpnc2NFR3M4WkRRM2xKaS1Id0NZeXotaUlwV1psNGhveVZ3TU9FZURjMmdTRXNhb2g4bEVzaTVRZzNRVWhIZmxpZHpnQjc5V3I3T2hYRUFxb195M2hqQngtS3NFLTRmb2hsaGxNeHZSODR4UWphVkNObE5nMkloZ3hQSGhVcU4zOGc3QUI2RzVPdGpTdV9hWlAybEh4djA4TFRMRV9xMXQxWjZsMWJ0Q2FmWlVSQkszekR6d3YwUTRqUWZjQllqTVZaQUF4OHlMTlZjZWs4c2c1U3Z5SEpHR2VJLV9WX2QzU0l3SzBwTUhWSnNNMUZyTUJvU1d3ZldkSUt1ZFNxQXFBM2pVOU1tYzcxaTlSSnVfa0E3WThNRmNtQ2Y0bFNnRlpFb2NkbzgzaFdpeDlqT1d4R1E5TFY1eDAwak5JRk5DN2NOTnZuTE1LV3E4QUtieFBtcDB1bFBJbjBBYjJjYkc1UFFVMGY4RC1JRWI1UVBkZHI1X3JoeGdRVWJaNHIzTndiN3RkUVVMM2JvQndUUnRMNHBoS09XOA?oc=5",
+          "title": "Finance Ministry to Propose 30% Excise Tax on Imported CBU EVs",
+          "summary": "The Ministry of Finance will submit a plan to the Cabinet within two weeks to raise excise tax on fully imported EVs from 10% to at least 30%. The move aims to protect domestic producers and push foreign automakers to set up local assembly lines.",
+          "why": "A rapid shift toward localized vehicle assembly will drive direct factory demand for grinding, stamping deburring, and polishing abrasives.",
+          "action": "Map out new EV assembly plant timelines and approach their procurement and Tier-1 body stamping suppliers.",
+          "th": {
+            "title": "คลังจ่อชง ครม. เคาะภาษี EV นำเข้า 30% บีบตั้งโรงงานผลิตในไทย",
+            "summary": "กระทรวงการคลังเตรียมเสนอ ครม. ภายใน 2 สัปดาห์ ปรับขึ้นภาษีสรรพสามิตรถ EV นำเข้าทั้งคันจาก 10% เป็นไม่ต่ำกว่า 30% เพื่อปกป้องฐานการผลิตในประเทศและกดดันค่ายรถยนต์เร่งสร้างโรงงานประกอบในไทย",
+            "why": "การเร่งเปิดสายการผลิตรถยนต์ในประเทศจะผลักดันความต้องการใช้วัสดุขัดแต่งผิว เจียร และลบครีบชิ้นส่วนโลหะโดยตรง",
+            "action": "ติดตามแผนเปิดโรงงานประกอบรถยนต์ EV และเข้าติดต่อฝ่ายจัดซื้อของโรงงานปั๊มขึ้นรูปชิ้นส่วนยานยนต์ Tier-1 ทันที"
+          }
+        },
+        {
+          "id": "20261025-2",
+          "tag": "aero",
+          "rating": "amber",
+          "source": "MGR Online",
+          "date": "2026-10-06",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIazdnNjc2TVdpRWNOSTNQS2tlaWFWdl9KbE5OaEdlLWlZX0RaWERWWjhJV1l0MjdTejNaSHVhOEMwSThnWmtFaUJMWVAydHIxVkFKTktiQ0pXb09KVVRLWg?oc=5",
+          "title": "EEC and Thai Airways Officially Sign Contract for 10-Billion-Baht U-Tapao MRO Project",
+          "summary": "The Eastern Economic Corridor and Thai Airways have signed an agreement to develop a 10-billion-baht aircraft MRO center at U-Tapao airport. Construction is scheduled for 2027 with commercial operations beginning by 2030, targeting 4 to 6 billion baht in annual revenue.",
+          "why": "The formalization of U-Tapao MRO ensures substantial long-term industrial demand for aerospace-grade polishing and precision surface treatment products.",
+          "action": "Begin evaluating aerospace abrasive compliance standards and establish introductory contact with Thai Airways technical teams.",
+          "th": {
+            "title": "อีอีซี จับมือ การบินไทย เซ็นสัญญาลงทุนศูนย์ซ่อม MRO อู่ตะเภาหมื่นล้าน",
+            "summary": "อีอีซีและบริษัท การบินไทย ร่วมลงนามสัญญาพัฒนาศูนย์ซ่อมบำรุงอากาศยาน (MRO) วงเงิน 1 หมื่นล้านบาท ณ สนามบินอู่ตะเภา มีกำหนดเริ่มก่อสร้างปี 2570 และเปิดบริการปี 2573 คาดสร้างรายได้ 4-6 พันล้านบาทต่อปี",
+            "why": "การลงนามเริ่มโครงการจริงช่วยรับประกันความต้องการใช้วัสดุขัดแต่งผิวความแม่นยำสูงและงานซ่อมโลหะเกรดอากาศยานในระยะยาว",
+            "action": "ศึกษามาตรฐานและใบรับรองวัสดุขัดสำหรับอากาศยาน พร้อมเริ่มสร้างคอนเนกชันกับฝ่ายช่างของการบินไทย"
+          }
+        },
+        {
+          "id": "20261025-3",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "TNN Thailand",
+          "date": "2026-10-21",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ibmpiM1dkTGVBNUdxUDFEZWphV1Z2aWY3RWd4QVgydzJMNEU5N1l6MUFDTmE2ODFQSDl4OFdScmM0T3lhNGg2TVA1NnE3cDYzdHlFNWZ0eXVNLTZvS3kwVHpZcw?oc=5",
+          "title": "Thailand Competes with Vietnam for Regional Automotive Manufacturing Dominance",
+          "summary": "Thailand and Vietnam are in tight competition to lead Southeast Asia's next-generation automotive production hub, with Thailand leveraging its mature supply chains while Vietnam rapidly scales up domestic manufacturing.",
+          "why": "Thailand's ability to retain auto assembly volumes directly impacts production schedules and abrasive consumption among our Japanese Tier-1 and Tier-2 clients.",
+          "action": "Maintain close relationships with Japanese automotive accounts and offer cost-down abrasive trial packages to help them preserve cost competitiveness.",
+          "th": {
+            "title": "ไทย ปะทะ เวียดนาม ชิงบัลลังก์ศูนย์กลางการผลิตยานยนต์แห่งภูมิภาค",
+            "summary": "ไทยและเวียดนามเปิดศึกแข่งขันเพื่อเป็นศูนย์กลางการผลิตยานยนต์ยุคใหม่ในภูมิภาค โดยไทยอาศัยความแข็งแกร่งของห่วงโซ่อุปทานเดิม ขณะที่เวียดนามเร่งขยายฐานการผลิตอย่างก้าวกระโดด",
+            "why": "การรักษาฐานผลิตยานยนต์ในไทยมีความสำคัญต่อปริมาณการผลิตและการใช้วัสดุขัดของโรงงานชิ้นส่วนยานยนต์ญี่ปุ่นที่เป็นลูกค้าหลักของเรา",
+            "action": "รักษาความสัมพันธ์ใกล้ชิดกับลูกค้ากลุ่มยานยนต์ญี่ปุ่น และนำเสนอชุดทดสอบวัสดุขัดที่ช่วยลดต้นทุนการผลิตเพื่อช่วยลูกค้าเพิ่มความสามารถในการแข่งขัน"
+          }
+        }
+      ],
+      "terms": {}
+    },
+    {
       "date": "2026-10-24",
       "summary": "Limited new industry developments today. Diplomatic efforts to protect Thailand's Japanese automotive supply chain and AirAsia's planned MRO investments provide steady mid-to-long-term opportunities for MK's precision abrasive products.",
       "directCount": 1,
@@ -971,90 +1036,7 @@ window.NEWS_ARCHIVE = {
         }
       ],
       "terms": {}
-    },
-    {
-      "date": "2026-10-11",
-      "summary": "New developments are limited today, but regional competition is intensifying as Indonesia courts Toyota and Ford explores India as an EV export hub. These structural shifts pose medium-term risks to Thailand's automotive supply chain and MK's core Japanese manufacturing client base.",
-      "directCount": 0,
-      "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มากนัก แต่แรงกดดันจากการแข่งขันในภูมิภาคเริ่มเด่นชัดขึ้น โดยอินโดนีเซียเดินหน้าจีบโตโยต้า ขณะที่ฟอร์ดเล็งใช้อินเดียเป็นฐานส่งออก EV ซึ่งอาจส่งผลกระทบระยะกลางต่อห่วงโซ่อุปทานยานยนต์ไทยและฐานลูกค้าโรงงานญี่ปุ่นหลักของ MK"
-      },
-      "items": [
-        {
-          "id": "20261011-1",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Brand Inside",
-          "date": "2026-08-14",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNnp5aUZLY2RzNjVBTHl1dVozcFVRLS1hZUtiY1lBOFlOZXJFX3RoMU11dm9ISDBVMG40Y09JOUJ2QmVGV3hHWjNPdFRySDVRYmZWLXd0UjJlUGh1Z0gzaUFPcUpXT0Z1Y0h0TkN3S19wYVp0QVhVdnlrd0NUbjZSUm9qRQ?oc=5",
-          "title": "Indonesia Aggressively Courts Toyota with Full Incentives Amid Thai Automotive Transition",
-          "summary": "Indonesia is offering comprehensive investment packages to convince Toyota to relocate manufacturing facilities, leveraging concerns that Thailand is prioritizing Chinese EV makers.",
-          "why": "Toyota and Japanese component suppliers represent MK's primary customer base; any shift in production capacity to Indonesia threatens local demand for grinding and surface finishing materials.",
-          "action": "Strengthen partnerships with key Japanese Tier-1 automotive accounts in Samut Prakan and Eastern Seaboard by proposing cost-saving abrasive testing programs.",
-          "th": {
-            "title": "อินโดนีเซียรุกหนักจีบโตโยต้าย้ายฐานการผลิต พร้อมประเคนสิทธิประโยชน์เต็มสูบ",
-            "summary": "อินโดนีเซียเร่งเสนอแพ็กเกจสิทธิประโยชน์รอบด้านเพื่อชวนโตโยต้าย้ายฐานการผลิต ท่ามกลางกระแสความกังวลว่าไทยมุ่งเอื้อประโยชน์ให้ค่าย EV จีนมากกว่า",
-            "why": "โตโยต้าและซัพพลายเออร์ญี่ปุ่นคือกลุ่มลูกค้าหลักของ MK หากเกิดการย้ายฐานผลิตจริงจะกระทบต่อยอดใช้วัสดุขัดเจียรและเตรียมผิวในประเทศโดยตรง",
-            "action": "กระชับความสัมพันธ์กับลูกค้ายานยนต์ Tier-1 ญี่ปุ่นในสมุทรปราการและภาคตะวันออก พร้อมนำเสนอโซลูชันทดสอบวัสดุขัดเพื่อช่วยโรงงานลดต้นทุน"
-          }
-        },
-        {
-          "id": "20261011-2",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "กรมส่งเสริมการค้าระหว่างประเทศ (DITP)",
-          "date": "2026-09-23",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pWWtMYlMtbEc3eTVkcWVCTTlQQ0Z5UWZUTTFLSmhCcE5XRFVYeGlMQ2JjVVZSOHE2U2RPSlNPUzhpRHduSjExdUFSZXZrVEhFMDgzQ3NuNFdUbEdVVjRnNDh3?oc=5",
-          "title": "Ford Considers Chennai Plant as EV Export Base for Asia-Pacific Region",
-          "summary": "Ford is evaluating its Chennai plant in Tamil Nadu as a primary manufacturing and export hub for electric vehicles across the Asia-Pacific market.",
-          "why": "Global automakers selecting non-ASEAN production hubs limits the expansion of local metal stamping, body fabrication, and robotic deburring in Thailand.",
-          "action": "Accelerate client acquisition in non-automotive sectors such as metal fabrication and aerospace MRO to hedge against automotive volume volatility.",
-          "th": {
-            "title": "ฟอร์ดเล็งใช้โรงงานเจนไนเป็นฐานส่งออก EV เจาะตลาดเอเชียแปซิฟิก",
-            "summary": "ฟอร์ดกำลังศึกษาการใช้โรงงานในเมืองเจนไน รัฐทมิฬนาฑู ประเทศอินเดีย เป็นฐานการผลิตและส่งออกยานยนต์ไฟฟ้าสำหรับภูมิภาคเอเชียแปซิฟิก",
-            "why": "หากค่ายรถยนต์รายใหญ่กระจายกำลังการผลิตไปยังอินเดีย จะจำกัดโอกาสการเติบโตของงานปั๊มขึ้นรูป ลบครีบคม และเตรียมผิวตัวถังในไทย",
-            "action": "เร่งกระจายความเสี่ยงโดยขยายฐานลูกค้าสู่งานแปรรูปโลหะทั่วไปและงานซ่อมบำรุงอากาศยาน (MRO) เพื่อลดการพึ่งพากลุ่มยานยนต์เพียงอย่างเดียว"
-          }
-        },
-        {
-          "id": "20261011-3",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Thaipost.net",
-          "date": "2026-08-24",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRMFNRQjQySW9WNHdaVl9ReVJRV3hZaUdUMnpnbzVtN1VKX3JaOFo4RVB1ZXZjSWNLYWFlTzVZb0tzcnl3QXVOMTZNTTh5R09DU2hHZlNqNFFKQQ?oc=5",
-          "title": "Auto Industry Warns Thailand Risks Losing Regional Competitiveness Without Policy Adjustments",
-          "summary": "Automotive stakeholders are warning that Thailand could lose its regional leadership unless policies are recalibrated to support ICE, HEV, and existing component supply chains.",
-          "why": "Prolonged stagnation in domestic vehicle output forces Tier-2/3 stamping and machining factories to cut operational budgets for consumables like sanding belts and grinding discs.",
-          "action": "Promote high-durability abrasive lines, such as ceramic grain flap discs, that provide longer life and lower per-piece processing costs for budget-conscious factories.",
-          "th": {
-            "title": "สัญญาณเตือนภัยอุตฯ ยานยนต์ไทย เสี่ยงสูญเสียความสามารถแข่งขันจี้รัฐทบทวนนโยบาย",
-            "summary": "ภาคอุตสาหกรรมยานยนต์ส่งสัญญาณเตือนไทยเสี่ยงเสียแชมป์ฐานผลิต หากภาครัฐไม่เร่งปรับนโยบายพยุงกลุ่มเครื่องยนต์สันดาป ไฮบริด และห่วงโซ่ชิ้นส่วนเดิม",
-            "why": "ภาวะการผลิตที่ชะลอตัวบีบให้โรงงาน Tier-2/3 ในสายงานปั๊มขึ้นรูปและกลึงโลหะต้องรัดเข็มขัดและลดงบจัดซื้อวัสดุสิ้นเปลืองอย่างกระดาษทรายและใบเจียร",
-            "action": "นำเสนอสินค้าวัสดุขัดเกรดพรีเมียมที่ทนทานสูง (เช่น ผ้าทรายเม็ดเซรามิก) ซึ่งช่วยลดต้นทุนต่อชิ้นงานเพื่อตอบโจทย์โรงงานที่กำลังควบคุมงบประมาณ"
-          }
-        },
-        {
-          "id": "20261011-4",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "Matichon Online",
-          "date": "2026-05-21",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UYW10Tk1DUVRKUmhSc0EtelBFYk5QMlZpSE5XTGR1S1FEaGFuVExkWVVjZ3Fyc3dnek5ZNlozMWNUNWxSQTVrY3FmOTVDT0MzX0E2SjZkYm1QQ28?oc=5",
-          "title": "Steel Associations Urge Ministry Action on Chinese Influx and Substandard Induction Furnaces",
-          "summary": "Ten steel associations petitioned the Industry Ministry to counter low-cost Chinese imports and enforce strict standards on substandard induction furnace (IF) steel facilities.",
-          "why": "Market saturation from cheap imported and non-standard steel lowers production rates at certified domestic steelmakers, suppressing demand for heavy-duty cutting and snagging wheels.",
-          "action": "Target steel fabricators and infrastructure suppliers holding strict TIS certification standards where premium, verified grinding performance is required.",
-          "th": {
-            "title": "10 สมาคมเหล็กร้องกระทรวงอุตสาหกรรม สกัดเหล็กจีนทะลัก-คุมเข้มเตา IF",
-            "summary": "10 สมาคมผู้ผลิตเหล็กเข้ายื่นข้อเรียกร้องต่อกระทรวงอุตสาหกรรม จี้คุมกำเนิดเหล็กนำเข้าราคาถูกจากจีน และกวดขันโรงงานเตาหลอม Induction Furnace ที่ไม่ได้มาตรฐาน",
-            "why": "ภาวะเหล็กราคาถูกและไม่ได้มาตรฐานล้นตลาดกระทบยอดผลิตของโรงงานเหล็กมาตรฐานในไทย ส่งผลให้ความต้องการหินเจียรขนาดใหญ่และใบตัดลดลง",
-            "action": "มุ่งเจาะกลุ่มโรงงานแปรรูปโครงสร้างเหล็กและผู้รับเหมางานโครงสร้างพื้นฐานที่ต้องใช้มาตรฐาน มอก. อย่างเคร่งครัด ซึ่งเน้นวัสดุขัดคุณภาพสูงเป็นหลัก"
-          }
-        }
-      ],
-      "terms": {}
     }
   ],
-  "updated": "2026-10-24"
+  "updated": "2026-10-25"
 };
