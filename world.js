@@ -4,82 +4,46 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-25",
-      "summary": "Today's briefing highlights global market expansion for high-precision abrasives, single-layered coated abrasive fundamentals, green and digital coating trends, and shifting steel dynamics.",
-      "directCount": 3,
+      "summary": "Today's briefing focuses on niche industrial developments, including green coatings growth and metal casting forecasts, as many major steel and abrasive headlines were recently covered.",
+      "directCount": 1,
       "th": {
-        "summary": "สรุปข่าววันนี้เน้นการเติบโตของตลาดวัสดุขัดถูความแม่นยำสูง, พื้นฐานกระดาษทรายเคลือบชั้นเดียว, แนวโน้มสารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมและดิจิทัล, รวมถึงความเปลี่ยนแปลงในตลาดเหล็กโลก"
+        "summary": "สรุปข่าววันนี้เน้นการพัฒนาอุตสาหกรรมเฉพาะกลุ่ม เช่น การเติบโตของสีเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมและการคาดการณ์ตลาดการหล่อโลหะ เนื่องจากข่าวเหล็กและกระดาษทรายส่วนใหญ่เพิ่งนำเสนอไป"
       },
       "items": [
         {
           "id": "20261025-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "EIN News",
-          "date": "2026-10-19",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM2VsRTlqVWR6dlpoUXpZQ04wNnJsRUNBbndKSnNQODIyUXdnTTlIT0hZMC10bGhEUUk0clZ5ZWZRN0I2eVhiVHVPVmRYd05xWUdJdDJldTBsTkZEUVNBNG5qaE9WeXdDN2dSVzJ2TzNsVFhBNVMzakhwZFR6Z0dQeFFVS0ZPa0dmWmh1dHhiYXVXWWRrbk9XS251Ul9SVS1SZ3NON0VXRWxfOWtzazlNcXhUMVBnU2liODhqaXF6OEdGb2NEYkRoaG9uNmx6MlNjMUd2N3Q0emZnUXltZk1wbg?oc=5",
-          "title": "Abrasives Market to Reach $72.2 Billion by 2030, Growing at a 7.6% CAGR Driven by Precision Finishing Demand",
-          "summary": "The global abrasives market is projected to reach $72.2 billion by 2030, driven heavily by increasing manufacturing requirements for precision finishing.",
-          "why": "Confirms strong, steady macroeconomic growth for our core product category, especially in high-precision segments.",
-          "action": "Ensure our inventory and marketing focus heavily on precision finishing products to capture growing market value.",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "Market Business Insights",
+          "date": "2026-10-14",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBSDItTlp3MlgweDg2N3hibzBRRVgwVGJKa3RRWUpXc0pMcjJ3U241dE1LcnRYR3hna3hBUjNRdzZBdFIwUUEtTnd1MlFYdXIwTGpOVWNCVWpjeU45M1JISk1tVkZUYVpjR25UVUN3?oc=5",
+          "title": "Green Coatings Market Size & Growth Analysis, 2026-2035",
+          "summary": "The green coatings market continues to expand through 2035, driven by environmental regulations and sustainable manufacturing demands.",
+          "why": "Shifts in surface coatings often align with changes in pre-treatment and sanding processes in manufacturing.",
+          "action": "Monitor eco-friendly surface preparation standards used alongside green coatings.",
           "th": {
-            "title": "ตลาดวัสดุขัดถูพุ่งแตะ 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 ขับเคลื่อนโดยความต้องการงานขัดผิวความแม่นยำสูง",
-            "summary": "ตลาดวัสดุขัดถูทั่วโลกคาดว่าจะเติบโตแตะ 7.22 หมื่นล้านดอลลาร์สหรัฐภายในปี 2030 หนุนโดยความต้องการด้านการตกแต่งผิวให้มีความแม่นยำสูงในภาคการผลิต",
-            "why": "ยืนยันการเติบโตในภาพรวมของตลาดหลักที่เราทำธุรกิจอยู่ โดยเฉพาะกลุ่มสินค้าความแม่นยำสูง",
-            "action": "ตรวจสอบสต็อกสินค้าและเน้นการทำตลาดสินค้ากลุ่มขัดผิวความแม่นยำสูงเพื่อคว้าส่วนแบ่งการเติบโตนี้"
+            "title": "ขนาดตลาดสีเคลือบสีเขียวและการวิเคราะห์การเติบโต 2026-2035",
+            "summary": "ตลาดสีเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมยังคงขยายตัวถึงปี 2035 ขับเคลื่อนโดยกฎระเบียบด้านสิ่งแวดล้อมและความต้องการการผลิตที่ยั่งยืน",
+            "why": "การเปลี่ยนแปลงของพื้นผิวเคลือบมักสอดคล้องกับกระบวนการเตรียมผิวและการขัดกระดาษทรายในการผลิต",
+            "action": "ติดตามมาตรฐานการเตรียมพื้นผิวที่เป็นมิตรต่อสิ่งแวดล้อมที่ใช้คู่กับสีเคลือบสีเขียว"
           }
         },
         {
           "id": "20261025-w2",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "Cutting Tool Engineering",
-          "date": "2026-01-19",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdlIxbnF0ZzBnSUozVVYybGZwMnF5R09nTWZib2VyNFB2WXpIYTJEcGFpd0lfQjBDcG42eTJiNDQ2eEJhUmdGT29PZ0w4NlNSRjhhQ2w3TmplcVloMDJ5bjNYZDF1UVdLbXYxS0RtYTRFSmtDMFVaVGxVVk5zMnVxeVBiTjhiVXpydFU3YUNMR19nRlJlT3NkT3Jjb3B3dHZqQnRN?oc=5",
-          "title": "Single-layered approach: The fundamentals of using coated abrasives in metalworking",
-          "summary": "An in-depth look at using single-layered coated abrasives to optimize metalworking efficiency and surface quality.",
-          "why": "Technical insights on coated abrasives help us better advise industrial B2B customers on product selection and usage.",
-          "action": "Share technical application tips with our sales team to improve consultative selling for metalworking clients.",
-          "th": {
-            "title": "แนวทางแบบชั้นเดียว: พื้นฐานการใช้กระดาษทรายเคลือบในงานโลหะ",
-            "summary": "เจาะลึกการใช้กระดาษทรายเคลือบผิวแบบชั้นเดียวเพื่อเพิ่มประสิทธิภาพงานโลหะและคุณภาพพื้นผิวชิ้นงาน",
-            "why": "ข้อมูลเชิงเทคนิคเกี่ยวกับกระดาษทรายช่วยให้เราให้คำแนะนำลูกค้า B2B ในภาคอุตสาหกรรมได้ดียิ่งขึ้น",
-            "action": "แบ่งปันเทคนิคการใช้งานให้ทีมขาย เพื่อยกระดับการขายแบบให้คำปรึกษาแก่ลูกค้าอุตสาหกรรมโลหะ"
-          }
-        },
-        {
-          "id": "20261025-w3",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "European Coatings",
-          "date": "2026-09-09",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
-          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
-          "summary": "The coatings sector is rapidly pivoting toward green innovations, sustainability, and digital integration.",
-          "why": "Surface treatment, coatings, and abrasives are closely tied; shifts in coating technology affect pre-treatment and sanding processes.",
-          "action": "Monitor how new eco-friendly coatings change surface preparation requirements for our customers.",
-          "th": {
-            "title": "กำหนดอนาคตใหม่แห่งวงการเคลือบผิว: นวัตกรรม ความยั่งยืน และพลังแห่งดิจิทัล",
-            "summary": "ภาคอุตสาหกรรมสารเคลือบกำลังปรับตัวอย่างรวดเร็วสู่นวัตกรรมสีเขียว ความยั่งยืน และการบูรณาการด้านดิจิทัล",
-            "why": "กระบวนการเตรียมผิว สารเคลือบ และวัสดุขัดถูมีความเกี่ยวข้องกันอย่างใกล้ชิด การเปลี่ยนเเปลงของเทคโนโลยีเคลือบส่งผลต่อขั้นตอนการเตรียมผิวและขัด",
-            "action": "ติดตามว่าสารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมรุ่นใหม่ๆ จะเปลี่ยนข้อกำหนดในการเตรียมพื้นผิวของลูกค้าอย่างไร"
-          }
-        },
-        {
-          "id": "20261025-w4",
           "tag": "steel",
           "rating": "amber",
-          "source": "Progressive Policy Institute",
-          "date": "2026-09-23",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTeHd1akw0WFVaUWFucjdlRWp1cFBVQjRiRi1rWFd2WlNVRkQzanJJMmpMV3BBM0QxVEF5N2FZcmFMSFNxQ3M1VTQ5c1VJYjhJRVRQQVM3M2tac1FFMGdSSlZ4eTdQdzNINFB1MDR0a09haWhpNkFIVV9aWlA?oc=5",
-          "title": "American Industry Is Using Less Steel",
-          "summary": "Data indicates structural changes in manufacturing as American industries utilize lower volumes of traditional steel.",
-          "why": "Shifts in steel consumption directly impact metal fabrication volume and subsequent demand for grinding and deburring abrasives.",
-          "action": "Keep an eye on alternative materials replacing steel in manufacturing and evaluate if our product mix needs adaptation.",
+          "source": "Fortune Business Insights",
+          "date": "2026-10-05",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kYlp3TXBwdU5JVl9Gc0pFd3lJSFpjSUhLeEFGOVZVS19BbHBoTFNGb1BFOC1UNEN4c1o0c2xjdTFZYXhVdGRVb0dIeXZqakt1bTJkYy10SC0wRlh0RVVBZHZaWDFYbDk3cHdUbXBsYnRyYTlFVEE?oc=5",
+          "title": "Metal Casting Market Growth Analysis & Industry Forecast, 2034",
+          "summary": "Metal casting demand is forecasted to grow steadily through 2034 across global industrial sectors.",
+          "why": "Cast metal parts require extensive grinding, deburring, and surface finishing, driving abrasive product consumption.",
+          "action": "Keep an eye on metal foundry sectors for potential deburring and grinding supply opportunities.",
           "th": {
-            "title": "อุตสาหกรรมอเมริกันใช้เหล็กน้อยลง",
-            "summary": "ข้อมูลชี้ให้เห็นถึงความเปลี่ยนแปลงเชิงโครงสร้างในภาคการผลิต เมื่ออุตสาหกรรมในสหรัฐฯ ใช้ปริมาณเหล็กแบบดั้งเดิมลดลง",
-            "why": "การเปลี่ยนแปลงปริมาณการใช้เหล็กส่งผลโดยตรงต่อปริมาณงานแปรรูปโลหะ และความต้องการใช้วัสดุขัดและลบคมตามมา",
-            "action": "จับตาดูวัสดุทางเลือกที่นำมาใช้แทนเหล็กในภาคการผลิต และประเมินว่าเราควรปรับกลุ่มสินค้าให้สอดคล้องหรือไม่"
+            "title": "การวิเคราะห์การเติบโตของตลาดการหล่อโลหะและการคาดการณ์อุตสาหกรรมถึงปี 2034",
+            "summary": "ความต้องการการหล่อโลหะคาดว่าจะเติบโตอย่างต่อเนื่องจนถึงปี 2034 ในภาคอุตสาหกรรมทั่วโลก",
+            "why": "ชิ้นส่วนโลหะหล่อต้องผ่านกระบวนการเจียร ลบคม และตกแต่งผิวอย่างมาก ซึ่งช่วยขับเคลื่อนการใช้วัสดุขัด",
+            "action": "จับตาดูภาคโรงหล่อโลหะสำหรับโอกาสในการจัดหาผลิตภัณฑ์งานเจียรและลบคม"
           }
         }
       ]
