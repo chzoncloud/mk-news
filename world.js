@@ -4,10 +4,10 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-24",
-      "summary": "Today's briefing highlights steady growth in precision finishing and specialized surface prep markets, led by developments in superhard diamond abrasives and sustainable green coatings technologies.",
-      "directCount": 2,
+      "summary": "Today's briefing focuses on global manufacturing shifts, including the expansion of superhard diamond sanding tech in China, automotive coatings advancements, and metal finishing demands.",
+      "directCount": 3,
       "th": {
-        "summary": "สรุปข้อมูลแนวโน้มโลกวันนี้เน้นย้ำการเติบโตอย่างต่อเนื่องในตลาดการขัดตกแต่งผิวความละเอียดสูงและวัสดุขัดพิเศษ นำโดยพัฒนาการด้านวัสดุขัดเพชรสังเคราะห์และเทคโนโลยีสารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อม"
+        "summary": "สรุปประเด็นข่าววันนี้เน้นการเปลี่ยนแปลงในภาคการผลิตระดับโลก รวมถึงการขยายตัวของเทคโนโลยีสายพานขัดเพชรในจีน ความก้าวหน้าด้านสีพ่นรถยนต์ และความต้องการงานตกแต่งโลหะ"
       },
       "items": [
         {
@@ -18,32 +18,50 @@ window.WORLD_ARCHIVE = {
           "date": "2026-10-16",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONzc1UG5lV0E3Z2JCYnd2dFpLZmt2VTRYVEk5cHlBS2FYaDIzNHNJeTNBd3R3dDE0cFF4QlhNZE9ZX3N4enpseURtMGRTMmFHRWNPdmY2NlZ2R1F6b01ma01GXzlTMXlJd3FJdzZsY093dEVCczVVNTNPaU56Z2l0emR3d2hPNDQwT2xDY01CZW5Ib195T3RMR0tQdTY0d1FwdGgxWnB5RGI1aXpwRkNXWnln?oc=5",
           "title": "Five Reputable Diamond Sanding Belts Manufacturers in China 2026: Optimizing Superhard Abrasive Machining",
-          "summary": "An analysis of top Chinese manufacturers highlights ongoing optimization in superhard abrasive machining using advanced diamond sanding belts.",
-          "why": "Superhard diamond abrasives represent the high-performance tier of surface finishing for hard metals and advanced materials.",
-          "action": "Monitor Chinese manufacturing capabilities in diamond belts to assess potential high-end product sourcing.",
+          "summary": "An analysis of top Chinese manufacturers optimizing superhard diamond sanding belts for advanced industrial machining.",
+          "why": "Superhard abrasives like diamond belts directly compete with and influence high-end grinding applications in metal and hard material sectors.",
+          "action": "Monitor Chinese superhard abrasive pricing and quality trends to understand competitive pressure in precision grinding.",
           "th": {
-            "title": "5 ผู้ผลิตสายพานขัดเพชรชั้นนำในจีนปี 2026: การเพิ่มประสิทธิภาพงานตัดเฉือนด้วยวัสดุขัดแข็งพิเศษ",
-            "summary": "บทวิเคราะห์ผู้ผลิตชั้นนำของจีนเน้นย้ำการพัฒนาประสิทธิภาพการตัดเฉือนด้วยวัสดุขัดแข็งพิเศษโดยใช้สายพานขัดเพชรขั้นสูง",
-            "why": "วัสดุขัดเพชรความแข็งสูงเป็นกลุ่มผลิตภัณฑ์งานขัดผิวประสิทธิภาพสูงสำหรับโลหะแข็งและวัสดุสมัยใหม่",
-            "action": "ติดตามขีดความสามารถการผลิตสายพานขัดเพชรของจีนเพื่อประเมินโอกาสในการจัดหาสินค้าเกรดสูง"
+            "title": "5 ผู้ผลิตสายพานขัดเพชรชื่อดังในจีนปี 2026: การเพิ่มประสิทธิภาพงานตัดเฉือนด้วยวัสดุขัดแข็งพิเศษ",
+            "summary": "การวิเคราะห์ผู้ผลิตชั้นนำของจีนที่กำลังเพิ่มประสิทธิภาพสายพานขัดเพชรสำหรับงานตัดเฉือนอุตสาหกรรมขั้นสูง",
+            "why": "วัสดุขัดความแข็งสูงอย่างสายพานเพชรส่งผลกระทบโดยตรงต่อตลาดงานเจียระไนในกลุ่มโลหะและวัสดุแข็ง",
+            "action": "ติดตามแนวโน้มราคาและคุณภาพของวัสดุขัดความแข็งสูงจากจีนเพื่อรับมือกับแรงกดดันด้านการแข่งขัน"
           }
         },
         {
           "id": "20261024-w2",
           "tag": "coating",
           "rating": "amber",
-          "source": "Market Business Insights",
-          "date": "2026-10-14",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBSDItTlp3MlgweDg2N3hibzBRRVgwVGJKa3RRWUpXc0pMcjJ3U241dE1LcnRYR3hna3hBUjNRdzZBdFIwUUEtTnd1MlFYdXIwTGpOVWNCVWpjeU45M1JISk1tVkZUYVpjR25UVUN3?oc=5",
-          "title": "Green Coatings Market Size & Growth Analysis, 2026-2035",
-          "summary": "The green coatings market continues its expansion trajectory through 2035, driven by environmental regulations and sustainable formulation demands.",
-          "why": "Changes in industrial coatings and surface finishes directly impact how prep work, sanding, and surface roughening are performed prior to coating application.",
-          "action": "Keep track of eco-friendly surface preparation requirements that align with new green coating standards.",
+          "source": "Fortune Business Insights",
+          "date": "2026-09-28",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXJjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
+          "title": "Automotive OEM Coatings Market Size, Share | Growth [2034]",
+          "summary": "A market forecast report detailing the growth drivers and trends within the automotive OEM coatings industry through 2034.",
+          "why": "Changes in automotive body coatings and paint specs often dictate changes in pre-paint surface sanding and abrasive preparation steps.",
+          "action": "Keep track of new OEM paint finish technologies that require specialized surface preparation or finer sanding grades.",
           "th": {
-            "title": "การวิเคราะห์ขนาดและการเติบโตของตลาดสารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อม ปี 2026-2035",
-            "summary": "ตลาดสารเคลือบสีเขียวยังคงเติบโตอย่างต่อเนื่องจนถึงปี 2035 ขับเคลื่อนโดยกฎระเบียบด้านสิ่งแวดล้อมและความต้องการสูตรการผลิตที่ยั่งยืน",
-            "why": "การเปลี่ยนแปลงของสารเคลือบอุตสาหกรรมส่งผลโดยตรงต่อกระบวนการเตรียมผิว การขัดกระดาษทราย และการปรับสภาพผิวก่อนพ่นเคลือบ",
-            "action": "ติดตามข้อกำหนดการเตรียมพื้นผิวที่เป็นมิตรต่อสิ่งแวดล้อมให้สอดคล้องกับมาตรฐานสารเคลือบใหม่ๆ"
+            "title": "ขนาดส่วนแบ่งและการเติบโตของตลาดสีพ่นรถยนต์ OEM ถึงปี 2034",
+            "summary": "รายงานคาดการณ์ตลาดที่ระบุถึงปัจจัยขับเคลื่อนการเติบโตและแนวโน้มในอุตสาหกรรมสีพ่นรถยนต์ OEM จนถึงปี 2034",
+            "why": "การเปลี่ยนแปลงของสเปกสีพ่นรถยนต์มักส่งผลต่อกระบวนการเตรียมผิวและการขัดกระดาษทรายก่อนพ่น",
+            "action": "ติดตามเทคโนโลยีสีพ่น OEM ใหม่ๆ ที่อาจต้องใช้ขั้นตอนเตรียมผิวหรือกระดาษทรายที่มีความละเอียดสูงขึ้น"
+          }
+        },
+        {
+          "id": "20261024-w3",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "Fortune Business Insights",
+          "date": "2026-10-05",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kYlp3TXBwdU5JVl9Gc0pFd3lJSFpjSUhLeEFGOVZVS19BbHBoTFNGb1BFOC1UNEN4c1o0c2xjdTFZYXhVdGRVb0dIeXZqakt1bTJkQy10SC0wRlh0RVVBZHZaWDFYbDk3cHdUbXBsYnRyYTlFVEE?oc=5",
+          "title": "Metal Casting Market Growth Analysis & Industry Forecast, 2034",
+          "summary": "An industry forecast highlighting growth trends in metal casting, a foundational sector for heavy machinery and automotive parts.",
+          "why": "Metal casting production volume is a direct indicator of demand for foundry snagging, deburring, and surface finishing abrasives.",
+          "action": "Identify foundry and casting hubs in the region that may need robust grinding wheels and deburring solutions.",
+          "th": {
+            "title": "การวิเคราะห์การเติบโตและแนวโน้มตลาดการหล่อโลหะถึงปี 2034",
+            "summary": "การคาดการณ์อุตสาหกรรมที่เน้นแนวโน้มการเติบโตของการหล่อโลหะ ซึ่งเป็นพื้นฐานของอุตสาหกรรมเครื่องจักรและชิ้นส่วนยานยนต์",
+            "why": "ปริมาณการหล่อโลหะเป็นตัวชี้วัดความต้องการใช้งานหินเจียร ใบตัด และผลิตภัณฑ์ขัดแต่งลบคมในโรงงานหล่อ",
+            "action": "สำรวจกลุ่มลูกค้าโรงหล่อโลหะในพื้นที่ที่มีความต้องการใช้อุปกรณ์ขัดแต่งและลบคมชิ้นงาน"
           }
         }
       ]
