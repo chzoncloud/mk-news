@@ -1,7 +1,89 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-10-24",
+  "updated": "2026-10-25",
   "days": [
+    {
+      "date": "2026-10-25",
+      "summary": "Today's briefing highlights global market expansion for high-precision abrasives, single-layered coated abrasive fundamentals, green and digital coating trends, and shifting steel dynamics.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปข่าววันนี้เน้นการเติบโตของตลาดวัสดุขัดถูความแม่นยำสูง, พื้นฐานกระดาษทรายเคลือบชั้นเดียว, แนวโน้มสารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมและดิจิทัล, รวมถึงความเปลี่ยนแปลงในตลาดเหล็กโลก"
+      },
+      "items": [
+        {
+          "id": "20261025-w1",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "EIN News",
+          "date": "2026-10-19",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM2VsRTlqVWR6dlpoUXpZQ04wNnJsRUNBbndKSnNQODIyUXdnTTlIT0hZMC10bGhEUUk0clZ5ZWZRN0I2eVhiVHVPVmRYd05xWUdJdDJldTBsTkZEUVNBNG5qaE9WeXdDN2dSVzJ2TzNsVFhBNVMzakhwZFR6Z0dQeFFVS0ZPa0dmWmh1dHhiYXVXWWRrbk9XS251Ul9SVS1SZ3NON0VXRWxfOWtzazlNcXhUMVBnU2liODhqaXF6OEdGb2NEYkRoaG9uNmx6MlNjMUd2N3Q0emZnUXltZk1wbg?oc=5",
+          "title": "Abrasives Market to Reach $72.2 Billion by 2030, Growing at a 7.6% CAGR Driven by Precision Finishing Demand",
+          "summary": "The global abrasives market is projected to reach $72.2 billion by 2030, driven heavily by increasing manufacturing requirements for precision finishing.",
+          "why": "Confirms strong, steady macroeconomic growth for our core product category, especially in high-precision segments.",
+          "action": "Ensure our inventory and marketing focus heavily on precision finishing products to capture growing market value.",
+          "th": {
+            "title": "ตลาดวัสดุขัดถูพุ่งแตะ 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 ขับเคลื่อนโดยความต้องการงานขัดผิวความแม่นยำสูง",
+            "summary": "ตลาดวัสดุขัดถูทั่วโลกคาดว่าจะเติบโตแตะ 7.22 หมื่นล้านดอลลาร์สหรัฐภายในปี 2030 หนุนโดยความต้องการด้านการตกแต่งผิวให้มีความแม่นยำสูงในภาคการผลิต",
+            "why": "ยืนยันการเติบโตในภาพรวมของตลาดหลักที่เราทำธุรกิจอยู่ โดยเฉพาะกลุ่มสินค้าความแม่นยำสูง",
+            "action": "ตรวจสอบสต็อกสินค้าและเน้นการทำตลาดสินค้ากลุ่มขัดผิวความแม่นยำสูงเพื่อคว้าส่วนแบ่งการเติบโตนี้"
+          }
+        },
+        {
+          "id": "20261025-w2",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "Cutting Tool Engineering",
+          "date": "2026-01-19",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdlIxbnF0ZzBnSUozVVYybGZwMnF5R09nTWZib2VyNFB2WXpIYTJEcGFpd0lfQjBDcG42eTJiNDQ2eEJhUmdGT29PZ0w4NlNSRjhhQ2w3TmplcVloMDJ5bjNYZDF1UVdLbXYxS0RtYTRFSmtDMFVaVGxVVk5zMnVxeVBiTjhiVXpydFU3YUNMR19nRlJlT3NkT3Jjb3B3dHZqQnRN?oc=5",
+          "title": "Single-layered approach: The fundamentals of using coated abrasives in metalworking",
+          "summary": "An in-depth look at using single-layered coated abrasives to optimize metalworking efficiency and surface quality.",
+          "why": "Technical insights on coated abrasives help us better advise industrial B2B customers on product selection and usage.",
+          "action": "Share technical application tips with our sales team to improve consultative selling for metalworking clients.",
+          "th": {
+            "title": "แนวทางแบบชั้นเดียว: พื้นฐานการใช้กระดาษทรายเคลือบในงานโลหะ",
+            "summary": "เจาะลึกการใช้กระดาษทรายเคลือบผิวแบบชั้นเดียวเพื่อเพิ่มประสิทธิภาพงานโลหะและคุณภาพพื้นผิวชิ้นงาน",
+            "why": "ข้อมูลเชิงเทคนิคเกี่ยวกับกระดาษทรายช่วยให้เราให้คำแนะนำลูกค้า B2B ในภาคอุตสาหกรรมได้ดียิ่งขึ้น",
+            "action": "แบ่งปันเทคนิคการใช้งานให้ทีมขาย เพื่อยกระดับการขายแบบให้คำปรึกษาแก่ลูกค้าอุตสาหกรรมโลหะ"
+          }
+        },
+        {
+          "id": "20261025-w3",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "European Coatings",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
+          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
+          "summary": "The coatings sector is rapidly pivoting toward green innovations, sustainability, and digital integration.",
+          "why": "Surface treatment, coatings, and abrasives are closely tied; shifts in coating technology affect pre-treatment and sanding processes.",
+          "action": "Monitor how new eco-friendly coatings change surface preparation requirements for our customers.",
+          "th": {
+            "title": "กำหนดอนาคตใหม่แห่งวงการเคลือบผิว: นวัตกรรม ความยั่งยืน และพลังแห่งดิจิทัล",
+            "summary": "ภาคอุตสาหกรรมสารเคลือบกำลังปรับตัวอย่างรวดเร็วสู่นวัตกรรมสีเขียว ความยั่งยืน และการบูรณาการด้านดิจิทัล",
+            "why": "กระบวนการเตรียมผิว สารเคลือบ และวัสดุขัดถูมีความเกี่ยวข้องกันอย่างใกล้ชิด การเปลี่ยนเเปลงของเทคโนโลยีเคลือบส่งผลต่อขั้นตอนการเตรียมผิวและขัด",
+            "action": "ติดตามว่าสารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมรุ่นใหม่ๆ จะเปลี่ยนข้อกำหนดในการเตรียมพื้นผิวของลูกค้าอย่างไร"
+          }
+        },
+        {
+          "id": "20261025-w4",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "Progressive Policy Institute",
+          "date": "2026-09-23",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTeHd1akw0WFVaUWFucjdlRWp1cFBVQjRiRi1rWFd2WlNVRkQzanJJMmpMV3BBM0QxVEF5N2FZcmFMSFNxQ3M1VTQ5c1VJYjhJRVRQQVM3M2tac1FFMGdSSlZ4eTdQdzNINFB1MDR0a09haWhpNkFIVV9aWlA?oc=5",
+          "title": "American Industry Is Using Less Steel",
+          "summary": "Data indicates structural changes in manufacturing as American industries utilize lower volumes of traditional steel.",
+          "why": "Shifts in steel consumption directly impact metal fabrication volume and subsequent demand for grinding and deburring abrasives.",
+          "action": "Keep an eye on alternative materials replacing steel in manufacturing and evaluate if our product mix needs adaptation.",
+          "th": {
+            "title": "อุตสาหกรรมอเมริกันใช้เหล็กน้อยลง",
+            "summary": "ข้อมูลชี้ให้เห็นถึงความเปลี่ยนแปลงเชิงโครงสร้างในภาคการผลิต เมื่ออุตสาหกรรมในสหรัฐฯ ใช้ปริมาณเหล็กแบบดั้งเดิมลดลง",
+            "why": "การเปลี่ยนแปลงปริมาณการใช้เหล็กส่งผลโดยตรงต่อปริมาณงานแปรรูปโลหะ และความต้องการใช้วัสดุขัดและลบคมตามมา",
+            "action": "จับตาดูวัสดุทางเลือกที่นำมาใช้แทนเหล็กในภาคการผลิต และประเมินว่าเราควรปรับกลุ่มสินค้าให้สอดคล้องหรือไม่"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-10-24",
       "summary": "Today's briefing focuses on global manufacturing shifts, including the expansion of superhard diamond sanding tech in China, automotive coatings advancements, and metal finishing demands.",
@@ -920,70 +1002,6 @@ window.WORLD_ARCHIVE = {
             "summary": "การเปลี่ยนแปลงของความต้องการในภาคอุตสาหกรรมเผยให้เห็นถึงการลดลงเชิงโครงสร้างของความเข้มข้นในการใช้เหล็กในหลายภาคส่วนการผลิตของสหรัฐอเมริกา",
             "why": "การเปลี่ยนแปลงปริมาณการใช้โลหะส่งผลโดยตรงต่อยอดขายผลิตภัณฑ์กระดาษทรายสำหรับการขัด ลบคม และเตรียมพื้นผิวในระดับภูมิภาค",
             "action": "กระจายกลุ่มลูกค้าไปยังอุตสาหกรรมโลหะทางเลือกและอุตสาหกรรมที่ไม่ใช่โลหะ เพื่อป้องกันความเสี่ยงจากการเปลี่ยนแปลงของความต้องการใช้เหล็ก"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-10-11",
-      "summary": "Today's briefing highlights shifts in coil coatings, robotized wood sanding applications, and global steel trade pressures that directly influence industrial surface preparation and finishing demand.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปประเด็นข่าววันนี้เน้นการเปลี่ยนแปลงในกลุ่มสีเคลือบแผ่นเหล็ก งานขัดไม้ด้วยระบบอัตโนมัติ และแรงกดดันในตลาดเหล็กโลก ซึ่งล้วนส่งผลกระทบโดยตรงต่อความต้องการใช้ผลิตภัณฑ์ขัดกระดาษทรายและเตรียมพื้นผิว"
-      },
-      "items": [
-        {
-          "id": "20261011-w1",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "PR Newswire UK",
-          "date": "2026-05-08",
-          "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQLWJCTzl4bnlhbUl3c2o5aXByM0Mxc3k0cUtGTHJQak5MYVNSNDk1bk50b29XS3BJbS1ySXFhV3dhWXRuMXB0bVB2Z2Q1WVN6UjRJY0N2LWpsNFRvU2o0aUU2dkx3d2htTVMxYURkLWxINlcydFRqdG1PV1ZaRWxtNndMMkc2T1hNenN2R0tBdlFaUllWV1d1N2huRTE2TlNOM0lxSEhlbkw5ajhSR0YtZWFVb01TZXlJS1VCbXNibWRreEVWQnVOUk5halB6YzBJdnNBZTJrOWxwdHppOG5jZWVETWJ0XzJuOE1mb2JqNEpmXzAxcDF4TGtRRWxaaW9DTzFPYUZCa28wbmp1ZGhtRVZ0X19lZ1ZqSUotLW1GaC0xRHRJNmNLdXVqOXNJdlpHQkF1NklvTXJOOWM?oc=5",
-          "title": "Coil Coatings Market to Reach USD 9.2 Billion by 2035 as Sustainable, High-Performance Coating Technologies Transform Construction and Industrial Applications",
-          "summary": "The coil coatings market is expanding through 2035, driven by demand for sustainable and high-performance pre-painted metal solutions in construction and manufacturing.",
-          "why": "Pre-painted metal and coil coating lines require intensive surface preparation, cleaning, and sometimes deburring or finishing before coating application.",
-          "action": "Monitor coil-coating processors as potential bulk end-users for specialized industrial belts and rolls.",
-          "th": {
-            "title": "ตลาดสีเคลือบขดลวดเหล็ก (Coil Coatings) มุ่งสู่ 9.2 พันล้านดอลลาร์สหรัฐภายในปี 2035",
-            "summary": "ตลาดสีเคลือบแผ่นโลหะม้วนกำลังเติบโตอย่างต่อเนื่องจนถึงปี 2035 หนุนโดยความต้องการวัสดุเคลือบผิวประสิทธิภาพสูงและเป็นมิตรต่อสิ่งแวดล้อม",
-            "why": "กระบวนการผลิตเหล็กเคลือบม้วนต้องอาศัยการเตรียมพื้นผิว ขัดทำความสะอาด และขัดแต่งคมก่อนพ่นสีเคลือบ",
-            "action": "ติดตามกลุ่มผู้ผลิตเหล็กเคลือบม้วนในฐานะลูกค้ากลุ่มเป้าหมายสำหรับกระดาษทรายสายพานและลูกกลิ้งขัดอุตสาหกรรม"
-          }
-        },
-        {
-          "id": "20261011-w2",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "Woodworking Network",
-          "date": "2022-09-14",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdks1TWZwY2RMY21ZNl8zQ1hJZ201QnJzY3Bsb2gyc0NQajRiRHMtSkJ1WU9OX1JaTzVrYm15ZkFvclM2bjZ1cTJQZVlaYk1JWVpnQVpyanBkMFFTVEZCaG9ZQ0ttWTh2VnRNRGVtbzB4WUVCamVPbzc4MTdfbEdYQm5zem1QXzlaYk5XMHpPOU9IZ3Fsc3dKVG9VM01IX3dMdDRiMXNYRmJNN1pQN2hSOHFielVqQWxWWVVMUHc2NUdhOTkxaW5lY19mc1I?oc=5",
-          "title": "Mirka to feature robotic sanding, antistatic abrasives and more at SIBO",
-          "summary": "Major abrasive manufacturers are showcasing automated robotic sanding setups combined with antistatic abrasives to boost efficiency in woodworking.",
-          "why": "Automation and antistatic properties are fast becoming standard requirements for high-volume wood and composite sanding operations.",
-          "action": "Evaluate our product lineup for antistatic sanding sheets and rolls suited for automated or high-speed woodworking.",
-          "th": {
-            "title": "Mirka เผยโฉมนวัตกรรมการขัดด้วยหุ่นยนต์และกระดาษทรายป้องกันไฟฟ้าสถิตในงาน SIBO",
-            "summary": "ผู้ผลิตวัสดุขัดชั้นนำกำลังผลักดันระบบการขัดด้วยหุ่นยนต์อัตโนมัติร่วมกับกระดาษทรายป้องกันไฟฟ้าสถิตเพื่อเพิ่มประสิทธิภาพงานไม้",
-            "why": "ระบบอัตโนมัติและคุณสมบัติป้องกันไฟฟ้าสถิตกำลังกลายเป็นมาตรฐานสำคัญในอุตสาหกรรมงานขัดไม้และวัสดุคอมโพสิตปริมาณมาก",
-            "action": "ประเมินสต็อกสินค้ากระดาษทรายป้องกันไฟฟ้าสถิตทั้งแบบแผ่นและม้วนที่รองรับงานขัดไม้ความเร็วสูงหรือระบบอัตโนมัติ"
-          }
-        },
-        {
-          "id": "20261011-w3",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "S&P Global",
-          "date": "2026-01-12",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
-          "title": "Global steel industry battles surplus supply, protectionism",
-          "summary": "The global steel sector continues to face overcapacity issues alongside rising trade protectionism measures across various key regions.",
-          "why": "Fluctuations in steel production volumes directly impact the consumption of grinding wheels, deburring discs, and heavy-duty coated abrasives in metal fabrication.",
-          "action": "Keep close tabs on local steel mill and metal processor utilization rates to forecast abrasive re-order cycles.",
-          "th": {
-            "title": "อุตสาหกรรมเหล็กโลกเผชิญภาวะล้นตลาดและมาตรการกีดกันทางการค้า",
-            "summary": "ภาคการผลิตเหล็กทั่วโลกยังคงเผชิญกับปัญหาอุปทานส่วนเกิน ควบคู่ไปกับมาตรการปกป้องทางการค้าในภูมิภาคต่างๆ",
-            "why": "ความผันผวนของปริมาณการผลิตเหล็กส่งผลโดยตรงต่ออัตราการใช้ใบเจียร แผ่นขัดลบคม และกระดาษทรายสำหรับอุตสาหกรรมโลหะ",
-            "action": "ติดตามอัตราการดำเนินงานของโรงงานเหล็กและผู้แปรรูปโลหะในประเทศ เพื่อคาดการณ์รอบการสั่งซื้อผลิตภัณฑ์ขัดล่วงหน้า"
           }
         }
       ]
