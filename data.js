@@ -3,64 +3,46 @@ window.NEWS_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-25",
-      "summary": "News flow is relatively light today. The standout development is the Finance Ministry's fast-tracked proposal to raise CBU EV import taxes to 30%, which will accelerate domestic assembly and boost metal finishing abrasive demand.",
+      "summary": "Today offers fewer fresh headlines, but Toyota's 1.49-billion-baht hydrogen Hilux project provides a solid direct production opportunity. Meanwhile, steel protection efforts and shifting furniture export demand require watchful monitoring of customer plant activity.",
       "directCount": 1,
       "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มาก ประเด็นเด่นคือกระทรวงการคลังเตรียมเสนอ ครม. ปรับขึ้นภาษีรถ EV นำเข้าทั้งคันเป็น 30% ซึ่งจะเร่งให้ค่ายรถยนต์ตั้งฐานผลิตในประเทศและเพิ่มความต้องการวัสดุขัดแต่งผิวโลหะ"
+        "summary": "วันนี้มีข่าวใหม่ไม่มากนัก แต่มีประเด็นบวกชัดเจนจากโตโยต้าที่เตรียมทุ่ม 1.49 พันล้านบาทผลิตกระบะไฮโดรเจนในไทย ขณะที่ความเคลื่อนไหวด้านการปกป้องอุตสาหกรรมเหล็กและแนวโน้มการส่งออกเฟอร์นิเจอร์ยังต้องจับตาดูอัตราการเดินเครื่องของโรงงานลูกค้า"
       },
       "items": [
         {
           "id": "20261025-1",
           "tag": "auto",
           "rating": "green",
-          "source": "Facebook",
+          "source": "Thansettakij",
           "date": "2026-10-19",
-          "url": "https://news.google.com/rss/articles/CBMipwdBVV95cUxQUG9PbWZqN1VSVFFNblh5ZnBWc1U5cURJOGVZWTBfV3hFR2h0RWFjaFBoOGsxb0kwbVZPRXJaSXhsSUc2OS1ydEYwbGY3ODd5blFxUGp5S1RlbVZpTXFiLVVEVUJuT2dKaFI5YzBMZmV3NFJYMkpNSldYaVVhTERsSWJEcktQcXBHbFpySUdTVUszdkctaFZIQ3llWDlLbkw0M1lzaERmWXNvU2lYbEU3R3NlblJxTFFDWVRJYXU1UFM1ZGcxSmRfYXBGWE9wY0cyMTZpQTR1V3NZMWdEYmxSX1BRanVuVl8wYXp4THdWM3h1ekR0ZmlrRkMyYUx4a0FSUTlXRjV6ZkxlLWdYZUdseDh1VGFnSFZNSmpUaUxCT2JFU0lGWC12SXRTOW5mNWZ6UDRJSFFQcFp3YkVMLVdOcTlYLVFxb0I4czFtUjBkN3dlN2ZGbkUwamQ4YnFkRjc4ZENGRWtoMW1ETVJtd3pqQklITFI1NG1Eb2tTZklfejhDOElicnVaemRlQk1WZ2dBSmg4OVJOa0V1cGFsTDNRUlBSOWZ0QUZ3RllZZXJaRmd5dDhSYWpNVFNudVZqSldUNWc3M1prMTdKVHg4LUlKeHN1VzFkU2Ztb1g5enNnSzMzRkI4NWFRTnlhdXdESGdaYzN3dkNqOGo1YVVaV0d4aGo5bEVDdXZ3T3Q0ZTlhQlpnc2NFR3M4WkRRM2xKaS1Id0NZeXotaUlwV1psNGhveVZ3TU9FZURjMmdTRXNhb2g4bEVzaTVRZzNRVWhIZmxpZHpnQjc5V3I3T2hYRUFxb195M2hqQngtS3NFLTRmb2hsaGxNeHZSODR4UWphVkNObE5nMkloZ3hQSGhVcU4zOGc3QUI2RzVPdGpTdV9hWlAybEh4djA4TFRMRV9xMXQxWjZsMWJ0Q2FmWlVSQkszekR6d3YwUTRqUWZjQllqTVZaQUF4OHlMTlZjZWs4c2c1U3Z5SEpHR2VJLV9WX2QzU0l3SzBwTUhWSnNNMUZyTUJvU1d3ZldkSUt1ZFNxQXFBM2pVOU1tYzcxaTlSSnVfa0E3WThNRmNtQ2Y0bFNnRlpFb2NkbzgzaFdpeDlqT1d4R1E5TFY1eDAwak5JRk5DN2NOTnZuTE1LV3E4QUtieFBtcDB1bFBJbjBBYjJjYkc1UFFVMGY4RC1JRWI1UVBkZHI1X3JoeGdRVWJaNHIzTndiN3RkUVVMM2JvQndUUnRMNHBoS09XOA?oc=5",
-          "title": "Finance Ministry to Propose 30% Excise Tax on Imported CBU EVs",
-          "summary": "The Ministry of Finance will submit a plan to the Cabinet within two weeks to raise excise tax on fully imported EVs from 10% to at least 30%. The move aims to protect domestic producers and push foreign automakers to set up local assembly lines.",
-          "why": "A rapid shift toward localized vehicle assembly will drive direct factory demand for grinding, stamping deburring, and polishing abrasives.",
-          "action": "Map out new EV assembly plant timelines and approach their procurement and Tier-1 body stamping suppliers.",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBicTYzcThxZjZTVjBTd2VabC03SGtrcHZUcUFxaTlLUU16czY2UlJaNHZtVFc1THZrXzR1RlhmRWN1a0sxaTJyd1NvZmtnTDQzU0NQcHl3?oc=5",
+          "title": "Toyota Invests 1.49 Billion Baht to Build Hydrogen Hilux in Thailand",
+          "summary": "Toyota is investing 1.49 billion baht to manufacture 3,000 units of the hydrogen-powered Hilux annually in Thailand as a global export base, backed by BOI incentives.",
+          "why": "This is a direct manufacturing expansion by our primary Japanese OEM target, creating immediate demand for metal welding, deburring, and surface finishing abrasives.",
+          "action": "Connect with Toyota Tier 1 chassis, frame, and body metal fabricators to test our industrial grinding and sanding belts for new pilot runs.",
           "th": {
-            "title": "คลังจ่อชง ครม. เคาะภาษี EV นำเข้า 30% บีบตั้งโรงงานผลิตในไทย",
-            "summary": "กระทรวงการคลังเตรียมเสนอ ครม. ภายใน 2 สัปดาห์ ปรับขึ้นภาษีสรรพสามิตรถ EV นำเข้าทั้งคันจาก 10% เป็นไม่ต่ำกว่า 30% เพื่อปกป้องฐานการผลิตในประเทศและกดดันค่ายรถยนต์เร่งสร้างโรงงานประกอบในไทย",
-            "why": "การเร่งเปิดสายการผลิตรถยนต์ในประเทศจะผลักดันความต้องการใช้วัสดุขัดแต่งผิว เจียร และลบครีบชิ้นส่วนโลหะโดยตรง",
-            "action": "ติดตามแผนเปิดโรงงานประกอบรถยนต์ EV และเข้าติดต่อฝ่ายจัดซื้อของโรงงานปั๊มขึ้นรูปชิ้นส่วนยานยนต์ Tier-1 ทันที"
+            "title": "โตโยต้าทุ่ม 1.49 พันล้านบาท ผลิตกระบะไฮโดรเจน Hilux ในไทย ปักหมุดส่งออกโลก",
+            "summary": "โตโยต้าได้รับอนุมัติจาก BOI ลงทุน 1,490 ล้านบาท ผลิตรถกระบะไฮโดรเจน Hilux ในไทย 3,000 คันต่อปี เพื่อเป็นฐานส่งออกไปยังตลาดโลก",
+            "why": "เป็นการเปิดไลน์ประกอบยานยนต์ใหม่ของค่ายญี่ปุ่นซึ่งเป็นกลุ่มลูกค้าเป้าหมายหลัก ช่วยเพิ่มการใช้งานวัสดุขัดรอยเชื่อม ลบคม และเตรียมผิวโลหะโดยตรง",
+            "action": "เร่งเข้าพบซัพพลายเออร์ Tier 1 ของโตโยต้ากลุ่มชิ้นส่วนโครงสร้างและตัวถัง เพื่อนำเสนอจานขัดและสายพานผ้าทรายสำหรับไลน์ประกอบใหม่"
           }
         },
         {
           "id": "20261025-2",
-          "tag": "aero",
-          "rating": "amber",
-          "source": "MGR Online",
-          "date": "2026-10-06",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIazdnNjc2TVdpRWNOSTNQS2tlaWFWdl9KbE5OaEdlLWlZX0RaWERWWjhJV1l0MjdTejNaSHVhOEMwSThnWmtFaUJMWVAydHIxVkFKTktiQ0pXb09KVVRLWg?oc=5",
-          "title": "EEC and Thai Airways Officially Sign Contract for 10-Billion-Baht U-Tapao MRO Project",
-          "summary": "The Eastern Economic Corridor and Thai Airways have signed an agreement to develop a 10-billion-baht aircraft MRO center at U-Tapao airport. Construction is scheduled for 2027 with commercial operations beginning by 2030, targeting 4 to 6 billion baht in annual revenue.",
-          "why": "The formalization of U-Tapao MRO ensures substantial long-term industrial demand for aerospace-grade polishing and precision surface treatment products.",
-          "action": "Begin evaluating aerospace abrasive compliance standards and establish introductory contact with Thai Airways technical teams.",
-          "th": {
-            "title": "อีอีซี จับมือ การบินไทย เซ็นสัญญาลงทุนศูนย์ซ่อม MRO อู่ตะเภาหมื่นล้าน",
-            "summary": "อีอีซีและบริษัท การบินไทย ร่วมลงนามสัญญาพัฒนาศูนย์ซ่อมบำรุงอากาศยาน (MRO) วงเงิน 1 หมื่นล้านบาท ณ สนามบินอู่ตะเภา มีกำหนดเริ่มก่อสร้างปี 2570 และเปิดบริการปี 2573 คาดสร้างรายได้ 4-6 พันล้านบาทต่อปี",
-            "why": "การลงนามเริ่มโครงการจริงช่วยรับประกันความต้องการใช้วัสดุขัดแต่งผิวความแม่นยำสูงและงานซ่อมโลหะเกรดอากาศยานในระยะยาว",
-            "action": "ศึกษามาตรฐานและใบรับรองวัสดุขัดสำหรับอากาศยาน พร้อมเริ่มสร้างคอนเนกชันกับฝ่ายช่างของการบินไทย"
-          }
-        },
-        {
-          "id": "20261025-3",
           "tag": "auto",
           "rating": "amber",
-          "source": "TNN Thailand",
-          "date": "2026-10-21",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ibmpiM1dkTGVBNUdxUDFEZWphV1Z2aWY3RWd4QVgydzJMNEU5N1l6MUFDTmE2ODFQSDl4OFdScmM0T3lhNGg2TVA1NnE3cDYzdHlFNWZ0eXVNLTZvS3kwVHpZcw?oc=5",
-          "title": "Thailand Competes with Vietnam for Regional Automotive Manufacturing Dominance",
-          "summary": "Thailand and Vietnam are in tight competition to lead Southeast Asia's next-generation automotive production hub, with Thailand leveraging its mature supply chains while Vietnam rapidly scales up domestic manufacturing.",
-          "why": "Thailand's ability to retain auto assembly volumes directly impacts production schedules and abrasive consumption among our Japanese Tier-1 and Tier-2 clients.",
-          "action": "Maintain close relationships with Japanese automotive accounts and offer cost-down abrasive trial packages to help them preserve cost competitiveness.",
+          "source": "กรมส่งเสริมการค้าระหว่างประเทศ (DITP)",
+          "date": "2026-09-10",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE55bUVLU2lqcFRhV0g4WkxtOHlmSGR1Mk9TM0Z5bzRwYU1EOG5iQUJEUHloNG5FTXZZSk1XaUdUdUFTVnE1OEZ5U2Y3QThOdWg3c0huLTM1YllLU0Z3REVXR2tn?oc=5",
+          "title": "Mexico Auto Output Hits 2.64M Units, Boosting Thai Auto Parts Export Prospects",
+          "summary": "Mexico's automotive production reached 2.64 million units in eight months, solidifying its North American hub status and generating high export demand for Thai automotive parts makers.",
+          "why": "Increased export orders to North America help keep Thai automotive stamping and machining factories running at healthy production capacities.",
+          "action": "Pitch high-durability cutting and finishing discs to Thai export-oriented auto parts manufacturers experiencing increased order volumes.",
           "th": {
-            "title": "ไทย ปะทะ เวียดนาม ชิงบัลลังก์ศูนย์กลางการผลิตยานยนต์แห่งภูมิภาค",
-            "summary": "ไทยและเวียดนามเปิดศึกแข่งขันเพื่อเป็นศูนย์กลางการผลิตยานยนต์ยุคใหม่ในภูมิภาค โดยไทยอาศัยความแข็งแกร่งของห่วงโซ่อุปทานเดิม ขณะที่เวียดนามเร่งขยายฐานการผลิตอย่างก้าวกระโดด",
-            "why": "การรักษาฐานผลิตยานยนต์ในไทยมีความสำคัญต่อปริมาณการผลิตและการใช้วัสดุขัดของโรงงานชิ้นส่วนยานยนต์ญี่ปุ่นที่เป็นลูกค้าหลักของเรา",
-            "action": "รักษาความสัมพันธ์ใกล้ชิดกับลูกค้ากลุ่มยานยนต์ญี่ปุ่น และนำเสนอชุดทดสอบวัสดุขัดที่ช่วยลดต้นทุนการผลิตเพื่อช่วยลูกค้าเพิ่มความสามารถในการแข่งขัน"
+            "title": "ยอดผลิตรถยนต์เม็กซิโก 8 เดือนแตะ 2.64 ล้านคัน เปิดโอกาสส่งออกชิ้นส่วนยานยนต์ไทย",
+            "summary": "ยอดผลิตรถยนต์ในเม็กซิโกทะลุ 2.64 ล้านคัน ตอกย้ำการเป็นฐานผลิตสำคัญป้อนตลาดอเมริกาเหนือ และเปิดโอกาสรับคำสั่งซื้อชิ้นส่วนจากโรงงานไทย",
+            "why": "ช่วยให้โรงงานปั๊มขึ้นรูปและกลึงตัดโลหะชิ้นส่วนยานยนต์เพื่อการส่งออกในไทยรักษาอัตราการเดินเครื่องจักรและการใช้วัสดุขัดเจียร",
+            "action": "มุ่งเจาะกลุ่มโรงงานผลิตชิ้นส่วนยานยนต์ที่ส่งออกต่างประเทศ นำเสนอใบตัดและหินเจียรทนทานสูงเพื่อช่วยคุมต้นทุนต่อชิ้นงาน"
           }
         }
       ],
