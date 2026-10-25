@@ -3,46 +3,64 @@ window.NEWS_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-25",
-      "summary": "Today offers fewer fresh headlines, but Toyota's 1.49-billion-baht hydrogen Hilux project provides a solid direct production opportunity. Meanwhile, steel protection efforts and shifting furniture export demand require watchful monitoring of customer plant activity.",
-      "directCount": 1,
+      "summary": "New news flow is limited today, but key developments highlight Thailand's push to enforce domestic vehicle assembly via aggressive import taxes alongside the formal contract signing for the U-Tapao aviation MRO hub.",
+      "directCount": 2,
       "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มากนัก แต่มีประเด็นบวกชัดเจนจากโตโยต้าที่เตรียมทุ่ม 1.49 พันล้านบาทผลิตกระบะไฮโดรเจนในไทย ขณะที่ความเคลื่อนไหวด้านการปกป้องอุตสาหกรรมเหล็กและแนวโน้มการส่งออกเฟอร์นิเจอร์ยังต้องจับตาดูอัตราการเดินเครื่องของโรงงานลูกค้า"
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยประเด็นสำคัญอยู่ที่ความคืบหน้าการผลักดันการประกอบรถยนต์ในประเทศผ่านการขึ้นภาษีรถนำเข้า และการลงนามสัญญาโครงการศูนย์ซ่อมอากาศยาน MRO อู่ตะเภาอย่างเป็นทางการ"
       },
       "items": [
         {
           "id": "20261025-1",
           "tag": "auto",
           "rating": "green",
-          "source": "Thansettakij",
+          "source": "Facebook",
           "date": "2026-10-19",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBicTYzcThxZjZTVjBTd2VabC03SGtrcHZUcUFxaTlLUU16czY2UlJaNHZtVFc1THZrXzR1RlhmRWN1a0sxaTJyd1NvZmtnTDQzU0NQcHl3?oc=5",
-          "title": "Toyota Invests 1.49 Billion Baht to Build Hydrogen Hilux in Thailand",
-          "summary": "Toyota is investing 1.49 billion baht to manufacture 3,000 units of the hydrogen-powered Hilux annually in Thailand as a global export base, backed by BOI incentives.",
-          "why": "This is a direct manufacturing expansion by our primary Japanese OEM target, creating immediate demand for metal welding, deburring, and surface finishing abrasives.",
-          "action": "Connect with Toyota Tier 1 chassis, frame, and body metal fabricators to test our industrial grinding and sanding belts for new pilot runs.",
+          "url": "https://news.google.com/rss/articles/CBMipwdBVV95cUxQUG9PbWZqN1VSVFFNblh5ZnBWc1U5cURJOGVZWTBfV3hFR2h0RWFjaFBoOGsxb0kwbVZPRXJaSXhsSUc2OS1ydEYwbGY3ODd5blFxUGp5S1RlbVZpTXFiLVVEVUJuT2dKaFI5YzBMZmV3NFJYMkpNSldYaVVhTERsSWJEcktQcXBHbFpySUdTVUszdkctaFZIQ3llWDlLbkw0M1lzaERmWXNvU2lYbEU3R3NlblJxTFFDWVRJYXU1UFM1ZGcxSmRfYXBGWE9wY0cyMTZpQTR1V3NZMWdEYmxSX1BRanVuVl8wYXp4THdWM3h1ekR0ZmlrRkMyYUx4a0FSUTlXRjV6ZkxlLWdYZUdseDh1VGFnSFZNSmpUaUxCT2JFU0lGWC12SXRTOW5mNWZ6UDRJSFFQcFp3YkVMLVdOcTlYLVFxb0I4czFtUjBkN3dlN2ZGbkUwamQ4YnFkRjc4ZENGRWtoMW1ETVJtd3pqQklITFI1NG1Eb2tTZklfejhDOElicnVaemRlQk1WZ2dBSmg4OVJOa0V1cGFsTDNRUlBSOWZ0QUZ3RllZZXJaRmd5dDhSYWpNVFNudVZqSldUNWc3M1prMTdKVHg4LUlKeHN1VzFkU2Ztb1g5enNnSzMzRkI4NWFRTnlhdXdESGdaYzN3dkNqOGo1YVVaV0d4aGo5bEVDdXZ3T3Q0ZTlhQlpnc2NFR3M4WkRRM2xKaS1Id0NZeXotaUlwV1psNGhveVZ3TU9FZURjMmdTRXNhb2g4bEVzaTVRZzNRVWhIZmxpZHpnQjc5V3I3T2hYRUFxb195M2hqQngtS3NFLTRmb2hsaGxNeHZSODR4UWphVkNObE5nMkloZ3hQSGhVcU4zOGc3QUI2RzVPdGpTdV9hWlAybEh4djA4TFRMRV9xMXQxWjZsMWJ0Q2FmWlVSQkszekR6d3YwUTRqUWZjQllqTVZaQUF4OHlMTlZjZWs4c2c1U3Z5SEpHR2VJLV9WX2QzU0l3SzBwTUhWSnNNMUZyTUJvU1d3ZldkSUt1ZFNxQXFBM2pVOU1tYzcxaTlSSnVfa0E3WThNRmNtQ2Y0bFNnRlpFb2NkbzgzaFdpeDlqT1d4R1E5TFY1eDAwak5JRk5DN2NOTnZuTE1LV3E4QUtieFBtcDB1bFBJbjBBYjJjYkc1UFFVMGY4RC1JRWI1UVBkZHI1X3JoeGdRVWJaNHIzTndiN3RkUVVMM2JvQndUUnRMNHBoS09XOA?oc=5",
+          "title": "Finance Ministry to Hike Imported CBU EV Tax to 30% Within Two Weeks to Force Local Assembly",
+          "summary": "The Ministry of Finance will submit a proposal to the Cabinet to raise excise taxes on imported CBU EVs from 10% to at least 30%. This move aims to compel foreign carmakers to build local plants and safeguard domestic manufacturing operations.",
+          "why": "Forcing automakers from importing to local assembly directly drives local metal stamping, body fabrication, and factory demand for our grinding and finishing abrasives.",
+          "action": "Map upcoming local assembly timelines of foreign EV brands and approach their Tier-1 stamping and fabrication suppliers.",
           "th": {
-            "title": "โตโยต้าทุ่ม 1.49 พันล้านบาท ผลิตกระบะไฮโดรเจน Hilux ในไทย ปักหมุดส่งออกโลก",
-            "summary": "โตโยต้าได้รับอนุมัติจาก BOI ลงทุน 1,490 ล้านบาท ผลิตรถกระบะไฮโดรเจน Hilux ในไทย 3,000 คันต่อปี เพื่อเป็นฐานส่งออกไปยังตลาดโลก",
-            "why": "เป็นการเปิดไลน์ประกอบยานยนต์ใหม่ของค่ายญี่ปุ่นซึ่งเป็นกลุ่มลูกค้าเป้าหมายหลัก ช่วยเพิ่มการใช้งานวัสดุขัดรอยเชื่อม ลบคม และเตรียมผิวโลหะโดยตรง",
-            "action": "เร่งเข้าพบซัพพลายเออร์ Tier 1 ของโตโยต้ากลุ่มชิ้นส่วนโครงสร้างและตัวถัง เพื่อนำเสนอจานขัดและสายพานผ้าทรายสำหรับไลน์ประกอบใหม่"
+            "title": "คลังจ่อเคาะขึ้นภาษี EV นำเข้าเป็น 30% ชง ครม. ใน 2 สัปดาห์ บีบตั้งโรงงานผลิตในไทย",
+            "summary": "กระทรวงการคลังเตรียมเสนอ ครม. ภายใน 2 สัปดาห์ ปรับขึ้นภาษีสรรพสามิตรถยนต์ไฟฟ้าสำเร็จรูปนำเข้าจาก 10% เป็นไม่ต่ำกว่า 30% เพื่อบีบให้ค่ายรถเร่งตั้งโรงงานในประเทศและปกป้องฐานการผลิตไทย",
+            "why": "การบีบให้ค่ายรถต้องผลิตประกอบในประเทศแทนการนำเข้า จะช่วยเพิ่มปริมาณการปั๊มขึ้นรูปโลหะและการเชื่อมประกอบตัวถัง ซึ่งเพิ่มการใช้วัสดุขัดเจียรและแต่งผิวโดยตรง",
+            "action": "ติดตามแผนการเปิดสายการผลิตของค่ายรถยนต์ไฟฟ้าเพื่อเจาะกลุ่มซัพพลายเออร์ปั๊มขึ้นรูปและประกอบตัวถังระดับ Tier-1"
           }
         },
         {
           "id": "20261025-2",
+          "tag": "aero",
+          "rating": "green",
+          "source": "MGR Online",
+          "date": "2026-10-06",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIazdnNjc2TVdpRWNOSTNQS2tlaWFWdl9KbE5OaEdlLWlZX0RaWERWWjhJV1l0MjdTejNaSHVhOEMwSThnWmtFaUJMWVAydHIxVkFKTktiQ0pXb09KVVRLWg?oc=5",
+          "title": "Thai Airways and EEC Sign 10-Billion-Baht U-Tapao Aviation MRO Hub Deal",
+          "summary": "The EEC and Thai Airways have formally signed a 10-billion-baht investment agreement to build an aircraft MRO facility at U-Tapao, scheduled to break ground in 2027 and open in 2030. The project is projected to generate 4 to 6 billion baht annually.",
+          "why": "The formal contract locks in long-term demand for specialized aerospace-grade abrasives, surface preparation discs, and precision deburring tools.",
+          "action": "Begin technical auditing and vendor pre-qualification procedures for MK's aerospace-grade abrasive lines with Thai Airways' engineering procurement team.",
+          "th": {
+            "title": "เซ็นแล้ว! ‘EEC - การบินไทย’ ลุยศูนย์ซ่อมบำรุงอากาศยาน MRO อู่ตะเภาหมื่นล้าน คาดเปิดปี 73",
+            "summary": "อีอีซีและการบินไทยลงนามสัญญาลงทุนศูนย์ซ่อมอากาศยาน MRO อู่ตะเภามูลค่า 10,000 ล้านบาทอย่างเป็นทางการ เตรียมเริ่มก่อสร้างปี 2570 และเปิดบริการปี 2573 คาดสร้างรายได้ 4-6 พันล้านบาทต่อปี",
+            "why": "การลงนามสัญญาเป็นรูปธรรมช่วยยืนยันการเติบโตระยะยาวของตลาดวัสดุขัดเกรดการบิน จานขัดเตรียมผิวก่อนพ่นสี และเครื่องมือลบครีบโลหะความแม่นยำสูง",
+            "action": "เตรียมมาตรฐานทางเทคนิคและเร่งยื่นขอรับรองคุณสมบัติสินค้าวัสดุขัดเกรดการบินของ MK เพื่อเข้าสู่บัญชีผู้ขายของฝ่ายจัดซื้อการบินไทย"
+          }
+        },
+        {
+          "id": "20261025-3",
           "tag": "auto",
           "rating": "amber",
-          "source": "กรมส่งเสริมการค้าระหว่างประเทศ (DITP)",
-          "date": "2026-09-10",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE55bUVLU2lqcFRhV0g4WkxtOHlmSGR1Mk9TM0Z5bzRwYU1EOG5iQUJEUHloNG5FTXZZSk1XaUdUdUFTVnE1OEZ5U2Y3QThOdWg3c0huLTM1YllLU0Z3REVXR2tn?oc=5",
-          "title": "Mexico Auto Output Hits 2.64M Units, Boosting Thai Auto Parts Export Prospects",
-          "summary": "Mexico's automotive production reached 2.64 million units in eight months, solidifying its North American hub status and generating high export demand for Thai automotive parts makers.",
-          "why": "Increased export orders to North America help keep Thai automotive stamping and machining factories running at healthy production capacities.",
-          "action": "Pitch high-durability cutting and finishing discs to Thai export-oriented auto parts manufacturers experiencing increased order volumes.",
+          "source": "TNN Thailand",
+          "date": "2026-10-21",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ibmpiM1dkTGVBNUdxUDFEZWphV1Z2aWY3RWd4QVgydzJMNEU5N1l6MUFDTmE2ODFQSDl4OFdScmM0T3lhNGg2TVA1NnE3cDYzdHlFNWZ0eXVNLTZvS3kwVHpZcw?oc=5",
+          "title": "Thailand and Vietnam Compete for Global Automotive Production Hub Leadership",
+          "summary": "Industrial analysis evaluates the race between Thailand's mature supply chain and Vietnam's rising manufacturing ecosystem as both nations contend for global automotive investment.",
+          "why": "Thailand maintaining its regional dominance is critical to preventing factory relocations and sustaining abrasive consumable demand across our core Japanese client base.",
+          "action": "Strengthen supply chain reliability and cost-saving abrasive solutions for Japanese auto part makers in Thailand facing cost-reduction pressure.",
           "th": {
-            "title": "ยอดผลิตรถยนต์เม็กซิโก 8 เดือนแตะ 2.64 ล้านคัน เปิดโอกาสส่งออกชิ้นส่วนยานยนต์ไทย",
-            "summary": "ยอดผลิตรถยนต์ในเม็กซิโกทะลุ 2.64 ล้านคัน ตอกย้ำการเป็นฐานผลิตสำคัญป้อนตลาดอเมริกาเหนือ และเปิดโอกาสรับคำสั่งซื้อชิ้นส่วนจากโรงงานไทย",
-            "why": "ช่วยให้โรงงานปั๊มขึ้นรูปและกลึงตัดโลหะชิ้นส่วนยานยนต์เพื่อการส่งออกในไทยรักษาอัตราการเดินเครื่องจักรและการใช้วัสดุขัดเจียร",
-            "action": "มุ่งเจาะกลุ่มโรงงานผลิตชิ้นส่วนยานยนต์ที่ส่งออกต่างประเทศ นำเสนอใบตัดและหินเจียรทนทานสูงเพื่อช่วยคุมต้นทุนต่อชิ้นงาน"
+            "title": "ใครจะชนะ? 'ไทย–เวียดนาม' ท้าชิงศูนย์กลางยานยนต์โลก",
+            "summary": "บทวิเคราะห์เปรียบเทียบความพร้อมระหว่างซัพพลายเชนดั้งเดิมที่แข็งแกร่งของไทยกับเวียดนามที่เร่งดึงดูดเม็ดเงินลงทุนเพื่อชิงความเป็นฐานการผลิตยานยนต์ระดับโลก",
+            "why": "การรักษาขีดความสามารถการแข่งขันของไทยส่งผลโดยตรงต่อการคงฐานการผลิตและปริมาณการใช้วัสดุขัดของโรงงานชิ้นส่วนยานยนต์ญี่ปุ่นซึ่งเป็นลูกค้าหลักของ MK",
+            "action": "นำเสนอโซลูชันวัสดุขัดที่ช่วยลดต้นทุนและเพิ่มประสิทธิภาพให้แก่โรงงานผลิตชิ้นส่วนยานยนต์ญี่ปุ่นในไทยที่กำลังเผชิญแรงกดดันด้านการแข่งขัน"
           }
         }
       ],
