@@ -4,64 +4,46 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-26",
-      "summary": "Today's briefing highlights shifts in global manufacturing: a booming green coatings market demanding advanced surface prep, global steel market battles against oversupply and regional protectionism, and the rise of U.S. steel production.",
-      "directCount": 3,
+      "summary": "Today's briefing focuses on global manufacturing shifts, including EV outlook updates and steel sector dynamics, while avoiding previously covered topics.",
+      "directCount": 2,
       "th": {
-        "summary": "สรุปสถานการณ์โลกวันนี้: ตลาดสีเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมกำลังเติบโตซึ่งต้องอาศัยการเตรียมพื้นผิวขั้นสูง, อุตสาหกรรมเหล็กโลกกำลังต่อสู้กับภาวะล้นตลาดและการปกป้องทางการค้า และการผงาดขึ้นของการผลิตเหล็กในสหรัฐฯ"
+        "summary": "สรุปประเด็นแนวโน้มอุตสาหกรรมโลกประจำวันนี้ เน้นการเปลี่ยนแปลงในภาคการผลิต EV และอุตสาหกรรมเหล็ก โดยหลีกเลี่ยงหัวข้อที่เคยนำเสนอไปแล้ว"
       },
       "items": [
         {
           "id": "20261026-w1",
-          "tag": "coating",
+          "tag": "auto",
           "rating": "amber",
-          "source": "Market Business Insights",
-          "date": "2026-10-14",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBSDItTlp3MlgweDg2N3hibzBRRVgwVGJKa3RRWUpXc0pMcjJ3U241dE1LcnRYR3hna3hBUjNRdzZBdFIwUUEtTnd1MlFYdXIwTGpOVWNCVWpjeU45M1JISk1tVkZUYVpjR25UVUN3?oc=5",
-          "title": "Green Coatings Market Size & Growth Analysis, 2026-2035",
-          "summary": "The green coatings market is expanding rapidly from 2026 to 2035, driven by environmental regulations and sustainable manufacturing demands across global industries.",
-          "why": "Eco-friendly surface treatments require specialized surface preparation, precision sanding, and finishing techniques to ensure proper coating adhesion.",
-          "action": "Monitor sustainable manufacturing shifts and prepare to support customers transitioning to eco-friendly coating lines.",
+          "source": "IEA - International Energy Agency",
+          "date": "2026-05-20",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QTnMzbGN4ajBTWWNPa1VOQU5ZQUtEa3M2NXZPS2JHUEtHeUpYUmZHYVU1dlN0OFBFeVVGWmFjR0pmVi13UTJPWVduN1pWaHdVbVJRb1JWYXNKcjNaZ1RRMk5FSTIyRmJYZExoUkxOTUFwFjNQTFdLTmJuU2h6VTA?oc=5",
+          "title": "Trends in electric cars - Global EV Outlook 2026",
+          "summary": "The IEA's global EV outlook highlights ongoing production and adoption shifts, impacting manufacturing supply chains worldwide.",
+          "why": "EV manufacturing processes require specific surface preparation and lightweight material finishing, directly influencing future abrasive tool demand.",
+          "action": "Monitor EV component finishing requirements to prepare for specialized sanding solutions.",
           "th": {
-            "title": "ตลาดสีและสารเคลือบสีเขียว: การวิเคราะห์ขนาดและการเติบโต 2026-2035",
-            "summary": "ตลาดสีเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมกำลังขยายตัวอย่างรวดเร็วในช่วงปี 2026-2035 ขับเคลื่อนโดยกฎระเบียบด้านสิ่งแวดล้อมและความต้องการการผลิตที่ยั่งยืน",
-            "why": "การเคลือบพื้นผิวที่เป็นมิตรต่อสิ่งแวดล้อมต้องอาศัยการเตรียมพื้นผิว การขัดกระดาษทราย และเทคนิคการตกแต่งที่มีความแม่นยำสูงเพื่อให้การยึดเกาะดีเยี่ยม",
-            "action": "ติดตามการเปลี่ยนแปลงด้านการผลิตที่ยั่งยืน และเตรียมความพร้อมเพื่อรองรับลูกค้าที่เปลี่ยนผ่านไปสู่สายการผลิตเคลือบสีรักษ์โลก"
+            "title": "แนวโน้มรถยนต์ไฟฟ้า - รายงานภาพรวม EV โลกปี 2026",
+            "summary": "รายงานแนวโน้ม EV ทั่วโลกจาก IEA เน้นย้ำการเปลี่ยนแปลงของการผลิตและการใช้งาน ซึ่งส่งผลกระทบต่อห่วงโซ่อุปทานการผลิตทั่วโลก",
+            "why": "กระบวนการผลิต EV ต้องมีการเตรียมพื้นผิวและการขัดแต่งวัสดุน้ำหนักเบาโดยเฉพาะ ซึ่งจะส่งผลต่อความต้องการใช้เครื่องมือขัดในอนาคต",
+            "action": "ติดตามความต้องการในการขัดแต่งชิ้นส่วน EV เพื่อเตรียมพร้อมสำหรับโซลูชันกระดาษทรายและอุปกรณ์ขัดเฉพาะทาง"
           }
         },
         {
           "id": "20261026-w2",
           "tag": "steel",
-          "rating": "green",
-          "source": "S&P Global",
-          "date": "2026-01-12",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
-          "title": "Global steel industry battles surplus supply, protectionism",
-          "summary": "The global steel industry continues to face severe challenges from surplus production capacity and rising trade protectionism across major economies.",
-          "why": "Steel production volume and mill operating rates directly dictate the consumption of heavy-duty grinding wheels, deburring products, and metal surface finishing abrasives.",
-          "action": "Keep a close eye on steel mill outputs and regional metal fabrication activities to anticipate fluctuations in industrial abrasive demand.",
-          "th": {
-            "title": "อุตสาหกรรมเหล็กโลกเผชิญศึกหนักจากภาวะล้นตลาดและลัทธิกีดกันทางการค้า",
-            "summary": "อุตสาหกรรมเหล็กทั่วโลกยังคงเผชิญกับความท้าทายอย่างหนักจากกำลังการผลิตส่วนเกินและมาตรการปกป้องทางการค้าที่เพิ่มขึ้นในเศรษฐกิจหลักๆ",
-            "why": "ปริมาณการผลิตเหล็กและอัตราการเดินเครื่องของโรงงานเหล็กส่งผลโดยตรงต่อปริมาณการใช้หินเจียรเพรช/ล้อเจียร งานลบคม และวัสดุกัดผิวโลหะ",
-            "action": "ติดตามผลผลิตของโรงงานเหล็กและกิจกรรมการขึ้นรูปโลหะในภูมิภาคอย่างใกล้ชิด เพื่อคาดการณ์ความผันผวนของความต้องการสินค้ากลุ่มวัสดุขัด"
-          }
-        },
-        {
-          "id": "20261026-w3",
-          "tag": "steel",
           "rating": "amber",
-          "source": "economy.ac",
-          "date": "2026-08-07",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YQWhOYlJ3eW9jTUhwa25XdE55eHh3a2JoODhWdDAtOW00UzhXcWwtNnJJXzZGMjMtNXN6MTYwTUhib3ZHUDNXaTdIbWY2N092QXNsOXFfdw?oc=5",
-          "title": "'Trump Tariffs and AI Boom' Propel U.S. Steel Past Japan to World No. 3 for First Time in 26 Years",
-          "summary": "Propelled by tariffs and technological demand, U.S. steel output surged past Japan, marking a significant shift in the global steel ranking hierarchy.",
-          "why": "Shifts in regional steel manufacturing hubs change supply chains for metal processing equipment and surface conditioning consumables.",
-          "action": "Analyze how regional trade policies and tariff adjustments impact global competitiveness in heavy metal industries.",
+          "source": "Recycling International",
+          "date": "2026-05-06",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUGx0eVkxRzJXY2ZfWGV0VWstUVozcnFnRjRpQnEydThVWTdhdno0NEhVNVFLYzRIal85T0h4b0hqNjNBclVpY1lteGZDWFZSdGhhcG9LVlhYN3ZucHRDOWFvOXFkTjhYYjVibTNsM3Y5ZVFjeFhoQW13anV4RE56emVzQUFESDlWRnB4LVpuSFNEb1FoOXRvNU9KY1pfYmxEYlA3RUhqQzY0RDMzSHF1dHE5U0w?oc=5",
+          "title": "Conflicts’ ‘serious’ impact on global steel industry",
+          "summary": "Geopolitical conflicts continue to exert a serious impact on global steel production stability and supply chains.",
+          "why": "Fluctuations in steel production directly affect metal fabrication volumes, which drives the baseline consumption of industrial abrasives and grinding tools.",
+          "action": "Keep an eye on metal fabrication activity levels to adjust inventory levels for metal-working abrasives.",
           "th": {
-            "title": "'ภาษีทรัมป์และบูม AI' ดันเหล็กสหรัฐฯแซงญี่ปุ่นขึ้นเบอร์ 3 ของโลกครั้งแรกในรอบ 26 ปี",
-            "summary": "ผลักดันโดยนโยบายภาษีและความต้องการทางเทคโนโลยี ผลผลิตเหล็กของสหรัฐฯ พุ่งแซงญี่ปุ่น ซึ่งถือเป็นการเปลี่ยนแปลงครั้งสำคัญในลำดับขั้นอุตสาหกรรมเหล็กโลก",
-            "why": "การเปลี่ยนแปลงของศูนย์กลางการผลิตเหล็กในระดับภูมิภาคส่งผลต่อห่วงโซ่อุปทานสำหรับอุปกรณ์แปรรูปโลหะและวัสดุสิ้นเปลืองสำหรับเตรียมพื้นผิว",
-            "action": "วิเคราะห์ผลกระทบของนโยบายการค้าและมาตรการภาษีระดับภูมิภาคที่มีต่อขีดความสามารถในการแข่งขันในอุตสาหกรรมโลหะหนัก"
+            "title": "ผลกระทบที่รุนแรงของความขัดแย้งต่ออุตสาหกรรมเหล็กโลก",
+            "summary": "ความขัดแย้งทางภูมิรัฐศาสตร์ยังคงส่งผลกระทบอย่างรุนแรงต่อเสถียรภาพการผลิตเหล็กและห่วงโซ่อุปทานทั่วโลก",
+            "why": "ความผันผวนของการผลิตเหล็กส่งผลโดยตรงต่อปริมาณงานแปรรูปโลหะ ซึ่งเป็นตัวขับเคลื่อนความต้องการใช้งานผลิตภัณฑ์ขัดและเจียรในอุตสาหกรรม",
+            "action": "คอยสังเกตระดับกิจกรรมการแปรรูปโลหะเพื่อปรับสต็อกสินค้ากลุ่มอุตสาหกรรมโลหะให้เหมาะสม"
           }
         }
       ]
