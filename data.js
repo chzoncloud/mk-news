@@ -3,64 +3,100 @@ window.NEWS_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-26",
-      "summary": "There are few new headlines today as recent EV tax shifts and aerospace MRO agreements were already tracked. The most significant development is Toyota's 1.49-billion-baht investment in local hydrogen Hilux production, boosting metal finishing demand, while Vietnam's tariff push and furniture export headwinds require close attention.",
-      "directCount": 1,
+      "summary": "Today has limited new breaking headlines; attention centers on structural industrial defense as the FTI urges safeguards for legacy auto and domestic steel, while export demand and MRO expansion provide steady medium-term prospects.",
+      "directCount": 0,
       "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มาก เนื่องจากประเด็นปรับโครงสร้างภาษี EV และการลงทุน MRO การบินได้ถูกรายงานไปแล้วในรอบสัปดาห์ ไฮไลต์เด่นวันนี้คือโตโยต้าทุ่มงบ 1,490 ล้านบาทผลิต Hilux ไฮโดรเจนในไทย หนุนความต้องการวัสดุขัดโครงสร้างโลหะ ขณะที่เวียดนามขยายสิทธิประโยชน์ชิงฐานผลิตรถยนต์ และยอดส่งออกเฟอร์นิเจอร์มีแนวโน้มชะลอตัว"
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยประเด็นสำคัญเน้นไปที่การตั้งรับเชิงโครงสร้างของภาคอุตสาหกรรม ส.อ.ท. ผลักดันมาตรการปกป้องฐานผลิตยานยนต์เดิมและโรงงานเหล็กในประเทศ ขณะที่การส่งออกชิ้นส่วนและแผนศูนย์ซ่อมอากาศยานยังเป็นโอกาสต่อเนื่องระยะกลาง"
       },
       "items": [
         {
           "id": "20261026-1",
           "tag": "auto",
-          "rating": "green",
-          "source": "Thansettakij",
-          "date": "2026-10-19",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBicTYzcThxZjZTVjBTd2VabC03SGtrcHZUcUFxaTlLUU16czY2UlJaNHZtVFc1THZrXzR1RlhmRWN1a0sxaTJyd1NvZmtnTDQzU0NQcHl3?oc=5",
-          "title": "Toyota Invests 1.49 Billion Baht to Build Hydrogen Hilux in Thailand for Global Export",
-          "summary": "Toyota has committed 1,490 million baht to produce 3,000 hydrogen-powered Hilux pickups annually in Thailand for global export. This marks a strategic expansion of clean-energy commercial vehicle manufacturing in the country.",
-          "why": "Specialized hydrogen fuel-cell chassis fabrication and high-pressure alloy piping require intensive weld-seam grinding, deburring, and surface finishing, driving direct abrasive demand among Toyota's Tier-1 suppliers.",
-          "action": "Target Toyota's Tier-1 metal stamping and chassis fabrication contractors with high-performance ceramic grinding discs and deburring solutions.",
+          "rating": "amber",
+          "source": "Thai PBS",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjbHhzc2hNZzE2ajcyN0dtNHQzeDd1Mzh6dk1pWmVnbXd3SVA1dWN1QW4wUHdJSkxDb21fWHVJWDEzWVA0aHhwYjRtbWZKSUdHd1JwY2lZc3U?oc=5",
+          "title": "FTI Urges Government to Preserve Legacy ICE Auto Base while Accelerating EV Transition",
+          "summary": "The Federation of Thai Industries warns that Thailand is at a critical turning point and must actively safeguard traditional automotive production while scaling new EV investments.",
+          "why": "Protecting Japanese ICE and hybrid assembly plants preserves high-volume metal stamping, engine machining, and grinding processes that generate core abrasive demand for MK.",
+          "action": "Maintain frequent technical sales coverage with Japanese Tier-1 powertrain and chassis suppliers navigating the hybrid-ICE transition.",
           "th": {
-            "title": "โตโยต้าทุ่มงบ 1,490 ล้านบาท ผลิต Hilux พลังงานไฮโดรเจนในไทย 3,000 คันต่อปี ปักหมุดส่งออกทั่วโลก",
-            "summary": "โตโยต้าลงทุน 1,490 ล้านบาทเพื่อเปิดสายการผลิตรถกระบะ Hilux ไฮโดรเจนจำนวน 3,000 คันต่อปีในไทยเพื่อส่งออกทั่วโลก ตอกย้ำความเชื่อมั่นต่อฐานการผลิตยานยนต์เชิงพาณิชย์พลังงานสะอาด",
-            "why": "การขึ้นรูปโครงสร้างคัสซีและท่อส่งก๊าซไฮโดรเจนแรงดันสูงต้องใช้กระบวนการเชื่อมและขัดแต่งผิวโลหะความแม่นยำสูง ส่งผลให้ความต้องการหินเจียร ใบเจียรเซรามิก และผ้าทรายเรียงซ้อนในกลุ่ม Tier-1 เพิ่มขึ้นโดยตรง",
-            "action": "เข้าเจาะโรงงาน Tier-1 งานโครงสร้างโลหะและคัสซีของโตโยต้า เพื่อนำเสนอวัสดุขัดเกรดเซรามิกและเซอร์โคเนียสำหรับงานขัดรอยเชื่อมเฉพาะทาง"
+            "title": "ส.อ.ท. ชี้จุดเปลี่ยนยานยนต์ไทย จี้รัฐเร่งรักษาฐานผลิตเดิมควบคู่ต่อยอด EV",
+            "summary": "ส.อ.ท. เตือนอุตสาหกรรมยานยนต์ไทยเผชิญจุดเปลี่ยนสำคัญ ต้องเร่งรักษาฐานการผลิตรถยนต์สันดาปเดิมไว้ พร้อมผลักดันการเปลี่ยนผ่านสู่ EV อย่างสมดุล",
+            "why": "การรักษาฐานผลิตของค่ายรถญี่ปุ่นช่วยประคองสายการผลิตปั๊มขึ้นรูป กัดกลึง และเจียรชิ้นส่วนเครื่องยนต์ ซึ่งเป็นกลุ่มผู้ใช้วัสดุขัดเจียรหลักของ MK",
+            "action": "รักษาความถี่ในการเข้าพบและให้บริการด้านเทคนิคแก่โรงงาน Tier-1 ญี่ปุ่นในกลุ่มชิ้นส่วนระบบส่งกำลังและช่วงล่างอย่างต่อเนื่อง"
           }
         },
         {
           "id": "20261026-2",
           "tag": "auto",
           "rating": "amber",
-          "source": "TrueID",
-          "date": "2026-10-25",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aXzlOajNLRjFMdWlUTTh6MndpaGtzdXV3b293ODc5UHh1Y3BpcG5qMHl0RGJEQVdfbmxXa05NTlJLWDI4SDl6dENmcnpidUFLaGZhQ3V3?oc=5",
-          "title": "Vietnam Extends 0% Auto Part Import Tax for 5 Years to Challenge Thai Automotive Dominance",
-          "summary": "Vietnam has extended its 0% import duty on automotive parts and materials for another 5 years to draw vehicle assembly investments away from Thailand. This policy escalation intensifies regional competition for manufacturing capital.",
-          "why": "Aggressive Vietnamese tax incentives may siphon future automotive assembly expansion from Thailand, indirectly capping parts fabrication volume and abrasive consumption in local Thai factories.",
-          "action": "Track capital expenditure plans of Japanese automotive clients in Thailand and offer long-term abrasive supply contracts to lock in domestic volumes.",
+          "source": "กรมส่งเสริมการค้าระหว่างประเทศ (DITP)",
+          "date": "2026-09-10",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE55bUVLU2lqcFRhV0g4WkxtOHlmSGR1Mk9TM0Z5bzRwYU1EOG5iQUJEUHloNG5FTXZZSk1XaUdUdUFTVnE1OEZ5U2Y3QThOdWg3c0huLTM1YllLU0Z3REVXR2tn?oc=5",
+          "title": "Mexico Auto Output Hits 2.64M Units, Unlocking Export Potential for Thai Auto Parts",
+          "summary": "Vehicle manufacturing in Mexico reached 2.64 million units in eight months, solidifying its North American hub status and creating supply chain export opportunities for Thai component makers.",
+          "why": "Thai auto parts manufacturers that export to North American platforms will sustain steady machining, deburring, and surface finishing operations.",
+          "action": "Map and approach Tier-1 precision metal component manufacturers in Thailand that hold active export contracts to the Americas.",
           "th": {
-            "title": "เวียดนามต่ออายุภาษีนำเข้าชิ้นส่วนรถยนต์ 0% อีก 5 ปี เร่งดึงเงินลงทุนท้าชิงฐานผลิตไทย",
-            "summary": "เวียดนามขยายมาตรการยกเว้นภาษีนำเข้าชิ้นส่วนและวัตถุดิบยานยนต์ 0% ต่อเนื่องอีก 5 ปี เพื่อดึงดูดเม็ดเงินลงทุนตั้งโรงงานผลิตรถยนต์และท้าชิงบทบาทศูนย์กลางยานยนต์จากไทย",
-            "why": "สิทธิประโยชน์ภาษีที่ต่อเนื่องของเวียดนามอาจทำให้ค่ายรถยนต์ชะลอการขยายสายการผลิตใหม่ในไทย ส่งผลกระทบทางอ้อมต่อการเติบโตของปริมาณการใช้วัสดุขัดในกลุ่มโรงงานผลิตชิ้นส่วน",
-            "action": "เฝ้าติดตามแผนการกระจายกำลังผลิตของค่ายรถยนต์ญี่ปุ่นในไทย พร้อมนำเสนอสัญญาจัดหาวัสดุขัดระยะยาวเพื่อล็อกยอดสั่งซื้อกับฐานลูกค้าเดิม"
+            "title": "ยอดผลิตรถยนต์เม็กซิโก 8 เดือนแตะ 2.64 ล้านคัน เปิดโอกาสส่งออกชิ้นส่วนยานยนต์ไทย",
+            "summary": "ผลผลิตยานยนต์ในเม็กซิโกพุ่งแตะ 2.64 ล้านคันในรอบ 8 เดือน ตอกย้ำฐานผลิตสำคัญในอเมริกาเหนือ และเปิดโอกาสให้ผู้ผลิตชิ้นส่วนยานยนต์ไทยส่งออกป้อนห่วงโซ่อุปทาน",
+            "why": "โรงงานผลิตชิ้นส่วนโลหะยานยนต์ในไทยที่มีสัญญาส่งออกไปอเมริกาเหนือยังคงมีงานตัดแต่ง เจียร และลบครีบอย่างต่อเนื่อง",
+            "action": "ค้นหาและเจาะตลาดโรงงานผู้ผลิตชิ้นส่วนยานยนต์ Tier-1 ในไทยที่มีคำสั่งซื้อส่งออกไปยังตลาดอเมริกา"
           }
         },
         {
           "id": "20261026-3",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "Facebook",
+          "date": "2026-01-23",
+          "url": "https://news.google.com/rss/articles/CBMi_AdBVV95cUxNNXJFNU1CNVpFTXJUczEtYS00RWpEVkRwakc0X1lWbEN1Z0JRSlRIczVXdm83RWs5YW1hN0dlLTZtYzdDUTBVcFpERUNQRGFlbmd5UXJJWGNEWjhQOXRmMDFYWEtHRDhaa1ZEQk8zbTY2UTBteGZ3MW1xcU5aTXVhcV8yM0N5YTFrTHZnN3NEX0JvN0hfOWpfNEZCS1V0M29OQ2J5Zl9FU1dFRzRtcTZGaGNjazViMDJiSHBqbHZEVlBydXlGemd0TF9SNXhVcjIxNVg3OWFiRFZEMXA1RkdUeE13ZVVKaG1EY0lDWVZkeTRCZWRLMVB6NFV5OXBwUl8tSmtYbmg1c1ZEZXpSLWlMNW5ncE9USndsM0U5a1J2Nm04RWd0Sy1BYmhGWDI3TFNpREUyYnJUb3N3a2trNnI3RmJlbUVMTUFJRHl5OWlXQmxQSVBhTGlnMnk0YWdSUy1lbXVBMnlvcGxmLXNoTUNqa1FsLWxPaDEzbkNON2dYUl9mWHAzZ0Z5RkZjMFcwRndPVzdpTHp6bEVSOTYxdjdOWElVRklsLXVOdlV5V3F0bFBUYzRPT1VoeWI3eXhWdkw3dERwNFpZc3g1TVVSbGtBQllMQnRmby1YTU9jdnlyNTRnWU1CNFhINXNfcmlsX0lPZ3JEam5UTXljZFlDeXV6MC1sc0UtZEhfbHAyeVdyY2V5M0dLMjBjN0xLN3ZuRFMzWXVrN3lqWS1Ga1pISi1CaDdPZldnbVZnS0RILU1WMG1MT0NoNGdpcEtLN2ZEd0NqYkVtMXFfLWwzcHI4QU9KNng4RFlreGc3M2t3SUdkN1g4dzNNNDVLQ1RuNnlGVUViUjFzLWYxMEt3aW5sMEtVQWFoYVgwYmd2ME9ia0l0ZUZzdUE2bFVnZjlaZXpGbG95ZnplaFpXVWpUbm5xZEVYQ2FMeVFUbjZ4NXBRN1l0ODQtX3ZDaWxnR2ZWREhKQk1LX2RiT1poaWE1aTFSTkhDLS1hTTI5OGNCbHhqTGc1UUVUbUtvMmFSRHVjZXMyVjlOeENOZEhlSnNwUTl2Rk1hN1lKX3ZZZXp3ZnZfTXN1SFdpcjNGWE8zNWRHUWlNX2tsdXlmUzVsNXJucE05S3BCa1JsaFVranBpeWY1WFAySGpoMHJGcEd6ck5lSjhpRGNYVzRHcGhxT1ZldTdVWjBvNDlyenQ5ZUVNZy16X1U4aXo3OWMxaFQ4NHNwTGVJMEdzQlVJNkJQcEJvVFN5TGRZeG5Ganl2T3RUUXRZSkw5dkJUSlF3WjdBdXZuVG5JVXF0STJjUGpEc25Eb01ydllac1BXUFNTUWxhMy12bkhZcGhXS2U1b19UODg4WjI?oc=5",
+          "title": "FTI Submits 4 Proposals to Halt Foreign Steel Dumping and Revive Plant Utilization",
+          "summary": "The FTI Steel Club presented key policy demands to the government to counter cheap dumping, particularly from China, which has kept local steel mill utilization critically low.",
+          "why": "Low operating rates across domestic steel mills suppress bulk demand for heavy cutting wheels and grinding discs, highlighting financial stress in the sector.",
+          "action": "Focus sales efforts on downstream structural steel and sheet fabricators serving protected public infrastructure projects instead of upstream raw mills.",
+          "th": {
+            "title": "ส.อ.ท. ชง 4 ข้อเรียกร้องรัฐบาล ป้องอุตสาหกรรมเหล็กไทยสกัดทุ่มตลาด ดันกำลังผลิตพ้นวิกฤต",
+            "summary": "กลุ่มอุตสาหกรรมเหล็ก ส.อ.ท. ยื่น 4 ข้อเรียกร้องต่อรัฐบาลเพื่อแก้ปัญหาการทุ่มตลาดจากต่างประเทศ โดยเฉพาะจีน ซึ่งกดดันให้อัตราการใช้กำลังการผลิตในประเทศลดลงต่ำมาก",
+            "why": "กำลังการผลิตโรงงานเหล็กในประเทศที่ซบเซาทำให้ยอดใช้วัสดุตัดและใบเจียรขนาดใหญ่ชะลอตัว และเพิ่มความเสี่ยงด้านสภาพคล่องของลูกค้ากลุ่มนี้",
+            "action": "เบนเข็มการขายไปยังโรงงานแปรรูปโครงสร้างเหล็กและโลหะแผ่นปลายน้ำที่ได้รับงานโครงการโครงสร้างพื้นฐานภาครัฐแทนโรงงานต้นน้ำ"
+          }
+        },
+        {
+          "id": "20261026-4",
           "tag": "furniture",
           "rating": "amber",
-          "source": "kasikornbank.com",
-          "date": "2025-10-09",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR0I3LUFaeENxbzdDQVF4UDdVMFlmRWp4Y3BBdFZ6OGFQeUdZZ3Y5dHA5Q2ZxRXJIaTUtLVNVY29QM3RuSk1RMmpaeXhucHEwLWRiMFlsbkJRNEtYY3RWSDZNNXRBUXdfb0hDV0IzR1pkRW5ERC1xSkQtN21WZTVveUNtdURRYmN3QjQxUDRHS2g1dDNkSGdRVVJGU2tBNGJ3WDREcGh1N2VrdnN6MExB?oc=5",
-          "title": "Thai Furniture Exports Projected to Contract 4.5% in 2026 Amid US Tariff Headwinds",
-          "summary": "Kasikorn Research projects Thai furniture exports will contract 4.5% in 2026 due to tightening US tariff policies following heavy pre-loading in 2025. This creates production headwinds for wood and metal furniture exporters.",
-          "why": "Slowed furniture production directly dampens factory-level demand for wide sanding belts, abrasive rolls, and fine-finishing discs used in wood and metal cabinetry.",
-          "action": "Expand consumer-facing sanding products for domestic DIYers on Shopee/TikTok while offering cost-competitive abrasive belts to industrial furniture makers.",
+          "source": "เดลินิวส์",
+          "date": "2026-09-03",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQOG53VVJYRkd4MUZabFczX0FkeTVGTGNFYmZGUUxkTnJ6VjNmeklDTUZEYXlVRkpjS1gzeUxQczJHMXJRS3c1dEdWSk14eVVqczJN?oc=5",
+          "title": "TIWF 2026 Readies Major Exhibition to Upgrade ASEAN Woodworking and Furniture Industry",
+          "summary": "Organizers confirmed readiness for TIWF 2026, positioning the trade exhibition to drive technological modernization and regional competitiveness across woodworking and furniture production.",
+          "why": "Upgrading woodworking machinery and finishing quality expands high-value demand for MK's wide sanding belts, paper discs, and surface conditioning tools.",
+          "action": "Prepare customized promotional packages of wide sanding belts and orbital sanding discs to target participating furniture manufacturers and exhibitors.",
           "th": {
-            "title": "ศูนย์วิจัยกสิกรฯ คาดส่งออกเฟอร์นิเจอร์ไทยปี 2569 พลิกหดตัว 4.5% รับผลกระทบกำแพงภาษีสหรัฐฯ",
-            "summary": "ศูนย์วิจัยกสิกรไทยคาดการณ์ยอดส่งออกเฟอร์นิเจอร์ไทยปี 2569 จะหดตัว 4.5% จากผลกระทบนโยบายภาษีนำเข้าของสหรัฐฯ หลังจากมีการเร่งนำเข้าสินค้าไปมากแล้วในปี 2568",
-            "why": "การชะลอตัวของออร์เดอร์ส่งออกจะกดดันรอบการผลิตของโรงงานเฟอร์นิเจอร์ไม้และโลหะ ส่งผลให้การสั่งซื้อสายพานผ้าทราย กระดาษทรายม้วน และจานขัดผิวลดลงตามกำลังการผลิต",
-            "action": "เร่งผลักดันสินค้าวัสดุขัดงานไม้เข้าสู่ตลาด B2C/DIY ผ่าน Shopee และ TikTok เพื่อชดเชยตลาด พร้อมนำเสนอสายพานทรายรุ่นคุ้มราคาให้แก่โรงงานเฟอร์นิเจอร์"
+            "title": "TIWF 2026 ประกาศความพร้อม จัดงานใหญ่ระดับภูมิภาคยกระดับอุตสาหกรรมไม้และเฟอร์นิเจอร์",
+            "summary": "ผู้จัดงานประกาศความพร้อมจัดงาน TIWF 2026 ชูเวทีใหญ่ระดับอาเซียนเพื่อขับเคลื่อนเทคโนโลยีการผลิตและยกระดับมาตรฐานอุตสาหกรรมงานไม้และเฟอร์นิเจอร์",
+            "why": "การยกระดับเครื่องจักรและมาตรฐานผิวงานไม้เพิ่มโอกาสการขายสายพานขัดหน้ากว้าง กระดาษทรายกลม และวัสดุขัดละเอียดของ MK",
+            "action": "จัดทำแพ็กเกจสินค้าราคาพิเศษกลุ่มสายพานทรายขัดไม้และกระดาษทรายขัดผิวเตรียมนำเสนอโรงงานเฟอร์นิเจอร์ที่เข้าร่วมงาน"
+          }
+        },
+        {
+          "id": "20261026-5",
+          "tag": "aero",
+          "rating": "amber",
+          "source": "Thansettakij",
+          "date": "2026-05-29",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFSElmenNfbV9JTnV2dUV3WklDZ05NcEN3ZkdQOTFmT1lzcEpKRUpSbkNISHFUYnczSnZBeDFCSlhYbW00SHZTLTlBVEs3bUJaYzBTZllB?oc=5",
+          "title": "EECO Partners with VietJet to Explore U-Tapao Aviation MRO Development",
+          "summary": "The Eastern Economic Corridor Office is partnering with VietJet to study joint investment in an aircraft maintenance, repair, and overhaul (MRO) facility at U-Tapao Airport.",
+          "why": "Participation from low-cost regional carriers diversifies Thailand's aviation MRO sector and widens future opportunities for certified metal finishing and deburring consumables.",
+          "action": "Track project milestones and review qualification requirements for aerospace-grade polishing abrasives to prepare for prospective MRO maintenance subcontracts.",
+          "th": {
+            "title": "EECO ดึง ‘เวียตเจ็ท’ ปักหมุดร่วมพัฒนาศูนย์ซ่อมอากาศยานอู่ตะเภา ยกระดับอาชีพคนไทย",
+            "summary": "สำนักงานอีอีซีจับมือสายการบินเวียตเจ็ทศึกษาแผนลงทุนจัดตั้งศูนย์ซ่อมบำรุงอากาศยาน (MRO) ณ สนามบินอู่ตะเภา",
+            "why": "การเข้ามาของสายการบินต้นทุนต่ำช่วยขยายฐานศูนย์ซ่อม MRO ในไทยให้หลากหลายขึ้น เพิ่มโอกาสขายวัสดุขัดเงาและลบครีบมาตรฐานการบินในอนาคต",
+            "action": "ติดตามกรอบเวลาโครงการและศึกษาข้อกำหนดมาตรฐานวัสดุขัดอากาศยานเพื่อเตรียมความพร้อมเข้าประกวดราคาในห่วงโซ่ซ่อมบำรุง"
           }
         }
       ],
