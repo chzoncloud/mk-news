@@ -4,46 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-25",
-      "summary": "Today's briefing focuses on niche industrial developments, including green coatings growth and metal casting forecasts, as many major steel and abrasive headlines were recently covered.",
-      "directCount": 1,
+      "summary": "Today's briefing focuses on the global abrasives market expansion toward precision finishing and new metalworking technological approaches. We highlight new data on the $72.2B abrasives outlook and fundamentals in coated abrasives.",
+      "directCount": 2,
       "th": {
-        "summary": "สรุปข่าววันนี้เน้นการพัฒนาอุตสาหกรรมเฉพาะกลุ่ม เช่น การเติบโตของสีเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมและการคาดการณ์ตลาดการหล่อโลหะ เนื่องจากข่าวเหล็กและกระดาษทรายส่วนใหญ่เพิ่งนำเสนอไป"
+        "summary": "สรุปข่าววันนี้มุ่งเน้นไปที่การขยายตัวของตลาดวัสดุขัดทั่วโลกสู่งานตกแต่งความแม่นยำสูงและแนวทางเทคโนโลยีโลหะวิทยาใหม่ๆ เราไฮไลต์ข้อมูลตลาดขัดมูลค่า 7.22 หมื่นล้านดอลลาร์และหลักการใช้กระดาษทราย/ผ้าทรายเคลือบ"
       },
       "items": [
         {
           "id": "20261025-w1",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "Market Business Insights",
-          "date": "2026-10-14",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBSDItTlp3MlgweDg2N3hibzBRRVgwVGJKa3RRWUpXc0pMcjJ3U241dE1LcnRYR3hna3hBUjNRdzZBdFIwUUEtTnd1MlFYdXIwTGpOVWNCVWpjeU45M1JISk1tVkZUYVpjR25UVUN3?oc=5",
-          "title": "Green Coatings Market Size & Growth Analysis, 2026-2035",
-          "summary": "The green coatings market continues to expand through 2035, driven by environmental regulations and sustainable manufacturing demands.",
-          "why": "Shifts in surface coatings often align with changes in pre-treatment and sanding processes in manufacturing.",
-          "action": "Monitor eco-friendly surface preparation standards used alongside green coatings.",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "EIN News",
+          "date": "2026-10-19",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM2VsRTlqVWR6dlpoUXpZQ04wNnJsRUNBbndKSnNQODIyUXdnTTlIT0hZMC10bGhEUUk0clZ5ZWZRN0I2eVhiVHVPVmRYd05xWUdJdDJldTBsTkZEUVNBNG5qaE9WeXdDN2dSVzJ2TzNsVFhBNVMzakhwZFR6Z0dQeFFVS0ZPa0dmWmh1dHhiYXVXWWRrbk9XS251Ul9SVS1SZ3NON0VXRWxfOWtzazlNcXhUMVBnU2liODhqaHF6OEdGb2NEYkRoaG9uNmx6MlNjMUd2N3Q0emZnUXltZk1wbg?oc=5",
+          "title": "Abrasives Market to Reach $72.2 Billion by 2030, Growing at a 7.6% CAGR Driven by Precision Finishing Demand",
+          "summary": "The global abrasives market is projected to hit $72.2 billion by 2030, fueled by high demand for precision finishing across manufacturing sectors.",
+          "why": "Validates long-term global growth in our core product categories, especially high-end precision abrasives.",
+          "action": "Prepare inventory strategies focused on high-precision finishing and demanding industrial applications.",
           "th": {
-            "title": "ขนาดตลาดสีเคลือบสีเขียวและการวิเคราะห์การเติบโต 2026-2035",
-            "summary": "ตลาดสีเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมยังคงขยายตัวถึงปี 2035 ขับเคลื่อนโดยกฎระเบียบด้านสิ่งแวดล้อมและความต้องการการผลิตที่ยั่งยืน",
-            "why": "การเปลี่ยนแปลงของพื้นผิวเคลือบมักสอดคล้องกับกระบวนการเตรียมผิวและการขัดกระดาษทรายในการผลิต",
-            "action": "ติดตามมาตรฐานการเตรียมพื้นผิวที่เป็นมิตรต่อสิ่งแวดล้อมที่ใช้คู่กับสีเคลือบสีเขียว"
+            "title": "ตลาดวัสดุขัดเตรียมแตะ 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 โต 7.6% หนุนโดยความต้องการงานขัดตกแต่งความแม่นยำสูง",
+            "summary": "ตลาดวัสดุขัดทั่วโลกคาดว่าจะพุ่งถึง 7.22 หมื่นล้านดอลลาร์สหรัฐภายในปี 2030 ขับเคลื่อนโดยความต้องการงานขัดตกแต่งความละเอียดสูงในภาคการผลิต",
+            "why": "ยืนยันการเติบโตในระยะยาวของหมวดสินค้าหลัก โดยเฉพาะกลุ่มวัสดุขัดความแม่นยำสูง",
+            "action": "เตรียมกลยุทธ์สต็อกสินค้าที่เน้นงานขัดความละเอียดสูงและการใช้งานอุตสาหกรรมที่ต้องการความแม่นยำ"
           }
         },
         {
           "id": "20261025-w2",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "Fortune Business Insights",
-          "date": "2026-10-05",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kYlp3TXBwdU5JVl9Gc0pFd3lJSFpjSUhLeEFGOVZVS19BbHBoTFNGb1BFOC1UNEN4c1o0c2xjdTFZYXhVdGRVb0dIeXZqakt1bTJkYy10SC0wRlh0RVVBZHZaWDFYbDk3cHdUbXBsYnRyYTlFVEE?oc=5",
-          "title": "Metal Casting Market Growth Analysis & Industry Forecast, 2034",
-          "summary": "Metal casting demand is forecasted to grow steadily through 2034 across global industrial sectors.",
-          "why": "Cast metal parts require extensive grinding, deburring, and surface finishing, driving abrasive product consumption.",
-          "action": "Keep an eye on metal foundry sectors for potential deburring and grinding supply opportunities.",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "Cutting Tool Engineering",
+          "date": "2026-01-19",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdlIxbnF0ZzBnSUozVVYybGZwMnF5R09nTWZib2VyNFB2WXpIYTJEcGFpd0lfQjBDcG42eTJiNDQ2eEJhUmdGT29PZ0w4NlNSRjhhQ2w3TmplcVloMDJ5bjNYZDF1UVdLbXYxS0RtYTRFSmtDMFVaVGxVVk5zMnVxeVBiTjhiVXpydFU3YUNMR19nRlJlT3NkT3Jjb3B3dHZqQnRN?oc=5",
+          "title": "Single-layered approach: The fundamentals of using coated abrasives in metalworking",
+          "summary": "An in-depth technical look at how single-layered coated abrasives optimize cutting performance and surface finish in metal fabrication.",
+          "why": "Deepens technical knowledge on coated abrasives performance, useful for educating B2B clients on product efficiency.",
+          "action": "Review technical product descriptions to help customers understand the benefits of single-layered coated abrasives.",
           "th": {
-            "title": "การวิเคราะห์การเติบโตของตลาดการหล่อโลหะและการคาดการณ์อุตสาหกรรมถึงปี 2034",
-            "summary": "ความต้องการการหล่อโลหะคาดว่าจะเติบโตอย่างต่อเนื่องจนถึงปี 2034 ในภาคอุตสาหกรรมทั่วโลก",
-            "why": "ชิ้นส่วนโลหะหล่อต้องผ่านกระบวนการเจียร ลบคม และตกแต่งผิวอย่างมาก ซึ่งช่วยขับเคลื่อนการใช้วัสดุขัด",
-            "action": "จับตาดูภาคโรงหล่อโลหะสำหรับโอกาสในการจัดหาผลิตภัณฑ์งานเจียรและลบคม"
+            "title": "แนวทางชั้นเดียว: พื้นฐานการใช้กระดาษทรายและผ้าทรายเคลือบในงานโลหะ",
+            "summary": "เจาะลึกเชิงเทคนิคว่าวัสดุขัดเคลือบแบบชั้นเดียวช่วยเพิ่มประสิทธิภาพการตัดและผิวสำเร็จในงานแปรรูปโลหะได้อย่างไร",
+            "why": "เพิ่มพูนความรู้เชิงลึกด้านประสิทธิภาพของกระดาษทรายและผ้าทรายเคลือบ เพื่อประโยชน์ในการให้ความรู้แก่ลูกค้า B2B",
+            "action": "ทบทวนรายละเอียดสินค้าทางเทคนิคเพื่อช่วยให้ลูกค้าเข้าใจข้อดีของการใช้กระดาษทรายและผ้าทรายเคลือบแบบชั้นเดียว"
+          }
+        },
+        {
+          "id": "20261025-w3",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-09-02",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUUpWSmpHLVowSXdiLUJqcFlpQ3ZfRmdQYjJiTVFCNk00ZW0tM0ZqenQtd2F4emNVNEdzT3Q3amZ3M050YnNuTldQZFQyTlgyX3ByekdEbkdlaURacG5yRlBUSEZucnBQalBmNzVadXVrSDdXcEd0d2t4UXptUzJ5dXZ6ckE1Q3RVV3IyUkY4SFdVSERveVJYem0yM3lNbWFUY1dXWHYyRFZ2cXdldWFqRmJTNE4tQ1RXWWp4N3NCN1h5Vmt3d3hEbkFPc2ZqT0k?oc=5",
+          "title": "A global AI manufacturing transformation at Hyundai Motor Group",
+          "summary": "Hyundai is implementing extensive AI-driven automation across its global manufacturing plants to streamline production.",
+          "why": "Shows how major auto OEMs are upgrading plants, eventually changing their tooling and surface prep specifications.",
+          "action": "Monitor how AI-driven smart factories demand automated, consistent abrasive consumables.",
+          "th": {
+            "title": "การเปลี่ยนแปลงการผลิตด้วย AI ระดับโลกของกลุ่มบริษัทฮุนได",
+            "summary": "ฮุนไดกำลังนำระบบอัตโนมัติที่ขับเคลื่อนด้วย AI มาใช้ในโรงงานผลิตทั่วโลกเพื่อเพิ่มความคล่องตัวในการผลิต",
+            "why": "แสดงให้เห็นว่าผู้ผลิตรถยนต์รายใหญ่กำลังอัปเกรดโรงงาน ซึ่งท้ายที่สุดจะเปลี่ยนข้อกำหนดด้านเครื่องมือและการเตรียมพื้นผิว",
+            "action": "ติดตามดูว่าโรงงานอัจฉริยะที่ขับเคลื่อนด้วย AI ต้องการวัสดุสิ้นเปลืองกลุ่มกระดาษทรายและใบเจียรที่เป็นอัตโนมัติและสม่ำเสมออย่างไร"
           }
         }
       ]
