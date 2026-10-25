@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-10-25",
+  "updated": "2026-10-26",
   "days": [
+    {
+      "date": "2026-10-26",
+      "summary": "Today's briefing highlights shifts in global manufacturing: a booming green coatings market demanding advanced surface prep, global steel market battles against oversupply and regional protectionism, and the rise of U.S. steel production.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปสถานการณ์โลกวันนี้: ตลาดสีเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมกำลังเติบโตซึ่งต้องอาศัยการเตรียมพื้นผิวขั้นสูง, อุตสาหกรรมเหล็กโลกกำลังต่อสู้กับภาวะล้นตลาดและการปกป้องทางการค้า และการผงาดขึ้นของการผลิตเหล็กในสหรัฐฯ"
+      },
+      "items": [
+        {
+          "id": "20261026-w1",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "Market Business Insights",
+          "date": "2026-10-14",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBSDItTlp3MlgweDg2N3hibzBRRVgwVGJKa3RRWUpXc0pMcjJ3U241dE1LcnRYR3hna3hBUjNRdzZBdFIwUUEtTnd1MlFYdXIwTGpOVWNCVWpjeU45M1JISk1tVkZUYVpjR25UVUN3?oc=5",
+          "title": "Green Coatings Market Size & Growth Analysis, 2026-2035",
+          "summary": "The green coatings market is expanding rapidly from 2026 to 2035, driven by environmental regulations and sustainable manufacturing demands across global industries.",
+          "why": "Eco-friendly surface treatments require specialized surface preparation, precision sanding, and finishing techniques to ensure proper coating adhesion.",
+          "action": "Monitor sustainable manufacturing shifts and prepare to support customers transitioning to eco-friendly coating lines.",
+          "th": {
+            "title": "ตลาดสีและสารเคลือบสีเขียว: การวิเคราะห์ขนาดและการเติบโต 2026-2035",
+            "summary": "ตลาดสีเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมกำลังขยายตัวอย่างรวดเร็วในช่วงปี 2026-2035 ขับเคลื่อนโดยกฎระเบียบด้านสิ่งแวดล้อมและความต้องการการผลิตที่ยั่งยืน",
+            "why": "การเคลือบพื้นผิวที่เป็นมิตรต่อสิ่งแวดล้อมต้องอาศัยการเตรียมพื้นผิว การขัดกระดาษทราย และเทคนิคการตกแต่งที่มีความแม่นยำสูงเพื่อให้การยึดเกาะดีเยี่ยม",
+            "action": "ติดตามการเปลี่ยนแปลงด้านการผลิตที่ยั่งยืน และเตรียมความพร้อมเพื่อรองรับลูกค้าที่เปลี่ยนผ่านไปสู่สายการผลิตเคลือบสีรักษ์โลก"
+          }
+        },
+        {
+          "id": "20261026-w2",
+          "tag": "steel",
+          "rating": "green",
+          "source": "S&P Global",
+          "date": "2026-01-12",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
+          "title": "Global steel industry battles surplus supply, protectionism",
+          "summary": "The global steel industry continues to face severe challenges from surplus production capacity and rising trade protectionism across major economies.",
+          "why": "Steel production volume and mill operating rates directly dictate the consumption of heavy-duty grinding wheels, deburring products, and metal surface finishing abrasives.",
+          "action": "Keep a close eye on steel mill outputs and regional metal fabrication activities to anticipate fluctuations in industrial abrasive demand.",
+          "th": {
+            "title": "อุตสาหกรรมเหล็กโลกเผชิญศึกหนักจากภาวะล้นตลาดและลัทธิกีดกันทางการค้า",
+            "summary": "อุตสาหกรรมเหล็กทั่วโลกยังคงเผชิญกับความท้าทายอย่างหนักจากกำลังการผลิตส่วนเกินและมาตรการปกป้องทางการค้าที่เพิ่มขึ้นในเศรษฐกิจหลักๆ",
+            "why": "ปริมาณการผลิตเหล็กและอัตราการเดินเครื่องของโรงงานเหล็กส่งผลโดยตรงต่อปริมาณการใช้หินเจียรเพรช/ล้อเจียร งานลบคม และวัสดุกัดผิวโลหะ",
+            "action": "ติดตามผลผลิตของโรงงานเหล็กและกิจกรรมการขึ้นรูปโลหะในภูมิภาคอย่างใกล้ชิด เพื่อคาดการณ์ความผันผวนของความต้องการสินค้ากลุ่มวัสดุขัด"
+          }
+        },
+        {
+          "id": "20261026-w3",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "economy.ac",
+          "date": "2026-08-07",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YQWhOYlJ3eW9jTUhwa25XdE55eHh3a2JoODhWdDAtOW00UzhXcWwtNnJJXzZGMjMtNXN6MTYwTUhib3ZHUDNXaTdIbWY2N092QXNsOXFfdw?oc=5",
+          "title": "'Trump Tariffs and AI Boom' Propel U.S. Steel Past Japan to World No. 3 for First Time in 26 Years",
+          "summary": "Propelled by tariffs and technological demand, U.S. steel output surged past Japan, marking a significant shift in the global steel ranking hierarchy.",
+          "why": "Shifts in regional steel manufacturing hubs change supply chains for metal processing equipment and surface conditioning consumables.",
+          "action": "Analyze how regional trade policies and tariff adjustments impact global competitiveness in heavy metal industries.",
+          "th": {
+            "title": "'ภาษีทรัมป์และบูม AI' ดันเหล็กสหรัฐฯแซงญี่ปุ่นขึ้นเบอร์ 3 ของโลกครั้งแรกในรอบ 26 ปี",
+            "summary": "ผลักดันโดยนโยบายภาษีและความต้องการทางเทคโนโลยี ผลผลิตเหล็กของสหรัฐฯ พุ่งแซงญี่ปุ่น ซึ่งถือเป็นการเปลี่ยนแปลงครั้งสำคัญในลำดับขั้นอุตสาหกรรมเหล็กโลก",
+            "why": "การเปลี่ยนแปลงของศูนย์กลางการผลิตเหล็กในระดับภูมิภาคส่งผลต่อห่วงโซ่อุปทานสำหรับอุปกรณ์แปรรูปโลหะและวัสดุสิ้นเปลืองสำหรับเตรียมพื้นผิว",
+            "action": "วิเคราะห์ผลกระทบของนโยบายการค้าและมาตรการภาษีระดับภูมิภาคที่มีต่อขีดความสามารถในการแข่งขันในอุตสาหกรรมโลหะหนัก"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-10-25",
       "summary": "Today's briefing focuses on the global abrasives market expansion toward precision finishing and new metalworking technological approaches. We highlight new data on the $72.2B abrasives outlook and fundamentals in coated abrasives.",
@@ -920,70 +984,6 @@ window.WORLD_ARCHIVE = {
             "summary": "ตลาดวัสดุขัดแบบไม่ถักทอทั่วโลกคาดว่าจะเติบโตอย่างมั่นคงด้วยอัตรา CAGR 3.8% ขับเคลื่อนโดยความต้องการที่เพิ่มขึ้นในการปรับสภาพผิว การผสมลายผิว และการขัดซาตินในงานโลหะ",
             "why": "กลุ่มผลิตภัณฑ์วัสดุขัดแบบไม่ถักทอเป็นสินค้าหลักสำหรับการขัดตกแต่งผิวโลหะ ข้อมูลนี้ช่วยให้วางแผนสต็อกสินค้าได้อย่างแม่นยำ",
             "action": "รักษาระดับสต็อกและทำตลาดผลิตภัณฑ์แผ่นขัดและลูกล้อปรับสภาพผิว (Surface Conditioning) ให้กับลูกค้ากลุ่มงานโลหะ"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-10-12",
-      "summary": "Today's briefing highlights digital innovation in surface finishing, global automotive manufacturing shifts toward AI and composites, and steel sector adjustments impacting industrial demand.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปประเด็นข่าววันนี้เน้นย้ำเรื่องนวัตกรรมดิจิทัลในการตกแต่งผิว การเปลี่ยนแปลงของอุตสาหกรรมยานยนต์โลกสู่ระบบ AI และวัสดุคอมโพสิต รวมถึงการปรับตัวของภาคอุตสาหกรรมเหล็กที่ส่งผลต่อความต้องการในภาคธุรกิจ"
-      },
-      "items": [
-        {
-          "id": "20261012-w1",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "European Coatings",
-          "date": "2026-09-09",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
-          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
-          "summary": "The coatings industry is accelerating its shift toward sustainable formulations and digital integration to optimize performance and manufacturing processes.",
-          "why": "Advanced coatings directly influence surface preparation requirements and pre-treatment standards before sanding or finishing.",
-          "action": "Monitor how new eco-friendly coating layers affect substrate hardness and surface preparation needs.",
-          "th": {
-            "title": "กำหนดอนาคตแห่งวงการเคลือบผิว: นวัตกรรม ความยั่งยืน และพลังแห่งดิจิทัล",
-            "summary": "อุตสาหกรรมการเคลือบผิวเร่งปรับเปลี่ยนไปสู่สูตรที่เป็นมิตรต่อสิ่งแวดล้อมและการผสานระบบดิจิทัล เพื่อเพิ่มประสิทธิภาพและกระบวนการผลิต",
-            "why": "สารเคลือบผิวขั้นสูงส่งผลโดยตรงต่อข้อกำหนดในการเตรียมพื้นผิวและมาตรฐานก่อนผ่านกระบวนการขัดหรือตกแต่งผิว",
-            "action": "ติดตามว่าชั้นเคลือบผิวที่เป็นมิตรต่อสิ่งแวดล้อมแบบใหม่ส่งผลอย่างไรต่อความแข็งของวัสดุและความต้องการในการเตรียมพื้นผิว"
-          }
-        },
-        {
-          "id": "20261012-w2",
-          "tag": "auto",
-          "rating": "green",
-          "source": "Future Market Insights",
-          "date": "2026-02-12",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc2x3UG45VXZPYjdDdjdGZ21pUkZDc2FIZnlYOWdzRXlpM0ZlLXAzR2poSHN5YllRYk9EYkZLTW1fS1FZN3Z6ZEN1SXN5cTR5cXhkeGc3QjJxMG5WeFFVN0dRQjlZUmJ6NnhNN1lYWFMzUGE1dWhfY0FWd05FWnlwYlFDcGZfZzFPeC1fbWpn?oc=5",
-          "title": "Automotive Composite Leaf Springs Market",
-          "summary": "Demand for lightweight automotive components, including composite leaf springs, continues to grow as manufacturers seek vehicle weight reduction.",
-          "why": "Composites require specialized abrasive products, non-woven abrasives, and precision sanding techniques compared to traditional steel.",
-          "action": "Prepare technical knowledge and product offerings suitable for finishing composite materials.",
-          "th": {
-            "title": "ตลาดแหนบรถยนต์วัสดุคอมโพสิต",
-            "summary": "ความต้องการชิ้นส่วนยานยนต์ที่มีน้ำหนักเบา เช่น แหนบรถยนต์วัสดุคอมโพสิต ยังคงเติบโตอย่างต่อเนื่อง เนื่องจากผู้ผลิตมุ่งเน้นการลดน้ำหนักของตัวรถ",
-            "why": "วัสดุคอมโพสิตจำเป็นต้องใช้ผลิตภัณฑ์กระดาษทรายเฉพาะทาง กระดาษทรายไม่ถักทอ (non-woven abrasives) และเทคนิคการขัดที่แม่นยำกว่าเหล็กแบบดั้งเดิม",
-            "action": "เตรียมความรู้ทางเทคนิคและสินค้าที่เหมาะสมสำหรับการขัดตกแต่งวัสดุคอมโพสิต"
-          }
-        },
-        {
-          "id": "20261012-w3",
-          "tag": "steel",
-          "rating": "green",
-          "source": "Progressive Policy Institute",
-          "date": "2026-09-24",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTeHd1akw0WFVaUWFucjdlRWp1cFBVQjRiRi1rWFd2WlNVRkQzanJJMmpMV3BBM0QxVEF5N2FZcmFMSFNxQ3M1VTQ5c1VJYjhJRVRQQVM3M2tac1FFMGdSSlZ4eTdQdzNINFB1MDR0a09haWhpNkFIVV9aWlA?oc=5",
-          "title": "American Industry Is Using Less Steel",
-          "summary": "Industrial demand shifts reveal a structural decline in total steel intensity across several manufacturing sectors in the United States.",
-          "why": "Changes in metal consumption directly impact regional grinding, deburring, and surface preparation abrasive volumes.",
-          "action": "Diversify customer segments across alternative metals and non-metal industries to hedge against steel demand shifts.",
-          "th": {
-            "title": "ภาคอุตสาหกรรมอเมริกันใช้เหล็กน้อยลง",
-            "summary": "การเปลี่ยนแปลงของความต้องการในภาคอุตสาหกรรมเผยให้เห็นถึงการลดลงเชิงโครงสร้างของความเข้มข้นในการใช้เหล็กในหลายภาคส่วนการผลิตของสหรัฐอเมริกา",
-            "why": "การเปลี่ยนแปลงปริมาณการใช้โลหะส่งผลโดยตรงต่อยอดขายผลิตภัณฑ์กระดาษทรายสำหรับการขัด ลบคม และเตรียมพื้นผิวในระดับภูมิภาค",
-            "action": "กระจายกลุ่มลูกค้าไปยังอุตสาหกรรมโลหะทางเลือกและอุตสาหกรรมที่ไม่ใช่โลหะ เพื่อป้องกันความเสี่ยงจากการเปลี่ยนแปลงของความต้องการใช้เหล็ก"
           }
         }
       ]
