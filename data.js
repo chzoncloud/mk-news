@@ -2,6 +2,71 @@
 window.NEWS_ARCHIVE = {
   "days": [
     {
+      "date": "2026-10-26",
+      "summary": "There are few new headlines today as recent EV tax shifts and aerospace MRO agreements were already tracked. The most significant development is Toyota's 1.49-billion-baht investment in local hydrogen Hilux production, boosting metal finishing demand, while Vietnam's tariff push and furniture export headwinds require close attention.",
+      "directCount": 1,
+      "th": {
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก เนื่องจากประเด็นปรับโครงสร้างภาษี EV และการลงทุน MRO การบินได้ถูกรายงานไปแล้วในรอบสัปดาห์ ไฮไลต์เด่นวันนี้คือโตโยต้าทุ่มงบ 1,490 ล้านบาทผลิต Hilux ไฮโดรเจนในไทย หนุนความต้องการวัสดุขัดโครงสร้างโลหะ ขณะที่เวียดนามขยายสิทธิประโยชน์ชิงฐานผลิตรถยนต์ และยอดส่งออกเฟอร์นิเจอร์มีแนวโน้มชะลอตัว"
+      },
+      "items": [
+        {
+          "id": "20261026-1",
+          "tag": "auto",
+          "rating": "green",
+          "source": "Thansettakij",
+          "date": "2026-10-19",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBicTYzcThxZjZTVjBTd2VabC03SGtrcHZUcUFxaTlLUU16czY2UlJaNHZtVFc1THZrXzR1RlhmRWN1a0sxaTJyd1NvZmtnTDQzU0NQcHl3?oc=5",
+          "title": "Toyota Invests 1.49 Billion Baht to Build Hydrogen Hilux in Thailand for Global Export",
+          "summary": "Toyota has committed 1,490 million baht to produce 3,000 hydrogen-powered Hilux pickups annually in Thailand for global export. This marks a strategic expansion of clean-energy commercial vehicle manufacturing in the country.",
+          "why": "Specialized hydrogen fuel-cell chassis fabrication and high-pressure alloy piping require intensive weld-seam grinding, deburring, and surface finishing, driving direct abrasive demand among Toyota's Tier-1 suppliers.",
+          "action": "Target Toyota's Tier-1 metal stamping and chassis fabrication contractors with high-performance ceramic grinding discs and deburring solutions.",
+          "th": {
+            "title": "โตโยต้าทุ่มงบ 1,490 ล้านบาท ผลิต Hilux พลังงานไฮโดรเจนในไทย 3,000 คันต่อปี ปักหมุดส่งออกทั่วโลก",
+            "summary": "โตโยต้าลงทุน 1,490 ล้านบาทเพื่อเปิดสายการผลิตรถกระบะ Hilux ไฮโดรเจนจำนวน 3,000 คันต่อปีในไทยเพื่อส่งออกทั่วโลก ตอกย้ำความเชื่อมั่นต่อฐานการผลิตยานยนต์เชิงพาณิชย์พลังงานสะอาด",
+            "why": "การขึ้นรูปโครงสร้างคัสซีและท่อส่งก๊าซไฮโดรเจนแรงดันสูงต้องใช้กระบวนการเชื่อมและขัดแต่งผิวโลหะความแม่นยำสูง ส่งผลให้ความต้องการหินเจียร ใบเจียรเซรามิก และผ้าทรายเรียงซ้อนในกลุ่ม Tier-1 เพิ่มขึ้นโดยตรง",
+            "action": "เข้าเจาะโรงงาน Tier-1 งานโครงสร้างโลหะและคัสซีของโตโยต้า เพื่อนำเสนอวัสดุขัดเกรดเซรามิกและเซอร์โคเนียสำหรับงานขัดรอยเชื่อมเฉพาะทาง"
+          }
+        },
+        {
+          "id": "20261026-2",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "TrueID",
+          "date": "2026-10-25",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aXzlOajNLRjFMdWlUTTh6MndpaGtzdXV3b293ODc5UHh1Y3BpcG5qMHl0RGJEQVdfbmxXa05NTlJLWDI4SDl6dENmcnpidUFLaGZhQ3V3?oc=5",
+          "title": "Vietnam Extends 0% Auto Part Import Tax for 5 Years to Challenge Thai Automotive Dominance",
+          "summary": "Vietnam has extended its 0% import duty on automotive parts and materials for another 5 years to draw vehicle assembly investments away from Thailand. This policy escalation intensifies regional competition for manufacturing capital.",
+          "why": "Aggressive Vietnamese tax incentives may siphon future automotive assembly expansion from Thailand, indirectly capping parts fabrication volume and abrasive consumption in local Thai factories.",
+          "action": "Track capital expenditure plans of Japanese automotive clients in Thailand and offer long-term abrasive supply contracts to lock in domestic volumes.",
+          "th": {
+            "title": "เวียดนามต่ออายุภาษีนำเข้าชิ้นส่วนรถยนต์ 0% อีก 5 ปี เร่งดึงเงินลงทุนท้าชิงฐานผลิตไทย",
+            "summary": "เวียดนามขยายมาตรการยกเว้นภาษีนำเข้าชิ้นส่วนและวัตถุดิบยานยนต์ 0% ต่อเนื่องอีก 5 ปี เพื่อดึงดูดเม็ดเงินลงทุนตั้งโรงงานผลิตรถยนต์และท้าชิงบทบาทศูนย์กลางยานยนต์จากไทย",
+            "why": "สิทธิประโยชน์ภาษีที่ต่อเนื่องของเวียดนามอาจทำให้ค่ายรถยนต์ชะลอการขยายสายการผลิตใหม่ในไทย ส่งผลกระทบทางอ้อมต่อการเติบโตของปริมาณการใช้วัสดุขัดในกลุ่มโรงงานผลิตชิ้นส่วน",
+            "action": "เฝ้าติดตามแผนการกระจายกำลังผลิตของค่ายรถยนต์ญี่ปุ่นในไทย พร้อมนำเสนอสัญญาจัดหาวัสดุขัดระยะยาวเพื่อล็อกยอดสั่งซื้อกับฐานลูกค้าเดิม"
+          }
+        },
+        {
+          "id": "20261026-3",
+          "tag": "furniture",
+          "rating": "amber",
+          "source": "kasikornbank.com",
+          "date": "2025-10-09",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR0I3LUFaeENxbzdDQVF4UDdVMFlmRWp4Y3BBdFZ6OGFQeUdZZ3Y5dHA5Q2ZxRXJIaTUtLVNVY29QM3RuSk1RMmpaeXhucHEwLWRiMFlsbkJRNEtYY3RWSDZNNXRBUXdfb0hDV0IzR1pkRW5ERC1xSkQtN21WZTVveUNtdURRYmN3QjQxUDRHS2g1dDNkSGdRVVJGU2tBNGJ3WDREcGh1N2VrdnN6MExB?oc=5",
+          "title": "Thai Furniture Exports Projected to Contract 4.5% in 2026 Amid US Tariff Headwinds",
+          "summary": "Kasikorn Research projects Thai furniture exports will contract 4.5% in 2026 due to tightening US tariff policies following heavy pre-loading in 2025. This creates production headwinds for wood and metal furniture exporters.",
+          "why": "Slowed furniture production directly dampens factory-level demand for wide sanding belts, abrasive rolls, and fine-finishing discs used in wood and metal cabinetry.",
+          "action": "Expand consumer-facing sanding products for domestic DIYers on Shopee/TikTok while offering cost-competitive abrasive belts to industrial furniture makers.",
+          "th": {
+            "title": "ศูนย์วิจัยกสิกรฯ คาดส่งออกเฟอร์นิเจอร์ไทยปี 2569 พลิกหดตัว 4.5% รับผลกระทบกำแพงภาษีสหรัฐฯ",
+            "summary": "ศูนย์วิจัยกสิกรไทยคาดการณ์ยอดส่งออกเฟอร์นิเจอร์ไทยปี 2569 จะหดตัว 4.5% จากผลกระทบนโยบายภาษีนำเข้าของสหรัฐฯ หลังจากมีการเร่งนำเข้าสินค้าไปมากแล้วในปี 2568",
+            "why": "การชะลอตัวของออร์เดอร์ส่งออกจะกดดันรอบการผลิตของโรงงานเฟอร์นิเจอร์ไม้และโลหะ ส่งผลให้การสั่งซื้อสายพานผ้าทราย กระดาษทรายม้วน และจานขัดผิวลดลงตามกำลังการผลิต",
+            "action": "เร่งผลักดันสินค้าวัสดุขัดงานไม้เข้าสู่ตลาด B2C/DIY ผ่าน Shopee และ TikTok เพื่อชดเชยตลาด พร้อมนำเสนอสายพานทรายรุ่นคุ้มราคาให้แก่โรงงานเฟอร์นิเจอร์"
+          }
+        }
+      ],
+      "terms": {}
+    },
+    {
       "date": "2026-10-25",
       "summary": "New news flow is limited today, but key developments highlight Thailand's push to enforce domestic vehicle assembly via aggressive import taxes alongside the formal contract signing for the U-Tapao aviation MRO hub.",
       "directCount": 2,
@@ -971,72 +1036,7 @@ window.NEWS_ARCHIVE = {
         }
       ],
       "terms": {}
-    },
-    {
-      "date": "2026-10-12",
-      "summary": "Limited new developments were reported today following extensive coverage of the EV tax overhaul and steel market regulations. Relevant updates highlight industry efforts to keep Japanese automakers in Thailand, Thai Airways expanding its fleet to drive future MRO activity, and the upcoming TIWF woodworking expo.",
-      "directCount": 0,
-      "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มากนักหลังจากมีการรายงานประเด็นปฏิรูปภาษีอีวีและวิกฤตเหล็กอย่างต่อเนื่องในช่วงก่อนหน้า ประเด็นสำคัญที่น่าสนใจครอบคลุมความพยายามรั้งฐานการผลิตค่ายรถยนต์ญี่ปุ่น การขยายฝูงบินของการบินไทยซึ่งจะช่วยหนุนงานซ่อมบำรุง MRO และการจัดงานแสดงเทคโนโลยีงานไม้ TIWF"
-      },
-      "items": [
-        {
-          "id": "20261012-1",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Matichon Online",
-          "date": "2026-08-29",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6UWlkVWd4aE45T3h4d0cybm1KZm1TWnBrdFpKLUViaVR6cGlZTHlta1NSc3pJOGtMOFFuOUdrMUJQelFXM05WdGdaUEZ0dlo0NHN1M2g2ZXdEb3c?oc=5",
-          "title": "Auto Parts Makers Back Government Dialogue to Retain Japanese Automotive Base",
-          "summary": "Local automotive parts associations are urging government leaders to engage Japanese carmakers and introduce targeted excise tax relief to preserve existing supply chain operations.",
-          "why": "Japanese Tier-1 and Tier-2 component manufacturers represent MK's core abrasive customer base; retaining their production volume directly safeguards demand for grinding and deburring products.",
-          "action": "Strengthen customer engagement with Japanese automotive suppliers to secure long-term abrasive supply agreements amid their cost-reduction pressures.",
-          "th": {
-            "title": "กลุ่มชิ้นส่วนยานยนต์หนุนรัฐบาลเจรจาค่ายรถญี่ปุ่น รั้งฐานการผลิตในไทย",
-            "summary": "สมาคมผู้ผลิตชิ้นส่วนยานยนต์ไทยหนุนรัฐบาลเร่งหารือกับค่ายรถยนต์ญี่ปุ่น พร้อมจับตาการปรับภาษีสรรพสามิตเพื่อลดช่องว่างต้นทุนและรักษาห่วงโซ่การผลิตเดิมไว้ในประเทศ",
-            "why": "โรงงานชิ้นส่วนยานยนต์ Tier 1 และ 2 ของค่ายญี่ปุ่นคือกลุ่มลูกค้าหลักของ MK การรักษาฐานการผลิตเหล่านี้ไว้ได้ช่วยป้องกันไม่ให้ยอดใช้วัสดุขัด เจียร และลบครีบหดตัว",
-            "action": "เข้าพบและกระชับความสัมพันธ์กับกลุ่มโรงงานชิ้นส่วนยานยนต์ญี่ปุ่นเพื่อนำเสนอโซลูชันวัสดุขัดที่ช่วยลดต้นทุนการผลิต"
-          }
-        },
-        {
-          "id": "20261012-2",
-          "tag": "aero",
-          "rating": "amber",
-          "source": "Thansettakij",
-          "date": "2026-08-01",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJbG91NDM0Z1ZuZmRPYUc4dlRzSXYwVXRnb1l5dGZyZUJLSDZqUXhOSnVzSXVQeTdRME04Y1c5TVB5SC0wOENDcm9VeDhaT3Fha0ZocE90aEgzNXpNOGVmYklR?oc=5",
-          "title": "Thai Airways Invests 100 Billion Baht to Expand Fleet to 150 Aircraft",
-          "summary": "Thai Airways is executing a massive fleet expansion toward 150 aircraft to regain its position as a premier global carrier.",
-          "why": "A significantly larger domestic aircraft fleet will generate sustained, long-term demand for local aircraft heavy maintenance and surface polishing operations.",
-          "action": "Accelerate aerospace-grade abrasive product certification to prepare for upcoming MRO procurement cycles.",
-          "th": {
-            "title": "การบินไทยทุ่มแสนล้านดันฝูงบิน 150 ลำ ทวงบัลลังก์สายการบินระดับโลก",
-            "summary": "การบินไทยเดินหน้าแผนขยายฝูงบินสู่ 150 ลำ ด้วยงบลงทุนระดับแสนล้านบาทเพื่อเสริมขีดความสามารถการแข่งขันและรองรับเส้นทางบินทั่วโลก",
-            "why": "จำนวนเครื่องบินประจำการในประเทศที่เพิ่มขึ้นจะช่วยขับเคลื่อนปริมาณงานซ่อมบำรุงอากาศยาน (MRO) ซึ่งต้องใช้วัสดุขัดผิวและขัดเงามาตรฐานการบิน",
-            "action": "เร่งเตรียมความพร้อมด้านเอกสารรับรองมาตรฐานวัสดุขัดเกรดการบินเพื่อเข้าสู่การจัดซื้อของศูนย์ซ่อมบำรุงอากาศยาน"
-          }
-        },
-        {
-          "id": "20261012-3",
-          "tag": "furniture",
-          "rating": "amber",
-          "source": "เดลินิวส์",
-          "date": "2026-09-03",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQOG53VVJYRkd4MUZabFczX0FkeTVGTGNFYmZGUUxkTnJ6VjNmeklDTUZEYXlVRkpjS1gzeUxQczJHMXJRS3c1dEdWSk14eVVqczJN?oc=5",
-          "title": "TIWF 2026 Expo readies to Elevate ASEAN Woodworking and Furniture Manufacturing",
-          "summary": "Organizers of TIWF 2026 announced broad industry readiness for the regional exhibition showcasing advanced woodworking technologies and materials.",
-          "why": "Woodworking and export furniture plants are major commercial buyers of wide sanding belts, flap wheels, and disc abrasives.",
-          "action": "Review the exhibitor and visitor profile of TIWF 2026 to target factory owners for industrial sanding belt supply.",
-          "th": {
-            "title": "TIWF 2026 ประกาศความพร้อมจัดงานใหญ่ ยกระดับอุตสาหกรรมไม้และเฟอร์นิเจอร์อาเซียน",
-            "summary": "งาน TIWF 2026 เตรียมจัดแสดงเทคโนโลยี เครื่องจักร และนวัตกรรมการแปรรูปไม้และเฟอร์นิเจอร์ระดับภูมิภาคอาเซียน",
-            "why": "โรงงานแปรรูปไม้และเฟอร์นิเจอร์ส่งออกเป็นกลุ่มผู้ใช้งานสายพานขัด กระดาษทรายสายพานหน้ากว้าง และจานขัดในปริมาณมากอย่างต่อเนื่อง",
-            "action": "พิจารณารายชื่อผู้เข้าร่วมงานเพื่อวางแผนการตลาดเชิงรุกสำหรับสายพานขัดอุตสาหกรรมสำหรับโรงงานเฟอร์นิเจอร์"
-          }
-        }
-      ],
-      "terms": {}
     }
   ],
-  "updated": "2026-10-25"
+  "updated": "2026-10-26"
 };
