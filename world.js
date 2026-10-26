@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-10-26",
+  "updated": "2026-10-27",
   "days": [
+    {
+      "date": "2026-10-27",
+      "summary": "Today's briefing features 3 key global signals covering abrasive grain market expansions, advanced automotive EV battery and manufacturing shifts, and steel industry supply pressures.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปข่าวสารประจำวันนี้มี 3 สัญญาณสำคัญระดับโลก ได้แก่ การขยายตัวของตลาดเม็ดทรายขัด การเปลี่ยนแปลงด้านการผลิตยานยนต์ EV และแรงกดดันด้านอุปทานในอุตสาหกรรมเหล็ก"
+      },
+      "items": [
+        {
+          "id": "20261027-w1",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "openPR.com",
+          "date": "2026-10-21",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNGFJajFuQ0J1ZGJza1dDNkQ0MFRlaDV4VFNvbWFKUmZBV2JONGRyVGZxT2ZVRGlwVE5FcmtpbDh4cGJOUHYtRW9obUtmVGtueXFyWnRVdDZ2ZUZtemZyTTl0UXhWbHVvOTJIemd1YkJKaHJwVEU1M0FBMnFRb2NnM0wyLVA0NU1IRlgwWmdsbTNiYnNGU0NDbDRXSQ?oc=5",
+          "title": "Abrasive Grains Market is Expected to Reach USD 9.14 Billion",
+          "summary": "The global abrasive grains market is projected to reach $9.14 billion, reflecting steady growth in raw material sectors for manufacturing sandpaper and grinding tools.",
+          "why": "Abrasive grains are the core raw material for our entire product line at mksanding.com, directly affecting production costs and material availability.",
+          "action": "Monitor raw material pricing trends closely to manage our inventory and pricing strategies effectively.",
+          "th": {
+            "title": "ตลาดเม็ดทรายขัด (Abrasive Grains) คาดว่าจะเติบโตแตะ 9.14 พันล้านดอลลาร์",
+            "summary": "ตลาดเม็ดทรายขัดทั่วโลกคาดว่าจะเติบโตถึง 9.14 พันล้านดอลลาร์ สะท้อนถึงความต้องการวัตถุดิบที่เพิ่มขึ้นสำหรับอุตสาหกรรมการผลิตกระดาษทรายและเครื่องมือเจียร",
+            "why": "เม็ดทรายขัดคือวัตถุดิบหลักสำหรับสินค้าทุกรายการของเราที่ mksanding.com ซึ่งส่งผลโดยตรงต่อต้นทุนการผลิตและความพร้อมของสินค้า",
+            "action": "ติดตามแนวโน้มราคาวัตถุดิบอย่างใกล้ชิดเพื่อบริหารจัดการสินค้าคงคลังและกลยุทธ์ด้านราคาให้มีประสิทธิภาพ"
+          }
+        },
+        {
+          "id": "20261027-w2",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "IEA - International Energy Agency",
+          "date": "2026-05-20",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUmhMdjBTMHNNQVA3WnI0QWx2dnlrZDVLUklVdE1XNmsxeEVPZ2tUN0pVUkstbzBOYXZsbFVjcVhpWk8wUXlvRGhUcVR4alN2TmQyQ1Y0SnVhMUVoeEtna2V2R0ZSdGVoR2hTQVZBaFdqdG5INHdoVzUzNW93TkxfNVUxVQ?oc=5",
+          "title": "Electric vehicle batteries - Global EV Outlook 2026",
+          "summary": "The latest IEA Global EV Outlook highlights rapid scale-up and technological shifts in electric vehicle battery manufacturing worldwide.",
+          "why": "EV battery component casings and structural frames require specialized deburring, surface conditioning, and precision finishing.",
+          "action": "Explore non-woven and specialized abrasive products suited for EV battery housing metal preparation.",
+          "th": {
+            "title": "แบตเตอรี่รถยนต์ไฟฟ้า - รายงานแนวโน้มยานยนต์ไฟฟ้าโลกปี 2026",
+            "summary": "รายงานล่าสุดจาก IEA เน้นย้ำถึงการขยายตัวอย่างรวดเร็วและการเปลี่ยนแปลงทางเทคโนโลยีในการผลิตแบตเตอรี่รถยนต์ไฟฟ้าทั่วโลก",
+            "why": "โครงสร้างและเปลือกหุ้มแบตเตอรี่ EV จำเป็นต้องผ่านกระบวนการลบคม การปรับสภาพผิว และการขัดแต่งความแม่นยำสูง",
+            "action": "ศึกษาผลิตภัณฑ์กลุ่มผ้าขัดไม่ถักทอ (non-woven) และวัสดุขัดเฉพาะทางที่เหมาะสำหรับการเตรียมผิวโลหะสำหรับทำตัวเรือนแบตเตอรี่ EV"
+          }
+        },
+        {
+          "id": "20261027-w3",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "Recycling International",
+          "date": "2026-05-06",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUGx0eVkxRzJXY2ZfWGV0VWstUVozcnFnRjRpQnEydThVWTdhdno0NEhVNVFLYzRIal85T0h4b0hqNjNBclVpY1lteGZDWFZSdGhhcG9LVlhYN3ZucHRDOWFvOXFkTjhYYjVibTNsM3Y5ZVFjeFhoQW13anV4RE56emVzQUFESDlWRnB4LVpuSFNEb1FoOXRvNU9KY1pfYmxEYlA3RUhqQzY0RDMzSHF1dHE5U0w?oc=5",
+          "title": "Conflicts’ ‘serious’ impact on global steel industry",
+          "summary": "Global geopolitical conflicts continue to create serious supply chain disruptions and cost fluctuations within the international steel industry.",
+          "why": "Steel is the primary workpiece material for our industrial metal fabrication and tube-finishing B2B customers.",
+          "action": "Anticipate fluctuating demand from metal processing clients and maintain flexible product offerings for stainless steel finishing.",
+          "th": {
+            "title": "ผลกระทบที่รุนแรงของความขัดแย้งต่ออุตสาหกรรมเหล็กโลก",
+            "summary": "ความขัดแย้งทางภูมิรัฐศาสตร์ทั่วโลกยังคงสร้างความปั่นป่วนในห่วงโซ่อุปทานและความผันผวนด้านต้นทุนในอุตสาหกรรมเหล็กระหว่างประเทศ",
+            "why": "เหล็กคือวัสดุชิ้นงานหลักสำหรับลูกค้ากลุ่ม B2B ในอุตสาหกรรมขึ้นรูปโลหะและการขัดแต่งท่อ",
+            "action": "คาดการณ์ความต้องการที่อาจผันผวนจากลูกค้ากลุ่มแปรรูปโลหะ และรักษาความหลากหลายของผลิตภัณฑ์สำหรับขัดสแตนเลสให้ยืดหยุ่น"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-10-26",
       "summary": "Today's briefing focuses on global market forecasts for abrasives, evolving surface prep needs through green coatings, and structural shifts in steel manufacturing and US-Japan standings.",
@@ -902,88 +966,6 @@ window.WORLD_ARCHIVE = {
             "summary": "การวิเคราะห์ตลาดคาดการณ์การเติบโตในระยะยาวอย่างต่อเนื่องสำหรับกลุ่มผลิตภัณฑ์กระดาษและผ้าทรายในภาคการผลิตและการตกแต่งผิวทั่วโลก",
             "why": "ยืนยันรูปแบบธุรกิจหลักและเน้นย้ำถึงความพึ่งพาผลิตภัณฑ์กระดาษทรายเคลือบขั้นสูงทั่วโลกสำหรับการเตรียมพื้นผิว",
             "action": "ปรับกลยุทธ์แคตตาล็อกสินค้าให้สอดคล้องกับกลุ่มผลิตภัณฑ์ที่มีการเติบโตสูงซึ่งระบุไว้ในงานวิจัยตลาดกระดาษทรายระดับโลก"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-10-13",
-      "summary": "Today's briefing highlights shifts in the global steel and metal casting sectors driven by trade tariffs and AI booms, alongside market growth in automotive coatings and non-woven abrasives.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปทิศทางโลกวันนี้เน้นการเปลี่ยนแปลงในอุตสาหกรรมเหล็กและหล่อโลหะทั่วโลกที่ขับเคลื่อนด้วยภาษีการค้าและบูม AI รวมถึงการเติบโตของตลาดสีเคลือบยานยนต์และกระดาษทรายแบบไม่ถักทอ"
-      },
-      "items": [
-        {
-          "id": "20261013-w1",
-          "tag": "steel",
-          "rating": "green",
-          "source": "economy.ac",
-          "date": "2026-08-07",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YQWhOYlJ3eW9jTUhwa25XdE55eHh3a2JoODhWdDAtOW00UzhXcWwtNnJJXzZGMjMtNXN6MTYwTUhib3ZHUDNXaTdIbWY2N092QXNsOXFfdw?oc=5",
-          "title": "‘Trump Tariffs and AI Boom’ Propel U.S. Steel Past Japan to World No. 3 for First Time in 26 Years",
-          "summary": "U.S. steel production surged past Japan to become the world's number three producer, fueled by recent tariff policies and industrial demand driven by the AI infrastructure boom.",
-          "why": "Higher domestic U.S. steel production and changing trade flows impact global metal fabrication output and subsequent demand for heavy-duty grinding and deburring abrasives.",
-          "action": "Monitor shifting steel production hubs and align abrasive supply chain strategies with key metal-producing regions.",
-          "th": {
-            "title": "มาตรการภาษีของทรัมป์และบูม AI ดันเหล็กสหรัฐฯแซงญี่ปุ่นขึ้นแท่นเบอร์ 3 ของโลกครั้งแรกในรอบ 26 ปี",
-            "summary": "การผลิตเหล็กของสหรัฐฯ พุ่งแซงญี่ปุ่นขึ้นเป็นผู้ผลิตอันดับ 3 ของโลก ได้แรงหนุนจากนโยบายภาษีและอุปสงค์ภาคอุตสาหกรรมที่ขับเคลื่อนโดยโครงสร้างพื้นฐาน AI",
-            "why": "การผลิตเหล็กในสหรัฐฯ ที่สูงขึ้นและการเปลี่ยนPแปลงของทิศทางการค้าส่งผลต่อปริมาณการผลิตงานโลหะทั่วโลกและความต้องการใช้งานกระดาษทรายและใบเจียรโลหะหนัก",
-            "action": "ติดตามการเปลี่ยนแปลงของแหล่งผลิตเหล็กและปรับกลยุทธ์ห่วงโซ่อุปทานวัสดุขัดให้สอดคล้องกับภูมิภาคผู้ผลิตโลหะหลัก"
-          }
-        },
-        {
-          "id": "20261013-w2",
-          "tag": "steel",
-          "rating": "green",
-          "source": "Fortune Business Insights",
-          "date": "2026-09-21",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kYlp3TXBwdU5JVl9Gc0pFd3lJSFpjSUhLeEFGOVZVS19BbHBoTFNGb1BFOC1UNEN4c1o0c2xjdTFZYXhVdGRVb0dIeXZqakt1bTJkQy10SC0wRlh0RVVBZHZaWDFYbDk3cHdUbXBsYnRyYTlFVEE?oc=5",
-          "title": "Metal Casting Market Growth Analysis & Industry Forecast, 2034",
-          "summary": "The global metal casting market is seeing steady growth forecasts through 2034, driven by lightweighting needs in automotive and advanced industrial manufacturing.",
-          "why": "Metal casting processes require extensive surface finishing, deburring, and cleaning, which directly drive the consumption of grinding wheels and coated abrasives.",
-          "action": "Targetfoundries and casting workshops with specialized heavy-duty grinding and fettling abrasive solutions.",
-          "th": {
-            "title": "วิเคราะห์การเติบโตตลาดการหล่อโลหะและแนวโน้มอุตสาหกรรมถึงปี 2034",
-            "summary": "ตลาดการหล่อโลหะทั่วโลกเติบโตอย่างต่อเนื่องจนถึงปี 2034 ขับเคลื่อนโดยความต้องการชิ้นส่วนน้ำหนักเบาในอุตสาหกรรมยานยนต์และการผลิตขั้นสูง",
-            "why": "กระบวนการหล่อโลหะต้องอาศัยการแต่งผิว ลบครีบ และทำความสะอาดชิ้นงานเป็นจำนวนมาก ซึ่งส่งผลโดยตรงต่อปริมาณการใช้งานใบเจียรและกระดาษทรายขัด",
-            "action": "มุ่งเน้นเจาะกลุ่มโรงงานหล่อโลหะ (Foundry) ด้วยผลิตภัณฑ์กลุ่มงานขัดหยาบและลบครีบที่มีความทนทานสูง"
-          }
-        },
-        {
-          "id": "20261013-w3",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "Precedence Research",
-          "date": "2026-09-08",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84OGJPdlhPN3V5UEwxaGlhNG5ZT21uSmN5bTRCODBPZWtNRVR2WnBrZ2NEMkRndlJQblVJbEhlVUk3NUFDR0dQQUJXT255NmRiQTd1THBndXZZSlRxNEZqeTBVM0ZmTWJ3SjMxOXRmb3RvM2RVODBlZzNMTlI?oc=5",
-          "title": "Automotive Paints and Coatings Market Companies, Size & Trends 2026-2035",
-          "summary": "The automotive paints and coatings market continues its expansion through 2035, emphasizing high performance, durability, and environmentally friendly formulations.",
-          "why": "Surface preparation and sanding are critical steps before automotive painting; growth in OEM coatings signals robust underlying demand for fine-grit sanding products.",
-          "action": "Keep track of new primer and clearcoat technologies that require specialized high-precision micro-finishing abrasives.",
-          "th": {
-            "title": "บริษัท ขนาด และแนวโน้มตลาดสีและสารเคลือบยานยนต์ ปี 2026-2035",
-            "summary": "ตลาดสีและสารเคลือบยานยนต์เติบโตอย่างต่อเนื่องจนถึงปี 2035 โดยเน้นย้ำเรื่องสมรรถนะสูง ความทนทาน และสูตรที่เป็นมิตรต่อสิ่งแวดล้อม",
-            "why": "การเตรียมพื้นผิวและการขัดกระดาษทรายเป็นขั้นตอนสำคัญก่อนการพ่นสีรถยนต์ การเติบโตของสีเคลือบ OEM บ่งบอกถึงความต้องการผลิตภัณฑ์กระดาษทรายละเอียดอย่างต่อเนื่อง",
-            "action": "ติดตามเทคโนโลยีสีรองพื้นและแลคเกอร์ใหม่ๆ ที่ต้องใช้กระดาษทรายขัดละเอียดความแม่นยำสูงเฉพาะทาง"
-          }
-        },
-        {
-          "id": "20261013-w4",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "Market.us",
-          "date": "2025-03-04",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91alpTXzlIaHVncXdQT2g3dVU2YjM5QTQ1amZIZGRMN0VQMGhzaXdEUXlIWV9nUXZRQ18wMUdrMmYzMkxLa25tdHpwTVctQ2JuYXhXWmxsQW1Pd1gxN1FhM2tkV20yV1psbHhv?oc=5",
-          "title": "Non-woven Abrasives Market Size, Share | CAGR of 3.8%",
-          "summary": "The global non-woven abrasives market is projected to expand at a steady CAGR of 3.8%, driven by increasing demand for surface conditioning, blending, and satin finishing in metalwork.",
-          "why": "Non-woven abrasives are core product categories for surface blending and finishing in metal fabrication, making market trends directly actionable for inventory planning.",
-          "action": "Ensure stable stock and promote non-woven surface conditioning pads and wheels for metal finishing clients.",
-          "th": {
-            "title": "ขนาด ส่วนแบ่ง และอัตราการเติบโตของตลาดวัสดุขัดแบบไม่ถักทอ (Non-woven Abrasives)",
-            "summary": "ตลาดวัสดุขัดแบบไม่ถักทอทั่วโลกคาดว่าจะเติบโตอย่างมั่นคงด้วยอัตรา CAGR 3.8% ขับเคลื่อนโดยความต้องการที่เพิ่มขึ้นในการปรับสภาพผิว การผสมลายผิว และการขัดซาตินในงานโลหะ",
-            "why": "กลุ่มผลิตภัณฑ์วัสดุขัดแบบไม่ถักทอเป็นสินค้าหลักสำหรับการขัดตกแต่งผิวโลหะ ข้อมูลนี้ช่วยให้วางแผนสต็อกสินค้าได้อย่างแม่นยำ",
-            "action": "รักษาระดับสต็อกและทำตลาดผลิตภัณฑ์แผ่นขัดและลูกล้อปรับสภาพผิว (Surface Conditioning) ให้กับลูกค้ากลุ่มงานโลหะ"
           }
         }
       ]
