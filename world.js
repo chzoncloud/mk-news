@@ -4,46 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-26",
-      "summary": "Today's briefing focuses on global manufacturing shifts, including EV outlook updates and steel sector dynamics, while avoiding previously covered topics.",
+      "summary": "Today's briefing focuses on global market forecasts for abrasives, evolving surface prep needs through green coatings, and structural shifts in steel manufacturing and US-Japan standings.",
       "directCount": 2,
       "th": {
-        "summary": "สรุปประเด็นแนวโน้มอุตสาหกรรมโลกประจำวันนี้ เน้นการเปลี่ยนแปลงในภาคการผลิต EV และอุตสาหกรรมเหล็ก โดยหลีกเลี่ยงหัวข้อที่เคยนำเสนอไปแล้ว"
+        "summary": "สรุปข้อมูลแนวโน้มโลกวันนี้เน้นไปที่การคาดการณ์ตลาดวัสดุขัดถู ความต้องการเตรียมพื้นผิวที่เปลี่ยนไปตามเทรนด์โค้วติ้งสีเขียว และการเปลี่ยนแปลงโครงสร้างอุตสาหกรรมเหล็ก"
       },
       "items": [
         {
           "id": "20261026-w1",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "IEA - International Energy Agency",
-          "date": "2026-05-20",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QTnMzbGN4ajBTWWNPa1VOQU5ZQUtEa3M2NXZPS2JHUEtHeUpYUmZHYVU1dlN0OFBFeVVGWmFjR0pmVi13UTJPWVduN1pWaHdVbVJRb1JWYXNKcjNaZ1RRMk5FSTIyRmJYZExoUkxOTUFwFjNQTFdLTmJuU2h6VTA?oc=5",
-          "title": "Trends in electric cars - Global EV Outlook 2026",
-          "summary": "The IEA's global EV outlook highlights ongoing production and adoption shifts, impacting manufacturing supply chains worldwide.",
-          "why": "EV manufacturing processes require specific surface preparation and lightweight material finishing, directly influencing future abrasive tool demand.",
-          "action": "Monitor EV component finishing requirements to prepare for specialized sanding solutions.",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "EIN News",
+          "date": "2026-10-19",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM2VsRTlqVWR6dlpoUXpZQ04wNnJsRUNBbndKSnNQODIyUXdnTTlIT0hZMC10bGhEUUk0clZ5ZWZRN0I2eVhiVHVPVmRYd05xWUdJdDJldTBsTkZEUVNBNG5qaE9WeXdDN2dSVzJ2TzNsVFhBNVMzakhwZFR6Z0dQeFFVS0ZPa0dmWmh1dHhiYXVXWWRrbk9XS251Ul9SVS1SZ3NON0VXRWxfOWtzazlNcXhUMVBnU2liODhqaXF6OEdGb2NEYkRoaG9uNmx6MlNjMUd2N3Q0emZnUXltZk1wbg?oc=5",
+          "title": "Abrasives Market to Reach $72.2 Billion by 2030, Growing at a 7.6% CAGR Driven by Precision Finishing Demand",
+          "summary": "The global abrasives market is projected to hit $72.2 billion by 2030, driven heavily by increasing manufacturing demands for high-precision finishing and advanced surface preparation.",
+          "why": "Validates our core business direction: global demand for precision finishing is expanding strongly, meaning higher value in technical abrasive products.",
+          "action": "Focus marketing efforts on high-precision and performance-driven finishing solutions rather than competing on low-cost commodities.",
           "th": {
-            "title": "แนวโน้มรถยนต์ไฟฟ้า - รายงานภาพรวม EV โลกปี 2026",
-            "summary": "รายงานแนวโน้ม EV ทั่วโลกจาก IEA เน้นย้ำการเปลี่ยนแปลงของการผลิตและการใช้งาน ซึ่งส่งผลกระทบต่อห่วงโซ่อุปทานการผลิตทั่วโลก",
-            "why": "กระบวนการผลิต EV ต้องมีการเตรียมพื้นผิวและการขัดแต่งวัสดุน้ำหนักเบาโดยเฉพาะ ซึ่งจะส่งผลต่อความต้องการใช้เครื่องมือขัดในอนาคต",
-            "action": "ติดตามความต้องการในการขัดแต่งชิ้นส่วน EV เพื่อเตรียมพร้อมสำหรับโซลูชันกระดาษทรายและอุปกรณ์ขัดเฉพาะทาง"
+            "title": "ตลาดวัสดุขัดถูทั่วโลกจ่อแตะ 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 หนุนโดยความต้องการงานขัดแต่งผิวความแม่นยำสูง",
+            "summary": "ตลาดวัสดุขัดถูทั่วโลกคาดว่าจะเติบโตถึง 7.22 หมื่นล้านดอลลาร์สหรัฐภายในปี 2030 ขับเคลื่อนโดยความต้องการในการผลิตที่เน้นงานตกแต่งผิวความละเอียดสูงและการเตรียมพื้นผิวขั้นสูง",
+            "why": "ยืนยันว่าทิศทางธุรกิจหลักของเรามาถูกทาง ความต้องการงานขัดผิวความแม่นยำสูงทั่วโลกกำลังขยายตัว ซึ่งหมายถึงมูลค่าที่สูงขึ้นในกลุ่มผลิตภัณฑ์วัสดุขัดถูเชิงเทคนิค",
+            "action": "มุ่งเน้นการทำตลาดผลิตภัณฑ์กลุ่มขัดแต่งผิวความแม่นยำสูงและเน้นประสิทธิภาพ แทนที่จะแข่งราคากับสินค้าทั่วไป"
           }
         },
         {
           "id": "20261026-w2",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "Market Business Insights",
+          "date": "2026-10-14",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBSDItTlp3MlgweDg2N3hibzBRRVgwVGJKa3RRWUpXc0pMcjJ3U241dE1LcnRYR3hna3hBUjNRdzZBdFIwUUEtTnd1MlFYdXIwTGpOVWNCVWpjeU45M1JISk1tVkZUYVpjR25UVUN3?oc=5",
+          "title": "Green Coatings Market Size & Growth Analysis, 2026-2035",
+          "summary": "The green coatings sector is expanding significantly from 2026 to 2035 as industries transition to eco-friendly, low-VOC surface treatments and sustainable manufacturing.",
+          "why": "Eco-friendly coatings change how surfaces react to prep work, often requiring specialized sanding profiles and surface cleaning before and after coating applications.",
+          "action": "Keep an eye on compatibility requirements between new eco-coatings and substrate preparation abrasives.",
+          "th": {
+            "title": "วิเคราะห์ขนาดและการเติบโตของตลาดสีและสารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อม ปี 2026-2035",
+            "summary": "กลุ่มตลาดสารเคลือบสีเขียว (Green Coatings) กำลังเติบโตอย่างมีนัยสำคัญระหว่างปี 2026 ถึง 2035 เนื่องจากภาคอุตสาหกรรมเปลี่ยนผ่านไปสู่การเคลือบผิวที่เป็นมิตรต่อสิ่งแวดล้อมและปล่อยสารระเหยต่ำ",
+            "why": "สารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมส่งผลต่อวิธีเตรียมพื้นผิว มักต้องการการขัดหรือปรับสภาพผิวที่จำเพาะเจาะจงทั้งก่อนและหลังพ่นเคลือบ",
+            "action": "ติดตามความต้องการด้านความเข้ากันได้ระหว่างสารเคลือบอีโค่รุ่นใหม่กับกระดาษทรายหรือวัสดุขัดที่ใช้เตรียมพื้นผิว"
+          }
+        },
+        {
+          "id": "20261026-w3",
           "tag": "steel",
           "rating": "amber",
-          "source": "Recycling International",
-          "date": "2026-05-06",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUGx0eVkxRzJXY2ZfWGV0VWstUVozcnFnRjRpQnEydThVWTdhdno0NEhVNVFLYzRIal85T0h4b0hqNjNBclVpY1lteGZDWFZSdGhhcG9LVlhYN3ZucHRDOWFvOXFkTjhYYjVibTNsM3Y5ZVFjeFhoQW13anV4RE56emVzQUFESDlWRnB4LVpuSFNEb1FoOXRvNU9KY1pfYmxEYlA3RUhqQzY0RDMzSHF1dHE5U0w?oc=5",
-          "title": "Conflicts’ ‘serious’ impact on global steel industry",
-          "summary": "Geopolitical conflicts continue to exert a serious impact on global steel production stability and supply chains.",
-          "why": "Fluctuations in steel production directly affect metal fabrication volumes, which drives the baseline consumption of industrial abrasives and grinding tools.",
-          "action": "Keep an eye on metal fabrication activity levels to adjust inventory levels for metal-working abrasives.",
+          "source": "https://economy.ac/",
+          "date": "2026-08-07",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YQWhOYlJ3eW9jTUhwa25XdE55eHh3a2JoODhWdDAtOW00UzhXcWwtNnJJXzZGMjMtNXN6MTYwTUhib3ZHUDNXaTdIbWY2N092QXNsOXFfdw?oc=5",
+          "title": "'Trump Tariffs and AI Boom' Propel U.S. Steel Past Japan to World No. 3 for First Time in 26 Years",
+          "summary": "Driven by trade policies and tech-related demand, the U.S. steel industry has surpassed Japan to become the world's third-largest steel producer.",
+          "why": "Shifts in global steel production geography impact regional metal fabrication hubs, influencing where metal deburring and grinding consumables are in highest demand.",
+          "action": "Monitor how production relocations affect regional metalworking equipment imports and export destinations for manufacturing tools.",
           "th": {
-            "title": "ผลกระทบที่รุนแรงของความขัดแย้งต่ออุตสาหกรรมเหล็กโลก",
-            "summary": "ความขัดแย้งทางภูมิรัฐศาสตร์ยังคงส่งผลกระทบอย่างรุนแรงต่อเสถียรภาพการผลิตเหล็กและห่วงโซ่อุปทานทั่วโลก",
-            "why": "ความผันผวนของการผลิตเหล็กส่งผลโดยตรงต่อปริมาณงานแปรรูปโลหะ ซึ่งเป็นตัวขับเคลื่อนความต้องการใช้งานผลิตภัณฑ์ขัดและเจียรในอุตสาหกรรม",
-            "action": "คอยสังเกตระดับกิจกรรมการแปรรูปโลหะเพื่อปรับสต็อกสินค้ากลุ่มอุตสาหกรรมโลหะให้เหมาะสม"
+            "title": "'มาตรการภาษีและบูม AI' ผลักดันเหล็กสหรัฐฯ แซงญี่ปุ่นขึ้นแท่นอันดับ 3 ของโลกในรอบ 26 ปี",
+            "summary": "ด้วยแรงขับเคลื่อนจากนโยบายการค้าและความต้องการที่เกี่ยวข้องกับเทคโนโลยี อุตสาหกรรมเหล็กของสหรัฐฯ ได้แซงหน้าญี่ปุ่นขึ้นเป็นผู้ผลิตเหล็กรายใหญ่อันดับ 3 ของโลก",
+            "why": "การเปลี่ยนแปลงของภูมิศาสตร์การผลิตเหล็กส่งผลต่อศูนย์กลางการขึ้นรูปโลหะ ซึ่งกระทบโดยตรงกับความต้องการใช้วัสดุขัดและลบคมโลหะในแต่ละภูมิภาค",
+            "action": "ติดตามว่าการย้ายฐานการผลิตเหล็กส่งผลอย่างไรต่อทิศทางการนำเข้าเครื่องจักรโลหะและเครื่องมืออุตสาหกรรม"
           }
         }
       ]
