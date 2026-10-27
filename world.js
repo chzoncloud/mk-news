@@ -4,64 +4,100 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-27",
-      "summary": "Today's briefing features 3 key global signals covering abrasive grain market expansions, advanced automotive EV battery and manufacturing shifts, and steel industry supply pressures.",
+      "summary": "Today's briefing highlights global shifts in surface finishing, coatings technology, and metal industry pressures. Key takeaways emphasize precision manufacturing growth and sustainable digital innovations.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปข่าวสารประจำวันนี้มี 3 สัญญาณสำคัญระดับโลก ได้แก่ การขยายตัวของตลาดเม็ดทรายขัด การเปลี่ยนแปลงด้านการผลิตยานยนต์ EV และแรงกดดันด้านอุปทานในอุตสาหกรรมเหล็ก"
+        "summary": "สรุปข่าวประจำวันนี้เน้นการเปลี่ยนแปลงระดับโลกในด้านการเตรียมผิว เทคโนโลยีสีเคลือบ และแรงกดดันในอุตสาหกรรมโลหะ โดยประเด็นสำคัญเน้นการเติบโตของการผลิตแบบแม่นยำและนวัตกรรมดิจิทัลที่ยั่งยืน"
       },
       "items": [
         {
           "id": "20261027-w1",
           "tag": "abrasive",
           "rating": "green",
-          "source": "openPR.com",
-          "date": "2026-10-21",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNGFJajFuQ0J1ZGJza1dDNkQ0MFRlaDV4VFNvbWFKUmZBV2JONGRyVGZxT2ZVRGlwVE5FcmtpbDh4cGJOUHYtRW9obUtmVGtueXFyWnRVdDZ2ZUZtemZyTTl0UXhWbHVvOTJIemd1YkJKaHJwVEU1M0FBMnFRb2NnM0wyLVA0NU1IRlgwWmdsbTNiYnNGU0NDbDRXSQ?oc=5",
-          "title": "Abrasive Grains Market is Expected to Reach USD 9.14 Billion",
-          "summary": "The global abrasive grains market is projected to reach $9.14 billion, reflecting steady growth in raw material sectors for manufacturing sandpaper and grinding tools.",
-          "why": "Abrasive grains are the core raw material for our entire product line at mksanding.com, directly affecting production costs and material availability.",
-          "action": "Monitor raw material pricing trends closely to manage our inventory and pricing strategies effectively.",
+          "source": "EIN News",
+          "date": "2026-10-19",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM2VsRTlqVWR6dlpoUXpZQ04wNnJsRUNBbndKSnNQODIyUXdnTTlIT0hZMC10bGhEUUk0clZ5ZWZRN0I2eVhiVHVPVmRYd05xWUdJdDJldTBsTkZEUVNBNG5qaE9WeXdDN2dSVzJ2TzNsVFhBNVMzakhwZFR6Z0dQeFFVS0ZPa0dmWmh1dHhiYXVXWWRrbk9XS251Ul9SVS1SZ3NON0VXRWxfOWtzazlNcXhUMVBnU2liODhqaXF6OEdGb2NEYkRoaG9uNmx6MlNjMUd2N3Q0emZnUXltZk1wbg?oc=5",
+          "title": "Abrasives Market to Reach $72.2 Billion by 2030, Growing at a 7.6% CAGR Driven by Precision Finishing Demand",
+          "summary": "The global abrasives market is projected to reach $72.2 billion by 2030, propelled by a 7.6% CAGR as demand for precision finishing in industrial sectors accelerates.",
+          "why": "Shows steady, robust global market growth directly tied to our core business of sanding and grinding supplies.",
+          "action": "Align inventory and marketing around high-precision finishing products to capture growing industrial demand.",
           "th": {
-            "title": "ตลาดเม็ดทรายขัด (Abrasive Grains) คาดว่าจะเติบโตแตะ 9.14 พันล้านดอลลาร์",
-            "summary": "ตลาดเม็ดทรายขัดทั่วโลกคาดว่าจะเติบโตถึง 9.14 พันล้านดอลลาร์ สะท้อนถึงความต้องการวัตถุดิบที่เพิ่มขึ้นสำหรับอุตสาหกรรมการผลิตกระดาษทรายและเครื่องมือเจียร",
-            "why": "เม็ดทรายขัดคือวัตถุดิบหลักสำหรับสินค้าทุกรายการของเราที่ mksanding.com ซึ่งส่งผลโดยตรงต่อต้นทุนการผลิตและความพร้อมของสินค้า",
-            "action": "ติดตามแนวโน้มราคาวัตถุดิบอย่างใกล้ชิดเพื่อบริหารจัดการสินค้าคงคลังและกลยุทธ์ด้านราคาให้มีประสิทธิภาพ"
+            "title": "ตลาดวัสดุขัดถูคาดว่าจะแตะ 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 เติบโต 7.6% จากความต้องการงานขัดผิวความแม่นยำสูง",
+            "summary": "ตลาดวัสดุขัดถูทั่วโลกมีแนวโน้มเติบโตถึง 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 ด้วยอัตราการเติบโตเฉลี่ย 7.6% ขับเคลื่อนโดยความต้องการงานตกแต่งผิวที่แม่นยำในภาคอุตสาหกรรม",
+            "why": "แสดงให้เห็นถึงการเติบโตของตลาดโลกที่แข็งแกร่ง ซึ่งเชื่อมโยงโดยตรงกับธุรกิจหลักของเราด้านผลิตภัณฑ์กระดาษทรายและหินเจียร",
+            "action": "ปรับสต็อกสินค้าและการตลาดให้สอดคล้องกับผลิตภัณฑ์ขัดผิวความแม่นยำสูง เพื่อรองรับความต้องการของอุตสาหกรรมที่กำลังเติบโต"
           }
         },
         {
           "id": "20261027-w2",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "IEA - International Energy Agency",
-          "date": "2026-05-20",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUmhMdjBTMHNNQVA3WnI0QWx2dnlrZDVLUklVdE1XNmsxeEVPZ2tUN0pVUkstbzBOYXZsbFVjcVhpWk8wUXlvRGhUcVR4alN2TmQyQ1Y0SnVhMUVoeEtna2V2R0ZSdGVoR2hTQVZBaFdqdG5INHdoVzUzNW93TkxfNVUxVQ?oc=5",
-          "title": "Electric vehicle batteries - Global EV Outlook 2026",
-          "summary": "The latest IEA Global EV Outlook highlights rapid scale-up and technological shifts in electric vehicle battery manufacturing worldwide.",
-          "why": "EV battery component casings and structural frames require specialized deburring, surface conditioning, and precision finishing.",
-          "action": "Explore non-woven and specialized abrasive products suited for EV battery housing metal preparation.",
+          "tag": "coating",
+          "rating": "green",
+          "source": "European Coatings",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
+          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
+          "summary": "Industry leaders discuss how innovation, strict environmental sustainability, and digital integration are reshaping the future of coatings manufacturing.",
+          "why": "Surface coatings and abrasive prep go hand-in-hand; coating shifts often change pre-treatment and sanding requirements.",
+          "action": "Monitor sustainable and advanced coating trends to anticipate how customer surface preparation needs will evolve.",
           "th": {
-            "title": "แบตเตอรี่รถยนต์ไฟฟ้า - รายงานแนวโน้มยานยนต์ไฟฟ้าโลกปี 2026",
-            "summary": "รายงานล่าสุดจาก IEA เน้นย้ำถึงการขยายตัวอย่างรวดเร็วและการเปลี่ยนแปลงทางเทคโนโลยีในการผลิตแบตเตอรี่รถยนต์ไฟฟ้าทั่วโลก",
-            "why": "โครงสร้างและเปลือกหุ้มแบตเตอรี่ EV จำเป็นต้องผ่านกระบวนการลบคม การปรับสภาพผิว และการขัดแต่งความแม่นยำสูง",
-            "action": "ศึกษาผลิตภัณฑ์กลุ่มผ้าขัดไม่ถักทอ (non-woven) และวัสดุขัดเฉพาะทางที่เหมาะสำหรับการเตรียมผิวโลหะสำหรับทำตัวเรือนแบตเตอรี่ EV"
+            "title": "กำหนดอนาคตใหม่แห่งสีเคลือบ: นวัตกรรม ความยั่งยืน และพลังแห่งดิจิทัล",
+            "summary": "ผู้นำอุตสาหกรรมอภิปรายถึงวิธีที่นวัตกรรม ความยั่งยืนด้านสิ่งแวดล้อม และการบูรณาการดิจิทัลกำลังเปลี่ยนโฉมอนาคตของการผลิตสีเคลือบ",
+            "why": "งานเคลือบผิวและงานเตรียมพื้นผิวด้วยวัสดุขัดต้องทำควบคู่กัน การเปลี่ยนแปลงของสีเคลือบมักส่งผลต่อความต้องการในการเตรียมผิวและขัดกระดาษทราย",
+            "action": "ติดตามแนวโน้มสีเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมและเทคโนโลยีใหม่ๆ เพื่อคาดการณ์ความต้องการเตรียมพื้นผิวของลูกค้าที่เปลี่ยนไป"
           }
         },
         {
           "id": "20261027-w3",
-          "tag": "steel",
+          "tag": "coating",
           "rating": "amber",
-          "source": "Recycling International",
-          "date": "2026-05-06",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUGx0eVkxRzJXY2ZfWGV0VWstUVozcnFnRjRpQnEydThVWTdhdno0NEhVNVFLYzRIal85T0h4b0hqNjNBclVpY1lteGZDWFZSdGhhcG9LVlhYN3ZucHRDOWFvOXFkTjhYYjVibTNsM3Y5ZVFjeFhoQW13anV4RE56emVzQUFESDlWRnB4LVpuSFNEb1FoOXRvNU9KY1pfYmxEYlA3RUhqQzY0RDMzSHF1dHE5U0w?oc=5",
-          "title": "Conflicts’ ‘serious’ impact on global steel industry",
-          "summary": "Global geopolitical conflicts continue to create serious supply chain disruptions and cost fluctuations within the international steel industry.",
-          "why": "Steel is the primary workpiece material for our industrial metal fabrication and tube-finishing B2B customers.",
-          "action": "Anticipate fluctuating demand from metal processing clients and maintain flexible product offerings for stainless steel finishing.",
+          "source": "Market Business Insights",
+          "date": "2026-10-14",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBSDItTlp3MlgweDg2N3hibzBRRVgwVGJKa3RRWUpXc0pMcjJ3U241dE1LcnRYR3hna3hBUjNRdzZBdFIwUUEtTnd1MlFYdXIwTGpOVWNCVWpjeU45M1JISk1tVkZUYVpjR25UVUN3?oc=5",
+          "title": "Green Coatings Market Size & Growth Analysis, 2026-2035",
+          "summary": "A comprehensive look at the green coatings market expanding through 2035, driven by eco-friendly regulations and sustainable manufacturing demands.",
+          "why": "Eco-friendly manufacturing trends in adjacent sectors push suppliers to adopt cleaner, sustainable surface treatment processes.",
+          "action": "Keep an eye on eco-friendly surface preparation workflows used alongside green coatings.",
           "th": {
-            "title": "ผลกระทบที่รุนแรงของความขัดแย้งต่ออุตสาหกรรมเหล็กโลก",
-            "summary": "ความขัดแย้งทางภูมิรัฐศาสตร์ทั่วโลกยังคงสร้างความปั่นป่วนในห่วงโซ่อุปทานและความผันผวนด้านต้นทุนในอุตสาหกรรมเหล็กระหว่างประเทศ",
-            "why": "เหล็กคือวัสดุชิ้นงานหลักสำหรับลูกค้ากลุ่ม B2B ในอุตสาหกรรมขึ้นรูปโลหะและการขัดแต่งท่อ",
-            "action": "คาดการณ์ความต้องการที่อาจผันผวนจากลูกค้ากลุ่มแปรรูปโลหะ และรักษาความหลากหลายของผลิตภัณฑ์สำหรับขัดสแตนเลสให้ยืดหยุ่น"
+            "title": "ขนาดตลาดสีเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมและการวิเคราะห์การเติบโต ปี 2026-2035",
+            "summary": "ภาพรวมเชิงลึกของตลาดสีเคลือบสีเขียวที่ขยายตัวจนถึงปี 2035 ขับเคลื่อนโดยกฎระเบียบที่เป็นมิตรต่อสิ่งแวดล้อมและความต้องการการผลิตที่ยั่งยืน",
+            "why": "กระแสการผลิตรักษ์โลกในอุตสาหกรรมใกล้เคียงผลักดันให้ซัพพลายเออร์ต้องปรับตัวใช้กระบวนการเตรียมผิวที่สะอาดและยั่งยืนยิ่งขึ้น",
+            "action": "จับตากระบวนการเตรียมพื้นผิวที่เป็นมิตรต่อสิ่งแวดล้อมซึ่งใช้ร่วมกับสีเคลือบประเภทนี้"
+          }
+        },
+        {
+          "id": "20261027-w4",
+          "tag": "steel",
+          "rating": "green",
+          "source": "World Bank Blogs",
+          "date": "2026-06-11",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONzBKVVZhYkZoRERBTm8wSUNzYUY3Y0lZTVhlRXhoMk9qWGUybnc0SFA2dC1KT1ZOV2puSzlLRzhmdDRUVDkwejhFM3JtNm1SY2RpbFoyYWR2Q1J2eHJTME0zd25GSjlaRE1qWG1sQjZsaUpXdjBJd0oyZlBEUklMNkxuNGVWZ3FZVGhZOHJwOWdiZw?oc=5",
+          "title": "Metal prices surge as supply pressures intensify",
+          "summary": "Global metal prices are experiencing upward surges as supply chain pressures and production constraints intensify across major markets.",
+          "why": "Metal price volatility directly impacts fabrication, heavy machinery, and metalworking plants—our primary abrasive-consuming sectors.",
+          "action": "Advise sales teams to monitor metal fabrication clients' operational budgets and cost pressures closely.",
+          "th": {
+            "title": "ราคาโลหะพุ่งสูงขึ้นท่ามกลางแรงกดดันด้านอุปทานที่ทวีความรุนแรง",
+            "summary": "ราคาโลหะทั่วโลกพุ่งสูงขึ้นเนื่องจากแรงกดดันด้านห่วงโซ่อุปทานและข้อจำกัดการผลิตที่เข้มข้นขึ้นในตลาดหลัก",
+            "why": "ความผันผวนของราคาโลหะส่งผลโดยตรงต่ออุตสาหกรรมแปรรูปโลหะ เครื่องจักรหนัก และโรงงานโลหะ ซึ่งเป็นกลุ่มลูกค้าหลักที่ใช้วัสดุขัด",
+            "action": "แนะนำให้ทีมขายติดตามงบประมาณการดำเนินงานและแรงกดดันด้านต้นทุนของลูกค้ากลุ่มแปรรูปโลหะอย่างใกล้ชิด"
+          }
+        },
+        {
+          "id": "20261027-w5",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Fortune Business Insights",
+          "date": "2026-10-05",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
+          "title": "Automotive OEM Coatings Market Size, Industry Report, 2034",
+          "summary": "The automotive OEM coatings sector continues to evolve through 2034, focusing on advanced exterior finishes and lightweight body materials.",
+          "why": "Automotive manufacturing requires rigorous surface prep, sanding, and body panel finishing before painting.",
+          "action": "Track automotive OEM coating shifts to anticipate changes in car body sanding and finishing specifications.",
+          "th": {
+            "title": "ขนาดตลาดสีเคลือบ OEM ยานยนต์ และรายงานอุตสาหกรรมถึงปี 2034",
+            "summary": "ภาคธุรกิจสีเคลือบ OEM สำหรับยานยนต์ยังคงพัฒนาอย่างต่อเนื่องถึงปี 2034 โดยมุ่งเน้นไปที่การเคลือบผิวภายนอกขั้นสูงและวัสดุตัวถังน้ำหนักเบา",
+            "why": "อุตสาหกรรมการผลิตรถยนต์จำเป็นต้องมีการเตรียมพื้นผิว การขัด และการตกแต่งแผงตัวถังอย่างเข้มงวดก่อนทำสี",
+            "action": "ติดตามการเปลี่ยนแปลงของสีเคลือบรถยนต์ OEM เพื่อคาดการณ์ความต้องการสเปกงานขัดและตกแต่งผิวตัวถังรถที่เปลี่ยนไป"
           }
         }
       ]
