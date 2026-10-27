@@ -3,82 +3,82 @@ window.NEWS_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-27",
-      "summary": "Today features limited new headlines, but key highlights include export upside for Thai auto parts to Mexico and preparations for the TIWF 2026 woodworking expo, which directly drives demand for industrial abrasives.",
-      "directCount": 1,
+      "summary": "New intelligence updates are limited today; however, key growth drivers remain solid with BOI's 130-billion-baht EV investment approvals and dedicated MRO financing at U-Tapao, indicating sustained demand for specialized industrial abrasives.",
+      "directCount": 3,
       "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มาก แต่มีประเด็นน่าสนใจจากโอกาสส่งออกชิ้นส่วนยานยนต์ไทยไปยังเม็กซิโก และความพร้อมจัดงาน TIWF 2026 ซึ่งช่วยกระตุ้นความต้องการใช้วัสดุขัดในกลุ่มโรงงานแปรรูปไม้และเฟอร์นิเจอร์โดยตรง"
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยประเด็นหลักยังอยู่ที่แรงหนุนระยะยาวจากยอดลงทุน EV ของบีโอไอที่ทะลุ 1.3 แสนล้านบาท และความคืบหน้าการระดมทุนศูนย์ซ่อม MRO อู่ตะเภา ซึ่งส่งสัญญาณบวกต่อความต้องการวัสดุขัดเกรดอุตสาหกรรม"
       },
       "items": [
         {
           "id": "20261027-1",
-          "tag": "furniture",
+          "tag": "auto",
           "rating": "green",
-          "source": "เดลินิวส์",
-          "date": "2026-09-03",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQOG53VVJYRkd4MUZabFczX0FkeTVGTGNFYmZGUUxkTnJ6VjNmeklDTUZEYXlVRkpjS1gzeUxQczJHMXJRS3c1dEdWSk14eVVqczJN?oc=5",
-          "title": "TIWF 2026 Prepares Regional Platform to Modernize Woodworking and Furniture Industry",
-          "summary": "Organizers have announced full readiness for TIWF 2026, positioning Thailand as ASEAN's hub for woodworking machinery, sustainable wood processing, and furniture components. The exhibition will gather regional manufacturers and industrial tooling vendors.",
-          "why": "Directly impacts our core consumable lines, as wood furniture factories rely heavily on wide sanding belts, orbital discs, and hand-sanding abrasive sheets for surface preparation.",
-          "action": "Plan booth presence or targeted B2B roadshows at TIWF 2026 to connect with furniture exporters upgrading to automated wide-belt sanding machines.",
+          "source": "Thaigov",
+          "date": "2026-07-02",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zOHo0X01meExtendzNTNja1RMTUxKa2dWM0hFZ1JrRzJ4dmJPLWhSdHVwb19IU01fVTRVOWtaX2lkMVJUSlRPb3FCNVg5UQ?oc=5",
+          "title": "BOI Confirms EV Investments Exceed 130 Billion Baht Across All Powertrains",
+          "summary": "The Board of Investment reported total approved EV ecosystem investments surpassing 130 billion baht, covering BEVs, hybrids, and critical components to solidify Thailand as a multi-powertrain manufacturing hub.",
+          "why": "New factory setups and expanded manufacturing lines drive direct consumption of abrasive belts, non-woven wheels, and flap discs for metal surface preparation.",
+          "action": "Target newly approved EV and parts suppliers under the BOI scheme to offer trial abrasive kits for production line tooling.",
           "th": {
-            "title": "TIWF 2026 ประกาศความพร้อมจัดงานใหญ่ ยกระดับอุตสาหกรรมไม้และเฟอร์นิเจอร์ระดับภูมิภาค",
-            "summary": "ผู้จัดงาน TIWF 2026 ประกาศความพร้อมจัดงานแสดงสินค้าและการประชุมระดับภูมิภาค เพื่อยกระดับเครื่องจักรงานไม้ การแปรรูปไม้ และชิ้นส่วนเฟอร์นิเจอร์ในอาเซียน โดยรวบรวมผู้ผลิตและซัพพลายเออร์เครื่องมืออุตสาหกรรมจำนวนมาก",
-            "why": "ส่งผลต่อยอดขายวัสดุขัดโดยตรง เนื่องจากโรงงานเฟอร์นิเจอร์ไม้ต้องใช้งานสายพานขัดผืนกว้าง (Wide Belt) จานขัดกลม และกระดาษทรายขัดไม้ในปริมาณสูง",
-            "action": "วางแผนร่วมออกบูทหรือส่งทีมขายเข้าจับคู่ธุรกิจในงาน TIWF 2026 เพื่อเสนอสายพานขัดสำหรับเครื่องขัดอัตโนมัติแก่โรงงานเฟอร์นิเจอร์ส่งออก"
+            "title": "บีโอไอเผยยอดลงทุน EV ทะลุ 1.3 แสนล้านบาท หนุนเป้าฐานผลิตยานยนต์ทุกรูปแบบ",
+            "summary": "สำนักงานคณะกรรมการส่งเสริมการลงทุน (บีโอไอ) เปิดเผยยอดอนุมัติลงทุนกลุ่ม EV และชิ้นส่วนสะสมทะลุ 1.3 แสนล้านบาท ครอบคลุมทั้ง BEV ไฮบริด และชิ้นส่วนสำคัญ เพื่อรักษาฐานการผลิตยานยนต์ในประเทศ",
+            "why": "การตั้งโรงงานและสายการผลิตใหม่ส่งผลให้เกิดความต้องการใช้งานสายพานขัด ล้อขัด และจานขัดเพื่อเตรียมผิวและเจียรแต่งชิ้นงานโลหะโดยตรง",
+            "action": "เร่งเข้าพบฝ่ายจัดซื้อของซัพพลายเออร์ชิ้นส่วน EV ที่เพิ่งได้รับบัตรส่งเสริมบีโอไอเพื่อส่งตัวอย่างวัสดุขัดเข้าทดสอบในไลน์ผลิต"
           }
         },
         {
           "id": "20261027-2",
           "tag": "auto",
-          "rating": "amber",
-          "source": "กรมส่งเสริมการค้าระหว่างประเทศ (DITP)",
-          "date": "2026-09-10",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE55bUVLU2lqcFRhV0g4WkxtOHlmSGR1Mk9TM0Z5bzRwYU1EOG5iQUJEUHloNG5FTXZZSk1XaUdUdUFTVnE1OEZ5U2Y3QThOdWg3c0huLTM1YllLU0Z3REVXR2tn?oc=5",
-          "title": "Mexico Auto Production Hits 2.64M Units, Unlocking Export Openings for Thai Parts Makers",
-          "summary": "Mexican auto assembly reached 2.64 million units across eight months, reinforcing its supply role in North America and opening higher export demand for Thai component suppliers. Products in demand include automotive stamping parts, engine components, and precision metal fittings.",
-          "why": "Export-oriented Tier-1 and Tier-2 parts manufacturers in Thailand will maintain robust production runs, sustaining demand for stamping deburring and weld-blending abrasives.",
-          "action": "Audit current Tier-1 stamping and machining accounts with export exposure to North America and bundle high-durability flap discs and non-woven deburring wheels.",
+          "rating": "green",
+          "source": "thansettakij",
+          "date": "2026-08-03",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wNWVNY0xIZjBsSmFaT1lidHlmTklnZE43TlhGbGt1R3ZSNXh0S1p4VE51Q1NjUVhfa3l4RElGWG4telc3YjFuVG44cW9OeUt6VmZz?oc=5",
+          "title": "Thai Automotive Output Set to Expand Through 2028 Backed by 200B Baht Stimulus",
+          "summary": "Industry forecasts indicate Thai automotive assembly will return to growth between 2026 and 2028, supported by 200 billion baht in soft loans and continued EV 3.5 incentives.",
+          "why": "Production volume recovery directly translates to recurring procurement of grinding wheels, sandpaper, and polishing consumables across Tier-1 stamping and machining plants.",
+          "action": "Ensure stable warehouse stock of automotive-grade abrasives and approach key stamping plants to lock in supply contracts.",
           "th": {
-            "title": "ยอดผลิตรถยนต์เม็กซิโกแตะ 2.64 ล้านคัน เปิดโอกาสส่งออกชิ้นส่วนยานยนต์ไทย",
-            "summary": "ยอดผลิตรถยนต์ในเม็กซิโก 8 เดือนแตะ 2.64 ล้านคัน ตอกย้ำการเป็นฐานผลิตสำคัญป้อนตลาดอเมริกาเหนือ ส่งผลดีต่อผู้ส่งออกชิ้นส่วนยานยนต์ไทย โดยเฉพาะกลุ่มงานปั๊มขึ้นรูป ชิ้นส่วนเครื่องยนต์ และโลหะความแม่นยำสูง",
-            "why": "โรงงานชิ้นส่วนยานยนต์ Tier 1/2 ในไทยที่มีสัญญาส่งออกจะมีคำสั่งผลิตต่อเนื่อง ช่วยพยุงการใช้งานหินเจียร ลูกขัดลบคม และผ้าทรายขัดรอยเชื่อม",
-            "action": "ตรวจสอบรายชื่อลูกค้ากลุ่ม Tier 1 ที่ผลิตชิ้นส่วนปั๊มขึ้นรูปส่งออกอเมริกาเหนือ พร้อมนำเสนอจานทรายซ้อนและลูกขัด Non-woven เกรดทนทานสูง"
+            "title": "เจาะอนาคตยานยนต์ไทย 2569-2571 ยอดผลิตฟื้นรับเงินกู้ 2 แสนล้านและมาตรการ EV 3.5",
+            "summary": "การคาดการณ์ภาคอุตสาหกรรมชี้ว่ายอดผลิตยานยนต์ในไทยจะกลับมาขยายตัวต่อเนื่องระหว่างปี 2569-2571 โดยได้แรงหนุนจากมาตรการปล่อยกู้ดอกเบี้ยต่ำ 2 แสนล้านบาทและสิทธิประโยชน์ EV 3.5",
+            "why": "การฟื้นตัวของยอดผลิตรถยนต์ทำให้เกิดการสั่งซื้อหินเจียร กระดาษทราย และวัสดุขัดเงาซ้ำอย่างต่อเนื่องในกลุ่มโรงงานปั๊มขึ้นรูปและกลึงชิ้นส่วน",
+            "action": "สำรองสต็อกวัสดุขัดเกรดยานยนต์ให้พร้อมรองรับรอบการผลิต และเร่งเจรจาสัญญาส่งมอบระยะยาวกับโรงงานขึ้นรูปชิ้นส่วนโลหะ"
           }
         },
         {
           "id": "20261027-3",
           "tag": "aero",
-          "rating": "amber",
-          "source": "thansettakij",
-          "date": "2026-06-16",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pbFFnQlhiSG5UMVBfTjVmMUZtNXc4ZkYyOFljMVFtQlQwalZ5WUpidFlzX3prejlBWGoydDYzUUZXMlY4bE56VFUwZnZrLVJfWlRtV2t0Wi0xOWkzeVFLTUFJOVIwUQ?oc=5",
-          "title": "EECO Eyes VietJet Joint Investment to Expand U-Tapao Aviation MRO Hub",
-          "summary": "The EEC Office is advancing the U-Tapao aircraft maintenance center and awaiting VietJet's comprehensive investment feasibility study. Attracting foreign carriers expands fleet maintenance capacity beyond Thai Airways' primary facility.",
-          "why": "A diversified MRO hub servicing commercial budget carriers translates to higher long-term domestic volume for certified aviation paint-stripping discs and composite sanding sheets.",
-          "action": "Track aircraft maintenance engineering contractors allied with VietJet to pre-qualify MK aviation-grade abrasives before operational launch.",
+          "rating": "green",
+          "source": "posttoday",
+          "date": "2026-07-27",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lak5sZXQtNktSd3dqWTVQcmdhN2JJdGVhSEUxUzk5RFI5TUs4T3kzMzBqVDdNUnp4N2k3M2FBalNXd0UwaS1XeUxkczM4Rzg4QnVBQXJR?oc=5",
+          "title": "EECO Mobilizes Capital to Accelerate U-Tapao Regional Aircraft MRO Hub",
+          "summary": "The Eastern Economic Corridor Office is raising investment funds to construct regional aircraft maintenance and repair infrastructure at U-Tapao airport.",
+          "why": "Aircraft overhaul requires high-spec certified abrasives for surface stripping, engine component deburring, and composite sanding.",
+          "action": "Prepare specialized product sheets for aerospace-grade abrasives and map out engineering contractors servicing aircraft maintenance facilities.",
           "th": {
-            "title": "EECO ปักหมุดศูนย์ซ่อมอู่ตะเภา รอ ‘เวียตเจ็ท’ ชงแผนร่วมลงทุน MRO",
-            "summary": "สำนักงาน EEC เดินหน้าพัฒนาศูนย์ซ่อมอากาศยานอู่ตะเภา โดยรอผลการศึกษาแผนลงทุนจากสายการบินเวียตเจ็ท เพื่อขยายขีดความสามารถการซ่อมบำรุงอากาศยานร่วมกับศูนย์ซ่อมของการบินไทย",
-            "why": "หากมีสายการบินต่างชาติเข้ามาร่วมตั้งฐานซ่อมบำรุง จะช่วยเพิ่มปริมาณงานขัดลอกสีตัวถังและขัดผิวคอมโพสิตของเครื่องบินพาณิชย์ในประเทศระยะยาว",
-            "action": "ติดตามทีมวิศวกรรมซ่อมบำรุงและผู้รับเหมาช่วงที่เกี่ยวข้องกับเวียตเจ็ท เพื่อเตรียมยื่นสเปกกระดาษทรายและวัสดุขัดเกรดอากาศยานล่วงหน้า"
+            "title": "EECO ระดมทุน ดันอุตสาหกรรม MRO ปั้นอู่ตะเภาสู่ศูนย์กลางซ่อมอากาศยานภูมิภาค",
+            "summary": "สำนักงานอีอีซีเดินหน้าระดมทุนเพื่อเร่งก่อสร้างและพัฒนาโครงสร้างพื้นฐานศูนย์ซ่อมบำรุงอากาศยาน (MRO) ณ สนามบินอู่ตะเภา เพื่อปั้นเป็นฮับการบินประจำภูมิภาค",
+            "why": "งานซ่อมบำรุงเครื่องบินจำเป็นต้องใช้วัสดุขัดที่มีมาตรฐานการบินสูง เช่น การลอกสี ลบครีบชิ้นส่วนเครื่องยนต์ และขัดผิวชิ้นงานคอมโพสิต",
+            "action": "จัดทำแค็ตตาล็อกสินค้าเกรดอากาศยานและเริ่มเชื่อมโยงกับผู้รับเหมาเทคนิคและซัพพลายเออร์ที่ดูแลงานศูนย์ซ่อมเครื่องบิน"
           }
         },
         {
           "id": "20261027-4",
-          "tag": "steel",
+          "tag": "furniture",
           "rating": "amber",
-          "source": "bangkokbiznews",
-          "date": "2026-06-09",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1BZE5wSV9tN3JIMkxoeTBjenRHaWFGTThOMkNUWUgwUm4ybm02TTlNLWJ5U1RFdVFRQVBwSldqVWEyUHBIVXhfTnNiSHpzQXhoVDhUYjJoMVAyakhp?oc=5",
-          "title": "Thai Steel Producers Urge Ministry to Block Substandard Chinese Induction Furnaces",
-          "summary": "Local steel associations have stepped up pressure on the Department of Industrial Works regarding the controversial 'Xin Ke Yuan' facility and unregulated induction furnaces. Producers demand strict enforcement of industrial standards to prevent substandard steel from destabilizing the market.",
-          "why": "Strengthening standard electric arc furnace (EAF) mills against substandard induction plants protects quality-conscious steel fabricators who purchase certified grinding wheels.",
-          "action": "Position MK heavy-duty grinding discs with certified safety ratings (EN12413) to standardized structural steel and rolling mills to protect worker safety.",
+          "source": "posttoday",
+          "date": "2026-02-20",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxXzVZOHRNaDlMYzJBM2F6S1FPc0Vkcy1Sc2JWRnl1VklJY2ZCSEpsOUJ0RG13b0I1cHBpXzBUOUhlSHdpdV9uV1cyZGJHT2pNaF83cw?oc=5",
+          "title": "ASEAN Furniture Industry Expands with Top Four Exporters Driving 90% of Volume",
+          "summary": "Regional furniture manufacturing is expanding globally, with Thailand, Vietnam, Indonesia, and Malaysia controlling 90% of ASEAN furniture exports through design and supply chain integration.",
+          "why": "Healthy export activity in wood and metal-framed furniture provides consistent demand for wide sanding belts, orbital discs, and hand sanding sheets.",
+          "action": "Market wide sanding belts and random orbital sanding discs directly to large furniture exporters and wood processing mills.",
           "th": {
-            "title": "สมาคมเหล็กร้องกรมโรงงานสกัดโรงงานเหล็กไม่ได้มาตรฐาน ปมร้อน ‘ซิน เคอ หยวน’",
-            "summary": "กลุ่มผู้ผลิตเหล็กไทยเรียกร้องให้กรมโรงงานอุตสาหกรรมเข้มงวดการพิจารณาใบอนุญาตโรงงานกรณี 'ซิน เคอ หยวน' พร้อมคุมเข้มเตาหลอม IF ไร้มาตรฐาน เพื่อปกป้องความปลอดภัยและรักษาเสถียรภาพตลาดเหล็กในประเทศ",
-            "why": "การกำจัดโรงงานหลอมเหล็กไม่ได้มาตรฐานช่วยรักษาความมั่นคงให้โรงงานมาตรฐาน (เตา EAF) ซึ่งเป็นกลุ่มลูกค้าหลักที่ใช้วัสดุขัดและใบเจียรคุณภาพสูง",
-            "action": "ชูจุดเด่นใบเจียรเหล็ก MK ที่ผ่านการรับรองมาตรฐานความปลอดภัยระดับสากล เพื่อเจาะกลุ่มโรงงานโครงสร้างเหล็กที่เน้นมาตรฐานความปลอดภัย"
+            "title": "อุตสาหกรรมเฟอร์นิเจอร์อาเซียนขยายตัว 4 ชาติครองสัดส่วนส่งออก 90%",
+            "summary": "ภาคการผลิตเฟอร์นิเจอร์อาเซียนขยายตัวในตลาดโลกอย่างต่อเนื่อง โดย 4 ชาติหลักรวมถึงไทย เวียดนาม อินโดนีเซีย และมาเลเซีย ครองส่วนแบ่งการส่งออกกว่า 90% จากจุดแข็งด้านการดีไซน์และห่วงโซ่อุปทาน",
+            "why": "โรงงานผลิตเฟอร์นิเจอร์ไม้และโครงสร้างโลหะเพื่อการส่งออกยังคงต้องใช้งานสายพานขัดหน้ากว้างและจานขัดกลมอย่างสม่ำเสมอในการปรับระนาบและทำผิว",
+            "action": "นำเสนอสายพานทรายหน้ากว้างและกระดาษทรายกลมสำหรับเครื่องขัดให้แก่โรงงานเฟอร์นิเจอร์ส่งออกและโรงแปรรูปไม้ชั้นนำ"
           }
         }
       ],
