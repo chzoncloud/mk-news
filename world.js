@@ -4,82 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-28",
-      "summary": "Today's global trend briefing focuses on manufacturing innovations in coatings, market size outlooks for industrial abrasives, and regional EV and metal industry shifts impacting surface finishing.",
+      "summary": "Today's briefing focuses on steady growth in the global abrasives market, emerging automated finishing techniques in wood and metal sectors, and shifting trade dynamics in the steel industry.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปเทรนด์โลกประจำวันนี้เน้นย้ำเรื่องนวัตกรรมการเคลือบผิว แนวโน้มขนาดตลาดวัสดุขัดถู และการเปลี่ยนแปลงในอุตสาหกรรมยานยนต์ไฟฟ้าและโลหะระดับภูมิภาคที่มีผลต่อธุรกิจขัดผิว"
+        "summary": "สรุปข่าววันนี้เน้นการเติบโตอย่างต่อเนื่องของตลาดวัสดุขัดทั่วโลก เทคโนโลยีการขัดผิวอัตโนมัติใหม่ในอุตสาหกรรมไม้และโลหะ รวมถึงความเปลี่ยนแปลงด้านการค้าในอุตสาหกรรมเหล็ก"
       },
       "items": [
         {
           "id": "20261028-w1",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "European Coatings",
-          "date": "2026-09-09",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
-          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
-          "summary": "The coatings industry is focusing on advanced digital tools, eco-friendly formulations, and next-gen innovation to drive efficiency.",
-          "why": "Surface coatings and abrasive preparation go hand-in-hand; shifts in coating technology affect pre-treatment sanding requirements.",
-          "action": "Monitor sustainable coating standards to align our surface preparation recommendations with modern finishing specs.",
-          "th": {
-            "title": "การกำหนดอนาคตใหม่แห่งการเคลือบผิว: นวัตกรรม ความยั่งยืน และพลังดิจิทัล",
-            "summary": "อุตสาหกรรมการเคลือบผิวเน้นพัฒนาเครื่องมือดิจิทัล สูตรที่เป็นมิตรต่อสิ่งแวดล้อม และนวัตกรรมล้ำสมัยเพื่อเพิ่มประสิทธิภาพ",
-            "why": "งานเคลือบผิวและการเตรียมพื้นผิวด้วยวัสดุขัดต้องทำควบคู่กัน การเปลี่ยนแปลงเทคโนโลยีสีและสารเคลือบส่งผลโดยตรงต่อกระบวนการขัดเตรียมพื้นผิว",
-            "action": "ติดตามมาตรฐานการเคลือบผิวที่เป็นมิตรต่อสิ่งแวดล้อม เพื่อปรับคำแนะนำการเตรียมพื้นผิวให้สอดคล้องกับสเปกงานสมัยใหม่"
-          }
-        },
-        {
-          "id": "20261028-w2",
           "tag": "abrasive",
           "rating": "green",
           "source": "EIN News",
           "date": "2026-10-19",
           "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM2VsRTlqVWR6dlpoUXpZQ04wNnJsRUNBbndKSnNQODIyUXdnTTlIT0hZMC10bGhEUUk0clZ5ZWZRN0I2eVhiVHVPVmRYd05xWUdJdDJldTBsTkZEUVNBNG5qaE9WeXdDN2dSVzJ2TzNsVFhBNVMzakhwZFR6Z0dQeFFVS0ZPa0dmWmh1dHhiYXVXWWRrbk9XS251Ul9SVS1SZ3NON0VXRWxfOWtzazlNcXhUMVBnU2liODhqaXF6OEdGb2NEYkRoaG9uNmx6MlNjMUd2N3Q0emZnUXltZk1wbg?oc=5",
           "title": "Abrasives Market to Reach $72.2 Billion by 2030, Growing at a 7.6% CAGR Driven by Precision Finishing Demand",
-          "summary": "Global demand for industrial abrasives is accelerating, anchored by a strong compound annual growth rate driven by precision manufacturing needs.",
-          "why": "Confirms steady long-term global growth for our core product category, especially in high-precision finishing segments.",
-          "action": "Prioritize stocking and promoting high-precision sanding and grinding consumables to capture rising value-added demand.",
+          "summary": "The global abrasives market is projected to reach $72.2 billion by 2030, fueled by rising demand for high-precision finishing across manufacturing sectors.",
+          "why": "Validates long-term demand growth for our core product lines, especially high-value precision abrasives.",
+          "action": "Ensure our inventory strategy aligns with the growing demand for high-precision finishing products.",
           "th": {
-            "title": "ตลาดวัสดุขัดถูเติบโตแตะ 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 ด้วยอัตราเติบโต 7.6% หนุนโดยความต้องการงานขัดแต่งความแม่นยำสูง",
-            "summary": "ความต้องการวัสดุขัดอุตสาหกรรมทั่วโลกเร่งตัวขึ้นอย่างต่อเนื่อง ขับเคลื่อนด้วยความต้องการในภาคการผลิตที่มีความแม่นยำสูง",
-            "why": "ยืนยันการเติบโตในระยะยาวของตลาดกลุ่มสินค้าหลัก โดยเฉพาะในกลุ่มงานขัดแต่งผิวที่ต้องการความละเอียดสูง",
-            "action": "ให้ความสำคัญกับการสต็อกและทำตลาดวัสดุสิ้นเปลืองประเภทขัดและเจียรความแม่นยำสูง เพื่อรองรับความต้องการที่มีมูลค่าเพิ่มขึ้น"
+            "title": "ตลาดวัสดุขัดผิวจะพุ่งแตะ 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 หนุนโดยความต้องการงานขัดผิวความแม่นยำสูง",
+            "summary": "ตลาดวัสดุขัดทั่วโลกคาดว่าจะเติบโตถึง 7.22 หมื่นล้านดอลลาร์สหรัฐภายในปี 2030 ขับเคลื่อนโดยความต้องการที่เพิ่มขึ้นสำหรับงานตกแต่งผิวความละเอียดสูงในภาคการผลิต",
+            "why": "ยืนยันการเติบโตของอุปสงค์ระยะยาวสำหรับกลุ่มผลิตภัณฑ์หลักของเรา โดยเฉพาะวัสดุขัดความแม่นยำสูง",
+            "action": "ตรวจสอบให้แน่ใจว่ากลยุทธ์สต็อกสินค้าของเราสอดคล้องกับความต้องการผลิตภัณฑ์ตกแต่งผิวความละเอียดสูงที่เพิ่มขึ้น"
+          }
+        },
+        {
+          "id": "20261028-w2",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "Woodworking Network",
+          "date": "2022-09-14",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdks1TWZwY2RMY21ZNl8zQ1hJZ201QnJzY3Bsb2gyc0NQajRiRHMtSkJ1QW9OX1JaTzVrYm15ZkFvclM2bjZ1cTJQZVlaYk1JWVpnQVpyanBkMFFTVEZCaG9ZQ0ttWTh2VnRNRGVtbzB4WUVCamVPbzc4MTdfbEdYQm5zem1QXzlaYk5XMHpPOU9IZ3Fsc3dKVG9VM01IX3dMdDRiMXNYRmJNN1pQN2hSOHFielVqQWxWWVVMUHc2NUdhOTkxaW5lY19mc1I?oc=5",
+          "title": "Mirka to feature robotic sanding, antistatic abrasives and more at SIBO",
+          "summary": "Major abrasive manufacturers are heavily promoting robotic sanding solutions and antistatic products to improve efficiency in wood and composite manufacturing.",
+          "why": "Automation and specialized antistatic coated abrasives represent the future of efficient surface preparation.",
+          "action": "Keep track of customer interest in automated sanding compatibility and antistatic features for wood/composite applications.",
+          "th": {
+            "title": "Mirka นำเสนอระบบขัดด้วยหุ่นยนต์ วัสดุขัดป้องกันไฟฟ้าสถิต และอื่นๆ ในงาน SIBO",
+            "summary": "ผู้ผลิตวัสดุขัดรายใหญ่กำลังโปรโมทโซลูชันการขัดด้วยหุ่นยนต์และผลิตภัณฑ์ป้องกันไฟฟ้าสถิตเพื่อเพิ่มประสิทธิภาพในการผลิตไม้และวัสดุคอมโพสิต",
+            "why": "ระบบอัตโนมัติและกระดาษทรายเคลือบสารป้องกันไฟฟ้าสถิตคืออนาคตของการเตรียมพื้นผิวที่มีประสิทธิภาพ",
+            "action": "ติดตามความสนใจของลูกค้าเกี่ยวกับความเข้ากันได้กับการขัดอัตโนมัติและคุณสมบัติป้องกันไฟฟ้าสถิตสำหรับงานไม้"
           }
         },
         {
           "id": "20261028-w3",
-          "tag": "auto",
-          "rating": "green",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-09-10",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVjkzSTlDYzItRzJSVXhQSjc1a0ttQ0dIRVYxRDgxaHFiQ0x3c1ZsLTdZQ0RRSk04bmhjdHQ4ZGJrV0lLVk45XzQ5ZzQwN1VwMDNERWNWVEpJNTRVYzZqTFFmcEIyUUZRNG9LOHp6ODIxYm80eEZrcTBOdENvenJqdktfcm5neXlITEZSRXNQclF2ZUpGUXVLTmY3SmhCRUlHdldDVC11QjRnZ3UtYzRlbzAwYS1yaW5oZV8zWmRMY2k?oc=5",
-          "title": "Smart-factory wiring woes: EVs demand automation now, not later",
-          "summary": "EV manufacturing plants are aggressively transitioning to advanced automation to overcome complex production bottlenecks.",
-          "why": "Automated factories require robotic-compatible abrasive pads, grinding wheels, and consistent automated surface finishing tools.",
-          "action": "Explore partnerships or product lines suited for robotic deburring and automated metal finishing in EV production.",
-          "th": {
-            "title": "ปัญหาการเดินสายไฟในโรงงานอัจฉริยะ: รถยนต์ไฟฟ้า (EV) เรียกร้องระบบอัตโนมัติเดี๋ยวนี้ ไม่ใช่รอวันหน้า",
-            "summary": "โรงงานผลิต EV กำลังเปลี่ยนผ่านสู่ระบบอัตโนมัติขั้นสูงอย่างรวดเร็ว เพื่อแก้ปัญหาคอขวดในการผลิตที่ซับซ้อน",
-            "why": "โรงงานอัตโนมัติจำเป็นต้องใช้แผ่นขัด ล้อเจียร และอุปกรณ์ขัดผิวที่รองรับระบบแขนกลหุ่นยนต์เพื่อความสม่ำเสมอ",
-            "action": "ศึกษาและมองหาผลิตภัณฑ์หรือพันธมิตรที่รองรับงานขัดลบครีบด้วยหุ่นยนต์ (Robotic Deburring) สำหรับสายการผลิต EV"
-          }
-        },
-        {
-          "id": "20261028-w4",
           "tag": "steel",
           "rating": "amber",
-          "source": "Progressive Policy Institute",
-          "date": "2026-09-23",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTeHd1akw0WFVaUWFucjdlRWp1cFBVQjRiRi1rWFd2WlNVRkQzanJJMmpMV3BBM0QxVEF5N2FZcmFMSFNxQ3M1VTQ5c1VJYjhJRVRQQVM3M2tac1FFMGdSSlZ4eTdQdzNINFB1MDR0a09haWhpNkFIVV9aWlA?oc=5",
-          "title": "American Industry Is Using Less Steel",
-          "summary": "Data indicates shifting material usage and leaner metal consumption patterns across industrial manufacturing sectors.",
-          "why": "Lower raw steel consumption can directly reduce the overall volume of heavy industrial grinding and weld-seam prep consumables used.",
-          "action": "Diversify B2B target sectors toward aluminum, composites, and precision machining where material substitution is active.",
+          "source": "S&P Global",
+          "date": "2026-01-12",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
+          "title": "Global steel industry battles surplus supply, protectionism",
+          "summary": "The international steel market is grappling with overcapacity and rising trade protectionism, affecting local mill output and pricing stability.",
+          "why": "Steel production volume directly impacts metal fabrication activity and the baseline demand for heavy-duty grinding and deburring abrasives.",
+          "action": "Monitor local metalworking clients for shifts in production volume due to imported steel pricing pressure.",
           "th": {
-            "title": "อุตสาหกรรมอเมริกันใช้เหล็กน้อยลง",
-            "summary": "ข้อมูลบ่งชี้ถึงการเปลี่ยนแปลงการใช้วัสดุและพฤติกรรมการบริโภคโลหะที่ลดลงในภาคการผลิตอุตสาหกรรม",
-            "why": "การบริโภคเหล็กดิบที่ลดลงอาจส่งผลโดยตรงต่อปริมาณการใช้วัสดุสิ้นเปลืองสำหรับงานเจียรหนักและการเตรียมแนวเชื่อม",
-            "action": "กระจายกลุ่มเป้าหมาย B2B ไปยังอุตสาหกรรมอลูมิเนียม วัสดุคอมโพสิต และงานตัดเฉือนที่มีความแม่นยำสูง ซึ่งมีการทดแทนวัสดุอย่างต่อเนื่อง"
+            "title": "อุตสาหกรรมเหล็กโลกต่อสู้กับภาวะอุปทานล้นเกินและลัทธิกีดกันทางการค้า",
+            "summary": "ตลาดเหล็กระหว่างประเทศกำลังเผชิญกับกำลังการผลิตส่วนเกินและมาตรการกีดกันทางการค้าที่เพิ่มขึ้น ซึ่งส่งผลต่อปริมาณการผลิตของโรงงานในท้องถิ่นและเสถียรภาพด้านราคา",
+            "why": "ปริมาณการผลิตเหล็กส่งผลโดยตรงต่อกิจกรรมการขึ้นรูปโลหะและความต้องการพื้นฐานสำหรับหินเจียรและใบขัดลบคมงานหนัก",
+            "action": "ติดตามลูกค้ากลุ่มแปรรูปโลหะในประเทศเกี่ยวกับการเปลี่ยนแปลงปริมาณการผลิตอันเนื่องมาจากแรงกดดันด้านราคาเหล็กนำเข้า"
           }
         }
       ]
