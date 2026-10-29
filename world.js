@@ -1,7 +1,89 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-10-29",
+  "updated": "2026-10-30",
   "days": [
+    {
+      "date": "2026-10-30",
+      "summary": "Today's global briefing focuses on advanced coating innovations, automotive OEM market trajectories, and regional metal finishing developments, signaling evolving technical demands for surface preparation.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปข่าวสารระดับโลกประจำวันนี้เน้นไปที่นวัตกรรมสารเคลือบขั้นสูง แนวโน้มตลาด OEM ยานยนต์ และการพัฒนาการขัดแต่งโลหะในภูมิภาค ซึ่งบ่งบอกถึงความต้องการทางเทคนิคที่เปลี่ยนไปสำหรับการเตรียมพื้นผิว"
+      },
+      "items": [
+        {
+          "id": "20261030-w1",
+          "tag": "coating",
+          "rating": "green",
+          "source": "European Coatings",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
+          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
+          "summary": "The European coatings sector highlights new technological eras focusing on sustainability and digitalization in surface finishes.",
+          "why": "Advanced coatings directly affect how industrial surfaces are prepped, primed, and sanded before and after application.",
+          "action": "Track sustainable and high-performance coating trends to anticipate matching surface preparation needs.",
+          "th": {
+            "title": "กำหนดอนาคตยุคใหม่แห่งสารเคลือบ: นวัตกรรม ความยั่งยืน และพลังแห่งดิจิทัล",
+            "summary": "ภาคส่วนสารเคลือบของยุโรปเน้นย้ำยุคเทคโนโลยีใหม่ที่มุ่งเน้นความยั่งยืนและการแปลงเป็นดิจิทัลในการเคลือบผิว",
+            "why": "สารเคลือบขั้นสูงส่งผลโดยตรงต่อวิธีที่พื้นผิวอุตสาหกรรมถูกเตรียม รองพื้น และขัดก่อนและหลังการใช้งาน",
+            "action": "ติดตามแนวโน้มสารเคลือบที่ยั่งยืนและมีประสิทธิภาพสูงเพื่อคาดการณ์ความต้องการในการเตรียมพื้นผิวที่สอดคล้องกัน"
+          }
+        },
+        {
+          "id": "20261030-w2",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Fortune Business Insights",
+          "date": "2026-10-05",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXJjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
+          "title": "Automotive OEM Coatings Market Size, Industry Report, 2034",
+          "summary": "A comprehensive report forecasts steady growth and changing technological requirements in the automotive OEM coatings market through 2034.",
+          "why": "Automotive manufacturing is a major consumer of coated abrasives for body panels, parts deburring, and paint prep.",
+          "action": "Monitor OEM coating shifts to align abrasive grain grades with new automotive finishing standards.",
+          "th": {
+            "title": "ขนาดตลาดสารเคลือบ OEM ยานยนต์ รายงานอุตสาหกรรม ปี 2034",
+            "summary": "รายงานฉบับสมบูรณ์คาดการณ์การเติบโตอย่างต่อเนื่องและข้อกำหนดทางเทคโนโลยีที่เปลี่ยนแปลงไปในตลาดสารเคลือบ OEM ยานยนต์จนถึงปี 2034",
+            "why": "การผลิตยานยนต์เป็นผู้บริโภครายใหญ่ของกระดาษทรายและวัสดุขัดสำหรับตัวถังรถ การลบคมชิ้นส่วน และการเตรียมสี",
+            "action": "ติดตามการเปลี่ยนแปลงของสารเคลือบ OEM เพื่อให้สอดคล้องกับเกรดเม็ดทรายขัดกับมาตรฐานการตกแต่งรถยนต์ใหม่"
+          }
+        },
+        {
+          "id": "20261030-w3",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "The National Law Review",
+          "date": "2026-10-29",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb0Y4bmJoWjBQSGVHMTBCQVJOWVd1VW8zZHZWTGlqeWdiZTlhaEx4T0laRXJ5M1FDVkVxM3V1aXFiVmEtOHpqb3UtVjdpaVVaWmZSYkV6T3A4Q0kzR0FnbUdOdUJWUXpWQ09hVDQtV2Q5Y19lWTFZMldpa2EzLWZDV2N1aTNZRjJnNlhMOTZ6VFc4ZVlUazFsRGZUWlhHZWI4SktzeHlKMmRDX2Z2ZDEtQVNFNA?oc=5",
+          "title": "Top Abrasive Paper Manufacturer: Jiangxi Golden Abrasives Advances Surface Finishing Solutions",
+          "summary": "Industry reports highlight advancements by major abrasive paper manufacturers expanding high-tech surface finishing solutions.",
+          "why": "Keeps us informed on competitor capabilities and technological benchmarks in coated abrasive manufacturing.",
+          "action": "Benchmark our product performance against emerging advanced abrasive paper offerings in the region.",
+          "th": {
+            "title": "ผู้ผลิตกระดาษทรายชั้นนำ: Jiangxi Golden Abrasives พัฒนาโซลูชันการตกแต่งพื้นผิว",
+            "summary": "รายงานอุตสาหกรรมเน้นย้ำความก้าวหน้าของผู้ผลิตกระดาษทรายรายใหญ่ที่กำลังขยายโซลูชันการตกแต่งพื้นผิวไฮเทค",
+            "why": "ทำให้เราทราบถึงความสามารถของคู่แข่งและเกณฑ์มาตรฐานทางเทคโนโลยีในการผลิตวัสดุขัดเคลือบ",
+            "action": "เปรียบเทียบประสิทธิภาพผลิตภัณฑ์ของเรากับข้อเสนอกระดาษทรายขั้นสูงที่เกิดขึ้นใหม่ในภูมิภาค"
+          }
+        },
+        {
+          "id": "20261030-w4",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "World Bank Blogs",
+          "date": "2026-06-11",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONzBKVVZhYkZoRERBTm8wSUNzYUY3Y0lZTVhlRXhoMk9qWGUybnc0SFA2dC1KT1ZOV2puSzlLRzhmdDRUVDkwejhFM3JtNm1SY2RpbFoyYWR2Q1J2eHJTME0zd25GSjlaRE1qWG1sQjZsaUpXdjBJd0oyZlBEUklMNkxuNGVWZ3FZVGhZOHJwOWdiZw?oc=5",
+          "title": "Metal prices surge as supply pressures intensify",
+          "summary": "Recent analyses show metal prices surging globally due to intensified supply chain pressures and raw material constraints.",
+          "why": "Metal prices and supply pressures directly impact heavy industry fabrication activity and metal workshop consumable budgets.",
+          "action": "Anticipate cost sensitivities among metal fabrication clients and emphasize durability and cost-efficiency in grinding products.",
+          "th": {
+            "title": "ราคาโลหะพุ่งสูงขึ้นเนื่องจากแรงกดดันด้านอุปทานที่ทวีความรุนแรงขึ้น",
+            "summary": "การวิเคราะห์ล่าสุดแสดงให้เห็นว่าราคาโลหะทั่วโลกพุ่งสูงขึ้นเนื่องจากแรงกดดันด้านห่วงโซ่อุปทานที่รุนแรงขึ้นและข้อจำกัดด้านวัตถุดิบ",
+            "why": "ราคาโลหะและแรงกดดันด้านอุปทานส่งผลโดยตรงต่อกิจกรรมการผลิตในอุตสาหกรรมหนักและงบประมาณวัสดุสิ้นเปลืองของร้านโลหะ",
+            "action": "คาดการณ์ความอ่อนไหวต่อต้นทุนในกลุ่มลูกค้าแปรรูปโลหะและเน้นย้ำความทนทานและความคุ้มค่าในผลิตภัณฑ์เจียร"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-10-29",
       "summary": "Today's briefing highlights global market forecasts for abrasives reaching $72.2B by 2030, EV manufacturing consolidation in China, and new mechanical surface preparation challenges in woodworking.",
@@ -902,70 +984,6 @@ window.WORLD_ARCHIVE = {
             "summary": "การคาดการณ์ตลาดเน้นย้ำถึงความต้องการที่เพิ่มขึ้นสำหรับเครื่องมือควบคุมคุณภาพพื้นผิวและเครื่องมือวัดที่แม่นยำในงานอุตสาหกรรมต่างๆ",
             "why": "มาตรฐานการเตรียมพื้นผิวที่เข้มงวดและการวัดความหนาของสารเคลือบจำเป็นต้องมีพื้นผิวที่เตรียมอย่างสมบูรณ์แบบและสม่ำเสมอ ซึ่งผลักดันความต้องการด้านคุณภาพสำหรับวัสดุขัด",
             "action": "วางตำแหน่งผลิตภัณฑ์วัสดุขัดของเราให้เป็นโซลูชันที่มีความสม่ำเสมอสูง ซึ่งช่วยให้ผู้ผลิตบรรลุมาตรฐานคุณภาพพื้นผิวที่เข้มงวดได้"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-10-16",
-      "summary": "Today's briefing focuses on emerging green coating technologies, wood sanding machinery growth, and global steel trade shifts driven by tariffs and AI booms.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปประเด็นวันนี้เน้นไปที่เทคโนโลยีสีเคลือบที่เป็นมิตรต่อสิ่งแวดล้อม การเติบโตของเครื่องขัดกระดาษทรายสำหรับงานไม้ และการเปลี่ยนแปลงการค้าเหล็กโลกจากผลกระทบของกำแพงภาษีและกระแส AI"
-      },
-      "items": [
-        {
-          "id": "20261016-w1",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "Market Business Insights",
-          "date": "2026-10-15",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBSDItTlp3MlgweDg2N3hibzBRRVgwVGJKa3RRWUpXc0pMcjJ3U241dE1LcnRYR3hna3hBUjNRdzZBdFIwUUEtTnd1MlFYdXIwTGpOVWNCVWpjeU45M1JISk1tVkZUYVpjR25UVUN3?oc=5",
-          "title": "Green Coatings Market Size & Growth Analysis, 2026-2035",
-          "summary": "The global market for green coatings is expanding rapidly through 2035, driven by strict environmental regulations and sustainable manufacturing demands.",
-          "why": "Eco-friendly surface treatments change how manufacturers prepare substrates, directly impacting the demand for specialized sanding and finishing supplies.",
-          "action": "Monitor environmentally friendly surface prep standards and ensure our product line aligns with green manufacturing trends.",
-          "th": {
-            "title": "การวิเคราะห์ขนาดและการเติบโตของตลาดสีเคลือบสีเขียว ปี 2026-2035",
-            "summary": "ตลาดสีเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมทั่วโลกกำลังขยายตัวอย่างรวดเร็วถึงปี 2035 ขับเคลื่อนโดยกฎระเบียบด้านสิ่งแวดล้อมที่เข้มงวดและความต้องการการผลิตที่ยั่งยืน",
-            "why": "การเตรียมพื้นผิวที่เป็นมิตรต่อสิ่งแวดล้อมเปลี่ยนแปลงวิธีที่ผู้ผลิตเตรียมชิ้นงาน ซึ่งส่งผลโดยตรงต่อความต้องการวัสดุกัดและอุปกรณ์ขัดตกแต่งเฉพาะทาง",
-            "action": "ติดตามมาตรฐานการเตรียมพื้นผิวที่เป็นมิตรต่อสิ่งแวดล้อม และตรวจสอบว่าสินค้าของเราสอดคล้องกับเทรนด์การผลิตสีเขียว"
-          }
-        },
-        {
-          "id": "20261016-w2",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "Market.us",
-          "date": "2026-01-22",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ISWl4S1FIYTlibDJlR001VnBXdy1xQ1ZobnhYTzBkc3pWOEdrOFQ4VWl2VzA5NjNDcGp3VEU3ZGQ2R0VFdXQwRmZxVEVpOTE4dVl4RlF4WlBHX3pXQ3QtTkJQWQ?oc=5",
-          "title": "Wood Sanding Machine Market Size, Share | CAGR of 4.3%.",
-          "summary": "The wood sanding machine market continues steady growth with a projected 4.3% CAGR, indicating robust activity in furniture and wood processing sectors.",
-          "why": "More automated and specialized wood sanding machines mean higher demand for continuous, high-performance abrasive belts and sanding rolls.",
-          "action": "Strengthen stock and marketing for wide belts and abrasive products tailored for wood processing and furniture manufacturing.",
-          "th": {
-            "title": "ขนาดและส่วนแบ่งตลาดเครื่องขัดกระดาษทรายไม้ อัตราการเติบโต CAGR 4.3%",
-            "summary": "ตลาดเครื่องขัดกระดาษทรายไม้ยังคงเติบโตอย่างต่อเนื่องด้วยอัตรา CAGR ที่คาดการณ์ไว้ที่ 4.3% บ่งบอกถึงกิจกรรมที่แข็งแกร่งในอุตสาหกรรมเฟอร์นิเจอร์และแปรรูปไม้",
-            "why": "เครื่องขัดไม้ที่มีความอัตโนมัติและเฉพาะทางมากขึ้นแปลว่าความต้องการสายพานขัดและกระดาษทรายม้วนที่มีประสิทธิภาพสูงและต่อเนื่องจะเพิ่มขึ้นตามไปด้วย",
-            "action": "เพิ่มสต็อกและการทำตลาดสำหรับสายพานขัดหน้ากว้างและผลิตภัณฑ์กระดาษทรายที่เหมาะกับอุตสาหกรรมแปรรูปไม้และเฟอร์นิเจอร์"
-          }
-        },
-        {
-          "id": "20261016-w3",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "https://economy.ac/",
-          "date": "2026-08-07",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YQWhOYlJ3eW9jTUhwa25XdE55eHh3a2JoODhWdDAtOW00UzhXcWwtNnJJXzZGMjMtNXN6MTYwTUhib3ZHUDNXaTdIbWY2N092QXNsOXFfdw?oc=5",
-          "title": "'Trump Tariffs and AI Boom' Propel U.S. Steel Past Japan to World No. 3 for First Time in 26 Years",
-          "summary": "U.S. steel production surged past Japan to become the world's number three producer, fueled by trade tariffs and data center/AI infrastructure demand.",
-          "why": "Shifts in global steel production hubs change regional metal fabrication volumes and alter where abrasive distributors should target industrial customers.",
-          "action": "Keep an eye on how North American steel output and fabrication activity influence global raw material and abrasive pricing.",
-          "th": {
-            "title": "'ภาษีทรัมป์และบูม AI' ผลักดันเหล็กสหรัฐฯแซงญี่ปุ่นขึ้นสู่อันดับ 3 ของโลกในรอบ 26 ปี",
-            "summary": "การผลิตเหล็กของสหรัฐฯ พุ่งแซงญี่ปุ่นขึ้นเป็นผู้ผลิตอันดับ 3 ของโลก ได้รับแรงหนุนจากกำแพงภาษีการค้าและความต้องการโครงสร้างพื้นฐานดาต้าเซ็นเตอร์/AI",
-            "why": "การเปลี่ยนแปลงของศูนย์กลางการผลิตเหล็กโลกส่งผลต่อปริมาณงานขึ้นรูปโลหะในภูมิภาค และเปลี่ยนเป้าหมายที่ผู้จัดจำหน่ายวัสดุกัดควรเข้าหาลูกค้าอุตสาหกรรม",
-            "action": "จับตาดูว่าผลผลิตเหล็กและกิจกรรมการขึ้นรูปในอเมริกาเหนือส่งผลกระทบต่อราคาวัตถุดิบและราคาสินค้ากลุ่ม abrasives ทั่วโลกอย่างไร"
           }
         }
       ]
