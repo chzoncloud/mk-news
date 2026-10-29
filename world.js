@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-10-28",
+  "updated": "2026-10-29",
   "days": [
+    {
+      "date": "2026-10-29",
+      "summary": "Today's briefing highlights new technologies tackling surface sanding challenges in woodworking, shifts in China's automotive manufacturing and industry consolidation, and evolving global steel dynamics amidst geopolitical pressures.",
+      "directCount": 2,
+      "th": {
+        "summary": "สรุปข่าววันนี้เน้นย้ำเทคโนโลยีใหม่ในการแก้ปัญหาการขัดผิวไม้ การเปลี่ยนแปลงและการควบรวมกิจการในอุตสาหกรรมการผลิตรถยนต์ของจีน รวมถึงทิศทางอุตสาหกรรมเหล็กโลกท่ามกลางแรงกดดันทางภูมิรัฐศาสตร์"
+      },
+      "items": [
+        {
+          "id": "20261029-w1",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "Woodworking Network",
+          "date": "2026-10-28",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPenJGZzhiOUMyeFhrU09yQ3hfR1puSkF4NFhiV19HUUtvbE1POE9iUzZ4T3pZOTdKaVlKSWdZQ1RHSGhVdHJSdmstZWdaUE9wMGVDMEJJckNIRzBHck5UcmZWOFctbUhnQVA5OWRtTmVpVno0MHlsQzRfd0FIWEFTSDJPNW1zS1R6Tk9rV3ZyZE0waVpUQ2U0eFgtY0U",
+          "title": "New technology tackles familiar sanding challenges",
+          "summary": "Recent advancements in woodworking technology introduce innovative approaches to solve traditional sanding and surface preparation difficulties.",
+          "why": "Directly impacts our woodworking abrasives portfolio, signaling demand for specialized sanding products that solve fine-finishing challenges.",
+          "action": "Research these new sanding tech methods to identify potential matching abrasive products for our wood industry clients.",
+          "th": {
+            "title": "เทคโนโลยีใหม่แก้ปัญหาการขัดผิวแบบเดิมๆ",
+            "summary": "ความก้าวหน้าล่าสุดในเทคโนโลยีงานไม้แนะนำแนวทางนวัตกรรมเพื่อแก้ปัญหาความยากลำบากในการขัดและการเตรียมพื้นผิวแบบดั้งเดิม",
+            "why": "ส่งผลโดยตรงต่อกลุ่มผลิตภัณฑ์กระดาษทรายสำหรับงานไม้ของเรา ซึ่งบ่งชี้ถึงความต้องการผลิตภัณฑ์ขัดที่ตอบโจทย์ความท้าทายในการขัดแต่งผิวละเอียด",
+            "action": "ศึกษาเทคโนโลยีการขัดใหม่เหล่านี้เพื่อหาผลิตภัณฑ์กระดาษทรายที่ตรงกันสำหรับลูกค้าในอุตสาหกรรมไม้"
+          }
+        },
+        {
+          "id": "20261029-w2",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-10-28",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMExMd0h3VTZZUGVhTmVoNENZT0RDYkZhOFlTUzZUd3RmT0RNRGJKVjlQVTBmRnkwa21iZEl6ZlNJYmIzVTJjQzU1eGhrcTFPOHhNQWRlSWVWaDlwR2FIVGZmSWJlQk00ZmNRUE5oc1owOGtPSzM2QzNCY0R4YXJNdjdwWExHVzNDM1JXSGRpMnNTdHQ1QXdnWlk2MFlFc21GRXd5QjVVYVItalFMN2hjZmZqZi1nd2I5aVBhYlRhbTQ",
+          "title": "China's car industry consolidation begins: who will survive?",
+          "summary": "China's automotive sector is undergoing significant consolidation, altering production landscapes and supplier ecosystems.",
+          "why": "Shifts in major auto manufacturing hubs affect regional demand for body-in-white grinding, metal deburring, and finishing supplies.",
+          "action": "Monitor how Chinese automaker consolidation impacts export pricing and regional equipment supply chains.",
+          "th": {
+            "title": "การควบรวมกิจการในอุตสาหกรรมรถยนต์ของจีนเริ่มต้นขึ้น: ใครจะอยู่รอด?",
+            "summary": "ภาคยานยนต์ของจีนกำลังเผชิญกับการควบรวมกิจการครั้งใหญ่ ซึ่งเปลี่ยนภูมิทัศน์การผลิตและระบบนิเวศของซัพพลายเออร์",
+            "why": "การเปลี่ยนแปลงในศูนย์กลางการผลิตรถยนต์รายใหญ่ส่งผลต่อความต้องการระดับภูมิภาคสำหรับการเจียรตัวถังรถ การลบคมโลหะ และวัสดุสิ้นเปลืองในการขัด",
+            "action": "ติดตามว่าการควบรวมกิจการของผู้ผลิตรถยนต์จีนส่งผลกระทบต่อราคาส่งออกและห่วงโซ่อุปทานอุปกรณ์ในภูมิภาคอย่างไร"
+          }
+        },
+        {
+          "id": "20261029-w3",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "World Economic Forum",
+          "date": "2026-04-21",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPc3hudkhpWE9BVTdWSk5BQWV2SWpBNHZxOUFfY2Rxcy0weW4tc2c2UFE1blAwFjVvYzRFcE9TdW1iVTdfYXBSVGk0UER5ZDVFQkZybG51bEY2QmhYemE3anRJbERYRW9KUkZHcHZ2eHZCMTRSMWlYMklYTDNPdzZGYzZZOFQtblNBMktoS2RNSndvX1dDRlZQSlBUT1pVdE1FN0ozOFZibUxlaHFGT1FjNUpZWEEyZGFrMTJUTXhPNA",
+          "title": "How the Iran war is disrupting India's steel production amid fuel shortages and rising costs",
+          "summary": "Geopolitical conflicts and fuel shortages are causing severe disruptions and rising operational costs in India's steel manufacturing sector.",
+          "why": "Steel production slowdowns in major markets reduce local requirements for heavy-duty grinding wheels and metal conditioning abrasives.",
+          "action": "Keep an eye on South Asian steel output trends to adjust stock forecasts for metal-industry abrasives.",
+          "th": {
+            "title": "สงครามอิหร่านปั่นป่วนการผลิตเหล็กของอินเดียท่ามกลางวิกฤตขาดแคลนเชื้อเพลิงและต้นทุนพุ่ง",
+            "summary": "ความขัดแย้งทางภูมิรัฐศาสตร์และการขาดแคลนเชื้อเพลิงกำลังสร้างความปั่นป่วนอย่างรุนแรงและเพิ่มต้นทุนการดำเนินงานในภาคการผลิตเหล็กของอินเดีย",
+            "why": "การชะลอตัวของการผลิตเหล็กในตลาดหลักช่วยลดความต้องการใช้แผ่นเจียรสำหรับงานหนักและวัสดุขัดแต่งโลหะในท้องถิ่น",
+            "action": "จับตาดูแนวโน้มผลผลิตเหล็กในเอเชียใต้เพื่อปรับการคาดการณ์สต็อกสินค้าสำหรับกลุ่มอุตสาหกรรมโลหะ"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-10-28",
       "summary": "Today's global briefing highlights key developments in green coatings, precision abrasives market growth, and shifting steel production dynamics driven by tariffs and technology.",
@@ -902,70 +966,6 @@ window.WORLD_ARCHIVE = {
             "summary": "การผลิตเหล็กของสหรัฐฯ พุ่งแซงญี่ปุ่นขึ้นเป็นผู้ผลิตอันดับ 3 ของโลก ได้รับแรงหนุนจากกำแพงภาษีการค้าและความต้องการโครงสร้างพื้นฐานดาต้าเซ็นเตอร์/AI",
             "why": "การเปลี่ยนแปลงของศูนย์กลางการผลิตเหล็กโลกส่งผลต่อปริมาณงานขึ้นรูปโลหะในภูมิภาค และเปลี่ยนเป้าหมายที่ผู้จัดจำหน่ายวัสดุกัดควรเข้าหาลูกค้าอุตสาหกรรม",
             "action": "จับตาดูว่าผลผลิตเหล็กและกิจกรรมการขึ้นรูปในอเมริกาเหนือส่งผลกระทบต่อราคาวัตถุดิบและราคาสินค้ากลุ่ม abrasives ทั่วโลกอย่างไร"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-10-15",
-      "summary": "Today's briefing focuses on automotive OEM coatings growth, global EV market expansion, and the long-term outlook for the global steel industry, highlighting shifts in surface treatment and metal processing demand.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปข่าววันนี้เน้นการเติบโตของตลาดสีเคลือบรถยนต์ OEM การขยายตัวของตลาดยานยนต์ไฟฟ้า (EV) และทิศทางของอุตสาหกรรมเหล็กโลก ซึ่งส่งผลโดยตรงต่อความต้องการในการเตรียมพื้นผิวและแปรรูปโลหะ"
-      },
-      "items": [
-        {
-          "id": "20261015-w1",
-          "tag": "coating",
-          "rating": "green",
-          "source": "Fortune Business Insights",
-          "date": "2026-09-28",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXJjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
-          "title": "Automotive OEM Coatings Market Size, Share | Growth [2034]",
-          "summary": "The automotive OEM coatings market is experiencing steady long-term growth projections through 2034, driven by vehicle production demands and advanced coating technologies.",
-          "why": "More automotive OEM coatings mean higher demand for surface preparation, sanding, and defect correction using abrasives prior to painting.",
-          "action": "Monitor OEM coating trends to anticipate surface prep and sanding requirements in local tier suppliers.",
-          "th": {
-            "title": "ขนาดและแนวโน้มการเติบโตของตลาดสีเคลือบรถยนต์ OEM ถึงปี 2034",
-            "summary": "ตลาดสีเคลือบ OEM สำหรับรถยนต์คาดว่าจะเติบโตอย่างต่อเนื่องถึงปี 2034 ขับเคลื่อนโดยความต้องการผลิตยานยนต์และเทคโนโลยีการเคลือบผิวขั้นสูง",
-            "why": "ตลาดสีเคลือบ OEM ที่เติบโตหมายถึงความต้องการที่สูงขึ้นในการเตรียมพื้นผิว การขัดกระดาษทราย และการแก้ไขข้อบกพร่องด้วยวัสดุขัดก่อนพ่นสี",
-            "action": "ติดตามแนวโน้มสีเคลือบ OEM เพื่อคาดการณ์ความต้องการงานเตรียมผิวและขัดผิวในกลุ่มผู้ผลิตชิ้นส่วนรถยนต์ท้องถิ่น"
-          }
-        },
-        {
-          "id": "20261015-w2",
-          "tag": "auto",
-          "rating": "green",
-          "source": "Fortune Business Insights",
-          "date": "2026-09-28",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbDdPM0VwRXE3dDlfTTJFS3BVX2FmU0ZLWVVDR2JLcWk5UjVnUmJQaDJ2N2E1Z1VkMWdIUzdnWXVrSFc3cHBLWmhSb3dodGpOTlZzejhjaFRBcm5fRi1jMzhzTV9CcFRqVVRVUVdWUWliWkdiMXdzLXpFMWY3M1doOW1hTHBaUnlnYV81YmMyLTU?oc=5",
-          "title": "Electric Vehicle Market Size, Share & Global Analysis, 2034",
-          "summary": "Global analysis of the electric vehicle market shows continuous expansion projections toward 2034, reshaping global manufacturing priorities and automotive supply chains.",
-          "why": "EV manufacturing relies heavily on lightweight metals (aluminum) and precision-stamped parts, which require specialized deburring and surface finishing solutions.",
-          "action": "Ensure our product line includes abrasives optimized for aluminum and lightweight EV components.",
-          "th": {
-            "title": "ขนาด ส่วนแบ่ง และการวิเคราะห์ตลาดรถยนต์ไฟฟ้าระดับโลก ถึงปี 2034",
-            "summary": "การวิเคราะห์ตลาดยานยนต์ไฟฟ้าระดับโลกแสดงแนวโน้มการขยายตัวต่อเนื่องถึงปี 2034 ซึ่งปรับเปลี่ยนลำดับความสำคัญในการผลิตและห่วงโซ่อุปทานยานยนต์",
-            "why": "การผลิต EV พึ่งพาโลหะน้ำหนักเบา (เช่น อลูมิเนียม) และชิ้นส่วนปั๊มขึ้นรูปที่มีความแม่นยำสูง ซึ่งต้องใช้โซลูชันการลบคมและขัดผิวที่เฉพาะเจาะจง",
-            "action": "ตรวจสอบให้แน่ใจว่ากลุ่มผลิตภัณฑ์กระดาษทรายและวัสดุขัดของเราเหมาะสมกับงานอลูมิเนียมและชิ้นส่วน EV น้ำหนักเบา"
-          }
-        },
-        {
-          "id": "20261015-w3",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "S&P Global",
-          "date": "2026-01-12",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
-          "title": "Global steel industry battles surplus supply, protectionism",
-          "summary": "The global steel sector faces ongoing challenges from surplus supply capacity and rising international trade protectionism and tariffs.",
-          "why": "Steel production volume and mill operating rates dictate the foundational demand for grinding wheels, heavy-duty belts, and metal conditioning abrasives.",
-          "action": "Keep an eye on regional steel mill output to gauge general industrial metal fabrication activity.",
-          "th": {
-            "title": "อุตสาหกรรมเหล็กโลกเผชิญศึกอุปทานล้นตลาดและมาตรการกีดกันทางการค้า",
-            "summary": "ภาคอุตสาหกรรมเหล็กทั่วโลกกำลังเผชิญกับความท้าทายจากกำลังการผลิตที่ล้นเกิน รวมถึงมาตรการกีดกันทางการค้าและภาษีนำเข้าที่เพิ่มขึ้น",
-            "why": "ปริมาณการผลิตเหล็กและอัตราการเดินเครื่องของโรงงานส่งผลโดยตรงต่อความต้องการพื้นฐานสำหรับหินเจียร สายพานขัด และวัสดุกำจัดเนื้อโลหะ",
-            "action": "คอยติดตามปริมาณผลผลิตของโรงงานเหล็กในภูมิภาคเพื่อประเมินกิจกรรมการแปรรูปโลหะอุตสาหกรรมโดยรวม"
           }
         }
       ]
