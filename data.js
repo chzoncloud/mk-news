@@ -2,6 +2,71 @@
 window.NEWS_ARCHIVE = {
   "days": [
     {
+      "date": "2026-10-30",
+      "summary": "There are relatively few new headlines today, but notable automotive developments stand out. Production expansion commitments from CHANGAN and manufacturing upgrades by Ford signal sustained demand for metal preparation, deburring, and surface finishing abrasives.",
+      "directCount": 2,
+      "th": {
+        "summary": "วันนี้มีข่าวใหม่ไม่มากนัก แต่มีประเด็นน่าสนใจในภาคยานยนต์ โดยเฉพาะการขยายโรงงาน EV ระยองของ CHANGAN และการยกระดับการผลิตของ Ford ซึ่งส่งสัญญาณความต้องการใช้วัสดุขัดเตรียมผิว ลบครีบคม และขัดเงาโลหะอย่างต่อเนื่อง"
+      },
+      "items": [
+        {
+          "id": "20261030-1",
+          "tag": "auto",
+          "rating": "green",
+          "source": "Facebook",
+          "date": "2026-10-29",
+          "url": "https://news.google.com/rss/articles/CBMixgZBVV95cUxQbEkyU3dzMzdCbnRCSHBVSlNaa2FyQ01sX1JyQy0yV0paVTVMaEFwd0w4ekhobWxBN3VMcVJhZ2tVY3dvVVFIU0dpQ2NlZXp2Tk5SRTE5bjZYc2FkTk1vWmpoRmdxYzhXRURWRzJQRWZ3VGlCUk9BcDREN0NwU2FUYW54Y2trMjNYaHZkMVRkMHd0XzhmNmVHU2RhWDR5amtPWDFiWWx3SEFTQkszdXJESEsta3lMRlhQT2M2NmF3ay1DM3pMMHlHemdLMklKdFFQQWh2aXpGLWRRM0xsaHBxZ0hkbkZnV3RvVFBMbllPQXZDdGY2RTBRRnRrbUE3SkxsSjc3UjdDRkNuc2RtNXJSQWVwSk9ZZDBqTUNhaktCSjgyRl9SNUlYR09uWlMwNDJ6T3Z2d0FaVWxtQWJrX2tkN3JGZTkwR0lMYVNfYzI1MHJldVVnUlhuNGZEdFpyaW1MWEVIRnBIcmk0M1ZwbVNZVGFScHdXSHFPeTJ6WmNjUkNpZ1lZVzlTQjhGSzRId0lBVlVXa1RiLVVIZlVfbnFJVHNsRS00ZlNXTjZQY2JrZEllek5iT3QzWmlYclBnejhUaEZBTnBRLVZGY0hCd3BiU1NHRkdqRGN0UHo2MWlTbm51ZEF5LUg4bGktNzYzUlEtbDZ0NW1ob0hNTzlfajVocEE2TWppZWxRU0pWeHdlSTJ0dC15YjZMU21BLWw1YkJ4SE9hWUt2bExaZkZ3bFFhdkZudHVTVWNSWk1KTkdXOE9iUDdBblkyRkNVVl9WTGtUMjc5LTVWWW5lRzdDX2xfMkNwWVZaLTB6UEtZVWZnMVY4ZTNfcVRuZnJONzIxNGNDYVk3d0MzVnMxTVhmVlNaWU9HbU1SYkY5aC1vaEk3MnB6Z3FtUVJUdVJtenBwVERmaXFSc0ZjQkZWOFo1NHlHeDlJOG9Mb1ZacnB2WjRtSzlfai1YcHlEMThaSWZMQkhLZjF3TW5idWROcHFzSkpnVnZVb19OamN1SF8ybkh2ZTlONEJFVEdURHlwVXlBVXczWFM1Vkx3RkpXU2xkbEhMV0E4cTNBYm5nY2JPVHN4RXlFVmg0LVZaYUNVMmYyb3c3dGZvSGhB?oc=5",
+          "title": "CHANGAN Celebrates 3 Years in Thailand, Scaling Rayong EV Plant with 12 New Models and Supplier Influx",
+          "summary": "CHANGAN surpassed 35,000 cumulative vehicle sales in Thailand and is driving its Rayong facility as a global RHD export hub, targeting 3x growth over 3 years with 12 models and supplier localization.",
+          "why": "Higher assembly output and the influx of tier suppliers in Rayong will directly increase stamping, deburring, and surface preparation abrasive needs.",
+          "action": "Target incoming tier-1 body and chassis stamping suppliers tied to CHANGAN's Rayong hub with MK flap discs and wide sanding belts.",
+          "th": {
+            "title": "ครบรอบ 3 ปี CHANGAN ในไทย ปักหมุดโรงงานระยองผุดรถใหม่ 12 รุ่น พร้อมดึงซัพพลายเออร์เข้าห่วงโซ่ผลิต",
+            "summary": "CHANGAN ทำยอดขายสะสมทะลุ 35,000 คัน พร้อมเร่งสปีดโรงงานระยองเป็นฐานส่งออกรถ EV พวงมาลัยขวา ตั้งเป้าโต 3 เท่าใน 3 ปี เปิดตัว 12 รุ่นใหม่ และดึงซัพพลายเออร์ร่วมคลัสเตอร์",
+            "why": "การเร่งกำลังผลิตและสร้างคลัสเตอร์ชิ้นส่วนในระยองเพิ่มความต้องการวัสดุขัดลบคม ปั๊มขึ้นรูป และเตรียมผิวชิ้นส่วนตัวถังรถยนต์โดยตรง",
+            "action": "เร่งเจาะกลุ่มโรงงานปั๊มขึ้นรูปและผู้ผลิตชิ้นส่วนโครงสร้างในเครือข่ายซัพพลายเออร์ของ CHANGAN ด้วยจานขัดและสายพานผ้าทราย MK"
+          }
+        },
+        {
+          "id": "20261030-2",
+          "tag": "auto",
+          "rating": "green",
+          "source": "bangkokbiznews",
+          "date": "2026-10-29",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE05dG93TjlWUmlNMmltQmZ6MVdfb005WklRNG5Pc0lCcThUS2E4NkJCZ3pEZGcwWlBkWllxNGxOY2dTaDUyLWp0RWl2dGk0OUkxTDBwZHA0TGRFNjVMTFk4QjdiT2FqZTlNaF9j?oc=5",
+          "title": "Ford Upgrades Thai Manufacturing Footprint to Anchor Long-Term Production",
+          "summary": "Ford has announced significant production and process upgrades across its Thai manufacturing base to enhance manufacturing efficiency and product quality for regional export.",
+          "why": "Tooling modifications, die maintenance, and production line upgrades create direct demand for grinding wheels, abrasive belts, and finishing discs.",
+          "action": "Contact procurement and tooling maintenance teams at Ford Rayong plants and their contracted metal fabrication vendors to offer MK abrasive solutions.",
+          "th": {
+            "title": "ฟอร์ด ยกระดับการผลิต ปักหมุดอุตสาหกรรมยานยนต์ไทย",
+            "summary": "ฟอร์ดประกาศยกระดับกระบวนการและประสิทธิภาพการผลิตในไทย เพื่อเพิ่มคุณภาพและรักษาความสามารถการแข่งขันในฐานการผลิตและส่งออกระดับภูมิภาค",
+            "why": "การปรับปรุงสายการผลิตและงานแม่พิมพ์โลหะของฟอร์ดและคู่ค้า กระตุ้นการใช้วัสดุขัดแต่งผิว ลบคม และเจียรแม่พิมพ์อย่างต่อเนื่อง",
+            "action": "ติดต่อฝ่ายจัดซื้อและฝ่ายซ่อมบำรุงแม่พิมพ์ของโรงงานฟอร์ดในระยอง รวมถึงโรงกลึงและผู้รับเหมาช่วงงานโลหะเพื่อนำเสนอสินค้าวัสดุขัด MK"
+          }
+        },
+        {
+          "id": "20261030-3",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Thai PBS",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjbHhzc2hNZzE2ajcyN0dtNHQzeDd1Mzh6dk1pWmVnbXd3SVA1dWN1QW4wUHdJSkxDb21fWHVJWDEzWVA0aHhwYjRtbWZKSUdHd1JwY2lZc3U?oc=5",
+          "title": "FTI Flags Thai Automotive Turning Point, Urges Preserving ICE Base While Transitioning to EV",
+          "summary": "The Federation of Thai Industries warned that Thailand's auto sector is at a pivotal crossroads, calling for urgent support to maintain the legacy ICE supply chain alongside EV expansion.",
+          "why": "Traditional Japanese ICE parts factories are MK's core client base; maintaining their production capacity protects our primary abrasive consumable volume.",
+          "action": "Track production volumes among Japanese tier-2 machining clients and present cost-down abrasive bundle programs to secure recurring orders.",
+          "th": {
+            "title": "ส.อ.ท. ชี้ยานยนต์ไทยจุดเปลี่ยน เร่งรักษาฐานผลิตเดิม–ต่อยอด EV",
+            "summary": "สภาอุตสาหกรรมแห่งประเทศไทยระบุตลาดยานยนต์ไทยเผชิญจุดเปลี่ยนสำคัญ แนะภาครัฐเร่งรักษาห่วงโซ่การผลิตเครื่องยนต์สันดาป (ICE) เดิมไม่ให้ทรุด ควบคู่กับการผลักดัน EV",
+            "why": "โรงงานผลิตชิ้นส่วนยานยนต์สันดาป (โดยเฉพาะกลุ่มทุนญี่ปุ่น) คือลูกค้าหลักของ MK การรักษาฐานผลิตเดิมช่วยพยุงยอดขายวัสดุขัดหลักของบริษัท",
+            "action": "ติดตามกำลังการผลิตของกลุ่มโรงกลึงและผู้ผลิตชิ้นส่วน Tier-2 สัญชาติญี่ปุ่น พร้อมเสนอแพ็กเกจวัสดุขัดราคาประหยัดเพื่อช่วยลูกค้าคุมต้นทุน"
+          }
+        }
+      ],
+      "terms": {}
+    },
+    {
       "date": "2026-10-29",
       "summary": "Limited new developments today as most core manufacturing headlines were previously addressed. Key focal points center on Thai Airways' fleet expansion to 150 aircraft boosting long-term MRO servicing demand, ASEAN furniture export strength, and FTI's policy push to safeguard domestic steel mills.",
       "directCount": 1,
@@ -1009,5 +1074,5 @@ window.NEWS_ARCHIVE = {
       "terms": {}
     }
   ],
-  "updated": "2026-10-29"
+  "updated": "2026-10-30"
 };
