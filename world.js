@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-29",
-      "summary": "Today's briefing highlights new technologies tackling surface sanding challenges in woodworking, shifts in China's automotive manufacturing and industry consolidation, and evolving global steel dynamics amidst geopolitical pressures.",
-      "directCount": 2,
+      "summary": "Today's briefing highlights global shifts in the automotive OEM coatings sector, European steel industry regulations under CBAM, and technological advancements focusing on sustainability and precision finishing.",
+      "directCount": 3,
       "th": {
-        "summary": "สรุปข่าววันนี้เน้นย้ำเทคโนโลยีใหม่ในการแก้ปัญหาการขัดผิวไม้ การเปลี่ยนแปลงและการควบรวมกิจการในอุตสาหกรรมการผลิตรถยนต์ของจีน รวมถึงทิศทางอุตสาหกรรมเหล็กโลกท่ามกลางแรงกดดันทางภูมิรัฐศาสตร์"
+        "summary": "สรุปทิศทางโลกประจำวันเน้นการเปลี่ยนแปลงในตลาดสีพ่นรถยนต์ OEM, มาตรการ CBAM ของอุตสาหกรรมเหล็กยุโรป และความก้าวหน้าทางเทคโนโลยีที่เน้นความยั่งยืนและการขัดแต่งผิวความแม่นยำสูง"
       },
       "items": [
         {
           "id": "20261029-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "Woodworking Network",
-          "date": "2026-10-28",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPenJGZzhiOUMyeFhrU09yQ3hfR1puSkF4NFhiV19HUUtvbE1POE9iUzZ4T3pZOTdKaVlKSWdZQ1RHSGhVdHJSdmstZWdaUE9wMGVDMEJJckNIRzBHck5UcmZWOFctbUhnQVA5OWRtTmVpVno0MHlsQzRfd0FIWEFTSDJPNW1zS1R6Tk9rV3ZyZE0waVpUQ2U0eFgtY0U",
-          "title": "New technology tackles familiar sanding challenges",
-          "summary": "Recent advancements in woodworking technology introduce innovative approaches to solve traditional sanding and surface preparation difficulties.",
-          "why": "Directly impacts our woodworking abrasives portfolio, signaling demand for specialized sanding products that solve fine-finishing challenges.",
-          "action": "Research these new sanding tech methods to identify potential matching abrasive products for our wood industry clients.",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "Fortune Business Insights",
+          "date": "2026-10-05",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
+          "title": "Automotive OEM Coatings Market Size, Industry Report, 2034",
+          "summary": "The automotive OEM coatings market continues to evolve with a strong push towards sustainable and high-performance finishing requirements through 2034.",
+          "why": "Changes in automotive coatings and surface pre-treatment directly correlate with the kind of surface preparation and sanding consumables required in auto-body manufacturing lines.",
+          "action": "Monitor upcoming coating formulations to anticipate changes in pre-sanding and surface finishing specs.",
           "th": {
-            "title": "เทคโนโลยีใหม่แก้ปัญหาการขัดผิวแบบเดิมๆ",
-            "summary": "ความก้าวหน้าล่าสุดในเทคโนโลยีงานไม้แนะนำแนวทางนวัตกรรมเพื่อแก้ปัญหาความยากลำบากในการขัดและการเตรียมพื้นผิวแบบดั้งเดิม",
-            "why": "ส่งผลโดยตรงต่อกลุ่มผลิตภัณฑ์กระดาษทรายสำหรับงานไม้ของเรา ซึ่งบ่งชี้ถึงความต้องการผลิตภัณฑ์ขัดที่ตอบโจทย์ความท้าทายในการขัดแต่งผิวละเอียด",
-            "action": "ศึกษาเทคโนโลยีการขัดใหม่เหล่านี้เพื่อหาผลิตภัณฑ์กระดาษทรายที่ตรงกันสำหรับลูกค้าในอุตสาหกรรมไม้"
+            "title": "ขนาดตลาดสีพ่นรถยนต์ OEM และรายงานอุตสาหกรรมถึงปี 2034",
+            "summary": "ตลาดสีพ่นรถยนต์ OEM ยังคงพัฒนาอย่างต่อเนื่องโดยมุ่งเน้นไปที่ความต้องการด้านความยั่งยืนและการเคลือบผิวประสิทธิภาพสูงจนถึงปี 2034",
+            "why": "การเปลี่ยนแปลงของสีพ่นรถยนต์และการเตรียมพื้นผิวมีความเกี่ยวข้องโดยตรงกับวัสดุสิ้นเปลืองสำหรับการเตรียมพื้นผิวและการขัดที่จำเป็นในสายการผลิตตัวถังรถยนต์",
+            "action": "ติดตามสูตรสารเคลือบผิวใหม่ๆ เพื่อคาดการณ์การเปลี่ยนแปลงในข้อกำหนดการขัดเตรียมผิว"
           }
         },
         {
           "id": "20261029-w2",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-10-28",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMExMd0h3VTZZUGVhTmVoNENZT0RDYkZhOFlTUzZUd3RmT0RNRGJKVjlQVTBmRnkwa21iZEl6ZlNJYmIzVTJjQzU1eGhrcTFPOHhNQWRlSWVWaDlwR2FIVGZmSWJlQk00ZmNRUE5oc1owOGtPSzM2QzNCY0R4YXJNdjdwWExHVzNDM1JXSGRpMnNTdHQ1QXdnWlk2MFlFc21GRXd5QjVVYVItalFMN2hjZmZqZi1nd2I5aVBhYlRhbTQ",
-          "title": "China's car industry consolidation begins: who will survive?",
-          "summary": "China's automotive sector is undergoing significant consolidation, altering production landscapes and supplier ecosystems.",
-          "why": "Shifts in major auto manufacturing hubs affect regional demand for body-in-white grinding, metal deburring, and finishing supplies.",
-          "action": "Monitor how Chinese automaker consolidation impacts export pricing and regional equipment supply chains.",
+          "tag": "steel",
+          "rating": "green",
+          "source": "S&P Global",
+          "date": "2026-01-07",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSDJTcGFGbUFvRm15ZDhrczNqYkRzbHlXMTJZTHJpUF9CTjRHaTNXak4tdVBkbnBWcnNrRDRneXpBd1Z5SUJGSFZWTzJMNWhfcVl5czkzR0lSSjd4aTJzMTg3N2FWM3pHQ2NxbHg2dEp2ckNiNC16cWdJZ0t3anl3TzlUYldVajhqM05JQVEyWWdZYVdaYkEzZUpvUEJGdHAxXzRKdDRnNG1pQl9LaEN6Q0lpbFpPMTBOeElqT3V2NUdUSlJJNjZWOEpiMWc?oc=5",
+          "title": "Europe's steel industry faces its 2026 reckoning with CBAM",
+          "summary": "European steel producers are facing strict regulatory pressures and accountability in 2026 due to the Carbon Border Adjustment Mechanism (CBAM).",
+          "why": "European steel mills under strict environmental regulations will demand higher efficiency, reduced waste, and precise surface finishing tools to optimize production costs.",
+          "action": "Position our abrasive products as tools that help metal fabricators achieve high precision and minimize material waste.",
           "th": {
-            "title": "การควบรวมกิจการในอุตสาหกรรมรถยนต์ของจีนเริ่มต้นขึ้น: ใครจะอยู่รอด?",
-            "summary": "ภาคยานยนต์ของจีนกำลังเผชิญกับการควบรวมกิจการครั้งใหญ่ ซึ่งเปลี่ยนภูมิทัศน์การผลิตและระบบนิเวศของซัพพลายเออร์",
-            "why": "การเปลี่ยนแปลงในศูนย์กลางการผลิตรถยนต์รายใหญ่ส่งผลต่อความต้องการระดับภูมิภาคสำหรับการเจียรตัวถังรถ การลบคมโลหะ และวัสดุสิ้นเปลืองในการขัด",
-            "action": "ติดตามว่าการควบรวมกิจการของผู้ผลิตรถยนต์จีนส่งผลกระทบต่อราคาส่งออกและห่วงโซ่อุปทานอุปกรณ์ในภูมิภาคอย่างไร"
+            "title": "อุตสาหกรรมเหล็กยุโรปเผชิญบททดสอบในปี 2026 จากมาตรการ CBAM",
+            "summary": "ผู้ผลิตเหล็กในยุโรปกำลังเผชิญกับแรงกดดันด้านกฎระเบียบและความรับผิดชอบที่เข้มงวดในปี 2026 เนื่องจากมาตรการปรับคาร์บอนก่อนข้ามพรมแดน (CBAM)",
+            "why": "โรงงานเหล็กในยุโรปที่อยู่ภายใต้กฎระเบียบด้านสิ่งแวดล้อมที่เข้มงวดจะต้องการประสิทธิภาพที่สูงขึ้น การลดของเสีย และเครื่องมือขัดผิวที่แม่นยำเพื่อ 3 เพิ่มประสิทธิภาพต้นทุนการผลิต",
+            "action": "นำเสนอผลิตภัณฑ์กระดาษทรายและวัสดุขัดของเราว่าเป็นเครื่องมือที่ช่วยให้ผู้ผลิตโลหะมีความแม่นยำสูงและลดของเสียจากวัสดุ"
           }
         },
         {
           "id": "20261029-w3",
-          "tag": "steel",
+          "tag": "coating",
           "rating": "amber",
-          "source": "World Economic Forum",
-          "date": "2026-04-21",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPc3hudkhpWE9BVTdWSk5BQWV2SWpBNHZxOUFfY2Rxcy0weW4tc2c2UFE1blAwFjVvYzRFcE9TdW1iVTdfYXBSVGk0UER5ZDVFQkZybG51bEY2QmhYemE3anRJbERYRW9KUkZHcHZ2eHZCMTRSMWlYMklYTDNPdzZGYzZZOFQtblNBMktoS2RNSndvX1dDRlZQSlBUT1pVdE1FN0ozOFZibUxlaHFGT1FjNUpZWEEyZGFrMTJUTXhPNA",
-          "title": "How the Iran war is disrupting India's steel production amid fuel shortages and rising costs",
-          "summary": "Geopolitical conflicts and fuel shortages are causing severe disruptions and rising operational costs in India's steel manufacturing sector.",
-          "why": "Steel production slowdowns in major markets reduce local requirements for heavy-duty grinding wheels and metal conditioning abrasives.",
-          "action": "Keep an eye on South Asian steel output trends to adjust stock forecasts for metal-industry abrasives.",
+          "source": "European Coatings",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
+          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
+          "summary": "The European coatings industry highlights the convergence of digital integration, eco-friendly materials, and advanced manufacturing innovations.",
+          "why": "New coating technologies often require different surface profiles and preparation techniques, influencing how abrasives are used in industrial finishing.",
+          "action": "Keep an eye on digital and sustainable coating trends that alter substrate preparation requirements.",
           "th": {
-            "title": "สงครามอิหร่านปั่นป่วนการผลิตเหล็กของอินเดียท่ามกลางวิกฤตขาดแคลนเชื้อเพลิงและต้นทุนพุ่ง",
-            "summary": "ความขัดแย้งทางภูมิรัฐศาสตร์และการขาดแคลนเชื้อเพลิงกำลังสร้างความปั่นป่วนอย่างรุนแรงและเพิ่มต้นทุนการดำเนินงานในภาคการผลิตเหล็กของอินเดีย",
-            "why": "การชะลอตัวของการผลิตเหล็กในตลาดหลักช่วยลดความต้องการใช้แผ่นเจียรสำหรับงานหนักและวัสดุขัดแต่งโลหะในท้องถิ่น",
-            "action": "จับตาดูแนวโน้มผลผลิตเหล็กในเอเชียใต้เพื่อปรับการคาดการณ์สต็อกสินค้าสำหรับกลุ่มอุตสาหกรรมโลหะ"
+            "title": "กำหนดอนาคตใหม่แห่งสารเคลือบผิว: นวัตกรรม ความยั่งยืน และพลังแห่งดิจิทัล",
+            "summary": "อุตสาหกรรมสีและสารเคลือบผิวของยุโรปเน้นย้ำถึงการผสานรวมของเทคโนโลยีดิจิทัล วัสดุที่เป็นมิตรต่อสิ่งแวดล้อม และนวัตกรรมการผลิตขั้นสูง",
+            "why": "เทคโนโลยีการเคลือบผิวใหม่ๆ มักต้องใช้พื้นผิวและเทคนิคการเตรียมผิวที่แตกต่างกัน ซึ่งส่งผลต่อวิธีใช้งานวัสดุขัดในการตกแต่งพื้นผิวอุตสาหกรรม",
+            "action": "ติดตามแนวโน้มสีเคลือบดิจิทัลและแบบยั่งยืนที่อาจเปลี่ยนแปลงข้อกำหนดในการเตรียมพื้นผิวชิ้นงาน"
           }
         }
       ]
