@@ -4,82 +4,82 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-30",
-      "summary": "Today's global briefing focuses on advanced coating innovations, automotive OEM market trajectories, and regional metal finishing developments, signaling evolving technical demands for surface preparation.",
+      "summary": "Today's briefing focuses on global manufacturing equipment trends, automotive factory automation for EVs, and the ongoing global steel surplus. These shifts highlight where surface preparation and metal finishing demand will move next.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปข่าวสารระดับโลกประจำวันนี้เน้นไปที่นวัตกรรมสารเคลือบขั้นสูง แนวโน้มตลาด OEM ยานยนต์ และการพัฒนาการขัดแต่งโลหะในภูมิภาค ซึ่งบ่งบอกถึงความต้องการทางเทคนิคที่เปลี่ยนไปสำหรับการเตรียมพื้นผิว"
+        "summary": "สรุปข่าวสารประจำวันนี้เน้นไปที่แนวโน้มเครื่องจักรการผลิตระดับโลก ระบบอัตโนมัติในโรงงานยานยนต์ไฟฟ้า และภาวะล้นตลาดของเหล็กโลก ซึ่งช่วยชี้ให้เห็นทิศทางความต้องการงานเตรียมพื้นผิวและการขัดตกแต่ง"
       },
       "items": [
         {
           "id": "20261030-w1",
-          "tag": "coating",
+          "tag": "auto",
           "rating": "green",
-          "source": "European Coatings",
-          "date": "2026-09-09",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
-          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
-          "summary": "The European coatings sector highlights new technological eras focusing on sustainability and digitalization in surface finishes.",
-          "why": "Advanced coatings directly affect how industrial surfaces are prepped, primed, and sanded before and after application.",
-          "action": "Track sustainable and high-performance coating trends to anticipate matching surface preparation needs.",
+          "source": "MarketsandMarkets",
+          "date": "2026-08-19",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUEFHclR5NnZiRmQ3ZWs1QWMycFZkZlZVempvMXlNMGxrUXc1alpac0trZnhoVG5pRnRISVhlYlJmUkpLVHp5T1FFQi04ODdlVmRoMDBYckx4SHVONkVEQVcxNWxfcTRBNS1DTmstS2JyZTh4OVQzbk9lN3dHZkt6cUFqZHVBcmlVbWtkUGJSejJvZVdoc3Z5dTRUM2ZlMUZEdzNsLVM2VGpqdw?oc=5",
+          "title": "China Automotive Manufacturing Equipment Market (2025-2030)",
+          "summary": "Analysis of China's automotive manufacturing equipment sector reveals rapid technological upgrading and equipment investments through 2030.",
+          "why": "Chinese automotive factories consume massive amounts of robotic sanding, deburring, and surface finishing equipment as production lines upgrade.",
+          "action": "Monitor Chinese manufacturing equipment standards and automation tools used in automotive supply chains.",
           "th": {
-            "title": "กำหนดอนาคตยุคใหม่แห่งสารเคลือบ: นวัตกรรม ความยั่งยืน และพลังแห่งดิจิทัล",
-            "summary": "ภาคส่วนสารเคลือบของยุโรปเน้นย้ำยุคเทคโนโลยีใหม่ที่มุ่งเน้นความยั่งยืนและการแปลงเป็นดิจิทัลในการเคลือบผิว",
-            "why": "สารเคลือบขั้นสูงส่งผลโดยตรงต่อวิธีที่พื้นผิวอุตสาหกรรมถูกเตรียม รองพื้น และขัดก่อนและหลังการใช้งาน",
-            "action": "ติดตามแนวโน้มสารเคลือบที่ยั่งยืนและมีประสิทธิภาพสูงเพื่อคาดการณ์ความต้องการในการเตรียมพื้นผิวที่สอดคล้องกัน"
+            "title": "ตลาดอุปกรณ์การผลิตยานยนต์ของจีน (2025-2030)",
+            "summary": "การวิเคราะห์ภาคอุปกรณ์การผลิตยานยนต์ของจีนเผยให้เห็นการยกระดับทางเทคโนโลยีและการลงทุนด้านเครื่องจักรอย่างรวดเร็วถึงปี 2030",
+            "why": "โรงงานยานยนต์ของจีนมีความต้องการใช้อุปกรณ์ขัด ลบคม และเตรียมพื้นผิวแบบอัตโนมัติจำนวนมากตามการอัปเกรดสายการผลิต",
+            "action": "ติดตามมาตรฐานอุปกรณ์การผลิตของจีนและเครื่องมือ自动化ที่ใช้ในห่วงโซ่อุปทานยานยนต์"
           }
         },
         {
           "id": "20261030-w2",
           "tag": "auto",
           "rating": "amber",
-          "source": "Fortune Business Insights",
-          "date": "2026-10-05",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXJjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
-          "title": "Automotive OEM Coatings Market Size, Industry Report, 2034",
-          "summary": "A comprehensive report forecasts steady growth and changing technological requirements in the automotive OEM coatings market through 2034.",
-          "why": "Automotive manufacturing is a major consumer of coated abrasives for body panels, parts deburring, and paint prep.",
-          "action": "Monitor OEM coating shifts to align abrasive grain grades with new automotive finishing standards.",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-09-10",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVjkzSTlDYzItRzJSVXhQSjc1a0ttQ0dIRVYxRDgxaHFiQ0x3c1ZsLTdZQ0RRSk04bmhjdHQ4ZGJrV0lLVk45XzQ5ZzQwN1VwMDNERWNWVEpJNTRVYzZqTFFmcEIyUUZRNG9LOHp6ODIxYm80eEZrcTBOdENvenJqdktfcm5neXlITEZSRXNQclF2ZUpGUXVLTmY3SmhCRUlHdldDVC11QjRnZ3UtYzRlbzAwYS1yaW5oZV8zWmRMY2k?oc=5",
+          "title": "Smart-factory wiring woes: EVs demand automation now, not later",
+          "summary": "Electric vehicle manufacturing is forcing plants to adopt advanced factory automation rapidly due to complex assembly and wiring demands.",
+          "why": "As EV factories automate assembly lines, manual sanding and surface finishing processes are also being automated with robotic grinding heads.",
+          "action": "Keep an eye on robotic integration requirements for coated abrasives and flexible grinding discs.",
           "th": {
-            "title": "ขนาดตลาดสารเคลือบ OEM ยานยนต์ รายงานอุตสาหกรรม ปี 2034",
-            "summary": "รายงานฉบับสมบูรณ์คาดการณ์การเติบโตอย่างต่อเนื่องและข้อกำหนดทางเทคโนโลยีที่เปลี่ยนแปลงไปในตลาดสารเคลือบ OEM ยานยนต์จนถึงปี 2034",
-            "why": "การผลิตยานยนต์เป็นผู้บริโภครายใหญ่ของกระดาษทรายและวัสดุขัดสำหรับตัวถังรถ การลบคมชิ้นส่วน และการเตรียมสี",
-            "action": "ติดตามการเปลี่ยนแปลงของสารเคลือบ OEM เพื่อให้สอดคล้องกับเกรดเม็ดทรายขัดกับมาตรฐานการตกแต่งรถยนต์ใหม่"
+            "title": "ปัญหาการเดินสายไฟในโรงงานอัจฉริยะ: รถยนต์ไฟฟ้าเร่งความต้องการระบบอัตโนมัติทันที",
+            "summary": "การผลิตรถยนต์ไฟฟ้าบังคับให้โรงงานต้องปรับใช้ระบบอัตโนมัติขั้นสูงอย่างรวดเร็ว เนื่องมาจากความซับซ้อนในการประกอบและการเดินสายไฟ",
+            "why": "ในขณะที่โรงงาน EV ทำให้อุปกรณ์การผลิตเป็นอัตโนมัติ กระบวนการขัดและการเตรียมพื้นผิวแบบเดิมก็ถูกเปลี่ยนเป็นหุ่นยนต์ขัดอัตโนมัติเช่นกัน",
+            "action": "ติดตามความต้องการด้านการเชื่อมต่อระบบหุ่นยนต์สำหรับกระดาษทรายและแผ่นขัดยืดหยุ่น"
           }
         },
         {
           "id": "20261030-w3",
-          "tag": "abrasive",
+          "tag": "steel",
           "rating": "green",
-          "source": "The National Law Review",
-          "date": "2026-10-29",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb0Y4bmJoWjBQSGVHMTBCQVJOWVd1VW8zZHZWTGlqeWdiZTlhaEx4T0laRXJ5M1FDVkVxM3V1aXFiVmEtOHpqb3UtVjdpaVVaWmZSYkV6T3A4Q0kzR0FnbUdOdUJWUXpWQ09hVDQtV2Q5Y19lWTFZMldpa2EzLWZDV2N1aTNZRjJnNlhMOTZ6VFc4ZVlUazFsRGZUWlhHZWI4SktzeHlKMmRDX2Z2ZDEtQVNFNA?oc=5",
-          "title": "Top Abrasive Paper Manufacturer: Jiangxi Golden Abrasives Advances Surface Finishing Solutions",
-          "summary": "Industry reports highlight advancements by major abrasive paper manufacturers expanding high-tech surface finishing solutions.",
-          "why": "Keeps us informed on competitor capabilities and technological benchmarks in coated abrasive manufacturing.",
-          "action": "Benchmark our product performance against emerging advanced abrasive paper offerings in the region.",
+          "source": "S&P Global",
+          "date": "2026-01-12",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
+          "title": "Global steel industry battles surplus supply, protectionism",
+          "summary": "The global steel sector continues to face overcapacity issues and rising trade protectionism across major markets.",
+          "why": "Surplus steel production means intense competition among metal fabricators, driving them to optimize costs in surface finishing and deburring.",
+          "action": "Offer cost-effective, high-durability abrasive solutions to metal processors fighting margin compression.",
           "th": {
-            "title": "ผู้ผลิตกระดาษทรายชั้นนำ: Jiangxi Golden Abrasives พัฒนาโซลูชันการตกแต่งพื้นผิว",
-            "summary": "รายงานอุตสาหกรรมเน้นย้ำความก้าวหน้าของผู้ผลิตกระดาษทรายรายใหญ่ที่กำลังขยายโซลูชันการตกแต่งพื้นผิวไฮเทค",
-            "why": "ทำให้เราทราบถึงความสามารถของคู่แข่งและเกณฑ์มาตรฐานทางเทคโนโลยีในการผลิตวัสดุขัดเคลือบ",
-            "action": "เปรียบเทียบประสิทธิภาพผลิตภัณฑ์ของเรากับข้อเสนอกระดาษทรายขั้นสูงที่เกิดขึ้นใหม่ในภูมิภาค"
+            "title": "อุตสาหกรรมเหล็กโลกเผชิญหน้ากับภาวะล้นตลาดและลัทธิกีดกันทางการค้า",
+            "summary": "ภาคอุตสาหกรรมเหล็กทั่วโลกยังคงเผชิญกับปัญหาการผลิตเกินความต้องการและมาตรการกีดกันทางการค้าที่เพิ่มขึ้นในตลาดหลัก",
+            "why": "การผลิตเหล็กส่วนเกินสร้างการแข่งขันที่รุนแรงในกลุ่มผู้แปรรูปโลหะ ผลักดันให้พวกเขาต้องลดต้นทุนในส่วนของการขัดแต่งและลบคม",
+            "action": "นำเสนอผลิตภัณฑ์กระดาษทรายและใบเจียรที่มีความคุ้มค่าและทนทานสูงเพื่อช่วยลูกค้าลดต้นทุน"
           }
         },
         {
           "id": "20261030-w4",
           "tag": "steel",
           "rating": "amber",
-          "source": "World Bank Blogs",
-          "date": "2026-06-11",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONzBKVVZhYkZoRERBTm8wSUNzYUY3Y0lZTVhlRXhoMk9qWGUybnc0SFA2dC1KT1ZOV2puSzlLRzhmdDRUVDkwejhFM3JtNm1SY2RpbFoyYWR2Q1J2eHJTME0zd25GSjlaRE1qWG1sQjZsaUpXdjBJd0oyZlBEUklMNkxuNGVWZ3FZVGhZOHJwOWdiZw?oc=5",
-          "title": "Metal prices surge as supply pressures intensify",
-          "summary": "Recent analyses show metal prices surging globally due to intensified supply chain pressures and raw material constraints.",
-          "why": "Metal prices and supply pressures directly impact heavy industry fabrication activity and metal workshop consumable budgets.",
-          "action": "Anticipate cost sensitivities among metal fabrication clients and emphasize durability and cost-efficiency in grinding products.",
+          "source": "S&P Global",
+          "date": "2026-01-07",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSDJTcGFGbUFvRm15ZDhrczNqYkRzbHlXMTJZTHJpUF9CTjRHaTNXak4tdVBkbnBWcnNrRDRneXpBd1Z5SUJGSFZWTzJMNWhfcVl5czkzR0lSSjd4aTJzMTg3N2FWM3pHQ2NxbHg2dEp2ckNiNC16cWdJZ0t3anl3TzlUYldVajhqM05JQVEyWWdZYVdaYkEzZUpvUEJGdHAxXzRKdDRnNG1pQl9LaEN6Q0lpbFpPMTBOeElqT3V2NUdUSlJJNjZWOEpiMWc?oc=5",
+          "title": "Europe's steel industry faces its 2026 reckoning with CBAM",
+          "summary": "European steel producers are adapting to strict carbon border adjustment mechanisms (CBAM), impacting production costs and operational footprints.",
+          "why": "Green manufacturing requirements in Europe influence global steel supply chains and the types of finishing chemicals and abrasives required.",
+          "action": "Track European environmental standards for abrasives to ensure future compliance and market readiness.",
           "th": {
-            "title": "ราคาโลหะพุ่งสูงขึ้นเนื่องจากแรงกดดันด้านอุปทานที่ทวีความรุนแรงขึ้น",
-            "summary": "การวิเคราะห์ล่าสุดแสดงให้เห็นว่าราคาโลหะทั่วโลกพุ่งสูงขึ้นเนื่องจากแรงกดดันด้านห่วงโซ่อุปทานที่รุนแรงขึ้นและข้อจำกัดด้านวัตถุดิบ",
-            "why": "ราคาโลหะและแรงกดดันด้านอุปทานส่งผลโดยตรงต่อกิจกรรมการผลิตในอุตสาหกรรมหนักและงบประมาณวัสดุสิ้นเปลืองของร้านโลหะ",
-            "action": "คาดการณ์ความอ่อนไหวต่อต้นทุนในกลุ่มลูกค้าแปรรูปโลหะและเน้นย้ำความทนทานและความคุ้มค่าในผลิตภัณฑ์เจียร"
+            "title": "อุตสาหกรรมเหล็กยุโรปเผชิญจุดเปลี่ยนในปี 2026 กับมาตรการ CBAM",
+            "summary": "ผู้ผลิตเหล็กในยุโรปกำลังปรับตัวเข้ากับมาตรการปรับคาร์บอนก่อนข้ามพรมแดน (CBAM) ซึ่งส่งผลกระทบต่อต้นทุนการผลิตและรูปแบบการดำเนินงาน",
+            "why": "ข้อกำหนดการผลิตที่เป็นมิตรต่อสิ่งแวดล้อมในยุโรปส่งผลต่อห่วงโซ่อุปทานเหล็กทั่วโลก รวมถึงสารเคมีและวัสดุขัดที่ต้องใช้ร่วมกัน",
+            "action": "ติดตามมาตรฐานสิ่งแวดล้อมของยุโรปสำหรับผลิตภัณฑ์ขัด เพื่อเตรียมความพร้อมให้สอดคล้องกับข้อกำหนดในอนาคต"
           }
         }
       ]
