@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-10-30",
+  "updated": "2026-10-31",
   "days": [
+    {
+      "date": "2026-10-31",
+      "summary": "Today's intelligence briefing highlights global market dynamics in steel protectionism, automotive OEM coating shifts, and advanced abrasive paper manufacturing innovations. These developments signal continuous evolution in surface finishing and metal fabrication demand.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปข่าวกรองประจำวันนี้เน้นย้ำถึงพลวัตของตลาดโลกในด้านมาตรการปกป้องอุตสาหกรรมเหล็ก การเปลี่ยนแปลงของสีเคลือบรถยนต์ OEM และนวัตกรรมการผลิตกระดาษทรายขั้นสูง ซึ่งบ่งบอกถึงความต้องการที่พัฒนาอย่างต่อเนื่องในด้านการเตรียมผิวโลหะและการผลิต"
+      },
+      "items": [
+        {
+          "id": "20261031-w1",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "The National Law Review",
+          "date": "2026-10-29",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb0Y4bmJoWjBQSGVHMTBCQVJOWVd1VW8zZHZWTGlqeWdiZTlhaEx4T0laRXJ5M1FDVkVxM3V1aXFiVmEtOHpqb3UtVjdpaVVaWmZSYkV6T3A4Q0kzR0FnbUdOdUJWUXpWQ09hVDQtV2Q5Y19lWTFZMldpa2EzLWZDV2N1aTNZRjJnNlhMOTZ6VFc4ZVlUazFsRGZUWlhHZWI4SktzeHlKMmRDX2Z2ZDEtQVNFNA?oc=5",
+          "title": "Top Abrasive Paper Manufacturer: Jiangxi Golden Abrasives Advances Surface Finishing Solutions",
+          "summary": "Jiangxi Golden Abrasives has announced advancements in surface finishing solutions, focusing on precision abrasive paper manufacturing to meet growing industrial demands.",
+          "why": "Highlights ongoing innovations and competitive moves in abrasive paper manufacturing that affect global supply standards.",
+          "action": "Monitor competitor innovations in precision abrasive paper to maintain our technical edge.",
+          "th": {
+            "title": "ผู้ผลิตกระดาษทรายชั้นนำ: Jiangxi Golden Abrasives พัฒนาโซลูชันการขัดผิว",
+            "summary": "Jiangxi Golden Abrasives ประกาศความก้าวหน้าในโซลูชันการขัดผิว โดยมุ่งเน้นที่การผลิตกระดาษทรายที่มีความแม่นยำเพื่อตอบสนองความต้องการทางอุตสาหกรรมที่เติบโตขึ้น",
+            "why": "เน้นย้ำถึงนวัตกรรมและความเคลื่อนไหวทางการแข่งขันในการผลิตกระดาษทราย ซึ่งส่งผลต่อมาตรฐานอุปทานระดับโลก",
+            "action": "ติดตามนวัตกรรมของคู่แข่งในด้านกระดาษทรายความแม่นยำสูงเพื่อรักษาความได้เปรียบทางเทคนิคของเรา"
+          }
+        },
+        {
+          "id": "20261031-w2",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "Fortune Business Insights",
+          "date": "2026-10-05",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXJjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
+          "title": "Automotive OEM Coatings Market Size, Industry Report, 2034",
+          "summary": "A comprehensive industry report outlines the growth trajectory and technological shifts within the automotive OEM coatings market through 2034.",
+          "why": "Automotive manufacturing and coating pre-treatment directly drive surface preparation and sanding requirements.",
+          "action": "Track OEM coating trends to anticipate changes in pre-treatment and sanding media specifications.",
+          "th": {
+            "title": "ขนาดตลาดสีเคลือบ OEM ยานยนต์ รายงานอุตสาหกรรม ปี 2034",
+            "summary": "รายงานอุตสาหกรรมฉบับสมบูรณ์ระบุถึงแนวโน้มการเติบโตและการเปลี่ยนแปลงทางเทคโนโลยีในตลาดสีเคลือบ OEM ยานยนต์จนถึงปี 2034",
+            "why": "การผลิตยานยนต์และการเตรียมผิวเคลือบส่งผลโดยตรงต่อความต้องการในการเตรียมพื้นผิวและวัสดุกัด",
+            "action": "ติดตามแนวโน้มสีเคลือบ OEM เพื่อคาดการณ์การเปลี่ยนแปลงข้อกำหนดของวัสดุกัดและการเตรียมผิว"
+          }
+        },
+        {
+          "id": "20261031-w3",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "S&P Global",
+          "date": "2026-01-12",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
+          "title": "Global steel industry battles surplus supply, protectionism",
+          "summary": "The global steel sector continues to face operational headwinds due to surplus production capacity and rising international trade protectionism.",
+          "why": "Steel production volume and mill utilization directly dictate the consumption of heavy-duty grinding and deburring abrasives.",
+          "action": "Keep an eye on steel mill activity and trade policies as key indicators for industrial metal fabrication demand.",
+          "th": {
+            "title": "อุตสาหกรรมเหล็กโลกเผชิญหน้ากับภาวะล้นตลาดและลัทธิคุ้มครองทางการค้า",
+            "summary": "ภาคอุตสาหกรรมเหล็กทั่วโลกยังคงเผชิญกับอุปสรรคในการดำเนินงานเนื่องจากกำลังการผลิตส่วนเกินและลัทธิคุ้มครองทางการค้าระหว่างประเทศที่เพิ่มขึ้น",
+            "why": "ปริมาณการผลิตเหล็กและอัตราการใช้โรงงานกำหนดความต้องการใช้หินเจียรและวัสดุขัดลบคมงานหนักโดยตรง",
+            "action": "จับตากิจกรรมของโรงงานเหล็กและนโยบายการค้าเพื่อใช้เป็นตัวชี้วัดความต้องการในอุตสาหกรรมแปรรูปโลหะ"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-10-30",
       "summary": "Today's global briefing focuses on advanced coating innovations, evolving EV manufacturing automation, and shifting steel and metal casting dynamics that directly impact surface finishing demand.",
@@ -938,70 +1002,6 @@ window.WORLD_ARCHIVE = {
             "summary": "ผู้ผลิตรถยนต์ EV เร่งนำระบบอัตโนมัติมาใช้ในโรงงานอย่างรวดเร็ว เพื่อแก้ปัญหาความซับซ้อนในการเดินสายไฟและการประกอบ",
             "why": "เมื่อสายการผลิต EV เป็นอัตโนมัติมากขึ้น ความต้องการเครื่องมือขัดครีบด้วยหุ่นยนต์ การเตรียมพื้นผิวอัตโนมัติ และเครื่องมือตกแต่งผิวที่มีความแม่นยำจึงเพิ่มสูงขึ้น",
             "action": "ติดตามการใช้งานผลิตภัณฑ์กระดาษทรายและวัสดุขัดที่รองรับระบบหุ่นยนต์และอุปกรณ์ตกแต่งผิวอัตโนมัติ"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-10-17",
-      "summary": "Today's briefing focuses on global manufacturing equipment shifts, metal market trade dynamics, and surface technology trends outside our recently covered topics.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปประเด็นข่าววันนี้เน้นการเปลี่ยนแปลงด้านเครื่องจักรการผลิตระดับโลก พลวัตการค้าตลาดโลหะ และแนวโน้มเทคโนโลยีพื้นผิว นอกเหนือจากหัวข้อที่เราเคยครอบคลุมไปแล้ว"
-      },
-      "items": [
-        {
-          "id": "20261017-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "Vocal",
-          "date": "2025-10-15",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMEswYmdPeklIbjNIS0g2dlR0ZDc5d3lWRi1VRlFiczNncVY2OGk5U3I5ajJCLW5hMHlDM3o5NzZacWp5Rm0xa2RWZnd1QnZRM0h0UUZTekRacmpwNUpaZGwycjBva3JyS3pIYWE2RDZqM24tSV9JQVFHUmFTeXJESEdPN3VtYXZ2TTZEZ1VQbVlNZEJiNlhEejY1b0NzV0NUYXhGVA?oc=5",
-          "title": "Abrasives Market: Rising Manufacturing Demand and Global Growth Trends 2033",
-          "summary": "A comprehensive look into long-term global manufacturing demand driving growth across the abrasives and surface finishing sectors through 2033.",
-          "why": "It confirms the steady upward trajectory for precision finishing and industrial manufacturing demand over the next decade.",
-          "action": "Align long-term inventory and supplier planning with steady growth in industrial manufacturing demand.",
-          "th": {
-            "title": "ตลาดวัสดุขัด: ความต้องการในการผลิตที่เพิ่มขึ้นและแนวโน้มการเติบโตระดับโลกถึงปี 2033",
-            "summary": "ภาพรวมเชิงลึกเกี่ยวกับความต้องการด้านการผลิตระดับโลกในระยะยาว ซึ่งขับเคลื่อนการเติบโตของอุตสาหกรรมวัสดุขัดและการตกแต่งพื้นผิวจนถึงปี 2033",
-            "why": "ยืนยันแนวโน้มขาขึ้นที่มั่นคงสำหรับความต้องการด้านการตกแต่งผิวความแม่นยำสูงและการผลิตอุตสาหกรรมในทศวรรษหน้า",
-            "action": "ปรับแผนสินค้าคงคลังระยะยาวและการวางแผนซัพพลายเออร์ให้สอดคล้องกับการเติบโตอย่างมั่นคงของความต้องการภาคการผลิตอุตสาหกรรม"
-          }
-        },
-        {
-          "id": "20261017-w2",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "Financial Post",
-          "date": "2026-07-16",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYzVENV9lOXd1cm0xeEt4Y2JBNVF4R3M1aDRReTk5T0xoNzJ0a3c5VnBueWdRenBEcUp2NHNNMldrU20teUI0Z3RocldKbjAyVHNjWjNKN1FtdFlUVXZVSHlfNUZqY016Q0pWMDlDMWxTa3gwMGN0SmNmNjVoRzJQdW9YWDRlYU9PeGt0WGh4VQ?oc=5",
-          "title": "'We're getting hammered': Why this Canadian aluminum sector is crumbling while prices boom",
-          "summary": "An analysis of regional supply chain pressures and structural challenges facing specific metal sectors despite rising global commodity prices.",
-          "why": "Local metal processing challenges directly impact the operational health and purchasing power of our industrial customers in metal fabrication.",
-          "action": "Monitor metal sector cost pressures closely as they affect customer production volumes and abrasive consumption budgets.",
-          "th": {
-            "title": "'พวกเรากำลังย่อยยับ': ทำไมภาคส่วนอลูมิเนียมของแคนาดาจึงพังทลายในขณะที่ราคาพุ่งสูงขึ้น",
-            "summary": "การวิเคราะห์แรงกดดันด้านห่วงโซ่อุปทานระดับภูมิภาคและความท้าทายเชิงโครงสร้างที่เผชิญหน้ากับภาคส่วนโลหะบางประเภท แม้ว่าราคาสินค้าโภคภัณฑ์ทั่วโลกจะสูงขึ้นก็ตาม",
-            "why": "ความท้าทายในการแปรรูปโลหะในท้องถิ่นส่งผลโดยตรงต่อสุขภาพการดำเนินงานและกำลังซื้อของลูกค้าอุตสาหกรรมในกลุ่มการผลิตโลหะ",
-            "action": "ติดตามแรงกดดันด้านต้นทุนในภาคโลหะอย่างใกล้ชิด เนื่องจากส่งผลกระทบต่อปริมาณการผลิตของลูกค้าและงบประมาณการใช้วัสดุขัด"
-          }
-        },
-        {
-          "id": "20261017-w3",
-          "tag": "coating",
-          "rating": "green",
-          "source": "Research Nester",
-          "date": "2025-11-28",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14eWFoVV8xbm5acHpvcmNxN1pQVXhpb2JrZHZwNFBiSDFMRXNtOUlvaDc5eG9Lb3czYl9iRzVMVVhzSV92b18wWFFNVTVpbkd4cnRXRTZKZG5RdHJ3cHk1aXJodm0zUURuTW04UFZGcUx4OVRUQy1ZU1Q0WGlmRVE?oc=5",
-          "title": "Coating Thickness Gauge Market Size & Share, Forecast Report 2035",
-          "summary": "Market projections highlight growing demand for precise surface quality control and measurement tools across industrial applications.",
-          "why": "Strict surface preparation standards and coating thickness measurements require perfectly prepped and uniform substrates, driving quality demands for abrasives.",
-          "action": "Position our abrasive products as high-consistency solutions that help fabricators meet rigorous surface quality standards.",
-          "th": {
-            "title": "ตลาดเครื่องวัดความหนาของสารเคลือบ: ขนาด ส่วนแบ่ง และรายงานคาดการณ์ถึงปี 2035",
-            "summary": "การคาดการณ์ตลาดเน้นย้ำถึงความต้องการที่เพิ่มขึ้นสำหรับเครื่องมือควบคุมคุณภาพพื้นผิวและเครื่องมือวัดที่แม่นยำในงานอุตสาหกรรมต่างๆ",
-            "why": "มาตรฐานการเตรียมพื้นผิวที่เข้มงวดและการวัดความหนาของสารเคลือบจำเป็นต้องมีพื้นผิวที่เตรียมอย่างสมบูรณ์แบบและสม่ำเสมอ ซึ่งผลักดันความต้องการด้านคุณภาพสำหรับวัสดุขัด",
-            "action": "วางตำแหน่งผลิตภัณฑ์วัสดุขัดของเราให้เป็นโซลูชันที่มีความสม่ำเสมอสูง ซึ่งช่วยให้ผู้ผลิตบรรลุมาตรฐานคุณภาพพื้นผิวที่เข้มงวดได้"
           }
         }
       ]
