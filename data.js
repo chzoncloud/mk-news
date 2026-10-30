@@ -3,64 +3,64 @@ window.NEWS_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-30",
-      "summary": "There are relatively few new headlines today, but notable automotive developments stand out. Production expansion commitments from CHANGAN and manufacturing upgrades by Ford signal sustained demand for metal preparation, deburring, and surface finishing abrasives.",
-      "directCount": 2,
+      "summary": "Today has limited new developments; key highlights focus on AirAsia's planned MRO expansion in Thailand and BOI's 130-billion-baht EV investment milestone, while auto parts suppliers face headwinds from high domestic household debt.",
+      "directCount": 1,
       "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มากนัก แต่มีประเด็นน่าสนใจในภาคยานยนต์ โดยเฉพาะการขยายโรงงาน EV ระยองของ CHANGAN และการยกระดับการผลิตของ Ford ซึ่งส่งสัญญาณความต้องการใช้วัสดุขัดเตรียมผิว ลบครีบคม และขัดเงาโลหะอย่างต่อเนื่อง"
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยประเด็นสำคัญอยู่ที่แอร์เอเชียเตรียมรุกลงทุนศูนย์ซ่อมบำรุง MRO ในไทย และยอดส่งเสริมการลงทุน EV ของบีโอไอที่ทะลุ 1.3 แสนล้านบาท ขณะที่กลุ่มชิ้นส่วนยานยนต์ยังเผชิญแรงกดดันจากปัญหาหนี้ครัวเรือน"
       },
       "items": [
         {
           "id": "20261030-1",
           "tag": "auto",
           "rating": "green",
-          "source": "Facebook",
-          "date": "2026-10-29",
-          "url": "https://news.google.com/rss/articles/CBMixgZBVV95cUxQbEkyU3dzMzdCbnRCSHBVSlNaa2FyQ01sX1JyQy0yV0paVTVMaEFwd0w4ekhobWxBN3VMcVJhZ2tVY3dvVVFIU0dpQ2NlZXp2Tk5SRTE5bjZYc2FkTk1vWmpoRmdxYzhXRURWRzJQRWZ3VGlCUk9BcDREN0NwU2FUYW54Y2trMjNYaHZkMVRkMHd0XzhmNmVHU2RhWDR5amtPWDFiWWx3SEFTQkszdXJESEsta3lMRlhQT2M2NmF3ay1DM3pMMHlHemdLMklKdFFQQWh2aXpGLWRRM0xsaHBxZ0hkbkZnV3RvVFBMbllPQXZDdGY2RTBRRnRrbUE3SkxsSjc3UjdDRkNuc2RtNXJSQWVwSk9ZZDBqTUNhaktCSjgyRl9SNUlYR09uWlMwNDJ6T3Z2d0FaVWxtQWJrX2tkN3JGZTkwR0lMYVNfYzI1MHJldVVnUlhuNGZEdFpyaW1MWEVIRnBIcmk0M1ZwbVNZVGFScHdXSHFPeTJ6WmNjUkNpZ1lZVzlTQjhGSzRId0lBVlVXa1RiLVVIZlVfbnFJVHNsRS00ZlNXTjZQY2JrZEllek5iT3QzWmlYclBnejhUaEZBTnBRLVZGY0hCd3BiU1NHRkdqRGN0UHo2MWlTbm51ZEF5LUg4bGktNzYzUlEtbDZ0NW1ob0hNTzlfajVocEE2TWppZWxRU0pWeHdlSTJ0dC15YjZMU21BLWw1YkJ4SE9hWUt2bExaZkZ3bFFhdkZudHVTVWNSWk1KTkdXOE9iUDdBblkyRkNVVl9WTGtUMjc5LTVWWW5lRzdDX2xfMkNwWVZaLTB6UEtZVWZnMVY4ZTNfcVRuZnJONzIxNGNDYVk3d0MzVnMxTVhmVlNaWU9HbU1SYkY5aC1vaEk3MnB6Z3FtUVJUdVJtenBwVERmaXFSc0ZjQkZWOFo1NHlHeDlJOG9Mb1ZacnB2WjRtSzlfai1YcHlEMThaSWZMQkhLZjF3TW5idWROcHFzSkpnVnZVb19OamN1SF8ybkh2ZTlONEJFVEdURHlwVXlBVXczWFM1Vkx3RkpXU2xkbEhMV0E4cTNBYm5nY2JPVHN4RXlFVmg0LVZaYUNVMmYyb3c3dGZvSGhB?oc=5",
-          "title": "CHANGAN Celebrates 3 Years in Thailand, Scaling Rayong EV Plant with 12 New Models and Supplier Influx",
-          "summary": "CHANGAN surpassed 35,000 cumulative vehicle sales in Thailand and is driving its Rayong facility as a global RHD export hub, targeting 3x growth over 3 years with 12 models and supplier localization.",
-          "why": "Higher assembly output and the influx of tier suppliers in Rayong will directly increase stamping, deburring, and surface preparation abrasive needs.",
-          "action": "Target incoming tier-1 body and chassis stamping suppliers tied to CHANGAN's Rayong hub with MK flap discs and wide sanding belts.",
+          "source": "เว็บไซต์รัฐบาลไทย",
+          "date": "2026-07-02",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zOHo0X01meExtendzNTNja1RMTUxKa2dWM0hFZ1JrRzJ4dmJPLWhSdHVwb19IU01fVTRVOWtaX2lkMVJUSlRPb3FCNVg5UQ?oc=5",
+          "title": "BOI Reports EV Investments Top 130 Billion Baht to Build Multi-Tech Hub",
+          "summary": "Thailand's Board of Investment announced cumulative EV projects exceeding 130 billion baht, covering vehicle assembly and critical component manufacturing across all electric technologies.",
+          "why": "Massive capital inflows directly translate into new stamping, body weld-line grinding, and metal finishing operations requiring high volumes of industrial abrasives.",
+          "action": "Target engineering and procurement teams at newly commissioned EV parts and pack fabrication plants with MK sanding belts and grinding discs.",
           "th": {
-            "title": "ครบรอบ 3 ปี CHANGAN ในไทย ปักหมุดโรงงานระยองผุดรถใหม่ 12 รุ่น พร้อมดึงซัพพลายเออร์เข้าห่วงโซ่ผลิต",
-            "summary": "CHANGAN ทำยอดขายสะสมทะลุ 35,000 คัน พร้อมเร่งสปีดโรงงานระยองเป็นฐานส่งออกรถ EV พวงมาลัยขวา ตั้งเป้าโต 3 เท่าใน 3 ปี เปิดตัว 12 รุ่นใหม่ และดึงซัพพลายเออร์ร่วมคลัสเตอร์",
-            "why": "การเร่งกำลังผลิตและสร้างคลัสเตอร์ชิ้นส่วนในระยองเพิ่มความต้องการวัสดุขัดลบคม ปั๊มขึ้นรูป และเตรียมผิวชิ้นส่วนตัวถังรถยนต์โดยตรง",
-            "action": "เร่งเจาะกลุ่มโรงงานปั๊มขึ้นรูปและผู้ผลิตชิ้นส่วนโครงสร้างในเครือข่ายซัพพลายเออร์ของ CHANGAN ด้วยจานขัดและสายพานผ้าทราย MK"
+            "title": "บีโอไอเผยยอดลงทุน EV ทะลุ 1.3 แสนล้าน หนุนไทยขึ้นแท่นฐานผลิตยานยนต์ไฟฟ้าครบวงจร",
+            "summary": "บีโอไอเปิดเผยเม็ดเงินลงทุนในอุตสาหกรรม EV รวมกว่า 1.3 แสนล้านบาท ครอบคลุมทั้งการประกอบตัวรถและการผลิตชิ้นส่วนสำคัญทุกเทคโนโลยี",
+            "why": "เม็ดเงินลงทุนจำนวนมากกระตุ้นให้เกิดไลน์ปั๊มขึ้นรูป งานเจียรแต่งรอยเชื่อมตัวถัง และการขัดผิวโลหะ ซึ่งสร้างความต้องการใช้วัสดุขัดอุตสาหกรรมโดยตรง",
+            "action": "เร่งเข้าพบทีมวิศวกรรมและจัดซื้อของโรงงานผลิตชิ้นส่วนและประกอบแพ็กแบตเตอรี่ EV ที่เริ่มเดินสายการผลิตใหม่เพื่อนำเสนอสายพานและจานขัด MK"
           }
         },
         {
           "id": "20261030-2",
-          "tag": "auto",
-          "rating": "green",
-          "source": "bangkokbiznews",
-          "date": "2026-10-29",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE05dG93TjlWUmlNMmltQmZ6MVdfb005WklRNG5Pc0lCcThUS2E4NkJCZ3pEZGcwWlBkWllxNGxOY2dTaDUyLWp0RWl2dGk0OUkxTDBwZHA0TGRFNjVMTFk4QjdiT2FqZTlNaF9j?oc=5",
-          "title": "Ford Upgrades Thai Manufacturing Footprint to Anchor Long-Term Production",
-          "summary": "Ford has announced significant production and process upgrades across its Thai manufacturing base to enhance manufacturing efficiency and product quality for regional export.",
-          "why": "Tooling modifications, die maintenance, and production line upgrades create direct demand for grinding wheels, abrasive belts, and finishing discs.",
-          "action": "Contact procurement and tooling maintenance teams at Ford Rayong plants and their contracted metal fabrication vendors to offer MK abrasive solutions.",
+          "tag": "aero",
+          "rating": "amber",
+          "source": "Facebook",
+          "date": "2026-09-18",
+          "url": "https://news.google.com/rss/articles/CBMiiAdBVV95cUxQMkhrTnQ5Y3dtWlh3cUtub3MtbWRTNFJsQzA4ZG9sNzR0ZHRtM1QzallzSEFydlBvaFJqSG04Yy1IbnJxel95UU5DY3Z3VUVwRVhrV1ByZTFjcUc4aXNSc1Nwd0ZWSzdrZFNDYmRFWnlHS1h5cmk5QVg5NHhWaGlMVlhYNFUxS19hSDNrN3luZ1BWR1lleGFJV2xiSldyZjdKcjBKa2Jja09uNElYYUM0bXJIZUl0dkQ0aUFXcEJDN1k4ZDZ5UWJ6bjd3cVJDYlRlV05mVC1iZlhWQVc1clhyVzZWUnFnMjZKQzlMcExZX2Q2Vl9mSXVDWVktNzhEWUZBMG9WOHhqclUzX0ppb0N5QnN1clZkR2RKUXJJVGNwUXc0U3JmVlEtQ2xxUWhsQTFuRWtyUHJheUdQNl96cjZnN3BJY1VlR2dtNHJhQU5jYnBtQ0VrdDQ3MExhUGlBQ3lGNFhmaWdXWDdDcjdXZVU4b0lQX3JnSFN1UXMtWjRxMWNZQ09Rb2NTelVQQWx5SWNNRkdBWTBObzBiQ0lFM2U5SzJ0VXpfTWtVa0pfaXVvekh6TlNpU1Zvd2tjWEF1R2htcGEtWnFBVkx2ZDhpaTBmbjVTZklEUWFNcVl3NElnMkI2YTdyd0ZUellYNkU3QnpQLWJYNGFlMko3UXFXYWNhaW1Hejh0NVk5YnB1cVQya3I5MFA3d1pjR04tZ1EydUdXWW9UUjlYUWlIbHJMQ1JDTG85eTBMRFRPY1V5T2JTMC1zWnZlV3JoSU43SXV0UkJsOTVnZGY0LV9CcEtjLTIyd3Fvem1hcV9wVzk1dkNsOGlwNUhDbDdRbXlOTUdaeGlpLU5WVHdnZEtNM2VWVi1UenNCaHk2UjdHSVNKYmRhV0h5ZFVyV0NDc1VmZjRrRUUxcUZJbFNlVmlKWTZpY3p1aDA3X2NSTVA0VTNUS1FNeWUxUFdSRkxmWXdjVDcwN3RBYV9CS0hjQzIyUnJCa0pyTHJiNWg5eXExMkpoSG1YVXF1eWpaQ1ZYdTFEZjVnWHhzcEpmc3pqaFRzNXZzcUNLSFFaX1Z5UVJDWXdWSV8xa0dGblpNVXJ4TmpsUlR6cEpuWW40a2pFdXJXalRqSF9SSml6SkRzcG9NdWU5RGNFMUdsVlh3ZmowemY2TzNKRFp2RGRwRmdDSWc5WFFIRnkzZ0FDVVRQTkxm?oc=5",
+          "title": "AirAsia Affirms Robust Liquidity, Eyes Direct Aviation MRO Investment in Thailand",
+          "summary": "AirAsia leadership confirmed over $1 billion in liquid reserves and outlined strategic plans to expand aircraft maintenance, repair, and overhaul (MRO) facilities in Thailand.",
+          "why": "New aviation hangars create medium-term demand for high-precision, aerospace-certified finishing tools used in surface preparation and component maintenance.",
+          "action": "Initiate preliminary outreach to AirAsia's technical engineering partners to study certification criteria required for MK's surface-finishing products.",
           "th": {
-            "title": "ฟอร์ด ยกระดับการผลิต ปักหมุดอุตสาหกรรมยานยนต์ไทย",
-            "summary": "ฟอร์ดประกาศยกระดับกระบวนการและประสิทธิภาพการผลิตในไทย เพื่อเพิ่มคุณภาพและรักษาความสามารถการแข่งขันในฐานการผลิตและส่งออกระดับภูมิภาค",
-            "why": "การปรับปรุงสายการผลิตและงานแม่พิมพ์โลหะของฟอร์ดและคู่ค้า กระตุ้นการใช้วัสดุขัดแต่งผิว ลบคม และเจียรแม่พิมพ์อย่างต่อเนื่อง",
-            "action": "ติดต่อฝ่ายจัดซื้อและฝ่ายซ่อมบำรุงแม่พิมพ์ของโรงงานฟอร์ดในระยอง รวมถึงโรงกลึงและผู้รับเหมาช่วงงานโลหะเพื่อนำเสนอสินค้าวัสดุขัด MK"
+            "title": "แอร์เอเชียยันสภาพคล่องแกร่ง เล็งเดินหน้าลงทุนศูนย์ซ่อมอากาศยาน MRO ในไทย",
+            "summary": "ผู้บริหารระดับสูงแอร์เอเชียเผยมีสภาพคล่องระดับพันล้านดอลลาร์ พร้อมเดินหน้าแผนขยายการลงทุนศูนย์ซ่อมบำรุงอากาศยาน (MRO) ในประเทศไทย",
+            "why": "การขยายโรงซ่อมบำรุงเครื่องบินจะสร้างอุปสงค์ระยะกลางต่อวัสดุขัดเกรดการบินความแม่นยำสูง สำหรับงานลอกสี เตรียมผิว และขัดชิ้นส่วนอากาศยาน",
+            "action": "เริ่มศึกษาข้อกำหนดมาตรฐานและติดต่อฝ่ายเทคนิคซ่อมบำรุงของเครือข่ายแอร์เอเชียเพื่อเตรียมความพร้อมด้านใบรับรองสินค้าของ MK"
           }
         },
         {
           "id": "20261030-3",
           "tag": "auto",
           "rating": "amber",
-          "source": "Thai PBS",
-          "date": "2026-09-09",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjbHhzc2hNZzE2ajcyN0dtNHQzeDd1Mzh6dk1pWmVnbXd3SVA1dWN1QW4wUHdJSkxDb21fWHVJWDEzWVA0aHhwYjRtbWZKSUdHd1JwY2lZc3U?oc=5",
-          "title": "FTI Flags Thai Automotive Turning Point, Urges Preserving ICE Base While Transitioning to EV",
-          "summary": "The Federation of Thai Industries warned that Thailand's auto sector is at a pivotal crossroads, calling for urgent support to maintain the legacy ICE supply chain alongside EV expansion.",
-          "why": "Traditional Japanese ICE parts factories are MK's core client base; maintaining their production capacity protects our primary abrasive consumable volume.",
-          "action": "Track production volumes among Japanese tier-2 machining clients and present cost-down abrasive bundle programs to secure recurring orders.",
+          "source": "Thansettakij",
+          "date": "2026-08-14",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EYVc4ZnhkX0VKd1hRU3N1REVNM09QYk9fR0RQV2xwbDFHaW52ZnlVQ3R2b3NJMlpIMzhZMU9ZZC1CRFhjYThhRnNhd05ZU1QySzAzbXp5aGxKaHhJRXFOR3MwZjUxOUQweHVlQg?oc=5",
+          "title": "Multinationals Warn High Household Debt Dampens Auto Market and Parts Investments",
+          "summary": "Foreign automakers caution that severe household debt is suppressing domestic car purchases, forcing adjustments in local production schedules and Tier-1/Tier-2 supply chains.",
+          "why": "Slow vehicle sales reduce output volumes at Japanese automotive parts factories, directly impacting repetitive orders for grinding and deburring abrasives.",
+          "action": "Monitor inventory turnover and credit limits among Japanese stamping and machining clients while diversifying sales into export-oriented fabricators.",
           "th": {
-            "title": "ส.อ.ท. ชี้ยานยนต์ไทยจุดเปลี่ยน เร่งรักษาฐานผลิตเดิม–ต่อยอด EV",
-            "summary": "สภาอุตสาหกรรมแห่งประเทศไทยระบุตลาดยานยนต์ไทยเผชิญจุดเปลี่ยนสำคัญ แนะภาครัฐเร่งรักษาห่วงโซ่การผลิตเครื่องยนต์สันดาป (ICE) เดิมไม่ให้ทรุด ควบคู่กับการผลักดัน EV",
-            "why": "โรงงานผลิตชิ้นส่วนยานยนต์สันดาป (โดยเฉพาะกลุ่มทุนญี่ปุ่น) คือลูกค้าหลักของ MK การรักษาฐานผลิตเดิมช่วยพยุงยอดขายวัสดุขัดหลักของบริษัท",
-            "action": "ติดตามกำลังการผลิตของกลุ่มโรงกลึงและผู้ผลิตชิ้นส่วน Tier-2 สัญชาติญี่ปุ่น พร้อมเสนอแพ็กเกจวัสดุขัดราคาประหยัดเพื่อช่วยลูกค้าคุมต้นทุน"
+            "title": "ทุนข้ามชาติเตือน หนี้ครัวเรือนฉุดตลาดรถ กระทบแผนผลิตและลงทุนชิ้นส่วนในไทย",
+            "summary": "ค่ายรถยนต์ต่างชาติติงปัญหาหนี้ครัวเรือนฉุดกำลังซื้อรถยนต์ในประเทศ ส่งผลกระทบต่อแผนการผลิตของโรงงานและซัพพลายเชนชิ้นส่วนยานยนต์",
+            "why": "ยอดจำหน่ายรถที่ชะลอตัวทำให้โรงงานชิ้นส่วนยานยนต์ญี่ปุ่นลดชั่วโมงการผลิต ส่งผลกระทบต่อคำสั่งซื้อกระดาษทรายและหินเจียรที่ใช้ขัดแต่งชิ้นงาน",
+            "action": "ติดตามรอบการสั่งซื้อและวงเงินสินเชื่อของโรงงานปั๊มขึ้นรูปญี่ปุ่นอย่างใกล้ชิด พร้อมเร่งกระจายความเสี่ยงไปยังกลุ่มโรงงานรับจ้างผลิตเพื่อการส่งออก"
           }
         }
       ],
@@ -985,89 +985,6 @@ window.NEWS_ARCHIVE = {
             "summary": "Ford กำลังพิจารณาใช้โรงงานในเมืองเจนไนของอินเดียเป็นฐานการผลิตรถยนต์ไฟฟ้าสำหรับส่งออกตลาดเอเชียแปซิฟิก ชี้ให้เห็นถึงความพร้อมของห่วงโซ่อุปทานอินเดีย",
             "why": "หากค่ายรถยนต์สัญชาติตะวันตกเลือกอินเดียเป็นฐานผลิตส่งออกแทนไทย จะกระทบต่อการขยายกำลังการผลิตของโรงงานชิ้นส่วนโลหะและลดโอกาสการเติบโตของยอดใช้วัสดุขัดในระยะยาว",
             "action": "กระจายความเสี่ยงโดยมุ่งเน้นการรักษาฐานลูกค้าโรงงานประกอบรถยนต์ญี่ปุ่นและกลุ่มทุนจีนที่มีโรงงานผลิตขนาดใหญ่ในไทยอย่างเหนียวแน่น"
-          }
-        }
-      ],
-      "terms": {}
-    },
-    {
-      "date": "2026-10-16",
-      "summary": "Today has limited new updates; the primary highlight is the EV Board's plan to overhaul excise taxes on imported vehicles to force localized manufacturing, which directly supports domestic automotive parts fabrication and abrasive demand.",
-      "directCount": 1,
-      "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยประเด็นหลักคือบอร์ด EV เตรียมรื้อโครงสร้างภาษีเพื่อรีดภาษีรถนำเข้าและเร่งให้เกิดการตั้งฐานผลิตในไทย ซึ่งจะเป็นผลบวกโดยตรงต่อความต้องการใช้วัสดุขัดในโรงงานผลิตชิ้นส่วนยานยนต์"
-      },
-      "items": [
-        {
-          "id": "20261016-1",
-          "tag": "auto",
-          "rating": "green",
-          "source": "bangkokbiznews",
-          "date": "2026-10-08",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UZ0hQTFFGbDJCaXpsMFdIcEF4N2oybHBqQUdFbm1RRHJsSWpleW9IQi0yMmYydmNJNEhRNERPQUZrYThmV1dOSDNnSTZNaV9DeW9VeHZhNFFjcGZm?oc=5",
-          "title": "Thailand EV Board Plans Tax Overhaul to Impose Maximum Rates on Imported Vehicles",
-          "summary": "The National EV Policy Board approved a vehicle excise tax restructuring, proposing maximum tax rates on imported fully built vehicles to accelerate local manufacturing.",
-          "why": "Mandating local vehicle assembly directly boosts stamping, welding, and surface treatment lines in Thai factories, generating direct demand for grinding and finishing abrasives.",
-          "action": "Target Tier-1 metal stamping and chassis fabrication suppliers preparing to expand production lines for localized EV models.",
-          "th": {
-            "title": "บอร์ดอีวีเคาะรื้อภาษีรถยนต์ยกแผง เตรียมรีดภาษีสูงสุดรถนำเข้า บีบผลิตในประเทศ",
-            "summary": "บอร์ดอีวีเห็นชอบการปรับโครงสร้างภาษีสรรพสามิตรถยนต์ครั้งใหญ่ โดยเสนอเก็บภาษีสูงสุดสำหรับรถยนต์สำเร็จรูปนำเข้า เพื่อเร่งผลักดันให้เกิดการตั้งโรงงานผลิตในไทย",
-            "why": "การผลักดันให้ประกอบรถยนต์ในประเทศช่วยเพิ่มงานปั๊มขึ้นรูป เชื่อมประกอบ และเตรียมผิวโลหะ ซึ่งจะกระตุ้นยอดใช้วัสดุขัด เจียร และแต่งผิวของ MK โดยตรง",
-            "action": "เร่งติดต่อซัพพลายเออร์ชิ้นส่วนโลหะและโครงสร้างตัวถังระดับ Tier-1 ที่เตรียมขยายสายการผลิตรองรับการประกอบ EV ในประเทศ"
-          }
-        },
-        {
-          "id": "20261016-2",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "ไทยโพสต์",
-          "date": "2026-08-24",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRMFNRQjQySW9WNHdaVl9ReVJRV3hZaUdUMnpnbzVtN1VKX3JaOFo4RVB1ZXZjSWNLYWFlTzVZb0tzcnl3QXVOMTZNTTh5R09DU2hHZlNqNFFKQQ?oc=5",
-          "title": "Thai Auto Industry Faces Warning Over Loss of Regional Competitiveness",
-          "summary": "Auto manufacturing leaders warned that Thailand risks losing its automotive edge unless the government revises incentive policies to support traditional supply chains during the EV transition.",
-          "why": "Slowing vehicle production among Japanese automakers impacts abrasive consumable turnover across existing Tier-1 and Tier-2 parts factories.",
-          "action": "Diversify sales outreach toward hybrid component fabricators and industrial machinery maintenance to mitigate pure ICE production declines.",
-          "th": {
-            "title": "สัญญาณเตือนอุตสาหกรรมยานยนต์ไทย เสี่ยงสูญเสียความสามารถการแข่งขันในภูมิภาค",
-            "summary": "กลุ่มผู้นำอุตสาหกรรมยานยนต์ส่งสัญญาณเตือนว่าไทยอาจสูญเสียความเป็นฐานผลิตหลัก หากรัฐบาลไม่ทบทวนนโยบายสนับสนุนห่วงโซ่อุปทานเดิมในช่วงเปลี่ยนผ่านสู่ EV",
-            "why": "ยอดผลิตรถยนต์ที่ชะลอตัวของค่ายรถญี่ปุ่นส่งผลกระทบต่ออัตราการใช้วัสดุขัดสิ้นเปลืองในโรงงานชิ้นส่วน Tier-1 และ Tier-2 ซึ่งเป็นลูกค้าหลักของ MK",
-            "action": "กระจายความเสี่ยงโดยขยายฐานลูกค้าไปยังผู้ผลิตชิ้นส่วนรถยนต์ไฮบริดและงานบำรุงรักษาเครื่องจักรในโรงงาน เพื่อชดเชยกำลังผลิต ICE ที่ลดลง"
-          }
-        },
-        {
-          "id": "20261016-3",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "มติชนออนไลน์",
-          "date": "2026-05-21",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UYW10Tk1DUVRKUmhSc0EtelBFYk5QMlZpSE5XTGR1S1FEaGFuVExkWVVjZ3Fyc3dnek5ZNlozMWNUNWxSQTVrY3FmOTVDT0MzX0E2SjZkYm1QQ28?oc=5",
-          "title": "Ten Steel Associations Urge Ministry of Industry to Curb Cheap Imports and Regulate IF Mills",
-          "summary": "Thai steel associations submitted a petition demanding strict TISI quality controls against dumped Chinese imports and regulatory enforcement on induction furnace (IF) mills.",
-          "why": "Protecting compliant domestic steel mills and fabricators stabilizes structural steel processing, which sustains heavy-duty grinding wheel and flap disc sales.",
-          "action": "Focus marketing of heavy-duty grinding discs and belts on compliant, standard-certified Thai structural steel and fabrication plants.",
-          "th": {
-            "title": "10 สมาคมเหล็กจี้กระทรวงอุตสาหกรรมคุมเข้มเหล็กจีนทะลัก พร้อมจัดระเบียบเตา IF",
-            "summary": "กลุ่ม 10 สมาคมเหล็กไทยยื่นหนังสือเรียกร้องให้บังคับใช้มาตรฐาน มอก. อย่างเข้มงวดเพื่อสกัดเหล็กจีนทุ่มตลาด และเร่งควบคุมมาตรฐานโรงงานเหล็กที่ใช้เตาเหนี่ยวนำไฟฟ้า (IF)",
-            "why": "การปกป้องผู้ผลิตเหล็กในประเทศที่ได้มาตรฐานช่วยรักษาปริมาณงานแปรรูปโครงสร้างโลหะ ซึ่งช่วยพยุงยอดขายหินเจียร ใบเจียร และจานทรายซ้อนของ MK",
-            "action": "มุ่งทำการตลาดผลิตภัณฑ์ใบเจียรและสายพานผ้าทรายสำหรับงานหนักกับกลุ่มโรงงานแปรรูปโลหะและโครงสร้างเหล็กที่ได้รับมาตรฐาน มอก."
-          }
-        },
-        {
-          "id": "20261016-4",
-          "tag": "furniture",
-          "rating": "amber",
-          "source": "posttoday",
-          "date": "2026-02-20",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxXzVZOHRNaDlMYzJBM2F6S1FPc0Vkcy1Sc2JWRnl1VklJY2ZCSEpsOUJ0RG13b0I1cHBpXzBUOUhlSHdpdV9uV1cyZGJHT2pNaF83cw?oc=5",
-          "title": "ASEAN Furniture Sector Expands with Four Major Exporting Nations Leading",
-          "summary": "The ASEAN furniture industry is showing robust expansion, with Thailand, Vietnam, Malaysia, and Indonesia capturing 90% of regional furniture exports through sustainable production.",
-          "why": "Steady wooden furniture production for export drives recurring demand for wood sanding paper, wide sanding belts, and fine-finishing abrasives.",
-          "action": "Promote wide sanding belts and finish-sanding abrasive rolls to leading export-oriented wooden furniture factories.",
-          "th": {
-            "title": "อุตสาหกรรมเฟอร์นิเจอร์อาเซียนขยายตัว โดยมี 4 ชาติหลักครองส่วนแบ่งส่งออก 90%",
-            "summary": "อุตสาหกรรมเฟอร์นิเจอร์ในกลุ่มอาเซียนยังคงเติบโต โดยไทย เวียดนาม มาเลเซีย และอินโดนีเซีย ครองส่วนแบ่งการส่งออกรวมกันถึง 90% โดยเน้นงานผลิตไม้ที่ยั่งยืน",
-            "why": "การผลิตเฟอร์นิเจอร์ไม้เพื่อการส่งออกอย่างต่อเนื่องช่วยสร้างความต้องการใช้กระดาษทรายขัดไม้ สายพานหน้ากว้าง และวัสดุขัดผิวละเอียดอย่างสม่ำเสมอ",
-            "action": "นำเสนอสินค้าสายพานขัดไม้หน้ากว้างและม้วนกระดาษทรายสำหรับงานขัดละเอียดแก่โรงงานผลิตเฟอร์นิเจอร์ไม้ส่งออกชั้นนำ"
           }
         }
       ],
