@@ -2,6 +2,89 @@
 window.NEWS_ARCHIVE = {
   "days": [
     {
+      "date": "2026-10-31",
+      "summary": "Today offers fewer brand-new headlines as recent industry news continues to develop. Key highlights include Toyota securing BOI approval for a 1.49-billion-baht hydrogen pickup line and AirAsia reinforcing plans for local MRO facilities, both offering direct abrasive demand opportunities.",
+      "directCount": 2,
+      "th": {
+        "summary": "วันนี้มีข่าวใหม่ไม่มากนักเนื่องจากประเด็นส่วนใหญ่ได้รับการรายงานไปแล้วในรอบสัปดาห์ ข่าวเด่นคือบอร์ด BOI ไฟเขียวโตโยต้าลงทุน 1.49 พันล้านบาทผลิตปิกอัพไฮโดรเจน และแอร์เอเชียเตรียมรุกศูนย์ซ่อมอากาศยาน MRO ในไทย ซึ่งทั้งสองประเด็นเปิดโอกาสความต้องการใช้วัสดุขัดทางตรง"
+      },
+      "items": [
+        {
+          "id": "20261031-1",
+          "tag": "auto",
+          "rating": "green",
+          "source": "posttoday",
+          "date": "2026-10-19",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oODIyVlR4UTVaTmtNMURSeW12LWdZODhhU0tiZWs1Tk05bU1YVC12TEtWXzZ1Yl9sMW4xRDBrR0duLXV2TWtuM3BNZFBaUWgxV1VZd05B?oc=5",
+          "title": "BOI Approves Toyota's 1.49-Billion-Baht Investment for Hydrogen Pickup Production in Thailand",
+          "summary": "The BOI has approved Toyota's 1.49-billion-baht plan to establish Thailand as a production and global export base for hydrogen-powered pickup trucks. This expansion reinforces high-spec metal chassis fabrication and advanced commercial vehicle manufacturing locally.",
+          "why": "Toyota's assembly expansion stimulates metal cutting, robotic weld seam grinding, and surface finishing demand among key Japanese Tier-1 and Tier-2 suppliers.",
+          "action": "Present high-performance zirconium flap discs and non-woven deburring products directly to Toyota chassis and stamping subcontractors.",
+          "th": {
+            "title": "BOI ไฟเขียว โตโยต้าทุ่ม 1.49 พันล้าน ปักหมุดไทยผลิตปิกอัพไฮโดรเจน บุกตลาดโลก",
+            "summary": "บอร์ด BOI อนุมัติส่งเสริมการลงทุนให้โตโยต้า 1,490 ล้านบาท เพื่อใช้ไทยเป็นฐานการผลิตและส่งออกรถกระบะพลังงานไฮโดรเจนไปทั่วโลก ตอกย้ำความแข็งแกร่งของฐานผลิตยานยนต์โลหะชั้นสูงในประเทศ",
+            "why": "การขึ้นไลน์ผลิตรถกระบะรุ่นใหม่ช่วยกระตุ้นงานเชื่อม เจียรรอยเชื่อม และเตรียมผิวโครงสร้างแชสซีโลหะในกลุ่มซัพพลายเออร์ญี่ปุ่น Tier 1-2 โดยตรง",
+            "action": "เร่งเข้าพบฝ่ายจัดซื้อและวิศวกรรมโรงงานซับคอนแทร็กต์แชสซีของโตโยต้า เพื่อนำเสนอจานทรายเรียงซ้อนและล้อขัดใยสังเคราะห์สำหรับลบครีบรอยเชื่อม"
+          }
+        },
+        {
+          "id": "20261031-2",
+          "tag": "aero",
+          "rating": "green",
+          "source": "Facebook",
+          "date": "2026-09-18",
+          "url": "https://news.google.com/rss/articles/CBMiiAdBVV95cUxQMkhrTnQ5Y3dtWlh3cUtub3MtbWRTNFJsQzA4ZG9sNzR0ZHRtM1QzallzSEFydlBvaFJqSG04Yy1IbnJxel95UU5DY3Z3VUVwRVhrV1ByZTFjcUc4aXNSc1Nwd0ZWSzdrZFNDYmRFWnlHS1h5cmk5QVg5NHhWaGlMVlhYNFUxS19hSDNrN3luZ1BWR1lleGFJV2xiSldyZjdKcjBKa2Jja09uNElYYUM0bXJIZUl0dkQ0aUFXcEJDN1k4ZDZ5UWJ6bjd3cVJDYlRlV05mVC1iZlhWQVc1clhyVzZWUnFnMjZKQzlMcExZX2Q2Vl9mSXVDWVktNzhEWUZBMG9WOHhqclUzX0ppb0N5QnN1clZkR2RKUXJJVGNwUXc0U3JmVlEtQ2xxUWhsQTFuRWtyUHJheUdQNl96cjZnN3BJY1VlR2dtNHJhQU5jYnBtQ0VrdDQ3MExhUGlBQ3lGNFhmaWdXWDdDcjdXZVU4b0lQX3JnSFN1UXMtWjRxMWNZQ09Rb2NTelVQQWx5SWNNRkdBWTBObzBiQ0lFM2U5SzJ0VXpfTWtVa0pfaXVvekh6TlNpU1Zvd2tjWEF1R2htcGEtWnFBVkx2ZDhpaTBmbjVTZklEUWFNcVl3NElnMkI2YTdyd0ZUellYNkU3QnpQLWJYNGFlMko3UXFXYWNhaW1Hejh0NVk5YnB1cVQya3I5MFA3d1pjR04tZ1EydUdXWW9UUjlYUWlIbHJMQ1JDTG85eTBMRFRPY1V5T2JTMC1zWnZlV3JoSU43SXV0UkJsOTVnZGY0LV9CcEtjLTIyd3Fvem1hcV9wVzk1dkNsOGlwNUhDbDdRbXlOTUdaeGlpLU5WVHdnZEtNM2VWVi1UenNCaHk2UjdHSVNKYmRhV0h5ZFVyV0NDc1VmZjRrRUUxcUZJbFNlVmlKWTZpY3p1aDA3X2NSTVA0VTNUS1FNeWUxUFdSRkxmWXdjVDcwN3RBYV9CS0hjQzIyUnJCa0pyTHJiNWg5eXExMkpoSG1YVXF1eWpaQ1ZYdTFEZjVnWHhzcEpmc3pqaFRzNXZzcUNLSFFaX1Z5UVJDWXdWSV8xa0dGblpNVXJ4TmpsUlR6cEpuWW40a2pFdXJXalRqSF9SSml6SkRzcG9NdWU5RGNFMUdsVlh3ZmowemY2TzNKRFp2RGRwRmdDSWc5WFFIRnkzZ0FDVVRQTkxm?oc=5",
+          "title": "AirAsia Affirms Solid Liquidity to Accelerate Aircraft MRO Investments in Thailand",
+          "summary": "AirAsia leadership affirmed strong group liquidity exceeding $1 billion, actively targeting expansion in Thailand's aviation maintenance, repair, and overhaul (MRO) sector. The airline aims to support its growing fleet through localized heavy maintenance operations.",
+          "why": "Expanding commercial MRO hangars in Thailand directly drives steady recurring demand for specialized aerospace-grade surface finishing discs, Scotch-Brite rolls, and fine sanding sheets.",
+          "action": "Accelerate aerospace-grade abrasive product readiness and establish contact with AirAsia Engineering technical procurement teams in Thailand.",
+          "th": {
+            "title": "“โทนี่” ยันแอร์เอเชียสภาพคล่องแกร่ง รุกลงทุน MRO ซ่อมบำรุงอากาศยานในไทย",
+            "summary": "ผู้บริหารระดับสูงแอร์เอเชียเผยมีสภาพคล่องและเงินสดกว่าพันล้านดอลลาร์ พร้อมเดินหน้าแผนลงทุนศูนย์ซ่อมบำรุงอากาศยาน (MRO) ในประเทศไทย เพื่อรองรับการซ่อมใหญ่ฝูงบินในภูมิภาค",
+            "why": "การสร้างศูนย์ซ่อมเครื่องบินในไทยเพิ่มการใช้วัสดุขัดเกรดการบินสำหรับขัดลอกสี เตรียมผิวอลูมิเนียม และขัดเงาชิ้นส่วนอากาศยานอย่างต่อเนื่อง",
+            "action": "เตรียมแคตตาล็อกวัสดุขัดและแผ่นใยขัดมาตรฐานการบิน พร้อมเข้าแนะนำตัวกับทีมจัดซื้อและวิศวกรซ่อมบำรุงของแอร์เอเชีย"
+          }
+        },
+        {
+          "id": "20261031-3",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "เว็บไซต์รัฐบาลไทย",
+          "date": "2026-09-10",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA5bFRUbGJXWjBiUmNESkNibm82SDFOYUN3bmgzNTNXdXAzY1EzNGNYWXBqUlQxRDdwM05CeHhLbk1hQkhQZVRVT0VlaE93QQ?oc=5",
+          "title": "National EV Board Approves Tax Restructuring to Enforce Domestic Parts Sourcing",
+          "summary": "The National EV Policy Committee approved principle adjustments to EV taxation, creating incentives designed to compel automakers to manufacture and source key components within Thailand. The move aims to protect local parts makers during the automotive transition.",
+          "why": "Mandating local components pushes EV manufacturers to utilize domestic stamping, machining, and casting factories, defending our core metal-finishing client base.",
+          "action": "Map domestic Tier-2 stamping and precision machining suppliers winning localized EV contracts to supply specialized grinding and polishing consumables.",
+          "th": {
+            "title": "บอร์ดอีวีเห็นชอบหลักการปรับโครงสร้างภาษี หนุนผลิตและใช้ชิ้นส่วนในประเทศ",
+            "summary": "คณะกรรมการนโยบายยานยนต์ไฟฟ้าแห่งชาติเห็นชอบแนวทางปรับโครงสร้างภาษีรถยนต์ไฟฟ้า เพื่อผลักดันให้ค่ายรถต้องผลิตและใช้ชิ้นส่วนภายในประเทศมากขึ้น หวังรักษาห่วงโซ่การผลิตไทย",
+            "why": "การบังคับใช้ชิ้นส่วนในประเทศช่วยให้โรงงานปั๊มขึ้นรูป กัดกลึง และหล่อโลหะของไทยมีงานผลิตต่อเนื่อง ส่งผลบวกต่อยอดใช้วัสดุขัดแต่งผิวโลหะ",
+            "action": "ติดตามรายชื่อโรงงานชิ้นส่วนไทยที่ได้รับสัญญางานผลิตป้อนค่าย EV เพื่อนำเสนอจานทราย สายพาน และล้อขัดสำหรับงานอะลูมิเนียม"
+          }
+        },
+        {
+          "id": "20261031-4",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "LINE TODAY",
+          "date": "2025-12-28",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MbDY2SkFDN1VRQXdMaUF1Nmhlb3U0dTZLVzlMUkVDTTJlTy1UMFhMWFctVHJzWEhCd1lZUXZzaGpCMnJoNDBFOXRUclB2TXZ1ZkVlbjZB?oc=5",
+          "title": "Ten Steel Associations Urge Restrictions on Finished Steel Imports Amid Chinese Dumping",
+          "summary": "Ten domestic steel associations have warned of deepening crisis from Chinese finished steel dumping and urged the government to enforce strict import restrictions. Massive inflows of low-cost steel continue to threaten local rolling and fabrication mills.",
+          "why": "Dumping pressures cut plant utilization across local steel mills and fabricators, reducing overall consumption of cutting discs and heavy grinding stones.",
+          "action": "Pivot abrasive sales focus toward high-specification industrial steel fabricators and infrastructure project contractors that remain protected from generic dumping.",
+          "th": {
+            "title": "10 สมาคมเหล็กจี้คุมเข้มการนำเข้าเหล็กสำเร็จรูป สู้ภัยสินค้าจีนทุ่มตลาด",
+            "summary": "กลุ่ม 10 สมาคมผู้ผลิตเหล็กไทยร้องรัฐบาลเร่งสกัดการทุ่มตลาดของเหล็กสำเร็จรูปราคาถูกจากจีน ซึ่งกำลังส่งผลกระทบอย่างรุนแรงต่อกำลังการผลิตและโรงงานเหล็กในประเทศ",
+            "why": "หากโรงงานเหล็กและงานโครงสร้างโลหะในประเทศถูกแย่งงาน กำลังการผลิตที่ลดลงจะกระทบต่อยอดใช้ใบเจียรหนาและใบตัดในโรงงานทันที",
+            "action": "มุ่งเน้นการทำตลาดวัสดุขัดกับกลุ่มโรงงานแปรรูปโครงสร้างเหล็กขนาดใหญ่และงานวิศวกรรมเฉพาะทางที่ต้องใช้มาตรฐานสูงแทนโรงงานเหล็กทั่วไป"
+          }
+        }
+      ],
+      "terms": {}
+    },
+    {
       "date": "2026-10-30",
       "summary": "Today has a limited number of fresh breaking headlines, but new plant upgrades by Ford and Changan's supply chain localization present high-potential opportunities for automotive metal finishing abrasives.",
       "directCount": 2,
@@ -1027,5 +1110,5 @@ window.NEWS_ARCHIVE = {
       "terms": {}
     }
   ],
-  "updated": "2026-10-30"
+  "updated": "2026-10-31"
 };
