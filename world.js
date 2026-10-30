@@ -4,28 +4,28 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-30",
-      "summary": "Today's briefing focuses on global manufacturing equipment trends, automotive factory automation for EVs, and the ongoing global steel surplus. These shifts highlight where surface preparation and metal finishing demand will move next.",
+      "summary": "Today's global briefing focuses on advanced coating innovations, evolving EV manufacturing automation, and shifting steel and metal casting dynamics that directly impact surface finishing demand.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปข่าวสารประจำวันนี้เน้นไปที่แนวโน้มเครื่องจักรการผลิตระดับโลก ระบบอัตโนมัติในโรงงานยานยนต์ไฟฟ้า และภาวะล้นตลาดของเหล็กโลก ซึ่งช่วยชี้ให้เห็นทิศทางความต้องการงานเตรียมพื้นผิวและการขัดตกแต่ง"
+        "summary": "สรุปกระแสโลกประจำวันนี้เน้นไปที่นวัตกรรมสารเคลือบขั้นสูง ระบบอัตโนมัติในการผลิต EV ที่เปลี่ยนไป และความเปลี่ยนแปลงในอุตสาหกรรมเหล็กและหล่อโลหะ ซึ่งส่งผลโดยตรงต่อความต้องการขัดผิวโลหะ"
       },
       "items": [
         {
           "id": "20261030-w1",
-          "tag": "auto",
-          "rating": "green",
-          "source": "MarketsandMarkets",
-          "date": "2026-08-19",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUEFHclR5NnZiRmQ3ZWs1QWMycFZkZlZVempvMXlNMGxrUXc1alpac0trZnhoVG5pRnRISVhlYlJmUkpLVHp5T1FFQi04ODdlVmRoMDBYckx4SHVONkVEQVcxNWxfcTRBNS1DTmstS2JyZTh4OVQzbk9lN3dHZkt6cUFqZHVBcmlVbWtkUGJSejJvZVdoc3Z5dTRUM2ZlMUZEdzNsLVM2VGpqdw?oc=5",
-          "title": "China Automotive Manufacturing Equipment Market (2025-2030)",
-          "summary": "Analysis of China's automotive manufacturing equipment sector reveals rapid technological upgrading and equipment investments through 2030.",
-          "why": "Chinese automotive factories consume massive amounts of robotic sanding, deburring, and surface finishing equipment as production lines upgrade.",
-          "action": "Monitor Chinese manufacturing equipment standards and automation tools used in automotive supply chains.",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "European Coatings",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
+          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
+          "summary": "The European coatings industry highlights sustainability, digitalization, and advanced formulation innovations as key drivers for the upcoming decade.",
+          "why": "Surface coatings and abrasive pre-treatment go hand in hand; changes in coating tech influence how metal and wood surfaces must be prepared and sanded.",
+          "action": "Monitor eco-friendly coating shifts that may require novel surface profile standards.",
           "th": {
-            "title": "ตลาดอุปกรณ์การผลิตยานยนต์ของจีน (2025-2030)",
-            "summary": "การวิเคราะห์ภาคอุปกรณ์การผลิตยานยนต์ของจีนเผยให้เห็นการยกระดับทางเทคโนโลยีและการลงทุนด้านเครื่องจักรอย่างรวดเร็วถึงปี 2030",
-            "why": "โรงงานยานยนต์ของจีนมีความต้องการใช้อุปกรณ์ขัด ลบคม และเตรียมพื้นผิวแบบอัตโนมัติจำนวนมากตามการอัปเกรดสายการผลิต",
-            "action": "ติดตามมาตรฐานอุปกรณ์การผลิตของจีนและเครื่องมือ自动化ที่ใช้ในห่วงโซ่อุปทานยานยนต์"
+            "title": "กำหนดอนาคตใหม่แห่งสารเคลือบ: นวัตกรรม ความยั่งยืน และพลังดิจิทัล",
+            "summary": "อุตสาหกรรมสารเคลือบในยุโรปเน้นย้ำความยั่งยืน เทคโนโลยีดิจิทัล และนวัตกรรมสูตรใหม่ว่าเป็นปัจจัยขับเคลื่อนสำคัญในทศวรรษหน้า",
+            "why": "งานเคลือบผิวกับการเตรียมพื้นผิวด้วยกระดาษทรายต้องทำควบคู่กัน การเปลี่ยนแปลงเทคโนโลยีสารเคลือบส่งผลต่อรูปแบบการเตรียมผิวและขัดผิวโลหะหรือไม้",
+            "action": "ติดตามการเปลี่ยนแปลงของสารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อม ซึ่งอาจต้องใช้มาตรฐานการเตรียมผิวหน้าแบบใหม่"
           }
         },
         {
@@ -33,53 +33,71 @@ window.WORLD_ARCHIVE = {
           "tag": "auto",
           "rating": "amber",
           "source": "Automotive Manufacturing Solutions",
-          "date": "2026-09-10",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVjkzSTlDYzItRzJSVXhQSjc1a0ttQ0dIRVYxRDgxaHFiQ0x3c1ZsLTdZQ0RRSk04bmhjdHQ4ZGJrV0lLVk45XzQ5ZzQwN1VwMDNERWNWVEpJNTRVYzZqTFFmcEIyUUZRNG9LOHp6ODIxYm80eEZrcTBOdENvenJqdktfcm5neXlITEZSRXNQclF2ZUpGUXVLTmY3SmhCRUlHdldDVC11QjRnZ3UtYzRlbzAwYS1yaW5oZV8zWmRMY2k?oc=5",
-          "title": "Smart-factory wiring woes: EVs demand automation now, not later",
-          "summary": "Electric vehicle manufacturing is forcing plants to adopt advanced factory automation rapidly due to complex assembly and wiring demands.",
-          "why": "As EV factories automate assembly lines, manual sanding and surface finishing processes are also being automated with robotic grinding heads.",
-          "action": "Keep an eye on robotic integration requirements for coated abrasives and flexible grinding discs.",
+          "date": "2026-09-02",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUUpWSmpHLVowSXdiLUJqcFlpQ3ZfRmdQYjJiTVFCNk00ZW0tM0ZqenQtd2F4emNVNEdzT3Q3amZ3M050YnNuTldQZFQyTlgyX3ByekdEbkdlaURacG5yRlBUSEZucnBQalBmNzVadXVrSDdXcEd0d2t4UXptUzJ5dXZ6ckE1Q3RVV3IyUkY4SFdVSERveVJYem0yM3lNbWFUY1dXWHYyRFZ2cXdldWFqRmJTNE4tQ1RXWWp4N3NCN1h5Vmt3d3hEbkFPc2ZqT0k?oc=5",
+          "title": "A global AI manufacturing transformation at Hyundai Motor Group",
+          "summary": "Hyundai Motor Group is rolling out advanced AI-driven manufacturing technologies globally to streamline vehicle production and automation.",
+          "why": "Automated EV plants require high-precision, robotic-compatible abrasives for consistent deburring and welding seam finishing.",
+          "action": "Keep an eye on robotic-friendly abrasive formats suitable for AI-driven automotive lines.",
           "th": {
-            "title": "ปัญหาการเดินสายไฟในโรงงานอัจฉริยะ: รถยนต์ไฟฟ้าเร่งความต้องการระบบอัตโนมัติทันที",
-            "summary": "การผลิตรถยนต์ไฟฟ้าบังคับให้โรงงานต้องปรับใช้ระบบอัตโนมัติขั้นสูงอย่างรวดเร็ว เนื่องมาจากความซับซ้อนในการประกอบและการเดินสายไฟ",
-            "why": "ในขณะที่โรงงาน EV ทำให้อุปกรณ์การผลิตเป็นอัตโนมัติ กระบวนการขัดและการเตรียมพื้นผิวแบบเดิมก็ถูกเปลี่ยนเป็นหุ่นยนต์ขัดอัตโนมัติเช่นกัน",
-            "action": "ติดตามความต้องการด้านการเชื่อมต่อระบบหุ่นยนต์สำหรับกระดาษทรายและแผ่นขัดยืดหยุ่น"
+            "title": "การเปลี่ยนแปลงการผลิตด้วย AI ระดับโลกที่กลุ่มฮุนไดมอเตอร์",
+            "summary": "กลุ่มฮุนไดมอเตอร์กำลังผลักดันเทคโนโลยีการผลิตที่ขับเคลื่อนด้วย AI ทั่วโลก เพื่อเพิ่มความคล่องตัวในการผลิตยานยนต์และระบบอัตโนมัติ",
+            "why": "โรงงานผลิต EV อัตโนมัติจำเป็นต้องใช้กระดาษทรายและวัสดุขัดที่มีความแม่นยำสูงและใช้งานร่วมกับหุ่นยนต์ได้ เพื่อการลบคมและตกแต่งแนวเชื่อมที่สม่ำเสมอ",
+            "action": "ติดตามรูปแบบผลิตภัณฑ์ขัดที่รองรับระบบหุ่นยนต์สำหรับสายการผลิตรถยนต์ที่ขับเคลื่อนด้วย AI"
           }
         },
         {
           "id": "20261030-w3",
           "tag": "steel",
           "rating": "green",
-          "source": "S&P Global",
-          "date": "2026-01-12",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
-          "title": "Global steel industry battles surplus supply, protectionism",
-          "summary": "The global steel sector continues to face overcapacity issues and rising trade protectionism across major markets.",
-          "why": "Surplus steel production means intense competition among metal fabricators, driving them to optimize costs in surface finishing and deburring.",
-          "action": "Offer cost-effective, high-durability abrasive solutions to metal processors fighting margin compression.",
+          "source": "Progressive Policy Institute",
+          "date": "2026-09-23",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTeHd1akw0WFVaUWFucjdlRWp1cFBVQjRiRi1rWFd2WlNVRkQzanJJMmpMV3BBM0QxVEF5N2FZcmFMSFNxQ3M1VTQ5c1VJYjhJRVRQQVM3M2tac1FFMGdSSlZ4eTdQdzNINFB1MDR0a09haWhpNkFIVV9aWlA?oc=5",
+          "title": "American Industry Is Using Less Steel",
+          "summary": "Recent data shows a decline in overall domestic steel consumption by American manufacturing sectors as material efficiency improves.",
+          "why": "Lower steel volume usage shifts demand toward specialized, higher-value metal treatment and precision finishing rather than bulk surface grinding.",
+          "action": "Focus marketing efforts on high-value specialty abrasives rather than basic high-volume commodity grades.",
           "th": {
-            "title": "อุตสาหกรรมเหล็กโลกเผชิญหน้ากับภาวะล้นตลาดและลัทธิกีดกันทางการค้า",
-            "summary": "ภาคอุตสาหกรรมเหล็กทั่วโลกยังคงเผชิญกับปัญหาการผลิตเกินความต้องการและมาตรการกีดกันทางการค้าที่เพิ่มขึ้นในตลาดหลัก",
-            "why": "การผลิตเหล็กส่วนเกินสร้างการแข่งขันที่รุนแรงในกลุ่มผู้แปรรูปโลหะ ผลักดันให้พวกเขาต้องลดต้นทุนในส่วนของการขัดแต่งและลบคม",
-            "action": "นำเสนอผลิตภัณฑ์กระดาษทรายและใบเจียรที่มีความคุ้มค่าและทนทานสูงเพื่อช่วยลูกค้าลดต้นทุน"
+            "title": "อุตสาหกรรมอเมริกันใช้เหล็กน้อยลง",
+            "summary": "ข้อมูลล่าสุดแสดงให้เห็นว่าการบริโภคเหล็กภายในประเทศโดยรวมของภาคการผลิตอเมริกันลดลง เนื่องจากประสิทธิภาพการใช้วัสดุที่ดีขึ้น",
+            "why": "การใช้ปริมาณเหล็กที่ลดลงทำให้ความต้องการเปลี่ยนไปเน้นการบำบัดโลหะที่มีมูลค่าสูงและการขัดแต่งความแม่นยำสูง แทนที่จะเป็นการขัดผิวปริมาณมากแบบทั่วไป",
+            "action": "มุ่งเน้นความพยายามทางการตลาดไปยังผลิตภัณฑ์ขัดเฉพาะทางที่มีมูลค่าสูง แทนที่จะเป็นสินค้าโภคภัณฑ์ทั่วไปปริมาณมาก"
           }
         },
         {
           "id": "20261030-w4",
           "tag": "steel",
           "rating": "amber",
-          "source": "S&P Global",
-          "date": "2026-01-07",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSDJTcGFGbUFvRm15ZDhrczNqYkRzbHlXMTJZTHJpUF9CTjRHaTNXak4tdVBkbnBWcnNrRDRneXpBd1Z5SUJGSFZWTzJMNWhfcVl5czkzR0lSSjd4aTJzMTg3N2FWM3pHQ2NxbHg2dEp2ckNiNC16cWdJZ0t3anl3TzlUYldVajhqM05JQVEyWWdZYVdaYkEzZUpvUEJGdHAxXzRKdDRnNG1pQl9LaEN6Q0lpbFpPMTBOeElqT3V2NUdUSlJJNjZWOEpiMWc?oc=5",
-          "title": "Europe's steel industry faces its 2026 reckoning with CBAM",
-          "summary": "European steel producers are adapting to strict carbon border adjustment mechanisms (CBAM), impacting production costs and operational footprints.",
-          "why": "Green manufacturing requirements in Europe influence global steel supply chains and the types of finishing chemicals and abrasives required.",
-          "action": "Track European environmental standards for abrasives to ensure future compliance and market readiness.",
+          "source": "World Economic Forum",
+          "date": "2026-04-21",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPc3hudkhpWE9BVTdWSk5BQWV2SWpBNHZxOUFfY2Rxcy0weW4tc2c2UFE1blAwRjVvYzRFcE9TdW1iVTdfYXBSVGk0UER5ZDVFQkZybG51bEY2QmhYemE3anRJbERYRW9KUkZHcHZ2eHZCMTRSMWlYMklYTDNPdzZGYzZZOFQtblNBMktoS2RNSndvX1dDRlZQSlBUT1pVdE1FN0ozOFZibUxlaHFGT1FjNUpZWEEyZGFrMTJUTXhPNA?oc=5",
+          "title": "How the Iran war is disrupting India's steel production amid fuel shortages and rising costs",
+          "summary": "Geopolitical conflicts in the Middle East are causing fuel shortages and rising input costs, directly disrupting steel manufacturing operations in India.",
+          "why": "Input cost inflation in major steel hubs like India affects downstream metal processing margins and purchasing schedules for grinding tools.",
+          "action": "Prepare for potential cost volatility in metal manufacturing supply chains.",
           "th": {
-            "title": "อุตสาหกรรมเหล็กยุโรปเผชิญจุดเปลี่ยนในปี 2026 กับมาตรการ CBAM",
-            "summary": "ผู้ผลิตเหล็กในยุโรปกำลังปรับตัวเข้ากับมาตรการปรับคาร์บอนก่อนข้ามพรมแดน (CBAM) ซึ่งส่งผลกระทบต่อต้นทุนการผลิตและรูปแบบการดำเนินงาน",
-            "why": "ข้อกำหนดการผลิตที่เป็นมิตรต่อสิ่งแวดล้อมในยุโรปส่งผลต่อห่วงโซ่อุปทานเหล็กทั่วโลก รวมถึงสารเคมีและวัสดุขัดที่ต้องใช้ร่วมกัน",
-            "action": "ติดตามมาตรฐานสิ่งแวดล้อมของยุโรปสำหรับผลิตภัณฑ์ขัด เพื่อเตรียมความพร้อมให้สอดคล้องกับข้อกำหนดในอนาคต"
+            "title": "สงครามอิหร่านส่งผลกระทบต่อการผลิตเหล็กของอินเดียท่ามกลางปัญหาขาดแคลนเชื้อเพลิงและต้นทุนที่พุ่งสูง",
+            "summary": "ความขัดแย้งทางภูมิรัฐศาสตร์ในตะวันออกกลางกำลังทำให้เกิดปัญหาขาดแคลนเชื้อเพลิงและต้นทุนการผลิตที่สูงขึ้น ซึ่งกระทบต่อการผลิตเหล็กในอินเดียโดยตรง",
+            "why": "เงินเฟ้อด้านต้นทุนวัตถุดิบในศูนย์กลางเหล็กรายใหญ่อย่างอินเดีย ส่งผลกระทบต่ออัตรากำไรในการแปรรูปโลหะขั้นปลายและกำหนดการจัดซื้ออุปกรณ์ขัด",
+            "action": "เตรียมรับมือกับความผันผวนของต้นทุนในห่วงโซ่อุปทานการผลิตโลหะ"
+          }
+        },
+        {
+          "id": "20261030-w5",
+          "tag": "steel",
+          "rating": "green",
+          "source": "Fortune Business Insights",
+          "date": "2026-10-05",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kYlp3TXBwdU5JVl9Gc0pFd3lJSFpjSUhLeEFGOVZVS19BbHBoTFNGb1BFOC1UNEN4c1o0c2xjdTFZYXhVdGRVb0dIeXZqakt1bTJkQy10SC0wRlh0RVVBZHZaWDFYbDk3cHdUbXBsYnRyYTlFVEE?oc=5",
+          "title": "Metal Casting Market Growth Analysis & Industry Forecast, 2034",
+          "summary": "The global metal casting market continues to grow steadily, driven by industrial machinery, automotive components, and infrastructure demand.",
+          "why": "Metal castings require extensive deburring, gate removal, and surface grinding, representing a major core market for industrial abrasives.",
+          "action": "Target foundry and metal casting workshops with robust heavy-duty grinding discs and belts.",
+          "th": {
+            "title": "การวิเคราะห์การเติบโตของตลาดการหล่อโลหะและการคาดการณ์อุตสาหกรรมถึงปี 2034",
+            "summary": "ตลาดการหล่อโลหะทั่วโลกยังคงเติบโตอย่างต่อเนื่อง ขับเคลื่อนโดยความต้องการเครื่องจักรกล ชิ้นส่วนยานยนต์ และโครงสร้างพื้นฐาน",
+            "why": "งานหล่อโลหะจำเป็นต้องมีการลบคม การตัดแต่งส่วนเกิน และการเจียรผิวอย่างกว้างขวาง ซึ่งถือเป็นตลาดหลักที่สำคัญสำหรับผลิตภัณฑ์กระดาษทรายและใบเจียรในอุตสาหกรรม",
+            "action": "เจาะกลุ่มโรงหล่อและเวิร์กช็อปหล่อโลหะด้วยแผ่นเจียรและสายพานขัดรุนแรงที่มีความทนทานสูง"
           }
         }
       ]
