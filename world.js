@@ -1,7 +1,35 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-10-31",
+  "updated": "2026-11-01",
   "days": [
+    {
+      "date": "2026-11-01",
+      "summary": "Today's briefing focuses on global manufacturing updates, featuring specialized marine surface finishing tech and broader industrial developments.",
+      "directCount": 1,
+      "th": {
+        "summary": "สรุปข่าวสารประจำวันนี้เน้นไปที่การอัปเดตการผลิตระดับโลก รวมถึงเทคโนโลยีการตกแต่งพื้นผิวเรือและพัฒนาการทางอุตสาหกรรมในวงกว้าง"
+      },
+      "items": [
+        {
+          "id": "20261101-w1",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "SuperYacht24",
+          "date": "2026-10-27",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeXV1ZHpCanNaNGhWSEZ1RFRBVFpCZ0FGWFJBUHQ5aXRRUFFGenotVlpTcUF2RzJiRjVTcm9hblBaU2ZhRWhlSU9PbjcxOVFsQUhzMVpRb3pLcWZfVFlLU1IxbW1xNkFsNHVWSWtyX3RIQ09WNW9KUFRFZmFOamthMHR5MjVuSzN0dXBQbjFXVlREM053eHpQOXRkQdIBmwFBVV95cUxPUEJoOFZnZkFFSVZrTVpTd2FweV90aEwtMFZzc0x6LUtZVUtrUkVMOGllTmlZR3FwQzRfX1VwVzRPVDBLVWU1MUdhNWx0a1hXcURqamloNnFqQmpVVmg4MEprbnZTcjByODN0LWwtdDZnYzZKN2N6dEZkLW5MUWMzTUZSR0Jqb0xIVWpydFp4bWUtV2xwUGdzMkszRQ?oc=5",
+          "title": "RUPES brings its Marine line to METSTRADE 2026",
+          "summary": "RUPES showcases its specialized marine surface preparation and polishing tools at METSTRADE 2026, targeting high-end yacht finishing.",
+          "why": "Marine finishing requires specialized, high-durability sanding and polishing solutions to withstand harsh corrosive environments.",
+          "action": "Monitor high-performance marine polishing trends and specialized abrasives used in boat manufacturing.",
+          "th": {
+            "title": "RUPES นำผลิตภัณฑ์กลุ่ม Marine เข้าร่วมงาน METSTRADE 2026",
+            "summary": "RUPES จัดแสดงเครื่องมือเตรียมพื้นผิวและขัดเงาสำหรับเรือยอชท์ระดับไฮ엔ด์ในงาน METSTRADE 2026",
+            "why": "งานตกแต่งพื้นผิวเรือต้องใช้ผลิตภัณฑ์กระดาษทรายและอุปกรณ์ขัดที่มีความทนทานสูงเพื่อทนต่อสภาพแวดล้อมทางทะเลที่กัดกร่อน",
+            "action": "ติดตามแนวโน้มการขัดเงาเรือสมรรถนะสูงและวัสดุกัดกร่อนเฉพาะทางที่ใช้ในการผลิตเรือ"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-10-31",
       "summary": "Today's briefing features 3 selected stories focusing on surface finishing tech, new abrasive manufacturer updates, and global steel trade shifts, highlighting key market drivers for our business.",
@@ -938,70 +966,6 @@ window.WORLD_ARCHIVE = {
             "summary": "วิเคราะห์โมเดลเตาหลอมอาร์กไฟฟ้า (EAF) ของ Nucor ที่แสดงถึงประสิทธิภาพสูงและการจัดการต้นทุนในการผลิตเหล็กในอเมริกาเหนือ",
             "why": "การผลิตเหล็กด้วยเตา EAF และการแปรรูปโครงสร้างโลหะสร้างความต้องการใช้วัสดุขัด งานเจียร และงานลบคมอย่างต่อเนื่อง",
             "action": "ติดตามการขยายตัวของโรงงานเหล็ก EAF ทั่วโลกเพื่อใช้เป็นสัญญาณชี้วัดความต้องการวัสดุสิ้นเปลืองสำหรับงานเจียร"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-10-18",
-      "summary": "Today's global briefings highlight advanced superhard abrasives in China, new flap disc tooling innovations, and high-performance EV manufacturing automation shifts.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปกระแสโลกประจำวันนี้เน้นย้ำเรื่องวัสดุขัดเพชรความแข็งสูงจากจีน นวัตกรรมใบเจียรแบบซ้อนรุ่นใหม่ และการปรับเปลี่ยนระบบอัตโนมัติในการผลิต EV ประสิทธิภาพสูง"
-      },
-      "items": [
-        {
-          "id": "20261018-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "The National Law Review",
-          "date": "2026-10-16",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONzc1UG5lV0E3Z2JCYnd2dFpLZmt2VTRYVEk5cHlBS2FYaDIzNHNJeTNBd3R3dDE0cFF4QlhNZE9ZX3N4enpseURtMGRTMmFHRWNPdmY2NlZ2R1F6b01ma01GXzlTMXlJd3FJdzZsY093dEVCczVVNTNPaU56Z2l0emR3d2hPNDQwT2xDY01CZW5Ib195T3RMR0tQdTY0d1FwdGgxWnB5RGI1aXpwRkNXWnln?oc=5",
-          "title": "Five Reputable Diamond Sanding Belts Manufacturers in China 2026: Optimizing Superhard Abrasive Machining",
-          "summary": "The market highlights top Chinese manufacturers focusing on diamond sanding belts to optimize superhard abrasive machining for heavy industrial parts.",
-          "why": "Superhard abrasives like diamond and CBN represent the high-performance tier of surface finishing, impacting how we source and position premium belts for hard metals.",
-          "action": "Monitor Chinese superhard abrasive manufacturing capabilities and pricing trends for potential high-end product sourcing.",
-          "th": {
-            "title": "5 ผู้ผลิตสายพานขัดเพชรชั้นนำในจีนปี 2026: การเพิ่มประสิทธิภาพงานขัดด้วยวัสดุความแข็งสูงพิเศษ",
-            "summary": "ตลาดให้ความสำคัญกับผู้ผลิตจีนรายใหญ่ที่เน้นสายพานขัดเพชร เพื่อเพิ่มประสิทธิภาพการขึ้นรูปด้วยวัสดุขัดความแข็งสูงสำหรับชิ้นส่วนอุตสาหกรรมหนัก",
-            "why": "วัสดุขัดความแข็งสูงอย่างเพชรและ CBN เป็นกลุ่มผลิตภัณฑ์ขัดผิวที่มีประสิทธิภาพสูง ซึ่งส่งผลต่อวิธีที่เราจัดหาและวางตำแหน่งสายพานเกรดพรีเมียมสำหรับโลหะแข็ง",
-            "action": "ติดตามศักยภาพการผลิตและแนวโน้มราคาวัสดุขัดความแข็งสูงจากจีนสำหรับการจัดหาผลิตภัณฑ์เกรดพรีเมียมในอนาคต"
-          }
-        },
-        {
-          "id": "20261018-w2",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "The Maritime Executive",
-          "date": "2026-09-15",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUzY2QWRmTVpKb2RFOHpPaGdrRjgwSWM0UFNwZUlRSUNqdnpXeVE5dHN1ZmxxVVZ6V1VkR0trVTZkRjgzN3NJbkdLLUdJYUlyOVA0Nkp1d2Joa2l0cnBmY1poVjRUVHhQbThNUEpOMU94RXhRRk1iUnh4T3pnNjFYeV95WGRucTRHSjZpZFo4UXJUb1pkRkJ4VXVYUzNmWkFUYUtacTRWYXRaS2RITk13?oc=5",
-          "title": "Klingspor Abrasives New Flap Disc Family with CMT, SMT & TITAN Solutions",
-          "summary": "Klingspor has launched a new family of flap discs incorporating CMT, SMT, and TITAN technologies to improve stock removal and durability.",
-          "why": "Global competitors are constantly pushing the limits of flap disc design and life span. Knowing what technological solutions they offer helps us benchmark our own product lineup.",
-          "action": "Evaluate our current flap disc offerings against high-durability global standards like CMT/TITAN solutions.",
-          "th": {
-            "title": "Klingspor Abrasives เปิดตัวใบเจียรแบบซ้อนตระกูลใหม่พร้อมโซลูชัน CMT, SMT และ TITAN",
-            "summary": "Klingspor เปิดตัวใบเจียรแบบซ้อนซีรีส์ใหม่ที่ผสานเทคโนโลยี CMT, SMT และ TITAN เพื่อเพิ่มอัตราการกินเนื้องานและความทนทาน",
-            "why": "คู่แข่งระดับโลกกำลังพัฒนาขีดจำกัดของดีไซน์และอายุการใช้งานใบเจียรอย่างต่อเนื่อง การรู้ทันเทคโนโลยีเหล่านี้ช่วยให้เราเปรียบเทียบกับสินค้าของเราเองได้",
-            "action": "ประเมินกลุ่มผลิตภัณฑ์ใบเจียรปัจจุบันของเราเทียบกับมาตรฐานความทนทานระดับโลก เช่น โซลูชัน CMT/TITAN"
-          }
-        },
-        {
-          "id": "20261018-w3",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-09-10",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVjkzSTlDYzItRzJSVXhQSjc1a0ttQ0dIRVYxRDgxaHFiQ0x3c1ZsLTdZQ0RRSk04bmhjdHQ4ZGJrV0lLVk45XzQ5ZzQwN1VwMDNERWNWVEpJNTRVYzZqTFFmcEIyUUZRNG9LOHp6ODIxYm80eEZrcTBOdENvenJqdktfcm5neXlITEZSRXNQclF2ZUpGUXVLTmY3SmhCRUlHdldDVC11QjRnZ3UtYzRlbzAwYS1yaW5oZV8zWmRMY2k?oc=5",
-          "title": "Smart-factory wiring woes: EVs demand automation now, not later",
-          "summary": "EV manufacturers are rapidly accelerating factory automation to resolve complex wiring and assembly challenges.",
-          "why": "As EV production lines become more automated, the demand for robotic deburring, automated surface prep, and precision finishing tools grows.",
-          "action": "Keep an eye on robotic-friendly abrasive applications and automated surface finishing accessories.",
-          "th": {
-            "title": "ปัญหาการเดินสายไฟในโรงงานอัจฉริยะ: รถยนต์ EV ต้องการระบบอัตโนมัติเดี๋ยวนี้ ไม่ใช่รอวันหน้า",
-            "summary": "ผู้ผลิตรถยนต์ EV เร่งนำระบบอัตโนมัติมาใช้ในโรงงานอย่างรวดเร็ว เพื่อแก้ปัญหาความซับซ้อนในการเดินสายไฟและการประกอบ",
-            "why": "เมื่อสายการผลิต EV เป็นอัตโนมัติมากขึ้น ความต้องการเครื่องมือขัดครีบด้วยหุ่นยนต์ การเตรียมพื้นผิวอัตโนมัติ และเครื่องมือตกแต่งผิวที่มีความแม่นยำจึงเพิ่มสูงขึ้น",
-            "action": "ติดตามการใช้งานผลิตภัณฑ์กระดาษทรายและวัสดุขัดที่รองรับระบบหุ่นยนต์และอุปกรณ์ตกแต่งผิวอัตโนมัติ"
           }
         }
       ]
