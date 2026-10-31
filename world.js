@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-31",
-      "summary": "Today's briefing focuses on global manufacturing shifts, including Germany's rising aluminum consumption in EV production, Europe's stringent CBAM steel regulations, and new forecasts for the global abrasives and industrial coatings sectors.",
+      "summary": "Today's briefing features 3 selected stories focusing on surface finishing tech, new abrasive manufacturer updates, and global steel trade shifts, highlighting key market drivers for our business.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปข่าววันนี้เน้นการเปลี่ยนแปลงของภาคการผลิตโลก ได้แก่ การบริโภคอลูมิเนียมที่เพิ่มขึ้นในอุตสาหกรรม EV ของเยอรมนี มาตรการ CBAM สำหรับเหล็กในยุโรป และแนวโน้มตลาดวัสดุขัดและเคลือบผิวอุตสาหกรรม"
+        "summary": "สรุปข้อมูลประจำวันนี้คัดเลือก 3 ข่าวสำคัญที่เน้นเทคโนโลยีการตกแต่งพื้นผิว การอัปเดตผู้ผลิตวัสดุขัด และการเปลี่ยนแปลงการค้าเหล็กระดับโลก ซึ่งขับเคลื่อนตลาดที่เกี่ยวข้องกับธุรกิจของเรา"
       },
       "items": [
         {
           "id": "20261031-w1",
-          "tag": "auto",
+          "tag": "abrasive",
           "rating": "green",
-          "source": "AL Circle",
-          "date": "2026-10-16",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRV8xaTM0dnJ2ckVZV3lpMTJ6cVlZTmxmb0ZWZzgtOWFmRU02MVRJR0pwTHRZWGxCLXBkUWo1eFFjYUdSVEozUW1fU1NrOUxnYlFMRlpTak90NExFN3JsbElFUjRwbUc4OWNsd1cwd1R3VUVJc2J4amY5bm5FSHhqV0k5VjJLaTlXT09aUGVwbHhtaGQtQjIzSTdSMTBKWFFjOFJZbkRua2o4el9HZlFIVEJwTnJJV2VZX255V0hYWl9oeVQ2NjZpN2MwTUhlWHVRNHZIckR0cy1mejhKSzI4RVBvZTdiSnhpeS1tanFkWFo5RWlJR0Jz?oc=5",
-          "title": "Germany’s automotive industry drives 32.8% of aluminium consumption as EV production rises 23%, led by Volkswagen, BMW & Mercedes-Benz",
-          "summary": "Germany's automotive sector accounts for nearly 33% of its aluminum consumption as EV production surges by 23% among major automakers.",
-          "why": "Aluminum components require specialized surface preparation, deburring, and finishing solutions compared to traditional steel, opening demand for tailored abrasive products.",
-          "action": "Review our product lineup for non-ferrous metal sanding and aluminum finishing to support EV component manufacturers.",
+          "source": "The National Law Review",
+          "date": "2026-10-29",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb0Y4bmJoWjBQSGVHMTBCQVJOWVd1VW8zZHZWTGlqeWdiZTlhaEx4T0laRXJ5M1FDVkVxM3V1aXFiVmEtOHpqb3UtVjdpaVVaWmZSYkV6T3A4Q0kzR0FnbUdOdUJWUXpWQ09hVDQtV2Q5Y19lWTFZMldpa2EzLWZDV2N1aTNZRjJnNlhMOTZ6VFc4ZVlUazFsRGZUWlhHZWI4SktzeHlKMmRDX2Z2ZDEtQVNFNA?oc=5",
+          "title": "Top Abrasive Manufacturer: Jiangxi Golden Abrasives Advances Surface Finishing Solutions",
+          "summary": "Jiangxi Golden Abrasives is advancing surface finishing solutions, highlighting ongoing manufacturing developments in the global abrasive paper sector.",
+          "why": "Competitor advancements in abrasive paper manufacturing directly impact global pricing, product quality benchmarks, and sourcing options in our industry.",
+          "action": "Monitor competitor product innovations and quality standards to ensure our MKSanding portfolio remains competitive.",
           "th": {
-            "title": "อุตสาหกรรมยานยนต์เยอรมนีผลักดันการใช้ลูมิเนียมพุ่ง 32.8% ตามการผลิต EV ที่เติบโต 23% นำโดย VW, BMW และ Mercedes-Benz",
-            "summary": "ภาคยานยนต์ของเยอรมนีครองสัดส่วนการใช้อลูมิเนียมเกือบ 33% เนื่องจากการผลิตรถยนต์ไฟฟ้า (EV) ของค่ายรถยนต์รายใหญ่พุ่งสูงขึ้น 23%",
-            "why": "ชิ้นส่วนอลูมิเนียมต้องอาศัยกระบวนการเตรียมผิว การลบคม และการขัดแต่งที่แตกต่างจากเหล็กทั่วไป จึงสร้างโอกาสใหม่ให้กับสินค้ากลุ่มขัดผิวโลหะเบา",
-            "action": "ตรวจสอบกลุ่มผลิตภัณฑ์กระดาษทรายและหินเจียรสำหรับงานอลูมิเนียม เพื่อรองรับความต้องการของตลาดชิ้นส่วน EV"
+            "title": "ผู้ผลิตกระดาษทรายชั้นนำ Jiangxi Golden Abrasives พัฒนาโซลูชันการตกแต่งพื้นผิว",
+            "summary": "Jiangxi Golden Abrasives กำลังพัฒนาโซลูชันการตกแต่งพื้นผิว ซึ่งสะท้อนถึงการพัฒนาด้านการผลิตในภาคกระดาษทรายระดับโลก",
+            "why": "ความก้าวหน้าของผู้ผลิตกระดาษทรายส่งผลโดยตรงต่อราคาระดับโลก เกณฑ์มาตรฐานคุณภาพสินค้า และทางเลือกในการจัดซื้อในอุตสาหกรรมของเรา",
+            "action": "ติดตามนวัตกรรมผลิตภัณฑ์และมาตรฐานคุณภาพของคู่แข่ง เพื่อให้มั่นใจว่าสินค้าในกลุ่ม MKSanding สามารถแข่งขันได้"
           }
         },
         {
           "id": "20261031-w2",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "S&P Global",
-          "date": "2026-01-07",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSDJTcGFGbUFvRm15ZDhrczNqYkRzbHlXMTJZTHJpUF9CTjRHaTNXak4tdVBkbnBWcnNrRDRneXpBd1Z5SUJGSFZWTzJMNWhfcVl5czkzR0lSSjd4aTJzMTg3N2FWM3pHQ2NxbHg2dEp2ckNiNC16cWdJZ0t3anl3TzlUYldVajhqM05JQVEyWWdZYVdaYkEzZUpvUEJGdHAxXzRKdDRnNG1pQl9LaEN6Q0lpbFpPMTBOeElqT3V2NUdUSlJJNjZWOEpiMWc?oc=5",
-          "title": "Europe's steel industry faces its 2026 reckoning with CBAM",
-          "summary": "European steel producers are confronting strict regulatory implementations under the Carbon Border Adjustment Mechanism (CBAM) in 2026.",
-          "why": "Environmental compliance and carbon pricing affect steel production costs, influencing metal processing plants and their equipment investments.",
-          "action": "Monitor how European green steel mandates impact downstream metal fabrication and surface finishing standards.",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "Woodworking Network",
+          "date": "2026-10-28",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPenJGZzhiOUMyeFhrU09yQ3hfR1puSkF4NFhiV19HUUtvbE1POE9iUzZ4T3pZOTdKaVlKSWdZQ1RHSGhVdHJSdmstZWdaUE9wMGVDMEJJckNIRzBHck5UcmZWOFctbUhnQVA5OWRtTmVpVno0MHlsQzRfd0FIWEFTSDJPNW1zS1R6Tk9rV3ZyZE0waVpUQ2U0eFgtY0U?oc=5",
+          "title": "New technology tackles familiar sanding challenges",
+          "summary": "New technological developments are emerging to address traditional sanding and surface preparation pain points in manufacturing applications.",
+          "why": "Wood and metal industries constantly seek solutions for sanding challenges; adopting or offering similar advanced abrasive tech can solve customer problems.",
+          "action": "Look into new anti-clogging or long-life sanding technologies to propose better solutions to our B2B clients.",
           "th": {
-            "title": "อุตสาหกรรมเหล็กยุโรปเผชิญบททดสอบสำคัญในปี 2026 จากมาตรการ CBAM",
-            "summary": "ผู้ผลิตเหล็กในยุโรปต้องเผชิญกับข้อบังคับที่เข้มงวดภายใต้กลไกการปรับคาร์บอนก่อนข้ามพรมแดน (CBAM) ในปี 2026",
-            "why": "กฎระเบียบด้านสิ่งแวดล้อมและต้นทุนคาร์บอนส่งผลต่อต้นทุนการผลิตเหล็ก ซึ่งกระทบต่อการลงทุนในโรงงานแปรรูปโลหะ",
-            "action": "ติดตามผลกระทบของมาตรการเหล็กเขียวในยุโรปที่มีต่ออุตสาหกรรมแปรรูปโลหะและมาตรฐานการขัดแต่งผิวปลายทาง"
+            "title": "เทคโนโลยีใหม่แก้ปัญหาการขัดกระดาษทรายแบบเดิมๆ",
+            "summary": "มีการพัฒนาเทคโนโลยีใหม่ๆ เพื่อแก้ไขปัญหาอุปสรรคเดิมๆ ในการขัดและเตรียมพื้นผิวในภาคการผลิต",
+            "why": "อุตสาหกรรมไม้และโลหะมักมองหาโซลูชันสำหรับปัญหาการขัด การนำเสนอเทคโนโลยีวัสดุขัดที่ก้าวหน้าจะช่วยแก้ปัญหาให้ลูกค้าได้ดีขึ้น",
+            "action": "ศึกษาเทคโนโลยีการขัดใหม่ๆ เช่น ชนิดลดการอุดตันหรือใช้งานได้ยาวนาน เพื่อเสนอทางเลือกที่ดีกว่าให้กับลูกค้า B2B"
           }
         },
         {
           "id": "20261031-w3",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "EIN News",
-          "date": "2026-10-19",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM2VsRTlqVWR6dlpoUXpZQ04wNnJsRUNBbndKSnNQODIyUXdnTTlIT0hZMC10bGhEUUk0clZ5ZWZRN0I2eVhiVHVPVmRYd05xWUdJdDJldTBsTkZEUVNBNG5qaE9WeXdDN2dSVzJ2TzNsVFhBNVMzakhwZFR6Z0dQeFFVS0ZPa0dmWmh1dHhiYXVXWWRrbk9XS251Ul9SVS1SZ3NON0VXRWxfOWtzazlNcXhUMVBnU2liODhqaXF6OEdGb2NEYkRoaG9uNmx6MlNjMUd2N3Q0emZnUXltZk1wbg?oc=5",
-          "title": "Abrasives Market to Reach $72.2 Billion by 2030, Growing at a 7.6% CAGR Driven by Precision Finishing Demand",
-          "summary": "The global abrasives market is projected to hit $72.2 billion by 2030, expanding at a 7.6% CAGR driven by a strong need for precision finishing.",
-          "why": "This growth confirms strong structural demand for surface treatment products globally, validating our B2B focus on quality industrial abrasives.",
-          "action": "Keep expanding our portfolio in high-precision and specialty finishing segments to capture high-margin market growth.",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "Reuters",
+          "date": "2026-04-02",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSzdNYWRYM3hzTlpYRzJnQTBxYXBwbXlJdUthcER3X0pHWFBiTW5FQjVoS3lmWWZia19tZ2V0TzJ1SG5sZEdvejlMTnBDX0R1eUNpdHhma1ZtdlJWWFpJcWR1aTFsNUdETUo1UDZfR0R6RHpjX2pMOVRXNkJ3SHdIdG1xdWlnYktSWDZ1VDJvR1htTmlnczgyZlRONjBzQkhXY0tzSndnTUNXLTN4VEoxNA?oc=5",
+          "title": "Trump cuts US duty rates on steel, aluminum and copper derivative products",
+          "summary": "Changes in US duty rates for steel and aluminum derivative products are shifting international trade dynamics and metal manufacturing costs.",
+          "why": "Global metal trade policies influence the profitability and production volume of downstream metal fabrication, which consumes industrial abrasives.",
+          "action": "Keep an eye on metal manufacturing activity in export markets to anticipate fluctuations in regional abrasive demand.",
           "th": {
-            "title": "ตลาดวัสดุขัดถูทั่วโลกคาดว่าจะแตะ 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 เติบโต 7.6% หนุนโดยความต้องการขัดแต่งผิวแบบแม่นยำสูง",
-            "summary": "ตลาดวัสดุขัดทั่วโลกมีแนวโน้มเติบโตถึง 72,200 ล้านดอลลาร์ภายในปี 2030 ด้วยอัตราการเติบโตเฉลี่ย 7.6% จากความต้องการงานขัดผิวที่แม่นยำ",
-            "why": "การเติบโตนี้ยืนยันถึงความต้องการผลิตภัณฑ์เตรียมพื้นผิวในระดับสากล สนับสนุนทิศทางธุรกิจ B2B ของเราในการมุ่งเน้นวัสดุขัดอุตสาหกรรมคุณภาพสูง",
-            "action": "เดินหน้าขยายกลุ่มผลิตภัณฑ์งานขัดความแม่นยำสูงและงานเฉพาะทาง เพื่อคว้าโอกาสจากตลาดที่มีอัตรากำไรดี"
+            "title": "ทรัมป์ปรับลดอัตราภาษีศุลกากรของสหรัฐฯ สำหรับผลิตภัณฑ์แปรรูปเหล็ก อลูมิเนียม และทองแดง",
+            "summary": "การเปลี่ยนแปลงอัตราภาษีของสหรัฐฯ สำหรับผลิตภัณฑ์เหล็กและอลูมิเนียมส่งผลต่อพลวัตการค้าระหว่างประเทศและต้นทุนการผลิตโลหะ",
+            "why": "นโยบายการค้าโลหะทั่วโลกส่งผลต่อความสามารถในการทำกำไรและปริมาณการผลิตของอุตสาหกรรมแปรรูปโลหะปลายน้ำ ซึ่งเป็นผู้ใช้กระดาษทรายอุตสาหกรรม",
+            "action": "จับตากิจกรรมการผลิตโลหะในตลาดส่งออกเพื่อคาดการณ์ความผันผวนของความต้องการใช้วัสดุขัดในภูมิภาค"
           }
         }
       ]
