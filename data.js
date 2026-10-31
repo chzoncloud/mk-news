@@ -3,82 +3,100 @@ window.NEWS_ARCHIVE = {
   "days": [
     {
       "date": "2026-10-31",
-      "summary": "Today has limited new developments as several stories overlap with recent coverage. The standout update is the official 10-billion-baht contract signing between EEC and Thai Airways for the U-Tapao MRO hub, unlocking high-value aerospace abrasive opportunities, while auto supplier associations ramp up pressure to retain Japanese manufacturing lines.",
-      "directCount": 1,
+      "summary": "Fresh news volume is modest today. AirAsia's aggressive push into Thailand's MRO sector opens direct potential for aerospace abrasives, while domestic automotive parts suppliers face persistent volume headwinds from vehicle imports and elevated household debt.",
+      "directCount": 2,
       "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มากนักเนื่องจากหลายประเด็นซ้ำกับช่วงที่ผ่านมา ข่าวเด่นที่สุดคือการลงนามสัญญาเป็นทางการมูลค่า 1 หมื่นล้านบาทระหว่าง EEC กับการบินไทยเพื่อสร้างศูนย์ MRO อู่ตะเภา ซึ่งเปิดโอกาสตลาดวัสดุขัดเกรดการบิน ขณะที่สมาคมชิ้นส่วนยานยนต์เร่งผลักดันรัฐบาลให้ช่วยรักษาฐานโรงงานญี่ปุ่นในไทย"
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก ไฮไลต์สำคัญคือการที่แอร์เอเชียเตรียมรุกลงทุนศูนย์ซ่อมบำรุงอากาศยาน (MRO) ในไทย ซึ่งเป็นโอกาสตรงของตลาดวัสดุขัดเกรดการบิน ขณะที่กลุ่มชิ้นส่วนยานยนต์ในประเทศยังเผชิญแรงกดดันต่อเนื่องจากยอดนำเข้า EV และปัญหาหนี้ครัวเรือน"
       },
       "items": [
         {
           "id": "20261031-1",
           "tag": "aero",
           "rating": "green",
-          "source": "ผู้จัดการออนไลน์",
-          "date": "2026-10-06",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIazdnNjc2TVdpRWNOSTNQS2tlaWFWdl9KbE5OaEdlLWlZX0RaWERWWjhJV1l0MjdTejNaSHVhOEMwSThnWmtFaUJMWVAydHIxVkFKTktiQ0pXb09KVVRLWg?oc=5",
-          "title": "EEC and Thai Airways Formally Sign 10-Billion-Baht Deal for U-Tapao Aviation MRO Hub",
-          "summary": "EEC and Thai Airways signed an official investment contract for a 10-billion-baht MRO facility at U-Tapao, scheduled to break ground in 2027 and open in 2030 with projected annual revenues of 4-6 billion baht.",
-          "why": "This formalized mega-project establishes concrete, long-term procurement demand for certified aviation abrasives used in aircraft surface stripping, maintenance, and metal finishing.",
-          "action": "Engage technical and procurement departments of Thai Airways to begin vendor pre-qualification and product certification for aerospace-grade abrasives.",
+          "source": "Facebook",
+          "date": "2026-09-18",
+          "url": "https://news.google.com/rss/articles/CBMiiAdBVV95cUxQMkhrTnQ5Y3dtWlh3cUtub3MtbWRTNFJsQzA4ZG9sNzR0ZHRtM1QzallzSEFydlBvaFJqSG04Yy1IbnJxel95UU5DY3Z3VUVwRVhrV1ByZTFjcUc4aXNSc1Nwd0ZWSzdrZFNDYmRFWnlHS1h5cmk5QVg5NHhWaGlMVlhYNFUxS19hSDNrN3luZ1BWR1lleGFJV2xiSldyZjdKcjBKa2Jja09uNElYYUM0bXJIZUl0dkQ0aUFXcEJDN1k4ZDZ5UWJ6bjd3cVJDYlRlV05mVC1iZlhWQVc1clhyVzZWUnFnMjZKQzlMcExZX2Q2Vl9mSXVDWVktNzhEWUZBMG9WOHhqclUzX0ppb0N5QnN1clZkR2RKUXJJVGNwUXc0U3JmVlEtQ2xxUWhsQTFuRWtyUHJheUdQNl96cjZnN3BJY1VlR2dtNHJhQU5jYnBtQ0VrdDQ3MExhUGlBQ3lGNFhmaWdXWDdDcjdXZVU4b0lQX3JnSFN1UXMtWjRxMWNZQ09Rb2NTelVQQWx5SWNNRkdBWTBObzBiQ0lFM2U5SzJ0VXpfTWtVa0pfaXVvekh6TlNpU1Zvd2tjWEF1R2htcGEtWnFBVkx2ZDhpaTBmbjVTZklEUWFNcVl3NElnMkI2YTdyd0ZUellYNkU3QnpQLWJYNGFlMko3UXFXYWNhaW1Hejh0NVk5YnB1cVQya3I5MFA3d1pjR04tZ1EydUdXWW9UUjlYUWlIbHJMQ1JDTG85eTBMRFRPY1V5T2JTMC1zWnZlV3JoSU43SXV0UkJsOTVnZGY0LV9CcEtjLTIyd3Fvem1hcV9wVzk1dkNsOGlwNUhDbDdRbXlOTUdaeGlpLU5WVHdnZEtNM2VWVi1UenNCaHk2UjdHSVNKYmRhV0h5ZFVyV0NDc1VmZjRrRUUxcUZJbFNlVmlKWTZpY3p1aDA3X2NSTVA0VTNUS1FNeWUxUFdSRkxmWXdjVDcwN3RBYV9CS0hjQzIyUnJCa0pyTHJiNWg5eXExMkpoSG1YVXF1eWpaQ1ZYdTFEZjVnWHhzcEpmc3pqaFRzNXZzcUNLSFFaX1Z5UVJDWXdWSV8xa0dGblpNVXJ4TmpsUlR6cEpuWW40a2pFdXJXalRqSF9SSml6SkRzcG9NdWU5RGNFMUdsVlh3ZmowemY2TzNKRFp2RGRwRmdDSWc5WFFIRnkzZ0FDVVRQTkxm?oc=5",
+          "title": "AirAsia Affirms Strong Liquidity to Aggressively Invest in Thai MRO Hub",
+          "summary": "Capital A CEO Tony Fernandes announced strong liquidity exceeding one billion dollars and confirmed aggressive plans to expand aircraft maintenance (MRO) facilities in Thailand.",
+          "why": "Expanding airline maintenance bases directly generates high-value demand for aerospace-grade abrasives, surface conditioning pads, and deburring tools.",
+          "action": "Map upcoming AirAsia engineering facilities and initiate outreach to procurement teams for aviation surface finishing materials.",
           "th": {
-            "title": "เซ็นสัญญาเป็นทางการ! EEC จับมือ การบินไทย ทุ่มหมื่นล้านปั้น MRO อู่ตะเภา",
-            "summary": "EEC และการบินไทยลงนามสัญญาทางการร่วมทุนศูนย์ซ่อมบำรุงอากาศยาน (MRO) อู่ตะเภา มูลค่า 1 หมื่นล้านบาท มีกำหนดตอกเข็มปี 2570 เปิดบริการปี 2573 คาดสร้างรายได้ปีละ 4-6 พันล้านบาท",
-            "why": "การลงนามสัญญาเป็นรูปธรรมจะสร้างความต้องการใช้วัสดุขัดเกรดการบินสำหรับการลอกสี เตรียมผิว และขัดแต่งโลหะในกระบวนการซ่อมบำรุงอากาศยานอย่างต่อเนื่อง",
-            "action": "เร่งติดต่อฝ่ายช่างการบินไทยและทีมจัดซื้อโครงการ MRO เพื่อขอข้อมูลมาตรฐานสินค้าและเตรียมขึ้นทะเบียนผู้ค้าวัสดุขัดเกรดการบิน"
+            "title": "แอร์เอเชียยันสภาพคล่องแกร่ง พร้อมเดินหน้ารุกลงทุนศูนย์ซ่อมบำรุง MRO ในไทย",
+            "summary": "ซีอีโอ แคปปิตอล เอ โทนี่ เฟอร์นันเดส ยืนยันกลุ่มมีสภาพคล่องสูงด้วยเงินสดกว่าพันล้านดอลลาร์ พร้อมเดินหน้าลงทุนศูนย์ซ่อมอากาศยาน (MRO) ในประเทศไทย",
+            "why": "การขยายศูนย์ซ่อมบำรุงอากาศยานเป็นโอกาสตรงในการขายวัสดุขัดเกรดการบิน จานขัดเตรียมผิว และเครื่องมือลบครีบชิ้นงานความแม่นยำสูง",
+            "action": "เจาะกลุ่มวิศวกรรมและจัดซื้อของฝ่ายซ่อมบำรุงแอร์เอเชีย เพื่อนำเสนอโซลูชันวัสดุขัดมาตรฐานการบิน"
           }
         },
         {
           "id": "20261031-2",
           "tag": "auto",
-          "rating": "amber",
-          "source": "Matichon Online",
-          "date": "2026-08-29",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6UWlkVWd4aE45T3h4d0cybm1KZm1TWnBrdFpKLUViaVR6cGlZTHlta1NSc3pJOGtMOFFuOUdrMUJQelFXM05WdGdaUEZ0dlo0NHN1M2g2ZXdEb3c?oc=5",
-          "title": "Auto Parts Association Urges State Talks with Japanese Automakers to Protect Thai Base",
-          "summary": "The Thai Auto-Parts Manufacturers Association supported government negotiations with Japanese OEMs, urging excise tax adjustments to help offset production costs and prevent factory relocations.",
-          "why": "Japanese Tier 1 and 2 metal stamping and machining suppliers are MK's primary B2B clients; their factory operational stability directly dictates our abrasive consumption volumes.",
-          "action": "Coordinate with key Japanese auto parts accounts to propose tailored cost-reduction and process-optimization abrasive trials to secure existing contracts.",
+          "rating": "green",
+          "source": "เว็บไซต์รัฐบาลไทย",
+          "date": "2026-07-02",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zOHo0X01meExtendzNTNja1RMTUxKa2dWM0hFZ1JrRzJ4dmJPLWhSdHVwb19IU01fVTRVOWtaX2lkMVJUSlRPb3FCNVg5UQ?oc=5",
+          "title": "BOI Reports EV Investments Exceed 130 Billion Baht Across Vehicle Technologies",
+          "summary": "Thailand's BOI revealed that approved EV project investments have surpassed 130 billion baht, driving Thailand's strategy as a multi-technology vehicle manufacturing hub.",
+          "why": "New vehicle assembly and battery casing lines create fresh requirements for specialized weld grinding, edge deburring, and aluminum surface finishing abrasives.",
+          "action": "Approach tooling contractors and new EV Tier-1 component makers to secure initial production line abrasive specifications.",
           "th": {
-            "title": "สมาคมชิ้นส่วนยานยนต์หนุนรัฐถกค่ายรถญี่ปุ่น รั้งฐานผลิตในไทย พร้อมชงแก้ภาษีสรรพสามิต",
-            "summary": "สมาคมผู้ผลิตชิ้นส่วนยานยนต์ไทยหนุนรัฐบาลเจรจาค่ายรถยนต์ญี่ปุ่นเพื่อรักษาฐานการผลิตเดิม พร้อมเสนอปรับโครงสร้างภาษีสรรพสามิตช่วยลดต้นทุนโรงงานชิ้นส่วน",
-            "why": "โรงงานปั๊มและกลึงชิ้นส่วนโลหะของค่ายญี่ปุ่นคือกลุ่มลูกค้าหลักของ MK หากฐานการผลิตกลุ่มนี้หดตัว ยอดใช้วัสดุขัดอุตสาหกรรมจะลดลงตามทันที",
-            "action": "จัดทีมเทคนิคเข้าพบโรงงานชิ้นส่วนยานยนต์ญี่ปุ่นที่เป็นคู่ค้าหลักเพื่อนำเสนอแพ็กเกจวัสดุขัดช่วยลดต้นทุนและยกระดับอายุการใช้งาน"
+            "title": "บีโอไอเผยยอดลงทุน EV ทะลุ 1.3 แสนล้าน มุ่งสู่ฐานผลิตยานยนต์ไฟฟ้าครบทุกเทคโนโลยี",
+            "summary": "บีโอไอเผยยอดอนุมัติลงทุนกลุ่มยานยนต์ไฟฟ้าทะลุ 1.3 แสนล้านบาท ผลักดันไทยเป็นฐานการผลิตยานยนต์สมัยใหม่ครอบคลุมทุกเทคโนโลยี",
+            "why": "โรงงานประกอบและผลิตชิ้นส่วน/กล่องแบตเตอรี่ใหม่ต้องการวัสดุขัดรอยเชื่อม ลบคมอะลูมิเนียม และขัดผิวตัวถังอย่างต่อเนื่อง",
+            "action": "เข้าพบผู้รับเหมาติดตั้งสายการผลิตและซัพพลายเออร์ชิ้นส่วน EV เพื่อนำเสนอวัสดุขัดเข้ากระบวนการผลิตตั้งแต่เริ่มต้น"
           }
         },
         {
           "id": "20261031-3",
           "tag": "auto",
           "rating": "amber",
-          "source": "Thai PBS",
-          "date": "2026-09-09",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjbHhzc2hNZzE2ajcyN0dtNHQzeDd1Mzh6dk1pWmVnbXd3SVA1dWN1QW4wUHdJSkxDb21fWHVJWDEzWVA0aHhwYjRtbWZKSUdHd1JwY2lZc3U?oc=5",
-          "title": "FTI Highlights Automotive Crossroads: Protect Traditional Base While Scaling EV Supply Chain",
-          "summary": "The Federation of Thai Industries warned of a critical turning point for the automotive industry, urging government action to maintain ICE and pickup manufacturing strength while bridging into local EV parts production.",
-          "why": "Internal combustion and pickup assembly utilize significantly more metal grinding and deburring steps than pure EVs; retaining traditional lines sustains heavy abrasive volume.",
-          "action": "Track OEM factory production schedules between ICE pickups and new EV lines to calibrate inventory between heavy grinding belts and fine finishing discs.",
+          "source": "Thansettakij",
+          "date": "2026-08-14",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EYVc4ZnhkX0VKd1hRU3N1REVNM09QYk9fR0RQV2xwbDFHaW52ZnlVQ3R2b3NJMlpIMzhZMU9ZZC1CRFhjYThhRnNhd05ZU1QySzAzbXp5aGxKaHhJRXFOR3MwZjUxOUQweHVlQg?oc=5",
+          "title": "Multinational Automakers Warn Household Debt Pressures Thai Auto Parts Production",
+          "summary": "Automotive manufacturers warned that severe domestic household debt is suppressing vehicle purchasing power, directly affecting production runs and part investment plans.",
+          "why": "Slowdowns in factory production directly curb the replacement rate and consumption of industrial sanding belts, cutting discs, and flap wheels.",
+          "action": "Offer cost-down consumable auditing for Tier-1/2 Japanese clients to preserve supplier relationships during sluggish output periods.",
           "th": {
-            "title": "ส.อ.ท. ชี้จุดเปลี่ยนยานยนต์ไทย เร่งรักษาฐานผลิตเดิมควบคู่ต่อยอด EV",
-            "summary": "สภาอุตสาหกรรมแห่งประเทศไทยเตือนอุตสาหกรรมยานยนต์ถึงจุดเปลี่ยนสำคัญ แนะรัฐเร่งรักษาฐานผลิตเครื่องยนต์สันดาปและปิกอัพเดิมไว้ พร้อมผลักดันการผลิตชิ้นส่วน EV ในประเทศ",
-            "why": "การผลิตรถกระบะและเครื่องยนต์สันดาปใช้ขั้นตอนเจียร ขัดแต่ง และลบครีบโลหะสูงกว่า EV มาก การคงฐานเดิมจึงช่วยรักษายอดสั่งซื้อจานขัดและสายพานขัดหลัก",
-            "action": "ติดตามแผนกำลังการผลิตของโรงงานประกอบรถยนต์ระหว่างสายปิกอัพและ EV เพื่อปรับสต็อกวัสดุขัดงานหยาบและงานละเอียดให้สอดคล้องกัน"
+            "title": "ทุนข้ามชาติเตือนหนี้ครัวเรือนฉุดตลาดรถ กระทบแผนผลิตและลงทุนชิ้นส่วนในไทย",
+            "summary": "ค่ายรถยนต์เตือนปัญหาหนี้ครัวเรือนฉุดกำลังซื้อรถยนต์ในประเทศ ส่งผลกระทบต่อแผนการผลิตและการลงทุนผลิตชิ้นส่วนยานยนต์",
+            "why": "เมื่อโรงงานชิ้นส่วนลดกำลังการผลิต ปริมาณการใช้วัสดุขัดสิ้นเปลือง เช่น สายพานขัดและใบเจียร จะหดตัวตาม",
+            "action": "จัดโปรแกรมตรวจสอบช่วยลดต้นทุนวัสดุสิ้นเปลืองให้โรงงาน Tier-1/2 สัญชาติญี่ปุ่นเพื่อรักษาฐานยอดสั่งซื้อเดิมไว้"
           }
         },
         {
           "id": "20261031-4",
           "tag": "auto",
           "rating": "amber",
-          "source": "TNN",
-          "date": "2026-10-21",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ibmpiM1dkTGVBNUdxUDFEZWphV1Z2aWY3RWd4QVgydzJMNEU5N1l6MUFDTmE2ODFQSDl4OFdScmM0T3lhNGg2TVA1NnE3cDYzdHlFNWZ0eXVNLTZvS3kwVHpZcw?oc=5",
-          "title": "Thailand and Vietnam Compete Directly for Regional Automotive Hub Dominance",
-          "summary": "An analytical review highlights intensified rivalry between Thailand and Vietnam, contrasting Thailand's mature supply chain against Vietnam's lower labor costs and aggressive manufacturing incentives.",
-          "why": "If international OEMs transfer component machining or body stamping lines to Vietnam, domestic metal preparation and abrasive demand in Thailand will face structural shrinkage.",
-          "action": "Assess risk exposure among tier suppliers who also hold operations in Vietnam to prepare regional supply arrangements or offset domestic drop-offs.",
+          "source": "Facebook",
+          "date": "2026-08-25",
+          "url": "https://news.google.com/rss/articles/CBMigAdBVV95cUxQMDRPUDcxV0JMRVZydFpTcjlXV210T2xsWS1hbjl0blhYVWxTdEotMHJtMHVnZFAwWVlKQVQ5VW1hQWxZOUhBSHNuWjAyNlduWHp4R2F4MlBnMmZBSXJWWG1QT2VnYVNhTzRKMXc1TzFhbWxBRWtoNWQwcUtBS0tBM2JYZml3aGUzS0VBR3FScHZWU1dpRGdqaXJ5YjRmZ2NMdDcxU2otYmdqYmhNcDNXT3FrRmNSSG1LZFUyNU1XZlJKc0tJc3htZnNERFFXX3VjQWl1bGVlc3FuZGVjX2UweFZMTGhaREF1amhrVWo0NElVTEN1OW1TQk0xVHczbXJpakVlOGc1SERHd3V3TVZvNHZJU3lzSVhvNEU1U19pMTBYZjFVejh4NnpQV1FQVjZlU2hQSGlPR3VwTjl5YlRYb04tcFNuUUlMd25QLWxyb1V4T3VDNWV3WW94YW92XzZXYjFiTW9DVnVhVk5LbENlVllDWHU4ejdwNl93aDZNTTZBNVIxc3ZjYlU1U2o3YlUxUnZYQ3RzWTBJUmw0UFRmYW96X29aM1NFcEdFMzVPNGdYcEdzYUpPSFBzN2s4ZU1lNFhyV2plNDZPZkR2LURKaEdvQkVMOFZQYzZuU0ZRUlZqQUZXM25qdE91WXVONWZGOW8xQkNmN3kxSE1sRzU5OWhqYmFpLTBHMW42akYyRmpKaWtqU3VvTWRIcGFPdElTaHBKLVhJNnF6NnVqZ28yUEFGMjMwVm42MkZrWmhtc3E4dDgwZE8tbEdMMndEc2tGNXFoRnk3eWRsRk1RYlMteEFqUkQ0TVFlRHkwblJfQVhlc3NEWXY3OWQwU2hYRUpSaHFiT3ZXOTgwZ0VaMjRQSkNyeTlULUR3R0RobTFuX3FJSmRXY3d4T2VMT0RJNnd1cTVJY0E3TE5COVhBQnM3MW1BMEhrekRTWS1UWDhzMGhPQldPdmRBYUJSODlHelE0ZG1kNEJ5clI3MC1BNWpKSFdCWE9uOTNCQkFWSE00UTdqbjFabHk2aEFsNW5vV2cxX0hacVRoR1hoVjRzUzd0OExjWkx3azh0VUJKQ0hOelJyV0wtV29PMDktUHN4UVgxREpMazVTZ2UtNjg3Y0lURnktYmEwdThvRU14ZTRaY2xzdkUwTWo5YTFEU1lmXzU5dVA3LVJqMkxYNEZGeFdIdw?oc=5",
+          "title": "FTI Sounds Alarm as Imported EVs Jump 62%, Threatening Local Assembly Lines",
+          "summary": "The Federation of Thai Industries raised concerns over a 62% surge in imported EV units, warning that local manufacturing and pickup truck assembly plants are being undermined.",
+          "why": "Imported finished vehicles eliminate local stamping and metal fabrication operations, bypassing domestic tier-supply chains and abrasives consumption.",
+          "action": "Accelerate sales diversification into vehicle repair aftermarket and DIY channels via Shopee/TikTok to mitigate OEM factory dips.",
           "th": {
-            "title": "ใครจะชนะ? ไทย-เวียดนาม ท้าชิงตำแหน่งศูนย์กลางการผลิตยานยนต์ระดับภูมิภาค",
-            "summary": "รายงานวิเคราะห์การแข่งขันระหว่างไทยกับเวียดนาม โดยชี้ว่าไทยมีจุดแข็งด้านห่วงโซ่อุปทานที่ครบวงจร ขณะที่เวียดนามดึงดูดด้วยต้นทุนแรงงานและสิทธิประโยชน์การลงทุน",
-            "why": "หากค่ายรถยนต์โยกย้ายฐานการปั๊มขึ้นรูปหรือตัดเฉือนชิ้นส่วนไปยังเวียดนาม จะส่งผลกระทบต่อปริมาณการใช้วัสดุขัดแต่งผิวโลหะในโรงงานไทย",
-            "action": "ประเมินความเสี่ยงของลูกค้าระดับ Tier 1 ที่มีโรงงานทั้งในไทยและเวียดนาม เพื่อเตรียมแผนรองรับการส่งออกหรือชดเชยยอดขายที่อาจชะลอตัว"
+            "title": "ส.อ.ท. ชี้รถนำเข้าทะลัก 62% หวั่นกระทบฐานการผลิตยานยนต์และรถกระบะในประเทศ",
+            "summary": "ส.อ.ท. แสดงความกังวลหลังยอดรถนำเข้าพุ่งสูงถึง 62% ชี้กระทบสายการผลิตยานยนต์และการประกอบรถกระบะในประเทศอย่างมีนัยสำคัญ",
+            "why": "การนำเข้ารถยนต์สำเร็จรูปทำให้ไม่มีการปั๊มขึ้นรูปและขัดชิ้นงานโลหะในไทย ส่งผลให้โรงงานผลิตชิ้นส่วนลดการใช้วัสดุขัด",
+            "action": "เร่งผลักดันยอดขายตลาดอู่ซ่อมสีตัวถังและช่องทางออนไลน์ B2C (Shopee/TikTok) เพื่อชดเชยการชะลอตัวของกลุ่ม OEM"
+          }
+        },
+        {
+          "id": "20261031-5",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "LINE TODAY",
+          "date": "2025-12-28",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MbDY2SkFDN1VRQXdMaUF1Nmhlb3U0dTZLVzlMUkVDTTJlTy1UMFhMWFctVHJzWEhCd1lZUXZzaGpCMnJoNDBFOXRUclB2TXZ1ZkVlbjZB?oc=5",
+          "title": "Thai Steel Associations Confront Dumping Crisis and Demand Import Controls",
+          "summary": "Domestic steel associations called on the government to halt imported finished steel dumping from China, which has depressed local steel mill capacity utilization.",
+          "why": "Depressed operational run rates across domestic metal and steel mills mean lower purchase orders for heavy-duty grinding wheels and cutoff discs.",
+          "action": "Pivot sales focus toward specialized stainless and high-precision metal fabricators who maintain resilience against low-grade steel dumping.",
+          "th": {
+            "title": "สมาคมเหล็กไทยรับมือวิกฤตเหล็กจีนทุ่มตลาด จี้รัฐคุมนำเข้าเหล็กสำเร็จรูป",
+            "summary": "กลุ่มสมาคมเหล็กเรียกร้องให้รัฐบาลควบคุมการทุ่มตลาดเหล็กสำเร็จรูปจากจีน หลังฉุดอัตราการใช้กำลังการผลิตของโรงงานไทยตกต่ำ",
+            "why": "เมื่อโรงงานแปรรูปเหล็กในประเทศลดกำลังการผลิตลง ยอดสั่งซื้อใบเจียรหนาและใบตัดโลหะหนักจะลดลงตามไปด้วย",
+            "action": "ปรับโฟกัสทีมขายไปที่กลุ่มผู้แปรรูปสเตนเลสและงานโลหะความแม่นยำสูง ซึ่งได้รับผลกระทบน้อยกว่าเหล็กโครงสร้างทั่วไป"
           }
         }
       ],
