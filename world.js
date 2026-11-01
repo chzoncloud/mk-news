@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-11-01",
-      "summary": "Today's briefing highlights the global outlook for the abrasives market, rising steel surpluses and trade pressures, and McKinsey's global materials perspectives.",
+      "summary": "Today's briefing focuses on automation driving coater and surface finishing growth, China's auto industry consolidation, and steel industry supply chain dynamics.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปข่าววันนี้เน้นย้ำภาพรวมตลาดวัสดุขัดถูทั่วโลก ภาวะล้นตลาดเหล็กและแรงกดดันด้านการค้า รวมถึงมุมมองวัสดุโลกจาก McKinsey"
+        "summary": "สรุปข่าววันนี้เน้นเรื่องระบบอัตโนมัติที่ขับเคลื่อนการเติบโตของงานขัดและเคลือบผิว การควบรวมกิจการในอุตสาหกรรมรถยนต์จีน และพลวัตห่วงโซ่อุปทานอุตสาหกรรมเหล็ก"
       },
       "items": [
         {
           "id": "20261101-w1",
           "tag": "abrasive",
           "rating": "green",
-          "source": "EIN News",
-          "date": "2026-10-19",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM2VsRTlqVWR6dlpoUXpZQ04wNnJsRUNBbndKSnNQODIyUXdnTTlIT0hZMC10bGhEUUk0clZ5ZWZRN0I2eVhiVHVPVmRYd05xWUdJdDJldTBsTkZEUVNBNG5qaE9WeXdDN2dSVzJ2TzNsVFhBNVMzakhwZFR6Z0dQeFFVS0ZPa0dmWmh1dHhiYXVXWWRrbk9XS251Ul9SVS1SZ3NON0VXRWxfOWtzazlNcXhUMVBnU2liODhqaXF6OEdGb2NEYkRoaG9uNmx6MlNjMUd2N3Q0emZnUXltZk1wbg?oc=5",
-          "title": "Abrasives Market to Reach $72.2 Billion by 2030, Growing at a 7.6% CAGR Driven by Precision Finishing Demand",
-          "summary": "The global abrasives market is projected to reach $72.2 billion by 2030, growing at a 7.6% CAGR driven heavily by the rising demand for high-precision finishing.",
-          "why": "Confirms steady long-term global growth and expanding opportunities in precision surface treatment.",
-          "action": "Align our product lineup and sales focus toward high-precision finishing and demanding industrial applications.",
+          "source": "IndexBox",
+          "date": "2026-11-01",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZG1Tb3Bhc05IRGVXMmQ4dHFjZXUtYzhrYTJrXzVPcURwMlA3Z3ZvOTB5NThxTkxndVY3eGtkVmNYWm1mR21NQzhnRnpSZ0hCUTdLc0FNTDA2Y1NKSTlkMkwtbUtjMDd4c2tDd0w5bHNMT2JYVXNmX28zSnM3ejVmaDlQbzgtc1ZjVkxRY3VhaTlodFRDanpTbXdlaXloeTJZODY1Qmo0d2pTSkZxenVSTUJET2xRaGlMSlJPcG5UdG5RUTQ?oc=5",
+          "title": "Coated Abrasives Market To 2035: Automation and Metalworking Fuel Expansion",
+          "summary": "The coated abrasives market is expanding through 2035, significantly driven by increasing industrial automation and metalworking demands.",
+          "why": "Automation in metalworking requires consistent, high-durability coated abrasives capable of robotic integration.",
+          "action": "Prepare to source and recommend automated-friendly abrasive belts and discs for robotic finishing lines.",
           "th": {
-            "title": "ตลาดวัสดุขัดถูคาดแตะ 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 โต 7.6% หนุนโดยความต้องการงานขัดผิวความแม่นยำสูง",
-            "summary": "ตลาดวัสดุขัดถูทั่วโลกคาดว่าจะเติบโตถึง 72.2 พันล้านดอลลาร์ภายในปี 2030 ด้วยอัตราการเติบโตเฉลี่ย 7.6% ขับเคลื่อนโดยความต้องการงานตกแต่งผิวความละเอียดสูง",
-            "why": "ยืนยันการเติบโตระยะยาวและโอกาสที่ขยายตัวในกลุ่มงานเตรียมผิวความแม่นยำสูง",
-            "action": "ปรับกลุ่มสินค้าและเป้าหมายการขายให้เน้นงานขัดผิวความแม่นยำสูงและงานอุตสาหกรรมที่ต้องการคุณภาพ"
+            "title": "ตลาดกระดาษทรายและวัสดุขัดเคลือบถึงปี 2035: ระบบอัตโนมัติและงานโลหะหนุนการขยายตัว",
+            "summary": "ตลาดวัสดุขัดเคลือบกำลังขยายตัวจนถึงปี 2035 โดยได้รับแรงหนุนสำคัญจากความต้องการระบบอัตโนมัติในอุตสาหกรรมและงานโลหะ",
+            "why": "ระบบอัตโนมัติในงานโลหะต้องการวัสดุขัดที่มีความทนทานสม่ำเสมอและรองรับการทำงานกับหุ่นยนต์ได้",
+            "action": "เตรียมจัดหาและแนะนำสายพานและแผ่นขัดที่เหมาะกับระบบอัตโนมัติและหุ่นยนต์ขัดผิว"
           }
         },
         {
           "id": "20261101-w2",
-          "tag": "steel",
-          "rating": "green",
-          "source": "S&P Global",
-          "date": "2026-01-12",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
-          "title": "Global steel industry battles surplus supply, protectionism",
-          "summary": "The global steel sector is currently facing severe surplus supply issues alongside rising trade protectionism measures worldwide.",
-          "why": "Metal surplus shifts local manufacturing costs and purchasing power among steel fabricators, directly impacting grinding consumable usage.",
-          "action": "Monitor steel plant capacity utilization rates as a leading indicator for abrasive consumption in metal fabrication.",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-10-28",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMExMd0h3VTZZUGVhTmVoNENZT0RDYkZhOFlTUzZUd3RmT0RNRGJKVjlQVTBmRnkwa21iZEl6ZlNJYmIzVTJjQzU1eGhrcTFPOHhNQWRlSWVWaDlwR2FIVGZmSWJlQk00ZmNRUE5oc1owOGtPSzM2QzNCY0R4YXJNdjdwWExHVzNDM1JXSGRpMnNTdHQ1QXdnWlk2MFlFc21GRXd5QjVVYVItalFMN2hjZmZqZi1nd2I5aVBhYlRhbTQ?oc=5",
+          "title": "China's car industry consolidation begins: who will survive?",
+          "summary": "China's automotive sector is undergoing a major shakeout and consolidation phase, altering manufacturing footprints and supply chains.",
+          "why": "Shifts in automotive manufacturing hubs directly affect regional demand for Tier-1/Tier-2 metal finishing and body shop supplies.",
+          "action": "Monitor automotive supply chain shifts to anticipate changing regional demand for metal surface prep products.",
           "th": {
-            "title": "อุตสาหกรรมเหล็กโลกเผชิญปัญหาส่วนเกินการผลิตและมาตรการกีดกันทางการค้า",
-            "summary": "ภาคอุตสาหกรรมเหล็กทั่วโลกกำลังเผชิญกับปัญหาอุปทานส่วนเกินอย่างรุนแรง ควบคู่ไปกับมาตรการปกป้องทางการค้าที่เพิ่มขึ้นทั่วโลก",
-            "why": "ภาวะเหล็กส่วนเกินส่งผลต่อต้นทุนการผลิตและกำลังซื้อของกลุ่มแปรรูปเหล็ก ซึ่งกระทบโดยตรงต่อการใช้หินเจียรและกระดาษทราย",
-            "action": "ติดตามอัตราการใช้กำลังผลิตของโรงงานเหล็กเพื่อใช้เป็นดัชนีชี้วัดความต้องการใช้วัสดุขัดถูในกลุ่มอุตสาหกรรมโลหะ"
+            "title": "เริ่มต้นการควบรวมอุตสาหกรรมรถยนต์ของจีน: ใครจะอยู่รอด?",
+            "summary": "ภาคยานยนต์ของจีนกำลังเข้าสู่ช่วงการปรับโครงสร้างและการควบรวมครั้งใหญ่ ซึ่งส่งผลต่อฐานการผลิตและห่วงโซ่อุปทาน",
+            "why": "การเปลี่ยนแปลงของฐานการผลิตยานยนต์ส่งผลโดยตรงต่อความต้องการใช้วัสดุเตรียมผิวโลหะและชิ้นส่วนในระดับภูมิภาค",
+            "action": "ติดตามการเปลี่ยนแปลงของห่วงโซ่อุปทานยานยนต์เพื่อคาดการณ์ความต้องการผลิตภัณฑ์เตรียมพื้นผิวโลหะที่อาจย้ายถิ่นฐาน"
           }
         },
         {
           "id": "20261101-w3",
           "tag": "steel",
           "rating": "amber",
-          "source": "McKinsey & Company",
-          "date": "2026-10-13",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdnNVdDFMS2JxSVFHY2loZDFNZ19DZW5kWGVTclltOHBvbGdGdnFPaWdvZG1SVFg2OFdMcWhXbzY5a211NjdTV1BTeUU4ZzFIOEVGNmluS3M2X3FIY2sweW0yWVFBenpNYjlmWk45R2k1Rkgyd05td1F2X2I4N0RMX0FXX3pYeWVJSUVVSVdybGF4SGdnVDM2ZnQtaUEyNGs?oc=5",
-          "title": "Global Materials Perspective 2026",
-          "summary": "McKinsey's 2026 report outlines evolving material demands, supply chain shifts, and sustainability transformations across global industrial sectors.",
-          "why": "Helps us anticipate macro material shifts and adapt our B2B abrasive offerings to changing industrial processing needs.",
-          "action": "Review industrial material trends to ensure our abrasive solutions match future lightweight and alloy demands.",
+          "source": "Shanghai Metals Market",
+          "date": "2026-05-19",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMmw1akRRMFZCQ2I5NGhHdE1NOXhoaE1GY0h5UmxlQVNUVGxHTko2U0NBQ0o0Q19ZYmZ1VnBCTTB6a2JJQTFNOUpDSUtpWXdaR3hkeGhlOXF4dF9yUElCd1ZkWTl4MmZGOWhVeUlXc2VCMXFCOHQzZ0ZGZ1RtZ3p6aUNObEczWFhKMkdKQ3JuRWF5SjVNZmpOQVBaSGs4TWJKS1lVa0VTdmoxdDBQTF8zRDlxME1qeEtOUzJzSTBERURobWltWTlVUlpaZ3d2WlFRNEY1b0UwbVVfLXc0cXBZ?oc=5",
+          "title": "Nucor: 100% EAF, High Profits, and Vertical Integration Mitigating Costs",
+          "summary": "Electric Arc Furnace (EAF) steel production continues to gain structural advantages through vertical integration and cost control.",
+          "why": "EAF steel scrap processing and structural fabrication create specific local deburring, grinding, and surface defect removal needs.",
+          "action": "Keep an eye on EAF steel mill expansions as potential industrial accounts for heavy-duty grinding products.",
           "th": {
-            "title": "มุมมองวัสดุโลกปี 2026 โดย McKinsey",
-            "summary": "รายงานของ McKinsey ปี 2026 ฉายภาพความต้องการวัสดุที่เปลี่ยนไป การปรับเปลี่ยนห่วงโซ่อุปทาน และการเปลี่ยนผ่านสู่ความยั่งยืนในภาคอุตสาหกรรม",
-            "why": "ช่วยให้เราคาดการณ์การเปลี่ยนแปลงของวัสดุในระดับมหภาคและปรับสินค้าวัสดุขัดถูให้สอดคล้องกับความต้องการแปรรูปใหม่ๆ",
-            "action": "ทบทวนแนวโน้มวัสดุอุตสาหกรรมเพื่อให้มั่นใจว่าสินค้าวัสดุขัดถูตอบโจทย์โลหะผสมและวัสดุน้ำหนักเบาในอนาคต"
+            "title": "Nucor: ใช้เตาอาร์ไฟฟ้า 100%, กำไรสูง และการบูรณาการในแนวดิ่งเพื่อลดต้นทุน",
+            "summary": "การผลิตเหล็กด้วยเตาอาร์คไฟฟ้า (EAF) ยังคงได้เปรียบเชิงโครงสร้างผ่านการบูรณาการทางธุรกิจและการควบคุมต้นทุน",
+            "why": "กระบวนการรีไซเคิลเศษเหล็กและการขึ้นรูปโครงสร้างด้วยเตา EAF สร้างความต้องการเฉพาะด้านในการลบเสี้ยน การเจียร และการกำจัดตำหนิผิว",
+            "action": "จับตาดูการขยายตัวของโรงงานเหล็ก EAF เพื่อมองหาโอกาสเป็นลูกค้าอุตสาหกรรมสำหรับสินค้ากลุ่มงานเจียรหนัก"
           }
         }
       ]
