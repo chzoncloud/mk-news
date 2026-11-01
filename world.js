@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-11-01",
+  "updated": "2026-11-02",
   "days": [
+    {
+      "date": "2026-11-02",
+      "summary": "Today's global briefing highlights ongoing structural changes in the steel industry, including European CBAM implementation and excess supply challenges, alongside long-term market forecasts for global abrasives and automotive OEM coatings.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปกระแสโลกประจำวันนี้เน้นการเปลี่ยนแปลงโครงสร้างในอุตสาหกรรมเหล็ก เช่น การบังคับใช้มาตรการ CBAM ในยุโรปและความท้าทายเรื่องอุปทานส่วนเกิน ควบคู่ไปกับคาดการณ์ตลาดวัสดุขัดกระดาษทรายและสีเคลือบยานยนต์ในระยะยาว"
+      },
+      "items": [
+        {
+          "id": "20261102-w1",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "S&P Global",
+          "date": "2026-01-07",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSDJTcGFGbUFvRm15ZDhrczNqYkRzbHlXMTJZTHJpUF9CTjRHaTNXak4tdVBkbnBWcnNrRDRneXpBd1Z5SUJGSFZWTzJMNWhfcVl5czkzR0lSSjd4aTJzMTg3N2FWM3pHQ2NxbHg2dEp2ckNiNC16cWdJZ0t3anl3TzlUYldVajhqM05JQVEyWWdZYVdaYkEzZUpvUEJGdHAxXzRKdDRnNG1pQl9LaEN6Q0lpbFpPMTBOeElqT3V2NUdUSlJJNjZWOEpiMWc?oc=5",
+          "title": "Europe's steel industry faces its 2026 reckoning with CBAM",
+          "summary": "Europe's steel sector is dealing with regulatory pressures from the Carbon Border Adjustment Mechanism (CBAM), impacting production costs and trade flows.",
+          "why": "Stricter environmental regulations on European steel force local manufacturers to optimize efficiency, which can influence surface finishing and grinding specifications.",
+          "action": "Monitor how European steel compliance affects export requirements and processing standards for metal components.",
+          "th": {
+            "title": "อุตสาหกรรมเหล็กยุโรปเผชิญบททดสอบปี 2026 ด้วยมาตรการ CBAM",
+            "summary": "ภาคอุตสาหกรรมเหล็กของยุโรปกำลังเผชิญแรงกดดันด้านกฎระเบียบจากมาตรการปรับคาร์บอนก่อนข้ามพรมแดน (CBAM) ซึ่งส่งผลต่อต้นทุนการผลิตและทิศทางการค้า",
+            "why": "กฎระเบียบด้านสิ่งแวดล้อมที่เข้มงวดขึ้นต่อเหล็กยุโรป บังคับให้ผู้ผลิตต้องเพิ่มประสิทธิภาพสูงสุด ซึ่งอาจส่งผลต่อข้อกำหนดในการเตรียมพื้นผิวและการขัดแต่ง",
+            "action": "ติดตามว่าการปฏิบัติตามกฎระเบียบเหล็กของยุโรปส่งผลอย่างไรต่อข้อกำหนดการส่งออกและมาตรฐานการแปรรูปชิ้นส่วนโลหะ"
+          }
+        },
+        {
+          "id": "20261102-w2",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "EIN News",
+          "date": "2026-10-19",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM2VsRTlqVWR6dlpoUXpZQ04wNnJsRUNBbndKSnNQODIyUXdnTTlIT0hZMC10bGhEUUk0clZ5ZWZRN0I2eVhiVHVPVmRYd05xWUdJdDJldTBsTkZEUVNBNG5qaE9WeXdDN2dSVzJ2TzNsVFhBNVMzakhwZFR6Z0dQeFFVS0ZPa0dmWmh1dHhiYXVXWWRrbk9XS251Ul9SVS1SZ3NON0VXRWxfOWtzazlNcXhUMVBnU2liODhqaXF6OEdGb2NEYkRoaG9uNmx6MlNjMUd2N3Q0emZnUXltZk1wbg?oc=5",
+          "title": "Abrasives Market to Reach $72.2 Billion by 2030, Growing at a 7.6% CAGR Driven by Precision Finishing Demand",
+          "summary": "The global abrasives market is projected for steady expansion, fueled by rising demand for high-precision finishing across manufacturing sectors.",
+          "why": "Direct market intelligence showing robust long-term demand for grinding, polishing, and surface prep products globally.",
+          "action": "Align our product catalog with high-precision finishing trends to capture higher-margin industrial segments.",
+          "th": {
+            "title": "ตลาดวัสดุขัดถูพุ่งแตะ 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 เติบโต 7.6% จากความต้องการตกแต่งผิวความแม่นยำสูง",
+            "summary": "ตลาดวัสดุขัดทั่วโลกคาดว่าจะขยายตัวอย่างต่อเนื่อง ขับเคลื่อนโดยความต้องการการตกแต่งผิวที่มีความแม่นยำสูงในภาคการผลิต",
+            "why": "เป็นข้อมูลเชิงลึกที่แสดงถึงความต้องการในระยะยาวสำหรับผลิตภัณฑ์เจียร ขัดเงา และเตรียมพื้นผิวทั่วโลก",
+            "action": "ปรับปรุงแคตตาล็อกสินค้าให้สอดคล้องกับแนวโน้มการตกแต่งผิวความแม่นยำสูงเพื่อเจาะกลุ่มอุตสาหกรรมที่มีอัตรากำไรดี"
+          }
+        },
+        {
+          "id": "20261102-w3",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "Fortune Business Insights",
+          "date": "2026-10-05",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXjJqQjFOYjlqblItNTRWSXd3cElrdnJSOXQ3RVlQOA?oc=5",
+          "title": "Automotive OEM Coatings Market Size, Industry Report, 2034",
+          "summary": "The automotive OEM coatings market report outlines long-term valuation and technology shifts through 2034, highlighting surface treatment needs for new vehicles.",
+          "why": "Automotive manufacturing and painting require extensive surface preparation, sanding, and finishing before and after coating applications.",
+          "action": "Monitor auto OEM paint shop trends to anticipate surface preparation and sanding requirements for next-generation vehicle bodies.",
+          "th": {
+            "title": "รายงานขนาดอุตสาหกรรมและแนวโน้มตลาดสีเคลือบ OEM ยานยนต์ถึงปี 2034",
+            "summary": "รายงานตลาดสีเคลือบ OEM สำหรับยานยนต์ระบุถึงมูลค่าระยะยาวและการเปลี่ยนแปลงทางเทคโนโลยีจนถึงปี 2034 พร้อมเน้นย้ำความต้องการการเตรียมพื้นผิวสำหรับรถยนต์ใหม่",
+            "why": "กระบวนการผลิตและการพ่นสีรถยนต์ต้องอาศัยการเตรียมพื้นผิว การขัดกระดาษทราย และการตกแต่งอย่างละเอียดทั้งก่อนและหลังการพ่นสี",
+            "action": "ติดตามแนวโน้มห้องพ่นสีของค่ายรถยนต์เพื่อคาดการณ์ความต้องการเตรียมพื้นผิวและงานขัดสำหรับตัวถังรถยนต์รุ่นใหม่"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-11-01",
       "summary": "Today's briefing focuses on automation driving coater and surface finishing growth, China's auto industry consolidation, and steel industry supply chain dynamics.",
@@ -938,70 +1002,6 @@ window.WORLD_ARCHIVE = {
             "summary": "การปรับนโยบายการค้าล่าสุดได้เปลี่ยนแปลงอัตราอากรโลหะ ส่งผลให้เกิดความผันผวนและปรับเปลี่ยนทิศทางราคารวมถึงแหล่งที่มาของโลหะและเหล็กทั่วโลก",
             "why": "ความผันผวนของราคาโลหะและห่วงโซ่อุปทานระดับภูมิภาคมีผลโดยตรงต่อต้นทุนการผลิตและระดับความต้องการของลูกค้าในกลุ่มอุตสาหกรรมหนักและแปรรูปเหล็ก",
             "action": "จับตาความผันผวนของต้นทุนตลาดโลหะเพื่อคาดการณ์ปริมาณการผลิตในภูมิภาคและรูปแบบการซื้อวัสดุขัด"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-10-19",
-      "summary": "Today's briefing focuses on global manufacturing dynamics, superhard abrasive optimization, and regional coatings shifts impacting metal and surface prep demand.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปทรนด์โลกประจำวัน เน้นพลวัตการผลิตระดับโลก การเพิ่มประสิทธิภาพสารขัดถูแข็งพิเศษ (superhard abrasives) และการเปลี่ยนแปลงของตลาดสีเคลือบที่มีผลต่ออุตสาหกรรมโลหะและการเตรียมพื้นผิว"
-      },
-      "items": [
-        {
-          "id": "20261019-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "The National Law Review",
-          "date": "2026-10-16",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONzc1UG5lV0E3Z2JCYnd2dFpLZmt2VTRYVEk5cHlBS2FYaDIzNHNJeTNBd3R3dDE0cFF4QlhNZE9ZX3N4enpseURtMGRTMmFHRWNPdmY2NlZ2R1F6b01ma01GXzlTMXlJd3FJdzZsY093dEVCczVVNTNPaU56Z2l0emR3d2hPNDQwT2xDY01CZW5Ib195T3RMR0tQdTY0d1FwdGgxWnB5RGI1aXpwRkNXWnln?oc=5",
-          "title": "Five Reputable Diamond Sanding Belts Manufacturers in China 2026: Optimizing Superhard Abrasive Machining",
-          "summary": "A focus on top Chinese manufacturers highlights ongoing advancements in diamond sanding belts for precision machining.",
-          "why": "Superhard abrasives like diamond belts directly compete with and redefine high-end metal finishing and grinding applications.",
-          "action": "Monitor Chinese superhard abrasive manufacturing standards to stay competitive in precision metal applications.",
-          "th": {
-            "title": "5 ผู้ผลิตสายพานขัดเพชรชั้นนำในจีนปี 2026: การเพิ่มประสิทธิภาพการตัดเฉือนด้วยสารขัดถูความแข็งสูง",
-            "summary": "รายงานผู้ผลิตชั้นนำของจีนที่เน้นความก้าวหน้าของสายพานขัดเพชรสำหรับการตัดเฉือนความแม่นยำสูง",
-            "why": "สารขัดถูความแข็งสูง เช่น สายพานเพชร แข่งขันและกำหนดมาตรฐานใหม่ในงานขัดตกแต่งโลหะระดับพรีเมียม",
-            "action": "ติดตามมาตรฐานการผลิตสารขัดถูความแข็งสูงจากจีนเพื่อรักษาความสามารถในการแข่งขันในงานโลหะที่มีความแม่นยำ"
-          }
-        },
-        {
-          "id": "20261019-w2",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "European Coatings",
-          "date": "2026-09-09",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
-          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
-          "summary": "Industry leaders discuss how innovation, eco-friendly formulations, and digital technologies are shaping the future of industrial coatings.",
-          "why": "Changes in industrial coatings often require adjustments in surface preparation, sanding profiles, and pre-coating roughness.",
-          "action": "Keep an eye on sustainable coating trends that might alter surface prep requirements for metal and wood.",
-          "th": {
-            "title": "กำหนดอนาคตใหม่แห่งวงการสีเคลือบ: นวัตกรรม ความยั่งยืน และพลังแห่งดิจิทัล",
-            "summary": "ผู้นำอุตสาหกรรมหารือถึงวิธีที่นวัตกรรม สูตรที่เป็นมิตรต่อสิ่งแวดล้อม และเทคโนโลยีดิจิทัล กำหนดอนาคตของสีเคลือบอุตสาหกรรม",
-            "why": "การเปลี่ยนแปลงในสีเคลือบอุตสาหกรรมมักจะต้องมีการปรับเปลี่ยนกระบวนการเตรียมพื้นผิว การขัด และค่าความหยาบก่อนพ่นเคลือบ",
-            "action": "ติดตามแนวโน้มสีเคลือบที่ยั่งยืนซึ่งอาจเปลี่ยนข้อกำหนดการเตรียมพื้นผิวสำหรับโลหะและไม้"
-          }
-        },
-        {
-          "id": "20261019-w3",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "Shanghai Metals Market",
-          "date": "2026-05-19",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMmw1akRRMFZCQ2I5NGhHdE1NOXhoaE1GY0h5UmxlQVNUVGxHTko2U0NBQ0o0Q19ZYmZ1VnBCTTB6a2JJQTFNOUpDSUtpWXdaR3hkeGhlOXF4dF9yUElCd1ZkWTl4MmZGOWhVeUlXc2VCMXFCOHQzZ0ZGZ1RtZ3p6aUNObEczWFhKMkdKQ3JuRWF5SjVNZmpOQVBaSGs4TWJKS1lVa0VTdmoxdDBQTF8zRDlxME1qeEtOUzJzSTBERURobWltWTlVUlpaZ3d2WlFRNEY1b0UwbVVfLXc0cXBZ?oc=5",
-          "title": "[SMM Global Steel Company Special] Nucor: 100% EAF, High Profits, and Vertical Integration Mitigating Costs",
-          "summary": "Analysis of Nucor's electric arc furnace (EAF) model shows high efficiency and cost-mitigation strategies in North American steel production.",
-          "why": "EAF steel production and structural metal fabrication drive steady demand for heavy-duty grinding, deburring, and cutting abrasives.",
-          "action": "Track EAF steel mill expansions globally as a key indicator for industrial grinding consumable demand.",
-          "th": {
-            "title": "[พิเศษจาก SMM Global Steel] Nucor: เตาหลอม EAF 100%, กำไรสูง และการรวมกิจการแบบครบวงจรช่วยลดต้นทุน",
-            "summary": "วิเคราะห์โมเดลเตาหลอมอาร์กไฟฟ้า (EAF) ของ Nucor ที่แสดงถึงประสิทธิภาพสูงและการจัดการต้นทุนในการผลิตเหล็กในอเมริกาเหนือ",
-            "why": "การผลิตเหล็กด้วยเตา EAF และการแปรรูปโครงสร้างโลหะสร้างความต้องการใช้วัสดุขัด งานเจียร และงานลบคมอย่างต่อเนื่อง",
-            "action": "ติดตามการขยายตัวของโรงงานเหล็ก EAF ทั่วโลกเพื่อใช้เป็นสัญญาณชี้วัดความต้องการวัสดุสิ้นเปลืองสำหรับงานเจียร"
           }
         }
       ]
