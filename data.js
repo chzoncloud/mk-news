@@ -2,6 +2,71 @@
 window.NEWS_ARCHIVE = {
   "days": [
     {
+      "date": "2026-11-02",
+      "summary": "Today has limited fresh news across industrial sectors. The standout updates highlight Japanese automakers expanding investments in Thailand to counter EV import competition, reinforced by government tax restructuring to preserve local assembly operations.",
+      "directCount": 1,
+      "th": {
+        "summary": "วันนี้มีข่าวใหม่ไม่มากนักในภาคการผลิตอุตสาหกรรม ประเด็นสำคัญอยู่ที่ค่ายรถยนต์ญี่ปุ่นเตรียมขยายการลงทุนในไทยเพื่อรับมือการแข่งขันจากรถยนต์ไฟฟ้านำเข้า ควบคู่ไปกับมาตรการปรับโครงสร้างภาษีของภาครัฐเพื่อรักษาฐานการผลิตและการจ้างงานในประเทศ"
+      },
+      "items": [
+        {
+          "id": "20261102-1",
+          "tag": "auto",
+          "rating": "green",
+          "source": "Thansettakij",
+          "date": "2026-08-20",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwSXlOVHFzZUx5TkFGcUdDa0R3R0xpeTM2TW16ZWZVdDIwc3pxTm1tdEM0dm5KSkhVM0tRaXpGQm5JdmdBcFk5N1Z6SFpUaV9tdmx6aWRlbVBpRjA?oc=5",
+          "title": "Japanese Automakers Expand Thai Investments to Counter Influx of Imported EVs",
+          "summary": "Major Japanese car manufacturers are expanding their investments in Thailand to upgrade assembly lines while petitioning the government to curb EV imports and enforce local production requirements.",
+          "why": "Japanese automotive plants and their Tier-1 stamping suppliers form MK's core customer base for grinding discs and sanding belts, ensuring sustained production volumes.",
+          "action": "Approach procurement and plant engineers at Japanese Tier-1 sheet metal stamping plants to introduce cost-efficient grinding and deburring solutions.",
+          "th": {
+            "title": "ค่ายญี่ปุ่นขยายลงทุนไทย รับมือรถ EV จีน พร้อมจี้รัฐคุมโควต้านำเข้า",
+            "summary": "ค่ายรถยนต์ญี่ปุ่นเตรียมขยายการลงทุนในไทยเพื่อปรับปรุงไลน์การผลิต พร้อมเรียกร้องภาครัฐให้ปรับขึ้นภาษีและจำกัดโควต้านำเข้ารถ EV เพื่อปกป้องฐานการผลิตในประเทศ",
+            "why": "โรงงานค่ายญี่ปุ่นและซัพพลายเออร์ปั๊มขึ้นรูปโลหะคือกลุ่มลูกค้าหลักของ MK สำหรับจานขัดและสายพาน การเดินหน้าผลิตต่อช่วยรักษาปริมาณการใช้วัสดุขัด",
+            "action": "เข้าพบฝ่ายจัดซื้อและวิศวกรโรงงานชิ้นส่วนยานยนต์ญี่ปุ่นระดับ Tier-1 เพื่อเสนอโซลูชันงานเจียรและลบคมที่ช่วยประหยัดต้นทุนในสายการผลิต"
+          }
+        },
+        {
+          "id": "20261102-2",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "spacebar.th",
+          "date": "2026-10-20",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBSV3kydU5uQ0k0bkh5V25WZUJIZjJuNE9XNDczODl3dlJMNm0tdEhVT1RFVk5SZVJfZURYNHA0OFR5UXZlbW5vZUtqYlhNcHpFbXFBaUl6RHE5dVIwUmpWa1NYT2Y3UWRESzk3aVQyNnI1dDg?oc=5",
+          "title": "Revised EV Excise Tax Structure Reshapes Winners and Losers in Thai Manufacturing",
+          "summary": "Thailand's incoming EV excise tax revision aims to favor domestic assemblers over importers, compelling global brands to establish local component supply chains.",
+          "why": "Stricter local production mandates will force manufacturers to produce battery trays, chassis brackets, and body panels locally, expanding metal finishing and polishing demand.",
+          "action": "Target emerging EV battery pack fabricators and metal bracket stamping plants with high-performance deburring belts and non-woven abrasive wheels.",
+          "th": {
+            "title": "ภาษี EV ใหม่ ชี้ชะตาผู้ผลิตไทย ใครได้ประโยชน์ ใครเสียโอกาส",
+            "summary": "โครงสร้างภาษีสรรพสามิต EV ใหม่มุ่งสนับสนุนโรงงานประกอบในประเทศมากกว่าการนำเข้าสำเร็จรูป บีบให้ค่ายรถต้องเร่งจัดซื้อชิ้นส่วนในประเทศเพิ่มขึ้น",
+            "why": "การผลักดันให้ผลิตในประเทศทำให้เกิดงานเชื่อม งานปั๊มขึ้นรูป และการผลิตโครงสร้างแบตเตอรี่ในไทยมากขึ้น ซึ่งต้องใช้วัสดุขัดแต่งผิวโลหะจำนวนมาก",
+            "action": "นำเสนอสายพานขัดลบคมและล้อขัดใยสังเคราะห์แก่โรงงานผลิตเคสแบตเตอรี่และชิ้นส่วนโครงสร้าง EV ที่เริ่มตั้งไลน์ผลิตใหม่"
+          }
+        },
+        {
+          "id": "20261102-3",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "เว็บไซต์รัฐบาลไทย",
+          "date": "2026-08-29",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBMaHNnbnRkZGdrVlVkU0hDNEVvLW1tMlBVMHBVem1TREU0blRZWEt3U2M2c25hcS1PaEZTVWpGeDR2cnRRTG5GVUVYNFRRZw?oc=5",
+          "title": "Government Overhauls Automotive Tax Structure to Retain Assembly Hub and Domestic Jobs",
+          "summary": "The Thai government has set a three-point strategy to adjust vehicle taxes, prioritizing domestic manufacturing, export competitiveness, and factory employment.",
+          "why": "Government policy clarity helps prevent auto plants from relocating, safeguarding continuous operating shifts and steady abrasive consumable turnover in assembly shops.",
+          "action": "Review annual abrasive supply contracts with automotive assemblers, emphasizing consistent local inventory buffer to support uninterrupted factory operations.",
+          "th": {
+            "title": "รัฐบาลเร่งปรับโครงสร้างภาษีรถยนต์ ดึงผลิตและส่งออกเพื่อรักษาการจ้างงานในไทย",
+            "summary": "รัฐบาลวาง 3 เป้าหมายปรับโครงสร้างภาษีรถยนต์เพื่อกระตุ้นการผลิตในประเทศ เพิ่มขีดความสามารถการส่งออก และรักษาการจ้างงานในภาคอุตสาหกรรมยานยนต์",
+            "why": "นโยบายที่ชัดเจนช่วยชะลอการย้ายฐานผลิตและรักษาจำนวนกะทำงานในโรงงานประกอบรถยนต์ ทำให้มีการเบิกใช้วัสดุขัดและกระดาษทรายอย่างต่อเนื่อง",
+            "action": "ทบทวนสัญญาจัดส่งสินค้ารายปีกับโรงงานประกอบรถยนต์ โดยเน้นจุดขายเรื่องสต็อกสินค้าพร้อมส่งในประเทศเพื่อรองรับการผลิตที่ไม่สะดุด"
+          }
+        }
+      ],
+      "terms": {}
+    },
+    {
       "date": "2026-11-01",
       "summary": "Today offers few fresh developments as most major industrial headlines have been covered earlier this week. Nonetheless, Toyota's hydrogen pickup investment and the finalized EEC-Thai Airways MRO contract provide solid growth signals for automotive and aerospace abrasive demand.",
       "directCount": 2,
@@ -1027,5 +1092,5 @@ window.NEWS_ARCHIVE = {
       "terms": {}
     }
   ],
-  "updated": "2026-11-01"
+  "updated": "2026-11-02"
 };
