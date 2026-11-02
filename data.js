@@ -3,82 +3,82 @@ window.NEWS_ARCHIVE = {
   "days": [
     {
       "date": "2026-11-02",
-      "summary": "New headlines today are limited; key developments focus on trade show readiness for the woodworking and furniture export sector, Vietjet's MRO investment study at U-Tapao, domestic rebar standards, and regional automotive competition with Vietnam.",
+      "summary": "Today features limited fresh updates; key developments focus on Japanese automakers ramping up local investments to counter Chinese rivals, alongside government automotive tax reforms and scrutiny over domestic steel mills.",
       "directCount": 1,
       "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยประเด็นสำคัญเน้นไปที่ความพร้อมจัดงานแสดงสินค้าอุตสาหกรรมไม้และเฟอร์นิเจอร์ส่งออก แผนศึกษาลงทุนศูนย์ซ่อม MRO อู่ตะเภาของเวียตเจ็ท การผลักดัน มอก. เหล็กเส้น และการแข่งขันชิงฐานผลิตยานยนต์กับเวียดนาม"
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยประเด็นสำคัญอยู่ที่ค่ายรถยนต์ญี่ปุ่นเตรียมขยายการลงทุนในไทยเพื่อรับมือการแข่งขันจากรถยนต์จีน ควบคู่กับการปรับโครงสร้างภาษียานยนต์ของภาครัฐและการตรวจสอบโรงงานเหล็กที่ไม่ได้มาตรฐาน"
       },
       "items": [
         {
           "id": "20261102-1",
-          "tag": "furniture",
+          "tag": "auto",
           "rating": "green",
-          "source": "เดลินิวส์",
-          "date": "2026-09-03",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQOG53VVJYRkd4MUZabFczX0FkeTVGTGNFYmZGUUxkTnJ6VjNmeklDTUZEYXlVRkpjS1gzeUxQczJHMXJRS3c1dEdWSk14eVVqczJN?oc=5",
-          "title": "TIWF 2026 Confirms Readiness as Regional Woodworking and Furniture Trade Hub",
-          "summary": "Organizers of TIWF 2026 announced their readiness to host a major regional expo aimed at upgrading woodworking and furniture manufacturing. The event will spotlight modern machinery, automated surface finishing, and export supply chain solutions.",
-          "why": "Woodworking and furniture factories consume large volumes of wide sanding belts, abrasive discs, and orbital sandpaper. This exhibition serves as a direct pipeline to meet factory purchasing managers and machinery distributors.",
-          "action": "Register sales reps to walk the exhibition and target export furniture manufacturers with MK's wood-finishing abrasive belts and sanding discs.",
+          "source": "Thansettakij",
+          "date": "2026-08-20",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwSXlOVHFzZUx5TkFGcUdDa0R3R0xpeTM2TW16ZWZVdDIwc3pxTm1tdEM0dm5KSkhVM0tRaXpGQm5JdmdBcFk5N1Z6SFpUaV9tdmx6aWRlbVBpRjA?oc=5",
+          "title": "Japanese Automakers Expand Thai Investments to Rebound Against Chinese EV Influx",
+          "summary": "Major Japanese automakers are increasing investments in Thailand to protect their market dominance against Chinese EV imports while lobbying the government for higher EV taxes and import quotas. This reinvestment aims to preserve existing ICE production while transitioning into hybrid and alternative powertrains.",
+          "why": "Japanese automotive plants and their Tier-1 metal/body suppliers represent MK's core customer base. Reinvested capacity directly secures long-term demand for automotive polishing, surface finishing, and robotic grinding abrasives.",
+          "action": "Reinforce direct relationships with Japanese Tier-1 stamping and body component suppliers by offering high-durability abrasive test kits to support their new hybrid/ICE model lines.",
           "th": {
-            "title": "TIWF 2026 ประกาศความพร้อมจัดงานใหญ่ ยกระดับอุตสาหกรรมไม้และเฟอร์นิเจอร์อาเซียน",
-            "summary": "ผู้จัดงาน TIWF 2026 แถลงความพร้อมจัดงานแสดงสินค้าระดับภูมิภาคเพื่อยกระดับอุตสาหกรรมงานไม้และเฟอร์นิเจอร์ โดยมุ่งเน้นเครื่องจักรแปรรูป เทคโนโลยีการเตรียมผิวอัตโนมัติ และซัพพลายเชนการส่งออก",
-            "why": "โรงงานแปรรูปไม้และเฟอร์นิเจอร์เป็นผู้ใช้งานสายพานผ้าทรายขัดไม้ กระดาษทรายกลม และจานขัดในปริมาณมาก งานนี้เป็นช่องทางตรงในการเข้าพบผู้จัดการฝ่ายจัดซื้อและโรงงานผลิตเครื่องจักรขัด",
-            "action": "ลงทะเบียนให้ทีมขายเข้าสำรวจงานและเจรจากลุ่มโรงงานเฟอร์นิเจอร์ส่งออก พร้อมนำเสนอสายพานขัดไม้และกระดาษทรายขัดละเอียดของ MK"
+            "title": "ค่ายญี่ปุ่นขยายลงทุนในไทยเตรียมสู้ศึกรถจีน จี้รัฐคุมโควตาและภาษีนำเข้า EV",
+            "summary": "ค่ายรถยนต์ญี่ปุ่นเดินหน้าขยายการลงทุนในไทยเพื่อรักษาฐานการผลิตและส่วนแบ่งตลาดหลังถูกรถจีนรุกหนัก พร้อมเรียกร้องให้รัฐบาลทบทวนโครงสร้างภาษีและโควตานำเข้าเพื่อปกป้องโรงงานผลิตในประเทศ",
+            "why": "โรงงานค่ายญี่ปุ่นและเครือข่ายซัพพลายเออร์ชิ้นส่วนคือกลุ่มลูกค้าหลักของ MK การขยายกำลังการผลิตนี้ช่วยรักษาความต้องการใช้วัสดุขัด เจียร และเตรียมผิวโลหะในระยะยาว",
+            "action": "เร่งเข้าพบฝ่ายจัดซื้อและวิศวกรของโรงงานซัพพลายเออร์ชิ้นส่วนยานยนต์ญี่ปุ่นเพื่อนำเสนอจานขัดและกระดาษทรายเกรดพรีเมียมสำหรับการผลิตโมเดลใหม่"
           }
         },
         {
           "id": "20261102-2",
-          "tag": "aero",
+          "tag": "auto",
           "rating": "amber",
-          "source": "thansettakij",
-          "date": "2026-06-16",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pbFFnQlhiSG5UMVBfTjVmMUZtNXc4ZkYyOFljMVFtQlQwalZ5WUpidFlzX3prejlBWGoydDYzUUZXMlY4bE56VFUwZnZrLVJfWlRtV2t0Wi0xOWkzeVFLTUFJOVIwUQ?oc=5",
-          "title": "EECO Advances U-Tapao Aviation Hub While Awaiting Vietjet MRO Investment Plan",
-          "summary": "The Eastern Economic Corridor Office (EECO) is moving forward with the U-Tapao aviation hub project, awaiting Vietjet's detailed investment study for an aircraft maintenance center. The move is designed to attract regional low-cost carriers into Thailand's MRO ecosystem.",
-          "why": "Attracting budget carriers like Vietjet diversifies Thailand's aerospace maintenance sector, paving the way for sustained, long-term procurement of aircraft surface-finishing and paint-stripping abrasives.",
-          "action": "Monitor Vietjet's hangar engineering partners to prepare abrasive material certifications well ahead of facility construction.",
+          "source": "เว็บไซต์รัฐบาลไทย",
+          "date": "2026-08-29",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBMaHNnbnRkZGdrVlVkU0hDNEVvLW1tMlBVMHBVem1TREU0blRZWEt3U2M2c25hcS1PaEZTVWpGeDR2cnRRTG5GVUVYNFRRZw?oc=5",
+          "title": "Thai Government Overhauls Automotive Tax Structure to Retain Domestic Production and Jobs",
+          "summary": "The Thai government is restructuring auto excise taxes with three main goals: maintaining domestic vehicle manufacturing, boosting exports, and protecting local manufacturing employment across supply chains. The move incentivizes OEMs to preserve local metal-stamping and assembly lines rather than relying on imported kits.",
+          "why": "Policies safeguarding local vehicle assembly ensure domestic parts factories continue operating metal fabrication and stamping lines without drastic downsizing.",
+          "action": "Track localized OEM assembly commitments to anticipate which parts makers will ramp up stamping and welding deburring operations in Q4.",
           "th": {
-            "title": "EECO เดินหน้าศูนย์ซ่อมฯ อู่ตะเภา รอเวียตเจ็ทเคาะแผนร่วมลงทุน MRO",
-            "summary": "สกพอ. เดินหน้าขับเคลื่อนโครงการเมืองการบินอู่ตะเภาต่อเนื่อง โดยอยู่ระหว่างรอสายการบินเวียตเจ็ทศึกษาความคุ้มค่าและยื่นแผนลงทุนจัดตั้งศูนย์ซ่อมบำรุงอากาศยาน เพื่อดึงดูดสายการบินต้นทุนต่ำในภูมิภาค",
-            "why": "การขยายฐานศูนย์ซ่อมของสายการบินเอกชนอย่างเวียตเจ็ทช่วยขยายห่วงโซ่อุปทาน MRO ไทยในระยะยาว เพิ่มความต้องการวัสดุขัดเกรดการบินสำหรับงานขัดเตรียมผิวก่อนพ่นสีและงานซ่อมชิ้นส่วนโครงสร้าง",
-            "action": "ติดตามกลุ่มพันธมิตรวิศวกรรมของเวียตเจ็ทเพื่อเตรียมยื่นคุณสมบัติและสเปกวัสดุขัดเกรดอากาศยานล่วงหน้าก่อนเริ่มสร้างศูนย์ซ่อม"
+            "title": "รัฐบาลเร่งปรับโครงสร้างภาษีรถยนต์ มุ่งดึงฐานผลิต ส่งออก และรักษาการจ้างงานในประเทศ",
+            "summary": "รัฐบาลเดินหน้าปรับโครงสร้างภาษีสรรพสามิตรถยนต์ วางเป้าหมายรักษาฐานการผลิตยานยนต์ในไทย ส่งเสริมการส่งออก และรักษาการจ้างงานในห่วงโซ่อุปทานชิ้นส่วนยานยนต์",
+            "why": "นโยบายนี้ช่วยพยุงโรงงานปั๊มขึ้นรูปและประกอบชิ้นส่วนโลหะในไทยไม่ให้ลดกำลังการผลิตลง ซึ่งช่วยรักษาปริมาณการใช้วัสดุขัดแต่งผิวงานเชื่อมและลบครีบ",
+            "action": "ติดตามแผนการผลิตของโรงงานประกอบยานยนต์เพื่อวางแผนส่งเซลส์เข้าเจาะกลุ่มผู้ผลิตชิ้นส่วนโครงสร้างที่เริ่มขยายกะการผลิต"
           }
         },
         {
           "id": "20261102-3",
           "tag": "steel",
           "rating": "amber",
-          "source": "เดลินิวส์",
-          "date": "2026-09-25",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4a1pPNWdwN2tnQnhGMnNoaUpZYnJJbzhLaHNWWkJQNFF6YllrakFyWDlXOC1KTFRtU01OWmdxRmRQOXVoQUNCaXNDQjF3VERtMXdr?oc=5",
-          "title": "Ten Steel Associations Meet Ministry of Industry to Push for Strict TIS Rebar Controls",
-          "summary": "Representatives from ten domestic steel associations met with industry officials to demand mandatory TIS standards on rebar. Domestic mills warned that unchecked, cheap imports continue to compress local production volumes and utilization rates.",
-          "why": "If local rebar rolling mills and structural fabrication plants cut back production due to cheap foreign imports, demand for cutting wheels and heavy-duty grinding discs will drop.",
-          "action": "Review credit terms for structural steel fabrication customers and pivot commercial efforts toward certified, compliant domestic mills.",
+          "source": "bangkokbiznews",
+          "date": "2026-06-09",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1BZE5wSV9tN3JIMkxoeTBjenRHaWFGTThOMkNUWUgwUm4ybm02TTlNLWJ5U1RFdVFRQVBwSldqVWEyUHBIVXhfTnNiSHpzQXhoVDhUYjJoMVAyakhp?oc=5",
+          "title": "Thai Steel Makers Urge Department of Industrial Works to Block Substandard Foreign Mills",
+          "summary": "Domestic steel associations are urging authorities to revoke factory licenses for non-compliant foreign-backed mills, specifically targeting operations that bypass safety and quality standards. Domestic producers emphasize that unregulated low-grade mills threaten the operational viability of standard steelmakers.",
+          "why": "Established local steel mills that adhere to industrial standards are MK's target buyers for heavy-duty grinding wheels and cutting discs; their regulatory protection helps stabilize our B2B metalworking sales.",
+          "action": "Focus B2B sales outreach on certified, standardized steel mills and structural fabricators that prioritize industrial-grade abrasives and worker safety.",
           "th": {
-            "title": "10 สมาคมเหล็กเข้าพบกระทรวงอุตสาหกรรม จี้ออก มอก. สกัดเหล็กเส้นนำเข้ากดทับตลาด",
-            "summary": "ตัวแทน 10 สมาคมเหล็กเข้าพบกระทรวงอุตสาหกรรมเพื่อผลักดันการบังคับใช้มาตรฐาน มอก. สำหรับเหล็กเส้นอย่างเข้มงวด หลังเหล็กนำเข้าราคาถูกยังคงไหลเข้ามากดดันอัตราการใช้กำลังการผลิตของโรงงานในประเทศ",
-            "why": "หากโรงงานรีดเหล็กและแปรรูปโครงสร้างเหล็กในไทยจำเป็นต้องลดกำลังการผลิตลง ยอดสั่งซื้อใบตัดเหล็กและใบเจียรเนื้อโลหะหนักจะชะลอตัวตาม",
-            "action": "ตรวจสอบความเสี่ยงเครดิตเทอมของกลุ่มลูกค้าแปรรูปโครงสร้างเหล็ก พร้อมมุ่งขยายยอดขายไปยังโรงงานเหล็กที่ได้รับมาตรฐาน มอก. อย่างชัดเจน"
+            "title": "ผู้ผลิตเหล็กไทยร้องกรมโรงงานฯ สกัดโรงงานไร้มาตรฐาน หวั่นทุบอุตสาหกรรมในประเทศ",
+            "summary": "กลุ่มผู้ผลิตเหล็กไทยรวมตัวเรียกร้องให้กระทรวงอุตสาหกรรมตรวจสอบและเพิกถอนใบอนุญาตโรงงานผลิตเหล็กต่างชาติที่ไม่ได้มาตรฐาน เพื่อป้องกันผลกระทบต่อเศรษฐกิจและผู้ผลิตเหล็กคุณภาพในประเทศ",
+            "why": "โรงงานเหล็กที่ได้มาตรฐาน มอก. คือกลุ่มลูกค้าหลักของ MK สำหรับหินเจียร หินตัด และใบขัดหนา การกวดขันโรงงานเถื่อนจะช่วยให้โรงงานลูกค้ามาตรฐานยังคงมีคำสั่งซื้อสม่ำเสมอ",
+            "action": "มุ่งเน้นการขยายฐานลูกค้าไปยังกลุ่มโรงรีดเหล็กและโครงสร้างเหล็กที่ได้มาตรฐาน มอก. ซึ่งให้ความสำคัญกับความปลอดภัยและประสิทธิภาพของวัสดุขัด"
           }
         },
         {
           "id": "20261102-4",
-          "tag": "auto",
+          "tag": "furniture",
           "rating": "amber",
-          "source": "TNN",
-          "date": "2026-10-21",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ibmpiM1dkTGVBNUdxUDFEZWphV1Z2aWY3RWd4QVgydzJMNEU5N1l6MUFDTmE2ODFQSDl4OFdScmM0T3lhNGg2TVA1NnE3cDYzdHlFNWZ0eXVNLTZvS3kwVHpZcw?oc=5",
-          "title": "Thailand Competes Against Vietnam to Retain Global Automotive Manufacturing Hub",
-          "summary": "Market analysts compare Thailand and Vietnam in their rivalry to lead regional automotive manufacturing. While Thailand retains deep automotive supply chains, Vietnam is quickly building competitiveness through aggressive investment incentives and lower manufacturing wages.",
-          "why": "A migration of new vehicle production lines to Vietnam would reduce parts stamping and metal casting volumes in Thailand, directly impacting abrasive demand in local supplier factories.",
-          "action": "Collaborate with Tier-1 Japanese parts makers to conduct abrasive performance trials that lower their unit surface-finishing costs and preserve local competitiveness.",
+          "source": "kasikornbank.com",
+          "date": "2025-10-09",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR0I3LUFaeENxbzdDQVF4UDdVMFlmRWp4Y3BBdFZ6OGFQeUdZZ3Y5dHA5Q2ZxRXJIaTUtLVNVY29QM3RuSk1RMmpaeXhucHEwLWRiMFlsbkJRNEtYY3RWSDZNNXRBUXdfb0hDV0IzR1pkRW5ERC1xSkQtN21WZTVveUNtdURRYmN3QjQxUDRHS2g1dDNkSGdRVVJGU2tBNGJ3WDREcGh1N2VrdnN6MExB?oc=5",
+          "title": "Thai Furniture Exports Face Forecasted Contraction of 4.5% After Prior Surge",
+          "summary": "KResearch forecasts Thai furniture exports to contract 4.5% following an earlier front-loaded surge driven by US tariff uncertainties. The expected cooldown directly impacts large-scale export-oriented wooden and metal furniture factories.",
+          "why": "Furniture manufacturers heavily consume wide sanding belts, abrasive rolls, and disc sanders; an export contraction flags potential inventory accumulation and reduced reorder rates from wood factories.",
+          "action": "Diversify woodworking abrasive sales by promoting smaller-pack sandpaper and sanding accessories to local DIY woodworkers via Shopee and TikTok to offset export sluggishness.",
           "th": {
-            "title": "ไทย–เวียดนาม เปิดศึกท้าชิงศูนย์กลางฐานการผลิตยานยนต์ระดับภูมิภาค",
-            "summary": "บทวิเคราะห์เปรียบเทียบขีดความสามารถการแข่งขันระหว่างไทยกับเวียดนามในการดึงดูดเม็ดเงินลงทุนยานยนต์ โดยไทยยังได้เปรียบด้านความพร้อมของห่วงโซ่อุปทานเดิม ขณะที่เวียดนามเร่งให้สิทธิประโยชน์ทางภาษีและมีต้นทุนแรงงานที่ต่ำกว่า",
-            "why": "หากการขยายสายการผลิตรถยนต์ใหม่ไหลไปเวียดนาม จะกระทบปริมาณงานปั๊มขึ้นรูปและกลึงโลหะชิ้นส่วนในไทย ส่งผลให้การใช้งานวัสดุขัดแต่งผิวโลหะลดลงในระยะยาว",
-            "action": "ทำงานร่วมกับโรงงานชิ้นส่วน Tier-1 ของญี่ปุ่นเพื่อทดสอบวัสดุขัดของ MK ที่ช่วยลดต้นทุนต่อชิ้นงาน ช่วยลูกค้าตรึงความสามารถในการแข่งขันของฐานผลิตในไทย"
+            "title": "ส่งออกเฟอร์นิเจอร์ไทยส่อหดตัว 4.5% หลังหมดรอบเร่งนำเข้าของคู่ค้าต่างประเทศ",
+            "summary": "ศูนย์วิจัยกสิกรไทยประเมินการส่งออกเฟอร์นิเจอร์ไทยมีแนวโน้มพลิกกลับมาหดตัว 4.5% หลังการเร่งสต็อกสินค้าของตลาดสหรัฐฯ ชะลอตัวลง ส่งผลกระทบต่อโรงงานผลิตเฟอร์นิเจอร์ไม้และโลหะเพื่อการส่งออก",
+            "why": "โรงงานเฟอร์นิเจอร์เป็นผู้ใช้กระดาษทรายสายพานกว้าง (Wide Belt) และม้วนผ้าทรายรายใหญ่ การชะลอตัวของการส่งออกอาจทำให้ยอดสั่งซื้อซ้ำลดลง",
+            "action": "เร่งกระจายความเสี่ยงด้วยการทำโปรโมชันสินค้ากระดาษทรายขัดไม้ขนาดเล็กสำหรับช่างและกลุ่ม DIY ผ่านแพลตฟอร์ม Shopee และ TikTok เพื่อชดเชยยอดจากโรงงานขนาดใหญ่"
           }
         }
       ],
