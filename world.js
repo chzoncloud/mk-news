@@ -4,64 +4,82 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-11-02",
-      "summary": "Today's global briefing highlights ongoing structural changes in the steel industry, including European CBAM implementation and excess supply challenges, alongside long-term market forecasts for global abrasives and automotive OEM coatings.",
-      "directCount": 3,
+      "summary": "Today's briefing focuses on global shifts in industrial manufacturing, including steel market protectionism, EV battery evolution, and non-woven abrasives growth. While some heavy industries show fluctuating steel demand, precision finishing and automation continue to drive the coated and specialty abrasives sectors.",
+      "directCount": 4,
       "th": {
-        "summary": "สรุปกระแสโลกประจำวันนี้เน้นการเปลี่ยนแปลงโครงสร้างในอุตสาหกรรมเหล็ก เช่น การบังคับใช้มาตรการ CBAM ในยุโรปและความท้าทายเรื่องอุปทานส่วนเกิน ควบคู่ไปกับคาดการณ์ตลาดวัสดุขัดกระดาษทรายและสีเคลือบยานยนต์ในระยะยาว"
+        "summary": "สรุปรายงานประจำวันนี้เน้นการเปลี่ยนแปลงของอุตสาหกรรมการผลิตระดับโลก ทั้งมาตรการปกป้องทางการค้าเหล็ก วิวัฒนาการแบตเตอรี่ EV และการเติบโตของกลุ่มวัสดุขัดกระดาษทรายแบบไม่ถักทอ แม้ว่าอุตสาหกรรมหนักบางแห่งจะมีความต้องการเหล็กผันผวน แต่ความต้องการด้านการขัดตกแต่งผิวที่มีความแม่นยำและระบบอัตโนมัติยังคงขับเคลื่อนตลาดวัสดุขัดให้อย่างต่อเนื่อง"
       },
       "items": [
         {
           "id": "20261102-w1",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "S&P Global",
-          "date": "2026-01-07",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSDJTcGFGbUFvRm15ZDhrczNqYkRzbHlXMTJZTHJpUF9CTjRHaTNXak4tdVBkbnBWcnNrRDRneXpBd1Z5SUJGSFZWTzJMNWhfcVl5czkzR0lSSjd4aTJzMTg3N2FWM3pHQ2NxbHg2dEp2ckNiNC16cWdJZ0t3anl3TzlUYldVajhqM05JQVEyWWdZYVdaYkEzZUpvUEJGdHAxXzRKdDRnNG1pQl9LaEN6Q0lpbFpPMTBOeElqT3V2NUdUSlJJNjZWOEpiMWc?oc=5",
-          "title": "Europe's steel industry faces its 2026 reckoning with CBAM",
-          "summary": "Europe's steel sector is dealing with regulatory pressures from the Carbon Border Adjustment Mechanism (CBAM), impacting production costs and trade flows.",
-          "why": "Stricter environmental regulations on European steel force local manufacturers to optimize efficiency, which can influence surface finishing and grinding specifications.",
-          "action": "Monitor how European steel compliance affects export requirements and processing standards for metal components.",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "Market.us",
+          "date": "2025-03-04",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91alpTXzlIaHVncXdQT2g3dVU2YjM5QTQ1amZIZGRMN0VQMGhzaXdEUXlIWV9nUXZRQ18wMUdrMmYzMkxLa25tdHpwTVctQ2JuYXhXWmxsQW1Pd1gxN1FhM2tkV20yV1psbHhv?oc=5",
+          "title": "Non-woven Abrasives Market Size, Share | CAGR of 3.8%",
+          "summary": "The non-woven abrasives market continues steady growth driven by increasing demand for fine surface finishing, blending, and deburring applications across various manufacturing sectors.",
+          "why": "Non-woven abrasive products are core items for surface prep and finishing in metal and automotive workshops; tracking their market growth helps us plan our product inventory.",
+          "action": "Review our non-woven product portfolio and ensure stable supply lines for surface blending applications.",
           "th": {
-            "title": "อุตสาหกรรมเหล็กยุโรปเผชิญบททดสอบปี 2026 ด้วยมาตรการ CBAM",
-            "summary": "ภาคอุตสาหกรรมเหล็กของยุโรปกำลังเผชิญแรงกดดันด้านกฎระเบียบจากมาตรการปรับคาร์บอนก่อนข้ามพรมแดน (CBAM) ซึ่งส่งผลต่อต้นทุนการผลิตและทิศทางการค้า",
-            "why": "กฎระเบียบด้านสิ่งแวดล้อมที่เข้มงวดขึ้นต่อเหล็กยุโรป บังคับให้ผู้ผลิตต้องเพิ่มประสิทธิภาพสูงสุด ซึ่งอาจส่งผลต่อข้อกำหนดในการเตรียมพื้นผิวและการขัดแต่ง",
-            "action": "ติดตามว่าการปฏิบัติตามกฎระเบียบเหล็กของยุโรปส่งผลอย่างไรต่อข้อกำหนดการส่งออกและมาตรฐานการแปรรูปชิ้นส่วนโลหะ"
+            "title": "ขนาดและส่วนแบ่งตลาดวัสดุขัดชนิดไม่ถักทอ (Non-woven Abrasives)",
+            "summary": "ตลาดวัสดุขัดชนิดไม่ถักทอยังคงเติบโตอย่างต่อเนื่องจากความต้องการที่เพิ่มขึ้นในการขัดตกแต่งผิว การเกลี่ยผิว และการลบคมในภาคการผลิตต่างๆ",
+            "why": "ผลิตภัณฑ์วัสดุขัดชนิดไม่ถักทอเป็นสินค้าหลักสำหรับการเตรียมผิวและขัดแต่งในอุตสาหกรรมโลหะและยานยนต์ การติดตามการเติบโตนี้จะช่วยให้เราวางแผนสต็อกสินค้าได้ดีขึ้น",
+            "action": "ทบทวนกลุ่มผลิตภัณฑ์ประเภท Non-woven ของเราและรักษาเสถียรภาพห่วงโซ่อุปทานสำหรับงานขัดเกลี่ยผิว"
           }
         },
         {
           "id": "20261102-w2",
-          "tag": "abrasive",
+          "tag": "steel",
           "rating": "green",
-          "source": "EIN News",
-          "date": "2026-10-19",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM2VsRTlqVWR6dlpoUXpZQ04wNnJsRUNBbndKSnNQODIyUXdnTTlIT0hZMC10bGhEUUk0clZ5ZWZRN0I2eVhiVHVPVmRYd05xWUdJdDJldTBsTkZEUVNBNG5qaE9WeXdDN2dSVzJ2TzNsVFhBNVMzakhwZFR6Z0dQeFFVS0ZPa0dmWmh1dHhiYXVXWWRrbk9XS251Ul9SVS1SZ3NON0VXRWxfOWtzazlNcXhUMVBnU2liODhqaXF6OEdGb2NEYkRoaG9uNmx6MlNjMUd2N3Q0emZnUXltZk1wbg?oc=5",
-          "title": "Abrasives Market to Reach $72.2 Billion by 2030, Growing at a 7.6% CAGR Driven by Precision Finishing Demand",
-          "summary": "The global abrasives market is projected for steady expansion, fueled by rising demand for high-precision finishing across manufacturing sectors.",
-          "why": "Direct market intelligence showing robust long-term demand for grinding, polishing, and surface prep products globally.",
-          "action": "Align our product catalog with high-precision finishing trends to capture higher-margin industrial segments.",
+          "source": "S&P Global",
+          "date": "2026-01-12",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
+          "title": "Global steel industry battles surplus supply, protectionism",
+          "summary": "The global steel sector faces ongoing challenges from overcapacity, surplus supply, and rising trade protectionism measures across key regions.",
+          "why": "Steel production volume directly impacts metal fabrication activity, which dictates local demand for grinding wheels, cutting discs, and heavy-duty abrasives.",
+          "action": "Monitor steel mill operating rates in our region as a leading indicator for industrial abrasive consumption.",
           "th": {
-            "title": "ตลาดวัสดุขัดถูพุ่งแตะ 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 เติบโต 7.6% จากความต้องการตกแต่งผิวความแม่นยำสูง",
-            "summary": "ตลาดวัสดุขัดทั่วโลกคาดว่าจะขยายตัวอย่างต่อเนื่อง ขับเคลื่อนโดยความต้องการการตกแต่งผิวที่มีความแม่นยำสูงในภาคการผลิต",
-            "why": "เป็นข้อมูลเชิงลึกที่แสดงถึงความต้องการในระยะยาวสำหรับผลิตภัณฑ์เจียร ขัดเงา และเตรียมพื้นผิวทั่วโลก",
-            "action": "ปรับปรุงแคตตาล็อกสินค้าให้สอดคล้องกับแนวโน้มการตกแต่งผิวความแม่นยำสูงเพื่อเจาะกลุ่มอุตสาหกรรมที่มีอัตรากำไรดี"
+            "title": "อุตสาหกรรมเหล็กโลกเผชิญหน้ากับภาวะล้นตลาดและลัทธิกีดกันทางการค้า",
+            "summary": "ภาคอุตสาหกรรมเหล็กทั่วโลกกำลังเผชิญกับความท้าทายจากกำลังการผลิตส่วนเกิน อุปทานล้นตลาด และมาตรการกีดกันทางการค้าที่เพิ่มขึ้นในภูมิภาคหลักๆ",
+            "why": "ปริมาณการผลิตเหล็กส่งผลโดยตรงต่อกิจกรรมการแปรรูปโลหะ ซึ่งเป็นตัวกำหนดความต้องการหินเจียร ใบตัด และกระดาษทรายสำหรับงานหนักในท้องถิ่น",
+            "action": "ติดตามอัตราการดำเนินงานของโรงงานเหล็กในภูมิภาคเพื่อใช้เป็นสัญญาณชี้นำความต้องการใช้วัสดุขัดในภาคอุตสาหกรรม"
           }
         },
         {
           "id": "20261102-w3",
-          "tag": "coating",
+          "tag": "auto",
           "rating": "amber",
-          "source": "Fortune Business Insights",
-          "date": "2026-10-05",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXjJqQjFOYjlqblItNTRWSXd3cElrdnJSOXQ3RVlQOA?oc=5",
-          "title": "Automotive OEM Coatings Market Size, Industry Report, 2034",
-          "summary": "The automotive OEM coatings market report outlines long-term valuation and technology shifts through 2034, highlighting surface treatment needs for new vehicles.",
-          "why": "Automotive manufacturing and painting require extensive surface preparation, sanding, and finishing before and after coating applications.",
-          "action": "Monitor auto OEM paint shop trends to anticipate surface preparation and sanding requirements for next-generation vehicle bodies.",
+          "source": "IEA - International Energy Agency",
+          "date": "2026-05-20",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUmhMdjBTMHNNQVA3WnI0QWx2dnlrZDVLUklVdE1XNmsxeEVPZ2tUN0pVUkstbzBOYXZsbFVjcVhpWk8wUXlvRGhUcVR4alN2TmQyQ1Y0SnVhMUVoeEtna2V2R0ZSdGVoR2hTQVZBaFdqdG5INHdoVzUzNW93TkxfNVUxVQ?oc=5",
+          "title": "Electric vehicle batteries - Global EV Outlook 2026",
+          "summary": "The latest IEA report highlights rapid advancements and scaling in electric vehicle battery manufacturing technologies globally.",
+          "why": "EV battery production involves specialized metal casing, welding cleanup, and precision component finishing that require advanced abrasive solutions.",
+          "action": "Keep an eye on EV battery component manufacturing trends for niche surface prep opportunities.",
           "th": {
-            "title": "รายงานขนาดอุตสาหกรรมและแนวโน้มตลาดสีเคลือบ OEM ยานยนต์ถึงปี 2034",
-            "summary": "รายงานตลาดสีเคลือบ OEM สำหรับยานยนต์ระบุถึงมูลค่าระยะยาวและการเปลี่ยนแปลงทางเทคโนโลยีจนถึงปี 2034 พร้อมเน้นย้ำความต้องการการเตรียมพื้นผิวสำหรับรถยนต์ใหม่",
-            "why": "กระบวนการผลิตและการพ่นสีรถยนต์ต้องอาศัยการเตรียมพื้นผิว การขัดกระดาษทราย และการตกแต่งอย่างละเอียดทั้งก่อนและหลังการพ่นสี",
-            "action": "ติดตามแนวโน้มห้องพ่นสีของค่ายรถยนต์เพื่อคาดการณ์ความต้องการเตรียมพื้นผิวและงานขัดสำหรับตัวถังรถยนต์รุ่นใหม่"
+            "title": "แบตเตอรี่รถยนต์ไฟฟ้า - แนวโน้มยานยนต์ไฟฟ้าโลกปี 2026",
+            "summary": "รายงานล่าสุดจาก IEA เน้นย้ำถึงความก้าวหน้าอย่างรวดเร็วและการขยายตัวของเทคโนโลยีการผลิตแบตเตอรี่รถยนต์ไฟฟ้าทั่วโลก",
+            "why": "การผลิตแบตเตอรี่ EV เกี่ยวข้องกับการทำโครงโลหะ การเก็บรอยเชื่อม และการตกแต่งชิ้นส่วนที่มีความแม่นยำ ซึ่งต้องใช้วัสดุขัดที่มีประสิทธิภาพสูง",
+            "action": "ติดตามแนวโน้มการผลิตชิ้นส่วนแบตเตอรี่ EV เพื่อมองหาโอกาสในการนำเสนอผลิตภัณฑ์เตรียมพื้นผิวเฉพาะทาง"
+          }
+        },
+        {
+          "id": "20261102-w4",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "Shanghai Metals Market",
+          "date": "2026-05-19",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMmw1akRRMFZCQ2I5NGhHdE1NOXhoaE1GY0h5UmxlQVNUVGxHTko2U0NBQ0o0Q19ZYmZ1VnBCTTB6a2JJQTFNOUpDSUtpWXdaR3hkeGhlOXF4dF9yUElCd1ZkWTl4MmZGOWhVeUlXc2VCMXFCOHQzZ0ZGZ1RtZ3p6aUNObEczWFhKMkdKQ3JuRWF5SjVNZmpOQVBaSGs4TWJKS1lVa0VTdmoxdDBQTF8zRDlxME1qeEtOUzJzSTBERURobWltWTlVUlpaZ3d2WlFRNEY1b0UwbVVfLXc0cXBZ?oc=5",
+          "title": "[SMM Global Steel Company Special] Nucor: 100% EAF, High Profits, and Vertical Integration Mitigating Costs",
+          "summary": "Analysis of Nucor's electric arc furnace (EAF) model demonstrates how vertical integration and green steel production methods maintain high operational efficiency.",
+          "why": "EAF steel mills and downstream structural steel fabricators represent heavy industrial users of grinding and cutting abrasives.",
+          "action": "Note how EAF-based steel production hubs influence regional metal processing standards and abrasive longevity requirements.",
+          "th": {
+            "title": "[รายงานพิเศษบริษัทเหล็กโลก SMM] Nucor: เตาหลอมไฟฟ้า 100%, กำไรสูง และการบูรณาการแนวตั้งเพื่อลดต้นทุน",
+            "summary": "การวิเคราะห์โมเดลเตาอาร์กไฟฟ้า (EAF) ของ Nucor แสดงให้เห็นว่าการบูรณาการในแนวดิ่งและวิธีการผลิตเหล็กสีเขียวช่วยรักษาประสิทธิภาพการดำเนินงานให้อยู่ในระดับสูง",
+            "why": "โรงงานเหล็กที่ใช้เตา EAF และผู้แปรรูปโครงสร้างเหล็กปลายน้ำถือเป็นกลุ่มผู้ใช้วัสดุขัดและตัดโลหะรายใหญ่ในภาคอุตสาหกรรม",
+            "action": "สังเกตวิธีที่ศูนย์การผลิตเหล็กแบบ EAF ส่งผลต่อมาตรฐานการแปรรูปโลหะในภูมิภาคและความต้องการอายุการใช้งานของวัสดุขัด"
           }
         }
       ]
