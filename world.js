@@ -4,82 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-11-02",
-      "summary": "Today's briefing focuses on global shifts in industrial manufacturing, including steel market protectionism, EV battery evolution, and non-woven abrasives growth. While some heavy industries show fluctuating steel demand, precision finishing and automation continue to drive the coated and specialty abrasives sectors.",
-      "directCount": 4,
+      "summary": "Today's briefing focuses on global metalworking expansion, shifting steel and trade dynamics, and automotive manufacturing shifts that directly influence industrial surface preparation and abrasive demand.",
+      "directCount": 3,
       "th": {
-        "summary": "สรุปรายงานประจำวันนี้เน้นการเปลี่ยนแปลงของอุตสาหกรรมการผลิตระดับโลก ทั้งมาตรการปกป้องทางการค้าเหล็ก วิวัฒนาการแบตเตอรี่ EV และการเติบโตของกลุ่มวัสดุขัดกระดาษทรายแบบไม่ถักทอ แม้ว่าอุตสาหกรรมหนักบางแห่งจะมีความต้องการเหล็กผันผวน แต่ความต้องการด้านการขัดตกแต่งผิวที่มีความแม่นยำและระบบอัตโนมัติยังคงขับเคลื่อนตลาดวัสดุขัดให้อย่างต่อเนื่อง"
+        "summary": "สรุปประเด็นข่าววันนี้เน้นการขยายตัวของอุตสาหกรรมโลหะ พลวัตเหล็กและการค้าโลก รวมถึงการเปลี่ยนแปลงในอุตสาหกรรมยานยนต์ ซึ่งส่งผลโดยตรงต่อความต้องการวัสดุกัดและเตรียมพื้นผิว"
       },
       "items": [
         {
           "id": "20261102-w1",
           "tag": "abrasive",
           "rating": "green",
-          "source": "Market.us",
-          "date": "2025-03-04",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91alpTXzlIaHVncXdQT2g3dVU2YjM5QTQ1amZIZGRMN0VQMGhzaXdEUXlIWV9nUXZRQ18wMUdrMmYzMkxLa25tdHpwTVctQ2JuYXhXWmxsQW1Pd1gxN1FhM2tkV20yV1psbHhv?oc=5",
-          "title": "Non-woven Abrasives Market Size, Share | CAGR of 3.8%",
-          "summary": "The non-woven abrasives market continues steady growth driven by increasing demand for fine surface finishing, blending, and deburring applications across various manufacturing sectors.",
-          "why": "Non-woven abrasive products are core items for surface prep and finishing in metal and automotive workshops; tracking their market growth helps us plan our product inventory.",
-          "action": "Review our non-woven product portfolio and ensure stable supply lines for surface blending applications.",
+          "source": "IndexBox",
+          "date": "2026-11-01",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZG1Tb3Bhc05IRGVXMmQ4dHFjZXUtYzhrYTJrXzVPcURwMlA3Z3ZvOTB5NThxTkxndVY3eGtkVmNYWm1mR21NQzhnRnpSZ0hCUTdLc0FNTDA2Y1NKSTlkMkwtbUtjMDd4c2tDd0w5bHNMT2JYVXNmX28zSnM3ejVmaDlQbzgtc1ZjVkxRY3VhaTlodFRDanpTbXdlaXloeTJZODY1Qmo0d2pTSkZxenVSTUJET2xRaGlMSlJPcG5UdG5RUTQ?oc=5",
+          "title": "Coated Abrasives Market To 2035: Automation and Metalworking Fuel Expansion",
+          "summary": "The global coated abrasives market is expanding through 2035, driven significantly by automated manufacturing processes and robust metalworking activities.",
+          "why": "Automation and metalworking growth mean higher demand for precision-engineered coated abrasives that perform consistently under robotic applications.",
+          "action": "Explore partnerships or inventory expansions focused on automated robotic sanding accessories.",
           "th": {
-            "title": "ขนาดและส่วนแบ่งตลาดวัสดุขัดชนิดไม่ถักทอ (Non-woven Abrasives)",
-            "summary": "ตลาดวัสดุขัดชนิดไม่ถักทอยังคงเติบโตอย่างต่อเนื่องจากความต้องการที่เพิ่มขึ้นในการขัดตกแต่งผิว การเกลี่ยผิว และการลบคมในภาคการผลิตต่างๆ",
-            "why": "ผลิตภัณฑ์วัสดุขัดชนิดไม่ถักทอเป็นสินค้าหลักสำหรับการเตรียมผิวและขัดแต่งในอุตสาหกรรมโลหะและยานยนต์ การติดตามการเติบโตนี้จะช่วยให้เราวางแผนสต็อกสินค้าได้ดีขึ้น",
-            "action": "ทบทวนกลุ่มผลิตภัณฑ์ประเภท Non-woven ของเราและรักษาเสถียรภาพห่วงโซ่อุปทานสำหรับงานขัดเกลี่ยผิว"
+            "title": "ตลาดกระดาษทรายและวัสดุกัดเคลือบถึงปี 2035: ระบบอัตโนมัติและงานโลหะขับเคลื่อนการเติบโต",
+            "summary": "ตลาดวัสดุกัดเคลือบ (Coated Abrasives) ทั่วโลกกำลังเติบโตถึงปี 2035 โดยได้รับแรงหนุนหลักจากกระบวนการผลิตอัตโนมัติและอุตสาหกรรมโลหะที่แข็งแกร่ง",
+            "why": "การเติบโตของระบบอัตโนมัติและงานโลหะแปลว่ามีความต้องการวัสดุกัดเคลือบที่แม่นยำสูงและทนทานต่อการใช้งานกับหุ่นยนต์มากขึ้น",
+            "action": "ศึกษาหาพันธมิตรหรือเพิ่มสินค้ากลุ่มที่รองรับการขัดด้วยระบบหุ่นยนต์อัตโนมัติ"
           }
         },
         {
           "id": "20261102-w2",
           "tag": "steel",
-          "rating": "green",
-          "source": "S&P Global",
-          "date": "2026-01-12",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
-          "title": "Global steel industry battles surplus supply, protectionism",
-          "summary": "The global steel sector faces ongoing challenges from overcapacity, surplus supply, and rising trade protectionism measures across key regions.",
-          "why": "Steel production volume directly impacts metal fabrication activity, which dictates local demand for grinding wheels, cutting discs, and heavy-duty abrasives.",
-          "action": "Monitor steel mill operating rates in our region as a leading indicator for industrial abrasive consumption.",
+          "rating": "amber",
+          "source": "economy.ac",
+          "date": "2026-08-07",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YQWhOYlJ3eW9jTUhwa25XdE55eHh3a2JoODhWdDAtOW00UzhXcWwtNnJJXzZGMjMtNXN6MTYwTUhib3ZHUDNXaTdIbWY2N092QXNsOXFfdw?oc=5",
+          "title": "'Trump Tariffs and AI Boom' Propel U.S. Steel Past Japan to World No. 3 for First Time in 26 Years",
+          "summary": "U.S. steel production has risen to the world's number three spot, propelled by trade tariffs and domestic infrastructure demand linked to the AI boom.",
+          "why": "Shifts in global steel manufacturing hubs alter where metal fabrication and heavy industry surface finishing supplies will be heavily demanded.",
+          "action": "Monitor U.S. and North American metal manufacturing trends for export and supply chain opportunities.",
           "th": {
-            "title": "อุตสาหกรรมเหล็กโลกเผชิญหน้ากับภาวะล้นตลาดและลัทธิกีดกันทางการค้า",
-            "summary": "ภาคอุตสาหกรรมเหล็กทั่วโลกกำลังเผชิญกับความท้าทายจากกำลังการผลิตส่วนเกิน อุปทานล้นตลาด และมาตรการกีดกันทางการค้าที่เพิ่มขึ้นในภูมิภาคหลักๆ",
-            "why": "ปริมาณการผลิตเหล็กส่งผลโดยตรงต่อกิจกรรมการแปรรูปโลหะ ซึ่งเป็นตัวกำหนดความต้องการหินเจียร ใบตัด และกระดาษทรายสำหรับงานหนักในท้องถิ่น",
-            "action": "ติดตามอัตราการดำเนินงานของโรงงานเหล็กในภูมิภาคเพื่อใช้เป็นสัญญาณชี้นำความต้องการใช้วัสดุขัดในภาคอุตสาหกรรม"
+            "title": "มาตรการภาษีและบูม AI ดันเหล็กสหรัฐฯแซงญี่ปุ่นขึ้นสู่อันดับ 3 ของโลกในรอบ 26 ปี",
+            "summary": "การผลิตเหล็กของสหรัฐฯ ขยับขึ้นสู่อันดับ 3 ของโลก ขับเคลื่อนโดยมาตรการภาษีการค้าและความต้องการโครงสร้างพื้นฐานในประเทศที่เกี่ยวข้องกับกระแส AI",
+            "why": "การเปลี่ยนแปลงของฐานการผลิตเหล็กโลกส่งผลต่อพื้นที่ที่จะมีความต้องการใช้วัสดุขัดแต่งผิวโลหะและอุตสาหกรรมหนักเพิ่มขึ้น",
+            "action": "ติดตามแนวโน้มการผลิตโลหะในสหรัฐฯ และอเมริกาเหนือเพื่อหาโอกาสด้านห่วงโซ่อุปทานและการส่งออก"
           }
         },
         {
           "id": "20261102-w3",
           "tag": "auto",
           "rating": "amber",
-          "source": "IEA - International Energy Agency",
-          "date": "2026-05-20",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUmhMdjBTMHNNQVA3WnI0QWx2dnlrZDVLUklVdE1XNmsxeEVPZ2tUN0pVUkstbzBOYXZsbFVjcVhpWk8wUXlvRGhUcVR4alN2TmQyQ1Y0SnVhMUVoeEtna2V2R0ZSdGVoR2hTQVZBaFdqdG5INHdoVzUzNW93TkxfNVUxVQ?oc=5",
-          "title": "Electric vehicle batteries - Global EV Outlook 2026",
-          "summary": "The latest IEA report highlights rapid advancements and scaling in electric vehicle battery manufacturing technologies globally.",
-          "why": "EV battery production involves specialized metal casing, welding cleanup, and precision component finishing that require advanced abrasive solutions.",
-          "action": "Keep an eye on EV battery component manufacturing trends for niche surface prep opportunities.",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-10-28",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMExMd0h3VTZZUGVhTmVoNENZT0RDYkZhOFlTUzZUd3RmT0RNRGJKVjlQVTBmRnkwa21iZEl6ZlNJYmIzVTjjQzU1eGhrcTFPOHhNQWRlSWVWaDlwR2FIVGZmSWJlQk00ZmNRUE5oc1owOGtPSzM2QzNCY0R4YXJNdjdwWExHVzNDM1JXSGRpMnNTdHQ1QXdnWlk2MFlFc21GRXd5QjVVYVItalFMN2hjZmZqZi1nd2I5aVBhYlRhbTQ?oc=5",
+          "title": "China's car industry consolidation begins: who will survive?",
+          "summary": "China's automotive sector is undergoing a major consolidation wave, forcing manufacturers to focus on efficiency, scale, and high-quality production to survive.",
+          "why": "Automotive industry consolidation impacts Tier-1 and Tier-2 suppliers who require reliable deburring, grinding, and surface finishing solutions for parts manufacturing.",
+          "action": "Keep an eye on how surviving Chinese automotive parts suppliers upgrade their finishing and polishing technology.",
           "th": {
-            "title": "แบตเตอรี่รถยนต์ไฟฟ้า - แนวโน้มยานยนต์ไฟฟ้าโลกปี 2026",
-            "summary": "รายงานล่าสุดจาก IEA เน้นย้ำถึงความก้าวหน้าอย่างรวดเร็วและการขยายตัวของเทคโนโลยีการผลิตแบตเตอรี่รถยนต์ไฟฟ้าทั่วโลก",
-            "why": "การผลิตแบตเตอรี่ EV เกี่ยวข้องกับการทำโครงโลหะ การเก็บรอยเชื่อม และการตกแต่งชิ้นส่วนที่มีความแม่นยำ ซึ่งต้องใช้วัสดุขัดที่มีประสิทธิภาพสูง",
-            "action": "ติดตามแนวโน้มการผลิตชิ้นส่วนแบตเตอรี่ EV เพื่อมองหาโอกาสในการนำเสนอผลิตภัณฑ์เตรียมพื้นผิวเฉพาะทาง"
-          }
-        },
-        {
-          "id": "20261102-w4",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "Shanghai Metals Market",
-          "date": "2026-05-19",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMmw1akRRMFZCQ2I5NGhHdE1NOXhoaE1GY0h5UmxlQVNUVGxHTko2U0NBQ0o0Q19ZYmZ1VnBCTTB6a2JJQTFNOUpDSUtpWXdaR3hkeGhlOXF4dF9yUElCd1ZkWTl4MmZGOWhVeUlXc2VCMXFCOHQzZ0ZGZ1RtZ3p6aUNObEczWFhKMkdKQ3JuRWF5SjVNZmpOQVBaSGs4TWJKS1lVa0VTdmoxdDBQTF8zRDlxME1qeEtOUzJzSTBERURobWltWTlVUlpaZ3d2WlFRNEY1b0UwbVVfLXc0cXBZ?oc=5",
-          "title": "[SMM Global Steel Company Special] Nucor: 100% EAF, High Profits, and Vertical Integration Mitigating Costs",
-          "summary": "Analysis of Nucor's electric arc furnace (EAF) model demonstrates how vertical integration and green steel production methods maintain high operational efficiency.",
-          "why": "EAF steel mills and downstream structural steel fabricators represent heavy industrial users of grinding and cutting abrasives.",
-          "action": "Note how EAF-based steel production hubs influence regional metal processing standards and abrasive longevity requirements.",
-          "th": {
-            "title": "[รายงานพิเศษบริษัทเหล็กโลก SMM] Nucor: เตาหลอมไฟฟ้า 100%, กำไรสูง และการบูรณาการแนวตั้งเพื่อลดต้นทุน",
-            "summary": "การวิเคราะห์โมเดลเตาอาร์กไฟฟ้า (EAF) ของ Nucor แสดงให้เห็นว่าการบูรณาการในแนวดิ่งและวิธีการผลิตเหล็กสีเขียวช่วยรักษาประสิทธิภาพการดำเนินงานให้อยู่ในระดับสูง",
-            "why": "โรงงานเหล็กที่ใช้เตา EAF และผู้แปรรูปโครงสร้างเหล็กปลายน้ำถือเป็นกลุ่มผู้ใช้วัสดุขัดและตัดโลหะรายใหญ่ในภาคอุตสาหกรรม",
-            "action": "สังเกตวิธีที่ศูนย์การผลิตเหล็กแบบ EAF ส่งผลต่อมาตรฐานการแปรรูปโลหะในภูมิภาคและความต้องการอายุการใช้งานของวัสดุขัด"
+            "title": "การควบรวมกิจการในอุตสาหกรรมรถยนต์จีนเริ่มต้นขึ้น: ใครจะอยู่รอด?",
+            "summary": "ภาคยานยนต์ของจีนกำลังเข้าสู่คลื่นการควบรวมกิจการครั้งใหญ่ บีบให้ผู้ผลิตต้องเน้นประสิทธิภาพ ขนาด และการผลิตคุณภาพสูงเพื่อความอยู่รอด",
+            "why": "การควบรวมในอุตสาหกรรมยานยนต์ส่งผลต่อผู้ผลิตชิ้นส่วน (Tier-1 และ Tier-2) ที่ต้องใช้วิโซลูชันการลบคม ขัดผิว และเตรียมพื้นผิวที่มีคุณภาพเชื่อถือได้",
+            "action": "จับตาดูว่าผู้ผลิตชิ้นส่วนยานยนต์จีนที่รอด ะมีการยกระดับเทคโนโลยีการขัดแต่งผิวอย่างไรบ้าง"
           }
         }
       ]
