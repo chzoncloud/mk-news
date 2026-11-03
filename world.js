@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-11-03",
-      "summary": "Today's briefing highlights 3 global market and technology signals focusing on surface finishing growth, green coatings, and automotive OEM coating trends, skipping previously covered steel and consolidation news.",
+      "summary": "Today's intelligence briefing highlights 3 new global signals focusing on metal casting growth forecasts, evolving sanding solutions in woodworking, and regional steel market instabilities. These developments point to shifting surface preparation demands across global manufacturing sectors.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปข่าวสารประจำวันนี้เน้น 3 สัญญาณแนวโน้มและเทคโนโลยีระดับโลกที่เกี่ยวข้องกับการเติบโตของการขัดผิววัสดุ สีเคลือบที่เป็นมิตรต่อสิ่งแวดล้อม และแนวโน้มการเคลือบสีรถยนต์ โดยหลีกเลี่ยงข่าวเหล็กและการควบรวมกิจการที่เคยนำเสนอไปแล้ว"
+        "summary": "สรุปข้อมูลข่าวกรองประจำวันนี้เน้น 3 สัญญาณใหม่จากทั่วโลก ได้แก่ การคาดการณ์การเติบโตของอุตสาหกรรมการหล่อโลหะ โซลูชันการขัดผิวไม้ที่พัฒนาขึ้น และความไม่穩定ของตลาดเหล็กในภูมิภาค ซึ่งการเปลี่ยนแปลงเหล่านี้บ่งชี้ถึงความต้องการในการเตรียมพื้นผิวที่ปรับเปลี่ยนไปในภาคการผลิตทั่วโลก"
       },
       "items": [
         {
           "id": "20261103-w1",
-          "tag": "abrasive",
+          "tag": "steel",
           "rating": "green",
-          "source": "EIN News",
-          "date": "2026-10-19",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM2VsRTlqVWR6dlpoUXpZQ04wNnJsRUNBbndKSnNQODIyUXdnTTlIT0hZMC10bGhEUUk0clZ5ZWZRN0I2eVhiVHVPVmRYd05xWUdJdDJldTBsTkZEUVNBNG5qaE9WeXdDN2dSVzJ2TzNsVFhBNVMzakhwZFR6Z0dQeFFVS0ZPa0dmWmh1dHhiYXVWZWRrbk9XS251Ul9SVS1SZ3NON0VXRWxfOWtzazlNcXhUMVBnU2liODhqaXF6OEdGb2NEYkRoaG9uNmx6MlNjMUd2N3Q0emZnUXltZk1wbg?oc=5",
-          "title": "Abrasives Market to Reach $72.2 Billion by 2030, Growing at a 7.6% CAGR Driven by Precision Finishing Demand",
-          "summary": "The global abrasives market is projected to reach $72.2 billion by 2030, driven by a strong 7.6% CAGR fueled by rising demand for precision finishing in manufacturing.",
-          "why": "Demonstrates robust long-term global demand growth for abrasive products, supporting expansion and investment strategies.",
-          "action": "Prepare procurement and inventory plans to capture rising demand for high-precision finishing products.",
+          "source": "Fortune Business Insights",
+          "date": "2026-10-12",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kYlp3TXBwdU5JVl9Gc0pFd3lJSFpjSUhLeEFGOVZVS19BbHBoTFNGb1BFOC1UNEN4c1o0c2xjdTFZYXhVdGRVb0dIeXZqakt1bTJkQy10SC0wRlh0RVVBZHZaWDFYbDk3cHdUbXBsYnRyYTlFVEE?oc=5",
+          "title": "Metal Casting Market Growth Analysis & Industry Forecast, 2034",
+          "summary": "The metal casting market is projected to see steady long-term growth through 2034, driven by industrial demand for precision metal parts.",
+          "why": "More metal castings mean higher demand for heavy-duty grinding, deburring, and surface finishing abrasives.",
+          "action": "Monitor metal casting growth to anticipate rising demand for foundry and deburring abrasive products.",
           "th": {
-            "title": "ตลาดวัสดุขัดถูคาดว่าจะแตะ 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 เติบโต 7.6% จากความต้องการงานขัดผิวความแม่นยำสูง",
-            "summary": "ตลาดวัสดุขัดถูทั่วโลกมีแนวโน้มเติบโตแตะ 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 ด้วยอัตราการเติบโตเฉลี่ย 7.6% ขับเคลื่อนโดยความต้องการงานตกแต่งผิวที่มีความแม่นยำสูงในภาคการผลิต",
-            "why": "แสดงให้เห็นถึงการเติบโตของความต้องการวัสดุขัดทั่วโลกในระยะยาว ซึ่งรองรับกลยุทธ์การขยายธุรกิจและการลงทุน",
-            "action": "เตรียมแผนจัดซื้อและสต็อกสินค้าเพื่อรองรับความต้องการผลิตภัณฑ์ขัดผิวความแม่นยำสูงที่กำลังเพิ่มขึ้น"
+            "title": "การวิเคราะห์การเติบโตของตลาดการหล่อโลหะและการคาดการณ์อุตสาหกรรมถึงปี 2034",
+            "summary": "ตลาดการหล่อโลหะคาดว่าจะมีการเติบโตในระยะยาวอย่างต่อเนื่องจนถึงปี 2034 ซึ่งขับเคลื่อนโดยความต้องการชิ้นส่วนโลหะที่มีความแม่นยำในภาคอุตสาหกรรม",
+            "why": "การหล่อโลหะที่เพิ่มขึ้นหมายถึงความต้องการที่สูงขึ้นสำหรับกระดาษทรายและหินเจียรเพื่องานขัดหยาบ ลบครีบ และตกแต่งผิว",
+            "action": "ติดตามการเติบโตของการหล่อโลหะเพื่อคาดการณ์ความต้องการผลิตภัณฑ์อับราซีฟสำหรับงานโรงหล่อและงานลบครีบที่เพิ่มสูงขึ้น"
           }
         },
         {
           "id": "20261103-w2",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "Market Business Insights",
-          "date": "2026-10-14",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBSDItTlp3MlgweDg2N3hibzBRRVgwVGJKa3RRWUpXc0pMcjJ3U241dE1LcnRYR3hna3hBUjNRdzZBdFIwUUEtTnd1MlFYdXIwTGpOVWNCVWpjeU45M1JISk1tVkZUYVpjR25UVUN3?oc=5",
-          "title": "Green Coatings Market Size & Growth Analysis, 2026-2035",
-          "summary": "The green coatings market is expanding significantly as industries shift toward sustainable, eco-friendly surface solutions and low-VOC formulations.",
-          "why": "Surface prep and sanding processes must adapt to new eco-friendly coatings and substrate treatments used by manufacturers.",
-          "action": "Monitor shifts in customer coating specifications to align abrasive grit and surface preparation solutions accordingly.",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "Woodworking Network",
+          "date": "2026-10-28",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPenJGZzhiOUMyeFhrU09yQ3hfR1puSkF4NFhiV19HUUtvbE1POE9iUzZ4T3pZOTdKaVlKSWdZQ1RHSGhVdHJSdmstZWdaUE9wMGVDMEJJckNIRzBHck5UcmZWOFctbUhnQVA5OWRtTmVpVno0MHlsQzRfd0FIWEFTSDJPNW1zS1R6Tk9rV3ZyZE0waVpUQ2U0eFgtY0U?oc=5",
+          "title": "New technology tackles familiar sanding challenges",
+          "summary": "Recent manufacturing updates highlight innovative techniques and materials being introduced to solve persistent wood sanding problems.",
+          "why": "Woodworking remains a major sector for coated abrasives; new sanding technologies affect what finish quality customers will expect.",
+          "action": "Review our wood-sanding product line to ensure we offer modern solutions matching global efficiency standards.",
           "th": {
-            "title": "บทวิเคราะห์ขนาดและการเติบโตของตลาดสีเคลือบที่เป็นมิตรต่อสิ่งแวดล้อม ปี 2026-2035",
-            "summary": "ตลาดสีเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมกำลังขยายตัวอย่างมาก เนื่องจากภาคอุตสาหกรรมหันมาใช้โซลูชันพื้นผิวที่ยั่งยืนและมีสารประกอบอินทรีย์ระเหยง่ายต่ำ (low-VOC)",
-            "why": "กระบวนการเตรียมพื้นผิวและการขัดต้องปรับตัวให้เข้ากับสารเคลือบและวัสดุที่เป็นมิตรต่อสิ่งแวดล้อมแบบใหม่ที่ผู้ผลิตใช้งาน",
-            "action": "ติดตามการเปลี่ยนแปลงข้อกำหนดการเคลือบของลูกค้า เพื่อปรับโซลูชันกระดาษทรายและการเตรียมพื้นผิวให้สอดคล้องกัน"
+            "title": "เทคโนโลยีใหม่แก้ปัญหาความท้าทายในการขัดผิวไม้ที่คุ้นเคย",
+            "summary": "อัปเดตการผลิตล่าสุดเน้นย้ำถึงเทคนิคและวัสดุนวัตกรรมใหม่ๆ ที่ถูกนำมาใช้เพื่อแก้ปัญหาการขัดไม้ที่มีมาอย่างยาวนาน",
+            "why": "อุตสาหกรรมไม้ยังคงเป็นตลาดหลักสำหรับกระดาษทรายสายพานและกระดาษทรายแผ่น เทคโนโลยีการขัดใหม่ๆ ส่งผลต่อมาตรฐานคุณภาพผิวงานที่ลูกค้าคาดหวัง",
+            "action": "ทบทวนกลุ่มผลิตภัณฑ์กระดาษทรายขัดไม้ของเราเพื่อให้มั่นใจว่าเรามีโซลูชันที่ทันสมัยและสอดคล้องกับมาตรฐานประสิทธิภาพระดับโลก"
           }
         },
         {
           "id": "20261103-w3",
-          "tag": "auto",
+          "tag": "steel",
           "rating": "amber",
-          "source": "Fortune Business Insights",
-          "date": "2026-10-05",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
-          "title": "Automotive OEM Coatings Market Size, Industry Report, 2034",
-          "summary": "The automotive OEM coatings market continues to evolve through 2034, driven by new vehicle designs, lightweight materials, and advanced finishing standards.",
-          "why": "Automotive manufacturing requires specialized surface preparation and sanding for advanced lightweight bodies and EV components.",
-          "action": "Keep an eye on emerging automotive finishing standards to identify potential niches for specialized abrasive applications.",
+          "source": "GMK Center",
+          "date": "2025-12-10",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTkRBWWNOeHZ2MVpKT3F4T19ySE1VQUU1dkVXTGY4ZUlJcW9XWl9UNld3R0lHVzRqZk1MQ2pmQkpMaVZnS0YxT2VwZG9WYjJ4aHhZR1FyVTdIYXlYanpXQnpJUnU0MlM5MkJFa3ZVMU54QkFMekVMbndOVHJEbmVsV1hHdW5Pa2tCVUNfcXIxU1MxOGxFQzJTStIBngFBVV95cUxPcXhjLW13T21jMXhYMmpIRU52Y3VFWkk5QUJOaWdfaFgyUmxyQUJZdHU5cm4tWTZRLWxXRUJfRjZIUE5NaE44am5yVmdtR2NXck14aW1laDNQNkU2U1B6VkQzNm1sRl84S2JJVExEOVFnR0p6cmwteFhaWXVvZTRzaWFCdHFLOGJ2cWpMbXRGTTdMem1JSDV4a3EwdTFVUQ?oc=5",
+          "title": "Turkey’s steel sector is unstable compared to the global one – TCUD",
+          "summary": "Reports indicate volatility and structural instability within Turkey's steel manufacturing industry amidst fluctuating global conditions.",
+          "why": "Regional steel instability impacts local metal processing activity and changes export/import dynamics for raw materials and tools.",
+          "action": "Keep an eye on regional metal market shifts that might influence international pricing and supply chain flows.",
           "th": {
-            "title": "รายงานอุตสาหกรรมและขนาดตลาดสีเคลือบ OEM ยานยนต์ ปี 2034",
-            "summary": "ตลาดสีเคลือบ OEM สำหรับยานยนต์ยังคงพัฒนาอย่างต่อเนื่องจนถึงปี 2034 ขับเคลื่อนโดยการออกแบบยานยนต์ใหม่ วัสดุน้ำหนักเบา และมาตรฐานการทำสีขั้นสูง",
-            "why": "การผลิตยานยนต์ต้องอาศัยการเตรียมพื้นผิวและการขัดที่จำเพาะเจาะจงสำหรับตัวถังน้ำหนักเบารุ่นใหม่และชิ้นส่วน EV",
-            "action": "ติดตามมาตรฐานการทำสียานยนต์ที่กำลังเกิดขึ้น เพื่อหาโอกาสใหม่สำหรับผลิตภัณฑ์วัสดุขัดเฉพาะทาง"
+            "title": "ภาคส่วนเหล็กของตุรกีมีความไม่เสถียรเมื่อเทียบกับตลาดโลก - TCUD",
+            "summary": "รายงานระบุถึงความผันผวนและความไม่เสถียรเชิงโครงสร้างภายในอุตสาหกรรมการผลิตเหล็กของตุรกีท่ามกลางสภาวะตลาดโลกที่ผันผวน",
+            "why": "ความไม่เสถียรของตลาดเหล็กในระดับภูมิภาคส่งผลกระทบต่อกิจกรรมการแปรรูปโลหะในท้องถิ่น และเปลี่ยนพลวัตการนำเข้า-ส่งออกของวัตถุดิบและเครื่องมือ",
+            "action": "จับตาดูการเปลี่ยนแปลงของตลาดโลหะในภูมิภาคที่อาจส่งผลต่อราคาระหว่างประเทศและกระแสซัพพลายเชน"
           }
         }
       ]
