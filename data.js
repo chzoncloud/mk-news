@@ -2,6 +2,89 @@
 window.NEWS_ARCHIVE = {
   "days": [
     {
+      "date": "2026-11-03",
+      "summary": "Today has limited fresh news; key highlights focus on long-term abrasive demand from the upcoming woodworking exhibition, EV tax restructuring, and continued MRO hub expansion.",
+      "directCount": 1,
+      "th": {
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยประเด็นเด่นเน้นไปที่โอกาสจำหน่ายกระดาษทรายจากงานแสดงสินค้าอุตสาหกรรมไม้ TIWF 2026 ควบคู่กับความคืบหน้าโครงสร้างภาษี EV และการขยายศูนย์ซ่อมอากาศยาน"
+      },
+      "items": [
+        {
+          "id": "20261103-1",
+          "tag": "furniture",
+          "rating": "green",
+          "source": "เดลินิวส์",
+          "date": "2026-07-14",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9adEFrWDVzcmYtTHp3ajZROXkzYjBRdHh4bHRwVm51UG54VkIwZ0w0Zm5NS1VLQWZVZFVyTmM4UTF5QW9tUm53MDRHZUVHVG9CR0xF?oc=5",
+          "title": "TIWF 2026 Set to Elevate Woodworking and Furniture Manufacturing Across ASEAN",
+          "summary": "The Thailand International Woodworking and Furniture Exhibition is positioned as a premier regional platform showcasing advanced woodworking machinery and sustainable processing tech.",
+          "why": "Industrial furniture and woodworking production directly consumes high volumes of wide sanding belts, abrasive rolls, and orbital sanding discs.",
+          "action": "Plan a targeted marketing campaign and prepare product kits for wide sanding belts and orbital discs tailored for furniture exhibitors and attendees.",
+          "th": {
+            "title": "TIWF 2026 ปักหมุดยกระดับอุตสาหกรรมงานไม้และเฟอร์นิเจอร์สู่ระดับภูมิภาคอาเซียน",
+            "summary": "งาน TIWF เตรียมจัดขึ้นเพื่อเป็นเวทีระดับภูมิภาค แสดงเทคโนโลยีเครื่องจักรงานไม้และโซลูชันการแปรรูปไม้อย่างยั่งยืน",
+            "why": "โรงงานแปรรูปไม้และเฟอร์นิเจอร์ใช้วัสดุขัดผิวปริมาณมาก ทั้งสายพานผ้าทรายหน้ากว้าง กระดาษทรายม้วน และจานขัดกลม",
+            "action": "วางแผนแคมเปญการตลาดและจัดชุดสินค้าสายพานหน้ากว้างและจานขัดกลมเจาะกลุ่มโรงงานไม้ที่จะเข้าร่วมงานแสดงสินค้า"
+          }
+        },
+        {
+          "id": "20261103-2",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "spacebar.th",
+          "date": "2026-10-20",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBSV3kydU5uQ0k0bkh5V25WZUJIZjJuNE9XNDczODl3dlJMNm0tdEhVT1RFVk5SZVJfZURYNHA0OFR5UXZlbW5vZUtqYlhNcHpFbXFBaUl6RHE5dVIwUmpWa1NYT2Y3UWRESzk3aVQyNnI1dDg?oc=5",
+          "title": "Thailand's Restructured EV Excise Tax Differentiates Local Assemblers from Importers",
+          "summary": "The newly adjusted EV excise tax rates aim to reward manufacturers establishing local assembly lines while placing higher burdens on direct CBU importers.",
+          "why": "Higher incentives for domestic assembly will safeguard stamping, welding, and deburring operations within Thai automotive supply chains.",
+          "action": "Track Tier-1 and Tier-2 sheet metal stamping suppliers winning EV supply contracts to introduce heavy-duty grinding discs and belts.",
+          "th": {
+            "title": "ภาษี EV ใหม่ ชี้ชะตาผู้ผลิตไทยสร้างแต้มต่อเหนือรถนำเข้าสำเร็จรูป",
+            "summary": "โครงสร้างภาษีสรรพสามิต EV ใหม่มุ่งสนับสนุนค่ายรถที่ตั้งฐานประกอบในประเทศ ขณะที่เพิ่มภาระภาษีต่อรถนำเข้าสำเร็จรูป",
+            "why": "การหนุนฐานการผลิตในประเทศช่วยรักษาปริมาณงานปั๊มขึ้นรูป เชื่อมประกอบ และขัดแต่งผิวชิ้นส่วนยานยนต์ในไทย",
+            "action": "ติดตามรายชื่อซัพพลายเออร์ปั๊มชิ้นส่วนโลหะที่ได้สัญญาผลิตชิ้นส่วน EV เพื่อนำเสนอจานขัดและสายพานเจียรงานหนัก"
+          }
+        },
+        {
+          "id": "20261103-3",
+          "tag": "aero",
+          "rating": "amber",
+          "source": "thansettakij",
+          "date": "2026-06-16",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pbFFnQlhiSG5UMVBfTjVmMUZtNXc4ZkYyOFljMVFtQlQwalZ5WUpidFlzX3prejlBWGoydDYzUUZXMlY4bE56VFUwZnZrLVJfWlRtV2t0Wi0xOWkzeVFLTUFJOVIwUQ?oc=5",
+          "title": "EECO Advances U-Tapao Aviation MRO Hub Awaiting VietJet Investment Study",
+          "summary": "The EEC Policy Office is pushing forward the U-Tapao aircraft maintenance hub, pending VietJet's feasibility study to develop additional maintenance facilities.",
+          "why": "Attracting multiple airline operators to U-Tapao will enlarge Thailand's addressable market for high-precision aviation maintenance abrasives.",
+          "action": "Pre-screen specialized non-woven surface conditioning discs and aerospace-grade abrasives to prepare for future maintenance procurement bids.",
+          "th": {
+            "title": "อีอีซีเดินหน้าศูนย์ซ่อมฯ อู่ตะเภา รอ ‘เวียตเจ็ท’ ศึกษาชงแผนลงทุน",
+            "summary": "สกพอ. เร่งขับเคลื่อนพื้นที่ศูนย์ซ่อมอากาศยานอู่ตะเภา โดยรอผลการศึกษาความเป็นไปได้จากสายการบินเวียตเจ็ทเพื่อเปิดศูนย์ซ่อมบำรุงเพิ่มเติม",
+            "why": "หากมีสายการบินรายใหญ่เข้ามาลงทุนเพิ่ม จะขยายขนาดตลาดสำหรับวัสดุขัดแต่งผิวเกรดการบินความละเอียดสูงในระยะยาว",
+            "action": "คัดเลือกและทดสอบจานขัดใยสังเคราะห์และวัสดุขัดเกรดการบินเพื่อเตรียมความพร้อมรับงานประมูลซ่อมบำรุงในอนาคต"
+          }
+        },
+        {
+          "id": "20261103-4",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "Thairath.co.th",
+          "date": "2026-05-22",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5yOEdKVkRNRnBpc1dWRGRuNzNtN1NHR09mSlc3eHpQem1iLUg4TVY0bkN2eDF4bWhhZ3JfTU5idGxKN2trZUJfS1hRMlkxZHQ5T29sTVBMdU5fTHR0V09GQ2h0c19ZSGRrVU9oaTI3eVQydWc?oc=5",
+          "title": "Steel Industry Associations Support Crackdown on Substandard Mills and Illegal Furnaces",
+          "summary": "Ten steel associations commended the Ministry of Industry for shutting down substandard manufacturing plants and enforcing stricter compliance against substandard metal.",
+          "why": "Eliminating substandard metal producers shields legitimate metal fabrication mills that regularly purchase certified industrial cutting and grinding tools.",
+          "action": "Focus sales efforts on certified domestic structural steel fabricators and metal workshops benefiting from standard enforcement.",
+          "th": {
+            "title": "10 สมาคมเหล็กหนุนกระทรวงอุตสาหกรรม เชือดโรงงานผลิตเหล็กไม่ได้มาตรฐาน",
+            "summary": "สมาคมผู้ผลิตเหล็กสนับสนุนกระทรวงอุตสาหกรรมในการสั่งปิดโรงงานที่ไม่ได้มาตรฐานและบังคับใช้กฎหมายอย่างเข้มงวด",
+            "why": "การปราบปรามโรงงานไม่ได้มาตรฐานช่วยปกป้องโรงงานแปรรูปโลหะที่มีคุณภาพ ซึ่งเป็นกลุ่มผู้ซื้อใบเจียรและใบตัดมาตรฐานอย่างต่อเนื่อง",
+            "action": "มุ่งเน้นขายตรงแก่โรงงานโครงสร้างเหล็กและแปรรูปโลหะมาตรฐานที่ได้รับผลดีจากการบังคับใช้กฎหมายอุตสาหกรรม"
+          }
+        }
+      ],
+      "terms": {}
+    },
+    {
       "date": "2026-11-02",
       "summary": "Today features limited fresh updates; key developments focus on Japanese automakers ramping up local investments to counter Chinese rivals, alongside government automotive tax reforms and scrutiny over domestic steel mills.",
       "directCount": 1,
@@ -978,72 +1061,7 @@ window.NEWS_ARCHIVE = {
         }
       ],
       "terms": {}
-    },
-    {
-      "date": "2026-10-20",
-      "summary": "Today has limited new developments, but Toyota's 1.49-billion-baht investment in hydrogen pickup production in Thailand is a major direct catalyst for automotive metal finishing and assembly line demand.",
-      "directCount": 1,
-      "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มาก แต่งานลงทุน 1,490 ล้านบาทของโตโยต้าในการผลิตกระบะไฮโดรเจนในไทย ถือเป็นปัจจัยบวกโดยตรงต่อความต้องการวัสดุขัดแต่งผิวโลหะในสายการประกอบยานยนต์"
-      },
-      "items": [
-        {
-          "id": "20261020-1",
-          "tag": "auto",
-          "rating": "green",
-          "source": "thansettakij",
-          "date": "2026-10-19",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBicTYzcThxZjZTVjBTd2VabC03SGtrcHZUcUFxaTlLUU16czY2UlJaNHZtVFc1THZrXzR1RlhmRWN1a0sxaTJyd1NvZmtnTDQzU0NQcHl3?oc=5",
-          "title": "Toyota Invests 1.49 Billion Baht to Produce Hydrogen Hilux Pickups in Thailand for Global Export",
-          "summary": "BOI has officially approved Toyota's 1.49-billion-baht project to produce 3,000 hydrogen fuel-cell Hilux pickups annually in Thailand for global export.",
-          "why": "This directly benefits MK, as Toyota and its Japanese tier-1 metal stamping vendors are our core target accounts needing abrasives for chassis welding and body finishing.",
-          "action": "Approach Toyota production engineering and tier-1 stamping suppliers to pitch heavy-duty flap discs and sanding belts for new assembly lines.",
-          "th": {
-            "title": "โตโยต้าทุ่ม 1,490 ล้าน ผลิต Hilux ไฮโดรเจนในไทย 3,000 คันต่อปี ปักฐานส่งออกโลก",
-            "summary": "บีโอไออนุมัติโครงการลงทุน 1,490 ล้านบาทของโตโยต้า ผลิตรถกระบะ Hilux ไฮโดรเจนในไทย 3,000 คันต่อปี เพื่อเป็นฐานส่งออกสู่ตลาดโลก",
-            "why": "ส่งผลดีต่อเราโดยตรง เนื่องจากโตโยต้าและซัพพลายเออร์ชิ้นส่วนโลหะสัญชาติญี่ปุ่นคือลูกค้ากลุ่มเป้าหมายหลักที่ต้องใช้วัสดุขัดเจียรในงานเชื่อมแชสซีและเตรียมผิวตัวถัง",
-            "action": "เร่งประสานฝ่ายวิศวกรรมการผลิตของโตโยต้าและโรงงานปั๊มชิ้นส่วน Tier-1 เพื่อเสนอจานทรายซ้อนและสายพานขัดสำหรับไลน์ประกอบรุ่นใหม่"
-          }
-        },
-        {
-          "id": "20261020-2",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "มิติหุ้น",
-          "date": "2026-09-25",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9udF9SZWlMTGsyTVBmV0RNVHlBTE1KUHlvc0RMQnNkbjV6S1d3aGprUkxJNFhxNU5PTmVTNVBPTVh2OWtFT0xSM21xdGg5Sll2Yk1mV3pB?oc=5",
-          "title": "Ten Steel Associations Commend Ministry of Industry for Enforcing Standards on Substandard Imports",
-          "summary": "Ten domestic steel associations met with the Ministry of Industry and TISI to applaud continuous enforcement against cheap, substandard steel products.",
-          "why": "Stricter regulatory controls protect compliant local steel rolling and fabrication mills, preserving factory operations and continuous demand for cutting and grinding consumables.",
-          "action": "Target certified domestic structural steel fabricators to introduce cost-effective cutting wheels and deburring discs.",
-          "th": {
-            "title": "10 สมาคมเหล็กพบ “อุตสาหกรรม-สมอ.” ชื่นชมปราบเหล็กไม่ได้มาตรฐาน",
-            "summary": "10 สมาคมผู้ประกอบการเหล็กเข้าพบกระทรวงอุตสาหกรรมและ สมอ. เพื่อแสดงความชื่นชมมาตรการกวาดล้างเหล็กนำเข้าด้อยคุณภาพอย่างต่อเนื่อง",
-            "why": "การคุมเข้มมาตรฐานช่วยปกป้องโรงงานผลิตและแปรรูปเหล็กมาตรฐานในไทยให้เดินเครื่องผลิตต่อได้ ส่งผลให้ความต้องการใช้วัสดุตัดและเจียรในโรงงานยังคงเสถียร",
-            "action": "มุ่งเจาะกลุ่มโรงงานแปรรูปโครงสร้างเหล็กมาตรฐานเพื่อนำเสนอใบตัดและใบเจียรลบครีบที่ช่วยประหยัดต้นทุน"
-          }
-        },
-        {
-          "id": "20261020-3",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Thai PBS",
-          "date": "2026-09-11",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5UWnpkOVRxUzRQMWR5dG55OC1qNTVoRGpWd0RDa2ZRSUpQb3lLMFBRQi14MG1ZOWtfQkx3MzVUa243ZXlNY2hSVVR1ZXZZak43cm5CZnNhUko?oc=5",
-          "title": "Thai Chamber of Commerce Backs EV Board Tax Policy Mandating Local Content",
-          "summary": "The Thai Chamber of Commerce endorsed EV Board proposals to restructure automotive taxes, incentivizing assemblers to procure more domestic parts.",
-          "why": "Mandating higher local content pushes carmakers to order from Thai-based parts makers, spurring metal stamping, machining, and surface preparation activity.",
-          "action": "Map local Tier-2 automotive parts manufacturers gaining new component orders and offer automated deburring and polishing abrasives.",
-          "th": {
-            "title": "หอการค้าไทยขานรับบอร์ด EV ชงภาษีจูงใจลงทุนดัน Local Content",
-            "summary": "หอการค้าไทยร่วมสนับสนุนแนวทางปรับภาษีของบอร์ด EV เพื่อผลักดันให้ค่ายรถยนต์เร่งจัดซื้อและใช้ชิ้นส่วนที่ผลิตในประเทศมากขึ้น",
-            "why": "การเพิ่มสัดส่วนชิ้นส่วนในประเทศจะช่วยเพิ่มคำสั่งซื้อแก่โรงงานซัพพลายเออร์ไทย ซึ่งส่งผลให้ปริมาณงานปั๊มขึ้นรูป กัดกลึง และขัดแต่งผิวชิ้นงานเพิ่มขึ้น",
-            "action": "จัดทำรายชื่อผู้ผลิตชิ้นส่วนยานยนต์ Tier-2 ที่ได้รับงานใหม่ เพื่อนำเสนอวัสดุขัดลบคมและขัดเงาสำหรับกระบวนการผลิตอัตโนมัติ"
-          }
-        }
-      ],
-      "terms": {}
     }
   ],
-  "updated": "2026-11-02"
+  "updated": "2026-11-03"
 };
