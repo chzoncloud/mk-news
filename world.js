@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-11-03",
-      "summary": "Today's global trend briefing focuses on EV structural material shifts, European steel carbon regulations, and advanced surface finishing dynamics. While steel markets battle surplus and regulatory changes, rising aluminium use in EV manufacturing signals new surface prep requirements.",
+      "summary": "Today's briefing highlights 3 global market and technology signals focusing on surface finishing growth, green coatings, and automotive OEM coating trends, skipping previously covered steel and consolidation news.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปเทรนด์โลกประจำวันเน้นการเปลี่ยนผ่านวัสดุตระกูล EV, กฎระเบียบคาร์บอนเหล็กในยุโรป และทิศทางงานขัดตกแต่งพื้นผิว ตลาดเหล็กกำลังเผชิญกับภาวะล้นตลาดและกฎระเบียบใหม่ ขณะที่การใช้อลูมิเนียมในรถยนต์ EV ที่เพิ่มขึ้นส่งสัญญาณความต้องการเตรียมพื้นผิวแบบใหม่"
+        "summary": "สรุปข่าวสารประจำวันนี้เน้น 3 สัญญาณแนวโน้มและเทคโนโลยีระดับโลกที่เกี่ยวข้องกับการเติบโตของการขัดผิววัสดุ สีเคลือบที่เป็นมิตรต่อสิ่งแวดล้อม และแนวโน้มการเคลือบสีรถยนต์ โดยหลีกเลี่ยงข่าวเหล็กและการควบรวมกิจการที่เคยนำเสนอไปแล้ว"
       },
       "items": [
         {
           "id": "20261103-w1",
-          "tag": "auto",
+          "tag": "abrasive",
           "rating": "green",
-          "source": "AL Circle",
-          "date": "2026-10-16",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRV8xaTM0dnJ2ckVZV3lpMTJ6cVlZTmxmb0ZWZzgtOWFmRU02MVRJR0pwTHRZWGxCLXBkUWo1eFFjYUdSVEozUW1fU1NrOUxnYlFMRlpTak90NExFN3JsbElFUjRwbUc4OWNsd1cwd1R3VUVJc2J4amY5bm5FSHhqV0k5VjJLaTlXT09aUGVwbHhtaGQtQjIzSTdSMTBKWFFjOFJZbkRua2o4el9HZlFIVEJwTnJJV2VZX255V0hYWl9oeVQ2NjZpN2MwTUhlWHVRNHZIckR0cy1mejhKSzI4RVBvZTdiSnhpeS1tanFkWFo5RWlJR0Jz?oc=5",
-          "title": "Germany’s automotive industry drives 32.8% of aluminium consumption as EV production rises 23%, led by Volkswagen, BMW & Mercedes-Benz",
-          "summary": "German EV production surges by 23%, significantly increasing the consumption of aluminium across major automakers like Volkswagen, BMW, and Mercedes-Benz.",
-          "why": "Aluminium requires different grinding, deburring, and surface finishing techniques compared to traditional steel. The shift in EV materials directly impacts what kind of abrasives our industrial customers need.",
-          "action": "Review our product lineup for non-ferrous metal and aluminium finishing abrasives to capture upcoming automotive supply chain demand.",
+          "source": "EIN News",
+          "date": "2026-10-19",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM2VsRTlqVWR6dlpoUXpZQ04wNnJsRUNBbndKSnNQODIyUXdnTTlIT0hZMC10bGhEUUk0clZ5ZWZRN0I2eVhiVHVPVmRYd05xWUdJdDJldTBsTkZEUVNBNG5qaE9WeXdDN2dSVzJ2TzNsVFhBNVMzakhwZFR6Z0dQeFFVS0ZPa0dmWmh1dHhiYXVWZWRrbk9XS251Ul9SVS1SZ3NON0VXRWxfOWtzazlNcXhUMVBnU2liODhqaXF6OEdGb2NEYkRoaG9uNmx6MlNjMUd2N3Q0emZnUXltZk1wbg?oc=5",
+          "title": "Abrasives Market to Reach $72.2 Billion by 2030, Growing at a 7.6% CAGR Driven by Precision Finishing Demand",
+          "summary": "The global abrasives market is projected to reach $72.2 billion by 2030, driven by a strong 7.6% CAGR fueled by rising demand for precision finishing in manufacturing.",
+          "why": "Demonstrates robust long-term global demand growth for abrasive products, supporting expansion and investment strategies.",
+          "action": "Prepare procurement and inventory plans to capture rising demand for high-precision finishing products.",
           "th": {
-            "title": "อุตสาหกรรมยานยนต์เยอรมนีขับเคลื่อนการใช้อลูมิเนียมพุ่ง 32.8% ตามการผลิต EV ที่เติบโต 23% นำโดย VW, BMW และ Mercedes-Benz",
-            "summary": "การผลิตรถยนต์ EV ในเยอรมนีพุ่งสูงขึ้น 23% ส่งผลให้การใช้อลูมิเนียมในกลุ่มค่ายรถยนต์รายใหญ่เพิ่มขึ้นอย่างมีนัยสำคัญ",
-            "why": "อลูมิเนียมต้องใช้วิธีการขัด ลบคม และเตรียมพื้นผิวที่แตกต่างจากเหล็กแบบเดิม การเปลี่ยนแปลงวัสดุใน EV นี้ส่งผลโดยตรงต่อชนิดของกระดาษทรายและใบเจียรที่ลูกค้าอุตสาหกรรมต้องการ",
-            "action": "ทบทวนกลุ่มผลิตภัณฑ์กระดาษทรายและหินเจียรสำหรับงานโลหะนอกกลุ่มเหล็กและอลูมิเนียม เพื่อรองรับความต้องการในห่วงโซ่อุปทานยานยนต์"
+            "title": "ตลาดวัสดุขัดถูคาดว่าจะแตะ 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 เติบโต 7.6% จากความต้องการงานขัดผิวความแม่นยำสูง",
+            "summary": "ตลาดวัสดุขัดถูทั่วโลกมีแนวโน้มเติบโตแตะ 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 ด้วยอัตราการเติบโตเฉลี่ย 7.6% ขับเคลื่อนโดยความต้องการงานตกแต่งผิวที่มีความแม่นยำสูงในภาคการผลิต",
+            "why": "แสดงให้เห็นถึงการเติบโตของความต้องการวัสดุขัดทั่วโลกในระยะยาว ซึ่งรองรับกลยุทธ์การขยายธุรกิจและการลงทุน",
+            "action": "เตรียมแผนจัดซื้อและสต็อกสินค้าเพื่อรองรับความต้องการผลิตภัณฑ์ขัดผิวความแม่นยำสูงที่กำลังเพิ่มขึ้น"
           }
         },
         {
           "id": "20261103-w2",
-          "tag": "steel",
+          "tag": "coating",
           "rating": "amber",
-          "source": "S&P Global",
-          "date": "2026-01-07",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSDJTcGFGbUFvRm15ZDhrczNqYkRzbHlXMTJZTHJpUF9CTjRHaTNXak4tdVBkbnBWcnNrRDRneXpBd1Z5SUJGSFZWTzJMNWhfcVl5czkzR0lSSjd4aTJzMTg3N2FWM3pHQ2NxbHg2dEp2ckNiNC16cWdJZ0t3anl3TzlUYldVajhqM05JQVEyWWdZYVdaYkEzZUpvUEJGdHAxXzRKdDRnNG1pQl9LaEN6Q0lpbFpPMTBOeElqT3V2NUdUSlJJNjZWOEpiMWc?oc=5",
-          "title": "Europe's steel industry faces its 2026 reckoning with CBAM",
-          "summary": "Europe's steel sector faces strict transitional regulations under the Carbon Border Adjustment Mechanism (CBAM), impacting import competitiveness and production standards.",
-          "why": "Stริct environmental rules in Europe affect steel mill output and processing methods, which can cascade down to surface finishing requirements and machine utilization.",
-          "action": "Monitor how European environmental standards influence global steel processing requirements and export standards.",
+          "source": "Market Business Insights",
+          "date": "2026-10-14",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBSDItTlp3MlgweDg2N3hibzBRRVgwVGJKa3RRWUpXc0pMcjJ3U241dE1LcnRYR3hna3hBUjNRdzZBdFIwUUEtTnd1MlFYdXIwTGpOVWNCVWpjeU45M1JISk1tVkZUYVpjR25UVUN3?oc=5",
+          "title": "Green Coatings Market Size & Growth Analysis, 2026-2035",
+          "summary": "The green coatings market is expanding significantly as industries shift toward sustainable, eco-friendly surface solutions and low-VOC formulations.",
+          "why": "Surface prep and sanding processes must adapt to new eco-friendly coatings and substrate treatments used by manufacturers.",
+          "action": "Monitor shifts in customer coating specifications to align abrasive grit and surface preparation solutions accordingly.",
           "th": {
-            "title": "อุตสาหกรรมเหล็กยุโรปเผชิญบททดสอบสำคัญในปี 2026 ด้วยมาตรการ CBAM",
-            "summary": "ภาคอุตสาหกรรมเหล็กของยุโรปต้องเผชิญกับกฎระเบียบที่เข้มงวดภายใต้มาตรการปรับคาร์บอนก่อนข้ามพรมแดน (CBAM) ซึ่งส่งผลต่อความสามารถในการแข่งขันของการนำเข้า",
-            "why": "กฎระเบียบด้านสิ่งแวดล้อมที่เข้มงวดในยุโรปส่งผลต่อปริมาณการผลิตและกระบวนการแปรรูปเหล็ก ซึ่งอาจส่งผลต่อเนื่องไปยังข้อกำหนดการขัดผิวและอัตราการใช้เครื่องจักร",
-            "action": "ติดตามว่ามาตรฐานสิ่งแวดล้อมของยุโรปส่งผลต่อความต้องการแปรรูปเหล็กและมาตรฐานการส่งออกระดับโลกอย่างไร"
+            "title": "บทวิเคราะห์ขนาดและการเติบโตของตลาดสีเคลือบที่เป็นมิตรต่อสิ่งแวดล้อม ปี 2026-2035",
+            "summary": "ตลาดสีเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมกำลังขยายตัวอย่างมาก เนื่องจากภาคอุตสาหกรรมหันมาใช้โซลูชันพื้นผิวที่ยั่งยืนและมีสารประกอบอินทรีย์ระเหยง่ายต่ำ (low-VOC)",
+            "why": "กระบวนการเตรียมพื้นผิวและการขัดต้องปรับตัวให้เข้ากับสารเคลือบและวัสดุที่เป็นมิตรต่อสิ่งแวดล้อมแบบใหม่ที่ผู้ผลิตใช้งาน",
+            "action": "ติดตามการเปลี่ยนแปลงข้อกำหนดการเคลือบของลูกค้า เพื่อปรับโซลูชันกระดาษทรายและการเตรียมพื้นผิวให้สอดคล้องกัน"
           }
         },
         {
           "id": "20261103-w3",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "Cutting Tool Engineering",
-          "date": "2026-01-19",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdlIxbnF0ZzBnSUozVVYybGZwMnF5R09nTWZib2VyNFB2WXpIYTJEcGFpd0lfQjBDcG42eTJiNDQ2eEJhUmdGT29PZ0w4NlNSRjhhQ2w3TmplcVloMDJ5bjNYZDF1UVdLbXYxS0RtYTRFSmtDMFVaVGxVVk5zMnVxeVBiTjhiVXpydFU3YUNMR19nRlJlT3NkT3Jjb3B3dHZqQnRN?oc=5",
-          "title": "Single-layered approach: The fundamentals of using coated abrasives in metalworking",
-          "summary": "An analysis of single-layered coated abrasive applications highlights precision methodologies for modern metal fabrication and surface finishing.",
-          "why": "Understanding advanced coated abrasive application techniques helps us advise B2B clients on efficiency gains, grain selection, and cost reduction in metalworking.",
-          "action": "Share technical insights on abrasive layer efficiency with our sales team to better consult metalworking clients.",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Fortune Business Insights",
+          "date": "2026-10-05",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
+          "title": "Automotive OEM Coatings Market Size, Industry Report, 2034",
+          "summary": "The automotive OEM coatings market continues to evolve through 2034, driven by new vehicle designs, lightweight materials, and advanced finishing standards.",
+          "why": "Automotive manufacturing requires specialized surface preparation and sanding for advanced lightweight bodies and EV components.",
+          "action": "Keep an eye on emerging automotive finishing standards to identify potential niches for specialized abrasive applications.",
           "th": {
-            "title": "แนวทางแบบชั้นเดียว: พื้นฐานการใช้กระดาษทรายสายพานในงานโลหะ",
-            "summary": "การวิเคราะห์การใช้งานกระดาษทรายเคลือบแบบชั้นเดียวเน้นย้ำถึงวิธีการที่มีความแม่นยำสูงสำหรับงานขึ้นรูปโลหะและการตกแต่งพื้นผิวสมัยใหม่",
-            "why": "ความเข้าใจในเทคนิคการใช้กระดาษทรายเคลือบขั้นสูงช่วยให้เราสามารถให้คำปรึกษาแก่ลูกค้า B2B ในเรื่องการเพิ่มประสิทธิภาพ การเลือกเบอร์เม็ดทราย และการลดต้นทุนในงานโลหะ",
-            "action": "ถ่ายทอดความรู้ทางเทคนิคเกี่ยวกับประสิทธิภาพของชั้นวัสดุขัดให้กับทีมขาย เพื่อให้คำปรึกษาแก่ลูกค้ากลุ่มงานโลหะได้ดียิ่งขึ้น"
+            "title": "รายงานอุตสาหกรรมและขนาดตลาดสีเคลือบ OEM ยานยนต์ ปี 2034",
+            "summary": "ตลาดสีเคลือบ OEM สำหรับยานยนต์ยังคงพัฒนาอย่างต่อเนื่องจนถึงปี 2034 ขับเคลื่อนโดยการออกแบบยานยนต์ใหม่ วัสดุน้ำหนักเบา และมาตรฐานการทำสีขั้นสูง",
+            "why": "การผลิตยานยนต์ต้องอาศัยการเตรียมพื้นผิวและการขัดที่จำเพาะเจาะจงสำหรับตัวถังน้ำหนักเบารุ่นใหม่และชิ้นส่วน EV",
+            "action": "ติดตามมาตรฐานการทำสียานยนต์ที่กำลังเกิดขึ้น เพื่อหาโอกาสใหม่สำหรับผลิตภัณฑ์วัสดุขัดเฉพาะทาง"
           }
         }
       ]
