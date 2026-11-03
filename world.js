@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-11-02",
+  "updated": "2026-11-03",
   "days": [
+    {
+      "date": "2026-11-03",
+      "summary": "Today's global trend briefing focuses on EV structural material shifts, European steel carbon regulations, and advanced surface finishing dynamics. While steel markets battle surplus and regulatory changes, rising aluminium use in EV manufacturing signals new surface prep requirements.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปเทรนด์โลกประจำวันเน้นการเปลี่ยนผ่านวัสดุตระกูล EV, กฎระเบียบคาร์บอนเหล็กในยุโรป และทิศทางงานขัดตกแต่งพื้นผิว ตลาดเหล็กกำลังเผชิญกับภาวะล้นตลาดและกฎระเบียบใหม่ ขณะที่การใช้อลูมิเนียมในรถยนต์ EV ที่เพิ่มขึ้นส่งสัญญาณความต้องการเตรียมพื้นผิวแบบใหม่"
+      },
+      "items": [
+        {
+          "id": "20261103-w1",
+          "tag": "auto",
+          "rating": "green",
+          "source": "AL Circle",
+          "date": "2026-10-16",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRV8xaTM0dnJ2ckVZV3lpMTJ6cVlZTmxmb0ZWZzgtOWFmRU02MVRJR0pwTHRZWGxCLXBkUWo1eFFjYUdSVEozUW1fU1NrOUxnYlFMRlpTak90NExFN3JsbElFUjRwbUc4OWNsd1cwd1R3VUVJc2J4amY5bm5FSHhqV0k5VjJLaTlXT09aUGVwbHhtaGQtQjIzSTdSMTBKWFFjOFJZbkRua2o4el9HZlFIVEJwTnJJV2VZX255V0hYWl9oeVQ2NjZpN2MwTUhlWHVRNHZIckR0cy1mejhKSzI4RVBvZTdiSnhpeS1tanFkWFo5RWlJR0Jz?oc=5",
+          "title": "Germany’s automotive industry drives 32.8% of aluminium consumption as EV production rises 23%, led by Volkswagen, BMW & Mercedes-Benz",
+          "summary": "German EV production surges by 23%, significantly increasing the consumption of aluminium across major automakers like Volkswagen, BMW, and Mercedes-Benz.",
+          "why": "Aluminium requires different grinding, deburring, and surface finishing techniques compared to traditional steel. The shift in EV materials directly impacts what kind of abrasives our industrial customers need.",
+          "action": "Review our product lineup for non-ferrous metal and aluminium finishing abrasives to capture upcoming automotive supply chain demand.",
+          "th": {
+            "title": "อุตสาหกรรมยานยนต์เยอรมนีขับเคลื่อนการใช้อลูมิเนียมพุ่ง 32.8% ตามการผลิต EV ที่เติบโต 23% นำโดย VW, BMW และ Mercedes-Benz",
+            "summary": "การผลิตรถยนต์ EV ในเยอรมนีพุ่งสูงขึ้น 23% ส่งผลให้การใช้อลูมิเนียมในกลุ่มค่ายรถยนต์รายใหญ่เพิ่มขึ้นอย่างมีนัยสำคัญ",
+            "why": "อลูมิเนียมต้องใช้วิธีการขัด ลบคม และเตรียมพื้นผิวที่แตกต่างจากเหล็กแบบเดิม การเปลี่ยนแปลงวัสดุใน EV นี้ส่งผลโดยตรงต่อชนิดของกระดาษทรายและใบเจียรที่ลูกค้าอุตสาหกรรมต้องการ",
+            "action": "ทบทวนกลุ่มผลิตภัณฑ์กระดาษทรายและหินเจียรสำหรับงานโลหะนอกกลุ่มเหล็กและอลูมิเนียม เพื่อรองรับความต้องการในห่วงโซ่อุปทานยานยนต์"
+          }
+        },
+        {
+          "id": "20261103-w2",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "S&P Global",
+          "date": "2026-01-07",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSDJTcGFGbUFvRm15ZDhrczNqYkRzbHlXMTJZTHJpUF9CTjRHaTNXak4tdVBkbnBWcnNrRDRneXpBd1Z5SUJGSFZWTzJMNWhfcVl5czkzR0lSSjd4aTJzMTg3N2FWM3pHQ2NxbHg2dEp2ckNiNC16cWdJZ0t3anl3TzlUYldVajhqM05JQVEyWWdZYVdaYkEzZUpvUEJGdHAxXzRKdDRnNG1pQl9LaEN6Q0lpbFpPMTBOeElqT3V2NUdUSlJJNjZWOEpiMWc?oc=5",
+          "title": "Europe's steel industry faces its 2026 reckoning with CBAM",
+          "summary": "Europe's steel sector faces strict transitional regulations under the Carbon Border Adjustment Mechanism (CBAM), impacting import competitiveness and production standards.",
+          "why": "Stริct environmental rules in Europe affect steel mill output and processing methods, which can cascade down to surface finishing requirements and machine utilization.",
+          "action": "Monitor how European environmental standards influence global steel processing requirements and export standards.",
+          "th": {
+            "title": "อุตสาหกรรมเหล็กยุโรปเผชิญบททดสอบสำคัญในปี 2026 ด้วยมาตรการ CBAM",
+            "summary": "ภาคอุตสาหกรรมเหล็กของยุโรปต้องเผชิญกับกฎระเบียบที่เข้มงวดภายใต้มาตรการปรับคาร์บอนก่อนข้ามพรมแดน (CBAM) ซึ่งส่งผลต่อความสามารถในการแข่งขันของการนำเข้า",
+            "why": "กฎระเบียบด้านสิ่งแวดล้อมที่เข้มงวดในยุโรปส่งผลต่อปริมาณการผลิตและกระบวนการแปรรูปเหล็ก ซึ่งอาจส่งผลต่อเนื่องไปยังข้อกำหนดการขัดผิวและอัตราการใช้เครื่องจักร",
+            "action": "ติดตามว่ามาตรฐานสิ่งแวดล้อมของยุโรปส่งผลต่อความต้องการแปรรูปเหล็กและมาตรฐานการส่งออกระดับโลกอย่างไร"
+          }
+        },
+        {
+          "id": "20261103-w3",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "Cutting Tool Engineering",
+          "date": "2026-01-19",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdlIxbnF0ZzBnSUozVVYybGZwMnF5R09nTWZib2VyNFB2WXpIYTJEcGFpd0lfQjBDcG42eTJiNDQ2eEJhUmdGT29PZ0w4NlNSRjhhQ2w3TmplcVloMDJ5bjNYZDF1UVdLbXYxS0RtYTRFSmtDMFVaVGxVVk5zMnVxeVBiTjhiVXpydFU3YUNMR19nRlJlT3NkT3Jjb3B3dHZqQnRN?oc=5",
+          "title": "Single-layered approach: The fundamentals of using coated abrasives in metalworking",
+          "summary": "An analysis of single-layered coated abrasive applications highlights precision methodologies for modern metal fabrication and surface finishing.",
+          "why": "Understanding advanced coated abrasive application techniques helps us advise B2B clients on efficiency gains, grain selection, and cost reduction in metalworking.",
+          "action": "Share technical insights on abrasive layer efficiency with our sales team to better consult metalworking clients.",
+          "th": {
+            "title": "แนวทางแบบชั้นเดียว: พื้นฐานการใช้กระดาษทรายสายพานในงานโลหะ",
+            "summary": "การวิเคราะห์การใช้งานกระดาษทรายเคลือบแบบชั้นเดียวเน้นย้ำถึงวิธีการที่มีความแม่นยำสูงสำหรับงานขึ้นรูปโลหะและการตกแต่งพื้นผิวสมัยใหม่",
+            "why": "ความเข้าใจในเทคนิคการใช้กระดาษทรายเคลือบขั้นสูงช่วยให้เราสามารถให้คำปรึกษาแก่ลูกค้า B2B ในเรื่องการเพิ่มประสิทธิภาพ การเลือกเบอร์เม็ดทราย และการลดต้นทุนในงานโลหะ",
+            "action": "ถ่ายทอดความรู้ทางเทคนิคเกี่ยวกับประสิทธิภาพของชั้นวัสดุขัดให้กับทีมขาย เพื่อให้คำปรึกษาแก่ลูกค้ากลุ่มงานโลหะได้ดียิ่งขึ้น"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-11-02",
       "summary": "Today's briefing focuses on global metalworking expansion, shifting steel and trade dynamics, and automotive manufacturing shifts that directly influence industrial surface preparation and abrasive demand.",
@@ -938,70 +1002,6 @@ window.WORLD_ARCHIVE = {
             "summary": "วิเคราะห์โมเดลการผลิตเหล็กด้วยเตาอาร์กไฟฟ้า (EAF) 100% ของ Nucor พร้อมเน้นความสามารถในการทำกำไรและการจัดการต้นทุนผ่านการบูรณาการแนวดิ่ง",
             "why": "โรงงานเหล็ก EAF ผลิตเหล็กรีไซเคิลที่มีเศษเหล็กปะปน ซึ่งมักมีคราบผิวและรอยตำหนิที่ต้องใช้หินเจียรและแผ่นขัดหยาบสมรรถนะสูง",
             "action": "ทำความเข้าใจลักษณะพื้นผิวเหล็กจากเตา EAF เพื่อนำเสนอหินเจียรและล้อขัดที่เหมาะสมกับโรงงานเหล็กรีไซเคิล"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-10-20",
-      "summary": "Today's briefing focuses on global manufacturing growth for abrasives, advanced EV assembly/powertrain shifts, and steel trade policy impacts. These updates signal steady demand for precision surface finishing and superhard materials.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปข้อมูลแนวโน้มโลกวันนี้เน้นการเติบโตของตลาดวัสดุขัดถู การเปลี่ยนแปลงในสายการผลิตรถยนต์ EV และผลกระทบจากนโยบายการค้าเหล็ก ซึ่งบ่งชี้ถึงความต้องการที่ต่อเนื่องในด้านการเตรียมผิวและการขัดแต่งความแม่นยำสูง"
-      },
-      "items": [
-        {
-          "id": "20261020-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "EIN News",
-          "date": "2026-10-19",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM2VsRTlqVWR6dlpoUXpZQ04wNnJsRUNBbndKSnNQODIyUXdnTTlIT0hZMC10bGhEUUk0clZ5ZWZRN0I2eVhiVHVPVmRYd05xWUdJdDJldTBsTkZEUVNBNG5qaE9WeXdDN2dSVzJ2TzNsVFhBNVMzakhwZFR6Z0dQeFFVS0ZPa0dmWmh1dHhiYXVXWWRrbk9XS251Ul9SVS1SZ3NON0VXRWxfOWtzazlNcXhUMVBnU2liODhqaXF6OEdGb2NEYkRoaG9uNmx6MlNjMUd2N3Q0emZnUXltZk1wbg?oc=5",
-          "title": "Abrasives Market to Reach $72.2 Billion by 2030, Growing at a 7.6% CAGR Driven by Precision Finishing Demand",
-          "summary": "The global abrasives market is projected to reach $72.2 billion by 2030, expanding at a robust 7.6% CAGR driven by increasing demand for precision finishing across manufacturing sectors.",
-          "why": "Validates long-term global growth and robust demand for surface preparation, sanding, and grinding products in industrial supply chains.",
-          "action": "Maintain focus on high-margin precision finishing and specialized abrasives to capture expanding industrial demand.",
-          "th": {
-            "title": "ตลาดวัสดุขัดถูเติบโตแตะ 7.22 หมื่นล้านดอลลาร์สหรัฐภายในปี 2030 หนุนโดยความต้องการขัดแต่งความแม่นยำสูง",
-            "summary": "ตลาดวัสดุขัดถูทั่วโลกคาดว่าจะเติบโตถึง 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 ด้วยอัตราการเติบโตเฉลี่ย 7.6% ต่อปี ขับเคลื่อนโดยความต้องการงานขัดผิวที่แม่นยำในภาคการผลิต",
-            "why": "ยืนยันการเติบโตในระยะยาวและความต้องการผลิตภัณฑ์กระดาษทรายและอุปกรณ์ขัดผิวที่แข็งแกร่งในห่วงโซ่อุปทานภาคอุตสาหกรรม",
-            "action": "มุ่งเน้นผลิตภัณฑ์กลุ่มงานขัดผิวความแม่นยำสูงและวัสดุขัดพิเศษเพื่อรองรับความต้องการของตลาดอุตสาหกรรมที่ขยายตัว"
-          }
-        },
-        {
-          "id": "20261020-w2",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Precedence Research",
-          "date": "2026-09-10",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55Unk5SmloN3VleVV4dFM2cHNTR0xjZ3drOVR1d3BYN0dXX0pLMko0aHVwOUZSdnFNdHpoOTdqZ3lmd2xTQXBBVHM5SUxCMnFIbVJpTUp6bGluLVVQQ0pYd0lBLWcyOVpaR3VLWGFCd1M?oc=5",
-          "title": "Automotive Powertrain Market Companies, Size & Trends 2026-2035",
-          "summary": "The automotive powertrain market continues to evolve through 2035, balancing traditional internal combustion systems with fast-advancing EV propulsion components.",
-          "why": "Powertrain manufacturing heavily involves metal machining, deburring, and surface grinding of complex components, affecting industrial abrasive consumption.",
-          "action": "Monitor shifts in powertrain component machining requirements to adapt industrial abrasive supply for metal parts.",
-          "th": {
-            "title": "ตลาดระบบขับเคลื่อนยานยนต์: ขนาด บริษัท และแนวโน้มปี 2026-2035",
-            "summary": "ตลาดระบบขับเคลื่อนยานยนต์ยังคงพัฒนาอย่างต่อเนื่องถึงปี 2035 โดยสร้างสมดุลระหว่างระบบเครื่องยนต์สันดาปภายในแบบดั้งเดิมกับชิ้นส่วนขับเคลื่อน EV ที่พัฒนาอย่างรวดเร็ว",
-            "why": "กระบวนการผลิตระบบขับเคลื่อนเกี่ยวข้องกับงานตัดเฉือนโลหะ การลบคม และการเจียระไนผิวชิ้นส่วนซับซ้อน ซึ่งส่งผลโดยตรงต่อการใช้วัสดุขัดในอุตสาหกรรม",
-            "action": "ติดตามการเปลี่ยนแปลงข้อกำหนดในการตัดเฉือนชิ้นส่วนระบบขับเคลื่อน เพื่อปรับอุปทานวัสดุขัดโลหะให้สอดคล้อง"
-          }
-        },
-        {
-          "id": "20261020-w3",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "Reuters",
-          "date": "2026-04-02",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWFZKb2ppb3RHdXNXbnBJZzR4WGc5dHJ3ZkVvVlVMYVFwUjN4TkxQR203bEtjTlo3d3NnTDBaSXZSZzMxUkY5QVlWMFF2V3NGM2VOMk0zMk14NkVfWDVyNF96QlVMQ2tHb0oyWm5nRm9pQmpOYTdoWTJQUTdXMHZOR1RLT0RJaldfT3NMRmNJXzhMcHhMM1p2dHVzaEtHaGtBME54MGJUbW5MdDFNX2tkZkktOGNiLTQ3ZjRiTw?oc=5",
-          "title": "A year after 'Liberation Day,' Trump sets new drug tariffs, adjusts metals duties",
-          "summary": "Recent trade policy adjustments modify metal duties, creating ongoing shifts in global steel and metal pricing dynamics and supply sourcing.",
-          "why": "Metal prices and regional supply shifts directly influence production costs and demand levels among our heavy industry and steel fabrication customers.",
-          "action": "Keep an eye on metal market cost fluctuations to anticipate regional manufacturing output and abrasive buying patterns.",
-          "th": {
-            "title": "หนึ่งปีหลังวันประกาศอิสรภาพ: สหรัฐฯ ปรับขึ้นภาษีศุลกากรสินค้าและปรับเปลี่ยนอากรโลหะ",
-            "summary": "การปรับนโยบายการค้าล่าสุดได้เปลี่ยนแปลงอัตราอากรโลหะ ส่งผลให้เกิดความผันผวนและปรับเปลี่ยนทิศทางราคารวมถึงแหล่งที่มาของโลหะและเหล็กทั่วโลก",
-            "why": "ความผันผวนของราคาโลหะและห่วงโซ่อุปทานระดับภูมิภาคมีผลโดยตรงต่อต้นทุนการผลิตและระดับความต้องการของลูกค้าในกลุ่มอุตสาหกรรมหนักและแปรรูปเหล็ก",
-            "action": "จับตาความผันผวนของต้นทุนตลาดโลหะเพื่อคาดการณ์ปริมาณการผลิตในภูมิภาคและรูปแบบการซื้อวัสดุขัด"
           }
         }
       ]
