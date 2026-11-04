@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-11-03",
+  "updated": "2026-11-04",
   "days": [
+    {
+      "date": "2026-11-04",
+      "summary": "Today's briefing highlights new market data for blue ceramic abrasives and industrial coatings, alongside European steel's regulatory reckoning with CBAM and shifting global manufacturing trends.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปรายงานวันนี้เน้นข้อมูลตลาดใหม่ของกลุ่มกระดาษทรายเซรามิกสีฟ้าและสารเคลือบอุตสาหกรรม พร้อมด้วยความท้าทายของอุตสาหกรรมเหล็กยุโรปจากกฎระเบียบ CBAM และแนวโน้มการผลิตระดับโลก"
+      },
+      "items": [
+        {
+          "id": "20261104-w1",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-11-02",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeWRrVkJoSERZcnUtUTVYNjFlRDRXeVAzeF9YLVJoU0RtQXEwVXIzNnA4dlYtWmplVGpqSlJxVVM4czVXMGRfUjZub3JFSHVXaWV3QXJtRF9yLVBKOHNiaHNSZERmMndyX3dvZ0ticFVWNEhhV2JUUVktUXM0Ylc1Q0tPanhMVXhYR2tKM24tcmpZbW9uRjNzRVR3eUkzNUtfM2NIYS1NRVFiVUw0SVFZLVRuTV9kaTExMWN0V3RQT0pOekgwZDg1c0l2SkZMMXdkZEFvUVJB?oc=5",
+          "title": "Blue Ceramic Abrasive Market To 2035: Precision Grinding Demand Supports Forward Growth",
+          "summary": "The global market for blue ceramic abrasives is projected to grow steadily through 2035, driven by high demand for precision grinding applications in advanced manufacturing.",
+          "why": "Ceramic grain is a premium, high-margin segment in the abrasives market. Tracking this growth helps us understand where high-end end-users are moving for durability and cutting speed.",
+          "action": "Consider evaluating our premium ceramic grain product portfolio and highlighting durability to target precision workshops.",
+          "th": {
+            "title": "ตลาดวัสดุขัดเซรามิกสีฟ้าถึงปี 2035: ความต้องการเจียรความแม่นยำสูงหนุนการเติบโต",
+            "summary": "ตลาดโลกของวัสดุขัดเซรามิกสีฟ้าคาดว่าจะเติบโตอย่างต่อเนื่องจนถึงปี 2035 ขับเคลื่อนโดยความต้องการสูงในการเจียรความแม่นยำในอุตสาหกรรมการผลิตขั้นสูง",
+            "why": "เม็ดทรายเซรามิกเป็นกลุ่มสินค้าพรีเมียมที่มีกำไรสูงในตลาดวัสดุขัด การติดตามการเติบโตนี้ช่วยให้เราเข้าใจทิศทางของลูกค้ากลุ่มไฮเอนด์ที่ต้องการความทนทานและความเร็วในการตัด",
+            "action": "พิจารณาประเมินกลุ่มผลิตภัณฑ์เม็ดทรายเซรามิกพรีเมียมของเรา และเน้นจุดขายด้านความทนทานเพื่อเจาะกลุ่มตลาดงานความแม่นยำสูง"
+          }
+        },
+        {
+          "id": "20261104-w2",
+          "tag": "coating",
+          "rating": "green",
+          "source": "GlobeNewswire",
+          "date": "2026-02-21",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMXJQWHFvQlV0VDZVenplWERhbktIRUs0aGdZZzVLNTNucGRjNTM1czJ4X3JmcDRhVU0wd0dKRGdHOXRhVnc1MjdQSzN0dHo2MmNZdG9ZR1ZEMjJYQXVldE5jUGFjSjRYNmVNTW1jeGVodjhuZHRMU19qVFRzY3ZVS0pRaG42VGVBbHRoTkNWQktqQVlpT21KNzhDQ2NpNjctN1BYaXVYdGxPbzR1emFRWEhWajh3VUlNM080bzVvT213b0RiTlVaaVdSYmQtS2xSSlNSOGgyOVg?oc=5",
+          "title": "Industrial Coatings Market Size to Surpass USD 176.06 Billion by 2035",
+          "summary": "The global industrial coatings sector is expanding rapidly, projected to exceed USD 176 billion over the next decade as manufacturing output increases.",
+          "why": "Surface preparation and sanding are mandatory pre-steps for industrial coating applications. A larger coatings market means steady underlying demand for abrasives.",
+          "action": "Align our surface prep product messaging with industrial painters and coating applicators who need optimal surface profile adhesion.",
+          "th": {
+            "title": "ตลาดสารเคลือบอุตสาหกรรมมีมูลค่าทะยานเกิน 1.76 แสนล้านดอลลาร์ภายในปี 2035",
+            "summary": "ภาคธุรกิจสารเคลือบอุตสาหกรรมทั่วโลกกำลังขยายตัวอย่างรวดเร็ว โดยคาดว่าจะมีมูลค่าเกิน 1.76 แสนล้านดอลลาร์ในทศวรรษหน้า ตามผลผลิตภาคการผลิตที่เพิ่มขึ้น",
+            "why": "การเตรียมพื้นผิวและการขัดกระดาษทรายเป็นขั้นตอนจำเป็นก่อนการเคลือบสีอุตสาหกรรม ตลาดสารเคลือบที่ใหญ่ขึ้นหมายถึงความต้องการใช้วัสดุขัดที่เติบโตอย่างต่อเนื่อง",
+            "action": "ปรับการนำเสนอผลิตภัณฑ์เตรียมพื้นผิวให้สอดคล้องกับกลุ่มช่างพ่นสีและผู้ให้บริการเคลือบอุตสาหกรรมที่ต้องการความหยาบผิวเพื่อการยึดเกาะที่ดี"
+          }
+        },
+        {
+          "id": "20261104-w3",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "S&P Global",
+          "date": "2026-01-07",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSDJTcGFGbUFvRm15ZDhrczNqYkRzbHlXMTJZTHJpUF9CTjRHaTNXak4tdVBkbnBWcnNrRDRneXpBd1Z5SUJGSFZWTzJMNWhfcVl5czkzR0lSSjd4aTJzMTg3N2FWM3pHQ2NxbHg2dEp2ckNiNC16cWdJZ0t3anl3TzlUYldVajhqM05JQVEyWWdZYVdaYkEzZUpvUEJGdHAxXzRKdDRnNG1pQl9LaEN6Q0lpbFpPMTBOeElqT3V2NUdUSlJJNjZWOEpiMWc?oc=5",
+          "title": "Europe's steel industry faces its 2026 reckoning with CBAM",
+          "summary": "European steel producers are facing strict regulatory pressures and cost adjustments in 2026 due to the implementation of the Carbon Border Adjustment Mechanism (CBAM).",
+          "why": "Steel production costs and carbon rules in export markets heavily influence metal fabrication activity, which directly impacts local metalworking shops consuming grinding disks.",
+          "action": "Monitor steel-processing client sentiment as environmental compliance costs alter European and global metal supply chains.",
+          "th": {
+            "title": "อุตสาหกรรมเหล็กยุโรปเผชิญจุดเปลี่ยนในปี 2026 จากมาตรการ CBAM",
+            "summary": "ผู้ผลิตเหล็กในยุโรปกำลังเผชิญแรงกดดันด้านกฎระเบียบและการปรับต้นทุนในปี 2026 จากการบังคับใช้มาตรการปรับคาร์บอนก่อนข้ามพรมแดน (CBAM)",
+            "why": "ต้นทุนการผลิตเหล็กและกฎเกณฑ์สิ่งแวดล้อมในตลาดส่งออกส่งผลกระทบอย่างมากต่อกิจกรรมการแปรรูปโลหะ ซึ่งส่งผลโดยตรงต่อร้านแปรรูปโลหะท้องถิ่นที่ใช้แผ่นเจียร",
+            "action": "ติดตามความรู้สึกของลูกค้ากลุ่มแปรรูปเหล็ก เนื่องจากต้นทุนการปฏิบัติตามกฎระเบียบด้านสิ่งแวดล้อมกำลังปรับเปลี่ยนห่วงโซ่อุปทานโลหะทั่วโลก"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-11-03",
       "summary": "Today's intelligence briefing highlights 3 new global signals focusing on metal casting growth forecasts, evolving sanding solutions in woodworking, and regional steel market instabilities. These developments point to shifting surface preparation demands across global manufacturing sectors.",
@@ -920,88 +984,6 @@ window.WORLD_ARCHIVE = {
             "summary": "รายงานแนวโน้ม EV โลกของ IEA เน้นย้ำถึงการเปลี่ยนแปลงเชิงโครงสร้างในฐานการผลิตและการค้าระหว่างประเทศสำหรับยานยนต์ไฟฟ้าและห่วงโซ่อุปทาน",
             "why": "การเปลี่ยนแปลงของการผลิตยานยนต์ส่งผลโดยตรงต่อความต้องการใช้กระดาษทรายในงานพ่นสีรถยนต์ ระบบขัดผิวด้วยหุ่นยนต์ และการเตรียมผิวชิ้นส่วนโลหะปั๊ม",
             "action": "ติดตามการย้ายฐานการผลิตยานยนต์ในภูมิภาคเพื่อคาดการณ์ความต้องการวัสดุสิ้นเปลืองสำหรับงานขัดจากกลุ่ม OEM"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-10-21",
-      "summary": "Today's global trend briefing highlights key developments in superhard diamond abrasives, steel industry adjustments driven by carbon border tariffs, and smart EV manufacturing shifts impacting precision surface preparation.",
-      "directCount": 4,
-      "th": {
-        "summary": "สรุปแนวโน้มโลกประจำวันนี้เน้นการพัฒนาวัสดุขัดเพชรความแข็งสูง การปรับตัวของอุตสาหกรรมเหล็กจากภาษีคาร์บอน และการเปลี่ยนแปลงในสายการผลิต EV อัจฉริยะที่ส่งผลต่อธุรกิจขัดตกแต่งผิว"
-      },
-      "items": [
-        {
-          "id": "20261021-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "The National Law Review",
-          "date": "2026-10-16",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONzc1UG5lV0E3Z2JCYnd2dFpLZmt2VTRYVEk5cHlBS2FYaDIzNHNJeTNBd3R3dDE0cFF4QlhNZE9ZX3N4enpseURtMGRTMmFHRWNPdmY2NlZ2R1F6b01ma01GXzlTMXlJd3FJdzZsY093dEVCczVVNTNPaU56Z2l0emR3d2hPNDQwT2xDY01CZW5Ib195T3RMR0tQdTY0d1FwdGgxWnB5RGI1aXpwRkNXWnln?oc=5",
-          "title": "Five Reputable Diamond Sanding Belts Manufacturers in China 2026: Optimizing Superhard Abrasive Machining",
-          "summary": "A spotlight on top Chinese manufacturers producing superhard diamond sanding belts optimized for advanced industrial machining.",
-          "why": "Superhard diamond abrasives represent the high-performance tier of surface finishing, directly competing with and replacing conventional grains in hard metal applications.",
-          "action": "Monitor Chinese manufacturing capabilities in diamond belts to evaluate high-end product sourcing or competitive threats.",
-          "th": {
-            "title": "5 ผู้ผลิตสายพานขัดเพชรชั้นนำในจีน 2026: การเพิ่มประสิทธิภาพงานขัดด้วยวัสดุอัดเม็ดขัดความแข็งสูงพิเศษ",
-            "summary": "เจาะลึกผู้ผลิตจีนชั้นนำที่ผลิตสายพานขัดเพชรความแข็งสูงพิเศษสำหรับงานแปรรูปอุตสาหกรรมขั้นสูง",
-            "why": "วัสดุขัดเพชรความแข็งสูงคือกลุ่มผลิตภัณฑ์ตกแต่งผิวประสิทธิภาพสูง ซึ่งกำลังแย่งส่วนแบ่งและแทนที่เม็ดทรายขัดแบบดั้งเดิมในงานโลหะแข็ง",
-            "action": "ติดตามความสามารถในการผลิตสายพานเพชรของจีนเพื่อประเมินการจัดหาผลิตภัณฑ์ระดับบนหรือการแข่งขันในตลาด"
-          }
-        },
-        {
-          "id": "20261021-w2",
-          "tag": "steel",
-          "rating": "green",
-          "source": "S&P Global",
-          "date": "2026-01-07",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSDJTcGFGbUFvRm15ZDhrczNqYkRzbHlXMTJZTHJpUF9CTjRHaTNWak4tdVBkbnBWcnNrRDRneXpBd1Z5SUJGSFZWTzJMNWhfcVl5czkzR0lSSjd4aTJzMTg3N2FWM3pHQ2NxbHg2dEp2ckNiNC16cWdJZ0t3anl3TzlUYldVajhqM05JQVEyWWdZYVdaYkEzZUpvUEJGdHAxXzRKdDRnNG1pQl9LaEN6Q0lpbFpPMTBOeElqT3V2NUdUSlJJNjZWOEpiMWc?oc=5",
-          "title": "Europe's steel industry faces its 2026 reckoning with CBAM",
-          "summary": "European steel mills are grappling with the strict enforcement of the Carbon Border Adjustment Mechanism (CBAM), altering supply chains and production costs.",
-          "why": "European steel production adjustments directly influence local metal processing volumes, changing the demand for heavy-duty grinding and deburring abrasives.",
-          "action": "Keep an eye on European metal fabrication trends as strict carbon rules shift supplier preferences and processing methods.",
-          "th": {
-            "title": "อุตสาหกรรมเหล็กของยุโรปเผชิญบททดสอบสำคัญในปี 2026 ด้วยมาตรการ CBAM",
-            "summary": "โรงงานเหล็กในยุโรปกำลังเผชิญกับการบังคับใช้มาตรการปรับคาร์บอนก่อนข้ามแดน (CBAM) อย่างเข้มงวด ซึ่งส่งผลต่อห่วงโซ่อุปทานและต้นทุนการผลิต",
-            "why": "การปรับตัวของการผลิตเหล็กในยุโรปส่งผลโดยตรงต่อปริมาณการแปรรูปโลหะในท้องถิ่น และเปลี่ยนความต้องการใช้หินเจียรและใบขัดลบคมงานหนัก",
-            "action": "ติดตามแนวโน้มการผลิตโลหะในยุโรปเนื่องจากกฎระเบียบคาร์บอนที่เข้มงวดกำลังเปลี่ยนความต้องการของผู้ผลิตและวิธีการแปรรูป"
-          }
-        },
-        {
-          "id": "20261021-w3",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-09-10",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVjkzSTlDYzItRzJSVXhQSjc1a0ttQ0dIRVYxRDgxaHFiQ0x3c1ZsLTdZQ0RRSk04bmhjdHQ4ZGJrV0lLVk45XzQ5ZzQwN1VwMDNERWNWVEpJNTRVYzZqTFFmcEIyUUZRNG9LOHp6ODIxYm80eEZrcTBOdENvenJqdktfcm5neXlITEZSRXNQclF2ZUpGUXVLTmY3SmhCRUlHdldDVC11QjRnZ3UtYzRlbzAwYS1yaW5oZV8zWmRMY2k?oc=5",
-          "title": "Smart-factory wiring woes: EVs demand automation now, not later",
-          "summary": "EV manufacturers are urgently accelerating factory automation to resolve complex wiring and assembly bottlenecks.",
-          "why": "Automated EV component manufacturing requires specialized robotic surface preparation and precision deburring rather than manual hand sanding.",
-          "action": "Explore robotic-compatible abrasive discs and quick-change systems designed for automated robotic finishing cells.",
-          "th": {
-            "title": "ปัญหาการเดินสายไฟในโรงงานอัจฉริยะ: รถยนต์ EV เรียกร้องระบบอัตโนมัติเดี๋ยวนี้ไม่ใช่รอช้า",
-            "summary": "ผู้ผลิตรถยนต์ EV เร่งนำระบบอัตโนมัติมาใช้ในโรงงานเพื่อแก้ปัญหาคอขวดด้านการเดินสายไฟและการประกอบที่ซับซ้อน",
-            "why": "การผลิตชิ้นส่วน EV แบบอัตโนมัติจำเป็นต้องใช้กระบวนการเตรียมผิวและลบคมด้วยหุ่นยนต์ที่มีความแม่นยำสูง แทนการใช้คนขัดด้วยมือ",
-            "action": "ศึกษาผลิตภัณฑ์จานขัดที่รองรับระบบหุ่นยนต์และระบบเปลี่ยนเร็ว (Quick-change) สำหรับสายการผลิตอัตโนมัติ"
-          }
-        },
-        {
-          "id": "20261021-w4",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "Shanghai Metals Market",
-          "date": "2026-05-19",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMmw1akRRMFZCQ2I5NGhHdE1NOXhoaE1GY0h5UmxlQVNUVGxHTko2U0NBQ0o0Q19ZYmZ1VnBCTTB6a2JJQTFNOUpDSUtpWXdaR3hkeGhlOXF4dF9yUElCd1ZkWTl4MmZGOWhVeUlXc2VCMXFCOHQzZ0ZGZ1RtZ3p6aUNObEczWFhKMkdKQ3JuRWF5SjVNZmpOQVBaSGs4TWJKS1lVa0VTdmoxdDBQTF8zRDlxME1qeEtOUzJzSTBERURobWltWTlVUlpaZ3d2WlFRNEY1b0UwbVVfLXc0cXBZ?oc=5",
-          "title": "[SMM Global Steel Company Special] Nucor: 100% EAF, High Profits, and Vertical Integration Mitigating Costs",
-          "summary": "An analysis of Nucor's 100% Electric Arc Furnace (EAF) steelmaking model, highlighting high profitability and cost management through vertical integration.",
-          "why": "EAF steel mills produce scrap-heavy, recycled steel which often presents unique surface scaling and edge imperfections requiring heavy conditioning abrasives.",
-          "action": "Understand EAF steel surface characteristics to position snagging and grinding wheels tailored for recycled steel mills.",
-          "th": {
-            "title": "[เจาะลึกบริษัทเหล็กโลก SMM] Nucor: เตาอาร์กไฟฟ้า 100%, กำไรสูง และการบูรณาการในแนวดิ่งเพื่อลดต้นทุน",
-            "summary": "วิเคราะห์โมเดลการผลิตเหล็กด้วยเตาอาร์กไฟฟ้า (EAF) 100% ของ Nucor พร้อมเน้นความสามารถในการทำกำไรและการจัดการต้นทุนผ่านการบูรณาการแนวดิ่ง",
-            "why": "โรงงานเหล็ก EAF ผลิตเหล็กรีไซเคิลที่มีเศษเหล็กปะปน ซึ่งมักมีคราบผิวและรอยตำหนิที่ต้องใช้หินเจียรและแผ่นขัดหยาบสมรรถนะสูง",
-            "action": "ทำความเข้าใจลักษณะพื้นผิวเหล็กจากเตา EAF เพื่อนำเสนอหินเจียรและล้อขัดที่เหมาะสมกับโรงงานเหล็กรีไซเคิล"
           }
         }
       ]
