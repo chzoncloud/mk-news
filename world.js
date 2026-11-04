@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-11-04",
-      "summary": "Today's briefing highlights new market data for blue ceramic abrasives and industrial coatings, alongside European steel's regulatory reckoning with CBAM and shifting global manufacturing trends.",
-      "directCount": 3,
+      "summary": "Today's briefing highlights global market expansion in abrasive grains, surging metal prices, and stringent European sustainability regulations impacting metal and industrial sectors.",
+      "directCount": 2,
       "th": {
-        "summary": "สรุปรายงานวันนี้เน้นข้อมูลตลาดใหม่ของกลุ่มกระดาษทรายเซรามิกสีฟ้าและสารเคลือบอุตสาหกรรม พร้อมด้วยความท้าทายของอุตสาหกรรมเหล็กยุโรปจากกฎระเบียบ CBAM และแนวโน้มการผลิตระดับโลก"
+        "summary": "สรุปสถานการณ์ประจำวันเน้นการเติบโตของตลาดเม็ดทรายขัดทั่วโลก ราคากระแสโลหะที่พุ่งสูง และกฎระเบียบด้านความยั่งยืนของยุโรปที่ส่งผลกระทบต่ออุตสาหกรรมโลหะและอุตสาหกรรมทั่วไป"
       },
       "items": [
         {
           "id": "20261104-w1",
           "tag": "abrasive",
           "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-11-02",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeWRrVkJoSERZcnUtUTVYNjFlRDRXeVAzeF9YLVJoU0RtQXEwVXIzNnA4dlYtWmplVGpqSlJxVVM4czVXMGRfUjZub3JFSHVXaWV3QXJtRF9yLVBKOHNiaHNSZERmMndyX3dvZ0ticFVWNEhhV2JUUVktUXM0Ylc1Q0tPanhMVXhYR2tKM24tcmpZbW9uRjNzRVR3eUkzNUtfM2NIYS1NRVFiVUw0SVFZLVRuTV9kaTExMWN0V3RQT0pOekgwZDg1c0l2SkZMMXdkZEFvUVJB?oc=5",
-          "title": "Blue Ceramic Abrasive Market To 2035: Precision Grinding Demand Supports Forward Growth",
-          "summary": "The global market for blue ceramic abrasives is projected to grow steadily through 2035, driven by high demand for precision grinding applications in advanced manufacturing.",
-          "why": "Ceramic grain is a premium, high-margin segment in the abrasives market. Tracking this growth helps us understand where high-end end-users are moving for durability and cutting speed.",
-          "action": "Consider evaluating our premium ceramic grain product portfolio and highlighting durability to target precision workshops.",
+          "source": "openPR.com",
+          "date": "2026-10-21",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNGFJajFuQ0J1ZGJza1dDNkQ0MFRlaDV4VFNvbWFKUmZBV2JONGRyVGZxT2ZVRGlwVE5FcmtpbDh4cGJOUHYtRW9obUtmVGtueXFyWnRVdDZ2ZUZtemZyTTl0UXhWbHVvOTJIemd1YkJKaHJwVEU1M0FBMnFRb2NnM0wyLVA0NU1IRlgwWmdsbTNiYnNGU0NDbDRXSQ?oc=5",
+          "title": "Abrasive Grains Market is Expcted to Reach USD 9.14 Billion",
+          "summary": "The global abrasive grains market is projected to reach USD 9.14 billion, driven by rising demand across manufacturing and metalworking sectors.",
+          "why": "Abrasive grains are the core raw material for our sandpaper and grinding products. Market growth means we must monitor raw material cost stability and supply trends.",
+          "action": "Keep close contact with grain suppliers to anticipate potential price fluctuations for raw materials.",
           "th": {
-            "title": "ตลาดวัสดุขัดเซรามิกสีฟ้าถึงปี 2035: ความต้องการเจียรความแม่นยำสูงหนุนการเติบโต",
-            "summary": "ตลาดโลกของวัสดุขัดเซรามิกสีฟ้าคาดว่าจะเติบโตอย่างต่อเนื่องจนถึงปี 2035 ขับเคลื่อนโดยความต้องการสูงในการเจียรความแม่นยำในอุตสาหกรรมการผลิตขั้นสูง",
-            "why": "เม็ดทรายเซรามิกเป็นกลุ่มสินค้าพรีเมียมที่มีกำไรสูงในตลาดวัสดุขัด การติดตามการเติบโตนี้ช่วยให้เราเข้าใจทิศทางของลูกค้ากลุ่มไฮเอนด์ที่ต้องการความทนทานและความเร็วในการตัด",
-            "action": "พิจารณาประเมินกลุ่มผลิตภัณฑ์เม็ดทรายเซรามิกพรีเมียมของเรา และเน้นจุดขายด้านความทนทานเพื่อเจาะกลุ่มตลาดงานความแม่นยำสูง"
+            "title": "ตลาดเม็ดทรายขัด (Abrasive Grains) คาดว่าจะเติบโตแตะ 9.14 พันล้านดอลลาร์",
+            "summary": "ตลาดเม็ดทรายขัดทั่วโลกคาดว่าจะเติบโตถึง 9.14 พันล้านดอลลาร์ ขับเคลื่อนโดยความต้องการที่เพิ่มขึ้นในภาคการผลิตและงานโลหะ",
+            "why": "เม็ดทรายขัดคือวัตถุดิบหลักสำหรับผลิตภัณฑ์กระดาษทรายและหินเจียร การเติบโตของตลาดนี้หมายถึงเราต้องติดตามเสถียรภาพของต้นทุนวัตถุดิบและแนวโน้มอุปทาน",
+            "action": "ติดต่อใกล้ชิดกับซัพพลายเออร์วัตถุดิบเพื่อคาดการณ์ความผันผวนของราคาวัตถุดิบที่อาจเกิดขึ้น"
           }
         },
         {
           "id": "20261104-w2",
-          "tag": "coating",
+          "tag": "steel",
           "rating": "green",
-          "source": "GlobeNewswire",
-          "date": "2026-02-21",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMXJQWHFvQlV0VDZVenplWERhbktIRUs0aGdZZzVLNTNucGRjNTM1czJ4X3JmcDRhVU0wd0dKRGdHOXRhVnc1MjdQSzN0dHo2MmNZdG9ZR1ZEMjJYQXVldE5jUGFjSjRYNmVNTW1jeGVodjhuZHRMU19qVFRzY3ZVS0pRaG42VGVBbHRoTkNWQktqQVlpT21KNzhDQ2NpNjctN1BYaXVYdGxPbzR1emFRWEhWajh3VUlNM080bzVvT213b0RiTlVaaVdSYmQtS2xSSlNSOGgyOVg?oc=5",
-          "title": "Industrial Coatings Market Size to Surpass USD 176.06 Billion by 2035",
-          "summary": "The global industrial coatings sector is expanding rapidly, projected to exceed USD 176 billion over the next decade as manufacturing output increases.",
-          "why": "Surface preparation and sanding are mandatory pre-steps for industrial coating applications. A larger coatings market means steady underlying demand for abrasives.",
-          "action": "Align our surface prep product messaging with industrial painters and coating applicators who need optimal surface profile adhesion.",
+          "source": "World Bank Blogs",
+          "date": "2026-06-11",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONzBKVVZhYkZoRERBTm8wSUNzYUY3Y0lZTVhlRXhoMk9qWGUybnc0SFA2dC1KT1ZOV2puSzlLRzhmdDRUVDkwejhFM3JtNm1SY2RpbFoyYWR2Q1J2eHJTME0zd25GSjlaRE1qWG1sQjZsaUpXdjBJd0oyZlBEUklMNkxuNGVWZ3FZVGhZOHJwOWdiZw?oc=5",
+          "title": "Metal prices surge as supply pressures intensify",
+          "summary": "Global metal prices have experienced a notable surge due to intensifying supply pressures and market constraints.",
+          "why": "Higher metal prices directly impact metal fabrication and heavy industries, which are major B2B users of our grinding and deburring abrasives.",
+          "action": "Prepare our sales team to offer cost-effective, high-durability abrasive solutions to metal fabricators trying to optimize their operational costs.",
           "th": {
-            "title": "ตลาดสารเคลือบอุตสาหกรรมมีมูลค่าทะยานเกิน 1.76 แสนล้านดอลลาร์ภายในปี 2035",
-            "summary": "ภาคธุรกิจสารเคลือบอุตสาหกรรมทั่วโลกกำลังขยายตัวอย่างรวดเร็ว โดยคาดว่าจะมีมูลค่าเกิน 1.76 แสนล้านดอลลาร์ในทศวรรษหน้า ตามผลผลิตภาคการผลิตที่เพิ่มขึ้น",
-            "why": "การเตรียมพื้นผิวและการขัดกระดาษทรายเป็นขั้นตอนจำเป็นก่อนการเคลือบสีอุตสาหกรรม ตลาดสารเคลือบที่ใหญ่ขึ้นหมายถึงความต้องการใช้วัสดุขัดที่เติบโตอย่างต่อเนื่อง",
-            "action": "ปรับการนำเสนอผลิตภัณฑ์เตรียมพื้นผิวให้สอดคล้องกับกลุ่มช่างพ่นสีและผู้ให้บริการเคลือบอุตสาหกรรมที่ต้องการความหยาบผิวเพื่อการยึดเกาะที่ดี"
+            "title": "ราคากระแสโลหะพุ่งสูงขึ้นท่ามกลางแรงกดดันด้านอุปทานที่เพิ่มขึ้น",
+            "summary": "ราคากระแสโลหะทั่วโลกพุ่งสูงขึ้นอย่างเห็นได้ชัด เนื่องจากแรงกดดันด้านอุปทานและข้อจำกัดในตลาดที่รุนแรงขึ้น",
+            "why": "ราคากระแสโลหะที่สูงขึ้นส่งผลโดยตรงต่ออุตสาหกรรมการแปรรูปโลหะและอุตสาหกรรมหนัก ซึ่งเป็นกลุ่มลูกค้า B2B หลักที่ใช้ผลิตภัณฑ์ขัดและลบคมของเรา",
+            "action": "เตรียมทีมขายให้นำเสนอโซลูชันกระดาษทรายและใบเจียรที่มีความทนทานสูงและคุ้มค่า เพื่อช่วยลูกค้ากลุ่มแปรรูปโลหะบริหารต้นทุนการดำเนินงาน"
           }
         },
         {
           "id": "20261104-w3",
-          "tag": "steel",
+          "tag": "coating",
           "rating": "amber",
-          "source": "S&P Global",
-          "date": "2026-01-07",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSDJTcGFGbUFvRm15ZDhrczNqYkRzbHlXMTJZTHJpUF9CTjRHaTNXak4tdVBkbnBWcnNrRDRneXpBd1Z5SUJGSFZWTzJMNWhfcVl5czkzR0lSSjd4aTJzMTg3N2FWM3pHQ2NxbHg2dEp2ckNiNC16cWdJZ0t3anl3TzlUYldVajhqM05JQVEyWWdZYVdaYkEzZUpvUEJGdHAxXzRKdDRnNG1pQl9LaEN6Q0lpbFpPMTBOeElqT3V2NUdUSlJJNjZWOEpiMWc?oc=5",
-          "title": "Europe's steel industry faces its 2026 reckoning with CBAM",
-          "summary": "European steel producers are facing strict regulatory pressures and cost adjustments in 2026 due to the implementation of the Carbon Border Adjustment Mechanism (CBAM).",
-          "why": "Steel production costs and carbon rules in export markets heavily influence metal fabrication activity, which directly impacts local metalworking shops consuming grinding disks.",
-          "action": "Monitor steel-processing client sentiment as environmental compliance costs alter European and global metal supply chains.",
+          "source": "European Coatings",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
+          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
+          "summary": "The coatings industry is accelerating towards digital transformation, innovative green chemistry, and stricter sustainability goals.",
+          "why": "Surface finishing and coating preparation are closely tied together; changes in coating tech influence how metal and wood surfaces must be prepped by abrasives.",
+          "action": "Monitor how new eco-friendly coatings alter surface preparation requirements in automotive and industrial finishing.",
           "th": {
-            "title": "อุตสาหกรรมเหล็กยุโรปเผชิญจุดเปลี่ยนในปี 2026 จากมาตรการ CBAM",
-            "summary": "ผู้ผลิตเหล็กในยุโรปกำลังเผชิญแรงกดดันด้านกฎระเบียบและการปรับต้นทุนในปี 2026 จากการบังคับใช้มาตรการปรับคาร์บอนก่อนข้ามพรมแดน (CBAM)",
-            "why": "ต้นทุนการผลิตเหล็กและกฎเกณฑ์สิ่งแวดล้อมในตลาดส่งออกส่งผลกระทบอย่างมากต่อกิจกรรมการแปรรูปโลหะ ซึ่งส่งผลโดยตรงต่อร้านแปรรูปโลหะท้องถิ่นที่ใช้แผ่นเจียร",
-            "action": "ติดตามความรู้สึกของลูกค้ากลุ่มแปรรูปเหล็ก เนื่องจากต้นทุนการปฏิบัติตามกฎระเบียบด้านสิ่งแวดล้อมกำลังปรับเปลี่ยนห่วงโซ่อุปทานโลหะทั่วโลก"
+            "title": "กำหนดอนาคตยุคใหม่ของอุตสาหกรรมสีและสารเคลือบ: นวัตกรรม ความยั่งยืน และพลังแห่งดิจิทัล",
+            "summary": "อุตสาหกรรมสีและสารเคลือบกำลังเร่งไปสู่การเปลี่ยนผ่านสู่ดิจิทัล นวัตกรรมเคมีสีเขียว และเป้าหมายความยั่งยืนที่เข้มงวดขึ้น",
+            "why": "งานเตรียมพื้นผิวและการเคลือบมีความเกี่ยวข้องกันอย่างใกล้ชิด การเปลี่ยนแปลงของเทคโนโลยีสารเคลือบส่งผลต่อรูปแบบการเตรียมพื้นผิวโลหะและไม้ด้วยวัสดุขัด",
+            "action": "ติดตามว่าเทคโนโลยีสารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมรูปแบบใหม่ๆ จะเปลี่ยนแปลงข้อกำหนดในการเตรียมพื้นผิวในอุตสาหกรรมยานยนต์และอุตสาหกรรมทั่วไปอย่างไร"
           }
         }
       ]
