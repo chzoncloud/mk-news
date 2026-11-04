@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-11-04",
-      "summary": "Today's briefing highlights global market expansion in abrasive grains, surging metal prices, and stringent European sustainability regulations impacting metal and industrial sectors.",
-      "directCount": 2,
+      "summary": "Today's briefing focuses on global growth in coated abrasives, precision-driven blue ceramic abrasive demand, and EV production tech shifts that impact metal and surface finishing.",
+      "directCount": 3,
       "th": {
-        "summary": "สรุปสถานการณ์ประจำวันเน้นการเติบโตของตลาดเม็ดทรายขัดทั่วโลก ราคากระแสโลหะที่พุ่งสูง และกฎระเบียบด้านความยั่งยืนของยุโรปที่ส่งผลกระทบต่ออุตสาหกรรมโลหะและอุตสาหกรรมทั่วไป"
+        "summary": "สรุปข่าววันนี้เน้นการเติบโตของตลาดกระดาษทรายสายพานและแผ่นขัด ความต้องการเม็ดทรายเซรามิกสีฟ้าสำหรับงานขัดความแม่นยำสูง และการเปลี่ยนแปลงเทคโนโลยีการผลิต EV ที่ส่งผลต่ออุตสาหกรรมโลหะและการเตรียมพื้นผิว"
       },
       "items": [
         {
           "id": "20261104-w1",
           "tag": "abrasive",
           "rating": "green",
-          "source": "openPR.com",
-          "date": "2026-10-21",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNGFJajFuQ0J1ZGJza1dDNkQ0MFRlaDV4VFNvbWFKUmZBV2JONGRyVGZxT2ZVRGlwVE5FcmtpbDh4cGJOUHYtRW9obUtmVGtueXFyWnRVdDZ2ZUZtemZyTTl0UXhWbHVvOTJIemd1YkJKaHJwVEU1M0FBMnFRb2NnM0wyLVA0NU1IRlgwWmdsbTNiYnNGU0NDbDRXSQ?oc=5",
-          "title": "Abrasive Grains Market is Expcted to Reach USD 9.14 Billion",
-          "summary": "The global abrasive grains market is projected to reach USD 9.14 billion, driven by rising demand across manufacturing and metalworking sectors.",
-          "why": "Abrasive grains are the core raw material for our sandpaper and grinding products. Market growth means we must monitor raw material cost stability and supply trends.",
-          "action": "Keep close contact with grain suppliers to anticipate potential price fluctuations for raw materials.",
+          "source": "IndexBox",
+          "date": "2026-11-02",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeWRrVkJoSERZcnUtUTVYNjFlRDRXeVAzeF9YLVJoU0RtQXEwVXIzNnA4dlYtWmplVGpqSlJxVVM4czVXMGRfUjZub3JFSHVXaWV3QXJtRF9yLVBKOHNiaHNSZERmMndyX3dvZ0ticFVWNEhhV2JUUVktUXM0Ylc1Q0tPanhMVXhYR2tKM24tcmpZbW9uRjNzRVR3eUkzNUtfM2NIYS1NRVFiVUw0SVFZLVRuTV9kaTExMWN0V3RQT0pOekgwZDg1c0l2SkZMMXdkZEFvUVJB?oc=5",
+          "title": "Blue Ceramic Abrasive Market To 2035: Precision Grinding Demand Supports Forward Growth",
+          "summary": "The global market for blue ceramic abrasives is expanding through 2035, heavily supported by rising demand for high-precision grinding applications in heavy industries.",
+          "why": "Blue ceramic grains represent the high-performance tier of abrasives. Knowing this demand helps us position premium ceramic sanding products against standard aluminum oxide.",
+          "action": "Consider highlighting ceramic grain durability in upcoming B2B marketing campaigns.",
           "th": {
-            "title": "ตลาดเม็ดทรายขัด (Abrasive Grains) คาดว่าจะเติบโตแตะ 9.14 พันล้านดอลลาร์",
-            "summary": "ตลาดเม็ดทรายขัดทั่วโลกคาดว่าจะเติบโตถึง 9.14 พันล้านดอลลาร์ ขับเคลื่อนโดยความต้องการที่เพิ่มขึ้นในภาคการผลิตและงานโลหะ",
-            "why": "เม็ดทรายขัดคือวัตถุดิบหลักสำหรับผลิตภัณฑ์กระดาษทรายและหินเจียร การเติบโตของตลาดนี้หมายถึงเราต้องติดตามเสถียรภาพของต้นทุนวัตถุดิบและแนวโน้มอุปทาน",
-            "action": "ติดต่อใกล้ชิดกับซัพพลายเออร์วัตถุดิบเพื่อคาดการณ์ความผันผวนของราคาวัตถุดิบที่อาจเกิดขึ้น"
+            "title": "ตลาดวัสดุขัดเซรามิกสีฟ้าถึงปี 2035: ความต้องการงานขัดความแม่นยำสูงหนุนการเติบโต",
+            "summary": "ตลาดวัสดุขัดเซรามิกสีฟ้าทั่วโลกกำลังขยายตัวถึงปี 2035 โดยได้รับแรงหนุนหลักจากความต้องการงานขัดความแม่นยำสูงในอุตสาหกรรมหนัก",
+            "why": "เม็ดทรายเซรามิกสีฟ้าคือเกรดพรีเมียม การรู้แนวโน้มนี้ช่วยให้เรานำเสนอผลิตภัณฑ์กระดาษทรายเซรามิกเกรดสูงเพื่อแข่งขันกับอะลูมิเนียมออกไซด์ทั่วไปได้",
+            "action": "พิจารณาเน้นจุดเด่นด้านความทนทานของเม็ดทรายเซรามิกในการทำตลาด B2B เร็วๆ นี้"
           }
         },
         {
           "id": "20261104-w2",
-          "tag": "steel",
+          "tag": "abrasive",
           "rating": "green",
-          "source": "World Bank Blogs",
-          "date": "2026-06-11",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONzBKVVZhYkZoRERBTm8wSUNzYUY3Y0lZTVhlRXhoMk9qWGUybnc0SFA2dC1KT1ZOV2puSzlLRzhmdDRUVDkwejhFM3JtNm1SY2RpbFoyYWR2Q1J2eHJTME0zd25GSjlaRE1qWG1sQjZsaUpXdjBJd0oyZlBEUklMNkxuNGVWZ3FZVGhZOHJwOWdiZw?oc=5",
-          "title": "Metal prices surge as supply pressures intensify",
-          "summary": "Global metal prices have experienced a notable surge due to intensifying supply pressures and market constraints.",
-          "why": "Higher metal prices directly impact metal fabrication and heavy industries, which are major B2B users of our grinding and deburring abrasives.",
-          "action": "Prepare our sales team to offer cost-effective, high-durability abrasive solutions to metal fabricators trying to optimize their operational costs.",
+          "source": "EIN News",
+          "date": "2026-10-19",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM2VsRTlqVWR6dlpoUXpZQ04wNnJsRUNBbndKSnNQODIyUXdnTTlIT0hZMC10bGhEUUk0clZ5ZWZRN0I2eVhiVHVPVmRYd05xWUdJdDJldTBsTkZEUVNBNG5qaE9WeXdDN2dSVzJ2TzNsVFhBNVMzakhwZFR6Z0dQeFFVS0ZPa0dmWmh1dHhiYXVXWWRrbk9XS251Ul9SVS1SZ3NON0VXRWxfOWtzazlNcXhUMVBnU2liODhqaXF6OEdGb2NEYkRoaG9uNmx6MlNjMUd2N3Q0emZnUXltZk1wbg?oc=5",
+          "title": "Abrasives Market to Reach $72.2 Billion by 2030, Growing at a 7.6% CAGR Driven by Precision Finishing Demand",
+          "summary": "The global abrasives market is projected to hit $72.2 billion by 2030, growing at a robust 7.6% annual rate driven by strict surface finishing requirements.",
+          "why": "Validates that our core industry sector is growing steadily, reinforcing long-term B2B procurement and inventory planning strategies.",
+          "action": "Align 2027 inventory forecasts with steady mid-term market expansion in finishing supplies.",
           "th": {
-            "title": "ราคากระแสโลหะพุ่งสูงขึ้นท่ามกลางแรงกดดันด้านอุปทานที่เพิ่มขึ้น",
-            "summary": "ราคากระแสโลหะทั่วโลกพุ่งสูงขึ้นอย่างเห็นได้ชัด เนื่องจากแรงกดดันด้านอุปทานและข้อจำกัดในตลาดที่รุนแรงขึ้น",
-            "why": "ราคากระแสโลหะที่สูงขึ้นส่งผลโดยตรงต่ออุตสาหกรรมการแปรรูปโลหะและอุตสาหกรรมหนัก ซึ่งเป็นกลุ่มลูกค้า B2B หลักที่ใช้ผลิตภัณฑ์ขัดและลบคมของเรา",
-            "action": "เตรียมทีมขายให้นำเสนอโซลูชันกระดาษทรายและใบเจียรที่มีความทนทานสูงและคุ้มค่า เพื่อช่วยลูกค้ากลุ่มแปรรูปโลหะบริหารต้นทุนการดำเนินงาน"
+            "title": "ตลาดวัสดุขัดจะแตะ 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 เติบโต 7.6% หนุนด้วยความต้องการงานตกแต่งผิว",
+            "summary": "ตลาดวัสดุขัดทั่วโลกคาดว่าจะพุ่งถึง 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 เติบโตต่อเนื่องด้วยอัตรา 7.6% ต่อปี จากข้อกำหนดงานเตรียมพื้นผิวที่เข้มงวด",
+            "why": "ยืนยันว่าอุตสาหกรรมหลักของเรากำลังเติบโตอย่างมั่นคง ซึ่งช่วยเสริมกลยุทธ์การจัดซื้อและการวางแผนสต็อกสินค้า B2B ในระยะยาว",
+            "action": "ปรับการคาดการณ์สต็อกสินค้าปี 2027 ให้สอดคล้องกับการเติบโตของตลาดอุปกรณ์ขัด"
           }
         },
         {
           "id": "20261104-w3",
-          "tag": "coating",
+          "tag": "auto",
           "rating": "amber",
-          "source": "European Coatings",
-          "date": "2026-09-09",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
-          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
-          "summary": "The coatings industry is accelerating towards digital transformation, innovative green chemistry, and stricter sustainability goals.",
-          "why": "Surface finishing and coating preparation are closely tied together; changes in coating tech influence how metal and wood surfaces must be prepped by abrasives.",
-          "action": "Monitor how new eco-friendly coatings alter surface preparation requirements in automotive and industrial finishing.",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2025-12-18",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOd3VqZU9yUXhKVmFVYkZ0OEJHaHZBRllYU3laaUZOXzh2OGZXSVdMVDJyZm5YV2Z0UlVEN0xhdURNOHZsQ2U2U2ZzRjRpcUJ3UUxqcVV3cFNucm9tcVpYQjdTN3ZxNjRZcy1aOVpuMk1FTWFsYU45UWw4V2N2NGgzeVJ6YWNscmk3OUJsRkhXNmFoMmVmdnZ2SGVFSEFiYUFXVzNXSmN0UGYtMEM1S0Y0YmQzeTJlR0VMYmJGUjdqaGdVQ3Zx?oc=5",
+          "title": "How automation and AI are powering Xpeng's EV production",
+          "summary": "Leading EV makers are integrating AI and advanced automation into factory assembly lines to boost efficiency and manufacturing precision.",
+          "why": "Automated EV production lines require robotic sanding, automated deburring, and consistent high-end abrasive discs rather than manual labor.",
+          "action": "Monitor demand trends for automated robotic sanding media compatible with factory arms.",
           "th": {
-            "title": "กำหนดอนาคตยุคใหม่ของอุตสาหกรรมสีและสารเคลือบ: นวัตกรรม ความยั่งยืน และพลังแห่งดิจิทัล",
-            "summary": "อุตสาหกรรมสีและสารเคลือบกำลังเร่งไปสู่การเปลี่ยนผ่านสู่ดิจิทัล นวัตกรรมเคมีสีเขียว และเป้าหมายความยั่งยืนที่เข้มงวดขึ้น",
-            "why": "งานเตรียมพื้นผิวและการเคลือบมีความเกี่ยวข้องกันอย่างใกล้ชิด การเปลี่ยนแปลงของเทคโนโลยีสารเคลือบส่งผลต่อรูปแบบการเตรียมพื้นผิวโลหะและไม้ด้วยวัสดุขัด",
-            "action": "ติดตามว่าเทคโนโลยีสารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมรูปแบบใหม่ๆ จะเปลี่ยนแปลงข้อกำหนดในการเตรียมพื้นผิวในอุตสาหกรรมยานยนต์และอุตสาหกรรมทั่วไปอย่างไร"
+            "title": "ระบบอัตโนมัติและ AI ขับเคลื่อนการผลิตรถยนต์ EV ของ Xpeng อย่างไร",
+            "summary": "ผู้ผลิตรถยนต์ EV ชั้นนำกำลังผสาน AI และระบบอัตโนมัติขั้นสูงเข้ากับสายการผลิตในโรงงาน เพื่อเพิ่มประสิทธิภาพและความแม่นยำในการประกอบ",
+            "why": "สายการผลิต EV อัตโนมัติจำเป็นต้องใช้หุ่นยนต์ขัดกระดาษทราย ระบบลบคมอัตโนมัติ และแผ่นขัดคุณภาพสูงที่สม่ำเสมอ แทนการใช้แรงงานคน",
+            "action": "ติดตามแนวโน้มความต้องการวัสดุขัดสำหรับระบบหุ่นยนต์อัตโนมัติที่รองรับแขนกลในโรงงาน"
           }
         }
       ]
