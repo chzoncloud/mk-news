@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-11-04",
+  "updated": "2026-11-05",
   "days": [
+    {
+      "date": "2026-11-05",
+      "summary": "Today's global trend briefing highlights critical shifts in the coated abrasives market driven by industrial automation, rising precision grinding demands for blue ceramic abrasives, and regional steel sector pressures.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปกระแสโลกประจำวันนี้เน้นการเปลี่ยนแปลงครั้งสำคัญในตลาดกระดาษทรายและวัสดุขัดเคลือบ ซึ่งขับเคลื่อนด้วยระบบอัตโนมัติในอุตสาหกรรม ความต้องการวัสดุขัดเซรามิกสีฟ้าสำหรับงานขัดความแม่นยำสูง และแรงกดดันในภาคอุตสาหกรรมเหล็กระดับภูมิภาค"
+      },
+      "items": [
+        {
+          "id": "20261105-w1",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-11-01",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZG1Tb3Bhc05IRGVXMmQ4dHFjZXUtYzhrYTJrXzVPcURwMlA3Z3ZvOTB5NThxTkxndVY3eGtkVmNYWm1mR21NQzhnRnpSZ0hCUTdLc0FNTDA2Y1NKSTlkMkwtbUtjMDd4c2tDd0w5bHNMT2JYVXNmX28zSnM3ejVmaDlQbzgtc1ZjVkxRY3VhaTlodFRDanpTbXdlaXloeTJZODY1Qmo0d2pTSkZxenVSTUJET2xRaGlMSlJPcG5UdG5RUTQ?oc=5",
+          "title": "Coated Abrasives Market To 2035: Automation and Metalworking Fuel Expansion",
+          "summary": "The global coated abrasives market is expanding through 2035, significantly boosted by increasing factory automation and heavy metalworking demands.",
+          "why": "Higher adoption of automated robotic sanding and grinding directly increases the consumption of high-performance coated abrasives.",
+          "action": "Align our product catalog with automated robotic polishing applications and high-durability backing materials.",
+          "th": {
+            "title": "ตลาดวัสดุขัดเคลือบถึงปี 2035: ระบบอัตโนมัติและงานโลหะหนุนการเติบโต",
+            "summary": "ตลาดวัสดุขัดเคลือบผิวทั่วโลกกำลังขยายตัวจนถึงปี 2035 โดยได้รับแรงหนุนสำคัญจากการเพิ่มขึ้นของระบบอัตโนมัติในโรงงานและความต้องการงานโลหะที่สูงขึ้น",
+            "why": "การนำหุ่นยนต์ขัดและเจียรอัตโนมัติมาใช้มากขึ้น จะช่วยเพิ่มอัตราการใช้ผลิตภัณฑ์วัสดุขัดเคลือบประสิทธิภาพสูงโดยตรง",
+            "action": "ปรับแคตตาล็อกสินค้าให้รองรับกับการใช้งานร่วมกับหุ่นยนต์ขัดอัตโนมัติและวัสดุหลังทรายที่มีความทนทานสูง"
+          }
+        },
+        {
+          "id": "20261105-w2",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-11-02",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeWRrVkJoSERZcnUtUTVYNjFlRDRXeVAzeF9YLVJoU0RtQXEwVXIzNnA4dlYtWmplVGpqSlJxVVM4czVXMGRfUjZub3JFSHVXaWV3QXJtRF9yLVBKOHNiaHNSZERmMndyX3dvZ0ticFVWNEhhV2JUUVktUXM0Ylc1Q0tPanhMVXhYR2tKM24tcmpZbW9uRjNzRVR3eUkzNUtfM2NIYS1NRVFiVUw0SVFZLVRuTV9kaTExMWN0V3RQT0pOekgwZDg1c0l2SkZMMXdkZEFvUVJB?oc=5",
+          "title": "Blue Ceramic Abrasive Market To 2035: Precision Grinding Demand Supports Forward Growth",
+          "summary": "Demand for blue ceramic abrasive grains is rising steadily, supported by advanced precision grinding requirements in modern industrial sectors.",
+          "why": "Ceramic grain technology offers superior cut rates and lifespan, making it a crucial premium segment for metal fabrication and automotive parts.",
+          "action": "Explore sourcing partnerships or expanding our inventory of high-end ceramic grain belts and discs.",
+          "th": {
+            "title": "ตลาดเม็ดขัดเซรามิกสีฟ้าถึงปี 2035: ความต้องการงานขัดความแม่นยำสูงหนุนการเติบโต",
+            "summary": "ความต้องการเม็ดขัดเซรามิกสีฟ้ากำลังเพิ่มขึ้นอย่างต่อเนื่อง โดยได้รับแรงหนุนจากข้อกำหนดด้านการขัดความแม่นยำสูงในภาคอุตสาหกรรมสมัยใหม่",
+            "why": "เทคโนโลยีเม็ดขัดเซรามิกให้อัตราการตัดเฉือนและอายุการใช้งานที่เหนือกว่า ทำให้เป็นกลุ่มพรีเมียมที่สำคัญสำหรับงานผลิตโลหะและชิ้นส่วนยานยนต์",
+            "action": "ศึกษาหาพันธมิตรจัดซื้อหรือเพิ่มสต็อกสินค้าประเภทสายพานและแผ่นขัดเซรามิกเกรดพรีเมียม"
+          }
+        },
+        {
+          "id": "20261105-w3",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "S&P Global",
+          "date": "2026-01-12",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
+          "title": "Global steel industry battles surplus supply, protectionism",
+          "summary": "The global steel sector faces persistent challenges from surplus production capacity and rising international trade protectionism.",
+          "why": "Steel mill operating rates directly dictate regional metal fabrication activity and the baseline demand for heavy-duty grinding abrasives.",
+          "action": "Monitor steel plant output fluctuations to anticipate changes in local structural steel and metal deburring abrasive demand.",
+          "th": {
+            "title": "อุตสาหกรรมเหล็กโลกเผชิญศึกภาวะล้นตลาดและมาตรการกีดกันทางการค้า",
+            "summary": "ภาคอุตสาหกรรมเหล็กทั่วโลกกำลังเผชิญกับความท้าทายเรื้อรังจากกำลังการผลิตส่วนเกินและมาตรการกีดกันทางการค้าระหว่างประเทศที่เพิ่มสูงขึ้น",
+            "why": "อัตราการดำเนินงานของโรงงานเหล็กส่งผลโดยตรงต่อกิจกรรมการแปรรูปโลหะในภูมิภาคและความต้องการพื้นฐานสำหรับวัสดุขัดงานหนัก",
+            "action": "ติดตามความผันผวนของผลผลิตโรงงานเหล็กเพื่อคาดการณ์การเปลี่ยนแปลงความต้องการใช้กระดาษทรายและหินเจียรในงานโลหะโครงสร้าง"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-11-04",
       "summary": "Today's briefing focuses on global growth in coated abrasives, precision-driven blue ceramic abrasive demand, and EV production tech shifts that impact metal and surface finishing.",
@@ -902,88 +966,6 @@ window.WORLD_ARCHIVE = {
             "summary": "รัฐบาลสหรัฐฯ ดำเนินการปรับลดอัตราภาษีสำหรับสินค้าแปรรูปจากเหล็ก อลูมิเนียม และทองแดงที่นำเข้า",
             "why": "อัตราภาษีนำคนที่เปลี่ยนไปทำให้โครงสร้างราคากระทบต่อกำไรของผู้แปรรูปโลหะและโรงงานผลิตปลายน้ำ",
             "action": "ประเมินว่าการปรับต้นทุนโลหะในท้องถิ่นจะส่งผลกระทบต่อตลาดส่งออกและงบประมาณการผลิตของลูกค้าอย่างไร"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-10-22",
-      "summary": "Today's briefing focuses on global manufacturing dynamics, including long-term forecasts for the abrasives market, metal casting growth, and nano ceramic coatings expansion. These trends highlight steady demand for precision finishing and surface preparation globally.",
-      "directCount": 4,
-      "th": {
-        "summary": "สรุปข่าวสารประจำวันนี้เน้นไปที่ทิศทางอุตสาหกรรมการผลิตระดับโลก รวมถึงแนวโน้มตลาดวัสดุขัดเจียร การเติบโตของการหล่อโลหะ และการขยายตัวของสารเคลือบนาโนเซรามิก ซึ่งทั้งหมดนี้สะท้อนถึงความต้องการที่ต่อเนื่องในด้านการขัดแต่งผิวสำเร็จ"
-      },
-      "items": [
-        {
-          "id": "20261022-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "EIN News",
-          "date": "2026-10-19",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM2VsRTlqVWR6dlpoUXpZQ04wNnJsRUNBbndKSnNQODIyUXdnTTlIT0hZMC10bGhEUUk0clZ5ZWZRN0I2eVhiVHVPVmRYd05xWUdJdDJldTBsTkZEUVNBNG5qaE9WeXdDN2dSVzJ2TzNsVFhBNVMzakhwZFR6Z0dQeFFVS0ZPa0dmWmh1dHhiYXVXWWRrbk9XS251Ul9SVS1SZ3NON0VXRWxfOWtzazlNcXhUMVBnU2liODhqaXF6OEdGb2NEYkRoaG9uNmx6MlNjMUd2N3Q0emZnUXltZk1wbg?oc=5",
-          "title": "Abrasives Market to Reach $72.2 Billion by 2030, Growing at a 7.6% CAGR Driven by Precision Finishing Demand",
-          "summary": "The global abrasives market is projected to reach $72.2 billion by 2030, expanding at a robust 7.6% CAGR driven by an escalating need for high-precision finishing across manufacturing sectors.",
-          "why": "Validates the long-term growth of our core business and confirms that precision finishing and high-performance abrasives remain key growth drivers.",
-          "action": "Focus marketing and inventory strategies on high-margin precision finishing and specialized abrasive products.",
-          "th": {
-            "title": "ตลาดวัสดุขัดเจียรเติบโตแตะ 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 หนุนโดยความต้องการงานขัดความแม่นยำสูง",
-            "summary": "ตลาดวัสดุขัดเจียรทั่วโลกคาดว่าจะเติบโตถึง 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 ด้วยอัตราการเติบโตเฉลี่ย 7.6% ซึ่งขับเคลื่อนโดยความต้องการงานขัดผิวความแม่นยำสูงในภาคการผลิต",
-            "why": "ยืนยันการเติบโตในระยะยาวของธุรกิจหลักและตอกย้ำว่าผลิตภัณฑ์กลุ่มขัดความแม่นยำสูงและมีประสิทธิภาพสูงยังคงเป็นหัวใจสำคัญ",
-            "action": "มุ่งเน้นกลยุทธ์การตลาดและสินค้าคงคลังไปที่กลุ่มผลิตภัณฑ์ขัดความแม่นยำสูงที่มีมูลค่าเพิ่มสูง"
-          }
-        },
-        {
-          "id": "20261022-w2",
-          "tag": "steel",
-          "rating": "green",
-          "source": "Fortune Business Insights",
-          "date": "2026-10-05",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kYlp3TXBwdU5JVl9Gc0pFd3lJSFpjSUhLeEFGOVZVS19BbHBoTFNGb1BFOC1UNEN4c1o0c2xjdTFZYXhVdGRVb0dIeXZqakt1bTJkQy10SC0wRlh0RVVBZHZaWDFYbDk3cHdUbXBsYnRyYTlFVEE?oc=5",
-          "title": "Metal Casting Market Growth Analysis & Industry Forecast, 2034",
-          "summary": "The metal casting market continues to show steady expansion projections through 2034, influencing foundational manufacturing, automotive components, and heavy machinery production.",
-          "why": "Metal castings require extensive deburring, grinding, and surface preparation using industrial abrasives.",
-          "action": "Monitor foundry and metal casting hubs as primary targets for heavy-duty grinding wheels and deburring supplies.",
-          "th": {
-            "title": "วิเคราะห์การเติบโตและแนวโน้มอุตสาหกรรมการหล่อโลหะถึงปี 2034",
-            "summary": "ตลาดการหล่อโลหะยังคงแสดงแนวโน้มการขยายตัวอย่างต่อเนื่องจนถึงปี 2034 ซึ่งส่งผลกระทบต่ออุตสาหกรรมการผลิตพื้นฐาน ชิ้นส่วนยานยนต์ และเครื่องจักรหนัก",
-            "why": "งานหล่อโลหะจำเป็นต้องผ่านกระบวนการลบคม ขัดผิว และเตรียมพื้นผิวขนานใหญ่โดยใช้ผลิตภัณฑ์ขัดอุตสาหกรรม",
-            "action": "ติดตามกลุ่มอุตสาหกรรมโรงหล่อและโลหะเพื่อเป็นเป้าหมายหลักสำหรับสินค้ากลุ่มหินเจียรและอุปกรณ์ลบคมงานหนัก"
-          }
-        },
-        {
-          "id": "20261022-w3",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "Fact.MR",
-          "date": "2026-03-24",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rcXJ4MUphbkZBcG45alo1UTFVT05na1kxQllsZVhHVE9wM2dKc2w0S1ExZnZXaEUxN3c4ZFk5bHlrdlJDZXJmbkRUbU5uRmNnY2taX0VncDBmTVY0NFJCUGg5Z1pEYjBWY2hPWkh3LWw?oc=5",
-          "title": "Nano Ceramic Coatings Market | Global Market Analysis Report - 2036",
-          "summary": "The nano ceramic coatings market is experiencing significant global analysis and adoption forecasts through 2036, driven by enhanced durability and surface protection requirements.",
-          "why": "Advanced surface treatments and coatings often require precise surface preparation and pre-polishing using high-grade abrasives.",
-          "action": "Keep an eye on surface preparation standards required before applying high-tech nano ceramic coatings in industrial applications.",
-          "th": {
-            "title": "ตลาดสารเคลือบนาโนเซรามิก: รายงานวิเคราะห์ตลาดโลกถึงปี 2036",
-            "summary": "ตลาดสารเคลือบนาโนเซรามิกกำลังได้รับการวิเคราะห์และคาดการณ์การใช้งานทั่วโลกถึงปี 2036 โดยขับเคลื่อนจากความต้องการด้านความทนทานและการปกป้องพื้นผิวที่สูงขึ้น",
-            "why": "การเคลือบและเตรียมพื้นผิวขั้นสูงมักต้องอาศัยการเตรียมผิวและการขัดละเอียดด้วยวัสดุขัดที่มีคุณภาพสูง",
-            "action": "ติดตามมาตรฐานการเตรียมพื้นผิวที่จำเป็นก่อนการพ่นหรือเคลือบสารนาโนเซรามิกในงานอุตสาหกรรม"
-          }
-        },
-        {
-          "id": "20261022-w4",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "IEA - International Energy Agency",
-          "date": "2026-05-20",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBdlRidlFWTllkZFUwX0tURmp4UmxwenFiRk5tT29WQndpN0xVbU55TV9VRGFJaFBGMm1weTZyczc5MjJ5aDZDVlhqNnh6Mk5EMV84UE0wWk1JWXFjWGpfY0EwN2JXcjZuckx0dVJ1LWFFTjU5bnpSc1lPek1SMWc?oc=5",
-          "title": "Manufacturing and trade - Global EV Outlook 2026",
-          "summary": "The IEA's Global EV Outlook highlights ongoing structural shifts in manufacturing footprints and international trade for electric vehicles and their supply chains.",
-          "why": "Automotive manufacturing shifts directly impact the demand for robotic sanding, body shop abrasives, and precision metal stamping preparation.",
-          "action": "Track regional automotive supply chain shifts to anticipate changes in localized OEM demand for finishing consumables.",
-          "th": {
-            "title": "การผลิตและการค้า - รายงานแนวโน้มยานยนต์ไฟฟ้าโลกปี 2026 (IEA)",
-            "summary": "รายงานแนวโน้ม EV โลกของ IEA เน้นย้ำถึงการเปลี่ยนแปลงเชิงโครงสร้างในฐานการผลิตและการค้าระหว่างประเทศสำหรับยานยนต์ไฟฟ้าและห่วงโซ่อุปทาน",
-            "why": "การเปลี่ยนแปลงของการผลิตยานยนต์ส่งผลโดยตรงต่อความต้องการใช้กระดาษทรายในงานพ่นสีรถยนต์ ระบบขัดผิวด้วยหุ่นยนต์ และการเตรียมผิวชิ้นส่วนโลหะปั๊ม",
-            "action": "ติดตามการย้ายฐานการผลิตยานยนต์ในภูมิภาคเพื่อคาดการณ์ความต้องการวัสดุสิ้นเปลืองสำหรับงานขัดจากกลุ่ม OEM"
           }
         }
       ]
