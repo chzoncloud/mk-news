@@ -4,46 +4,46 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-11-05",
-      "summary": "Today's global trends highlight the growth of specialized abrasive grains, the EV manufacturing shift toward innovation, and Europe's steel sector facing decarbonization hurdles.",
+      "summary": "Today's briefing focuses on global manufacturing shifts, highlighting the expansion of scrap-based steelmaking and electric arc furnaces, as well as ongoing digitalization and sustainability efforts in European industrial coatings.",
       "directCount": 3,
       "th": {
-        "summary": "แนวโน้มโลกวันนี้เน้นย้ำถึงการเติบโตของเม็ดทรายขัดเฉพาะทาง การเปลี่ยนผ่านของอุตสาหกรรม EV ไปสู่นวัตกรรม และอุตสาหกรรมเหล็กของยุโรปที่กำลังเผชิญกับอุปสรรคเรื่องการลดคาร์บอน"
+        "summary": "สรุปรายงานวันนี้เน้นการเปลี่ยนแปลงด้านการผลิตระดับโลก โดยไฮไลต์การขยายตัวของการผลิตเหล็กจากเศษเหล็กและเตาอาร์คไฟฟ้า (EAF) รวมถึงความพยายามด้านดิจิทัลและความยั่งยืนในอุตสาหกรรมการเคลือบผิวของยุโรป"
       },
       "items": [
         {
           "id": "20261105-w1",
-          "tag": "abrasive",
+          "tag": "steel",
           "rating": "green",
-          "source": "openPR.com",
-          "date": "2026-10-21",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNGFJajFuQ0J1ZGJza1dDNkQ0MFRlaDV4VFNvbWFKUmZBV2JONGRyVGZxT2ZVRGlwVE5FcmtpbDh4cGJOUHYtRW9obUtmVGtueXFyWnRVdDZ2ZUZtemZyTTl0UXhWbHVvOTJIemd1YkJKaHJwVEU1M0FBMnFRb2NnM0wyLVA0NU1IRlgwWmdsbTNiYnNGU0NDbDRXSQ?oc=5",
-          "title": "Abrasive Grains Market is Expected to Reach USD 9.14 Billion",
-          "summary": "The global abrasive grains market is projected to reach $9.14 billion, driven by expanding industrial applications and high-performance manufacturing needs.",
-          "why": "Higher demand for raw abrasive grains directly impacts the manufacturing cost and availability of coated and bonded abrasives we sell.",
-          "action": "Monitor raw material price trends from major grain suppliers to manage inventory costs effectively.",
+          "source": "IndexBox",
+          "date": "2026-11-04",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQy1CUmRVZDVueDhjNGxaRUxxSkNJNGVlOFB0ZmdzTzU5ZmdfQk5qdjZnYy1WV0Y1RW9TYWtNYzRtQTl6aENQQ2NqTk11cTJZY3ZXc1JmRGJEU3dZcDVmQnpWcEN4MjVuUC1rZXdEclFTVHBwSjU0YTU3ZW9VTjNONXg3TG1MWEtEUFVQaEx0UzN2QUJyUlp1Y3VJWVA3ZTE5dkpzWnJoVDRfRWZlTTJSUEtHRkpNREZNcDRmWDJobUp3b053R3I1Mm1OR2xRSnc?oc=5",
+          "title": "Electric Arc Furnace Electrodes Market to 2035: Scrap-Based Steelmaking Expansion Supports Forward Growth",
+          "summary": "The global market for electric arc furnace (EAF) electrodes is expanding due to the rapid growth of scrap-based steelmaking, reflecting a broader structural shift toward lower-emission steel production.",
+          "why": "EAF and scrap-based steel mills generate high volumes of structural steel and welds that require heavy-duty grinding, deburring, and surface preparation using high-performance abrasives.",
+          "action": "Monitor steel mills shifting to EAF technology and evaluate our stock of heavy-grinding wheels and robust coated abrasives tailored for recycled steel processing.",
           "th": {
-            "title": "ตลาดเม็ดทรายขัด (Abrasive Grains) คาดว่าจะแตะ 9.14 พันล้านดอลลาร์",
-            "summary": "ตลาดเม็ดทรายขัดทั่วโลกมีแนวโน้มเติบโตถึง 9.14 พันล้านดอลลาร์ ขับเคลื่อนโดยการขยายตัวของการใช้งานในอุตสาหกรรมและความต้องการการผลิตที่มีประสิทธิภาพสูง",
-            "why": "ความต้องการวัตถุดิบเม็ดทรายขัดที่สูงขึ้น ส่งผลโดยตรงต่อต้นทุนการผลิตและความพร้อมของผลิตภัณฑ์กระดาษทรายและหินเจียรที่เราจำหน่าย",
-            "action": "ติดตามแนวโน้มราคาวัตถุดิบจากผู้ผลิตเม็ดทรายรายใหญ่เพื่อบริหารต้นทุนสินค้าคงคลังให้มีประสิทธิภาพ"
+            "title": "ตลาดอิเล็กโทรดเตาอาร์คไฟฟ้าถึงปี 2035: การขยายตัวของการผลิตเหล็กจากเศษเหล็กหนุนการเติบโต",
+            "summary": "ตลาดโลกสำหรับอิเล็กโทรดเตาอาร์คไฟฟ้า (EAF) กำลังขยายตัวจากการเติบโตอย่างรวดเร็วของการผลิตเหล็กจากเศษเหล็ก สะท้อนถึงการปรับโครงสร้างสู่การผลิตเหล็กที่ปล่อยมลพิษต่ำ",
+            "why": "โรงงานเหล็กที่ใช้เตา EAF และเศษเหล็กสร้างชิ้นงานเหล็กโครงสร้างและรอยเชื่อมจำนวนมาก ซึ่งจำเป็นต้องใช้ผลิตภัณฑ์ขัดกระดาษทราย งานเจียร และการเตรียมผิวที่มีประสิทธิภาพสูง",
+            "action": "ติดตามโรงงานเหล็กที่เปลี่ยนมาใช้เทคโนโลยี EAF และประเมินสต็อกล้อหินเจียรเพื่องานหนักและกระดาษทรายอุตสาหกรรมที่เหมาะกับการแปรรูปเหล็กรีไซเคิล"
           }
         },
         {
           "id": "20261105-w2",
-          "tag": "auto",
+          "tag": "coating",
           "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2025-10-15",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU1ZfWl9XM09kcWJoajJKYmMtRS1tVjlUUjdQMG5VOEpuTnJSYzRqUmZHNjRWZDdCaVlPYmI1SHBzTXBmbjNFS2hQR3pxeG1pRmU0NnNrN3lFU3JQWkhzQ3F2UFQ0Z1p2akFsbmF2dHZLSTNvZkg5Qzl0b0hkYm1Bb3BYV3VDdDBkazRvNTRWcnNuUEVDV1lMUGljZkQyZm05N0p6Z2UwdWhZV1l0YnhYLXNvRlBlZGRQ?oc=5",
-          "title": "China's EV market shift: Innovation beats price cuts",
-          "summary": "Chinese electric vehicle manufacturers are shifting strategies from aggressive price cuts to focusing on advanced product innovation and manufacturing quality.",
-          "why": "Higher quality EV manufacturing standards require finer surface preparation, precision deburring, and advanced robotic sanding solutions.",
-          "action": "Explore high-end finishing products suitable for advanced EV component manufacturing.",
+          "source": "European Coatings",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
+          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
+          "summary": "Industry leaders across Europe are accelerating digital integration and sustainable practices to redefine the next generation of coatings and surface treatment technologies.",
+          "why": "Innovations in surface coatings directly correlate with how metal, wood, and automotive components are prepped, finished, and sanded before and after coating applications.",
+          "action": "Keep an eye on European coating standards and digital surface-finishing processes to anticipate future finish-quality requirements from multinational clients.",
           "th": {
-            "title": "การเปลี่ยนผ่านของตลาด EV ในจีน: นวัตกรรมชนะการลดราคา",
-            "summary": "ผู้ผลิตยานยนต์ไฟฟ้าในจีนกำลังเปลี่ยนกลยุทธ์จากการลดราคาอย่างดุเดือด มาเน้นที่นวัตกรรมผลิตภัณฑ์ขั้นสูงและคุณภาพการผลิต",
-            "why": "มาตรฐานการผลิต EV ที่มีคุณภาพสูงขึ้น จำเป็นต้องมีการเตรียมพื้นผิวที่ละเอียดยิ่งขึ้น การลบคมที่มีความแม่นยำ และโซลูชันการขัดด้วยระบบอัตโนมัติขั้นสูง",
-            "action": "สำรวจผลิตภัณฑ์ขัดผิวเกรดสูงที่เหมาะสำหรับการผลิตชิ้นส่วน EV ขั้น 4"
+            "title": "กำหนดอนาคตยุคใหม่แห่งสารเคลือบ: นวัตกรรม ความยั่งยืน และพลังแห่งดิจิทัล",
+            "summary": "ผู้นำอุตสาหกรรมทั่วยุโรปกำลังเร่งการบูรณาการดิจิทัลและแนวปฏิบัติที่ยั่งยืน เพื่อกำหนดนิยามใหม่ให้กับเทคโนโลยีสารเคลือบและการบำบัดพื้นผิวรุ่นต่อไป",
+            "why": "นวัตกรรมในสารเคลือบผิวมีความเชื่อมโยงโดยตรงกับวิธีการเตรียมพื้นผิว การขัดแต่ง และการขัดกระดาษทรายของชิ้นส่วนโลหะ ไม้ และยานยนต์ ทั้งก่อนและหลังการเคลือบ",
+            "action": "ติดตามมาตรฐานสารเคลือบของยุโรปและกระบวนการตกแต่งพื้นผิวด้วยระบบดิจิทัล เพื่อคาดการณ์ความต้องการคุณภาพผิวงานจากลูกค้าข้ามชาติในอนาคต"
           }
         },
         {
@@ -51,17 +51,17 @@ window.WORLD_ARCHIVE = {
           "tag": "steel",
           "rating": "amber",
           "source": "S&P Global",
-          "date": "2026-01-07",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSDJTcGFGbUFvRm15ZDhrczNqYkRzbHlXMTJZTHJpUF9CTjRHaTNXak4tdVBkbnBWcnNrRDRneXpBd1Z5SUJGSFZWTzJMNWhfcVl5czkzR0lSSjd4aTJzMTg3N2FWM3pHQ2NxbHg2dEp2ckNiNC16cWdJZ0t3anl3TzlUYldVajhqM05JQVEyWWdZYVdaYkEzZUpvUEJGdHAxXzRKdDRnNG1pQl9LaEN6Q0lpbFpPMTBOeElqT3V2NUdUSlJJNjZWOEpiMWc?oc=5",
-          "title": "Europe's steel industry faces its 2026 reckoning with CBAM",
-          "summary": "European steel producers are facing strict regulatory pressures and cost adjustments as the Carbon Border Adjustment Mechanism (CBAM) takes full effect.",
-          "why": "Steel production shifts in Europe directly impact metal fabrication volumes, influencing regional demand for heavy-duty grinding and deburring abrasives.",
-          "action": "Keep an eye on European metal processing trends to anticipate shifts in export-oriented metal parts manufacturing.",
+          "date": "2026-01-12",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
+          "title": "Global steel industry battles surplus supply, protectionism",
+          "summary": "The international steel market is grappling with persistent oversupply issues and rising trade protectionism, forcing producers to adapt their regional strategies.",
+          "why": "Fluctuations in steel production volumes and regional output shifts directly impact the local metal fabrication and manufacturing sectors that consume our abrasive products.",
+          "action": "Maintain flexible inventory levels to quickly respond to production adjustments in local metalworking plants affected by imported steel dynamics.",
           "th": {
-            "title": "อุตสาหกรรมเหล็กของยุโรปเผชิญบททดสอบในปี 2026 จากมาตรการ CBAM",
-            "summary": "ผู้ผลิตเหล็กในยุโรปกำลังเผชิญกับแรงกดดันด้านกฎระเบียบและการปรับต้นทุนอย่างเข้มงวด เมื่อมาตรการปรับคาร์บอนก่อนข้ามพรมแดน (CBAM) มีผลบังคับใช้อย่างเต็มรูปแบบ",
-            "why": "การเปลี่ยนแปลงการผลิตเหล็กในยุโรปส่งผลกระทบโดยตรงต่อปริมาณการแปรรูปโลหะ ซึ่งมีอิทธิพลต่อความต้องการวัสดุขัดสำหรับการเจียรและลบคมงานหนักในภูมิภาค",
-            "action": "จับตาดูแนวโน้มการแปรรูปโลหะในยุโรปเพื่อคาดการณ์การเปลี่ยนแปลงในการผลิตชิ้นส่วนโลหะสำหรับส่งออก"
+            "title": "อุตสาหกรรมเหล็กโลกต่อสู้กับภาวะล้นตลาดและลัทธิกีดกันทางการค้า",
+            "summary": "ตลาดเหล็กค้าระหว่างประเทศกำลังเผชิญกับปัญหาส่วนเกินการผลิตที่เรื้อรังและลัทธิกีดกันทางการค้าที่เพิ่มขึ้น ซึ่งบังคับให้ผู้ผลิตต้องปรับกลยุทธ์ระดับภูมิภาค",
+            "why": "ความผันผวนของปริมาณการผลิตเหล็กและการเปลี่ยนแปลงของผลผลิตในแต่ละภูมิภาค ส่งผลโดยตรงต่อภาคการแปรรูปโลหะและการผลิตในท้องถิ่นซึ่งเป็นผู้ใช้ผลิตภัณฑ์วัสดุขัดของเรา",
+            "action": "รักษาระดับสินค้าคงคลังให้มีความยืดหยุ่น เพื่อตอบสนองต่อการปรับเปลี่ยนการผลิตในโรงงานโลหะท้องถิ่นที่ได้รับผลกระทบจากสถานการณ์เหล็กนำเข้าได้อย่างรวดเร็ว"
           }
         }
       ]
