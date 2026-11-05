@@ -4,46 +4,46 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-11-05",
-      "summary": "Today's global trend briefing highlights critical shifts in the coated abrasives market driven by industrial automation, rising precision grinding demands for blue ceramic abrasives, and regional steel sector pressures.",
+      "summary": "Today's global trends highlight the growth of specialized abrasive grains, the EV manufacturing shift toward innovation, and Europe's steel sector facing decarbonization hurdles.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปกระแสโลกประจำวันนี้เน้นการเปลี่ยนแปลงครั้งสำคัญในตลาดกระดาษทรายและวัสดุขัดเคลือบ ซึ่งขับเคลื่อนด้วยระบบอัตโนมัติในอุตสาหกรรม ความต้องการวัสดุขัดเซรามิกสีฟ้าสำหรับงานขัดความแม่นยำสูง และแรงกดดันในภาคอุตสาหกรรมเหล็กระดับภูมิภาค"
+        "summary": "แนวโน้มโลกวันนี้เน้นย้ำถึงการเติบโตของเม็ดทรายขัดเฉพาะทาง การเปลี่ยนผ่านของอุตสาหกรรม EV ไปสู่นวัตกรรม และอุตสาหกรรมเหล็กของยุโรปที่กำลังเผชิญกับอุปสรรคเรื่องการลดคาร์บอน"
       },
       "items": [
         {
           "id": "20261105-w1",
           "tag": "abrasive",
           "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-11-01",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZG1Tb3Bhc05IRGVXMmQ4dHFjZXUtYzhrYTJrXzVPcURwMlA3Z3ZvOTB5NThxTkxndVY3eGtkVmNYWm1mR21NQzhnRnpSZ0hCUTdLc0FNTDA2Y1NKSTlkMkwtbUtjMDd4c2tDd0w5bHNMT2JYVXNmX28zSnM3ejVmaDlQbzgtc1ZjVkxRY3VhaTlodFRDanpTbXdlaXloeTJZODY1Qmo0d2pTSkZxenVSTUJET2xRaGlMSlJPcG5UdG5RUTQ?oc=5",
-          "title": "Coated Abrasives Market To 2035: Automation and Metalworking Fuel Expansion",
-          "summary": "The global coated abrasives market is expanding through 2035, significantly boosted by increasing factory automation and heavy metalworking demands.",
-          "why": "Higher adoption of automated robotic sanding and grinding directly increases the consumption of high-performance coated abrasives.",
-          "action": "Align our product catalog with automated robotic polishing applications and high-durability backing materials.",
+          "source": "openPR.com",
+          "date": "2026-10-21",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNGFJajFuQ0J1ZGJza1dDNkQ0MFRlaDV4VFNvbWFKUmZBV2JONGRyVGZxT2ZVRGlwVE5FcmtpbDh4cGJOUHYtRW9obUtmVGtueXFyWnRVdDZ2ZUZtemZyTTl0UXhWbHVvOTJIemd1YkJKaHJwVEU1M0FBMnFRb2NnM0wyLVA0NU1IRlgwWmdsbTNiYnNGU0NDbDRXSQ?oc=5",
+          "title": "Abrasive Grains Market is Expected to Reach USD 9.14 Billion",
+          "summary": "The global abrasive grains market is projected to reach $9.14 billion, driven by expanding industrial applications and high-performance manufacturing needs.",
+          "why": "Higher demand for raw abrasive grains directly impacts the manufacturing cost and availability of coated and bonded abrasives we sell.",
+          "action": "Monitor raw material price trends from major grain suppliers to manage inventory costs effectively.",
           "th": {
-            "title": "ตลาดวัสดุขัดเคลือบถึงปี 2035: ระบบอัตโนมัติและงานโลหะหนุนการเติบโต",
-            "summary": "ตลาดวัสดุขัดเคลือบผิวทั่วโลกกำลังขยายตัวจนถึงปี 2035 โดยได้รับแรงหนุนสำคัญจากการเพิ่มขึ้นของระบบอัตโนมัติในโรงงานและความต้องการงานโลหะที่สูงขึ้น",
-            "why": "การนำหุ่นยนต์ขัดและเจียรอัตโนมัติมาใช้มากขึ้น จะช่วยเพิ่มอัตราการใช้ผลิตภัณฑ์วัสดุขัดเคลือบประสิทธิภาพสูงโดยตรง",
-            "action": "ปรับแคตตาล็อกสินค้าให้รองรับกับการใช้งานร่วมกับหุ่นยนต์ขัดอัตโนมัติและวัสดุหลังทรายที่มีความทนทานสูง"
+            "title": "ตลาดเม็ดทรายขัด (Abrasive Grains) คาดว่าจะแตะ 9.14 พันล้านดอลลาร์",
+            "summary": "ตลาดเม็ดทรายขัดทั่วโลกมีแนวโน้มเติบโตถึง 9.14 พันล้านดอลลาร์ ขับเคลื่อนโดยการขยายตัวของการใช้งานในอุตสาหกรรมและความต้องการการผลิตที่มีประสิทธิภาพสูง",
+            "why": "ความต้องการวัตถุดิบเม็ดทรายขัดที่สูงขึ้น ส่งผลโดยตรงต่อต้นทุนการผลิตและความพร้อมของผลิตภัณฑ์กระดาษทรายและหินเจียรที่เราจำหน่าย",
+            "action": "ติดตามแนวโน้มราคาวัตถุดิบจากผู้ผลิตเม็ดทรายรายใหญ่เพื่อบริหารต้นทุนสินค้าคงคลังให้มีประสิทธิภาพ"
           }
         },
         {
           "id": "20261105-w2",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-11-02",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeWRrVkJoSERZcnUtUTVYNjFlRDRXeVAzeF9YLVJoU0RtQXEwVXIzNnA4dlYtWmplVGpqSlJxVVM4czVXMGRfUjZub3JFSHVXaWV3QXJtRF9yLVBKOHNiaHNSZERmMndyX3dvZ0ticFVWNEhhV2JUUVktUXM0Ylc1Q0tPanhMVXhYR2tKM24tcmpZbW9uRjNzRVR3eUkzNUtfM2NIYS1NRVFiVUw0SVFZLVRuTV9kaTExMWN0V3RQT0pOekgwZDg1c0l2SkZMMXdkZEFvUVJB?oc=5",
-          "title": "Blue Ceramic Abrasive Market To 2035: Precision Grinding Demand Supports Forward Growth",
-          "summary": "Demand for blue ceramic abrasive grains is rising steadily, supported by advanced precision grinding requirements in modern industrial sectors.",
-          "why": "Ceramic grain technology offers superior cut rates and lifespan, making it a crucial premium segment for metal fabrication and automotive parts.",
-          "action": "Explore sourcing partnerships or expanding our inventory of high-end ceramic grain belts and discs.",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2025-10-15",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU1ZfWl9XM09kcWJoajJKYmMtRS1tVjlUUjdQMG5VOEpuTnJSYzRqUmZHNjRWZDdCaVlPYmI1SHBzTXBmbjNFS2hQR3pxeG1pRmU0NnNrN3lFU3JQWkhzQ3F2UFQ0Z1p2akFsbmF2dHZLSTNvZkg5Qzl0b0hkYm1Bb3BYV3VDdDBkazRvNTRWcnNuUEVDV1lMUGljZkQyZm05N0p6Z2UwdWhZV1l0YnhYLXNvRlBlZGRQ?oc=5",
+          "title": "China's EV market shift: Innovation beats price cuts",
+          "summary": "Chinese electric vehicle manufacturers are shifting strategies from aggressive price cuts to focusing on advanced product innovation and manufacturing quality.",
+          "why": "Higher quality EV manufacturing standards require finer surface preparation, precision deburring, and advanced robotic sanding solutions.",
+          "action": "Explore high-end finishing products suitable for advanced EV component manufacturing.",
           "th": {
-            "title": "ตลาดเม็ดขัดเซรามิกสีฟ้าถึงปี 2035: ความต้องการงานขัดความแม่นยำสูงหนุนการเติบโต",
-            "summary": "ความต้องการเม็ดขัดเซรามิกสีฟ้ากำลังเพิ่มขึ้นอย่างต่อเนื่อง โดยได้รับแรงหนุนจากข้อกำหนดด้านการขัดความแม่นยำสูงในภาคอุตสาหกรรมสมัยใหม่",
-            "why": "เทคโนโลยีเม็ดขัดเซรามิกให้อัตราการตัดเฉือนและอายุการใช้งานที่เหนือกว่า ทำให้เป็นกลุ่มพรีเมียมที่สำคัญสำหรับงานผลิตโลหะและชิ้นส่วนยานยนต์",
-            "action": "ศึกษาหาพันธมิตรจัดซื้อหรือเพิ่มสต็อกสินค้าประเภทสายพานและแผ่นขัดเซรามิกเกรดพรีเมียม"
+            "title": "การเปลี่ยนผ่านของตลาด EV ในจีน: นวัตกรรมชนะการลดราคา",
+            "summary": "ผู้ผลิตยานยนต์ไฟฟ้าในจีนกำลังเปลี่ยนกลยุทธ์จากการลดราคาอย่างดุเดือด มาเน้นที่นวัตกรรมผลิตภัณฑ์ขั้นสูงและคุณภาพการผลิต",
+            "why": "มาตรฐานการผลิต EV ที่มีคุณภาพสูงขึ้น จำเป็นต้องมีการเตรียมพื้นผิวที่ละเอียดยิ่งขึ้น การลบคมที่มีความแม่นยำ และโซลูชันการขัดด้วยระบบอัตโนมัติขั้นสูง",
+            "action": "สำรวจผลิตภัณฑ์ขัดผิวเกรดสูงที่เหมาะสำหรับการผลิตชิ้นส่วน EV ขั้น 4"
           }
         },
         {
@@ -51,17 +51,17 @@ window.WORLD_ARCHIVE = {
           "tag": "steel",
           "rating": "amber",
           "source": "S&P Global",
-          "date": "2026-01-12",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
-          "title": "Global steel industry battles surplus supply, protectionism",
-          "summary": "The global steel sector faces persistent challenges from surplus production capacity and rising international trade protectionism.",
-          "why": "Steel mill operating rates directly dictate regional metal fabrication activity and the baseline demand for heavy-duty grinding abrasives.",
-          "action": "Monitor steel plant output fluctuations to anticipate changes in local structural steel and metal deburring abrasive demand.",
+          "date": "2026-01-07",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSDJTcGFGbUFvRm15ZDhrczNqYkRzbHlXMTJZTHJpUF9CTjRHaTNXak4tdVBkbnBWcnNrRDRneXpBd1Z5SUJGSFZWTzJMNWhfcVl5czkzR0lSSjd4aTJzMTg3N2FWM3pHQ2NxbHg2dEp2ckNiNC16cWdJZ0t3anl3TzlUYldVajhqM05JQVEyWWdZYVdaYkEzZUpvUEJGdHAxXzRKdDRnNG1pQl9LaEN6Q0lpbFpPMTBOeElqT3V2NUdUSlJJNjZWOEpiMWc?oc=5",
+          "title": "Europe's steel industry faces its 2026 reckoning with CBAM",
+          "summary": "European steel producers are facing strict regulatory pressures and cost adjustments as the Carbon Border Adjustment Mechanism (CBAM) takes full effect.",
+          "why": "Steel production shifts in Europe directly impact metal fabrication volumes, influencing regional demand for heavy-duty grinding and deburring abrasives.",
+          "action": "Keep an eye on European metal processing trends to anticipate shifts in export-oriented metal parts manufacturing.",
           "th": {
-            "title": "อุตสาหกรรมเหล็กโลกเผชิญศึกภาวะล้นตลาดและมาตรการกีดกันทางการค้า",
-            "summary": "ภาคอุตสาหกรรมเหล็กทั่วโลกกำลังเผชิญกับความท้าทายเรื้อรังจากกำลังการผลิตส่วนเกินและมาตรการกีดกันทางการค้าระหว่างประเทศที่เพิ่มสูงขึ้น",
-            "why": "อัตราการดำเนินงานของโรงงานเหล็กส่งผลโดยตรงต่อกิจกรรมการแปรรูปโลหะในภูมิภาคและความต้องการพื้นฐานสำหรับวัสดุขัดงานหนัก",
-            "action": "ติดตามความผันผวนของผลผลิตโรงงานเหล็กเพื่อคาดการณ์การเปลี่ยนแปลงความต้องการใช้กระดาษทรายและหินเจียรในงานโลหะโครงสร้าง"
+            "title": "อุตสาหกรรมเหล็กของยุโรปเผชิญบททดสอบในปี 2026 จากมาตรการ CBAM",
+            "summary": "ผู้ผลิตเหล็กในยุโรปกำลังเผชิญกับแรงกดดันด้านกฎระเบียบและการปรับต้นทุนอย่างเข้มงวด เมื่อมาตรการปรับคาร์บอนก่อนข้ามพรมแดน (CBAM) มีผลบังคับใช้อย่างเต็มรูปแบบ",
+            "why": "การเปลี่ยนแปลงการผลิตเหล็กในยุโรปส่งผลกระทบโดยตรงต่อปริมาณการแปรรูปโลหะ ซึ่งมีอิทธิพลต่อความต้องการวัสดุขัดสำหรับการเจียรและลบคมงานหนักในภูมิภาค",
+            "action": "จับตาดูแนวโน้มการแปรรูปโลหะในยุโรปเพื่อคาดการณ์การเปลี่ยนแปลงในการผลิตชิ้นส่วนโลหะสำหรับส่งออก"
           }
         }
       ]
