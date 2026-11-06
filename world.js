@@ -4,46 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-11-06",
-      "summary": "Today's briefing highlights new structural shifts in the global abrasives and timber sectors, alongside ongoing steel overcapacity and green trade policies like Europe's CBAM.",
-      "directCount": 2,
+      "summary": "Today's briefing highlights global shifts in industrial manufacturing, focusing on abrasive market growth driven by precision finishing, emerging abrasive grain supply, and automotive production consolidation in China.",
+      "directCount": 3,
       "th": {
-        "summary": "สรุปทิศทางโลกวันนี้เน้นการเปลี่ยนแปลงเชิงโครงสร้างในตลาดวัสดุขัดและงานไม้ พร้อมกับภาวะล้นตลาดเหล็กและนโยบายการค้าสีเขียว CBAM ของยุโรป"
+        "summary": "สรุปแนวโน้มโลกประจำวันนี้เน้นการเปลี่ยนแปลงในการผลิตภาคอุตสาหกรรม โดยมุ่งไปที่การเติบโตของตลาดวัสดุขัดจากความต้องการตกแต่งผิวความแม่นยำสูง อุปทานเม็ดขัดใหม่ และการควบรวมกิจการในอุตสาหกรรมรถยนต์ของจีน"
       },
       "items": [
         {
           "id": "20261106-w1",
           "tag": "abrasive",
           "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-11-05",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY1FXanVRMDJTZUdIQ05mNnA1UXo4aW5aS0pjYXF6SlBRZFRHWW1DU1RpNFhoQldJU3d1UTZuYXcwYzF3ZmxMZzZFcUl5YTdkSkptY2pvYWI3QkdPT19hb0RZcHRjTG45MUxmWTRIM1BOUnowSmxPeVdSVEJXSjVOM0MtV0xuUFpLZHVJVHdJcFk2aXVmLS1BSUs1OWZERVo4TGFJU3ZsM1hFdWE5YmJESHhFak53TVJoaUU1Zg?oc=5",
-          "title": "Abrasives And Timber Market To 2035: Construction and Woodworking Demand Drive Growth",
-          "summary": "Growth in the global construction and woodworking sectors is fueling steady long-term demand for specialized abrasives used in wood surface preparation.",
-          "why": "Woodworking is a key end-market for coated and bonded abrasives; rising construction demand means consistent orders for sanding belts and sheets.",
-          "action": "Ensure stable stock levels for woodworking sandpaper lines to capture steady construction-driven demand.",
+          "source": "EIN News",
+          "date": "2026-10-19",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM2VsRTlqVWR6dlpoUXpZQ04wNnJsRUNBbndKSnNQODIyUXdnTTlIT0hZMC10bGhEUUk0clZ5ZWZRN0I2eVhiVHVPVmRYd05xWUdJdDJldTBsTkZEUVNBNG5qaE9WeXdDN2dSVzJ2TzNsVFhBNVMzakhwZFR6Z0dQeFFVS0ZPa0dmWmh1dHhiYXVXWWRrbk9XS251Ul9SVS1SZ3NON0VXRWxfOWtzazlNcXhUMVBnU2liODhqaXF6OEdGb2NEYkRoaG9uNmx6MlNjMUd2N3Q0emZnUXltZk1wbg?oc=5",
+          "title": "Abrasives Market to Reach $72.2 Billion by 2030, Growing at a 7.6% CAGR Driven by Precision Finishing Demand",
+          "summary": "The global abrasives market is projected to reach $72.2 billion by 2030, expanding at a 7.6% CAGR, heavily fueled by growing industrial needs for precision finishing.",
+          "why": "Confirms steady long-term global growth for our core product category, especially in high-precision segments.",
+          "action": "Focus marketing and inventory on high-value precision finishing lines rather than low-end commodities.",
           "th": {
-            "title": "ตลาดวัสดุขัดและไม้ถึงปี 2035: ความต้องการจากงานก่อสร้างและงานไม้ขับเคลื่อนการเติบโต",
-            "summary": "การเติบโตของภาคการก่อสร้างและงานไม้ทั่วโลกกำลังหนุนความต้องการใช้วัสดุขัดเฉพาะทางสำหรับการเตรียมพื้นผิวไม้",
-            "why": "อุตสาหกรรมงานไม้คือตลาดหลักของกระดาษทรายและแผ่นขัด ความต้องการก่อสร้างที่สูงขึ้นหมายถึงคำสั่งซื้อที่สม่ำเสมอ",
-            "action": "รักษาระดับสต็อกสินค้ากลุ่มกระดาษทรายสำหรับงานไม้ให้เพียงพอเพื่อรองรับความต้องการจากการก่อสร้าง"
+            "title": "ตลาดวัสดุขัดพุ่งแตะ 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 หนุนโดยความต้องการขัดตกแต่งความแม่นยำสูง",
+            "summary": "ตลาดวัสดุขัดทั่วโลกคาดว่าจะเติบโตถึง 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 ด้วยอัตราการเติบโตเฉลี่ย 7.6% จากความต้องการทางอุตสาหกรรมที่เน้นงานขัดความละเอียดสูง",
+            "why": "ยืนยันการเติบโตระยะยาวของกลุ่มสินค้าหลักของเรา โดยเฉพาะในกลุ่มงานที่มีความแม่นยำสูง",
+            "action": "มุ่งเน้นการทำตลาดและสต็อกสินค้าในกลุ่มงานขัดตกแต่งความละเอียดสูงแทนสินค้าโภคภัณฑ์ทั่วไป"
           }
         },
         {
           "id": "20261106-w2",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "S&P Global",
-          "date": "2026-01-12",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
-          "title": "Global steel industry battles surplus supply, protectionism",
-          "summary": "The worldwide steel sector continues to face overproduction issues and rising trade protectionism, affecting regional manufacturing output.",
-          "why": "Steel production volume directly correlates with heavy metal grinding, deburring, and welding prep consumables demand.",
-          "action": "Monitor metal fabrication client output closely as surplus steel pressures local factory production schedules.",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "openPR.com",
+          "date": "2026-10-21",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNGFJajFuQ0J1ZGJza1dDNkQ0MFRlaDV4VFNvbWFKUmZBV2JONGRyVGZxT2ZVRGlwVE5FcmtpbDh4cGJOUHYtRW9obUtmVGtueXFyWnRVdDZ2ZUZtemZyTTl0UXhWbHVvOTJIemd1YkJKaHJwVEU1M0FBMnFRb2NnM0wyLVA0NU1IRlgwWmdsbTNiYnNGU0NDbDRXSQ?oc=5",
+          "title": "Abrasive Grains Market is Expcted to Reach USD 9.14 Billion",
+          "summary": "The abrasive grains market is expanding significantly, projected to hit USD 9.14 billion as raw material demands evolve across industrial applications.",
+          "why": "Raw material costs and availability of abrasive grains directly dictate our manufacturing and sourcing margins.",
+          "action": "Monitor raw material price trends for grains to anticipate upcoming product cost adjustments from suppliers.",
           "th": {
-            "title": "อุตสาหกรรมเหล็กโลกต่อสู้กับภาวะอุปทานส่วนเกินและการกีดกันทางการค้า",
-            "summary": "ภาคอุตสาหกรรมเหล็กทั่วโลกยังคงเผชิญกับปัญหาผลิตล้นเกินและการกีดกันทางการค้าที่เพิ่มขึ้น ซึ่งส่งผลต่อปริมาณการผลิตในระดับภูมิภาค",
-            "why": "ปริมาณการผลิตเหล็กมีความเชื่อมโยงโดยตรงกับความต้องการใช้วัสดุกรณีขัด ลบคม และเตรียมผิวงานโลหะ",
-            "action": "ติดตามกำลังการผลิตของลูกค้ากลุ่มแปรรูปโลหะอย่างใกล้ชิด เนื่องจากภาวะเหล็กล้นตลาดอาจกระทบตารางการผลิตของโรงงาน"
+            "title": "ตลาดเม็ดวัสดุขัดคาดว่าจะพุ่งถึง 9.14 พันล้านดอลลาร์",
+            "summary": "ตลาดเม็ดวัสดุขัดกำลังขยายตัวอย่างมีนัยสำคัญ โดยคาดว่าจะแตะ 9.14 พันล้านดอลลาร์ ตามความต้องการวัตถุดิบที่พัฒนาไปตามการใช้งานในอุตสาหกรรม",
+            "why": "ต้นทุนและความพร้อมของเม็ดวัสดุขัดส่งผลโดยตรงต่อต้นทุนการจัดหาและอัตรากำไรของเรา",
+            "action": "ติดตามแนวโน้มราคาวัตถุดิบเม็ดขัดเพื่อเตรียมรับมือกับการปรับราคาจากผู้ผลิต"
+          }
+        },
+        {
+          "id": "20261106-w3",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-10-28",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMExMd0h3VTZZUGVhTmVoNENZT0RDYkZhOFlTUzZUd3RmT0RNRGJKVjlQVTBmRnkwa21iZEl6ZlNJYmIzVTjjQzU1eGhrcTFPOHhNQWRlSWVWaDlwR2FIVGZmSWJlQk00ZmNRUE5oc1owOGtPSzM2QzNCY0R4YXJNdjdwWExHVzNDM1JXSGRpMnNTdHQ1QXdnWlk2MFlFc21GRXd5QjVVYVItalFMN2hjZmZqZi1nd2I5aVBhYlRhbTQ?oc=5",
+          "title": "China's car industry consolidation begins: who will survive?",
+          "summary": "China's massive automotive sector is entering a consolidation phase, which will weed out weaker players and shift manufacturing standards among survivors.",
+          "why": "Shifts in the Chinese automotive supply chain impact regional metal stamping, parts manufacturing, and surface finishing requirements.",
+          "action": "Keep an eye on surviving tier-1 automotive suppliers in Asia as key potential targets for industrial abrasive tools.",
+          "th": {
+            "title": "อุตสาหกรรมรถยนต์จีนเริ่มเข้าสู่ช่วงควบรวมกิจการ: ใครจะอยู่รอด?",
+            "summary": "ภาคยานยนต์ขนาดใหญ่ของจีนกำลังเข้าสู่ช่วงการควบรวม ซึ่งจะคัดกรองผู้เล่นที่อ่อนแอออกและเปลี่ยนมาตรฐานการผลิตของผู้ที่อยู่รอด",
+            "why": "ความเปลี่ยนแปลงในห่วงโซ่อุปทานยานยนต์จีนส่งผลกระทบต่อความต้องการปั๊มโลหะ ชิ้นส่วน และการเตรียมพื้นผิวในภูมิภาค",
+            "action": "จับตาดูซัพพลายเออร์ยานยนต์ระดับ 1 ในเอเชียที่รอดชีวิต เพื่อมองหาโอกาสจำหน่ายเครื่องมือขัดอุตสาหกรรม"
           }
         }
       ]
