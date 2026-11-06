@@ -4,10 +4,10 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-11-06",
-      "summary": "Today's global intelligence briefing highlights strong growth in the coated abrasives and abrasive grains markets driven by automation and precision finishing demands, alongside steel sector pressures from European CBAM regulations and global overcapacity.",
-      "directCount": 3,
+      "summary": "Today's briefing highlights new structural shifts in the global abrasives and timber sectors, alongside ongoing steel overcapacity and green trade policies like Europe's CBAM.",
+      "directCount": 2,
       "th": {
-        "summary": "สรุปข้อมูลเชิงลึกระดับโลกประจำวันนี้เน้นย้ำการเติบโตที่แข็งแกร่งของตลาดกระดาษทรายเคลือบและเม็ดทรายขัด ซึ่งขับเคลื่อนด้วยความต้องการระบบอัตโนมัติและการขัดผิวความแม่นยำสูง ควบคู่ไปกับแรงกดดันในภาคอุตสาหกรรมเหล็กจากกฎระเบียบ CBAM ของยุโรปและภาวะล้นตลาดทั่วโลก"
+        "summary": "สรุปทิศทางโลกวันนี้เน้นการเปลี่ยนแปลงเชิงโครงสร้างในตลาดวัสดุขัดและงานไม้ พร้อมกับภาวะล้นตลาดเหล็กและนโยบายการค้าสีเขียว CBAM ของยุโรป"
       },
       "items": [
         {
@@ -15,89 +15,35 @@ window.WORLD_ARCHIVE = {
           "tag": "abrasive",
           "rating": "green",
           "source": "IndexBox",
-          "date": "2026-11-01",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZG1Tb3Bhc05IRGVXMmQ4dHFjZXUtYzhrYTJrXzVPcURwMlA3Z3ZvOTB5NThxTkxndVY3eGtkVmNYWm1mR21NQzhnRnpSZ0hCUTdLc0FNTDA2Y1NKSTlkMkwtbUtjMDd4c2tDd0w5bHNMT2JYVXNmX28zSnM3ejVmaDlQbzgtc1ZjVkxRY3VhaTlodFRDanpTbXdlaXloeTJZODY1Qmo0d2pTSkZxenVSTUJET2xRaGlMSlJPcG5UdG5RUTQ?oc=5",
-          "title": "Coated Abrasives Market To 2035: Automation and Metalworking Fuel Expansion",
-          "summary": "The coated abrasives market continues its steady expansion toward 2035, heavily fueled by growing integration of manufacturing automation and robust metalworking activities.",
-          "why": "Higher automation in factories increases the consumption of automated-compatible coated abrasives and consistent precision belts.",
-          "action": "Align our product catalog with automated robotic grinding applications.",
+          "date": "2026-11-05",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY1FXanVRMDJTZUdIQ05mNnA1UXo4aW5aS0pjYXF6SlBRZFRHWW1DU1RpNFhoQldJU3d1UTZuYXcwYzF3ZmxMZzZFcUl5YTdkSkptY2pvYWI3QkdPT19hb0RZcHRjTG45MUxmWTRIM1BOUnowSmxPeVdSVEJXSjVOM0MtV0xuUFpLZHVJVHdJcFk2aXVmLS1BSUs1OWZERVo4TGFJU3ZsM1hFdWE5YmJESHhFak53TVJoaUU1Zg?oc=5",
+          "title": "Abrasives And Timber Market To 2035: Construction and Woodworking Demand Drive Growth",
+          "summary": "Growth in the global construction and woodworking sectors is fueling steady long-term demand for specialized abrasives used in wood surface preparation.",
+          "why": "Woodworking is a key end-market for coated and bonded abrasives; rising construction demand means consistent orders for sanding belts and sheets.",
+          "action": "Ensure stable stock levels for woodworking sandpaper lines to capture steady construction-driven demand.",
           "th": {
-            "title": "ตลาดกระดาษทรายเคลือบถึงปี 2035: ระบบอัตโนมัติและการแปรรูปโลหะหนุนการขยายตัว",
-            "summary": "ตลาดกระดาษทรายเคลือบยังคงขยายตัวอย่างต่อเนื่องถึงปี 2035 โดยได้รับแรงหนุนอย่างมากจากการผสมผสานระบบอัตโนมัติในการผลิตและกิจการงานโลหะที่แข็งแกร่ง",
-            "why": "ระบบอัตโนมัติที่เพิ่มขึ้นในโรงงานช่วยเพิ่มการบริโภคกระดาษทรายเคลือบที่รองรับระบบอัตโนมัติและสายพานขัดความแม่นยำสูง",
-            "action": "ปรับแคตตาล็อกสินค้าของเราให้สอดคล้องกับการใช้งานขัดด้วยหุ่นยนต์อัตโนมัติ"
+            "title": "ตลาดวัสดุขัดและไม้ถึงปี 2035: ความต้องการจากงานก่อสร้างและงานไม้ขับเคลื่อนการเติบโต",
+            "summary": "การเติบโตของภาคการก่อสร้างและงานไม้ทั่วโลกกำลังหนุนความต้องการใช้วัสดุขัดเฉพาะทางสำหรับการเตรียมพื้นผิวไม้",
+            "why": "อุตสาหกรรมงานไม้คือตลาดหลักของกระดาษทรายและแผ่นขัด ความต้องการก่อสร้างที่สูงขึ้นหมายถึงคำสั่งซื้อที่สม่ำเสมอ",
+            "action": "รักษาระดับสต็อกสินค้ากลุ่มกระดาษทรายสำหรับงานไม้ให้เพียงพอเพื่อรองรับความต้องการจากการก่อสร้าง"
           }
         },
         {
           "id": "20261106-w2",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "openPR.com",
-          "date": "2026-10-21",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNGFJajFuQ0J1ZGJza1dDNkQ0MFRlaDV4VFNvbWFKUmZBV2JONGRyVGZxT2ZVRGlwVE5FcmtpbDh4cGJOUHYtRW9obUtmVGtueXFyWnRVdDZ2ZUZtemZyTTl0UXhWbHVvOTJIemd1YkJKaHJwVEU1M0FBMnFRb2NnM0wyLVA0NU1IRlgwWmdsbTNiYnNGU0NDbDRXSQ?oc=5",
-          "title": "Abrasive Grains Market is Expected to Reach USD 9.14 Billion",
-          "summary": "The global abrasive grains market is projected to reach $9.14 billion, reflecting steady demand for high-performance raw materials used in grinding tools.",
-          "why": "Raw material costs and grade availability directly impact our manufacturing and wholesale margins for finished abrasives.",
-          "action": "Monitor raw abrasive grain price trends to better manage inventory procurement costs.",
-          "th": {
-            "title": "ตลาดเม็ดทรายขัดคาดว่าจะเติบโตถึง 9.14 พันล้านดอลลาร์สหรัฐ",
-            "summary": "ตลาดเม็ดทรายขัดทั่วโลกคาดว่าจะสูงถึง 9.14 พันล้านดอลลาร์ สะท้อนถึงความต้องการที่มั่นคงสำหรับวัตถุดิบประสิทธิภาพสูงที่ใช้ในเครื่องมือเจียร",
-            "why": "ต้นทุนวัตถุดิบและความพร้อมของเกรดวัสดุส่งผลโดยตรงต่อต้นทุนการผลิตและกำไรจากการขายส่งผลิตภัณฑ์ขัดของเรา",
-            "action": "ติดตามแนวโน้มราคาวัตถุดิบเม็ดทรายขัดเพื่อจัดการต้นทุนการจัดซื้อสินค้าคงคลังให้ดียิ่งขึ้น"
-          }
-        },
-        {
-          "id": "20261106-w3",
           "tag": "steel",
-          "rating": "green",
+          "rating": "amber",
           "source": "S&P Global",
-          "date": "2026-01-07",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSDJTcGFGbUFvRm15ZDhrczNqYkRzbHlXMTJZTHJpUF9CTjRHaTNXak4tdVBkbnBWcnNrRDRneXpBd1Z5SUJGSFZWTzJMNWhfcVl5czkzR0lSSjd4aTJzMTg3N2FWM3pHQ2NxbHg2dEp2ckNiNC16cWdJZ0t3anl3TzlUYldVajhqM05JQVEyWWdZYVdaYkEzZUpvUEJGdHAxXzRKdDRnNG1pQl9LaEN6Q0lpbFpPMTBOeElqT3V2NUdUSlJJNjZWOEpiMWc?oc=5",
-          "title": "Europe's steel industry faces its 2026 reckoning with CBAM",
-          "summary": "European steel producers face severe regulatory adjustments and compliance challenges under the Carbon Border Adjustment Mechanism (CBAM) in 2026.",
-          "why": "Steel processing standards and export compliance affect global metal finishing specifications and regional machinery tool requirements.",
-          "action": "Stay informed on green steel initiatives and how European carbon standards impact metal surface treatment expectations.",
+          "date": "2026-01-12",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
+          "title": "Global steel industry battles surplus supply, protectionism",
+          "summary": "The worldwide steel sector continues to face overproduction issues and rising trade protectionism, affecting regional manufacturing output.",
+          "why": "Steel production volume directly correlates with heavy metal grinding, deburring, and welding prep consumables demand.",
+          "action": "Monitor metal fabrication client output closely as surplus steel pressures local factory production schedules.",
           "th": {
-            "title": "อุตสาหกรรมเหล็กของยุโรปเผชิญบททดสอบในปี 2026 ด้วยมาตรการ CBAM",
-            "summary": "ผู้ผลิตเหล็กในยุโรปต้องเผชิญกับการปรับเปลี่ยนกฎระเบียบและความท้าทายด้านการปฏิบัติตามข้อกำหนดภายใต้กลไกการปรับคาร์บอนก่อนข้ามพรมแดน (CBAM) ในปี 2026",
-            "why": "มาตรฐานการแปรรูปเหล็กและการปฏิบัติตามกฎระเบียบการส่งออกส่งผลกระทบต่อข้อกำหนดการตกแต่งผิวโลหะระดับโลกและข้อกำหนดเครื่องมือกลในภูมิภาค",
-            "action": "ติดตามข่าวสารเกี่ยวกับโครงการเหล็กสีเขียวและผลกระทบของมาตรฐานคาร์บอนในยุโรปที่มีต่อความคาดหวังในการเตรียมผิวโลหะ"
-          }
-        },
-        {
-          "id": "20261106-w4",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "PwC",
-          "date": "2026-01-30",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeHkyd2FvZUJEaUJEZlNaeFJQb0xNNjNka2EwS2hjZ1F3dFk2TVJubmsxTVZxc3ZnY2xLMG0ya2M0QlViV01qcDJid3JKODZMZGFiakxsWkpUOGEwMVlzMHNKaDhDWU0yU1pxcXBPbjZ0UDA4SklTV0lpYU16c1luUXJJRHRYay1iZ2NEUlUxeXM2aWQ4TDhxYll0WFgxZw?oc=5",
-          "title": "Automotive industry outlook 2026: electrification, pricing and M&A",
-          "summary": "The automotive sector in 2026 navigates massive EV transition strategies, aggressive pricing pressures, and consolidation activities.",
-          "why": "Automotive manufacturing shifts directly influence the demand for specialized deburring, sanding, and precision metal finishing parts.",
-          "action": "Target tier-2 automotive part suppliers who are adapting their lines for EV components.",
-          "th": {
-            "title": "แนวโน้มอุตสาหกรรมยานยนต์ปี 2026: ยานยนต์ไฟฟ้า การกำหนดราคา และการควบรวมกิจการ",
-            "summary": "ภาคยานยนต์ในปี 2026 กำลังขับเคลื่อนกลยุทธ์การเปลี่ยนผ่านสู่รถยนต์ไฟฟ้า แรงกดดันด้านราคาที่รุนแรง และกิจกรรมการควบรวมกิจการ",
-            "why": "การเปลี่ยนแปลงในการผลิตยานยนต์ส่งผลโดยตรงต่อความต้องการชิ้นส่วนการลบคม การขัดกระดาษทราย และการตกแต่งผิวโลหะที่มีความแม่นยำสูง",
-            "action": "มุ่งเป้าไปที่ผู้ผลิตชิ้นส่วนยานยนต์ระดับ Tier-2 ที่กำลังปรับสายการผลิตสำหรับชิ้นส่วนรถยนต์ไฟฟ้า"
-          }
-        },
-        {
-          "id": "20261106-w5",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "World Bank Blogs",
-          "date": "2026-06-11",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONzBKVVZhYkZoRERBTm8wSUNzYUY3Y0lZTVhlRXhoMk9qWGUybnc0SFA2dC1KT1ZOV2puSzlLRzhmdDRUVDkwejhFM3JtNm1SY2RpbFoyYWR2Q1J2eHJTME0zd25GSjlaRE1qWG1sQjZsaUpXdjBJd0oyZlBEUklMNkxuNGVWZ3FZVGhZOHJwOWdiZw?oc=5",
-          "title": "Metal prices surge as supply pressures intensify",
-          "summary": "Global metal prices have experienced notable surges due to intensifying supply chain constraints and geopolitical pressures.",
-          "why": "Fluctuating metal costs influence industrial manufacturing budgets and component processing volumes, affecting abrasive consumption.",
-          "action": "Keep an eye on metal fabrication activity rates as raw material costs fluctuate.",
-          "th": {
-            "title": "ราคาโลหะพุ่งสูงขึ้นเนื่องจากแรงกดดันด้านอุปทานที่ทวีความรุนแรงขึ้น",
-            "summary": "ราคาโลหะทั่วโลกพุ่งสูงขึ้นอย่างเห็นได้ชัดเนื่องจากข้อจำกัดด้านห่วงโซ่อุปทานและแรงกดดันทางภูมิรัฐศาสตร์ที่เพิ่มขึ้น",
-            "why": "ความผันผวนของต้นทุนโลหะส่งผลต่อขอบเขตงบประมาณการผลิตทางอุตสาหกรรมและปริมาณการแปรรูปชิ้นส่วน ซึ่งกระทบต่ออัตราการใช้กระดาษทราย",
-            "action": "จับตาดูอัตรากิจกรรมการแปรรูปโลหะในขณะที่ต้นทุนวัตถุดิบมีความผันผวน"
+            "title": "อุตสาหกรรมเหล็กโลกต่อสู้กับภาวะอุปทานส่วนเกินและการกีดกันทางการค้า",
+            "summary": "ภาคอุตสาหกรรมเหล็กทั่วโลกยังคงเผชิญกับปัญหาผลิตล้นเกินและการกีดกันทางการค้าที่เพิ่มขึ้น ซึ่งส่งผลต่อปริมาณการผลิตในระดับภูมิภาค",
+            "why": "ปริมาณการผลิตเหล็กมีความเชื่อมโยงโดยตรงกับความต้องการใช้วัสดุกรณีขัด ลบคม และเตรียมผิวงานโลหะ",
+            "action": "ติดตามกำลังการผลิตของลูกค้ากลุ่มแปรรูปโลหะอย่างใกล้ชิด เนื่องจากภาวะเหล็กล้นตลาดอาจกระทบตารางการผลิตของโรงงาน"
           }
         }
       ]
