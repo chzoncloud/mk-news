@@ -1,7 +1,107 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-11-05",
+  "updated": "2026-11-06",
   "days": [
+    {
+      "date": "2026-11-06",
+      "summary": "Today's global intelligence briefing highlights strong growth in the coated abrasives and abrasive grains markets driven by automation and precision finishing demands, alongside steel sector pressures from European CBAM regulations and global overcapacity.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปข้อมูลเชิงลึกระดับโลกประจำวันนี้เน้นย้ำการเติบโตที่แข็งแกร่งของตลาดกระดาษทรายเคลือบและเม็ดทรายขัด ซึ่งขับเคลื่อนด้วยความต้องการระบบอัตโนมัติและการขัดผิวความแม่นยำสูง ควบคู่ไปกับแรงกดดันในภาคอุตสาหกรรมเหล็กจากกฎระเบียบ CBAM ของยุโรปและภาวะล้นตลาดทั่วโลก"
+      },
+      "items": [
+        {
+          "id": "20261106-w1",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-11-01",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZG1Tb3Bhc05IRGVXMmQ4dHFjZXUtYzhrYTJrXzVPcURwMlA3Z3ZvOTB5NThxTkxndVY3eGtkVmNYWm1mR21NQzhnRnpSZ0hCUTdLc0FNTDA2Y1NKSTlkMkwtbUtjMDd4c2tDd0w5bHNMT2JYVXNmX28zSnM3ejVmaDlQbzgtc1ZjVkxRY3VhaTlodFRDanpTbXdlaXloeTJZODY1Qmo0d2pTSkZxenVSTUJET2xRaGlMSlJPcG5UdG5RUTQ?oc=5",
+          "title": "Coated Abrasives Market To 2035: Automation and Metalworking Fuel Expansion",
+          "summary": "The coated abrasives market continues its steady expansion toward 2035, heavily fueled by growing integration of manufacturing automation and robust metalworking activities.",
+          "why": "Higher automation in factories increases the consumption of automated-compatible coated abrasives and consistent precision belts.",
+          "action": "Align our product catalog with automated robotic grinding applications.",
+          "th": {
+            "title": "ตลาดกระดาษทรายเคลือบถึงปี 2035: ระบบอัตโนมัติและการแปรรูปโลหะหนุนการขยายตัว",
+            "summary": "ตลาดกระดาษทรายเคลือบยังคงขยายตัวอย่างต่อเนื่องถึงปี 2035 โดยได้รับแรงหนุนอย่างมากจากการผสมผสานระบบอัตโนมัติในการผลิตและกิจการงานโลหะที่แข็งแกร่ง",
+            "why": "ระบบอัตโนมัติที่เพิ่มขึ้นในโรงงานช่วยเพิ่มการบริโภคกระดาษทรายเคลือบที่รองรับระบบอัตโนมัติและสายพานขัดความแม่นยำสูง",
+            "action": "ปรับแคตตาล็อกสินค้าของเราให้สอดคล้องกับการใช้งานขัดด้วยหุ่นยนต์อัตโนมัติ"
+          }
+        },
+        {
+          "id": "20261106-w2",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "openPR.com",
+          "date": "2026-10-21",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNGFJajFuQ0J1ZGJza1dDNkQ0MFRlaDV4VFNvbWFKUmZBV2JONGRyVGZxT2ZVRGlwVE5FcmtpbDh4cGJOUHYtRW9obUtmVGtueXFyWnRVdDZ2ZUZtemZyTTl0UXhWbHVvOTJIemd1YkJKaHJwVEU1M0FBMnFRb2NnM0wyLVA0NU1IRlgwWmdsbTNiYnNGU0NDbDRXSQ?oc=5",
+          "title": "Abrasive Grains Market is Expected to Reach USD 9.14 Billion",
+          "summary": "The global abrasive grains market is projected to reach $9.14 billion, reflecting steady demand for high-performance raw materials used in grinding tools.",
+          "why": "Raw material costs and grade availability directly impact our manufacturing and wholesale margins for finished abrasives.",
+          "action": "Monitor raw abrasive grain price trends to better manage inventory procurement costs.",
+          "th": {
+            "title": "ตลาดเม็ดทรายขัดคาดว่าจะเติบโตถึง 9.14 พันล้านดอลลาร์สหรัฐ",
+            "summary": "ตลาดเม็ดทรายขัดทั่วโลกคาดว่าจะสูงถึง 9.14 พันล้านดอลลาร์ สะท้อนถึงความต้องการที่มั่นคงสำหรับวัตถุดิบประสิทธิภาพสูงที่ใช้ในเครื่องมือเจียร",
+            "why": "ต้นทุนวัตถุดิบและความพร้อมของเกรดวัสดุส่งผลโดยตรงต่อต้นทุนการผลิตและกำไรจากการขายส่งผลิตภัณฑ์ขัดของเรา",
+            "action": "ติดตามแนวโน้มราคาวัตถุดิบเม็ดทรายขัดเพื่อจัดการต้นทุนการจัดซื้อสินค้าคงคลังให้ดียิ่งขึ้น"
+          }
+        },
+        {
+          "id": "20261106-w3",
+          "tag": "steel",
+          "rating": "green",
+          "source": "S&P Global",
+          "date": "2026-01-07",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSDJTcGFGbUFvRm15ZDhrczNqYkRzbHlXMTJZTHJpUF9CTjRHaTNXak4tdVBkbnBWcnNrRDRneXpBd1Z5SUJGSFZWTzJMNWhfcVl5czkzR0lSSjd4aTJzMTg3N2FWM3pHQ2NxbHg2dEp2ckNiNC16cWdJZ0t3anl3TzlUYldVajhqM05JQVEyWWdZYVdaYkEzZUpvUEJGdHAxXzRKdDRnNG1pQl9LaEN6Q0lpbFpPMTBOeElqT3V2NUdUSlJJNjZWOEpiMWc?oc=5",
+          "title": "Europe's steel industry faces its 2026 reckoning with CBAM",
+          "summary": "European steel producers face severe regulatory adjustments and compliance challenges under the Carbon Border Adjustment Mechanism (CBAM) in 2026.",
+          "why": "Steel processing standards and export compliance affect global metal finishing specifications and regional machinery tool requirements.",
+          "action": "Stay informed on green steel initiatives and how European carbon standards impact metal surface treatment expectations.",
+          "th": {
+            "title": "อุตสาหกรรมเหล็กของยุโรปเผชิญบททดสอบในปี 2026 ด้วยมาตรการ CBAM",
+            "summary": "ผู้ผลิตเหล็กในยุโรปต้องเผชิญกับการปรับเปลี่ยนกฎระเบียบและความท้าทายด้านการปฏิบัติตามข้อกำหนดภายใต้กลไกการปรับคาร์บอนก่อนข้ามพรมแดน (CBAM) ในปี 2026",
+            "why": "มาตรฐานการแปรรูปเหล็กและการปฏิบัติตามกฎระเบียบการส่งออกส่งผลกระทบต่อข้อกำหนดการตกแต่งผิวโลหะระดับโลกและข้อกำหนดเครื่องมือกลในภูมิภาค",
+            "action": "ติดตามข่าวสารเกี่ยวกับโครงการเหล็กสีเขียวและผลกระทบของมาตรฐานคาร์บอนในยุโรปที่มีต่อความคาดหวังในการเตรียมผิวโลหะ"
+          }
+        },
+        {
+          "id": "20261106-w4",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "PwC",
+          "date": "2026-01-30",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeHkyd2FvZUJEaUJEZlNaeFJQb0xNNjNka2EwS2hjZ1F3dFk2TVJubmsxTVZxc3ZnY2xLMG0ya2M0QlViV01qcDJid3JKODZMZGFiakxsWkpUOGEwMVlzMHNKaDhDWU0yU1pxcXBPbjZ0UDA4SklTV0lpYU16c1luUXJJRHRYay1iZ2NEUlUxeXM2aWQ4TDhxYll0WFgxZw?oc=5",
+          "title": "Automotive industry outlook 2026: electrification, pricing and M&A",
+          "summary": "The automotive sector in 2026 navigates massive EV transition strategies, aggressive pricing pressures, and consolidation activities.",
+          "why": "Automotive manufacturing shifts directly influence the demand for specialized deburring, sanding, and precision metal finishing parts.",
+          "action": "Target tier-2 automotive part suppliers who are adapting their lines for EV components.",
+          "th": {
+            "title": "แนวโน้มอุตสาหกรรมยานยนต์ปี 2026: ยานยนต์ไฟฟ้า การกำหนดราคา และการควบรวมกิจการ",
+            "summary": "ภาคยานยนต์ในปี 2026 กำลังขับเคลื่อนกลยุทธ์การเปลี่ยนผ่านสู่รถยนต์ไฟฟ้า แรงกดดันด้านราคาที่รุนแรง และกิจกรรมการควบรวมกิจการ",
+            "why": "การเปลี่ยนแปลงในการผลิตยานยนต์ส่งผลโดยตรงต่อความต้องการชิ้นส่วนการลบคม การขัดกระดาษทราย และการตกแต่งผิวโลหะที่มีความแม่นยำสูง",
+            "action": "มุ่งเป้าไปที่ผู้ผลิตชิ้นส่วนยานยนต์ระดับ Tier-2 ที่กำลังปรับสายการผลิตสำหรับชิ้นส่วนรถยนต์ไฟฟ้า"
+          }
+        },
+        {
+          "id": "20261106-w5",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "World Bank Blogs",
+          "date": "2026-06-11",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONzBKVVZhYkZoRERBTm8wSUNzYUY3Y0lZTVhlRXhoMk9qWGUybnc0SFA2dC1KT1ZOV2puSzlLRzhmdDRUVDkwejhFM3JtNm1SY2RpbFoyYWR2Q1J2eHJTME0zd25GSjlaRE1qWG1sQjZsaUpXdjBJd0oyZlBEUklMNkxuNGVWZ3FZVGhZOHJwOWdiZw?oc=5",
+          "title": "Metal prices surge as supply pressures intensify",
+          "summary": "Global metal prices have experienced notable surges due to intensifying supply chain constraints and geopolitical pressures.",
+          "why": "Fluctuating metal costs influence industrial manufacturing budgets and component processing volumes, affecting abrasive consumption.",
+          "action": "Keep an eye on metal fabrication activity rates as raw material costs fluctuate.",
+          "th": {
+            "title": "ราคาโลหะพุ่งสูงขึ้นเนื่องจากแรงกดดันด้านอุปทานที่ทวีความรุนแรงขึ้น",
+            "summary": "ราคาโลหะทั่วโลกพุ่งสูงขึ้นอย่างเห็นได้ชัดเนื่องจากข้อจำกัดด้านห่วงโซ่อุปทานและแรงกดดันทางภูมิรัฐศาสตร์ที่เพิ่มขึ้น",
+            "why": "ความผันผวนของต้นทุนโลหะส่งผลต่อขอบเขตงบประมาณการผลิตทางอุตสาหกรรมและปริมาณการแปรรูปชิ้นส่วน ซึ่งกระทบต่ออัตราการใช้กระดาษทราย",
+            "action": "จับตาดูอัตรากิจกรรมการแปรรูปโลหะในขณะที่ต้นทุนวัตถุดิบมีความผันผวน"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-11-05",
       "summary": "Today's briefing focuses on global manufacturing shifts, highlighting the expansion of scrap-based steelmaking and electric arc furnaces, as well as ongoing digitalization and sustainability efforts in European industrial coatings.",
@@ -902,70 +1002,6 @@ window.WORLD_ARCHIVE = {
             "summary": "การคาดการณ์อุตสาหกรรมที่เน้นแนวโน้มการเติบโตของการหล่อโลหะ ซึ่งเป็นพื้นฐานของอุตสาหกรรมเครื่องจักรและชิ้นส่วนยานยนต์",
             "why": "ปริมาณการหล่อโลหะเป็นตัวชี้วัดความต้องการใช้งานหินเจียร ใบตัด และผลิตภัณฑ์ขัดแต่งลบคมในโรงงานหล่อ",
             "action": "สำรวจกลุ่มลูกค้าโรงหล่อโลหะในพื้นที่ที่มีความต้องการใช้อุปกรณ์ขัดแต่งและลบคมชิ้นงาน"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-10-23",
-      "summary": "Today's global briefing highlights key developments in superhard abrasive machining standards and shifting metal trade policies, giving MK vital foresight into precision finishing and steel market dynamics.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปทิศทางโลกประจำวันนี้เน้นย้ำการพัฒนาด้านมาตรฐานการตัดเฉือนด้วยวัสดุขัดถูแข็งพิเศษและการเปลี่ยนแปลงนโยบายการค้าโลหะ ซึ่งช่วยให้ MK มีข้อมูลเชิงลึกที่สำคัญเกี่ยวกับงานขัดความละเอียดและตลาดเหล็ก"
-      },
-      "items": [
-        {
-          "id": "20261023-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "The National Law Review",
-          "date": "2026-10-16",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONzc1UG5lV0E3Z2JCYnd2dFpLZmt2VTRYVEk5cHlBS2FYaDIzNHNJeTNBd3R3dDE0cFF4QlhNZE9ZX3N4enpseURtMGRTMmFHRWNPdmY2NlZ2R1F6b01ma01GXzlTMXlJd3FJdzZsY093dEVCczVVNTNPaU56Z2l0emR3d2hPNDQwT2xDY01CZW5Ib195T3RMR0tQdTY0d1FwdGgxWnB5RGI1aXpwRkNXWnln?oc=5",
-          "title": "Five Reputable Diamond Sanding Belts Manufacturers in China 2026: Optimizing Superhard Abrasive Machining",
-          "summary": "An analysis of top diamond sanding belt manufacturers in China highlights the ongoing optimization of superhard abrasive machining techniques.",
-          "why": "Diamond belts and superhard abrasives dictate the cutting edge of high-precision metal and hard-material finishing.",
-          "action": "Monitor Chinese superhard abrasive manufacturing standards to benchmark product quality and pricing competitiveness.",
-          "th": {
-            "title": "5 ผู้ผลิตสายพานขัดเพชรที่มีชื่อเสียงในจีนปี 2026: การเพิ่มประสิทธิภาพการตัดเฉือนด้วยวัสดุขัดถูแข็งพิเศษ",
-            "summary": "การวิเคราะห์ผู้ผลิตสายพานขัดเพชรชั้นนำในจีนเน้นย้ำถึงการพัฒนาอย่างต่อเนื่องในการเพิ่มประสิทธิภาพเทคนิคการตัดเฉือนด้วยวัสดุขัดแข็งพิเศษ",
-            "why": "สายพานเพชรและวัสดุขัดแข็งพิเศษกำหนดมาตรฐานสูงสุดของการตกแต่งผิวโลหะและความแข็งระดับสูง",
-            "action": "ติดตามมาตรฐานการผลิตวัสดุขัดแข็งพิเศษของจีนเพื่อใช้เปรียบเทียบคุณภาพสินค้าและความสามารถในการแข่งขันด้านราคา"
-          }
-        },
-        {
-          "id": "20261023-w2",
-          "tag": "steel",
-          "rating": "green",
-          "source": "https://economy.ac/",
-          "date": "2026-08-07",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YQWhOYlJ3eW9jTUhwa25XdE55eHh3a2JoODhWdDAtOW00UzhXcWwtNnJJXzZGMjMtNXN6MTYwTUhib3ZHUDNXaTdIbWY2N092QXNsOXFfdw?oc=5",
-          "title": "‘Trump Tariffs and AI Boom’ Propel U.S. Steel Past Japan to World No. 3 for First Time in 26 Years",
-          "summary": "Driven by trade policies and industrial shifts, U.S. steel production has climbed to the global top 3, altering traditional steel supply chains.",
-          "why": "Shifts in global steel production hubs directly impact regional raw material availability and local metal fabrication activity.",
-          "action": "Keep an eye on shifting steel trade flows and tariffs which influence regional manufacturing costs and metal prep demand.",
-          "th": {
-            "title": "มาตรการภาษีของทรัมป์และบูม AI ดันเหล็กสหรัฐฯแซงญี่ปุ่นขึ้นสู่อันดับ 3 ของโลกเป็นครั้งแรกในรอบ 26 ปี",
-            "summary": "ด้วยแรงขับเคลื่อนจากนโยบายการค้าและการเปลี่ยนแปลงทางอุตสาหกรรม การผลิตเหล็กของสหรัฐฯ ขยับขึ้นสู่ 3 อันดับแรกของโลก ส่งผลให้ห่วงโซ่อุปทานเหล็กแบบเดิมเปลี่ยนไป",
-            "why": "การเปลี่ยนแปลงของศูนย์กลางการผลิตเหล็กโลกส่งผลโดยตรงต่อความพร้อมของวัตถุดิบในภูมิภาคและกิจกรรมการขึ้นรูปโลหะในท้องถิ่น",
-            "action": "จับตาดูการเปลี่ยนแปลงของเส้นทางการค้าเหล็กและภาษีศุลกากรที่มีผลต่อต้นทุนการผลิตในภูมิภาคและความต้องการใช้วัสดุเตรียมผิวโลหะ"
-          }
-        },
-        {
-          "id": "20261023-w3",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "Reuters",
-          "date": "2026-04-02",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSzdNYWRYM3hzTlpYRzJnQTBxYXBwbXlJdUthcER3X0pHWFBiTW5FQjVoS3lmWWZia19tZ2V0TzJ1SG5sZEdvejlMTnBDX0R1eUNpdHhma1ZtdlJWWFpJcWR1aTFsNUdETUo1UDZfR0R6RHpjX2pMOVRXNkJ3SHdIdG1xdWlnYktSWDZ1VDJvR1htTmlnczgyZlRONjBzQkhXY0tzSndnTUNXLTN4VEoxNA?oc=5",
-          "title": "Trump cuts US duty rates on steel, aluminum and copper derivative products",
-          "summary": "The U.S. administration implemented reductions in duty rates for imported steel, aluminum, and copper derivative goods.",
-          "why": "Altered import duties change metal pricing structures, potentially affecting margins for metal processors and downstream fabricators.",
-          "action": "Assess how localized metal cost adjustments might ripple through global export markets and influence customer manufacturing budgets.",
-          "th": {
-            "title": "ทรัมป์ปรับลดอัตราภาษีนำเข้าผลิตภัณฑ์แปรรูปเหล็ก อลูมิเนียม และทองแดงของสหรัฐฯ",
-            "summary": "รัฐบาลสหรัฐฯ ดำเนินการปรับลดอัตราภาษีสำหรับสินค้าแปรรูปจากเหล็ก อลูมิเนียม และทองแดงที่นำเข้า",
-            "why": "อัตราภาษีนำคนที่เปลี่ยนไปทำให้โครงสร้างราคากระทบต่อกำไรของผู้แปรรูปโลหะและโรงงานผลิตปลายน้ำ",
-            "action": "ประเมินว่าการปรับต้นทุนโลหะในท้องถิ่นจะส่งผลกระทบต่อตลาดส่งออกและงบประมาณการผลิตของลูกค้าอย่างไร"
           }
         }
       ]
