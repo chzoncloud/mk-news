@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-11-06",
+  "updated": "2026-11-07",
   "days": [
+    {
+      "date": "2026-11-07",
+      "summary": "Today's briefing highlights critical developments in coated abrasives driven by metalworking automation, European steel decarbonization pressures under CBAM, and structural shifts in the global paint and coatings market.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปรายงานวันนี้เน้นพัฒนาการสำคัญในตลาดกระดาษทรายและวัสดุขัดผิวที่ขับเคลื่อนด้วยระบบอัตโนมัติในงานโลหะ แรงกดดันด้านการลดคาร์บอนของอุตสาหกรรมเหล็กยุโรปภายใต้มาตรการ CBAM และการเปลี่ยนแปลงเชิงโครงสร้างในตลาดสีและสารเคลือบระดับโลก"
+      },
+      "items": [
+        {
+          "id": "20261107-w1",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-11-01",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZG1Tb3Bhc05IRGVXMmQ4dHFjZXUtYzhrYTJrXzVPcURwMlA3Z3ZvOTB5NThxTkxndVY3eGtkVmNYWm1mR21NQzhnRnpSZ0hCUTdLc0FNTDA2Y1NKSTlkMkwtbUtjMDd4c2tDd0w5bHNMT2JYVXNmX28zSnM3ejVmaDlQbzgtc1ZjVkxRY3VhaTlodFRDanpTbXdlaXloeTJZODY1Qmo0d2pTSkZxenVSTUJET2xRaGlMSlJPcG5UdG5RUTQ?oc=5",
+          "title": "Coated Abrasives Market To 2035: Automation and Metalworking Fuel Expansion",
+          "summary": "The global coated abrasives market is expanding steadily, heavily propelled by the growth of automated metalworking and precision manufacturing applications.",
+          "why": "Higher adoption of automated metalworking means greater demand for consistent, high-durability coated abrasives that perform well under robotic grinding.",
+          "action": "Ensure our product catalog highlights heavy-duty coated abrasives suitable for automated and robotic grinding applications.",
+          "th": {
+            "title": "ตลาดกระดาษทรายและผ้าทรายเคลือบถึงปี 2035: ระบบอัตโนมัติและงานโลหะหนุนการเติบโต",
+            "summary": "ตลาดวัสดุขัดผิวเคลือบ (Coated Abrasives) ทั่วโลกขยายตัวอย่างต่อเนื่อง ขับเคลื่อนเป็นหลักจากการเติบโตของงานโลหะอัตโนมัติและการผลิตที่มีความแม่นยำสูง",
+            "why": "การใช้งานระบบอัตโนมัติในงานโลหะที่เพิ่มขึ้น แปลว่าความต้องการกระดาษทรายและผ้าทรายที่มีความสม่ำเสมอและทนทานสูงสำหรับงานขัดด้วยหุ่นยนต์จะมีมากขึ้น",
+            "action": "ตรวจสอบให้แน่ใจว่าแคตตาล็อกสินค้าของเรามีกระดาษทรายและผ้าทรายสำหรับงานหนักที่รองรับระบบอัตโนมัติและหุ่นยนต์"
+          }
+        },
+        {
+          "id": "20261107-w2",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "S&P Global",
+          "date": "2026-01-07",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSDJTcGFGbUFvRm15ZDhrczNqYkRzbHlXMTJZTHJpUF9CTjRHaTNXak4tdVBkbnBWcnNrRDRneXpBd1Z5SUJGSFZWTzJMNWhfcVl5czkzR0lSSjd4aTJzMTg3N2FWM3pHQ2NxbHg2dEp2ckNiNC16cWdJZ0t3anl3TzlUYldVajhqM05JQVEyWWdZYVdaYkEzZUpvUEJGdHAxXzRKdDRnNG1pQl9LaEN6Q0lpbFpPMTBOeElqT3V2NUdUSlJJNjZWOEpiMWc?oc=5",
+          "title": "Europe's steel industry faces its 2026 reckoning with CBAM",
+          "summary": "European steel producers are facing strict regulatory implementations under the Carbon Border Adjustment Mechanism (CBAM), transforming production requirements and costs.",
+          "why": "Changes in European steel manufacturing and import standards can alter metal supply chains and surface finishing specifications required for compliance.",
+          "action": "Monitor European steel trade regulations as they may shift export surface preparation and finishing standards for global metal suppliers.",
+          "th": {
+            "title": "อุตสาหกรรมเหล็กของยุโรปเผชิญบททดสอบในปี 2026 ด้วยมาตรการ CBAM",
+            "summary": "ผู้ผลิตเหล็กในยุโรปกำลังเผชิญกับการบังคับใช้กฎระเบียบที่เข้มงวดภายใต้กลไกการปรับคาร์บอนก่อนข้ามแดน (CBAM) ซึ่งเปลี่ยนข้อกำหนดและต้นทุนการผลิต",
+            "why": "การเปลี่ยนแปลงในมาตรฐานการผลิตและการนำเข้าเหล็กของยุโรปอาจส่งผลต่อห่วงโซ่อุปทานโลหะและข้อกำหนดการเตรียมพื้นผิวเพื่อให้เป็นไปตามกฎระเบียบ",
+            "action": "ติดตามกฎระเบียบการค้าเหล็กของยุโรป เนื่องจากอาจปรับเปลี่ยนมาตรฐานการเตรียมพื้นผิวและการขัดเงาสำหรับผู้ส่งออกโลหะทั่วโลก"
+          }
+        },
+        {
+          "id": "20261107-w3",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "StartUs Insights",
+          "date": "2026-02-07",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNWRORUY5MEFQT2VreS11dDNnYmo1R3psOVlxMHNDWFA2NGJ0elhET0dtUDF1Mm00ZlV2YUhUZU1HTUQ1Ukc0NzliVnFUOWlDdEpueGhFZk1uVzB5TVNXd3gxNTM0cEpMcFhaTDBVYk5STGJqbzJaeTI0ckZPWWt1OWt3bzFTb2gyZnROdGdaT3RsckNubXBaS3NyT2NPbDFjWHlrVnRxM1FTNDN6?oc=5",
+          "title": "Global Paint and Coatings Industry Market Analysis Report [2026]: Navigating a USD 200B+ Market",
+          "summary": "The global paint and coatings market surpasses USD 200 billion, driven by advanced surface treatments, sustainability demands, and high-performance applications.",
+          "why": "Surface prep and abrasive sanding are direct upstream processes before coating application; coating market growth directly correlates with finishing demand.",
+          "action": "Keep an eye on trends in anti-corrosion and high-performance coatings that demand stricter surface profile preparation.",
+          "th": {
+            "title": "รายงานวิเคราะห์ตลาดอุตสาหกรรมสีและสารเคลือบโลก [2026]: ท่องตลาดมูลค่ากว่า 2 แสนล้านดอลลาร์",
+            "summary": "ตลาดสีและสารเคลือบโลกมีมูลค่าทะลุ 2 แสนล้านดอลลาร์ ขับเคลื่อนโดยการบำบัดพื้นผิวขั้นสูง ความต้องการด้านความยั่งยืน และการใช้งานประสิทธิภาพสูง",
+            "why": "กระบวนการเตรียมพื้นผิวและการขัดด้วยกระดาษทรายเป็นขั้นตอนต้นน้ำที่สำคัญก่อนการเคลือบ การเติบโตของตลาดเคลือบผิวจึงเชื่อมโยงโดยตรงกับความต้องการงานขัด",
+            "action": "จับตาดูแนวโน้มของสารเคลือบกันสนิมและสารเคลือบประสิทธิภาพสูงที่ต้องใช้มาตรฐานการเตรียมพื้นผิวที่เข้มงวดขึ้น"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-11-06",
       "summary": "Today's briefing highlights global shifts in industrial manufacturing, focusing on abrasive market growth driven by precision finishing, emerging abrasive grain supply, and automotive production consolidation in China.",
@@ -902,70 +966,6 @@ window.WORLD_ARCHIVE = {
             "summary": "ฮุนไดกำลังนำระบบอัตโนมัติที่ขับเคลื่อนด้วย AI มาใช้ในโรงงานผลิตทั่วโลกเพื่อเพิ่มความคล่องตัวในการผลิต",
             "why": "แสดงให้เห็นว่าผู้ผลิตรถยนต์รายใหญ่กำลังอัปเกรดโรงงาน ซึ่งท้ายที่สุดจะเปลี่ยนข้อกำหนดด้านเครื่องมือและการเตรียมพื้นผิว",
             "action": "ติดตามดูว่าโรงงานอัจฉริยะที่ขับเคลื่อนด้วย AI ต้องการวัสดุสิ้นเปลืองกลุ่มกระดาษทรายและใบเจียรที่เป็นอัตโนมัติและสม่ำเสมออย่างไร"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-10-24",
-      "summary": "Today's briefing focuses on global manufacturing shifts, including the expansion of superhard diamond sanding tech in China, automotive coatings advancements, and metal finishing demands.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปประเด็นข่าววันนี้เน้นการเปลี่ยนแปลงในภาคการผลิตระดับโลก รวมถึงการขยายตัวของเทคโนโลยีสายพานขัดเพชรในจีน ความก้าวหน้าด้านสีพ่นรถยนต์ และความต้องการงานตกแต่งโลหะ"
-      },
-      "items": [
-        {
-          "id": "20261024-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "The National Law Review",
-          "date": "2026-10-16",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONzc1UG5lV0E3Z2JCYnd2dFpLZmt2VTRYVEk5cHlBS2FYaDIzNHNJeTNBd3R3dDE0cFF4QlhNZE9ZX3N4enpseURtMGRTMmFHRWNPdmY2NlZ2R1F6b01ma01GXzlTMXlJd3FJdzZsY093dEVCczVVNTNPaU56Z2l0emR3d2hPNDQwT2xDY01CZW5Ib195T3RMR0tQdTY0d1FwdGgxWnB5RGI1aXpwRkNXWnln?oc=5",
-          "title": "Five Reputable Diamond Sanding Belts Manufacturers in China 2026: Optimizing Superhard Abrasive Machining",
-          "summary": "An analysis of top Chinese manufacturers optimizing superhard diamond sanding belts for advanced industrial machining.",
-          "why": "Superhard abrasives like diamond belts directly compete with and influence high-end grinding applications in metal and hard material sectors.",
-          "action": "Monitor Chinese superhard abrasive pricing and quality trends to understand competitive pressure in precision grinding.",
-          "th": {
-            "title": "5 ผู้ผลิตสายพานขัดเพชรชื่อดังในจีนปี 2026: การเพิ่มประสิทธิภาพงานตัดเฉือนด้วยวัสดุขัดแข็งพิเศษ",
-            "summary": "การวิเคราะห์ผู้ผลิตชั้นนำของจีนที่กำลังเพิ่มประสิทธิภาพสายพานขัดเพชรสำหรับงานตัดเฉือนอุตสาหกรรมขั้นสูง",
-            "why": "วัสดุขัดความแข็งสูงอย่างสายพานเพชรส่งผลกระทบโดยตรงต่อตลาดงานเจียระไนในกลุ่มโลหะและวัสดุแข็ง",
-            "action": "ติดตามแนวโน้มราคาและคุณภาพของวัสดุขัดความแข็งสูงจากจีนเพื่อรับมือกับแรงกดดันด้านการแข่งขัน"
-          }
-        },
-        {
-          "id": "20261024-w2",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "Fortune Business Insights",
-          "date": "2026-09-28",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVdNTzBnRmtOczRTLVVDNGxVT0VMUm04Z1lHMURHN2FBSTlJZkNIeU1VM2sxUXZxU2NSZnlVdm5JcGNSSEd0c285bzg1RmhpR3ZndDZBSXFFQWdIaWlOd1U2Sk9RbXJjQW45bjJuUi01NFZmSXd3cElrdnJSOXQ3RVlQOA?oc=5",
-          "title": "Automotive OEM Coatings Market Size, Share | Growth [2034]",
-          "summary": "A market forecast report detailing the growth drivers and trends within the automotive OEM coatings industry through 2034.",
-          "why": "Changes in automotive body coatings and paint specs often dictate changes in pre-paint surface sanding and abrasive preparation steps.",
-          "action": "Keep track of new OEM paint finish technologies that require specialized surface preparation or finer sanding grades.",
-          "th": {
-            "title": "ขนาดส่วนแบ่งและการเติบโตของตลาดสีพ่นรถยนต์ OEM ถึงปี 2034",
-            "summary": "รายงานคาดการณ์ตลาดที่ระบุถึงปัจจัยขับเคลื่อนการเติบโตและแนวโน้มในอุตสาหกรรมสีพ่นรถยนต์ OEM จนถึงปี 2034",
-            "why": "การเปลี่ยนแปลงของสเปกสีพ่นรถยนต์มักส่งผลต่อกระบวนการเตรียมผิวและการขัดกระดาษทรายก่อนพ่น",
-            "action": "ติดตามเทคโนโลยีสีพ่น OEM ใหม่ๆ ที่อาจต้องใช้ขั้นตอนเตรียมผิวหรือกระดาษทรายที่มีความละเอียดสูงขึ้น"
-          }
-        },
-        {
-          "id": "20261024-w3",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "Fortune Business Insights",
-          "date": "2026-10-05",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kYlp3TXBwdU5JVl9Gc0pFd3lJSFpjSUhLeEFGOVZVS19BbHBoTFNGb1BFOC1UNEN4c1o0c2xjdTFZYXhVdGRVb0dIeXZqakt1bTJkQy10SC0wRlh0RVVBZHZaWDFYbDk3cHdUbXBsYnRyYTlFVEE?oc=5",
-          "title": "Metal Casting Market Growth Analysis & Industry Forecast, 2034",
-          "summary": "An industry forecast highlighting growth trends in metal casting, a foundational sector for heavy machinery and automotive parts.",
-          "why": "Metal casting production volume is a direct indicator of demand for foundry snagging, deburring, and surface finishing abrasives.",
-          "action": "Identify foundry and casting hubs in the region that may need robust grinding wheels and deburring solutions.",
-          "th": {
-            "title": "การวิเคราะห์การเติบโตและแนวโน้มตลาดการหล่อโลหะถึงปี 2034",
-            "summary": "การคาดการณ์อุตสาหกรรมที่เน้นแนวโน้มการเติบโตของการหล่อโลหะ ซึ่งเป็นพื้นฐานของอุตสาหกรรมเครื่องจักรและชิ้นส่วนยานยนต์",
-            "why": "ปริมาณการหล่อโลหะเป็นตัวชี้วัดความต้องการใช้งานหินเจียร ใบตัด และผลิตภัณฑ์ขัดแต่งลบคมในโรงงานหล่อ",
-            "action": "สำรวจกลุ่มลูกค้าโรงหล่อโลหะในพื้นที่ที่มีความต้องการใช้อุปกรณ์ขัดแต่งและลบคมชิ้นงาน"
           }
         }
       ]
