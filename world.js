@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-11-07",
+  "updated": "2026-11-08",
   "days": [
+    {
+      "date": "2026-11-08",
+      "summary": "Today's briefing features 3 key global trends focusing on the blue ceramic abrasive market growth, expanding woodworking and construction demands, and regional flap grinding disc developments. These signals indicate continued strong demand for precision finishing tools.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปรายงานวันนี้เน้น 3 เทรนด์สำคัญระดับโลก ได้แก่ การเติบโตของตลาดวัสดุขัดเซรามิกสีน้ำเงิน ความต้องการที่เพิ่มขึ้นในอุตสาหกรรมงานไม้และการก่อสร้าง และการพัฒนาตลาดแผ่นขัดลบคม (Flap Disc) สัญญาณเหล่านี้บ่งชี้ถึงความต้องการเครื่องมือขัดผิวความแม่นยำสูงที่ยังคงเติบโตอย่างต่อเนื่อง"
+      },
+      "items": [
+        {
+          "id": "20261108-w1",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-11-02",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeWRrVkJoSERZcnUtUTVYNjFlRDRXeVAzeF9YLVJoU0RtQXEwVXIzNnA4dlYtWmplVGpqSlJxVVM4czVXMGRfUjZub3JFSHVXaWV3QXJtRF9yLVBKOHNiaHNSZERmMndyX3dvZ0ticFVWNEhhV2JUUVktUXM0Ylc1Q0tPanhMVXhYR2tKM24tcmpZbW9uRjNzRVR3eUkzNUtfM2NIYS1NRVFiVUw0SVFZLVRuTV9kaTExMWN0V3RQT0pOekgwZDg1c0l2SkZMMXdkZEFvUVJB?oc=5",
+          "title": "Blue Ceramic Abrasive Market To 2035: Precision Grinding Demand Supports Forward Growth",
+          "summary": "The global market for blue ceramic abrasives is expanding steadily up to 2035, driven by strong demand for high-precision grinding applications.",
+          "why": "Ceramic grain abrasives are high-value, premium products. Knowing the long-term growth of precision grinding helps us plan our inventory and target high-end metalworking segments.",
+          "action": "Highlight ceramic abrasive longevity and cutting speed when pitching to high-end industrial clients.",
+          "th": {
+            "title": "ตลาดวัสดุขัดเซรามิกสีน้ำเงินถึงปี 2035: ความต้องการเจียระไนความแม่นยำสูงหนุนการเติบโต",
+            "summary": "ตลาดโลกสำหรับวัสดุขัดเซรามิกสีน้ำเงินขยายตัวอย่างต่อเนื่องถึงปี 2035 ขับเคลื่อนโดยความต้องการใช้งานเจียระไนความแม่นยำสูงที่เพิ่มขึ้น",
+            "why": "กระดาษทรายและหินเจียรเม็ดทรายเซรามิกเป็นสินค้าพรีเมียมมูลค่าสูง การรับรู้การเติบโตระยะยาวนี้ช่วยให้เราวางแผนสินค้าคงคลังและเจาะกลุ่มงานโลหะระดับบนได้ดีขึ้น",
+            "action": "เน้นจุดขายเรื่องความทนทานและความเร็วในการตัดของวัสดุเซรามิกเมื่อนำเสนอลูกค้ากลุ่มอุตสาหกรรมระดับบน"
+          }
+        },
+        {
+          "id": "20261108-w2",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-11-05",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY1FXanVRMDJTZUdIQ05mNnA1UXo4aW5aS0pjYXF6SlBRZFRHWW1DU1RpNFhoQldJU3d1UTZuYXcwYzF3ZmxMZzZFcUl5YTdkSkptY2pvYWI3QkdPT19hb0RZcHRjTG45MUxmWTRIM1BOUnowSmxPeVdSVEJXSjVOM0MtV0xuUFpLZHVJVHdJcFk2aXVmLS1BSUs1OWZERVo4TGFJU3ZsM1hFdWE5YmJESHhFak53TVJoaUU1Zg?oc=5",
+          "title": "Abrasives And Timber Market To 2035: Construction and Woodworking Demand Drive Growth",
+          "summary": "Growth in construction and woodworking sectors is providing a sustained boost to the global abrasives and timber markets.",
+          "why": "Woodworking is a massive market for coated abrasives (sanding belts, sheets, discs). Sector growth means steady baseline demand for wood-sanding consumables.",
+          "action": "Ensure stable stock and competitive pricing for woodworking sandpaper and sanding rolls.",
+          "th": {
+            "title": "ตลาดวัสดุขัดและไม้ถึงปี 2035: ความต้องการด้านการก่อสร้างและงานไม้อัดฉีดการเติบโต",
+            "summary": "การเติบโตในภาคการก่อสร้างและงานไม้ส่งเสริมตลาดวัสดุขัดและไม้ทั่วโลกอย่างต่อเนื่อง",
+            "why": "อุตสาหกรรมงานไม้เป็นตลาดใหญ่สำหรับกระดาษทรายเคลือบ (สายพานขัด แผ่นขัด และกระดาษทรายกลม) การเติบโตของภาคส่วนนี้หมายถึงความต้องการใช้วัสดุสิ้นเปลืองสำหรับขัดไม้อย่างสม่ำเสมอ",
+            "action": "รักษาระดับสต็อกสินค้าและราคาที่แข่งขันได้สำหรับกระดาษทรายและม้วนกระดาษทรายสำหรับงานไม้"
+          }
+        },
+        {
+          "id": "20261108-w3",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-11-07",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYjhOUVFDSU9vQV9rRjdhMHFPbEFKMHRuaFY1cTFzc2ZYUktnd0JjeG12VDBJVDJlOXdKZDRyX2t5dmZ1d050QXB3NXh1bHVrYmVHTkQybDhCbXlULUVxVDBBNEkwcTZqWEZYNURFN2x4bG9MWjdlYzlKY3RXWm9ZNWVSeVIwbXFYeHRfWTl4STV1ZlJjNExNSGVkS2VVT01UZ0FDY2VsQzg?oc=5",
+          "title": "Flap Grinding Disc Market in India: Size, Trends and Forecast to 2035",
+          "summary": "Analysis of the flap grinding disc market highlights strong manufacturing expansion and long-term demand trends through 2035.",
+          "why": "Flap discs are essential tools for weld blending, deburring, and surface finishing in metal fabrication. Monitoring regional market data helps identify product category demand patterns.",
+          "action": "Review our lineup of flap discs and grinding accessories to match global fabrication requirements.",
+          "th": {
+            "title": "ตลาดแผ่นขัด (Flap Disc) ในอินเดีย: ขนาด แนวโน้ม และการคาดการณ์ถึงปี 2035",
+            "summary": "การวิเคราะห์ตลาดแผ่นขัดเน้นย้ำถึงการขยายตัวด้านการผลิตที่แข็งแกร่งและแนวโน้มความต้องการระยะยาวจนถึงปี 2035",
+            "why": "แผ่นขัด (Flap Disc) เป็นเครื่องมือสำคัญสำหรับการลบแนวเชื่อม ลบคม และตกแต่งผิวโลหะ การติดตามข้อมูลตลาดช่วยให้เราทราบรูปแบบความต้องการในหมวดสินค้านี้",
+            "action": "ทบทวนกลุ่มผลิตภัณฑ์แผ่นขัดและอุปกรณ์เจียรของเราให้สอดคล้องกับความต้องการของงานแปรรูปโลหะทั่วโลก"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-11-07",
       "summary": "Today's briefing highlights global shifts in coated abrasives, blue ceramic grain demand, automation in metalworking, and European steel decarbonization under CBAM.",
@@ -902,70 +966,6 @@ window.WORLD_ARCHIVE = {
             "summary": "ด้วยแรงขับเคลื่อนจากนโยบายการค้าและความต้องการที่เกี่ยวข้องกับเทคโนโลยี อุตสาหกรรมเหล็กของสหรัฐฯ ได้แซงหน้าญี่ปุ่นขึ้นเป็นผู้ผลิตเหล็กรายใหญ่อันดับ 3 ของโลก",
             "why": "การเปลี่ยนแปลงของภูมิศาสตร์การผลิตเหล็กส่งผลต่อศูนย์กลางการขึ้นรูปโลหะ ซึ่งกระทบโดยตรงกับความต้องการใช้วัสดุขัดและลบคมโลหะในแต่ละภูมิภาค",
             "action": "ติดตามว่าการย้ายฐานการผลิตเหล็กส่งผลอย่างไรต่อทิศทางการนำเข้าเครื่องจักรโลหะและเครื่องมืออุตสาหกรรม"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-10-25",
-      "summary": "Today's briefing focuses on the global abrasives market expansion toward precision finishing and new metalworking technological approaches. We highlight new data on the $72.2B abrasives outlook and fundamentals in coated abrasives.",
-      "directCount": 2,
-      "th": {
-        "summary": "สรุปข่าววันนี้มุ่งเน้นไปที่การขยายตัวของตลาดวัสดุขัดทั่วโลกสู่งานตกแต่งความแม่นยำสูงและแนวทางเทคโนโลยีโลหะวิทยาใหม่ๆ เราไฮไลต์ข้อมูลตลาดขัดมูลค่า 7.22 หมื่นล้านดอลลาร์และหลักการใช้กระดาษทราย/ผ้าทรายเคลือบ"
-      },
-      "items": [
-        {
-          "id": "20261025-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "EIN News",
-          "date": "2026-10-19",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM2VsRTlqVWR6dlpoUXpZQ04wNnJsRUNBbndKSnNQODIyUXdnTTlIT0hZMC10bGhEUUk0clZ5ZWZRN0I2eVhiVHVPVmRYd05xWUdJdDJldTBsTkZEUVNBNG5qaE9WeXdDN2dSVzJ2TzNsVFhBNVMzakhwZFR6Z0dQeFFVS0ZPa0dmWmh1dHhiYXVXWWRrbk9XS251Ul9SVS1SZ3NON0VXRWxfOWtzazlNcXhUMVBnU2liODhqaHF6OEdGb2NEYkRoaG9uNmx6MlNjMUd2N3Q0emZnUXltZk1wbg?oc=5",
-          "title": "Abrasives Market to Reach $72.2 Billion by 2030, Growing at a 7.6% CAGR Driven by Precision Finishing Demand",
-          "summary": "The global abrasives market is projected to hit $72.2 billion by 2030, fueled by high demand for precision finishing across manufacturing sectors.",
-          "why": "Validates long-term global growth in our core product categories, especially high-end precision abrasives.",
-          "action": "Prepare inventory strategies focused on high-precision finishing and demanding industrial applications.",
-          "th": {
-            "title": "ตลาดวัสดุขัดเตรียมแตะ 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 โต 7.6% หนุนโดยความต้องการงานขัดตกแต่งความแม่นยำสูง",
-            "summary": "ตลาดวัสดุขัดทั่วโลกคาดว่าจะพุ่งถึง 7.22 หมื่นล้านดอลลาร์สหรัฐภายในปี 2030 ขับเคลื่อนโดยความต้องการงานขัดตกแต่งความละเอียดสูงในภาคการผลิต",
-            "why": "ยืนยันการเติบโตในระยะยาวของหมวดสินค้าหลัก โดยเฉพาะกลุ่มวัสดุขัดความแม่นยำสูง",
-            "action": "เตรียมกลยุทธ์สต็อกสินค้าที่เน้นงานขัดความละเอียดสูงและการใช้งานอุตสาหกรรมที่ต้องการความแม่นยำ"
-          }
-        },
-        {
-          "id": "20261025-w2",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "Cutting Tool Engineering",
-          "date": "2026-01-19",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdlIxbnF0ZzBnSUozVVYybGZwMnF5R09nTWZib2VyNFB2WXpIYTJEcGFpd0lfQjBDcG42eTJiNDQ2eEJhUmdGT29PZ0w4NlNSRjhhQ2w3TmplcVloMDJ5bjNYZDF1UVdLbXYxS0RtYTRFSmtDMFVaVGxVVk5zMnVxeVBiTjhiVXpydFU3YUNMR19nRlJlT3NkT3Jjb3B3dHZqQnRN?oc=5",
-          "title": "Single-layered approach: The fundamentals of using coated abrasives in metalworking",
-          "summary": "An in-depth technical look at how single-layered coated abrasives optimize cutting performance and surface finish in metal fabrication.",
-          "why": "Deepens technical knowledge on coated abrasives performance, useful for educating B2B clients on product efficiency.",
-          "action": "Review technical product descriptions to help customers understand the benefits of single-layered coated abrasives.",
-          "th": {
-            "title": "แนวทางชั้นเดียว: พื้นฐานการใช้กระดาษทรายและผ้าทรายเคลือบในงานโลหะ",
-            "summary": "เจาะลึกเชิงเทคนิคว่าวัสดุขัดเคลือบแบบชั้นเดียวช่วยเพิ่มประสิทธิภาพการตัดและผิวสำเร็จในงานแปรรูปโลหะได้อย่างไร",
-            "why": "เพิ่มพูนความรู้เชิงลึกด้านประสิทธิภาพของกระดาษทรายและผ้าทรายเคลือบ เพื่อประโยชน์ในการให้ความรู้แก่ลูกค้า B2B",
-            "action": "ทบทวนรายละเอียดสินค้าทางเทคนิคเพื่อช่วยให้ลูกค้าเข้าใจข้อดีของการใช้กระดาษทรายและผ้าทรายเคลือบแบบชั้นเดียว"
-          }
-        },
-        {
-          "id": "20261025-w3",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-09-02",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUUpWSmpHLVowSXdiLUJqcFlpQ3ZfRmdQYjJiTVFCNk00ZW0tM0ZqenQtd2F4emNVNEdzT3Q3amZ3M050YnNuTldQZFQyTlgyX3ByekdEbkdlaURacG5yRlBUSEZucnBQalBmNzVadXVrSDdXcEd0d2t4UXptUzJ5dXZ6ckE1Q3RVV3IyUkY4SFdVSERveVJYem0yM3lNbWFUY1dXWHYyRFZ2cXdldWFqRmJTNE4tQ1RXWWp4N3NCN1h5Vmt3d3hEbkFPc2ZqT0k?oc=5",
-          "title": "A global AI manufacturing transformation at Hyundai Motor Group",
-          "summary": "Hyundai is implementing extensive AI-driven automation across its global manufacturing plants to streamline production.",
-          "why": "Shows how major auto OEMs are upgrading plants, eventually changing their tooling and surface prep specifications.",
-          "action": "Monitor how AI-driven smart factories demand automated, consistent abrasive consumables.",
-          "th": {
-            "title": "การเปลี่ยนแปลงการผลิตด้วย AI ระดับโลกของกลุ่มบริษัทฮุนได",
-            "summary": "ฮุนไดกำลังนำระบบอัตโนมัติที่ขับเคลื่อนด้วย AI มาใช้ในโรงงานผลิตทั่วโลกเพื่อเพิ่มความคล่องตัวในการผลิต",
-            "why": "แสดงให้เห็นว่าผู้ผลิตรถยนต์รายใหญ่กำลังอัปเกรดโรงงาน ซึ่งท้ายที่สุดจะเปลี่ยนข้อกำหนดด้านเครื่องมือและการเตรียมพื้นผิว",
-            "action": "ติดตามดูว่าโรงงานอัจฉริยะที่ขับเคลื่อนด้วย AI ต้องการวัสดุสิ้นเปลืองกลุ่มกระดาษทรายและใบเจียรที่เป็นอัตโนมัติและสม่ำเสมออย่างไร"
           }
         }
       ]
