@@ -4,28 +4,28 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-11-07",
-      "summary": "Today's briefing focuses on emerging material technologies, precision finishing demands, and structural shifts in global manufacturing. We selected 3 key stories to help MK stay ahead of global surface prep trends.",
+      "summary": "Today's briefing highlights global shifts in coated abrasives, blue ceramic grain demand, automation in metalworking, and European steel decarbonization under CBAM.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปประเด็นข่าววันนี้เน้นไปที่เทคโนโลยีวัสดุใหม่ ความต้องการขัดแต่งผิวความละเอียดสูง และการเปลี่ยนแปลงเชิงโครงสร้างในภาคการผลิตระดับโลก โดยเลือกมา 3 ข่าวสำคัญเพื่อให้ MK ตามทันกระแสโลก"
+        "summary": "สรุปแนวโน้มโลกวันนี้เน้นการเติบโตของกระดาษทรายเคลือบ เม็ดทรายเซรามิกสีฟ้า ระบบอัตโนมัติในงานโลหะ และการปรับตัวลดคาร์บอนของอุตสาหกรรมเหล็กยุโรปภายใต้กฎระเบียบ CBAM"
       },
       "items": [
         {
           "id": "20261107-w1",
-          "tag": "coating",
+          "tag": "abrasive",
           "rating": "green",
-          "source": "Grand View Research",
-          "date": "2025-01-20",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWFBnYWlSdVI1UzZJbzBQMHZTbm9BLV9fVW5tQm1yczhTMjEybkVIeXFBQnRtT2lMVVM0T0gzODJMOXNCbFd2OUxpTUdiMVVyTThDNV9CVXJzd2Q2ejJsQlNkNk1vVVUtVmJkd2F4b2EwYVF5RVcyRjhuMHRFaGlvc3BSTzZJRVYyQ2c?oc=5",
-          "title": "Graphene Coating Market Size & Share Report, 2025-2030",
-          "summary": "The global graphene coating market is expanding rapidly, driven by demand for advanced protective layers in automotive, aerospace, and industrial machinery.",
-          "why": "Graphene and high-performance coatings require meticulous surface preparation and sanding before application, impacting high-end abrasive demands.",
-          "action": "Monitor high-performance surface prep requirements for advanced coatings like graphene to align with future industrial customers.",
+          "source": "IndexBox",
+          "date": "2026-11-01",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZG1Tb3Bhc05IRGVXMmQ4dHFjZXUtYzhrYTJrXzVPcURwMlA3Z3ZvOTB5NThxTkxndVY3eGtkVmNYWm1mR21NQzhnRnpSZ0hCUTdLc0FNTDA2Y1NKSTlkMkwtbUtjMDd4c2tDd0w5bHNMT2JYVXNmX28zSnM3ejVmaDlQbzgtc1ZjVkxRY3VhaTlodFRDanpTbXdlaXloeTJZODY1Qmo0d2pTSkZxenVSTUJET2xRaGlMSlJPcG5UdG5RUTQ?oc=5",
+          "title": "Coated Abrasives Market To 2035: Automation and Metalworking Fuel Expansion",
+          "summary": "The global coated abrasives market is expanding through 2035, driven significantly by automated manufacturing and advanced metalworking requirements.",
+          "why": "Automation demands high-consistency, long-lasting abrasive belts and discs to minimize machine downtime.",
+          "action": "Evaluate our product lineup for automated robotic sanding compatibility.",
           "th": {
-            "title": "รายงานขนาดและส่วนแบ่งตลาดกราฟีนโค้ทติ้ง ปี 2025-2030",
-            "summary": "ตลาดการเคลือบด้วยกราฟีนทั่วโลกกำลังเติบโตอย่างรวดเร็ว ขับเคลื่อนโดยความต้องการชั้นเคลือบป้องกันขั้นสูงในยานยนต์ อากาศยาน และเครื่องจักรุตสาหกรรม",
-            "why": "กราฟีนและสารเคลือบประสิทธิภาพสูงจำเป็นต้องมีการเตรียมผิวและการขัดอย่างพิถีพิถันก่อนพ่น ซึ่งส่งผลต่อความต้องการใช้วัสดุขัดเกรดพรีเมียม",
-            "action": "ติดตามความต้องการเตรียมผิวงานสำหรับสารเคลือบขั้นสูงอย่างกราฟีน เพื่อเตรียมตอบสนองกลุ่มลูกค้าอุตสาหกรรมไฮเทคในอนาคต"
+            "title": "ตลาดกระดาษทรายเคลือบถึงปี 2035: ระบบอัตโนมัติและงานโลหะขับเคลื่อนการขยายตัว",
+            "summary": "ตลาดกระดาษทรายเคลือบโลกกำลังเติบโตถึงปี 2035 โดยได้รับแรงหนุนหลักจากกระบวนการผลิตอัตโนมัติและความต้องการงานโลหะขั้นสูง",
+            "why": "ระบบอัตโนมัติมีความต้องการกระดาษทรายสายพานและแผ่นขัดที่มีความสม่ำเสมอสูงและทนทาน เพื่อลดเวลาหยุดเครื่องจักร",
+            "action": "ประเมินกลุ่มผลิตภัณฑ์ของเราให้รองรับการใช้งานร่วมกับหุ่นยนต์ขัดอัตโนมัติ"
           }
         },
         {
@@ -33,35 +33,35 @@ window.WORLD_ARCHIVE = {
           "tag": "abrasive",
           "rating": "green",
           "source": "IndexBox",
-          "date": "2026-11-05",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY1FXanVRMDJTZUdIQ05mNnA1UXo4aW5aS0pjYXF6SlBRZFRHWW1DU1RpNFhoQldJU3d1UTZuYXcwYzF3ZmxMZzZFcUl5YTdkSkptY2pvYWI3QkdPT19hb0RZcHRjTG45MUxmWTRIM1BOUnowSmxPeVdSVEJXSjVOM0MtV0xuUFpLZHVJVHdJcFk2aXVmLS1BSUs1OWZERVo4TGFJU3ZsM1hFdWE5YmJESHhFak53TVJoaUU1Zg?oc=5",
-          "title": "Abrasives And Timber Market To 2035: Construction and Woodworking Demand Drive Growth",
-          "summary": "Global demand for abrasives in construction and woodworking sectors remains steady, driven by structural wood processing and finishing needs.",
-          "why": "Woodworking is a major vertical for coated abrasives (sandpaper, belts). Tracking timber trends helps forecast sandpaper roll and sheet consumption.",
-          "action": "Keep a steady inventory of woodworking abrasives as construction and furniture manufacturing sustain baseline demand.",
+          "date": "2026-11-02",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeWRrVkJoSERZcnUtUTVYNjFlRDRXeVAzeF9YLVJoU0RtQXEwVXIzNnA4dlYtWmplVGpqSlJxVVM4czVXMGRfUjZub3JFSHVXaWV3QXJtRF9yLVBKOHNiaHNSZERmMndyX3dvZ0ticFVWNEhhV2JUUVktUXM0Ylc1Q0tPanhMVXhYR2tKM24tcmpZbW9uRjNzRVR3eUkzNUtfM2NIYS1NRVFiVUw0SVFZLVRuTV9kaTExMWN0V3RQT0pOekgwZDg1c0l2SkZMMXdkZEFvUVJB?oc=5",
+          "title": "Blue Ceramic Abrasive Market To 2035: Precision Grinding Demand Supports Forward Growth",
+          "summary": "Demand for blue ceramic abrasives is rising steadily, supported by strong needs for high-precision grinding across heavy industries.",
+          "why": "Ceramic grains are premium products that offer superior cutting speed and lifespan for tough metals like stainless steel.",
+          "action": "Consider promoting high-performance ceramic abrasive lines to customers needing heavy metal removal.",
           "th": {
-            "title": "ตลาดวัสดุขัดและไม้ถึงปี 2035: ความต้องการด้านการก่อสร้างและงานไม้ผลักดันการเติบโต",
-            "summary": "ความต้องการวัสดุขัดทั่วโลกในภาคการก่อสร้างและงานไม้ยังคงเติบโตอย่างมั่นคง ขับเคลื่อนโดยกระบวนการแปรรูปไม้โครงสร้างและความต้องการงานขัดตกแต่ง",
-            "why": "งานไม้เป็นตลาดหลักสำหรับกระดาษทรายและสายพานขัด การติดตามแนวโน้มอุตสาหกรรมไม้ช่วยให้คาดการณ์ยอดขายกระดาษทรายม้วนและแผ่นได้ดีขึ้น",
-            "action": "รักษาระดับสต็อกสินค้ากลุ่มงานไม้ให้เหมาะสม เนื่องจากภาคการก่อสร้างและเฟอร์นิเจอร์ยังคงมีความต้องการใช้อย่างต่อเนื่อง"
+            "title": "ตลาดวัสดุขัดเซรามิกสีฟ้าถึงปี 2035: ความต้องการงานขัดความแม่นยำสูงหนุนการเติบโต",
+            "summary": "ความต้องการวัสดุขัดเซรามิกสีฟ้ากำลังเพิ่มขึ้นอย่างต่อเนื่อง ขับเคลื่อนด้วยความต้องการงานขัดความแม่นยำสูงในอุตสาหกรรมหนัก",
+            "why": "เม็ดทรายเซรามิกเป็นผลิตภัณฑ์ระดับพรีเมียมที่มีความเร็วในการตัดสูงและอายุการใช้งานยาวนาน เหมาะสำหรับโลหะแข็งเช่นสแตนเลส",
+            "action": "พิจารณาโปรโมตกลุ่มผลิตภัณฑ์กระดาษทรายเซรามิกประสิทธิภาพสูงให้แก่ลูกค้าที่ต้องการงานขัดโลหะหนัก"
           }
         },
         {
           "id": "20261107-w3",
-          "tag": "auto",
+          "tag": "steel",
           "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2025-12-18",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOd3VqZU9yUXhKVmFVYkZ0OEJHaHZBRllYU3laaUZOXzh2OGZXSVdMVDJyZm5YV2Z0UlVEN0xhdURNOHZsQ2U2U2ZzRjRpcUJ3UUxqcVV3cFNucm9tcVpYQjdTN3ZxNjRZcy1aOVpuMk1FTWFsYU45UWw4V2N2NGgzeVJ6YWNscmk3OUJsRkhXNmFoMmVmdnZ2SGVFSEFiYUFXVzNXSmN0UGYtMEM1S0Y0YmQzeTJlR0VMYmJGUjdqaGdVQ3Zx?oc=5",
-          "title": "How automation and AI are powering Xpeng's EV production",
-          "summary": "Automakers like Xpeng are integrating advanced AI and robotics into EV production lines to boost efficiency and precision manufacturing.",
-          "why": "Automated EV manufacturing lines require robotic grinding, deburring, and automated surface finishing solutions rather than manual labor.",
-          "action": "Explore how global EV plants adopt automated grinding heads and robotic sanding pads to spot future B2B product opportunities.",
+          "source": "S&P Global",
+          "date": "2026-01-07",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSDJTcGFGbUFvRm15ZDhrczNqYkRzbHlXMTJZTHJpUF9CTjRHaTNXak4tdVBkbnBWcnNrRDRneXpBd1Z5SUJGSFZWTzJMNWhfcVl5czkzR0lSSjd4aTJzMTg3N2FWM3pHQ2NxbHg2dEp2ckNiNC16cWdJZ0t3anl3TzlUYldVajhqM05JQVEyWWdZYVdaYkEzZUpvUEJGdHAxXzRKdDRnNG1pQl9LaEN6Q0lpbFpPMTBOeElqT3V2NUdUSlJJNjZWOEpiMWc?oc=5",
+          "title": "Europe's steel industry faces its 2026 reckoning with CBAM",
+          "summary": "European steel producers are facing strict regulatory pressures under the Carbon Border Adjustment Mechanism (CBAM), altering supply chain dynamics.",
+          "why": "Changes in European steel production and export compliance directly impact metal surface finishing standards and regional manufacturing costs.",
+          "action": "Monitor how green steel transitions affect surface prep requirements in export-oriented metal industries.",
           "th": {
-            "title": "ระบบอัตโนมัติและ AI ขับเคลื่อนการผลิตรถยนต์ EV ของ Xpeng อย่างไร",
-            "summary": "ค่ายรถยนต์อย่าง Xpeng กำลังผสานรวม AI ขั้นสูงและหุ่นยนต์เข้ากับสายการผลิต EV เพื่อเพิ่มประสิทธิภาพและความแม่นยำในการผลิต",
-            "why": "สายการผลิตรถยนต์ EV แบบอัตโนมัติ หันมาใช้หุ่นยนต์ขัด ลบคม และเตรียมผิวอัตโนมัติแทนการใช้แรงงานคน",
-            "action": "ศึกษาการใช้งานหัวขัดและแผ่นขัดอัตโนมัติของโรงงาน EV ทั่วโลก เพื่อมองหาโอกาสทางธุรกิจสินค้า B2B ในอนาคต"
+            "title": "อุตสาหกรรมเหล็กยุโรปเผชิญจุดเปลี่ยนสำคัญในปี 2026 ด้วยมาตรการ CBAM",
+            "summary": "ผู้ผลิตเหล็กในยุโรปกำลังเผชิญกับแรงกดดันด้านกฎระเบียบที่เข้มงวดภายใต้มาตรการปรับคาร์บอนก่อนข้ามพรมแดน (CBAM) ซึ่งส่งผลต่อห่วงโซ่อุปทาน",
+            "why": "การเปลี่ยนแปลงในการผลิตเหล็กและการปฏิบัติตามกฎระเบียบส่งผลโดยตรงต่อมาตรฐานการเตรียมพื้นผิวโลหะและต้นทุนการผลิต",
+            "action": "ติดตามว่าการเปลี่ยนผ่านสู่เหล็กเขียวส่งผลอย่างไรต่อความต้องการผลิตภัณฑ์เตรียมพื้นผิวในอุตสาหกรรมโลหะส่งออก"
           }
         }
       ]
