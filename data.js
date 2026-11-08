@@ -2,6 +2,71 @@
 window.NEWS_ARCHIVE = {
   "days": [
     {
+      "date": "2026-11-09",
+      "summary": "Today has limited new headlines; discussions center on EVAT pushing for 8 additional measures following the 35% EV import tariff and steel associations urging the shutdown of substandard induction furnace mills. These developments reinforce local manufacturing localization and favor compliant, quality-focused metal producers.",
+      "directCount": 0,
+      "th": {
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก ประเด็นสำคัญอยู่ที่สมาคมยานยนต์ไฟฟ้าผลักดัน 8 มาตรการเสริมหลังขึ้นภาษี EV 35% และกลุ่มสมาคมเหล็กจี้รัฐสั่งปิดเตาหลอม IF ไร้มาตรฐาน ซึ่งล้วนช่วยเร่งให้เกิดการผลิตชิ้นส่วนในประเทศและส่งผลดีต่อโรงงานโลหะมาตรฐานที่เป็นลูกค้าหลักของเรา"
+      },
+      "items": [
+        {
+          "id": "20261109-1",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Facebook",
+          "date": "2026-11-04",
+          "url": "https://news.google.com/rss/articles/CBMiywZBVV95cUxPZ19GYzFPN3BYQ25DVzdyV0hCUll5TW91dktCX2U4b1QzaFJaMHAtOVNOYm1KZmhGaDJlNFJMOXNIWnB0bmU0YlpTQXVBNGZCaURIMENHYU4tWHNyeFdLTTZHNmM0VnN5Z0pES1NuaWh2M0JSZEdmc05JcnBzS193TGZMLWlNZUZuLVdpVnlFOURTeldTSUhyWlItcE9rUlUxZzhKaDV6aEtFV1RYdlhPblU4Um5wTVB0QmZDRFNvanc2SHhSejZlbWVxQkVESGIwQ2c0REVWNHdqQjN6TGs3eFJKazY2aS1UWlhMT3RUY0NIYWVFWlJ4MVdueV9hRFRicEJnY0xrdlpLbWt4Nl9HOGVJQmI5ZVJZRnBJUS10UjViZFBud2pBdTRrNVBmNjNaRzhMeWRYZDBjMW44T1B6WEkyTGZsOUxqa3l0cDZodFVpaHVSalFDLV9QOERXaFhtRktBZGJSV0hJLVpPS19kRTd3QlN6SjRUSjZJM21lZXJxSi1FZEsyaklmRHZRNHhONVVaOTl5OXI3TXhZNnVTekp3dk1Yelk4VmZFVVAyV0hGSVB6d29pLW1aVHcwdzlfS1ZiRDkyejVNVFl4NkVIbWZfRG9EVHVXbGdxSWZZQzVhT0ZVZEMtMnhUdzVmNFlkV0NsaXNVazhqSHNjNkZIalJqQ1hLeWdEVGJ5SmdhT0hlNnNoM1lvX1Vzb1FLa0dPcmxvbWZXUUVWTkVGRnRUWlZ4cHdBX2txZ3BpT29QNTFqVmFucEp6dTdmSHJpMzlSUEZJREYwaDFueURVUVZobGxyMWo4c3JvSGJfSjBPQXhPVFF5SFZEQlNyVXdzUEpnQWdWMlJiNTdPMWM3UFhqZ1ZndTZCcEpUQi1FdWxEUFE3dE0yN2kyYTdhWmZXMHNhVWZUMDNYUXZxZ195YTlsSXQ3TU1nejlhOE1ual8zRjRMQXNNdXBVM2otQVJnNGI3MFZHQnNwT1BpNlgwalFrM1B0MFpGOVRWeFVPUE55TWd4LTFNLXlBT01UVDFkSjFlcDZXOFZiZWthZ3ZMOE8wRFVPX3Mxb2l3ZUpwLXJ6UlNIWWhLZTAyV1A2Vnh5WWJUOU43NU9tZm5OSTg?oc=5",
+          "title": "EVAT Backs 35% Import Tariff on EVs and Demands 8 Further Tightening Measures",
+          "summary": "The Electric Vehicle Association of Thailand (EVAT) supported the 35% tariff on imported BEVs and REEVs, urging the Cabinet to enact 8 additional strict measures to protect domestic auto manufacturing. The association emphasized closing loopholes to stop cheap foreign dumping and stimulate local production.",
+          "why": "Tighter localization rules force automakers to assemble bodies and stamp parts locally in Thailand, expanding weld-seam grinding and surface prep operations.",
+          "action": "Target procurement teams at newly localized Chinese and Japanese hybrid/EV assembly plants to introduce MK robotic grinding and weld-prep solutions.",
+          "th": {
+            "title": "สมาคมยานยนต์ไฟฟ้าไทยหนุนขึ้นภาษี EV 35% จี้ ครม. ลุยต่อ 8 มาตรการคุมเข้ม",
+            "summary": "สมาคมยานยนต์ไฟฟ้าไทย (EVAT) ออกโรงหนุนมติ ครม. ขึ้นภาษี BEV/REEV นำเข้าเป็น 35% พร้อมชง 8 มาตรการเสริมเพื่อสกัดการทุ่มตลาด และเร่งบีบให้ค่ายรถต้องเข้ามาตั้งฐานการผลิตจริงในไทย",
+            "why": "หากมาตรการคุมเข้มมีผลบังคับใช้ โรงงานจะต้องขึ้นรูป ปั๊ม และเชื่อมประกอบโครงสร้างในประเทศมากขึ้น ทำให้งานเจียรรอยเชื่อมและเตรียมผิวโลหะขยายตัว",
+            "action": "เข้าพบฝ่ายจัดซื้อและวิศวกรของโรงงานผลิตรถยนต์ EV/Hybrid ที่เริ่มเดินไลน์ในไทย เพื่อนำเสนอจานขัดและสายพานขัดสำหรับงานเจียรแนวเชื่อม"
+          }
+        },
+        {
+          "id": "20261109-2",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "www.thairath.co.th",
+          "date": "2026-11-08",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wY3UyQm9CSzVSZlZtd2tUaTZIajlPeG1aaHBmWF9oMl9RTGNuT3RYVzZKVDlTMWM5RDMtTGtSeXNPTllYUlhFdEJLOG5WNkxGekNyY05SQVNueTdjTk9HMUgxdUg4NE5RTkxTQkZ1d0VhMTQ?oc=5",
+          "title": "35% EV Tariff Reshapes Thai Auto Market in High-Stakes Gamble for Production Hub",
+          "summary": "The 35% import tariff on electric vehicles is transforming Thailand's automotive landscape, creating a critical tension between consumer car prices and defending the domestic production base. The policy compels global automakers to accelerate localized manufacturing investments rather than relying on fully imported units.",
+          "why": "Shifting from imported CBUs to domestic assembly directly preserves and expands metal stamping and body-in-white grinding demand across Thai Tier-1 and Tier-2 suppliers.",
+          "action": "Follow up with Japanese and joint-venture auto parts suppliers to audit their abrasive consumption as they tool up for localized EV/hybrid component lines.",
+          "th": {
+            "title": "ภาษี EV 35% พลิกเกมรถยนต์ไทย เดิมพันใหญ่ระหว่างฐานผลิตกับกระเป๋าผู้บริโภค",
+            "summary": "การปรับขึ้นภาษีนำเข้า EV เป็น 35% กำลังเปลี่ยนทิศทางอุตสาหกรรมยานยนต์ไทยครั้งใหญ่ เป็นเดิมพันระหว่างราคารถของผู้บริโภคกับการปกป้องฐานการผลิต โดยบีบให้ค่ายรถต้องเร่งประกอบในประเทศแทนการนำเข้าสำเร็จรูป",
+            "why": "การเปลี่ยนจากการนำเข้าทั้งคันมาเป็นการผลิตในประเทศ จะช่วยรักษาและเพิ่มปริมาณงานปั๊มขึ้นรูป งานเชื่อม และงานขัดผิวชิ้นส่วนโลหะในซัพพลายเชนไทย",
+            "action": "ประสานงานกับโรงงานชิ้นส่วนยานยนต์ Tier-1 และ Tier-2 (โดยเฉพาะกลุ่มทุนญี่ปุ่น) เพื่อตรวจสอบความต้องการใช้วัสดุขัดในไลน์ผลิตชิ้นส่วนโครงสร้างรุ่นใหม่"
+          }
+        },
+        {
+          "id": "20261109-3",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "thansettakij",
+          "date": "2026-05-20",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYUkQ1OTVxM3QtdnAtcUlCc1JQelZVNU53OUNENkd5QnBfeVUtN29mVlZ6Y251UzBWVW9OQ3VKQVQ4cmkyT2lpc0NuemY3THhrOHlhNG53UHM4bnZSaVBUYnVScjZUTmNlU1VhY3B3?oc=5",
+          "title": "10 Steel Associations Urge Government to Ban Induction Furnace Mills and Purge Substandard Operators",
+          "summary": "Ten Thai steel associations demanded that the government ban Induction Furnace (IF) steel facilities and shut down substandard foreign-backed mills distorting the domestic market. Industry leaders highlighted that illegal operations damage consumer safety and threaten legitimate local manufacturing.",
+          "why": "Eliminating substandard induction furnace mills protects compliant domestic steelmakers and metal fabricators, stabilizing MK's customer base of certified industrial plants.",
+          "action": "Focus direct sales of heavy-duty cutting and grinding wheels on certified EAF steel plants and structural metal fabricators that prioritize certified quality.",
+          "th": {
+            "title": "10 สมาคมเหล็กจี้รัฐเร่งยกเลิกโรงงาน IF ขจัดทุนเทา ปกป้องอุตสาหกรรมเหล็กไทย",
+            "summary": "สมาคมเหล็ก 10 แห่งรวมตัวเรียกร้องให้ภาครัฐสั่งยกเลิกและปิดโรงงานผลิตเหล็กด้วยเตาหลอมแบบ IF (Induction Furnace) ที่ไม่ได้มาตรฐานและใช้ทุนสีเทา เพื่อป้องกันความเสียหายต่อเศรษฐกิจและผู้ผลิตเหล็กที่ได้มาตรฐานในประเทศ",
+            "why": "การปราบปรามโรงงานเหล็กไร้มาตรฐานช่วยปกป้องโรงงานผลิตเหล็กและโครงสร้างโลหะมาตรฐานสูง ซึ่งเป็นกลุ่มลูกค้าโรงงานอุตสาหกรรมที่ใช้วัสดุขัดและใบเจียรของ MK อย่างต่อเนื่อง",
+            "action": "มุ่งเน้นการขยายฐานลูกค้าในกลุ่มโรงหลอมเตา EAF และโรงงานแปรรูปโครงสร้างเหล็กที่ได้มาตรฐาน มอก. ซึ่งต้องการหินเจียรและใบตัดคุณภาพสูงเพื่อความปลอดภัย"
+          }
+        }
+      ],
+      "terms": {}
+    },
+    {
       "date": "2026-11-08",
       "summary": "Today's news volume is relatively light with few entirely new developments. The key highlight is the Finance Ministry's 3-tier tax plan enforcing 'Made in Thailand' (MiT) criteria, directly boosting local stamping and finishing demand for auto parts makers.",
       "directCount": 1,
@@ -886,5 +951,5 @@ window.NEWS_ARCHIVE = {
       "terms": {}
     }
   ],
-  "updated": "2026-11-08"
+  "updated": "2026-11-09"
 };
