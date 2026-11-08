@@ -1,7 +1,89 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-11-08",
+  "updated": "2026-11-09",
   "days": [
+    {
+      "date": "2026-11-09",
+      "summary": "Today's intelligence highlights key global shifts in metalworking automation, abrasive belt growth, aluminum oxide fabric demand for auto refinishing, and broader manufacturing and steel industry pressures.",
+      "directCount": 4,
+      "th": {
+        "summary": "สรุปข่าวกรองประจำวันนี้เน้นการเปลี่ยนแปลงครั้งสำคัญระดับโลกด้านระบบอัตโนมัติในงานโลหะ การเติบโตของตลาดสายพานขัด กระดาษทรายผ้าอลูมิเนียมออกไซด์สำหรับงานซ่อมสีรถยนต์ รวมถึงแรงกดดันในอุตสาหกรรมการผลิตและเหล็กกล้า"
+      },
+      "items": [
+        {
+          "id": "20261109-w1",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-11-08",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRE9XR0d6cEx2R0ZmTk43NnZpVWZGU2kzUHZkdWZSX3pQTWxFVzZvSDgwdmc0Zmx5OUVtQmdVbVUtVGxBa2g4MHd4RkdiNUJRSFlxWE4wdFU2X0NDNGd1RFhWTWdBRTRNelo4VzByeHMtaHdySjJCWWgzSHZBbjlfTnZHb0twOFI3ZGNqMlV3b0lnT1VHdXc1QWs4OTRobWUtTDRJRkVpbXY4SHBMWURhUFByVmJNeklESWlNSzNHMjBoTWR5M0h2TVdPUFNxUXNpWkU4?oc=5",
+          "title": "Abrasive Belts Market To 2035: Automation in Metalworking and Auto Finishing Fuels Growth",
+          "summary": "The global abrasive belts market is expanding steadily through 2035, driven heavily by increased automation in metalworking and automotive finishing sectors.",
+          "why": "Abrasive belts are core high-volume consumables for heavy metal fabrication and automated sanding lines. Growth here signals stable industrial demand for coated abrasive conversions.",
+          "action": "Ensure strong inventory and conversion capability for industrial abrasive belts suited for automated grinding systems.",
+          "th": {
+            "title": "ตลาดสายพานขัดถึงปี 2035: ระบบอัตโนมัติในงานโลหะและการตกแต่งรถยนต์ขับเคลื่อนการเติบโต",
+            "summary": "ตลาดสายพานขัดทั่วโลกขยายตัวอย่างต่อเนื่องจนถึงปี 2035 โดยได้รับแรงหนุนสำคัญจากระบบอัตโนมัติที่เพิ่มขึ้นในอุตสาหกรรมแปรรูปโลหะและตกแต่งรถยนต์",
+            "why": "สายพานขัดคือวัสดุสิ้นเปลืองปริมาณมากสำหรับงานขึ้นรูปโลหะหนักและสายพานขัดอัตโนมัติ การเติบโตนี้บ่งบอกถึงความต้องการสินค้ากลุ่มกระดาษทรายสายพานที่มั่นคง",
+            "action": "เตรียมสต็อกสินค้าและกำลังการผลิตสายพานขัดอุตสาหกรรมให้พร้อมสำหรับระบบขัดอัตโนมัติ"
+          }
+        },
+        {
+          "id": "20261109-w2",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-11-08",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYWxiTlJSV3E4b05JV2NRYkFPeHJWbEx3Nm9Wb09ZVjNMc2prYkZTdkZsd0NNbHZjRDZhbU1TQ0FIMnp6Y0YwZ2l4dWlGOU84SmlOQVk0R29UdFowWkpiYzRyS051RWRUVHk3NWU5dlA0WWRZNVJHQXBuRDRmZmFVd0YzTWxPTmRzWU5tQl9IVHZWWUlHMDY4OTNpUE15c2xFRHpoRGxWNS1kRU1XN1VPbGZheE1HeVRUTWo3bXA1VTg0d1RIYVgyRW1pQVBXdDNpdU1Va2JfSTJSVVk2bmJIMA?oc=5",
+          "title": "Aluminum Oxide Abrasive Fabrics Market To 2035: Automotive Refinishing and Metal Fabrication Fuel Forward Growth",
+          "summary": "Demand for aluminum oxide abrasive fabrics remains robust, supported by consistent activities in automotive refinishing and general metal fabrication.",
+          "why": "Aluminum oxide is a staple abrasive grain used widely in rolls, sheets, and belts for metal and automotive workshops. Tracking this market helps benchmark standard product demand.",
+          "action": "Maintain competitive sourcing for high-quality aluminum oxide raw materials and jumbo rolls.",
+          "th": {
+            "title": "ตลาดกระดาษทรายผ้าอลูมิเนียมออกไซด์ถึงปี 2035: การซ่อมสีรถยนต์และการผลิตโลหะขับเคลื่อนการเติบโต",
+            "summary": "ความต้องการกระดาษทรายผ้าอลูมิเนียมออกไซด์ยังคงแข็งแกร่ง สนับสนุนโดยกิจการซ่อมบำรุงรถยนต์และงานโลหะทั่วไป",
+            "why": "อลูมิเนียมออกไซด์เป็นเม็ดทรายขัดพื้นฐานที่ใช้กันอย่างแพร่หลายในรูปแบบม้วน แผ่น และสายพาน สำหรับอู่โลหะและรถยนต์ การติดตามตลาดนี้ช่วยประเมินความต้องการสินค้ามาตรฐานได้",
+            "action": "รักษาแหล่งจัดหาวัตถุดิบและจัมโบ้รอลล์อลูมิเนียมออกไซด์คุณภาพสูงในราคาที่แข่งขันได้"
+          }
+        },
+        {
+          "id": "20261109-w3",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-11-05",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY1FXanVRMDJTZUdIQ05mNnA1UXo4aW5aS0pjYXF6SlBRZFRHWW1DU1RpNFhoQldJU3d1UTZuYXcwYzF3ZmxMZzZFcUl5YTdkSkptY2pvYWI3QkdPT19hb0RZcHRjTG45MUxmWTRIM1BOUnowSmxPeVdSVEJXSjVOM0MtV0xuUFpLZHVJVHdJcFk2aXVmLS1BSUs1OWZERVo4TGFJU3ZsM1hFdWE5YmJESHhFak53TVJoaUU1Zg?oc=5",
+          "title": "Abrasives And Timber Market To 2035: Construction and Woodworking Demand Drive Growth",
+          "summary": "Construction and woodworking sectors continue to drive stable demand for specialized abrasives suited for wood sanding and surface preparation.",
+          "why": "Woodworking is a key pillar market for MK's sandpaper and sanding sheets. Understanding construction and timber trends reveals opportunities in wood-finishing abrasives.",
+          "action": "Explore promotion bundles targeting furniture and woodworking manufacturers needing durable sanding sheets.",
+          "th": {
+            "title": "ตลาดวัสดุขัดและไม้ถึงปี 2035: ความต้องการด้านการก่อสร้างและงานไม้ขับเคลื่อนการเติบโต",
+            "summary": "ภาคการก่อสร้างและงานไม้ยังคงขับเคลื่อนความต้องการวัสดุขัดที่ออกแบบมาเฉพาะสำหรับการขัดไม้และการเตรียมพื้นผิว",
+            "why": "งานไม้เป็นตลาดหลักสำหรับผลิตภัณฑ์กระดาษทรายของ MK การเข้าใจแนวโน้มการก่อสร้างและอุตสาหกรรมไม้ช่วยเปิดโอกาสในกลุ่มสินค้าขัดไม้",
+            "action": "พิจารณาจัดทำชุดผลิตภัณฑ์ส่งเสริมการขายที่เจาะกลุ่มผู้ผลิตเฟอร์นิเจอร์และงานไม้ที่ต้องการกระดาษทรายความทนทานสูง"
+          }
+        },
+        {
+          "id": "20261109-w4",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "S&P Global",
+          "date": "2026-01-12",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
+          "title": "Global steel industry battles surplus supply, protectionism",
+          "summary": "The global steel sector faces ongoing challenges from surplus production capacity and rising trade protectionism across major regions.",
+          "why": "Steel production output directly impacts local metal fabrication activity and grinding consumable consumption. Steel supply fluctuations affect how local manufacturers buy abrasives.",
+          "action": "Monitor local steel processor activity to anticipate changes in metal grinding and deburring supply orders.",
+          "th": {
+            "title": "อุตสาหกรรมเหล็กโลกเผชิญศึกภาวะล้นตลาดและลัทธิกีดกันทางการค้า",
+            "summary": "ภาคอุตสาหกรรมเหล็กทั่วโลกกำลังเผชิญกับความท้าทายจากกำลังการผลิตส่วนเกินและมาตรการกีดกันทางการค้าที่เพิ่มขึ้นในภูมิภาคหลักๆ",
+            "why": "ปริมาณการผลิตเหล็กส่งผลโดยตรงต่อกิจกรรมการแปรรูปโลหะและความต้องการใช้วัสดุสิ้นเปลืองสำหรับงานขัด ความผันผวนของอุปทานเหล็กมีผลต่อพฤติกรรมการซื้อกระดาษทรายของลูกค้า",
+            "action": "ติดตามความเคลื่อนไหวของผู้แปรรูปเหล็กในท้องถิ่นเพื่อคาดการณ์การเปลี่ยนแปลงคำสั่งซื้อสินค้ากลุ่มงานขัดโลหะและลบคม"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-11-08",
       "summary": "Today's intelligence highlights new market expansions in specialized abrasives like ceramic and flap discs, alongside ongoing steel and EV supply adjustments. Global growth in precision finishing remains a steady demand driver.",
@@ -902,70 +984,6 @@ window.WORLD_ARCHIVE = {
             "summary": "รายงานจาก IEA เน้นย้ำถึงการเปลี่ยนแปลงอย่างต่อเนื่องในรูปแบบการผลิตและการค้าระดับโลก ขับเคลื่อนโดยการเติบโตอย่างรวดเร็วของยานยนต์ไฟฟ้า",
             "why": "การผลิตรถยนต์ EV ต้องการโลหะน้ำหนักเบา ชิ้นส่วนที่มีความแม่นยำสูง และโซลูชันการขัดผิวที่แตกต่างจากรถยนต์เครื่องยนต์สันดาปภายในแบบดั้งเดิม",
             "action": "ศึกษาโซลูชันกระดาษทรายและผลิตภัณฑ์ขัดผิวความละเอียดสูงที่เหมาะกับการผลิตชิ้นส่วนน้ำหนักเบาสำหรับ EV"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-10-26",
-      "summary": "Today's briefing focuses on global market forecasts for abrasives, evolving surface prep needs through green coatings, and structural shifts in steel manufacturing and US-Japan standings.",
-      "directCount": 2,
-      "th": {
-        "summary": "สรุปข้อมูลแนวโน้มโลกวันนี้เน้นไปที่การคาดการณ์ตลาดวัสดุขัดถู ความต้องการเตรียมพื้นผิวที่เปลี่ยนไปตามเทรนด์โค้วติ้งสีเขียว และการเปลี่ยนแปลงโครงสร้างอุตสาหกรรมเหล็ก"
-      },
-      "items": [
-        {
-          "id": "20261026-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "EIN News",
-          "date": "2026-10-19",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM2VsRTlqVWR6dlpoUXpZQ04wNnJsRUNBbndKSnNQODIyUXdnTTlIT0hZMC10bGhEUUk0clZ5ZWZRN0I2eVhiVHVPVmRYd05xWUdJdDJldTBsTkZEUVNBNG5qaE9WeXdDN2dSVzJ2TzNsVFhBNVMzakhwZFR6Z0dQeFFVS0ZPa0dmWmh1dHhiYXVXWWRrbk9XS251Ul9SVS1SZ3NON0VXRWxfOWtzazlNcXhUMVBnU2liODhqaXF6OEdGb2NEYkRoaG9uNmx6MlNjMUd2N3Q0emZnUXltZk1wbg?oc=5",
-          "title": "Abrasives Market to Reach $72.2 Billion by 2030, Growing at a 7.6% CAGR Driven by Precision Finishing Demand",
-          "summary": "The global abrasives market is projected to hit $72.2 billion by 2030, driven heavily by increasing manufacturing demands for high-precision finishing and advanced surface preparation.",
-          "why": "Validates our core business direction: global demand for precision finishing is expanding strongly, meaning higher value in technical abrasive products.",
-          "action": "Focus marketing efforts on high-precision and performance-driven finishing solutions rather than competing on low-cost commodities.",
-          "th": {
-            "title": "ตลาดวัสดุขัดถูทั่วโลกจ่อแตะ 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 หนุนโดยความต้องการงานขัดแต่งผิวความแม่นยำสูง",
-            "summary": "ตลาดวัสดุขัดถูทั่วโลกคาดว่าจะเติบโตถึง 7.22 หมื่นล้านดอลลาร์สหรัฐภายในปี 2030 ขับเคลื่อนโดยความต้องการในการผลิตที่เน้นงานตกแต่งผิวความละเอียดสูงและการเตรียมพื้นผิวขั้นสูง",
-            "why": "ยืนยันว่าทิศทางธุรกิจหลักของเรามาถูกทาง ความต้องการงานขัดผิวความแม่นยำสูงทั่วโลกกำลังขยายตัว ซึ่งหมายถึงมูลค่าที่สูงขึ้นในกลุ่มผลิตภัณฑ์วัสดุขัดถูเชิงเทคนิค",
-            "action": "มุ่งเน้นการทำตลาดผลิตภัณฑ์กลุ่มขัดแต่งผิวความแม่นยำสูงและเน้นประสิทธิภาพ แทนที่จะแข่งราคากับสินค้าทั่วไป"
-          }
-        },
-        {
-          "id": "20261026-w2",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "Market Business Insights",
-          "date": "2026-10-14",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBSDItTlp3MlgweDg2N3hibzBRRVgwVGJKa3RRWUpXc0pMcjJ3U241dE1LcnRYR3hna3hBUjNRdzZBdFIwUUEtTnd1MlFYdXIwTGpOVWNCVWpjeU45M1JISk1tVkZUYVpjR25UVUN3?oc=5",
-          "title": "Green Coatings Market Size & Growth Analysis, 2026-2035",
-          "summary": "The green coatings sector is expanding significantly from 2026 to 2035 as industries transition to eco-friendly, low-VOC surface treatments and sustainable manufacturing.",
-          "why": "Eco-friendly coatings change how surfaces react to prep work, often requiring specialized sanding profiles and surface cleaning before and after coating applications.",
-          "action": "Keep an eye on compatibility requirements between new eco-coatings and substrate preparation abrasives.",
-          "th": {
-            "title": "วิเคราะห์ขนาดและการเติบโตของตลาดสีและสารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อม ปี 2026-2035",
-            "summary": "กลุ่มตลาดสารเคลือบสีเขียว (Green Coatings) กำลังเติบโตอย่างมีนัยสำคัญระหว่างปี 2026 ถึง 2035 เนื่องจากภาคอุตสาหกรรมเปลี่ยนผ่านไปสู่การเคลือบผิวที่เป็นมิตรต่อสิ่งแวดล้อมและปล่อยสารระเหยต่ำ",
-            "why": "สารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมส่งผลต่อวิธีเตรียมพื้นผิว มักต้องการการขัดหรือปรับสภาพผิวที่จำเพาะเจาะจงทั้งก่อนและหลังพ่นเคลือบ",
-            "action": "ติดตามความต้องการด้านความเข้ากันได้ระหว่างสารเคลือบอีโค่รุ่นใหม่กับกระดาษทรายหรือวัสดุขัดที่ใช้เตรียมพื้นผิว"
-          }
-        },
-        {
-          "id": "20261026-w3",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "https://economy.ac/",
-          "date": "2026-08-07",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YQWhOYlJ3eW9jTUhwa25XdE55eHh3a2JoODhWdDAtOW00UzhXcWwtNnJJXzZGMjMtNXN6MTYwTUhib3ZHUDNXaTdIbWY2N092QXNsOXFfdw?oc=5",
-          "title": "'Trump Tariffs and AI Boom' Propel U.S. Steel Past Japan to World No. 3 for First Time in 26 Years",
-          "summary": "Driven by trade policies and tech-related demand, the U.S. steel industry has surpassed Japan to become the world's third-largest steel producer.",
-          "why": "Shifts in global steel production geography impact regional metal fabrication hubs, influencing where metal deburring and grinding consumables are in highest demand.",
-          "action": "Monitor how production relocations affect regional metalworking equipment imports and export destinations for manufacturing tools.",
-          "th": {
-            "title": "'มาตรการภาษีและบูม AI' ผลักดันเหล็กสหรัฐฯ แซงญี่ปุ่นขึ้นแท่นอันดับ 3 ของโลกในรอบ 26 ปี",
-            "summary": "ด้วยแรงขับเคลื่อนจากนโยบายการค้าและความต้องการที่เกี่ยวข้องกับเทคโนโลยี อุตสาหกรรมเหล็กของสหรัฐฯ ได้แซงหน้าญี่ปุ่นขึ้นเป็นผู้ผลิตเหล็กรายใหญ่อันดับ 3 ของโลก",
-            "why": "การเปลี่ยนแปลงของภูมิศาสตร์การผลิตเหล็กส่งผลต่อศูนย์กลางการขึ้นรูปโลหะ ซึ่งกระทบโดยตรงกับความต้องการใช้วัสดุขัดและลบคมโลหะในแต่ละภูมิภาค",
-            "action": "ติดตามว่าการย้ายฐานการผลิตเหล็กส่งผลอย่างไรต่อทิศทางการนำเข้าเครื่องจักรโลหะและเครื่องมืออุตสาหกรรม"
           }
         }
       ]
