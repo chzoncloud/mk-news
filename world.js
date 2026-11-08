@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-11-08",
-      "summary": "Today's briefing features 3 key global trends focusing on metal supply pressures, smart factory automation, and EV manufacturing shifts that influence industrial surface preparation demand.",
-      "directCount": 2,
+      "summary": "Today's intelligence highlights new market expansions in specialized abrasives like ceramic and flap discs, alongside ongoing steel and EV supply adjustments. Global growth in precision finishing remains a steady demand driver.",
+      "directCount": 3,
       "th": {
-        "summary": "สรุปประเด็นแนวโน้มโลกประจำวันนี้ 3 เรื่องสำคัญ ได้แก่ แรงกดดันด้านอุปทานโลหะ เทรนด์ระบบอัตโนมัติในโรงงานอัจฉริยะ และการเปลี่ยนแปลงการผลิตรถยนต์ EV ซึ่งส่งผลต่อความต้องการงานเตรียมพื้นผิวอุตสาหกรรม"
+        "summary": "สรุปข้อมูลเชิงลึกวันนี้เน้นการเติบโตของตลาดวัสดุขัดถูเฉพาะทาง เช่น เซรามิกและแผ่นเจียร (Flap Discs) ควบคู่ไปกับการปรับตัวของอุตสาหกรรมเหล็กและยานยนต์ EV ความต้องการขัดแต่งผิวที่แม่นยำยังคงเป็นแรงขับเคลื่อนสำคัญ"
       },
       "items": [
         {
           "id": "20261108-w1",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "World Bank Blogs",
-          "date": "2026-06-11",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONzBKVVZhYkZoRERBTm8wSUNzYUY3Y0lZTVhlRXhoMk9qWGUybnc0SFA2dC1KT1ZOV2puSzlLRzhmdDRUVDkwejhFM3JtNm1SY2RpbFoyYWR2Q1J2eHJTME0zd25GSjlaRE1qWG1sQjZsaUpXdjBJd0oyZlBEUklMNkxuNGVWZ3FZVGhZOHJwOWdiZw?oc=5",
-          "title": "Metal prices surge as supply pressures intensify",
-          "summary": "Global metal prices are experiencing upward surges as underlying supply pressures intensify, impacting raw material costs for downstream manufacturers.",
-          "why": "Rising metal prices directly affect manufacturing costs in our key customer segments (steel and metal fabrication), influencing their purchasing volumes for grinding and deburring products.",
-          "action": "Monitor raw material price trends closely and maintain flexible pricing or inventory buffers to support metal-working clients.",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-11-02",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeWRrVkJoSERZcnUtUTVYNjFlRDRXeVAzeF9YLVJoU0RtQXEwVXIzNnA4dlYtWmplVGpqSlJxVVM4czVXMGRfUjZub3JFSHVXaWV3QXJtRF9yLVBKOHNiaHNSZERmMndyX3dvZ0ticFVWNEhhV2JUUVktUXM0Ylc1Q0tPanhMVXhYR2tKM24tcmpZbW9uRjNzRVR3eUkzNUtfM2NIYS1NRVFiVUw0SVFZLVRuTV9kaTExMWN0V3RQT0pOekgwZDg1c0l2SkZMMXdkZEFvUVJB?oc=5",
+          "title": "Blue Ceramic Abrasive Market To 2035: Precision Grinding Demand Supports Forward Growth",
+          "summary": "The global market for blue ceramic abrasives is expanding steadily through 2035, driven by heightened industrial demand for high-performance precision grinding solutions.",
+          "why": "Ceramic abrasives represent the high-margin, premium end of our product line. Monitoring this growth confirms steady customer demand for durable, heavy-duty sanding materials.",
+          "action": "Ensure our premium ceramic abrasive inventory and technical specs are up to date for high-end metal fabrication clients.",
           "th": {
-            "title": "ราคาโลหะพุ่งสูงขึ้นเนื่องจากแรงกดดันด้านอุปทานที่รุนแรงขึ้น",
-            "summary": "ราคาระดับโลกของโลหะกำลังพุ่งสูงขึ้น เนื่องจากแรงกดดันด้านอุปทานที่เพิ่มขึ้น ซึ่งส่งผลกระทบต่อต้นทุนวัตถุดิบของผู้ผลิตปลายน้ำ",
-            "why": "ราคาโลหะที่สูงขึ้นส่งผลโดยตรงต่อต้นทุนการผลิตของกลุ่มลูกค้าหลักของเรา (งานเหล็กและโลหะแปรรูป) ซึ่งมีผลต่อปริมาณการซื้อผลิตภัณฑ์เจียรและลบคม",
-            "action": "ติดตามแนวโน้มราคาวัตถุดิบอย่างใกล้ชิด และรักษานโยบายราคายืดหยุ่นหรือสำรองสินค้าเพื่อสนับสนุนลูกค้ากลุ่มโลหะ"
+            "title": "ตลาดวัสดุขัดเซรามิกสีน้ำเงินถึงปี 2035: ความต้องการเจียรความแม่นยำสูงหนุนการเติบโต",
+            "summary": "ตลาดโลกสำหรับวัสดุขัดเซรามิกสีน้ำเงินเติบโตอย่างต่อเนื่องจนถึงปี 2035 ขับเคลื่อนด้วยความต้องการทางอุตสาหกรรมสำหรับงานเจียรความแม่นยำสูง",
+            "why": "วัสดุขัดเซรามิกคือสินค้าพรีเมียมที่มีกำไรสูงในกลุ่มผลิตภัณฑ์ของเรา การเติบโตนี้ยืนยันว่าลูกค้ายังคงต้องการวัสดุขัดที่ทนทานและใช้งานหนัก",
+            "action": "ตรวจสอบสต็อกสินค้าเซรามิกเกรดพรีเมียมและข้อมูลทางเทคนิคให้พร้อมสำหรับลูกค้ากลุ่มอุตสาหกรรมโลหะระดับสูง"
           }
         },
         {
           "id": "20261108-w2",
-          "tag": "auto",
+          "tag": "abrasive",
           "rating": "green",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-09-16",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPU0NJV1VEcllWeWRPU21VOHlULVpnYWR2ZXVmMk5QSHVZNHFYRC1nN2hlUnJ5VmdXNl9LWmRPTmR2X1lzRlBqcl8tOTZxdE9pNkVTRG14R2NpRHIxNTQ2S2NWcGxQeGF5bWxHdGFxWEN5em12c09Wb1piMnlUejBGc08xemxCQjZUd0llY2k4MmxfVUlkaHlIN21FQ1RPeVl2a3YyZ1BZSE4zeVhHWUVFemF6R3ZyR0lLa0lEMUY1R0k3T0ZlblpKZUFKVEFYV3ZDYlZNQTZYSDRYVjRvSjVLSkE2RTlzdl9tNEctT2JWblVNYndVZnNJeg?oc=5",
-          "title": "Smart factory trends and lessons for 2027: Flexibility, AI and global competitiveness",
-          "summary": "Automotive manufacturing facilities are rapidly integrating smart factory technologies, focusing on AI-driven flexibility and automated production processes.",
-          "why": "Smart factories require automated robotic sanding and surface finishing solutions rather than manual labor, creating demand for specialized automated abrasive belts and discs.",
-          "action": "Explore partnerships or product lines suited for robotic grinding and automated surface finishing systems.",
+          "source": "IndexBox",
+          "date": "2026-11-07",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYjhOUVFDSU9vQV9rRjdhMHFPbEFKMHRuaFY1cTFzc2ZYUktnd0JjeG12VDBJVDJlOXdKZDRyX2t5dmZ1d050QXB3NXh1bHVrYmVHTkQybDhCbXlULUVxVDBBNEkwcTZqWEZYNURFN2x4bG9MWjdlYzlKY3RXWm9ZNWVSeVIwbXFYeHRfWTl4STV1ZlJjNExNSGVkS2VVT01UZ0FDY2VsQzg?oc=5",
+          "title": "Flap Grinding Disc Market in India: Size, Trends and Forecast to 2035",
+          "summary": "Analysis of the flap grinding disc sector outlines strong regional growth and shifting manufacturing requirements through the next decade.",
+          "why": "Flap discs are a fast-moving consumable item in metalworking and welding shops, making regional production and pricing trends vital for our sourcing strategy.",
+          "action": "Review our current supplier pricing and stock depth for flap discs to maintain competitive B2B margins.",
           "th": {
-            "title": "เทรนด์โรงงานอัจฉริยะสำหรับปี 2027: ความยืดหยุ่น AI และความสามารถในการแข่งขันระดับโลก",
-            "summary": "โรงงานผลิตยานยนต์กำลังบูรณาการเทคโนโลยีโรงงานอัจฉริยะอย่างรวดเร็ว โดยเน้นความยืดหยุ่นที่ขับเคลื่อนด้วย AI และกระบวนการผลิตอัตโนมัติ",
-            "why": "โรงงานอัจฉริยะต้องการโซลูชันการขัดและเตรียมพื้นผิวด้วยหุ่นยนต์อัตโนมัติมากกว่าแรงงานคน ซึ่งสร้างความต้องการสำหรับกระดาษทรายสายพานและแผ่นขัดที่รองรับระบบอัตโนมัติ",
-            "action": "สำรวจพันธมิตรทางธุรกิจหรือกลุ่มผลิตภัณฑ์ที่เหมาะสำหรับระบบการเจียรด้วยหุ่นยนต์และงานขัดผิวอัตโนมัติ"
+            "title": "ตลาดแผ่นเจียร (Flap Disc) ในอินเดีย: ขนาด แนวโน้ม และการคาดการณ์ถึงปี 2035",
+            "summary": "การวิเคราะห์ตลาดแผ่นเจียรแสดงให้เห็นการเติบโตที่แข็งแกร่งในระดับภูมิภาคและความต้องการการผลิตที่เปลี่ยนไปในทศวรรษหน้า",
+            "why": "แผ่นเจียรเป็นสินค้าสิ้นเปลืองที่ขายดีในร้านค้าโลหะและงานเชื่อม ทำให้เทรนด์ราคาและแหล่งผลิตมีความสำคัญต่อกลยุทธ์การจัดซื้อของเรา",
+            "action": "ทบทวนราคากับซัพพลายเออร์และปริมาณสต็อกแผ่นเจียรเพื่อรักษากำไรในการทำธุรกิจ B2B ให้แข่งขันได้"
           }
         },
         {
           "id": "20261108-w3",
-          "tag": "coating",
+          "tag": "steel",
           "rating": "amber",
-          "source": "Coatings World",
-          "date": "2025-12-10",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVDFJcHBGVXhXMm1MR1R0QkJ4VkNDdnZvcjh2bzJkX1hJYUdJQ1pyOFIxRzVPUXZGUDRheEVHaVhweG14Smk5Z3FCbjhadTM4RnIzLXkxMnBWX3p2UU4ya3dxNXFocWJWd1EyUHhjeEFOWGdwWW1LcllXTFdyUVNEMkxmRGdoblpuc2w5V2RNei0xZmM1S1p5bExhX1otTFBMY0RtbA?oc=5",
-          "title": "Innovation and Technology to Drive Future of European Market",
-          "summary": "European industrial markets are heavily prioritizing technological innovations and sustainable material formulations to meet future regulatory demands.",
-          "why": "Advanced surface coatings and surface treatments go hand-in-hand with high-performance surface preparation and sanding abrasives.",
-          "action": "Keep an eye on European finishing specifications that may soon become global benchmarks for high-end manufacturing.",
+          "source": "World Economic Forum",
+          "date": "2026-04-21",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPc3hudkhpWE9BVTdWSk5BQWV2SWpBNHZxOUFfY2Rxcy0weW4tc2c2UFE1blAwFjVvYzRFcE9TdW1iVTdfYXBSVGk0UER5ZDVFQkZybG51bEY2QmhYemE3anRJbERYRW9KUkZHcHZ2eHZCMTRSMWlYMklYTDNPdzZGYzZZOFQtblNBMktoS2RNSndvX1dDRlZQSlBUT1pVdE1FN0ozOFZibUxlaHFGT1FjNUpZWEEyZGFrMTJUTXhPNA?oc=5",
+          "title": "How regional conflicts disrupt steel production amid fuel shortages and rising costs",
+          "summary": "Global geopolitical tensions continue to impact regional metal manufacturing operations, creating supply chain fluctuations and cost pressures for steel mills.",
+          "why": "Steel production output directly dictates factory utilization rates. When steel output fluctuates, surface finishing and deburring material consumption follows.",
+          "action": "Keep close communication with metal fabrication clients to anticipate any dips or surges in their abrasive consumption.",
           "th": {
-            "title": "นวัตกรรมและเทคโนโลยีเพื่อขับเคลื่อนอนาคตของตลาดในยุโรป",
-            "summary": "ตลาดอุตสาหกรรมในยุโรปให้ความสำคัญอย่างมากกับนวัตกรรมทางเทคโนโลยีและการพัฒนาวัสดุตระหนักรู้สิ่งแวดล้อม เพื่อตอบสนองข้อกำหนดด้านกฎระเบียบในอนาคต",
-            "why": "งานเคลือบผิวและกระบวนการจัดการพื้นผิวขั้นสูงต้องดำเนินควบคู่ไปกับผลิตภัณฑ์กระดาษทรายและอุปกรณ์ขัดเตรียมพื้นผิวที่มีประสิทธิภาพสูง",
-            "action": "ติดตามข้อกำหนดด้านงานเคลือบผิวของยุโรป ซึ่งอาจกลายเป็นมาตรฐานสากลสำหรับการผลิตระดับไฮเอนด์ในอนาคตอันใกล้"
+            "title": "ความขัดแย้งระดับภูมิภาคกระทบการผลิตเหล็กท่ามกลางปัญหาขาดแคลนเชื้อเพลิงและต้นทุนที่สูงขึ้น",
+            "summary": "ความตึงเครียดทางภูมิรัฐศาสตร์ยังคงส่งผลกระทบต่ออุตสาหกรรมการผลิตโลหะระดับภูมิภาค ทำให้เกิดความผันผวนในห่วงโซ่อุปทานและต้นทุนของโรงงานเหล็ก",
+            "why": "ปริมาณการผลิตเหล็กส่งผลโดยตรงต่ออัตราการใช้กำลังการผลิตของโรงงาน เมื่อผลผลิตเหล็กผันผวน การใช้วัสดุขัดแต่งผิวและลบครีบก็จะเปลี่ยนไปตามด้วย",
+            "action": "ติดต่อสื่อสารกับลูกค้ากลุ่มแปรรูปโลหะอย่างใกล้ชิดเพื่อคาดการณ์การเพิ่มขึ้นหรือลดลงของการใช้วัสดุขัด"
           }
         }
       ]
