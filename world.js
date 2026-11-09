@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-11-09",
-      "summary": "Today's briefing focuses on global manufacturing shifts, including automation in paint and coatings, smart factory trends for 2027, and decarbonization pathways in the US steel sector.",
+      "summary": "Today's briefing focuses on global manufacturing shifts, including automation in abrasive belts and aluminum oxide fabrics, alongside steel industry surplus challenges and EV market updates.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปข่าววันนี้เน้นการเปลี่ยนแปลงในภาคการผลิตระดับโลก เช่น ระบบอัตโนมัติในอุตสาหกรรมสีและสารเคลือบ แนวโน้มโรงงานอัจฉริยะปี 2027 และแนวทางการลดคาร์บอนในอุตสาหกรรมเหล็กของสหรัฐฯ"
+        "summary": "สรุปข้อมูลประเด็นสำคัญประจำวันนี้ เน้นการเปลี่ยนแปลงการผลิตระดับโลก เช่น ระบบอัตโนมัติในสายพานขัดและผ้าทรายขัดอลูมิเนียมออกไซด์ ควบคู่ไปกับปัญหาล้นตลาดของอุตสาหกรรมเหล็กและแนวโน้มตลาด EV"
       },
       "items": [
         {
           "id": "20261109-w1",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "European Coatings",
-          "date": "2026-09-09",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
-          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
-          "summary": "The coatings industry is accelerating its shift toward digital tools, sustainability, and advanced manufacturing innovations.",
-          "why": "Surface coatings and abrasive preparation go hand in hand; shifts in coating technology affect pre-treatment and sanding requirements.",
-          "action": "Monitor how new eco-friendly coatings impact surface preparation specifications.",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-11-08",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRE9XR0d6cEx2R0ZmTk43NnZpVWZGU2kzUHZkdWZSX3pQTWxFVzZvSDgwdmc0Zmx5OUVtQmdVbVUtVGxBa2g4MHd4RkdiNUJRSFlxWE4wdFU2X0NDNGd1RFhWTWdBRTRNelo4VzByeHMtaHdySjJCWWgzSHZBbjlfTnZHb0twOFI3ZGNqMlV3b0lnT1VHdXc1QWs4OTRobWUtVDRJRkVpbXY4SHBMWURhUFByVmJNeklESWlNSzNHMjBoTWR5M0h2TVdPUFNxUXNpWkU4?oc=5",
+          "title": "Abrasive Belts Market To 2035: Automation in Metalworking and Auto Finishing Fuels Growth",
+          "summary": "The global abrasive belts market is expanding rapidly, driven by increased automation in metalworking and automotive finishing sectors.",
+          "why": "Higher adoption of automated grinding machinery means increased demand for high-performance, durable abrasive belts.",
+          "action": "Ensure our inventory aligns with automated applications requiring long-lasting abrasive belts.",
           "th": {
-            "title": "กำหนดอนาคตยุคใหม่ของอุตสาหกรรมสารเคลือบ: นวัตกรรม ความยั่งยืน และพลังแห่งดิจิทัล",
-            "summary": "อุตสาหกรรมสีและสารเคลือบกำลังเร่งปรับตัวไปสู่เครื่องมือดิจิทัล ความยั่งยืน และนวัตกรรมการผลิตขั้นสูง",
-            "why": "งานเคลือบผิวและกระบวนการเตรียมพื้นผิวด้วยกระดาษทรายต้องทำร่วมกัน การเปลี่ยนแปลงของเทคโนโลยีสารเคลือบย่อมส่งผลต่อความต้องการในการเตรียมผิว",
-            "action": "ติดตามว่าสารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมแบบใหม่จะส่งผลอย่างไรต่อข้อกำหนดการเตรียมพื้นผิว"
+            "title": "ตลาดสายพานขัดถึงปี 2035: ระบบอัตโนมัติในงานโลหะและการตกแต่งรถยนต์ขับเคลื่อนการเติบโต",
+            "summary": "ตลาดสายพานขัดทั่วโลกกำลังขยายตัวอย่างรวดเร็ว โดยได้รับแรงหนุนจากการใช้ระบบอัตโนมัติที่เพิ่มขึ้นในอุตสาหกรรมโลหะและการตกแต่งยานยนต์",
+            "why": "การใช้เครื่องจักรขัดแบบอัตโนมัติที่สูงขึ้น ส่งผลให้ความต้องการสายพานขัดที่มีประสิทธิภาพสูงและทนทานเพิ่มสูงขึ้นตามไปด้วย",
+            "action": "ตรวจสอบสต็อกสินค้าให้สอดคล้องกับการใช้งานแบบอัตโนมัติที่ต้องการสายพานขัดความทนทานสูง"
           }
         },
         {
           "id": "20261109-w2",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-09-16",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPU0NJV1VEcllWeWRPU21VOHlULVpnYWR2ZXVmMk5QSHVZNHFYRC1nN2hlUnJ5VmdXNl9LWmRPTmR2X1lzRlBqcl8tOTZxdE9pNkVTRG14R2NpRHIxNTQ2S2NWcGxQeGF5bWxHdGFxWEN5em12c09Wb1piMnlUejBGc08xemxCQjZUd0llY2k4MmxfVUlkaHlIN21FQ1RPeVl2a3YyZ1BZSE4zeVhHWUVFemF6R3ZyR0lLa0lEMUY1R0k3T0ZlblpKZUFKVEFYV3ZDYlZNQTZYSDRYVjRvSjVLSkE2RTlzdl9tNEctT2JWblVNYndVZnNJeg?oc=5",
-          "title": "Smart factory trends and lessons for 2027: Flexibility, AI and global competitiveness",
-          "summary": "Automotive and manufacturing sectors are focusing on factory flexibility, artificial intelligence, and enhanced global competitiveness heading into 2027.",
-          "why": "As automotive plants adopt smart factory automation, their demand for automated, high-consistency abrasives and robotic sanding pads increases.",
-          "action": "Prepare for stricter automated manufacturing standards from OEM auto clients.",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-11-08",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYWxiTlJSV3E4b05JV2NRYkFPeHJWbEx3Nm9Wb09ZVjNMc2prYkZTdkZsd0NNbHZjRDZhbU1TQ0FIMnp6Y0YwZ2l4dWlGOU84SmlOQVk0R29UdFowWkpiYzRyS051RWRUVHk3NWU5dlA0WWRZNVJHQXBuRDRmZmFVd0YzTWxPTmRzWU5tQl9IVHZWWUlHMDY4OTNpUE15c2xFRHpoRGxWNS1kRU1XN1VPbGZheE1HeVRUTWo3bXA1VTg0d1RIYVgyRW1pQVBXdDNpdU1Va2JfSTJSVVk2bmJIMA?oc=5",
+          "title": "Aluminum Oxide Abrasive Fabrics Market To 2035: Automotive Refinishing and Metal Fabrication Fuel Forward Growth",
+          "summary": "Demand for aluminum oxide abrasive fabrics continues to grow, heavily supported by automotive refinishing and general metal fabrication needs.",
+          "why": "Aluminum oxide remains a primary material for standard metal and automotive sanding work, directly impacting our core product lines.",
+          "action": "Monitor supply stability and pricing for aluminum oxide raw materials.",
           "th": {
-            "title": "เทรนด์โรงงานอัจฉริยะและบทเรียนสำหรับปี 2027: ความยืดหยุ่น AI และความสามารถในการแข่งขันระดับโลก",
-            "summary": "ภาคยานยนต์และการผลิตกำลังให้ความสำคัญกับความยืดหยุ่นของโรงงาน ปัญญา искусственный และการเพิ่มขีดความสามารถในการแข่งขันมุ่งสู่ปี 2027",
-            "why": "เมื่อโรงงานยานยนต์นำระบบอัตโนมัติมาใช้ ความต้องการใช้วัสดุขัดถูที่แม่นยำและสม่ำเสมอสำหรับหุ่นยนต์ขัดจะเพิ่มสูงขึ้น",
-            "action": "เตรียมพร้อมรับมือกับมาตรฐานการผลิตอัตโนมัติที่เข้มงวดขึ้นจากลูกค้ากลุ่มยานยนต์ OEM"
+            "title": "ตลาดผ้าทรายขัดอลูมิเนียมออกไซด์ถึงปี 2035: การซ่อมสีรถยนต์และการผลิตโลหะขับเคลื่อนการเติบโต",
+            "summary": "ความต้องการผ้าทรายขัดอลูมิเนียมออกไซด์ยังคงเติบโตอย่างต่อเนื่อง ซึ่งสนับสนุนโดยงานซ่อมสีรถยนต์และการผลิตโลหะทั่วไป",
+            "why": "อลูมิเนียมออกไซด์ยังคงเป็นวัสดุหลักสำหรับงานขัดโลหะและยานยนต์ทั่วไป ซึ่งส่งผลโดยตรงต่อกลุ่มผลิตภัณฑ์หลักของเรา",
+            "action": "ติดตามเสถียรภาพของอุปทานและราคาวัตถุดิบอลูมิเนียมออกไซด์"
           }
         },
         {
           "id": "20261109-w3",
           "tag": "steel",
           "rating": "amber",
-          "source": "Clean Air Task Force",
-          "date": "2025-03-20",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTlNEUkdVZlZjVkpvaUlZU19vS3hERkE2TjlxMHlzMGR1eWZYVm43MmdWMEhYb2xpMm9GelJrZzVlMHEwWkpDaUFpS2Y3eTgydVA1QmlCNnk4WkNwMjJiaTVjVDVnOENvVHNwbmtNNXhibEFEM2VLNHJ0UXhDUkttb1lOemZYOXBHZ3NGWXBFd1ZWN3F3S25zWWo3WEdEZHB1VFV2M0JWYw?oc=5",
-          "title": "Decarbonization Pathways and Policy Recommendations for the United States Steel Sector",
-          "summary": "Reports outline strategic policy and technical pathways for reducing emissions in the US steel manufacturing industry.",
-          "why": "Green steel production methods and changing furnace technologies alter metal finishing requirements and surface scale properties.",
-          "action": "Keep an eye on green steel trends as they may introduce new metallurgical surface properties requiring specialized abrasives.",
+          "source": "S&P Global",
+          "date": "2026-01-12",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
+          "title": "Global steel industry battles surplus supply, protectionism",
+          "summary": "The global steel sector is currently facing headwinds from surplus supply capacities and rising international trade protectionism.",
+          "why": "Fluctuations in steel production directly affect metal fabrication output and subsequent demand for grinding supplies.",
+          "action": "Keep an eye on local metal manufacturing activity as regional steel supply dynamics shift.",
           "th": {
-            "title": "แนวทางการลดคาร์บอนและข้อเสนอแนะเชิงนโยบายสำหรับภาคอุตสาหกรรมเหล็กของสหรัฐฯ",
-            "summary": "รายงานระบุถึงนโยบายและแนวทางทางเทคนิคในการลดการปล่อยมลพิษในอุตสาหกรรมการผลิตเหล็กของสหรัฐฯ",
-            "why": "วิธีการผลิตเหล็กสีเขียวและเทคโนโลยีเตาหลอมที่เปลี่ยนไป จะส่งผลต่อความต้องการในการตกแต่งผิวโลหะและคุณสมบัติของคราบออกไซด์บนผิวเหล็ก",
-            "action": "ติดตามแนวโน้มเหล็กสีเขียว เนื่องจากอาจสร้างคุณสมบัติพื้นผิวโลหะแบบใหม่ที่ต้องใช้กระดาษทรายหรือใบเจียรเฉพาะทาง"
+            "title": "อุตสาหกรรมเหล็กโลกต่อสู้กับภาวะอุปทานส่วนเกินและลัทธิกีดกันทางการค้า",
+            "summary": "ภาคอุตสาหกรรมเหล็กทั่วโลกกำลังเผชิญกับอุปสรรคจากกำลังการผลิตที่ล้นเกินและลัทธิกีดกันทางการค้าระหว่างประเทศที่เพิ่มขึ้น",
+            "why": "ความผันผวนของการผลิตเหล็กส่งผลโดยตรงต่อปริมาณการผลิตชิ้นงานโลหะและความต้องการใช้อุปกรณ์ขัด",
+            "action": "คอยสังเกตการณ์กิจกรรมการผลิตโลหะในท้องถิ่นท่ามกลางความเปลี่ยนแปลงของอุปทานเหล็กในภูมิภาค"
           }
         }
       ]
