@@ -3,64 +3,64 @@ window.NEWS_ARCHIVE = {
   "days": [
     {
       "date": "2026-11-09",
-      "summary": "Today has limited new headlines; discussions center on EVAT pushing for 8 additional measures following the 35% EV import tariff and steel associations urging the shutdown of substandard induction furnace mills. These developments reinforce local manufacturing localization and favor compliant, quality-focused metal producers.",
-      "directCount": 0,
+      "summary": "Today has limited new developments as major EV and steel headlines were covered over previous days; the standout highlight is the BOI preparing negotiations with six major Japanese automakers to anchor 40 billion baht in local production, securing future abrasives demand.",
+      "directCount": 1,
       "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มาก ประเด็นสำคัญอยู่ที่สมาคมยานยนต์ไฟฟ้าผลักดัน 8 มาตรการเสริมหลังขึ้นภาษี EV 35% และกลุ่มสมาคมเหล็กจี้รัฐสั่งปิดเตาหลอม IF ไร้มาตรฐาน ซึ่งล้วนช่วยเร่งให้เกิดการผลิตชิ้นส่วนในประเทศและส่งผลดีต่อโรงงานโลหะมาตรฐานที่เป็นลูกค้าหลักของเรา"
+        "summary": "วันนี้มีข่าวใหม่ไม่มากเนื่องจากประเด็นหลักเรื่องภาษี EV และอุตสาหกรรมเหล็กได้รับการรายงานไปแล้วในช่วงก่อนหน้า โดยไฮไลต์สำคัญวันนี้คือบีโอไอเตรียมเปิดโต๊ะเจรจากับ 6 บิ๊กค่ายรถยนต์ญี่ปุ่นเพื่อดึงเม็ดเงินลงทุนในประเทศกว่า 4 หมื่นล้านบาท ซึ่งจะช่วยรักษาและหนุนอุปสงค์วัสดุขัดเตรียมผิวโลหะ"
       },
       "items": [
         {
           "id": "20261109-1",
           "tag": "auto",
-          "rating": "amber",
-          "source": "Facebook",
-          "date": "2026-11-04",
-          "url": "https://news.google.com/rss/articles/CBMiywZBVV95cUxPZ19GYzFPN3BYQ25DVzdyV0hCUll5TW91dktCX2U4b1QzaFJaMHAtOVNOYm1KZmhGaDJlNFJMOXNIWnB0bmU0YlpTQXVBNGZCaURIMENHYU4tWHNyeFdLTTZHNmM0VnN5Z0pES1NuaWh2M0JSZEdmc05JcnBzS193TGZMLWlNZUZuLVdpVnlFOURTeldTSUhyWlItcE9rUlUxZzhKaDV6aEtFV1RYdlhPblU4Um5wTVB0QmZDRFNvanc2SHhSejZlbWVxQkVESGIwQ2c0REVWNHdqQjN6TGs3eFJKazY2aS1UWlhMT3RUY0NIYWVFWlJ4MVdueV9hRFRicEJnY0xrdlpLbWt4Nl9HOGVJQmI5ZVJZRnBJUS10UjViZFBud2pBdTRrNVBmNjNaRzhMeWRYZDBjMW44T1B6WEkyTGZsOUxqa3l0cDZodFVpaHVSalFDLV9QOERXaFhtRktBZGJSV0hJLVpPS19kRTd3QlN6SjRUSjZJM21lZXJxSi1FZEsyaklmRHZRNHhONVVaOTl5OXI3TXhZNnVTekp3dk1Yelk4VmZFVVAyV0hGSVB6d29pLW1aVHcwdzlfS1ZiRDkyejVNVFl4NkVIbWZfRG9EVHVXbGdxSWZZQzVhT0ZVZEMtMnhUdzVmNFlkV0NsaXNVazhqSHNjNkZIalJqQ1hLeWdEVGJ5SmdhT0hlNnNoM1lvX1Vzb1FLa0dPcmxvbWZXUUVWTkVGRnRUWlZ4cHdBX2txZ3BpT29QNTFqVmFucEp6dTdmSHJpMzlSUEZJREYwaDFueURVUVZobGxyMWo4c3JvSGJfSjBPQXhPVFF5SFZEQlNyVXdzUEpnQWdWMlJiNTdPMWM3UFhqZ1ZndTZCcEpUQi1FdWxEUFE3dE0yN2kyYTdhWmZXMHNhVWZUMDNYUXZxZ195YTlsSXQ3TU1nejlhOE1ual8zRjRMQXNNdXBVM2otQVJnNGI3MFZHQnNwT1BpNlgwalFrM1B0MFpGOVRWeFVPUE55TWd4LTFNLXlBT01UVDFkSjFlcDZXOFZiZWthZ3ZMOE8wRFVPX3Mxb2l3ZUpwLXJ6UlNIWWhLZTAyV1A2Vnh5WWJUOU43NU9tZm5OSTg?oc=5",
-          "title": "EVAT Backs 35% Import Tariff on EVs and Demands 8 Further Tightening Measures",
-          "summary": "The Electric Vehicle Association of Thailand (EVAT) supported the 35% tariff on imported BEVs and REEVs, urging the Cabinet to enact 8 additional strict measures to protect domestic auto manufacturing. The association emphasized closing loopholes to stop cheap foreign dumping and stimulate local production.",
-          "why": "Tighter localization rules force automakers to assemble bodies and stamp parts locally in Thailand, expanding weld-seam grinding and surface prep operations.",
-          "action": "Target procurement teams at newly localized Chinese and Japanese hybrid/EV assembly plants to introduce MK robotic grinding and weld-prep solutions.",
+          "rating": "green",
+          "source": "www.thairath.co.th",
+          "date": "2026-11-09",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5kLUt1WlNrdmVmdHBSRHdrcl9ncFh4Z1JaT0VTQ28zR0V2TkxUa2stYjlPbEhkSUlCN1lvNzdkYlJJVFk0bnByNHFJTmt5djB6bmtfTTFJa3FKbWJ3dHdQN2w2WkIxQ3RIVWc0ODJ5NXNSRk0?oc=5",
+          "title": "BOI Backs 35% EV Import Tariff and Prepares Talks with 6 Major Japanese Automakers",
+          "summary": "The Board of Investment (BOI) supports raising import tariffs on EVs to 35% to push manufacturers to establish local assembly bases, targeting over 40 billion baht in investment and preparing direct talks with six Japanese automotive leaders.",
+          "why": "This directly protects our core target clients—Japanese automakers and Tier-1 parts suppliers—by ensuring their sheet metal stamping, body welding, and surface finishing lines remain active in Thailand.",
+          "action": "Schedule proactive technical visits to key Japanese automotive procurement teams to promote specialized abrasive belts and deburring discs tailored for high-volume automotive production.",
           "th": {
-            "title": "สมาคมยานยนต์ไฟฟ้าไทยหนุนขึ้นภาษี EV 35% จี้ ครม. ลุยต่อ 8 มาตรการคุมเข้ม",
-            "summary": "สมาคมยานยนต์ไฟฟ้าไทย (EVAT) ออกโรงหนุนมติ ครม. ขึ้นภาษี BEV/REEV นำเข้าเป็น 35% พร้อมชง 8 มาตรการเสริมเพื่อสกัดการทุ่มตลาด และเร่งบีบให้ค่ายรถต้องเข้ามาตั้งฐานการผลิตจริงในไทย",
-            "why": "หากมาตรการคุมเข้มมีผลบังคับใช้ โรงงานจะต้องขึ้นรูป ปั๊ม และเชื่อมประกอบโครงสร้างในประเทศมากขึ้น ทำให้งานเจียรรอยเชื่อมและเตรียมผิวโลหะขยายตัว",
-            "action": "เข้าพบฝ่ายจัดซื้อและวิศวกรของโรงงานผลิตรถยนต์ EV/Hybrid ที่เริ่มเดินไลน์ในไทย เพื่อนำเสนอจานขัดและสายพานขัดสำหรับงานเจียรแนวเชื่อม"
+            "title": "บีโอไอหนุนขึ้นภาษี EV นำเข้า 35% ดึงลงทุนทะลุ 4 หมื่นล้าน จ่อถก 6 ค่ายรถญี่ปุ่นรายใหญ่",
+            "summary": "บีโอไอสนับสนุนการปรับขึ้นภาษีนำเข้ารถยนต์ไฟฟ้าเป็น 35% เพื่อกดดันให้ค่ายรถตั้งฐานการผลิตในไทย คาดดึงเม็ดเงินลงทุนเกิน 4 หมื่นล้านบาท พร้อมเตรียมเจรจาตรงกับ 6 ผู้ผลิตยานยนต์รายใหญ่ของญี่ปุ่น",
+            "why": "ส่งผลดีต่อ MK โดยตรง เพราะช่วยรักษาฐานลูกค้าหลักอย่างโรงงานประกอบรถยนต์และผู้ผลิตชิ้นส่วนญี่ปุ่น ให้เดินหน้าสายการผลิตงานปั๊ม เชื่อมประกอบ และขัดเตรียมผิวโลหะในไทยต่อไป",
+            "action": "เร่งจัดทีมขายและช่างเทคนิคเข้าพบฝ่ายจัดซื้อของค่ายรถยนต์ญี่ปุ่นชั้นนำเพื่อนำเสนอสายพานขัดและจานขัดลบครีบสำหรับงานโลหะยานยนต์"
           }
         },
         {
           "id": "20261109-2",
-          "tag": "auto",
+          "tag": "aero",
           "rating": "amber",
-          "source": "www.thairath.co.th",
-          "date": "2026-11-08",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wY3UyQm9CSzVSZlZtd2tUaTZIajlPeG1aaHBmWF9oMl9RTGNuT3RYVzZKVDlTMWM5RDMtTGtSeXNPTllYUlhFdEJLOG5WNkxGekNyY05SQVNueTdjTk9HMUgxdUg4NE5RTkxTQkZ1d0VhMTQ?oc=5",
-          "title": "35% EV Tariff Reshapes Thai Auto Market in High-Stakes Gamble for Production Hub",
-          "summary": "The 35% import tariff on electric vehicles is transforming Thailand's automotive landscape, creating a critical tension between consumer car prices and defending the domestic production base. The policy compels global automakers to accelerate localized manufacturing investments rather than relying on fully imported units.",
-          "why": "Shifting from imported CBUs to domestic assembly directly preserves and expands metal stamping and body-in-white grinding demand across Thai Tier-1 and Tier-2 suppliers.",
-          "action": "Follow up with Japanese and joint-venture auto parts suppliers to audit their abrasive consumption as they tool up for localized EV/hybrid component lines.",
+          "source": "ผู้จัดการออนไลน์",
+          "date": "2026-10-06",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIazdnNjc2TVdpRWNOSTNQS2tlaWFWdl9KbE5OaEdlLWlZX0RaWERWWjhJV1l0MjdTejNaSHVhOEMwSThnWmtFaUJMWVAydHIxVkFKTktiQ0pXb09KVVRLWg?oc=5",
+          "title": "EEC and Thai Airways Ink 10-Billion-Baht U-Tapao Aviation MRO Hub Deal",
+          "summary": "The EEC and Thai Airways officially signed a 10-billion-baht contract to construct an aircraft MRO center at U-Tapao, with construction slated for 2027 and commercial opening expected in 2030.",
+          "why": "The signed contract confirms long-term expansion in domestic aerospace maintenance, which relies heavily on premium, certified abrasives for composite finishing and turbine blade conditioning.",
+          "action": "Begin auditing MK's high-grade abrasive products to align with aerospace safety certifications and prepare for upcoming vendor registrations.",
           "th": {
-            "title": "ภาษี EV 35% พลิกเกมรถยนต์ไทย เดิมพันใหญ่ระหว่างฐานผลิตกับกระเป๋าผู้บริโภค",
-            "summary": "การปรับขึ้นภาษีนำเข้า EV เป็น 35% กำลังเปลี่ยนทิศทางอุตสาหกรรมยานยนต์ไทยครั้งใหญ่ เป็นเดิมพันระหว่างราคารถของผู้บริโภคกับการปกป้องฐานการผลิต โดยบีบให้ค่ายรถต้องเร่งประกอบในประเทศแทนการนำเข้าสำเร็จรูป",
-            "why": "การเปลี่ยนจากการนำเข้าทั้งคันมาเป็นการผลิตในประเทศ จะช่วยรักษาและเพิ่มปริมาณงานปั๊มขึ้นรูป งานเชื่อม และงานขัดผิวชิ้นส่วนโลหะในซัพพลายเชนไทย",
-            "action": "ประสานงานกับโรงงานชิ้นส่วนยานยนต์ Tier-1 และ Tier-2 (โดยเฉพาะกลุ่มทุนญี่ปุ่น) เพื่อตรวจสอบความต้องการใช้วัสดุขัดในไลน์ผลิตชิ้นส่วนโครงสร้างรุ่นใหม่"
+            "title": "เซ็นสัญญาทางการ! EEC ผนึกการบินไทยทุ่มหมื่นล้านปั้นศูนย์ซ่อมบำรุงอากาศยานอู่ตะเภา",
+            "summary": "อีอีซีและการบินไทยลงนามสัญญาอย่างเป็นทางการในโครงการศูนย์ซ่อมอากาศยาน (MRO) อู่ตะเภา มูลค่า 1 หมื่นล้านบาท วางแผนเริ่มก่อสร้างปี 2570 และเปิดบริการปี 2573",
+            "why": "การลงนามอย่างเป็นทางการยืนยันการเติบโตระยะยาวของงานซ่อมบำรุงเครื่องบินในประเทศ ซึ่งจำเป็นต้องใช้วัสดุขัดเกรดพิเศษความแม่นยำสูงในงานลอกสี ลบคมใบพัด และเตรียมผิวชิ้นส่วน",
+            "action": "ตรวจสอบมาตรฐานผลิตภัณฑ์และใบรับรองของวัสดุขัดเกรดการบิน เพื่อเตรียมขึ้นทะเบียนเป็นคู่ค้าก่อนที่ศูนย์ซ่อมจะเริ่มดำเนินการ"
           }
         },
         {
           "id": "20261109-3",
           "tag": "steel",
           "rating": "amber",
-          "source": "thansettakij",
-          "date": "2026-05-20",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYUkQ1OTVxM3QtdnAtcUlCc1JQelZVNU53OUNENkd5QnBfeVUtN29mVlZ6Y251UzBWVW9OQ3VKQVQ4cmkyT2lpc0NuemY3THhrOHlhNG53UHM4bnZSaVBUYnVScjZUTmNlU1VhY3B3?oc=5",
-          "title": "10 Steel Associations Urge Government to Ban Induction Furnace Mills and Purge Substandard Operators",
-          "summary": "Ten Thai steel associations demanded that the government ban Induction Furnace (IF) steel facilities and shut down substandard foreign-backed mills distorting the domestic market. Industry leaders highlighted that illegal operations damage consumer safety and threaten legitimate local manufacturing.",
-          "why": "Eliminating substandard induction furnace mills protects compliant domestic steelmakers and metal fabricators, stabilizing MK's customer base of certified industrial plants.",
-          "action": "Focus direct sales of heavy-duty cutting and grinding wheels on certified EAF steel plants and structural metal fabricators that prioritize certified quality.",
+          "source": "กรมส่งเสริมการค้าระหว่างประเทศ (DITP)",
+          "date": "2025-06-06",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE90ZHE5Qk8yNVFBYnRlQmR6emM0aVdZZ3VLY1N0YmFLdGk5VjFiczVRNGh4dlppaDBrZzM1ZnkwZW8tb0NtMVFwSUl4MjJMemdSd0tOVmhWSThzV1pUUVJXYlh3?oc=5",
+          "title": "US Increases Import Tariffs on Steel and Aluminum to 50%",
+          "summary": "The United States announced a steep increase in import tariffs on foreign steel and aluminum products to 50%, posing trade challenges for metal product exporters worldwide.",
+          "why": "High tariffs may prompt export-focused metal fabricators to reduce operating costs or pivot toward domestic manufacturing, directly influencing abrasive tool consumption cycles.",
+          "action": "Analyze client exposure to US exports and pitch cost-effective, long-lasting flap discs and grinding stones to help fabricators reduce consumable expenditure.",
           "th": {
-            "title": "10 สมาคมเหล็กจี้รัฐเร่งยกเลิกโรงงาน IF ขจัดทุนเทา ปกป้องอุตสาหกรรมเหล็กไทย",
-            "summary": "สมาคมเหล็ก 10 แห่งรวมตัวเรียกร้องให้ภาครัฐสั่งยกเลิกและปิดโรงงานผลิตเหล็กด้วยเตาหลอมแบบ IF (Induction Furnace) ที่ไม่ได้มาตรฐานและใช้ทุนสีเทา เพื่อป้องกันความเสียหายต่อเศรษฐกิจและผู้ผลิตเหล็กที่ได้มาตรฐานในประเทศ",
-            "why": "การปราบปรามโรงงานเหล็กไร้มาตรฐานช่วยปกป้องโรงงานผลิตเหล็กและโครงสร้างโลหะมาตรฐานสูง ซึ่งเป็นกลุ่มลูกค้าโรงงานอุตสาหกรรมที่ใช้วัสดุขัดและใบเจียรของ MK อย่างต่อเนื่อง",
-            "action": "มุ่งเน้นการขยายฐานลูกค้าในกลุ่มโรงหลอมเตา EAF และโรงงานแปรรูปโครงสร้างเหล็กที่ได้มาตรฐาน มอก. ซึ่งต้องการหินเจียรและใบตัดคุณภาพสูงเพื่อความปลอดภัย"
+            "title": "สหรัฐฯ ประกาศขึ้นภาษีนำเข้าเหล็กและอะลูมิเนียมเป็น 50% กระทบห่วงโซ่ผู้ส่งออกโลหะ",
+            "summary": "สหรัฐฯ ประกาศปรับขึ้นภาษีนำเข้าสินค้าเหล็กและอะลูมิเนียมเป็น 50% ส่งผลให้ผู้ผลิตและแปรรูปผลิตภัณฑ์โลหะเพื่อการส่งออกต้องเผชิญแรงกดดันด้านต้นทุนและกีดกันทางการค้า",
+            "why": "กำแพงภาษีที่สูงขึ้นอาจกดดันให้โรงงานแปรรูปโลหะส่งออกต้องรัดเข็มขัดหรือปรับสายการผลิต ซึ่งส่งผลต่อรอบการสั่งซื้อและปริมาณการใช้วัสดุขัดเจียร",
+            "action": "สำรวจฐานลูกค้ารับจ้างผลิตโลหะที่ส่งออกไปสหรัฐฯ พร้อมนำเสนอจานทรายและใบเจียรรุ่นประหยัดต้นทุนที่ใช้งานได้ยาวนานกว่าเพื่อช่วยลูกค้าคุมค่าใช้จ่าย"
           }
         }
       ],
@@ -844,107 +844,6 @@ window.NEWS_ARCHIVE = {
             "summary": "งาน TIWF 2026 เตรียมจัดแสดงเทคโนโลยีเครื่องจักรงานไม้และโซลูชันการผลิต เพื่อยกระดับมาตรฐานอุตสาหกรรมเฟอร์นิเจอร์ไทยและอาเซียนสู่ความยั่งยืน",
             "why": "การปรับปรุงสายการผลิตงานไม้ให้ทันสมัยช่วยผลักดันการใช้สายพานขัดผืนผ้าขนาดใหญ่ (Wide Belt) และจานขัดกระดาษทรายคุณภาพสูง",
             "action": "วางแผนเข้าร่วมเจรจาธุรกิจในงาน TIWF เพื่อนำเสนอสายพานขัดสำหรับเครื่องขัดอัตโนมัติแก่โรงงานผลิตเฟอร์นิเจอร์ไม้ส่งออก"
-          }
-        }
-      ],
-      "terms": {}
-    },
-    {
-      "date": "2026-10-26",
-      "summary": "Today features limited fresh headlines; key focus remains on regional automotive competition from Vietnam and Indonesia, while Thailand's proposed 3-tier EV tax structure pushes for local parts fabrication. Meanwhile, furniture export demand faces a projected slowdown, and steel regulators crack down on substandard mills.",
-      "directCount": 1,
-      "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มากนัก ประเด็นสำคัญยังอยู่ที่การแข่งขันด้านยานยนต์ในอาเซียนจากเวียดนามและอินโดนีเซีย ขณะที่โครงสร้างภาษี EV แบบ 3 Tier ของไทยเตรียมบีบให้เกิดการผลิตชิ้นส่วนในประเทศ ด้านโรงงานเฟอร์นิเจอร์ส่งออกเผชิญแนวโน้มชะลอตัว และภาครัฐเดินหน้ากวาดล้างโรงงานเหล็กไม่ได้มาตรฐาน"
-      },
-      "items": [
-        {
-          "id": "20261026-1",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "TrueID",
-          "date": "2026-10-25",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aXzlOajNLRjFMdWlUTTh6MndpaGtzdXV3b293ODc5UHh1Y3BpcG5qMHl0RGJEQVdfbmxXa05NTlJLWDI4SDl6dENmcnpidUFLaGZhQ3V3?oc=5",
-          "title": "Vietnam Extends 0% Auto Tariff Incentive for 5 Years to Lure Global Assembly Plants",
-          "summary": "Vietnam has renewed its 0% import duty on auto parts for five years to aggressively attract international carmakers and challenge Thailand's manufacturing leadership.",
-          "why": "Heightened competition from Vietnam could divert foreign direct investment away from Thailand, potentially slowing the expansion of our automotive abrasive customer base.",
-          "action": "Monitor Japanese tier-1 suppliers in Thailand to secure long-term consumable contracts before production volumes shift abroad.",
-          "th": {
-            "title": "เวียดนามต่ออายุภาษีชิ้นส่วนรถยนต์ 0% อีก 5 ปี เร่งดึงโรงงานประกอบระดับโลก",
-            "summary": "เวียดนามขยายเวลามาตรการลดภาษีนำเข้าชิ้นส่วนรถยนต์เหลือ 0% ต่อไปอีก 5 ปี เพื่อดึงดูดค่ายรถยนต์ระดับโลกและท้าชิงฐานการผลิตกับไทย",
-            "why": "การแข่งขันที่รุนแรงขึ้นจากเวียดนามอาจแย่งเม็ดเงินลงทุนใหม่ ทำให้การขยายตัวของโรงงานยานยนต์ที่เป็นลูกค้าหลักของวัสดุขัดในไทยชะลอลง",
-            "action": "ติดตามกลุ่มซัพพลายเออร์ชิ้นส่วนญี่ปุ่นในไทยเพื่อเร่งผูกสัญญาระยะยาว ก่อนคำสั่งซื้อจะกระจายไปยังฐานผลิตต่างประเทศ"
-          }
-        },
-        {
-          "id": "20261026-2",
-          "tag": "auto",
-          "rating": "green",
-          "source": "efinanceThai",
-          "date": "2026-09-17",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY2JwVFpXeENxSjJqR0NxN1FNcjRXNG5mZlYzS0t0STRnNHlHSm5YMWFOWDRQMEhjOFo1aFdSV2pscGpCWE1TZ2YtSlpSMDdFYV9VMkdlZ0czVTN5dFlyU3ZxVFVSQU9HWnk3QkxVdk84SnUwZ0hyQmxHbXMyVGxRZnZESVI?oc=5",
-          "title": "Analysis of 3-Tier EV Tax Structure: Pushing Local Stamping and Machining",
-          "summary": "Thailand's planned 3-tier EV excise tax system links tax incentives directly to domestic value addition and local component procurement.",
-          "why": "Forcing automakers to stamp, machine, and assemble components locally directly increases factory demand for metal grinding, deburring, and surface prep abrasives.",
-          "action": "Target EV chassis and battery casing fabricators with automated robotic grinding discs and specialized sanding belts.",
-          "th": {
-            "title": "เจาะลึกภาษี EV 3 Tier บีบค่ายรถเร่งปั๊มชิ้นส่วนและขึ้นรูปโลหะในประเทศ",
-            "summary": "โครงสร้างภาษีสรรพสามิต EV ใหม่แบบ 3 Tier ผูกสิทธิประโยชน์ทางภาษีเข้ากับการใช้ชิ้นส่วนและสัดส่วนการผลิตจริงในประเทศ",
-            "why": "การบังคับให้ปั๊มขึ้นรูปและกลึงโลหะในประเทศสร้างความต้องการใช้วัสดุขัด ลบครีบ และขัดเตรียมผิวชิ้นส่วนยานยนต์โดยตรง",
-            "action": "นำเสนอจานขัดหุ่นยนต์และสายพานขัดโลหะเกรดอุตสาหกรรมแก่โรงงานขึ้นรูปโครงแชสซีส์และกล่องแบตเตอรี่ EV"
-          }
-        },
-        {
-          "id": "20261026-3",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Brand Inside",
-          "date": "2026-08-14",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNnp5aUZLY2RzNjVBTHl1dVozcFVRLS1hZUtiY1lBOFlOZXJFX3RoMU11dm9ISDBVMG40Y09JOUJ2QmVGV3hHWjNPdFRySDVRYmZWLXd0UjJlUGh1Z0gzaUFPcUpXT0Z1Y0h0TkN3S19wYVp0QVhVdnlrd0NUbjZSUm9qRQ?oc=5",
-          "title": "Indonesia Woos Toyota to Relocate Production with Unprecedented Incentives",
-          "summary": "Indonesia is aggressively offering policy perks to convince Toyota to shift core manufacturing lines from Thailand, leveraging its nickel supply and domestic market size.",
-          "why": "Japanese OEMs like Toyota form the core foundation of our high-volume abrasive consumable consumption in Eastern Seaboard plants.",
-          "action": "Strengthen technical support and vendor relationships with Toyota's Tier-1 and Tier-2 Japanese stamping and casting partners in Rayong and Chonburi.",
-          "th": {
-            "title": "อินโดนีเซียรุกหนักจีบ Toyota ย้ายฐานการผลิต ประเคนสิทธิประโยชน์เต็มสูบ",
-            "summary": "อินโดนีเซียใช้จุดเด่นด้านทรัพยากรนิกเกิลและตลาดขนาดใหญ่ ยื่นข้อเสนอพิเศษจูงใจให้โตโยต้าย้ายสายการผลิตหลักออกจากไทย",
-            "why": "ค่ายรถญี่ปุ่นอย่างโตโยต้าและซัพพลายเออร์คือผู้ใช้วัสดุขัดและกระดาษทรายรายใหญ่ที่สุดในนิคมอุตสาหกรรมภาคตะวันออก",
-            "action": "เพิ่มบริการทดสอบและเข้าพบโรงงาน Tier-1 และ Tier-2 ของโตโยต้าในชลบุรีและระยองเพื่อรักษาฐานลูกค้าไม่ให้หลุดมือ"
-          }
-        },
-        {
-          "id": "20261026-4",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "Thairath.co.th",
-          "date": "2026-05-22",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5yOEdKVkRNRnBpc1dWRGRuNzNtN1NHR09mSlc3eHpQem1iLUg4TVY0bkN2eDF4bWhhZ3JfTU5idGxKN2trZUJfS1hRMlkxZHQ5T29sTVBMdU5fTHR0V09GQ2h0c19ZSGRrVU9oaTI3eVQydWc?oc=5",
-          "title": "Ministry of Industry Cracks Down on Substandard Induction Furnace Steel Plants",
-          "summary": "Steel industry groups welcomed the Ministry of Industry's decisive enforcement actions against non-compliant induction furnace mills producing substandard steel.",
-          "why": "Weeding out illicit low-grade mills helps protect certified domestic fabricators who invest in quality abrasive cutting and grinding tools.",
-          "action": "Pitch premium abrasive wheels and heavy-duty grinding discs directly to standardized structural steel and pipe manufacturers.",
-          "th": {
-            "title": "กระทรวงอุตสาหกรรมเดินหน้าเชือดโรงงานเหล็กเตา IF เถื่อน ไม่ได้มาตรฐาน",
-            "summary": "กลุ่มอุตสาหกรรมเหล็กขานรับมาตรการตรวจสอบและสั่งปิดโรงงานเหล็กเตา IF นอกระบบที่ไม่ผ่านมาตรฐาน มอก.",
-            "why": "การกำจัดโรงงานด้อยมาตรฐานช่วยให้โรงงานผลิตและแปรรูปเหล็กมาตรฐานในไทยฟื้นตัว ซึ่งกลุ่มนี้เป็นผู้ซื้อใบตัดและหินเจียรคุณภาพสูง",
-            "action": "นำเสนอใบตัดไฟเบอร์และหินเจียรทนทานสูงแก่โรงงานแปรรูปโครงสร้างเหล็กและผู้ผลิตท่อเหล็กที่ได้มาตรฐาน มอก."
-          }
-        },
-        {
-          "id": "20261026-5",
-          "tag": "furniture",
-          "rating": "amber",
-          "source": "kasikornbank.com",
-          "date": "2025-10-09",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR0I3LUFaeENxbzdDQVF4UDdVMFlmRWp4Y3BBdFZ6OGFQeUdZZ3Y5dHA5Q2ZxRXJIaTUtLVNVY29QM3RuSk1RMmpaeXhucHEwLWRiMFlsbkJRNEtYY3RWSDZNNXRBUXdfb0hDV0IzR1pkRW5ERC1xSkQtN21WZTVveUNtdURRYmN3QjQxUDRHS2g1dDNkSGdRVVJGU2tBNGJ3WDREcGh1N2VrdnN6MExB?oc=5",
-          "title": "Kasikorn Research Projects Thai Furniture Exports to Shrink 4.5% in 2026",
-          "summary": "Following an early-shipping surge in 2025, Thai furniture exports to the US face a 4.5% contraction in 2026 amid tighter import tariffs and high inventory levels.",
-          "why": "Contraction in wooden furniture exports directly curtails factory-level consumption of wide sanding belts and abrasive rolls.",
-          "action": "Diversify sales by targeting local commercial interior millwork and push DIY woodfinishing sandpaper via Shopee and TikTok.",
-          "th": {
-            "title": "ศูนย์วิจัยกสิกรฯ คาดส่งออกเฟอร์นิเจอร์ปี 2569 พลิกหดตัว 4.5% หลังเร่งนำเข้าสิ้นสุด",
-            "summary": "การส่งออกเฟอร์นิเจอร์ไทยไปสหรัฐฯ มีแนวโน้มหดตัว 4.5% ในปี 2569 เนื่องจากผลกระทบของกำแพงภาษีและสต็อกสินค้าในสหรัฐฯ ที่ยังอยู่ในระดับสูง",
-            "why": "การชะลอตัวของโรงงานเฟอร์นิเจอร์ไม้ส่งออกจะกระทบต่อยอดสั่งซื้อสายพานขัดหน้ากว้างและม้วนกระดาษทรายของโรงงานโดยตรง",
-            "action": "กระจายความเสี่ยงโดยเจาะกลุ่มผู้ผลิตงานไม้บิลต์อินภายในประเทศ พร้อมผลักดันกระดาษทรายงานไม้สำหรับสายช่าง DIY ผ่าน Shopee และ TikTok"
           }
         }
       ],
