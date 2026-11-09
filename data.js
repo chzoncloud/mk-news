@@ -3,64 +3,64 @@ window.NEWS_ARCHIVE = {
   "days": [
     {
       "date": "2026-11-09",
-      "summary": "Today has limited new developments as major EV and steel headlines were covered over previous days; the standout highlight is the BOI preparing negotiations with six major Japanese automakers to anchor 40 billion baht in local production, securing future abrasives demand.",
+      "summary": "Today features limited new developments as most reports reiterate the 35% EV tariff and U-Tapao MRO initiatives. The key update is the confirmed 2027 enforcement timeline, giving automakers a clear deadline to expand domestic metal fabrication and surface finishing lines.",
       "directCount": 1,
       "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มากเนื่องจากประเด็นหลักเรื่องภาษี EV และอุตสาหกรรมเหล็กได้รับการรายงานไปแล้วในช่วงก่อนหน้า โดยไฮไลต์สำคัญวันนี้คือบีโอไอเตรียมเปิดโต๊ะเจรจากับ 6 บิ๊กค่ายรถยนต์ญี่ปุ่นเพื่อดึงเม็ดเงินลงทุนในประเทศกว่า 4 หมื่นล้านบาท ซึ่งจะช่วยรักษาและหนุนอุปสงค์วัสดุขัดเตรียมผิวโลหะ"
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยประเด็นส่วนใหญ่ยังคงเป็นเรื่องต่อเนื่องของภาษี EV 35% และโครงการ MRO อู่ตะเภา ประเด็นสำคัญคือความชัดเจนของกำหนดการบังคับใช้ภาษีในปี 2570 ซึ่งบีบให้ค่ายรถต้องเร่งขยายไลน์ผลิตและขัดแต่งผิวโลหะในประเทศ"
       },
       "items": [
         {
           "id": "20261109-1",
           "tag": "auto",
           "rating": "green",
-          "source": "www.thairath.co.th",
-          "date": "2026-11-09",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5kLUt1WlNrdmVmdHBSRHdrcl9ncFh4Z1JaT0VTQ28zR0V2TkxUa2stYjlPbEhkSUlCN1lvNzdkYlJJVFk0bnByNHFJTmt5djB6bmtfTTFJa3FKbWJ3dHdQN2w2WkIxQ3RIVWc0ODJ5NXNSRk0?oc=5",
-          "title": "BOI Backs 35% EV Import Tariff and Prepares Talks with 6 Major Japanese Automakers",
-          "summary": "The Board of Investment (BOI) supports raising import tariffs on EVs to 35% to push manufacturers to establish local assembly bases, targeting over 40 billion baht in investment and preparing direct talks with six Japanese automotive leaders.",
-          "why": "This directly protects our core target clients—Japanese automakers and Tier-1 parts suppliers—by ensuring their sheet metal stamping, body welding, and surface finishing lines remain active in Thailand.",
-          "action": "Schedule proactive technical visits to key Japanese automotive procurement teams to promote specialized abrasive belts and deburring discs tailored for high-volume automotive production.",
+          "source": "springnews",
+          "date": "2026-11-03",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fX0tUc1drSU9KN1htYm1vc05uZ3ZkU2dSUlIwYXlpYjY0Q3dMX283c2NlOEMxRVNBc1Z4NlZVaThpZGVNcE5yVDN3VkFJZFo4UDRRajRIZm8wLW1pN0x0eFhENmVlNjJr?oc=5",
+          "title": "Cabinet Fixes Jan 1, 2027 Start Date for 35% EV Excise Tax Hike",
+          "summary": "The Thai Cabinet has officially set January 1, 2027, as the enforcement date for the 35% excise tax on imported BEVs. The deadline is designed to compel foreign automakers to build operational assembly and stamping lines locally.",
+          "why": "A locked-in 2027 timeline forces automakers to install tooling and body welding lines in 2026, driving direct demand for our weld blending discs and grinding abrasives.",
+          "action": "Target Tier-1 automotive suppliers setting up new EV chassis and body lines with our automated weld-seam grinding packages.",
           "th": {
-            "title": "บีโอไอหนุนขึ้นภาษี EV นำเข้า 35% ดึงลงทุนทะลุ 4 หมื่นล้าน จ่อถก 6 ค่ายรถญี่ปุ่นรายใหญ่",
-            "summary": "บีโอไอสนับสนุนการปรับขึ้นภาษีนำเข้ารถยนต์ไฟฟ้าเป็น 35% เพื่อกดดันให้ค่ายรถตั้งฐานการผลิตในไทย คาดดึงเม็ดเงินลงทุนเกิน 4 หมื่นล้านบาท พร้อมเตรียมเจรจาตรงกับ 6 ผู้ผลิตยานยนต์รายใหญ่ของญี่ปุ่น",
-            "why": "ส่งผลดีต่อ MK โดยตรง เพราะช่วยรักษาฐานลูกค้าหลักอย่างโรงงานประกอบรถยนต์และผู้ผลิตชิ้นส่วนญี่ปุ่น ให้เดินหน้าสายการผลิตงานปั๊ม เชื่อมประกอบ และขัดเตรียมผิวโลหะในไทยต่อไป",
-            "action": "เร่งจัดทีมขายและช่างเทคนิคเข้าพบฝ่ายจัดซื้อของค่ายรถยนต์ญี่ปุ่นชั้นนำเพื่อนำเสนอสายพานขัดและจานขัดลบครีบสำหรับงานโลหะยานยนต์"
+            "title": "ครม. เคาะเริ่ม 1 ม.ค. 70 ขึ้นภาษีสรรพสามิต EV นำเข้า 35% เร่งตั้งฐานผลิตในไทย",
+            "summary": "คณะรัฐมนตรีเคาะวันเริ่มปรับขึ้นภาษีสรรพสามิตรถยนต์ไฟฟ้า BEV นำเข้าเป็น 35% อย่างเป็นทางการในวันที่ 1 มกราคม 2570 เพื่อกดดันให้ค่ายรถต่างชาติต้องเร่งสร้างไลน์ประกอบและปั๊มชิ้นส่วนในไทย",
+            "why": "กำหนดเวลาที่แน่นอนบีบให้โรงงานต้องเร่งขึ้นไลน์ประกอบและเชื่อมตัวถังภายในปี 2569 ซึ่งกระตุ้นยอดสั่งซื้อจานขัดและหินเจียรลบรอยเชื่อมของ MK โดยตรง",
+            "action": "เข้าพบซัพพลายเออร์ชิ้นส่วนยานยนต์ Tier-1 ที่กำลังติดตั้งไลน์ผลิตตัวถัง EV เพื่อเสนอแพ็กเกจวัสดุขัดแต่งรอยเชื่อมโลหะ"
           }
         },
         {
           "id": "20261109-2",
-          "tag": "aero",
+          "tag": "auto",
           "rating": "amber",
-          "source": "ผู้จัดการออนไลน์",
-          "date": "2026-10-06",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIazdnNjc2TVdpRWNOSTNQS2tlaWFWdl9KbE5OaEdlLWlZX0RaWERWWjhJV1l0MjdTejNaSHVhOEMwSThnWmtFaUJMWVAydHIxVkFKTktiQ0pXb09KVVRLWg?oc=5",
-          "title": "EEC and Thai Airways Ink 10-Billion-Baht U-Tapao Aviation MRO Hub Deal",
-          "summary": "The EEC and Thai Airways officially signed a 10-billion-baht contract to construct an aircraft MRO center at U-Tapao, with construction slated for 2027 and commercial opening expected in 2030.",
-          "why": "The signed contract confirms long-term expansion in domestic aerospace maintenance, which relies heavily on premium, certified abrasives for composite finishing and turbine blade conditioning.",
-          "action": "Begin auditing MK's high-grade abrasive products to align with aerospace safety certifications and prepare for upcoming vendor registrations.",
+          "source": "Facebook",
+          "date": "2026-11-04",
+          "url": "https://news.google.com/rss/articles/CBMiywZBVV95cUxPZ19GYzFPN3BYQ25DVzdyV0hCUll5TW91dktCX2U4b1QzaFJaMHAtOVNOYm1KZmhGaDJlNFJMOXNIWnB0bmU0YlpTQXVBNGZCaURIMENHYU4tWHNyeFdLTTZHNmM0VnN5Z0pES1NuaWh2M0JSZEdmc05JcnBzS193TGZMLWlNZUZuLVdpVnlFOURTeldTSUhyWlItcE9rUlUxZzhKaDV6aEtFV1RYdlhPblU4Um5wTVB0QmZDRFNvanc2SHhSejZlbWVxQkVESGIwQ2c0REVWNHdqQjN6TGs3eFJKazY2aS1UWlhMT3RUY0NIYWVFWlJ4MVdueV9hRFRicEJnY0xrdlpLbWt4Nl9HOGVJQmI5ZVJZRnBJUS10UjViZFBud2pBdTRrNVBmNjNaRzhMeWRYZDBjMW44T1B6WEkyTGZsOUxqa3l0cDZodFVpaHVSalFDLV9QOERXaFhtRktBZGJSV0hJLVpPS19kRTd3QlN6SjRUSjZJM21lZXJxSi1FZEsyaklmRHZRNHhONVVaOTl5OXI3TXhZNnVTekp3dk1Yelk4VmZFVVAyV0hGSVB6d29pLW1aVHcwdzlfS1ZiRDkyejVNVFl4NkVIbWZfRG9EVHVXbGdxSWZZQzVhT0ZVZEMtMnhUdzVmNFlkV0NsaXNVazhqSHNjNkZIalJqQ1hLeWdEVGJ5SmdhT0hlNnNoM1lvX1Vzb1FLa0dPcmxvbWZXUUVWTkVGRnRUWlZ4cHdBX2txZ3BpT29QNTFqVmFucEp6dTdmSHJpMzlSUEZJREYwaDFueURVUVZobGxyMWo4c3JvSGJfSjBPQXhPVFF5SFZEQlNyVXdzUEpnQWdWMlJiNTdPMWM3UFhqZ1ZndTZCcEpUQi1FdWxEUFE3dE0yN2kyYTdhWmZXMHNhVWZUMDNYUXZxZ195YTlsSXQ3TU1nejlhOE1ual8zRjRMQXNNdXBVM2otQVJnNGI3MFZHQnNwT1BpNlgwalFrM1B0MFpGOVRWeFVPUE55TWd4LTFNLXlBT01UVDFkSjFlcDZXOFZiZWthZ3ZMOE8wRFVPX3Mxb2l3ZUpwLXJ6UlNIWWhLZTAyV1A2Vnh5WWJUOU43NU9tZm5OSTg?oc=5",
+          "title": "EVAT Backs 35% Import Tariff and Proposes 8 Measures to Protect Thai Supply Chains",
+          "summary": "The Electric Vehicle Association of Thailand endorsed the 35% tariff on imported BEVs and REEVs, urging eight supplementary measures to prevent domestic part supplier closures.",
+          "why": "Stricter local content rules will preserve orders for Japanese and Thai tier-1 and tier-2 metal stampers, safeguarding our core abrasive customer base.",
+          "action": "Strengthen outreach to Japanese tier-1 and tier-2 precision metal stampers preparing to absorb localized EV components.",
           "th": {
-            "title": "เซ็นสัญญาทางการ! EEC ผนึกการบินไทยทุ่มหมื่นล้านปั้นศูนย์ซ่อมบำรุงอากาศยานอู่ตะเภา",
-            "summary": "อีอีซีและการบินไทยลงนามสัญญาอย่างเป็นทางการในโครงการศูนย์ซ่อมอากาศยาน (MRO) อู่ตะเภา มูลค่า 1 หมื่นล้านบาท วางแผนเริ่มก่อสร้างปี 2570 และเปิดบริการปี 2573",
-            "why": "การลงนามอย่างเป็นทางการยืนยันการเติบโตระยะยาวของงานซ่อมบำรุงเครื่องบินในประเทศ ซึ่งจำเป็นต้องใช้วัสดุขัดเกรดพิเศษความแม่นยำสูงในงานลอกสี ลบคมใบพัด และเตรียมผิวชิ้นส่วน",
-            "action": "ตรวจสอบมาตรฐานผลิตภัณฑ์และใบรับรองของวัสดุขัดเกรดการบิน เพื่อเตรียมขึ้นทะเบียนเป็นคู่ค้าก่อนที่ศูนย์ซ่อมจะเริ่มดำเนินการ"
+            "title": "สมาคมยานยนต์ไฟฟ้าไทยหนุนภาษีนำเข้า 35% พร้อมเสนอ 8 มาตรการคุมเข้มปกป้องซัพพลายเชนไทย",
+            "summary": "สมาคมยานยนต์ไฟฟ้าไทย (EVAT) ประกาศหนุนภาษีนำเข้า BEV/REEV 35% พร้อมชง 8 มาตรการเสริมเพื่อช่วยโรงงานชิ้นส่วนยานยนต์ในประเทศไม่ให้ปิดตัว",
+            "why": "ข้อกำหนดการใช้ชิ้นส่วนในประเทศที่เข้มงวดขึ้นจะช่วยรักษาปริมาณงานขัดลบครีบของโรงปั๊มโลหะญี่ปุ่นในไทย ซึ่งเป็นกลุ่มลูกค้าหลักของ MK",
+            "action": "กระชับความสัมพันธ์กับกลุ่มผู้ผลิตชิ้นส่วนโลหะยานยนต์สัญชาติญี่ปุ่นเพื่อรองรับออเดอร์ชิ้นส่วน EV ที่ต้องผลิตในประเทศ"
           }
         },
         {
           "id": "20261109-3",
-          "tag": "steel",
+          "tag": "auto",
           "rating": "amber",
-          "source": "กรมส่งเสริมการค้าระหว่างประเทศ (DITP)",
-          "date": "2025-06-06",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE90ZHE5Qk8yNVFBYnRlQmR6emM0aVdZZ3VLY1N0YmFLdGk5VjFiczVRNGh4dlppaDBrZzM1ZnkwZW8tb0NtMVFwSUl4MjJMemdSd0tOVmhWSThzV1pUUVJXYlh3?oc=5",
-          "title": "US Increases Import Tariffs on Steel and Aluminum to 50%",
-          "summary": "The United States announced a steep increase in import tariffs on foreign steel and aluminum products to 50%, posing trade challenges for metal product exporters worldwide.",
-          "why": "High tariffs may prompt export-focused metal fabricators to reduce operating costs or pivot toward domestic manufacturing, directly influencing abrasive tool consumption cycles.",
-          "action": "Analyze client exposure to US exports and pitch cost-effective, long-lasting flap discs and grinding stones to help fabricators reduce consumable expenditure.",
+          "source": "www.thairath.co.th",
+          "date": "2026-11-08",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wY3UyQm9CSzVSZlZtd2tUaTZIajlPeG1aaHBmWF9oMl9RTGNuT3RYVzZKVDlTMWM5RDMtTGtSeXNPTllYUlhFdEJLOG5WNkxGekNyY05SQVNueTdjTk9HMUgxdUg4NE5RTkxTQkZ1d0VhMTQ?oc=5",
+          "title": "35% EV Tariff Poses Major Gamble Between Local Assembly Growth and Consumer Demand",
+          "summary": "Industry analysis evaluates the 35% EV import tariff as a balancing act between protecting domestic production bases and risking an automotive retail market slowdown.",
+          "why": "Even if total consumer sales pause temporarily, securing local assembly ensures sustained metal stamping and surface finishing demand in Thai factories rather than losing work to full imports.",
+          "action": "Track customer factory run-rates to adjust our inventory levels between automotive-specific sanding belts and general metal fabrication discs.",
           "th": {
-            "title": "สหรัฐฯ ประกาศขึ้นภาษีนำเข้าเหล็กและอะลูมิเนียมเป็น 50% กระทบห่วงโซ่ผู้ส่งออกโลหะ",
-            "summary": "สหรัฐฯ ประกาศปรับขึ้นภาษีนำเข้าสินค้าเหล็กและอะลูมิเนียมเป็น 50% ส่งผลให้ผู้ผลิตและแปรรูปผลิตภัณฑ์โลหะเพื่อการส่งออกต้องเผชิญแรงกดดันด้านต้นทุนและกีดกันทางการค้า",
-            "why": "กำแพงภาษีที่สูงขึ้นอาจกดดันให้โรงงานแปรรูปโลหะส่งออกต้องรัดเข็มขัดหรือปรับสายการผลิต ซึ่งส่งผลต่อรอบการสั่งซื้อและปริมาณการใช้วัสดุขัดเจียร",
-            "action": "สำรวจฐานลูกค้ารับจ้างผลิตโลหะที่ส่งออกไปสหรัฐฯ พร้อมนำเสนอจานทรายและใบเจียรรุ่นประหยัดต้นทุนที่ใช้งานได้ยาวนานกว่าเพื่อช่วยลูกค้าคุมค่าใช้จ่าย"
+            "title": "ภาษี EV 35% พลิกเกมรถยนต์ไทย เดิมพันใหญ่ระหว่างฐานผลิตกับกำลังซื้อผู้บริโภค",
+            "summary": "บทวิเคราะห์ชี้ภาษีนำเข้า EV 35% เป็นการเดิมพันระหว่างการปกป้องฐานการผลิตยานยนต์ในประเทศกับความเสี่ยงที่ตลาดรถยนต์ปลายน้ำอาจชะลอตัว",
+            "why": "แม้กำลังซื้ออาจชะลอตัวระยะสั้น แต่นโยบายนี้ทำให้งานปั๊มขึ้นรูปและขัดแต่งผิวโลหะยังคงเกิดขึ้นในโรงงานไทย ไม่ถูกกลืนด้วยการนำเข้ารถสำเร็จรูปทั้งคัน",
+            "action": "ติดตามอัตราการเดินเครื่องผลิตของโรงงานลูกค้าเพื่อปรับสต็อกสายพานขัดและจานขัดให้สมดุลกับความต้องการจริง"
           }
         }
       ],
