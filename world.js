@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-11-09",
+  "updated": "2026-11-10",
   "days": [
+    {
+      "date": "2026-11-10",
+      "summary": "Today's briefing focuses on global manufacturing shifts, including EV policy updates, rare earth production milestones, and long-term coatings market outlooks, highlighting key opportunities for high-precision surface preparation.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปประเด็นข่าววันนี้เน้นการเปลี่ยนแปลงของภาคการผลิตโลก ทั้งอัปเดตโยบาย EV, การผลิตแร่หายาก และแนวโน้มตลาดสารเคลือบระยะยาว ซึ่งช่วยชี้โอกาสสำคัญสำหรับธุรกิจขัดผิวชิ้นงานความแม่นยำสูง"
+      },
+      "items": [
+        {
+          "id": "20261110-w1",
+          "tag": "auto",
+          "rating": "green",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-11-09",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUEhWWFVvZ013aGRlbWZoTlRpblBlTFZRRC1yX1FzUDhCN2FSTGVuV1lYTS00XzViRGsxREtkb1hKYzN0T2NLd1BySWZzTzdKVG9XLXlhS1RZQXJ2dS1yOFJlWTVwaDFfV2otN29fR2ota1dzcm5aU1dHZTZJcGNYZ2dQQk90MGY1bVd0LWdodXNELUczNUFidXctNjNCUDZBa2c1WnZmZUR0YUVnVnphMnRaUG9JLWNpWXM4R3ZkbE1pNUs3?oc=5",
+          "title": "COP31 electrification shake-up: EV rules meet factory reality",
+          "summary": "Global automotive factories are adjusting to new EV regulations and production realities following recent climate summit policy shifts.",
+          "why": "EV manufacturing changes require new lightweight materials and specialized surface finishing processes, directly affecting abrasives demand.",
+          "action": "Monitor EV structural material trends to align our abrasive grain offerings with upcoming vehicle body designs.",
+          "th": {
+            "title": "การปรับเปลี่ยนครั้งใหญ่ของยานยนต์ไฟฟ้าหลังงาน COP31: กฎระเบียบ EV กับความจริงในโรงงาน",
+            "summary": "โรงงานยานยนต์ทั่วโลกกำลังปรับตัวรับกฎระเบียบ EV และความเป็นจริงในการผลิต ตามทิศทางนโยบายด้านภูมิอากาศล่าสุด",
+            "why": "การเปลี่ยนแปลงการผลิต EV ต้องใช้วัสดุน้ำหนักเบาและกระบวนการตกแต่งผิวที่จำเพาะ ซึ่งส่งผลโดยตรงต่อความต้องการวัสดุขัด",
+            "action": "ติดตามแนวโน้มวัสดุโครงสร้างรถยนต์ EV เพื่อเตรียมกลุ่มสินค้าวัสดุขัดให้สอดคล้องกับดีไซน์ตัวถังใหม่ๆ"
+          }
+        },
+        {
+          "id": "20261110-w2",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "Rare Earth Exchanges",
+          "date": "2026-11-09",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxcHNiVEdiMXl0bWZLQ3ZtbkkwX0ZLcG96UWs2NURzRzJOSGplQloxTEw1YVgyU2RDcmJXLXZXMU5TUGRDbjNXNnNqbVIwaWpPY1QxaVNyYmd4eVkwS1ZKazBFVVltd1ZQZ1RteHdCOUNtSmhFdG5fZ1pzc0pDcVk?oc=5",
+          "title": "CREIA Baotou Summit Rare Earth Metal Production 2026",
+          "summary": "The Baotou summit highlighted critical updates on rare earth metal production volumes and global industrial supply chains.",
+          "why": "Rare earth metals and specialty alloy production involve intensive grinding, deburring, and surface finishing operations.",
+          "action": "Keep an eye on specialty metal manufacturing hubs as potential high-value targets for heavy-duty grinding products.",
+          "th": {
+            "title": "การประชุมสุดยอด CREIA Baotou 2026 ว่าด้วยการผลิตโลหะหายาก (Rare Earth)",
+            "summary": "การประชุมที่เมืองเป่าโถวได้เน้นย้ำอัปเดตสำคัญเกี่ยวกับปริมาณการผลิตโลหะหายากและห่วงโซ่อุปทานอุตสาหกรรมโลก",
+            "why": "การผลิตโลหะหายากและโลหะผสมพิเศษต้องผ่านกระบวนการเจียร ลบคม และเตรียมผิวอย่างเข้มข้น",
+            "action": "จับตาดูแหล่งผลิตโลหะพิเศษในฐานะเป้าหมายที่มีมูลค่าสูงสำหรับกลุ่มสินค้ากลุ่มงานเจียรหนัก"
+          }
+        },
+        {
+          "id": "20261110-w3",
+          "tag": "coating",
+          "rating": "green",
+          "source": "Coatings World",
+          "date": "2025-12-10",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVDFJcHBGVXhXMm1MR1R0QkJ4VkNDdnZvcjh2bzJkX1hJYUdJQ1pyOFIxRzVPUXZGUDRheEVHaVhweG14Smk5Z3FCbjhadTM4RnIzLXkxMnBWX3p2UU4ya3dxNXFocWJWd1EyUHhjeEFOWGdwWW1LcllXTFdyUVNEMkxmRGdoblpuc2w5V2RNei0xZmM1S1p5bExhX1otTFBMY0RtbA?oc=5",
+          "title": "Innovation and Technology to Drive Future of European Market",
+          "summary": "European market reports emphasize advanced coatings technologies and innovative production methods driving industrial growth.",
+          "why": "Surface coatings and prep go hand-in-hand; innovations in coatings often demand higher precision surface sanding and preparation.",
+          "action": "Study European coating technology specs to anticipate what surface finishes local OEM customers will demand next.",
+          "th": {
+            "title": "นวัตกรรมและเทคโนโลยีขับเคลื่อนอนาคตตลาดในยุโรป",
+            "summary": "รายงานตลาดในยุโรปเน้นย้ำถึงเทคโนโลยีสารเคลือบขั้นสูงและวิธีผลิตใหม่ๆ ที่ผลักดันการเติบโตทางอุตสาหกรรม",
+            "why": "งานเคลือบผิวและงานเตรียมผิวต้องทำคู่กันเสมอ นวัตกรรมสารเคลือบมักเรียกร้องการขัดและเตรียมผิวที่มีความแม่นยำสูงขึ้น",
+            "action": "ศึกษาคุณ 1 สมบัติเทคโนโลยีสารเคลือบฝั่งยุโรป เพื่อคาดการณ์ว่าลูกค้า OEM ในไทยจะต้องการผิวสำเร็จแบบใดในอนาคต"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-11-09",
       "summary": "Today's briefing focuses on global manufacturing shifts, including automation in abrasive belts and aluminum oxide fabrics, alongside steel industry surplus challenges and EV market updates.",
@@ -902,70 +966,6 @@ window.WORLD_ARCHIVE = {
             "summary": "ข้อมูลนโยบายและอุตสาหกรรมล่าสุดบ่งชี้ว่าภาคการผลิตของอเมริกาใช้ปริมาณเหล็กลดลงเนื่องจากการใช้วัสดุอื่นทดแทนและประสิทธิภาพการผลิตที่สูงขึ้น",
             "why": "การใช้เหล็กดิบที่ลดลงในภาคการผลิตอาจส่งผลต่อปริมาณความต้องการใช้วัสดุสิ้นเปลืองสำหรับงานเจียรและตกแต่งผิวโลหะหนัก",
             "action": "กระจายความสนใจของแอปพลิเคชันผลิตภัณฑ์ไปยังโลหะผสมน้ำหนักเบาและวัสดุทางเลือกอื่นๆ ที่ยังคงต้องมีการเตรียมผิวอย่างเข้มข้น"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-10-27",
-      "summary": "Today's briefing focuses on the surging demand for abrasive grains, evolving industrial coatings innovations, and global EV manufacturing and steel industry shifts that influence surface finishing requirements.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปข่าวสารประจำวันนี้เน้นไปที่ความต้องการเม็ดทรายขัด (abrasive grains) ที่เติบโต นวัตกรรมการเคลือบผิวอุตสาหกรรม รวมถึงการเปลี่ยนแปลงในอุตสาหกรรมการผลิต EV และเหล็กโลกที่ส่งผลต่อความต้องการขัดผิวชิ้นงาน"
-      },
-      "items": [
-        {
-          "id": "20261027-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "openPR.com",
-          "date": "2026-10-21",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNGFJajFuQ0J1ZGJza1dDNkQ0MFRlaDV4VFNvbWFKUmZBV2JONGRyVGZxT2ZVRGlwVE5FcmtpbDh4cGJOUHYtRW9obUtmVGtueXFyWnRVdDZ2ZUZtemZyTTl0UXhWbHVvOTJIemd1YkJKaHJwVEU1M0FBMnFRb2NnM0wyLVA0NU1IRlgwWmdsbTNiYnNGU0NDbDRXSQ?oc=5",
-          "title": "Abrasive Grains Market is Expected to Reach USD 9.14 Billion",
-          "summary": "The global market for raw abrasive grains is projected to reach $9.14 billion, driven by expanding high-precision industrial manufacturing needs.",
-          "why": "Raw material costs and availability of high-quality grains directly dictate our manufacturing margins and product quality for sandpaper and grinding wheels.",
-          "action": "Monitor raw grain price trends and secure stable supply lines for key abrasive minerals.",
-          "th": {
-            "title": "ตลาดเม็ดทรายขัด (Abrasive Grains) คาดว่าจะเติบโตถึง 9.14 พันล้านดอลลาร์",
-            "summary": "ตลาดโลกสำหรับวัตถุดิบเม็ดทรายขัดมีแนวโน้มเติบโตสูง ขับเคลื่อนโดยความต้องการในการผลิตอุตสาหกรรมที่มีความแม่นยำสูง",
-            "why": "ต้นทุนวัตถุดิบและคุณภาพของเม็ดทรายส่งผลโดยตรงต่อต้นทุนการผลิตและคุณภาพของกระดาษทรายและหินเจียรของเรา",
-            "action": "ติดตามแนวโน้มราคาวัตถุดิบเม็ดทรายและรักษาเสถียรภาพห่วงโซ่อุปทานสำหรับแร่ขัดที่สำคัญ"
-          }
-        },
-        {
-          "id": "20261027-w2",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "S&P Global",
-          "date": "2026-01-12",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
-          "title": "Global steel industry battles surplus supply, protectionism",
-          "summary": "The global steel sector is currently facing oversupply challenges and shifting trade protectionism measures across key regions.",
-          "why": "Steel production volume and mill operations directly influence local demand for heavy-duty grinding, deburring, and metal surface preparation products.",
-          "action": "Keep an eye on metal fabrication activity in our core markets to anticipate shifts in heavy industrial abrasive consumption.",
-          "th": {
-            "title": "อุตสาหกรรมเหล็กโลกเผชิญปัญหาส่วนเกินการผลิตและมาตรการกีดกันทางการค้า",
-            "summary": "ภาคอุตสาหกรรมเหล็กทั่วโลกกำลังเผชิญกับความท้าทายด้านอุปทานส่วนเกินและการเปลี่ยนแปลงของมาตรการปกป้องทางการค้าในหลายภูมิภาค",
-            "why": "ปริมาณการผลิตเหล็กและการดำเนินงานของโรงรีดส่งผลโดยตรงต่อความต้องการผลิตภัณฑ์งานเจียร ลบคม และการเตรียมพื้นผิวโลหะ",
-            "action": "จับตากิจกรรมการผลิตโลหะในตลาดหลักเพื่อคาดการณ์การเปลี่ยนแปลงการใช้วัสดุขัดในอุตสาหกรรมหนัก"
-          }
-        },
-        {
-          "id": "20261027-w3",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "IEA - International Energy Agency",
-          "date": "2026-05-20",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBdlRidlFWTllkZFUwX0tURmp4UmxwenFiRk5tT29WQndpN0xVbU55TV9VRGFJaFBGMm1weTZyczc5MjJ5aDZDVlhqSnh6Mk5EMV84UE0wWk1JWXFjWGpfY0EwN2JXcjZuckx0dVJ1LWFFTjU5bnpSc1lPek1SMWc?oc=5",
-          "title": "Manufacturing and trade - Global EV Outlook 2026",
-          "summary": "The IEA report highlights ongoing transformations in global manufacturing and trade patterns driven by the continuous surge in electric vehicles.",
-          "why": "EV manufacturing requires specialized lightweight metals, precision components, and unique surface finishing solutions compared to traditional internal combustion engine vehicles.",
-          "action": "Explore specialized fine-finishing abrasive solutions suited for EV lightweight component manufacturing.",
-          "th": {
-            "title": "การผลิตและการค้า - แนวโน้มยานยนต์ไฟฟ้าโลกปี 2026",
-            "summary": "รายงานจาก IEA เน้นย้ำถึงการเปลี่ยนแปลงอย่างต่อเนื่องในรูปแบบการผลิตและการค้าระดับโลก ขับเคลื่อนโดยการเติบโตอย่างรวดเร็วของยานยนต์ไฟฟ้า",
-            "why": "การผลิตรถยนต์ EV ต้องการโลหะน้ำหนักเบา ชิ้นส่วนที่มีความแม่นยำสูง และโซลูชันการขัดผิวที่แตกต่างจากรถยนต์เครื่องยนต์สันดาปภายในแบบดั้งเดิม",
-            "action": "ศึกษาโซลูชันกระดาษทรายและผลิตภัณฑ์ขัดผิวความละเอียดสูงที่เหมาะกับการผลิตชิ้นส่วนน้ำหนักเบาสำหรับ EV"
           }
         }
       ]
