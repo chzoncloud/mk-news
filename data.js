@@ -3,64 +3,64 @@ window.NEWS_ARCHIVE = {
   "days": [
     {
       "date": "2026-11-10",
-      "summary": "Today has limited fresh news as automotive and steel sectors continue digesting recent EV import tariffs and industrial standard enforcements. Overall policy directions remain favorable for accelerating domestic factory localization and safeguarding certified metal producers.",
-      "directCount": 0,
+      "summary": "Today has limited fresh industry developments as EV tariff coverage stabilizes, but landmark contracts for the U-Tapao MRO hub and major OEM backing for local EV manufacturing solidify medium-term abrasive demand in aerospace and automotive tooling.",
+      "directCount": 1,
       "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยภาคยานยนต์และอุตสาหกรรมเหล็กยังคงเกาะติดผลกระทบจากภาษีนำเข้า EV และการจัดระเบียบมาตรฐานโรงงานเหล็ก ซึ่งทิศทางนโยบายยังเอื้อต่อการดึงฐานการผลิตเข้าประเทศและปกป้องโรงงานแปรรูปโลหะที่ได้มาตรฐาน"
+        "summary": "วันนี้มีข่าวใหม่ไม่มากเนื่องจากประเด็นภาษี EV เริ่มทรงตัว แต่การลงนามสัญญาศูนย์ซ่อม MRO อู่ตะเภาพร้อมแรงหนุนจากค่ายรถรายใหญ่ช่วยสร้างความมั่นใจต่อความต้องการใช้วัสดุขัดทั้งในภาคการบินและชิ้นส่วนยานยนต์ในระยะกลาง"
       },
       "items": [
         {
           "id": "20261110-1",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Thaipost.net",
-          "date": "2026-11-05",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tRmU2UGRET3NwZGhxZy1jbEoxeXMzSWgwSHJUWlRoZnV4djV3MVU5c0czU05tRUNJVG9IODV6WVp6WGZqcEI3RFZXd2k2cy1FbU5CdWlYcHlraTJJTEFyT1Rtczl0dw?oc=5",
-          "title": "Analyst Highlights 35% EV Tariff as Key Catalyst to Attract Foreign Factory Relocation",
-          "summary": "Academic analyst Stithorn Thananithichot stated that the 35% EV import tariff will compel foreign carmakers to build full assembly plants in Thailand rather than relying on completely built unit imports. This structural shift aims to safeguard Thailand's traditional automotive supply chains and preserve domestic manufacturing capabilities.",
-          "why": "A surge in localized automotive assembly directly translates into higher demand for body panel sanding, robotic deburring, and surface preparation abrasives.",
-          "action": "Map incoming foreign EV assembly projects to prepare customized trial packages for automotive body-in-white and paint prep sanding.",
+          "tag": "aero",
+          "rating": "green",
+          "source": "ผู้จัดการออนไลน์",
+          "date": "2026-10-06",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIazdnNjc2TVdpRWNOSTNQS2tlaWFWdl9KbE5OaEdlLWlZX0RaWERWWjhJV1l0MjdTejNaSHVhOEMwSThnWmtFaUJMWVAydHIxVkFKTktiQ0pXb09KVVRLWg?oc=5",
+          "title": "EEC and Thai Airways Formalize 10-Billion Baht Deal for U-Tapao Aviation MRO Hub",
+          "summary": "EEC and Thai Airways signed a definitive agreement to develop a 10-billion-baht aircraft maintenance, repair, and overhaul (MRO) facility at U-Tapao, scheduled to break ground in 2027 and open by 2030.",
+          "why": "This formal agreement locks in long-term demand for aviation-grade surface preparation abrasives and specialized polishing tools in the Eastern Economic Corridor.",
+          "action": "Initiate engagement with Thai Airways engineering contractors to position MK's certified aerospace abrasive portfolio before construction begins.",
           "th": {
-            "title": "'สติธร' ชี้ขึ้นภาษี EV นำเข้า 35% หนุนดึงทุนต่างชาติตั้งโรงงาน ปกป้องฐานการผลิตไทย",
-            "summary": "นักวิชาการชี้ว่าการปรับขึ้นภาษีนำเข้ารถ EV เป็น 35% จะเป็นแรงผลักดันสำคัญให้ค่ายรถยนต์ต่างชาติต้องเข้ามาตั้งโรงงานผลิตในไทยแทนการนำเข้าสำเร็จรูป เพื่อรักษาซัพพลายเชนและสถานะฐานการผลิตยานยนต์ของประเทศ",
-            "why": "การขยายโรงงานประกอบรถยนต์ในประเทศจะช่วยเพิ่มปริมาณการใช้งานกระดาษทรายขัดตัวถัง จานขัดลบคม และวัสดุเตรียมผิวโลหะอย่างมีนัยสำคัญ",
-            "action": "ติดตามแผนการจัดตั้งโรงงานของค่ายรถยนต์ต่างชาติรายใหม่ เพื่อนำเสนอสินค้าขัดผิวเกรดยานยนต์เข้าสู่ไลน์ผลิตตั้งแต่ระยะเริ่มต้น"
+            "title": "EEC ลงนามการบินไทย ทุ่มหมื่นล้านปักหมุดศูนย์ซ่อมอากาศยาน MRO อู่ตะเภา",
+            "summary": "EEC และการบินไทยลงนามสัญญาทางการร่วมลงทุนโครงการศูนย์ซ่อมบำรุงอากาศยาน (MRO) มูลค่า 1 หมื่นล้านบาท ณ อู่ตะเภา โดยคาดว่าจะเริ่มก่อสร้างปี 2570 และเปิดบริการปี 2573",
+            "why": "สัญญาอย่างเป็นทางการนี้การันตีความต้องการใช้วัสดุขัดเกรดการบินและจานขัดผิวโลหะเฉพาะทางในเขตอีอีซีในระยะยาว",
+            "action": "เริ่มเข้าพบทีมวิศวกรรมและซัพพลายเออร์ของการบินไทย เพื่อนำเสนอวัสดุขัดเกรดการบินของ MK ล่วงหน้าก่อนเปิดไซต์งาน"
           }
         },
         {
           "id": "20261110-2",
-          "tag": "steel",
+          "tag": "auto",
           "rating": "amber",
-          "source": "thansettakij",
-          "date": "2026-05-20",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYUkQ1OTVxM3QtdnAtcUlCc1JQelZVNU53OUNENkd5QnBfeVUtN29mVlZ6Y251UzBWVW9OQ3VKQVQ4cmtyT2lpc0NuemY3THhrOHlhNG53UHM4bnZSaVBUYnVScjZUTmNlU1VhY3B3?oc=5",
-          "title": "Ten Steel Associations Urge Ban on Induction Furnace Mills to Protect Domestic Standards",
-          "summary": "Ten domestic steel associations have petitioned the Ministry of Industry to revoke licenses for Induction Furnace (IF) mills and halt foreign-funded substandard steel production. Domestic manufacturers argue that low-cost, substandard rebar severely undercuts compliant local steelmakers and endangers construction standards.",
-          "why": "Protecting certified local steelmakers and structural fabricators ensures financial stability for our core customer base who consistently purchase premium grinding and cutting discs.",
-          "action": "Focus commercial outreach on certified electric arc furnace (EAF) mills and Tier-1 structural fabricators that prioritize industrial-grade abrasives.",
+          "source": "www.thairath.co.th",
+          "date": "2026-11-09",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GNmpFZTVfcE9MNGRiVnM5cy1hN1VfcWQ4MXpma1I4UG9lNmpFaGlwTG5MSC1HTUdQSmhOa3ROZEZiektXbmVkbS1Pb3ZGWkFUNmZVYmpRVkR1R1lJd29v?oc=5",
+          "title": "BYD and Rever Endorse 35% Import Tariff to Safeguard Domestic Auto Manufacturing",
+          "summary": "BYD and distributor Rever Automotive publicly supported the government's 35% tariff hike on imported EVs, emphasizing fair competition and local supply chain investment.",
+          "why": "Key market leaders committing to local manufacturing confirms higher domestic assembly rates, driving stamping, deburring, and body polishing abrasive consumption.",
+          "action": "Target Tier-1 and Tier-2 stamping and body parts suppliers serving BYD's Rayong assembly plant with heavy-duty sanding discs and belts.",
           "th": {
-            "title": "10 สมาคมเหล็กจี้รัฐเร่งสั่งปิดโรงงาน IF ขจัดทุนเทา ปกป้องอุตสาหกรรมเหล็กมาตรฐาน",
-            "summary": "10 สมาคมเหล็กไทยยื่นหนังสือถึงกระทรวงอุตสาหกรรม เรียกร้องให้สั่งปิดและยกเลิกใบอนุญาตโรงงานเตาหลอม IF ที่ผลิตเหล็กไม่ได้มาตรฐาน หลังเผชิญปัญหาสินค้าด้อยคุณภาพจากต่างชาติเข้ามาทุ่มตลาดและกระทบผู้ผลิตในประเทศ",
-            "why": "การปกป้องผู้ผลิตเหล็กมาตรฐานช่วยรักษาเสถียรภาพของกลุ่มลูกค้าโรงงานเหล็กและงานโครงสร้าง ซึ่งเป็นผู้ใช้งานใบตัดและใบเจียรประสิทธิภาพสูงอย่างต่อเนื่อง",
-            "action": "มุ่งเน้นการเจาะตลาดและรักษาฐานลูกค้าในกลุ่มโรงหลอมมาตรฐาน EAF และโรงงานแปรรูปโครงสร้างเหล็กขนาดใหญ่ที่ต้องการวัสดุขัดคุณภาพสูง"
+            "title": "BYD และเรเว่ หนุนรัฐขึ้นภาษีนำเข้ารถ EV 35% สร้างความเป็นธรรมในอุตสาหกรรม",
+            "summary": "BYD และเรเว่ ออโตโมทีฟ แสดงจุดยืนสนับสนุนการปรับขึ้นภาษีนำเข้ารถยนต์ไฟฟ้า 35% เพื่อสร้างการแข่งขันที่เป็นธรรมและกระตุ้นการผลิตในประเทศ",
+            "why": "การหนุนฐานผลิตในไทยของผู้นำตลาดรายใหญ่ยืนยันว่าโรงงานประกอบในไทยจะมีงานผลิตต่อเนื่อง หนุนการใช้วัสดุขัดในงานตัด ปั๊มขึ้นรูป และลบครีบ",
+            "action": "เร่งเจาะกลุ่มซัพพลายเออร์ Tier-1 และ Tier-2 ที่ส่งชิ้นส่วนโครงสร้างและตัวถังให้โรงงาน BYD ในระยอง ด้วยจานทรายและสายพานขัดของ MK"
           }
         },
         {
           "id": "20261110-3",
           "tag": "steel",
           "rating": "amber",
-          "source": "bangkokbiznews",
-          "date": "2026-06-09",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1BZE5wSV9tN3JIMkxoeTBjenRHaWFGTThOMkNUWUgwUm4ybm02TTlNLWJ5U1RFdVFRQVBwSldqVWEyUHBIVXhfTnNiSHpzQXhoVDhUYjJoMVAyakhp?oc=5",
-          "title": "Department of Industrial Works Under Scrutiny Over Xin Ke Yuan Steel Plant Permits",
-          "summary": "Domestic steel associations are pushing the Department of Industrial Works to halt operating permits for the Xin Ke Yuan mill due to concerns over non-standard melting processes. The industry is urging stricter enforcement of Thai Industrial Standards (TIS) to curb unfair competition from non-compliant facilities.",
-          "why": "Strict enforcement of manufacturing standards weed out low-cost grey mills, redirecting procurement toward quality-focused metal fabricators that rely on durable abrasive consumables.",
-          "action": "Review MK's heavy-duty abrasive disc portfolio and align promotion strategies with TISI-certified metalworking and fabrication plants.",
+          "source": "posttoday",
+          "date": "2025-10-24",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56LWpoTlNPYU9GbXhGME9TeFNFaldyT1c0RTdDaUhmQ3RsTG9SZkowSV9QSDA3dDRNWnVfMVdrdWgzcGpWSEEwVmotSUxfREdfaGtheTdlUmk?oc=5",
+          "title": "Steel Industry Alliances Oppose Substandard Mill Reopenings to Protect Quality Fabricators",
+          "summary": "Ten domestic steel associations filed formal petitions protesting against substandard steel mills seeking operation permits, citing unfair price competition and safety risks.",
+          "why": "Cracking down on illegal low-grade mills helps preserve legitimate, standard-compliant steel fabricators who are regular buyers of high-grade grinding wheels and flap discs.",
+          "action": "Maintain close account relationships and offer volume rebates to certified standard-compliant steel fabrication customers.",
           "th": {
-            "title": "‘ซิน เคอ หยวน’ ปมร้อนกรมโรงงาน ผู้ผลิตไทยรวมตัวร้องสกัดโรงงานเหล็กไร้มาตรฐาน",
-            "summary": "กลุ่มผู้ผลิตเหล็กไทยเดินหน้าเรียกร้องให้กรมโรงงานอุตสาหกรรมระงับการเปิดดำเนินการของโรงงาน ซิน เคอ หยวน จากความกังวลเรื่องการผลิตเหล็กหลอมที่ไม่ได้มาตรฐาน มอก. เพื่อป้องกันการแข่งขันที่ไม่เป็นธรรม",
-            "why": "การบังคับใช้มาตรฐานอย่างเข้มงวดช่วยขจัดโรงงานด้อยคุณภาพ และส่งเสริมโรงงานแปรรูปโลหะมาตรฐานที่เป็นกลุ่มลูกค้าหลักผู้ใช้วัสดุขัดระดับอุตสาหกรรม",
-            "action": "จัดกลุ่มผลิตภัณฑ์จานขัดและใบตัดงานเหล็กหนักของ MK เพื่อนำเสนอโรงงานแปรรูปโลหะที่ได้มาตรฐาน มอก. โดยเน้นจุดขายด้านความทนทานและความปลอดภัย"
+            "title": "10 สมาคมเหล็กผนึกกำลังค้านเปิดโรงงานเหล็กไม่ได้มาตรฐาน หวั่นกระทบอุตสาหกรรมในประเทศ",
+            "summary": "สมาคมผู้ผลิตเหล็ก 10 องค์กรยื่นคัดค้านการเปิดดำเนินงานของโรงงานเหล็กที่ไม่ได้มาตรฐาน เพื่อสกัดปัญหาราคาทุ่มตลาดและความเสี่ยงด้านคุณภาพ",
+            "why": "การกวาดล้างโรงงานที่ไม่ได้มาตรฐานช่วยปกป้องโรงงานแปรรูปเหล็กมาตรฐานที่เป็นฐานลูกค้าหลักในการซื้อใบเจียรและจานทรายซ้อนคุณภาพสูง",
+            "action": "รักษาความสัมพันธ์ใกล้ชิดและเสนอส่วนลดตามยอดสั่งซื้อให้แก่โรงงานแปรรูปโครงสร้างเหล็กมาตรฐานที่เป็นลูกค้าเดิมของ MK"
           }
         }
       ],
