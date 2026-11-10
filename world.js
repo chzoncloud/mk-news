@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-11-10",
-      "summary": "Today's briefing focuses on global manufacturing shifts, including EV policy updates, rare earth production milestones, and long-term coatings market outlooks, highlighting key opportunities for high-precision surface preparation.",
+      "summary": "Today's briefing highlights new market data showing steady growth in abrasive belts driven by automation, alongside shifts in global metal pricing and manufacturing demand across Europe and North America.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปประเด็นข่าววันนี้เน้นการเปลี่ยนแปลงของภาคการผลิตโลก ทั้งอัปเดตโยบาย EV, การผลิตแร่หายาก และแนวโน้มตลาดสารเคลือบระยะยาว ซึ่งช่วยชี้โอกาสสำคัญสำหรับธุรกิจขัดผิวชิ้นงานความแม่นยำสูง"
+        "summary": "สรุปทิศทางโลกวันนี้เน้นการเติบโตของตลาดสายพานขัด (Abrasive Belts) ที่ขับเคลื่อนด้วยระบบอัตโนมัติ พร้อมกับความผันผวนของราคาโลหะและดีมานด์การผลิตในยุโรปและอเมริกา"
       },
       "items": [
         {
           "id": "20261110-w1",
-          "tag": "auto",
+          "tag": "abrasive",
           "rating": "green",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-11-09",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUEhWWFVvZ013aGRlbWZoTlRpblBlTFZRRC1yX1FzUDhCN2FSTGVuV1lYTS00XzViRGsxREtkb1hKYzN0T2NLd1BySWZzTzdKVG9XLXlhS1RZQXJ2dS1yOFJlWTVwaDFfV2otN29fR2ota1dzcm5aU1dHZTZJcGNYZ2dQQk90MGY1bVd0LWdodXNELUczNUFidXctNjNCUDZBa2c1WnZmZUR0YUVnVnphMnRaUG9JLWNpWXM4R3ZkbE1pNUs3?oc=5",
-          "title": "COP31 electrification shake-up: EV rules meet factory reality",
-          "summary": "Global automotive factories are adjusting to new EV regulations and production realities following recent climate summit policy shifts.",
-          "why": "EV manufacturing changes require new lightweight materials and specialized surface finishing processes, directly affecting abrasives demand.",
-          "action": "Monitor EV structural material trends to align our abrasive grain offerings with upcoming vehicle body designs.",
+          "source": "IndexBox",
+          "date": "2026-11-08",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRE9XR0d6cEx2R0ZmTk43NnZpVWZGU2kzUHZkdWZSX3pQTWxFVzZvSDgwdmc0Zmx5OUVtQmdVbVUtVGxBa2g4MHd4RkdiNUJRSFlxWE4wdFU2X0NDNGd1RFhWTWdBRTRNelo4VzByeHMtaHdySjJCWWgzSHZBbjlfTnZHb0twOFI3ZGNqMlV3b0lnT1VHdXc1QWs4OTRobWUtVDRJRkVpbXY4SHBMWURhUFByVmJNeklESWlNSzNHMjBoTWR5M0h2TVdPUFNxUXNpWkU4?oc=5",
+          "title": "Abrasive Belts Market To 2035: Automation in Metalworking and Auto Finishing Fuels Growth",
+          "summary": "The global market for abrasive belts is expanding rapidly through 2035, heavily driven by increased automation in metal fabrication and automotive finishing processes.",
+          "why": "Higher automation in metalworking means factories require more consistent, high-durability abrasive belts for robotic and automated grinding lines.",
+          "action": "Ensure our inventory of industrial abrasive belts aligns with automated surface-finishing specifications.",
           "th": {
-            "title": "การปรับเปลี่ยนครั้งใหญ่ของยานยนต์ไฟฟ้าหลังงาน COP31: กฎระเบียบ EV กับความจริงในโรงงาน",
-            "summary": "โรงงานยานยนต์ทั่วโลกกำลังปรับตัวรับกฎระเบียบ EV และความเป็นจริงในการผลิต ตามทิศทางนโยบายด้านภูมิอากาศล่าสุด",
-            "why": "การเปลี่ยนแปลงการผลิต EV ต้องใช้วัสดุน้ำหนักเบาและกระบวนการตกแต่งผิวที่จำเพาะ ซึ่งส่งผลโดยตรงต่อความต้องการวัสดุขัด",
-            "action": "ติดตามแนวโน้มวัสดุโครงสร้างรถยนต์ EV เพื่อเตรียมกลุ่มสินค้าวัสดุขัดให้สอดคล้องกับดีไซน์ตัวถังใหม่ๆ"
+            "title": "ตลาดสายพานขัดถึงปี 2035: ระบบอัตโนมัติในงานโลหะและยานยนต์ขับเคลื่อนการเติบโต",
+            "summary": "ตลาดสายพานขัดทั่วโลกเติบโตอย่างต่อเนื่องจนถึงปี 2035 โดยได้รับแรงหนุนหลักจากการใช้ระบบอัตโนมัติในงานขึ้นรูปโลหะและตกแต่งผิวรถยนต์",
+            "why": "ระดับอัตโนมัติที่สูงขึ้นในอุตสาหกรรมโลหะ ทำให้โรงงานต้องการสายพานขัดที่มีความทนทานสม่ำเสมอสูงสำหรับใช้กับเครื่องจักรและหุ่นยนต์",
+            "action": "ตรวจสอบสต็อกสินค้าสายพานขัดอุตสาหกรรมให้สอดคล้องกับสเปกงานขัดผิวด้วยระบบอัตโนมัติ"
           }
         },
         {
           "id": "20261110-w2",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "Rare Earth Exchanges",
-          "date": "2026-11-09",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxcHNiVEdiMXl0bWZLQ3ZtbkkwX0ZLcG96UWs2NURzRzJOSGplQloxTEw1YVgyU2RDcmJXLXZXMU5TUGRDbjNXNnNqbVIwaWpPY1QxaVNyYmd4eVkwS1ZKazBFVVltd1ZQZ1RteHdCOUNtSmhFdG5fZ1pzc0pDcVk?oc=5",
-          "title": "CREIA Baotou Summit Rare Earth Metal Production 2026",
-          "summary": "The Baotou summit highlighted critical updates on rare earth metal production volumes and global industrial supply chains.",
-          "why": "Rare earth metals and specialty alloy production involve intensive grinding, deburring, and surface finishing operations.",
-          "action": "Keep an eye on specialty metal manufacturing hubs as potential high-value targets for heavy-duty grinding products.",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-11-05",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY1FXanVRMDJTZUdIQ05mNnA1UXo4aW5aS0pjYXF6SlBRZFRHWW1DU1RpNFhoQldJU3d1UTZuYXcwYzF3ZmxMZzZFcUl5YTdkSkptY2pvYWI3QkdPT19hb0RZcHRjTG45MUxmWTRIM1BOUnowSmxPeVdSVEJXSjVOM0MtV0xuUFpLZHVJVHdJcFk2aXVmLS1BSUs1OWZERVo4TGFJU3ZsM1hFdWE5YmJESHhFak53TVJoaUU1Zg?oc=5",
+          "title": "Abrasives And Timber Market To 2035: Construction and Woodworking Demand Drive Growth",
+          "summary": "Construction and woodworking sectors continue to provide steady demand for coated abrasives, supporting long-term market growth projections.",
+          "why": "Woodworking and furniture manufacturing are major consumer segments for sanding sheets, rolls, and discs.",
+          "action": "Monitor trends in furniture and wood processing to capture steady demand in woodworking abrasives.",
           "th": {
-            "title": "การประชุมสุดยอด CREIA Baotou 2026 ว่าด้วยการผลิตโลหะหายาก (Rare Earth)",
-            "summary": "การประชุมที่เมืองเป่าโถวได้เน้นย้ำอัปเดตสำคัญเกี่ยวกับปริมาณการผลิตโลหะหายากและห่วงโซ่อุปทานอุตสาหกรรมโลก",
-            "why": "การผลิตโลหะหายากและโลหะผสมพิเศษต้องผ่านกระบวนการเจียร ลบคม และเตรียมผิวอย่างเข้มข้น",
-            "action": "จับตาดูแหล่งผลิตโลหะพิเศษในฐานะเป้าหมายที่มีมูลค่าสูงสำหรับกลุ่มสินค้ากลุ่มงานเจียรหนัก"
+            "title": "ตลาดวัสดุขัดและไม้ถึงปี 2035: ดีมานด์จากงานก่อสร้างและงานไม้หนุนการเติบโต",
+            "summary": "กลุ่มอุตสาหกรรมก่อสร้างและงานไม้ยังคงสร้างความต้องการใช้วัสดุขัดเคลือบอย่างต่อเนื่อง ส่งผลให้ภาพรวมตลาดยังเติบโตในระยะยาว",
+            "why": "อุตสาหกรรมเฟอร์นิเจอร์และงานไม้เป็นตลาดผู้บริโภคหลักสำหรับกระดาษทรายแผ่น ม้วน และแผ่นกลม",
+            "action": "ติดตามทิศทางอุตสาหกรรมเฟอร์นิเจอร์เพื่อรักษายอดขายในกลุ่มกระดาษทรายสำหรับงานไม้"
           }
         },
         {
           "id": "20261110-w3",
-          "tag": "coating",
-          "rating": "green",
-          "source": "Coatings World",
-          "date": "2025-12-10",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVDFJcHBGVXhXMm1MR1R0QkJ4VkNDdnZvcjh2bzJkX1hJYUdJQ1pyOFIxRzVPUXZGUDRheEVHaVhweG14Smk5Z3FCbjhadTM4RnIzLXkxMnBWX3p2UU4ya3dxNXFocWJWd1EyUHhjeEFOWGdwWW1LcllXTFdyUVNEMkxmRGdoblpuc2w5V2RNei0xZmM1S1p5bExhX1otTFBMY0RtbA?oc=5",
-          "title": "Innovation and Technology to Drive Future of European Market",
-          "summary": "European market reports emphasize advanced coatings technologies and innovative production methods driving industrial growth.",
-          "why": "Surface coatings and prep go hand-in-hand; innovations in coatings often demand higher precision surface sanding and preparation.",
-          "action": "Study European coating technology specs to anticipate what surface finishes local OEM customers will demand next.",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "Progressive Policy Institute",
+          "date": "2026-09-23",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTeHd1akw0WFVaUWFucjdlRWp1cFBVQjRiRi1rWFd2WlNVRkQzanJJMmpMV3BBM0QxVEF5N2FZcmFMSFNxQ3M1VTQ5c1VJYjhJRVRQQVM3M2tac1FFMGdSSlZ4eTdQdzNINFB1MDR0a09haWhpNkFIVV9aWlA?oc=5",
+          "title": "American Industry Is Using Less Steel",
+          "summary": "Recent data indicates shifts in industrial manufacturing output and material efficiency leading to lower domestic steel consumption in certain sectors.",
+          "why": "Changes in metal usage volume directly impact overall surface preparation and grinding volume in metalworking factories.",
+          "action": "Keep an eye on metal fabrication volume shifts to anticipate regional demand changes for heavy grinding supplies.",
           "th": {
-            "title": "นวัตกรรมและเทคโนโลยีขับเคลื่อนอนาคตตลาดในยุโรป",
-            "summary": "รายงานตลาดในยุโรปเน้นย้ำถึงเทคโนโลยีสารเคลือบขั้นสูงและวิธีผลิตใหม่ๆ ที่ผลักดันการเติบโตทางอุตสาหกรรม",
-            "why": "งานเคลือบผิวและงานเตรียมผิวต้องทำคู่กันเสมอ นวัตกรรมสารเคลือบมักเรียกร้องการขัดและเตรียมผิวที่มีความแม่นยำสูงขึ้น",
-            "action": "ศึกษาคุณ 1 สมบัติเทคโนโลยีสารเคลือบฝั่งยุโรป เพื่อคาดการณ์ว่าลูกค้า OEM ในไทยจะต้องการผิวสำเร็จแบบใดในอนาคต"
+            "title": "อุตสาหกรรมอเมริกันใช้เหล็กน้อยลง",
+            "summary": "ข้อมูลล่าสุดชี้ให้เห็นถึงการเปลี่ยนแปลงในภาคการผลิตอุตสาหกรรมและประสิทธิภาพการใช้ทรัพยากร ส่งผลให้ปริมาณการบริโภคเหล็กในบางภาคส่วนลดลง",
+            "why": "การเปลี่ยนแปลงของปริมาณการใช้โลหะส่งผลโดยตรงต่อปริมาณงานเตรียมผิวและงานเจียรในโรงงานโลหะ",
+            "action": "จับตาดูความเปลี่ยนแปลงของปริมาณงานแปรรูปโลหะเพื่อคาดการณ์ดีมานด์สินค้ากลุ่มงานเจียรหนัก"
           }
         }
       ]
