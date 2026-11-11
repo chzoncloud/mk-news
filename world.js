@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-11-11",
-      "summary": "Today's global briefings highlight precision finishing demand reaching $72.2B, automation driving abrasive belt growth, and structural shifts in steel and EV manufacturing impacting surface prep.",
+      "summary": "Today's briefing highlights shifts in primary metal manufacturing with a focus on green steel, smart factory trends emphasizing flexibility and AI, and ongoing structural adjustments in China's automotive sector.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปทิศทางโลกประจำวันนี้เน้นย้ำความต้องการขัดผิวความแม่นยำที่เติบโตถึง 72.2 พันล้านดอลลาร์ การใช้ระบบอัตโนมัติขับเคลื่อนตลาดสายพานขัด และการเปลี่ยนแปลงโครงสร้างในอุตสาหกรรมเหล็กและ EV ที่ส่งผลต่อการเตรียมพื้นผิว"
+        "summary": "สรุปข่าวประจำวันนี้เน้นการเปลี่ยนแปลงในอุตสาหกรรมการผลิตโลหะขั้นต้นโดยเน้นเหล็กสีเขียว (Green Steel) แนวโน้มโรงงานอัจฉริยะที่เน้นความยืดหยุ่นและ AI รวมถึงการปรับโครงสร้างอย่างต่อเนื่องในภาคยานยนต์ของจีน"
       },
       "items": [
         {
           "id": "20261111-w1",
-          "tag": "abrasive",
+          "tag": "steel",
           "rating": "green",
           "source": "IndexBox",
-          "date": "2026-11-08",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRE9XR0d6cEx2R0ZmTk43NnZpVWZGU2kzUHZkdWZSX3pQTWxFVzZvSDgwdmc0Zmx5OUVtQmdVbVUtVGxBa2g4MHd4RkdiNUJRSFlxWE4wdFU2X0NDNGd1RFhWTWdBRTRNelo4VzByeHMtaHdySjJCWWgzSHZBbjlfTnZHb0twOFI3ZGNqMlV3b0lnT1VHdXc1QWs4OTRobWUtVDRJRkVpbXY4SHBMWURhUFByVmJNeklESWlNSzNHMjBoTWR5M0h2TVdPUFNxUXNpWkU4?oc=5",
-          "title": "Abrasive Belts Market To 2035: Automation in Metalworking and Auto Finishing Fuels Growth",
-          "summary": "The global abrasive belts market is expanding through 2035, significantly accelerated by increased automation in metalworking and automotive finishing sectors.",
-          "why": "Higher automation in factories means greater demand for high-durability, consistent abrasive belts used in robotic grinding and deburring cells.",
-          "action": "Ensure our inventory features premium abrasive belts capable of withstanding automated, high-speed robotic finishing.",
+          "date": "2026-11-10",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSl9TT1Vad2ZPV1IxemlRdHEza1lfN3ZUUE01RHRseHdiX0JMLUFTZ3pUWWt0dFE3WDVFTGxZdEtaQk5yZjRONVdKa1k3XzVKbXowcUxSSFgyc0txMXk5VWFJQ0VNYl9NbVdVTVNTaXRUTVl1U1FXRE45ajB1alk3V1k5Q0hZNDkxUjBpVGdwZjhodFI4dUtnd1NmS2ctRHh4ZlByekhQd3ZQa1VVYmhncGdtOXBFS2lwNndLaXNtRGVacnNIWFpXT3Vn?oc=5",
+          "title": "Primary Metal Manufacturing Market To 2035: Green Steel and Electrification Drive Growth",
+          "summary": "Primary metal manufacturing is evolving rapidly towards green steel production and electrification, impacting upstream metal processing and finishing needs.",
+          "why": "Green steel production requires rigorous surface preparation, scaling up demand for specialized heavy-duty grinding and deburring abrasives.",
+          "action": "Monitor green steel manufacturing standards and evaluate product readiness for advanced metal preparation.",
           "th": {
-            "title": "ตลาดสายพานขัดถึงปี 2035: ระบบอัตโนมัติในงานโลหะและยานยนต์ขับเคลื่อนการเติบโต",
-            "summary": "ตลาดสายพานขัดทั่วโลกกำลังขยายตัวถึงปี 2035 โดยได้รับแรงหนุนสำคัญจากการใช้ระบบอัตโนมัติในอุตสาหกรรมโลหะและการตกแต่งยานยนต์",
-            "why": "ระดับการใช้ระบบอัตโนมัติในโรงงานที่สูงขึ้น ส่งผลให้ความต้องการสายพานขัดที่มีความทนทานสูงและสม่ำเสมอ สำหรับใช้กับหุ่นยนต์เจียรและลบคมเพิ่มมากขึ้นตามไปด้วย",
-            "action": "ตรวจสอบให้แน่ใจว่าสินค้าคงคลังของเรามีสายพานขัดเกรดพรีเมียมที่รองรับการทำงานกับระบบหุ่นยนต์ความเร็วสูงได้"
+            "title": "ตลาดการผลิตโลหะขั้นต้นถึงปี 2035: เหล็กสีเขียวและการขับเคลื่อนด้วยไฟฟ้า",
+            "summary": "อุตสาหกรรมการผลิตโลหะขั้นต้นกำลังพัฒนาอย่างรวดเร็วไปสู่การผลิตเหล็กสีเขียวและการใช้ไฟฟ้า ซึ่งส่งผลกระทบต่อความต้องการในการแปรรูปและตกแต่งโลหะขั้นต้น",
+            "why": "การผลิตเหล็กสีเขียวต้องมีการเตรียมพื้นผิวที่เข้มงวด ซึ่งช่วยเพิ่มความต้องการใช้วัสดุขัดสำหรับการเจียรและลบคมงานหนัก",
+            "action": "ติดตามมาตรฐานการผลิตเหล็กสีเขียวและประเมินความพร้อมของผลิตภัณฑ์สำหรับการเตรียมผิวโลหะขั้นสูง"
           }
         },
         {
           "id": "20261111-w2",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "EIN News",
-          "date": "2026-10-19",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM2VsRTlqVWR6dlpoUXpZQ04wNnJsRUNBbndKSnNQODIyUXdnTTlIT0hZMC10bGhEUUk0clZ5ZWZRN0I2eVhiVHVPVmRYd05xWUdJdDJldTBsTkZEUVNBNG5qaE9WeXdDN2dSVzJ2TzNsVFhBNVMzakhwZFR6Z0dQeFFVS0ZPa0dmWmh1dHhiYXVXWWRrbk9XS251Ul9SVS1SZ3NON0VXRWxfOWtzazlNcXhUMVBnU2liODhqaXF6OEdGb2NEYkRoaG9uNmx6MlNjMUd2N3Q0emZnUXltZk1wbg?oc=5",
-          "title": "Abrasives Market to Reach $72.2 Billion by 2030, Growing at a 7.6% CAGR Driven by Precision Finishing Demand",
-          "summary": "The global abrasives market is projected to reach $72.2 billion by 2030, registering a solid 7.6% CAGR fueled by rising requirements for precision finishing.",
-          "why": "Validates strong long-term market growth and highlights that customers are upgrading from standard abrasives to high-precision solutions.",
-          "action": "Shift marketing messaging toward precision grinding performance and long-term cost efficiency for industrial clients.",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-10-28",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMExMd0h3VTZZUGVhTmVoNENZT0RDYkZhOFlTUzZUd3RmT0RNRGJKVjlQVTBmRnkwa21iZEl6ZlNJYmIzVTjjQzU1eGhrcTFPOHhNQWRlSWVWaDlwR2FIVGZmSWJlQk00ZmNRUE5oc1owOGtPSzM2QzNCY0R4YXJNdjdwWExHVzNDM1JXSGRpMnNTdHQ1QXdnWlk2MFlFc21GRXd5QjVVYVItalFMN2hjZmZqZi1nd2I5aVBhYlRhbTQ?oc=5",
+          "title": "China's car industry consolidation begins: who will survive?",
+          "summary": "China's massive automotive sector is undergoing consolidation, shifting supplier networks and changing production volumes for components.",
+          "why": "Consolidation among Chinese automakers affects regional manufacturing output, shifting demand patterns for automotive finishing and component deburring abrasives.",
+          "action": "Track shifts in OEM supply chains in Asia to anticipate where component surface finishing demand will concentrate.",
           "th": {
-            "title": "ตลาดวัสดุขัดถูพุ่งแตะ 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 เติบโต 7.6% ต่อปี จากความต้องการงานขัดผิวความแม่นยำสูง",
-            "summary": "ตลาดวัสดุขัดทั่วโลกคาดว่าจะสูงถึง 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 ด้วยอัตราการเติบโตเฉลี่ย 7.6% ต่อปี ซึ่งขับเคลื่อนโดยความต้องการงานขัดผิวที่แม่นยำยิ่งขึ้น",
-            "why": "ยืนยันการเติบโตในระยะยาวของตลาด และชี้ให้เห็นว่าลูกค้ากำลังอัปเกรดจากวัสดุขัดทั่วไปไปสู่โซลูชันที่มีความแม่นยำสูง",
-            "action": "ปรับการสื่อสารการตลาดให้เน้นไปที่ประสิทธิภาพการเจียรที่แม่นยำและความคุ้มค่าระยะยาวสำหรับลูกค้าอุตสาหกรรม"
+            "title": "การควบรวมกิจการอุตสาหกรรมรถยนต์ของจีนเริ่มต้นขึ้น: ใครจะอยู่รอด?",
+            "summary": "ภาคยานยนต์ขนาดใหญ่ของจีนกำลังผ่านกระบวนการควบรวมกิจการ ซึ่งเปลี่ยนเครือข่ายซัพพลายเออร์และปริมาณการผลิตชิ้นส่วน",
+            "why": "การควบรวมกิจการของผู้ผลิตรถยนต์ในจีนส่งผลต่อปริมาณการผลิตในภูมิภาค และเปลี่ยนรูปแบบความต้องการใช้วัสดุขัดสำหรับตกแต่งผิวและลบคมชิ้นส่วนยานยนต์",
+            "action": "ติดตามการเปลี่ยนแปลงของห่วงโซ่อุปทาน OEM ในเอเชียเพื่อคาดการณ์จุดศูนย์กลางความต้องการตกแต่งผิวชิ้นส่วน"
           }
         },
         {
           "id": "20261111-w3",
-          "tag": "steel",
+          "tag": "auto",
           "rating": "amber",
-          "source": "IndexBox",
-          "date": "2026-11-10",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ1Jwb3Jyem9hY19fQm4tMUFHbmF1NG1BTTFnRmtnMHBienZkYS1RdVlGVks0bnVCdm5VaFhRejVDVmhuNmxfQ3N3bVp2dWlIeTlpYXJsOWVaSGU0M1FtNThMZVRDUENBRXF6bU05aHdnRVp4U21uS05xQUt0a2JoQWRxYWZFbGMxU3VHdHVNUk9yNmlncnhQVFZYNnBmdHY5Y0JLNERyY0xEUjhFYVNNY3dsSTNYQVNjTG9ZLUVaQzByZw?oc=5",
-          "title": "Blast Furnace Staves Market To 2035: Relining Demand and Steel Output Support Growth",
-          "summary": "Maintenance and relining demands in blast furnaces are sustaining growth in steel-related equipment sectors, keeping metal production facilities active.",
-          "why": "Heavy steel maintenance and relining projects require extensive heavy-duty grinding, weld removal, and metal surface preparation.",
-          "action": "Target heavy metal fabrication and maintenance contractors with heavy-duty grinding wheels and surface prep discs.",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-09-16",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPU0NJV1VEcllWeWRPU21VOHlULVpnYWR2ZXVmMk5QSHVZNHFYRC1nN2hlUnJ5VmdXNl9LWmRPTmR2X1lzRlBqcl8tOTZxdE9pNkVTRG14R2NpRHIxNTQ2S2NWcGxQeGF5bWxHdGFxWEN5em12c09Wb1piMnlUejBGc08xemxCQjZUd0llY2k4MmxfVUlkaHlIN21FQ1RPeVl2a3YyZ1BZSE4zeVhHWUVFemF6R3ZyR0lLa0lEMUY1R0k3T0ZlblpKZUFKVEFYV3ZDYlZNQTZYSDRYVjRvSjVLSkE2RTlzdl9tNEctT2JWblVNYndVZnNJeg?oc=5",
+          "title": "Smart factory trends and lessons for 2027: Flexibility, AI and global competitiveness",
+          "summary": "Manufacturers are adopting AI-driven flexible automation systems to optimize production lines and maintain competitiveness.",
+          "why": "Smart factories require automated robotic sanding and deburring solutions that integrate with AI systems for consistent finish quality.",
+          "action": "Explore how automated robotic finishing setups utilize high-consistency abrasive belts and discs.",
           "th": {
-            "title": "ตลาดอุปกรณ์เตาถลุงเหล็กถึงปี 2035: ความต้องการซ่อมบำรุงและผลผลิตเหล็กหนุนการเติบโต",
-            "summary": "ความต้องการบำรุงรักษาและการเปลี่ยนซับในเตาถลุงเหล็ก ช่วยรักษาการเติบโตในภาคอุปกรณ์ที่เกี่ยวข้องกับเหล็ก และทำให้โรงงานผลิตโลหะยังคงดำเนินกิจการอย่างต่อเนื่อง",
-            "why": "โครงการซ่อมบำรุงและบุผนังเตาเหล็กขนาดใหญ่ จำเป็นต้องใช้อุปกรณ์ขัด งานเจียร ลบรอยเชื่อม และเตรียมพื้นผิวโลหะปริมาณมาก",
-            "action": "เจาะกลุ่มผู้รับเหมางานโครงสร้างโลหะหนักและงานซ่อมบำรุง ด้วยแผ่นเจียรและแผ่นขัดเตรียมพื้นผิวสำหรับงานหนัก"
+            "title": "เทรนด์โรงงานอัจฉริยะและบทเรียนสำหรับปี 2027: ความยืดหยุ่น AI และความสามารถในการแข่งขันระดับโลก",
+            "summary": "ผู้ผลิตกำลังนำระบบอัตโนมัติที่ขับเคลื่อนด้วย AI มาใช้เพื่อปรับ1สายการผลิตให้เหมาะสมและรักษาความสามารถในการแข่งขัน",
+            "why": "โรงงานอัจฉริยะต้องการโซลูชันการขัดและลบคมด้วยหุ่นยนต์อัตโนมัติที่เชื่อมต่อกับระบบ AI เพื่อคุณภาพผิวงานที่สม่ำเสมอ",
+            "action": "ศึกษาว่าระบบการตกแต่งผิวด้วยหุ่นยนต์อัตโนมัติใช้สายพานขัดและแผ่นขัดที่มีความสม่ำเสมอสูงอย่างไร"
           }
         }
       ]
