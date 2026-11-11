@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-11-10",
+  "updated": "2026-11-11",
   "days": [
+    {
+      "date": "2026-11-11",
+      "summary": "Today's briefing features 3 key global trends focusing on metal manufacturing growth driven by green initiatives, new insights in industrial coatings, and expanding global market forecasts for precision finishing.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปข่าวประจำวันนี้เน้น 3 เทรนด์สำคัญระดับโลก ได้แก่ การเติบโตของการผลิตโลหะขับเคลื่อนด้วยแนวคิดสีเขียว นวัตกรรมใหม่ในอุตสาหกรรมสีและสารเคลือบ และการคาดการณ์ตลาดการขัดผิวความแม่นยำสูง"
+      },
+      "items": [
+        {
+          "id": "20261111-w1",
+          "tag": "steel",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-11-10",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSl9TT1Vad2ZPV1IxemlRdHEza1lfN3ZUUE01RHRseHdiX0JMLUFTZ3pUWWt0dFE3WDVFTGxZdEtaQk5yZjRONVdKa1k3XzVKbXowcUxSSFgyc0txMXk5VWFJQ0VNYl9NbVdVTVNTaXRUTVl1U1FXRE45ajB1alk3V1k5Q0hZNDkxUjBpVGdwZjhodFI4dUtnd1NmS2ctRHh4ZlByekhQd3ZQa1VVYmhncGdtOXBFS2lwNndLaXNtRGVacnNIWFpXT3Vn?oc=5",
+          "title": "Primary Metal Manufacturing Market To 2035: Green Steel and Electrification Drive Growth - News and Statistics",
+          "summary": "The primary metal manufacturing sector is expanding through 2035, heavily driven by the demand for green steel and broader electrification trends.",
+          "why": "Green steel and new metal processing standards require specialized surface preparation, deburring, and high-performance abrasives.",
+          "action": "Prepare to supply specialized grinding and finishing products suited for modern green steel applications.",
+          "th": {
+            "title": "ตลาดการผลิตโลหะปฐมภูมิถึงปี 2035: เหล็กสีเขียวและการใช้ไฟฟ้าขับเคลื่อนการเติบโต",
+            "summary": "ภาคการผลิตโลหะปฐมภูมิขยายตัวอย่างต่อเนื่องถึงปี 2035 ขับเคลื่อนโดยความต้องการเหล็กสีเขียวและแนวโน้มการเปลี่ยนผ่านสู่พลังงานไฟฟ้า",
+            "why": "เหล็กสีเขียวและมาตรฐานการแปรรูปโลหะแบบใหม่ต้องอาศัยการเตรียมผิว การลบคม และกระดาษทรายประสิทธิภาพสูง",
+            "action": "เตรียมสต็อกสินค้ากลุ่มงานขัดและตกแต่งผิวที่รองรับการใช้งานกับเหล็กสีเขียวสมัยใหม่"
+          }
+        },
+        {
+          "id": "20261111-w2",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "European Coatings",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
+          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
+          "summary": "The coatings industry is entering a new era focused on advanced innovation, stricter sustainability goals, and digital integration.",
+          "why": "Changes in surface coatings directly affect sanding, surface preparation processes, and substrate finishing requirements.",
+          "action": "Monitor coating innovations to understand how changes in paint and surface treatments impact abrasive performance.",
+          "th": {
+            "title": "กำหนดอนาคตยุคใหม่แห่งสารเคลือบ: นวัตกรรม ความยั่งยืน และพลังแห่งดิจิทัล",
+            "summary": "อุตสาหกรรมสีและสารเคลือบกำลังก้าวเข้าสู่ยุคใหม่ที่เน้นนวัตกรรมขั้นสูง เป้าหมายด้านความยั่งยืน และการบูรณาการดิจิทัล",
+            "why": "การเปลี่ยนแปลงของสารเคลือบพื้นผิวส่งผลโดยตรงต่อกระบวนการขัด เตรียมผิว และข้อกำหนดในการตกแต่งชิ้นงาน",
+            "action": "ติดตามนวัตกรรมด้านสารเคลือบเพื่อเข้าใจผลกระทบต่อประสิทธิภาพการขัดทราย"
+          }
+        },
+        {
+          "id": "20261111-w3",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "EIN News",
+          "date": "2026-10-19",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM2VsRTlqVWR6dlpoUXpZQ04wNnJsRUNBbndKSnNQODIyUXdnTTlIT0hZMC10bGhEUUk0clZ5ZWZRN0I2eVhiVHVPVmRYd05xWUdJdDJldTBsTkZEUVNBNG5qaE9WeXdDN2dSVzJ2TzNsVFhBNVMzakhwZFR6Z0dQeFFVS0ZPa0dmWmh1dHhiYXVXWWRrbk9XS251Ul9SVS1SZ3NON0VXRWxfOWtzazlNcXhUMVBnU2liODhqaXF6OEdGb2NEYkRoaG9uNmx6MlNjMUd2N3Q0emZnUXltZk1wbg?oc=5",
+          "title": "Abrasives Market to Reach $72.2 Billion by 2030, Growing at a 7.6% CAGR Driven by Precision Finishing Demand",
+          "summary": "The global abrasives market is projected to hit $72.2 billion by 2030, expanding at a strong 7.6% CAGR fueled by the need for precision finishing.",
+          "why": "Highlights strong long-term global demand for high-precision abrasive products across multiple industrial sectors.",
+          "action": "Capitalize on the trend by focusing marketing and inventory on precision finishing and high-margin abrasive goods.",
+          "th": {
+            "title": "ตลาดวัสดุขัดถูพุ่งแตะ 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 เติบโต 7.6% จากความต้องการงานขัดละเอียด",
+            "summary": "ตลาดวัสดุขัดทั่วโลกคาดว่าจะแตะ 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 เติบโตอย่างแข็งแกร่งด้วยอัตรา CAGR 7.6% จากความต้องการงานขัดความแม่นยำสูง",
+            "why": "สะท้อนถึงความต้องการสินค้ากลุ่มขัดความละเอียดสูงในระยะยาวทั่วโลกในหลากหลายอุตสาหกรรม",
+            "action": "คว้าโอกาสนี้โดยเน้นการทำตลาดและสต็อกสินค้ากลุ่มขัดความแม่นยำสูงและมีมูลค่าเพิ่ม"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-11-10",
       "summary": "Today's briefing focuses on global manufacturing shifts, including European steel decarbonization under CBAM rules, COP31 EV production realities, and rare earth supply dynamics impacting precision engineering sectors.",
@@ -866,106 +930,6 @@ window.WORLD_ARCHIVE = {
             "summary": "ความก้าวหน้าล่าสุดในเทคโนโลยีงานไม้ได้นำเสนอวิธีใหม่ๆ ในการแก้ปัญหาคอขวดของการขัดและการเตรียมพื้นผิวแบบเดิม",
             "why": "เกี่ยวข้องโดยตรงกับกลุ่มผลิตภัณฑ์กระดาษทรายสำหรับอุตสาหกรรมไม้ ช่วยแก้ปัญหาเรื่องฝุ่นอุดตันและผิวงานไม่เรียบ",
             "action": "ศึกษาเทคโนโลยีสารเคลือบกันการอุดตันรุ่นใหม่ๆ หรือสายพานขัดที่เหมาะกับเครื่องจักรแปรรูปไม้ยุคใหม่"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-10-28",
-      "summary": "Today's global briefing highlights key developments in green coatings, precision abrasives market growth, and shifting steel production dynamics driven by tariffs and technology.",
-      "directCount": 5,
-      "th": {
-        "summary": "รายงานสรุปเทรนด์โลกประจำวัน เน้นการเติบโตของสารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อม ตลาดวัสดุขัดเงาความแม่นยำสูง และการเปลี่ยนแปลงในอุตสาหกรรมเหล็กจากมาตรการภาษีและเทคโนโลยี"
-      },
-      "items": [
-        {
-          "id": "20261028-w1",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "Market Business Insights",
-          "date": "2026-10-14",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBSDItTlp3MlgweDg2N3hibzBRRVgwVGJKa3RRWUpXc0pMcjJ3U241dE1LcnRYR3hna3hBUjNRdzZBdFIwUUEtTnd1MlFYdXIwTGpOVWNCVWpjeU45M1JISk1tVkZUYVpjR25UVUN3?oc=5",
-          "title": "Green Coatings Market Size & Growth Analysis, 2026-2035",
-          "summary": "The global green coatings market is projected to expand significantly through 2035, driven by environmental regulations and sustainability demands across manufacturing.",
-          "why": "Eco-friendly surface treatments require specialized surface preparation and sanding solutions that comply with strict environmental standards.",
-          "action": "Monitor eco-coating shifts to align abrasive product offerings with sustainable manufacturing requirements.",
-          "th": {
-            "title": "ขนาดและการเติบโตของตลาดสารเคลือบสีเขียว ปี 2026-2035",
-            "summary": "ตลาดสารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมทั่วโลกมีแนวโน้มขยายตัวอย่างต่อเนื่องจนถึงปี 2035 ขับเคลื่อนด้วยกฎระเบียบด้านสิ่งแวดล้อมและความยั่งยืนในภาคการผลิต",
-            "why": "การเตรียมพื้นผิวสำหรับสารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมจำเป็นต้องใช้ผลิตภัณฑ์กระดาษทรายและอุปกรณ์ขัดที่สอดคล้องกับมาตรฐานสิ่งแวดล้อมที่เข้มงวด",
-            "action": "ติดตามการเปลี่ยนแปลงของสารเคลือบอีโค เพื่อปรับกลุ่มผลิตภัณฑ์วัสดุขัดให้สอดคล้องกับความต้องการด้านการผลิตที่ยั่งยืน"
-          }
-        },
-        {
-          "id": "20261028-w2",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "EIN News",
-          "date": "2026-10-19",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM2VsRTlqVWR6dlpoUXpZQ04wNnJsRUNBbndKSnNQODIyUXdnTTlIT0hZMC10bGhEUUk0clZ5ZWZRN0I2eVhiVHVPVmRYd05xWUdJdDJldTBsTkZEUVNBNG5qaE9WeXdDN2dSVzJ2TzNsVFhBNVMzakhwZFR6Z0dQeFFVS0ZPa0dmWmh1dHhiYXVXWWRrbk9XS251Ul9SVS1SZ3NON0VXRWxfOWtzazlNcXhUMVBnU2liODhqaXF6OEdGb2NEYkRoaG9uNmx6MlNjMUd2N3Q0emZnUXltZk1wbg?oc=5",
-          "title": "Abrasives Market to Reach $72.2 Billion by 2030, Growing at a 7.6% CAGR Driven by Precision Finishing Demand",
-          "summary": "The worldwide abrasives market is forecasted to hit $72.2 billion by 2030, fueled by high demand for precision finishing in modern industrial applications.",
-          "why": "Direct market growth confirms rising global consumption for grinding, sanding, and deburring tools across core sectors.",
-          "action": "Prepare inventory strategies to capture higher margins in precision and high-performance abrasive segments.",
-          "th": {
-            "title": "ตลาดวัสดุขัดจะพุ่งถึง 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 โต 7.6% จากความต้องการงานขัดแต่งความแม่นยำสูง",
-            "summary": "ตลาดวัสดุขัดทั่วโลกคาดว่าจะเติบโตแตะ 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 โดยได้รับแรงหนุนจากความต้องการงานขัดผิวความแม่นยำสูงในภาคอุตสาหกรรมยุคใหม่",
-            "why": "การเติบโตโดยตรงนี้ยืนยันถึงปริมาณการใช้เครื่องมือเจียร ขัด และลบคมที่เพิ่มขึ้นอย่างต่อเนื่องในภาคอุตสาหกรรมหลัก",
-            "action": "เตรียมกลยุทธ์สินค้าคงคลังเพื่อรองรับกลุ่มสินค้าวัสดุขัดความแม่นยำสูงที่มีอัตรากำไรดี"
-          }
-        },
-        {
-          "id": "20261028-w3",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-10-27",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYUw0VFpzbUlSaGtIYUpGYUNwMXBYQ0lJMXlTVkxqZ2FmanJ5MVV6MElQTU9oTDdwai1sbTVVemdVWmpuRlBaZlBSc3N1anJYOW96LXpiMmhSMTIxWG5iTERmeGRZanY5MjlDeUxwUVNJZFc1Qk1WMUFJTGJCdnRKYkFSUjNjQU5ZeHR4U09LRGlwNHRRc01FU203bDRGTk1KN0NCRXpZTQ?oc=5",
-          "title": "Abrasives And Timber Market in Africa: Size, Trends and Forecast to 2035",
-          "summary": "A new market report analyzes the expanding demand for abrasives alongside the timber industry across African markets up to 2035.",
-          "why": "Woodworking is a key end-user segment for coated abrasives and sanding belts, signaling regional demand expansion.",
-          "action": "Keep an eye on emerging regional wood processing hubs as potential benchmarks for wood-sanding demand.",
-          "th": {
-            "title": "ตลาดวัสดุขัดและไม้ในแอฟริกา: ขนาด แนวโน้ม และการคาดการณ์ถึงปี 2035",
-            "summary": "รายงานตลาดใหม่วิเคราะห์ความต้องการวัสดุขัดที่เติบโตควบคู่ไปกับอุตสาหกรรมไม้ในตลาดแอฟริกาจนถึงปี 2035",
-            "why": "อุตสาหกรรมแปรรูปไม้เป็นตลาดผู้ใช้หลักสำหรับกระดาษทรายและสายพานขัด ซึ่งสะท้อนถึงการขยายตัวของอوبกรณ์ขัดไม้ในระดับภูมิภาค",
-            "action": "จับตาดูศูนย์กลางการแปรรูปไม้เกิดใหม่ในภูมิภาคเพื่อเป็นข้อมูลอ้างอิงสำหรับความต้องการกระดาษทรายขัดไม้"
-          }
-        },
-        {
-          "id": "20261028-w4",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "https://economy.ac/",
-          "date": "2026-08-07",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YQWhOYlJ3eW9jTUhwa25XdE55eHh3a2JoODhWdDAtOW00UzhXcWwtNnJJXzZGMjMtNXN6MTYwTUhib3ZHUDNXaTdIbWY2N092QXNsOXFfdw?oc=5",
-          "title": "‘Trump Tariffs and AI Boom’ Propel U.S. Steel Past Japan to World No. 3 for First Time in 26 Years",
-          "summary": "U.S. steel production surged past Japan to secure the world's third spot, driven by trade protectionism and technology-driven industrial demand.",
-          "why": "Shifts in global steel manufacturing output directly impact metal fabrication volumes and subsequent deburring/grinding tool consumption.",
-          "action": "Track regional steel output shifts to anticipate metal-working tool consumption trends.",
-          "th": {
-            "title": "'ภาษีทรัมป์และบูม AI' ผลักดันเหล็กสหรัฐฯแซงญี่ปุ่นขึ้นเบอร์ 3 ของโลกในรอบ 26 ปี",
-            "summary": "การผลิตเหล็กของสหรัฐฯ พุ่งแซงญี่ปุ่นขึ้นสู่อันดับ 3 ของโลก ขับเคลื่อนด้วยมาตรการปกป้องทางการค้าและความต้องการทางอุตสาหกรรมจากเทคโนโลยี AI",
-            "why": "การเปลี่ยนแปลงของปริมาณการผลิตเหล็กโลกส่งผลโดยตรงต่อปริมาณงานแปรรูปโลหะและการใช้เครื่องมือลบคมและเจียร",
-            "action": "ติดตามการเปลี่ยนแปลงการผลิตเหล็กในแต่ละภูมิภาคเพื่อคาดการณ์แนวโน้มการใช้เครื่องมือแปรรูปโลหะ"
-          }
-        },
-        {
-          "id": "20261028-w5",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "Progressive Policy Institute",
-          "date": "2026-09-23",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTeHd1akw0WFVaUWFucjdlRWp1cFBVQjRiRi1rWFd2WlNVRkQzanJJMmpMV3BBM0QxVEF5N2FZcmFMSFNxQ3M1VTQ5c1VJYjhJRVRQQVM3M2tac1FFMGdSSlZ4eTdQdzNINFB1MDR0a09haWhpNkFIVV9aWlA?oc=5",
-          "title": "American Industry Is Using Less Steel",
-          "summary": "Recent policy and industrial data indicates that American manufacturing is utilizing lower overall volumes of steel due to material substitutions and efficiency gains.",
-          "why": "Lower raw steel intensity in manufacturing can alter the volume of heavy metal grinding and finishing consumables required.",
-          "action": "Diversify product application focus toward emerging lightweight alloys and alternative metals where surface prep remains critical.",
-          "th": {
-            "title": "อุตสาหกรรมอเมริกันใช้เหล็กลดลง",
-            "summary": "ข้อมูลนโยบายและอุตสาหกรรมล่าสุดบ่งชี้ว่าภาคการผลิตของอเมริกาใช้ปริมาณเหล็กลดลงเนื่องจากการใช้วัสดุอื่นทดแทนและประสิทธิภาพการผลิตที่สูงขึ้น",
-            "why": "การใช้เหล็กดิบที่ลดลงในภาคการผลิตอาจส่งผลต่อปริมาณความต้องการใช้วัสดุสิ้นเปลืองสำหรับงานเจียรและตกแต่งผิวโลหะหนัก",
-            "action": "กระจายความสนใจของแอปพลิเคชันผลิตภัณฑ์ไปยังโลหะผสมน้ำหนักเบาและวัสดุทางเลือกอื่นๆ ที่ยังคงต้องมีการเตรียมผิวอย่างเข้มข้น"
           }
         }
       ]
