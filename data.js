@@ -2,6 +2,71 @@
 window.NEWS_ARCHIVE = {
   "days": [
     {
+      "date": "2026-11-11",
+      "summary": "Today has limited new developments; key updates focus on KGEN accelerating domestic commercial EV assembly under the 35% import tariff, and the BOI engaging six major Japanese automakers for over 40 billion baht in localized EV investments.",
+      "directCount": 1,
+      "th": {
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก ประเด็นสำคัญอยู่ที่การเดินหน้าประกอบรถ EV เชิงพาณิชย์ในประเทศของ KGEN เพื่อรับอานิสงส์ภาษีนำเข้า 35% และบีโอไอเร่งเจรจา 6 ค่ายรถยนต์ญี่ปุ่นรายใหญ่ดึงเม็ดเงินลงทุนผลิต EV ในไทยกว่า 4 หมื่นล้านบาท"
+      },
+      "items": [
+        {
+          "id": "20261111-1",
+          "tag": "auto",
+          "rating": "green",
+          "source": "Share2Trade",
+          "date": "2026-11-10",
+          "url": "https://news.google.com/rss/articles/CBMilwpBVV95cUxQdGowbjI1UnZQY2xJNFBqTURFbDU4eDJKYU40a0MtWFY0aEJuQXc2dzFYNlZRLXdwNEQ1TEplNThaMGRIVHVPQV9OYWtHLTNFdlktRHBZdWl4ZDRybG9MMU5Sd2dKRlREX0czZENsS0J1SFlnQVJOcXNubU13bTFaRW9mYml5a1FHQVVfOGVja2hnT3JibWFORlFyWjNRRFBQZng2WlhpNkh4MXJYUThNOVJuY1llbXNVbE5HQ3NuNEowVFdNMnJDY2I4dFNlQTNzVEFGQnJ3SEJ3VnlONWRHNFd3LV9WWHJzb2haR3FtRzZzeVRzZ1hkc2VKcGNpcHVhb3JjNEhxTFJPRlI5QmNfSWxlMUtiOUwybjl0THI1V2JrVDk2OF9zMFlVelBsTFZxNjZfcFlvdXRpVFo2ZDZMOEVGT3BJQUI1cDdlbDdIcEtjS1ZpMWtuajhfdDNmWFk2TEdwMC0yQk8xV21SRVZXSGY0b3lKaC0xVFBmM19QaWw3NFJ4aEMtTXFiSTcwZmptUjdJOGJMTHNodDdKMjNVTlBtNkJrQThMVF9KdEVrMmJrZzB5ZGx6Zmdya2QwMTFfYXJvMVdnOWJ5SlRTY3BqWm4tbHlSYmdqNWUwcDd4R3V1Y0NYV3Vad1JZc0NqQ0VPYWdQbEZoNTFvd29vWUF1YTFsZ2hJWFAxb1dFdHQ2WmhBQ3NseFpUckxBbWRXRTlRTl9XN1F0ZTh2eHd3cjFXTFpXSk1RLXB1X3dudnVSUFFQWEtCaW8zTE1QaVFqMkxRTDdELUJfQmJGSGpBM25SYlJLOS03MENkbUF4dUVhNldxalpMVko3SjhueHNtQXRHS1hmX3pQLUJHeXI4NkhoMHdFR2ZXRzdBNUFWWXZYNnhzdTlnZGZ4QnhzaEljcTNvMEZZTXdxWVBhdG9fQ1dkR3ZfZm5uOHNSekNHUjR1MlZaalE1SWZhbkN2Mm10aWpncUREbHhVNFF4a3I4czJBT3NvSDdqY015S0xUY2NyWWQ4ZU9ueEFkQkkxa1oyX1VqdjlENTRRSEVsNEFodEFINWpfcmtEZ0VhV3hxb0ZFa04tTFRDOGZkWmdKd3ZfMXBkLXJsTDhUQlhEOHN5bF9vRFh6ZzBpd0FCNzdqdjBlX0dadUdneXF0UzFlcmRSN29HeXNWckZJSjgyMF9Id01KeC1wTzJENUJFamZidU1HMWJKU0pGOWhKc1dyZ0h5UHNKUEFIb2RYZTFGYUZHVl94Vi1uc3FyeXYxc1JXVUtRNkZrbzlXc01oN0Y3WFdjR0UxMzc4aWVXd1VJc1h2VTg1aURKZE5tWmV6c2xGNVh3ay00QURHMmlDU25oX293V3pOd2xua2VLYkhnbDliNlJHM1MyWk5EMi01Ql9VUXdkUXdJTFV2c3pRM3NiMXBOTjJwanFIV0xpSk10YV9aaENDWDFZM2RnZk9tVm1VLXc5Rm5TWEFIdDZmcXFCck91YlZYMkpkRjBFTFpreHRMb2tIQXNZVVFzTUFqVk9wMDA0d1BzTXNhSGp5ejlVemcxNENPS0g4SF9Mc01jVDBJNWh1SDBQZGFFZzJsRk1GV3l1Skd5dmF4ZWpVNWlVM1prSUV4elNYYUdSNm9wTzRlNUhCQ1BfWE02QnJ3M09TSXVkaXg2MTRPbWtHRWJaUklSZkM0aURzbno0NFdQNDhoMlFsOUF6UDdGUXRvWWUtLWpGYUd1OUFHdUFr?oc=5",
+          "title": "KGEN Expands Domestic Commercial EV Assembly in Response to 35% Import Tariff",
+          "summary": "KGEN is ramping up local assembly lines for commercial electric vehicles, including electric buses and trucks, to capitalize on the new 35% tariff on imported EVs. The company targets aggressive revenue growth by strengthening domestic manufacturing competitiveness.",
+          "why": "Localized production of commercial EVs directly expands fabrication, welding seam grinding, and body surface prep abrasive usage in Thai plants.",
+          "action": "Target KGEN's commercial vehicle assembly facilities and bodybuilder suppliers to present heavy-duty grinding discs and sanding belts.",
+          "th": {
+            "title": "KGEN ขานรับภาษี EV ใหม่ 35% เร่งเครื่องขยายฐานประกอบรถเชิงพาณิชย์ในไทย",
+            "summary": "KGEN เดินหน้าประกอบรถยนต์ไฟฟ้าเชิงพาณิชย์ เช่น รถบัสและรถบรรทุกไฟฟ้าในประเทศ เพื่อรับประโยชน์จากภาษีนำเข้า 35% พร้อมตั้งเป้ายอดขายเติบโตอย่างมีนัยสำคัญ",
+            "why": "การประกอบรถ EV เชิงพาณิชย์ขนาดใหญ่ในประเทศช่วยเพิ่มการผลิตโครงสร้างโลหะ งานขัดแนวเชื่อม และงานเตรียมผิวก่อนพ่นสีโดยตรง",
+            "action": "เข้าพบทีมวิศวกรรมการผลิตและจัดซื้อของ KGEN รวมถึงโรงงานต่อตัวถังเพื่อเสนอจานขัดทรายซ้อนและสายพานผ้าทรายสำหรับงานหนัก"
+          }
+        },
+        {
+          "id": "20261111-2",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "www.thairath.co.th",
+          "date": "2026-11-09",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GNmpFZTVfcE9MNGRiVnM5cy1hN1VfcWQ4MXpma1I4UG9lNmpFaGlwTG5MSC1HTUdQSmhOa3ROZEZiektXbmVkbS1Pb3ZGWkFUNmZVYmpRVkR1R1lJd29v?oc=5",
+          "title": "BOI Leverages 35% Tariff to Engage 6 Major Japanese Automakers for 40B Baht Investments",
+          "summary": "The Board of Investment (BOI) is utilizing the 35% EV import tariff as leverage to accelerate negotiations with six major Japanese automakers to localize EV manufacturing worth over 40 billion baht. The policy aims to safeguard Thailand's position as the primary manufacturing base for Japanese auto brands.",
+          "why": "Japanese auto OEMs and their Tier-1 stamping and machining supply chain are MK's primary ICP; securing their localized production protects baseline abrasive demand.",
+          "action": "Engage Japanese Tier-1 metal stamping and body-in-white suppliers to introduce automated robotic grinding solutions for their next-generation tooling.",
+          "th": {
+            "title": "บีโอไอหนุนภาษี EV 35% ดึง 6 ค่ายรถยนต์ญี่ปุ่นตั้งฐานผลิต ดันยอดลงทุนทะลุ 4 หมื่นล้าน",
+            "summary": "บีโอไอใช้มาตรการภาษีนำเข้า EV 35% เร่งเจรจากับ 6 บิ๊กค่ายรถยนต์ญี่ปุ่นเพื่อดึงเม็ดเงินลงทุนตั้งฐานผลิต EV ในไทยมูลค่ากว่า 4 หมื่นล้านบาท เพื่อรักษาความเป็นฐานการผลิตหลัก",
+            "why": "ค่ายรถยนต์ญี่ปุ่นและเครือข่ายซัพพลายเออร์ปั๊มขึ้นรูปโลหะคือกลุ่มลูกค้าอุดมคติ (ICP) หลักของ MK การดึงเม็ดเงินลงทุนช่วยรักษาปริมาณการใช้วัสดุขัดอย่างยั่งยืน",
+            "action": "ประสานงานกับกลุ่มผู้ผลิตชิ้นส่วนยานยนต์ญี่ปุ่นระดับ Tier-1 เพื่อนำเสนอหินเจียรและวัสดุขัดผิวสำหรับสายการผลิตและแม่พิมพ์ใหม่"
+          }
+        },
+        {
+          "id": "20261111-3",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "thansettakij",
+          "date": "2026-05-20",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYUkQ1OTVxM3QtdnAtcUlCc1JQelZVNU53OUNENkd5QnBfeVUtN29mVlZ6Y251UzBWVW9OQ3VKQVQ4cmtyT2lpc0NuemY3THhrOHlhNG53UHM4bnZSaVBUYnVScjZUTmNlU1VhY3B3?oc=5",
+          "title": "10 Thai Steel Associations Demand Ban on Substandard Induction Furnace (IF) Mills",
+          "summary": "Ten major domestic steel associations are urging the Ministry of Industry to officially ban substandard Induction Furnace (IF) mills and restrict unregulated foreign capital. The industry seeks stricter quality enforcement to protect compliant domestic steel fabricators from dumping.",
+          "why": "Eliminating substandard melting mills preserves high-standard steel fabrication facilities, which are steady, volume consumers of certified industrial abrasive discs.",
+          "action": "Strengthen supply agreements with certified structural steel fabricators by promoting high-safety cut-off wheels and grinding consumables to improve operational margins.",
+          "th": {
+            "title": "10 สมาคมเหล็กจี้รัฐเร่งแบนโรงงาน IF เถื่อน สกัดทุนเทาปกป้องผู้ผลิตเหล็กมาตรฐาน",
+            "summary": "10 สมาคมเหล็กในประเทศร่วมยื่นหนังสือเรียกร้องให้กระทรวงอุตสาหกรรมแบนโรงงานเหล็กเตาหลอม IF ที่ไม่ได้มาตรฐาน และสกัดทุนต่างชาติผิดกฎหมายเพื่อปกป้องโรงงานมาตรฐาน",
+            "why": "การกวาดล้างโรงงานเหล็กด้อยคุณภาพช่วยรักษาฐานลูกค้าโรงงานแปรรูปโครงสร้างเหล็กมาตรฐาน ซึ่งเป็นผู้ซื้อวัสดุขัดและใบเจียรเซฟตี้สูงอย่างต่อเนื่อง",
+            "action": "กระชับความสัมพันธ์กับกลุ่มโรงงานแปรรูปเหล็กมาตรฐาน โดยนำเสนอใบตัดและใบเจียรสมรรถนะสูงที่ช่วยลดต้นทุนรวมและเพิ่มความปลอดภัยในโรงงาน"
+          }
+        }
+      ],
+      "terms": {}
+    },
+    {
       "date": "2026-11-10",
       "summary": "Today has limited fresh industry developments as EV tariff coverage stabilizes, but landmark contracts for the U-Tapao MRO hub and major OEM backing for local EV manufacturing solidify medium-term abrasive demand in aerospace and automotive tooling.",
       "directCount": 1,
@@ -832,5 +897,5 @@ window.NEWS_ARCHIVE = {
       "terms": {}
     }
   ],
-  "updated": "2026-11-10"
+  "updated": "2026-11-11"
 };
