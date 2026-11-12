@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-11-11",
+  "updated": "2026-11-12",
   "days": [
+    {
+      "date": "2026-11-12",
+      "summary": "Today's global trend briefing highlights new market demands in precision polishing media, pickling acids for steel treatment, and the expanding global coatings landscape, signaling steady growth across metal fabrication and surface finishing sectors.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปเทรนด์โลกประจำวันนี้นำเสนอความต้องการของตลาดที่เติบโตขึ้นในกลุ่มสื่อขัดเงาที่มีความแม่นยำ กรดดองเหล็กสำหรับงานเตรียมผิวเหล็ก และอุตสาหกรรมเคลือบผิว ซึ่งส่งสัญญาณถึงการเติบโตอย่างต่อเนื่องในภาคการขึ้นรูปโลหะและการตกแต่งพื้นผิว"
+      },
+      "items": [
+        {
+          "id": "20261112-w1",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-11-11",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdEJFdUVxZ1A4UDJQVEhmQ043cnlQNEExRzgzU3k4Q0dlVHJ2ZGlFYWQ3Vk5RLWZWZ1M2VVIzOHpIX3NCbEI1NE5WVTRkNXFGdlBfb0l4SlN1dEZqMzBoZUxMTGFHQjBUaWdhYk0xY1NNcnBMOU90aXE2Z1Bfa1hLOFVlbDEtNUNGZXM4SGpEV0h6YmZMQzVIMHhoQUMteGNqdnlVRWQ3TGVOMnIwU0VfUGVCMW1tb0JrR2Ixc1M5QQ?oc=5",
+          "title": "Polishing Media Market To 2035: Precision Manufacturing Demand Drives Growth",
+          "summary": "The global polishing media market is projected to expand significantly through 2035, driven by rising requirements for high-precision manufacturing and surface finishing.",
+          "why": "Direct correlation to our core product lines; higher demand for precision manufacturing means greater consumption of polishing and surface-prep media.",
+          "action": "Monitor high-precision polishing media trends and ensure our product catalog aligns with fine-finishing demands.",
+          "th": {
+            "title": "ตลาดสื่อขัดเงาถึงปี 2035: ความต้องการการผลิตแบบแม่นยำขับเคลื่อนการเติบโต",
+            "summary": "ตลาดสื่อขัดเงาทั่วโลกคาดว่าจะขยายตัวอย่างมีนัยสำคัญจนถึงปี 2035 โดยได้รับแรงหนุนจากความต้องการที่เพิ่มขึ้นสำหรับการผลิตและการตกแต่งพื้นผิวที่มีความแม่นยำสูง",
+            "why": "มีความเกี่ยวข้องโดยตรงกับกลุ่มผลิตภัณฑ์หลักของเรา ความต้องการการผลิตที่แม่นยำยิ่งขึ้นหมายถึงการบริโภควัสดุขัดเงาและเตรียมพื้นผิวที่สูงขึ้น",
+            "action": "ติดตามเทรนด์สื่อขัดเงาความแม่นยำสูงและตรวจสอบให้แน่ใจว่าแคตตาล็อกสินค้าของเราสอดคล้องกับความต้องการงานขัดละเอียด"
+          }
+        },
+        {
+          "id": "20261112-w2",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "IndexBox",
+          "date": "2026-11-11",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYVJwVGx6OUpnSXNGRWlUZmNVWEF2X1hTbk9senZQWnZuOURQNlB0UDJNaWxLQjM0c1U5ZnJ1TzFua2pDLU9iU2NsS2ZFbENNWnhuSlNTTnkxVF9uSnJVRjNYVDhDbGhjTnJrUnNlY2ZXMjNJeVZwSjRJM0t5czRXRFJrdkJ3cUd1YjFJaU5nMEJDYS1yaUZfNEJLQ0kxQkxxRktRS2UtOFF2ZFRhXzl2Z0RfWUpKOE0wZE1rekpfTlloMnJMbEJfbVdR?oc=5",
+          "title": "Pickling Acids Market Forecast to 2035: Growth Driven by Steel Pickling Demand and Recycling Mandates",
+          "summary": "Steel pickling and surface treatment activities continue to grow steadily, driven by metal processing requirements and environmental regulations.",
+          "why": "Steel pickling is a crucial pre-treatment step before grinding and abrasive finishing in metal fabrication plants.",
+          "action": "Keep track of steel surface pre-treatment volumes as a leading indicator for upcoming metal fabrication and abrasive orders.",
+          "th": {
+            "title": "คาดการณ์ตลาดกรดดองเหล็กถึงปี 2035: การเติบโตขับเคลื่อนโดยความต้องการดองเหล็กและข้อกำหนดการรีไซเคิล",
+            "summary": "กิจกรรมการดองเหล็กและการเตรียมพื้นผิวเติบโตอย่างต่อเนื่อง ขับเคลื่อนด้วยข้อกำหนดด้านกระบวนการแปรรูปโลหะและกฎระเบียบด้านสิ่งแวดล้อม",
+            "why": "กระบวนการดองเหล็กเป็นขั้นตอนการเตรียมผิวที่สำคัญก่อนการเจียรและตกแต่งด้วยวัสดุขัดในโรงงานแปรรูปโลหะ",
+            "action": "ติดตามปริมาณการเตรียมพื้นผิวโลหะเหล็กเพื่อใช้เป็นดัชนีชี้วัดล่วงหน้าสำหรับคำสั่งซื้อโลหะและวัสดุขัดที่กำลังจะมาถึง"
+          }
+        },
+        {
+          "id": "20261112-w3",
+          "tag": "coating",
+          "rating": "white",
+          "source": "Grand View Research",
+          "date": "2025-01-20",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWFBnYWlSdVI1UzZJbzBQMHZTbm9BLV9fVW5tQm1yczhTMjEybkVIeXFBQnRtT2lMVVM0T0gzODJMOXNCbFd2OUxpTUdiMVVyTThDNV9CVXJzd2Q2ejJsQlNkNk1vVVUtVmJkd2F4b2EwYVF5RVcyRjhuMHRFaGlvc3BSTzZJRVYyQ2c?oc=5",
+          "title": "Graphene Coating Market Size & Share Report, 2025-2030",
+          "summary": "Advanced protective coatings incorporating nanomaterials like graphene are expanding rapidly due to enhanced durability and anti-corrosion properties.",
+          "why": "New coating technologies change how surfaces are prepared, sanded, and finished before and after coating applications.",
+          "action": "Observe how advanced coating hardness impacts surface preparation and sanding roughness requirements.",
+          "th": {
+            "title": "รายงานขนาดและส่วนแบ่งตลาดการเคลือบกราฟีน ปี 2025-2030",
+            "summary": "การเคลือบผิวป้องกันขั้นสูงที่ใช้นาโนวัสดุกราฟีนกำลังขยายตัวอย่างรวดเร็ว เนื่องจากมีความทนทานสูงและมีคุณสมบัติป้องกันการกัดกร่อนที่ดีเยี่ยม",
+            "why": "เทคโนโลยีการเคลือบผิวใหม่ๆ เปลี่ยนแปลงวิธีการเตรียมพื้นผิว การขัด และการตกแต่ง ทั้งก่อนและหลังการพ่นเคลือบ",
+            "action": "สังเกตว่าความแข็งของสารเคลือบขั้นสูงส่งผลอย่างไรต่อความต้องการในการเตรียมพื้นผิวและความหยาบของการขัด"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-11-11",
       "summary": "Today's briefing highlights shifts in primary metal manufacturing with a focus on green steel, smart factory trends emphasizing flexibility and AI, and ongoing structural adjustments in China's automotive sector.",
@@ -866,70 +930,6 @@ window.WORLD_ARCHIVE = {
             "summary": "ตลาดการหล่อโลหะทั่วโลกยังคงเติบโตอย่างต่อเนื่อง ขับเคลื่อนโดยความต้องการเครื่องจักรกล ชิ้นส่วนยานยนต์ และโครงสร้างพื้นฐาน",
             "why": "งานหล่อโลหะจำเป็นต้องมีการลบคม การตัดแต่งส่วนเกิน และการเจียรผิวอย่างกว้างขวาง ซึ่งถือเป็นตลาดหลักที่สำคัญสำหรับผลิตภัณฑ์กระดาษทรายและใบเจียรในอุตสาหกรรม",
             "action": "เจาะกลุ่มโรงหล่อและเวิร์กช็อปหล่อโลหะด้วยแผ่นเจียรและสายพานขัดรุนแรงที่มีความทนทานสูง"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-10-29",
-      "summary": "Today's briefing highlights global market forecasts for abrasives reaching $72.2B by 2030, EV manufacturing consolidation in China, and new mechanical surface preparation challenges in woodworking.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปข่าววันนี้เน้นไปที่การเติบโตของตลาดวัสดุขัดทั่วโลกที่จะแตะ 7.22 หมื่นล้านดอลลาร์ภายในปี 2030, การควบรวมกิจการในอุตสาหกรรมยานยนต์ EV ของจีน และความท้าทายใหม่ๆ ในการเตรียมพื้นผิวงานไม้"
-      },
-      "items": [
-        {
-          "id": "20261029-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "EIN News",
-          "date": "2026-10-19",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM2VsRTlqVWR6dlpoUXpZQ04wNnJsRUNBbndKSnNQODIyUXdnTTlIT0hZMC10bGhEUUk0clZ5ZWZRN0I2eVhiVHVPVmRYd05xWUdJdDJldTBsTkZEUVNBNG5qaE9WeXdDN2dSVzJ2TzNsVFhBNVMzakhwZFR6Z0dQeFFVS0ZPa0dmWmh1dHhiYXVXWWRrbk9XS251Ul9SVS1SZ3NON0VXRWxfOWtzazlNcXhUMVBnU2liODhqaHF6OEdGb2NEYkRoaG9uNmx6MlNjMUd2N3Q0emZnUXltZk1wbg?oc=5",
-          "title": "Abrasives Market to Reach $72.2 Billion by 2030, Growing at a 7.6% CAGR Driven by Precision Finishing Demand",
-          "summary": "The global abrasives market is projected to reach $72.2 billion by 2030, expanding at a robust 7.6% CAGR, heavily driven by the growing demand for precision finishing across industries.",
-          "why": "Confirms strong long-term global demand for abrasives, signaling that precision finishing remains a key growth engine for our B2B customers.",
-          "action": "Ensure our product portfolio and inventory focus on high-precision sanding and grinding solutions.",
-          "th": {
-            "title": "ตลาดวัสดุขัดทั่วโลกคาดว่าจะแตะ 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 เติบโต 7.6% จากความต้องการตกแต่งผิวอย่างแม่นยำ",
-            "summary": "ตลาดวัสดุขัดทั่วโลกมีแนวโน้มเติบโตอย่างแข็งแกร่งด้วยอัตราเติบโตเฉลี่ย 7.6% ต่อปี ขับเคลื่อนโดยความต้องการงานขัดตกแต่งที่มีความแม่นยำสูงในภาคอุตสาหกรรม",
-            "why": "ยืนยันถึงความต้องการวัสดุขัดในระดับโลกที่ยังคงเติบโตระยะยาว และแสดงให้เห็นว่างานขัดผิวความแม่นยำสูงคือหัวใจสำคัญของลูกค้า B2B",
-            "action": "เตรียมสินค้าและสต็อกในกลุ่มกระดาษทรายและอุปกรณ์ขัดที่มีความละเอียดและแม่นยำสูงเพื่อรองรับตลาด"
-          }
-        },
-        {
-          "id": "20261029-w2",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-10-28",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMExMd0h3VTZZUGVhTmVoNENZT0RDYkZhOFlTUzZUd3RmT0RNRGJKVjlQVTBmRnkwa21iZEl6ZlNJYmIzVTJjQzU1eGhrcTFPOHhNQWRlSWVWaDlwR2FIVGZmSWJlQk00ZmNRUE5oc1owOGtPSzM2QzNCY0R4YXJNdjdwWExHVzNDM1JXSGRpMnNTdHQ1QXdnWlk2MFlFc21GRXd5QjVVYVItalFMN2hjZmZqZi1nd2I5aVBhYlRhbTQ?oc=5",
-          "title": "China's car industry consolidation begins: who will survive?",
-          "summary": "China's automotive sector is undergoing a major consolidation wave, forcing manufacturers to optimize production efficiency and supplier networks.",
-          "why": "Shifts in the automotive supply chain directly affect metal stamping, body-in-white prep, and component finishing demands.",
-          "action": "Monitor supply chain shifts in regional automotive manufacturing to anticipate changes in abrasives consumption.",
-          "th": {
-            "title": "การควบรวมกิจการในอุตสาหกรรมรถยนต์ของจีนเริ่มต้นขึ้น: ใครจะอยู่รอด?",
-            "summary": "ภาคอุตสาหกรรมยานยนต์ของจีนกำลังเผชิญกับการควบรวมกิจการครั้งใหญ่ ส่งผลให้ผู้ผลิตต้องเร่งปรับปรุงประสิทธิภาพการผลิตและเครือข่ายซัพพลายเออร์",
-            "why": "การเปลี่ยนแปลงในห่วงโซ่อุปทานยานยนต์ส่งผลโดยตรงต่อความต้องการวัสดุขัดสำหรับเตรียมผิวโลหะและชิ้นส่วนยานยนต์",
-            "action": "ติดตามการเปลี่ยนแปลงของห่วงโซ่อุปทานการผลิตรถยนต์ในภูมิภาคเพื่อคาดการณ์ความต้องการใช้วัสดุขัด"
-          }
-        },
-        {
-          "id": "20261029-w3",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "Woodworking Network",
-          "date": "2026-10-28",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPenJGZzhiOUMyeFhrU09yQ3hfR1puSkF4NFhiV19HUUtvbE1POE9iUzZ4T3pZOTdKaVlKSWdZQ1RHSGhVdHJSdmstZWdaUE9wMGVDMEJJckNIRzBHck5UcmZWOFctbUhnQVA5OWRtTmVpVno0MHlsQzRfd0FIWEFTSDJPNW1zS1R6Tk9rV3ZyZE0waVpUQ2U0eFgtY0U?oc=5",
-          "title": "New technology tackles familiar sanding challenges",
-          "summary": "Recent advancements in woodworking technology introduce new methods to overcome traditional sanding and surface preparation bottlenecks.",
-          "why": "Directly impacts our wood industry sanding product lines, offering potential solutions to pitch loading and uneven surface finishes.",
-          "action": "Look into new anti-clogging abrasive coatings or flexible belts suited for modern woodworking machinery.",
-          "th": {
-            "title": "เทคโนโลยีใหม่แก้ปัญหาความท้าทายเดิมๆ ในงานขัดกระดาษทราย",
-            "summary": "ความก้าวหน้าล่าสุดในเทคโนโลยีงานไม้ได้นำเสนอวิธีใหม่ๆ ในการแก้ปัญหาคอขวดของการขัดและการเตรียมพื้นผิวแบบเดิม",
-            "why": "เกี่ยวข้องโดยตรงกับกลุ่มผลิตภัณฑ์กระดาษทรายสำหรับอุตสาหกรรมไม้ ช่วยแก้ปัญหาเรื่องฝุ่นอุดตันและผิวงานไม่เรียบ",
-            "action": "ศึกษาเทคโนโลยีสารเคลือบกันการอุดตันรุ่นใหม่ๆ หรือสายพานขัดที่เหมาะกับเครื่องจักรแปรรูปไม้ยุคใหม่"
           }
         }
       ]
