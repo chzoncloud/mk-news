@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-11-12",
-      "summary": "Today's briefing focuses on global manufacturing shifts, including McKinsey's 2026 materials outlook, green coatings innovations, and industrial decarbonization trends impacting metal and steel sectors.",
+      "summary": "Today's intelligence focuses on the evolving polishing media and industrial abrasives markets driven by precision manufacturing, alongside steel sector pressures from carbon regulations like CBAM.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปทิศทางอุตสาหกรรมโลกประจำวันนี้ เน้นการเปลี่ยนแปลงด้านวัสดุตามรายงาน McKinsey ปี 2026 นวัตกรรมสีเคลือบที่เป็นมิตรต่อสิ่งแวดล้อม และแนวโน้มการลดคาร์บอนในภาคอุตสาหกรรมเหล็กและโลหะ"
+        "summary": "ข้อมูลเชิงลึกวันนี้มุ่งเน้นไปที่ตลาดวัสดุขัดเงาและ abrasives อุตสาหกรรมที่ขับเคลื่อนด้วยการผลิตที่มีความแม่นยำ ควบคู่ไปกับแรงกดดันในภาคเหล็กจากกฎระเบียบคาร์บอน CBAM"
       },
       "items": [
         {
           "id": "20261112-w1",
-          "tag": "steel",
+          "tag": "abrasive",
           "rating": "green",
-          "source": "McKinsey & Company",
-          "date": "2026-10-13",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdnNVdDFMS2JxSVFHY2loZDFNZ19DZW5kWGVTclltOHBvbGdGdnFPaWdvZG1SVFg2OFdMcWhXbzY5a211NjdTV1BTeUU4ZzFIOEVGNmluS3M2X3FIY2sweW0yWVFBenpNYjlmWk45R2k1Rkgyd05td1F2X2I4N0RMX0FXX3pYeWVJSUVVSVdybGF4SGdnVDM2ZnQtaUEyNGs?oc=5",
-          "title": "Global Materials Perspective 2026",
-          "summary": "McKinsey releases its comprehensive 2026 outlook on global materials, highlighting supply chain adjustments, sustainability demands, and technological shifts across manufacturing sectors.",
-          "why": "Shifts in global materials demand directly influence how and where metal fabrication and surface finishing are prioritized worldwide.",
-          "action": "Review material demand forecasts to align our abrasive inventory with shifting industrial sectors.",
+          "source": "IndexBox",
+          "date": "2026-11-11",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdEJFdUVxZ1A4UDJQVEhmQ043cnlQNEExRzgzU3k4Q0dlVHJ2ZGlFYWQ3Vk5RLWZWZ1M2VVIzOHpIX3NCbEI1NE5WVTRkNXFGdlBfb0l4SlN1dEZqMzBoZUxMTGFHQjBUaWdhYk0xY1NNcnBMOU90aXE2Z1Bfa1hLOFVlbDEtNUNGZXM4SGpEV0h6YmZMQzVIMHhoQUMteGNqdnlVRWQ3TGVOMnIwU0VfUGVCMW1tb0JrR2Ixc1M5QQ?oc=5",
+          "title": "Polishing Media Market To 2035: Precision Manufacturing Demand Drives Growth",
+          "summary": "The global polishing media market is projected for steady growth up to 2035, heavily driven by increasing requirements in precision manufacturing.",
+          "why": "Directly impacts our core business area of surface finishing and polishing supplies for high-tech and industrial components.",
+          "action": "Monitor trends in precision polishing media to identify emerging product categories for our B2B catalog.",
           "th": {
-            "title": "มุมมองวัสดุโลกปี 2026",
-            "summary": "McKinsey เผยแพร่รายงานคาดการณ์วัสดุโลกปี 2026 โดยเน้นการปรับเปลี่ยนห่วงโซ่อุปทาน ความต้องการด้านความยั่งยืน และการเปลี่ยนแปลงทางเทคโนโลยีในภาคการผลิต",
-            "why": "การเปลี่ยนแปลงความต้องการวัสดุระดับโลกส่งผลโดยตรงต่อทิศทางและความต้องการใช้งานผลิตภัณฑ์ขัดและเตรียมพื้นผิวโลหะ",
-            "action": "ทบทวนการพยากรณ์ความต้องการใช้วัสดุเพื่อปรับสต็อกสินค้ากลุ่มกระดาษทรายและอุปกรณ์ขัดให้สอดคล้องกับภาคอุตสาหกรรมที่กำลังเติบโต"
+            "title": "ตลาดสื่อขัดเงาถึงปี 2035: ความต้องการการผลิตที่แม่นยำขับเคลื่อนการเติบโต",
+            "summary": "ตลาดสื่อขัดเงาทั่วโลกคาดว่าจะเติบโตอย่างต่อเนื่องจนถึงปี 2035 ขับเคลื่อนโดยความต้องการที่เพิ่มขึ้นในการผลิตที่มีความแม่นยำสูง",
+            "why": "ส่งผลโดยตรงต่อธุรกิจหลักของเราในด้านผลิตภัณฑ์ตกแต่งพื้นผิวและขัดเงาสำหรับชิ้นส่วนไฮเทคและอุตสาหกรรม",
+            "action": "ติดตามแนวโน้มของสื่อขัดเงาที่มีความแม่นยำเพื่อระบุหมวดหมู่ผลิตภัณฑ์ใหม่สำหรับแคตตาล็อก B2B ของเรา"
           }
         },
         {
           "id": "20261112-w2",
-          "tag": "coating",
+          "tag": "steel",
           "rating": "amber",
-          "source": "European Coatings",
-          "date": "2026-09-09",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
-          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
-          "summary": "The European coatings sector is focusing heavily on next-generation sustainable chemistries and digital manufacturing integration to improve surface performance.",
-          "why": "Advanced surface coatings often require specialized preparation, sanding, and fine-finishing abrasives to ensure proper adhesion.",
-          "action": "Monitor advanced coating trends to identify emerging surface preparation requirements for high-tech finishes.",
+          "source": "IndexBox",
+          "date": "2026-11-10",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONHdPZnJuT3k0blZHdldSaWJVaVE4QWhEemV2U216RjN3dE9GZ0dYN0otNFpEc0V6dGUtTUlrNkZlRV9ZdU5JY2w1UjliREJ1ME1BVW9NRlYxcElLYkdjSUtmSEFoRXR3SE5NTnFtci1fY19mOC1lSVdfcjdPSjdBUG9fZWhtYm9RdlphUmtUVFZBRWZKZTZmSnY3Nm43NEhXZWRpMkkyRlFFdGNKQVZLaUlRTWhkaXdsSWpQNm5QVEhZTTlMRGc?oc=5",
+          "title": "Ramming Mass Market Forecast to 2035: Steel Ladle Demand and Foundry Upgrades Drive Forward Growth",
+          "summary": "Demand for ramming mass is expanding due to steel ladle requirements and ongoing foundry modernizations worldwide.",
+          "why": "Foundries and steel mills are major end-users of heavy grinding and metal preparation tools.",
+          "action": "Keep an eye on foundry upgrade cycles as an indicator of heavy metal fabrication activity.",
           "th": {
-            "title": "กำหนดอนาคตยุคใหม่แห่งสีเคลือบ: นวัตกรรม ความยั่งยืน และพลังดิจิทัล",
-            "summary": "อุตสาหกรรมสีเคลือบในยุโรปกำลังให้ความสำคัญกับเคมีภัณฑ์ยั่งยืนรุ่นใหม่และการผสานรวมการผลิตดิจิทัลเพื่อยقระดับประสิทธิภาพพื้นผิว",
-            "why": "สีเคลือบขั้นสูงมักต้องการกระบวนการเตรียมผิว การขัด และการตกแต่งที่แม่นยำ เพื่อให้การยึดเกาะมีประสิทธิภาพสูงสุด",
-            "action": "ติดตามแนวโน้มสีเคลือบใหม่ๆ เพื่อระบุความต้องการในการเตรียมพื้นผิวที่อาจเกิดขึ้นสำหรับงานเคลือบไฮเทค"
+            "title": "แนวโน้มตลาด Ramming Mass ถึงปี 2035: ความต้องการเหล็กหล่อและการอัปเกรดโรงหล่อขับเคลื่อนการเติบโต",
+            "summary": "ความต้องการวัสดุ Ramming mass กำลังขยายตัวเนื่องจากข้อกำหนดของทัพพีเหล็กและการปรับปรุงโรงหล่อทั่วโลก",
+            "why": "โรงหล่อและโรงงานเหล็กคือผู้ใช้รายใหญ่ของเครื่องมือเจียรหนักและการเตรียมผิวโลหะ",
+            "action": "จับตาดูรอบการอัปเกรดของโรงหล่อเพื่อใช้เป็นตัวชี้วัดกิจกรรมการผลิตโลหะหนัก"
           }
         },
         {
           "id": "20261112-w3",
           "tag": "steel",
           "rating": "amber",
-          "source": "Clean Air Task Force",
-          "date": "2025-03-20",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTlNEUkdVZlZjVkpvaUlZU19vS3hERkE2TjlxMHlzMGR1eWZYVm43MmdWMEhYb2xpMm9GelJrZzVlMHEwWkpDaUFpS2Y3eTgydVA1QmlCNnk4WkNwMjJiaTVjVDVnOENvVHNwbmtNNXhibEFEM2VLNHJ0UXhDUkttb1lOemZYOXBHZ3NGWXBFd1ZWN3F3S25zWWo3WEdEZHB1VFV2M0JWYw?oc=5",
-          "title": "Decarbonization Pathways and Policy Recommendations for the United States Steel Sector",
-          "summary": "Policy recommendations and technological pathways for decarbonizing the US steel sector are pushing mills toward cleaner, modern production methodologies.",
-          "why": "Green steel production transitions require updated surface grinding, scale removal, and finishing tools for new alloy formats.",
-          "action": "Keep an eye on low-carbon steel processing methods that may alter surface finishing specifications.",
+          "source": "IndexBox",
+          "date": "2026-11-11",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYVJwVGx6OUpnSXNGRWlUZmNVWEF2X1hTbk9senZQWnZuOURQNlB0UDJNaWxLQjM0c1U5ZnJ1TzFua2pDLU9iU2NsS2ZFbENNWnhuSlNTTnkxVF9uSnJVRjNYVDhDbGhjTnJrUnNlY2ZXMjNJeVZwSjRJM0t5czRXRFJrdkJ3cUd1YjFJaU5nMEJDYS1yaUZfNEJLQ0kxQkxxRktRS2UtOFF2ZFRhXzl2Z0RfWUpKOE0wZE1rekpfTlloMnJMbEJfbVdR?oc=5",
+          "title": "Pickling Acids Market Forecast to 2035: Growth Driven by Steel Pickling Demand and Recycling Mandates",
+          "summary": "The pickling acids market is growing, sustained by steel surface treatment needs and stricter environmental recycling mandates.",
+          "why": "Steel pickling is a key preparatory step before metal surface finishing and coating applications.",
+          "action": "Understand how metal pretreatment shifts affect downstream abrasive cleaning and finishing demand.",
           "th": {
-            "title": "แนวทางการลดคาร์บอนและข้อเสนอแนะเชิงนโยบายสำหรับอุตสาหกรรมเหล็กสหรัฐฯ",
-            "summary": "ข้อเสนอแนะเชิงนโยบายและเส้นทางเทคโนโลยีในการลดคาร์บอนของอุตสาหกรรมเหล็กสหรัฐฯ ผลักดันให้โรงงานหันมาใช้กระบวนการผลิตที่สะอาดและทันสมัยขึ้น",
-            "why": "การเปลี่ยนผ่านสู่การผลิตเหล็กเขียวจำเป็นต้องอาศัยเครื่องมือขัดผิว ขจัดคราบออกไซด์ และการตกแต่งผิวที่ปรับเปลี่ยนตามรูปแบบโลหะผสมใหม่ๆ",
-            "action": "ติดตามกระบวนการผลิตเหล็กคาร์บอนต่ำที่อาจเปลี่ยนแปลงข้อกำหนดในการตกแต่งพื้นผิว"
+            "title": "การคาดการณ์ตลาดกรดดองเหล็กถึงปี 2035: เติบโตจากความต้องการดองเหล็กและข้อกำหนดรีไซเคิล",
+            "summary": "ตลาดกรดดองเหล็กกำลังเติบโต โดยได้รับแรงหนุนจากความต้องการในการบำบัดผิวเหล็กและข้อกำหนดด้านการรีไซเคิลสิ่งแวดล้อมที่เข้มงวดขึ้น",
+            "why": "กระบวนการดองเหล็กเป็นขั้นตอนเตรียมการสำคัญก่อนการเคลือบและการตกแต่งผิวโลหะ",
+            "action": "ทำความเข้าใจว่าการเปลี่ยนแปลงในการเตรียมผิวโลหะส่งผลต่อความต้องการขัดทำความสะอาดและตกแต่งผิวด้วยวัสดุขัดอย่างไร"
           }
         }
       ]
