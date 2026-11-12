@@ -2,6 +2,71 @@
 window.NEWS_ARCHIVE = {
   "days": [
     {
+      "date": "2026-11-12",
+      "summary": "Today has limited fresh news, but the primary highlight is the BOI-GWM Sourcing Day connecting 76 Thai parts makers directly into the EV manufacturing ecosystem, creating immediate demand for surface preparation abrasives.",
+      "directCount": 1,
+      "th": {
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยข่าวเด่นสำคัญคือ BOI ร่วมกับ GWM จัดงาน Sourcing Day ดึง 76 ซัพพลายเออร์ชิ้นส่วนไทยเข้าสู่ห่วงโซ่ผลิต EV ซึ่งจะสร้างความต้องการใช้วัสดุขัดและเตรียมผิวโลหะโดยตรง"
+      },
+      "items": [
+        {
+          "id": "20261112-1",
+          "tag": "auto",
+          "rating": "green",
+          "source": "bangkokbiznews",
+          "date": "2026-11-11",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZMF9WQnpjYkxRQ25yLUhzaVo5UkV4c2lBbHVnU1NHZjQxQ3c2NVg0eHpEQWN0WVlQRXFOcjhGOFFjbExUTmg5ZUVqNFBOR0Y5MUpIWjJpT0NlUHBi?oc=5",
+          "title": "BOI and GWM Host Sourcing Day to Integrate 76 Thai Parts Makers into Global EV Supply Chain",
+          "summary": "The BOI partnered with Great Wall Motor (GWM) to organize a Sourcing Day, matching 76 Thai component manufacturers with GWM's domestic EV assembly line and global export network.",
+          "why": "Local fabrication of EV chassis, structural brackets, and battery housings requires extensive deburring, weld grinding, and surface finishing abrasives.",
+          "action": "Map the 76 participating suppliers against our customer database to dispatch abrasive trial kits and abrasive belt solutions for EV structural parts.",
+          "th": {
+            "title": "BOI ร่วม GWM จัด Sourcing Day หนุน 76 ชิ้นส่วนไทย ลุยตลาด EV โลก",
+            "summary": "บีโอไอจับมือเกรท วอลล์ มอเตอร์ จัดงานเจรจาธุรกิจเชื่อมโยง 76 ผู้ผลิตชิ้นส่วนไทยเข้าสู่สายการผลิตยานยนต์ไฟฟ้าในประเทศและเครือข่ายส่งออกระดับโลก",
+            "why": "การเร่งผลิตชิ้นส่วนโครงสร้างและตัวถัง EV ในประเทศจะเพิ่มการตัด เจียรรอยเชื่อม และขัดลบครีบโลหะ ซึ่งใช้วัสดุขัดของ MK โดยตรง",
+            "action": "ตรวจสอบรายชื่อผู้ผลิตชิ้นส่วน 76 รายเทียบกับฐานข้อมูลลูกค้า เพื่อส่งทีมขายนำเสนอตัวอย่างผ้าทรายสายพานและจานขัดสำหรับงานชิ้นส่วน EV"
+          }
+        },
+        {
+          "id": "20261112-2",
+          "tag": "aero",
+          "rating": "amber",
+          "source": "thansettakij",
+          "date": "2026-08-01",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJbG91NDM0Z1ZuZmRPYUc4dlRzSXYwVXRnb1l5dGZyZUJLSDZqUXhOSnVzSXVQeTdRME04Y1c5TVB5SC0wOENDcm9VeDhaT3Fha0ZocE90aEgzNXpNOGVmYklR?oc=5",
+          "title": "Thai Airways Expands Fleet to 150 Aircraft to Reclaim Global Market Standing",
+          "summary": "Thai Airways is committing 100 billion baht to expand its fleet to 150 aircraft, substantially enlarging its long-term operational scale.",
+          "why": "A fleet of 150 aircraft guarantees substantial heavy maintenance cycles in Thailand, expanding medium-term demand for aviation-grade surface treatment abrasives.",
+          "action": "Accelerate MK's aviation-grade abrasive testing and compliance documentation to position as an approved sub-tier supplier for domestic airframe MRO facilities.",
+          "th": {
+            "title": "การบินไทย ทุ่มแสนล้าน ดันฝูงบิน 150 ลำ ทวงบัลลังก์สายการบินระดับโลก",
+            "summary": "การบินไทยเดินหน้าแผนลงทุนแสนล้านบาทขยายฝูงบินแตะ 150 ลำ เพื่อเพิ่มขีดความสามารถการแข่งขันและรองรับการเติบโตระยะยาว",
+            "why": "การขยายฝูงบินขนาดใหญ่จะผลักดันปริมาณรอบการซ่อมบำรุงอากาศยาน (MRO) ในไทย หนุนความต้องการใช้วัสดุขัดเตรียมผิวเกรดการบินในระยะกลางและยาว",
+            "action": "เร่งขึ้นทะเบียนและทดสอบมาตรฐานสินค้าวัสดุขัดเกรดการบินของ MK เพื่อเตรียมความพร้อมในการเข้าเป็นซัพพลายเออร์ของศูนย์ซ่อม MRO"
+          }
+        },
+        {
+          "id": "20261112-3",
+          "tag": "furniture",
+          "rating": "amber",
+          "source": "Thansettakij",
+          "date": "2026-07-12",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTbVhNaVNKdGxyaVdOOEpkRmV6YnRxaEVaMk1FdFdsTUNFLXZBZFR2YVBCS09LSGxzX3BtMG14VEZjVVRVZnhxMURPWXlxdUhPak5hay1R?oc=5",
+          "title": "Thai Wood and Furniture Industry Accelerates Global Linkages to Boost Exports",
+          "summary": "Thai wood product and furniture manufacturers are expanding international partnerships to capture global export demand for finished wood products.",
+          "why": "Higher wood processing and export furniture factory throughput directly increases consumption of wide sanding belts and orbital sanding discs.",
+          "action": "Promote wide sanding belts to export-oriented furniture plants and bundle wood-finishing abrasive kits for small workshops via Shopee and TikTok.",
+          "th": {
+            "title": "อุตสาหกรรมไม้ไทยเร่งเครื่อง เชื่อมเครือข่ายธุรกิจโลก ดันมูลค่าส่งออกโต",
+            "summary": "ผู้ผลิตอุตสาหกรรมไม้และเฟอร์นิเจอร์ไทยเร่งขยายเครือข่ายคู่ค้าต่างประเทศเพื่อผลักดันมูลค่าการส่งออกสู่ตลาดโลก",
+            "why": "กำลังการผลิตเฟอร์นิเจอร์และงานไม้ส่งออกที่เพิ่มขึ้นส่งผลให้เกิดการใช้กระดาษทรายสายพานกว้างและจานทรายกลมสำหรับงานขัดเรียบเพิ่มขึ้น",
+            "action": "นำเสนอกระดาษทรายสายพานหน้ากว้างเข้าโรงงานเฟอร์นิเจอร์ส่งออก พร้อมจัดชุดสินค้าขัดไม้ขนาดเล็กเจาะช่างไม้และตลาด DIY ผ่าน Shopee และ TikTok"
+          }
+        }
+      ],
+      "terms": {}
+    },
+    {
       "date": "2026-11-11",
       "summary": "Today has limited new developments; key updates focus on KGEN accelerating domestic commercial EV assembly under the 35% import tariff, and the BOI engaging six major Japanese automakers for over 40 billion baht in localized EV investments.",
       "directCount": 1,
@@ -830,72 +895,7 @@ window.NEWS_ARCHIVE = {
         }
       ],
       "terms": {}
-    },
-    {
-      "date": "2026-10-29",
-      "summary": "Limited new developments today as most core manufacturing headlines were previously addressed. Key focal points center on Thai Airways' fleet expansion to 150 aircraft boosting long-term MRO servicing demand, ASEAN furniture export strength, and FTI's policy push to safeguard domestic steel mills.",
-      "directCount": 1,
-      "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มาก เนื่องจากประเด็นหลักส่วนใหญ่ได้รับการรายงานไปแล้วในรอบสัปดาห์ ไฮไลต์สำคัญอยู่ที่แผนขยายฝูงบิน 150 ลำของการบินไทยที่หนุนความต้องการงานซ่อมบำรุง MRO ระยะยาว โอกาสการเติบโตของโรงงานเฟอร์นิเจอร์ส่งออกอาเซียน และข้อเสนอ ส.อ.ท. เพื่อปกป้องโรงงานผลิตเหล็กในประเทศ"
-      },
-      "items": [
-        {
-          "id": "20261029-1",
-          "tag": "aero",
-          "rating": "amber",
-          "source": "Thansettakij",
-          "date": "2026-08-01",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJbG91NDM0Z1ZuZmRPYUc4dlRzSXYwVXRnb1l5dGZyZUJLSDZqUXhOSnVzSXVQeTdRME04Y1c5TVB5SC0wOENDcm9VeDhaT3Fha0ZocE90aEgzNXpNOGVmYklR?oc=5",
-          "title": "Thai Airways Plans 150-Aircraft Fleet Expansion to Reclaim Global Airline Standing",
-          "summary": "Thai Airways is executing a 100-billion-baht investment plan to expand its commercial fleet to 150 aircraft, regaining its position as a global aviation carrier.",
-          "why": "A significantly larger fleet creates substantial long-term maintenance and surface refinishing volume for local MRO facilities, boosting consumption of aviation-grade abrasive sheets and deburring discs.",
-          "action": "Engage aerospace maintenance subcontractors to pre-qualify MK surface conditioning abrasives for incoming fleet inspection and repair cycles.",
-          "th": {
-            "title": "การบินไทยทุ่มแสนล้าน จัดทัพฝูงบิน 150 ลำ ทวงบัลลังก์สายการบินระดับโลก",
-            "summary": "การบินไทยเดินหน้าแผนลงทุนกว่าหนึ่งแสนล้านบาทเพื่อขยายฝูงบินแตะ 150 ลำ เพิ่มขีดความสามารถการแข่งขันและฟื้นคืนตำแหน่งสายการบินระดับโลก",
-            "why": "ฝูงบินที่ใหญ่ขึ้นถึง 150 ลำจะผลักดันปริมาณงานซ่อมบำรุงและขัดเตรียมผิวอากาศยานในประเทศระยะยาว ส่งผลดีต่อความต้องการวัสดุขัดเกรดการบิน",
-            "action": "ประสานงานซัพพลายเออร์และศูนย์ซ่อมบำรุงอากาศยานเพื่อยื่นสเปกวัสดุขัดผิว MK ให้ผ่านการรับรองสำหรับรอบการตรวจซ่อมเครื่องบิน"
-          }
-        },
-        {
-          "id": "20261029-2",
-          "tag": "furniture",
-          "rating": "green",
-          "source": "posttoday",
-          "date": "2026-02-20",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxXzVZOHRNaDlMYzJBM2F6S1FPc0Vkcy1Sc2JWRnl1VklJY2ZCSEpsOUJ0RG13b0I1cHBpXzBUOUhlSHdpdV9uV1cyZGJHT2pNaF83cw?oc=5",
-          "title": "ASEAN Furniture Sector Expands as Four Member Nations Control 90% of Regional Exports",
-          "summary": "The ASEAN furniture manufacturing base continues robust export expansion, with Thailand remaining among the top four producing nations that collectively capture 90% of shipments.",
-          "why": "Export furniture production is heavily dependent on wide sanding belts, flap wheels, and orbital discs for surface leveling across wood and metal furniture frames.",
-          "action": "Target top-tier export furniture factories with competitive trial batches of MK wide sanding belts and fine-grit finishing paper.",
-          "th": {
-            "title": "อุตสาหกรรมเฟอร์นิเจอร์อาเซียนขยายตัวต่อเนื่อง 4 ชาติหลักกวาดส่วนแบ่งส่งออก 90%",
-            "summary": "ภาคการผลิตเฟอร์นิเจอร์ในภูมิภาคอาเซียนเติบโตต่อเนื่อง โดยมีไทยติด 1 ใน 4 ประเทศหลักที่ครองสัดส่วนการส่งออกรวมกันกว่า 90%",
-            "why": "โรงงานเฟอร์นิเจอร์เพื่อการส่งออกใช้สายพานขัดขนาดใหญ่และกระดาษทรายกลมปริมาณมากสำหรับงานเตรียมผิวไม้และโครงโลหะ ถือเป็นตลาดที่มีการสั่งซื้อซ้ำสม่ำเสมอ",
-            "action": "เจาะกลุ่มโรงงานผลิตเฟอร์นิเจอร์ไม้และเหล็กเพื่อการส่งออก นำเสนอการทดสอบสายพานขัดแถบกว้างและกระดาษทรายเบอร์ละเอียดของ MK"
-          }
-        },
-        {
-          "id": "20261029-3",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "Facebook",
-          "date": "2026-01-23",
-          "url": "https://news.google.com/rss/articles/CBMi_AdBVV95cUxNNXJFNU1CNVpFTXJUczEtYS00RWpEVkRwakc0X1lWbEN1Z0JRSlRIczVXdm83RWs5YW1hN0dlLTZtYzdDUTBVcFpERUNQRGFlbmd5UXJJWGNEWjhQOXRmMDFYWEtHRDhaa1ZEQk8zbTY2UTBteGZ3MW1xcU5aTXVhcV8yM0N5YTFrTHZnN3NEX0JvN0hfOWpfNEZCS1V0M29OQ2J5Zl9FU1dFRzRtcTZGaGNjazViMDJiSHBqbHZEVlBydXlGemd0TF9SNXhVcjIxNVg3OWFiRFZEMXA1RkdUeE13ZVVKaG1EY0lDWVZkeTRCZWRLMVB6NFV5OXBwUl8tSmtYbmg1c1ZEZXpSLWlMNW5ncE9USndsM0U5a1J2Nm04RWd0Sy1BYmhGWDI3TFNpREUyYnJUb3N3a2trNnI3RmJlbUVMTUFJRHl5OWlXQmxQSVBhTGlnMnk0YWdSUy1lbXVBMnlvcGxmLXNoTUNqa1FsLWxPaDEzbkNON2dYUl9mWHAzZ0Z5RkZjMFcwRndPVzdpTHp6bEVSOTYxdjdOWElVRklsLXVOdlV5V3F0bFBUYzRPT1VoeWI3eXhWdkw3dERwNFpZc3g1TVVSbGtBQllMQnRmby1YTU9jdnlyNTRnWU1CNFhINXNfcmlsX0lPZ3JEam5UTXljZFlDeXV6MC1sc0UtZEhfbHAyeVdyY2V5M0dLMjBjN0xLN3ZuRFMzWXVrN3lqWS1Ga1pISi1CaDdPZldnbVZnS0RILU1WMG1MT0NoNGdpcEtLN2ZEd0NqYkVtMXFfLWwzcHI4QU9KNng4RFlreGc3M2t3SUdkN1g4dzNNNDVLQ1RuNnlGVUViUjFzLWYxMEt3aW5sMEtVQWFoYVgwYmd2ME9ia0l0ZUZzdUE2bFVnZjlaZXpGbG95ZnplaFpXVWpUbm5xZEVYQ2FMeVFUbjZ4NXBRN1l0ODQtX3ZDaWxnR2ZWREhKQk1LX2RiT1poaWE1aTFSTkhDLS1hTTI5OGNCbHhqTGc1UUVUbUtvMmFSRHVjZXMyVjlOeENOZEhlSnNwUTl2Rk1hN1lKX3ZZZXp3ZnZfTXN1SFdpcjNGWE8zNWRHUWlNX2tsdXlmUzVsNXJucE05S3BCa1JsaFVranBpeWY1WFAySGpoMHJGcEd6ck5lSjhpRGNYVzRHcGhxT1ZldTdVWjBvNDlyenQ5ZUVNZy16X1U4aXo3OWMxaFQ4NHNwTGVJMEdzQlVJNkJQcEJvVFN5TGRZeG5Ganl2T3RUUXRZSkw5dkJUSlF3WjdBdXZuVG5JVXF0STJjUGpEc25Eb01ydllac1BXUFNTUWxhMy12bkhZcGhXS2U1b19UODg4WjI?oc=5",
-          "title": "FTI Steel Industry Club Submits Four Proposals to Shield Domestic Mills from Dumping",
-          "summary": "The Federation of Thai Industries Steel Club submitted four key policy recommendations to the government to combat foreign steel dumping and recover low domestic utilization rates.",
-          "why": "If trade enforcement takes effect, local steel processors and structural fabricators can ramp up operating hours, reviving demand for heavy-duty grinding and cutting discs.",
-          "action": "Keep track of trade defense measures and promote zirconia cutting wheels to local structural steel fabricators affiliated with the FTI.",
-          "th": {
-            "title": "ส.อ.ท. ชงรัฐบาลใหม่ 4 มาตรการสกัดเหล็กทุ่มตลาด หวังฟื้นกำลังการผลิตโรงงานไทย",
-            "summary": "กลุ่มอุตสาหกรรมเหล็ก ส.อ.ท. ยื่น 4 ข้อเรียกร้องต่อรัฐบาลเพื่อปกป้องผู้ผลิตไทยจากการทุ่มตลาดของเหล็กนำเข้า หลังอัตราใช้กำลังการผลิตในประเทศลดลงต่อเนื่อง",
-            "why": "หากมาตรการคุ้มครองสัมฤทธิ์ผล โรงงานแปรรูปเหล็กและขึ้นรูปโครงสร้างในไทยจะเดินเครื่องผลิตมากขึ้น หนุนการใช้วัสดุเจียร ลบคม และใบตัดเหล็ก",
-            "action": "ติดตามความคืบหน้ามาตรการกีดกันการทุ่มตลาด และเร่งนำเสนอใบเจียร-ใบตัดเซอร์โคเนียแก่กลุ่มโรงงานโครงสร้างเหล็กของ ส.อ.ท."
-          }
-        }
-      ],
-      "terms": {}
     }
   ],
-  "updated": "2026-11-11"
+  "updated": "2026-11-12"
 };
