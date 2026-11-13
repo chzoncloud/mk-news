@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-11-12",
+  "updated": "2026-11-13",
   "days": [
+    {
+      "date": "2026-11-13",
+      "summary": "Today's briefing focuses on global growth in precision abrasives demand, scrap-shears expansion driven by electric arc furnace (EAF) steelmaking, and green coatings market transformations.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปข่าววันนี้เน้นการเติบโตทั่วโลกของความต้องการวัสดุขัดผิวความแม่นยำสูง การขยายตัวของตลาดเครื่องตัดเศษเหล็กจากกระบวนการผลิตเหล็กเตาอาร์คไฟฟ้า (EAF) และการเปลี่ยนแปลงของตลาดสีและสารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อม"
+      },
+      "items": [
+        {
+          "id": "20261113-w1",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "EIN News",
+          "date": "2026-10-19",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM2VsRTlqVWR6dlpoUXpZQ04wNnJsRUNBbndKSnNQODIyUXdnTTlIT0hZMC10bGhEUUk0clZ5ZWZRN0I2eVhiVHVPVmRYd05xWUdJdDJldTBsTkZEUVNBNG5qaE9WeXdDN2dSVzJ2TzNsVFhBNVMzakhwZFR6Z0dQeFFVS0ZPa0dmWmh1dHhiYXVXWWRrbk9XS251Ul9SVS1SZ3NON0VXRWxfOWtzazlNcXhUMVBnU2liODhqaXF6OEdGb2NEYkRoaG9uNmx6MlNjMUd2N3Q0emZnUXltZk1wbg?oc=5",
+          "title": "Abrasives Market to Reach $72.2 Billion by 2030, Growing at a 7.6% CAGR Driven by Precision Finishing Demand",
+          "summary": "The global abrasives market is expanding rapidly due to rising demand for high-precision surface finishing across manufacturing sectors.",
+          "why": "Direct market validation that precision finishing and high-performance abrasives are core growth drivers globally.",
+          "action": "Prioritize stocking and promoting high-precision finishing and specialty abrasive lines.",
+          "th": {
+            "title": "ตลาดวัสดุขัดถูเติบโตแตะ 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 หนุนโดยความต้องการงานขัดแต่งความแม่นยำสูง",
+            "summary": "ตลาดวัสดุขัดทั่วโลกขยายตัวอย่างรวดเร็วจากความต้องการที่เพิ่มขึ้นสำหรับงานตกแต่งพื้นผิวที่มีความแม่นยำสูงในภาคการผลิต",
+            "why": "เป็นเครื่องยืนยันว่าตลาดงานขัดผิวความแม่นยำสูงและวัสดุขัดเกรดพรีเมียมคือหัวใจสำคัญในการขับเคลื่อนการเติบโตทั่วโลก",
+            "action": "ให้ความสำคัญกับการสต็อกสินค้าและทำตลาดกลุ่มผลิตภัณฑ์วัสดุขัดแต่งผิวความแม่นยำสูงและสินค้าเฉพาะทางมากขึ้น"
+          }
+        },
+        {
+          "id": "20261113-w2",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "IndexBox",
+          "date": "2026-11-12",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSU9XRjlZWWxycHlFMmU2dVZteTctbGxLS2tieXI4SjZmRW9acXVkSVlMTTBwYmxGdzNTVTVNbWZFcXZpT3E5TUx0aEVIQzFiUWRxRkZiSXIwX0IyOS14R1M5UUc2YjgzQVQzeTJJM0xEa3I5LUxmM3lVMTBmUFhieFpvZnNGNmFLS21keEFxVlZLQWdYNDExNnhaWkQwcllLOV9vdUpwV2YxTmhHM3ZvQVRhLTZEeHFRNkxqMA?oc=5",
+          "title": "Scrap Shears Market Forecast to 2035: Growth Driven by EAF Steelmaking and Circular Economy",
+          "summary": "The scrap shears market is growing as electric arc furnace (EAF) steelmaking expands globally under circular economy initiatives.",
+          "why": "EAF steel production and heavy metal recycling require extensive metal preparation, deburring, and cutting, affecting industrial abrasive use.",
+          "action": "Monitor EAF steel mill supply chains for emerging heavy-grinding and metal prep opportunities.",
+          "th": {
+            "title": "คาดการณ์ตลาดเครื่องตัดเศษเหล็กถึงปี 2035: เติบโตจากกระบวนการผลิตเหล็กเตาอาร์คไฟฟ้า (EAF) และเศรษฐกิจหมุนเวียน",
+            "summary": "ตลาดเครื่องตัดเศษเหล็กกำลังเติบโตตามการขยายตัวของการผลิตเหล็กด้วยเตาอาร์คไฟฟ้า (EAF) ภายใต้นโยบายเศรษฐกิจหมุนเวียน",
+            "why": "การผลิตเหล็ก EAF และการรีไซเคิลโลหะหนักต้องอาศัยกระบวนการเตรียมผิวโลหะ การลบคม และการตัด ซึ่งเกี่ยวข้องกับการใช้วัสดุขัดอุตสาหกรรม",
+            "action": "ติดตามห่วงโซ่อุปทานของโรงงานเหล็ก EAF เพื่อมองหาโอกาสใหม่ๆ ในกลุ่มงานขัดหยาบและเตรียมผิวโลหะ"
+          }
+        },
+        {
+          "id": "20261113-w3",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "Future Market Insights",
+          "date": "2025-07-07",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xMUNYalZrYktUSlZhRmYxYUNHZHhKR2k1VUpSRWNTUHpvMmRTV2MycTZYdzJMR0c5LWlxLWJER0FtcGJPb0dWTEY5WFpGRDVZTW12Q2haM2pma1cyQWFwOUFkcUJxZnV2ZmpVR2Vvemk5VEVS?oc=5",
+          "title": "Green Coatings Market Size, Trends & Demand 2025 to 2035",
+          "summary": "Demand for eco-friendly and green coatings is accelerating as industries adopt sustainable manufacturing standards.",
+          "why": "Surface preparation and sanding requirements shift when customers transition to eco-friendly coatings, requiring different substrate smoothness.",
+          "action": "Keep track of how sustainable coating finishes impact surface preparation standards and abrasive grit requirements.",
+          "th": {
+            "title": "ขนาดตลาด เทรนด์ และความต้องการสีและสารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อม ปี 2025 ถึง 2035",
+            "summary": "ความต้องการสีและสารเคลือบผิวที่เป็นมิตรต่อสิ่งแวดล้อมกำลังเร่งตัวขึ้นตามที่ภาคอุตสาหกรรมปรับใช้มาตรฐานการผลิตที่ยั่งยืน",
+            "why": "ข้อกำหนดด้านการเตรียมพื้นผิวและการขัดจะเปลี่ยนไปเมื่อลูกค้าเปลี่ยนมาใช้สารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อม ซึ่งต้องการความเรียบของผิวชิ้นงานที่ต่างออกไป",
+            "action": "ติดตามว่าพื้นผิวเคลือบแบบรักษ์โลกเหล่านี้ส่งผลอย่างไรต่อมาตรฐานการเตรียมผิวและเบอร์ความละเอียดของกระดาษทราย"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-11-12",
       "summary": "Today's intelligence focuses on the evolving polishing media and industrial abrasives markets driven by precision manufacturing, alongside steel sector pressures from carbon regulations like CBAM.",
@@ -830,106 +894,6 @@ window.WORLD_ARCHIVE = {
             "summary": "การเปลี่ยนแปลงอัตราภาษีของสหรัฐฯ สำหรับผลิตภัณฑ์เหล็กและอลูมิเนียมส่งผลต่อพลวัตการค้าระหว่างประเทศและต้นทุนการผลิตโลหะ",
             "why": "นโยบายการค้าโลหะทั่วโลกส่งผลต่อความสามารถในการทำกำไรและปริมาณการผลิตของอุตสาหกรรมแปรรูปโลหะปลายน้ำ ซึ่งเป็นผู้ใช้กระดาษทรายอุตสาหกรรม",
             "action": "จับตากิจกรรมการผลิตโลหะในตลาดส่งออกเพื่อคาดการณ์ความผันผวนของความต้องการใช้วัสดุขัดในภูมิภาค"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-10-30",
-      "summary": "Today's global briefing focuses on advanced coating innovations, evolving EV manufacturing automation, and shifting steel and metal casting dynamics that directly impact surface finishing demand.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปกระแสโลกประจำวันนี้เน้นไปที่นวัตกรรมสารเคลือบขั้นสูง ระบบอัตโนมัติในการผลิต EV ที่เปลี่ยนไป และความเปลี่ยนแปลงในอุตสาหกรรมเหล็กและหล่อโลหะ ซึ่งส่งผลโดยตรงต่อความต้องการขัดผิวโลหะ"
-      },
-      "items": [
-        {
-          "id": "20261030-w1",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "European Coatings",
-          "date": "2026-09-09",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
-          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
-          "summary": "The European coatings industry highlights sustainability, digitalization, and advanced formulation innovations as key drivers for the upcoming decade.",
-          "why": "Surface coatings and abrasive pre-treatment go hand in hand; changes in coating tech influence how metal and wood surfaces must be prepared and sanded.",
-          "action": "Monitor eco-friendly coating shifts that may require novel surface profile standards.",
-          "th": {
-            "title": "กำหนดอนาคตใหม่แห่งสารเคลือบ: นวัตกรรม ความยั่งยืน และพลังดิจิทัล",
-            "summary": "อุตสาหกรรมสารเคลือบในยุโรปเน้นย้ำความยั่งยืน เทคโนโลยีดิจิทัล และนวัตกรรมสูตรใหม่ว่าเป็นปัจจัยขับเคลื่อนสำคัญในทศวรรษหน้า",
-            "why": "งานเคลือบผิวกับการเตรียมพื้นผิวด้วยกระดาษทรายต้องทำควบคู่กัน การเปลี่ยนแปลงเทคโนโลยีสารเคลือบส่งผลต่อรูปแบบการเตรียมผิวและขัดผิวโลหะหรือไม้",
-            "action": "ติดตามการเปลี่ยนแปลงของสารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อม ซึ่งอาจต้องใช้มาตรฐานการเตรียมผิวหน้าแบบใหม่"
-          }
-        },
-        {
-          "id": "20261030-w2",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-09-02",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUUpWSmpHLVowSXdiLUJqcFlpQ3ZfRmdQYjJiTVFCNk00ZW0tM0ZqenQtd2F4emNVNEdzT3Q3amZ3M050YnNuTldQZFQyTlgyX3ByekdEbkdlaURacG5yRlBUSEZucnBQalBmNzVadXVrSDdXcEd0d2t4UXptUzJ5dXZ6ckE1Q3RVV3IyUkY4SFdVSERveVJYem0yM3lNbWFUY1dXWHYyRFZ2cXdldWFqRmJTNE4tQ1RXWWp4N3NCN1h5Vmt3d3hEbkFPc2ZqT0k?oc=5",
-          "title": "A global AI manufacturing transformation at Hyundai Motor Group",
-          "summary": "Hyundai Motor Group is rolling out advanced AI-driven manufacturing technologies globally to streamline vehicle production and automation.",
-          "why": "Automated EV plants require high-precision, robotic-compatible abrasives for consistent deburring and welding seam finishing.",
-          "action": "Keep an eye on robotic-friendly abrasive formats suitable for AI-driven automotive lines.",
-          "th": {
-            "title": "การเปลี่ยนแปลงการผลิตด้วย AI ระดับโลกที่กลุ่มฮุนไดมอเตอร์",
-            "summary": "กลุ่มฮุนไดมอเตอร์กำลังผลักดันเทคโนโลยีการผลิตที่ขับเคลื่อนด้วย AI ทั่วโลก เพื่อเพิ่มความคล่องตัวในการผลิตยานยนต์และระบบอัตโนมัติ",
-            "why": "โรงงานผลิต EV อัตโนมัติจำเป็นต้องใช้กระดาษทรายและวัสดุขัดที่มีความแม่นยำสูงและใช้งานร่วมกับหุ่นยนต์ได้ เพื่อการลบคมและตกแต่งแนวเชื่อมที่สม่ำเสมอ",
-            "action": "ติดตามรูปแบบผลิตภัณฑ์ขัดที่รองรับระบบหุ่นยนต์สำหรับสายการผลิตรถยนต์ที่ขับเคลื่อนด้วย AI"
-          }
-        },
-        {
-          "id": "20261030-w3",
-          "tag": "steel",
-          "rating": "green",
-          "source": "Progressive Policy Institute",
-          "date": "2026-09-23",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTeHd1akw0WFVaUWFucjdlRWp1cFBVQjRiRi1rWFd2WlNVRkQzanJJMmpMV3BBM0QxVEF5N2FZcmFMSFNxQ3M1VTQ5c1VJYjhJRVRQQVM3M2tac1FFMGdSSlZ4eTdQdzNINFB1MDR0a09haWhpNkFIVV9aWlA?oc=5",
-          "title": "American Industry Is Using Less Steel",
-          "summary": "Recent data shows a decline in overall domestic steel consumption by American manufacturing sectors as material efficiency improves.",
-          "why": "Lower steel volume usage shifts demand toward specialized, higher-value metal treatment and precision finishing rather than bulk surface grinding.",
-          "action": "Focus marketing efforts on high-value specialty abrasives rather than basic high-volume commodity grades.",
-          "th": {
-            "title": "อุตสาหกรรมอเมริกันใช้เหล็กน้อยลง",
-            "summary": "ข้อมูลล่าสุดแสดงให้เห็นว่าการบริโภคเหล็กภายในประเทศโดยรวมของภาคการผลิตอเมริกันลดลง เนื่องจากประสิทธิภาพการใช้วัสดุที่ดีขึ้น",
-            "why": "การใช้ปริมาณเหล็กที่ลดลงทำให้ความต้องการเปลี่ยนไปเน้นการบำบัดโลหะที่มีมูลค่าสูงและการขัดแต่งความแม่นยำสูง แทนที่จะเป็นการขัดผิวปริมาณมากแบบทั่วไป",
-            "action": "มุ่งเน้นความพยายามทางการตลาดไปยังผลิตภัณฑ์ขัดเฉพาะทางที่มีมูลค่าสูง แทนที่จะเป็นสินค้าโภคภัณฑ์ทั่วไปปริมาณมาก"
-          }
-        },
-        {
-          "id": "20261030-w4",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "World Economic Forum",
-          "date": "2026-04-21",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPc3hudkhpWE9BVTdWSk5BQWV2SWpBNHZxOUFfY2Rxcy0weW4tc2c2UFE1blAwRjVvYzRFcE9TdW1iVTdfYXBSVGk0UER5ZDVFQkZybG51bEY2QmhYemE3anRJbERYRW9KUkZHcHZ2eHZCMTRSMWlYMklYTDNPdzZGYzZZOFQtblNBMktoS2RNSndvX1dDRlZQSlBUT1pVdE1FN0ozOFZibUxlaHFGT1FjNUpZWEEyZGFrMTJUTXhPNA?oc=5",
-          "title": "How the Iran war is disrupting India's steel production amid fuel shortages and rising costs",
-          "summary": "Geopolitical conflicts in the Middle East are causing fuel shortages and rising input costs, directly disrupting steel manufacturing operations in India.",
-          "why": "Input cost inflation in major steel hubs like India affects downstream metal processing margins and purchasing schedules for grinding tools.",
-          "action": "Prepare for potential cost volatility in metal manufacturing supply chains.",
-          "th": {
-            "title": "สงครามอิหร่านส่งผลกระทบต่อการผลิตเหล็กของอินเดียท่ามกลางปัญหาขาดแคลนเชื้อเพลิงและต้นทุนที่พุ่งสูง",
-            "summary": "ความขัดแย้งทางภูมิรัฐศาสตร์ในตะวันออกกลางกำลังทำให้เกิดปัญหาขาดแคลนเชื้อเพลิงและต้นทุนการผลิตที่สูงขึ้น ซึ่งกระทบต่อการผลิตเหล็กในอินเดียโดยตรง",
-            "why": "เงินเฟ้อด้านต้นทุนวัตถุดิบในศูนย์กลางเหล็กรายใหญ่อย่างอินเดีย ส่งผลกระทบต่ออัตรากำไรในการแปรรูปโลหะขั้นปลายและกำหนดการจัดซื้ออุปกรณ์ขัด",
-            "action": "เตรียมรับมือกับความผันผวนของต้นทุนในห่วงโซ่อุปทานการผลิตโลหะ"
-          }
-        },
-        {
-          "id": "20261030-w5",
-          "tag": "steel",
-          "rating": "green",
-          "source": "Fortune Business Insights",
-          "date": "2026-10-05",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kYlp3TXBwdU5JVl9Gc0pFd3lJSFpjSUhLeEFGOVZVS19BbHBoTFNGb1BFOC1UNEN4c1o0c2xjdTFZYXhVdGRVb0dIeXZqakt1bTJkQy10SC0wRlh0RVVBZHZaWDFYbDk3cHdUbXBsYnRyYTlFVEE?oc=5",
-          "title": "Metal Casting Market Growth Analysis & Industry Forecast, 2034",
-          "summary": "The global metal casting market continues to grow steadily, driven by industrial machinery, automotive components, and infrastructure demand.",
-          "why": "Metal castings require extensive deburring, gate removal, and surface grinding, representing a major core market for industrial abrasives.",
-          "action": "Target foundry and metal casting workshops with robust heavy-duty grinding discs and belts.",
-          "th": {
-            "title": "การวิเคราะห์การเติบโตของตลาดการหล่อโลหะและการคาดการณ์อุตสาหกรรมถึงปี 2034",
-            "summary": "ตลาดการหล่อโลหะทั่วโลกยังคงเติบโตอย่างต่อเนื่อง ขับเคลื่อนโดยความต้องการเครื่องจักรกล ชิ้นส่วนยานยนต์ และโครงสร้างพื้นฐาน",
-            "why": "งานหล่อโลหะจำเป็นต้องมีการลบคม การตัดแต่งส่วนเกิน และการเจียรผิวอย่างกว้างขวาง ซึ่งถือเป็นตลาดหลักที่สำคัญสำหรับผลิตภัณฑ์กระดาษทรายและใบเจียรในอุตสาหกรรม",
-            "action": "เจาะกลุ่มโรงหล่อและเวิร์กช็อปหล่อโลหะด้วยแผ่นเจียรและสายพานขัดรุนแรงที่มีความทนทานสูง"
           }
         }
       ]
