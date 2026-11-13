@@ -4,64 +4,46 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-11-13",
-      "summary": "Today's briefing focuses on global growth in precision abrasives demand, scrap-shears expansion driven by electric arc furnace (EAF) steelmaking, and green coatings market transformations.",
-      "directCount": 3,
+      "summary": "Today's briefing focuses on global manufacturing shifts, including emerging demands in aluminum oxide abrasive fabrics for metal fabrication and automotive refinishing, alongside graphene coating market expansion.",
+      "directCount": 2,
       "th": {
-        "summary": "สรุปข่าววันนี้เน้นการเติบโตทั่วโลกของความต้องการวัสดุขัดผิวความแม่นยำสูง การขยายตัวของตลาดเครื่องตัดเศษเหล็กจากกระบวนการผลิตเหล็กเตาอาร์คไฟฟ้า (EAF) และการเปลี่ยนแปลงของตลาดสีและสารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อม"
+        "summary": "สรุปข่าววันนี้เน้นการเปลี่ยนแปลงของอุตสาหกรรมการผลิตระดับโลก รวมถึงความต้องการที่เพิ่มขึ้นในกลุ่มผ้าทรายอลูมิเนียมออกไซด์สำหรับงานโลหะและซ่อมสีรถยนต์ พร้อมกับการเติบโตของตลาดเคลือบกราฟีน"
       },
       "items": [
         {
           "id": "20261113-w1",
           "tag": "abrasive",
           "rating": "green",
-          "source": "EIN News",
-          "date": "2026-10-19",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM2VsRTlqVWR6dlpoUXpZQ04wNnJsRUNBbndKSnNQODIyUXdnTTlIT0hZMC10bGhEUUk0clZ5ZWZRN0I2eVhiVHVPVmRYd05xWUdJdDJldTBsTkZEUVNBNG5qaE9WeXdDN2dSVzJ2TzNsVFhBNVMzakhwZFR6Z0dQeFFVS0ZPa0dmWmh1dHhiYXVXWWRrbk9XS251Ul9SVS1SZ3NON0VXRWxfOWtzazlNcXhUMVBnU2liODhqaXF6OEdGb2NEYkRoaG9uNmx6MlNjMUd2N3Q0emZnUXltZk1wbg?oc=5",
-          "title": "Abrasives Market to Reach $72.2 Billion by 2030, Growing at a 7.6% CAGR Driven by Precision Finishing Demand",
-          "summary": "The global abrasives market is expanding rapidly due to rising demand for high-precision surface finishing across manufacturing sectors.",
-          "why": "Direct market validation that precision finishing and high-performance abrasives are core growth drivers globally.",
-          "action": "Prioritize stocking and promoting high-precision finishing and specialty abrasive lines.",
+          "source": "IndexBox",
+          "date": "2026-11-08",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYWxiTlJSV3E4b05JV2NRYkFPeHJWbEx3Nm9Wb09ZVjNMc2prYkZTdkZsd0NNbHZjRDZhbU1TQ0FIMnp6Y0YwZ2l4dWlGOU84SmlOQVk0R29UdFowWkpiYzRyS051RWRUVHk3NWU5dlA0WWRZNVJHQXBuRDRmZmFVd0YzTWxPTmRzWU5tQl9IVHZWWUlHMDY4OTNpUE15c2xFRHpoRGxWNS1kRU1XN1VPbGZheE1HeVRUTWo3bXA1VTg0d1RIYVgyRW1pQVBXdDNpdU1Va2JfSTJSVVk2bmJIMA?oc=5",
+          "title": "Aluminum Oxide Abrasive Fabrics Market To 2035: Automotive Refinishing and Metal Fabrication Fuel Forward Growth",
+          "summary": "The market for aluminum oxide abrasive fabrics is expanding steadily, driven heavily by ongoing demand in automotive refinishing and general metal fabrication.",
+          "why": "Aluminum oxide abrasive fabrics are core products for metal surface preparation and auto body shops, making this a direct indicator of our primary product demand.",
+          "action": "Ensure stable stock levels of high-quality aluminum oxide coated abrasives and abrasive rolls.",
           "th": {
-            "title": "ตลาดวัสดุขัดถูเติบโตแตะ 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 หนุนโดยความต้องการงานขัดแต่งความแม่นยำสูง",
-            "summary": "ตลาดวัสดุขัดทั่วโลกขยายตัวอย่างรวดเร็วจากความต้องการที่เพิ่มขึ้นสำหรับงานตกแต่งพื้นผิวที่มีความแม่นยำสูงในภาคการผลิต",
-            "why": "เป็นเครื่องยืนยันว่าตลาดงานขัดผิวความแม่นยำสูงและวัสดุขัดเกรดพรีเมียมคือหัวใจสำคัญในการขับเคลื่อนการเติบโตทั่วโลก",
-            "action": "ให้ความสำคัญกับการสต็อกสินค้าและทำตลาดกลุ่มผลิตภัณฑ์วัสดุขัดแต่งผิวความแม่นยำสูงและสินค้าเฉพาะทางมากขึ้น"
+            "title": "ตลาดผ้าทรายอลูมิเนียมออกไซด์เติบโตถึงปี 2035: ขับเคลื่อนโดยงานซ่อมสีรถยนต์และอุตสาหกรรมโลหะ",
+            "summary": "ตลาดผ้าทรายอลูมิเนียมออกไซด์เติบโตอย่างต่อเนื่อง โดยได้รับแรงหนุนจากความต้องการในงานซ่อมบำรุงรถยนต์และการแปรรูปโลหะทั่วไป",
+            "why": "ผ้าทรายอลูมิเนียมออกไซด์คือสินค้าหลักสำหรับงานเตรียมพื้นผิวโลหะและอู่ซ่อมรถ ซึ่งบ่งชี้โดยตรงถึงความต้องการสินค้าในกลุ่มของเรา",
+            "action": "รักษาเสถียรภาพสต็อกสินค้าจำพวกกระดาษทรายและผ้าทรายอลูมิเนียมออกไซด์คุณภาพสูงให้เพียงพอ"
           }
         },
         {
           "id": "20261113-w2",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "IndexBox",
-          "date": "2026-11-12",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSU9XRjlZWWxycHlFMmU2dVZteTctbGxLS2tieXI4SjZmRW9acXVkSVlMTTBwYmxGdzNTVTVNbWZFcXZpT3E5TUx0aEVIQzFiUWRxRkZiSXIwX0IyOS14R1M5UUc2YjgzQVQzeTJJM0xEa3I5LUxmM3lVMTBmUFhieFpvZnNGNmFLS21keEFxVlZLQWdYNDExNnhaWkQwcllLOV9vdUpwV2YxTmhHM3ZvQVRhLTZEeHFRNkxqMA?oc=5",
-          "title": "Scrap Shears Market Forecast to 2035: Growth Driven by EAF Steelmaking and Circular Economy",
-          "summary": "The scrap shears market is growing as electric arc furnace (EAF) steelmaking expands globally under circular economy initiatives.",
-          "why": "EAF steel production and heavy metal recycling require extensive metal preparation, deburring, and cutting, affecting industrial abrasive use.",
-          "action": "Monitor EAF steel mill supply chains for emerging heavy-grinding and metal prep opportunities.",
-          "th": {
-            "title": "คาดการณ์ตลาดเครื่องตัดเศษเหล็กถึงปี 2035: เติบโตจากกระบวนการผลิตเหล็กเตาอาร์คไฟฟ้า (EAF) และเศรษฐกิจหมุนเวียน",
-            "summary": "ตลาดเครื่องตัดเศษเหล็กกำลังเติบโตตามการขยายตัวของการผลิตเหล็กด้วยเตาอาร์คไฟฟ้า (EAF) ภายใต้นโยบายเศรษฐกิจหมุนเวียน",
-            "why": "การผลิตเหล็ก EAF และการรีไซเคิลโลหะหนักต้องอาศัยกระบวนการเตรียมผิวโลหะ การลบคม และการตัด ซึ่งเกี่ยวข้องกับการใช้วัสดุขัดอุตสาหกรรม",
-            "action": "ติดตามห่วงโซ่อุปทานของโรงงานเหล็ก EAF เพื่อมองหาโอกาสใหม่ๆ ในกลุ่มงานขัดหยาบและเตรียมผิวโลหะ"
-          }
-        },
-        {
-          "id": "20261113-w3",
           "tag": "coating",
           "rating": "amber",
-          "source": "Future Market Insights",
-          "date": "2025-07-07",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xMUNYalZrYktUSlZhRmYxYUNHZHhKR2k1VUpSRWNTUHpvMmRTV2MycTZYdzJMR0c5LWlxLWJER0FtcGJPb0dWTEY5WFpGRDVZTW12Q2haM2pma1cyQWFwOUFkcUJxZnV2ZmpVR2Vvemk5VEVS?oc=5",
-          "title": "Green Coatings Market Size, Trends & Demand 2025 to 2035",
-          "summary": "Demand for eco-friendly and green coatings is accelerating as industries adopt sustainable manufacturing standards.",
-          "why": "Surface preparation and sanding requirements shift when customers transition to eco-friendly coatings, requiring different substrate smoothness.",
-          "action": "Keep track of how sustainable coating finishes impact surface preparation standards and abrasive grit requirements.",
+          "source": "Grand View Research",
+          "date": "2025-01-20",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWFBnYWlSdVI1UzZJbzBQMHZTbm9BLV9fVW5tQm1yczhTMjEybkVIeXFBQnRtT2lMVVM0T0gzODJMOXNCbFd2OUxpTUdiMVVyTThDNV9CVXJzd2Q2ejJsQlNkNk1vVVUtVmJkd2F4b2EwYVF5RVcyRjhuMHRFaGlvc3BSTzZJRVYyQ2c?oc=5",
+          "title": "Graphene Coating Market Size & Share Report, 2025-2030",
+          "summary": "The graphene coating market is gaining traction due to superior durability and corrosion resistance properties required in advanced industrial applications.",
+          "why": "Advanced surface coatings change how parts are finished and protected, which impacts the pre-treatment and surface prep steps where abrasives are used.",
+          "action": "Monitor how advanced coatings influence surface preparation standards and roughness requirements.",
           "th": {
-            "title": "ขนาดตลาด เทรนด์ และความต้องการสีและสารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อม ปี 2025 ถึง 2035",
-            "summary": "ความต้องการสีและสารเคลือบผิวที่เป็นมิตรต่อสิ่งแวดล้อมกำลังเร่งตัวขึ้นตามที่ภาคอุตสาหกรรมปรับใช้มาตรฐานการผลิตที่ยั่งยืน",
-            "why": "ข้อกำหนดด้านการเตรียมพื้นผิวและการขัดจะเปลี่ยนไปเมื่อลูกค้าเปลี่ยนมาใช้สารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อม ซึ่งต้องการความเรียบของผิวชิ้นงานที่ต่างออกไป",
-            "action": "ติดตามว่าพื้นผิวเคลือบแบบรักษ์โลกเหล่านี้ส่งผลอย่างไรต่อมาตรฐานการเตรียมผิวและเบอร์ความละเอียดของกระดาษทราย"
+            "title": "รายงานขนาดและส่วนแบ่งตลาดสารเคลือบกราฟีน ปี 2025-2030",
+            "summary": "ตลาดสารเคลือบกราฟีนได้รับความนิยมเพิ่มขึ้นเนื่องจากความทนทานเหนือกว่าและความสามารถในการป้องกันการกัดกร่อนสำหรับการใช้งานอุตสาหกรรมขั้นสูง",
+            "why": "สารเคลือบพื้นผิวขั้นสูงเปลี่ยนวิธีการตกแต่งและปกป้องชิ้นงาน ซึ่งส่งผลต่อขั้นตอนการเตรียมพื้นผิวที่ต้องใช้กระดาษทรายและวัสดุขัด",
+            "action": "ติดตามว่าสารเคลือบขั้นสูงเหล่านี้ส่งผลต่อมาตรฐานการเตรียมพื้นผิวและความต้องการความหยาบอย่างไร"
           }
         }
       ]
