@@ -3,64 +3,64 @@ window.NEWS_ARCHIVE = {
   "days": [
     {
       "date": "2026-11-14",
-      "summary": "Today has limited new developments following earlier EV tariff coverage, but notable signals emerge in sustainable woodworking production, aerospace MRO fundraising, and domestic steel dumping safeguards.",
+      "summary": "Today there are very few new headlines. Market attention centers on Vietjet's MRO feasibility study at U-Tapao, regulatory enforcement against substandard steel mills, and steady growth across ASEAN furniture exports.",
       "directCount": 1,
       "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มากหลังจากกระแสภาษี EV ที่รายงานไปก่อนหน้า โดยมีประเด็นสำคัญที่น่าติดตามในกลุ่มอุตสาหกรรมงานไม้ การระดมทุนศูนย์ซ่อมบำรุงอากาศยาน (MRO) และการเคลื่อนไหวเพื่อปกป้องอุตสาหกรรมเหล็กในประเทศ"
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก ประเด็นสำคัญเน้นไปที่เวียตเจ็ทศึกษาความเป็นไปได้ในการลงทุน MRO ที่อู่ตะเภา การบังคับใช้กฎหมายปราบโรงงานเหล็กไม่ได้มาตรฐาน และการเติบโตอย่างต่อเนื่องของการส่งออกเฟอร์นิเจอร์ในอาเซียน"
       },
       "items": [
         {
           "id": "20261114-1",
-          "tag": "furniture",
-          "rating": "green",
-          "source": "ผู้จัดการออนไลน์",
-          "date": "2026-09-02",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWNVFPYTI5eTFhQ1lwNWozSXFGRHAtS2xtdk0zZERrcWg3SEprbXBZR0Ixc0hGbWtHT1l0NnR4cGpSMzNVWG5DM3dMNGc1SUlnbmNUcEFQaWx4ZTRKQ0FkMA?oc=5",
-          "title": "TIWF 2026 Expo Set to Upgrade Woodworking and Sustainable Furniture Manufacturing",
-          "summary": "The Thailand International Woodworking & Furniture Exhibition (TIWF 2026) aims to showcase advanced woodworking technology, eco-friendly surface finishing, and automation for regional exporters.",
-          "why": "Furniture exporters require high-performance sanding belts, orbital paper, and finishing abrasives to meet international surface quality and sustainability standards.",
-          "action": "Prepare MK product showcase for wood surface finishing and target participating furniture makers for wide-belt and orbital sanding trials.",
+          "tag": "aero",
+          "rating": "amber",
+          "source": "Thansettakij",
+          "date": "2026-06-16",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pbFFnQlhiSG5UMVBfTjVmMUZtNXc4ZkYyOFljMVFtQlQwalZ5WUpidFlzX3prejlBWGoydDYzUUZXMlY4bE56VFUwZnZrLVJfWlRtV2t0Wi0xOWkzeVFLTUFJOVIwUQ?oc=5",
+          "title": "EECO Eyes Vietjet Investment for U-Tapao Aviation MRO Hub",
+          "summary": "EECO is advancing the U-Tapao aircraft maintenance hub and awaiting Vietjet's feasibility study to finalize its investment proposal.",
+          "why": "Attracting regional budget carriers to establish domestic maintenance bases signals future demand for aviation-grade surface preparation and grinding consumables.",
+          "action": "Monitor Vietjet's investment timeline and compile product qualification dossiers for airline MRO abrasive specifications.",
           "th": {
-            "title": "งานใหญ่ TIWF 2026 เตรียมยกระดับอุตสาหกรรมไม้และเฟอร์นิเจอร์สู่ความยั่งยืน",
-            "summary": "งานแสดงสินค้าเทคโนโลยีงานไม้และเฟอร์นิเจอร์ระดับนานาชาติ (TIWF 2026) มุ่งนำเสนอเทคโนโลยีการแปรรูปไม้ การเตรียมผิวรักษ์โลก และระบบอัตโนมัติสำหรับผู้ส่งออกในภูมิภาค",
-            "why": "ผู้ผลิตเฟอร์นิเจอร์ส่งออกมีความต้องการกระดาษทรายสายพานกว้างและจานขัดคุณภาพสูง เพื่อยกระดับผิวงานให้ผ่านมาตรฐานส่งออกและความยั่งยืน",
-            "action": "เตรียมแพ็กเกจสินค้าวัสดุขัดงานไม้ของ MK พร้อมติดต่อโรงงานเฟอร์นิเจอร์ที่จะร่วมงานเพื่อเสนอทดลองกระดาษทรายสายพานและจานขัด"
+            "title": "EECO ปักหมุดศูนย์ซ่อม MRO อู่ตะเภา รอเวียตเจ็ทชงแผนร่วมลงทุน",
+            "summary": "สำนักงาน EEC เดินหน้าผลักดันศูนย์ซ่อมบำรุงอากาศยานอู่ตะเภา โดยอยู่ระหว่างรอผลการศึกษาความเป็นไปได้และข้อเสนอการลงทุนจากสายการบินเวียตเจ็ท",
+            "why": "การดึงสายการบินระดับภูมิภาคเข้ามาตั้งฐาน MRO ในไทยจะช่วยเพิ่มความต้องการใช้วัสดุขัดและเตรียมผิวเกรดการบินในอนาคต",
+            "action": "ติดตามความคืบหน้าแผนลงทุนของเวียตเจ็ท และเตรียมข้อมูลผลิตภัณฑ์วัสดุขัดที่ผ่านมาตรฐานงานซ่อมบำรุงเครื่องบินพาณิชย์"
           }
         },
         {
           "id": "20261114-2",
-          "tag": "aero",
+          "tag": "steel",
           "rating": "amber",
-          "source": "posttoday",
-          "date": "2026-07-27",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lak5sZXQtNktSd3dqWTVQcmdhN2JJdGVhSEUxUzk5RFI5TUs4T3kzMzBqVDdNUnp4N2k3M2FBalNXd0UwaS1XeUxkczM4Rzg4QnVBQXJR?oc=5",
-          "title": "EECO Mobilizes Funds to Position U-Tapao as Regional Aircraft MRO Hub",
-          "summary": "The Eastern Economic Corridor Office (EECO) is advancing fundraising structures to accelerate U-Tapao's aviation maintenance, repair, and overhaul (MRO) facilities.",
-          "why": "Development of commercial aircraft overhaul facilities in the EEC will generate long-term recurring demand for specialized aerospace-grade deburring and polishing abrasives.",
-          "action": "Map aerospace maintenance specifications and initiate compliance preparations for aviation-grade surface preparation products.",
+          "source": "www.thairath.co.th",
+          "date": "2026-05-22",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5yOEdKVkRNRnBpc1dWRGRuNzNtN1NHR09mSlc3eHpQem1iLUg4TVY0bkN2eDF4bWhhZ3JfTU5idGxKN2trZUJfS1hRMlkxZHQ5T29sTVBMdU5fTHR0V09GQ2h0c19ZSGRrVU9oaTI3eVQydWc?oc=5",
+          "title": "Ministry of Industry Cracks Down on Substandard Steel Mills to Protect Compliant Fabricators",
+          "summary": "Ten domestic steel associations welcomed the Ministry of Industry's strict enforcement and legal action against non-compliant, substandard steel factories.",
+          "why": "Shutting down illegal operators protects certified domestic steelmakers who maintain quality standards and regularly consume cutting, grinding, and deburring abrasives.",
+          "action": "Focus B2B sales efforts on certified, compliant structural steel and metal fabrication mills that stand to regain market share.",
           "th": {
-            "title": "EECO เดินหน้าระดมทุน ดันอุตสาหกรรม MRO ปั้นอู่ตะเภาสู่ศูนย์กลางซ่อมอากาศยานภูมิภาค",
-            "summary": "สำนักงานคณะกรรมการนโยบายเขตพัฒนาพิเศษภาคตะวันออก (EECO) เร่งระดมทุนเพื่อพัฒนาศูนย์ซ่อมบำรุงอากาศยาน (MRO) ณ สนามบินอู่ตะเภาให้เป็นฮับระดับภูมิภาค",
-            "why": "การขยายตัวของศูนย์ซ่อมอากาศยานใน EEC จะสร้างอุปสงค์ต่อเนื่องระยะยาวสำหรับวัสดุขัด ลบคม และขัดเงาโลหะเกรดอากาศยาน",
-            "action": "ศึกษาข้อกำหนดและมาตรฐานวัสดุขัดเกรดการบิน เพื่อเตรียมความพร้อมของสินค้า MK ในการเข้าสู่ซัพพลายเชนงานซ่อมบำรุงอากาศยาน"
+            "title": "10 สมาคมเหล็กหนุนกระทรวงอุตสาหกรรม ลุยปิดโรงงานเหล็กไม่ได้มาตรฐาน",
+            "summary": "สมาคมผู้ผลิตเหล็กในประเทศแสดงความพอใจที่กระทรวงอุตสาหกรรมบังคับใช้กฎหมายอย่างเข้มงวดและสั่งดำเนินคดีโรงงานเหล็กที่ไม่ได้มาตรฐาน",
+            "why": "การกวาดล้างโรงงานผิดกฎหมายช่วยพยุงผู้ผลิตเหล็กที่ได้มาตรฐาน ซึ่งเป็นกลุ่มลูกค้าหลักที่ใช้วัสดุตัด เจียร และลบครีบอย่างสม่ำเสมอ",
+            "action": "เน้นเจาะกลุ่มโรงงานผลิตเหล็กและโครงสร้างโลหะที่ได้มาตรฐาน มอก. ซึ่งจะได้รับส่วนแบ่งตลาดกลับคืนมา"
           }
         },
         {
           "id": "20261114-3",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "LINE TODAY",
-          "date": "2025-12-28",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MbDY2SkFDN1VRQXdMaUF1Nmhlb3U0dTZLVzlMUkVDTTJlTy1UMFhMWFctVHJzWEhCd1lZUXZzaGpCMnJoNDBFOXRUclB2TXZ1ZkVlbjZB?oc=5",
-          "title": "10 Thai Steel Associations Rally Against Chinese Steel Dumping and Seek Import Bans",
-          "summary": "Ten Thai steel associations have united to combat severe Chinese steel dumping, urging authorities to restrict finished steel imports to save domestic manufacturing capacity.",
-          "why": "Severe dumping suppresses local steel mill utilization and fabrication output, threatening operational hours and consumable spending on grinding wheels and flap discs.",
-          "action": "Monitor fabricators struggling with low margins and focus sales of cost-effective cutting and grinding wheels on resilient structural metal shops.",
+          "tag": "furniture",
+          "rating": "green",
+          "source": "posttoday",
+          "date": "2026-02-20",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxXzVZOHRNaDlMYzJBM2F6S1FPc0Vkcy1Sc2JWRnl1VklJY2ZCSEpsOUJ0RG13b0I1cHBpXzBUOUhlSHdpdV9uV1cyZGJHT2pNaF83cw?oc=5",
+          "title": "ASEAN Furniture Sector Expands as Four Key Exporters Dominate 90% of Market",
+          "summary": "The ASEAN furniture industry continues robust expansion, with four leading nations including Thailand controlling 90% of regional furniture exports.",
+          "why": "Export-oriented wood furniture manufacturing relies heavily on steady volumes of wide sanding belts, discs, and finishing abrasives.",
+          "action": "Target export-focused wooden furniture factories with high-durability wide belts and multi-hole sanding discs.",
           "th": {
-            "title": "10 สมาคมเหล็กผนึกกำลังรับมือจีนทุ่มตลาด จี้รัฐสกัดนำเข้าเหล็กสำเร็จรูป",
-            "summary": "10 สมาคมผู้ผลิตเหล็กไทยรวมตัวรับมือวิกฤตเหล็กราคาถูกจากจีนทุ่มตลาด พร้อมเรียกร้องภาครัฐห้ามนำเข้าเหล็กสำเร็จรูปเพื่อรักษาอัตราการผลิตของโรงงานในประเทศ",
-            "why": "การทุ่มตลาดส่งผลให้โรงงานผลิตและแปรรูปเหล็กในไทยลดกำลังการผลิตลง ซึ่งกระทบต่อปริมาณการใช้วัสดุสิ้นเปลือง เช่น หินเจียรและใบขัดโดยตรง",
-            "action": "ติดตามสถานะสภาพคล่องของกลุ่มลูกค้าแปรรูปโลหะ พร้อมนำเสนอหินเจียรและใบขัดตัดรุ่นคุ้มค่าเพื่อช่วยลูกค้าคุมต้นทุนการผลิต"
+            "title": "อุตสาหกรรมเฟอร์นิเจอร์อาเซียนโตต่อเนื่อง 4 ชาติหลักรวมไทยครองส่งออก 90%",
+            "summary": "อุตสาหกรรมเฟอร์นิเจอร์ในภูมิภาคอาเซียนขยายตัวต่อเนื่อง โดยมี 4 ชาติผู้ส่งออกหลักรวมถึงไทยครองส่วนแบ่งการส่งออกถึง 90%",
+            "why": "โรงงานผลิตเฟอร์นิเจอร์ไม้เพื่อการส่งออกจำเป็นต้องใช้กระดาษทรายสายพานและจานขัดจำนวนมากในการเตรียมผิวก่อนทำสี",
+            "action": "นำเสนอกระดาษทรายสายพานหน้ากว้างและจานขัดทนทานสูงแก่โรงงานผลิตเฟอร์นิเจอร์ไม้ส่งออกรายใหญ่"
           }
         }
       ],
