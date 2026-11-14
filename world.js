@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-11-14",
-      "summary": "Today's global intelligence highlights aluminum oxide fabric growth in metal fabrication, sustainable coatings market expansions, and new steel production cost-cutting technologies that impact surface finishing demand.",
+      "summary": "Today's intelligence highlights strong long-term growth in the global abrasives market driven by precision finishing, alongside evolving EV wiring and steel market dynamics.",
       "directCount": 3,
       "th": {
-        "summary": "ข่าวกรองระดับโลกประจำวันนี้เน้นย้ำถึงการเติบโตของผ้าทรายอลูมิเนียมออกไซด์ในงานแปรรูปโลหะ การขยายตัวของตลาดสารเคลือบที่ยั่งยืน และเทคโนโลยีใหม่ในการลดต้นทุนการผลิตเหล็ก ซึ่งส่งผลต่อความต้องการงานขัดแต่งพื้นผิว"
+        "summary": "ข่าวกรองวันนี้เน้นย้ำถึงการเติบโตในระยะยาวของตลาดวัสดุขัดถูทั่วโลกที่ขับเคลื่อนด้วยความต้องการงานขัดผิวความแม่นยำสูง ควบคู่ไปกับพลวัตของตลาดสายไฟ EV และเหล็กกล้า"
       },
       "items": [
         {
           "id": "20261114-w1",
           "tag": "abrasive",
           "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-11-08",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYWxiTlJSV3E4b05JV2NRYkFPeHJWbEx3Nm9Wb09ZVjNMc2prYkZTdkZsd0NNbHZjRDZhbU1TQ0FIMnp6Y0YwZ2l4dWlGOU84SmlOQVk0R29UdFowWkpiYzRyS051RWRUVHk3NWU5dlA0WWRZNVJHQXBuRDRmZmFVd0YzTWxPTmRzWU5tQl9IVHZWWUlHMDY4OTNpUE15c2xFRHpoRGxWNS1kRU1XN1VPbGZheE1HeVRUTWo3bXA1VTg0d1RIYVgyRW1pQVBXdDNpdU1Va2JfSTJSVVk2bmJIMA?oc=5",
-          "title": "Aluminum Oxide Abrasive Fabrics Market To 2035: Automotive Refinishing and Metal Fabrication Fuel Forward Growth",
-          "summary": "The global aluminum oxide abrasive fabrics market continues to expand steadily, driven by automotive refinishing and general metal fabrication requirements.",
-          "why": "Aluminum oxide coated abrasives are a core product line for MK; understanding growth sectors helps us target the right customer segments.",
-          "action": "Ensure stable stock and competitive pricing on key aluminum oxide abrasive fabric items.",
+          "source": "The National Law Review",
+          "date": "2026-11-04",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObldMWTRKR1NaSHRFeGotWDBCZjVfZ29qVzY0cEswMnZiN1U2Wi1ZeFBXdGtvM1g5R0tFaUdLMWZtWXBDamtXZmJGd1JsOWJHMlhxTy1xRmdIZWZ6U2RRNGU0bFpWejVSdTQ1dVdLWmktTU9oN0dkb1hLNEU2WnBOQk5LSEtJXzJJZ1NSYmlRblN0Q25vMWw4b2ZJVDZHNG1Sb2RidUV1MlhB?oc=5",
+          "title": "Abrasives Market to Reach $72.2 Billion by 2030, Growing at a 7.6% CAGR Driven by Precision Finishing Demand",
+          "summary": "The global abrasives market is projected to reach $72.2 billion by 2030, expanding at a solid 7.6% CAGR due to rising industrial demand for precision finishing.",
+          "why": "Confirms steady long-term global growth for our core product category, especially in high-precision surface preparation sectors.",
+          "action": "Prepare inventory strategies to capture rising demand for high-end precision grinding and finishing products.",
           "th": {
-            "title": "ตลาดผ้าทรายอลูมิเนียมออกไซด์ถึงปี 2035: การซ่อมสีรถยนต์และการผลิตโลหะขับเคลื่อนการเติบโต",
-            "summary": "ตลาดผ้าทรายอลูมิเนียมออกไซด์ทั่วโลกยังคงขยายตัวอย่างต่อเนื่อง ขับเคลื่อนโดยความต้องการในการซ่อมสีรถยนต์และงาน fabrication โลหะทั่วไป",
-            "why": "กระดาษทรายและผ้าทรายชุบสารขัดถูอลูมิเนียมออกไซด์คือสินค้าหลักของ MK การเข้าใจกลุ่มเติบโตช่วยให้เราเจาะตลาดได้ถูกกลุ่ม",
-            "action": "รักษาระดับสต็อกและราคาที่แข่งขันได้สำหรับสินค้าผ้าทรายอลูมิเนียมออกไซด์รายการสำคัญ"
+            "title": "ตลาดวัสดุขัดถูคาดว่าจะแตะ 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 เติบโต 7.6% ต่อปี หนุนโดยความต้องการงานขัดความแม่นยำสูง",
+            "summary": "ตลาดวัสดุขัดถูทั่วโลกคาดว่าจะเติบโตถึง 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 ด้วยอัตราการเติบโตเฉลี่ย 7.6% จากความต้องการทางอุตสาหกรรมที่เพิ่มขึ้น",
+            "why": "ยืนยันการเติบโตในระยะยาวสำหรับกลุ่มผลิตภัณฑ์หลักของเรา โดยเฉพาะในภาคส่วนการเตรียมผิวที่มีความแม่นยำสูง",
+            "action": "เตรียมกลยุทธ์สินค้าคงคลังเพื่อรองรับความต้องการสินค้ากลุ่มขัดและตกแต่งผิวความละเอียดสูงที่กำลังเติบโต"
           }
         },
         {
           "id": "20261114-w2",
-          "tag": "coating",
+          "tag": "auto",
           "rating": "amber",
-          "source": "Precedence Research",
-          "date": "2020-10-15",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOU01tbEkxd3pyNFhxa1NWeFM2QlRlMUFjeWVJRmFMTTF0R3VweWotbFY4WGVtMUhEcFotMlNjZWxRNHFQOUQwcVB2ZzQ2TU11WFBUcWctazlBSjV1aVBlUENkZk9XLWZKd1FUMl93?oc=5",
-          "title": "Paints and Coatings Market Companies, Size & Trends 2026-2035",
-          "summary": "The paints and coatings market is undergoing structural shifts toward sustainable formulations and advanced surface protection standards through 2035.",
-          "why": "Surface coatings and abrasive preparation go hand-in-hand; changes in coating tech dictate how surfaces must be prepared and sanded.",
-          "action": "Monitor paint and coating technology trends to anticipate new surface preparation requirements from industrial clients.",
+          "source": "IndexBox",
+          "date": "2026-11-13",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYjd2c1psS2c2M3g3UlRVOVNIYWdHal9zN2hRYUxOX0g4ajZJWjdVOWc2c29VclU2cjJSYkJzcE1aYTJwcWdPX0FlNHBhbGRydXNWeGd2TmVuUXlrZ01BbWdRLVhsWm9pMkM1QjQ2M2RWeE1JdkJ3Yk92djI5Q2J1X2g4WnBqTWNlRmtwdGdJczZlbUlZNEhsVlpYeWs2MEhLSkVSUWkzdHhhNnpLRXNQQk9CZw?oc=5",
+          "title": "EV Wires Market To 2035: Growth Driven by Global EV Production Ramp-Up",
+          "summary": "The EV wires market is expanding rapidly through 2035 as global electric vehicle production scales up significantly.",
+          "why": "EV manufacturing growth impacts metal components, machining, and wire-drawing tooling that require specialized abrasive finishing.",
+          "action": "Monitor growth in EV component manufacturing for new opportunities in metal deburring and polishing applications.",
           "th": {
-            "title": "บริษัท ขนาด และแนวโน้มตลาดสีและสารเคลือบ ปี 2026-2035",
-            "summary": "ตลาดสีและสารเคลือบกำลังเปลี่ยนผ่านไปสู่สูตรที่เป็นมิตรต่อสิ่งแวดล้อมและมาตรฐานการปกป้องพื้นผิวขั้นสูงจนถึงปี 2035",
-            "why": "สารเคลือบพื้นผิวและการเตรียมผิวด้วยวัสดุขัดต้องทำควบคู่กัน การเปลี่ยนแปลงเทคโนโลยีสีจะกำหนดวิธีขัดเตรียมพื้นผิว",
-            "action": "ติดตามแนวโน้มเทคโนโลยีสีและสารเคลือบเพื่อคาดการณ์ความต้องการเตรียมผิวชิ้นงานใหม่ๆ จากลูกค้าอุตสาหกรรม"
+            "title": "ตลาดสายไฟ EV สู่ปี 2035: การเติบโตขับเคลื่อนจากการเร่งผลิตรถยนต์ไฟฟ้าทั่วโลก",
+            "summary": "ตลาดสายไฟรถยนต์ไฟฟ้ากำลังขยายตัวอย่างรวดเร็วจึงถึงปี 2035 ตามการเพิ่มขึ้นของการผลิตยานยนต์ไฟฟ้าทั่วโลก",
+            "why": "การเติบโตของการผลิต EV ส่งผลกระทบต่อชิ้นส่วนโลหะ งานขึ้นรูป และเครื่องมือดึงลวด ซึ่งจำเป็นต้องใช้วัสดุขัดที่จำเพาะ",
+            "action": "ติดตามการเติบโตในการผลิตชิ้นส่วน EV เพื่อหาโอกาสใหม่ๆ ในงานลบคมและขัดผิวโลหะ"
           }
         },
         {
           "id": "20261114-w3",
           "tag": "steel",
           "rating": "amber",
-          "source": "S&P Global",
-          "date": "2026-03-31",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNdVZyZkhzLWJHVGdpaV9Fc1dkc3RPZnpnRXRMemNZRHJkRWxTZzN2WFpLSHJDQzJMdWNsMUE2b1JTVlNwZUVoT3hHay1LSXBHTmJ4ZDdhdTRqcFJnb1lFYmtPSzdqUlBkeVlqcERsZHNNZndMRlZIZjkyX2dYSEd4a2E1cHh5OXI5Y2NJcVVVMlpiMEl2bjVSWUw5MFlyQTdEQk1jR2VSekQ5d0xjcGpxSnA1T0xabWNNQmRQeS1la1NCYURrQV9HQWs0RFpPaEtZZE5PWGYxZGxPSlVoY1VjaERMa1Judk1Ma3hrNlNGeE4xdw?oc=5",
-          "title": "CERAWEEK INTERVIEW: New technology could cut steel production costs 20%, Hertha CEO says",
-          "summary": "Industry leaders report new production technologies that aim to significantly reduce steel manufacturing costs while maintaining strict quality parameters.",
-          "why": "Lower steel production costs can stimulate higher output in metal fabrication, directly influencing demand for heavy-duty grinding and deburring abrasives.",
-          "action": "Prepare for stable to rising steel fabrication volumes and corresponding consumable demands.",
+          "source": "IndexBox",
+          "date": "2026-11-11",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYVJwVGx6OUpnSXNGRWlUZmNVWEF2X1hTbk9senZQWnZuOURQNlB0UDJNaWxLQjM0c1U5ZnJ1TzFua2pDLU9iU2NsS2ZFbENNWnhuSlNTTnkxVF9uSnJVRjNYVDhDbGhjTnJrUnNlY2ZXMjNJeVZwSjRJM0t5czRXRFJrdkJ3cUd1YjFJaU5nMEJDYS1yaUZfNEJLQ0kxQkxxRktRS2UtOFF2ZFRhXzl2Z0RfWUpKOE0wZE1rekpfTlloMnJMbEJfbVdR?oc=5",
+          "title": "Pickling Acids Market To 2035: Steel Pickling Demand and Recycling Mandates Drive Growth",
+          "summary": "Demand for pickling acids is growing due to heightened steel pickling requirements and stricter industrial recycling mandates.",
+          "why": "Steel pickling is a crucial pre-treatment step before mechanical processing and surface finishing in metal fabrication.",
+          "action": "Keep an eye on steel surface treatment trends that precede grinding and abrasive blasting processes.",
           "th": {
-            "title": "บทสัมภาษณ์ CERAWEEK: ซีอีโอ Hertha เผยเทคโนโลยีใหม่อาจช่วยลดต้นทุนการผลิตเหล็กได้ 20%",
-            "summary": "ผู้นำอุตสาหกรรมรายงานเทคโนโลยีการผลิตใหม่ที่มุ่งลดต้นทุนการผลิตเหล็กอย่างมีนัยสำคัญพร้อมรักษามาตรฐานคุณภาพ",
-            "why": "ต้นทุนการผลิตเหล็กที่ลดลงกระตุ้นปริมาณงานแปรรูปโลหะ ซึ่งส่งผลโดยตรงต่อความต้องการใช้หินเจียรและวัสดุกำจัดครีบ",
-            "action": "เตรียมพร้อมรับมือกับปริมาณงาน fabrication เหล็กที่ทรงตัวถึงเติบโตและความต้องการวัสดุสิ้นเปลืองที่สอดคล้องกัน"
+            "title": "ตลาดกรดดองเหล็กสู่ปี 2035: ความต้องการดองเหล็กและกฎระเบียบรีไซเคิลผลักดันการเติบโต",
+            "summary": "ความต้องการกรดดองเหล็กกำลังเติบโตเนื่องจากความต้องการดองเหล็กที่สูงขึ้นและกฎข้อบังคับด้านการรีไซเคิลที่เข้มงวดขึ้น",
+            "why": "กระบวนการดองเหล็กเป็นขั้นตอนเตรียมผิวก่อนการแปรรูปทางกลและการขัดแต่งผิวในอุตสาหกรรมโลหะ",
+            "action": "ติดตามแนวโน้มการเตรียมผิวเหล็กซึ่งมักเกิดขึ้นก่อนกระบวนการเจียระไนและการพ่นขัด"
           }
         }
       ]
