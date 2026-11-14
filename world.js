@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-11-14",
-      "summary": "Today's briefing features 3 key global signals covering EV wiring demand, pickling acids for steel treatment, and global EV battery/manufacturing outlooks, highlighting continued industrial shifts in metal and automotive sectors.",
-      "directCount": 1,
+      "summary": "Today's global intelligence highlights aluminum oxide fabric growth in metal fabrication, sustainable coatings market expansions, and new steel production cost-cutting technologies that impact surface finishing demand.",
+      "directCount": 3,
       "th": {
-        "summary": "สรุปข่าวสารประจำวันนี้มี 3 สัญญาณสำคัญระดับโลก ครอบคลุมความต้องการสายไฟรถยนต์ไฟฟ้า กรดดองเหล็กสำหรับงานเตรียมผิวเหล็ก และแนวโน้มการผลิตแบตเตอรี่ EV ซึ่งตอกย้ำการเปลี่ยนแปลงในภาคอุตสาหกรรมโลหะและยานยนต์"
+        "summary": "ข่าวกรองระดับโลกประจำวันนี้เน้นย้ำถึงการเติบโตของผ้าทรายอลูมิเนียมออกไซด์ในงานแปรรูปโลหะ การขยายตัวของตลาดสารเคลือบที่ยั่งยืน และเทคโนโลยีใหม่ในการลดต้นทุนการผลิตเหล็ก ซึ่งส่งผลต่อความต้องการงานขัดแต่งพื้นผิว"
       },
       "items": [
         {
           "id": "20261114-w1",
-          "tag": "auto",
-          "rating": "amber",
+          "tag": "abrasive",
+          "rating": "green",
           "source": "IndexBox",
-          "date": "2026-11-13",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYjd2c1psS2c2M3g3UlRVOVNIYWdHal9zN2hRYUxOX0g4ajZJWjdVOWc2c29VclU2cjJSYkJzcE1aYTJwcWdPX0FlNHBhbGRydXNWeGd2TmVuUXlrZ01BbWdRLVhsWm9pMkM1QjQ2M2RWeE1JdkJ3Yk92djI5Q2J1X2g4WnBqTWNlRmtwdGdJczZlbUlZNEhsVlpYeWs2MEhLSkVSUWkzdHhhNnpLRXNQQk9CZw?oc=5",
-          "title": "EV Wires Market To 2035: Growth Driven by Global EV Production Ramp-Up",
-          "summary": "The EV wires market is projected to expand significantly through 2035, supported by the ongoing acceleration of global electric vehicle production.",
-          "why": "Growth in EV component manufacturing directly impacts Tier suppliers who need precise wire stripping, terminal cleaning, and metal deburring tools.",
-          "action": "Monitor growth in EV wiring harness manufacturing for specialized wire-brush and deburring applications.",
+          "date": "2026-11-08",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYWxiTlJSV3E4b05JV2NRYkFPeHJWbEx3Nm9Wb09ZVjNMc2prYkZTdkZsd0NNbHZjRDZhbU1TQ0FIMnp6Y0YwZ2l4dWlGOU84SmlOQVk0R29UdFowWkpiYzRyS051RWRUVHk3NWU5dlA0WWRZNVJHQXBuRDRmZmFVd0YzTWxPTmRzWU5tQl9IVHZWWUlHMDY4OTNpUE15c2xFRHpoRGxWNS1kRU1XN1VPbGZheE1HeVRUTWo3bXA1VTg0d1RIYVgyRW1pQVBXdDNpdU1Va2JfSTJSVVk2bmJIMA?oc=5",
+          "title": "Aluminum Oxide Abrasive Fabrics Market To 2035: Automotive Refinishing and Metal Fabrication Fuel Forward Growth",
+          "summary": "The global aluminum oxide abrasive fabrics market continues to expand steadily, driven by automotive refinishing and general metal fabrication requirements.",
+          "why": "Aluminum oxide coated abrasives are a core product line for MK; understanding growth sectors helps us target the right customer segments.",
+          "action": "Ensure stable stock and competitive pricing on key aluminum oxide abrasive fabric items.",
           "th": {
-            "title": "ตลาดสายไฟ EV ถึงปี 2035: เติบโตจากกำลังการผลิตรถยนต์ไฟฟ้าทั่วโลก",
-            "summary": "ตลาดสายไฟรถยนต์ไฟฟ้าคาดว่าจะเติบโตอย่างต่อเนื่องจนถึงปี 2035 หนุนโดยการเร่งผลิตรถยนต์ไฟฟ้าทั่วโลก",
-            "why": "การเติบโตของการผลิตชิ้นส่วน EV ส่งผลโดยตรงต่อผู้ผลิต Tier ที่ต้องการเครื่องมือปอกสายไฟ ทำความสะอาดขั้วต่อ และลบคมโลหะที่มีความแม่นยำสูง",
-            "action": "ติดตามการเติบโตของการผลิตชุดสายไฟ EV เพื่อโอกาสในการเสนอสินค้าแปรงลวดและเครื่องมือลบคมเฉพาะทาง"
+            "title": "ตลาดผ้าทรายอลูมิเนียมออกไซด์ถึงปี 2035: การซ่อมสีรถยนต์และการผลิตโลหะขับเคลื่อนการเติบโต",
+            "summary": "ตลาดผ้าทรายอลูมิเนียมออกไซด์ทั่วโลกยังคงขยายตัวอย่างต่อเนื่อง ขับเคลื่อนโดยความต้องการในการซ่อมสีรถยนต์และงาน fabrication โลหะทั่วไป",
+            "why": "กระดาษทรายและผ้าทรายชุบสารขัดถูอลูมิเนียมออกไซด์คือสินค้าหลักของ MK การเข้าใจกลุ่มเติบโตช่วยให้เราเจาะตลาดได้ถูกกลุ่ม",
+            "action": "รักษาระดับสต็อกและราคาที่แข่งขันได้สำหรับสินค้าผ้าทรายอลูมิเนียมออกไซด์รายการสำคัญ"
           }
         },
         {
           "id": "20261114-w2",
-          "tag": "steel",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-11-11",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYVJwVGx6OUpnSXNGRWlUZmNVWEF2X1hTbk9senZQWnZuOURQNlB0UDJNaWxLQjM0c1U5ZnJ1TzFua2pDLU9iU2NsS2ZFbENNWnhuSlNTTnkxVF9uSnJVRjNYVDhDbGhjTnJrUnNlY2ZXMjNJeVZwSjRJM0t5czRXRFJrdkJ3cUd1YjFJaU5nMEJDYS1yaUZfNEJLQ0kxQkxxRktRS2UtOFF2ZFRhXzl2Z0RfWUpKOE0wZE1rekpfTlloMnJMbEJfbVdR?oc=5",
-          "title": "Pickling Acids Market To 2035: Steel Pickling Demand and Recycling Mandates Drive Growth",
-          "summary": "Demand for pickling acids is expanding, driven by steel pickling requirements and stricter recycling regulations in metal processing.",
-          "why": "Steel pickling is a crucial surface preparation step before rolling, coating, or abrasive grinding operations in metal fabrication.",
-          "action": "Keep track of steel mill surface treatment trends as an indicator of heavy industrial metal finishing demand.",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "Precedence Research",
+          "date": "2020-10-15",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOU01tbEkxd3pyNFhxa1NWeFM2QlRlMUFjeWVJRmFMTTF0R3VweWotbFY4WGVtMUhEcFotMlNjZWxRNHFQOUQwcVB2ZzQ2TU11WFBUcWctazlBSjV1aVBlUENkZk9XLWZKd1FUMl93?oc=5",
+          "title": "Paints and Coatings Market Companies, Size & Trends 2026-2035",
+          "summary": "The paints and coatings market is undergoing structural shifts toward sustainable formulations and advanced surface protection standards through 2035.",
+          "why": "Surface coatings and abrasive preparation go hand-in-hand; changes in coating tech dictate how surfaces must be prepared and sanded.",
+          "action": "Monitor paint and coating technology trends to anticipate new surface preparation requirements from industrial clients.",
           "th": {
-            "title": "ตลาดกรดดองเหล็กถึงปี 2035: ความต้องการดองเหล็กและกฎระเบียบรีไซเคิลหนุนการเติบโต",
-            "summary": "ความต้องการกรดดองเหล็กกำลังขยายตัว ขับเคลื่อนโดยความต้องการดองผิวเหล็กและกฎระเบียบการรีไซเคิลที่เข้มงวดขึ้นในกระบวนการแปรรูปโลหะ",
-            "why": "กระบวนการดองเหล็ก (Pickling) เป็นขั้นตอนสำคัญในการเตรียมพื้นผิวก่อนเข้าสู่กระบวนการรีด เคลือบ หรือขัดด้วยกระดาษทรายในอุตสาหกรรมแปรรูปโลหะ",
-            "action": "ติดตามแนวโน้มการเตรียมผิวโลหะของโรงงานเหล็ก เพื่อใช้เป็นดัชนีชี้วัดความต้องการใช้อุปกรณ์ขัดผิวโลหะหนัก"
+            "title": "บริษัท ขนาด และแนวโน้มตลาดสีและสารเคลือบ ปี 2026-2035",
+            "summary": "ตลาดสีและสารเคลือบกำลังเปลี่ยนผ่านไปสู่สูตรที่เป็นมิตรต่อสิ่งแวดล้อมและมาตรฐานการปกป้องพื้นผิวขั้นสูงจนถึงปี 2035",
+            "why": "สารเคลือบพื้นผิวและการเตรียมผิวด้วยวัสดุขัดต้องทำควบคู่กัน การเปลี่ยนแปลงเทคโนโลยีสีจะกำหนดวิธีขัดเตรียมพื้นผิว",
+            "action": "ติดตามแนวโน้มเทคโนโลยีสีและสารเคลือบเพื่อคาดการณ์ความต้องการเตรียมผิวชิ้นงานใหม่ๆ จากลูกค้าอุตสาหกรรม"
           }
         },
         {
           "id": "20261114-w3",
-          "tag": "auto",
+          "tag": "steel",
           "rating": "amber",
-          "source": "IEA - International Energy Agency",
-          "date": "2026-05-20",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUmhMdjBTMHNNQVA3WnI0QWx2dnlrZDVLUklVdE1XNmsxeEVPZ2tUN0pVUkstbzBOYXZsbFVjcVhpWk8wUXlvRGhUcVR4alN2TmQyQ1Y0SnVhMUVoeEtna2V2R0ZSdGVoR2hTQVZBaFdqdG5INHdoVzUzNW93TkxfNVUxVQ?oc=5",
-          "title": "Electric vehicle batteries - Global EV Outlook 2026",
-          "summary": "The IEA report highlights ongoing capacity expansion and supply chain shifts in global electric vehicle battery manufacturing.",
-          "why": "EV battery production involves extensive metal casing fabrication, welding prep, and precision finishing where coated abrasives are heavily used.",
-          "action": "Evaluate opportunities in supplying specialized abrasives for EV battery enclosure and structural component finishing.",
+          "source": "S&P Global",
+          "date": "2026-03-31",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNdVZyZkhzLWJHVGdpaV9Fc1dkc3RPZnpnRXRMemNZRHJkRWxTZzN2WFpLSHJDQzJMdWNsMUE2b1JTVlNwZUVoT3hHay1LSXBHTmJ4ZDdhdTRqcFJnb1lFYmtPSzdqUlBkeVlqcERsZHNNZndMRlZIZjkyX2dYSEd4a2E1cHh5OXI5Y2NJcVVVMlpiMEl2bjVSWUw5MFlyQTdEQk1jR2VSekQ5d0xjcGpxSnA1T0xabWNNQmRQeS1la1NCYURrQV9HQWs0RFpPaEtZZE5PWGYxZGxPSlVoY1VjaERMa1Judk1Ma3hrNlNGeE4xdw?oc=5",
+          "title": "CERAWEEK INTERVIEW: New technology could cut steel production costs 20%, Hertha CEO says",
+          "summary": "Industry leaders report new production technologies that aim to significantly reduce steel manufacturing costs while maintaining strict quality parameters.",
+          "why": "Lower steel production costs can stimulate higher output in metal fabrication, directly influencing demand for heavy-duty grinding and deburring abrasives.",
+          "action": "Prepare for stable to rising steel fabrication volumes and corresponding consumable demands.",
           "th": {
-            "title": "แบตเตอรี่รถยนต์ไฟฟ้า - แนวโน้ม EV โลกปี 2026",
-            "summary": "รายงานจาก IEA เน้นย้ำถึงการขยายกำลังการผลิตและการเปลี่ยนแปลงห่วงโซ่อุปทานในการผลิตแบตเตอรี่รถยนต์ไฟฟ้าทั่วโลก",
-            "why": "การผลิตแบตเตอรี่ EV เกี่ยวข้องกับการขึ้นรูปโครงโลหะ การเตรียมรอยเชื่อม และการขัดแต่งผิวให้เรียบ ซึ่งต้องใช้กระดาษทรายและวัสดุขัดอย่างกว้างขวาง",
-            "action": "ประเมินโอกาสในการจัดหาผลิตภัณฑ์ abrasives เฉพาะทางสำหรับงานตกแต่งโครงสร้างและกล่องบรรจุแบตเตอรี่ EV"
+            "title": "บทสัมภาษณ์ CERAWEEK: ซีอีโอ Hertha เผยเทคโนโลยีใหม่อาจช่วยลดต้นทุนการผลิตเหล็กได้ 20%",
+            "summary": "ผู้นำอุตสาหกรรมรายงานเทคโนโลยีการผลิตใหม่ที่มุ่งลดต้นทุนการผลิตเหล็กอย่างมีนัยสำคัญพร้อมรักษามาตรฐานคุณภาพ",
+            "why": "ต้นทุนการผลิตเหล็กที่ลดลงกระตุ้นปริมาณงานแปรรูปโลหะ ซึ่งส่งผลโดยตรงต่อความต้องการใช้หินเจียรและวัสดุกำจัดครีบ",
+            "action": "เตรียมพร้อมรับมือกับปริมาณงาน fabrication เหล็กที่ทรงตัวถึงเติบโตและความต้องการวัสดุสิ้นเปลืองที่สอดคล้องกัน"
           }
         }
       ]
