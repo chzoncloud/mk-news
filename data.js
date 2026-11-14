@@ -2,6 +2,71 @@
 window.NEWS_ARCHIVE = {
   "days": [
     {
+      "date": "2026-11-14",
+      "summary": "There are few new headlines today, as major news on EV tariffs, steel mill regulations, and Thai Airways MRO were covered earlier. Notable updates include the consumer price impact driving domestic EV assembly, VietJet studying U-Tapao MRO investment, and steady ASEAN furniture export expansion.",
+      "directCount": 0,
+      "th": {
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก เนื่องจากประเด็นหลักเรื่องกำแพงภาษี EV กฎระเบียบโรงงานเหล็ก และ MRO ของการบินไทยได้รับการวิเคราะห์ไปแล้ว ข่าวที่น่าสนใจวันนี้เน้นไปที่ผลกระทบราคาที่จะเร่งการประกอบ EV ในประเทศ แผนศึกษาการลงทุน MRO อู่ตะเภาของเวียตเจ็ท และการเติบโตของการส่งออกเฟอร์นิเจอร์อาเซียน"
+      },
+      "items": [
+        {
+          "id": "20261114-1",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "TNN Thailand",
+          "date": "2026-11-11",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hU3VRcHFmQnA2Yks0a3h2dmpjZVEzUkdQTGxzaU5vTklwRkxKQ2hDaU9VWVc5X1hkVV81NGo3UmQ1dENqUDBWOVd6T2xvbG5JNnZHMEZYMS1jRFJwSnIxamZ6dw?oc=5",
+          "title": "Thai EV Tariff Wall Projected to Spike Imported EV Prices by 49%",
+          "summary": "Analysis suggests the 35% excise tariff on imported completely built-up (CBU) EVs could raise retail prices by up to 49%, intensifying pressure on automakers to assemble vehicles domestically.",
+          "why": "Steep import price hikes force carmakers to accelerate local Thai assembly lines, driving higher shop-floor demand for metal grinding, deburring, and body-finishing abrasives.",
+          "action": "Target tier-1 metal stamping and welding suppliers expanding production capacity to support domestic EV assembly models.",
+          "th": {
+            "title": "กำแพงภาษี EV ส่อดันราคารถนำเข้าพุ่ง 49% บีบค่ายรถเร่งประกอบในประเทศ",
+            "summary": "บทวิเคราะห์ชี้ว่าการปรับขึ้นภาษีสรรพสามิตรถ EV นำเข้าเป็น 35% อาจดันราคาขายปลีกพุ่งสูงถึง 49% ส่งผลให้ค่ายรถต้องเร่งแผนการผลิตและประกอบในประเทศเร็วขึ้น",
+            "why": "ราคารถนำเข้าที่แพงขึ้นมากจะบีบให้โรงงานต้องเดินสายการผลิตในไทยมากขึ้น หนุนความต้องการใช้วัสดุขัด เจียร ลบครีบ และขัดเตรียมผิวตัวถังโลหะ",
+            "action": "เร่งติดต่อซัพพลายเออร์ปั๊มขึ้นรูปและเชื่อมประกอบชิ้นส่วนโลหะ Tier-1 ที่เตรียมขยายกำลังการผลิตรองรับ EV ในประเทศ"
+          }
+        },
+        {
+          "id": "20261114-2",
+          "tag": "aero",
+          "rating": "amber",
+          "source": "Thansettakij",
+          "date": "2026-06-16",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pbFFnQlhiSG5UMVBfTjVmMUZtNXc4ZkYyOFljMVFtQlQwalZ5WUpidFlzX3prejlBWGoydDYzUUZXMlY4bE56VFUwZnZrLVJfWlRtV2t0Wi0xOWkzeVFLTUFJOVIwUQ?oc=5",
+          "title": "EECO Eyes VietJet Investment Study for U-Tapao Aviation MRO Hub",
+          "summary": "The Eastern Economic Corridor Office (EECO) is advancing infrastructure plans at U-Tapao while awaiting a formal feasibility study from VietJet to invest in an aircraft maintenance center.",
+          "why": "Additional airline investments beyond Thai Airways will expand Thailand's MRO capacity, opening longer-term sales opportunities for specialized aerospace-grade polishing and finishing abrasives.",
+          "action": "Monitor VietJet's maintenance facility timeline and identify standard technical specifications needed for aircraft surface maintenance consumables.",
+          "th": {
+            "title": "สกพอ. ลุยศูนย์ซ่อมฯ อู่ตะเภา รอผลศึกษา 'เวียตเจ็ท' ร่วมวงลงทุน MRO",
+            "summary": "สำนักงานคณะกรรมการนโยบายเขตพัฒนาพิเศษภาคตะวันออก (สกพอ.) เดินหน้าพัฒนาศูนย์ซ่อมอากาศยานอู่ตะเภา พร้อมรอผลการศึกษาแผนลงทุนจัดตั้งศูนย์ซ่อมบำรุงจากสายการบินเวียตเจ็ท",
+            "why": "หากมีสายการบินอื่นนอกจาก บมจ.การบินไทย เข้ามาร่วมลงทุน จะช่วยขยายขนาดตลาด MRO ในประเทศ และเปิดโอกาสขายวัสดุขัดเกรดอากาศยานสำหรับงานซ่อมบำรุงผิวเครื่องบิน",
+            "action": "ติดตามความคืบหน้าของโครงการและเริ่มศึกษาข้อกำหนดมาตรฐานของวัสดุขัดเงาและแผ่นขัดที่ใช้ในงานซ่อมบำรุงโครงสร้างอากาศยาน"
+          }
+        },
+        {
+          "id": "20261114-3",
+          "tag": "furniture",
+          "rating": "amber",
+          "source": "posttoday",
+          "date": "2026-02-20",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxXzVZOHRNaDlMYzJBM2F6S1FPc0Vkcy1Sc2JWRnl1VklJY2ZCSEpsOUJ0RG13b0I1cHBpXzBUOUhlSHdpdV9uV1cyZGJHT2pNaF83cw?oc=5",
+          "title": "ASEAN Furniture Sector Expands with Top Four Exporters Dominating 90% of Market",
+          "summary": "Regional market data indicates continuous export growth for ASEAN wooden furniture, with four leading nations, including Thailand, controlling 90% of outbound shipments.",
+          "why": "Stable furniture manufacturing ensures recurring consumption of wide sanding belts, disc sandpaper, and surface preparation abrasives across woodworking factories.",
+          "action": "Target export-scale wooden furniture factories with high-durability sanding belts and offer multi-grit sandpaper bundles via Shopee/TikTok for DIY carpenters.",
+          "th": {
+            "title": "อุตสาหกรรมเฟอร์นิเจอร์อาเซียนโตต่อเนื่อง 4 ชาติหลักคุมส่วนแบ่งส่งออก 90%",
+            "summary": "รายงานอุตสาหกรรมระบุว่าการส่งออกเฟอร์นิเจอร์ไม้ในภูมิภาคอาเซียนยังคงขยายตัวได้ดี โดยมี 4 ชาติชั้นนำรวมถึงไทย ครองส่วนแบ่งการส่งออกรวมกันถึง 90%",
+            "why": "การผลิตเพื่อส่งออกที่สม่ำเสมอช่วยรักษาปริมาณการใช้กระดาษทรายสายพานผ้าทราย จานขัดกลม และวัสดุขัดผิวไม้ในโรงงานแปรรูปไม้อย่างต่อเนื่อง",
+            "action": "นำเสนอสายพานผ้าทรายหน้ากว้างสำหรับโรงงานเฟอร์นิเจอร์ส่งออก พร้อมจัดชุดเซ็ตกระดาษทรายขัดไม้แบบเบอร์ผสมขายกลุ่มช่างไม้และ DIY บน Shopee และ TikTok"
+          }
+        }
+      ],
+      "terms": {}
+    },
+    {
       "date": "2026-11-12",
       "summary": "Today has limited fresh news, but the primary highlight is the BOI-GWM Sourcing Day connecting 76 Thai parts makers directly into the EV manufacturing ecosystem, creating immediate demand for surface preparation abrasives.",
       "directCount": 1,
@@ -693,209 +758,7 @@ window.NEWS_ARCHIVE = {
         }
       ],
       "terms": {}
-    },
-    {
-      "date": "2026-10-31",
-      "summary": "Fresh news volume is modest today. AirAsia's aggressive push into Thailand's MRO sector opens direct potential for aerospace abrasives, while domestic automotive parts suppliers face persistent volume headwinds from vehicle imports and elevated household debt.",
-      "directCount": 2,
-      "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มาก ไฮไลต์สำคัญคือการที่แอร์เอเชียเตรียมรุกลงทุนศูนย์ซ่อมบำรุงอากาศยาน (MRO) ในไทย ซึ่งเป็นโอกาสตรงของตลาดวัสดุขัดเกรดการบิน ขณะที่กลุ่มชิ้นส่วนยานยนต์ในประเทศยังเผชิญแรงกดดันต่อเนื่องจากยอดนำเข้า EV และปัญหาหนี้ครัวเรือน"
-      },
-      "items": [
-        {
-          "id": "20261031-1",
-          "tag": "aero",
-          "rating": "green",
-          "source": "Facebook",
-          "date": "2026-09-18",
-          "url": "https://news.google.com/rss/articles/CBMiiAdBVV95cUxQMkhrTnQ5Y3dtWlh3cUtub3MtbWRTNFJsQzA4ZG9sNzR0ZHRtM1QzallzSEFydlBvaFJqSG04Yy1IbnJxel95UU5DY3Z3VUVwRVhrV1ByZTFjcUc4aXNSc1Nwd0ZWSzdrZFNDYmRFWnlHS1h5cmk5QVg5NHhWaGlMVlhYNFUxS19hSDNrN3luZ1BWR1lleGFJV2xiSldyZjdKcjBKa2Jja09uNElYYUM0bXJIZUl0dkQ0aUFXcEJDN1k4ZDZ5UWJ6bjd3cVJDYlRlV05mVC1iZlhWQVc1clhyVzZWUnFnMjZKQzlMcExZX2Q2Vl9mSXVDWVktNzhEWUZBMG9WOHhqclUzX0ppb0N5QnN1clZkR2RKUXJJVGNwUXc0U3JmVlEtQ2xxUWhsQTFuRWtyUHJheUdQNl96cjZnN3BJY1VlR2dtNHJhQU5jYnBtQ0VrdDQ3MExhUGlBQ3lGNFhmaWdXWDdDcjdXZVU4b0lQX3JnSFN1UXMtWjRxMWNZQ09Rb2NTelVQQWx5SWNNRkdBWTBObzBiQ0lFM2U5SzJ0VXpfTWtVa0pfaXVvekh6TlNpU1Zvd2tjWEF1R2htcGEtWnFBVkx2ZDhpaTBmbjVTZklEUWFNcVl3NElnMkI2YTdyd0ZUellYNkU3QnpQLWJYNGFlMko3UXFXYWNhaW1Hejh0NVk5YnB1cVQya3I5MFA3d1pjR04tZ1EydUdXWW9UUjlYUWlIbHJMQ1JDTG85eTBMRFRPY1V5T2JTMC1zWnZlV3JoSU43SXV0UkJsOTVnZGY0LV9CcEtjLTIyd3Fvem1hcV9wVzk1dkNsOGlwNUhDbDdRbXlOTUdaeGlpLU5WVHdnZEtNM2VWVi1UenNCaHk2UjdHSVNKYmRhV0h5ZFVyV0NDc1VmZjRrRUUxcUZJbFNlVmlKWTZpY3p1aDA3X2NSTVA0VTNUS1FNeWUxUFdSRkxmWXdjVDcwN3RBYV9CS0hjQzIyUnJCa0pyTHJiNWg5eXExMkpoSG1YVXF1eWpaQ1ZYdTFEZjVnWHhzcEpmc3pqaFRzNXZzcUNLSFFaX1Z5UVJDWXdWSV8xa0dGblpNVXJ4TmpsUlR6cEpuWW40a2pFdXJXalRqSF9SSml6SkRzcG9NdWU5RGNFMUdsVlh3ZmowemY2TzNKRFp2RGRwRmdDSWc5WFFIRnkzZ0FDVVRQTkxm?oc=5",
-          "title": "AirAsia Affirms Strong Liquidity to Aggressively Invest in Thai MRO Hub",
-          "summary": "Capital A CEO Tony Fernandes announced strong liquidity exceeding one billion dollars and confirmed aggressive plans to expand aircraft maintenance (MRO) facilities in Thailand.",
-          "why": "Expanding airline maintenance bases directly generates high-value demand for aerospace-grade abrasives, surface conditioning pads, and deburring tools.",
-          "action": "Map upcoming AirAsia engineering facilities and initiate outreach to procurement teams for aviation surface finishing materials.",
-          "th": {
-            "title": "แอร์เอเชียยันสภาพคล่องแกร่ง พร้อมเดินหน้ารุกลงทุนศูนย์ซ่อมบำรุง MRO ในไทย",
-            "summary": "ซีอีโอ แคปปิตอล เอ โทนี่ เฟอร์นันเดส ยืนยันกลุ่มมีสภาพคล่องสูงด้วยเงินสดกว่าพันล้านดอลลาร์ พร้อมเดินหน้าลงทุนศูนย์ซ่อมอากาศยาน (MRO) ในประเทศไทย",
-            "why": "การขยายศูนย์ซ่อมบำรุงอากาศยานเป็นโอกาสตรงในการขายวัสดุขัดเกรดการบิน จานขัดเตรียมผิว และเครื่องมือลบครีบชิ้นงานความแม่นยำสูง",
-            "action": "เจาะกลุ่มวิศวกรรมและจัดซื้อของฝ่ายซ่อมบำรุงแอร์เอเชีย เพื่อนำเสนอโซลูชันวัสดุขัดมาตรฐานการบิน"
-          }
-        },
-        {
-          "id": "20261031-2",
-          "tag": "auto",
-          "rating": "green",
-          "source": "เว็บไซต์รัฐบาลไทย",
-          "date": "2026-07-02",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zOHo0X01meExtendzNTNja1RMTUxKa2dWM0hFZ1JrRzJ4dmJPLWhSdHVwb19IU01fVTRVOWtaX2lkMVJUSlRPb3FCNVg5UQ?oc=5",
-          "title": "BOI Reports EV Investments Exceed 130 Billion Baht Across Vehicle Technologies",
-          "summary": "Thailand's BOI revealed that approved EV project investments have surpassed 130 billion baht, driving Thailand's strategy as a multi-technology vehicle manufacturing hub.",
-          "why": "New vehicle assembly and battery casing lines create fresh requirements for specialized weld grinding, edge deburring, and aluminum surface finishing abrasives.",
-          "action": "Approach tooling contractors and new EV Tier-1 component makers to secure initial production line abrasive specifications.",
-          "th": {
-            "title": "บีโอไอเผยยอดลงทุน EV ทะลุ 1.3 แสนล้าน มุ่งสู่ฐานผลิตยานยนต์ไฟฟ้าครบทุกเทคโนโลยี",
-            "summary": "บีโอไอเผยยอดอนุมัติลงทุนกลุ่มยานยนต์ไฟฟ้าทะลุ 1.3 แสนล้านบาท ผลักดันไทยเป็นฐานการผลิตยานยนต์สมัยใหม่ครอบคลุมทุกเทคโนโลยี",
-            "why": "โรงงานประกอบและผลิตชิ้นส่วน/กล่องแบตเตอรี่ใหม่ต้องการวัสดุขัดรอยเชื่อม ลบคมอะลูมิเนียม และขัดผิวตัวถังอย่างต่อเนื่อง",
-            "action": "เข้าพบผู้รับเหมาติดตั้งสายการผลิตและซัพพลายเออร์ชิ้นส่วน EV เพื่อนำเสนอวัสดุขัดเข้ากระบวนการผลิตตั้งแต่เริ่มต้น"
-          }
-        },
-        {
-          "id": "20261031-3",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Thansettakij",
-          "date": "2026-08-14",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EYVc4ZnhkX0VKd1hRU3N1REVNM09QYk9fR0RQV2xwbDFHaW52ZnlVQ3R2b3NJMlpIMzhZMU9ZZC1CRFhjYThhRnNhd05ZU1QySzAzbXp5aGxKaHhJRXFOR3MwZjUxOUQweHVlQg?oc=5",
-          "title": "Multinational Automakers Warn Household Debt Pressures Thai Auto Parts Production",
-          "summary": "Automotive manufacturers warned that severe domestic household debt is suppressing vehicle purchasing power, directly affecting production runs and part investment plans.",
-          "why": "Slowdowns in factory production directly curb the replacement rate and consumption of industrial sanding belts, cutting discs, and flap wheels.",
-          "action": "Offer cost-down consumable auditing for Tier-1/2 Japanese clients to preserve supplier relationships during sluggish output periods.",
-          "th": {
-            "title": "ทุนข้ามชาติเตือนหนี้ครัวเรือนฉุดตลาดรถ กระทบแผนผลิตและลงทุนชิ้นส่วนในไทย",
-            "summary": "ค่ายรถยนต์เตือนปัญหาหนี้ครัวเรือนฉุดกำลังซื้อรถยนต์ในประเทศ ส่งผลกระทบต่อแผนการผลิตและการลงทุนผลิตชิ้นส่วนยานยนต์",
-            "why": "เมื่อโรงงานชิ้นส่วนลดกำลังการผลิต ปริมาณการใช้วัสดุขัดสิ้นเปลือง เช่น สายพานขัดและใบเจียร จะหดตัวตาม",
-            "action": "จัดโปรแกรมตรวจสอบช่วยลดต้นทุนวัสดุสิ้นเปลืองให้โรงงาน Tier-1/2 สัญชาติญี่ปุ่นเพื่อรักษาฐานยอดสั่งซื้อเดิมไว้"
-          }
-        },
-        {
-          "id": "20261031-4",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Facebook",
-          "date": "2026-08-25",
-          "url": "https://news.google.com/rss/articles/CBMigAdBVV95cUxQMDRPUDcxV0JMRVZydFpTcjlXV210T2xsWS1hbjl0blhYVWxTdEotMHJtMHVnZFAwWVlKQVQ5VW1hQWxZOUhBSHNuWjAyNlduWHp4R2F4MlBnMmZBSXJWWG1QT2VnYVNhTzRKMXc1TzFhbWxBRWtoNWQwcUtBS0tBM2JYZml3aGUzS0VBR3FScHZWU1dpRGdqaXJ5YjRmZ2NMdDcxU2otYmdqYmhNcDNXT3FrRmNSSG1LZFUyNU1XZlJKc0tJc3htZnNERFFXX3VjQWl1bGVlc3FuZGVjX2UweFZMTGhaREF1amhrVWo0NElVTEN1OW1TQk0xVHczbXJpakVlOGc1SERHd3V3TVZvNHZJU3lzSVhvNEU1U19pMTBYZjFVejh4NnpQV1FQVjZlU2hQSGlPR3VwTjl5YlRYb04tcFNuUUlMd25QLWxyb1V4T3VDNWV3WW94YW92XzZXYjFiTW9DVnVhVk5LbENlVllDWHU4ejdwNl93aDZNTTZBNVIxc3ZjYlU1U2o3YlUxUnZYQ3RzWTBJUmw0UFRmYW96X29aM1NFcEdFMzVPNGdYcEdzYUpPSFBzN2s4ZU1lNFhyV2plNDZPZkR2LURKaEdvQkVMOFZQYzZuU0ZRUlZqQUZXM25qdE91WXVONWZGOW8xQkNmN3kxSE1sRzU5OWhqYmFpLTBHMW42akYyRmpKaWtqU3VvTWRIcGFPdElTaHBKLVhJNnF6NnVqZ28yUEFGMjMwVm42MkZrWmhtc3E4dDgwZE8tbEdMMndEc2tGNXFoRnk3eWRsRk1RYlMteEFqUkQ0TVFlRHkwblJfQVhlc3NEWXY3OWQwU2hYRUpSaHFiT3ZXOTgwZ0VaMjRQSkNyeTlULUR3R0RobTFuX3FJSmRXY3d4T2VMT0RJNnd1cTVJY0E3TE5COVhBQnM3MW1BMEhrekRTWS1UWDhzMGhPQldPdmRBYUJSODlHelE0ZG1kNEJ5clI3MC1BNWpKSFdCWE9uOTNCQkFWSE00UTdqbjFabHk2aEFsNW5vV2cxX0hacVRoR1hoVjRzUzd0OExjWkx3azh0VUJKQ0hOelJyV0wtV29PMDktUHN4UVgxREpMazVTZ2UtNjg3Y0lURnktYmEwdThvRU14ZTRaY2xzdkUwTWo5YTFEU1lmXzU5dVA3LVJqMkxYNEZGeFdIdw?oc=5",
-          "title": "FTI Sounds Alarm as Imported EVs Jump 62%, Threatening Local Assembly Lines",
-          "summary": "The Federation of Thai Industries raised concerns over a 62% surge in imported EV units, warning that local manufacturing and pickup truck assembly plants are being undermined.",
-          "why": "Imported finished vehicles eliminate local stamping and metal fabrication operations, bypassing domestic tier-supply chains and abrasives consumption.",
-          "action": "Accelerate sales diversification into vehicle repair aftermarket and DIY channels via Shopee/TikTok to mitigate OEM factory dips.",
-          "th": {
-            "title": "ส.อ.ท. ชี้รถนำเข้าทะลัก 62% หวั่นกระทบฐานการผลิตยานยนต์และรถกระบะในประเทศ",
-            "summary": "ส.อ.ท. แสดงความกังวลหลังยอดรถนำเข้าพุ่งสูงถึง 62% ชี้กระทบสายการผลิตยานยนต์และการประกอบรถกระบะในประเทศอย่างมีนัยสำคัญ",
-            "why": "การนำเข้ารถยนต์สำเร็จรูปทำให้ไม่มีการปั๊มขึ้นรูปและขัดชิ้นงานโลหะในไทย ส่งผลให้โรงงานผลิตชิ้นส่วนลดการใช้วัสดุขัด",
-            "action": "เร่งผลักดันยอดขายตลาดอู่ซ่อมสีตัวถังและช่องทางออนไลน์ B2C (Shopee/TikTok) เพื่อชดเชยการชะลอตัวของกลุ่ม OEM"
-          }
-        },
-        {
-          "id": "20261031-5",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "LINE TODAY",
-          "date": "2025-12-28",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MbDY2SkFDN1VRQXdMaUF1Nmhlb3U0dTZLVzlMUkVDTTJlTy1UMFhMWFctVHJzWEhCd1lZUXZzaGpCMnJoNDBFOXRUclB2TXZ1ZkVlbjZB?oc=5",
-          "title": "Thai Steel Associations Confront Dumping Crisis and Demand Import Controls",
-          "summary": "Domestic steel associations called on the government to halt imported finished steel dumping from China, which has depressed local steel mill capacity utilization.",
-          "why": "Depressed operational run rates across domestic metal and steel mills mean lower purchase orders for heavy-duty grinding wheels and cutoff discs.",
-          "action": "Pivot sales focus toward specialized stainless and high-precision metal fabricators who maintain resilience against low-grade steel dumping.",
-          "th": {
-            "title": "สมาคมเหล็กไทยรับมือวิกฤตเหล็กจีนทุ่มตลาด จี้รัฐคุมนำเข้าเหล็กสำเร็จรูป",
-            "summary": "กลุ่มสมาคมเหล็กเรียกร้องให้รัฐบาลควบคุมการทุ่มตลาดเหล็กสำเร็จรูปจากจีน หลังฉุดอัตราการใช้กำลังการผลิตของโรงงานไทยตกต่ำ",
-            "why": "เมื่อโรงงานแปรรูปเหล็กในประเทศลดกำลังการผลิตลง ยอดสั่งซื้อใบเจียรหนาและใบตัดโลหะหนักจะลดลงตามไปด้วย",
-            "action": "ปรับโฟกัสทีมขายไปที่กลุ่มผู้แปรรูปสเตนเลสและงานโลหะความแม่นยำสูง ซึ่งได้รับผลกระทบน้อยกว่าเหล็กโครงสร้างทั่วไป"
-          }
-        }
-      ],
-      "terms": {}
-    },
-    {
-      "date": "2026-10-30",
-      "summary": "Today has a limited number of fresh breaking headlines, but new plant upgrades by Ford and Changan's supply chain localization present high-potential opportunities for automotive metal finishing abrasives.",
-      "directCount": 2,
-      "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มากนัก แต่การประกาศยกระดับโรงงานของฟอร์ดและการดึงซัพพลายเออร์ท้องถิ่นของฉางอันเป็นโอกาสทางตรงที่สำคัญสำหรับวัสดุขัดในกลุ่มยานยนต์"
-      },
-      "items": [
-        {
-          "id": "20261030-1",
-          "tag": "auto",
-          "rating": "green",
-          "source": "bangkokbiznews",
-          "date": "2026-10-30",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE05dG93TjlWUmlNMmltQmZ6MVdfb005WklRNG5Pc0lCcThUS2E4NkJCZ3pEZGcwWlBkWllxNGxOY2dTaDUyLWp0RWl2dGk0OUkxTDBwZHA0TGRFNjVMTFk4QjdiT2FqZTlNaF9j?oc=5",
-          "title": "Ford Upgrades Thai Manufacturing Plants to Reinforce Regional Automotive Hub",
-          "summary": "Ford is upgrading its Thai production lines with modern manufacturing systems to maintain Thailand as its core global assembly and export base.",
-          "why": "Upgrades in body assembly and stamping lines drive continuous demand for metal deburring, weld seam grinding, and robotic finishing abrasives.",
-          "action": "Pitch robotic wide sanding belts and premium finishing discs to Ford's Rayong plant and its Tier-1 metal stamping vendors.",
-          "th": {
-            "title": "ฟอร์ด ยกระดับการผลิต ปักหมุดอุตสาหกรรมยานยนต์ไทย",
-            "summary": "ฟอร์ดประกาศยกระดับสายการผลิตในไทยด้วยเทคโนโลยีการผลิตขั้นสูง เพื่อรักษาไทยให้เป็นฐานการประกอบและส่งออกระดับโลก",
-            "why": "การอัปเกรดไลน์ประกอบตัวถังและปั๊มขึ้นรูปโลหะช่วยดันความต้องการวัสดุขัดลบครีบ เจียรรอยเชื่อม และงานขัดอัตโนมัติโดยตรง",
-            "action": "นำเสนอสายพานขัดหุ่นยนต์และจานขัดเก็บผิวเกรดพรีเมียมให้โรงงานฟอร์ดระยองและซัพพลายเออร์ปั๊มขึ้นรูปชิ้นส่วนโลหะ Tier-1"
-          }
-        },
-        {
-          "id": "20261030-2",
-          "tag": "auto",
-          "rating": "green",
-          "source": "Facebook",
-          "date": "2026-10-29",
-          "url": "https://news.google.com/rss/articles/CBMixgZBVV95cUxQbEkyU3dzMzdCbnRCSHBVSlNaa2FyQ01sX1JyQy0yV0paVTVMaEFwd0w4ekhobWxBN3VMcVJhZ2tVY3dvVVFIU0dpQ2NlZXp2Tk5SRTE5bjZYc2FkTk1vWmpoRmdxYzhXRURWRzJQRWZ3VGlCUk9BcDREN0NwU2FUYW54Y2trMjNYaHZkMVRkMHd0XzhmNmVHU2RhWDR5amtPWDFiWWx3SEFTQkszdXJESEsta3lMRlhQT2M2NmF3ay1DM3pMMHlHemdLMklKdFFQQWh2aXpGLWRRM0xsaHBxZ0hkbkZnV3RvVFBMbllPQXZDdGY2RTBRRnRrbUE3SkxsSjc3UjdDRkNuc2RtNXJSQWVwSk9ZZDBqTUNhaktCSjgyRl9SNUlYR09uWlMwNDJ6T3Z2d0FaVWxtQWJrX2tkN3JGZTkwR0lMYVNfYzI1MHJldVVnUlhuNGZEdFpyaW1MWEVIRnBIcmk0M1ZwbVNZVGFScHdXSHFPeTJ6WmNjUkNpZ1lZVzlTQjhGSzRId0lBVlVXa1RiLVVIZlVfbnFJVHNsRS00ZlNXTjZQY2JrZEllek5iT3QzWmlYclBnejhUaEZBTnBRLVZGY0hCd3BiU1NHRkdqRGN0UHo2MWlTbm51ZEF5LUg4bGktNzYzUlEtbDZ0NW1ob0hNTzlfajVocEE2TWppZWxRU0pWeHdlSTJ0dC15YjZMU21BLWw1YkJ4SE9hWUt2bExaZkZ3bFFhdkZudHVTVWNSWk1KTkdXOE9iUDdBblkyRkNVVl9WTGtUMjc5LTVWWW5lRzdDX2xfMkNwWVZaLTB6UEtZVWZnMVY4ZTNfcVRuZnJONzIxNGNDYVk3d0MzVnMxTVhmVlNaWU9HbU1SYkY5aC1vaEk3MnB6Z3FtUVJUdVJtenBwVERmaXFSc0ZjQkZWOFo1NHlHeDlJOG9Mb1ZacnB2WjRtSzlfai1YcHlEMThaSWZMQkhLZjF3TW5idWROcHFzSkpnVnZVb19OamN1SF8ybkh2ZTlONEJFVEdURHlwVXlBVXczWFM1Vkx3RkpXU2xkbEhMV0E4cTNBYm5nY2JPVHN4RXlFVmg0LVZaYUNVMmYyb3c3dGZvSGhB?oc=5",
-          "title": "Changan Marks 3-Year Milestone, Eyes 3x Growth with Rayong EV Hub and Local Supply Chain",
-          "summary": "Changan plans to triple business in 3 years with 12 new EV models produced at Rayong while pulling more local Tier-1 and Tier-2 suppliers into its chain.",
-          "why": "Localizing EV stamping, chassis, and battery casing components creates growing consumption of metal grinding and non-woven finishing tools.",
-          "action": "Map and approach new auto parts manufacturers moving into Changan's Rayong supply chain with aluminum deburring and polishing solutions.",
-          "th": {
-            "title": "ครบรอบ 3 ปี CHANGAN ในไทย ตั้งเป้าโต 3 เท่า พร้อมดึงซัพพลายเออร์เข้าฐานผลิตระยอง",
-            "summary": "ฉางอันเตรียมเปิดตัวรถ 12 รุ่นและปั๊มยอดโต 3 เท่าใน 3 ปีจากฐานผลิตระยอง พร้อมเร่งดึงซัพพลายเออร์ชิ้นส่วนในประเทศเข้าห่วงโซ่การผลิต",
-            "why": "การผลิตชิ้นส่วนโครงสร้าง แชสซี และกล่องแบตเตอรี่ในประเทศที่เพิ่มขึ้น กระตุ้นยอดใช้วัสดุขัดเจียรโลหะและขัดแต่งอลูมิเนียม",
-            "action": "ทำผังซัพพลายเออร์ป้อนโรงงานฉางอันระยอง เพื่อส่งทีมขายเข้าเจาะกลุ่มโรงงานปั๊มและขัดเก็บผิวโลหะทันที"
-          }
-        },
-        {
-          "id": "20261030-3",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Facebook",
-          "date": "2026-10-12",
-          "url": "https://news.google.com/rss/articles/CBMi8gZBVV95cUxPWjQtdXNzVFQ5ZkJNZXhYMmp3OExvOUM5eDFtcU1TYTVjOW9MeDhvUDNRUlNaQkY3QzZlN1BHVVVFeFpTeWNtclVZbThGeUtucVVFQlU0Z3RxTDgxUEFxUU5mODJnalRiOGpja1R0T1ZYNFd2WUt5MXJnd2VTSktDaEpBR0daQ29YYUU1RlE3YjdoOEdJU05oUi05aWt6Y3czd0N5YmdvYl9LN0VOQkx5TGFZYmxxOF93YjVITWFZTHFrcDB3OENrMzNCc3MzQ1JYMElsTC1vaU5neVpEdXJUUUxyNU83ZnE2OURQTWtZNjZXWlVKWGR2UFdPRTZhUXZ4cE9Gdmt5YV9XTjRxS0oyZGhJUHZiVU50Rk5PMmxmNU9TeHNBR255eGtQVjNLb1hRS01wTHZMd0NpOThmRlFncng1U25HTWNjZXNUeERRUEhoMEowTmJCOGlPQk1jWVBLcjNIbWxsazVZUTktZVZiWkwtYW9VZHdkcEVCX2RRM2N6dWs4NkVYWTJKNFF5aUZHTE9jTzRhUEJ3eU9mbEJQQkpTVWtYQTdzaHdmc2JBM3psblRTUnFvRjVEenJSWGY1ZDd3bzVYcmRUQVpvNm5FSkp3MFF3TkVqNHhtNkg0bVZwSHhiZ1QwMjNYUXNfbHRoX0ppc3Vlb0tBbGFRaTg4MHFJMkN0d0pzMjVNMUdZWThaanV1YTBtWURQLVM3REEyWm84TjkyZ2dmOU9KeC03blpuNi0tempIbU52al82ZTgxN0xuVFBWM0NmWU9TWGpGdTVWcWU2dFU5c21FNFF5SVljUHZ1YkM2YVdINE1fbVBSRVBJSWZxSjVXSHQtTWdoZjhWQ1RqLXVzeFFuZFR3eHFUQXU4STZZZGs0RXN3dlVOVGx3TVNfOVhoWmxhMmM1eElkUnNsWm5KWDluM2RIdkd1WV9TU3o2dDBhal85d0REc1NPVDJ1Q014RUxBc3BzbUZoS1F6TEpHbW5fbzdUakZ5Si13b3FQMjd3VmVrLWJEcHJaWm9xTnBjNW5ZWU1fbUpiR2h4NlJmYllhaTZJcmNYcTdYZjN2XzNGaEN1NWs0OXRkeHV3QWtnb0FBRWllX3U1eFhqZjYtb1BINkM2YWlGcWNEYTUyZTRhUENWY0pNdkdBelJMTXJQc05BalpIV2c?oc=5",
-          "title": "Thai PM and Japan's Kishida Discuss Safeguarding Auto Supply Chain in EV Transition",
-          "summary": "Thailand's government reassured Japanese leadership that policy incentives will support traditional automotive plants while integrating them into EV manufacturing.",
-          "why": "Japanese auto component factories are MK's core customer base; protecting their operations preserves our daily abrasive turnover.",
-          "action": "Reinforce long-term abrasive consignment and local warehouse buffer support for key Japanese Tier-1 customers.",
-          "th": {
-            "title": "นายกฯ หารือ ‘คิชิดะ’ อดีตนายกฯ ญี่ปุ่น ย้ำดูแลฐานผลิตเดิมและดึงเข้าห่วงโซ่ EV",
-            "summary": "รัฐบาลไทยยืนยันนโยบายดูแลฐานการผลิตรถยนต์เดิมของญี่ปุ่น ควบคู่ไปกับการผลักดันเข้าสู่ซัพพลายเชนยานยนต์แห่งอนาคต",
-            "why": "โรงงานชิ้นส่วนยานยนต์ญี่ปุ่นคือลูกค้าหลักของ MK ความมั่นคงของฐานผลิตกลุ่มนี้ช่วยรักษาคำสั่งซื้อวัสดุขัดอย่างต่อเนื่อง",
-            "action": "นำเสนอสัญญาฝากสต็อก (Consignment) และการส่งมอบที่รวดเร็วเพื่อรักษาความสัมพันธ์กับโรงงานญี่ปุ่นระดับ Tier-1"
-          }
-        },
-        {
-          "id": "20261030-4",
-          "tag": "aero",
-          "rating": "amber",
-          "source": "posttoday",
-          "date": "2026-07-27",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lak5sZXQtNktSd3dqWTVQcmdhN2JJdGVhSEUxUzk5RFI5TUs4T3kzMzBqVDdNUnp4N2k3M2FBalNXd0UwaS1XeUxkczM4Rzg4QnVBQXJR?oc=5",
-          "title": "EECO Mobilizes Investment to Drive U-Tapao Aviation MRO Hub",
-          "summary": "The Eastern Economic Corridor Office is raising investment funds to accelerate U-Tapao into a regional aircraft maintenance, repair, and overhaul (MRO) center.",
-          "why": "Expansion of MRO facilities creates specialized demand for high-value aviation surface preparation abrasives and non-woven polishing pads.",
-          "action": "Review MK abrasive product specifications to ensure compliance with international aviation maintenance standards.",
-          "th": {
-            "title": "EECO ระดมทุน ดันอุตสาหกรรม MRO ปั้นอู่ตะเภาสู่ศูนย์กลางซ่อมอากาศยานภูมิภาค",
-            "summary": "สกพอ. ระดมทุนเร่งพัฒนาพื้นที่อู่ตะเภาเป็นฮับศูนย์ซ่อมบำรุงอากาศยาน (MRO) ครบวงจรระดับภูมิภาค",
-            "why": "ศูนย์ MRO ที่กำลังเกิดขึ้นจะต้องการวัสดุขัดผิวเฉพาะทางเกรดการบินที่มีมาร์จิ้นสูง สำหรับงานเตรียมผิวก่อนพ่นสีและขัดลบรอยชิ้นส่วนเครื่องบิน",
-            "action": "ตรวจสอบมาตรฐานและสเปกวัสดุขัดในมือเพื่อเตรียมความพร้อมขอรับรองมาตรฐานสำหรับงานซ่อมบำรุงอากาศยาน"
-          }
-        },
-        {
-          "id": "20261030-5",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "ข่าวสด",
-          "date": "2026-05-21",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15SXhSTE9NZ09fLVZFdGQ0M0JDVXlYWHM4Y1FzbDcxc0VZcFdrX1laUTRTR3VDZkZYcUNENkVUMTA4MnVOcUpGTi1xZk04NVNoUW14Z29vYXRRakEwOVE?oc=5",
-          "title": "Steel Industry Associations Urge TISI to Ban Induction Furnace Mills Within Three Years",
-          "summary": "Ten steel associations petitioned the Thai Industrial Standards Institute (TISI) to phase out substandard induction furnace (IF) plants within 3 years.",
-          "why": "Eliminating substandard mills directs production volume toward standardized electric arc furnace (EAF) mills, which rely on heavy-duty grinding discs.",
-          "action": "Prioritize sales efforts on certified EAF structural steel fabricators that value quality and compliant abrasive consumables.",
-          "th": {
-            "title": "10 สมาคมเหล็ก ร้อง สมอ. ยกเลิก รง.เหล็กจากเตา IF ภายใน 3 ปี",
-            "summary": "10 สมาคมเหล็กยื่นหนังสือถึง สมอ. ผลักดันให้ยกเลิกโรงงานผลิตเหล็กจากเตาเหนี่ยวนำไฟฟ้า (IF) ที่ไม่ได้มาตรฐานภายใน 3 ปี",
-            "why": "การคัดกรองโรงงานไร้มาตรฐานออกไปจะส่งผลให้โรงหลอมเหล็กเตา EAF และผู้แปรรูปเหล็กโครงสร้างที่ได้มาตรฐานมียอดผลิตสูงขึ้น ซึ่งเป็นกลุ่มที่ใช้หินเจียรต่อเนื่อง",
-            "action": "เน้นทำตลาดกับโรงงานโครงสร้างเหล็กและผู้ผลิตเหล็กมาตรฐานที่ต้องการใบรับรองความปลอดภัยของจานตัด/จานเจียร"
-          }
-        }
-      ],
-      "terms": {}
     }
   ],
-  "updated": "2026-11-12"
+  "updated": "2026-11-14"
 };
