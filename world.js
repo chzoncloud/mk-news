@@ -1,7 +1,107 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-11-14",
+  "updated": "2026-11-15",
   "days": [
+    {
+      "date": "2026-11-15",
+      "summary": "Today's global trends highlight steady expansion in the abrasive and surface finishing sectors driven by automotive refinishing, metal fabrication, and growing green coatings standards.",
+      "directCount": 3,
+      "th": {
+        "summary": "แนวโน้มโลกประจำวันนี้เน้นย้ำถึงการขยายตัวอย่างต่อเนื่องในกลุ่มธุรกิจวัสดุขัดและตกแต่งผิว ซึ่งขับเคลื่อนโดยงานซ่อมสีรถยนต์ การผลิตโลหะ และมาตรฐานสารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อม"
+      },
+      "items": [
+        {
+          "id": "20261115-w1",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-11-08",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYWxiTlJSV3E4b05JV2NRYkFPeHJWbEx3Nm9Wb09ZVjNMc2prYkZTdkZsd0NNbHZjRDZhbU1TQ0FIMnp6Y0YwZ2l4dWlGOU84SmlOQVk0R29UdFowWkpiYzRyS051RWRUVHk3NWU5dlA0WWRZNVJHQXBuRDRmZmFVd0YzTWxPTmRzWU5tQl9IVHZWWUlHMDY4OTNpUE15c2xFRHpoRGxWNS1kRU1XN1VPbGZheE1HeVRUTWo3bXA1VTg0d1RIYVgyRW1pQVBXdDNpdU1Va2JfSTJSVVk2bmJIMA?oc=5",
+          "title": "Aluminum Oxide Abrasive Fabrics Market To 2035: Automotive Refinishing and Metal Fabrication Fuel Forward Growth",
+          "summary": "The global demand for aluminum oxide abrasive fabrics is expanding steadily, driven heavily by automotive refinishing and metal fabrication needs.",
+          "why": "Aluminum oxide abrasive fabrics are core product lines for surface preparation in metalworking and auto repair shops.",
+          "action": "Ensure stable inventory and competitive sourcing for aluminum oxide coated abrasive rolls and sheets.",
+          "th": {
+            "title": "ตลาดผ้าทรายขัดอลูมิเนียมออกไซด์ถึงปี 2035: งานซ่อมสีรถยนต์และผลิตโลหะขับเคลื่อนการเติบโต",
+            "summary": "ความต้องการผ้าทรายขัดอลูมิเนียมออกไซด์ทั่วโลกเติบโตอย่างต่อเนื่อง ขับเคลื่อนโดยความต้องการในงานซ่อมสีรถยนต์และงานผลิตโลหะ",
+            "why": "ผ้าทรายขัดอลูมิเนียมออกไซด์เป็นสินค้าหลักในการเตรียมพื้นผิวสำหรับงานโลหะและอู่ซ่อมรถยนต์",
+            "action": "รักษาระดับสินค้าคงคลังให้เสถียรและหาแหล่งจัดซื้อกระดาษทราย/ผ้าทรายชนิดอลูมิเนียมออกไซด์ที่มีต้นทุนแข่งขันได้"
+          }
+        },
+        {
+          "id": "20261115-w2",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-11-07",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOE5SZjRpMFhJVjRHUjZKc1QzU2FjZVpsYS1aU09Wd0hQMWg2cllGZEVFSzRBTVIxczhNckg1WXdhMHNDN1lKTllHcm5zRFlBYjZ6aTlBT1lPWEdIc3hhVGZuMHhCeFlUOS1BRzRWZGNYMjZOelNtaEd6S1h1NndyX2ttQ2d1WF8yajR0ai1Kel9DS01iOGd2cmdUeVQxX1VQMkcwX09uakE3TlpkZ0RuZll2RHNHVjJ3OExxdmV3SWZUdw?oc=5",
+          "title": "Abrasive Sand Market To 2035: Infrastructure and Manufacturing Fuel Growth",
+          "summary": "The abrasive sand market is projected for solid growth over the next decade, fueled by global infrastructure projects and industrial manufacturing.",
+          "why": "Abrasive sand and raw mineral grains are fundamental raw inputs for manufacturing bonded and coated abrasives.",
+          "action": "Monitor raw material price trends for mineral sands to anticipate manufacturing cost changes.",
+          "th": {
+            "title": "ตลาดทรายขัดถึงปี 2035: โครงสร้างพื้นฐานและการผลิตขับเคลื่อนการเติบโต",
+            "summary": "ตลาดทรายขัดคาดว่าจะเติบโตอย่างแข็งแกร่งในทศวรรษหน้า โดยได้รับแรงหนุนจากโครงการโครงสร้างพื้นฐานทั่วโลกและการผลิตอุตสาหกรรม",
+            "why": "ทรายขัดและแร่ดิบเป็นวัตถุดิบพื้นฐานสำคัญในการผลิตหินเจียรและกระดาษทราย",
+            "action": "ติดตามแนวโน้มราคาวัตถุดิบกลุ่มแร่ทรายเพื่อคาดการณ์การเปลี่ยนแปลงต้นทุนการผลิต"
+          }
+        },
+        {
+          "id": "20261115-w3",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "Market.us",
+          "date": "2025-03-04",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91alpTXzlIaHVncXdQT2g3dVU2YjM5QTQ1amZIZGRMN0VQMGhzaXdEUXlIWV9nUXZRQ18wMUdrMmYzMkxLa25tdHpwTVctQ2JuYXhXWmxsQW1Pd1gxN1FhM2tkV20yV1psbHhv?oc=5",
+          "title": "Non-woven Abrasives Market Size, Share | CAGR of 3.8%",
+          "summary": "The non-woven abrasives market continues stable growth at a steady CAGR, driven by demand for fine surface finishing and blending.",
+          "why": "Non-woven abrasive pads and wheels are high-margin products used extensively for metal polishing and deburring.",
+          "action": "Evaluate our non-woven product portfolio and explore expanding our offerings for stainless steel finishing.",
+          "th": {
+            "title": "ขนาดและส่วนแบ่งตลาดวัสดุขัดไม่ถักทอ (Non-woven Abrasives) เติบโต 3.8% ต่อปี",
+            "summary": "ตลาดวัสดุขัดไม่ถักทอยังคงเติบโตอย่างมั่นคง ขับเคลื่อนด้วยความต้องการงานตกแต่งผิวละเอียดและลบคมชิ้นงาน",
+            "why": "แผ่นขัดและล้อขัดใยสังเคราะห์ (Non-woven) เป็นสินค้าที่มีอัตรากำไรดีและใช้แพร่หลายในงานขัดเงาสแตนเลสและลบครีบ",
+            "action": "ประเมินกลุ่มสินค้าประเภท Non-woven ของเราและพิจารณาขยายสินค้าสำหรับงานขัดสแตนเลส"
+          }
+        },
+        {
+          "id": "20261115-w4",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "S&P Global",
+          "date": "2026-01-07",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSDJTcGFGbUFvRm15ZDhrczNqYkRzbHlXMTJZTHJpUF9CTjRHaTNXak4tdVBkbnBWcnNrRDRneXpBd1Z5SUJGSFZWTzJMNWhfcVl5czkzR0lSSjd4aTJzMTg3N2FWM3pHQ2NxbHg2dEp2ckNiNC16cWdJZ0t3anl3TzlUYldVajhqM05JQVEyWWdZYVdaYkEzZUpvUEJGdHAxXzRKdDRnNG1pQl9LaEN6Q0lpbFpPMTBOeElqT3V2NUdUSlJJNjZWOEpiMWc?oc=5",
+          "title": "Europe's steel industry faces its 2026 reckoning with CBAM",
+          "summary": "European steel producers are confronting strict carbon border adjustment mechanisms, shifting procurement habits and regional manufacturing costs.",
+          "why": "Changes in European steel output directly impact global metal processing volumes and export requirements.",
+          "action": "Keep an eye on how European carbon rules affect metal fabrication standards globally.",
+          "th": {
+            "title": "อุตสาหกรรมเหล็กยุโรปเผชิญบททดสอบสำคัญในปี 2026 ด้วยมาตรการ CBAM",
+            "summary": "ผู้ผลิตเหล็กในยุโรปต้องเผชิญกับมาตรการปรับคาร์บอนก่อนข้ามพรมแดนที่เข้มงวด ซึ่งเปลี่ยนพฤติกรรมการจัดซื้อและต้นทุนการผลิตในภูมิภาค",
+            "why": "ความเปลี่ยนแปลงในปริมาณการผลิตเหล็กของยุโรปส่งผลโดยตรงต่อปริมาณการแปรรูปโลหะและข้อกำหนดการส่งออกทั่วโลก",
+            "action": "ติดตามผลกระทบของกฎระเบียบคาร์บอนในยุโรปที่มีต่อมาตรฐานการผลิตโลหะทั่วโลก"
+          }
+        },
+        {
+          "id": "20261115-w5",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-11-09",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUEhWWFVvZ013aGRlbWZoTlRpblBlTFZRRC1yX1FzUDhCN2FSTGVuV1lYTS00XzViRGsxREtkb1hKYzN0T2NLd1BySWZzTzdKVG9XLXlhS1RZQXJ2dS1yOFJlWTVwaDFfV2otN29fR2ota1dzcm5aU1dHZTZJcGNYZ2dQQk90MGY1bVd0LWdodXNELUczNUFidXctNjNCUDZBa2c1WnZmZUR0YUVnVnphMnRaUG9JLWNpWXM4R3ZkbE1pNUs3?oc=5",
+          "title": "COP31 electrification shake-up: EV rules meet factory reality",
+          "summary": "Automotive manufacturers are adapting factory lines to meet evolving global EV regulations and sustainability targets.",
+          "why": "Shifts in automotive manufacturing lines require specialized surface finishing and deburring tools for lightweight metals and EV components.",
+          "action": "Track how car factories modify production lines for new EV component materials.",
+          "th": {
+            "title": "ความสั่นคลอนด้านการเปลี่ยนผ่านสู่ยานยนต์ไฟฟ้าจาก COP31: กฎระเบียบ EV พบกับความจริงในโรงงาน",
+            "summary": "ผู้ผลิตรถยนต์กำลังปรับเปลี่ยนสายการผลิตในโรงงานเพื่อให้สอดคล้องกับกฎระเบียบ EV และเป้าหมายความยั่งยืนที่เปลี่ยนแปลงไป",
+            "why": "การเปลี่ยนแปลงในสายการผลิตยานยนต์ต้องใช้อุปกรณ์ขัดและลบคมผิวงานเฉพาะทางสำหรับโลหะน้ำหนักเบาและชิ้นส่วน EV",
+            "action": "ติดตามการปรับปรุงสายการผลิตของโรงงานยานยนต์สำหรับวัสดุชิ้นส่วน EV ใหม่ๆ"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-11-14",
       "summary": "Today's intelligence highlights strong long-term growth in the global abrasives market driven by precision finishing, alongside evolving EV wiring and steel market dynamics.",
@@ -830,70 +930,6 @@ window.WORLD_ARCHIVE = {
             "summary": "ภาคยานยนต์ของจีนกำลังเข้าสู่คลื่นการควบรวมกิจการครั้งใหญ่ บีบให้ผู้ผลิตต้องเน้นประสิทธิภาพ ขนาด และการผลิตคุณภาพสูงเพื่อความอยู่รอด",
             "why": "การควบรวมในอุตสาหกรรมยานยนต์ส่งผลต่อผู้ผลิตชิ้นส่วน (Tier-1 และ Tier-2) ที่ต้องใช้วิโซลูชันการลบคม ขัดผิว และเตรียมพื้นผิวที่มีคุณภาพเชื่อถือได้",
             "action": "จับตาดูว่าผู้ผลิตชิ้นส่วนยานยนต์จีนที่รอด ะมีการยกระดับเทคโนโลยีการขัดแต่งผิวอย่างไรบ้าง"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-11-01",
-      "summary": "Today's briefing focuses on automation driving coater and surface finishing growth, China's auto industry consolidation, and steel industry supply chain dynamics.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปข่าววันนี้เน้นเรื่องระบบอัตโนมัติที่ขับเคลื่อนการเติบโตของงานขัดและเคลือบผิว การควบรวมกิจการในอุตสาหกรรมรถยนต์จีน และพลวัตห่วงโซ่อุปทานอุตสาหกรรมเหล็ก"
-      },
-      "items": [
-        {
-          "id": "20261101-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-11-01",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZG1Tb3Bhc05IRGVXMmQ4dHFjZXUtYzhrYTJrXzVPcURwMlA3Z3ZvOTB5NThxTkxndVY3eGtkVmNYWm1mR21NQzhnRnpSZ0hCUTdLc0FNTDA2Y1NKSTlkMkwtbUtjMDd4c2tDd0w5bHNMT2JYVXNmX28zSnM3ejVmaDlQbzgtc1ZjVkxRY3VhaTlodFRDanpTbXdlaXloeTJZODY1Qmo0d2pTSkZxenVSTUJET2xRaGlMSlJPcG5UdG5RUTQ?oc=5",
-          "title": "Coated Abrasives Market To 2035: Automation and Metalworking Fuel Expansion",
-          "summary": "The coated abrasives market is expanding through 2035, significantly driven by increasing industrial automation and metalworking demands.",
-          "why": "Automation in metalworking requires consistent, high-durability coated abrasives capable of robotic integration.",
-          "action": "Prepare to source and recommend automated-friendly abrasive belts and discs for robotic finishing lines.",
-          "th": {
-            "title": "ตลาดกระดาษทรายและวัสดุขัดเคลือบถึงปี 2035: ระบบอัตโนมัติและงานโลหะหนุนการขยายตัว",
-            "summary": "ตลาดวัสดุขัดเคลือบกำลังขยายตัวจนถึงปี 2035 โดยได้รับแรงหนุนสำคัญจากความต้องการระบบอัตโนมัติในอุตสาหกรรมและงานโลหะ",
-            "why": "ระบบอัตโนมัติในงานโลหะต้องการวัสดุขัดที่มีความทนทานสม่ำเสมอและรองรับการทำงานกับหุ่นยนต์ได้",
-            "action": "เตรียมจัดหาและแนะนำสายพานและแผ่นขัดที่เหมาะกับระบบอัตโนมัติและหุ่นยนต์ขัดผิว"
-          }
-        },
-        {
-          "id": "20261101-w2",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-10-28",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMExMd0h3VTZZUGVhTmVoNENZT0RDYkZhOFlTUzZUd3RmT0RNRGJKVjlQVTBmRnkwa21iZEl6ZlNJYmIzVTJjQzU1eGhrcTFPOHhNQWRlSWVWaDlwR2FIVGZmSWJlQk00ZmNRUE5oc1owOGtPSzM2QzNCY0R4YXJNdjdwWExHVzNDM1JXSGRpMnNTdHQ1QXdnWlk2MFlFc21GRXd5QjVVYVItalFMN2hjZmZqZi1nd2I5aVBhYlRhbTQ?oc=5",
-          "title": "China's car industry consolidation begins: who will survive?",
-          "summary": "China's automotive sector is undergoing a major shakeout and consolidation phase, altering manufacturing footprints and supply chains.",
-          "why": "Shifts in automotive manufacturing hubs directly affect regional demand for Tier-1/Tier-2 metal finishing and body shop supplies.",
-          "action": "Monitor automotive supply chain shifts to anticipate changing regional demand for metal surface prep products.",
-          "th": {
-            "title": "เริ่มต้นการควบรวมอุตสาหกรรมรถยนต์ของจีน: ใครจะอยู่รอด?",
-            "summary": "ภาคยานยนต์ของจีนกำลังเข้าสู่ช่วงการปรับโครงสร้างและการควบรวมครั้งใหญ่ ซึ่งส่งผลต่อฐานการผลิตและห่วงโซ่อุปทาน",
-            "why": "การเปลี่ยนแปลงของฐานการผลิตยานยนต์ส่งผลโดยตรงต่อความต้องการใช้วัสดุเตรียมผิวโลหะและชิ้นส่วนในระดับภูมิภาค",
-            "action": "ติดตามการเปลี่ยนแปลงของห่วงโซ่อุปทานยานยนต์เพื่อคาดการณ์ความต้องการผลิตภัณฑ์เตรียมพื้นผิวโลหะที่อาจย้ายถิ่นฐาน"
-          }
-        },
-        {
-          "id": "20261101-w3",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "Shanghai Metals Market",
-          "date": "2026-05-19",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMmw1akRRMFZCQ2I5NGhHdE1NOXhoaE1GY0h5UmxlQVNUVGxHTko2U0NBQ0o0Q19ZYmZ1VnBCTTB6a2JJQTFNOUpDSUtpWXdaR3hkeGhlOXF4dF9yUElCd1ZkWTl4MmZGOWhVeUlXc2VCMXFCOHQzZ0ZGZ1RtZ3p6aUNObEczWFhKMkdKQ3JuRWF5SjVNZmpOQVBaSGs4TWJKS1lVa0VTdmoxdDBQTF8zRDlxME1qeEtOUzJzSTBERURobWltWTlVUlpaZ3d2WlFRNEY1b0UwbVVfLXc0cXBZ?oc=5",
-          "title": "Nucor: 100% EAF, High Profits, and Vertical Integration Mitigating Costs",
-          "summary": "Electric Arc Furnace (EAF) steel production continues to gain structural advantages through vertical integration and cost control.",
-          "why": "EAF steel scrap processing and structural fabrication create specific local deburring, grinding, and surface defect removal needs.",
-          "action": "Keep an eye on EAF steel mill expansions as potential industrial accounts for heavy-duty grinding products.",
-          "th": {
-            "title": "Nucor: ใช้เตาอาร์ไฟฟ้า 100%, กำไรสูง และการบูรณาการในแนวดิ่งเพื่อลดต้นทุน",
-            "summary": "การผลิตเหล็กด้วยเตาอาร์คไฟฟ้า (EAF) ยังคงได้เปรียบเชิงโครงสร้างผ่านการบูรณาการทางธุรกิจและการควบคุมต้นทุน",
-            "why": "กระบวนการรีไซเคิลเศษเหล็กและการขึ้นรูปโครงสร้างด้วยเตา EAF สร้างความต้องการเฉพาะด้านในการลบเสี้ยน การเจียร และการกำจัดตำหนิผิว",
-            "action": "จับตาดูการขยายตัวของโรงงานเหล็ก EAF เพื่อมองหาโอกาสเป็นลูกค้าอุตสาหกรรมสำหรับสินค้ากลุ่มงานเจียรหนัก"
           }
         }
       ]
