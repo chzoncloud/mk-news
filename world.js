@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "days": [
+    {
+      "date": "2026-11-14",
+      "summary": "Today's briefing features 3 key global signals covering EV wiring demand, pickling acids for steel treatment, and global EV battery/manufacturing outlooks, highlighting continued industrial shifts in metal and automotive sectors.",
+      "directCount": 1,
+      "th": {
+        "summary": "สรุปข่าวสารประจำวันนี้มี 3 สัญญาณสำคัญระดับโลก ครอบคลุมความต้องการสายไฟรถยนต์ไฟฟ้า กรดดองเหล็กสำหรับงานเตรียมผิวเหล็ก และแนวโน้มการผลิตแบตเตอรี่ EV ซึ่งตอกย้ำการเปลี่ยนแปลงในภาคอุตสาหกรรมโลหะและยานยนต์"
+      },
+      "items": [
+        {
+          "id": "20261114-w1",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "IndexBox",
+          "date": "2026-11-13",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYjd2c1psS2c2M3g3UlRVOVNIYWdHal9zN2hRYUxOX0g4ajZJWjdVOWc2c29VclU2cjJSYkJzcE1aYTJwcWdPX0FlNHBhbGRydXNWeGd2TmVuUXlrZ01BbWdRLVhsWm9pMkM1QjQ2M2RWeE1JdkJ3Yk92djI5Q2J1X2g4WnBqTWNlRmtwdGdJczZlbUlZNEhsVlpYeWs2MEhLSkVSUWkzdHhhNnpLRXNQQk9CZw?oc=5",
+          "title": "EV Wires Market To 2035: Growth Driven by Global EV Production Ramp-Up",
+          "summary": "The EV wires market is projected to expand significantly through 2035, supported by the ongoing acceleration of global electric vehicle production.",
+          "why": "Growth in EV component manufacturing directly impacts Tier suppliers who need precise wire stripping, terminal cleaning, and metal deburring tools.",
+          "action": "Monitor growth in EV wiring harness manufacturing for specialized wire-brush and deburring applications.",
+          "th": {
+            "title": "ตลาดสายไฟ EV ถึงปี 2035: เติบโตจากกำลังการผลิตรถยนต์ไฟฟ้าทั่วโลก",
+            "summary": "ตลาดสายไฟรถยนต์ไฟฟ้าคาดว่าจะเติบโตอย่างต่อเนื่องจนถึงปี 2035 หนุนโดยการเร่งผลิตรถยนต์ไฟฟ้าทั่วโลก",
+            "why": "การเติบโตของการผลิตชิ้นส่วน EV ส่งผลโดยตรงต่อผู้ผลิต Tier ที่ต้องการเครื่องมือปอกสายไฟ ทำความสะอาดขั้วต่อ และลบคมโลหะที่มีความแม่นยำสูง",
+            "action": "ติดตามการเติบโตของการผลิตชุดสายไฟ EV เพื่อโอกาสในการเสนอสินค้าแปรงลวดและเครื่องมือลบคมเฉพาะทาง"
+          }
+        },
+        {
+          "id": "20261114-w2",
+          "tag": "steel",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-11-11",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYVJwVGx6OUpnSXNGRWlUZmNVWEF2X1hTbk9senZQWnZuOURQNlB0UDJNaWxLQjM0c1U5ZnJ1TzFua2pDLU9iU2NsS2ZFbENNWnhuSlNTTnkxVF9uSnJVRjNYVDhDbGhjTnJrUnNlY2ZXMjNJeVZwSjRJM0t5czRXRFJrdkJ3cUd1YjFJaU5nMEJDYS1yaUZfNEJLQ0kxQkxxRktRS2UtOFF2ZFRhXzl2Z0RfWUpKOE0wZE1rekpfTlloMnJMbEJfbVdR?oc=5",
+          "title": "Pickling Acids Market To 2035: Steel Pickling Demand and Recycling Mandates Drive Growth",
+          "summary": "Demand for pickling acids is expanding, driven by steel pickling requirements and stricter recycling regulations in metal processing.",
+          "why": "Steel pickling is a crucial surface preparation step before rolling, coating, or abrasive grinding operations in metal fabrication.",
+          "action": "Keep track of steel mill surface treatment trends as an indicator of heavy industrial metal finishing demand.",
+          "th": {
+            "title": "ตลาดกรดดองเหล็กถึงปี 2035: ความต้องการดองเหล็กและกฎระเบียบรีไซเคิลหนุนการเติบโต",
+            "summary": "ความต้องการกรดดองเหล็กกำลังขยายตัว ขับเคลื่อนโดยความต้องการดองผิวเหล็กและกฎระเบียบการรีไซเคิลที่เข้มงวดขึ้นในกระบวนการแปรรูปโลหะ",
+            "why": "กระบวนการดองเหล็ก (Pickling) เป็นขั้นตอนสำคัญในการเตรียมพื้นผิวก่อนเข้าสู่กระบวนการรีด เคลือบ หรือขัดด้วยกระดาษทรายในอุตสาหกรรมแปรรูปโลหะ",
+            "action": "ติดตามแนวโน้มการเตรียมผิวโลหะของโรงงานเหล็ก เพื่อใช้เป็นดัชนีชี้วัดความต้องการใช้อุปกรณ์ขัดผิวโลหะหนัก"
+          }
+        },
+        {
+          "id": "20261114-w3",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "IEA - International Energy Agency",
+          "date": "2026-05-20",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUmhMdjBTMHNNQVA3WnI0QWx2dnlrZDVLUklVdE1XNmsxeEVPZ2tUN0pVUkstbzBOYXZsbFVjcVhpWk8wUXlvRGhUcVR4alN2TmQyQ1Y0SnVhMUVoeEtna2V2R0ZSdGVoR2hTQVZBaFdqdG5INHdoVzUzNW93TkxfNVUxVQ?oc=5",
+          "title": "Electric vehicle batteries - Global EV Outlook 2026",
+          "summary": "The IEA report highlights ongoing capacity expansion and supply chain shifts in global electric vehicle battery manufacturing.",
+          "why": "EV battery production involves extensive metal casing fabrication, welding prep, and precision finishing where coated abrasives are heavily used.",
+          "action": "Evaluate opportunities in supplying specialized abrasives for EV battery enclosure and structural component finishing.",
+          "th": {
+            "title": "แบตเตอรี่รถยนต์ไฟฟ้า - แนวโน้ม EV โลกปี 2026",
+            "summary": "รายงานจาก IEA เน้นย้ำถึงการขยายกำลังการผลิตและการเปลี่ยนแปลงห่วงโซ่อุปทานในการผลิตแบตเตอรี่รถยนต์ไฟฟ้าทั่วโลก",
+            "why": "การผลิตแบตเตอรี่ EV เกี่ยวข้องกับการขึ้นรูปโครงโลหะ การเตรียมรอยเชื่อม และการขัดแต่งผิวให้เรียบ ซึ่งต้องใช้กระดาษทรายและวัสดุขัดอย่างกว้างขวาง",
+            "action": "ประเมินโอกาสในการจัดหาผลิตภัณฑ์ abrasives เฉพาะทางสำหรับงานตกแต่งโครงสร้างและกล่องบรรจุแบตเตอรี่ EV"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-11-13",
       "summary": "Today's briefing focuses on global manufacturing shifts, including the $72.2B abrasives market growth driven by precision finishing, EAF steelmaking trends linked to scrap shears, and green coatings innovations. These shifts highlight expanding opportunities in high-precision metal fabrication and surface preparation.",
@@ -830,70 +894,6 @@ window.WORLD_ARCHIVE = {
             "summary": "การผลิตเหล็กด้วยเตาอาร์คไฟฟ้า (EAF) ยังคงได้เปรียบเชิงโครงสร้างผ่านการบูรณาการทางธุรกิจและการควบคุมต้นทุน",
             "why": "กระบวนการรีไซเคิลเศษเหล็กและการขึ้นรูปโครงสร้างด้วยเตา EAF สร้างความต้องการเฉพาะด้านในการลบเสี้ยน การเจียร และการกำจัดตำหนิผิว",
             "action": "จับตาดูการขยายตัวของโรงงานเหล็ก EAF เพื่อมองหาโอกาสเป็นลูกค้าอุตสาหกรรมสำหรับสินค้ากลุ่มงานเจียรหนัก"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-10-31",
-      "summary": "Today's briefing features 3 selected stories focusing on surface finishing tech, new abrasive manufacturer updates, and global steel trade shifts, highlighting key market drivers for our business.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปข้อมูลประจำวันนี้คัดเลือก 3 ข่าวสำคัญที่เน้นเทคโนโลยีการตกแต่งพื้นผิว การอัปเดตผู้ผลิตวัสดุขัด และการเปลี่ยนแปลงการค้าเหล็กระดับโลก ซึ่งขับเคลื่อนตลาดที่เกี่ยวข้องกับธุรกิจของเรา"
-      },
-      "items": [
-        {
-          "id": "20261031-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "The National Law Review",
-          "date": "2026-10-29",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb0Y4bmJoWjBQSGVHMTBCQVJOWVd1VW8zZHZWTGlqeWdiZTlhaEx4T0laRXJ5M1FDVkVxM3V1aXFiVmEtOHpqb3UtVjdpaVVaWmZSYkV6T3A4Q0kzR0FnbUdOdUJWUXpWQ09hVDQtV2Q5Y19lWTFZMldpa2EzLWZDV2N1aTNZRjJnNlhMOTZ6VFc4ZVlUazFsRGZUWlhHZWI4SktzeHlKMmRDX2Z2ZDEtQVNFNA?oc=5",
-          "title": "Top Abrasive Manufacturer: Jiangxi Golden Abrasives Advances Surface Finishing Solutions",
-          "summary": "Jiangxi Golden Abrasives is advancing surface finishing solutions, highlighting ongoing manufacturing developments in the global abrasive paper sector.",
-          "why": "Competitor advancements in abrasive paper manufacturing directly impact global pricing, product quality benchmarks, and sourcing options in our industry.",
-          "action": "Monitor competitor product innovations and quality standards to ensure our MKSanding portfolio remains competitive.",
-          "th": {
-            "title": "ผู้ผลิตกระดาษทรายชั้นนำ Jiangxi Golden Abrasives พัฒนาโซลูชันการตกแต่งพื้นผิว",
-            "summary": "Jiangxi Golden Abrasives กำลังพัฒนาโซลูชันการตกแต่งพื้นผิว ซึ่งสะท้อนถึงการพัฒนาด้านการผลิตในภาคกระดาษทรายระดับโลก",
-            "why": "ความก้าวหน้าของผู้ผลิตกระดาษทรายส่งผลโดยตรงต่อราคาระดับโลก เกณฑ์มาตรฐานคุณภาพสินค้า และทางเลือกในการจัดซื้อในอุตสาหกรรมของเรา",
-            "action": "ติดตามนวัตกรรมผลิตภัณฑ์และมาตรฐานคุณภาพของคู่แข่ง เพื่อให้มั่นใจว่าสินค้าในกลุ่ม MKSanding สามารถแข่งขันได้"
-          }
-        },
-        {
-          "id": "20261031-w2",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "Woodworking Network",
-          "date": "2026-10-28",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPenJGZzhiOUMyeFhrU09yQ3hfR1puSkF4NFhiV19HUUtvbE1POE9iUzZ4T3pZOTdKaVlKSWdZQ1RHSGhVdHJSdmstZWdaUE9wMGVDMEJJckNIRzBHck5UcmZWOFctbUhnQVA5OWRtTmVpVno0MHlsQzRfd0FIWEFTSDJPNW1zS1R6Tk9rV3ZyZE0waVpUQ2U0eFgtY0U?oc=5",
-          "title": "New technology tackles familiar sanding challenges",
-          "summary": "New technological developments are emerging to address traditional sanding and surface preparation pain points in manufacturing applications.",
-          "why": "Wood and metal industries constantly seek solutions for sanding challenges; adopting or offering similar advanced abrasive tech can solve customer problems.",
-          "action": "Look into new anti-clogging or long-life sanding technologies to propose better solutions to our B2B clients.",
-          "th": {
-            "title": "เทคโนโลยีใหม่แก้ปัญหาการขัดกระดาษทรายแบบเดิมๆ",
-            "summary": "มีการพัฒนาเทคโนโลยีใหม่ๆ เพื่อแก้ไขปัญหาอุปสรรคเดิมๆ ในการขัดและเตรียมพื้นผิวในภาคการผลิต",
-            "why": "อุตสาหกรรมไม้และโลหะมักมองหาโซลูชันสำหรับปัญหาการขัด การนำเสนอเทคโนโลยีวัสดุขัดที่ก้าวหน้าจะช่วยแก้ปัญหาให้ลูกค้าได้ดีขึ้น",
-            "action": "ศึกษาเทคโนโลยีการขัดใหม่ๆ เช่น ชนิดลดการอุดตันหรือใช้งานได้ยาวนาน เพื่อเสนอทางเลือกที่ดีกว่าให้กับลูกค้า B2B"
-          }
-        },
-        {
-          "id": "20261031-w3",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "Reuters",
-          "date": "2026-04-02",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSzdNYWRYM3hzTlpYRzJnQTBxYXBwbXlJdUthcER3X0pHWFBiTW5FQjVoS3lmWWZia19tZ2V0TzJ1SG5sZEdvejlMTnBDX0R1eUNpdHhma1ZtdlJWWFpJcWR1aTFsNUdETUo1UDZfR0R6RHpjX2pMOVRXNkJ3SHdIdG1xdWlnYktSWDZ1VDJvR1htTmlnczgyZlRONjBzQkhXY0tzSndnTUNXLTN4VEoxNA?oc=5",
-          "title": "Trump cuts US duty rates on steel, aluminum and copper derivative products",
-          "summary": "Changes in US duty rates for steel and aluminum derivative products are shifting international trade dynamics and metal manufacturing costs.",
-          "why": "Global metal trade policies influence the profitability and production volume of downstream metal fabrication, which consumes industrial abrasives.",
-          "action": "Keep an eye on metal manufacturing activity in export markets to anticipate fluctuations in regional abrasive demand.",
-          "th": {
-            "title": "ทรัมป์ปรับลดอัตราภาษีศุลกากรของสหรัฐฯ สำหรับผลิตภัณฑ์แปรรูปเหล็ก อลูมิเนียม และทองแดง",
-            "summary": "การเปลี่ยนแปลงอัตราภาษีของสหรัฐฯ สำหรับผลิตภัณฑ์เหล็กและอลูมิเนียมส่งผลต่อพลวัตการค้าระหว่างประเทศและต้นทุนการผลิตโลหะ",
-            "why": "นโยบายการค้าโลหะทั่วโลกส่งผลต่อความสามารถในการทำกำไรและปริมาณการผลิตของอุตสาหกรรมแปรรูปโลหะปลายน้ำ ซึ่งเป็นผู้ใช้กระดาษทรายอุตสาหกรรม",
-            "action": "จับตากิจกรรมการผลิตโลหะในตลาดส่งออกเพื่อคาดการณ์ความผันผวนของความต้องการใช้วัสดุขัดในภูมิภาค"
           }
         }
       ]
