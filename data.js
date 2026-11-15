@@ -2,6 +2,71 @@
 window.NEWS_ARCHIVE = {
   "days": [
     {
+      "date": "2026-11-15",
+      "summary": "Today has limited new updates as major EV tariff policies and MRO contracts were largely covered earlier this week; however, fresh projections on EV plant localization and development pushes in aviation MRO and sustainable woodworking reinforce steady industrial abrasive consumption.",
+      "directCount": 2,
+      "th": {
+        "summary": "วันนี้มีข่าวใหม่ไม่มากเนื่องจากประเด็นหลักเรื่องภาษี EV และสัญญา MRO ถูกรายงานไปแล้วในช่วงต้นสัปดาห์ แต่บทวิเคราะห์ล่าสุดเรื่องการย้ายฐานผลิต EV รวมถึงความคืบหน้าด้านฮับการบิน MRO และอุตสาหกรรมงานไม้ ยังยืนยันแนวโน้มการใช้วัสดุขัดอุตสาหกรรมที่มั่นคง"
+      },
+      "items": [
+        {
+          "id": "20261115-1",
+          "tag": "auto",
+          "rating": "green",
+          "source": "Matichon Online",
+          "date": "2026-11-14",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zbW01cXlGMXNXYm1aYktaeFN1clBhX1QyZVZmRF8tT0g4cDR5S25oQ0JsR1I1cG42VkdxVWI3WF9YNlBSYll0em0wamhZSDJ6el9BRkZNRklmYU0?oc=5",
+          "title": "TPSO Projects 35% Import Tariff Will Accelerate EV Production Base Relocation to Thailand",
+          "summary": "The Trade Policy and Strategy Office (TPSO) expects the 35% import tariff on non-locally produced EVs to compel global carmakers to build local assembly and stamping operations in Thailand rather than importing finished units.",
+          "why": "Higher domestic assembly volume and localized component stamping directly increase factory demand for MK cutting wheels, flap discs, and deburring abrasives.",
+          "action": "Map upcoming EV assembly plants and localized parts suppliers to pitch MK metal fabrication and robotic finishing abrasive lines.",
+          "th": {
+            "title": "สนค. คาดภาษีนำเข้า 35% เร่งดึงฐานการผลิต EV ตั้งโรงงานประกอบในไทย",
+            "summary": "สนค. ประเมินว่าอัตราภาษีนำเข้า 35% สำหรับรถยนต์ไฟฟ้าที่ไม่ได้ผลิตในประเทศ จะกดดันให้ค่ายรถยนต์ระดับโลกเร่งตั้งโรงงานประกอบและปั๊มชิ้นส่วนในไทยแทนการนำเข้าสำเร็จรูป",
+            "why": "การผลิตและการปั๊มขึ้นรูปชิ้นส่วนยานยนต์ในประเทศที่เพิ่มขึ้น จะสร้างความต้องการใบตัด จานทรายซ้อน และวัสดุขัดลบคมของ MK โดยตรง",
+            "action": "จัดทำรายชื่อโรงงานประกอบ EV และผู้ผลิตชิ้นส่วนที่กำลังตั้งฐานผลิตใหม่ เพื่อเข้าเสนอกลุ่มสินค้าวัสดุขัดสำหรับงานโลหะยานยนต์ของ MK"
+          }
+        },
+        {
+          "id": "20261115-2",
+          "tag": "aero",
+          "rating": "amber",
+          "source": "posttoday",
+          "date": "2026-07-27",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lak5sZXQtNktSd3dqWTVQcmdhN2JJdGVhSEUxUzk5RFI5TUs4T3kzMzBqVDdNUnp4N2k3M2FBalNXd0UwaS1XeUxkczM4Rzg4QnVBQXJR?oc=5",
+          "title": "EECO Mobilizes Capital to Transform U-Tapao into Regional Aircraft MRO Hub",
+          "summary": "The Eastern Economic Corridor Office (EECO) is advancing fundraising and infrastructure strategies to position U-Tapao as a regional aviation maintenance, repair, and overhaul (MRO) center.",
+          "why": "Expansion of regional MRO facilities creates high-value, long-term demand for certified aerospace-grade abrasives used in airframe overhaul, surface stripping, and engine maintenance.",
+          "action": "Initiate supply chain pre-qualification and assemble specialized high-grit finishing product samples suitable for aerospace maintenance standards.",
+          "th": {
+            "title": "สกพอ. เดินหน้าระดมทุน ดันอู่ตะเภาสู่ศูนย์กลางอุตสาหกรรมซ่อมบำรุงอากาศยาน (MRO) ระดับภูมิภาค",
+            "summary": "สำนักงาน อีอีซี เร่งระดมทุนและวางโครงสร้างพื้นฐานเพื่อขับเคลื่อนให้อู่ตะเภาก้าวขึ้นเป็นศูนย์กลางการซ่อมบำรุงอากาศยานระดับภูมิภาค",
+            "why": "การขยายตัวของศูนย์ MRO จะสร้างอุปสงค์ระยะยาวมูลค่าสูงสำหรับวัสดุขัดเกรดการบินที่ใช้ในงานลอกสีผิว ปรับสภาพพื้นผิวโครงสร้าง และซ่อมบำรุงเครื่องยนต์",
+            "action": "เริ่มกระบวนการขึ้นทะเบียนคู่ค้าและเตรียมชุดตัวอย่างวัสดุขัดละเอียดพิเศษที่สอดคล้องกับมาตรฐานงานซ่อมบำรุงอากาศยาน"
+          }
+        },
+        {
+          "id": "20261115-3",
+          "tag": "furniture",
+          "rating": "green",
+          "source": "ผู้จัดการออนไลน์",
+          "date": "2026-09-02",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWNVFPYTI5eTFhQ1lwNWozSXFGRHAtS2xtdk0zZERrcWg3SEprbXBZR0Ixc0hGbWtHT1l0NnR4cGpSMzNVWG5DM3dMNGc1SUlnbmNUcEFQaWx4ZTRKQ0FkMA?oc=5",
+          "title": "TIWF 2026 Spotlights Sustainable Upgrades for Thai Wood and Furniture Manufacturers",
+          "summary": "The Thailand International Woodworking & Furniture Exhibition (TIWF 2026) aims to modernize local wood processing and furniture exporters through automation and premium, eco-friendly surface finishing.",
+          "why": "Commercial wood processing and furniture makers are heavy volume consumers of MK wide sanding belts, paper discs, and finishing sandpaper.",
+          "action": "Engage participating woodworking factories and offer trial packages of MK wide sanding belts and orbital sanding discs for automated production lines.",
+          "th": {
+            "title": "งานใหญ่ TIWF 2026 ยกระดับอุตสาหกรรมไม้และเฟอร์นิเจอร์ไทยสู่ความยั่งยืน",
+            "summary": "งานแสดงสินค้าอุตสาหกรรมงานไม้ TIWF 2026 มุ่งยกระดับโรงงานแปรรูปไม้และผู้ผลิตเฟอร์นิเจอร์ส่งออกของไทย ด้วยเทคโนโลยีการผลิตอัตโนมัติและการเตรียมผิวงานคุณภาพสูง",
+            "why": "อุตสาหกรรมแปรรูปไม้และเฟอร์นิเจอร์เป็นผู้ใช้งานหลักของสายพานกระดาษทรายผืนกว้าง จานขัดกลม และกระดาษทรายขัดละเอียดของ MK",
+            "action": "ประสานงานกับกลุ่มโรงงานผู้ผลิตงานไม้และเฟอร์นิเจอร์เพื่อเสนอชุดทดลองสายพานขัดและจานขัดกระดาษทรายสำหรับไลน์ขัดอัตโนมัติ"
+          }
+        }
+      ],
+      "terms": {}
+    },
+    {
       "date": "2026-11-14",
       "summary": "Today there are very few new headlines. Market attention centers on Vietjet's MRO feasibility study at U-Tapao, regulatory enforcement against substandard steel mills, and steady growth across ASEAN furniture exports.",
       "directCount": 1,
@@ -693,72 +758,7 @@ window.NEWS_ARCHIVE = {
         }
       ],
       "terms": {}
-    },
-    {
-      "date": "2026-11-01",
-      "summary": "Today offers few fresh developments as most major industrial headlines have been covered earlier this week. Nonetheless, Toyota's hydrogen pickup investment and the finalized EEC-Thai Airways MRO contract provide solid growth signals for automotive and aerospace abrasive demand.",
-      "directCount": 2,
-      "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มากเนื่องจากประเด็นหลักส่วนใหญ่ได้รับการรายงานไปแล้วในรอบสัปดาห์ อย่างไรก็ตาม การลงทุนกระบะไฮโดรเจนของโตโยต้าและการเซ็นสัญญาศูนย์ซ่อม MRO การบินไทย-EEC ถือเป็นสัญญาณบวกชัดเจนต่อความต้องการวัสดุขัดในกลุ่มยานยนต์และการบิน"
-      },
-      "items": [
-        {
-          "id": "20261101-1",
-          "tag": "auto",
-          "rating": "green",
-          "source": "posttoday",
-          "date": "2026-10-19",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oODIyVlR4UTVaTmtNMURSeW12LWdZODhhU0tiZWs1Tk05bU1YVC12TEtWXzZ1Yl9sMW4xRDBrR0duLXV2TWtuM3BNZFBaUWgxV1VZd05B?oc=5",
-          "title": "BOI Approves Toyota's 1.49 Billion Baht Investment to Build Hydrogen Pickups in Thailand",
-          "summary": "The Board of Investment has approved Toyota's 1.49 billion baht project to establish Thailand as a global manufacturing hub for hydrogen-powered pickup trucks. This investment expands advanced commercial vehicle assembly and chassis engineering within the country.",
-          "why": "New pickup platform manufacturing requires specialized metal cutting, robotic weld seam grinding, and precision surface conditioning across Tier-1 Japanese suppliers.",
-          "action": "Target Toyota's Tier-1 chassis and metal stamping vendors to introduce heavy-duty flap discs and zirconia sanding belts tailored for high-strength steel fabrication.",
-          "th": {
-            "title": "BOI ไฟเขียวโตโยต้าทุ่ม 1.49 พันล้าน ปักหมุดไทยผลิตปิกอัพไฮโดรเจนบุกตลาดโลก",
-            "summary": "บอร์ด BOI อนุมัติโครงการลงทุน 1.49 พันล้านบาทของโตโยต้า เพื่อใช้ไทยเป็นฐานผลิตรถกระบะพลังงานไฮโดรเจนส่งออกทั่วโลก ขยายงานประกอบและวิศวกรรมโครงสร้างแชสซีส์ขั้นสูงในประเทศ",
-            "why": "สายการผลิตแพลตฟอร์มรถกระบะใหม่ช่วยเพิ่มงานตัดแต่งโลหะ เจียรแนวเชื่อม และเตรียมผิวกระบะในกลุ่มซัพพลายเออร์ชิ้นส่วนญี่ปุ่น Tier-1",
-            "action": "เร่งเข้าพบฝ่ายจัดซื้อของโรงงานผลิตแชสซีส์และชิ้นส่วนปั๊มขึ้นรูปของโตโยต้า เพื่อนำเสนอจานทรายซ้อนและสายพานเซอร์โคเนียสำหรับงานเหล็กแข็ง"
-          }
-        },
-        {
-          "id": "20261101-2",
-          "tag": "aero",
-          "rating": "green",
-          "source": "ผู้จัดการออนไลน์",
-          "date": "2026-10-06",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIazdnNjc2TVdpRWNOSTNQS2tlaWFWdl9KbE5OaEdlLWlZX0RaWERWWjhJV1l0MjdTejNaSHVhOEMwSThnWmtFaUJMWVAydHIxVkFKTktiQ0pXb09KVVRLWg?oc=5",
-          "title": "EEC and Thai Airways Officially Sign 10-Billion-Baht U-Tapao Aviation MRO Contract",
-          "summary": "The Eastern Economic Corridor Office and Thai Airways have finalized the agreement to develop a 10-billion-baht aircraft maintenance, repair, and overhaul facility at U-Tapao Airport. Groundbreaking is slated for 2027 with operations beginning in 2030, projecting 4-6 billion baht in annual revenue.",
-          "why": "Commercial aircraft maintenance demands certified high-precision abrasives, non-woven finishing pads, and strip-and-clean discs for turbine de-burring, composite sanding, and fuselage refinishing.",
-          "action": "Initiate aerospace abrasive vendor pre-qualification and product compliance testing to align MK's technical portfolio with Thai Airways and MRO subcontracting requirements.",
-          "th": {
-            "title": "เซ็นสัญญาแล้ว EEC ผนึกการบินไทย ลุยศูนย์ซ่อม MRO อู่ตะเภาหมื่นล้าน",
-            "summary": "สกพอ. และการบินไทยลงนามสัญญาพัฒนาศูนย์ซ่อมบำรุงอากาศยาน (MRO) อู่ตะเภามูลค่า 1 หมื่นล้านบาท เตรียมเริ่มก่อสร้างปี 2570 และเปิดบริการปี 2573 ตั้งเป้ารายได้ 4-6 พันล้านบาทต่อปี",
-            "why": "งานซ่อมบำรุงเครื่องบินขนาดใหญ่จำเป็นต้องใช้วัสดุขัดเกรดอากาศยาน ทั้งแผ่นขัดใยสังเคราะห์และจานขัดลอกสีสำหรับชิ้นส่วนกังหัน งานคอมโพสิต และผิวโครงสร้างอากาศยาน",
-            "action": "เริ่มกระบวนการขอรับรองมาตรฐานสินค้าเกรดการบินและทดสอบสินค้า เพื่อเตรียมขึ้นทะเบียนซัพพลายเออร์สำหรับศูนย์ซ่อมการบินไทยและผู้รับเหมาช่วง"
-          }
-        },
-        {
-          "id": "20261101-3",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Matichon Online",
-          "date": "2026-08-29",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6UWlkVWd4aE45T3h4d0cybm1KZm1TWnBrdFpKLUViaVR6cGlZTHlta1NSc3pJOGtMOFFuOUdrMUJQelFXM05WdGdaUEZ0dlo0NHN1M2g2ZXdEb3c?oc=5",
-          "title": "Auto Parts Makers Urge Government to Retain Japanese Automakers Amid EV Disruption",
-          "summary": "The Thai Auto-Parts Manufacturers Association is pushing for government-level interventions to retain Japanese automotive investment in Thailand. They are also advocating for adjusted excise taxes to narrow cost disadvantages against imported EV components.",
-          "why": "Japanese auto manufacturers and their supply chains form MK's core industrial client base; securing their production lines safeguards ongoing consumable abrasive volume.",
-          "action": "Audit sales exposure across internal combustion engine parts suppliers to offer cost-saving abrasive packages and consolidate orders before customer budgets tighten.",
-          "th": {
-            "title": "ชิ้นส่วนยานยนต์ฯ หนุนรัฐบาลเจรจาค่ายรถญี่ปุ่น รั้งฐานผลิตหลักในไทยสู้ศึก EV",
-            "summary": "สมาคมผู้ผลิตชิ้นส่วนยานยนต์ไทยหนุนรัฐเร่งเจรจาเชิงนโยบายเพื่อรักษาฐานการผลิตของค่ายรถยนต์ญี่ปุ่น พร้อมเสนอปรับโครงสร้างภาษีสรรพสามิตเพื่อลดช่องว่างต้นทุนชิ้นส่วนในประเทศ",
-            "why": "โรงงานชิ้นส่วนสายยานยนต์ญี่ปุ่นคือกลุ่มลูกค้าอุดมคติของ MK การรักษาฐานการผลิตรถยนต์ดั้งเดิมช่วยรักษาปริมาณการใช้วัสดุขัดสิ้นเปลืองอย่างต่อเนื่อง",
-            "action": "ตรวจสอบสัดส่วนลูกค้ายานยนต์กลุ่มเครื่องยนต์สันดาป พร้อมจัดแพ็กเกจวัสดุขัดราคาประหยัดเพื่อช่วยลดต้นทุนโรงงานและล็อกสัญญาซื้อขายล่วงหน้า"
-          }
-        }
-      ],
-      "terms": {}
     }
   ],
-  "updated": "2026-11-14"
+  "updated": "2026-11-15"
 };
