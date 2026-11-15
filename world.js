@@ -4,46 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-11-15",
-      "summary": "Today's briefing focuses on global manufacturing shifts, including surplus challenges in the steel sector and growing demand for green and sustainable industrial coatings.",
-      "directCount": 2,
+      "summary": "Today's global intelligence highlights market expansion in aluminum oxide abrasive fabrics for automotive refinishing, steel industry adjustments under European CBAM regulations, and EV manufacturing supply chain shifts.",
+      "directCount": 3,
       "th": {
-        "summary": "สรุปข่าววันนี้เน้นการเปลี่ยนแปลงในภาคการผลิตระดับโลก รวมถึงความท้าทายเรื่องอุปทานส่วนเกินในอุตสาหกรรมเหล็กและความต้องการที่เพิ่มขึ้นสำหรับสารเคลือบอุตสาหกรรมที่เป็นมิตรต่อสิ่งแวดล้อม"
+        "summary": "ข่าวกรองระดับโลกประจำวันนี้เน้นย้ำถึงการขยายตัวของตลาดผ้าทรายอลูมิเนียมออกไซด์สำหรับงานซ่อมสีรถยนต์ การปรับตัวของอุตสาหกรรมเหล็กภายใต้กฎระเบียบ CBAM ของยุโรป และการเปลี่ยนแปลงในห่วงโซ่อุปทานการผลิตรถยนต์ EV"
       },
       "items": [
         {
           "id": "20261115-w1",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "S&P Global",
-          "date": "2026-01-12",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
-          "title": "Global steel industry battles surplus supply, protectionism",
-          "summary": "The global steel market faces ongoing challenges with oversupply and rising international trade protectionism.",
-          "why": "Steel production volume directly impacts metal fabrication and heavy grinding media consumption.",
-          "action": "Monitor steel mill utilization rates to anticipate local metalworking abrasive demand.",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-11-08",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYWxiTlJSV3E4b05JV2NRYkFPeHJWbEx3Nm9Wb09ZVjNMc2prYkZTdkZsd0NNbHZjRDZhbU1TQ0FIMnp6Y0YwZ2l4dWlGOU84SmlOQVk0R29UdFowWkpiYzRyS051RWRUVHk3NWU5dlA0WWRZNVJHQXBuRDRmZmFVd0YzTWxPTmRzWU5tQl9IVHZWWUlHMDY4OTNpUE15c2xFRHpoRGxWNS1kRU1XN1VPbGZheE1HeVRUTWo3bXA1VTg0d1RIYVgyRW1pQVBXdDNpdU1Va2JfSTJSVVk2bmJIMA?oc=5",
+          "title": "Aluminum Oxide Abrasive Fabrics Market To 2035: Automotive Refinishing and Metal Fabrication Fuel Forward Growth",
+          "summary": "Global demand for aluminum oxide abrasive fabrics is expanding steadily, driven by automotive refinishing and metal fabrication sectors.",
+          "why": "Aluminum oxide coated abrasives are a core product line for MK; tracking this growth helps us forecast product turnover and inventory needs.",
+          "action": "Ensure stable supply chains and competitive stock levels for aluminum oxide roll and sheet products.",
           "th": {
-            "title": "อุตสาหกรรมเหล็กโลกเผชิญศึกอุปทานล้นตลาดและการกีดกันทางการค้า",
-            "summary": "ตลาดเหล็กโลกกำลังเผชิญกับความท้าทายเรื่องภาวะอุปทานล้นเกินและการกีดกันทางการค้าระหว่างประเทศที่เพิ่มขึ้น",
-            "why": "ปริมาณการผลิตเหล็กส่งผลโดยตรงต่อการผลิตโลหะและการใช้วัสดุขัดเจียรในงานหนัก",
-            "action": "ติดตามอัตราการใช้กำลังผลิตของโรงงานเหล็กเพื่อคาดการณ์ความต้องการกระดาษทรายและหินเจียรในอุตสาหกรรมโลหะ"
+            "title": "ตลาดผ้าทรายอลูมิเนียมออกไซด์ถึงปี 2035: การซ่อมสีรถยนต์และการผลิตโลหะขับเคลื่อนการเติบโต",
+            "summary": "ความต้องการระดับโลกสำหรับผ้าทรายอลูมิเนียมออกไซด์กำลังขยายตัวอย่างต่อเนื่อง โดยขับเคลื่อนจากภาคการซ่อมสีรถยนต์และการผลิตโลหะ",
+            "why": "กระดาษทรายและผ้าทรายอลูมิเนียมออกไซด์เป็นผลิตภัณฑ์หลักของ MK การติดตามการเติบโตนี้ช่วยให้เราคาดการณ์การหมุนเวียนสินค้าและความต้องการสินค้าคงคลังได้ดีขึ้น",
+            "action": "รักษาเสถียรภาพห่วงโซ่อุปทานและรักษาระดับสต็อกสินค้าประเภทม้วนและแผ่นอลูมิเนียมออกไซด์ให้สามารถแข่งขันได้"
           }
         },
         {
           "id": "20261115-w2",
-          "tag": "coating",
+          "tag": "steel",
           "rating": "green",
-          "source": "Future Market Insights",
-          "date": "2025-07-07",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xMUNYalZrYktUSlZhRmYxYUNHZHhKR2k1VUpSRWNTUHpvMmRTV2MycTZYdzJMR0c5LWlxLWJER0FtcGJPb0dWTEY5WFpGRDVZTW12Q2haM2pma1cyQWFwOUFkcUJxZnV2ZmpVR2Vvemk5VEVS?oc=5",
-          "title": "Green Coatings Market Size, Trends & Demand 2025 to 2035",
-          "summary": "The market for green and eco-friendly coatings is expanding rapidly through 2035, driven by environmental regulations.",
-          "why": "Changes in industrial coatings and surface finishes affect how manufacturers prepare and sand substrates.",
-          "action": "Keep an eye on new coating technologies that may require specialized surface preparation abrasives.",
+          "source": "S&P Global",
+          "date": "2026-01-07",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSDJTcGFGbUFvRm15ZDhrczNqYkRzbHlXMTJZTHJpUF9CTjRHaTNXak4tdVBkbnBWcnNrRDRneXpBd1Z5SUJGSFZWTzJMNWhfcVl5czkzR0lSSjd4aTJzMTg3N2FWM3pHQ2NxbHg2dEp2ckNiNC16cWdJZ0t3anl3TzlUYldVajhqM05JQVEyWWdZYVdaYkEzZUpvUEJGdHAxXzRKdDRnNG1pQl9LaEN6Q0lpbFpPMTBOeElqT3V2NUdUSlJJNjZWOEpiMWc?oc=5",
+          "title": "Europe's steel industry faces its 2026 reckoning with CBAM",
+          "summary": "Europe's steel producers are facing strict environmental compliance and carbon border adjustment mechanisms, impacting production costs and operational standards.",
+          "why": "European steel mills upgrading processes or facing cost pressures will demand higher precision in surface finishing to reduce waste.",
+          "action": "Monitor how European environmental regulations influence global metal processing standards and surface preparation tool requirements.",
           "th": {
-            "title": "ขนาด แนวโน้ม และความต้องการตลาดสารเคลือบสีเขียว ปี 2025 ถึง 2035",
-            "summary": "ตลาดสารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมกำลังขยายตัวอย่างรวดเร็วถึงปี 2035 ขับเคลื่อนโดยกฎระเบียบด้านสิ่งแวดล้อม",
-            "why": "การเปลี่ยนแปลงของสารเคลือบอุตสาหกรรมและการตกแต่งพื้นผิวส่งผลต่อวิธีที่ผู้ผลิตเตรียมพื้นผิวและขัดชิ้นงาน",
-            "action": "ติดตามเทคโนโลยีสารเคลือบใหม่ๆ ที่อาจต้องใช้อุปกรณ์ขัดและเตรียมพื้นผิวแบบเฉพาะทาง"
+            "title": "อุตสาหกรรมเหล็กของยุโรปเผชิญบททดสอบในปี 2026 ด้วยมาตรการ CBAM",
+            "summary": "ผู้ผลิตเหล็กในยุโรปกำลังเผชิญกับการปฏิบัติตามกฎระเบียบด้านสิ่งแวดล้อมที่เข้มงวดและมาตรการปรับคาร์บอนก่อนข้ามพรมแดน ซึ่งส่งผลกระทบต่อต้นทุนการผลิตและมาตรฐานการดำเนินงาน",
+            "why": "โรงงานเหล็กในยุโรปที่กำลังอัปเกรดกระบวนการผลิตหรือเผชิญกับแรงกดดันด้านต้นทุน จะมีความต้องการความแม่นยำสูงขึ้นในการเตรียมพื้นผิวเพื่อลดของเสีย",
+            "action": "ติดตามว่ากฎระเบียบด้านสิ่งแวดล้อมของยุโรปส่งผลต่อมาตรฐานการแปรรูปโลหะทั่วโลกและความต้องการเครื่องมือเตรียมพื้นผิวอย่างไร"
+          }
+        },
+        {
+          "id": "20261115-w3",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-11-09",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUEhWWFVvZ013aGRlbWZoTlRpblBlTFZRRC1yX1FzUDhCN2FSTGVuV1lYTS00XzViRGsxREtkb1hKYzN0T2NLd1BySWZzTzdKVG9XLXlhS1RZQXJ2dS1yOFJlWTVwaDFfV2otN29fR2ota1dzcm5aU1dHZTZJcGNYZ2dQQk90MGY1bVd0LWdodXNELUczNUFidXctNjNCUDZBa2c1WnZmZUR0YUVnVnphMnRaUG9JLWNpWXM4R3ZkbE1pNUs3?oc=5",
+          "title": "COP31 electrification shake-up: EV rules meet factory reality",
+          "summary": "Global automotive manufacturing is navigating the intersection of aggressive EV mandates and factory operational realities, leading to adjustments in production lines.",
+          "why": "Automotive factory retooling directly alters deburring, grinding, and metal finishing specifications for new EV components.",
+          "action": "Keep an eye on shifting automotive manufacturing footprints and specialized component finishing requirements.",
+          "th": {
+            "title": "การเปลี่ยนแปลงด้านการใช้พลังงานไฟฟ้าจาก COP31: กฎระเบียบ EV พบกับความจริงในโรงงาน",
+            "summary": "การผลิตยานยนต์ระดับโลกกำลังรับมือกับจุดตัดระหว่างนโยบาย EV ที่เข้มข้นและความเป็นจริงในการดำเนินงานของโรงงาน ซึ่งนำไปสู่การปรับเปลี่ยนสายการผลิต",
+            "why": "การปรับปรุงสายการผลิตในโรงงานยานยนต์ส่งผลโดยตรงต่อข้อกำหนดในการลบครีบ การเจียร และการขัดแต่งผิวโลหะสำหรับชิ้นส่วน EV ใหม่ๆ",
+            "action": "ติดตามการเปลี่ยนแปลงของฐานการผลิตยานยนต์และข้อกำหนดเฉพาะในการขัดแต่งชิ้นส่วน"
           }
         }
       ]
