@@ -4,100 +4,46 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-11-15",
-      "summary": "Today's global trends highlight steady expansion in the abrasive and surface finishing sectors driven by automotive refinishing, metal fabrication, and growing green coatings standards.",
-      "directCount": 3,
+      "summary": "Today's briefing focuses on global manufacturing shifts, including surplus challenges in the steel sector and growing demand for green and sustainable industrial coatings.",
+      "directCount": 2,
       "th": {
-        "summary": "แนวโน้มโลกประจำวันนี้เน้นย้ำถึงการขยายตัวอย่างต่อเนื่องในกลุ่มธุรกิจวัสดุขัดและตกแต่งผิว ซึ่งขับเคลื่อนโดยงานซ่อมสีรถยนต์ การผลิตโลหะ และมาตรฐานสารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อม"
+        "summary": "สรุปข่าววันนี้เน้นการเปลี่ยนแปลงในภาคการผลิตระดับโลก รวมถึงความท้าทายเรื่องอุปทานส่วนเกินในอุตสาหกรรมเหล็กและความต้องการที่เพิ่มขึ้นสำหรับสารเคลือบอุตสาหกรรมที่เป็นมิตรต่อสิ่งแวดล้อม"
       },
       "items": [
         {
           "id": "20261115-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-11-08",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYWxiTlJSV3E4b05JV2NRYkFPeHJWbEx3Nm9Wb09ZVjNMc2prYkZTdkZsd0NNbHZjRDZhbU1TQ0FIMnp6Y0YwZ2l4dWlGOU84SmlOQVk0R29UdFowWkpiYzRyS051RWRUVHk3NWU5dlA0WWRZNVJHQXBuRDRmZmFVd0YzTWxPTmRzWU5tQl9IVHZWWUlHMDY4OTNpUE15c2xFRHpoRGxWNS1kRU1XN1VPbGZheE1HeVRUTWo3bXA1VTg0d1RIYVgyRW1pQVBXdDNpdU1Va2JfSTJSVVk2bmJIMA?oc=5",
-          "title": "Aluminum Oxide Abrasive Fabrics Market To 2035: Automotive Refinishing and Metal Fabrication Fuel Forward Growth",
-          "summary": "The global demand for aluminum oxide abrasive fabrics is expanding steadily, driven heavily by automotive refinishing and metal fabrication needs.",
-          "why": "Aluminum oxide abrasive fabrics are core product lines for surface preparation in metalworking and auto repair shops.",
-          "action": "Ensure stable inventory and competitive sourcing for aluminum oxide coated abrasive rolls and sheets.",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "S&P Global",
+          "date": "2026-01-12",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
+          "title": "Global steel industry battles surplus supply, protectionism",
+          "summary": "The global steel market faces ongoing challenges with oversupply and rising international trade protectionism.",
+          "why": "Steel production volume directly impacts metal fabrication and heavy grinding media consumption.",
+          "action": "Monitor steel mill utilization rates to anticipate local metalworking abrasive demand.",
           "th": {
-            "title": "ตลาดผ้าทรายขัดอลูมิเนียมออกไซด์ถึงปี 2035: งานซ่อมสีรถยนต์และผลิตโลหะขับเคลื่อนการเติบโต",
-            "summary": "ความต้องการผ้าทรายขัดอลูมิเนียมออกไซด์ทั่วโลกเติบโตอย่างต่อเนื่อง ขับเคลื่อนโดยความต้องการในงานซ่อมสีรถยนต์และงานผลิตโลหะ",
-            "why": "ผ้าทรายขัดอลูมิเนียมออกไซด์เป็นสินค้าหลักในการเตรียมพื้นผิวสำหรับงานโลหะและอู่ซ่อมรถยนต์",
-            "action": "รักษาระดับสินค้าคงคลังให้เสถียรและหาแหล่งจัดซื้อกระดาษทราย/ผ้าทรายชนิดอลูมิเนียมออกไซด์ที่มีต้นทุนแข่งขันได้"
+            "title": "อุตสาหกรรมเหล็กโลกเผชิญศึกอุปทานล้นตลาดและการกีดกันทางการค้า",
+            "summary": "ตลาดเหล็กโลกกำลังเผชิญกับความท้าทายเรื่องภาวะอุปทานล้นเกินและการกีดกันทางการค้าระหว่างประเทศที่เพิ่มขึ้น",
+            "why": "ปริมาณการผลิตเหล็กส่งผลโดยตรงต่อการผลิตโลหะและการใช้วัสดุขัดเจียรในงานหนัก",
+            "action": "ติดตามอัตราการใช้กำลังผลิตของโรงงานเหล็กเพื่อคาดการณ์ความต้องการกระดาษทรายและหินเจียรในอุตสาหกรรมโลหะ"
           }
         },
         {
           "id": "20261115-w2",
-          "tag": "abrasive",
+          "tag": "coating",
           "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-11-07",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOE5SZjRpMFhJVjRHUjZKc1QzU2FjZVpsYS1aU09Wd0hQMWg2cllGZEVFSzRBTVIxczhNckg1WXdhMHNDN1lKTllHcm5zRFlBYjZ6aTlBT1lPWEdIc3hhVGZuMHhCeFlUOS1BRzRWZGNYMjZOelNtaEd6S1h1NndyX2ttQ2d1WF8yajR0ai1Kel9DS01iOGd2cmdUeVQxX1VQMkcwX09uakE3TlpkZ0RuZll2RHNHVjJ3OExxdmV3SWZUdw?oc=5",
-          "title": "Abrasive Sand Market To 2035: Infrastructure and Manufacturing Fuel Growth",
-          "summary": "The abrasive sand market is projected for solid growth over the next decade, fueled by global infrastructure projects and industrial manufacturing.",
-          "why": "Abrasive sand and raw mineral grains are fundamental raw inputs for manufacturing bonded and coated abrasives.",
-          "action": "Monitor raw material price trends for mineral sands to anticipate manufacturing cost changes.",
+          "source": "Future Market Insights",
+          "date": "2025-07-07",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xMUNYalZrYktUSlZhRmYxYUNHZHhKR2k1VUpSRWNTUHpvMmRTV2MycTZYdzJMR0c5LWlxLWJER0FtcGJPb0dWTEY5WFpGRDVZTW12Q2haM2pma1cyQWFwOUFkcUJxZnV2ZmpVR2Vvemk5VEVS?oc=5",
+          "title": "Green Coatings Market Size, Trends & Demand 2025 to 2035",
+          "summary": "The market for green and eco-friendly coatings is expanding rapidly through 2035, driven by environmental regulations.",
+          "why": "Changes in industrial coatings and surface finishes affect how manufacturers prepare and sand substrates.",
+          "action": "Keep an eye on new coating technologies that may require specialized surface preparation abrasives.",
           "th": {
-            "title": "ตลาดทรายขัดถึงปี 2035: โครงสร้างพื้นฐานและการผลิตขับเคลื่อนการเติบโต",
-            "summary": "ตลาดทรายขัดคาดว่าจะเติบโตอย่างแข็งแกร่งในทศวรรษหน้า โดยได้รับแรงหนุนจากโครงการโครงสร้างพื้นฐานทั่วโลกและการผลิตอุตสาหกรรม",
-            "why": "ทรายขัดและแร่ดิบเป็นวัตถุดิบพื้นฐานสำคัญในการผลิตหินเจียรและกระดาษทราย",
-            "action": "ติดตามแนวโน้มราคาวัตถุดิบกลุ่มแร่ทรายเพื่อคาดการณ์การเปลี่ยนแปลงต้นทุนการผลิต"
-          }
-        },
-        {
-          "id": "20261115-w3",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "Market.us",
-          "date": "2025-03-04",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91alpTXzlIaHVncXdQT2g3dVU2YjM5QTQ1amZIZGRMN0VQMGhzaXdEUXlIWV9nUXZRQ18wMUdrMmYzMkxLa25tdHpwTVctQ2JuYXhXWmxsQW1Pd1gxN1FhM2tkV20yV1psbHhv?oc=5",
-          "title": "Non-woven Abrasives Market Size, Share | CAGR of 3.8%",
-          "summary": "The non-woven abrasives market continues stable growth at a steady CAGR, driven by demand for fine surface finishing and blending.",
-          "why": "Non-woven abrasive pads and wheels are high-margin products used extensively for metal polishing and deburring.",
-          "action": "Evaluate our non-woven product portfolio and explore expanding our offerings for stainless steel finishing.",
-          "th": {
-            "title": "ขนาดและส่วนแบ่งตลาดวัสดุขัดไม่ถักทอ (Non-woven Abrasives) เติบโต 3.8% ต่อปี",
-            "summary": "ตลาดวัสดุขัดไม่ถักทอยังคงเติบโตอย่างมั่นคง ขับเคลื่อนด้วยความต้องการงานตกแต่งผิวละเอียดและลบคมชิ้นงาน",
-            "why": "แผ่นขัดและล้อขัดใยสังเคราะห์ (Non-woven) เป็นสินค้าที่มีอัตรากำไรดีและใช้แพร่หลายในงานขัดเงาสแตนเลสและลบครีบ",
-            "action": "ประเมินกลุ่มสินค้าประเภท Non-woven ของเราและพิจารณาขยายสินค้าสำหรับงานขัดสแตนเลส"
-          }
-        },
-        {
-          "id": "20261115-w4",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "S&P Global",
-          "date": "2026-01-07",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSDJTcGFGbUFvRm15ZDhrczNqYkRzbHlXMTJZTHJpUF9CTjRHaTNXak4tdVBkbnBWcnNrRDRneXpBd1Z5SUJGSFZWTzJMNWhfcVl5czkzR0lSSjd4aTJzMTg3N2FWM3pHQ2NxbHg2dEp2ckNiNC16cWdJZ0t3anl3TzlUYldVajhqM05JQVEyWWdZYVdaYkEzZUpvUEJGdHAxXzRKdDRnNG1pQl9LaEN6Q0lpbFpPMTBOeElqT3V2NUdUSlJJNjZWOEpiMWc?oc=5",
-          "title": "Europe's steel industry faces its 2026 reckoning with CBAM",
-          "summary": "European steel producers are confronting strict carbon border adjustment mechanisms, shifting procurement habits and regional manufacturing costs.",
-          "why": "Changes in European steel output directly impact global metal processing volumes and export requirements.",
-          "action": "Keep an eye on how European carbon rules affect metal fabrication standards globally.",
-          "th": {
-            "title": "อุตสาหกรรมเหล็กยุโรปเผชิญบททดสอบสำคัญในปี 2026 ด้วยมาตรการ CBAM",
-            "summary": "ผู้ผลิตเหล็กในยุโรปต้องเผชิญกับมาตรการปรับคาร์บอนก่อนข้ามพรมแดนที่เข้มงวด ซึ่งเปลี่ยนพฤติกรรมการจัดซื้อและต้นทุนการผลิตในภูมิภาค",
-            "why": "ความเปลี่ยนแปลงในปริมาณการผลิตเหล็กของยุโรปส่งผลโดยตรงต่อปริมาณการแปรรูปโลหะและข้อกำหนดการส่งออกทั่วโลก",
-            "action": "ติดตามผลกระทบของกฎระเบียบคาร์บอนในยุโรปที่มีต่อมาตรฐานการผลิตโลหะทั่วโลก"
-          }
-        },
-        {
-          "id": "20261115-w5",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-11-09",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUEhWWFVvZ013aGRlbWZoTlRpblBlTFZRRC1yX1FzUDhCN2FSTGVuV1lYTS00XzViRGsxREtkb1hKYzN0T2NLd1BySWZzTzdKVG9XLXlhS1RZQXJ2dS1yOFJlWTVwaDFfV2otN29fR2ota1dzcm5aU1dHZTZJcGNYZ2dQQk90MGY1bVd0LWdodXNELUczNUFidXctNjNCUDZBa2c1WnZmZUR0YUVnVnphMnRaUG9JLWNpWXM4R3ZkbE1pNUs3?oc=5",
-          "title": "COP31 electrification shake-up: EV rules meet factory reality",
-          "summary": "Automotive manufacturers are adapting factory lines to meet evolving global EV regulations and sustainability targets.",
-          "why": "Shifts in automotive manufacturing lines require specialized surface finishing and deburring tools for lightweight metals and EV components.",
-          "action": "Track how car factories modify production lines for new EV component materials.",
-          "th": {
-            "title": "ความสั่นคลอนด้านการเปลี่ยนผ่านสู่ยานยนต์ไฟฟ้าจาก COP31: กฎระเบียบ EV พบกับความจริงในโรงงาน",
-            "summary": "ผู้ผลิตรถยนต์กำลังปรับเปลี่ยนสายการผลิตในโรงงานเพื่อให้สอดคล้องกับกฎระเบียบ EV และเป้าหมายความยั่งยืนที่เปลี่ยนแปลงไป",
-            "why": "การเปลี่ยนแปลงในสายการผลิตยานยนต์ต้องใช้อุปกรณ์ขัดและลบคมผิวงานเฉพาะทางสำหรับโลหะน้ำหนักเบาและชิ้นส่วน EV",
-            "action": "ติดตามการปรับปรุงสายการผลิตของโรงงานยานยนต์สำหรับวัสดุชิ้นส่วน EV ใหม่ๆ"
+            "title": "ขนาด แนวโน้ม และความต้องการตลาดสารเคลือบสีเขียว ปี 2025 ถึง 2035",
+            "summary": "ตลาดสารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมกำลังขยายตัวอย่างรวดเร็วถึงปี 2035 ขับเคลื่อนโดยกฎระเบียบด้านสิ่งแวดล้อม",
+            "why": "การเปลี่ยนแปลงของสารเคลือบอุตสาหกรรมและการตกแต่งพื้นผิวส่งผลต่อวิธีที่ผู้ผลิตเตรียมพื้นผิวและขัดชิ้นงาน",
+            "action": "ติดตามเทคโนโลยีสารเคลือบใหม่ๆ ที่อาจต้องใช้อุปกรณ์ขัดและเตรียมพื้นผิวแบบเฉพาะทาง"
           }
         }
       ]
