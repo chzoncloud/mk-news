@@ -2,6 +2,89 @@
 window.NEWS_ARCHIVE = {
   "days": [
     {
+      "date": "2026-11-16",
+      "summary": "Today has limited new breaking headlines; coverage centers on Tier-1/Tier-2 automotive suppliers adapting to the EV influx, along with ongoing trade defenses in local steel manufacturing.",
+      "directCount": 1,
+      "th": {
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก ข่าวเด่นเน้นไปที่การปรับตัวของซัพพลายเออร์ชิ้นส่วนยานยนต์เพื่อรองรับการลงทุน EV และมาตรการปกป้องอุตสาหกรรมเหล็กในประเทศ"
+      },
+      "items": [
+        {
+          "id": "20261116-1",
+          "tag": "auto",
+          "rating": "green",
+          "source": "Thansettakij",
+          "date": "2026-11-05",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PZTFwWmJEUEdab2tPM0dYcDEtakxtRVVPbWRiMHpPQnN1al9oSUllWHdPV3hDZUgxcjJYVjdsY0JaUXVpc0pXMlFFRGRHTHJPUHlWZWxHS01weVFwODdLdGE3akJTb3NhaUFwZnBR?oc=5",
+          "title": "Thai Auto Parts Makers Restructure for EV Wave, Safeguarding 750,000 Workers",
+          "summary": "Domestic auto parts manufacturers are retooling production lines to supply EV components, aiming to secure existing operations and over 750,000 factory jobs.",
+          "why": "Line conversions and new EV component fabrication create direct demand for our deburring discs, grinding belts, and metal finishing abrasives.",
+          "action": "Approach Tier-1 and Tier-2 Japanese auto parts clients to audit new EV machining lines and propose trial abrasive solutions.",
+          "th": {
+            "title": "ชิ้นส่วนรถยนต์ปรับฐาน รับคลื่นลงทุน EV อุ้ม 7.5 แสนแรงงานไปต่อ",
+            "summary": "ผู้ผลิตชิ้นส่วนยานยนต์ในประเทศเร่งปรับเปลี่ยนไลน์การผลิตเข้าสู่ชิ้นส่วน EV เพื่อรักษาฐานการผลิตและแรงงานกว่า 7.5 แสนตำแหน่ง",
+            "why": "การปรับไลน์ผลิตและการขึ้นรูปชิ้นงาน EV ใหม่ส่งผลให้เกิดความต้องการจานขัด สายพานเจียร และวัสดุขัดลบครีบโดยตรง",
+            "action": "เข้าพบลูกค้าผู้ผลิตชิ้นส่วนยานยนต์ Tier-1 และ Tier-2 โดยเฉพาะกลุ่มทุนญี่ปุ่น เพื่อนำเสนอโซลูชันวัสดุขัดสำหรับไลน์ชิ้นส่วนใหม่"
+          }
+        },
+        {
+          "id": "20261116-2",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Matichon Online",
+          "date": "2026-11-14",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zbW01cXlGMXNXYm1aYktaeFN1clBhX1QyZVZmRF8tT0g4cDR5S25oQ0JsR1I1cG42VkdxVWI3WF9YNlBSYll0em0wamhZSDJ6el9BRkZNRklmYU0?oc=5",
+          "title": "TPSO Projects 35% Import Tariff Will Pull EV Production Bases to Thailand",
+          "summary": "The Trade Policy and Strategy Office (TPSO) forecasts that the approved 35% EV import tariff will compel international brands to localize assembly and parts sourcing.",
+          "why": "Accelerated plant construction and local parts localization will boost long-term factory consumption of industrial abrasives.",
+          "action": "Monitor upcoming supplier rosters of new foreign EV assemblers to qualify MK abrasives early in their vendor lists.",
+          "th": {
+            "title": "สนค. คาดภาษีนำเข้าใหม่ 35% ดึงฐานผลิต EV ลงทุนในไทย",
+            "summary": "สนค. ประเมินว่ากำแพงภาษีนำเข้า EV 35% จะบีบให้ค่ายรถยนต์ต่างชาติต้องเร่งย้ายฐานเข้ามาประกอบและจัดซื้อชิ้นส่วนในไทยมากขึ้น",
+            "why": "การเร่งตั้งฐานผลิตและการจัดซื้อชิ้นส่วนโลหะในประเทศจะช่วยเพิ่มปริมาณการใช้วัสดุขัดอุตสาหกรรมในระยะยาว",
+            "action": "ติดตามรายชื่อเครือข่ายซัพพลายเออร์ของค่ายรถยนต์ที่จะเข้ามาตั้งโรงงาน เพื่อผลักดันแบรนด์ MK เข้าสู่ทะเบียนผู้ค้าตั้งแต่ช่วงเริ่มโครงการ"
+          }
+        },
+        {
+          "id": "20261116-3",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "LINE TODAY",
+          "date": "2025-12-28",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MbDY2SkFDN1VRQXdMaUF1Nmhlb3U0dTZLVzlMUkVDTTJlTy1UMFhMWFctVHJzWEhCd1lZUXZzaGpCMnJoNDBFOXRUclB2TXZ1ZkVlbjZB?oc=5",
+          "title": "Ten Steel Associations Urge Ban on Dumped Chinese Finished Steel Imports",
+          "summary": "Thai steel trade groups are pressuring authorities to block subsidized finished steel imports from China to protect domestic mills from forced shutdowns.",
+          "why": "Severe cheap dumping threatens our domestic steel and metal fabrication customers, directly impacting daily abrasive disc consumption.",
+          "action": "Assess credit exposure among local steel fabrication accounts and diversify sales toward compliant, high-spec metal processors.",
+          "th": {
+            "title": "10 สมาคมเหล็กรับวิกฤต ‘จีน’ ทุ่มตลาด วอนรัฐห้ามนำเข้าเหล็กสำเร็จรูป",
+            "summary": "สมาคมผู้ผลิตเหล็กไทยเรียกร้องให้ภาครัฐสกัดกั้นการนำเข้าเหล็กสำเร็จรูปราคาถูกจากจีนเพื่อป้องกันไม่ให้โรงงานในประเทศต้องหยุดกิจการ",
+            "why": "การทุ่มตลาดส่งผลกระทบต่อความอยู่รอดของโรงงานแปรรูปเหล็กในประเทศ ซึ่งเป็นกลุ่มลูกค้าหลักที่ใช้วัสดุขัดและใบตัดเจียร",
+            "action": "ตรวจสอบความเสี่ยงด้านเครดิตเทอมของลูกค้ากลุ่มโรงงานเหล็ก และขยายฐานไปยังกลุ่มผู้แปรรูปโลหะสเปกสูงที่ทนทานต่อการแข่งขันราคา"
+          }
+        },
+        {
+          "id": "20261116-4",
+          "tag": "aero",
+          "rating": "amber",
+          "source": "posttoday",
+          "date": "2026-07-27",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lak5sZXQtNktSd3dqWTVQcmdhN2JJdGVhSEUxUzk5RFI5TUs4T3kzMzBqVDdNUnp4N2k3M2FBalNXd0UwaS1XeUxkczM4Rzg4QnVBQXJR?oc=5",
+          "title": "EECO Mobilizes Capital to Establish U-Tapao as Regional Aviation MRO Hub",
+          "summary": "The EEC Policy Committee is raising investment capital to accelerate maintenance, repair, and overhaul (MRO) infrastructure development at U-Tapao airport.",
+          "why": "A thriving aviation hub will substantially drive high-margin demand for certified precision abrasives and non-woven finishing pads.",
+          "action": "Initiate partner outreach and audit quality certifications required for aviation-grade surface conditioning abrasives.",
+          "th": {
+            "title": "EECO ระดมทุน ดันอุตสาหกรรม MRO ปั้นอู่ตะเภาสู่ศูนย์กลางซ่อมอากาศยานภูมิภาค",
+            "summary": "สำนักงานอีอีซีเร่งจัดหาเงินลงทุนเพื่อขับเคลื่อนโครงสร้างพื้นฐานศูนย์ซ่อมบำรุงอากาศยาน (MRO) ณ สนามบินอู่ตะเภา",
+            "why": "การเติบโตของศูนย์ซ่อมอากาศยานจะสร้างความต้องการใช้วัสดุขัดเกรดความแม่นยำสูงและแผ่นใยขัดที่มีมาร์จิ้นสูงในอนาคต",
+            "action": "เริ่มตรวจสอบข้อกำหนดและเตรียมมาตรฐานรับรองสินค้าสำหรับงานขัดผิวชิ้นส่วนอากาศยานเพื่อพร้อมรองรับตลาด MRO"
+          }
+        }
+      ],
+      "terms": {}
+    },
+    {
       "date": "2026-11-15",
       "summary": "Today has limited fresh developments as several major stories continue from earlier reports. Key highlights include Thailand's Cabinet formally approving the 35% EV import tariff effective 2027 to drive local manufacturing, alongside expanding airline partnerships in the U-Tapao MRO hub.",
       "directCount": 1,
@@ -760,5 +843,5 @@ window.NEWS_ARCHIVE = {
       "terms": {}
     }
   ],
-  "updated": "2026-11-15"
+  "updated": "2026-11-16"
 };
