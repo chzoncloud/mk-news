@@ -3,64 +3,64 @@ window.NEWS_ARCHIVE = {
   "days": [
     {
       "date": "2026-11-15",
-      "summary": "Today has limited new updates as major EV tariff policies and MRO contracts were largely covered earlier this week; however, fresh projections on EV plant localization and development pushes in aviation MRO and sustainable woodworking reinforce steady industrial abrasive consumption.",
-      "directCount": 2,
+      "summary": "Today has limited fresh developments as several major stories continue from earlier reports. Key highlights include Thailand's Cabinet formally approving the 35% EV import tariff effective 2027 to drive local manufacturing, alongside expanding airline partnerships in the U-Tapao MRO hub.",
+      "directCount": 1,
       "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มากเนื่องจากประเด็นหลักเรื่องภาษี EV และสัญญา MRO ถูกรายงานไปแล้วในช่วงต้นสัปดาห์ แต่บทวิเคราะห์ล่าสุดเรื่องการย้ายฐานผลิต EV รวมถึงความคืบหน้าด้านฮับการบิน MRO และอุตสาหกรรมงานไม้ ยังยืนยันแนวโน้มการใช้วัสดุขัดอุตสาหกรรมที่มั่นคง"
+        "summary": "วันนี้มีข่าวใหม่ไม่มากนัก เนื่องจากประเด็นหลักหลายเรื่องยังเป็นความคืบหน้าต่อเนื่องจากช่วงก่อนหน้า ไฮไลต์สำคัญคือ ครม. เคาะภาษีนำเข้า EV 35% เริ่มบังคับใช้ปี 2570 เพื่อเร่งดึงฐานผลิตและการประกอบในประเทศ รวมถึงความร่วมมือขยายศูนย์ซ่อมบำรุงอากาศยาน (MRO) อู่ตะเภา"
       },
       "items": [
         {
           "id": "20261115-1",
           "tag": "auto",
           "rating": "green",
-          "source": "Matichon Online",
-          "date": "2026-11-14",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zbW01cXlGMXNXYm1aYktaeFN1clBhX1QyZVZmRF8tT0g4cDR5S25oQ0JsR1I1cG42VkdxVWI3WF9YNlBSYll0em0wamhZSDJ6el9BRkZNRklmYU0?oc=5",
-          "title": "TPSO Projects 35% Import Tariff Will Accelerate EV Production Base Relocation to Thailand",
-          "summary": "The Trade Policy and Strategy Office (TPSO) expects the 35% import tariff on non-locally produced EVs to compel global carmakers to build local assembly and stamping operations in Thailand rather than importing finished units.",
-          "why": "Higher domestic assembly volume and localized component stamping directly increase factory demand for MK cutting wheels, flap discs, and deburring abrasives.",
-          "action": "Map upcoming EV assembly plants and localized parts suppliers to pitch MK metal fabrication and robotic finishing abrasive lines.",
+          "source": "Facebook",
+          "date": "2026-11-02",
+          "url": "https://news.google.com/rss/articles/CBMigAZBVV95cUxQbVluNFhtNF8wbGZVU0F2VWFqMmJqMFp4M081RkFfVzJSb3U3WjFESHVRX3dmMktEa3RnZ0dzcm92QWZ3TU43RVpjeTR6YXI0dDNaZ2JZRUp2b3hfdXpOOE1Za193UzlMYlc1TXlqT2tzUUMzWnFxbXkzakNwX0xWdG1HTnYzUi1ydTdKVXppUmhqN0prZjN1a3N5MVRXa3ZxVTBXTHZPNGo0ZDd0ZEgxelRnSTdfQnRBUWRndnhNNFJZRkZja194Qk5ZNHVFLXNjbGFlVER0b0s5QWJEUExqeEpib240UHRkbU5jczdtR3lRanVFeFdDYzVOZ2VTbEdxZVVsWHRBWnhpZE03T2N3OTJPaGtWNzk5WF9mSUtiYUNEaDdNYVdrUlV4bzNUeDlSSEltQy1oWUNhVmYza2pEUU1qZUhsWnk0SUdNSkIydG9Kclh1Z2NfU1RYT3hUR0hoNFU1c1VwYUJvcnQwQ0g4NlZFT3VGUkhpWlZGU0ptVzE5M0xFNnA4OTBGamZiUHJlWUttc25McHp6bkRhbUF1bXozdTlzYS0wc0h2cVNmRzd4RmJzM2dYdGh4bk1rWUcxQzM0cDRYZlU1bVktUUdsU3NILWdTV25ub3FWczJsYVpnT0NSTGhGazhHTzF4RVhESDk3c082ZDJ6MTBvM2kycGs2Zlp0dDdTVFlwdXZDNy0xU24wb2FoVVBQc3lXTXVaUDJJMWZFc3JrcENWdGpXaUtMSUo0MEZpWTVEWWdfVDItaFVRWTctVTcxUEZoa0xGMTZKaTBpd3hFUFRjazBPWHBWd2hSYTUwYUlwYTg0SmhHSTZzQV9aYTFRY0l4bEVmOWg2M1MwLWhnMnpiRmpreWJMeXd4UGN5WGFBb2pLbEJQVXkycldCNlIxcXg2ZWpiX1RLcndyUmpOOXl5RlBfdGMyTXNyeXJmcHRZODVzYkxMX0l5Wk5iaWlJNmcxN2RMVHRUSU9qQUpHZGw0amNCbzJGUUNTNTFzdVdQZDVweGk?oc=5",
+          "title": "Cabinet Approves 35% EV Import Tariff Hike Starting 2027 to Secure Domestic Assembly",
+          "summary": "The Thai Cabinet has officially approved an excise tax hike on imported EVs from 10% to 35% starting January 1, 2027. The measure is designed to force global automakers to establish local manufacturing lines and build supply chains in Thailand.",
+          "why": "This policy guarantees that EV makers must assemble domestically, directly boosting local stamping, body-in-white grinding, and weld deburring abrasive consumption.",
+          "action": "Map upcoming EV assembly plants slated for 2026-2027 and present MK robotic deburring belts and sanding discs directly to tier-1 body fabricators.",
           "th": {
-            "title": "สนค. คาดภาษีนำเข้า 35% เร่งดึงฐานการผลิต EV ตั้งโรงงานประกอบในไทย",
-            "summary": "สนค. ประเมินว่าอัตราภาษีนำเข้า 35% สำหรับรถยนต์ไฟฟ้าที่ไม่ได้ผลิตในประเทศ จะกดดันให้ค่ายรถยนต์ระดับโลกเร่งตั้งโรงงานประกอบและปั๊มชิ้นส่วนในไทยแทนการนำเข้าสำเร็จรูป",
-            "why": "การผลิตและการปั๊มขึ้นรูปชิ้นส่วนยานยนต์ในประเทศที่เพิ่มขึ้น จะสร้างความต้องการใบตัด จานทรายซ้อน และวัสดุขัดลบคมของ MK โดยตรง",
-            "action": "จัดทำรายชื่อโรงงานประกอบ EV และผู้ผลิตชิ้นส่วนที่กำลังตั้งฐานผลิตใหม่ เพื่อเข้าเสนอกลุ่มสินค้าวัสดุขัดสำหรับงานโลหะยานยนต์ของ MK"
+            "title": "ครม. เคาะขึ้นภาษีนำเข้า EV เป็น 35% เริ่ม 1 ม.ค. 2570 บีบตั้งฐานผลิตในประเทศ",
+            "summary": "คณะรัฐมนตรีอนุมัติปรับขึ้นภาษีสรรพสามิตรถยนต์ไฟฟ้า CBU นำเข้าจาก 10% เป็น 35% เริ่ม 1 มกราคม 2570 เพื่อผลักดันให้ค่ายรถยนต์เร่งลงทุนตั้งโรงงานผลิตและประกอบในไทย",
+            "why": "มาตรการนี้จะเร่งให้เกิดการผลิตและประกอบตัวถังรถยนต์ในประเทศมากขึ้น ส่งผลให้ความต้องการใช้วัสดุขัดลบรอยเชื่อม ปรับผิวโลหะ และขัดสีก่อนพ่นเพิ่มขึ้นโดยตรง",
+            "action": "รวบรวมรายชื่อโรงงานประกอบ EV ที่เตรียมเปิดสายการผลิตปี 2569-2570 เพื่อนำเสนอจานขัดและสายพานขัดสำหรับงานตัวถังยานยนต์เชิงรุก"
           }
         },
         {
           "id": "20261115-2",
           "tag": "aero",
           "rating": "amber",
-          "source": "posttoday",
-          "date": "2026-07-27",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lak5sZXQtNktSd3dqWTVQcmdhN2JJdGVhSEUxUzk5RFI5TUs4T3kzMzBqVDdNUnp4N2k3M2FBalNXd0UwaS1XeUxkczM4Rzg4QnVBQXJR?oc=5",
-          "title": "EECO Mobilizes Capital to Transform U-Tapao into Regional Aircraft MRO Hub",
-          "summary": "The Eastern Economic Corridor Office (EECO) is advancing fundraising and infrastructure strategies to position U-Tapao as a regional aviation maintenance, repair, and overhaul (MRO) center.",
-          "why": "Expansion of regional MRO facilities creates high-value, long-term demand for certified aerospace-grade abrasives used in airframe overhaul, surface stripping, and engine maintenance.",
-          "action": "Initiate supply chain pre-qualification and assemble specialized high-grit finishing product samples suitable for aerospace maintenance standards.",
+          "source": "Facebook",
+          "date": "2025-03-24",
+          "url": "https://news.google.com/rss/articles/CBMi1gdBVV95cUxPSGFlQ3QxVzlyQXFqRHd4SzdvekNmcE1aTTRLMWFzZWdlTDNGdU1XZWkxX19QeGNPN1hkZWlJbzd3SHdTbWllUkZRelJwM3d3eDg5a2p6YjFUY2NKb2hkNnNlMFFKcHNhTDJwSWRONzQ3QUkzOEFNWWh3MEFIY21KdExRZjc2aG5ZdkZNX016cWR3ekp1U3pDRXdWSXpTNExPaUx2ZFltME5OQVRiT0hfQk9GdklXSTVDNDFXWm5SS1N3cTNXSjd0MzVpcDZJUDVlYWp4N0VMbDM0a19aeGF3azRRc2tocWlxcnQ5WkVuYzF2di12Mm5oN01aZmVsVlZ0M1VHcEFSVHdjeVV0S1cyQkllZ0wzbnMzTExkeUpWVVJuT1pDWlQ1TkcxRmpOd3FncC1LSHFuVzlQRE5uY1I1d2ZYYXhobkk3UkdFR0h1Q0tRaTlPQ1BRYjlPMEJsMVFCRFN3dGNoTW5LbmxoMHBWVVlhNjVIT0RxWDc3MF92cDQ3NGJtemZWMXY4dEs3d0VFVzZmN1h4QlRGQldnRVBXM19VaFVGQUJlWF9sZVczck9OZkVSUUJWMU91bndoOThXYUo2VnJlaUFLRlJGMm53MWsyRFotb2JNci1HVnBvMklxTE5ReG1IRzFFcnZ5VWdaRmRTbEZaZ3VEV2d5QXloZV9TQ01hY1Z4YkdNdjhJM0FNdmlCZVVCUENOZDc4WllVOW5pR2FRMVRxRXpMcUZReHR1cTFWUUVMOU1RY3ptaDRKcW1QaDJlWm9qc1djRUhudkEwNzVrMl9NZXdyQkdQamgwdHJRX1Z3aVZPeEU2YUxaSEl1bFNad1BmQnZEYzNKZ2dtNU4zQWllV1VYRGpSbkdyX1E0VXJmSnhoa052SHZabHZscUc2RWNVNHlMcHFjNkJWWjdVUWFEaHhhMXlyRzFJTTc4eW5qcGpxdzJ6RW9fQmI0dW1CQnVDNzJtNTRCTVBjWmZEWTMzT2dObURnbnhMMm1PeGR1bTlCVFlMUm5SYVFucEFscFNSbUU4dTc5UWVvV2czaDI1YW00VDAzcEZ1SjY1Z3Z1VjBzN2tuNktyRzAwd01Gc0FHMmMwdWxMdGI3SUdTQVc5Y19rWURaVDhkR2dPWXhIZmpjYjhPMFJyejBBeFZPRURFV2FKY001X2o2RlhuR3V3ZmFrT1V5Yi1lSmNyQ0lTTGlrd2xVQ1l0QTcwejJKRzlTVmFyUU44OWJSTUdRa3pyT2haa2lzUXp1SmFSTFVKSldmS3lKRmJuckVlZWtzSy1MelVWd1VscV9fR2JB?oc=5",
+          "title": "Thai Airways and Bangkok Airways Jointly Pursue 10B Baht U-Tapao MRO Venture",
+          "summary": "Thai Airways and Bangkok Airways are partnering on a 10-billion-baht joint venture to develop aircraft maintenance facilities in the EEC. The project aims to position U-Tapao as a major regional heavy maintenance hub for commercial fleets.",
+          "why": "Heavy aircraft maintenance operations require certified high-precision abrasives for turbine blades, fuselage repainting, and structural alloy finishing.",
+          "action": "Audit MK product portfolio against aerospace MRO surface finishing specifications and initiate contact with engineering procurement teams at Thai Airways and BA.",
           "th": {
-            "title": "สกพอ. เดินหน้าระดมทุน ดันอู่ตะเภาสู่ศูนย์กลางอุตสาหกรรมซ่อมบำรุงอากาศยาน (MRO) ระดับภูมิภาค",
-            "summary": "สำนักงาน อีอีซี เร่งระดมทุนและวางโครงสร้างพื้นฐานเพื่อขับเคลื่อนให้อู่ตะเภาก้าวขึ้นเป็นศูนย์กลางการซ่อมบำรุงอากาศยานระดับภูมิภาค",
-            "why": "การขยายตัวของศูนย์ MRO จะสร้างอุปสงค์ระยะยาวมูลค่าสูงสำหรับวัสดุขัดเกรดการบินที่ใช้ในงานลอกสีผิว ปรับสภาพพื้นผิวโครงสร้าง และซ่อมบำรุงเครื่องยนต์",
-            "action": "เริ่มกระบวนการขึ้นทะเบียนคู่ค้าและเตรียมชุดตัวอย่างวัสดุขัดละเอียดพิเศษที่สอดคล้องกับมาตรฐานงานซ่อมบำรุงอากาศยาน"
+            "title": "การบินไทยจับมือบางกอกแอร์เวย์ส ลุยร่วมทุนศูนย์ซ่อม MRO อู่ตะเภา 1 หมื่นล้าน",
+            "summary": "การบินไทยและบางกอกแอร์เวย์สเตรียมร่วมทุนโครงการศูนย์ซ่อมบำรุงอากาศยานมูลค่า 1 หมื่นล้านบาทในพื้นที่ EEC หวังดันสนามบินอู่ตะเภาเป็นศูนย์กลางการซ่อมบำรุงอากาศยานในภูมิภาค",
+            "why": "ศูนย์ซ่อมอากาศยานขนาดใหญ่ต้องใช้วัสดุขัดเกรดแม่นยำสูงสำหรับการขัดใบพัดเครื่องยนต์ การลอกสี-ขัดลำตัวเครื่องบิน และเตรียมผิวก่อนเคลือบ",
+            "action": "ตรวจสอบมาตรฐานสินค้าวัสดุขัดของ MK ให้ตรงตามข้อกำหนดงานซ่อมบำรุงอากาศยาน เพื่อเตรียมเจรจากับฝ่ายจัดซื้อของทั้งสองสายการบิน"
           }
         },
         {
           "id": "20261115-3",
-          "tag": "furniture",
-          "rating": "green",
-          "source": "ผู้จัดการออนไลน์",
-          "date": "2026-09-02",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWNVFPYTI5eTFhQ1lwNWozSXFGRHAtS2xtdk0zZERrcWg3SEprbXBZR0Ixc0hGbWtHT1l0NnR4cGpSMzNVWG5DM3dMNGc1SUlnbmNUcEFQaWx4ZTRKQ0FkMA?oc=5",
-          "title": "TIWF 2026 Spotlights Sustainable Upgrades for Thai Wood and Furniture Manufacturers",
-          "summary": "The Thailand International Woodworking & Furniture Exhibition (TIWF 2026) aims to modernize local wood processing and furniture exporters through automation and premium, eco-friendly surface finishing.",
-          "why": "Commercial wood processing and furniture makers are heavy volume consumers of MK wide sanding belts, paper discs, and finishing sandpaper.",
-          "action": "Engage participating woodworking factories and offer trial packages of MK wide sanding belts and orbital sanding discs for automated production lines.",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "bangkokbiznews",
+          "date": "2026-06-09",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1BZE5wSV9tN3JIMkxoeTBjenRHaWFGTThOMkNUWUgwUm4ybm02TTlNLWJ5U1RFdVFRQVBwSldqVWEyUHBIVXhfTnNiSHpzQXhoVDhUYjJoMVAyakhp?oc=5",
+          "title": "Department of Industrial Works Scrutinizes Substandard Foreign Steel Operations",
+          "summary": "The Department of Industrial Works is intensifying inspections into foreign-backed mill facilities like Xin Ke Yuan following industry complaints over substandard production and pollution. Thai manufacturers are urging strict enforcement to safeguard local quality standards.",
+          "why": "Cracking down on substandard melting mills protects certified domestic steel fabricators who invest heavily in standard production processes and high-grade finishing abrasives.",
+          "action": "Prioritize direct sales outreach toward accredited Thai steel and structural fabricators that maintain high QA and abrasive turnover.",
           "th": {
-            "title": "งานใหญ่ TIWF 2026 ยกระดับอุตสาหกรรมไม้และเฟอร์นิเจอร์ไทยสู่ความยั่งยืน",
-            "summary": "งานแสดงสินค้าอุตสาหกรรมงานไม้ TIWF 2026 มุ่งยกระดับโรงงานแปรรูปไม้และผู้ผลิตเฟอร์นิเจอร์ส่งออกของไทย ด้วยเทคโนโลยีการผลิตอัตโนมัติและการเตรียมผิวงานคุณภาพสูง",
-            "why": "อุตสาหกรรมแปรรูปไม้และเฟอร์นิเจอร์เป็นผู้ใช้งานหลักของสายพานกระดาษทรายผืนกว้าง จานขัดกลม และกระดาษทรายขัดละเอียดของ MK",
-            "action": "ประสานงานกับกลุ่มโรงงานผู้ผลิตงานไม้และเฟอร์นิเจอร์เพื่อเสนอชุดทดลองสายพานขัดและจานขัดกระดาษทรายสำหรับไลน์ขัดอัตโนมัติ"
+            "title": "กรมโรงงานฯ เดินหน้าตรวจเข้มโรงงานเหล็กต่างชาติไร้มาตรฐาน หลังผู้ประกอบการไทยร้องเรียน",
+            "summary": "กรมโรงงานอุตสาหกรรมเพิ่มความเข้มงวดตรวจสอบโรงงานเหล็กทุนต่างชาติ เช่น ซิน เคอ หยวน หลังสมาคมเหล็กไทยร้องเรียนเรื่องคุณภาพที่ไม่ได้มาตรฐานและปัญหาสิ่งแวดล้อม",
+            "why": "การสกัดกั้นโรงงานเหล็กที่ไม่ได้มาตรฐานช่วยปกป้องผู้ผลิตโครงสร้างเหล็กไทยที่ได้มาตรฐาน มอก. ซึ่งเป็นกลุ่มลูกค้าหลักที่ใช้วัสดุขัดเจียรคุณภาพสูง",
+            "action": "มุ่งเน้นการทำตลาดและเสนอขายวัสดุขัดแก่กลุ่มโรงงานแปรรูปโครงสร้างเหล็กคุณภาพมาตรฐาน มอก. ที่มีอัตราการใช้วัสดุขัดสม่ำเสมอ"
           }
         }
       ],
