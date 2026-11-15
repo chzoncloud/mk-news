@@ -1,7 +1,89 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-11-15",
+  "updated": "2026-11-16",
   "days": [
+    {
+      "date": "2026-11-16",
+      "summary": "Today's briefing highlights precision manufacturing growth in polishing media, synthetic abrasives market trends in the US and India, and global steel oversupply challenges interacting with green policies.",
+      "directCount": 4,
+      "th": {
+        "summary": "สรุปทิศทางโลกวันนี้เน้นการเติบโตของการผลิตที่มีความแม่นยำในกลุ่มวัสดุขัดเงา แนวโน้มตลาดสารสังเคราะห์ขัดในสหรัฐฯ และอินเดีย รวมถึงความท้าทายเรื่องภาวะล้นตลาดเหล็กโลกที่เชื่อมโยงกับนโยบายสีเขียว"
+      },
+      "items": [
+        {
+          "id": "20261116-w1",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-11-11",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdEJFdUVxZ1A4UDJQVEhmQ043cnlQNEExRzgzU3k4Q0dlVHJ2ZGlFYWQ3Vk5RLWZWZ1M2VVIzOHpIX3NCbEI1NE5WVTRkNXFGdlBfb0l4SlN1dEZqMzBoZUxMTGFHQjBUaWdhYk0xY1NNcnBMOU90aXE2Z1Bfa1hLOFVlbDEtNUNGZXM4SGpEV0h6YmZMQzVIMHhoQUMteGNqdnlVRWQ3TGVOMnIwU0VfUGVCMW1tb0JrR2Ixc1M5QQ?oc=5",
+          "title": "Polishing Media Market To 2035: Precision Manufacturing Demand Drives Growth",
+          "summary": "Global demand for polishing media is expanding steadily through 2035, driven heavily by increasing precision manufacturing standards across high-tech and industrial sectors.",
+          "why": "Higher precision manufacturing standards directly increase the demand for specialized polishing and surface finishing consumables.",
+          "action": "Ensure our product catalog includes high-precision polishing media to capture high-end manufacturing clients.",
+          "th": {
+            "title": "ตลาดวัสดุขัดเงาถึงปี 2035: ความต้องการด้านการผลิตที่มีความแม่นยำผลักดันการเติบโต",
+            "summary": "ความต้องการวัสดุขัดเงาทั่วโลกเติบโตอย่างต่อเนื่องจนถึงปี 2035 ขับเคลื่อนโดยมาตรฐานการผลิตความแม่นยำสูงในภาคอุตสาหกรรมและไฮเทค",
+            "why": "มาตรฐานการผลิตที่แม่นยำยิ่งขึ้นส่งผลโดยตรงต่อความต้องการใช้วัสดุสิ้นเปลืองสำหรับการขัดและตกแต่งผิวที่เฉพาะเจาะจง",
+            "action": "ตรวจสอบให้แน่ใจว่าแคตตาล็อกสินค้าของเรามีวัสดุขัดเงาความแม่นยำสูงเพื่อเจาะกลุ่มลูกค้าอุตสาหกรรมระดับบน"
+          }
+        },
+        {
+          "id": "20261116-w2",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-11-13",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdE42OWwwOEFoUWVMLVA1UXl0UHhZVjZvVVNxVm5GdFBXUVVqazNCemk0ZEs5ZDAta2dKLUFUYnlha244Y1lNaW04SWlCTEkyMmdvdEdkQkxjSnlYYV9lVU5lQWduSW9YbTh4aGM5dzBzS1RRVHFIMkxmemtrQTcxRmNVdE81VHZLOVRBdzdEZS1kOVd1SFdCYm5uME1WRGdsVnVib1NzMVZPVkhocnh0TzVVZ08?oc=5",
+          "title": "Synthetic Abrasives Market in the United States: Size, Trends and Forecast to 2035",
+          "summary": "The US synthetic abrasives market exhibits strong long-term growth forecasts up to 2035, underpinned by industrial automation and heavy manufacturing needs.",
+          "why": "Synthetic abrasives (like aluminum oxide and silicon carbide) form the backbone of our core B2B product lines.",
+          "action": "Monitor raw material pricing trends for synthetic abrasives originating from Western markets.",
+          "th": {
+            "title": "ตลาดสารสังเคราะห์ขัดถูในสหรัฐอเมริกา: ขนาด แนวโน้ม และการคาดการณ์ถึงปี 2035",
+            "summary": "ตลาดสารขัดสังเคราะห์ในสหรัฐฯ มีแนวโน้มเติบโตระยะยาวที่แข็งแกร่งจนถึงปี 2035 หนุนโดยระบบอัตโนมัติทางอุตสาหกรรมและความต้องการด้านการผลิต",
+            "why": "สารขัดสังเคราะห์ (เช่น อลูมิเนียมออกไซด์และซิลิคอนคาร์ไบด์) เป็นหัวใจสำคัญของกลุ่มผลิตภัณฑ์ B2B หลักของเรา",
+            "action": "ติดตามแนวโน้มราคาวัตถุดิบของสารขัดสังเคราะห์ที่มาจากตลาดตะวันตก"
+          }
+        },
+        {
+          "id": "20261116-w3",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-11-12",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWUx2Q0FlTGVRMDJmR2R2czZ6R0ZoMTI3NHBCQU5ld3N5ZmRzZEZDZGZDSmFFYkxQdjdaUGtoZTRUN2VqNERldk0yZjYyT0IwMk5SZnVQVlZpQ1J3SEloLTJaX3p6clJ6N2ZDME05Vk5TTkpJVjRRUUV5N0JZbVhMXzZicERxQ3hfdmZzU2VBOS1EVHZXcFpyaXlWUUxkZmJwcEdOMU9hSFdpQQ?oc=5",
+          "title": "Synthetic Abrasives Market in India: Size, Trends and Forecast to 2035",
+          "summary": "India's synthetic abrasives sector is scaling up rapidly, driven by expanding automotive fabrication and heavy machinery production.",
+          "why": "India is emerging as a massive manufacturing and supply hub for metalworking and abrasives.",
+          "action": "Explore potential sourcing or benchmarking partnerships with Indian abrasive manufacturers.",
+          "th": {
+            "title": "ตลาดสารสังเคราะห์ขัดถูในอินเดีย: ขนาด แนวโน้ม และการคาดการณ์ถึงปี 2035",
+            "summary": "ภาคธุรกิจสารขัดสังเคราะห์ของอินเดียกำลังเติบโตอย่างรวดเร็ว ขับเคลื่อนโดยการขยายตัวของการผลิตยานยนต์และเครื่องจักรหนัก",
+            "why": "อินเดียกำลังกลายเป็นศูนย์กลางการผลิตและซัพพลายเชนขนาดใหญ่สำหรับงานโลหะและวัสดุขัด",
+            "action": "ศึกษาความเป็นไปได้ในการจัดหาแหล่งสินค้าหรือสร้างพันธมิตรเปรียบเทียบกับผู้ผลิตสารขัดในอินเดีย"
+          }
+        },
+        {
+          "id": "20261116-w4",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "S&P Global",
+          "date": "2026-01-12",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
+          "title": "Global steel industry battles surplus supply, protectionism",
+          "summary": "The global steel sector continues to grapple with oversupply conditions and increasing trade protectionism across major economies.",
+          "why": "Steel oversupply impacts metal fabrication activity and pricing pressure, which directly influences demand for grinding and deburring products.",
+          "action": "Track local steel fabrication output to anticipate short-term fluctuations in abrasive consumption.",
+          "th": {
+            "title": "อุตสาหกรรมเหล็กโลกต่อสู้กับภาวะล้นตลาดและลัทธิกีดกันทางการค้า",
+            "summary": "ภาคอุตสาหกรรมเหล็กทั่วโลกยังคงเผชิญกับภาวะอุปทานล้นเกินและมาตรการกีดกันทางการค้าที่เพิ่มขึ้นในเศรษฐกิจหลัก",
+            "why": "ภาวะล้นตลาดของเหล็กส่งผลต่อกิจกรรมการแปรรูปโลหะและแรงกดดันด้านราคา ซึ่งมีผลโดยตรงต่อความต้องการสินค้าประเภทเจียรและลบคม",
+            "action": "ติดตามปริมาณการผลิตแปรรูปเหล็กในท้องถิ่นเพื่อคาดการณ์ความผันผวนระยะสั้นของการใช้วัสดุขัด"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-11-15",
       "summary": "Today's global intelligence highlights market expansion in aluminum oxide abrasive fabrics for automotive refinishing, steel industry adjustments under European CBAM regulations, and EV manufacturing supply chain shifts.",
@@ -830,70 +912,6 @@ window.WORLD_ARCHIVE = {
             "summary": "รายงานระบุถึงความผันผวนและความไม่เสถียรเชิงโครงสร้างภายในอุตสาหกรรมการผลิตเหล็กของตุรกีท่ามกลางสภาวะตลาดโลกที่ผันผวน",
             "why": "ความไม่เสถียรของตลาดเหล็กในระดับภูมิภาคส่งผลกระทบต่อกิจกรรมการแปรรูปโลหะในท้องถิ่น และเปลี่ยนพลวัตการนำเข้า-ส่งออกของวัตถุดิบและเครื่องมือ",
             "action": "จับตาดูการเปลี่ยนแปลงของตลาดโลหะในภูมิภาคที่อาจส่งผลต่อราคาระหว่างประเทศและกระแสซัพพลายเชน"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-11-02",
-      "summary": "Today's briefing focuses on global metalworking expansion, shifting steel and trade dynamics, and automotive manufacturing shifts that directly influence industrial surface preparation and abrasive demand.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปประเด็นข่าววันนี้เน้นการขยายตัวของอุตสาหกรรมโลหะ พลวัตเหล็กและการค้าโลก รวมถึงการเปลี่ยนแปลงในอุตสาหกรรมยานยนต์ ซึ่งส่งผลโดยตรงต่อความต้องการวัสดุกัดและเตรียมพื้นผิว"
-      },
-      "items": [
-        {
-          "id": "20261102-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-11-01",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZG1Tb3Bhc05IRGVXMmQ4dHFjZXUtYzhrYTJrXzVPcURwMlA3Z3ZvOTB5NThxTkxndVY3eGtkVmNYWm1mR21NQzhnRnpSZ0hCUTdLc0FNTDA2Y1NKSTlkMkwtbUtjMDd4c2tDd0w5bHNMT2JYVXNmX28zSnM3ejVmaDlQbzgtc1ZjVkxRY3VhaTlodFRDanpTbXdlaXloeTJZODY1Qmo0d2pTSkZxenVSTUJET2xRaGlMSlJPcG5UdG5RUTQ?oc=5",
-          "title": "Coated Abrasives Market To 2035: Automation and Metalworking Fuel Expansion",
-          "summary": "The global coated abrasives market is expanding through 2035, driven significantly by automated manufacturing processes and robust metalworking activities.",
-          "why": "Automation and metalworking growth mean higher demand for precision-engineered coated abrasives that perform consistently under robotic applications.",
-          "action": "Explore partnerships or inventory expansions focused on automated robotic sanding accessories.",
-          "th": {
-            "title": "ตลาดกระดาษทรายและวัสดุกัดเคลือบถึงปี 2035: ระบบอัตโนมัติและงานโลหะขับเคลื่อนการเติบโต",
-            "summary": "ตลาดวัสดุกัดเคลือบ (Coated Abrasives) ทั่วโลกกำลังเติบโตถึงปี 2035 โดยได้รับแรงหนุนหลักจากกระบวนการผลิตอัตโนมัติและอุตสาหกรรมโลหะที่แข็งแกร่ง",
-            "why": "การเติบโตของระบบอัตโนมัติและงานโลหะแปลว่ามีความต้องการวัสดุกัดเคลือบที่แม่นยำสูงและทนทานต่อการใช้งานกับหุ่นยนต์มากขึ้น",
-            "action": "ศึกษาหาพันธมิตรหรือเพิ่มสินค้ากลุ่มที่รองรับการขัดด้วยระบบหุ่นยนต์อัตโนมัติ"
-          }
-        },
-        {
-          "id": "20261102-w2",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "economy.ac",
-          "date": "2026-08-07",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YQWhOYlJ3eW9jTUhwa25XdE55eHh3a2JoODhWdDAtOW00UzhXcWwtNnJJXzZGMjMtNXN6MTYwTUhib3ZHUDNXaTdIbWY2N092QXNsOXFfdw?oc=5",
-          "title": "'Trump Tariffs and AI Boom' Propel U.S. Steel Past Japan to World No. 3 for First Time in 26 Years",
-          "summary": "U.S. steel production has risen to the world's number three spot, propelled by trade tariffs and domestic infrastructure demand linked to the AI boom.",
-          "why": "Shifts in global steel manufacturing hubs alter where metal fabrication and heavy industry surface finishing supplies will be heavily demanded.",
-          "action": "Monitor U.S. and North American metal manufacturing trends for export and supply chain opportunities.",
-          "th": {
-            "title": "มาตรการภาษีและบูม AI ดันเหล็กสหรัฐฯแซงญี่ปุ่นขึ้นสู่อันดับ 3 ของโลกในรอบ 26 ปี",
-            "summary": "การผลิตเหล็กของสหรัฐฯ ขยับขึ้นสู่อันดับ 3 ของโลก ขับเคลื่อนโดยมาตรการภาษีการค้าและความต้องการโครงสร้างพื้นฐานในประเทศที่เกี่ยวข้องกับกระแส AI",
-            "why": "การเปลี่ยนแปลงของฐานการผลิตเหล็กโลกส่งผลต่อพื้นที่ที่จะมีความต้องการใช้วัสดุขัดแต่งผิวโลหะและอุตสาหกรรมหนักเพิ่มขึ้น",
-            "action": "ติดตามแนวโน้มการผลิตโลหะในสหรัฐฯ และอเมริกาเหนือเพื่อหาโอกาสด้านห่วงโซ่อุปทานและการส่งออก"
-          }
-        },
-        {
-          "id": "20261102-w3",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-10-28",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMExMd0h3VTZZUGVhTmVoNENZT0RDYkZhOFlTUzZUd3RmT0RNRGJKVjlQVTBmRnkwa21iZEl6ZlNJYmIzVTjjQzU1eGhrcTFPOHhNQWRlSWVWaDlwR2FIVGZmSWJlQk00ZmNRUE5oc1owOGtPSzM2QzNCY0R4YXJNdjdwWExHVzNDM1JXSGRpMnNTdHQ1QXdnWlk2MFlFc21GRXd5QjVVYVItalFMN2hjZmZqZi1nd2I5aVBhYlRhbTQ?oc=5",
-          "title": "China's car industry consolidation begins: who will survive?",
-          "summary": "China's automotive sector is undergoing a major consolidation wave, forcing manufacturers to focus on efficiency, scale, and high-quality production to survive.",
-          "why": "Automotive industry consolidation impacts Tier-1 and Tier-2 suppliers who require reliable deburring, grinding, and surface finishing solutions for parts manufacturing.",
-          "action": "Keep an eye on how surviving Chinese automotive parts suppliers upgrade their finishing and polishing technology.",
-          "th": {
-            "title": "การควบรวมกิจการในอุตสาหกรรมรถยนต์จีนเริ่มต้นขึ้น: ใครจะอยู่รอด?",
-            "summary": "ภาคยานยนต์ของจีนกำลังเข้าสู่คลื่นการควบรวมกิจการครั้งใหญ่ บีบให้ผู้ผลิตต้องเน้นประสิทธิภาพ ขนาด และการผลิตคุณภาพสูงเพื่อความอยู่รอด",
-            "why": "การควบรวมในอุตสาหกรรมยานยนต์ส่งผลต่อผู้ผลิตชิ้นส่วน (Tier-1 และ Tier-2) ที่ต้องใช้วิโซลูชันการลบคม ขัดผิว และเตรียมพื้นผิวที่มีคุณภาพเชื่อถือได้",
-            "action": "จับตาดูว่าผู้ผลิตชิ้นส่วนยานยนต์จีนที่รอด ะมีการยกระดับเทคโนโลยีการขัดแต่งผิวอย่างไรบ้าง"
           }
         }
       ]
