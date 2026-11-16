@@ -3,82 +3,64 @@ window.NEWS_ARCHIVE = {
   "days": [
     {
       "date": "2026-11-16",
-      "summary": "News flow is relatively light today. However, BYD's backing of domestic assembly tariffs and the formalized EEC-Thai Airways MRO agreement indicate solid medium-to-long-term demand for metal finishing and aerospace abrasives.",
+      "summary": "Today's news volume is relatively light, focusing on how the 35% EV tariff will drive local parts manufacturers to restructure and retool. This shift creates direct opportunities for metal deburring and finishing abrasives as factories upgrade lines.",
       "directCount": 1,
       "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มากนัก แต่การที่ BYD หนุนภาษีนำเข้าเพื่อกระตุ้นการผลิต EV ในไทย รวมถึงการลงนามสัญญาศูนย์ซ่อม MRO อู่ตะเภา บ่งชี้ถึงอุปสงค์ระยะกลางถึงยาวที่สดใสสำหรับงานขัดแต่งโลหะและอากาศยาน"
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยประเด็นหลักเน้นไปที่ผลกระทบของภาษีนำเข้า EV 35% ที่ผลักดันให้โรงงานชิ้นส่วนยานยนต์ในประเทศต้องปรับฐานการผลิต ซึ่งการปรับเปลี่ยนไลน์ผลิตจะสร้างโอกาสโดยตรงให้กับวัสดุขัดลบครีบและเจียรแต่งผิวโลหะ"
       },
       "items": [
         {
           "id": "20261116-1",
           "tag": "auto",
           "rating": "green",
-          "source": "www.thairath.co.th",
-          "date": "2026-11-09",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GNmpFZTVfcE9MNGRiVnM5cy1hN1VfcWQ4MXpma1I4UG9lNmpFaGlwTG5MSC1HTUdQSmhOa3ROZEZiektXbmVkbS1Pb3ZGWkFUNmZVYmpRVkR1R1lJd29v?oc=5",
-          "title": "BYD and Rever Back 35% EV Import Tariff to Level Playing Field for Domestic Assembly",
-          "summary": "BYD and distributor Rever have publicly supported Thailand's plan to raise EV import tariffs to 35%, reaffirming their strategy to ramp up local manufacturing. The move aims to protect local investments and stimulate deeper domestic supply chains.",
-          "why": "Expanding local EV production lines directly increases metal-stamping deburring, body weld grinding, and paint-prep sanding volumes, benefiting MK's abrasive business.",
-          "action": "Engage Tier-1 stamping and body fabrication suppliers connected to BYD's Rayong plant to demo MK flap discs and wide sanding belts.",
+          "source": "Thansettakij",
+          "date": "2026-11-05",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QZTFwWmJEUEdab2tPM0dYcDEtakxtRVVPbWRiMHpPQnN1al9oSUllWHdPV3hDZUgxcjJYVjdsY0JaUXVpc0pXMlFFRGRHTHJPUHlWZWxHS01weVFwODdLdGE3akJTb3NhaUFwZnBR?oc=5",
+          "title": "Thai Auto Parts Suppliers Restructure for EV Wave to Safeguard 750,000 Jobs",
+          "summary": "Domestic auto parts manufacturers are actively retooling stamping and machining lines to supply EV structural and chassis components as assembly bases shift locally.",
+          "why": "Modifying stamping dies and machining new metal EV components generates direct, ongoing demand for heavy deburring belts, grinding discs, and weld-finishing tools.",
+          "action": "Target Tier-1 and Tier-2 Japanese stamping and machining suppliers that are retooling for EV contracts with high-durability deburring abrasives.",
           "th": {
-            "title": "BYD และเรเว่ หนุนรัฐขึ้นภาษีนำเข้ารถ EV 35% สร้างความเป็นธรรม ดันโรงงานประกอบในไทย",
-            "summary": "BYD และเรเว่ ประกาศหนุนมาตรการปรับขึ้นภาษีนำเข้า EV เป็น 35% เพื่อสร้างความเป็นธรรมและตอกย้ำแผนขยายกำลังผลิตในไทย ซึ่งช่วยเร่งการใช้ห่วงโซ่อุปทานชิ้นส่วนในประเทศ",
-            "why": "การเพิ่มกำลังผลิตรถ EV ในประเทศช่วยเพิ่มปริมาณงานลบคมแผ่นโลหะ เจียรรอยเชื่อมตัวถัง และขัดแต่งผิวก่อนทำสี ซึ่งเป็นตลาดหลักของวัสดุขัด MK โดยตรง",
-            "action": "เร่งเข้าพบผู้ผลิตชิ้นส่วนปั๊มขึ้นรูปและประกอบโครงสร้างตัวถัง Tier-1 ในสายการผลิตของ BYD เพื่อนำเสนอจานขัดและสายพานผ้าทรายขัดเรียบ"
+            "title": "ชิ้นส่วนรถยนต์ไทยปรับฐานรับคลื่นลงทุน EV อุ้ม 7.5 แสนแรงงานไปต่อ",
+            "summary": "ผู้ผลิตชิ้นส่วนยานยนต์ในประเทศเร่งปรับปรุงไลน์ปั๊มขึ้นรูปและกลึงโลหะเพื่อป้อนชิ้นส่วนโครงสร้างและช่วงล่างสำหรับรถ EV ตามทิศทางค่ายรถยนต์",
+            "why": "การปรับเปลี่ยนไลน์ผลิตชิ้นงานโลหะสำหรับ EV สร้างความต้องการโดยตรงสำหรับสายพานขัดลบครีบ จานเจียร และวัสดุขัดแต่งแนวเชื่อม",
+            "action": "เข้าพบผู้ผลิตชิ้นส่วนยานยนต์ Tier-1 และ Tier-2 ของญี่ปุ่นที่กำลังปรับไลน์ผลิตเพื่อนำเสนอวัสดุขัดลบครีบประสิทธิภาพสูง"
           }
         },
         {
           "id": "20261116-2",
-          "tag": "aero",
+          "tag": "auto",
           "rating": "amber",
-          "source": "ผู้จัดการออนไลน์",
-          "date": "2026-10-06",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIazdnNjc2TVdpRWNOSTNQS2tlaWFWdl9KbE5OaEdlLWlZX0RaWERWWjhJV1l0MjdTejNaSHVhOEMwSThnWmtFaUJMWVAydHIxVkFKTktiQ0pXb09KVVRLWg?oc=5",
-          "title": "EEC and Thai Airways Formalize 10-Billion-Baht U-Tapao Aviation MRO Joint Venture",
-          "summary": "The EEC and Thai Airways officially signed a contract to construct a 10-billion-baht regional aircraft MRO center at U-Tapao, scheduled to break ground in 2027 and open by 2030. The project is projected to generate 4 to 6 billion baht in annual service revenue.",
-          "why": "While revenue realization is long-term, specialized aerospace maintenance demands high-precision abrasives for engine blades, composites, and structural airframe repainting.",
-          "action": "Initiate aerospace abrasive certification tracking to prepare MK's technical spec sheets and audit qualifications for upcoming airline procurement vendors.",
+          "source": "Matichon Online",
+          "date": "2026-11-14",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zbW01cXlGMXNXYm1aYktaeFN1clBhX1QyZVZmRF8tT0g4cDR5S25oQ0JsR1I1cG42VkdxVWI3WF9YNlBSYll0em0wamhZSDJ6el9BRkZNRklmYU0?oc=5",
+          "title": "TPSO Forecasts 35% Import Tariff Will Compel Automakers to Localize EV Manufacturing",
+          "summary": "The Trade Policy and Strategy Office (TPSO) expects the 35% tariff to push foreign automakers to localize full production within Thailand rather than relying on imported CBU models.",
+          "why": "Accelerated plant construction and higher domestic assembly volume will steadily increase OEM factory demand for body prep sanding discs and polishing compounds.",
+          "action": "Track new OEM assembly plant construction milestones to establish procurement contact before mass production starts.",
           "th": {
-            "title": "เซ็นแล้ว! EEC - การบินไทย ลุยศูนย์ซ่อม MRO อู่ตะเภาหมื่นล้าน ตอกเข็มปี 70 เปิดปี 73",
-            "summary": "อีอีซีและการบินไทยลงนามสัญญาลงทุนศูนย์ซ่อมบำรุงอากาศยาน (MRO) อู่ตะเภามูลค่า 1 หมื่นล้านบาท เตรียมเริ่มก่อสร้างปี 2570 และเปิดบริการปี 2573 คาดสร้างรายได้ปีละ 4-6 พันล้านบาท",
-            "why": "แม้เป็นโครงการระยะยาว แต่งานซ่อมบำรุงเครื่องบินต้องใช้วัสดุขัดเกรดพรีเมียมเฉพาะทางสูง ทั้งงานขัดชิ้นส่วนเครื่องยนต์ คอมโพสิต และลอกสีโครงสร้างอากาศยาน",
-            "action": "ติดตามมาตรฐานการรับรองวัสดุขัดเกรดการบิน (Aviation Grade) เพื่อเตรียมสเปกสินค้าและใบรับรองคุณภาพให้พร้อมรับงานจัดซื้อในอนาคต"
+            "title": "สนค. คาดภาษีนำเข้าใหม่ 35% ดึงฐานผลิต EV ลงทุนในไทย",
+            "summary": "สนค. ประเมินว่ากำแพงภาษี 35% จะบีบให้ค่ายรถยนต์ต่างชาติต้องเข้ามาตั้งฐานการผลิตเต็มรูปแบบในไทยแทนการนำเข้าสำเร็จรูป",
+            "why": "การเร่งสร้างโรงงานและปริมาณการประกอบรถในประเทศที่เพิ่มขึ้นจะช่วยขยายฐานการใช้วัสดุขัดเตรียมผิวตัวถังและงานขัดเงาสีในโรงงาน OEM",
+            "action": "ติดตามความคืบหน้าการก่อสร้างโรงงานประกอบของค่ายรถใหม่ เพื่อเข้าพบจัดซื้อล่วงหน้าก่อนเริ่มเดินสายการผลิตจริง"
           }
         },
         {
           "id": "20261116-3",
-          "tag": "furniture",
+          "tag": "auto",
           "rating": "amber",
-          "source": "ผู้จัดการออนไลน์",
-          "date": "2026-09-02",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWNVFPYTI5eTFhQ1lwNWozSXFGRHAtS2xtdk0zZERrcWg3SEprbXBZR0Ixc0hGbWtHT1l0NnR4cGpSMzNVWG5DM3dMNGc1SUlnbmNUcEFQaWx4ZTRKQ0FkMA?oc=5",
-          "title": "TIWF 2026 Exhibition Accelerates Upgrade of Thai Woodworking and Sustainable Furniture",
-          "summary": "The TIWF 2026 expo has kicked off to upgrade Thailand's woodworking and furniture machinery toward automated and sustainable global production standards. Thai furniture exporters are pivoting toward premium eco-friendly wood processing for export.",
-          "why": "Wood surface preparation heavily relies on wide sanding belts, orbital paper, and finishing pads, offering an expansion path for MK's wood and DIY product lines.",
-          "action": "Curate an MK woodworking abrasives promotional bundle across Shopee, TikTok, and direct B2B channels targeted at furniture makers upgrading finishing quality.",
+          "source": "Facebook",
+          "date": "2026-11-03",
+          "url": "https://news.google.com/rss/articles/CBMilgdBVV95cUxOSEdaaU5xSkRENVJUVlpYLU43M0NKWnhHZmp2MEtvMDJGZk9GTUFHUjNNNE1MUDduRl9laERKMHZHZUFNV216Nllub0tPaFpjMEZjMlg0Rkw1ZElycnh1RTNvMVRrZGhGQ1FORWw2Z1JGMGZTS01pTm84TG5XbmJiNnoxZjd6UHNQOVI0dnV1U09GNU1nVk15TkRxUUhmWEVYaEZOZnV1V3ZDN0gwQVgtbHA0SEI3dkNLWGhGUkw4QVR5dlR0REZuLWtWUTVLWm5oWEc3SDE2dWZIVmxPZlp3UEFrb0lCQjNJSlFEb2RBZTBlQkFqUHNmQTh0bVdwZ3pUd25kY3FWeVVULUV0RXVGeGhLTnNfMVBRLU55QzRUN0V6RDF1bWtHOG5BLWdlLWZFbEszdjNFUExZU1VqQmpSVC1xQ2VIMnJLV3hOOWVzbzJQLUVaSlYwTnU4VVFzbEJhV2NIbTE3N2RUUkkxZTRoWVBGY2VDUUFKYTZGZGl3eW1aNGZWVzBSWlk4TXllTnVNZnVMUG5yYWJPclVrMmdPd0xhb24zbFNvNjdNMjRETzBOZFlKQnVRMmRraDZFR0R3bzhfV3lVNkk2dTZPS05NRUk4SUhfTzlwMWk5Qy1oeFVZRTk1SVF2LTlMNUV5OUt1REZDSGN2R0xNY3ljMWwxdVp2Zmdhb1NtNi1YSGpuNXMwWUtQQzBBVHNxYTZVNnc2QkxnWko0NVZaUEFGQ2RZdlphbGNmSVZlTk41Tk4xZXZkZTRRcm9hN0UyUVFmMy1wM2Y1UVpSUUZDTHk5Q0lTZmR0M0k5SXhPYjJrV2FxREJTZ0xvOUNNV2F0WGlBaGlBMm1acGFXbGRMaTRobEZveVIxMEkzUTAtWDNpTEhjYmVLWjQxdTdrR1lLLW4tZWdvcTdzTGxhazNfZFN1UGFfeGVSRUJoX3dHMFlNcV9RbmZMZEFQMEhGSXlHUURoQ1Y2UjFiM2pQbG5Sb3BjNXd2WWVpVzMwZ21Qdm82SzB1Y1NkdHhWWFd2T0JrMWN5ZmFvemoySVZzakVsSnItTEhNNmQ1dzNRMDVEMlR6RFQ0WWM0YVpMTHBCMndrcFpBSHM0YzM0MnpoMkJFX3V3Vm5ZZ2N6SXZEaHVFelNTOGpmckNfczdUNllKcTlqT0UzSVFhVlNFWVJ6ODBsWHpkYUZsRFhtU3NjOFhMeGhtdjNkSlVUazg5aGc?oc=5",
+          "title": "EVAT and FTI Call for Broader Industrial Strategy Beyond Assembly to Empower Thai Parts Makers",
+          "summary": "Industry bodies stress that the 35% tariff must be paired with technology transfer and localization support so domestic component suppliers can win subcontracts.",
+          "why": "Successful transition of local fabricators ensures a wider base of operational metalworking and surface preparation shops using industrial abrasives.",
+          "action": "Map domestic sub-tier metal fabrication vendors seeking to enter EV component supply chains for abrasive testing partnerships.",
           "th": {
-            "title": "TIWF 2026 ยกระดับอุตสาหกรรมไม้และเฟอร์นิเจอร์ไทย สู่มาตรฐานความยั่งยืน",
-            "summary": "เปิดตัวงาน TIWF 2026 มุ่งยกระดับเทคโนโลยีเครื่องจักรงานไม้และเฟอร์นิเจอร์ไทยสู่ออโตเมชันและความยั่งยืน เพื่อเพิ่มศักยภาพการแข่งขันในการส่งออก",
-            "why": "กระบวนการขัดผิวไม้และเคลือบสีในโรงงานเฟอร์นิเจอร์ใช้วัสดุขัดจำนวนมาก ทั้งสายพานผ้าทรายหน้ากว้าง กระดาษทรายกลม และฟองน้ำขัด ซึ่งต่อยอดตลาดของ MK ได้ดี",
-            "action": "จัดชุดเซ็ตสินค้ากลุ่มงานไม้ทั้งทาง B2B และช่องทางออนไลน์ Shopee/TikTok เพื่อเจาะกลุ่มช่างไม้และโรงงานเฟอร์นิเจอร์ที่ต้องการงานขัดผิวคุณภาพสูง"
-          }
-        },
-        {
-          "id": "20261116-4",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "posttoday",
-          "date": "2025-10-24",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56LWpoTlNPYU9GbXhGME9TeFNFaldyT1c0RTdDaUhmQ3RsTG9SZkowSV9QSDA3dDRNWnVfMVdrdWgzcGpWSEEwVmotSUxfREdfaGtheTdlUmk?oc=5",
-          "title": "Ten Steel Associations Oppose Reopening of Substandard Foreign-Owned Steel Mill",
-          "summary": "Ten domestic steel associations have strongly petitioned the government against allowing shut-down foreign-backed mills like Xin Ke Yuan to restart operations without strict compliance. The industry warns that substandard output hurts compliant local fabricators.",
-          "why": "Strict enforcement against substandard mills protects compliant structural steel and metal fabrication shops, which are MK's core consumers of grinding and cutting discs.",
-          "action": "Monitor regulatory closures to shift sales focus toward certified, high-standard steel fabricators that consistently prioritize premium cutting and grinding consumables.",
-          "th": {
-            "title": "10 สมาคมเหล็กผนึกกำลังค้านเปิดโรงงานซินเคอหยวน หวั่นเหล็กไร้มาตรฐานซ้ำเติมตลาด",
-            "summary": "10 สมาคมเหล็กไทยยื่นหนังสือคัดค้านการอนุญาตให้โรงงานผลิตเหล็กต่างชาติที่เคยถูกสั่งปิดกลับมาดำเนินการ หากไม่ผ่านเกณฑ์มาตรฐานความปลอดภัยและสิ่งแวดล้อม",
-            "why": "การกวดขันโรงงานไม่ได้มาตรฐานช่วยพยุงผู้ผลิตเหล็กโครงสร้างและโรงงานแปรรูปโลหะมาตรฐานในไทย ซึ่งเป็นผู้ใช้ใบตัดและใบเจียรของ MK สม่ำเสมอ",
-            "action": "ติดตามรายชื่อโรงงานมาตรฐาน มอก. เพื่อรุกทำการตลาดตรงกับกลุ่มผู้ประกอบการแปรรูปโครงสร้างเหล็กคุณภาพสูงที่เลือกใช้ใบขัดเกรดพรีเมียม"
+            "title": "EVAT และ ส.อ.ท. ชี้ภาษีนำเข้าเป็นแค่จุดเริ่มต้น แนะเร่งหนุนผู้ผลิตชิ้นส่วนไทยให้โตเกินกว่าแค่ฐานประกอบ",
+            "summary": "สมาคมยานยนต์ไฟฟ้าไทยและ ส.อ.ท. ชี้ว่ากำแพงภาษี 35% ต้องควบคู่กับการถ่ายทอดเทคโนโลยี เพื่อช่วยให้ผู้ผลิตชิ้นส่วนในประเทศสามารถรับงานซับคอนแทรคได้จริง",
+            "why": "หากโรงงานชิ้นส่วนในประเทศปรับตัวได้สำเร็จ จะช่วยรักษาและขยายฐานโรงงานแปรรูปโลหะและเตรียมผิวชิ้นงานที่เป็นลูกค้าวัสดุขัดของเรา",
+            "action": "ค้นหาโรงงานแปรรูปโลหะระดับรองที่กำลังปรับตัวเข้าสู่ห่วงโซ่อุปทาน EV เพื่อส่งตัวอย่างวัสดุขัดเข้าทดสอบในกระบวนการผลิต"
           }
         }
       ],
