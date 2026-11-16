@@ -4,82 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-11-16",
-      "summary": "Today's briefing highlights precision manufacturing growth in polishing media, synthetic abrasives market trends in the US and India, and global steel oversupply challenges interacting with green policies.",
-      "directCount": 4,
+      "summary": "Today's briefing focuses on digital and sustainable coatings innovations alongside global steel sector shifts and regional market reports, highlighting evolving surface finishing standards.",
+      "directCount": 3,
       "th": {
-        "summary": "สรุปทิศทางโลกวันนี้เน้นการเติบโตของการผลิตที่มีความแม่นยำในกลุ่มวัสดุขัดเงา แนวโน้มตลาดสารสังเคราะห์ขัดในสหรัฐฯ และอินเดีย รวมถึงความท้าทายเรื่องภาวะล้นตลาดเหล็กโลกที่เชื่อมโยงกับนโยบายสีเขียว"
+        "summary": "สรุปข่าวประจำวันนี้เน้นเรื่องนวัตกรรมการเคลือบผิวที่เป็นมิตรต่อสิ่งแวดล้อมและดิจิทัล พร้อมกับความเคลื่อนไหวในอุตสาหกรรมเหล็กและรายงานตลาดภูมิภาค ซึ่งสะท้อนถึงมาตรฐานการเตรียมพื้นผิวที่กำลังเปลี่ยนแปลง"
       },
       "items": [
         {
           "id": "20261116-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-11-11",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdEJFdUVxZ1A4UDJQVEhmQ043cnlQNEExRzgzU3k4Q0dlVHJ2ZGlFYWQ3Vk5RLWZWZ1M2VVIzOHpIX3NCbEI1NE5WVTRkNXFGdlBfb0l4SlN1dEZqMzBoZUxMTGFHQjBUaWdhYk0xY1NNcnBMOU90aXE2Z1Bfa1hLOFVlbDEtNUNGZXM4SGpEV0h6YmZMQzVIMHhoQUMteGNqdnlVRWQ3TGVOMnIwU0VfUGVCMW1tb0JrR2Ixc1M5QQ?oc=5",
-          "title": "Polishing Media Market To 2035: Precision Manufacturing Demand Drives Growth",
-          "summary": "Global demand for polishing media is expanding steadily through 2035, driven heavily by increasing precision manufacturing standards across high-tech and industrial sectors.",
-          "why": "Higher precision manufacturing standards directly increase the demand for specialized polishing and surface finishing consumables.",
-          "action": "Ensure our product catalog includes high-precision polishing media to capture high-end manufacturing clients.",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "European Coatings",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
+          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
+          "summary": "The coatings industry is accelerating its shift toward digital tools and sustainable formulations to meet tighter environmental regulations and performance demands.",
+          "why": "New coating formulations and application methods directly influence how surfaces are prepped, sanded, and finished.",
+          "action": "Monitor how eco-friendly and smart coatings affect surface preparation requirements for our customers.",
           "th": {
-            "title": "ตลาดวัสดุขัดเงาถึงปี 2035: ความต้องการด้านการผลิตที่มีความแม่นยำผลักดันการเติบโต",
-            "summary": "ความต้องการวัสดุขัดเงาทั่วโลกเติบโตอย่างต่อเนื่องจนถึงปี 2035 ขับเคลื่อนโดยมาตรฐานการผลิตความแม่นยำสูงในภาคอุตสาหกรรมและไฮเทค",
-            "why": "มาตรฐานการผลิตที่แม่นยำยิ่งขึ้นส่งผลโดยตรงต่อความต้องการใช้วัสดุสิ้นเปลืองสำหรับการขัดและตกแต่งผิวที่เฉพาะเจาะจง",
-            "action": "ตรวจสอบให้แน่ใจว่าแคตตาล็อกสินค้าของเรามีวัสดุขัดเงาความแม่นยำสูงเพื่อเจาะกลุ่มลูกค้าอุตสาหกรรมระดับบน"
+            "title": "กำหนดอนาคตใหม่แห่งการเคลือบผิว: นวัตกรรม ความยั่งยืน และพลังแห่งดิจิทัล",
+            "summary": "อุตสาหกรรมสีเคลือบกำลังเร่งเปลี่ยนผ่านไปสู่เครื่องมือดิจิทัลและสูตรที่เป็นมิตรต่อสิ่งแวดล้อม เพื่อตอบสนองกฎระเบียบด้านสิ่งแวดล้อมและข้อกำหนดด้านประสิทธิภาพที่เข้มงวดขึ้น",
+            "why": "สูตรสารเคลือบและวิธีพ่นแบบใหม่ส่งผลโดยตรงต่อวิธีการเตรียมพื้นผิว การขัดกระดาษทราย และการเก็บงาน",
+            "action": "ติดตามว่าสารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมและสารเคลือบอัจฉริยะส่งผลต่อข้อกำหนดการเตรียมพื้นผิวของลูกค้าอย่างไร"
           }
         },
         {
           "id": "20261116-w2",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-11-13",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdE42OWwwOEFoUWVMLVA1UXl0UHhZVjZvVVNxVm5GdFBXUVVqazNCemk0ZEs5ZDAta2dKLUFUYnlha244Y1lNaW04SWlCTEkyMmdvdEdkQkxjSnlYYV9lVU5lQWduSW9YbTh4aGM5dzBzS1RRVHFIMkxmemtrQTcxRmNVdE81VHZLOVRBdzdEZS1kOVd1SFdCYm5uME1WRGdsVnVib1NzMVZPVkhocnh0TzVVZ08?oc=5",
-          "title": "Synthetic Abrasives Market in the United States: Size, Trends and Forecast to 2035",
-          "summary": "The US synthetic abrasives market exhibits strong long-term growth forecasts up to 2035, underpinned by industrial automation and heavy manufacturing needs.",
-          "why": "Synthetic abrasives (like aluminum oxide and silicon carbide) form the backbone of our core B2B product lines.",
-          "action": "Monitor raw material pricing trends for synthetic abrasives originating from Western markets.",
-          "th": {
-            "title": "ตลาดสารสังเคราะห์ขัดถูในสหรัฐอเมริกา: ขนาด แนวโน้ม และการคาดการณ์ถึงปี 2035",
-            "summary": "ตลาดสารขัดสังเคราะห์ในสหรัฐฯ มีแนวโน้มเติบโตระยะยาวที่แข็งแกร่งจนถึงปี 2035 หนุนโดยระบบอัตโนมัติทางอุตสาหกรรมและความต้องการด้านการผลิต",
-            "why": "สารขัดสังเคราะห์ (เช่น อลูมิเนียมออกไซด์และซิลิคอนคาร์ไบด์) เป็นหัวใจสำคัญของกลุ่มผลิตภัณฑ์ B2B หลักของเรา",
-            "action": "ติดตามแนวโน้มราคาวัตถุดิบของสารขัดสังเคราะห์ที่มาจากตลาดตะวันตก"
-          }
-        },
-        {
-          "id": "20261116-w3",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-11-12",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWUx2Q0FlTGVRMDJmR2R2czZ6R0ZoMTI3NHBCQU5ld3N5ZmRzZEZDZGZDSmFFYkxQdjdaUGtoZTRUN2VqNERldk0yZjYyT0IwMk5SZnVQVlZpQ1J3SEloLTJaX3p6clJ6N2ZDME05Vk5TTkpJVjRRUUV5N0JZbVhMXzZicERxQ3hfdmZzU2VBOS1EVHZXcFpyaXlWUUxkZmJwcEdOMU9hSFdpQQ?oc=5",
-          "title": "Synthetic Abrasives Market in India: Size, Trends and Forecast to 2035",
-          "summary": "India's synthetic abrasives sector is scaling up rapidly, driven by expanding automotive fabrication and heavy machinery production.",
-          "why": "India is emerging as a massive manufacturing and supply hub for metalworking and abrasives.",
-          "action": "Explore potential sourcing or benchmarking partnerships with Indian abrasive manufacturers.",
-          "th": {
-            "title": "ตลาดสารสังเคราะห์ขัดถูในอินเดีย: ขนาด แนวโน้ม และการคาดการณ์ถึงปี 2035",
-            "summary": "ภาคธุรกิจสารขัดสังเคราะห์ของอินเดียกำลังเติบโตอย่างรวดเร็ว ขับเคลื่อนโดยการขยายตัวของการผลิตยานยนต์และเครื่องจักรหนัก",
-            "why": "อินเดียกำลังกลายเป็นศูนย์กลางการผลิตและซัพพลายเชนขนาดใหญ่สำหรับงานโลหะและวัสดุขัด",
-            "action": "ศึกษาความเป็นไปได้ในการจัดหาแหล่งสินค้าหรือสร้างพันธมิตรเปรียบเทียบกับผู้ผลิตสารขัดในอินเดีย"
-          }
-        },
-        {
-          "id": "20261116-w4",
           "tag": "steel",
           "rating": "amber",
           "source": "S&P Global",
           "date": "2026-01-12",
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
           "title": "Global steel industry battles surplus supply, protectionism",
-          "summary": "The global steel sector continues to grapple with oversupply conditions and increasing trade protectionism across major economies.",
-          "why": "Steel oversupply impacts metal fabrication activity and pricing pressure, which directly influences demand for grinding and deburring products.",
-          "action": "Track local steel fabrication output to anticipate short-term fluctuations in abrasive consumption.",
+          "summary": "Steel producers worldwide face persistent overcapacity and rising trade barriers, forcing mills to optimize production costs and operational efficiency.",
+          "why": "Metal fabrication and steel mills are core end-users for heavy-duty grinding belts and deburring products.",
+          "action": "Expect metal fabricators to focus on cost reduction and durable, long-lasting abrasive tools to improve margins.",
           "th": {
-            "title": "อุตสาหกรรมเหล็กโลกต่อสู้กับภาวะล้นตลาดและลัทธิกีดกันทางการค้า",
-            "summary": "ภาคอุตสาหกรรมเหล็กทั่วโลกยังคงเผชิญกับภาวะอุปทานล้นเกินและมาตรการกีดกันทางการค้าที่เพิ่มขึ้นในเศรษฐกิจหลัก",
-            "why": "ภาวะล้นตลาดของเหล็กส่งผลต่อกิจกรรมการแปรรูปโลหะและแรงกดดันด้านราคา ซึ่งมีผลโดยตรงต่อความต้องการสินค้าประเภทเจียรและลบคม",
-            "action": "ติดตามปริมาณการผลิตแปรรูปเหล็กในท้องถิ่นเพื่อคาดการณ์ความผันผวนระยะสั้นของการใช้วัสดุขัด"
+            "title": "อุตสาหกรรมเหล็กโลกเผชิญศึกภาวะล้นตลาดและลัทธิกีดกันทางการค้า",
+            "summary": "ผู้ผลิตเหล็กทั่วโลกเผชิญกับภาวะกำลังการผลิตส่วนเกินและอุปสรรคทางการค้าที่เพิ่มขึ้น ซึ่งบีบให้โรงงานต้องลดต้นทุนการผลิตและเพิ่มประสิทธิภาพการดำเนินงาน",
+            "why": "อุตสาหกรรมแปรรูปโลหะและโรงงานเหล็กคือลูกค้าหลักของสายพานขัดและผลิตภัณฑ์ลบคมสำหรับงานหนัก",
+            "action": "คาดการณ์ว่ากลุ่มแปรรูปโลหะจะมุ่งเน้นการลดต้นทุนและใช้ผลิตภัณฑ์ขัดที่มีความทนทานสูงเพื่อรักษาอัตรากำไร"
+          }
+        },
+        {
+          "id": "20261116-w3",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "Visual Capitalist",
+          "date": "2026-05-22",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPanhIT3JZSXFKdTgwREVjTGVnMnpRNUlTcnJfRUV6c3lJcjBPZWxOcFJ6QnNVYi1iYkxPWms2WWp1ZEZKM2hyLVA2TjVPbXBYeEhEN3d5SXhFemxBNDd0ak1Dd09Ba0hpTW1wV1lyQkxUQnZ1UzFkU09TZldUQWxqQ2dUc2pzUmNXRFE?oc=5",
+          "title": "Ranked: The Countries That Produce the Most Steel",
+          "summary": "An analysis of global steel production highlights shifts in manufacturing hubs and output volumes across major industrial economies.",
+          "why": "Geographic shifts in steel production alter regional demand maps for industrial abrasives and grinding supplies.",
+          "action": "Keep an eye on shifting steel manufacturing hubs to identify emerging regional industrial demand.",
+          "th": {
+            "title": "จัดอันดับ: ประเทศที่ผลิตเหล็กมากที่สุด",
+            "summary": "การวิเคราะห์การผลิตเหล็กทั่วโลกเน้นย้ำถึงการเปลี่ยนแปลงของศูนย์กลางการผลิตและปริมาณผลผลิตในกลุ่มเศรษฐกิจอุตสาหกรรมหลัก",
+            "why": "การเปลี่ยนแปลงทางภูมิศาสตร์ของการผลิตเหล็กส่งผลให้แผนที่ความต้องการวัสดุขัดและอุปกรณ์เจียรในภูมิภาคเปลี่ยนตาม",
+            "action": "จับตาดูการย้ายฐานการผลิตเหล็กเพื่อมองหาความต้องการใหม่ๆ ในระดับภูมิภาค"
           }
         }
       ]
