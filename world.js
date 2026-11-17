@@ -4,64 +4,100 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-11-17",
-      "summary": "Today's briefing highlights critical manufacturing and material trends for 2026, focusing on European coating innovations, smart factory automation in EV production, and global steel surplus adjustments.",
-      "directCount": 3,
+      "summary": "Today's global briefing highlights the expanding $72.2B abrasives market driven by precision finishing, growth in synthetic abrasives across Asia, and structural steel surplus challenges colliding with new environmental regulations like CBAM.",
+      "directCount": 4,
       "th": {
-        "summary": "สรุปทิศทางแนวโน้มอุตสาหกรรมโลกประจำวันนี้ เน้นนวัตกรรมการเคลือบผิวในยุโรป ระบบอัตโนมัติในโรงงานผลิตรถยนต์ EV และการปรับตัวของอุตสาหกรรมเหล็กโลก"
+        "summary": "สรุปกระแสโลกประจำวันนี้เน้นย้ำตลาดวัสดุขัดเจียรที่เติบโตแตะ 7.22 หมื่นล้านดอลลาร์ ขับเคลื่อนโดยความต้องการงานขัดผิวความแม่นยำสูง การเติบโตของวัสดุขัดสังเคราะห์ในเอเชีย และปัญหาภาวะเหลกล้นตลาดที่เผชิญกับกฎระเบียบสิ่งแวดล้อม CBAM"
       },
       "items": [
         {
           "id": "20261117-w1",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "Coatings World",
-          "date": "2025-12-10",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVDFJcHBGVXhXMm1MR1R0QkJ4VkNDdnZvcjh2bzJkX1hJYUdJQ1pyOFIxRzVPUXZGUDRheEVHaVhweG14Smk5Z3FCbjhadTM4RnIzLXkxMnBWX3p2UU4ya3dxNXFocWJWd1EyUHhjeEFOWGdwWW1LcllXTFdyUVNEMkxmRGdoblpuc2w5V2RNei0xZmM1S1p5bExhX1otTFBMY0RtbA?oc=5",
-          "title": "Innovation and Technology to Drive Future of European Market",
-          "summary": "European market analysts emphasize that advanced technology and sustainable practices will dictate the future direction of industrial coatings and surface finishing.",
-          "why": "Changes in industrial coatings directly correlate with surface preparation and pre-painting sanding processes.",
-          "action": "Monitor European finishing standards to anticipate future surface prep requirements in export markets.",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "EIN News",
+          "date": "2026-10-19",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM2VsRTlqVWR6dlpoUXpZQ04wNnJsRUNBbndKSnNQODIyUXdnTTlIT0hZMC10bGhEUUk0clZ5ZWZRN0I2eVhiVHVPVmRYd05xWUdJdDJldTBsTkZEUVNBNG5qaE9WeXdDN2dSVzJ2TzNsVFhBNVMzakhwZFR6Z0dQeFFVS0ZPa0dmWmh1dHhiYXVXWWRrbk9XS251Ul9SVS1SZ3NON0VXRWxfOWtzazlNcXhUMVBnU2liODhqaXF6OEdGb2NEYkRoaG9uNmx6MlNjMUd2N3Q0emZnUXltZk1wbg?oc=5",
+          "title": "Abrasives Market to Reach $72.2 Billion by 2030, Growing at a 7.6% CAGR Driven by Precision Finishing Demand",
+          "summary": "The global abrasives market is projected to reach $72.2 billion by 2030, growing at a robust 7.6% CAGR, fueled by increasing demand for precision finishing in manufacturing.",
+          "why": "Confirms strong secular tailwinds for our core product lines, validating our focus on industrial surface preparation and polishing tools.",
+          "action": "Ensure our product portfolio emphasizes high-precision finishing grades to capture higher-margin industrial segments.",
           "th": {
-            "title": "นวัตกรรมและเทคโนโลยีขับเคลื่อนอนาคตตลาดเอเชียและยุโรป",
-            "summary": "นักวิเคราะห์ตลาดยุโรประบุว่า เทคโนโลยีขั้นสูงและความยั่งยืนจะเป็นตัวกำหนดทิศทางของอุตสาหกรรมเคลือบผิวและการตกแต่งพื้นผิว",
-            "why": "การเปลี่ยนแปลงของสารเคลือบอุตสาหกรรมส่งผลโดยตรงต่อกระบวนการเตรียมพื้นผิวและการขัดก่อนพ่นสี",
-            "action": "ติดตามมาตรฐานงานเคลือบผิวของยุโรปเพื่อคาดการณ์ความต้องการเตรียมพื้นผิวในตลาดส่งออก"
+            "title": "ตลาดวัสดุขัดเจียรจะเติบโตถึง 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 ด้วยอัตราเติบโต 7.6% หนุนโดยความต้องการงานตกแต่งผิวความแม่นยำสูง",
+            "summary": "ตลาดวัสดุขัดเจียรทั่วโลกคาดว่าจะเติบโตถึง 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 อัตราการเติบโต 7.6% ต่อปี จากความต้องการงานขัดแต่งผิวที่แม่นยำสูงในภาคการผลิต",
+            "why": "ยืนยันว่าตลาดหลักของเรามีแนวโน้มเติบโตต่อเนื่อง ช่วยตอกย้ำกลยุทธ์การเน้นสินค้ากลุ่มเตรียมผิวและขัดเงา",
+            "action": "ตรวจสอบให้แน่ใจว่าสินค้าในพอร์ตมีเกรดงานความแม่นยำสูง เพื่อเจาะกลุ่มอุตสาหกรรมที่ให้กำไรดี"
           }
         },
         {
           "id": "20261117-w2",
-          "tag": "auto",
+          "tag": "abrasive",
           "rating": "green",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2025-12-18",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOd3VqZU9yUXhKVmFVYkZ0OEJHaHZBRllYU3laaUZOXzh2OGZXSVdMVDJyZm5YV2Z0UlVEN0xhdURNOHZsQ2U2U2ZzRjRpcUJ3UUxqcVV3cFNucm9tcVpYQjdTN3ZxNjRZcy1aOVpuMk1FTWFsYU45UWw4V2N2NGgzeVJ6YWNscmk3OUJsRkhXNmFoMmVmdnZ2SGVFSEFiYUFXVzNXSmN0UGYtMEM1S0Y0YmQzeTJlR0VMYmJGUjdqaGdVQ3Zx?oc=5",
-          "title": "How automation and AI are powering Xpeng's EV production",
-          "summary": "Major EV manufacturers are aggressively integrating AI and advanced robotics into their assembly lines to boost production speed and precision.",
-          "why": "Automated assembly and robotic grinding/polishing cells demand consistent, high-durability abrasive products.",
-          "action": "Explore partnership opportunities with automated manufacturing integrators who supply robotic sanding heads.",
+          "source": "IndexBox",
+          "date": "2026-11-12",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWUx2Q0FlTGVRMDJmR2R2czZ6R0ZoMTI3NHBCQU5ld3N5ZmRzZEZDZGZDSmFFYkxQdjdaUGtoZTRUN2VqNERldk0yZjYyT0IwMk5SZnVQVlZpQ1J3SEloLTJaX3p6clJ6N2ZDME05Vk5TTkpJVjRRUUV5N0JZbVhMXzZicERxQ3hfdmZzU2VBOS1EVHZXcFpyaXlWUUxkZmJwcEdOMU9hSFdpQQ?oc=5",
+          "title": "Synthetic Abrasives Market in India: Size, Trends and Forecast to 2035",
+          "summary": "An analysis of India's synthetic abrasives sector shows steady long-term growth driven by expanding domestic manufacturing and metal fabrication.",
+          "why": "India is a major rising competitor and sourcing hub for industrial raw materials and abrasive grains.",
+          "action": "Monitor South Asian manufacturing hubs for competitive sourcing alternatives and regional pricing trends.",
           "th": {
-            "title": "AI และระบบอัตโนมัติขับเคลื่อนการผลิตรถยนต์ EV ของ Xpeng",
-            "summary": "ผู้ผลิตรถยนต์ EV รายใหญ่เร่งนำ AI และหุ่นยนต์ขั้นสูงมาใช้ในสายการผลิตเพื่อเพิ่มความเร็วและความแม่นยำ",
-            "why": "สายการผลิตอัตโนมัติและหุ่นยนต์ขัดแต่งผิวต้องการผลิตภัณฑ์กระดาษทรายที่มีความทนทานและสม่ำเสมอสูง",
-            "action": "สำรวจโอกาสร่วมมือกับผู้บูรณาการระบบอัตโนมัติในโรงงานที่ใช้หัวขัดด้วยหุ่นยนต์"
+            "title": "ตลาดวัสดุขัดสังเคราะห์ในอินเดีย: ขนาด แนวโน้ม และการคาดการณ์ถึงปี 2035",
+            "summary": "การวิเคราะห์ตลาดวัสดุขัดสังเคราะห์ของอินเดียชี้ให้เห็นการเติบโตระยะยาวที่มั่นคง จากการขยายตัวของการผลิตภายในประเทศและงานขึ้นรูปโลหะ",
+            "why": "อินเดียเป็นคู่แข่งและแหล่งจัดหาวัตถุดิบและเม็ดทรายขัดอุตสาหกรรมที่กำลังเติบโตอย่างรวดเร็ว",
+            "action": "ติดตามตลาดการผลิตในเอเชียใต้เพื่อหาทางเลือกในการจัดหาวัตถุดิบและดูแนวโน้มราคา"
           }
         },
         {
           "id": "20261117-w3",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-11-12",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRENWMjAzQzFZMGlvRkZzNUgzRWhscFRzbDRkS2h4ZDlXN0RlTk9HM283MVp5XzIwSjRfeVA1OGVuTUpHYUYzdXFYcmpCNDR2cjlhSUFWS21qU0lCZUZtTWpfWks1Q0J3dlpuMk5SRVpFclNHY0dERms0bUY3WHBuaVhUdUs5V25SemxrTFlaSFJuYjRobjlWTmR3WGhJN3VPSGF3eE45cVl5UQ?oc=5",
+          "title": "Synthetic Abrasives Market in China: Size, Trends and Forecast to 2035",
+          "summary": "China's synthetic abrasives market continues to evolve toward higher-end production to meet stricter industrial standards up to 2035.",
+          "why": "China heavily influences global abrasive grain prices and manufacturing supply chains.",
+          "action": "Track Chinese manufacturer shifts toward specialized synthetic grains as a baseline for regional cost pressures.",
+          "th": {
+            "title": "ตลาดวัสดุขัดสังเคราะห์ในจีน: ขนาด แนวโน้ม และการคาดการณ์ถึงปี 2035",
+            "summary": "ตลาดวัสดุขัดสังเคราะห์ของจีนยังคงพัฒนาไปสู่การผลิตระดับสูงขึ้นเพื่อตอบสนองมาตรฐานอุตสาหกรรมที่เข้มงวดขึ้นถึงปี 2035",
+            "why": "จีนมีอิทธิพลอย่างมากต่อราคากล่อบเม็ดทรายขัดทั่วโลกและห่วงโซ่อุปทานการผลิต",
+            "action": "ติดตามการปรับตัวของผู้ผลิตจีนไปสู่เม็ดทรายสังเคราะห์เฉพาะทาง เพื่อประเมินแรงกดดันด้านต้นทุนในภูมิภาค"
+          }
+        },
+        {
+          "id": "20261117-w4",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-11-11",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdEJFdUVxZ1A4UDJQVEhmQ043cnlQNEExRzgzU3k4Q0dlVHJ2ZGlFYWQ3Vk5RLWZWZ1M2VVIzOHpIX3NCbEI1NE5WVTRkNXFGdlBfb0l4SlN1dEZqMzBoZUxMTGFHQjBUaWdhYk0xY1NNcnBMOU90aXE2Z1Bfa1hLOFVlbDEtNUNGZXM4SGpEV0h6YmZMQzVIMHhoQUMteGNqdnlVRWQ3TGVOMnIwU0VfUGVCMW1tb0JrR2Ixc1M5QQ?oc=5",
+          "title": "Polishing Media Market To 2035: Precision Manufacturing Demand Drives Growth",
+          "summary": "The polishing media market is expanding steadily through 2035, propelled by the need for ultra-smooth surface finishes in precision manufacturing.",
+          "why": "Polishing media are complementary to coated abrasives in finishing lines for metal and automotive parts.",
+          "action": "Evaluate if our accessory or specialized polishing media catalog needs expansion to offer complete surface prep solutions.",
+          "th": {
+            "title": "ตลาดสื่อขัดเงาถึงปี 2035: ความต้องการการผลิตความแม่นยำสูงขับเคลื่อนการเติบโต",
+            "summary": "ตลาดสื่อขัดเงากำลังขยายตัวอย่างต่อเนื่องถึงปี 2035 ขับเคลื่อนด้วยความต้องการพื้นผิวเรียบเนียนพิเศษในงานผลิตที่มีความแม่นยำสูง",
+            "why": "สื่อขัดเงาเป็นสินค้าทดแทนและใช้งานร่วมกับกระดาษทราย/ผ้าทรายในกระบวนการตกแต่งผิวโลหะและชิ้นส่วนยานยนต์",
+            "action": "ประเมินว่าควรขยายหมวดหมู่สื่อขัดเงาพิเศษหรือไม่ เพื่อเสนอโซลูชันการเตรียมผิวที่ครบวงจร"
+          }
+        },
+        {
+          "id": "20261117-w5",
           "tag": "steel",
           "rating": "amber",
           "source": "S&P Global",
           "date": "2026-01-12",
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
           "title": "Global steel industry battles surplus supply, protectionism",
-          "summary": "The global steel sector faces persistent overcapacity issues alongside rising international trade protectionism and regulatory hurdles.",
-          "why": "Steel mill output fluctuations directly impact local metal fabrication, welding, and structural steel deburring demand.",
-          "action": "Keep buffer stocks flexible for metal-cutting and heavy grinding disks to adapt to volatile steel fabrication schedules.",
+          "summary": "The global steel sector continues to face overcapacity issues and rising trade protectionism, impacting operational margins and output strategies.",
+          "why": "Steel production volume directly correlates with local metal fabrication activity and the consumption of grinding/deburring abrasives.",
+          "action": "Keep close tabs on local steel mill output rates, as surplus steel can lower raw material costs but signal sluggish local fabrication demand.",
           "th": {
-            "title": "อุตสาหกรรมเหล็กโลกเผชิญภาวะล้นตลาดและมาตรการกีดกันทางการค้า",
-            "summary": "ภาคอุตสาหกรรมเหล็กทั่วโลกยังคงเผชิญกับปัญหากำลังการผลิตส่วนเกิน ควบคู่ไปกับมาตรการกีดกันทางการค้า",
-            "why": "ความผันผวนของผลผลิตโรงงานเหล็กส่งผลโดยตรงต่อความต้องการใช้งานตัด เจียร และลบคมในอุตสาหกรรมโลหะ",
-            "action": "รักษาสต็อกสินค้ากลุ่มแผ่นตัดและแผ่นเจียรให้ยืดหยุ่น เพื่อรับมือกับตารางการผลิตงานโลหะที่เปลี่ยนแปลง"
+            "title": "อุตสาหกรรมเหล็กโลกต่อสู้กับภาวะอุปทานล้นตลาดและลัทธิกีดกันทางการค้า",
+            "summary": "ภาคอุตสาหกรรมเหล็กทั่วโลกยังคงเผชิญกับปัญหากำลังการผลิตส่วนเกินและมาตรการกีดกันทางการค้า ซึ่งส่งผลกระทบต่ออัตรากำไรและแผนการผลิต",
+            "why": "ปริมาณการผลิตเหล็กมีความเชื่อมโยงโดยตรงกับกิจกรรมแปรรูปโลหะในท้องถิ่นและการใช้วัสดุขัด/ลบคม",
+            "action": "ติดตามอัตราการผลิตของโรงงานเหล็กในท้องถิ่นอย่างใกล้ชิด เนื่องจากเหลกล้นตลาดอาจช่วยลดต้นทุนวัตถุดิบแต่สะท้อนความต้องการแปรรูปที่ชะลอตัว"
           }
         }
       ]
