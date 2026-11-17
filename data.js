@@ -3,64 +3,64 @@ window.NEWS_ARCHIVE = {
   "days": [
     {
       "date": "2026-11-17",
-      "summary": "New developments are limited today, but attention centers on the auto sector as the 35% EV import tariff accelerates local manufacturing commitments while raising concerns over Japanese investment delays.",
-      "directCount": 2,
+      "summary": "Today's news flow is relatively quiet with few new developments. The main highlight is the finalized agreement between the EEC and Thai Airways for the 10-billion-baht U-Tapao MRO hub, alongside domestic steel associations pressing regulators to curb dumping and eliminate substandard induction furnaces.",
+      "directCount": 1,
       "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยประเด็นหลักยังคงอยู่ที่อุตสาหกรรมยานยนต์ ซึ่งมาตรการภาษีนำเข้า EV 35% กำลังเร่งให้เกิดการผลิตในประเทศมากขึ้น ขณะที่มีคำเตือนเรื่องการชะลอการลงทุนของค่ายรถยนต์ญี่ปุ่น"
+        "summary": "วันนี้มีข่าวใหม่ไม่มากนัก ประเด็นเด่นคือการลงนามสัญญาลงทุนศูนย์ซ่อมอากาศยาน MRO อู่ตะเภาระหว่าง EEC กับการบินไทย มูลค่าหมื่นล้านบาท พร้อมการเคลื่อนไหวของกลุ่มสมาคมเหล็กที่ผลักดันให้คุมการทุ่มตลาดและยกเลิกเตาหลอมที่ไม่ได้มาตรฐาน"
       },
       "items": [
         {
           "id": "20261117-1",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Thansettakij",
-          "date": "2026-11-16",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50VndFMTVEVEJOQkN2ZEhsN3NFUjNpRGwwQ0wtNkR5SDdGS2hIcldzdGdOaUVGdkFGN0hMYVRmazZvQlhlU2xCRGNyNnZZdnh4UTlfZDJfck9YNnQzMkVWdjJXYTdOal9yYVduVWdn?oc=5",
-          "title": "Experts Warn of Slowing Japanese Investment in Thailand, Urging JTEPA Review Against Chinese Influx",
-          "summary": "Trade experts caution that Japanese automakers are delaying Thai investment due to intense Chinese EV competition and are urging the government to revise the JTEPA framework.",
-          "why": "Japanese manufacturing facilities are our core client base; an investment slowdown could dampen abrasive replenishment orders in Tier-1 and Tier-2 factories.",
-          "action": "Stay closely engaged with Japanese plant purchasing managers while expanding sales outreach to emerging Chinese EV assembly plants.",
+          "tag": "aero",
+          "rating": "green",
+          "source": "ผู้จัดการออนไลน์",
+          "date": "2026-10-06",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIazdnNjc2TVdpRWNOSTNQS2tlaWFWdl9KbE5OaEdlLWlZX0RaWERWWjhJV1l0MjdTejNaSHVhOEMwSThnWmtFaUJMWVAydHIxVkFKTktiQ0pXb09KVVRLWg?oc=5",
+          "title": "EEC and Thai Airways Sign Agreement for 10-Billion-Baht U-Tapao MRO Project",
+          "summary": "The EEC and Thai Airways officially signed a contract to construct a 10-billion-baht aircraft maintenance, repair, and overhaul (MRO) center at U-Tapao. Construction will begin in 2027 with commercial operations projected for 2030, targeting 4–6 billion baht in annual revenue.",
+          "why": "This formal signing confirms a major long-term pipeline for aerospace-grade abrasives, surface-preparation discs, and deburring tools in Thailand.",
+          "action": "Map out required aerospace-grade abrasive specifications and establish early relationships with Thai Airways' maintenance technical units.",
           "th": {
-            "title": "ผู้เชี่ยวชาญเตือนทุนญี่ปุ่นชะลอลงทุนไทย จี้รัฐรื้อภาษี-ทบทวน JTEPA แข่งทุนจีน",
-            "summary": "ผู้เชี่ยวชาญเตือนค่ายรถยนต์ญี่ปุ่นเริ่มชะลอการลงทุนในไทยจากแรงกดดันของ EV จีน พร้อมจี้รัฐบาลทบทวนกรอบความตกลง JTEPA",
-            "why": "โรงงานทุนญี่ปุ่นคือกลุ่มลูกค้าหลักของเรา หากเกิดการชะลอลงทุน อาจกระทบต่อยอดสั่งซื้อวัสดุขัดในสายการผลิตชิ้นส่วนยานยนต์",
-            "action": "ติดตามความเคลื่อนไหวของฝ่ายจัดซื้อโรงงานญี่ปุ่นอย่างใกล้ชิด พร้อมเร่งกระจายความเสี่ยงขยายฐานลูกค้าไปยังโรงงานผลิต EV ฝั่งจีน"
+            "title": "อีอีซี เซ็นสัญญาการบินไทย ลุยศูนย์ซ่อม MRO อู่ตะเภา 1 หมื่นล้านบาท",
+            "summary": "อีอีซีและการบินไทยลงนามสัญญาลงทุนศูนย์ซ่อมบำรุงอากาศยาน (MRO) อู่ตะเภา มูลค่า 1 หมื่นล้านบาท เตรียมเริ่มก่อสร้างปี 2570 และเปิดบริการปี 2573 คาดสร้างรายได้ปีละ 4-6 พันล้านบาท",
+            "why": "การเซ็นสัญญาอย่างเป็นทางการเป็นการยืนยันโอกาสระยะยาวในการจัดหาวัสดุขัดผิวและลบครีบเกรดการบินในพื้นที่ EEC",
+            "action": "รวบรวมสเปกวัสดุขัดเกรดการบินและเริ่มสร้างความสัมพันธ์กับทีมเทคนิคซ่อมบำรุงของการบินไทยตั้งแต่เนิ่นๆ"
           }
         },
         {
           "id": "20261117-2",
-          "tag": "auto",
-          "rating": "green",
-          "source": "www.thairath.co.th",
-          "date": "2026-11-09",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GNmpFZTVfcE9MNGRiVnM5cy1hN1VfcWQ4MXpma1I4UG9lNmpFaGlwTG5MSC1HTUdQSmhOa3ROZEZiektXbmVkbS1Pb3ZGWkFUNmZVYmpRVkR1R1lJd29v?oc=5",
-          "title": "BYD and Rêver Back 35% EV Import Tariff to Promote Fair Local Manufacturing",
-          "summary": "BYD and its distributor Rêver supported Thailand's 35% EV tariff, affirming their commitment to ramp up domestic assembly and integrate local supply chains.",
-          "why": "Full-scale local manufacturing at BYD's Rayong assembly lines directly drives factory-floor demand for sheet metal grinding, weld blending, and sanding consumables.",
-          "action": "Pitch specialized weld-grinding and surface preparation discs directly to BYD's assembly plant and its Tier-1 stamping suppliers.",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "ข่าวสด",
+          "date": "2026-05-21",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15SXhSTE9NZ09fLVZFdGQ0M0JDVXlYWHM4Y1FzbDcxc0VZcFdrX1laUTRTR3VDZkZYcUNENkVUMTA4MnVOcUpGTi1xZk04NVNoUW14Z29vYXRRakEwOVE?oc=5",
+          "title": "10 Steel Associations Petition TISI to Phase Out Induction Furnace Mills Within 3 Years",
+          "summary": "Ten domestic steel associations have petitioned the Thai Industrial Standards Institute (TISI) to phase out induction furnace (IF) steel manufacturing within three years to curb substandard structural metal.",
+          "why": "Phasing out low-quality IF mills benefits compliant EAF producers and standard steel fabricators, which heavily rely on consistent abrasive wheels and flap discs for quality control.",
+          "action": "Target B2B sales outreach toward certified EAF steel makers and structural fabricators that demand higher-grade grinding abrasives.",
           "th": {
-            "title": "BYD และเรเว่ หนุนรัฐเพิ่มภาษีนำเข้ารถ EV 35% สร้างความเป็นธรรมในอุตสาหกรรมยานยนต์",
-            "summary": "BYD และเรเว่แสดงจุดยืนหนุนภาษีนำเข้า EV 35% ยืนยันเดินหน้าตั้งฐานผลิตเต็มรูปแบบและส่งเสริมห่วงโซ่การผลิตในประเทศไทย",
-            "why": "การเดินสายการผลิตเต็มรูปแบบของโรงงาน BYD ในระยองช่วยเพิ่มความต้องการใช้วัสดุขัดรอยเชื่อมและงานเตรียมผิวก่อนพ่นสีโดยตรง",
-            "action": "นำเสนอจานขัดและผ้าทรายคุณภาพสูงสำหรับงานลบรอยเชื่อมให้แก่โรงงานประกอบ BYD และซัพพลายเออร์ปั๊มขึ้นรูปโลหะ Tier-1"
+            "title": "10 สมาคมเหล็กยื่น สมอ. จี้ยกเลิกโรงงานเหล็กเตา IF ภายใน 3 ปี",
+            "summary": "สมาคมผู้ผลิตเหล็ก 10 สมาคมยื่นข้อเรียกร้องต่อ สมอ. ให้ยกเลิกโรงงานเหล็กที่ใช้เตาหลอมเหนี่ยวนำไฟฟ้า (IF) ภายใน 3 ปี เพื่อสกัดเหล็กคุณภาพต่ำในตลาด",
+            "why": "การลดบทบาทเตา IF จะช่วยหนุนโรงงานที่ใช้เตา EAF ที่ได้มาตรฐาน ซึ่งต้องใช้วัสดุเจียร ลบคม และตัดชิ้นงานคุณภาพสูงอย่างต่อเนื่อง",
+            "action": "โฟกัสการขายเชิงรุกไปยังโรงหลอมระบบ EAF และโรงงานแปรรูปโครงสร้างเหล็กมาตรฐานที่ต้องการงานผิวคุณภาพ"
           }
         },
         {
           "id": "20261117-3",
-          "tag": "auto",
-          "rating": "green",
-          "source": "ผู้จัดการออนไลน์",
-          "date": "2026-11-16",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84Z0RMRlhhV1JPUlVFWDNxaWRDV2NhT2htVFJSV012RmV6bjBZOEpIdTdRUjVkY2ZhRlROSW1KZUJZX2NheV9MVVFpdHE5OWpsZDVmN1l1d3ZDbDFLM0x4Mg?oc=5",
-          "title": "EV Tariff Shift Compels Local Production and Opens Supply Chain to Thai SMEs",
-          "summary": "The government's 35% EV tariff hike is driving automakers to establish domestic assembly bases, opening doors for local SME parts makers to enter the supply chain.",
-          "why": "Increased parts stamping and metal fabrication by local Tier-2 and Tier-3 workshops will directly boost abrasive usage for deburring and edge-finishing.",
-          "action": "Target metal fabrication and stamping SMEs in the Eastern Seaboard with cost-effective flap discs and abrasive belts.",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "LINE TODAY",
+          "date": "2025-12-28",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MbDY2SkFDN1VRQXdMaUF1Nmhlb3U0dTZLVzlMUkVDTTJlTy1UMFhMWFctVHJzWEhCd1lZUXZzaGpCMnJoNDBFOXRUclB2TXZ1ZkVlbjZB?oc=5",
+          "title": "Steel Industry Groups Rally to Halt Finished Steel Influx from China",
+          "summary": "Ten steel trade associations have called on the government to curb finished steel imports from China to protect domestic mills struggling with market dumping and reduced capacity utilization.",
+          "why": "Severe dumping pressures the operating margins and factory activity of domestic metal fabricators, indirectly slowing their consumption of heavy grinding and cutting consumables.",
+          "action": "Monitor credit exposure among local steel clients while proposing cost-efficient grinding product lines to help them reduce overheads.",
           "th": {
-            "title": "ยานยนต์ไทยถึงจุดเปลี่ยน รัฐขึ้นภาษีนำเข้า EV 35% ดึงฐานผลิตมาไทย หนุน SME เข้าถึงห่วงโซ่การผลิต",
-            "summary": "การปรับขึ้นภาษีนำเข้า EV 35% กระตุ้นให้เกิดการตั้งฐานประกอบในประเทศและเปิดโอกาสให้ผู้ผลิตชิ้นส่วน SME ไทยเข้าสู่ห่วงโซ่อุปทาน",
-            "why": "การที่ SME ในประเทศได้รับออเดอร์ผลิตชิ้นส่วนโลหะเพิ่มขึ้น จะส่งผลให้ความต้องการใช้วัสดุขัดลบครีบคมและตกแต่งผิวงานโลหะเติบโตตามไปด้วย",
-            "action": "จัดโปรโมชันและส่งตัวอย่างจานทรายเรียงซ้อนและสายพานผ้าทรายเจาะกลุ่มโรงงานกลึงและปั๊มชิ้นส่วน SME ในแถบ EEC"
+            "title": "10 สมาคมเหล็กจี้รัฐสกัดนำเข้าเหล็กสำเร็จรูปจีนหลังเผชิญวิกฤตทุ่มตลาด",
+            "summary": "กลุ่ม 10 สมาคมเหล็กเรียกร้องให้รัฐบาลควบคุมและสั่งห้ามนำเข้าเหล็กสำเร็จรูปจากจีนอย่างเร่งด่วน หลังเผชิญปัญหาสินค้าราคาถูกทุ่มตลาดในประเทศ",
+            "why": "การทุ่มตลาดเหล็กสำเร็จรูปกระทบกำลังการผลิตของโรงงานโลหะในไทย ซึ่งส่งผลทางอ้อมต่อปริมาณการใช้วัสดุขัดและใบเจียร",
+            "action": "ติดตามความเสี่ยงด้านเครดิตเทอมของลูกค้ากลุ่มเหล็ก พร้อมนำเสนอวัสดุขัดเจียรรุ่นประหยัดต้นทุนเพื่อช่วยลูกค้าบริหารค่าใช้จ่าย"
           }
         }
       ],
