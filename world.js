@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-11-16",
+  "updated": "2026-11-17",
   "days": [
+    {
+      "date": "2026-11-17",
+      "summary": "Today's briefing highlights critical manufacturing and material trends for 2026, focusing on European coating innovations, smart factory automation in EV production, and global steel surplus adjustments.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปทิศทางแนวโน้มอุตสาหกรรมโลกประจำวันนี้ เน้นนวัตกรรมการเคลือบผิวในยุโรป ระบบอัตโนมัติในโรงงานผลิตรถยนต์ EV และการปรับตัวของอุตสาหกรรมเหล็กโลก"
+      },
+      "items": [
+        {
+          "id": "20261117-w1",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "Coatings World",
+          "date": "2025-12-10",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVDFJcHBGVXhXMm1MR1R0QkJ4VkNDdnZvcjh2bzJkX1hJYUdJQ1pyOFIxRzVPUXZGUDRheEVHaVhweG14Smk5Z3FCbjhadTM4RnIzLXkxMnBWX3p2UU4ya3dxNXFocWJWd1EyUHhjeEFOWGdwWW1LcllXTFdyUVNEMkxmRGdoblpuc2w5V2RNei0xZmM1S1p5bExhX1otTFBMY0RtbA?oc=5",
+          "title": "Innovation and Technology to Drive Future of European Market",
+          "summary": "European market analysts emphasize that advanced technology and sustainable practices will dictate the future direction of industrial coatings and surface finishing.",
+          "why": "Changes in industrial coatings directly correlate with surface preparation and pre-painting sanding processes.",
+          "action": "Monitor European finishing standards to anticipate future surface prep requirements in export markets.",
+          "th": {
+            "title": "นวัตกรรมและเทคโนโลยีขับเคลื่อนอนาคตตลาดเอเชียและยุโรป",
+            "summary": "นักวิเคราะห์ตลาดยุโรประบุว่า เทคโนโลยีขั้นสูงและความยั่งยืนจะเป็นตัวกำหนดทิศทางของอุตสาหกรรมเคลือบผิวและการตกแต่งพื้นผิว",
+            "why": "การเปลี่ยนแปลงของสารเคลือบอุตสาหกรรมส่งผลโดยตรงต่อกระบวนการเตรียมพื้นผิวและการขัดก่อนพ่นสี",
+            "action": "ติดตามมาตรฐานงานเคลือบผิวของยุโรปเพื่อคาดการณ์ความต้องการเตรียมพื้นผิวในตลาดส่งออก"
+          }
+        },
+        {
+          "id": "20261117-w2",
+          "tag": "auto",
+          "rating": "green",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2025-12-18",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOd3VqZU9yUXhKVmFVYkZ0OEJHaHZBRllYU3laaUZOXzh2OGZXSVdMVDJyZm5YV2Z0UlVEN0xhdURNOHZsQ2U2U2ZzRjRpcUJ3UUxqcVV3cFNucm9tcVpYQjdTN3ZxNjRZcy1aOVpuMk1FTWFsYU45UWw4V2N2NGgzeVJ6YWNscmk3OUJsRkhXNmFoMmVmdnZ2SGVFSEFiYUFXVzNXSmN0UGYtMEM1S0Y0YmQzeTJlR0VMYmJGUjdqaGdVQ3Zx?oc=5",
+          "title": "How automation and AI are powering Xpeng's EV production",
+          "summary": "Major EV manufacturers are aggressively integrating AI and advanced robotics into their assembly lines to boost production speed and precision.",
+          "why": "Automated assembly and robotic grinding/polishing cells demand consistent, high-durability abrasive products.",
+          "action": "Explore partnership opportunities with automated manufacturing integrators who supply robotic sanding heads.",
+          "th": {
+            "title": "AI และระบบอัตโนมัติขับเคลื่อนการผลิตรถยนต์ EV ของ Xpeng",
+            "summary": "ผู้ผลิตรถยนต์ EV รายใหญ่เร่งนำ AI และหุ่นยนต์ขั้นสูงมาใช้ในสายการผลิตเพื่อเพิ่มความเร็วและความแม่นยำ",
+            "why": "สายการผลิตอัตโนมัติและหุ่นยนต์ขัดแต่งผิวต้องการผลิตภัณฑ์กระดาษทรายที่มีความทนทานและสม่ำเสมอสูง",
+            "action": "สำรวจโอกาสร่วมมือกับผู้บูรณาการระบบอัตโนมัติในโรงงานที่ใช้หัวขัดด้วยหุ่นยนต์"
+          }
+        },
+        {
+          "id": "20261117-w3",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "S&P Global",
+          "date": "2026-01-12",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
+          "title": "Global steel industry battles surplus supply, protectionism",
+          "summary": "The global steel sector faces persistent overcapacity issues alongside rising international trade protectionism and regulatory hurdles.",
+          "why": "Steel mill output fluctuations directly impact local metal fabrication, welding, and structural steel deburring demand.",
+          "action": "Keep buffer stocks flexible for metal-cutting and heavy grinding disks to adapt to volatile steel fabrication schedules.",
+          "th": {
+            "title": "อุตสาหกรรมเหล็กโลกเผชิญภาวะล้นตลาดและมาตรการกีดกันทางการค้า",
+            "summary": "ภาคอุตสาหกรรมเหล็กทั่วโลกยังคงเผชิญกับปัญหากำลังการผลิตส่วนเกิน ควบคู่ไปกับมาตรการกีดกันทางการค้า",
+            "why": "ความผันผวนของผลผลิตโรงงานเหล็กส่งผลโดยตรงต่อความต้องการใช้งานตัด เจียร และลบคมในอุตสาหกรรมโลหะ",
+            "action": "รักษาสต็อกสินค้ากลุ่มแผ่นตัดและแผ่นเจียรให้ยืดหยุ่น เพื่อรับมือกับตารางการผลิตงานโลหะที่เปลี่ยนแปลง"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-11-16",
       "summary": "Today's briefing focuses on digital and sustainable coatings innovations alongside global steel sector shifts and regional market reports, highlighting evolving surface finishing standards.",
@@ -830,70 +894,6 @@ window.WORLD_ARCHIVE = {
             "summary": "ผู้ผลิตรถยนต์ EV ชั้นนำกำลังผสาน AI และระบบอัตโนมัติขั้นสูงเข้ากับสายการผลิตในโรงงาน เพื่อเพิ่มประสิทธิภาพและความแม่นยำในการประกอบ",
             "why": "สายการผลิต EV อัตโนมัติจำเป็นต้องใช้หุ่นยนต์ขัดกระดาษทราย ระบบลบคมอัตโนมัติ และแผ่นขัดคุณภาพสูงที่สม่ำเสมอ แทนการใช้แรงงานคน",
             "action": "ติดตามแนวโน้มความต้องการวัสดุขัดสำหรับระบบหุ่นยนต์อัตโนมัติที่รองรับแขนกลในโรงงาน"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-11-03",
-      "summary": "Today's intelligence briefing highlights 3 new global signals focusing on metal casting growth forecasts, evolving sanding solutions in woodworking, and regional steel market instabilities. These developments point to shifting surface preparation demands across global manufacturing sectors.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปข้อมูลข่าวกรองประจำวันนี้เน้น 3 สัญญาณใหม่จากทั่วโลก ได้แก่ การคาดการณ์การเติบโตของอุตสาหกรรมการหล่อโลหะ โซลูชันการขัดผิวไม้ที่พัฒนาขึ้น และความไม่穩定ของตลาดเหล็กในภูมิภาค ซึ่งการเปลี่ยนแปลงเหล่านี้บ่งชี้ถึงความต้องการในการเตรียมพื้นผิวที่ปรับเปลี่ยนไปในภาคการผลิตทั่วโลก"
-      },
-      "items": [
-        {
-          "id": "20261103-w1",
-          "tag": "steel",
-          "rating": "green",
-          "source": "Fortune Business Insights",
-          "date": "2026-10-12",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kYlp3TXBwdU5JVl9Gc0pFd3lJSFpjSUhLeEFGOVZVS19BbHBoTFNGb1BFOC1UNEN4c1o0c2xjdTFZYXhVdGRVb0dIeXZqakt1bTJkQy10SC0wRlh0RVVBZHZaWDFYbDk3cHdUbXBsYnRyYTlFVEE?oc=5",
-          "title": "Metal Casting Market Growth Analysis & Industry Forecast, 2034",
-          "summary": "The metal casting market is projected to see steady long-term growth through 2034, driven by industrial demand for precision metal parts.",
-          "why": "More metal castings mean higher demand for heavy-duty grinding, deburring, and surface finishing abrasives.",
-          "action": "Monitor metal casting growth to anticipate rising demand for foundry and deburring abrasive products.",
-          "th": {
-            "title": "การวิเคราะห์การเติบโตของตลาดการหล่อโลหะและการคาดการณ์อุตสาหกรรมถึงปี 2034",
-            "summary": "ตลาดการหล่อโลหะคาดว่าจะมีการเติบโตในระยะยาวอย่างต่อเนื่องจนถึงปี 2034 ซึ่งขับเคลื่อนโดยความต้องการชิ้นส่วนโลหะที่มีความแม่นยำในภาคอุตสาหกรรม",
-            "why": "การหล่อโลหะที่เพิ่มขึ้นหมายถึงความต้องการที่สูงขึ้นสำหรับกระดาษทรายและหินเจียรเพื่องานขัดหยาบ ลบครีบ และตกแต่งผิว",
-            "action": "ติดตามการเติบโตของการหล่อโลหะเพื่อคาดการณ์ความต้องการผลิตภัณฑ์อับราซีฟสำหรับงานโรงหล่อและงานลบครีบที่เพิ่มสูงขึ้น"
-          }
-        },
-        {
-          "id": "20261103-w2",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "Woodworking Network",
-          "date": "2026-10-28",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPenJGZzhiOUMyeFhrU09yQ3hfR1puSkF4NFhiV19HUUtvbE1POE9iUzZ4T3pZOTdKaVlKSWdZQ1RHSGhVdHJSdmstZWdaUE9wMGVDMEJJckNIRzBHck5UcmZWOFctbUhnQVA5OWRtTmVpVno0MHlsQzRfd0FIWEFTSDJPNW1zS1R6Tk9rV3ZyZE0waVpUQ2U0eFgtY0U?oc=5",
-          "title": "New technology tackles familiar sanding challenges",
-          "summary": "Recent manufacturing updates highlight innovative techniques and materials being introduced to solve persistent wood sanding problems.",
-          "why": "Woodworking remains a major sector for coated abrasives; new sanding technologies affect what finish quality customers will expect.",
-          "action": "Review our wood-sanding product line to ensure we offer modern solutions matching global efficiency standards.",
-          "th": {
-            "title": "เทคโนโลยีใหม่แก้ปัญหาความท้าทายในการขัดผิวไม้ที่คุ้นเคย",
-            "summary": "อัปเดตการผลิตล่าสุดเน้นย้ำถึงเทคนิคและวัสดุนวัตกรรมใหม่ๆ ที่ถูกนำมาใช้เพื่อแก้ปัญหาการขัดไม้ที่มีมาอย่างยาวนาน",
-            "why": "อุตสาหกรรมไม้ยังคงเป็นตลาดหลักสำหรับกระดาษทรายสายพานและกระดาษทรายแผ่น เทคโนโลยีการขัดใหม่ๆ ส่งผลต่อมาตรฐานคุณภาพผิวงานที่ลูกค้าคาดหวัง",
-            "action": "ทบทวนกลุ่มผลิตภัณฑ์กระดาษทรายขัดไม้ของเราเพื่อให้มั่นใจว่าเรามีโซลูชันที่ทันสมัยและสอดคล้องกับมาตรฐานประสิทธิภาพระดับโลก"
-          }
-        },
-        {
-          "id": "20261103-w3",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "GMK Center",
-          "date": "2025-12-10",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTkRBWWNOeHZ2MVpKT3F4T19ySE1VQUU1dkVXTGY4ZUlJcW9XWl9UNld3R0lHVzRqZk1MQ2pmQkpMaVZnS0YxT2VwZG9WYjJ4aHhZR1FyVTdIYXlYanpXQnpJUnU0MlM5MkJFa3ZVMU54QkFMekVMbndOVHJEbmVsV1hHdW5Pa2tCVUNfcXIxU1MxOGxFQzJTStIBngFBVV95cUxPcXhjLW13T21jMXhYMmpIRU52Y3VFWkk5QUJOaWdfaFgyUmxyQUJZdHU5cm4tWTZRLWxXRUJfRjZIUE5NaE44am5yVmdtR2NXck14aW1laDNQNkU2U1B6VkQzNm1sRl84S2JJVExEOVFnR0p6cmwteFhaWXVvZTRzaWFCdHFLOGJ2cWpMbXRGTTdMem1JSDV4a3EwdTFVUQ?oc=5",
-          "title": "Turkey’s steel sector is unstable compared to the global one – TCUD",
-          "summary": "Reports indicate volatility and structural instability within Turkey's steel manufacturing industry amidst fluctuating global conditions.",
-          "why": "Regional steel instability impacts local metal processing activity and changes export/import dynamics for raw materials and tools.",
-          "action": "Keep an eye on regional metal market shifts that might influence international pricing and supply chain flows.",
-          "th": {
-            "title": "ภาคส่วนเหล็กของตุรกีมีความไม่เสถียรเมื่อเทียบกับตลาดโลก - TCUD",
-            "summary": "รายงานระบุถึงความผันผวนและความไม่เสถียรเชิงโครงสร้างภายในอุตสาหกรรมการผลิตเหล็กของตุรกีท่ามกลางสภาวะตลาดโลกที่ผันผวน",
-            "why": "ความไม่เสถียรของตลาดเหล็กในระดับภูมิภาคส่งผลกระทบต่อกิจกรรมการแปรรูปโลหะในท้องถิ่น และเปลี่ยนพลวัตการนำเข้า-ส่งออกของวัตถุดิบและเครื่องมือ",
-            "action": "จับตาดูการเปลี่ยนแปลงของตลาดโลหะในภูมิภาคที่อาจส่งผลต่อราคาระหว่างประเทศและกระแสซัพพลายเชน"
           }
         }
       ]
