@@ -4,100 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-11-17",
-      "summary": "Today's global briefing highlights the expanding $72.2B abrasives market driven by precision finishing, growth in synthetic abrasives across Asia, and structural steel surplus challenges colliding with new environmental regulations like CBAM.",
-      "directCount": 4,
+      "summary": "Today's briefing focuses on global metal finishing solutions and abrasive grain market expansions, highlighting growth opportunities in surface prep technologies.",
+      "directCount": 3,
       "th": {
-        "summary": "สรุปกระแสโลกประจำวันนี้เน้นย้ำตลาดวัสดุขัดเจียรที่เติบโตแตะ 7.22 หมื่นล้านดอลลาร์ ขับเคลื่อนโดยความต้องการงานขัดผิวความแม่นยำสูง การเติบโตของวัสดุขัดสังเคราะห์ในเอเชีย และปัญหาภาวะเหลกล้นตลาดที่เผชิญกับกฎระเบียบสิ่งแวดล้อม CBAM"
+        "summary": "สรุปข่าววันนี้เน้นเรื่องโซลูชันการตกแต่งพื้นผิวโลหะระดับโลกและการเติบโตของตลาดเม็ดขัด ชี้ให้เห็นโอกาสในเทคโนโลยีเตรียมพื้นผิว"
       },
       "items": [
         {
           "id": "20261117-w1",
           "tag": "abrasive",
           "rating": "green",
-          "source": "EIN News",
-          "date": "2026-10-19",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM2VsRTlqVWR6dlpoUXpZQ04wNnJsRUNBbndKSnNQODIyUXdnTTlIT0hZMC10bGhEUUk0clZ5ZWZRN0I2eVhiVHVPVmRYd05xWUdJdDJldTBsTkZEUVNBNG5qaE9WeXdDN2dSVzJ2TzNsVFhBNVMzakhwZFR6Z0dQeFFVS0ZPa0dmWmh1dHhiYXVXWWRrbk9XS251Ul9SVS1SZ3NON0VXRWxfOWtzazlNcXhUMVBnU2liODhqaXF6OEdGb2NEYkRoaG9uNmx6MlNjMUd2N3Q0emZnUXltZk1wbg?oc=5",
-          "title": "Abrasives Market to Reach $72.2 Billion by 2030, Growing at a 7.6% CAGR Driven by Precision Finishing Demand",
-          "summary": "The global abrasives market is projected to reach $72.2 billion by 2030, growing at a robust 7.6% CAGR, fueled by increasing demand for precision finishing in manufacturing.",
-          "why": "Confirms strong secular tailwinds for our core product lines, validating our focus on industrial surface preparation and polishing tools.",
-          "action": "Ensure our product portfolio emphasizes high-precision finishing grades to capture higher-margin industrial segments.",
+          "source": "Detroit Free Press",
+          "date": "2026-11-17",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMXMtb185Y3VpaHlVWmV0eUFxUDJSWTZCNVVJVnhwbHlLdXZydDB0LXJPanlKRkwyaEprOVZxUDJmOVBaVGNTT2ZPeVpKc0traFU5VVhwcUxlck5KU2NfWUZYdHdFb0ZtMU4tek9xblZpMlRQY0xPV3BkY2lld0ZGcUNCa1QtTktNemRpU25hWGYwRTdrXzNVem1nQVlwTU9FMFpRc3JrNzFLbl9RVVR3UzRwcnZadWJueTMyRWxnX085NFNo?oc=5",
+          "title": "Top 5 Metal Surface Finishing Solutions Suppliers in China: Ranked Comparison",
+          "summary": "A new competitive comparison ranks the top metal surface finishing and abrasive-related suppliers in China.",
+          "why": "Helps us monitor key competitor capabilities and sourcing options for industrial surface finishing in Asia.",
+          "action": "Review how Chinese finishing solutions are competing on price and quality in regional markets.",
           "th": {
-            "title": "ตลาดวัสดุขัดเจียรจะเติบโตถึง 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 ด้วยอัตราเติบโต 7.6% หนุนโดยความต้องการงานตกแต่งผิวความแม่นยำสูง",
-            "summary": "ตลาดวัสดุขัดเจียรทั่วโลกคาดว่าจะเติบโตถึง 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 อัตราการเติบโต 7.6% ต่อปี จากความต้องการงานขัดแต่งผิวที่แม่นยำสูงในภาคการผลิต",
-            "why": "ยืนยันว่าตลาดหลักของเรามีแนวโน้มเติบโตต่อเนื่อง ช่วยตอกย้ำกลยุทธ์การเน้นสินค้ากลุ่มเตรียมผิวและขัดเงา",
-            "action": "ตรวจสอบให้แน่ใจว่าสินค้าในพอร์ตมีเกรดงานความแม่นยำสูง เพื่อเจาะกลุ่มอุตสาหกรรมที่ให้กำไรดี"
+            "title": "5 อันดับซัพพลายเออร์โซลูชันตกแต่งพื้นผิวโลหะในจีน: การจัดอันดับเปรียบเทียบ",
+            "summary": "การเปรียบเทียบการแข่งขันจัดอันดับซัพพลายเออร์ด้านการตกแต่งพื้นผิวโลหะและวัสดุขัดชั้นนำในประเทศจีน",
+            "why": "ช่วยให้เราติดตามขีดความสามารถของคู่แข่งหลักและทางเลือกในการจัดซื้อสินค้าตกแต่งพื้นผิวในภูมิภาคเอเชีย",
+            "action": "ตรวจสอบว่าโซลูชันการขัดผิวจากจีนแข่งขันกันด้านราคาและคุณภาพในตลาดภูมิภาคอย่างไร"
           }
         },
         {
           "id": "20261117-w2",
           "tag": "abrasive",
           "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-11-12",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWUx2Q0FlTGVRMDJmR2R2czZ6R0ZoMTI3NHBCQU5ld3N5ZmRzZEZDZGZDSmFFYkxQdjdaUGtoZTRUN2VqNERldk0yZjYyT0IwMk5SZnVQVlZpQ1J3SEloLTJaX3p6clJ6N2ZDME05Vk5TTkpJVjRRUUV5N0JZbVhMXzZicERxQ3hfdmZzU2VBOS1EVHZXcFpyaXlWUUxkZmJwcEdOMU9hSFdpQQ?oc=5",
-          "title": "Synthetic Abrasives Market in India: Size, Trends and Forecast to 2035",
-          "summary": "An analysis of India's synthetic abrasives sector shows steady long-term growth driven by expanding domestic manufacturing and metal fabrication.",
-          "why": "India is a major rising competitor and sourcing hub for industrial raw materials and abrasive grains.",
-          "action": "Monitor South Asian manufacturing hubs for competitive sourcing alternatives and regional pricing trends.",
+          "source": "openPR.com",
+          "date": "2026-10-21",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNGFJajFuQ0J1ZGJza1dDNkQ0MFRlaDV4VFNvbWFKUmZBV2JONGRyVGZxT2ZVRGlwVE5FcmtpbDh4cGJOUHYtRW9obUtmVGtueXFyWnRVdDZ2ZUZtemZyTTl0UXhWbHVvOTJIemd1YkJKaHJwVEU1M0FBMnFRb2NnM0wyLVA0NU1IRlgwWmdsbTNiYnNGU0NDbDRXSQ?oc=5",
+          "title": "Abrasive Grains Market is Expected to Reach USD 9.14 Billion",
+          "summary": "Market research projects strong valuation growth for raw abrasive grains, driven by industrial manufacturing demand.",
+          "why": "Raw grain pricing and availability directly impact our manufacturing costs and profit margins for coated abrasives.",
+          "action": "Anticipate potential raw material cost fluctuations when negotiating with global grain suppliers.",
           "th": {
-            "title": "ตลาดวัสดุขัดสังเคราะห์ในอินเดีย: ขนาด แนวโน้ม และการคาดการณ์ถึงปี 2035",
-            "summary": "การวิเคราะห์ตลาดวัสดุขัดสังเคราะห์ของอินเดียชี้ให้เห็นการเติบโตระยะยาวที่มั่นคง จากการขยายตัวของการผลิตภายในประเทศและงานขึ้นรูปโลหะ",
-            "why": "อินเดียเป็นคู่แข่งและแหล่งจัดหาวัตถุดิบและเม็ดทรายขัดอุตสาหกรรมที่กำลังเติบโตอย่างรวดเร็ว",
-            "action": "ติดตามตลาดการผลิตในเอเชียใต้เพื่อหาทางเลือกในการจัดหาวัตถุดิบและดูแนวโน้มราคา"
+            "title": "ตลาดเม็ดขัด (Abrasive Grains) คาดว่าจะเติบโตถึง 9.14 พันล้านดอลลาร์",
+            "summary": "การวิจัยตลาดคาดการณ์การเติบโตของมูลค่าเม็ดขัดดิบ ซึ่งขับเคลื่อนโดยความต้องการจากภาคการผลิตอุตสาหกรรม",
+            "why": "ราคาและความพร้อมของเม็ดขัดดิบส่งผลโดยตรงต่อต้นทุนการผลิตและอัตรากำไรของผลิตภัณฑ์กระดาษทรายและผ้าทราย",
+            "action": "คาดการณ์ความผันผวนของต้นทุนวัตถุดิบเมื่อเจรจากับซัพพลายเออร์เม็ดขัดทั่วโลก"
           }
         },
         {
           "id": "20261117-w3",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-11-12",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRENWMjAzQzFZMGlvRkZzNUgzRWhscFRzbDRkS2h4ZDlXN0RlTk9HM283MVp5XzIwSjRfeVA1OGVuTUpHYUYzdXFYcmpCNDR2cjlhSUFWS21qU0lCZUZtTWpfWks1Q0J3dlpuMk5SRVpFclNHY0dERms0bUY3WHBuaVhUdUs5V25SemxrTFlaSFJuYjRobjlWTmR3WGhJN3VPSGF3eE45cVl5UQ?oc=5",
-          "title": "Synthetic Abrasives Market in China: Size, Trends and Forecast to 2035",
-          "summary": "China's synthetic abrasives market continues to evolve toward higher-end production to meet stricter industrial standards up to 2035.",
-          "why": "China heavily influences global abrasive grain prices and manufacturing supply chains.",
-          "action": "Track Chinese manufacturer shifts toward specialized synthetic grains as a baseline for regional cost pressures.",
-          "th": {
-            "title": "ตลาดวัสดุขัดสังเคราะห์ในจีน: ขนาด แนวโน้ม และการคาดการณ์ถึงปี 2035",
-            "summary": "ตลาดวัสดุขัดสังเคราะห์ของจีนยังคงพัฒนาไปสู่การผลิตระดับสูงขึ้นเพื่อตอบสนองมาตรฐานอุตสาหกรรมที่เข้มงวดขึ้นถึงปี 2035",
-            "why": "จีนมีอิทธิพลอย่างมากต่อราคากล่อบเม็ดทรายขัดทั่วโลกและห่วงโซ่อุปทานการผลิต",
-            "action": "ติดตามการปรับตัวของผู้ผลิตจีนไปสู่เม็ดทรายสังเคราะห์เฉพาะทาง เพื่อประเมินแรงกดดันด้านต้นทุนในภูมิภาค"
-          }
-        },
-        {
-          "id": "20261117-w4",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-11-11",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdEJFdUVxZ1A4UDJQVEhmQ043cnlQNEExRzgzU3k4Q0dlVHJ2ZGlFYWQ3Vk5RLWZWZ1M2VVIzOHpIX3NCbEI1NE5WVTRkNXFGdlBfb0l4SlN1dEZqMzBoZUxMTGFHQjBUaWdhYk0xY1NNcnBMOU90aXE2Z1Bfa1hLOFVlbDEtNUNGZXM4SGpEV0h6YmZMQzVIMHhoQUMteGNqdnlVRWQ3TGVOMnIwU0VfUGVCMW1tb0JrR2Ixc1M5QQ?oc=5",
-          "title": "Polishing Media Market To 2035: Precision Manufacturing Demand Drives Growth",
-          "summary": "The polishing media market is expanding steadily through 2035, propelled by the need for ultra-smooth surface finishes in precision manufacturing.",
-          "why": "Polishing media are complementary to coated abrasives in finishing lines for metal and automotive parts.",
-          "action": "Evaluate if our accessory or specialized polishing media catalog needs expansion to offer complete surface prep solutions.",
-          "th": {
-            "title": "ตลาดสื่อขัดเงาถึงปี 2035: ความต้องการการผลิตความแม่นยำสูงขับเคลื่อนการเติบโต",
-            "summary": "ตลาดสื่อขัดเงากำลังขยายตัวอย่างต่อเนื่องถึงปี 2035 ขับเคลื่อนด้วยความต้องการพื้นผิวเรียบเนียนพิเศษในงานผลิตที่มีความแม่นยำสูง",
-            "why": "สื่อขัดเงาเป็นสินค้าทดแทนและใช้งานร่วมกับกระดาษทราย/ผ้าทรายในกระบวนการตกแต่งผิวโลหะและชิ้นส่วนยานยนต์",
-            "action": "ประเมินว่าควรขยายหมวดหมู่สื่อขัดเงาพิเศษหรือไม่ เพื่อเสนอโซลูชันการเตรียมผิวที่ครบวงจร"
-          }
-        },
-        {
-          "id": "20261117-w5",
           "tag": "steel",
           "rating": "amber",
-          "source": "S&P Global",
-          "date": "2026-01-12",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
-          "title": "Global steel industry battles surplus supply, protectionism",
-          "summary": "The global steel sector continues to face overcapacity issues and rising trade protectionism, impacting operational margins and output strategies.",
-          "why": "Steel production volume directly correlates with local metal fabrication activity and the consumption of grinding/deburring abrasives.",
-          "action": "Keep close tabs on local steel mill output rates, as surplus steel can lower raw material costs but signal sluggish local fabrication demand.",
+          "source": "Progressive Policy Institute",
+          "date": "2026-09-23",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTeHd1akw0WFVaUWFucjdlRWp1cFBVQjRiRi1rWFd2WlNVRkQzanJJMmpMV3BBM0QxVEF5N2FZcmFMSFNxQ3M1VTQ5c1VJYjhJRVRQQVM3M2tac1FFMGdSSlZ4eTdQdzNINFB1MDR0a09haWhpNkFIVV9aWlA?oc=5",
+          "title": "American Industry Is Using Less Steel",
+          "summary": "Reports indicate a downward shift in domestic steel consumption by industrial sectors in the United States.",
+          "why": "Changes in steel consumption hint at shifts in heavy manufacturing activity, which influences global metal fabrication and deburring demand.",
+          "action": "Monitor downstream metal fabrication trends to spot shifts in regional grinding product demand.",
           "th": {
-            "title": "อุตสาหกรรมเหล็กโลกต่อสู้กับภาวะอุปทานล้นตลาดและลัทธิกีดกันทางการค้า",
-            "summary": "ภาคอุตสาหกรรมเหล็กทั่วโลกยังคงเผชิญกับปัญหากำลังการผลิตส่วนเกินและมาตรการกีดกันทางการค้า ซึ่งส่งผลกระทบต่ออัตรากำไรและแผนการผลิต",
-            "why": "ปริมาณการผลิตเหล็กมีความเชื่อมโยงโดยตรงกับกิจกรรมแปรรูปโลหะในท้องถิ่นและการใช้วัสดุขัด/ลบคม",
-            "action": "ติดตามอัตราการผลิตของโรงงานเหล็กในท้องถิ่นอย่างใกล้ชิด เนื่องจากเหลกล้นตลาดอาจช่วยลดต้นทุนวัตถุดิบแต่สะท้อนความต้องการแปรรูปที่ชะลอตัว"
+            "title": "อุตสาหกรรมอเมริกันใช้เหล็กน้อยลง",
+            "summary": "รายงานระบุถึงแนวโน้มการบริโภคเหล็กภายในประเทศที่ลดลงโดยภาคอุตสาหกรรมในสหรัฐอเมริกา",
+            "why": "การเปลี่ยนแปลงของการใช้เหล็กบ่งบอกถึงความเปลี่ยนแปลงในกิจกรรมการผลิตหนัก ซึ่งส่งผลต่อความต้องการงานแปรรูปโลหะและลบครีบ",
+            "action": "ติดตามแนวโน้มการแปรรูปโลหะปลายน้ำเพื่อมองหาความเปลี่ยนแปลงในความต้องการสินค้ากลุ่มเจียรและขัด"
           }
         }
       ]
