@@ -2,6 +2,71 @@
 window.NEWS_ARCHIVE = {
   "days": [
     {
+      "date": "2026-11-17",
+      "summary": "New developments are limited today, but attention centers on the auto sector as the 35% EV import tariff accelerates local manufacturing commitments while raising concerns over Japanese investment delays.",
+      "directCount": 2,
+      "th": {
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยประเด็นหลักยังคงอยู่ที่อุตสาหกรรมยานยนต์ ซึ่งมาตรการภาษีนำเข้า EV 35% กำลังเร่งให้เกิดการผลิตในประเทศมากขึ้น ขณะที่มีคำเตือนเรื่องการชะลอการลงทุนของค่ายรถยนต์ญี่ปุ่น"
+      },
+      "items": [
+        {
+          "id": "20261117-1",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Thansettakij",
+          "date": "2026-11-16",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50VndFMTVEVEJOQkN2ZEhsN3NFUjNpRGwwQ0wtNkR5SDdGS2hIcldzdGdOaUVGdkFGN0hMYVRmazZvQlhlU2xCRGNyNnZZdnh4UTlfZDJfck9YNnQzMkVWdjJXYTdOal9yYVduVWdn?oc=5",
+          "title": "Experts Warn of Slowing Japanese Investment in Thailand, Urging JTEPA Review Against Chinese Influx",
+          "summary": "Trade experts caution that Japanese automakers are delaying Thai investment due to intense Chinese EV competition and are urging the government to revise the JTEPA framework.",
+          "why": "Japanese manufacturing facilities are our core client base; an investment slowdown could dampen abrasive replenishment orders in Tier-1 and Tier-2 factories.",
+          "action": "Stay closely engaged with Japanese plant purchasing managers while expanding sales outreach to emerging Chinese EV assembly plants.",
+          "th": {
+            "title": "ผู้เชี่ยวชาญเตือนทุนญี่ปุ่นชะลอลงทุนไทย จี้รัฐรื้อภาษี-ทบทวน JTEPA แข่งทุนจีน",
+            "summary": "ผู้เชี่ยวชาญเตือนค่ายรถยนต์ญี่ปุ่นเริ่มชะลอการลงทุนในไทยจากแรงกดดันของ EV จีน พร้อมจี้รัฐบาลทบทวนกรอบความตกลง JTEPA",
+            "why": "โรงงานทุนญี่ปุ่นคือกลุ่มลูกค้าหลักของเรา หากเกิดการชะลอลงทุน อาจกระทบต่อยอดสั่งซื้อวัสดุขัดในสายการผลิตชิ้นส่วนยานยนต์",
+            "action": "ติดตามความเคลื่อนไหวของฝ่ายจัดซื้อโรงงานญี่ปุ่นอย่างใกล้ชิด พร้อมเร่งกระจายความเสี่ยงขยายฐานลูกค้าไปยังโรงงานผลิต EV ฝั่งจีน"
+          }
+        },
+        {
+          "id": "20261117-2",
+          "tag": "auto",
+          "rating": "green",
+          "source": "www.thairath.co.th",
+          "date": "2026-11-09",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GNmpFZTVfcE9MNGRiVnM5cy1hN1VfcWQ4MXpma1I4UG9lNmpFaGlwTG5MSC1HTUdQSmhOa3ROZEZiektXbmVkbS1Pb3ZGWkFUNmZVYmpRVkR1R1lJd29v?oc=5",
+          "title": "BYD and Rêver Back 35% EV Import Tariff to Promote Fair Local Manufacturing",
+          "summary": "BYD and its distributor Rêver supported Thailand's 35% EV tariff, affirming their commitment to ramp up domestic assembly and integrate local supply chains.",
+          "why": "Full-scale local manufacturing at BYD's Rayong assembly lines directly drives factory-floor demand for sheet metal grinding, weld blending, and sanding consumables.",
+          "action": "Pitch specialized weld-grinding and surface preparation discs directly to BYD's assembly plant and its Tier-1 stamping suppliers.",
+          "th": {
+            "title": "BYD และเรเว่ หนุนรัฐเพิ่มภาษีนำเข้ารถ EV 35% สร้างความเป็นธรรมในอุตสาหกรรมยานยนต์",
+            "summary": "BYD และเรเว่แสดงจุดยืนหนุนภาษีนำเข้า EV 35% ยืนยันเดินหน้าตั้งฐานผลิตเต็มรูปแบบและส่งเสริมห่วงโซ่การผลิตในประเทศไทย",
+            "why": "การเดินสายการผลิตเต็มรูปแบบของโรงงาน BYD ในระยองช่วยเพิ่มความต้องการใช้วัสดุขัดรอยเชื่อมและงานเตรียมผิวก่อนพ่นสีโดยตรง",
+            "action": "นำเสนอจานขัดและผ้าทรายคุณภาพสูงสำหรับงานลบรอยเชื่อมให้แก่โรงงานประกอบ BYD และซัพพลายเออร์ปั๊มขึ้นรูปโลหะ Tier-1"
+          }
+        },
+        {
+          "id": "20261117-3",
+          "tag": "auto",
+          "rating": "green",
+          "source": "ผู้จัดการออนไลน์",
+          "date": "2026-11-16",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84Z0RMRlhhV1JPUlVFWDNxaWRDV2NhT2htVFJSV012RmV6bjBZOEpIdTdRUjVkY2ZhRlROSW1KZUJZX2NheV9MVVFpdHE5OWpsZDVmN1l1d3ZDbDFLM0x4Mg?oc=5",
+          "title": "EV Tariff Shift Compels Local Production and Opens Supply Chain to Thai SMEs",
+          "summary": "The government's 35% EV tariff hike is driving automakers to establish domestic assembly bases, opening doors for local SME parts makers to enter the supply chain.",
+          "why": "Increased parts stamping and metal fabrication by local Tier-2 and Tier-3 workshops will directly boost abrasive usage for deburring and edge-finishing.",
+          "action": "Target metal fabrication and stamping SMEs in the Eastern Seaboard with cost-effective flap discs and abrasive belts.",
+          "th": {
+            "title": "ยานยนต์ไทยถึงจุดเปลี่ยน รัฐขึ้นภาษีนำเข้า EV 35% ดึงฐานผลิตมาไทย หนุน SME เข้าถึงห่วงโซ่การผลิต",
+            "summary": "การปรับขึ้นภาษีนำเข้า EV 35% กระตุ้นให้เกิดการตั้งฐานประกอบในประเทศและเปิดโอกาสให้ผู้ผลิตชิ้นส่วน SME ไทยเข้าสู่ห่วงโซ่อุปทาน",
+            "why": "การที่ SME ในประเทศได้รับออเดอร์ผลิตชิ้นส่วนโลหะเพิ่มขึ้น จะส่งผลให้ความต้องการใช้วัสดุขัดลบครีบคมและตกแต่งผิวงานโลหะเติบโตตามไปด้วย",
+            "action": "จัดโปรโมชันและส่งตัวอย่างจานทรายเรียงซ้อนและสายพานผ้าทรายเจาะกลุ่มโรงงานกลึงและปั๊มชิ้นส่วน SME ในแถบ EEC"
+          }
+        }
+      ],
+      "terms": {}
+    },
+    {
       "date": "2026-11-16",
       "summary": "Today's news volume is relatively light, focusing on how the 35% EV tariff will drive local parts manufacturers to restructure and retool. This shift creates direct opportunities for metal deburring and finishing abrasives as factories upgrade lines.",
       "directCount": 1,
@@ -657,90 +722,7 @@ window.NEWS_ARCHIVE = {
         }
       ],
       "terms": {}
-    },
-    {
-      "date": "2026-11-03",
-      "summary": "Today's news flow is relatively light with limited new announcements. Key themes focus on FTI's urgency to protect traditional ICE automotive suppliers, Thai Airways' 150-aircraft fleet expansion driving future MRO needs, and steady export growth in ASEAN furniture manufacturing.",
-      "directCount": 1,
-      "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยภาพรวมเน้นไปที่ข้อเรียกร้องของ ส.อ.ท. ให้เร่งรักษาฐานการผลิตรถยนต์สันดาปเดิม แผนขยายฝูงบิน 150 ลำของการบินไทยที่ช่วยหนุนอุปสงค์งานซ่อมบำรุง MRO ระยะยาว และการเติบโตของยอดส่งออกเฟอร์นิเจอร์ในอาเซียน"
-      },
-      "items": [
-        {
-          "id": "20261103-1",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Thai PBS",
-          "date": "2026-09-09",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjbHhzc2hNZzE2ajcyN0dtNHQzeDd1Mzh6dk1pWmVnbXd3SVA1dWN1QW4wUHdJSkxDb21fWHVJWDEzWVA0aHhwYjRtbWZKSUdHd1JwY2lZc3U?oc=5",
-          "title": "FTI Urges Dual Strategy to Defend Traditional Auto Base While Scaling EV Transition",
-          "summary": "The Federation of Thai Industries emphasizes that Thailand must urgently protect its internal combustion engine (ICE) ecosystem while developing EV supply chains to avert sudden factory shutdowns. Sustaining traditional automakers is vital to safeguard hundreds of domestic Tier-2 and Tier-3 parts manufacturers.",
-          "why": "Preserving ICE production keeps our primary Japanese automotive metal-stamping and machining clients operating at steady abrasive consumption levels.",
-          "action": "Offer cost-down bulk abrasive supply contracts to Japanese Tier-1 and Tier-2 parts makers facing margin pressure.",
-          "th": {
-            "title": "ส.อ.ท. จี้รัฐใช้กลยุทธ์คู่ขนาน เร่งรักษาฐานผลิตรถสันดาปเดิมควบคู่ต่อยอด EV",
-            "summary": "สภาอุตสาหกรรมแห่งประเทศไทยเน้นย้ำว่าไทยต้องเร่งปกป้องระบบนิเวศการผลิตรถยนต์สันดาปภายใน (ICE) ไปพร้อมกับการส่งเสริม EV เพื่อป้องกันการปิดตัวกะทันหันของโรงงานผลิตชิ้นส่วนยานยนต์ในประเทศ",
-            "why": "การรักษาฐานผลิตรถยนต์สันดาปช่วยพยุงยอดการใช้งานวัสดุขัดเจียรในกลุ่มโรงงานปั๊มขึ้นรูปและกลึงโลหะของซัพพลายเออร์ญี่ปุ่นซึ่งเป็นลูกค้าหลักของเรา",
-            "action": "เร่งนำเสนอสัญญาซื้อวัสดุขัดแบบเหมาล็อตราคาประหยัดแก่กลุ่มผู้ผลิตชิ้นส่วน Tier-1 และ Tier-2 เพื่อช่วยลดต้นทุนการผลิต"
-          }
-        },
-        {
-          "id": "20261103-2",
-          "tag": "aero",
-          "rating": "green",
-          "source": "thansettakij",
-          "date": "2026-08-01",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJbG91NDM0Z1ZuZmRPYUc4dlRzSXYwVXRnb1l5dGZyZUJLSDZqUXhOSnVzSXVQeTdRME04Y1c5TVB5SC0wOENDcm9VeDhaT3Fha0ZocE90aEgzNXpNOGVmYklR?oc=5",
-          "title": "Thai Airways Invests 100 Billion Baht to Expand Fleet to 150 Aircraft",
-          "summary": "Thai Airways is executing a massive fleet expansion plan targeting 150 commercial aircraft to reclaim its standing among global airlines. This substantial fleet increase will drastically expand demand for domestic aircraft maintenance, component overhauls, and structural repairs.",
-          "why": "More operational aircraft directly scale up regular MRO cycles requiring specialized surface preparation, paint removal, and composite sanding consumables.",
-          "action": "Initiate technical engagement with Thai Airways Technical Department and certified maintenance subcontractors to test our aerospace-grade finishing discs.",
-          "th": {
-            "title": "การบินไทยทุ่มแสนล้านขยายฝูงบินแตะ 150 ลำ ทวงบัลลังก์สายการบินระดับโลก",
-            "summary": "การบินไทยเดินหน้าแผนขยายฝูงบินครั้งใหญ่สู่ 150 ลำเพื่อเสริมความแข็งแกร่งในการแข่งขันระดับโลก ซึ่งการเพิ่มจำนวนเครื่องบินจะขยายปริมาณงานซ่อมบำรุงและโอเวอร์ฮอลชิ้นส่วนอากาศยานในไทยอย่างมีนัยสำคัญ",
-            "why": "จำนวนเครื่องบินที่เพิ่มขึ้นส่งผลโดยตรงต่อรอบงาน MRO ภายในประเทศ ทำให้มีความต้องการใช้วัสดุขัดเตรียมผิว ลอกสี และขัดแต่งวัสดุผสมเพิ่มขึ้นตามไปด้วย",
-            "action": "ประสานงานฝ่ายช่างการบินไทยและซัพพลายเออร์ศูนย์ซ่อมที่เกี่ยวข้องเพื่อนำเสนอตัวอย่างจานขัดเกรดการบินสำหรับงานทดสอบผิวงาน"
-          }
-        },
-        {
-          "id": "20261103-3",
-          "tag": "furniture",
-          "rating": "amber",
-          "source": "posttoday",
-          "date": "2026-02-20",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxXzVZOHRNaDlMYzJBM2F6S1FPc0Vkcy1Sc2JWRnl1VklJY2ZCSEpsOUJ0RG13b0I1cHBpXzBUOUhlSHdpdV9uV1cyZGJHT2pNaF83cw?oc=5",
-          "title": "ASEAN Furniture Sector Expands as Top Four Exporters Control 90% Regional Share",
-          "summary": "The furniture manufacturing industry across ASEAN continues to expand, with Thailand, Vietnam, Malaysia, and Indonesia capturing over 90% of total regional export value. Thai manufacturers are focusing on premium solid wood and metal-frame designs to maintain export competitiveness.",
-          "why": "Healthy production volumes in wood and metal hybrid furniture generate recurring factory demand for wide sanding belts, flap wheels, and orbital sanding sheets.",
-          "action": "Target top export-grade wood and steel furniture factories with bundled wide sanding belts and fine-finishing paper solutions.",
-          "th": {
-            "title": "อุตสาหกรรมเฟอร์นิเจอร์อาเซียนขยายตัว 4 ชาติหลักกวาดส่วนแบ่งส่งออกกว่า 90%",
-            "summary": "อุตสาหกรรมผลิตเฟอร์นิเจอร์ในภูมิภาคอาเซียนเติบโตต่อเนื่อง โดยไทย เวียดนาม มาเลเซีย และอินโดนีเซียครองส่วนแบ่งการส่งออกรวมกันกว่า 90% ขณะที่ผู้ผลิตไทยเน้นชิ้นงานไม้จริงและโครงโลหะพรีเมียมเพื่อแข่งขันในตลาดโลก",
-            "why": "การผลิตเฟอร์นิเจอร์ไม้ผสมโครงสร้างเหล็กอย่างต่อเนื่องช่วยผลักดันยอดขายสายพานขัดผืนกว้าง ล้อทราย และกระดาษทรายกลมในโรงงานกลุ่มนี้",
-            "action": "เข้าพบโรงงานผลิตเฟอร์นิเจอร์ไม้และเหล็กเพื่อการส่งออก นำเสนอแพ็กเกจสายพานขัดขนาดใหญ่และกระดาษทรายขัดละเอียดสำหรับงานผิวระดับพรีเมียม"
-          }
-        },
-        {
-          "id": "20261103-4",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "TNN",
-          "date": "2026-10-21",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ibmpiM1dkTGVBNUdxUDFEZWphV1Z2aWY3RWd4QVgydzJMNEU5N1l6MUFDTmE2ODFQSDl4OFdScmM0T3lhNGg2TVA1NnE3cDYzdHlFNWZ0eXVNLTZvS3kwVHpZcw?oc=5",
-          "title": "Thailand and Vietnam Compete Heavily for Regional Automotive Hub Dominance",
-          "summary": "Vietnam is rapidly positioning itself as a direct competitor to Thailand's automotive leadership through competitive manufacturing costs and assertive EV investment incentives. Industry analysts highlight that Thailand must modernize its precision machining and parts supply network to preserve its manufacturing advantage.",
-          "why": "Intensifying regional rivalry pushes Thai auto parts stamping and machining shops to adopt automated deburring and higher-efficiency abrasive consumables.",
-          "action": "Promote long-life ceramic abrasive belts and automated robot deburring tools to Thai parts factories seeking productivity enhancements.",
-          "th": {
-            "title": "ไทย–เวียดนาม เปิดศึกท้าชิงศูนย์กลางอุตสาหกรรมยานยนต์ระดับภูมิภาค",
-            "summary": "เวียดนามกำลังก้าวขึ้นมาเป็นคู่แข่งสำคัญของไทยในการเป็นศูนย์กลางการผลิตยานยนต์ ด้วยต้นทุนแรงงานและมาตรการส่งเสริมการลงทุน EV เชิงรุก ทำให้นักวิเคราะห์เตือนว่าไทยต้องเร่งยกระดับความแม่นยำของห่วงโซ่ผลิตชิ้นส่วนเพื่อรักษาความได้เปรียบ",
-            "why": "การแข่งขันที่เข้มข้นขึ้นผลักดันให้โรงงานชิ้นส่วนยานยนต์ในไทยต้องปรับปรุงประสิทธิภาพการผลิต ลดต้นทุน และหันมาใช้วัสดุขัดลบครีบที่มีความทนทานสูง",
-            "action": "เร่งโปรโมตสายพานขัดเซรามิกอายุการใช้งานยาวนานและอุปกรณ์ลบครีบสำหรับแขนกลอัตโนมัติแก่โรงงานชิ้นส่วนที่ต้องการเพิ่มผลผลิต"
-          }
-        }
-      ],
-      "terms": {}
     }
   ],
-  "updated": "2026-11-16"
+  "updated": "2026-11-17"
 };
