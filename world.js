@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-11-18",
-      "summary": "Today's briefing focuses on global manufacturing shifts, including Graphene coating market developments, Chinese EV industry consolidation, and surplus steel headwinds.",
-      "directCount": 3,
+      "summary": "Today's intelligence highlights structural shifts in precision manufacturing demand, steel industry trade pressures tied to CBAM regulations, and the evolution of smart factory automation in automotive production. These trends signal steady demand for high-end abrasive finishing despite broader industrial cost pressures.",
+      "directCount": 4,
       "th": {
-        "summary": "สรุปข่าวสารประจำวันเน้นการเปลี่ยนแปลงในภาคการผลิตระดับโลก ทั้งตลาดสารเคลือบกราฟีน การควบรวมกิจการในอุตสาหกรรม EV ของจีน และภาวะล้นตลาดของอุตสาหกรรมเหล็ก"
+        "summary": "สรุปข้อมูลเชิงลึกประจำวันนี้เน้นย้ำการเปลี่ยนแปลงเชิงโครงสร้างในความต้องการการผลิตที่มีความแม่นยำ แรงกดดันด้านการค้าในอุตสาหกรรมเหล็กที่เชื่อมโยงกับกฎระเบียบ CBAM และการพัฒนาของระบบอัตโนมัติในโรงงานอัจฉริยะสำหรับการผลิตยานยนต์ แนวโน้มเหล่านี้บ่งชี้ถึงความต้องการที่มั่นคงสำหรับผลิตภัณฑ์ขัดตกแต่งผิวระดับไฮเอนด์ แม้จะเผชิญกับแรงกดดันด้านต้นทุนทางอุตสาหกรรมโดยรวม"
       },
       "items": [
         {
           "id": "20261118-w1",
-          "tag": "coating",
+          "tag": "abrasive",
           "rating": "green",
-          "source": "Grand View Research",
-          "date": "2025-01-20",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWFBnYWlSdVI1UzZJbzBQMHZTbm9BLV9fVW5tQm1yczhTMjEybkVIeXFBQnRtT2lMVVM0T0gzODJMOXNCbFd2OUxpTUdiMVVyTThDNV9CVXJzd2Q2ejJsQlNkNk1vVVUtVmJkd2F4b2EwYVF5RVcyRjhuMHRFaGlvc3BSTzZJRVYyQ2c?oc=5",
-          "title": "Graphene Coating Market Size & Share Report, 2025-2030",
-          "summary": "The graphene coating market is expanding rapidly, driven by demand for ultra-durable, high-performance surface protections in industrial and automotive sectors.",
-          "why": "Advanced coatings like graphene require specialized, highly precise surface preparation and sanding before and between application layers.",
-          "action": "Monitor high-performance surface preparation requirements for advanced coatings.",
+          "source": "IndexBox",
+          "date": "2026-11-11",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdEJFdUVxZ1A4UDJQVEhmQ043cnlQNEExRzgzU3k4Q0dlVHJ2ZGlFYWQ3Vk5RLWZWZ1M2VVIzOHpIX3NCbEI1NE5WVTRkNXFGdlBfb0l4SlN1dEZqMzBoZUxMTGFHQjBUaWdhYk0xY1NNcnBMOU90aXE2Z1Bfa1hLOFVlbDEtNUNGZXM4SGpEV0h6YmZMQzVIMHhoQUMteGNqdnlVRWQ3TGVOMnIwU0VfUGVCMW1tb0JrR2Ixc1M5QQ?oc=5",
+          "title": "Polishing Media Market To 2035: Precision Manufacturing Demand Drives Growth",
+          "summary": "The global polishing media market is experiencing sustained growth propelled by rising demand for high-precision manufacturing across electronics, medical devices, and advanced engineering.",
+          "why": "Directly impacts our core business area of surface preparation and polishing consumables by indicating long-term growth in precision sectors.",
+          "action": "Monitor advanced polishing media trends and ensure our product lineup supports high-precision engineering standards.",
           "th": {
-            "title": "รายงานขนาดและส่วนแบ่งตลาดสารเคลือบกราฟีน ปี 2025-2030",
-            "summary": "ตลาดสารเคลือบกราฟีนกำลังเติบโตอย่างรวดเร็ว เนื่องจากความต้องการการปกป้องพื้นผิวที่มีความทนทานสูงในภาคอุตสาหกรรมและยานยนต์",
-            "why": "สารเคลือบขั้นสูงอย่างกราฟีนต้องอาศัยการเตรียมพื้นผิวและการขัดที่แม่นยำสูง ทั้งก่อนและระหว่างขั้นตอนการเคลือบ",
-            "action": "ติดตามความต้องการด้านการเตรียมพื้นผิวประสิทธิภาพสูงสำหรับสารเคลือบยุคใหม่"
+            "title": "ตลาดสื่อขัดเงาถึงปี 2035: ความต้องการการผลิตที่มีความแม่นยำขับเคลื่อนการเติบโต",
+            "summary": "ตลาดสื่อขัดเงาทั่วโลกกำลังเติบโตอย่างต่อเนื่อง ขับเคลื่อนโดยความต้องการที่เพิ่มขึ้นสำหรับการผลิตที่มีความแม่นยำสูงในอุตสาหกรรมอิเล็กทรอนิกส์ เครื่องมือแพทย์ และวิศวกรรมขั้นสูง",
+            "why": "ส่งผลโดยตรงต่อธุรกิจหลักของเราในด้านวัสดุสิ้นเปลืองสำหรับการเตรียมพื้นผิวและการขัดเงา โดยบ่งชี้ถึงการเติบโตในระยะยาวในกลุ่มอุตสาหกรรมที่มีความแม่นยำสูง",
+            "action": "ติดตามแนวโน้มของสื่อขัดเงาขั้นสูงและตรวจสอบให้แน่ใจว่าสินค้าของเราสนับสนุนมาตรฐานวิศวกรรมความแม่นยำสูง"
           }
         },
         {
           "id": "20261118-w2",
-          "tag": "auto",
+          "tag": "steel",
           "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-10-28",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMExMd0h3VTZZUGVhTmVoNENZT0RDYkZhOFlTUzZUd3RmT0RNRGJKVjlQVTBmRnkwa21iZEl6ZlNJYmIzVTjjQzU1eGhrcTFPOHhNQWRlSWVWaDlwR2FIVGZmSWJlQk00ZmNRUE5oc1owOGtPSzM2QzNCY0R4YXJNdjdwWExHVzNDM1JXSGRpMnNTdHQ1QXdnWlk2MFlFc21GRXd5QjVVYVItalFMN2hjZmZqZi1nd2I5aVBhYlRhbTQ?oc=5",
-          "title": "China's car industry consolidation begins: who will survive?",
-          "summary": "China's automotive sector is entering a consolidation phase, forcing manufacturers to focus on efficiency, automation, and cost control.",
-          "why": "Fewer, stronger automakers will demand higher quality consistency and automated robotic sanding and finishing solutions.",
-          "action": "Prepare for stricter vendor qualification and higher automation demands from tier-1 automotive suppliers.",
+          "source": "S&P Global",
+          "date": "2026-01-07",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSDJTcGFGbUFvRm15ZDhrczNqYkRzbHlXMTJZTHJpUF9CTjRHaTNXak4tdVBkbnBWcnNrRDRneXpBd1Z5SUJGSFZWTzJMNWhfcVl5czkzR0lSSjd4aTJzMTg3N2FWM3pHQ2NxbHg2dEp2ckNiNC16cWdJZ0t3anl3TzlUYldVajhqM05JQVEyWWdZYVdaYkEzZUpvUEJGdHAxXzRKdDRnNG1pQl9LaEN6Q0lpbFpPMTBOeElqT3V2NUdUSlJJNjZWOEpiMWc?oc=5",
+          "title": "Europe's steel industry faces its 2026 reckoning with CBAM",
+          "summary": "European steel producers are confronting strict carbon border adjustment mechanisms (CBAM), forcing operational adjustments and cost pressures throughout the supply chain.",
+          "why": "Steel mill operating costs and export pressures heavily influence metal fabrication output, which directly dictates regional abrasive consumption.",
+          "action": "Keep an eye on European steel trade shifts and how stricter environmental compliance impacts local metal processing volumes.",
           "th": {
-            "title": "การควบรวมกิจการในอุตสาหกรรมรถยนต์ของจีนเริ่มต้นขึ้นแล้ว: ใครจะอยู่รอด?",
-            "summary": "ภาคยานยนต์ของจีนกำลังเข้าสู่ช่วงการควบรวม ซึ่งบีบให้ผู้ผลิตต้องเน้นเรื่องความคุ้มค่า ระบบอัตโนมัติ และการควบคุมต้นทุน",
-            "why": "ผู้ผลิตรถยนต์ที่เหลือรอดและแข็งแกร่งขึ้นจะต้องการความสม่ำเสมอของคุณภาพและโซลูชันการขัดผิวด้วยระบบอัตโนมัติ",
-            "action": "เตรียมพร้อมรับมือกับเกณฑ์การคัดเลือกผู้ขายที่เข้มงวดขึ้นและความต้องการระบบอัตโนมัติจากซัพพลายเออร์ยานยนต์"
+            "title": "อุตสาหกรรมเหล็กของยุโรปเผชิญหน้ากับการตัดสินใจครั้งสำคัญในปี 2026 ด้วยมาตรการ CBAM",
+            "summary": "ผู้ผลิตเหล็กในยุโรปกำลังเผชิญกับมาตรการปรับคาร์บอนก่อนข้ามพรมแดน (CBAM) ที่เข้มงวด ส่งผลให้ต้องปรับเปลี่ยนการดำเนินงานและเผชิญแรงกดดันด้านต้นทุนทั่วทั้งห่วงโซ่อุปทาน",
+            "why": "ต้นทุนการดำเนินงานของโรงงานเหล็กและแรงกดดันด้านการส่งออกมีอิทธิพลอย่างมากต่อผลผลิตการขึ้นรูปโลหะ ซึ่งเป็นตัวกำหนดปริมาณการใช้ผลิตภัณฑ์ขัดในภูมิภาคโดยตรง",
+            "action": "จับตาดูความเปลี่ยนแปลงทางการค้าเหล็กของยุโรปและผลกระทบของกฎระเบียบด้านสิ่งแวดล้อมที่เข้มงวดขึ้นต่อปริมาณการแปรรูปโลหะในท้องถิ่น"
           }
         },
         {
           "id": "20261118-w3",
-          "tag": "steel",
-          "rating": "green",
-          "source": "S&P Global",
-          "date": "2026-01-12",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
-          "title": "Global steel industry battles surplus supply, protectionism",
-          "summary": "The international steel market continues to struggle with oversupply issues and rising trade protectionism measures across key regions.",
-          "why": "Excess steel production impacts metal fabrication margins and changes local sourcing patterns for grinding and deburring consumables.",
-          "action": "Keep close tabs on local metal fabrication activity and offer cost-effective deburring solutions to steel service centers.",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-11-06",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPU0NJV1VEcllWeWRPU21VOHlULVpnYWR2ZXVmMk5QSHVZNHFYRC1nN2hlUnJ5VmdXNl9LWmRPTmR2X1lzRlBqcl8tOTZxdE9pNkVTRG14R2NpRHIxNTQ2S2NWcGxQeGF5bWxHdGFxWEN5em12c09Wb1piMnlUejBGc08xemxCQjZUd0llY2k4MmxfVUlkaHlIN21FQ1RPeVl2a3YyZ1BZSE4zeVhHWUVFemF6R3ZyR0lLa0lEMUY1R0k3T0ZlblpKZUFKVEFYV3ZDYlZNQTZYSDRYVjRvSjVLSkE2RTlzdl9tNEctT2JWblVNYndVZnNJeg?oc=5",
+          "title": "Register now: Smart factory trends and lessons for 2027: Flexibility, AI and global competitiveness",
+          "summary": "Automotive manufacturers are accelerating digital transformation, focusing on flexible automation and AI integration to stay globally competitive amid shifting market demands.",
+          "why": "Smart factory adoption changes how component finishing, deburring, and robotic sanding cells are specified in modern automotive tier suppliers.",
+          "action": "Explore how automated robotic sanding and grinding solutions are being integrated into smart manufacturing setups.",
           "th": {
-            "title": "อุตสาหกรรมเหล็กโลกเผชิญศึกภาวะล้นตลาดและลัทธิกีดกันทางการค้า",
-            "summary": "ตลาดเหล็กค้าระหว่างประเทศยังคงเผชิญกับปัญหาส่วนเกินการผลิตและมาตรการกีดกันทางการค้าที่เพิ่มขึ้นในหลายภูมิภาค",
-            "why": "ภาวะล้นตลาดเหล็กส่งผลต่ออัตรากำไรของผู้ผลิตชิ้นงานโลหะ และเปลี่ยนรูปแบบการจัดซื้อวัสดุสิ้นเปลืองสำหรับงานขัดและลบคม",
-            "action": "ติดตามกิจกรรมการแปรรูปโลหะในท้องถิ่นอย่างใกล้ชิด และนำเสนอโซลูชันการลบคมที่คุ้มค่าให้กับศูนย์บริการเหล็ก"
+            "title": "ลงทะเบียนตอนนี้: แนวโน้มโรงงานอัจฉริยะและบทเรียนสำหรับปี 2027: ความยืดหยุ่น AI และความสามารถในการแข่งขันระดับโลก",
+            "summary": "ผู้ผลิตยานยนต์กำลังเร่งการเปลี่ยนแปลงทางดิจิทัล โดยมุ่งเน้นที่ระบบอัตโนมัติที่มีความยืดหยุ่นและการบูรณาการ AI เพื่อรักษาความสามารถในการแข่งขันระดับโลกท่ามกลางความต้องการของตลาดที่เปลี่ยนไป",
+            "why": "การนำโรงงานอัจฉริยะมาใช้เปลี่ยนวิธีการกำหนดสเปกของงานขัดตกแต่งผิว การลบคม และเซลล์ขัดด้วยหุ่นยนต์ในกลุ่มผู้ผลิตชิ้นส่วนยานยนต์สมัยใหม่",
+            "action": "สำรวจวิธีการบูรณาการโซลูชันการขัดและเจียรด้วยหุ่นยนต์อัตโนมัติเข้ากับการตั้งค่าการผลิตอัจฉริยะ"
           }
         }
       ]
