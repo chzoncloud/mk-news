@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-11-17",
+  "updated": "2026-11-18",
   "days": [
+    {
+      "date": "2026-11-18",
+      "summary": "Today's briefing highlights precision manufacturing growth in polishing media, European coatings evolution focused on sustainability and digital integration, and industrial coatings market shifts. These trends reflect increasing global demand for high-tolerance surface finishing.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปประเด็นข่าววันนี้เน้นการเติบโตของการผลิตที่มีความแม่นยำสูงในกลุ่มวัสดุขัดเงา วิวัฒนาการสารเคลือบยุโรปที่เน้นความยั่งยืนและดิจิทัล รวมถึงการเปลี่ยนแปลงในตลาดสารเคลือบอุตสาหกรรม ซึ่งสะท้อนถึงความต้องการระดับโลกที่เพิ่มขึ้นสำหรับการเตรียมผิวชิ้นงานที่มีความละเอียดสูง"
+      },
+      "items": [
+        {
+          "id": "20261118-w1",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-11-11",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdEJFdUVxZ1A4UDJQVEhmQ043cnlQNEExRzgzU3k4Q0dlVHJ2ZGlFYWQ3Vk5RLWZWZ1M2VVIzOHpIX3NCbEI1NE5WVTRkNXFGdlBfb0l4SlN1dEZqMzBoZUxMTGFHQjBUaWdhYk0xY1NNcnBMOU90aXE2Z1Bfa1hLOFVlbDEtNUNGZXM4SGpEV0h6YmZMQzVIMHhoQUMteGNqdnlVRWQ3TGVOMnIwU0VfUGVCMW1tb0JrR2Ixc1M5QQ?oc=5",
+          "title": "Polishing Media Market To 2035: Precision Manufacturing Demand Drives Growth",
+          "summary": "The global polishing media market is experiencing sustained growth driven by rising demand for high-precision manufacturing across various industries.",
+          "why": "Directly correlates with our core abrasives and surface finishing business, indicating strong long-term demand for precision smoothing and polishing tools.",
+          "action": "Ensure stable sourcing for high-precision polishing media and technical abrasives to capture upcoming industrial upgrade demand.",
+          "th": {
+            "title": "ตลาดสื่อขัดเงาถึงปี 2035: ความต้องการด้านการผลิตที่มีความแม่นยำสูงขับเคลื่อนการเติบโต",
+            "summary": "ตลาดสื่อขัดเงาทั่วโลกเติบโตอย่างต่อเนื่องจากความต้องการชิ้นส่วนอุตสาหกรรมที่ต้องมีความแม่นยำสูง",
+            "why": "มีความเกี่ยวข้องโดยตรงกับธุรกิจวัสดุขัดและตกแต่งผิวของเรา ซึ่งบ่งชี้ถึงความต้องการอุปกรณ์ขัดและขัดเงาความละเอียดสูงในระยะยาว",
+            "action": "รักษาเสถียรภาพแหล่งจัดหาสื่อขัดและวัสดุขัดผิวความแม่นยำสูง เพื่อรองรับความต้องการอัปเกรดอุตสาหกรรม"
+          }
+        },
+        {
+          "id": "20261118-w2",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "European Coatings",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
+          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
+          "summary": "The coatings sector is advancing rapidly through eco-friendly materials, digitalized manufacturing processes, and next-generation surface protection tech.",
+          "why": "Surface coatings and abrasives go hand in hand; prep work changes when new high-performance coatings are applied to metals and woods.",
+          "action": "Monitor how new coating technologies affect surface preparation and roughness requirements for industrial clients.",
+          "th": {
+            "title": "กำหนดอนาคตใหม่แห่งวงการเคลือบผิว: นวัตกรรม ความยั่งยืน และพลังแห่งดิจิทัล",
+            "summary": "อุตสาหกรรมสารเคลือบกำลังพัฒนาอย่างรวดเร็วผ่านวัสดุกรินรักษ์สิ่งแวดล้อม กระบวนการผลิตดิจิทัล และเทคโนโลยีปกป้องผิว",
+            "why": "งานเคลือบผิวและวัสดุขัดต้องใช้คู่กัน ความต้องการเตรียมผิวจะเปลี่ยนไปตามประเภทของสารเคลือบสมรรถนะสูงที่ใช้กับโลหะและไม้",
+            "action": "ติดตามว่าเทคโนโลยีสารเคลือบใหม่ๆ ส่งผลอย่างไรต่อข้อกำหนดการเตรียมผิวและความหยาบของชิ้นงานสำหรับลูกค้าอุตสาหกรรม"
+          }
+        },
+        {
+          "id": "20261118-w3",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "Coatings World",
+          "date": "2025-12-10",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVDFJcHBGVXhXMm1MR1R0QkJ4VkNDdnZvcjh2bzJkX1hJYUdJQ1pyOFIxRzVPUXZGUDRheEVHaVhweG14Smk5Z3FCbjhadTM4RnIzLXkxMnBWX3p2UU4ya3dxNXFocWJWd1EyUHhjeEFOWGdwWW1LcllXTFdyUVNEMkxmRGdoblpuc2w5V2RNei0xZmM1S1p5bExhX1otTFBMY0RtbA?oc=5",
+          "title": "Innovation and Technology to Drive Future of European Market",
+          "summary": "European market analysts emphasize that advanced manufacturing technologies and material science innovations will dictate future industrial coating standards.",
+          "why": "Higher standards in surface finishing and coatings often require superior abrasive belts and discs to achieve exact pre-treatment specs.",
+          "action": "Keep an eye on European quality standards as benchmarks for high-end industrial customers in our region.",
+          "th": {
+            "title": "นวัตกรรมและเทคโนโลยีขับเคลื่อนอนาคตตลาดในยุโรป",
+            "summary": "นักวิเคราะห์ตลาดระบุว่าเทคโนโลยีการผลิตขั้นสูงและนวัตกรรมวัสดุศาสตร์จะเป็นตัวกำหนดมาตรฐานสารเคลือบอุตสาหกรรมในอนาคต",
+            "why": "มาตรฐานการตกแต่งผิวและสารเคลือบที่สูงขึ้น มักจะต้องใช้กระดาษทรายสายพานหรือแผ่นขัดที่มีคุณภาพสูงเพื่อให้ได้สเปคการเตรียมผิวที่แม่นยำ",
+            "action": "จับตาดูมาตรฐานคุณภาพจากยุโรปเพื่อใช้เป็นบรรทัดฐานสำหรับกลุ่มลูกค้าอุตสาหกรรมระดับบนในภูมิภาคของเรา"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-11-17",
       "summary": "Today's briefing focuses on global metal finishing solutions and abrasive grain market expansions, highlighting growth opportunities in surface prep technologies.",
@@ -830,70 +894,6 @@ window.WORLD_ARCHIVE = {
             "summary": "ตลาดเหล็กค้าระหว่างประเทศกำลังเผชิญกับปัญหาส่วนเกินการผลิตที่เรื้อรังและลัทธิกีดกันทางการค้าที่เพิ่มขึ้น ซึ่งบังคับให้ผู้ผลิตต้องปรับกลยุทธ์ระดับภูมิภาค",
             "why": "ความผันผวนของปริมาณการผลิตเหล็กและการเปลี่ยนแปลงของผลผลิตในแต่ละภูมิภาค ส่งผลโดยตรงต่อภาคการแปรรูปโลหะและการผลิตในท้องถิ่นซึ่งเป็นผู้ใช้ผลิตภัณฑ์วัสดุขัดของเรา",
             "action": "รักษาระดับสินค้าคงคลังให้มีความยืดหยุ่น เพื่อตอบสนองต่อการปรับเปลี่ยนการผลิตในโรงงานโลหะท้องถิ่นที่ได้รับผลกระทบจากสถานการณ์เหล็กนำเข้าได้อย่างรวดเร็ว"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-11-04",
-      "summary": "Today's briefing focuses on global growth in coated abrasives, precision-driven blue ceramic abrasive demand, and EV production tech shifts that impact metal and surface finishing.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปข่าววันนี้เน้นการเติบโตของตลาดกระดาษทรายสายพานและแผ่นขัด ความต้องการเม็ดทรายเซรามิกสีฟ้าสำหรับงานขัดความแม่นยำสูง และการเปลี่ยนแปลงเทคโนโลยีการผลิต EV ที่ส่งผลต่ออุตสาหกรรมโลหะและการเตรียมพื้นผิว"
-      },
-      "items": [
-        {
-          "id": "20261104-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-11-02",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeWRrVkJoSERZcnUtUTVYNjFlRDRXeVAzeF9YLVJoU0RtQXEwVXIzNnA4dlYtWmplVGpqSlJxVVM4czVXMGRfUjZub3JFSHVXaWV3QXJtRF9yLVBKOHNiaHNSZERmMndyX3dvZ0ticFVWNEhhV2JUUVktUXM0Ylc1Q0tPanhMVXhYR2tKM24tcmpZbW9uRjNzRVR3eUkzNUtfM2NIYS1NRVFiVUw0SVFZLVRuTV9kaTExMWN0V3RQT0pOekgwZDg1c0l2SkZMMXdkZEFvUVJB?oc=5",
-          "title": "Blue Ceramic Abrasive Market To 2035: Precision Grinding Demand Supports Forward Growth",
-          "summary": "The global market for blue ceramic abrasives is expanding through 2035, heavily supported by rising demand for high-precision grinding applications in heavy industries.",
-          "why": "Blue ceramic grains represent the high-performance tier of abrasives. Knowing this demand helps us position premium ceramic sanding products against standard aluminum oxide.",
-          "action": "Consider highlighting ceramic grain durability in upcoming B2B marketing campaigns.",
-          "th": {
-            "title": "ตลาดวัสดุขัดเซรามิกสีฟ้าถึงปี 2035: ความต้องการงานขัดความแม่นยำสูงหนุนการเติบโต",
-            "summary": "ตลาดวัสดุขัดเซรามิกสีฟ้าทั่วโลกกำลังขยายตัวถึงปี 2035 โดยได้รับแรงหนุนหลักจากความต้องการงานขัดความแม่นยำสูงในอุตสาหกรรมหนัก",
-            "why": "เม็ดทรายเซรามิกสีฟ้าคือเกรดพรีเมียม การรู้แนวโน้มนี้ช่วยให้เรานำเสนอผลิตภัณฑ์กระดาษทรายเซรามิกเกรดสูงเพื่อแข่งขันกับอะลูมิเนียมออกไซด์ทั่วไปได้",
-            "action": "พิจารณาเน้นจุดเด่นด้านความทนทานของเม็ดทรายเซรามิกในการทำตลาด B2B เร็วๆ นี้"
-          }
-        },
-        {
-          "id": "20261104-w2",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "EIN News",
-          "date": "2026-10-19",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM2VsRTlqVWR6dlpoUXpZQ04wNnJsRUNBbndKSnNQODIyUXdnTTlIT0hZMC10bGhEUUk0clZ5ZWZRN0I2eVhiVHVPVmRYd05xWUdJdDJldTBsTkZEUVNBNG5qaE9WeXdDN2dSVzJ2TzNsVFhBNVMzakhwZFR6Z0dQeFFVS0ZPa0dmWmh1dHhiYXVXWWRrbk9XS251Ul9SVS1SZ3NON0VXRWxfOWtzazlNcXhUMVBnU2liODhqaXF6OEdGb2NEYkRoaG9uNmx6MlNjMUd2N3Q0emZnUXltZk1wbg?oc=5",
-          "title": "Abrasives Market to Reach $72.2 Billion by 2030, Growing at a 7.6% CAGR Driven by Precision Finishing Demand",
-          "summary": "The global abrasives market is projected to hit $72.2 billion by 2030, growing at a robust 7.6% annual rate driven by strict surface finishing requirements.",
-          "why": "Validates that our core industry sector is growing steadily, reinforcing long-term B2B procurement and inventory planning strategies.",
-          "action": "Align 2027 inventory forecasts with steady mid-term market expansion in finishing supplies.",
-          "th": {
-            "title": "ตลาดวัสดุขัดจะแตะ 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 เติบโต 7.6% หนุนด้วยความต้องการงานตกแต่งผิว",
-            "summary": "ตลาดวัสดุขัดทั่วโลกคาดว่าจะพุ่งถึง 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 เติบโตต่อเนื่องด้วยอัตรา 7.6% ต่อปี จากข้อกำหนดงานเตรียมพื้นผิวที่เข้มงวด",
-            "why": "ยืนยันว่าอุตสาหกรรมหลักของเรากำลังเติบโตอย่างมั่นคง ซึ่งช่วยเสริมกลยุทธ์การจัดซื้อและการวางแผนสต็อกสินค้า B2B ในระยะยาว",
-            "action": "ปรับการคาดการณ์สต็อกสินค้าปี 2027 ให้สอดคล้องกับการเติบโตของตลาดอุปกรณ์ขัด"
-          }
-        },
-        {
-          "id": "20261104-w3",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2025-12-18",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOd3VqZU9yUXhKVmFVYkZ0OEJHaHZBRllYU3laaUZOXzh2OGZXSVdMVDJyZm5YV2Z0UlVEN0xhdURNOHZsQ2U2U2ZzRjRpcUJ3UUxqcVV3cFNucm9tcVpYQjdTN3ZxNjRZcy1aOVpuMk1FTWFsYU45UWw4V2N2NGgzeVJ6YWNscmk3OUJsRkhXNmFoMmVmdnZ2SGVFSEFiYUFXVzNXSmN0UGYtMEM1S0Y0YmQzeTJlR0VMYmJGUjdqaGdVQ3Zx?oc=5",
-          "title": "How automation and AI are powering Xpeng's EV production",
-          "summary": "Leading EV makers are integrating AI and advanced automation into factory assembly lines to boost efficiency and manufacturing precision.",
-          "why": "Automated EV production lines require robotic sanding, automated deburring, and consistent high-end abrasive discs rather than manual labor.",
-          "action": "Monitor demand trends for automated robotic sanding media compatible with factory arms.",
-          "th": {
-            "title": "ระบบอัตโนมัติและ AI ขับเคลื่อนการผลิตรถยนต์ EV ของ Xpeng อย่างไร",
-            "summary": "ผู้ผลิตรถยนต์ EV ชั้นนำกำลังผสาน AI และระบบอัตโนมัติขั้นสูงเข้ากับสายการผลิตในโรงงาน เพื่อเพิ่มประสิทธิภาพและความแม่นยำในการประกอบ",
-            "why": "สายการผลิต EV อัตโนมัติจำเป็นต้องใช้หุ่นยนต์ขัดกระดาษทราย ระบบลบคมอัตโนมัติ และแผ่นขัดคุณภาพสูงที่สม่ำเสมอ แทนการใช้แรงงานคน",
-            "action": "ติดตามแนวโน้มความต้องการวัสดุขัดสำหรับระบบหุ่นยนต์อัตโนมัติที่รองรับแขนกลในโรงงาน"
           }
         }
       ]
