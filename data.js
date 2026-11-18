@@ -2,6 +2,71 @@
 window.NEWS_ARCHIVE = {
   "days": [
     {
+      "date": "2026-11-18",
+      "summary": "Today's fresh news flow is limited. The key developments highlight risks of Japanese investment slowing down in Thailand alongside BOI talks with six Japanese automakers to retain production, plus ongoing funding progress for the U-Tapao aerospace MRO hub.",
+      "directCount": 1,
+      "th": {
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก ประเด็นสำคัญอยู่ที่สัญญาณเตือนทุนญี่ปุ่นชะลอตัวในไทยจนบีโอไอต้องเร่งเจรจา 6 ค่ายรถยนต์ญี่ปุ่นเพื่อดึงเม็ดเงินผลิตในประเทศ พร้อมความคืบหน้าการระดมทุนศูนย์ซ่อมบำรุงอากาศยาน (MRO) อู่ตะเภาของ EECO"
+      },
+      "items": [
+        {
+          "id": "20261118-1",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Thansettakij",
+          "date": "2026-11-16",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50VndFMTVEVEJOQkN2ZEhsN3NFUjNpRGwwQ0wtNkR5SDdGS2hIcldzdGdOaUVGdkFGN0hMYVRmazZvQlhlU2xCRGNyNnZZdnh4UTlfZDJfck9YNnQzMkVWdjJXYTdOal9yYVduVWdn?oc=5",
+          "title": "Experts Warn of Japanese Capital Slowdown in Thailand, Urging JTEPA Review to Counter Chinese Influx",
+          "summary": "Trade analysts caution that Japanese manufacturing investment in Thailand is stalling due to aggressive Chinese competition, urging authorities to overhaul bilateral trade agreements and local tax incentives.",
+          "why": "Japanese tier-1 and tier-2 parts makers are MK's primary customer base; any operational cutbacks directly soften repeat abrasive orders.",
+          "action": "Offer cost-reduction abrasive trials to retain Japanese accounts while actively qualifying supply pipelines with emerging Chinese EV sub-tier fabricators.",
+          "th": {
+            "title": "ผู้เชี่ยวชาญเตือนทุนญี่ปุ่นชะลอลงทุนไทย จี้รัฐรื้อภาษี-ทบทวน JTEPA แข่งทุนจีน",
+            "summary": "นักวิเคราะห์การค้าเตือนว่าการลงทุนภาคการผลิตของญี่ปุ่นในไทยเริ่มชะลอตัวหลังเผชิญการแข่งขันอย่างหนักจากทุนจีน พร้อมเสนอให้รัฐปรับโครงสร้างภาษีและทบทวนข้อตกลง JTEPA",
+            "why": "โรงงานผลิตชิ้นส่วนยานยนต์และโลหะทุนญี่ปุ่นคือกลุ่มลูกค้าหลักของ MK หากกลุ่มนี้ชะลอตัวจะกระทบยอดสั่งซื้อวัสดุขัดซ้ำโดยตรง",
+            "action": "นำเสนอโปรแกรมทดสอบวัสดุขัดเพื่อช่วยโรงงานญี่ปุ่นลดต้นทุน พร้อมเร่งขยายตลาดเข้าสู่ซัพพลายเออร์ชิ้นส่วนของค่ายรถจีนรายใหม่"
+          }
+        },
+        {
+          "id": "20261118-2",
+          "tag": "auto",
+          "rating": "green",
+          "source": "LINE TODAY",
+          "date": "2026-11-09",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DSTJFc2RNQ0hNN2pCZVFld3d4ZkZqdV8tWDF6UW42UEN6bVBYRS05WnkxNjE3MnVnbWN4NXNuV1djUk9iTU5wTTUtRkdnTzB0TjB6WS1R?oc=5",
+          "title": "BOI Leverages 35% EV Tariff to Secure 40-Billion-Baht Investment in Talks with 6 Japanese Automakers",
+          "summary": "The Board of Investment supports the 35% tariff on imported EVs to drive local assembly, preparing discussions with six Japanese automakers to attract over 40 billion baht in domestic plant investments.",
+          "why": "Securing factory assembly investments from Japanese automakers directly safeguards domestic metal stamping, welding, and deburring abrasive consumption.",
+          "action": "Map parts suppliers connected to these six targeted Japanese automakers and pitch specialized grinding and sanding solutions.",
+          "th": {
+            "title": "บีโอไอหนุนขึ้นภาษี EV นำเข้า 35% ดันค่ายรถตั้งฐานผลิต ดึงลงทุนทะลุ 4 หมื่นล้านจ่อถก 6 บิ๊กญี่ปุ่น",
+            "summary": "บีโอไอสนับสนุนการขึ้นภาษีนำเข้ารถ EV เป็น 35% เพื่อกระตุ้นการผลิตในประเทศ เตรียมเจรจากับ 6 ค่ายรถยนต์ญี่ปุ่นชั้นนำเพื่อดึงเงินลงทุนผลิตในไทยกว่า 4 หมื่นล้านบาท",
+            "why": "การผลักดันให้เกิดการผลิตรถยนต์ในประเทศช่วยรักษาปริมาณงานปั๊มขึ้นรูป ลบคมรอยเชื่อม และงานขัดผิวโลหะในห่วงโซ่การผลิตยานยนต์",
+            "action": "รวบรวมรายชื่อซัพพลายเออร์ชิ้นส่วนของค่ายรถยนต์ญี่ปุ่นทั้ง 6 แห่งเพื่อนำเสนอสินค้าจานขัดและสายพานขัดสำหรับสายการผลิต"
+          }
+        },
+        {
+          "id": "20261118-3",
+          "tag": "aero",
+          "rating": "amber",
+          "source": "posttoday",
+          "date": "2026-07-27",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lak5sZXQtNktSd3dqWTVQcmdhN2JJdGVhSEUxUzk5RFI5TUs4T3kzMzBqVDdNUnp4N2k3M2FBalNXd0UwaS1XeUxkczM4Rzg4QnVBQXJR?oc=5",
+          "title": "EECO Mobilizes Capital to Transform U-Tapao into Regional Aircraft MRO Hub",
+          "summary": "The Eastern Economic Corridor Office is actively raising investment funds to establish comprehensive aircraft maintenance hangars at U-Tapao, aiming to build a Southeast Asian aviation service hub.",
+          "why": "Aircraft maintenance operations require high-precision, aviation-certified abrasives for paint stripping, surface blend, and composite smoothing, matching MK's target expansion.",
+          "action": "Compile aerospace-grade abrasive product portfolios and verify international standards to prepare for upcoming MRO procurement tenders.",
+          "th": {
+            "title": "EECO ระดมทุน ดันอุตสาหกรรม MRO ปั้นอู่ตะเภาสู่ศูนย์กลางซ่อมอากาศยานภูมิภาค",
+            "summary": "สำนักงานคณะกรรมการนโยบายเขตพัฒนาพิเศษภาคตะวันออกเร่งระดมทุนเพื่อพัฒนาศูนย์ซ่อมบำรุงอากาศยานที่อู่ตะเภา มุ่งเป้าสู่การเป็นศูนย์กลางบริการการบินของภูมิภาค",
+            "why": "งานซ่อมบำรุงเครื่องบินใช้วัสดุขัดความแม่นยำสูงมาตรฐานการบินสำหรับงานลอกสี ขัดแต่งรอยเชื่อม และปรับผิวโลหะผสม ซึ่งตรงกับเป้าหมายการขยายตลาดของ MK",
+            "action": "เตรียมแค็ตตาล็อกวัสดุขัดเกรดอากาศยานและตรวจสอบมาตรฐานรับรองเพื่อเตรียมความพร้อมรับงานจัดซื้อของศูนย์ซ่อมบำรุงในอนาคต"
+          }
+        }
+      ],
+      "terms": {}
+    },
+    {
       "date": "2026-11-17",
       "summary": "Today's news flow is relatively quiet with few new developments. The main highlight is the finalized agreement between the EEC and Thai Airways for the 10-billion-baht U-Tapao MRO hub, alongside domestic steel associations pressing regulators to curb dumping and eliminate substandard induction furnaces.",
       "directCount": 1,
@@ -724,5 +789,5 @@ window.NEWS_ARCHIVE = {
       "terms": {}
     }
   ],
-  "updated": "2026-11-17"
+  "updated": "2026-11-18"
 };
