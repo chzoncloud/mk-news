@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-11-18",
-      "summary": "Today's briefing highlights precision manufacturing growth in polishing media, European coatings evolution focused on sustainability and digital integration, and industrial coatings market shifts. These trends reflect increasing global demand for high-tolerance surface finishing.",
+      "summary": "Today's briefing focuses on global manufacturing shifts, including Graphene coating market developments, Chinese EV industry consolidation, and surplus steel headwinds.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปประเด็นข่าววันนี้เน้นการเติบโตของการผลิตที่มีความแม่นยำสูงในกลุ่มวัสดุขัดเงา วิวัฒนาการสารเคลือบยุโรปที่เน้นความยั่งยืนและดิจิทัล รวมถึงการเปลี่ยนแปลงในตลาดสารเคลือบอุตสาหกรรม ซึ่งสะท้อนถึงความต้องการระดับโลกที่เพิ่มขึ้นสำหรับการเตรียมผิวชิ้นงานที่มีความละเอียดสูง"
+        "summary": "สรุปข่าวสารประจำวันเน้นการเปลี่ยนแปลงในภาคการผลิตระดับโลก ทั้งตลาดสารเคลือบกราฟีน การควบรวมกิจการในอุตสาหกรรม EV ของจีน และภาวะล้นตลาดของอุตสาหกรรมเหล็ก"
       },
       "items": [
         {
           "id": "20261118-w1",
-          "tag": "abrasive",
+          "tag": "coating",
           "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-11-11",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdEJFdUVxZ1A4UDJQVEhmQ043cnlQNEExRzgzU3k4Q0dlVHJ2ZGlFYWQ3Vk5RLWZWZ1M2VVIzOHpIX3NCbEI1NE5WVTRkNXFGdlBfb0l4SlN1dEZqMzBoZUxMTGFHQjBUaWdhYk0xY1NNcnBMOU90aXE2Z1Bfa1hLOFVlbDEtNUNGZXM4SGpEV0h6YmZMQzVIMHhoQUMteGNqdnlVRWQ3TGVOMnIwU0VfUGVCMW1tb0JrR2Ixc1M5QQ?oc=5",
-          "title": "Polishing Media Market To 2035: Precision Manufacturing Demand Drives Growth",
-          "summary": "The global polishing media market is experiencing sustained growth driven by rising demand for high-precision manufacturing across various industries.",
-          "why": "Directly correlates with our core abrasives and surface finishing business, indicating strong long-term demand for precision smoothing and polishing tools.",
-          "action": "Ensure stable sourcing for high-precision polishing media and technical abrasives to capture upcoming industrial upgrade demand.",
+          "source": "Grand View Research",
+          "date": "2025-01-20",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWFBnYWlSdVI1UzZJbzBQMHZTbm9BLV9fVW5tQm1yczhTMjEybkVIeXFBQnRtT2lMVVM0T0gzODJMOXNCbFd2OUxpTUdiMVVyTThDNV9CVXJzd2Q2ejJsQlNkNk1vVVUtVmJkd2F4b2EwYVF5RVcyRjhuMHRFaGlvc3BSTzZJRVYyQ2c?oc=5",
+          "title": "Graphene Coating Market Size & Share Report, 2025-2030",
+          "summary": "The graphene coating market is expanding rapidly, driven by demand for ultra-durable, high-performance surface protections in industrial and automotive sectors.",
+          "why": "Advanced coatings like graphene require specialized, highly precise surface preparation and sanding before and between application layers.",
+          "action": "Monitor high-performance surface preparation requirements for advanced coatings.",
           "th": {
-            "title": "ตลาดสื่อขัดเงาถึงปี 2035: ความต้องการด้านการผลิตที่มีความแม่นยำสูงขับเคลื่อนการเติบโต",
-            "summary": "ตลาดสื่อขัดเงาทั่วโลกเติบโตอย่างต่อเนื่องจากความต้องการชิ้นส่วนอุตสาหกรรมที่ต้องมีความแม่นยำสูง",
-            "why": "มีความเกี่ยวข้องโดยตรงกับธุรกิจวัสดุขัดและตกแต่งผิวของเรา ซึ่งบ่งชี้ถึงความต้องการอุปกรณ์ขัดและขัดเงาความละเอียดสูงในระยะยาว",
-            "action": "รักษาเสถียรภาพแหล่งจัดหาสื่อขัดและวัสดุขัดผิวความแม่นยำสูง เพื่อรองรับความต้องการอัปเกรดอุตสาหกรรม"
+            "title": "รายงานขนาดและส่วนแบ่งตลาดสารเคลือบกราฟีน ปี 2025-2030",
+            "summary": "ตลาดสารเคลือบกราฟีนกำลังเติบโตอย่างรวดเร็ว เนื่องจากความต้องการการปกป้องพื้นผิวที่มีความทนทานสูงในภาคอุตสาหกรรมและยานยนต์",
+            "why": "สารเคลือบขั้นสูงอย่างกราฟีนต้องอาศัยการเตรียมพื้นผิวและการขัดที่แม่นยำสูง ทั้งก่อนและระหว่างขั้นตอนการเคลือบ",
+            "action": "ติดตามความต้องการด้านการเตรียมพื้นผิวประสิทธิภาพสูงสำหรับสารเคลือบยุคใหม่"
           }
         },
         {
           "id": "20261118-w2",
-          "tag": "coating",
+          "tag": "auto",
           "rating": "amber",
-          "source": "European Coatings",
-          "date": "2026-09-09",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
-          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
-          "summary": "The coatings sector is advancing rapidly through eco-friendly materials, digitalized manufacturing processes, and next-generation surface protection tech.",
-          "why": "Surface coatings and abrasives go hand in hand; prep work changes when new high-performance coatings are applied to metals and woods.",
-          "action": "Monitor how new coating technologies affect surface preparation and roughness requirements for industrial clients.",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-10-28",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMExMd0h3VTZZUGVhTmVoNENZT0RDYkZhOFlTUzZUd3RmT0RNRGJKVjlQVTBmRnkwa21iZEl6ZlNJYmIzVTjjQzU1eGhrcTFPOHhNQWRlSWVWaDlwR2FIVGZmSWJlQk00ZmNRUE5oc1owOGtPSzM2QzNCY0R4YXJNdjdwWExHVzNDM1JXSGRpMnNTdHQ1QXdnWlk2MFlFc21GRXd5QjVVYVItalFMN2hjZmZqZi1nd2I5aVBhYlRhbTQ?oc=5",
+          "title": "China's car industry consolidation begins: who will survive?",
+          "summary": "China's automotive sector is entering a consolidation phase, forcing manufacturers to focus on efficiency, automation, and cost control.",
+          "why": "Fewer, stronger automakers will demand higher quality consistency and automated robotic sanding and finishing solutions.",
+          "action": "Prepare for stricter vendor qualification and higher automation demands from tier-1 automotive suppliers.",
           "th": {
-            "title": "กำหนดอนาคตใหม่แห่งวงการเคลือบผิว: นวัตกรรม ความยั่งยืน และพลังแห่งดิจิทัล",
-            "summary": "อุตสาหกรรมสารเคลือบกำลังพัฒนาอย่างรวดเร็วผ่านวัสดุกรินรักษ์สิ่งแวดล้อม กระบวนการผลิตดิจิทัล และเทคโนโลยีปกป้องผิว",
-            "why": "งานเคลือบผิวและวัสดุขัดต้องใช้คู่กัน ความต้องการเตรียมผิวจะเปลี่ยนไปตามประเภทของสารเคลือบสมรรถนะสูงที่ใช้กับโลหะและไม้",
-            "action": "ติดตามว่าเทคโนโลยีสารเคลือบใหม่ๆ ส่งผลอย่างไรต่อข้อกำหนดการเตรียมผิวและความหยาบของชิ้นงานสำหรับลูกค้าอุตสาหกรรม"
+            "title": "การควบรวมกิจการในอุตสาหกรรมรถยนต์ของจีนเริ่มต้นขึ้นแล้ว: ใครจะอยู่รอด?",
+            "summary": "ภาคยานยนต์ของจีนกำลังเข้าสู่ช่วงการควบรวม ซึ่งบีบให้ผู้ผลิตต้องเน้นเรื่องความคุ้มค่า ระบบอัตโนมัติ และการควบคุมต้นทุน",
+            "why": "ผู้ผลิตรถยนต์ที่เหลือรอดและแข็งแกร่งขึ้นจะต้องการความสม่ำเสมอของคุณภาพและโซลูชันการขัดผิวด้วยระบบอัตโนมัติ",
+            "action": "เตรียมพร้อมรับมือกับเกณฑ์การคัดเลือกผู้ขายที่เข้มงวดขึ้นและความต้องการระบบอัตโนมัติจากซัพพลายเออร์ยานยนต์"
           }
         },
         {
           "id": "20261118-w3",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "Coatings World",
-          "date": "2025-12-10",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVDFJcHBGVXhXMm1MR1R0QkJ4VkNDdnZvcjh2bzJkX1hJYUdJQ1pyOFIxRzVPUXZGUDRheEVHaVhweG14Smk5Z3FCbjhadTM4RnIzLXkxMnBWX3p2UU4ya3dxNXFocWJWd1EyUHhjeEFOWGdwWW1LcllXTFdyUVNEMkxmRGdoblpuc2w5V2RNei0xZmM1S1p5bExhX1otTFBMY0RtbA?oc=5",
-          "title": "Innovation and Technology to Drive Future of European Market",
-          "summary": "European market analysts emphasize that advanced manufacturing technologies and material science innovations will dictate future industrial coating standards.",
-          "why": "Higher standards in surface finishing and coatings often require superior abrasive belts and discs to achieve exact pre-treatment specs.",
-          "action": "Keep an eye on European quality standards as benchmarks for high-end industrial customers in our region.",
+          "tag": "steel",
+          "rating": "green",
+          "source": "S&P Global",
+          "date": "2026-01-12",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
+          "title": "Global steel industry battles surplus supply, protectionism",
+          "summary": "The international steel market continues to struggle with oversupply issues and rising trade protectionism measures across key regions.",
+          "why": "Excess steel production impacts metal fabrication margins and changes local sourcing patterns for grinding and deburring consumables.",
+          "action": "Keep close tabs on local metal fabrication activity and offer cost-effective deburring solutions to steel service centers.",
           "th": {
-            "title": "นวัตกรรมและเทคโนโลยีขับเคลื่อนอนาคตตลาดในยุโรป",
-            "summary": "นักวิเคราะห์ตลาดระบุว่าเทคโนโลยีการผลิตขั้นสูงและนวัตกรรมวัสดุศาสตร์จะเป็นตัวกำหนดมาตรฐานสารเคลือบอุตสาหกรรมในอนาคต",
-            "why": "มาตรฐานการตกแต่งผิวและสารเคลือบที่สูงขึ้น มักจะต้องใช้กระดาษทรายสายพานหรือแผ่นขัดที่มีคุณภาพสูงเพื่อให้ได้สเปคการเตรียมผิวที่แม่นยำ",
-            "action": "จับตาดูมาตรฐานคุณภาพจากยุโรปเพื่อใช้เป็นบรรทัดฐานสำหรับกลุ่มลูกค้าอุตสาหกรรมระดับบนในภูมิภาคของเรา"
+            "title": "อุตสาหกรรมเหล็กโลกเผชิญศึกภาวะล้นตลาดและลัทธิกีดกันทางการค้า",
+            "summary": "ตลาดเหล็กค้าระหว่างประเทศยังคงเผชิญกับปัญหาส่วนเกินการผลิตและมาตรการกีดกันทางการค้าที่เพิ่มขึ้นในหลายภูมิภาค",
+            "why": "ภาวะล้นตลาดเหล็กส่งผลต่ออัตรากำไรของผู้ผลิตชิ้นงานโลหะ และเปลี่ยนรูปแบบการจัดซื้อวัสดุสิ้นเปลืองสำหรับงานขัดและลบคม",
+            "action": "ติดตามกิจกรรมการแปรรูปโลหะในท้องถิ่นอย่างใกล้ชิด และนำเสนอโซลูชันการลบคมที่คุ้มค่าให้กับศูนย์บริการเหล็ก"
           }
         }
       ]
