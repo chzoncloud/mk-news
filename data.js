@@ -3,64 +3,64 @@ window.NEWS_ARCHIVE = {
   "days": [
     {
       "date": "2026-11-18",
-      "summary": "Today's fresh news flow is limited. The key developments highlight risks of Japanese investment slowing down in Thailand alongside BOI talks with six Japanese automakers to retain production, plus ongoing funding progress for the U-Tapao aerospace MRO hub.",
+      "summary": "Today has relatively few new developments as recent major tariff and steel policy stories were previously covered. Key highlights focus on localized EV parts integration supporting tier-2 metal fabricators, Thai Airways' long-term fleet expansion bolstering regional MRO demand, and the TIWF trade platform elevating industrial woodworking.",
       "directCount": 1,
       "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มาก ประเด็นสำคัญอยู่ที่สัญญาณเตือนทุนญี่ปุ่นชะลอตัวในไทยจนบีโอไอต้องเร่งเจรจา 6 ค่ายรถยนต์ญี่ปุ่นเพื่อดึงเม็ดเงินผลิตในประเทศ พร้อมความคืบหน้าการระดมทุนศูนย์ซ่อมบำรุงอากาศยาน (MRO) อู่ตะเภาของ EECO"
+        "summary": "วันนี้มีข่าวใหม่ไม่มากเนื่องจากประเด็นภาษีนำเข้าและโรงงานเหล็กส่วนใหญ่ได้รับการรายงานไปแล้วในรอบสัปดาห์ ไฮไลต์สำคัญอยู่ที่การผลักดันให้ SME เชื่อมห่วงโซ่อุปทานชิ้นส่วน EV ในประเทศ แผนขยายฝูงบิน 150 ลำของการบินไทยเพื่อหนุนงานซ่อมบำรุง MRO ระยะยาว และงานแสดงสินค้า TIWF ที่ช่วยยกระดับโรงงานเฟอร์นิเจอร์และงานไม้"
       },
       "items": [
         {
           "id": "20261118-1",
           "tag": "auto",
-          "rating": "amber",
-          "source": "Thansettakij",
+          "rating": "green",
+          "source": "ผู้จัดการออนไลน์",
           "date": "2026-11-16",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50VndFMTVEVEJOQkN2ZEhsN3NFUjNpRGwwQ0wtNkR5SDdGS2hIcldzdGdOaUVGdkFGN0hMYVRmazZvQlhlU2xCRGNyNnZZdnh4UTlfZDJfck9YNnQzMkVWdjJXYTdOal9yYVduVWdn?oc=5",
-          "title": "Experts Warn of Japanese Capital Slowdown in Thailand, Urging JTEPA Review to Counter Chinese Influx",
-          "summary": "Trade analysts caution that Japanese manufacturing investment in Thailand is stalling due to aggressive Chinese competition, urging authorities to overhaul bilateral trade agreements and local tax incentives.",
-          "why": "Japanese tier-1 and tier-2 parts makers are MK's primary customer base; any operational cutbacks directly soften repeat abrasive orders.",
-          "action": "Offer cost-reduction abrasive trials to retain Japanese accounts while actively qualifying supply pipelines with emerging Chinese EV sub-tier fabricators.",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84Z0RMRlhhV1JPUlVFWDNxaWRDV2NhT2htVFJSV012RmV6bjBZOEpIdTdRUjVkY2ZhRlROSW1KZUJZX2NheV9MVVFpdHE5OWpsZDVmN1l1d3ZDbDFLM0x4Mg?oc=5",
+          "title": "35% EV Tariff Hike Pushes Domestic Production and SME Supply Chain Integration",
+          "summary": "Thailand's planned 35% tariff on imported completely built-up EVs is designed to compel automakers to set up local assembly lines. This regulatory shift aims to integrate local SME parts manufacturers into the evolving automotive supply chain.",
+          "why": "Shifting from imported EVs to domestic vehicle assembly directly increases metal stamping, weld grinding, and deburring activity across local tier-2 and tier-3 auto parts factories.",
+          "action": "Engage local tier-2 metal stamping and chassis component suppliers preparing for EV contracts to introduce high-durability deburring belts and grinding discs.",
           "th": {
-            "title": "ผู้เชี่ยวชาญเตือนทุนญี่ปุ่นชะลอลงทุนไทย จี้รัฐรื้อภาษี-ทบทวน JTEPA แข่งทุนจีน",
-            "summary": "นักวิเคราะห์การค้าเตือนว่าการลงทุนภาคการผลิตของญี่ปุ่นในไทยเริ่มชะลอตัวหลังเผชิญการแข่งขันอย่างหนักจากทุนจีน พร้อมเสนอให้รัฐปรับโครงสร้างภาษีและทบทวนข้อตกลง JTEPA",
-            "why": "โรงงานผลิตชิ้นส่วนยานยนต์และโลหะทุนญี่ปุ่นคือกลุ่มลูกค้าหลักของ MK หากกลุ่มนี้ชะลอตัวจะกระทบยอดสั่งซื้อวัสดุขัดซ้ำโดยตรง",
-            "action": "นำเสนอโปรแกรมทดสอบวัสดุขัดเพื่อช่วยโรงงานญี่ปุ่นลดต้นทุน พร้อมเร่งขยายตลาดเข้าสู่ซัพพลายเออร์ชิ้นส่วนของค่ายรถจีนรายใหม่"
+            "title": "ขึ้นภาษีนำเข้า EV 35% ดึงฐานผลิตเข้าไทย หนุน SME เชื่อมห่วงโซ่อุปทาน",
+            "summary": "มาตรการปรับขึ้นภาษีนำเข้ารถ EV เป็น 35% ถูกนำมาใช้เพื่อบีบให้ค่ายรถยนต์เร่งลงทุนตั้งฐานการผลิตในประเทศ พร้อมเปิดทางให้โรงงาน SME ไทยเข้าสู่ห่วงโซ่อุปทานชิ้นส่วนยานยนต์",
+            "why": "การเปลี่ยนจากการนำเข้าเป็นการผลิตในประเทศจะเพิ่มปริมาณงานปั๊ม เจียรแต่งรอยเชื่อม และลบครีบชิ้นส่วนโลหะในกลุ่มซัพพลายเออร์ Tier 2/3 โดยตรง ส่งผลให้อุปสงค์วัสดุขัด MK ขยายตัว",
+            "action": "เข้าพบโรงงานปั๊มขึ้นรูปโลหะและชิ้นส่วนโครงสร้างที่กำลังเจรจาสัญญาผลิตกับค่ายรถ เพื่อนำเสนอสายพานและจานขัดลบครีบเกรดอุตสาหกรรม"
           }
         },
         {
           "id": "20261118-2",
-          "tag": "auto",
-          "rating": "green",
-          "source": "LINE TODAY",
-          "date": "2026-11-09",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DSTJFc2RNQ0hNN2pCZVFld3d4ZkZqdV8tWDF6UW42UEN6bVBYRS05WnkxNjE3MnVnbWN4NXNuV1djUk9iTU5wTTUtRkdnTzB0TjB6WS1R?oc=5",
-          "title": "BOI Leverages 35% EV Tariff to Secure 40-Billion-Baht Investment in Talks with 6 Japanese Automakers",
-          "summary": "The Board of Investment supports the 35% tariff on imported EVs to drive local assembly, preparing discussions with six Japanese automakers to attract over 40 billion baht in domestic plant investments.",
-          "why": "Securing factory assembly investments from Japanese automakers directly safeguards domestic metal stamping, welding, and deburring abrasive consumption.",
-          "action": "Map parts suppliers connected to these six targeted Japanese automakers and pitch specialized grinding and sanding solutions.",
+          "tag": "aero",
+          "rating": "amber",
+          "source": "thansettakij",
+          "date": "2026-08-01",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJbG91NDM0Z1ZuZmRPYUc4dlRzSXYwVXRnb1l5dGZyZUJLSDZqUXhOSnVzSXVQeTdRME04Y1c5TVB5SC0wOENDcm9VeDhaT3Fha0ZocE90aEgzNXpNOGVmYklR?oc=5",
+          "title": "Thai Airways Invests 100 Billion Baht to Expand Fleet to 150 Aircraft",
+          "summary": "Thai Airways is executing a 100-billion-baht fleet expansion to reach 150 commercial aircraft. This extensive fleet enlargement will significantly expand domestic maintenance, repair, and overhaul (MRO) servicing workloads.",
+          "why": "A substantially larger domestic commercial fleet requires higher volumes of scheduled airframe maintenance, surface refinishing, and turbine component polishing in Thailand.",
+          "action": "Accelerate certification and technical audits for aerospace-grade precision abrasive discs and non-woven conditioning products with domestic airline maintenance teams.",
           "th": {
-            "title": "บีโอไอหนุนขึ้นภาษี EV นำเข้า 35% ดันค่ายรถตั้งฐานผลิต ดึงลงทุนทะลุ 4 หมื่นล้านจ่อถก 6 บิ๊กญี่ปุ่น",
-            "summary": "บีโอไอสนับสนุนการขึ้นภาษีนำเข้ารถ EV เป็น 35% เพื่อกระตุ้นการผลิตในประเทศ เตรียมเจรจากับ 6 ค่ายรถยนต์ญี่ปุ่นชั้นนำเพื่อดึงเงินลงทุนผลิตในไทยกว่า 4 หมื่นล้านบาท",
-            "why": "การผลักดันให้เกิดการผลิตรถยนต์ในประเทศช่วยรักษาปริมาณงานปั๊มขึ้นรูป ลบคมรอยเชื่อม และงานขัดผิวโลหะในห่วงโซ่การผลิตยานยนต์",
-            "action": "รวบรวมรายชื่อซัพพลายเออร์ชิ้นส่วนของค่ายรถยนต์ญี่ปุ่นทั้ง 6 แห่งเพื่อนำเสนอสินค้าจานขัดและสายพานขัดสำหรับสายการผลิต"
+            "title": "การบินไทยทุ่มแสนล้าน ขยายฝูงบินแตะ 150 ลำ ทวงบัลลังก์สายการบินระดับโลก",
+            "summary": "การบินไทยเดินหน้าแผนลงทุนกว่า 1 แสนล้านบาทเพื่อขยายฝูงบินเป็น 150 ลำ ซึ่งจะช่วยหนุนปริมาณงานซ่อมบำรุงและยกเครื่องอากาศยาน (MRO) ภายในประเทศให้เติบโตอย่างมีนัยสำคัญ",
+            "why": "ฝูงบินที่ใหญ่ขึ้นนำมาซึ่งรอบการซ่อมบำรุงโครงสร้างลำตัว การลอกสีเตรียมผิว และการขัดปรับผิวชิ้นส่วนเครื่องยนต์อากาศยานในไทยที่เพิ่มสูงขึ้น",
+            "action": "เร่งกระบวนการยื่นรับรองมาตรฐานวัสดุขัดเกรดการบิน (Aerospace-grade) และผ้าทรายความละเอียดสูงสำหรับงานขัดลอกสีผิวอากาศยานกับฝ่ายช่างอากาศยาน"
           }
         },
         {
           "id": "20261118-3",
-          "tag": "aero",
+          "tag": "furniture",
           "rating": "amber",
-          "source": "posttoday",
-          "date": "2026-07-27",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lak5sZXQtNktSd3dqWTVQcmdhN2JJdGVhSEUxUzk5RFI5TUs4T3kzMzBqVDdNUnp4N2k3M2FBalNXd0UwaS1XeUxkczM4Rzg4QnVBQXJR?oc=5",
-          "title": "EECO Mobilizes Capital to Transform U-Tapao into Regional Aircraft MRO Hub",
-          "summary": "The Eastern Economic Corridor Office is actively raising investment funds to establish comprehensive aircraft maintenance hangars at U-Tapao, aiming to build a Southeast Asian aviation service hub.",
-          "why": "Aircraft maintenance operations require high-precision, aviation-certified abrasives for paint stripping, surface blend, and composite smoothing, matching MK's target expansion.",
-          "action": "Compile aerospace-grade abrasive product portfolios and verify international standards to prepare for upcoming MRO procurement tenders.",
+          "source": "ผู้จัดการออนไลน์",
+          "date": "2026-09-02",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWNVFPYTI5eTFhQ1lwNWozSXFGRHAtS2xtdk0zZERrcWg3SEprbXBZR0Ixc0hGbWtHT1l0NnR4cGpSMzNVWG5DM3dMNGc1SUlnbmNUcEFQaWx4ZTRKQ0FkMA?oc=5",
+          "title": "TIWF 2026 Promotes Sustainable Transformation in Woodworking and Furniture Manufacturing",
+          "summary": "The Thailand International Woodworking & Furniture Exhibition (TIWF 2026) aims to modernize Thai wood production processes and sustainable manufacturing standards. The initiative is geared toward elevating local furniture fabricators to capture higher-value export markets.",
+          "why": "Technological upgrades in furniture and engineered wood plants drive demand for wide sanding belts, orbital sanding paper, and finishing abrasives.",
+          "action": "Prepare targeted wide-belt and abrasive paper package promotions tailored for export furniture manufacturers and wood processing plants attending trade platforms.",
           "th": {
-            "title": "EECO ระดมทุน ดันอุตสาหกรรม MRO ปั้นอู่ตะเภาสู่ศูนย์กลางซ่อมอากาศยานภูมิภาค",
-            "summary": "สำนักงานคณะกรรมการนโยบายเขตพัฒนาพิเศษภาคตะวันออกเร่งระดมทุนเพื่อพัฒนาศูนย์ซ่อมบำรุงอากาศยานที่อู่ตะเภา มุ่งเป้าสู่การเป็นศูนย์กลางบริการการบินของภูมิภาค",
-            "why": "งานซ่อมบำรุงเครื่องบินใช้วัสดุขัดความแม่นยำสูงมาตรฐานการบินสำหรับงานลอกสี ขัดแต่งรอยเชื่อม และปรับผิวโลหะผสม ซึ่งตรงกับเป้าหมายการขยายตลาดของ MK",
-            "action": "เตรียมแค็ตตาล็อกวัสดุขัดเกรดอากาศยานและตรวจสอบมาตรฐานรับรองเพื่อเตรียมความพร้อมรับงานจัดซื้อของศูนย์ซ่อมบำรุงในอนาคต"
+            "title": "งานใหญ่ TIWF 2026 ยกระดับอุตสาหกรรมไม้และเฟอร์นิเจอร์สู่ความยั่งยืน",
+            "summary": "งาน TIWF 2026 มุ่งผลักดันการยกระดับเทคโนโลยีการแปรรูปไม้และกระบวนการผลิตเฟอร์นิเจอร์ที่เป็นมิตรต่อสิ่งแวดล้อม เพื่อเสริมศักยภาพการแข่งขันในตลาดส่งออกระดับสากล",
+            "why": "การปรับปรุงสายการผลิตเฟอร์นิเจอร์ไม้จริงและไม้อัดแปรรูปทำให้เกิดความต้องการใช้งานกระดาษทรายสายพานหน้ากว้าง (Wide Belt) และกระดาษทรายกลมสำหรับเตรียมผิวขัดเงาเพิ่มขึ้น",
+            "action": "จัดเตรียมแพ็กเกจสินค้ากลุ่มกระดาษทรายสายพานหน้ากว้างและจานทรายสำหรับโรงงานเฟอร์นิเจอร์ส่งออก เพื่อเข้าทำการตลาดในกลุ่มผู้ผลิตงานไม้ชั้นนำ"
           }
         }
       ],
