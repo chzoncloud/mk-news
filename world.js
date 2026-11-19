@@ -4,82 +4,46 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-11-19",
-      "summary": "Today's briefing highlights global shifts in metal surface finishing, steel overcapacity pressures, and the rising demand in the coated abrasives market, signaling critical supply chain adjustments for industrial distributors.",
-      "directCount": 3,
+      "summary": "Today's briefing features 2 selected trends focusing on global steel market pressures and EV manufacturing shifts, highlighting external factors impacting metal fabrication and supply chains.",
+      "directCount": 2,
       "th": {
-        "summary": "รายงานแนวโน้มวันนี้เน้นย้ำการเปลี่ยนแปลงระดับโลกในการตกแต่งพื้นผิวโลหะ แรงกดดันจากภาวะอลูมิเนียมและเหล็กกล้าล้นตลาด และความต้องการที่เพิ่มขึ้นในตลาดกระดาษทรายเคลือบ ซึ่งส่งสัญญาณถึงการปรับเปลี่ยนห่วงโซ่อุปทานที่สำคัญสำหรับผู้จัดจำหน่ายอุตสาหกรรม"
+        "summary": "สรุปทิศทางโลกวันนี้คัดเลือกมา 2 ประเด็นสำคัญเกี่ยวกับแรงกดดันในตลาดเหล็กโลกและการเปลี่ยนผ่านของการผลิตยานยนต์ไฟฟ้า ซึ่งส่งผลกระทบต่ออุตสาหกรรมแปรรูปโลหะและห่วงโซ่อุปทาน"
       },
       "items": [
         {
           "id": "20261119-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "Fremont News-Messenger",
-          "date": "2026-11-17",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOb0pKRGhaU0lMVmdlRS0xVmxXUVJBd09kWHNkNW5HMlNNVHpNVks2Vlh1VFJDc21yYzJ4YV81M0E4c0V4TXJFZ1h1QVhfb2paN04zUnJVQm5vNnMwbk5aS2NCanUwcDFfYXBrS0w4aGdzd3IwX3hubk1CWjd4YjVyZFhnRGVLa2lTajEyZmRLTnpPdTd5Q3lBTFh6WDVkZ1duNHpzNk8xdE9pT1RMN1NDaGdvZ09zY2haemdiTTIzb3k2XzNmRzNWS3NuZ19LWVBaM1hmZA?oc=5",
-          "title": "Top 5 Metal Surface Finishing Solutions Suppliers in China: Ranked Comparison",
-          "summary": "A comparative ranking of top metal surface finishing solution suppliers in China highlights growing global competition and technology standards in deburring and polishing.",
-          "why": "Chinese surface finishing and abrasive suppliers are scaling up capability, impacting global pricing and technology benchmarks for metal preparation.",
-          "action": "Monitor Chinese manufacturing pricing trends and evaluate alternative import sources for high-performance finishing tools.",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "World Economic Forum",
+          "date": "2026-04-21",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPc3hudkhpWE9BVTdWSk5BQWV2SWpBNHZxOUFfY2Rxcy0weW4tc2c2UFE1blAwRjVvYzRFcE9TdW1iVTdfYXBSVGk0UER5ZDVFQkZybG51bEY2QmhYemE3anRJbERYRW9KUkZHcHZ2eHZCMTRSMWlYMklYTDNPdzZGYzZZOFQtblNBMktoS2RNSndvX1dDRlZQSlBUT1pVdE1FN0ozOFZibUxlaHFGT1FjNUpZWEEyZGFrMTJUTXhPNA?oc=5",
+          "title": "How the Iran war is disrupting India's steel production amid fuel shortages and rising costs",
+          "summary": "Geopolitical conflict in the Middle East is causing fuel shortages and rising costs, directly disrupting steel production in major manufacturing hubs like India.",
+          "why": "Steel production volume and mill operating costs dictate metal fabrication activity and directly influence our B2B customers' demand for grinding and deburring products.",
+          "action": "Monitor raw material price volatility and adjust inventory strategies for heavy-duty metalworking abrasives.",
           "th": {
-            "title": "5 อันดับซัพพลายเออร์โซลูชันการตกแต่งพื้นผิวโลหะในจีน: การเปรียบเทียบจัดอันดับ",
-            "summary": "การจัดอันดับเปรียบเทียบซัพพลายเออร์โซลูชันการตกแต่งพื้นผิวโลหะในประเทศจีน สะท้อนให้เห็นถึงการแข่งขันระดับโลกและมาตรฐานเทคโนโลยีที่สูงขึ้นในการลบเสี้ยนและการขัดเงา",
-            "why": "ซัพพลายเออร์ด้านการตกแต่งพื้นผิวและวัสดุขัดจากจีนกำลังเพิ่มขีดความสามารถ ซึ่งส่งผลกระทบต่อราคาระดับโลกและเกณฑ์มาตรฐานทางเทคโนโลยีสำหรับการเตรียมผิวโลหะ",
-            "action": "ติดตามแนวโน้มราคาการผลิตของจีนและประเมินแหล่งนำเข้าทางเลือกสำหรับเครื่องมือขัดผิวที่มีประสิทธิภาพสูง"
+            "title": "สงครามอิหร่านกระทบการผลิตเหล็กในอินเดียท่ามกลางปัญหาขาดแคลนเชื้อเพลิงและต้นทุนที่สูงขึ้น",
+            "summary": "ความขัดแย้งทางภูมิรัฐศาสตร์ในตะวันออกกลางทำให้เกิดปัญหาขาดแคลนเชื้อเพลิงและต้นทุนพุ่งสูง ซึ่งส่งผลกระทบโดยตรงต่อการผลิตเหล็กในศูนย์กลางการผลิตสำคัญอย่างอินเดีย",
+            "why": "ปริมาณการผลิตเหล็กและต้นทุนการดำเนินงานของโรงรีดเหล็กเป็นตัวกำหนดกิจกรรมการแปรรูปโลหะ และมีผลโดยตรงต่อความต้องการสินค้าประเภทเจียรและลบคมของลูกค้า B2B ของเรา",
+            "action": "ติดตามความผันผวนของราคาวัตถุดิบและปรับกลยุทธ์การสต็อกสินค้าสำหรับกลุ่มผลิตภัณฑ์กระดาษทรายและหินเจียรโลหะหนัก"
           }
         },
         {
           "id": "20261119-w2",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "Grand View Research",
-          "date": "2016-03-06",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdy1BQXJXWXIwQ2F5Sm1XU3lLejVVQkZVSWVvZElIVkFZWEZ4NlN1TThqZGhZdUZrdkFrNWpXUzFWOFBucEFRb0tIS0hJTVBDQjdUS3hQbEtQd0VDalRleVB4UkFGZGhvbWdDVHA5WmVKc3JiVHJDWkxFTTFzeENhcmU2Qg?oc=5",
-          "title": "Coated Abrasives Market Size & Share Report, 2026-2033",
-          "summary": "Industry forecasts emphasize steady long-term growth for coated abrasives driven by automation in metal fabrication and automotive manufacturing.",
-          "why": "Directly tracks our core product category (coated abrasives/sandpaper) and provides validation of steady B2B demand growth through 2033.",
-          "action": "Align inventory strategy with projected growth in automated sanding and precision metal fabrication sectors.",
-          "th": {
-            "title": "รายงานขนาดและส่วนแบ่งตลาดกระดาษทรายเคลือบ ปี 2026-2033",
-            "summary": "การคาดการณ์อุตสาหกรรมเน้นย้ำการเติบโตระยะยาวที่มั่นคงสำหรับกระดาษทรายเคลือบ ซึ่งขับเคลื่อนโดยระบบอัตโนมัติในการผลิตโลหะและการผลิตยานยนต์",
-            "why": "สอดคล้องโดยตรงกับหมวดหมู่ผลิตภัณฑ์หลักของเรา (กระดาษทราย/ผ้าทราย) และช่วยยืนยันการเติบโตของความต้องการในตลาด B2B อย่างต่อเนื่องจนถึงปี 2033",
-            "action": "ปรับกลยุทธ์สินค้าคงคลังให้สอดคล้องกับการเติบโตที่คาดการณ์ไว้ในกลุ่มงานขัดอัตโนมัติและการผลิตโลหะความแม่นยำสูง"
-          }
-        },
-        {
-          "id": "20261119-w3",
-          "tag": "steel",
+          "tag": "auto",
           "rating": "amber",
-          "source": "S&P Global",
-          "date": "2026-01-12",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
-          "title": "Global steel industry battles surplus supply, protectionism",
-          "summary": "The global steel sector continues to face oversupply issues and rising trade protectionism, forcing producers to seek cost efficiencies.",
-          "why": "Steel mill operating margins affect their willingness to invest in premium surface preparation and heavy-duty grinding supplies.",
-          "action": "Offer cost-effective, high-durability abrasive solutions to steel fabricators operating under margin pressures.",
+          "source": "IEA - International Energy Agency",
+          "date": "2026-05-20",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBdlRidlFWTllkZFUwX0tURmp4UmxwenFiRk5tT29WQndpN0xVbU55TV9VRGFJaFBGMm1weTZyczc5MjJ5aDZDVlhqSnh6Mk5EMV84UE0wWk1JWXFjWGpfY0EwN2JXcjZuckx0dVJ1LWFFTjU5bnpSc1lPek1SMWc?oc=5",
+          "title": "Manufacturing and trade - Global EV Outlook 2026",
+          "summary": "The IEA report highlights ongoing changes in global manufacturing footprints and international trade patterns for electric vehicles and their components.",
+          "why": "Shifts in EV manufacturing locations and structural designs affect surface finishing requirements for chassis, structural parts, and battery enclosures.",
+          "action": "Stay aligned with automotive tier suppliers regarding lightweight metal and alloy sanding specifications.",
           "th": {
-            "title": "อุตสาหกรรมเหล็กโลกต่อสู้กับภาวะอุปทานส่วนเกินและลัทธิคุ้มครองทางการค้า",
-            "summary": "ภาคอุตสาหกรรมเหล็กทั่วโลกยังคงเผชิญกับปัญหาอุปทานล้นตลาดและลัทธิคุ้มครองทางการค้าที่เพิ่มขึ้น บีบให้ผู้ผลิตต้องมองหาความคุ้มค่าด้านต้นทุน",
-            "why": "อัตรากำไรของโรงงานเหล็กส่งผลต่อความเต็มใจในการลงทุนซื้อวัสดุเตรียมพื้นผิวและงานเจียรหนักที่มีคุณภาพสูง",
-            "action": "นำเสนอผลิตภัณฑ์กระดาษทรายและใบเจียรที่คุ้มค่าและมีความทนทานสูงแก่ผู้ผลิตเหล็กที่กำลังประสบกับแรงกดดันด้านต้นทุน"
-          }
-        },
-        {
-          "id": "20261119-w4",
-          "tag": "coating",
-          "rating": "white",
-          "source": "Coatings World",
-          "date": "2025-12-10",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVDFJcHBGVXhXMm1MR1R0QkJ4VkNDdnZvcjh2bzJkX1hJYUdJQ1pyOFIxRzVPUXZGUDRheEVHaVhweG14Smk5Z3FCbjhadTM4RnIzLXkxMnBWX3p2UU4ya3dxNXFocWJWd1EyUHhjeEFOWGdwWW1LcllXTFdyUVNEMkxmRGdoblpuc2w5V2RNei0xZmM1S1p5bExhX1otTFBMY0RtbA?oc=5",
-          "title": "Innovation and Technology to Drive Future of European Market",
-          "summary": "European coatings manufacturers are prioritizing high-tech formulations, eco-friendly processes, and advanced surface prep standards.",
-          "why": "Surface coatings heavily depend on pre-painting sanding and abrasive preparation quality to achieve strict automotive and architectural specs.",
-          "action": "Keep an eye on European finishing standards as benchmarks for local high-end manufacturing clients.",
-          "th": {
-            "title": "นวัตกรรมและเทคโนโลยีขับเคลื่อนอนาคตของตลาดในยุโรป",
-            "summary": "ผู้ผลิตสีเคลือบในยุโรปให้ความสำคัญกับสูตรไฮเทค กระบวนการที่เป็นมิตรต่อสิ่งแวดล้อม และมาตรฐานการเตรียมพื้นผิวขั้นสูง",
-            "why": "งานเคลือบพื้นผิวพึ่งพาคุณภาพการขัดเตรียมผิวก่อนพ่นเป็นอย่างมากเพื่อให้ได้ตามข้อกำหนดที่เข้มงวดของอุตสาหกรรมยานยนต์และสถาปัตยกรรม",
-            "action": "ติดตามมาตรฐานการตกแต่งพื้นผิวของยุโรปเพื่อใช้เป็นเกณฑ์มาตรฐานสำหรับลูกค้ากลุ่มอุตสาหกรรมไฮ엔ดในประเทศ"
+            "title": "การผลิตและการค้า - มุมมองยานยนต์ไฟฟ้าระดับโลกปี 2026",
+            "summary": "รายงานของ IEA เน้นย้ำถึงการเปลี่ยนแปลงอย่างต่อเนื่องในฐานการผลิตระดับโลกและรูปแบบการค้าระหว่างประเทศสำหรับยานยนต์ไฟฟ้าและชิ้นส่วนประกอบ",
+            "why": "การเปลี่ยนแปลงของสถานที่ผลิตรถยนต์ EV และการออกแบบโครงสร้าง ส่งผลต่อความต้องการขัดผิวสำหรับโครงรถ ชิ้นส่วนโครงสร้าง และกล่องแบตเตอรี่",
+            "action": "ติดตามความต้องการของซัพพลายเออร์ยานยนต์ในส่วนของสเปกการขัดโลหะน้ำหนักเบาและโลหะผสม"
           }
         }
       ]
