@@ -4,46 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-11-19",
-      "summary": "Today's briefing features 2 selected trends focusing on global steel market pressures and EV manufacturing shifts, highlighting external factors impacting metal fabrication and supply chains.",
-      "directCount": 2,
+      "summary": "Today's briefing highlights global market shifts in steel surplus, smart EV production efficiency, and emerging industrial coating innovations that impact surface finishing demands.",
+      "directCount": 3,
       "th": {
-        "summary": "สรุปทิศทางโลกวันนี้คัดเลือกมา 2 ประเด็นสำคัญเกี่ยวกับแรงกดดันในตลาดเหล็กโลกและการเปลี่ยนผ่านของการผลิตยานยนต์ไฟฟ้า ซึ่งส่งผลกระทบต่ออุตสาหกรรมแปรรูปโลหะและห่วงโซ่อุปทาน"
+        "summary": "สรุปประเด็นสำคัญวันนี้เน้นการเปลี่ยนแปลงของตลาดเหล็กโลก ประสิทธิภาพการผลิต EV อัจฉริยะ และนวัตกรรมการเคลือบผิวอุตสาหกรรมใหม่ๆ ที่ส่งผลต่อความต้องการขัดผิวโลหะ"
       },
       "items": [
         {
           "id": "20261119-w1",
           "tag": "steel",
-          "rating": "amber",
-          "source": "World Economic Forum",
-          "date": "2026-04-21",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPc3hudkhpWE9BVTdWSk5BQWV2SWpBNHZxOUFfY2Rxcy0weW4tc2c2UFE1blAwRjVvYzRFcE9TdW1iVTdfYXBSVGk0UER5ZDVFQkZybG51bEY2QmhYemE3anRJbERYRW9KUkZHcHZ2eHZCMTRSMWlYMklYTDNPdzZGYzZZOFQtblNBMktoS2RNSndvX1dDRlZQSlBUT1pVdE1FN0ozOFZibUxlaHFGT1FjNUpZWEEyZGFrMTJUTXhPNA?oc=5",
-          "title": "How the Iran war is disrupting India's steel production amid fuel shortages and rising costs",
-          "summary": "Geopolitical conflict in the Middle East is causing fuel shortages and rising costs, directly disrupting steel production in major manufacturing hubs like India.",
-          "why": "Steel production volume and mill operating costs dictate metal fabrication activity and directly influence our B2B customers' demand for grinding and deburring products.",
-          "action": "Monitor raw material price volatility and adjust inventory strategies for heavy-duty metalworking abrasives.",
+          "rating": "green",
+          "source": "S&P Global",
+          "date": "2026-01-12",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
+          "title": "Global steel industry battles surplus supply, protectionism",
+          "summary": "The global steel market continues to struggle with oversupply and rising trade barriers, creating pricing pressures for metal fabricators worldwide.",
+          "why": "Oversupply affects metal fabrication output and margin pressure on our B2B customers, influencing their spending on consumable abrasives.",
+          "action": "Monitor metal fabricators' capacity utilization and offer cost-effective, high-durability abrasive alternatives.",
           "th": {
-            "title": "สงครามอิหร่านกระทบการผลิตเหล็กในอินเดียท่ามกลางปัญหาขาดแคลนเชื้อเพลิงและต้นทุนที่สูงขึ้น",
-            "summary": "ความขัดแย้งทางภูมิรัฐศาสตร์ในตะวันออกกลางทำให้เกิดปัญหาขาดแคลนเชื้อเพลิงและต้นทุนพุ่งสูง ซึ่งส่งผลกระทบโดยตรงต่อการผลิตเหล็กในศูนย์กลางการผลิตสำคัญอย่างอินเดีย",
-            "why": "ปริมาณการผลิตเหล็กและต้นทุนการดำเนินงานของโรงรีดเหล็กเป็นตัวกำหนดกิจกรรมการแปรรูปโลหะ และมีผลโดยตรงต่อความต้องการสินค้าประเภทเจียรและลบคมของลูกค้า B2B ของเรา",
-            "action": "ติดตามความผันผวนของราคาวัตถุดิบและปรับกลยุทธ์การสต็อกสินค้าสำหรับกลุ่มผลิตภัณฑ์กระดาษทรายและหินเจียรโลหะหนัก"
+            "title": "อุตสาหกรรมเหล็กโลกเผชิญศึกหนักภาวะล้นตลาดและมาตรการกีดกันทางการค้า",
+            "summary": "ตลาดเหล็กทั่วโลกยังคงประสบปัญหาส่วนเกินการผลิตและกำแพงการค้าที่สูงขึ้น สร้างแรงกดดันด้านราคาให้กับผู้ผลิตชิ้นงานโลหะทั่วโลก",
+            "why": "ภาวะล้นตลาดส่งผลต่อกำลังการผลิตและสร้างแรงกดดันด้านต้นทุนแก่ลูกค้ากลุ่มแปรรูปโลหะ ซึ่งกระทบต่อการจัดซื้อวัสดุสิ้นเปลืองอย่างกระดาษทรายและใบเจียร",
+            "action": "ติดตามอัตราการใช้กำลังการผลิตของโรงงานโลหะ และเสนอทางเลือกสินค้ากลุ่มงานขัดที่คุ้มค่าและทนทานสูงเพื่อช่วยลูกค้าลดต้นทุน"
           }
         },
         {
           "id": "20261119-w2",
           "tag": "auto",
           "rating": "amber",
-          "source": "IEA - International Energy Agency",
-          "date": "2026-05-20",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBdlRidlFWTllkZFUwX0tURmp4UmxwenFiRk5tT29WQndpN0xVbU55TV9VRGFJaFBGMm1weTZyczc5MjJ5aDZDVlhqSnh6Mk5EMV84UE0wWk1JWXFjWGpfY0EwN2JXcjZuckx0dVJ1LWFFTjU5bnpSc1lPek1SMWc?oc=5",
-          "title": "Manufacturing and trade - Global EV Outlook 2026",
-          "summary": "The IEA report highlights ongoing changes in global manufacturing footprints and international trade patterns for electric vehicles and their components.",
-          "why": "Shifts in EV manufacturing locations and structural designs affect surface finishing requirements for chassis, structural parts, and battery enclosures.",
-          "action": "Stay aligned with automotive tier suppliers regarding lightweight metal and alloy sanding specifications.",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2025-12-18",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOd3VqZU9yUXhKVmFVYkZ0OEJHaHZBRllYU3laaUZOXzh2OGZXSVdMVDJyZm5YV2Z0UlVEN0xhdURNOHZsQ2U2U2ZzRjRpcUJ3UUxqcVV3cFNucm9tcVpYQjdTN3ZxNjRZcy1aOVpuMk1FTWFsYU45UWw4V2N2NGgzeVJ6YWNscmk3OUJsRkhXNmFoMmVmdnZ2SGVFSEFiYUFXVzNXSmN0UGYtMEM1S0Y0YmQzeTJlR0VMYmJGUjdqaGdVQ3Zx?oc=5",
+          "title": "How automation and AI are powering Xpeng's EV production",
+          "summary": "Leading EV manufacturers are integrating AI and advanced automation into factory assembly lines to boost speed and precision.",
+          "why": "Automated EV production lines demand higher precision robotic deburring and surface preparation tools rather than manual processes.",
+          "action": "Explore automated sanding and deburring solutions suited for robotic integration in modern EV plants.",
           "th": {
-            "title": "การผลิตและการค้า - มุมมองยานยนต์ไฟฟ้าระดับโลกปี 2026",
-            "summary": "รายงานของ IEA เน้นย้ำถึงการเปลี่ยนแปลงอย่างต่อเนื่องในฐานการผลิตระดับโลกและรูปแบบการค้าระหว่างประเทศสำหรับยานยนต์ไฟฟ้าและชิ้นส่วนประกอบ",
-            "why": "การเปลี่ยนแปลงของสถานที่ผลิตรถยนต์ EV และการออกแบบโครงสร้าง ส่งผลต่อความต้องการขัดผิวสำหรับโครงรถ ชิ้นส่วนโครงสร้าง และกล่องแบตเตอรี่",
-            "action": "ติดตามความต้องการของซัพพลายเออร์ยานยนต์ในส่วนของสเปกการขัดโลหะน้ำหนักเบาและโลหะผสม"
+            "title": "ระบบอัตโนมัติและ AI ขับเคลื่อนการผลิต EV ของ Xpeng",
+            "summary": "ผู้ผลิตรถยนต์ไฟฟ้ารายใหญ่กำลังผสานรวม AI และระบบอัตโนมัติขั้นสูงเข้ากับสายการผลิตในโรงงาน เพื่อเพิ่มความเร็วและความแม่นยำ",
+            "why": "สายการผลิต EV แบบอัตโนมัติมีความต้องการเครื่องมือลบคมและเตรียมพื้นผิวด้วยหุ่นยนต์ที่มีความแม่นยำสูง แทนที่กระบวนการใช้แรงงานคน",
+            "action": "ศึกษาและมองหาโซลูชันกระดาษทรายและใบเจียรที่รองรับการใช้งานร่วมกับหุ่นยนต์ในโรงงานอุตสาหกรรมยุคใหม่"
+          }
+        },
+        {
+          "id": "20261119-w3",
+          "tag": "coating",
+          "rating": "green",
+          "source": "Coatings World",
+          "date": "2025-12-10",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVDFJcHBGVXhXMm1MR1R0QkJ4VkNDdnZvcjh2bzJkX1hJYUdJQ1pyOFIxRzVPUXZGUDRheEVHaVhweG14Smk5Z3FCbjhadTM4RnIzLXkxMnBWX3p2UU4ya3dxNXFocWJWd1EyUHhjeEFOWGdwWW1LcllXTFdyUVNEMkxmRGdoblpuc2w5V2RNei0xZmM1S1p5bExhX1otTFBMY0RtbA?oc=5",
+          "title": "Innovation and Technology to Drive Future of European Market",
+          "summary": "The European coatings market is pivoting heavily toward advanced functional technologies and high-durability surface solutions.",
+          "why": "New coating formulations require specific surface roughness and profile preparation, directly impacting abrasive grit selection.",
+          "action": "Keep an eye on European finishing specs to align our abrasive grain profiles with modern coating adhesion requirements.",
+          "th": {
+            "title": "นวัตกรรมและเทคโนโลยีขับเคลื่อนอนาคตตลาดเคมีภัณฑ์เคลือบผิวของยุโรป",
+            "summary": "ตลาดสารเคลือบผิวในยุโรปกำลังมุ่งเน้นไปที่เทคโนโลยีฟังก์ชันขั้นสูงและโซลูชันพื้นผิวที่มีความคงทนสูง",
+            "why": "สูตรสารเคลือบผิวแบบใหม่จำเป็นต้องอาศัยการเตรียมความหยาบและโปรไฟล์ผิวชิ้นงานที่เฉพาะเจาะจง ซึ่งส่งผลโดยตรงต่อการเลือกเบอร์เม็ดทรายขัด",
+            "action": "ติดตามมาตรฐานงานเคลือบผิวจากยุโรป เพื่อปรับกลุ่มผลิตภัณฑ์และเบอร์ความหยาบของวัสดุขัดให้ตอบโจทย์การยึดเกาะของสารเคลือบสมัยใหม่"
           }
         }
       ]
