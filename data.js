@@ -3,64 +3,64 @@ window.NEWS_ARCHIVE = {
   "days": [
     {
       "date": "2026-11-20",
-      "summary": "Today has limited new developments as major EV policy and steel industry moves were already covered previously. Key medium-term opportunities remain centered on U-Tapao MRO aerospace expansion, cumulative BOI EV manufacturing investments, and regional furniture export production.",
-      "directCount": 0,
+      "summary": "Today has limited new developments. The primary focus is on the Thai Prime Minister's direct engagement with BYD in China to deepen EV production, contrasted with analytical warnings regarding the slowdown of Japanese automotive investments in Thailand.",
+      "directCount": 2,
       "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มาก เนื่องจากประเด็นหลักด้านนโยบาย EV และอุตสาหกรรมเหล็กได้รับการรายงานไปแล้วก่อนหน้านี้ อย่างไรก็ตาม โอกาสระยะกลางยังอยู่ที่การขยายศูนย์ซ่อมบำรุงอากาศยาน MRO อู่ตะเภา, ยอดลงทุน EV จากบีโอไอ และการผลิตเฟอร์นิเจอร์ส่งออกในภูมิภาค"
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก ประเด็นสำคัญอยู่ที่นายกฯ ไทยเข้าพบผู้บริหาร BYD ในจีนเพื่อผลักดันฐานการผลิต EV ครบวงจร ควบคู่กับคำเตือนจากนักวิเคราะห์เรื่องการชะลอตัวของการลงทุนจากค่ายรถยนต์ญี่ปุ่นซึ่งเป็นฐานลูกค้าหลักดั้งเดิม"
       },
       "items": [
         {
           "id": "20261120-1",
-          "tag": "aero",
-          "rating": "amber",
-          "source": "Thansettakij",
-          "date": "2026-06-16",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pbFFnQlhiSG5UMVBfTjVmMUZtNXc4ZkYyOFljMVFtQlQwalZ5WUpidFlzX3prejlBWGoydDYzUUZXMlY4bE56VFUwZnZrLVJfWlRtV2t0Wi0xOWkzeVFLTUFJOVIwUQ?oc=5",
-          "title": "EECO Positions U-Tapao MRO Hub as VietJet Studies Investment Plan",
-          "summary": "The Eastern Economic Corridor Office is moving forward with the U-Tapao aviation maintenance hub, awaiting VietJet's feasibility study to submit a joint investment plan alongside Thai Airways. This initiative aims to build a comprehensive regional aircraft maintenance ecosystem in the EEC.",
-          "why": "Expansion of commercial aircraft maintenance facilities in U-Tapao will create steady, high-margin demand for aerospace-grade non-woven abrasives, precision flap wheels, and turbine surface finishing products.",
-          "action": "Monitor VietJet's project approval timeline and initiate early relationships with technical maintenance subcontractors operating under EEC aerospace frameworks.",
+          "tag": "auto",
+          "rating": "green",
+          "source": "Facebook",
+          "date": "2026-11-19",
+          "url": "https://news.google.com/rss/articles/CBMivAZBVV95cUxONnF4SzU1VFNtSTR2S0FYSENCbExPVHJPZTBNdmhlVWUwbTJCb2REbGFrSEtObHE2RFdjS0xKdmh1NXlPMTFJczg5b09qVHRRdWdNcGdFaC1lVjNPNnpzbGdRSjJUaDV1TXdobmtQdnZIM1dmLVlnQmdTVWk1Mm5tY21PZ3dXd09idTkxVUw4eVBCaS1lTElTODNyUmRhbnQtNHIwZXZoWnVDUU05cE5uVk5wRml1T2ZWTENNeTA3cVY1eENUTXZ6bVBWNDU3MVo3QVRBa3JsUHFVV2FHUEw2LXBIQWMtRnViR1RXbE9UYlg5M1RGWHBUMl9lUVh4NkoySlMwN2VYOG5NSmIwcnR2SmpINW9Ha25KWVlIOGVKd1VrT0E4d2hxb0J6SjIwT0RiQXF3dHVFYWpKUGk0SGVReXNRZXI5SlpiTEN2WndLZVhUNUVOWkpmOGFKcXFWYm5JdWp1OTN1c0tzWUJrTWtFSEpkQUtXWXdoY0JlQmNTQjVSN0pndTgweS1Ec2VYVHpGeDQ4aTJhcTJCWkxNcXc3cnRicHNLN3VCRUhvUEllYm55VnBRUzhXRUNMQnphTXQ1bWstbU5RLXYyVDREdHAzYWpNeDJyWDZmZ1NoZThtV0ZPVWdCRGZoWHVZQXU0V0ZzSW94VmRKczVnc3NWMGtBVVJQNFMzZ3RtaVkyQ2dOYlZnUHhNM0RtV2haMV9nU3lJeE5kcS05cG45T3NLSHFJU3doeG1IMkd5c0s3M0oxM1l3YjM2VDh1WVFHRTBTUW95ak1lYVBxRDFCUWZjMl9WZVU0OEZpV0taZ3VxRkNfNm9YR2s4SXRNRVR6enc4ek01bGZyWmRseTZ4bFlpMHNnb2NSaVlOTjZSOHdzbWJFU3ZhOC02NHFDQmQ1X2EwMnRmejlYNzR0cUVlRDY2OWtjZmZKckFYbmh6SGp5eVdESUt3Y3hpb3VvTURhLVNkY3FkY0xBMHRjZGp2OFhxX1IyajdDRWVHdEVhUklMdWlhLWtESE1rTDRiTDVCZ2xPRlNVUUFFbzEydGVuUW4wdk1QUHFqTG41aTBoZnFQdmd5WjZwZWJZSmJBZ2NYRFA?oc=5",
+          "title": "Thai PM Meets BYD Leadership in China to Deepen EV and Tech Manufacturing Hub",
+          "summary": "Prime Minister Anutin Charnvirakul met top executives of BYD in China to accelerate bilateral investment in electric vehicle manufacturing, advanced robotics, and local technology integration.",
+          "why": "Expansion of BYD's domestic manufacturing ecosystem increases metal stamping, weld grinding, and automated surface finishing work among tier suppliers in Thailand.",
+          "action": "Map out BYD's localized Tier 1 and Tier 2 chassis and body stamping contractors in the Eastern Seaboard to pitch automated sanding belts and deburring discs.",
           "th": {
-            "title": "EECO ปักหมุดศูนย์ซ่อมฯ อู่ตะเภา รอ ‘เวียตเจ็ท’ ศึกษาชงแผนลงทุน",
-            "summary": "สำนักงาน EEC เดินหน้าพัฒนาศูนย์ซ่อมบำรุงอากาศยานอู่ตะเภา โดยรอผลการศึกษาความคุ้มค่าจากสายการบินเวียตเจ็ทเพื่อยื่นแผนลงทุนร่วมกับการบินไทย มุ่งปั้นเป็นศูนย์กลางการซ่อมบำรุงระดับภูมิภาค",
-            "why": "การขยายตัวของศูนย์ซ่อมบำรุงเครื่องบินในเขต EEC จะสร้างความต้องการวัสดุขัดเกรดการบิน ลูกขัดเงา และกระดาษทรายความละเอียดสูงสำหรับงานผิวชิ้นส่วนอากาศยานในระยะยาว",
-            "action": "ติดตามความคืบหน้าการอนุมัติการลงทุนของเวียตเจ็ท และเริ่มเจรจาสร้างคอนเนกชันกับผู้รับเหมาช่วงงานซ่อมบำรุงในพื้นที่ EEC ล่วงหน้า"
+            "title": "นายกฯ เยือนจีนพบผู้บริหาร BYD ต่อยอดลงทุนยานยนต์ไฟฟ้าและเทคโนโลยีการผลิตครบวงจร",
+            "summary": "นายกฯ อนุทิน ชาญวีรกูล พบผู้บริหารระดับสูงของ BYD เพื่อผลักดันความร่วมมือลงทุนผลิตยานยนต์ไฟฟ้า พัฒนาบุคลากร และเสริมความแข็งแกร่งของห่วงโซ่อุตสาหกรรมในไทย",
+            "why": "การขยายการผลิตของ BYD ในไทยกระตุ้นงานปั๊มขึ้นรูป เจียรแนวเชื่อม และขัดแต่งผิวโลหะในกลุ่มโรงงานซัพพลายเออร์ชิ้นส่วน",
+            "action": "จัดทำรายชื่อโรงงานผู้ผลิตชิ้นส่วนโครงสร้างและตัวถังในห่วงโซ่ของ BYD แถบ EEC เพื่อนำเสนอสายพานขัดและจานทรายสำหรับระบบอัตโนมัติ"
           }
         },
         {
           "id": "20261120-2",
           "tag": "auto",
           "rating": "amber",
-          "source": "Thaigov",
-          "date": "2026-07-02",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zOHo0X01meExtendzNTNja1RMTUxKa2dWM0hFZ1JrRzJ4dmJPLWhSdHVwb19IU01fVTRVOWtaX2lkMVJUSlRPb3FCNVg5UQ?oc=5",
-          "title": "BOI Reports EV Investment Exceeds 130 Billion Baht Backing Complete Ecosystem",
-          "summary": "The Board of Investment revealed cumulative EV project approvals exceeding 130 billion baht, covering electric vehicle assembly, core components, and battery module production. The state continues to push Thailand as a multi-technology automotive manufacturing hub.",
-          "why": "As new EV and component facilities establish production lines, factory fabrication demands for chassis weld preparation, battery casing deburring, and precision metal finishing will expand significantly.",
-          "action": "Target procurement teams at Tier-1 and Tier-2 auto parts suppliers holding BOI certificates with MK's high-efficiency flap discs and ceramic grinding belts.",
+          "source": "Thansettakij",
+          "date": "2026-11-16",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50VndFMTVEVEJOQkN2ZEhsN3NFUjNpRGwwQ0wtNkR5SDdGS2hIcldzdGdOaUVGdkFGN0hMYVRmazZvQlhlU2xCRGNyNnZZdnh4UTlfZDJfck9YNnQzMkVWdjJXYTdOal9yYVduVWdn?oc=5",
+          "title": "Experts Warn Japanese Investment in Thailand is Slowing Down Amid Chinese EV Surge",
+          "summary": "Industry analysts caution that Japanese automakers are decelerating their Thai investments, urging the government to review tax policies and JTEPA terms to maintain their competitiveness against Chinese EV manufacturers.",
+          "why": "Japanese automotive and parts plants represent our core recurring abrasive buyers; any prolonged production contraction threatens our baseline industrial revenue.",
+          "action": "Diversify business development towards Chinese EV tier suppliers while offering value-engineered, cost-saving abrasive test runs to retain Japanese clients.",
           "th": {
-            "title": "บีโอไอเผยยอดลงทุน EV ทะลุ 1.3 แสนล้าน หนุนเป้าฐานผลิตยานยนต์ไฟฟ้าครบวงจร",
-            "summary": "บีโอไอเผยตัวเลขการส่งเสริมการลงทุนโครงการ EV และชิ้นส่วนสำคัญสะสมทะลุ 1.3 แสนล้านบาท ครอบคลุมการผลิตยานยนต์ แบตเตอรี่ และชิ้นส่วนหลัก เพื่อขับเคลื่อนไทยสู่ฐานการผลิตยานยนต์ชั้นนำ",
-            "why": "การเปิดโรงงานประกอบและผลิตชิ้นส่วนยานยนต์ไฟฟ้าใหม่ๆ จะช่วยเพิ่มปริมาณการใช้งานวัสดุขัดรอยเชื่อมโครงสร้าง ลบครีบกล่องแบตเตอรี่ และเตรียมผิวชิ้นส่วนโลหะอย่างมาก",
-            "action": "จัดทีมขายเจาะกลุ่มผู้ผลิตชิ้นส่วน Tier-1 และ Tier-2 ที่ได้รับบัตรส่งเสริมการลงทุนจากบีโอไอ เพื่อเสนอจานทรายซ้อนและสายพานขัดเซรามิกเกรดอุตสาหกรรม"
+            "title": "ผู้เชี่ยวชาญเตือนทุนญี่ปุ่นชะลอลงทุนไทย จี้รัฐรื้อภาษี-ทบทวน JTEPA แข่งทุนจีน",
+            "summary": "นักวิเคราะห์ชี้ทุนยานยนต์ญี่ปุ่นเริ่มชะลอการลงทุนในไทย เสนอรัฐบาลทบทวนโครงสร้างภาษีและข้อตกลง JTEPA เพื่อช่วยให้แข่งขันกับค่าย EV จีนได้",
+            "why": "โรงงานยานยนต์และชิ้นส่วนญี่ปุ่นคือฐานลูกค้ารายใหญ่เดิมของ MK หากกลุ่มนี้ชะลอการผลิตจะกระทบยอดสั่งซื้อวัสดุขัดอย่างมีนัยสำคัญ",
+            "action": "เร่งกระจายความเสี่ยงไปเปิดบัญชีลูกค้าซัพพลายเออร์จีน พร้อมจัดโปรแกรมทดสอบวัสดุขัดรุ่นลดต้นทุนเพื่อช่วยประคองฐานลูกค้าญี่ปุ่น"
           }
         },
         {
           "id": "20261120-3",
-          "tag": "furniture",
-          "rating": "amber",
-          "source": "posttoday",
-          "date": "2026-02-20",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxXzVZOHRNaDlMYzJBM2F6S1FPc0Vkcy1Sc2JWRnl1VklJY2ZCSEpsOUJ0RG13b0I1cHBpXzBUOUhlSHdpdV9uV1cyZGJHT2pNaF83cw?oc=5",
-          "title": "ASEAN Furniture Sector Expands as Four Nations Control 90% of Regional Exports",
-          "summary": "The ASEAN furniture industry demonstrates robust export growth, with Vietnam, Malaysia, Indonesia, and Thailand dominating over 90% of total regional shipments. Thai manufacturers are adapting toward higher-value and sustainable wood products.",
-          "why": "Active wood and metal furniture export production sustains regular, high-volume consumption of wide sanding belts, abrasive rolls, and orbital sanding discs for automated and manual finishing lines.",
-          "action": "Pitch durable wide sanding belts and abrasive rolls directly to export-oriented furniture plants, while bundling orbital sanding discs on Shopee and TikTok for woodworking workshops.",
+          "tag": "auto",
+          "rating": "green",
+          "source": "TNN Thailand",
+          "date": "2026-11-16",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1IZ3c4ejZYSUJRRE1yVFFHNWF2c1FwZG9HWVNocV9IaDJMNmZJUldZT2hQRm8xUEdDQWxPQXlXRXBVV0RjYU92YVp0dzBDRXZMdXBRVnBPWkZyay1aRjd6WjFoQQ?oc=5",
+          "title": "Domestic Auto Parts Makers Positioned to Gain as 35% Tariff Curbs CBU EV Imports",
+          "summary": "Financial and industrial analysts observe that the impending 35% tariff on imported completely built-up (CBU) electric vehicles will force automakers to shift component sourcing directly to local Thai factories.",
+          "why": "A rapid increase in domestic stamping, machining, and welding of vehicle chassis components directly scales shop-floor consumption of flap discs, grinding wheels, and finishing belts.",
+          "action": "Prepare and dispatch product trial sets of MK flap discs and deburring non-woven abrasives to tier-level metal stamping facilities.",
           "th": {
-            "title": "อุตสาหกรรมเฟอร์นิเจอร์อาเซียนขยายตัว 4 ชาติครองสัดส่วนส่งออก 90%",
-            "summary": "อุตสาหกรรมเฟอร์นิเจอร์ในภูมิภาคอาเซียนเติบโตต่อเนื่อง โดยมีเวียดนาม มาเลเซีย อินโดนีเซีย และไทย ครองส่วนแบ่งการส่งออกรวมกันกว่า 90% ซึ่งผู้ผลิตไทยเน้นปรับตัวสู่งานไม้ที่มีมูลค่าสูงและยั่งยืน",
-            "why": "การเดินเครื่องผลิตของโรงงานเฟอร์นิเจอร์ไม้และโลหะเพื่อการส่งออก ก่อให้เกิดการใช้วัสดุขัดแบบหมุนเวียนต่อเนื่อง โดยเฉพาะกระดาษทรายสายพานกว้างและจานทรายกลม",
-            "action": "นำเสนอกระดาษทรายสายพานหน้ากว้างแก่อุตสาหกรรมเฟอร์นิเจอร์ส่งออก พร้อมจัดเซ็ตจานทรายกลมสำหรับงานไม้ขายผ่านช่องทาง Shopee และ TikTok ให้ช่างไม้ทั่วไป"
+            "title": "จับตาหุ้นและผู้ผลิตชิ้นส่วนไทยรับอานิสงส์ รัฐขึ้นภาษี 35% สกัด EV นำเข้าสำเร็จรูป",
+            "summary": "นักวิเคราะห์ประเมินว่ามาตรการภาษีนำเข้ารถยนต์ไฟฟ้า CBU 35% จะบีบให้ค่ายรถยนต์ต้องหันมาสั่งซื้อและผลิตชิ้นส่วนโลหะและตัวถังในประเทศเพิ่มขึ้น",
+            "why": "การผลิตชิ้นส่วนโลหะ ปั๊มขึ้นรูป และการเชื่อมประกอบภายในประเทศที่เพิ่มขึ้น จะผลักดันการใช้วัสดุขัดแต่งแนวเชื่อมและลบครีบโดยตรง",
+            "action": "จัดชุดตัวอย่างจานทรายซ้อน (Flap Disc) และลูกขัดใยสังเคราะห์สำหรับงานลบคมเพื่อเข้าสาธิต ณ โรงงานปั๊มและประกอบชิ้นส่วนยานยนต์เป้าหมาย"
           }
         }
       ],
