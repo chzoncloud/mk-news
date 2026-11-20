@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-11-20",
-      "summary": "Today's briefing focuses on global manufacturing shifts, including EV supply chain trends, global materials outlooks, and industrial surface finishing demands.",
+      "summary": "Global markets show rising demand for precision finishing and surface preparation driven by new manufacturing standards, while steel and automotive sectors continue to navigate overcapacity and digital factory shifts.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปข่าวสารประจำวันนี้เน้นการเปลี่ยนแปลงของภาคการผลิตระดับโลก รวมถึงแนวโน้มห่วงโซ่อุปทาน EV มุมมองวัสดุทั่วโลก และความต้องการด้านการเตรียมพื้นผิวอุตสาหกรรม"
+        "summary": "ตลาดโลกมีความต้องการสูงขึ้นในด้านการขัดตกแต่งผิวความละเอียดสูง ขับเคลื่อนโดยมาตรฐานการผลิตใหม่ๆ ในขณะที่อุตสาหกรรมเหล็กและยานยนต์ยังคงต้องรับมือกับภาวะล้นตลาดและการเปลี่ยนผ่านสู่โรงงานดิจิทัล"
       },
       "items": [
         {
           "id": "20261120-w1",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "IEA - International Energy Agency",
-          "date": "2026-05-20",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBdlRidlFWTllkZFUwX0tURmp4UmxwenFiRk5tT29WQndpN0xVbU55TV9VRGFJaFBGMm1weTZyczc5MjJ5aDZDVlhqSnh6Mk5EMV84UE0wWk1JWXFjWGpfY0EwN2JXcjZuckx0dVJ1LWFFTjU5bnpSc1lPek1SMWc?oc=5",
-          "title": "Manufacturing and trade - Global EV Outlook 2026",
-          "summary": "The IEA report highlights ongoing changes in global EV manufacturing and trade patterns, affecting component production lines worldwide.",
-          "why": "EV production shifts change how metal parts, chassis, and batteries are manufactured, directly impacting demand for specialized deburring and surface finishing tools.",
-          "action": "Monitor EV supply chain expansions to identify new opportunities for supplying precision grinding and sanding materials.",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "EIN Presswire",
+          "date": "2026-10-19",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSjhkTzJtTDVqMnZzNFpJeU9jZFdkUnBHZE5VM3pwdHdRazM4YnN3Z2UxU0s3amExYWNYYkROT0ZBbko1UkhUZU9lZ2V1MzlnLWY5dlM3VWZuWU83M1dZbXkteEFxT2twejZrN1NUVGp6aHFFc2RkMHpsR3IwOTRlNTFjN1JDS3ZpTkhUUjVDOFpTaVd0S3kyVFZKQXhiLTNGQlNOVjYyaDI1RE9ORmtlR2JOSEpfMEJsakVJbERJSXpzMFNWOGFoSFR1VXpnRG56bnVNeWhKOS1XbXcwNE5yMkg3LS1mNWs?oc=5",
+          "title": "Abrasives Market to Reach $72.2 Billion by 2030, Growing at a 7.6% CAGR Driven by Precision Finishing Demand",
+          "summary": "The global abrasives market is projected to reach $72.2 billion by 2030, supported by a 7.6% CAGR fueled by strong demand for precision finishing.",
+          "why": "Validates long-term global growth in our exact sector, proving that precision surface finishing remains a core driver in manufacturing.",
+          "action": "Prepare for higher customer expectations on abrasive quality and precision grade consistency.",
           "th": {
-            "title": "การผลิตและการค้า - มุมมองยานยนต์ไฟฟ้าโลกปี 2026",
-            "summary": "รายงานจาก IEA เน้นย้ำถึงการเปลี่ยนแปลงอย่างต่อเนื่องในรูปแบบการผลิตและการค้ารถยนต์ไฟฟ้าทั่วโลก ซึ่งส่งผลกระทบต่อสายการผลิตชิ้นส่วนทั่วโลก",
-            "why": "การเปลี่ยนแปลงการผลิต EV ส่งผลต่อกระบวนการผลิตชิ้นส่วนโลหะ ตัวถัง และแบตเตอรี่ ซึ่งเกี่ยวข้องโดยตรงกับความต้องการเครื่องมือขัดและเตรียมพื้นผิวเฉพาะทาง",
-            "action": "ติดตามการขยายตัวของห่วงโซ่อุปทาน EV เพื่อค้นหาโอกาสใหม่ในการจัดหาวัสดุกรัดและขัดผิวที่มีความแม่นยำสูง"
+            "title": "ตลาดวัสดุขัดผิวพุ่งแตะ 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 หนุนโดยความต้องการขัดแต่งความแม่นยำสูง",
+            "summary": "ตลาดวัสดุขัดผิวทั่วโลกคาดว่าจะเติบโตถึง 72.2 หมื่นล้านดอลลาร์สหรัฐฯ ภายในปี 2030 ด้วยอัตราการเติบโตเฉลี่ย 7.6% จากความต้องการงานขัดผิวที่มีความแม่นยำสูง",
+            "why": "ยืนยันการเติบโตในระยะยาวของตลาดกลุ่มสินค้าที่เราจำหน่ายโดยตรง และแสดงให้เห็นว่างานขัดผิวละเอียดคือหัวใจสำคัญของการผลิตยุคใหม่",
+            "action": "เตรียมรับมือกับความคาดหวังของลูกค้าที่สูงขึ้นในด้านคุณภาพและความสม่ำเสมอของเกรดวัสดุขัด"
           }
         },
         {
           "id": "20261120-w2",
-          "tag": "steel",
+          "tag": "auto",
           "rating": "amber",
-          "source": "McKinsey & Company",
-          "date": "2026-10-13",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdnNVdDFMS2JxSVFHY2loZDFNZ19DZW5kWGVTclltOHBvbGdGdnFPaWdvZG1SVFg2OFdMcWhXbzY5a211NjdTV1BTeUU4ZzFIOEVGNmluS3M2X3FIY2sweW0yWVFBenpNYjlmWk45R2k1Rkgyd05td1F2X2I4N0RMX0FXX3pYeWVJSUVVSVdybGF4SGdnVDM2ZnQtaUEyNGs?oc=5",
-          "title": "Global Materials Perspective 2026",
-          "summary": "McKinsey outlines shifting demand and supply dynamics across global industrial raw materials and metals markets.",
-          "why": "Raw material trends dictate the cost structure and volume of metal fabrication, which influences how much abrasive paper and grinding wheels factories consume.",
-          "action": "Keep an eye on metal material costs and production volumes to anticipate customer demand fluctuations.",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-11-06",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPU0NJV1VEcllWeWRPU21VOHlULVpnYWR2ZXVmMk5QSHVZNHFYRC1nN2hlUnJ5VmdXNl9LWmRPTmR2X1lzRlBqcl8tOTZxdE9pNkVTRG14R2NpRHIxNTQ2S2NWcGxQeGF5bWxHdGFxWEN5em12c09Wb1piMnlUejBGc08xemxCQjZUd0llY2k4MmxfVUlkaHlIN21FQ1RPeVl2a3YyZ1BZSE4zeVhHWUVFemF6R3ZyR0lLa0lEMUY1R0k3T0ZlblpKZUFKVEFYV3ZDYlZNQTZYSDRYVjRvSjVLSkE2RTlzdl9tNEctT2JWblVNYndVZnNJeg?oc=5",
+          "title": "Register now: Smart factory trends and lessons for 2027: Flexibility, AI and global competitiveness",
+          "summary": "Automotive and advanced manufacturers are shifting toward smart factory setups emphasizing flexibility, AI integration, and agility.",
+          "why": "Smart factories demand automated or high-consistency consumable tools that integrate well into robotic deburring and grinding cells.",
+          "action": "Explore how our product lineup can support automated grinding and robotic surface finishing applications.",
           "th": {
-            "title": "มุมมองวัสดุโลกปี 2026",
-            "summary": "แมคคินเซย์สรุปพลวัตของอุปสงค์และอุปทานที่เปลี่ยนแปลงไปในตลาดวัตถุดิบและโลหะอุตสาหกรรมทั่วโลก",
-            "why": "แนวโน้มวัตถุดิบกำหนดโครงสร้างต้นทุนและปริมาณการผลิตโลหะ ซึ่งส่งผลต่อปริมาณการใช้กระดาษทรายและหินเจียรของโรงงานต่างๆ",
-            "action": "จับตาดูต้นทุนวัสดุโลหะและปริมาณการผลิตเพื่อคาดการณ์ความผันผวนของความต้องการจากลูกค้า"
+            "title": "ลงทะเบียนด่วน: เทรนด์โรงงานอัจฉริยะปี 2027: ความยืดหยุ่น AI และความสามารถในการแข่งขันระดับโลก",
+            "summary": "อุตสาหกรรมยานยนต์และผู้ผลิตขั้นสูงกำลังเปลี่ยนผ่านไปสู่โรงงานอัจฉริยะที่เน้นความยืดหยุ่น การผสานเทคโนโลยี AI และความรวดเร็วในการปรับตัว",
+            "why": "โรงงานอัจฉริยะต้องการเครื่องมือสิ้นเปลืองที่มีความสม่ำเสมอสูงหรือรองรับระบบอัตโนมัติ ซึ่งสามารถใช้งานร่วมกับแขนกลหุ่นยนต์สำหรับงานขัดและลบคมได้ดี",
+            "action": "ศึกษาแนวทางการนำเสนอสินค้าของเราให้สอดคล้องกับงานขัดอัตโนมัติและระบบหุ่นยนต์ในโรงงาน"
           }
         },
         {
           "id": "20261120-w3",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "Vocal",
-          "date": "2025-10-15",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMEswYmdPeklIbjNIS0g2dlR0ZDc5d3lWRi1VRlFiczNncVY2OGk5U3I5ajJCLW5hMHlDM3o5NzZacWp5Rm0xa2RWZnd1QnZRM0h0UUZTekRacmpwNUpaZGwycjBva3JyS3pIYWE2RDZqM24tSV9JQVFHUmFTeXJESEdPN3VtYXZ2TTZEZ1VQbVlNZEJiNlhEejY1b0NzV0NUYXhFVA?oc=5",
-          "title": "Abrasives Market: Rising Manufacturing Demand and Global Growth Trends 2033",
-          "summary": "An analysis of the global abrasives sector highlights steady manufacturing demand and long-term growth driven by precision surface finishing needs.",
-          "why": "Directly tracks our core product category, offering insights into market expansion and technological adoption speed.",
-          "action": "Align our product catalog with high-growth segments like precision coated abrasives and specialized grinding tools.",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "S&P Global",
+          "date": "2026-01-12",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
+          "title": "Global steel industry battles surplus supply, protectionism",
+          "summary": "The global steel sector continues to experience oversupply issues alongside rising international trade protectionism and regional regulations.",
+          "why": "When steel makers face margin pressures and oversupply, they look for cost-effective surface prep tools to optimize finishing lines.",
+          "action": "Keep pricing and value propositions sharp for industrial metal fabrication clients facing tight margins.",
           "th": {
-            "title": "ตลาดวัสดุขัด: ความต้องการด้านการผลิตที่เพิ่มขึ้นและแนวโน้มการเติบโตระดับโลกปี 2033",
-            "summary": "การวิเคราะห์ตลาดวัสดุขัดทั่วโลกเน้นย้ำถึงความต้องการด้านการผลิตที่มั่นคงและการเติบโตในระยะยาว ซึ่งขับเคลื่อนโดยความต้องการการเตรียมพื้นผิวที่มีความแม่นยำสูง",
-            "why": "เกี่ยวข้องโดยตรงกับกลุ่มผลิตภัณฑ์หลักของเรา พร้อมให้ข้อมูลเชิงลึกเกี่ยวกับการขยายตัวของตลาดและความเร็วในการนำเทคโนโลยีมาใช้",
-            "action": "ปรับปรุงแคตตาล็อกสินค้าให้สอดคล้องกับกลุ่มที่มีการเติบโตสูง เช่น กระดาษทรายเคลือบความละเอียดสูงและเครื่องมือเจียรเฉพาะทาง"
+            "title": "อุตสาหกรรมเหล็กโลกเผชิญภาวะล้นตลาดและมาตรการกีดกันทางการค้า",
+            "summary": "ภาคอุตสาหกรรมเหล็กทั่วโลกยังคงประสบปัญหาส่วนเกินด้านอุปทาน ควบคู่ไปกับการเพิ่มขึ้นของมาตรการกีดกันทางการค้าและกฎระเบียบระดับภูมิภาค",
+            "why": "เมื่อผู้ผลิตเหล็กเผชิญกับแรงกดดันด้านกำไรและภาวะล้นตลาด พวกเขาจะมองหาเครื่องมือเตรียมผิวที่คุ้มค่าคุ้มราคาเพื่อช่วยเพิ่มประสิทธิภาพสายการผลิต",
+            "action": "รักษาความยืดหยุ่นด้านราคาและเน้นย้ำจุดคุ้มค่าให้กับลูกค้ากลุ่มแปรรูปโลหะที่กำลังประสบปัญหาต้นทุน"
           }
         }
       ]
