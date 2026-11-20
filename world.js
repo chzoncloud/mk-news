@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-11-20",
-      "summary": "Today's briefing highlights global shifts in EV manufacturing regulations, industrial coatings innovations, and metal market pressures, signaling critical changes in surface preparation and manufacturing demand.",
+      "summary": "Today's briefing focuses on global manufacturing shifts, including EV supply chain trends, global materials outlooks, and industrial surface finishing demands.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปข้อมูลแนวโน้มโลกวันนี้เน้นการเปลี่ยนแปลงด้านกฎระเบียบการผลิต EV นวัตกรรมสารเคลือบอุตสาหกรรม และแรงกดดันในตลาดโลหะ ซึ่งบ่งชี้ถึงการเปลี่ยนแปลงที่สำคัญในด้านการเตรียมผิวชิ้นงานและความต้องการของภาคการผลิต"
+        "summary": "สรุปข่าวสารประจำวันนี้เน้นการเปลี่ยนแปลงของภาคการผลิตระดับโลก รวมถึงแนวโน้มห่วงโซ่อุปทาน EV มุมมองวัสดุทั่วโลก และความต้องการด้านการเตรียมพื้นผิวอุตสาหกรรม"
       },
       "items": [
         {
           "id": "20261120-w1",
           "tag": "auto",
-          "rating": "green",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-11-09",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUEhWWFVvZ013aGRlbWZoTlRpblBlTFZRRC1yX1FzUDhCN2FSTGVuV1lYTS00XzViRGsxREtkb1hKYzN0T2NLd1BySWZzTzdKVG9XLXlhS1RZQXJ2dS1yOFJlWTVwaDFfV2otN29fR2ota1dzcm5aU1dHZTZJcGNYZ2dQQk90MGY1bVd0LWdodXNELUczNUFidXctNjNCUDZBa2c1WnZmZUR0YUVnVnphMnRaUG9JLWNpWXM4R3ZkbE1pNUs3?oc=5",
-          "title": "COP31 electrification shake-up: EV rules meet factory reality",
-          "summary": "Recent global policy shifts at COP31 are forcing automotive factories to reconcile strict electrification mandates with practical manufacturing realities.",
-          "why": "EV production changes alter body-in-white prep, welding seam cleaning, and specialized composite/aluminum finishing needs.",
-          "action": "Monitor EV production adjustments and prepare for lightweight material finishing requirements.",
+          "rating": "amber",
+          "source": "IEA - International Energy Agency",
+          "date": "2026-05-20",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBdlRidlFWTllkZFUwX0tURmp4UmxwenFiRk5tT29WQndpN0xVbU55TV9VRGFJaFBGMm1weTZyczc5MjJ5aDZDVlhqSnh6Mk5EMV84UE0wWk1JWXFjWGpfY0EwN2JXcjZuckx0dVJ1LWFFTjU5bnpSc1lPek1SMWc?oc=5",
+          "title": "Manufacturing and trade - Global EV Outlook 2026",
+          "summary": "The IEA report highlights ongoing changes in global EV manufacturing and trade patterns, affecting component production lines worldwide.",
+          "why": "EV production shifts change how metal parts, chassis, and batteries are manufactured, directly impacting demand for specialized deburring and surface finishing tools.",
+          "action": "Monitor EV supply chain expansions to identify new opportunities for supplying precision grinding and sanding materials.",
           "th": {
-            "title": "ความสั่นคลอนจากการเปลี่ยนผ่านสู่ไฟฟ้า COP31: กฎระเบียบ EV เผชิญความจริงในโรงงาน",
-            "summary": "การเปลี่ยนแปลงนโยบายระดับโลกครั้งล่าสุดที่งาน COP31 กำลังบีบให้โรงงานยานยนต์ต้องปรับข้อบังคับด้านการใช้ไฟฟ้าให้สอดคล้องกับความเป็นจริงในการผลิต",
-            "why": "การเปลี่ยนแปลงการผลิต EV ส่งผลต่อการเตรียมพื้นผิวตัวถังรถยนต์ การทำความสะอาดแนวเชื่อม และความต้องการขัดแต่งวัสดุผสมหรืออลูมิเนียม",
-            "action": "ติดตามการปรับเปลี่ยนการผลิตรถยนต์ EV และเตรียมความพร้อมสำหรับความต้องการในการขัดแต่งวัสดุน้ำหนักเบา"
+            "title": "การผลิตและการค้า - มุมมองยานยนต์ไฟฟ้าโลกปี 2026",
+            "summary": "รายงานจาก IEA เน้นย้ำถึงการเปลี่ยนแปลงอย่างต่อเนื่องในรูปแบบการผลิตและการค้ารถยนต์ไฟฟ้าทั่วโลก ซึ่งส่งผลกระทบต่อสายการผลิตชิ้นส่วนทั่วโลก",
+            "why": "การเปลี่ยนแปลงการผลิต EV ส่งผลต่อกระบวนการผลิตชิ้นส่วนโลหะ ตัวถัง และแบตเตอรี่ ซึ่งเกี่ยวข้องโดยตรงกับความต้องการเครื่องมือขัดและเตรียมพื้นผิวเฉพาะทาง",
+            "action": "ติดตามการขยายตัวของห่วงโซ่อุปทาน EV เพื่อค้นหาโอกาสใหม่ในการจัดหาวัสดุกรัดและขัดผิวที่มีความแม่นยำสูง"
           }
         },
         {
           "id": "20261120-w2",
-          "tag": "coating",
-          "rating": "green",
-          "source": "European Coatings",
-          "date": "2026-09-09",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
-          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
-          "summary": "The coatings sector is emphasizing digital integration and sustainability to drive the next wave of industrial surface finishing technologies.",
-          "why": "Advanced coatings directly impact how surface preparation, sanding profiles, and pre-painting abrasives must be specified.",
-          "action": "Stay aligned with sustainable and advanced coating trends that require high-precision surface prep.",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "McKinsey & Company",
+          "date": "2026-10-13",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdnNVdDFMS2JxSVFHY2loZDFNZ19DZW5kWGVTclltOHBvbGdGdnFPaWdvZG1SVFg2OFdMcWhXbzY5a211NjdTV1BTeUU4ZzFIOEVGNmluS3M2X3FIY2sweW0yWVFBenpNYjlmWk45R2k1Rkgyd05td1F2X2I4N0RMX0FXX3pYeWVJSUVVSVdybGF4SGdnVDM2ZnQtaUEyNGs?oc=5",
+          "title": "Global Materials Perspective 2026",
+          "summary": "McKinsey outlines shifting demand and supply dynamics across global industrial raw materials and metals markets.",
+          "why": "Raw material trends dictate the cost structure and volume of metal fabrication, which influences how much abrasive paper and grinding wheels factories consume.",
+          "action": "Keep an eye on metal material costs and production volumes to anticipate customer demand fluctuations.",
           "th": {
-            "title": "กำหนดอนาคตยุคใหม่แห่งสารเคลือบ: นวัตกรรม ความยั่งยืน และพลังแห่งดิจิทัล",
-            "summary": "ภาคส่วนสารเคลือบกำลังให้ความสำคัญกับการบูรณาการดิจิทัลและความยั่งยืน เพื่อขับเคลื่อนเทคโนโลยีการเตรียมผิวอุตสาหกรรมยุคใหม่",
-            "why": "สารเคลือบขั้นสูงส่งผลโดยตรงต่อข้อกำหนดในการเตรียมพื้นผิว การเลือกรูปแบบกระดาษทราย และวัสดุก่อนการพ่นสี",
-            "action": "ติดตามเทรนด์สารเคลือบขั้นสูงและสารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อม ซึ่งต้องใช้การเตรียมพื้นผิวที่มีความแม่นยำสูง"
+            "title": "มุมมองวัสดุโลกปี 2026",
+            "summary": "แมคคินเซย์สรุปพลวัตของอุปสงค์และอุปทานที่เปลี่ยนแปลงไปในตลาดวัตถุดิบและโลหะอุตสาหกรรมทั่วโลก",
+            "why": "แนวโน้มวัตถุดิบกำหนดโครงสร้างต้นทุนและปริมาณการผลิตโลหะ ซึ่งส่งผลต่อปริมาณการใช้กระดาษทรายและหินเจียรของโรงงานต่างๆ",
+            "action": "จับตาดูต้นทุนวัสดุโลหะและปริมาณการผลิตเพื่อคาดการณ์ความผันผวนของความต้องการจากลูกค้า"
           }
         },
         {
           "id": "20261120-w3",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "World Bank Blogs",
-          "date": "2026-06-11",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONzBKVVZhYkZoRERBTm8wSUNzYUY3Y0lZTVhlRXhoMk9qWGUybnc0SFA2dC1KT1ZOV2puSzlLRzhmdDRUVDkwejhFM3JtNm1SY2RpbFoyYWR2Q1J2eHJTME0zd25GSjlaRE1qWG1sQjZsaUpXdjBJd0oyZlBEUklMNkxuNGVWZ3FZVGhZOHJwOWdiZw?oc=5",
-          "title": "Metal prices surge as supply pressures intensify",
-          "summary": "Global metal markets are experiencing price surges driven by escalating supply chain pressures and geopolitical disruptions.",
-          "why": "Fluctuating metal prices affect fabrication volumes and cost pressures for metalworking shops that consume industrial abrasives.",
-          "action": "Track metal market cost trends to anticipate shifts in customer production volumes and purchasing behavior.",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "Vocal",
+          "date": "2025-10-15",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMEswYmdPeklIbjNIS0g2dlR0ZDc5d3lWRi1VRlFiczNncVY2OGk5U3I5ajJCLW5hMHlDM3o5NzZacWp5Rm0xa2RWZnd1QnZRM0h0UUZTekRacmpwNUpaZGwycjBva3JyS3pIYWE2RDZqM24tSV9JQVFHUmFTeXJESEdPN3VtYXZ2TTZEZ1VQbVlNZEJiNlhEejY1b0NzV0NUYXhFVA?oc=5",
+          "title": "Abrasives Market: Rising Manufacturing Demand and Global Growth Trends 2033",
+          "summary": "An analysis of the global abrasives sector highlights steady manufacturing demand and long-term growth driven by precision surface finishing needs.",
+          "why": "Directly tracks our core product category, offering insights into market expansion and technological adoption speed.",
+          "action": "Align our product catalog with high-growth segments like precision coated abrasives and specialized grinding tools.",
           "th": {
-            "title": "ราคาโลหะพุ่งสูงขึ้นเนื่องจากแรงกดดันด้านอุปทานทวีความรุนแรงขึ้น",
-            "summary": "ตลาดโลหะโลกกำลังเผชิญกับราคาที่พุ่งสูงขึ้นจากแรงกดดันด้านซัพพลายเชนและความไม่ ổn ทางภูมิรัฐศาสตร์",
-            "why": "ความผันผวนของราคาโลหะส่งผลกระทบต่อปริมาณการผลิตและต้นทุนของร้านแปรรูปโลหะซึ่งเป็นผู้ใช้กระดาษทรายและหินเจียร",
-            "action": "ติดตามแนวโน้มต้นทุนตลาดโลหะเพื่อคาดการณ์การเปลี่ยนแปลงของปริมาณการผลิตและพฤติกรรมการซื้อของลูกค้า"
+            "title": "ตลาดวัสดุขัด: ความต้องการด้านการผลิตที่เพิ่มขึ้นและแนวโน้มการเติบโตระดับโลกปี 2033",
+            "summary": "การวิเคราะห์ตลาดวัสดุขัดทั่วโลกเน้นย้ำถึงความต้องการด้านการผลิตที่มั่นคงและการเติบโตในระยะยาว ซึ่งขับเคลื่อนโดยความต้องการการเตรียมพื้นผิวที่มีความแม่นยำสูง",
+            "why": "เกี่ยวข้องโดยตรงกับกลุ่มผลิตภัณฑ์หลักของเรา พร้อมให้ข้อมูลเชิงลึกเกี่ยวกับการขยายตัวของตลาดและความเร็วในการนำเทคโนโลยีมาใช้",
+            "action": "ปรับปรุงแคตตาล็อกสินค้าให้สอดคล้องกับกลุ่มที่มีการเติบโตสูง เช่น กระดาษทรายเคลือบความละเอียดสูงและเครื่องมือเจียรเฉพาะทาง"
           }
         }
       ]
