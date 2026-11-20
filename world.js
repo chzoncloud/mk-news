@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "days": [
+    {
+      "date": "2026-11-20",
+      "summary": "Today's briefing highlights global shifts in EV manufacturing regulations, industrial coatings innovations, and metal market pressures, signaling critical changes in surface preparation and manufacturing demand.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปข้อมูลแนวโน้มโลกวันนี้เน้นการเปลี่ยนแปลงด้านกฎระเบียบการผลิต EV นวัตกรรมสารเคลือบอุตสาหกรรม และแรงกดดันในตลาดโลหะ ซึ่งบ่งชี้ถึงการเปลี่ยนแปลงที่สำคัญในด้านการเตรียมผิวชิ้นงานและความต้องการของภาคการผลิต"
+      },
+      "items": [
+        {
+          "id": "20261120-w1",
+          "tag": "auto",
+          "rating": "green",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-11-09",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUEhWWFVvZ013aGRlbWZoTlRpblBlTFZRRC1yX1FzUDhCN2FSTGVuV1lYTS00XzViRGsxREtkb1hKYzN0T2NLd1BySWZzTzdKVG9XLXlhS1RZQXJ2dS1yOFJlWTVwaDFfV2otN29fR2ota1dzcm5aU1dHZTZJcGNYZ2dQQk90MGY1bVd0LWdodXNELUczNUFidXctNjNCUDZBa2c1WnZmZUR0YUVnVnphMnRaUG9JLWNpWXM4R3ZkbE1pNUs3?oc=5",
+          "title": "COP31 electrification shake-up: EV rules meet factory reality",
+          "summary": "Recent global policy shifts at COP31 are forcing automotive factories to reconcile strict electrification mandates with practical manufacturing realities.",
+          "why": "EV production changes alter body-in-white prep, welding seam cleaning, and specialized composite/aluminum finishing needs.",
+          "action": "Monitor EV production adjustments and prepare for lightweight material finishing requirements.",
+          "th": {
+            "title": "ความสั่นคลอนจากการเปลี่ยนผ่านสู่ไฟฟ้า COP31: กฎระเบียบ EV เผชิญความจริงในโรงงาน",
+            "summary": "การเปลี่ยนแปลงนโยบายระดับโลกครั้งล่าสุดที่งาน COP31 กำลังบีบให้โรงงานยานยนต์ต้องปรับข้อบังคับด้านการใช้ไฟฟ้าให้สอดคล้องกับความเป็นจริงในการผลิต",
+            "why": "การเปลี่ยนแปลงการผลิต EV ส่งผลต่อการเตรียมพื้นผิวตัวถังรถยนต์ การทำความสะอาดแนวเชื่อม และความต้องการขัดแต่งวัสดุผสมหรืออลูมิเนียม",
+            "action": "ติดตามการปรับเปลี่ยนการผลิตรถยนต์ EV และเตรียมความพร้อมสำหรับความต้องการในการขัดแต่งวัสดุน้ำหนักเบา"
+          }
+        },
+        {
+          "id": "20261120-w2",
+          "tag": "coating",
+          "rating": "green",
+          "source": "European Coatings",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
+          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
+          "summary": "The coatings sector is emphasizing digital integration and sustainability to drive the next wave of industrial surface finishing technologies.",
+          "why": "Advanced coatings directly impact how surface preparation, sanding profiles, and pre-painting abrasives must be specified.",
+          "action": "Stay aligned with sustainable and advanced coating trends that require high-precision surface prep.",
+          "th": {
+            "title": "กำหนดอนาคตยุคใหม่แห่งสารเคลือบ: นวัตกรรม ความยั่งยืน และพลังแห่งดิจิทัล",
+            "summary": "ภาคส่วนสารเคลือบกำลังให้ความสำคัญกับการบูรณาการดิจิทัลและความยั่งยืน เพื่อขับเคลื่อนเทคโนโลยีการเตรียมผิวอุตสาหกรรมยุคใหม่",
+            "why": "สารเคลือบขั้นสูงส่งผลโดยตรงต่อข้อกำหนดในการเตรียมพื้นผิว การเลือกรูปแบบกระดาษทราย และวัสดุก่อนการพ่นสี",
+            "action": "ติดตามเทรนด์สารเคลือบขั้นสูงและสารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อม ซึ่งต้องใช้การเตรียมพื้นผิวที่มีความแม่นยำสูง"
+          }
+        },
+        {
+          "id": "20261120-w3",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "World Bank Blogs",
+          "date": "2026-06-11",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONzBKVVZhYkZoRERBTm8wSUNzYUY3Y0lZTVhlRXhoMk9qWGUybnc0SFA2dC1KT1ZOV2puSzlLRzhmdDRUVDkwejhFM3JtNm1SY2RpbFoyYWR2Q1J2eHJTME0zd25GSjlaRE1qWG1sQjZsaUpXdjBJd0oyZlBEUklMNkxuNGVWZ3FZVGhZOHJwOWdiZw?oc=5",
+          "title": "Metal prices surge as supply pressures intensify",
+          "summary": "Global metal markets are experiencing price surges driven by escalating supply chain pressures and geopolitical disruptions.",
+          "why": "Fluctuating metal prices affect fabrication volumes and cost pressures for metalworking shops that consume industrial abrasives.",
+          "action": "Track metal market cost trends to anticipate shifts in customer production volumes and purchasing behavior.",
+          "th": {
+            "title": "ราคาโลหะพุ่งสูงขึ้นเนื่องจากแรงกดดันด้านอุปทานทวีความรุนแรงขึ้น",
+            "summary": "ตลาดโลหะโลกกำลังเผชิญกับราคาที่พุ่งสูงขึ้นจากแรงกดดันด้านซัพพลายเชนและความไม่ ổn ทางภูมิรัฐศาสตร์",
+            "why": "ความผันผวนของราคาโลหะส่งผลกระทบต่อปริมาณการผลิตและต้นทุนของร้านแปรรูปโลหะซึ่งเป็นผู้ใช้กระดาษทรายและหินเจียร",
+            "action": "ติดตามแนวโน้มต้นทุนตลาดโลหะเพื่อคาดการณ์การเปลี่ยนแปลงของปริมาณการผลิตและพฤติกรรมการซื้อของลูกค้า"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-11-19",
       "summary": "Today's briefing highlights global market shifts in steel surplus, smart EV production efficiency, and emerging industrial coating innovations that impact surface finishing demands.",
@@ -830,70 +894,6 @@ window.WORLD_ARCHIVE = {
             "summary": "ผู้ผลิตเหล็กในยุโรปกำลังเผชิญกับแรงกดดันด้านกฎระเบียบที่เข้มงวดภายใต้มาตรการปรับคาร์บอนก่อนข้ามพรมแดน (CBAM) ซึ่งส่งผลต่อห่วงโซ่อุปทาน",
             "why": "การเปลี่ยนแปลงในการผลิตเหล็กและการปฏิบัติตามกฎระเบียบส่งผลโดยตรงต่อมาตรฐานการเตรียมพื้นผิวโลหะและต้นทุนการผลิต",
             "action": "ติดตามว่าการเปลี่ยนผ่านสู่เหล็กเขียวส่งผลอย่างไรต่อความต้องการผลิตภัณฑ์เตรียมพื้นผิวในอุตสาหกรรมโลหะส่งออก"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-11-06",
-      "summary": "Today's briefing highlights global shifts in industrial manufacturing, focusing on abrasive market growth driven by precision finishing, emerging abrasive grain supply, and automotive production consolidation in China.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปแนวโน้มโลกประจำวันนี้เน้นการเปลี่ยนแปลงในการผลิตภาคอุตสาหกรรม โดยมุ่งไปที่การเติบโตของตลาดวัสดุขัดจากความต้องการตกแต่งผิวความแม่นยำสูง อุปทานเม็ดขัดใหม่ และการควบรวมกิจการในอุตสาหกรรมรถยนต์ของจีน"
-      },
-      "items": [
-        {
-          "id": "20261106-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "EIN News",
-          "date": "2026-10-19",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM2VsRTlqVWR6dlpoUXpZQ04wNnJsRUNBbndKSnNQODIyUXdnTTlIT0hZMC10bGhEUUk0clZ5ZWZRN0I2eVhiVHVPVmRYd05xWUdJdDJldTBsTkZEUVNBNG5qaE9WeXdDN2dSVzJ2TzNsVFhBNVMzakhwZFR6Z0dQeFFVS0ZPa0dmWmh1dHhiYXVXWWRrbk9XS251Ul9SVS1SZ3NON0VXRWxfOWtzazlNcXhUMVBnU2liODhqaXF6OEdGb2NEYkRoaG9uNmx6MlNjMUd2N3Q0emZnUXltZk1wbg?oc=5",
-          "title": "Abrasives Market to Reach $72.2 Billion by 2030, Growing at a 7.6% CAGR Driven by Precision Finishing Demand",
-          "summary": "The global abrasives market is projected to reach $72.2 billion by 2030, expanding at a 7.6% CAGR, heavily fueled by growing industrial needs for precision finishing.",
-          "why": "Confirms steady long-term global growth for our core product category, especially in high-precision segments.",
-          "action": "Focus marketing and inventory on high-value precision finishing lines rather than low-end commodities.",
-          "th": {
-            "title": "ตลาดวัสดุขัดพุ่งแตะ 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 หนุนโดยความต้องการขัดตกแต่งความแม่นยำสูง",
-            "summary": "ตลาดวัสดุขัดทั่วโลกคาดว่าจะเติบโตถึง 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 ด้วยอัตราการเติบโตเฉลี่ย 7.6% จากความต้องการทางอุตสาหกรรมที่เน้นงานขัดความละเอียดสูง",
-            "why": "ยืนยันการเติบโตระยะยาวของกลุ่มสินค้าหลักของเรา โดยเฉพาะในกลุ่มงานที่มีความแม่นยำสูง",
-            "action": "มุ่งเน้นการทำตลาดและสต็อกสินค้าในกลุ่มงานขัดตกแต่งความละเอียดสูงแทนสินค้าโภคภัณฑ์ทั่วไป"
-          }
-        },
-        {
-          "id": "20261106-w2",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "openPR.com",
-          "date": "2026-10-21",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNGFJajFuQ0J1ZGJza1dDNkQ0MFRlaDV4VFNvbWFKUmZBV2JONGRyVGZxT2ZVRGlwVE5FcmtpbDh4cGJOUHYtRW9obUtmVGtueXFyWnRVdDZ2ZUZtemZyTTl0UXhWbHVvOTJIemd1YkJKaHJwVEU1M0FBMnFRb2NnM0wyLVA0NU1IRlgwWmdsbTNiYnNGU0NDbDRXSQ?oc=5",
-          "title": "Abrasive Grains Market is Expcted to Reach USD 9.14 Billion",
-          "summary": "The abrasive grains market is expanding significantly, projected to hit USD 9.14 billion as raw material demands evolve across industrial applications.",
-          "why": "Raw material costs and availability of abrasive grains directly dictate our manufacturing and sourcing margins.",
-          "action": "Monitor raw material price trends for grains to anticipate upcoming product cost adjustments from suppliers.",
-          "th": {
-            "title": "ตลาดเม็ดวัสดุขัดคาดว่าจะพุ่งถึง 9.14 พันล้านดอลลาร์",
-            "summary": "ตลาดเม็ดวัสดุขัดกำลังขยายตัวอย่างมีนัยสำคัญ โดยคาดว่าจะแตะ 9.14 พันล้านดอลลาร์ ตามความต้องการวัตถุดิบที่พัฒนาไปตามการใช้งานในอุตสาหกรรม",
-            "why": "ต้นทุนและความพร้อมของเม็ดวัสดุขัดส่งผลโดยตรงต่อต้นทุนการจัดหาและอัตรากำไรของเรา",
-            "action": "ติดตามแนวโน้มราคาวัตถุดิบเม็ดขัดเพื่อเตรียมรับมือกับการปรับราคาจากผู้ผลิต"
-          }
-        },
-        {
-          "id": "20261106-w3",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-10-28",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMExMd0h3VTZZUGVhTmVoNENZT0RDYkZhOFlTUzZUd3RmT0RNRGJKVjlQVTBmRnkwa21iZEl6ZlNJYmIzVTjjQzU1eGhrcTFPOHhNQWRlSWVWaDlwR2FIVGZmSWJlQk00ZmNRUE5oc1owOGtPSzM2QzNCY0R4YXJNdjdwWExHVzNDM1JXSGRpMnNTdHQ1QXdnWlk2MFlFc21GRXd5QjVVYVItalFMN2hjZmZqZi1nd2I5aVBhYlRhbTQ?oc=5",
-          "title": "China's car industry consolidation begins: who will survive?",
-          "summary": "China's massive automotive sector is entering a consolidation phase, which will weed out weaker players and shift manufacturing standards among survivors.",
-          "why": "Shifts in the Chinese automotive supply chain impact regional metal stamping, parts manufacturing, and surface finishing requirements.",
-          "action": "Keep an eye on surviving tier-1 automotive suppliers in Asia as key potential targets for industrial abrasive tools.",
-          "th": {
-            "title": "อุตสาหกรรมรถยนต์จีนเริ่มเข้าสู่ช่วงควบรวมกิจการ: ใครจะอยู่รอด?",
-            "summary": "ภาคยานยนต์ขนาดใหญ่ของจีนกำลังเข้าสู่ช่วงการควบรวม ซึ่งจะคัดกรองผู้เล่นที่อ่อนแอออกและเปลี่ยนมาตรฐานการผลิตของผู้ที่อยู่รอด",
-            "why": "ความเปลี่ยนแปลงในห่วงโซ่อุปทานยานยนต์จีนส่งผลกระทบต่อความต้องการปั๊มโลหะ ชิ้นส่วน และการเตรียมพื้นผิวในภูมิภาค",
-            "action": "จับตาดูซัพพลายเออร์ยานยนต์ระดับ 1 ในเอเชียที่รอดชีวิต เพื่อมองหาโอกาสจำหน่ายเครื่องมือขัดอุตสาหกรรม"
           }
         }
       ]
