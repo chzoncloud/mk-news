@@ -2,6 +2,71 @@
 window.NEWS_ARCHIVE = {
   "days": [
     {
+      "date": "2026-11-20",
+      "summary": "Few new stories today as the news cycle repeats previous EV tariff and MRO discussions; key new developments highlight government talks with BYD to deepen Thai EV production alongside warnings regarding slowing Japanese manufacturing FDI.",
+      "directCount": 0,
+      "th": {
+        "summary": "วันนี้มีข่าวใหม่ไม่มากเนื่องจากประเด็นภาษี EV และ MRO ส่วนใหญ่เป็นข่าวเดิม โดยมีความเคลื่อนไหวใหม่ที่น่าจับตาคือการที่นายกฯ เข้าพบผู้บริหาร BYD เพื่อต่อยอดฐานผลิต EV ในไทย ควบคู่กับคำเตือนเรื่องเม็ดเงินลงทุนจากญี่ปุ่นที่เริ่มชะลอตัวลง"
+      },
+      "items": [
+        {
+          "id": "20261120-1",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Facebook",
+          "date": "2026-11-19",
+          "url": "https://news.google.com/rss/articles/CBMivAZBVV95cUxONnF4SzU1VFNtSTR2S0FYSENCbExPVHJPZTBNdmhlVWUwbTJCb2REbGFrSEtObHE2RFdjS0xKdmh1NXlPMTFJczg5b09qVHRRdWdNcGdFaC1lVjNPNnpzbGdRSjJUaDV1TXdobmtQdnZIM1dmLVlnQmdTVWk1Mm5tY21PZ3dXd09idTkxVUw4eVBCaS1lTElTODNyUmRhbnQtNHIwZXZoWnVDUU05cE5uVk5wRml1T2ZWTENNeTA3cVY1eENUTXZ6bVBWNDU3MVo3QVRBa3JsUHFVV2FHUEw2LXBIQWMtRnViR1RXbE9UYlg5M1RGWHBUMl9lUVh4NkoySlMwN2VYOG5NSmIwcnR2SmpINW9Ha25KWVlIOGVKd1VrT0E4d2hxb0J6SjIwT0RiQXF3dHVFYWpKUGk0SGVReXNRZXI5SlpiTEN2WndLZVhUNUVOWkpmOGFKcXFWYm5JdWp1OTN1c0tzWUJrTWtFSEpkQUtXWXdoY0JlQmNTQjVSN0pndTgweS1Ec2VYVHpGeDQ4aTJhcTJCWkxNcXc3cnRicHNLN3VCRUhvUEllYm55VnBRUzhXRUNMQnphTXQ1bWstbU5RLXYyVDREdHAzYWpNeDJyWDZmZ1NoZThtV0ZPVWdCRGZoWHVZQXU0V0ZzSW94VmRKczVnc3NWMGtBVVJQNFMzZ3RtaVkyQ2dOYlZnUHhNM0RtV2haMV9nU3lJeE5kcS05cG45T3NLSHFJU3doeG1IMkd5c0s3M0oxM1l3YjM2VDh1WVFHRTBTUW95ak1lYVBxRDFCUWZjMl9WZVU0OEZpV0taZ3VxRkNfNm9YR2s4SXRNRVR6enc4ek01bGZyWmRseTZ4bFlpMHNnb2NSaVlOTjZSOHdzbWJFU3ZhOC02NHFDQmQ1X2EwMnRmejlYNzR0cUVlRDY2OWtjZmZKckFYbmh6SGp5eVdESUt3Y3hpb3VvTURhLVNkY3FkY0xBMHRjZGp2OFhxX1IyajdDRWVHdEVhUklMdWlhLWtESE1rTDRiTDVCZ2xPRlNVUUFFbzEydGVuUW4wdk1QUHFqTG41aTBoZnFQdmd5WjZwZWJZSmJBZ2NYRFA?oc=5",
+          "title": "Prime Minister Meets BYD Executives to Expand EV and Supply Chain Investment",
+          "summary": "Prime Minister Anutin Charnvirakul met top executives from BYD and Tencent in China to negotiate deeper EV manufacturing partnerships, workforce development, and local industrial integration.",
+          "why": "Expansion of BYD's domestic manufacturing footprint drives metal stamping and body-in-white assembly, shifting abrasive demand from ICE components to EV chassis and battery casing fabrication.",
+          "action": "Map and approach Tier-1/Tier-2 stamping and fabrication suppliers supporting BYD to introduce ceramic flap discs and seam-grinding belts.",
+          "th": {
+            "title": "นายกฯ พบผู้บริหาร BYD เดินหน้าขยายการลงทุนฐานผลิตยานยนต์ไฟฟ้าในไทย",
+            "summary": "นายกฯ อนุทิน ชาญวีรกูล พบผู้บริหารระดับสูงของ BYD และ Tencent ที่ประเทศจีน เพื่อผลักดันความร่วมมือด้านการผลิต EV การถ่ายทอดเทคโนโลยี และการพัฒนาห่วงโซ่อุปทานอุตสาหกรรมในไทย",
+            "why": "การขยายการผลิตของ BYD ในไทยจะเพิ่มปริมาณงานปั๊มขึ้นรูปและประกอบโครงสร้างตัวถัง ซึ่งเปลี่ยนความต้องการใช้วัสดุขัดจากชิ้นส่วนเครื่องยนต์สันดาปไปสู่โครงสร้างแชสซีส์และถาดแบตเตอรี่ EV",
+            "action": "เร่งสำรวจและเข้าพบซัพพลายเออร์ Tier-1/Tier-2 สายงานขึ้นรูปโลหะที่ส่งงานให้ BYD เพื่อเสนอจานทรายเรียงซ้อนและสายพานเซรามิกสำหรับงานเจียรแนวเชื่อม"
+          }
+        },
+        {
+          "id": "20261120-2",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Thansettakij",
+          "date": "2026-11-16",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50VndFMTVEVEJOQkN2ZEhsN3NFUjNpRGwwQ0wtNkR5SDdGS2hIcldzdGdOaUVGdkFGN0hMYVRmazZvQlhlU2xCRGNyNnZZdnh4UTlfZDJfck9YNnQzMkVWdjJXYTdOal9yYVduVWdn?oc=5",
+          "title": "Experts Warn of Slowing Japanese FDI in Thailand, Urging JTEPA Policy Review",
+          "summary": "Industrial experts warn that Japanese investment inflows are slowing significantly amid Chinese EV competition, calling on the Thai government to update JTEPA and tax incentives to retain Japanese factories.",
+          "why": "Japanese automotive and metal fabrication plants form MK's most profitable customer segment; production volume cuts directly reduce consumable abrasive reorders.",
+          "action": "Review top Japanese manufacturing accounts and deploy cost-reduction abrasive trials to help clients lower cost-per-part and retain supply contracts.",
+          "th": {
+            "title": "ผู้เชี่ยวชาญเตือนทุนญี่ปุ่นชะลอลงทุนในไทย จี้รัฐทบทวน JTEPA และมาตรการภาษี",
+            "summary": "ผู้เชี่ยวชาญด้านการค้าเตือนว่าเม็ดเงินลงทุนจากญี่ปุ่นชะลอตัวลงอย่างมีนัยสำคัญจากแรงกดดันของ EV จีน โดยเรียกร้องให้รัฐบาลทบทวนภาษีและข้อตกลง JTEPA เพื่อรักษาฐานโรงงานญี่ปุ่นไว้",
+            "why": "โรงงานยานยนต์และแปรรูปโลหะสัญชาติญี่ปุ่นคือกลุ่มลูกค้าหลักที่สร้างกำไรสูงสุดให้ MK การชะลอหรือลดกำลังผลิตจะกระทบต่อยอดสั่งซื้อวัสดุขัดสิ้นเปลืองซ้ำโดยตรง",
+            "action": "ตรวจสอบสุขภาพยอดซื้อของลูกค้าโรงงานญี่ปุ่นรายสำคัญ พร้อมเสนอโปรแกรมทดสอบวัสดุขัดที่ช่วยลดต้นทุนต่อชิ้นงาน (Cost-down) เพื่อรักษาสัญญาการสั่งซื้อ"
+          }
+        },
+        {
+          "id": "20261120-3",
+          "tag": "auto",
+          "rating": "white",
+          "source": "Businesstoday",
+          "date": "2026-11-19",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IeW5wVmxvbDlWVlktcUFSNnpCN1JZUjV1aW5xVGFXNElvSUF3R1hYVEc4amtWRlpCODhrekoxZGM4VTl2TFJpalA2RmxPSXp0WDVucnFJLVRHR0E3a0VORVZHRWZrS0k?oc=5",
+          "title": "Tesla Ramps Up Shanghai Output as 10-Month Deliveries Surge 21.4%",
+          "summary": "Tesla's Shanghai Gigafactory achieved a 21.4% increase in deliveries during the first 10 months of 2026, demonstrating resilient production momentum in the regional supply chain.",
+          "why": "Reflects overall high factory operating rates in the regional EV sector, though direct local machining and abrasive demand in Thailand remains indirect.",
+          "action": "Track whether high regional Tesla assembly rates spill over into increased export orders for Thai die-casting and precision metal suppliers.",
+          "th": {
+            "title": "เทสลาเดินหน้าเพิ่มการผลิตในจีน ยอดส่งมอบ 10 เดือนแรกพุ่ง 21.4%",
+            "summary": "โรงงาน Gigafactory ของ Tesla ในเซี่ยงไฮ้ทำยอดส่งมอบ 10 เดือนแรกของปี 2569 เติบโต 21.4% สะท้อนถึงการเดินเครื่องผลิตที่แข็งแกร่งของห่วงโซ่อุปทานระดับภูมิภาค",
+            "why": "สะท้อนถึงการผลิตยานยนต์ไฟฟ้าในภูมิภาคที่ยังคงอยู่ในระดับสูง แม้ผลกระทบต่อความต้องการวัสดุขัดในโรงงานไทยจะยังคงเป็นทางอ้อม",
+            "action": "ติดตามดูว่าอัตราการผลิตที่สูงของ Tesla จะช่วยสร้างยอดส่งออกชิ้นส่วนหล่อโลหะและขึ้นรูปความแม่นยำสูงให้แก่โรงงานในไทยหรือไม่"
+          }
+        }
+      ],
+      "terms": {}
+    },
+    {
       "date": "2026-11-18",
       "summary": "Today has relatively few new developments as recent major tariff and steel policy stories were previously covered. Key highlights focus on localized EV parts integration supporting tier-2 metal fabricators, Thai Airways' long-term fleet expansion bolstering regional MRO demand, and the TIWF trade platform elevating industrial woodworking.",
       "directCount": 1,
@@ -789,5 +854,5 @@ window.NEWS_ARCHIVE = {
       "terms": {}
     }
   ],
-  "updated": "2026-11-18"
+  "updated": "2026-11-20"
 };
