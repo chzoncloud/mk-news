@@ -2,6 +2,71 @@
 window.NEWS_ARCHIVE = {
   "days": [
     {
+      "date": "2026-11-21",
+      "summary": "Today has limited new news, but major automotive developments stand out as six Japanese automakers commit 134 billion baht and Changan targets 200,000 units capacity in Thailand, directly boosting industrial abrasive demand.",
+      "directCount": 2,
+      "th": {
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก แต่มีไฮไลต์สำคัญในกลุ่มยานยนต์เมื่อ 6 ค่ายรถญี่ปุ่นประกาศทุ่ม 1.34 แสนล้านบาท และฉางอันเตรียมดันกำลังผลิตในไทยแตะ 2 แสนคัน ส่งผลบวกโดยตรงต่ออุปสงค์วัสดุขัดและเตรียมผิวของเรา"
+      },
+      "items": [
+        {
+          "id": "20261121-1",
+          "tag": "auto",
+          "rating": "green",
+          "source": "LINE TODAY",
+          "date": "2026-11-20",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mOF80OUt3dnZXVVhMQnAtZEI3OUVoWmJjNkFhcnRDU1ZidFZmQjh0MUNEMFd3cTVhMEVxSlNkMEs3M1VYSzI3MVF0M1VfS1lKbmZud1dxTzdQd2RfTU5GVnZRM3Q4S2xScEY2aUhiRW96eGJEUWR5RHdoeXBhUQ?oc=5",
+          "title": "Six Japanese Automakers Commit 134 Billion Baht Investment in Thailand Ahead of 2027 EV Tariffs",
+          "summary": "Six major Japanese automakers pledge a combined 134 billion baht over the next five years to expand and modernize Thai production bases ahead of the 35% EV import tariff.",
+          "why": "Japanese OEMs and their Tier-1 suppliers are our core customer segment; plant modernization and localized assembly directly expand demand for grinding discs and surface prep abrasives.",
+          "action": "Target procurement and engineering teams at Japanese Tier-1/2 metal stamping and body part suppliers to introduce deburring and finishing solutions.",
+          "th": {
+            "title": "6 ค่ายรถญี่ปุ่นทุ่มงบ 1.34 แสนล้านบาทลงทุนในไทย 5 ปี รับมือกำแพงภาษี EV ปี 2570",
+            "summary": "6 ค่ายรถยนต์ยักษ์ใหญ่จากญี่ปุ่นพร้อมทุ่มเม็ดเงินรวม 1.34 แสนล้านบาทใน 5 ปีข้างหน้า เพื่อยกระดับและขยายฐานผลิตในไทยรับมือภาษีนำเข้า EV 35%",
+            "why": "โรงงานญี่ปุ่นและซัพพลายเออร์ชิ้นส่วนคือลูกค้ากลุ่มเป้าหมายหลัก การขยายสายการผลิตในประเทศจะเพิ่มการใช้วัสดุขัด เจียร และเตรียมผิวโลหะอย่างมาก",
+            "action": "เร่งเข้าพบฝ่ายจัดซื้อและวิศวกรโรงงานชิ้นส่วน Tier 1 และ 2 ของค่ายญี่ปุ่นเพื่อนำเสนอจานขัดและกระดาษทรายสำหรับงานเตรียมผิวก่อนพ่นสีและลบครีบ"
+          }
+        },
+        {
+          "id": "20261121-2",
+          "tag": "auto",
+          "rating": "green",
+          "source": "Brand Buffet",
+          "date": "2026-11-21",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVmdQRE9SS0hGV05VeS1sNE9sMkhrQV9PV180cVlwT3ZTcUxnUkY1QW56UFhEMDFtSjY5bzd2ZGxtUUloTjY0TXRVMG1HWGZTQ1pXM1AxNnltOHM5SDhTaGhfZVVieERqVTFIMWtwRjQ0MzN2TVFoZmQ3a3BDcGtBclFjaWs3OGdxVkRELWhNSnVqWTE3VFA4NmdKVEI0d1U?oc=5",
+          "title": "CHANGAN Sets Thailand as Global EV Export Hub, Ramping Production to 200,000 Units Annually",
+          "summary": "Changan Auto is establishing Thailand as its global EV export base with ambitious plans to scale production capacity up to 200,000 vehicles per year.",
+          "why": "Ramping up assembly lines and body manufacturing creates immediate recurring demand for weld-seam grinding, edge deburring, and body-in-white finishing abrasives.",
+          "action": "Reach out to Changan's plant tooling engineers and local sheet metal fabrication vendors to offer trial runs of our sanding belts and flap discs.",
+          "th": {
+            "title": "CHANGAN ปักหมุดไทยฐานผลิต EV ส่งออกโลก เดินหน้าเพิ่มกำลังผลิตสู่ 2 แสนคันต่อปี",
+            "summary": "ฉางอันเร่งเครื่องโรงงานในไทยสู่ฐานส่งออกระดับโลก พร้อมวางเป้าหมายขยายกำลังการผลิตแตะ 200,000 คันต่อปี",
+            "why": "การเร่งกำลังผลิตและการประกอบตัวถังเพื่อส่งออกสร้างความต้องการใช้วัสดุสิ้นเปลืองกลุ่มเจียรรอยเชื่อม ลบคม และขัดผิวก่อนทำสีเพิ่มขึ้นทันที",
+            "action": "เจาะกลุ่มฝ่ายผลิตของโรงงานประกอบฉางอันและซัพพลายเออร์งานปั๊มขึ้นรูปโลหะในไทย เพื่อส่งตัวอย่างสายพานขัดและจานทรายทดสอบในไลน์ผลิต"
+          }
+        },
+        {
+          "id": "20261121-3",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Businesstoday",
+          "date": "2026-11-19",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IeW5wVmxvbDlWVlktcUFSNnpCN1JZUjV1aW5xVGFXNElvSUF3R1hYVEc4amtWRlpCODhrekoxZGM4VTl2TFJpalA2RmxPSXp0WDVucnFJLVRHR0E3a0VORVZHRWZrS0k?oc=5",
+          "title": "Tesla Ramps Up Shanghai EV Production as 10-Month Deliveries Surge 21.4%",
+          "summary": "Tesla's Shanghai Gigafactory increased vehicle output with 10-month deliveries rising 21.4%, highlighting solid manufacturing activity across the regional supply chain.",
+          "why": "Strong regional EV output confirms resilient automotive supply chains, driving local Tier-2 metal component makers to maintain high output and operational efficiency.",
+          "action": "Prepare cost-effective abrasive bundle packages tailored for high-volume automated robotic grinding in automotive sub-assembly plants.",
+          "th": {
+            "title": "Tesla เดินหน้าขยายการผลิตในจีน ยอดส่งมอบ 10 เดือนพุ่ง 21.4%",
+            "summary": "โรงงาน Tesla ในเซี่ยงไฮ้เดินหน้าเร่งการผลิตต่อเนื่อง ดันยอดส่งมอบช่วง 10 เดือนแรกโต 21.4% ตอกย้ำความต้องการผลิตในห่วงโซ่อุปทานระดับภูมิภาค",
+            "why": "การเติบโตของการผลิตยานยนต์ระดับภูมิภาคสะท้อนว่าซัพพลายเชนยังเดินหน้าต่อเนื่อง ส่งผลให้โรงงานชิ้นส่วนโลหะในไทยต้องรักษาความเร็วและมาตรฐานการส่งมอบ",
+            "action": "จัดทำแพ็กเกจสินค้าวัสดุขัดที่เน้นความคุ้มค่าและรองรับงานเจียรขัดอัตโนมัติ เพื่อนำเสนอโรงงานผลิตชิ้นส่วนยานยนต์ที่เน้นปริมาณการผลิตสูง"
+          }
+        }
+      ],
+      "terms": {}
+    },
+    {
       "date": "2026-11-20",
       "summary": "Today has limited new developments. The primary focus is on the Thai Prime Minister's direct engagement with BYD in China to deepen EV production, contrasted with analytical warnings regarding the slowdown of Japanese automotive investments in Thailand.",
       "directCount": 2,
@@ -769,90 +834,7 @@ window.NEWS_ARCHIVE = {
         }
       ],
       "terms": {}
-    },
-    {
-      "date": "2026-11-07",
-      "summary": "Today's fresh news volume is relatively low; key developments center on over 10 global automakers considering local assembly plants and Thai parts makers pivoting to EV manufacturing, directly driving industrial abrasive demand.",
-      "directCount": 2,
-      "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มากนัก โดยประเด็นเด่นอยู่ที่ค่ายรถยนต์กว่า 10 รายสนใจตั้งโรงงานผลิตในไทย และผู้ผลิตชิ้นส่วนเร่งปรับไลน์สู่ชิ้นส่วน EV ซึ่งส่งผลดีโดยตรงต่อความต้องการวัสดุขัดอุตสาหกรรมของ MK"
-      },
-      "items": [
-        {
-          "id": "20261107-1",
-          "tag": "auto",
-          "rating": "green",
-          "source": "Thansettakij",
-          "date": "2026-11-06",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oS3RhNVF0Z01iaDdkQVNTU2gxbUdVcmMzbjN4UTZ1NWU2NU5rdUlWcUFldVdxUHlDZHVvc3VxYUxaQm5LRnhRVFFCUHdUZjVoWVVnODR3?oc=5",
-          "title": "Over 10 Global Automakers Eye Thai Production Following 35% EV Import Tariff",
-          "summary": "Following the cabinet approval of a 35% tariff on imported EVs, more than 10 automakers from China, Europe, and Japan are exploring local assembly plants in Thailand.",
-          "why": "New vehicle assembly lines significantly increase metal grinding, weld seam preparation, and body panel sanding demand, creating direct sales opportunities for MK.",
-          "action": "Map potential plant investments and initiate early contact with procurement teams and tooling contractors setting up new assembly lines.",
-          "th": {
-            "title": "ค่ายรถยนต์กว่า 10 รายเล็งปักหมุดลงทุนผลิตในไทย หลังรัฐเคาะภาษีนำเข้า EV 35%",
-            "summary": "หลังจาก ครม. เห็นชอบขึ้นภาษีนำเข้ารถยนต์ไฟฟ้าเป็น 35% ค่ายรถยนต์กว่า 10 รายจากจีน ยุโรป และญี่ปุ่น เริ่มสนใจเข้ามาลงทุนตั้งโรงงานประกอบในไทย",
-            "why": "การเปิดโรงงานประกอบรถยนต์แห่งใหม่จะเพิ่มความต้องการงานเจียรรอยเชื่อมและขัดเตรียมผิวตัวถังโลหะอย่างมาก ซึ่งเป็นโอกาสขายตรงของ MK",
-            "action": "ทำแผนที่ติดตามค่ายรถยนต์ที่มีแผนลงทุนใหม่ และเริ่มประสานงานกับฝ่ายจัดซื้อหรือผู้รับเหมาติดตั้งสายการผลิตตั้งแต่ระยะเริ่มแรก"
-          }
-        },
-        {
-          "id": "20261107-2",
-          "tag": "auto",
-          "rating": "green",
-          "source": "Thansettakij",
-          "date": "2026-11-06",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QZTFwWmJEUEdab2tPM0dYcDEtakxtRVVPbWRiMHpPQnN1al9oSUllWHdPV3hDZUgxcjJYVjdsY0JaUXVpc0pXMlFFRGRHTHJPUHlWZWxHS01weVFwODdLdGE3akJTb3NhaUFwZnBR?oc=5",
-          "title": "Thai Auto Parts Makers Restructure for EV Influx to Protect 750,000 Jobs",
-          "summary": "Domestic auto parts manufacturers are revamping production lines to manufacture EV structural parts and battery enclosures, safeguarding 750,000 industry workers.",
-          "why": "EV structural components require specialized deburring, aluminum surface conditioning, and precision finishing where MK abrasive belts and flap discs excel.",
-          "action": "Target tier-1 and tier-2 parts makers with product bundles designed for aluminum and lightweight alloy finishing.",
-          "th": {
-            "title": "ผู้ผลิตชิ้นส่วนยานยนต์ไทยปรับฐานรับคลื่นลงทุน EV อุ้มแรงงาน 7.5 แสนคน",
-            "summary": "ผู้ผลิตชิ้นส่วนยานยนต์ในประเทศเร่งปรับเปลี่ยนสายการผลิตเพื่อรองรับการผลิตชิ้นส่วนโครงสร้างและกล่องแบตเตอรี่ EV เพื่อรักษาการจ้างงานในภาคอุตสาหกรรมกว่า 7.5 แสนคน",
-            "why": "ชิ้นส่วนโครงสร้างและชิ้นงาน EV ต้องใช้การลบครีบ (deburring) และขัดเตรียมผิวอะลูมิเนียมความแม่นยำสูง ซึ่งเป็นจุดแข็งของสายพานขัดและจานขัด MK",
-            "action": "นำเสนอแพ็กเกจวัสดุขัดสำหรับงานขัดผิวอะลูมิเนียมและโลหะน้ำหนักเบาแก่โรงงานผู้ผลิตชิ้นส่วน Tier-1 และ Tier-2"
-          }
-        },
-        {
-          "id": "20261107-3",
-          "tag": "aero",
-          "rating": "amber",
-          "source": "Thansettakij",
-          "date": "2026-06-16",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pbFFnQlhiSG5UMVBfTjVmMUZtNXc4ZkYyOFljMVFtQlQwalZ5WUpidFlzX3prejlBWGoydDYzUUZXMlY4bE56VFUwZnZrLVJfWlRtV2t0Wi0xOWkzeVFLTUFJOVIwUQ?oc=5",
-          "title": "EECO Awaits VietJet Feasibility Study for U-Tapao Aviation MRO Facility",
-          "summary": "The Eastern Economic Corridor Office is awaiting VietJet's investment feasibility study to establish an aircraft maintenance, repair, and overhaul hub at U-Tapao.",
-          "why": "Expanding airline maintenance centers beyond Thai Airways indicates a growing regional MRO cluster, creating long-term demand for aviation-certified abrasives.",
-          "action": "Compile aerospace-compliant surface preparation product catalogs to be ready as technical procurement specifications emerge.",
-          "th": {
-            "title": "อีอีซีรอผลศึกษา 'เวียตเจ็ท' ร่วมวงลงทุนศูนย์ซ่อมอากาศยานอู่ตะเภา",
-            "summary": "สำนักงานอีอีซีกำลังรอผลการศึกษาความเป็นไปได้ในการลงทุนของสายการบินเวียตเจ็ท เพื่อจัดตั้งศูนย์ซ่อมบำรุงอากาศยาน (MRO) ในพื้นที่สนามบินอู่ตะเภา",
-            "why": "ความสนใจลงทุนจากสายการบินอื่นนอกเหนือจากการบินไทยสะท้อนถึงการเติบโตของคลัสเตอร์ซ่อมบำรุงอากาศยาน ซึ่งเป็นตลาดเป้าหมายระยะยาวของวัสดุขัดเกรดการบิน",
-            "action": "จัดเตรียมแค็ตตาล็อกสินค้าวัสดุขัดเตรียมผิวเกรดการบินเพื่อพร้อมนำเสนอเมื่อเริ่มมีการกำหนดสเปกจัดซื้อของโครงการ"
-          }
-        },
-        {
-          "id": "20261107-4",
-          "tag": "furniture",
-          "rating": "amber",
-          "source": "TechTalkThai",
-          "date": "2026-08-19",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSVlOYVRsUTg0SXkyMTY4cE94S1lIcnVUa1IyN2lZTUhCSnBQd204T2lvUUNiMnhxRFRkd00zUXEwVTE4QWFPRnBmbjFmMzdua2FqNDdTR2NpWVBmTWRrT0EtNnpFYTUzaTVucHV3bHVpQUd6LVF0UlZ5dnFOZjZWX3NTRm9GNEFDNDI5UE9yNnVENkdPc0MxamhLdHJRX0k3ZVhZUkVGN1E?oc=5",
-          "title": "TIWF 2026 Focuses on Modernizing ASEAN Woodworking and Furniture Manufacturing",
-          "summary": "The TIWF 2026 exhibition is set to showcase machinery upgrades and modern processing solutions for wood and furniture manufacturers across the ASEAN region.",
-          "why": "Woodworking and furniture factories require consistent volumes of wide sanding belts and abrasive discs, serving as a solid complementary market for MK.",
-          "action": "Plan a targeted marketing campaign on e-commerce channels (Shopee/TikTok) and consider attending TIWF to reach export-oriented furniture makers.",
-          "th": {
-            "title": "TIWF 2026 ปักหมุดยกระดับอุตสาหกรรมงานไม้และเฟอร์นิเจอร์สู่อาเซียน",
-            "summary": "งานแสดงสินค้า TIWF 2026 เตรียมจัดแสดงเทคโนโลยีเครื่องจักรและการแปรรูปสมัยใหม่ เพื่อยกระดับโรงงานผลิตงานไม้และเฟอร์นิเจอร์ทั่วภูมิภาคอาเซียน",
-            "why": "โรงงานเฟอร์นิเจอร์เป็นกลุ่มที่ใช้งานกระดาษทรายสายพานหน้ากว้างและจานขัดกลมอย่างสม่ำเสมอ ซึ่งเป็นตลาดรองรับสินค้ากลุ่มงานไม้ของ MK",
-            "action": "วางแผนแคมเปญการตลาดบน Shopee/TikTok และพิจารณาเข้าร่วมงาน TIWF เพื่อเจาะกลุ่มผู้ผลิตเฟอร์นิเจอร์ส่งออก"
-          }
-        }
-      ],
-      "terms": {}
     }
   ],
-  "updated": "2026-11-20"
+  "updated": "2026-11-21"
 };
