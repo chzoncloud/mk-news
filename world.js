@@ -4,64 +4,82 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-11-21",
-      "summary": "Today's global trends highlight critical shifts in industrial manufacturing, featuring grinding mats market growth driven by metal fabrication, Europe's steel sector adaptation to CBAM regulations, and EV manufacturing adjustments under international climate rules.",
-      "directCount": 3,
+      "summary": "Today's briefing focuses on global industrial coatings evolution, regional steel manufacturing shifts, and long-term abrasive market drivers. We highlight sustainable manufacturing initiatives and market growth patterns to guide strategic inventory and product positioning.",
+      "directCount": 4,
       "th": {
-        "summary": "กระแสโลกประจำวันนี้เน้นย้ำการเปลี่ยนแปลงครั้งสำคัญในภาคการผลิตอุตสาหกรรม ได้แก่ การเติบโตของตลาดแผ่นเจียรที่ขับเคลื่อนด้วยงานขึ้นรูปโลหะ อุตสาหกรรมเหล็กในยุโรปที่ต้องปรับตัวตามกฎระเบียบ CBAM และการปรับตัวของการผลิตรถยนต์ไฟฟ้าภายใต้กฎระเบียบด้านสภาพอากาศระดับสากล"
+        "summary": "สรุปรายงานวันนี้เน้นพัฒนาการของสารเคลือบอุตสาหกรรมระดับโลก การเปลี่ยนแปลงการผลิตเหล็กระดับภูมิภาค และปัจจัยขับเคลื่อนตลาดวัสดุขัดถูระยะยาว เพื่อเป็นแนวทางในการวางแผนสินค้าคงคลังและตำแหน่งผลิตภัณฑ์"
       },
       "items": [
         {
           "id": "20261121-w1",
-          "tag": "abrasive",
+          "tag": "coating",
           "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-11-19",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWmctRXVSYWJHdVFjN01Va1ZYMjA3OHRxSTN2a19GaHEwNEJHRGlTaVRqaHdGbG1MZE5BUUtxU09EUmkzblc1TmJFMDhCNU1XV2pnRjZBSHk0RExzMlBkVTFoVnhfajBVdE1INklpZ09xRnRYTm55dXpYcFNvMmd1WVVSNnQ1cl9Kb3ZzZWNqQXVfbzlDY1lmNklTXzVCWVJsM3VwWUY0cmwyXzgydk5pQ0NYWnlnUk9iMENMNFkta0NSaE1GelJGMlZiOVNmZEw3?oc=5",
-          "title": "Grinding Mats Market To 2035: Growth Driven by Metal Fabrication and Infrastructure Demand",
-          "summary": "The global grinding mats market is projected to expand steadily through 2035, fueled by rising metal fabrication activities and worldwide infrastructure development.",
-          "why": "Grinding mats and cutting/grinding wheels are core consumable products for our B2B abrasives business, directly tied to metal fabrication activity levels.",
-          "action": "Ensure secure supply chains and stock adequate inventory of heavy-duty grinding and cutting mats to capture rising metal fabrication demand.",
+          "source": "European Coatings",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
+          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
+          "summary": "European industry leaders discuss how digital transformation, strict environmental standards, and advanced formulations are redefining the coatings sector.",
+          "why": "New coating formulations and surface treatments change how parts are prepared and finished, directly influencing customer requirements for our abrasives.",
+          "action": "Monitor upcoming coating technologies to ensure our sanding and surface prep media match modern material specs.",
           "th": {
-            "title": "ตลาดแผ่นเจียรถึงปี 2035: เติบโตจากความต้องการด้านการผลิตโลหะและโครงสร้างพื้นฐาน",
-            "summary": "ตลาดแผ่นเจียรทั่วโลกมีแนวโน้มขยายตัวอย่างต่อเนื่องจนถึงปี 2035 ซึ่งขับเคลื่อนโดยกิจกรรมการผลิตโลหะและการพัฒนาโครงสร้างพื้นฐานทั่วโลก",
-            "why": "แผ่นเจียรและใบตัด/ใบเจียรเป็นสินค้าสิ้นเปลืองหลักสำหรับธุรกิจวัสดุขัดถู B2B ของเรา ซึ่งเชื่อมโยงโดยตรงกับระดับกิจกรรมการผลิตโลหะ",
-            "action": "รักษาเสถียรภาพห่วงโซ่อุปทานและสต็อกสินค้าประเภทแผ่นเจียรและใบตัดงานหนักให้เพียงพอเพื่อรองรับความต้องการผลิตโลหะที่เพิ่มขึ้น"
+            "title": "กำหนดอนาคตใหม่แห่งสารเคลือบ: นวัตกรรม ความยั่งยืน และพลังแห่งดิจิทัล",
+            "summary": "ผู้นำอุตสาหกรรมยุโรปหารือเกี่ยวกับการที่การแปลงโฉมดิจิทัล มาตรฐานสิ่งแวดล้อมที่เข้มงวด และสูตรขั้นสูงกำลังนิยามภาคส่วนสารเคลือบใหม่",
+            "why": "สูตรสารเคลือบและการเตรียมพื้นผิวแบบใหม่เปลี่ยนวิธีเตรียมและขัดแต่งชิ้นงาน ซึ่งส่งผลโดยตรงต่อความต้องการของลูกค้าสำหรับวัสดุขัดถูของเรา",
+            "action": "ติดตามเทคโนโลยีสารเคลือบใหม่ๆ เพื่อให้มั่นใจว่าวัสดุกระดาษทรายและเตรียมพื้นผิวของเราตรงตามสเปกวัสดุสมัยใหม่"
           }
         },
         {
           "id": "20261121-w2",
           "tag": "steel",
           "rating": "green",
-          "source": "S&P Global",
-          "date": "2026-01-07",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSDJTcGFGbUFvRm15ZDhrczNqYkRzbHlXMTJZTHJpUF9CTjRHaTNXak4tdVBkbnBWcnNrRDRneXpBd1Z5SUJGSFZWTzJMNWhfcVl5czkzR0lSSjd4aTJzMTg3N2FWM3pHQ2NxbHg2dEp2ckNiNC16cWdJZ0t3anl3TzlUYldVajhqM05JQVEyWWdZYVdaYkEzZUpvUEJGdHAxXzRKdDRnNG1pQl9LaEN6Q0lpbFpPMTBOeElqT3V2NUdUSlJJNjZWOEpiMWc?oc=5",
-          "title": "Europe's steel industry faces its 2026 reckoning with CBAM",
-          "summary": "European steel producers face strict carbon border adjustment mechanisms (CBAM), forcing operational overhauls and efficiency upgrades across the sector.",
-          "why": "Steel processing plants must optimize surface finishing efficiency to reduce waste and energy consumption under strict new green manufacturing rules.",
-          "action": "Pitch high-efficiency, long-lasting abrasives that lower operational waste and energy use for steel mills upgrading their processes.",
+          "source": "Progressive Policy Institute",
+          "date": "2026-09-23",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTeHd1akw0WFVaUWFucjdlRWp1cFBVQjRiRi1rWFd2WlNVRkQzanJJMmpMV3BBM0QxVEF5N2FZcmFMSFNxQ3M1VTQ5c1VJYjhJRVRQQVM3M2tac1FFMGdSSlZ4eTdQdzNINFB1MDR0a09haWhpNkFIVV9aWlA?oc=5",
+          "title": "American Industry Is Using Less Steel",
+          "summary": "Data indicates shifting manufacturing demands and lightweighting trends are leading to reduced steel consumption across traditional American industrial sectors.",
+          "why": "A decline in traditional steel usage can reduce heavy grinding and deburring demand, pushing machine shops toward alternative materials like aluminum and composites.",
+          "action": "Diversify our abrasive product portfolio toward finishing solutions suitable for lighter metals and composite materials.",
           "th": {
-            "title": "อุตสาหกรรมเหล็กของยุโรปเผชิญบททดสอบสำคัญในปี 2026 ด้วยมาตรการ CBAM",
-            "summary": "ผู้ผลิตเหล็กในยุโรปเผชิญกับมาตรการปรับคาร์บอนก่อนข้ามพรมแดน (CBAM) ที่เข้มงวด ซึ่งบังคับให้ต้องปรับปรุงการดำเนินงานและยกระดับประสิทธิภาพทั่วทั้งภาคส่วน",
-            "why": "โรงงานแปรรูปเหล็กต้องเพิ่มประสิทธิภาพการขัดแต่งผิวเพื่อลดของเสียและการใช้พลังงานภายใต้กฎระเบียบการผลิตสีเขียวใหม่ที่เข้มงวด",
-            "action": "นำเสนอผลิตภัณฑ์วัสดุขัดถูที่มีประสิทธิภาพสูงและใช้งานได้ยาวนาน ซึ่งช่วยลดของเสียจากการปฏิบัติงานและการใช้พลังงานให้กับโรงงานเหล็กที่กำลังอัปเกรดกระบวนการ"
+            "title": "อุตสาหกรรมอเมริกันใช้เหล็กลดลง",
+            "summary": "ข้อมูลบ่งชี้ว่าความต้องการด้านการผลิตที่เปลี่ยนไปและเทรนด์การลดน้ำหนักวัสดุ ส่งผลให้การบริโภคเหล็กลดลงในภาคอุตสาหกรรมดั้งเดิมของสหรัฐฯ",
+            "why": "การใช้เหล็กแบบดั้งเดิมที่ลดลงอาจทำให้ความต้องการงานเจียรหนักและลบคมลดลง ผลักดันให้โรงงานหันไปใช้วัสดุทางเลือกเช่นอลูมิเนียมและคอมโพสิต",
+            "action": "กระจายความหลากหลายของกลุ่มผลิตภัณฑ์วัสดุขัดถูไปยังโซลูชันการขัดแต่งที่เหมาะสำหรับโลหะที่มีน้ำหนักเบาและวัสดุคอมโพสิต"
           }
         },
         {
           "id": "20261121-w3",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-11-09",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUEhWWFVvZ013aGRlbWZoTlRpblBlTFZRRC1yX1FzUDhCN2FSTGVuV1lYTS00XzViRGsxREtkb1hKYzN0T2NLd1BySWZzTzdKVG9XLXlhS1RZQXJ2dS1yOFJlWTVwaDFfV2otN29fR2ota1dzcm5aU1dHZTZJcGNYZ2dQQk90MGY1bVd0LWdodXNELUczNUFidXctNjNCUDZBa2c1WnZmZUR0YUVnVnphMnRaUG9JLWNpWXM4R3ZkbE1pNUs3?oc=5",
-          "title": "COP31 electrification shake-up: EV rules meet factory reality",
-          "summary": "Automakers face new production adjustments as global EV mandates interact with factory floor realities and supply chain shifts.",
-          "why": "Automotive manufacturing shifts impact demand for specialized deburring, welding seam prep, and body panel sanding tools.",
-          "action": "Monitor automotive client production adjustments and maintain flexible inventory for specialized automotive finishing abrasives.",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "Vocal",
+          "date": "2025-10-15",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMEswYmdPeklIbjNIS0g2dlR0ZDc5d3lWRi1VRlFiczNncVY2OGk5U3I5ajJCLW5hMHlDM3o5NzZacWp5Rm0xa2RWZnd1QnZRM0h0UUZTekRacmpwNUpaZGwycjBva3JyS3pIYWE2RDZqM24tSV9JQVFHUmFTeXJESEdPN3VtYXZ2TTZEZ1VQbVlNZEJiNlhEejY1b0NzV0NUYXhGVA?oc=5",
+          "title": "Abrasives Market: Rising Manufacturing Demand and Global Growth Trends 2033",
+          "summary": "Long-term projections highlight steady expansion in global abrasives consumption, powered by automation and high-precision manufacturing sectors.",
+          "why": "Validates long-term demand growth for industrial consumables, reinforcing the importance of stocking high-performance coated and bonded abrasives.",
+          "action": "Maintain strong supplier relationships with top-tier global makers to secure stable pricing and consistent inventory.",
           "th": {
-            "title": "ความสั่นคลอนด้านการเปลี่ยนผ่านสู่รถยนต์ไฟฟ้าใน COP31: กฎระเบียบ EV พบกับความจริงในโรงงาน",
-            "summary": "ค่ายรถยนต์ต้องเผชิญกับการปรับเปลี่ยนการผลิตครั้งใหม่ เนื่องจากข้อกำหนดรถยนต์ไฟฟ้าระดับโลกสอดรับกับความเป็นจริงในสายการผลิตและการเปลี่ยนแปลงของห่วงโซ่อุปทาน",
-            "why": "การเปลี่ยนแปลงในการผลิตยานยนต์ส่งผลกระทบต่อความต้องการเครื่องมือลบคม การเตรียมแนวเชื่อม และการขัดแต่งผิวตัวถังรถยนต์เฉพาะทาง",
-            "action": "ติดตามการปรับเปลี่ยนการผลิตของลูกค้ากลุ่มยานยนต์และรักษาสلินค้าคงคลังที่ยืดหยุ่นสำหรับวัสดุขัดแต่งผิวรถยนต์เฉพาะทาง"
+            "title": "ตลาดวัสดุขัดถู: ความต้องการด้านการผลิตที่เพิ่มขึ้นและแนวโน้มการเติบโตทั่วโลกถึงปี 2033",
+            "summary": "การคาดการณ์ระยะยาวเน้นย้ำถึงการขยายตัวอย่างต่อเนื่องของการบริโภควัสดุขัดถูทั่วโลก ขับเคลื่อนโดยระบบอัตโนมัติและภาคการผลิตความแม่นยำสูง",
+            "why": "ยืนยันการเติบโตของความต้องการวัสดุสิ้นเปลืองในอุตสาหกรรมระยะยาว ตอกย้ำความสำคัญของการสต็อกวัสดุขัดถูแบบเคลือบและแบบอัดก้อนที่มีประสิทธิภาพสูง",
+            "action": "รักษาสายสัมพันธ์อันดีกับผู้ผลิตระดับโลกรายใหญ่เพื่อรักษาเสถียรภาพด้านราคาและสินค้าคงคลังที่สม่ำเสมอ"
+          }
+        },
+        {
+          "id": "20261121-w4",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "World Bank Blogs",
+          "date": "2026-06-11",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONzBKVVZhYkZoRERBTm8wSUNzYUY3Y0lZTVhlRXhoMk9qWGUybnc0SFA2dC1KT1ZOV2puSzlLRzhmdDRUVDkwejhFM3JtNm1SY2RpbFoyYWR2Q1J2eHJTME0zd25GSjlaRE1qWG1sQjZsaUpXdjBJd0oyZlBEUklMNkxuNGVWZ3FZVGhZOHJwOWdiZw?oc=5",
+          "title": "Metal prices surge as supply pressures intensify",
+          "summary": "Global supply chain bottlenecks and geopolitical tensions are driving volatility and price surges across essential metal commodities.",
+          "why": "Fluctuating raw material prices directly impact the cost structure of metal fabrication, which can influence customer spending on shop floor consumables.",
+          "action": "Advise key industrial B2B clients to lock in pricing contracts early if metal input costs continue to escalate.",
+          "th": {
+            "title": "ราคาโลหะพุ่งสูงขึ้นเมื่อแรงกดดันด้านอุปทานทวีความรุนแรงขึ้น",
+            "summary": "ปัญหาคอขวดในห่วงโซ่อุปทานระดับโลกและความตึงเครียดทางภูมิรัฐศาสตร์กำลังขับเคลื่อนความผันผวนและการพุ่งขึ้นของราคาในกลุ่มสินค้าโภคภัณฑ์โลหะที่จำเป็น",
+            "why": "ราคาวัตถุดิบที่ผันผวนส่งผลโดยตรงต่อโครงสร้างต้นทุนของการผลิตโลหะ ซึ่งอาจมีผลต่อการใช้จ่ายของลูกค้าในวัสดุสิ้นเปลืองหน้างาน",
+            "action": "แนะนำลูกค้า B2B ภาคอุตสาหกรรมรายใหญ่ให้ล็อกสัญญาราคาล่วงหน้าหากต้นทุนวัตถุดิบโลหะยังคงเพิ่มสูงขึ้น"
           }
         }
       ]
