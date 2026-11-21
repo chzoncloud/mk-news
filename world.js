@@ -4,10 +4,10 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-11-21",
-      "summary": "Today's briefing features 3 key global market signals focusing on abrasives market expansion, grinding mats and metal fabrication, and advanced single-layered coated abrasives technology in metalworking.",
+      "summary": "Today's global trends highlight critical shifts in industrial manufacturing, featuring grinding mats market growth driven by metal fabrication, Europe's steel sector adaptation to CBAM regulations, and EV manufacturing adjustments under international climate rules.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปข่าววันนี้ประกอบด้วยสัญญาณตลาดโลก 3 ประเด็นสำคัญ ได้แก่ การเติบโตของตลาดวัสดุขัด (Abrasives) แผ่นเจียรและอุตสาหกรรมการแปรรูปโลหะ และเทคโนโลยีการเคลือบผิววัสดุขัดแบบชั้นเดียวขั้นสูงในงานโลหะ"
+        "summary": "กระแสโลกประจำวันนี้เน้นย้ำการเปลี่ยนแปลงครั้งสำคัญในภาคการผลิตอุตสาหกรรม ได้แก่ การเติบโตของตลาดแผ่นเจียรที่ขับเคลื่อนด้วยงานขึ้นรูปโลหะ อุตสาหกรรมเหล็กในยุโรปที่ต้องปรับตัวตามกฎระเบียบ CBAM และการปรับตัวของการผลิตรถยนต์ไฟฟ้าภายใต้กฎระเบียบด้านสภาพอากาศระดับสากล"
       },
       "items": [
         {
@@ -15,53 +15,53 @@ window.WORLD_ARCHIVE = {
           "tag": "abrasive",
           "rating": "green",
           "source": "IndexBox",
-          "date": "2026-11-20",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUVVrRmxLbmt4TDNDdmEwM2JqMmZ5Y1FyX21JQzkwc1VRX2o4dDBPeDAwZ1BRQjJBbHRPcWx0aW1KLUdhQXJJUTZpWV9LdG1iaUxPOVZ2UmVaVHN6dUJrRUE1YU02ZGk2Z1BxbkNCbno5SVFZdzU0djRrcXVjWUZMVVpiRzlMRUdrNHNIekRLb0Z0Z0ItT215YWtzNXZmQ192NkNERVFJa3E4Yk43aGVoRA?oc=5",
-          "title": "Abrasives Market To 2035: Precision Manufacturing Demand Drives Expansion",
-          "summary": "The global abrasives market is projected to expand significantly through 2035, driven heavily by increasing demands for precision manufacturing and high-tolerance surface finishing.",
-          "why": "Confirms long-term secular growth for precision-grade industrial abrasives, validating our core product focus.",
-          "action": "Ensure our inventory and sourcing strategies align with high-precision finishing requirements over the next decade.",
+          "date": "2026-11-19",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWmctRXVSYWJHdVFjN01Va1ZYMjA3OHRxSTN2a19GaHEwNEJHRGlTaVRqaHdGbG1MZE5BUUtxU09EUmkzblc1TmJFMDhCNU1XV2pnRjZBSHk0RExzMlBkVTFoVnhfajBVdE1INklpZ09xRnRYTm55dXpYcFNvMmd1WVVSNnQ1cl9Kb3ZzZWNqQXVfbzlDY1lmNklTXzVCWVJsM3VwWUY0cmwyXzgydk5pQ0NYWnlnUk9iMENMNFkta0NSaE1GelJGMlZiOVNmZEw3?oc=5",
+          "title": "Grinding Mats Market To 2035: Growth Driven by Metal Fabrication and Infrastructure Demand",
+          "summary": "The global grinding mats market is projected to expand steadily through 2035, fueled by rising metal fabrication activities and worldwide infrastructure development.",
+          "why": "Grinding mats and cutting/grinding wheels are core consumable products for our B2B abrasives business, directly tied to metal fabrication activity levels.",
+          "action": "Ensure secure supply chains and stock adequate inventory of heavy-duty grinding and cutting mats to capture rising metal fabrication demand.",
           "th": {
-            "title": "ตลาดวัสดุขัดถึงปี 2035: ความต้องการการผลิตแบบแม่นยำขับเคลื่อนการขยายตัว",
-            "summary": "ตลาดวัสดุขัดทั่วโลกคาดว่าจะเติบโตอย่างมีนัยสำคัญจนถึงปี 2035 โดยขับเคลื่อนจากความต้องการที่เพิ่มขึ้นสำหรับการผลิตแบบแม่นยำและการขัดผิวที่มีความคลาดเคลื่อนต่ำ",
-            "why": "ยืนยันการเติบโตในระยะยาวของวัสดุขัดอุตสาหกรรมเกรดความแม่นยำสูง ซึ่งสอดคล้องกับโฟกัสผลิตภัณฑ์หลักของเรา",
-            "action": "ตรวจสอบให้แน่ใจว่ากลยุทธ์สินค้าคงคลังและการจัดซื้อสอดคล้องกับความต้องการในการขัดผิวความแม่นยำสูงในทศวรรษหน้า"
+            "title": "ตลาดแผ่นเจียรถึงปี 2035: เติบโตจากความต้องการด้านการผลิตโลหะและโครงสร้างพื้นฐาน",
+            "summary": "ตลาดแผ่นเจียรทั่วโลกมีแนวโน้มขยายตัวอย่างต่อเนื่องจนถึงปี 2035 ซึ่งขับเคลื่อนโดยกิจกรรมการผลิตโลหะและการพัฒนาโครงสร้างพื้นฐานทั่วโลก",
+            "why": "แผ่นเจียรและใบตัด/ใบเจียรเป็นสินค้าสิ้นเปลืองหลักสำหรับธุรกิจวัสดุขัดถู B2B ของเรา ซึ่งเชื่อมโยงโดยตรงกับระดับกิจกรรมการผลิตโลหะ",
+            "action": "รักษาเสถียรภาพห่วงโซ่อุปทานและสต็อกสินค้าประเภทแผ่นเจียรและใบตัดงานหนักให้เพียงพอเพื่อรองรับความต้องการผลิตโลหะที่เพิ่มขึ้น"
           }
         },
         {
           "id": "20261121-w2",
-          "tag": "abrasive",
+          "tag": "steel",
           "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-11-19",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWmctRXVSYWJHdVFjN01Va1ZYMjA3OHRxSTN2a19GaHEwNEJHRGlTaVRqaHdGbG1MZE5BUUtxU09EUmkzblc1TmJFMDhCNU1XV2pnRjZBSHk0RExzMlBkVTFoVnhfajBVdE1INklpZ09xRnRYTm55dXpYcFNvMmd1WVVSNnQ1cl9Kb3ZzZWNqQXVfbzlDY1lmNklTXzVCWVJsM3VwWUY0cmwyXzgydk5pQ0NYWnlnUk9iMENMNFkta0NSaE1GelJGMlZiOVNmZEw3?oc=5",
-          "title": "Grinding Mats Market To 2035: Growth Driven by Metal Fabrication and Infrastructure Demand",
-          "summary": "Growth in metal fabrication and global infrastructure projects is creating sustained demand for industrial grinding mats and related cutting tools.",
-          "why": "Grinding mats and discs are high-turnover consumables for metal fabrication shops—our primary B2B customer base.",
-          "action": "Maintain strong stock levels of heavy-duty grinding mats to capture upcoming infrastructure-driven metal fabrication demand.",
+          "source": "S&P Global",
+          "date": "2026-01-07",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSDJTcGFGbUFvRm15ZDhrczNqYkRzbHlXMTJZTHJpUF9CTjRHaTNXak4tdVBkbnBWcnNrRDRneXpBd1Z5SUJGSFZWTzJMNWhfcVl5czkzR0lSSjd4aTJzMTg3N2FWM3pHQ2NxbHg2dEp2ckNiNC16cWdJZ0t3anl3TzlUYldVajhqM05JQVEyWWdZYVdaYkEzZUpvUEJGdHAxXzRKdDRnNG1pQl9LaEN6Q0lpbFpPMTBOeElqT3V2NUdUSlJJNjZWOEpiMWc?oc=5",
+          "title": "Europe's steel industry faces its 2026 reckoning with CBAM",
+          "summary": "European steel producers face strict carbon border adjustment mechanisms (CBAM), forcing operational overhauls and efficiency upgrades across the sector.",
+          "why": "Steel processing plants must optimize surface finishing efficiency to reduce waste and energy consumption under strict new green manufacturing rules.",
+          "action": "Pitch high-efficiency, long-lasting abrasives that lower operational waste and energy use for steel mills upgrading their processes.",
           "th": {
-            "title": "ตลาดแผ่นเจียรถึงปี 2035: เติบโตจากความต้องการด้านการแปรรูปโลหะและโครงสร้างพื้นฐาน",
-            "summary": "การเติบโตของการแปรรูปโลหะและโครงการโครงสร้างพื้นฐานทั่วโลกกำลังสร้างความต้องการอย่างต่อเนื่องสำหรับแผ่นเจียรอุตสาหกรรมและเครื่องมือตัดที่เกี่ยวข้อง",
-            "why": "แผ่นเจียรและใบตัดคือวัสดุสิ้นเปลืองที่มีอัตราหมุนเวียนสูงสำหรับร้านแปรรูปโลหะ ซึ่งฐานลูกค้า B2B หลักของเรา",
-            "action": "รักษาระดับสต็อกแผ่นเจียรงานหนักให้แข็งแกร่งเพื่อรองรับความต้องการแปรรูปโลหะจากโครงการโครงสร้างพื้นฐาน"
+            "title": "อุตสาหกรรมเหล็กของยุโรปเผชิญบททดสอบสำคัญในปี 2026 ด้วยมาตรการ CBAM",
+            "summary": "ผู้ผลิตเหล็กในยุโรปเผชิญกับมาตรการปรับคาร์บอนก่อนข้ามพรมแดน (CBAM) ที่เข้มงวด ซึ่งบังคับให้ต้องปรับปรุงการดำเนินงานและยกระดับประสิทธิภาพทั่วทั้งภาคส่วน",
+            "why": "โรงงานแปรรูปเหล็กต้องเพิ่มประสิทธิภาพการขัดแต่งผิวเพื่อลดของเสียและการใช้พลังงานภายใต้กฎระเบียบการผลิตสีเขียวใหม่ที่เข้มงวด",
+            "action": "นำเสนอผลิตภัณฑ์วัสดุขัดถูที่มีประสิทธิภาพสูงและใช้งานได้ยาวนาน ซึ่งช่วยลดของเสียจากการปฏิบัติงานและการใช้พลังงานให้กับโรงงานเหล็กที่กำลังอัปเกรดกระบวนการ"
           }
         },
         {
           "id": "20261121-w3",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "Cutting Tool Engineering",
-          "date": "2026-01-19",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdlIxbnF0ZzBnSUozVVYybGZwMnF5R09nTWZib2VyNFB2WXpIYTJEcGFpd0lfQjBDcG42eTJiNDQ2eEJhUmdGT29PZ0w4NlNSRjhhQ2w3TmplcVloMDJ5bjNYZDF1UVdLbXYxS0RtYTRFSmtDMFVaVGxVVk5zMnVxeVBiTjhiVXpydFU3YUNMR19nRlJlT3NkT3Jjb3B3dHZqQnRN?oc=5",
-          "title": "Single-layered approach: The fundamentals of using coated abrasives in metalworking",
-          "summary": "Industry analysis highlights the efficiency and performance benefits of single-layered coated abrasives in modern metalworking applications.",
-          "why": "Advanced coating technologies improve grain exposure and cutting speed, offering premium value to metal fabrication clients.",
-          "action": "Educate our sales team on the technical advantages of single-layered coated abrasives to pitch higher-margin products.",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-11-09",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUEhWWFVvZ013aGRlbWZoTlRpblBlTFZRRC1yX1FzUDhCN2FSTGVuV1lYTS00XzViRGsxREtkb1hKYzN0T2NLd1BySWZzTzdKVG9XLXlhS1RZQXJ2dS1yOFJlWTVwaDFfV2otN29fR2ota1dzcm5aU1dHZTZJcGNYZ2dQQk90MGY1bVd0LWdodXNELUczNUFidXctNjNCUDZBa2c1WnZmZUR0YUVnVnphMnRaUG9JLWNpWXM4R3ZkbE1pNUs3?oc=5",
+          "title": "COP31 electrification shake-up: EV rules meet factory reality",
+          "summary": "Automakers face new production adjustments as global EV mandates interact with factory floor realities and supply chain shifts.",
+          "why": "Automotive manufacturing shifts impact demand for specialized deburring, welding seam prep, and body panel sanding tools.",
+          "action": "Monitor automotive client production adjustments and maintain flexible inventory for specialized automotive finishing abrasives.",
           "th": {
-            "title": "แนวทางแบบชั้นเดียว: พื้นฐานการใช้กระดาษทรายสายพานและวัสดุขัดเคลือบในงานโลหะ",
-            "summary": "การวิเคราะห์อุตสาหกรรมเน้นย้ำถึงประสิทธิภาพและประโยชน์ด้านสมรรถนะของวัสดุขัดเคลือบแบบชั้นเดียวในงานโลหะสมัยใหม่",
-            "why": "เทคโนโลยีการเคลือบขั้นสูงช่วยเพิ่มการสัมผัสของเม็ดทรายและความเร็วในการตัด มอบคุณค่าระดับพรีเมียมให้แก่ลูกค้างานโลหะ",
-            "action": "อบรมทีมขายเกี่ยวกับข้อ ด้อยทางเทคนิคของวัสดุขัดเคลือบชั้นเดียวเพื่อเสนอขายสินค้าที่มีอัตรากำไรสูงขึ้น"
+            "title": "ความสั่นคลอนด้านการเปลี่ยนผ่านสู่รถยนต์ไฟฟ้าใน COP31: กฎระเบียบ EV พบกับความจริงในโรงงาน",
+            "summary": "ค่ายรถยนต์ต้องเผชิญกับการปรับเปลี่ยนการผลิตครั้งใหม่ เนื่องจากข้อกำหนดรถยนต์ไฟฟ้าระดับโลกสอดรับกับความเป็นจริงในสายการผลิตและการเปลี่ยนแปลงของห่วงโซ่อุปทาน",
+            "why": "การเปลี่ยนแปลงในการผลิตยานยนต์ส่งผลกระทบต่อความต้องการเครื่องมือลบคม การเตรียมแนวเชื่อม และการขัดแต่งผิวตัวถังรถยนต์เฉพาะทาง",
+            "action": "ติดตามการปรับเปลี่ยนการผลิตของลูกค้ากลุ่มยานยนต์และรักษาสلินค้าคงคลังที่ยืดหยุ่นสำหรับวัสดุขัดแต่งผิวรถยนต์เฉพาะทาง"
           }
         }
       ]
