@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-11-20",
+  "updated": "2026-11-21",
   "days": [
+    {
+      "date": "2026-11-21",
+      "summary": "Today's briefing features 3 key global market signals focusing on abrasives market expansion, grinding mats and metal fabrication, and advanced single-layered coated abrasives technology in metalworking.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปข่าววันนี้ประกอบด้วยสัญญาณตลาดโลก 3 ประเด็นสำคัญ ได้แก่ การเติบโตของตลาดวัสดุขัด (Abrasives) แผ่นเจียรและอุตสาหกรรมการแปรรูปโลหะ และเทคโนโลยีการเคลือบผิววัสดุขัดแบบชั้นเดียวขั้นสูงในงานโลหะ"
+      },
+      "items": [
+        {
+          "id": "20261121-w1",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-11-20",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUVVrRmxLbmt4TDNDdmEwM2JqMmZ5Y1FyX21JQzkwc1VRX2o4dDBPeDAwZ1BRQjJBbHRPcWx0aW1KLUdhQXJJUTZpWV9LdG1iaUxPOVZ2UmVaVHN6dUJrRUE1YU02ZGk2Z1BxbkNCbno5SVFZdzU0djRrcXVjWUZMVVpiRzlMRUdrNHNIekRLb0Z0Z0ItT215YWtzNXZmQ192NkNERVFJa3E4Yk43aGVoRA?oc=5",
+          "title": "Abrasives Market To 2035: Precision Manufacturing Demand Drives Expansion",
+          "summary": "The global abrasives market is projected to expand significantly through 2035, driven heavily by increasing demands for precision manufacturing and high-tolerance surface finishing.",
+          "why": "Confirms long-term secular growth for precision-grade industrial abrasives, validating our core product focus.",
+          "action": "Ensure our inventory and sourcing strategies align with high-precision finishing requirements over the next decade.",
+          "th": {
+            "title": "ตลาดวัสดุขัดถึงปี 2035: ความต้องการการผลิตแบบแม่นยำขับเคลื่อนการขยายตัว",
+            "summary": "ตลาดวัสดุขัดทั่วโลกคาดว่าจะเติบโตอย่างมีนัยสำคัญจนถึงปี 2035 โดยขับเคลื่อนจากความต้องการที่เพิ่มขึ้นสำหรับการผลิตแบบแม่นยำและการขัดผิวที่มีความคลาดเคลื่อนต่ำ",
+            "why": "ยืนยันการเติบโตในระยะยาวของวัสดุขัดอุตสาหกรรมเกรดความแม่นยำสูง ซึ่งสอดคล้องกับโฟกัสผลิตภัณฑ์หลักของเรา",
+            "action": "ตรวจสอบให้แน่ใจว่ากลยุทธ์สินค้าคงคลังและการจัดซื้อสอดคล้องกับความต้องการในการขัดผิวความแม่นยำสูงในทศวรรษหน้า"
+          }
+        },
+        {
+          "id": "20261121-w2",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-11-19",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWmctRXVSYWJHdVFjN01Va1ZYMjA3OHRxSTN2a19GaHEwNEJHRGlTaVRqaHdGbG1MZE5BUUtxU09EUmkzblc1TmJFMDhCNU1XV2pnRjZBSHk0RExzMlBkVTFoVnhfajBVdE1INklpZ09xRnRYTm55dXpYcFNvMmd1WVVSNnQ1cl9Kb3ZzZWNqQXVfbzlDY1lmNklTXzVCWVJsM3VwWUY0cmwyXzgydk5pQ0NYWnlnUk9iMENMNFkta0NSaE1GelJGMlZiOVNmZEw3?oc=5",
+          "title": "Grinding Mats Market To 2035: Growth Driven by Metal Fabrication and Infrastructure Demand",
+          "summary": "Growth in metal fabrication and global infrastructure projects is creating sustained demand for industrial grinding mats and related cutting tools.",
+          "why": "Grinding mats and discs are high-turnover consumables for metal fabrication shops—our primary B2B customer base.",
+          "action": "Maintain strong stock levels of heavy-duty grinding mats to capture upcoming infrastructure-driven metal fabrication demand.",
+          "th": {
+            "title": "ตลาดแผ่นเจียรถึงปี 2035: เติบโตจากความต้องการด้านการแปรรูปโลหะและโครงสร้างพื้นฐาน",
+            "summary": "การเติบโตของการแปรรูปโลหะและโครงการโครงสร้างพื้นฐานทั่วโลกกำลังสร้างความต้องการอย่างต่อเนื่องสำหรับแผ่นเจียรอุตสาหกรรมและเครื่องมือตัดที่เกี่ยวข้อง",
+            "why": "แผ่นเจียรและใบตัดคือวัสดุสิ้นเปลืองที่มีอัตราหมุนเวียนสูงสำหรับร้านแปรรูปโลหะ ซึ่งฐานลูกค้า B2B หลักของเรา",
+            "action": "รักษาระดับสต็อกแผ่นเจียรงานหนักให้แข็งแกร่งเพื่อรองรับความต้องการแปรรูปโลหะจากโครงการโครงสร้างพื้นฐาน"
+          }
+        },
+        {
+          "id": "20261121-w3",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "Cutting Tool Engineering",
+          "date": "2026-01-19",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdlIxbnF0ZzBnSUozVVYybGZwMnF5R09nTWZib2VyNFB2WXpIYTJEcGFpd0lfQjBDcG42eTJiNDQ2eEJhUmdGT29PZ0w4NlNSRjhhQ2w3TmplcVloMDJ5bjNYZDF1UVdLbXYxS0RtYTRFSmtDMFVaVGxVVk5zMnVxeVBiTjhiVXpydFU3YUNMR19nRlJlT3NkT3Jjb3B3dHZqQnRN?oc=5",
+          "title": "Single-layered approach: The fundamentals of using coated abrasives in metalworking",
+          "summary": "Industry analysis highlights the efficiency and performance benefits of single-layered coated abrasives in modern metalworking applications.",
+          "why": "Advanced coating technologies improve grain exposure and cutting speed, offering premium value to metal fabrication clients.",
+          "action": "Educate our sales team on the technical advantages of single-layered coated abrasives to pitch higher-margin products.",
+          "th": {
+            "title": "แนวทางแบบชั้นเดียว: พื้นฐานการใช้กระดาษทรายสายพานและวัสดุขัดเคลือบในงานโลหะ",
+            "summary": "การวิเคราะห์อุตสาหกรรมเน้นย้ำถึงประสิทธิภาพและประโยชน์ด้านสมรรถนะของวัสดุขัดเคลือบแบบชั้นเดียวในงานโลหะสมัยใหม่",
+            "why": "เทคโนโลยีการเคลือบขั้นสูงช่วยเพิ่มการสัมผัสของเม็ดทรายและความเร็วในการตัด มอบคุณค่าระดับพรีเมียมให้แก่ลูกค้างานโลหะ",
+            "action": "อบรมทีมขายเกี่ยวกับข้อ ด้อยทางเทคนิคของวัสดุขัดเคลือบชั้นเดียวเพื่อเสนอขายสินค้าที่มีอัตรากำไรสูงขึ้น"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-11-20",
       "summary": "Global markets show rising demand for precision finishing and surface preparation driven by new manufacturing standards, while steel and automotive sectors continue to navigate overcapacity and digital factory shifts.",
@@ -830,70 +894,6 @@ window.WORLD_ARCHIVE = {
             "summary": "ความตึงเครียดทางภูมิรัฐศาสตร์ยังคงส่งผลกระทบต่ออุตสาหกรรมการผลิตโลหะระดับภูมิภาค ทำให้เกิดความผันผวนในห่วงโซ่อุปทานและต้นทุนของโรงงานเหล็ก",
             "why": "ปริมาณการผลิตเหล็กส่งผลโดยตรงต่ออัตราการใช้กำลังการผลิตของโรงงาน เมื่อผลผลิตเหล็กผันผวน การใช้วัสดุขัดแต่งผิวและลบครีบก็จะเปลี่ยนไปตามด้วย",
             "action": "ติดต่อสื่อสารกับลูกค้ากลุ่มแปรรูปโลหะอย่างใกล้ชิดเพื่อคาดการณ์การเพิ่มขึ้นหรือลดลงของการใช้วัสดุขัด"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-11-07",
-      "summary": "Today's briefing highlights global shifts in coated abrasives, blue ceramic grain demand, automation in metalworking, and European steel decarbonization under CBAM.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปแนวโน้มโลกวันนี้เน้นการเติบโตของกระดาษทรายเคลือบ เม็ดทรายเซรามิกสีฟ้า ระบบอัตโนมัติในงานโลหะ และการปรับตัวลดคาร์บอนของอุตสาหกรรมเหล็กยุโรปภายใต้กฎระเบียบ CBAM"
-      },
-      "items": [
-        {
-          "id": "20261107-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-11-01",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZG1Tb3Bhc05IRGVXMmQ4dHFjZXUtYzhrYTJrXzVPcURwMlA3Z3ZvOTB5NThxTkxndVY3eGtkVmNYWm1mR21NQzhnRnpSZ0hCUTdLc0FNTDA2Y1NKSTlkMkwtbUtjMDd4c2tDd0w5bHNMT2JYVXNmX28zSnM3ejVmaDlQbzgtc1ZjVkxRY3VhaTlodFRDanpTbXdlaXloeTJZODY1Qmo0d2pTSkZxenVSTUJET2xRaGlMSlJPcG5UdG5RUTQ?oc=5",
-          "title": "Coated Abrasives Market To 2035: Automation and Metalworking Fuel Expansion",
-          "summary": "The global coated abrasives market is expanding through 2035, driven significantly by automated manufacturing and advanced metalworking requirements.",
-          "why": "Automation demands high-consistency, long-lasting abrasive belts and discs to minimize machine downtime.",
-          "action": "Evaluate our product lineup for automated robotic sanding compatibility.",
-          "th": {
-            "title": "ตลาดกระดาษทรายเคลือบถึงปี 2035: ระบบอัตโนมัติและงานโลหะขับเคลื่อนการขยายตัว",
-            "summary": "ตลาดกระดาษทรายเคลือบโลกกำลังเติบโตถึงปี 2035 โดยได้รับแรงหนุนหลักจากกระบวนการผลิตอัตโนมัติและความต้องการงานโลหะขั้นสูง",
-            "why": "ระบบอัตโนมัติมีความต้องการกระดาษทรายสายพานและแผ่นขัดที่มีความสม่ำเสมอสูงและทนทาน เพื่อลดเวลาหยุดเครื่องจักร",
-            "action": "ประเมินกลุ่มผลิตภัณฑ์ของเราให้รองรับการใช้งานร่วมกับหุ่นยนต์ขัดอัตโนมัติ"
-          }
-        },
-        {
-          "id": "20261107-w2",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-11-02",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeWRrVkJoSERZcnUtUTVYNjFlRDRXeVAzeF9YLVJoU0RtQXEwVXIzNnA4dlYtWmplVGpqSlJxVVM4czVXMGRfUjZub3JFSHVXaWV3QXJtRF9yLVBKOHNiaHNSZERmMndyX3dvZ0ticFVWNEhhV2JUUVktUXM0Ylc1Q0tPanhMVXhYR2tKM24tcmpZbW9uRjNzRVR3eUkzNUtfM2NIYS1NRVFiVUw0SVFZLVRuTV9kaTExMWN0V3RQT0pOekgwZDg1c0l2SkZMMXdkZEFvUVJB?oc=5",
-          "title": "Blue Ceramic Abrasive Market To 2035: Precision Grinding Demand Supports Forward Growth",
-          "summary": "Demand for blue ceramic abrasives is rising steadily, supported by strong needs for high-precision grinding across heavy industries.",
-          "why": "Ceramic grains are premium products that offer superior cutting speed and lifespan for tough metals like stainless steel.",
-          "action": "Consider promoting high-performance ceramic abrasive lines to customers needing heavy metal removal.",
-          "th": {
-            "title": "ตลาดวัสดุขัดเซรามิกสีฟ้าถึงปี 2035: ความต้องการงานขัดความแม่นยำสูงหนุนการเติบโต",
-            "summary": "ความต้องการวัสดุขัดเซรามิกสีฟ้ากำลังเพิ่มขึ้นอย่างต่อเนื่อง ขับเคลื่อนด้วยความต้องการงานขัดความแม่นยำสูงในอุตสาหกรรมหนัก",
-            "why": "เม็ดทรายเซรามิกเป็นผลิตภัณฑ์ระดับพรีเมียมที่มีความเร็วในการตัดสูงและอายุการใช้งานยาวนาน เหมาะสำหรับโลหะแข็งเช่นสแตนเลส",
-            "action": "พิจารณาโปรโมตกลุ่มผลิตภัณฑ์กระดาษทรายเซรามิกประสิทธิภาพสูงให้แก่ลูกค้าที่ต้องการงานขัดโลหะหนัก"
-          }
-        },
-        {
-          "id": "20261107-w3",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "S&P Global",
-          "date": "2026-01-07",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSDJTcGFGbUFvRm15ZDhrczNqYkRzbHlXMTJZTHJpUF9CTjRHaTNXak4tdVBkbnBWcnNrRDRneXpBd1Z5SUJGSFZWTzJMNWhfcVl5czkzR0lSSjd4aTJzMTg3N2FWM3pHQ2NxbHg2dEp2ckNiNC16cWdJZ0t3anl3TzlUYldVajhqM05JQVEyWWdZYVdaYkEzZUpvUEJGdHAxXzRKdDRnNG1pQl9LaEN6Q0lpbFpPMTBOeElqT3V2NUdUSlJJNjZWOEpiMWc?oc=5",
-          "title": "Europe's steel industry faces its 2026 reckoning with CBAM",
-          "summary": "European steel producers are facing strict regulatory pressures under the Carbon Border Adjustment Mechanism (CBAM), altering supply chain dynamics.",
-          "why": "Changes in European steel production and export compliance directly impact metal surface finishing standards and regional manufacturing costs.",
-          "action": "Monitor how green steel transitions affect surface prep requirements in export-oriented metal industries.",
-          "th": {
-            "title": "อุตสาหกรรมเหล็กยุโรปเผชิญจุดเปลี่ยนสำคัญในปี 2026 ด้วยมาตรการ CBAM",
-            "summary": "ผู้ผลิตเหล็กในยุโรปกำลังเผชิญกับแรงกดดันด้านกฎระเบียบที่เข้มงวดภายใต้มาตรการปรับคาร์บอนก่อนข้ามพรมแดน (CBAM) ซึ่งส่งผลต่อห่วงโซ่อุปทาน",
-            "why": "การเปลี่ยนแปลงในการผลิตเหล็กและการปฏิบัติตามกฎระเบียบส่งผลโดยตรงต่อมาตรฐานการเตรียมพื้นผิวโลหะและต้นทุนการผลิต",
-            "action": "ติดตามว่าการเปลี่ยนผ่านสู่เหล็กเขียวส่งผลอย่างไรต่อความต้องการผลิตภัณฑ์เตรียมพื้นผิวในอุตสาหกรรมโลหะส่งออก"
           }
         }
       ]
