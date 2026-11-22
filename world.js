@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-11-22",
-      "summary": "Today's briefing highlights critical developments in global EV production shifts, metal surface finishing suppliers, and regional steel market pressures tied to environmental regulations like CBAM.",
+      "summary": "Today's briefing highlights critical developments in global metal fabrication, industrial grinding mats, and automotive manufacturing shifts, offering insights into upcoming material demand and factory automation.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปสถานการณ์ประจำวันเน้นการเปลี่ยนแปลงการผลิต EV ระดับโลก ผู้ให้บริการตกแต่งพื้นผิวโลหะ และแรงกดดันในตลาดเหล็กภูมิภาคที่เชื่อมโยงกับกฎระเบียบสิ่งแวดล้อมเช่น CBAM"
+        "summary": "สรุปข่าววันนี้เน้นการพัฒนาที่สำคัญในการแปรรูปโลหะระดับโลก ตลาดแผ่นเจียร และการเปลี่ยนแปลงการผลิตยานยนต์ ซึ่งช่วยให้เห็นแนวโน้มความต้องการวัสดุและการอัตโนมัติในโรงงาน"
       },
       "items": [
         {
           "id": "20261122-w1",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "IEA - International Energy Agency",
-          "date": "2026-05-20",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBdlRidlFWTllkZFUwX0tURmp4UmxwenFiRk5tT29WQndpN0xVbU55TV9VRGFJaFBGMm1weTZyczc5MjJ5aDZDVlhqSnh6Mk5EMV84UE0wWk1JWXFjWGpfY0EwN2JXcjZuckx0dVJ1LWFFTjU5bnpSc1lPek1SMWc",
-          "title": "Manufacturing and trade - Global EV Outlook 2026",
-          "summary": "The IEA outlines global manufacturing and supply chain trends for electric vehicles, highlighting shifting production hubs and trade dynamics.",
-          "why": "EV manufacturing requires specialized lightweight metals and precision components, directly influencing demand for specific grinding and deburring solutions.",
-          "action": "Monitor EV supply chain relocations to identify emerging regional manufacturing clusters for precision abrasives.",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-11-19",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWmctRXVSYWJHdVFjN01Va1ZYMjA3OHRxSTN2a19GaHEwNEJHRGlTaVRqaHdGbG1MZE5BUUtxU09EUmkzblc1TmJFMDhCNU1XV2pnRjZBSHk0RExzMlBkVTFoVnhfajBVdE1INklpZ09xRnRYTm55dXpYcFNvMmd1WVVSNnQ1cl9Kb3ZzZWNqQXVfbzlDY1lmNklTXzVCWVJsM3VwWUY0cmwyXzgydk5pQ0NYWnlnUk9iMENMNFkta0NSaE1GelJGMlZiOVNmZEw3?oc=5",
+          "title": "Grinding Mats Market To 2035: Growth Driven by Metal Fabrication and Infrastructure Demand",
+          "summary": "The global grinding mats market is projected for steady growth up to 2035, fueled heavily by expanding metal fabrication and infrastructure projects.",
+          "why": "Grinding mats are direct complementary products to coated and bonded abrasives; strong demand in metal fabrication signals high consumption of surface preparation tools.",
+          "action": "Monitor inventory levels for heavy-duty metal grinding and cutting accessories to capture rising fabrication demand.",
           "th": {
-            "title": "การผลิตและการค้า - มุมมองยานยนต์ไฟฟ้าโลกปี 2026",
-            "summary": "IEA เผยแพร่แนวโน้มการผลิตและห่วงโซ่อุปทานระดับโลกสำหรับยานยนต์ไฟฟ้า เน้นย้ำการเปลี่ยนแปลงของศูนย์กลางการผลิตและพลวัตการค้า",
-            "why": "การผลิต EV ต้องใช้โลหะน้ำหนักเบาและชิ้นส่วนที่มีความแม่นยำสูง ซึ่งส่งผลโดยตรงต่อความต้องการโซลูชันการเจียรและลบคมที่จำเพาะเจาะจง",
-            "action": "ติดตามการย้ายฐานห่วงโซ่อุปทาน EV เพื่อระบุคลัสเตอร์การผลิตระดับภูมิภาคที่กำลังเติบโตสำหรับวัสดุขัดถูความแม่นยำสูง"
+            "title": "ตลาดแผ่นเจียรถึงปี 2035: การเติบโตขับเคลื่อนโดยความต้องการงานแปรรูปโลหะและโครงสร้างพื้นฐาน",
+            "summary": "ตลาดแผ่นเจียรทั่วโลกคาดว่าจะเติบโตอย่างต่อเนื่องจนถึงปี 2035 โดยได้รับแรงหนุนหลักจากการขยายตัวของงานแปรรูปโลหะและโครงการโครงสร้างพื้นฐาน",
+            "why": "แผ่นเจียรเป็นผลิตภัณฑ์ที่ใช้คู่กับกระดาษทรายและหินเจียร ความต้องการที่สูงในงานแปรรูปโลหะบ่งบอกถึงการใช้เครื่องมือเตรียมพื้นผิวในปริมาณมาก",
+            "action": "ติดตามระดับสินค้าคงคลังสำหรับอุปกรณ์ตัดและเจียรโลหะงานหนักเพื่อรองรับความต้องการแปรรูปที่สูงขึ้น"
           }
         },
         {
           "id": "20261122-w2",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndyStar",
-          "date": "2026-11-17",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb3cySlBsZ0F0ZXgzcmxzMUZTbXFmX2ZOTXVfWUVJRXBXVjJLejZkV3l0SDN4NnVRNXVDNldMX2ZESFpaeGtpUHlKTWVkbi1wc0tfcjNUTHVZdnhaa0xaNXpyc2YzR3hvOVZERl9MdUI2OGFiWGFVMEtwbTlkLVZOSVVwUEh4TnFDN1l1M3c4di1WVkxTcVVFanhfM3g5VXRkTDVSSkljajA0dTRPSVo3Y05ta2xWcmk2YlNjU1hjdmk1Z3VpQ3RxdQ",
-          "title": "Top 5 Metal Surface Finishing Solutions Suppliers in China: Ranked Comparison",
-          "summary": "A newly published ranking compares top metal surface finishing and abrasive solution providers in China, showcasing competitive technologies.",
-          "why": "Understanding Chinese competitors and their surface finishing solutions helps benchmark product quality, pricing strategies, and technological shifts.",
-          "action": "Analyze the ranked suppliers' product portfolios to identify competitive gaps or advanced bonding technologies entering our markets.",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "World Economic Forum",
+          "date": "2026-04-21",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPc3hudkhpWE9BVTdWSk5BQWV2SWpBNHZxOUFfY2Rxcy0weW4tc2c2UFE1blAwFjVvYzRFcE9TdW1iVTdfYXBSVGk0UER5ZDVFQkZybG51bEY2QmhYemE3anRJbERYRW9KUkZHcHZ2eHZCMTRSMWlYMklYTDNPdzZGYzZZOFQtblNBMktoS2RNSndvX1dDRlZQSlBUT1pVdE1FN0ozOFZibUxlaHFGT1FjNUpZWEEyZGFrMTJUTXhPNA?oc=5",
+          "title": "How the Iran war is disrupting India's steel production amid fuel shortages and rising costs",
+          "summary": "Geopolitical conflicts in the Middle East are causing fuel shortages and surging production costs, severely impacting steel output in major hubs like India.",
+          "why": "Fluctuations in steel production volumes directly impact local machining and metalworking activity, altering abrasive consumption patterns.",
+          "action": "Keep an eye on regional raw material costs and adjust sourcing strategies for metal-industry abrasive lines.",
           "th": {
-            "title": "5 อันดับซัพพลายเออร์โซลูชันการตกแต่งพื้นผิวโลหะชั้นนำในจีน: เปรียบเทียบจัดอันดับ",
-            "summary": "บทความจัดอันดับเปรียบเทียบผู้ให้บริการโซลูชันการตกแต่งพื้นผิวโลหะและวัสดุขัดถูชั้นนำในจีน พร้อมแสดงเทคโนโลยีที่มีความสามารถในการแข่งขันสูง",
-            "why": "การทำความเข้าใจคู่แข่งจากจีนและโซลูชันการตกแต่งพื้นผิวช่วยให้สามารถเทียบเคียงคุณภาพผลิตภัณฑ์ กลยุทธ์ด้านราคา และการเปลี่ยนแปลงทางเทคโนโลยีได้",
-            "action": "วิเคราะห์กลุ่มผลิตภัณฑ์ของซัพพลายเออร์ที่ได้รับการจัดอันดับ เพื่อหาช่องว่างทางการแข่งขันหรือเทคโนโลยีการประสานที่กำลังเข้าสู่ตลาดของเรา"
+            "title": "สงครามอิหร่านส่งผลกระทบต่อการผลิตเหล็กของอินเดียท่ามกลางปัญหาขาดแคลนเชื้อเพลิงและต้นทุนที่สูงขึ้น",
+            "summary": "ความขัดแย้งทางภูมิรัฐศาสตร์ในตะวันออกกลางกำลังทำให้เกิดการขาดแคลนเชื้อเพลิงและต้นทุนการผลิตที่พุ่งสูงขึ้น ส่งผลกระทบอย่างรุนแรงต่อผลผลิตเหล็กในศูนย์กลางสำคัญอย่างอินเดีย",
+            "why": "ความผันผวนของปริมาณการผลิตเหล็กส่งผลโดยตรงต่อกิจกรรมการตัดเฉือนและการแปรรูปโลหะในท้องถิ่น ซึ่งเปลี่ยนรูปแบบการบริโภคผลิตภัณฑ์ขัด",
+            "action": "จับตาดูต้นทุนวัตถุดิบในภูมิภาคและปรับกลยุทธ์การจัดซื้อสำหรับกลุ่มผลิตภัณฑ์กระดาษทรายสำหรับอุตสาหกรรมโลหะ"
           }
         },
         {
           "id": "20261122-w3",
-          "tag": "steel",
-          "rating": "green",
-          "source": "S&P Global",
-          "date": "2026-01-07",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSDJTcGFGbUFvRm15ZDhrczNqYkRzbHlXMTJZTHJpUF9CTjRHaTNXak4tdVBkbnBWcnNrRDRneXpBd1Z5SUJGSFZWTzJMNWhfcVl5czkzR0lSSjd4aTJzMTg3N2FWM3pHQ2NxbHg2dEp2ckNiNC16cWdJZ0t3anl3TzlUYldVajhqM05JQVEyWWdZYVdaYkEzZUpvUEJGdHAxXzRKdDRnNG1pQl9LaEN6Q0lpbFpPMTBOeElqT3V2NUdUSlJJNjZWOEpiMWc",
-          "title": "Europe's steel industry faces its 2026 reckoning with CBAM",
-          "summary": "Europe's steel sector confronts strict implementation of the Carbon Border Adjustment Mechanism (CBAM), altering trade patterns and production costs.",
-          "why": "Changes in European steel production efficiency and volume directly impact regional metal fabrication activity and surface preparation needs.",
-          "action": "Prepare for shifting export-import steel dynamics and sustainability requirements expected by metal processors responding to CBAM.",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-11-09",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUEhWWFVvZ013aGRlbWZoTlRpblBlTFZRRC1yX1FzUDhCN2FSTGVuV1lYTS00XzViRGsxREtkb1hKYzN0T2NLd1BySWZzTzdKVG9XLXlhS1RZQXJ2dS1yOFJlWTVwaDFfV2otN29fR2ota1dzcm5aU1dHZTZJcGNYZ2dQQk90MGY1bVd0LWdodXNELUczNUFidXctNjNCUDZBa2c1WnZmZUR0YUVnVnphMnRaUG9JLWNpWXM4R3ZkbE1pNUs3?oc=5",
+          "title": "COP31 electrification shake-up: EV rules meet factory reality",
+          "summary": "New global climate policies and EV mandates discussed at recent summits are forcing automotive factories to accelerate assembly line transformations.",
+          "why": "Automotive manufacturing shifts change body-in-white prep, weld seam smoothing, and composite sanding requirements.",
+          "action": "Anticipate changes in surface finishing specs as EV manufacturers adopt new lightweight materials.",
           "th": {
-            "title": "อุตสาหกรรมเหล็กของยุโรปเผชิญจุดตัดสินใจครั้งสำคัญในปี 2026 ด้วยมาตรการ CBAM",
-            "summary": "ภาคส่วนเหล็กของยุโรปต้องเผชิญกับการบังคับใช้มาตรการปรับคาร์บอนก่อนข้ามพรมแดน (CBAM) อย่างเข้มงวด ซึ่งเปลี่ยนรูปแบบการค้าและต้นทุนการผลิต",
-            "why": "การเปลี่ยนแปลงด้านประสิทธิภาพและปริมาณการผลิตเหล็กในยุโรปส่งผลกระทบโดยตรงต่อกิจกรรมการแปรรูปโลหะระดับภูมิภาคและความต้องการเตรียมพื้นผิว",
-            "action": "เตรียมรับมือกับการเปลี่ยนแปลงพลวัตการส่งออก-นำเข้าเหล็กและข้อกำหนดด้านความยั่งยืนที่ผู้แปรรูปโลหะต้องปฏิบัติตามเพื่อตอบสนองต่อ CBAM"
+            "title": "การเปลี่ยนแปลงด้านการขับเคลื่อนด้วยไฟฟ้าของ COP31: กฎระเบียบ EV พบกับความจริงในโรงงาน",
+            "summary": "นโยบายสภาพภูมิอากาศโลกและข้อกำหนด EV ใหม่ที่หารือในการประชุมสุดยอดกำลังบังคับให้โรงงานยานยนต์เร่งเปลี่ยนผ่านสายการผลิต",
+            "why": "การเปลี่ยนแปลงในการผลิตยานยนต์ส่งผลต่อข้อกำหนดในการเตรียมพื้นผิวตัวถัง การขัดรอยเชื่อม และวัสดุคอมโพสิต",
+            "action": "คาดการณ์การเปลี่ยนแปลงในข้อกำหนดการขัดตกแต่งผิว เมื่อผู้ผลิตยานยนต์ไฟฟ้าหันมาใช้วัสดุน้ำหนักเบาใหม่ๆ"
           }
         }
       ]
