@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-11-22",
-      "summary": "Today's briefing highlights global industrial shifts including grinding mat market growth driven by metal fabrication, China's car industry consolidation, and long-term outlooks for industrial and automotive coatings.",
+      "summary": "Today's briefing highlights critical developments in global EV production shifts, metal surface finishing suppliers, and regional steel market pressures tied to environmental regulations like CBAM.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปกระแสโลกประจำวันนี้เน้นการเติบโตของตลาดแผ่นเจียรจากงานโลหะ การควบรวมกิจการในอุตสาหกรรมรถยนต์จีน และแนวโน้มระยะยาวของอุตสาหกรรมเคลือบผิว"
+        "summary": "สรุปสถานการณ์ประจำวันเน้นการเปลี่ยนแปลงการผลิต EV ระดับโลก ผู้ให้บริการตกแต่งพื้นผิวโลหะ และแรงกดดันในตลาดเหล็กภูมิภาคที่เชื่อมโยงกับกฎระเบียบสิ่งแวดล้อมเช่น CBAM"
       },
       "items": [
         {
           "id": "20261122-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-11-19",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWmctRXVSYWJHdVFjN01Va1ZYMjA3OHRxSTN2a19GaHEwNEJHRGlTaVRqaHdGbG1MZE5BUUtxU09EUmkzblc1TmJFMDhCNU1XV2pnRjZBSHk0RExzMlBkVTFoVnhfajBVdE1INklpZ09xRnRYTm55dXpYcFNvMmd1WVVSNnQ1cl9Kb3ZzZWNqQXVfbzlDY1lmNklTXzVCWVJsM3VwWUY0cmwyXzgydk5pQ0NYWnlnUk9iMENMNFkta0NSaH1GelJGMlZiOVNmZEw3?oc=5",
-          "title": "Grinding Mats Market To 2035: Growth Driven by Metal Fabrication and Infrastructure Demand",
-          "summary": "The global grinding mats market is projected to expand significantly through 2035, heavily fueled by growing demand in metal fabrication and infrastructure projects.",
-          "why": "Directly indicates sustained long-term demand for grinding and cutting consumables in heavy metalworking sectors.",
-          "action": "Ensure stable stock and competitive pricing for high-turnover grinding mats and discs.",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "IEA - International Energy Agency",
+          "date": "2026-05-20",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBdlRidlFWTllkZFUwX0tURmp4UmxwenFiRk5tT29WQndpN0xVbU55TV9VRGFJaFBGMm1weTZyczc5MjJ5aDZDVlhqSnh6Mk5EMV84UE0wWk1JWXFjWGpfY0EwN2JXcjZuckx0dVJ1LWFFTjU5bnpSc1lPek1SMWc",
+          "title": "Manufacturing and trade - Global EV Outlook 2026",
+          "summary": "The IEA outlines global manufacturing and supply chain trends for electric vehicles, highlighting shifting production hubs and trade dynamics.",
+          "why": "EV manufacturing requires specialized lightweight metals and precision components, directly influencing demand for specific grinding and deburring solutions.",
+          "action": "Monitor EV supply chain relocations to identify emerging regional manufacturing clusters for precision abrasives.",
           "th": {
-            "title": "ตลาดแผ่นเจียรถึงปี 2035: เติบโตจากความต้องการด้านการแปรรูปโลหะและโครงสร้างพื้นฐาน",
-            "summary": "ตลาดแผ่นเจียรทั่วโลกคาดว่าจะขยายตัวอย่างมีนัยสำคัญจนถึงปี 2035 โดยได้รับแรงหนุนจากความต้องการในอุตสาหกรรมแปรรูปโลหะและโครงสร้างพื้นฐาน",
-            "why": "บ่งชี้ถึงความต้องการใช้วัสดุสิ้นเปลืองสำหรับงานเจียรและตัดในภาคอุตสาหกรรมโลหะที่ยังคงมีอยู่อย่างต่อเนื่อง",
-            "action": "รักษาเสถียรภาพสต็อกสินค้าและราคาที่มีความสามารถในการแข่งขันสำหรับแผ่นเจียรและใบตัดที่มียอดขายสูง"
+            "title": "การผลิตและการค้า - มุมมองยานยนต์ไฟฟ้าโลกปี 2026",
+            "summary": "IEA เผยแพร่แนวโน้มการผลิตและห่วงโซ่อุปทานระดับโลกสำหรับยานยนต์ไฟฟ้า เน้นย้ำการเปลี่ยนแปลงของศูนย์กลางการผลิตและพลวัตการค้า",
+            "why": "การผลิต EV ต้องใช้โลหะน้ำหนักเบาและชิ้นส่วนที่มีความแม่นยำสูง ซึ่งส่งผลโดยตรงต่อความต้องการโซลูชันการเจียรและลบคมที่จำเพาะเจาะจง",
+            "action": "ติดตามการย้ายฐานห่วงโซ่อุปทาน EV เพื่อระบุคลัสเตอร์การผลิตระดับภูมิภาคที่กำลังเติบโตสำหรับวัสดุขัดถูความแม่นยำสูง"
           }
         },
         {
           "id": "20261122-w2",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-10-28",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMExMd0h3VTZZUGVhTmVoNENZT0RDYkZhOFlTUzZUd3RmT0RNRGJKVjlQVTBmRnkwa21iZEl6ZlNJYmIzVTJjQzU1eGhrcTFPOHhNQWRlSWVWaDlwR2FIVGZmSWJlQk00ZmNRUE5oc1owOGtPSzM2QzNCY0R4YXJNdjdwWExHVzNDM1JXSGRpMnNTdHQ1QXdnWlk2MFlFc21GRXd5QjVVYVItalFMN2hjZmZqZi1nd2I5aVBhYlRhbTQ?oc=5",
-          "title": "China's car industry consolidation begins: who will survive?",
-          "summary": "China's automotive sector is undergoing a major structural consolidation, filtering out weaker players as competition intensifies.",
-          "why": "Shifts in OEM stability affect local automotive supply chains and surface finishing standards for auto parts.",
-          "action": "Monitor major surviving EV and traditional auto manufacturers for consistent abrasive tool orders.",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndyStar",
+          "date": "2026-11-17",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb3cySlBsZ0F0ZXgzcmxzMUZTbXFmX2ZOTXVfWUVJRXBXVjJLejZkV3l0SDN4NnVRNXVDNldMX2ZESFpaeGtpUHlKTWVkbi1wc0tfcjNUTHVZdnhaa0xaNXpyc2YzR3hvOVZERl9MdUI2OGFiWGFVMEtwbTlkLVZOSVVwUEh4TnFDN1l1M3c4di1WVkxTcVVFanhfM3g5VXRkTDVSSkljajA0dTRPSVo3Y05ta2xWcmk2YlNjU1hjdmk1Z3VpQ3RxdQ",
+          "title": "Top 5 Metal Surface Finishing Solutions Suppliers in China: Ranked Comparison",
+          "summary": "A newly published ranking compares top metal surface finishing and abrasive solution providers in China, showcasing competitive technologies.",
+          "why": "Understanding Chinese competitors and their surface finishing solutions helps benchmark product quality, pricing strategies, and technological shifts.",
+          "action": "Analyze the ranked suppliers' product portfolios to identify competitive gaps or advanced bonding technologies entering our markets.",
           "th": {
-            "title": "อุตสาหกรรมรถยนต์จีนเริ่มควบรวมกิจการ: ใครจะรอด?",
-            "summary": "ภาคยานยนต์ของจีนกำลังเข้าสู่กระบวนการปรับโครงสร้างครั้งใหญ่ โดยคัดกรองผู้เล่นที่อ่อนแอกว่าท่ามกลางการแข่งขันที่ดุเดือด",
-            "why": "ความเปลี่ยนแปลงของความมั่นคงในกลุ่มผู้ผลิตรถยนต์ (OEM) ส่งผลต่อห่วงโซ่อุปทานชิ้นส่วนยานยนต์และมาตรฐานการเตรียมพื้นผิว",
-            "action": "ติดตามกลุ่มผู้ผลิตรถยนต์ไฟฟ้าและรถยนต์ทั่วไปรายใหญ่ที่ยังคงอยู่ในตลาด เพื่อรักษาคำสั่งซื้อเครื่องมือขัด"
+            "title": "5 อันดับซัพพลายเออร์โซลูชันการตกแต่งพื้นผิวโลหะชั้นนำในจีน: เปรียบเทียบจัดอันดับ",
+            "summary": "บทความจัดอันดับเปรียบเทียบผู้ให้บริการโซลูชันการตกแต่งพื้นผิวโลหะและวัสดุขัดถูชั้นนำในจีน พร้อมแสดงเทคโนโลยีที่มีความสามารถในการแข่งขันสูง",
+            "why": "การทำความเข้าใจคู่แข่งจากจีนและโซลูชันการตกแต่งพื้นผิวช่วยให้สามารถเทียบเคียงคุณภาพผลิตภัณฑ์ กลยุทธ์ด้านราคา และการเปลี่ยนแปลงทางเทคโนโลยีได้",
+            "action": "วิเคราะห์กลุ่มผลิตภัณฑ์ของซัพพลายเออร์ที่ได้รับการจัดอันดับ เพื่อหาช่องว่างทางการแข่งขันหรือเทคโนโลยีการประสานที่กำลังเข้าสู่ตลาดของเรา"
           }
         },
         {
           "id": "20261122-w3",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "Grand View Research",
-          "date": "2016-03-06",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN1F0T3VTT2NLTnFiUUM2MFRxV21SbklHNUlYQU9FUmtnUmdvZXdKSS11aVl2T2pIT1FjQkg5aGI0QmVGS3FiaFhwbHdtVlh3NDFSRUlCOUVGSXNKMlBUN3VWLUc5T1VLSHZ0VngwZ2FkRjMxUk9FREtOTzlrdm1MV2lhcl8?oc=5",
-          "title": "Industrial Coatings Market Size & Share Report, 2026-2033",
-          "summary": "The global industrial coatings market size is analyzed with strong projected trends focused on specialized applications through 2033.",
-          "why": "Industrial coating prep heavily relies on surface sanding and abrasives for optimal paint adhesion.",
-          "action": "Align marketing for sanding products with industrial coating pretreatment requirements.",
+          "tag": "steel",
+          "rating": "green",
+          "source": "S&P Global",
+          "date": "2026-01-07",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSDJTcGFGbUFvRm15ZDhrczNqYkRzbHlXMTJZTHJpUF9CTjRHaTNXak4tdVBkbnBWcnNrRDRneXpBd1Z5SUJGSFZWTzJMNWhfcVl5czkzR0lSSjd4aTJzMTg3N2FWM3pHQ2NxbHg2dEp2ckNiNC16cWdJZ0t3anl3TzlUYldVajhqM05JQVEyWWdZYVdaYkEzZUpvUEJGdHAxXzRKdDRnNG1pQl9LaEN6Q0lpbFpPMTBOeElqT3V2NUdUSlJJNjZWOEpiMWc",
+          "title": "Europe's steel industry faces its 2026 reckoning with CBAM",
+          "summary": "Europe's steel sector confronts strict implementation of the Carbon Border Adjustment Mechanism (CBAM), altering trade patterns and production costs.",
+          "why": "Changes in European steel production efficiency and volume directly impact regional metal fabrication activity and surface preparation needs.",
+          "action": "Prepare for shifting export-import steel dynamics and sustainability requirements expected by metal processors responding to CBAM.",
           "th": {
-            "title": "รายงานขนาดและส่วนแบ่งตลาดสารเคลือบอุตสาหกรรม ปี 2026-2033",
-            "summary": "การวิเคราะห์ขนาดตลาดสารเคลือบอุตสาหกรรมทั่วโลกพร้อมแนวโน้มการเติบโตที่มุ่งเน้นการใช้งานเฉพาะทางจนถึงปี 2033",
-            "why": "กระบวนการเตรียมพื้นผิวก่อนเคลือบอุตสาหกรรมต้องพึ่งพางานขัดกระดาษทรายและวัสดุขัดเพื่อการยึดเกาะของสีที่ดีเยี่ยม",
-            "action": "ปรับการตลาดผลิตภัณฑ์กระดาษทรายให้สอดคล้องกับความต้องการในการเตรียมพื้นผิวก่อนเคลือบอุตสาหกรรม"
+            "title": "อุตสาหกรรมเหล็กของยุโรปเผชิญจุดตัดสินใจครั้งสำคัญในปี 2026 ด้วยมาตรการ CBAM",
+            "summary": "ภาคส่วนเหล็กของยุโรปต้องเผชิญกับการบังคับใช้มาตรการปรับคาร์บอนก่อนข้ามพรมแดน (CBAM) อย่างเข้มงวด ซึ่งเปลี่ยนรูปแบบการค้าและต้นทุนการผลิต",
+            "why": "การเปลี่ยนแปลงด้านประสิทธิภาพและปริมาณการผลิตเหล็กในยุโรปส่งผลกระทบโดยตรงต่อกิจกรรมการแปรรูปโลหะระดับภูมิภาคและความต้องการเตรียมพื้นผิว",
+            "action": "เตรียมรับมือกับการเปลี่ยนแปลงพลวัตการส่งออก-นำเข้าเหล็กและข้อกำหนดด้านความยั่งยืนที่ผู้แปรรูปโลหะต้องปฏิบัติตามเพื่อตอบสนองต่อ CBAM"
           }
         }
       ]
