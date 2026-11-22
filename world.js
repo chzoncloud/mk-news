@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-11-21",
+  "updated": "2026-11-22",
   "days": [
+    {
+      "date": "2026-11-22",
+      "summary": "Today's briefing highlights global industrial shifts including grinding mat market growth driven by metal fabrication, China's car industry consolidation, and long-term outlooks for industrial and automotive coatings.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปกระแสโลกประจำวันนี้เน้นการเติบโตของตลาดแผ่นเจียรจากงานโลหะ การควบรวมกิจการในอุตสาหกรรมรถยนต์จีน และแนวโน้มระยะยาวของอุตสาหกรรมเคลือบผิว"
+      },
+      "items": [
+        {
+          "id": "20261122-w1",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-11-19",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWmctRXVSYWJHdVFjN01Va1ZYMjA3OHRxSTN2a19GaHEwNEJHRGlTaVRqaHdGbG1MZE5BUUtxU09EUmkzblc1TmJFMDhCNU1XV2pnRjZBSHk0RExzMlBkVTFoVnhfajBVdE1INklpZ09xRnRYTm55dXpYcFNvMmd1WVVSNnQ1cl9Kb3ZzZWNqQXVfbzlDY1lmNklTXzVCWVJsM3VwWUY0cmwyXzgydk5pQ0NYWnlnUk9iMENMNFkta0NSaH1GelJGMlZiOVNmZEw3?oc=5",
+          "title": "Grinding Mats Market To 2035: Growth Driven by Metal Fabrication and Infrastructure Demand",
+          "summary": "The global grinding mats market is projected to expand significantly through 2035, heavily fueled by growing demand in metal fabrication and infrastructure projects.",
+          "why": "Directly indicates sustained long-term demand for grinding and cutting consumables in heavy metalworking sectors.",
+          "action": "Ensure stable stock and competitive pricing for high-turnover grinding mats and discs.",
+          "th": {
+            "title": "ตลาดแผ่นเจียรถึงปี 2035: เติบโตจากความต้องการด้านการแปรรูปโลหะและโครงสร้างพื้นฐาน",
+            "summary": "ตลาดแผ่นเจียรทั่วโลกคาดว่าจะขยายตัวอย่างมีนัยสำคัญจนถึงปี 2035 โดยได้รับแรงหนุนจากความต้องการในอุตสาหกรรมแปรรูปโลหะและโครงสร้างพื้นฐาน",
+            "why": "บ่งชี้ถึงความต้องการใช้วัสดุสิ้นเปลืองสำหรับงานเจียรและตัดในภาคอุตสาหกรรมโลหะที่ยังคงมีอยู่อย่างต่อเนื่อง",
+            "action": "รักษาเสถียรภาพสต็อกสินค้าและราคาที่มีความสามารถในการแข่งขันสำหรับแผ่นเจียรและใบตัดที่มียอดขายสูง"
+          }
+        },
+        {
+          "id": "20261122-w2",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-10-28",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMExMd0h3VTZZUGVhTmVoNENZT0RDYkZhOFlTUzZUd3RmT0RNRGJKVjlQVTBmRnkwa21iZEl6ZlNJYmIzVTJjQzU1eGhrcTFPOHhNQWRlSWVWaDlwR2FIVGZmSWJlQk00ZmNRUE5oc1owOGtPSzM2QzNCY0R4YXJNdjdwWExHVzNDM1JXSGRpMnNTdHQ1QXdnWlk2MFlFc21GRXd5QjVVYVItalFMN2hjZmZqZi1nd2I5aVBhYlRhbTQ?oc=5",
+          "title": "China's car industry consolidation begins: who will survive?",
+          "summary": "China's automotive sector is undergoing a major structural consolidation, filtering out weaker players as competition intensifies.",
+          "why": "Shifts in OEM stability affect local automotive supply chains and surface finishing standards for auto parts.",
+          "action": "Monitor major surviving EV and traditional auto manufacturers for consistent abrasive tool orders.",
+          "th": {
+            "title": "อุตสาหกรรมรถยนต์จีนเริ่มควบรวมกิจการ: ใครจะรอด?",
+            "summary": "ภาคยานยนต์ของจีนกำลังเข้าสู่กระบวนการปรับโครงสร้างครั้งใหญ่ โดยคัดกรองผู้เล่นที่อ่อนแอกว่าท่ามกลางการแข่งขันที่ดุเดือด",
+            "why": "ความเปลี่ยนแปลงของความมั่นคงในกลุ่มผู้ผลิตรถยนต์ (OEM) ส่งผลต่อห่วงโซ่อุปทานชิ้นส่วนยานยนต์และมาตรฐานการเตรียมพื้นผิว",
+            "action": "ติดตามกลุ่มผู้ผลิตรถยนต์ไฟฟ้าและรถยนต์ทั่วไปรายใหญ่ที่ยังคงอยู่ในตลาด เพื่อรักษาคำสั่งซื้อเครื่องมือขัด"
+          }
+        },
+        {
+          "id": "20261122-w3",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "Grand View Research",
+          "date": "2016-03-06",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN1F0T3VTT2NLTnFiUUM2MFRxV21SbklHNUlYQU9FUmtnUmdvZXdKSS11aVl2T2pIT1FjQkg5aGI0QmVGS3FiaFhwbHdtVlh3NDFSRUlCOUVGSXNKMlBUN3VWLUc5T1VLSHZ0VngwZ2FkRjMxUk9FREtOTzlrdm1MV2lhcl8?oc=5",
+          "title": "Industrial Coatings Market Size & Share Report, 2026-2033",
+          "summary": "The global industrial coatings market size is analyzed with strong projected trends focused on specialized applications through 2033.",
+          "why": "Industrial coating prep heavily relies on surface sanding and abrasives for optimal paint adhesion.",
+          "action": "Align marketing for sanding products with industrial coating pretreatment requirements.",
+          "th": {
+            "title": "รายงานขนาดและส่วนแบ่งตลาดสารเคลือบอุตสาหกรรม ปี 2026-2033",
+            "summary": "การวิเคราะห์ขนาดตลาดสารเคลือบอุตสาหกรรมทั่วโลกพร้อมแนวโน้มการเติบโตที่มุ่งเน้นการใช้งานเฉพาะทางจนถึงปี 2033",
+            "why": "กระบวนการเตรียมพื้นผิวก่อนเคลือบอุตสาหกรรมต้องพึ่งพางานขัดกระดาษทรายและวัสดุขัดเพื่อการยึดเกาะของสีที่ดีเยี่ยม",
+            "action": "ปรับการตลาดผลิตภัณฑ์กระดาษทรายให้สอดคล้องกับความต้องการในการเตรียมพื้นผิวก่อนเคลือบอุตสาหกรรม"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-11-21",
       "summary": "Today's briefing focuses on global industrial coatings evolution, regional steel manufacturing shifts, and long-term abrasive market drivers. We highlight sustainable manufacturing initiatives and market growth patterns to guide strategic inventory and product positioning.",
@@ -848,70 +912,6 @@ window.WORLD_ARCHIVE = {
             "summary": "ภาคอุตสาหกรรมเหล็กทั่วโลกกำลังเผชิญกับอุปสรรคจากกำลังการผลิตที่ล้นเกินและลัทธิกีดกันทางการค้าระหว่างประเทศที่เพิ่มขึ้น",
             "why": "ความผันผวนของการผลิตเหล็กส่งผลโดยตรงต่อปริมาณการผลิตชิ้นงานโลหะและความต้องการใช้อุปกรณ์ขัด",
             "action": "คอยสังเกตการณ์กิจกรรมการผลิตโลหะในท้องถิ่นท่ามกลางความเปลี่ยนแปลงของอุปทานเหล็กในภูมิภาค"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-11-08",
-      "summary": "Today's intelligence highlights new market expansions in specialized abrasives like ceramic and flap discs, alongside ongoing steel and EV supply adjustments. Global growth in precision finishing remains a steady demand driver.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปข้อมูลเชิงลึกวันนี้เน้นการเติบโตของตลาดวัสดุขัดถูเฉพาะทาง เช่น เซรามิกและแผ่นเจียร (Flap Discs) ควบคู่ไปกับการปรับตัวของอุตสาหกรรมเหล็กและยานยนต์ EV ความต้องการขัดแต่งผิวที่แม่นยำยังคงเป็นแรงขับเคลื่อนสำคัญ"
-      },
-      "items": [
-        {
-          "id": "20261108-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-11-02",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeWRrVkJoSERZcnUtUTVYNjFlRDRXeVAzeF9YLVJoU0RtQXEwVXIzNnA4dlYtWmplVGpqSlJxVVM4czVXMGRfUjZub3JFSHVXaWV3QXJtRF9yLVBKOHNiaHNSZERmMndyX3dvZ0ticFVWNEhhV2JUUVktUXM0Ylc1Q0tPanhMVXhYR2tKM24tcmpZbW9uRjNzRVR3eUkzNUtfM2NIYS1NRVFiVUw0SVFZLVRuTV9kaTExMWN0V3RQT0pOekgwZDg1c0l2SkZMMXdkZEFvUVJB?oc=5",
-          "title": "Blue Ceramic Abrasive Market To 2035: Precision Grinding Demand Supports Forward Growth",
-          "summary": "The global market for blue ceramic abrasives is expanding steadily through 2035, driven by heightened industrial demand for high-performance precision grinding solutions.",
-          "why": "Ceramic abrasives represent the high-margin, premium end of our product line. Monitoring this growth confirms steady customer demand for durable, heavy-duty sanding materials.",
-          "action": "Ensure our premium ceramic abrasive inventory and technical specs are up to date for high-end metal fabrication clients.",
-          "th": {
-            "title": "ตลาดวัสดุขัดเซรามิกสีน้ำเงินถึงปี 2035: ความต้องการเจียรความแม่นยำสูงหนุนการเติบโต",
-            "summary": "ตลาดโลกสำหรับวัสดุขัดเซรามิกสีน้ำเงินเติบโตอย่างต่อเนื่องจนถึงปี 2035 ขับเคลื่อนด้วยความต้องการทางอุตสาหกรรมสำหรับงานเจียรความแม่นยำสูง",
-            "why": "วัสดุขัดเซรามิกคือสินค้าพรีเมียมที่มีกำไรสูงในกลุ่มผลิตภัณฑ์ของเรา การเติบโตนี้ยืนยันว่าลูกค้ายังคงต้องการวัสดุขัดที่ทนทานและใช้งานหนัก",
-            "action": "ตรวจสอบสต็อกสินค้าเซรามิกเกรดพรีเมียมและข้อมูลทางเทคนิคให้พร้อมสำหรับลูกค้ากลุ่มอุตสาหกรรมโลหะระดับสูง"
-          }
-        },
-        {
-          "id": "20261108-w2",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-11-07",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYjhOUVFDSU9vQV9rRjdhMHFPbEFKMHRuaFY1cTFzc2ZYUktnd0JjeG12VDBJVDJlOXdKZDRyX2t5dmZ1d050QXB3NXh1bHVrYmVHTkQybDhCbXlULUVxVDBBNEkwcTZqWEZYNURFN2x4bG9MWjdlYzlKY3RXWm9ZNWVSeVIwbXFYeHRfWTl4STV1ZlJjNExNSGVkS2VVT01UZ0FDY2VsQzg?oc=5",
-          "title": "Flap Grinding Disc Market in India: Size, Trends and Forecast to 2035",
-          "summary": "Analysis of the flap grinding disc sector outlines strong regional growth and shifting manufacturing requirements through the next decade.",
-          "why": "Flap discs are a fast-moving consumable item in metalworking and welding shops, making regional production and pricing trends vital for our sourcing strategy.",
-          "action": "Review our current supplier pricing and stock depth for flap discs to maintain competitive B2B margins.",
-          "th": {
-            "title": "ตลาดแผ่นเจียร (Flap Disc) ในอินเดีย: ขนาด แนวโน้ม และการคาดการณ์ถึงปี 2035",
-            "summary": "การวิเคราะห์ตลาดแผ่นเจียรแสดงให้เห็นการเติบโตที่แข็งแกร่งในระดับภูมิภาคและความต้องการการผลิตที่เปลี่ยนไปในทศวรรษหน้า",
-            "why": "แผ่นเจียรเป็นสินค้าสิ้นเปลืองที่ขายดีในร้านค้าโลหะและงานเชื่อม ทำให้เทรนด์ราคาและแหล่งผลิตมีความสำคัญต่อกลยุทธ์การจัดซื้อของเรา",
-            "action": "ทบทวนราคากับซัพพลายเออร์และปริมาณสต็อกแผ่นเจียรเพื่อรักษากำไรในการทำธุรกิจ B2B ให้แข่งขันได้"
-          }
-        },
-        {
-          "id": "20261108-w3",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "World Economic Forum",
-          "date": "2026-04-21",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPc3hudkhpWE9BVTdWSk5BQWV2SWpBNHZxOUFfY2Rxcy0weW4tc2c2UFE1blAwFjVvYzRFcE9TdW1iVTdfYXBSVGk0UER5ZDVFQkZybG51bEY2QmhYemE3anRJbERYRW9KUkZHcHZ2eHZCMTRSMWlYMklYTDNPdzZGYzZZOFQtblNBMktoS2RNSndvX1dDRlZQSlBUT1pVdE1FN0ozOFZibUxlaHFGT1FjNUpZWEEyZGFrMTJUTXhPNA?oc=5",
-          "title": "How regional conflicts disrupt steel production amid fuel shortages and rising costs",
-          "summary": "Global geopolitical tensions continue to impact regional metal manufacturing operations, creating supply chain fluctuations and cost pressures for steel mills.",
-          "why": "Steel production output directly dictates factory utilization rates. When steel output fluctuates, surface finishing and deburring material consumption follows.",
-          "action": "Keep close communication with metal fabrication clients to anticipate any dips or surges in their abrasive consumption.",
-          "th": {
-            "title": "ความขัดแย้งระดับภูมิภาคกระทบการผลิตเหล็กท่ามกลางปัญหาขาดแคลนเชื้อเพลิงและต้นทุนที่สูงขึ้น",
-            "summary": "ความตึงเครียดทางภูมิรัฐศาสตร์ยังคงส่งผลกระทบต่ออุตสาหกรรมการผลิตโลหะระดับภูมิภาค ทำให้เกิดความผันผวนในห่วงโซ่อุปทานและต้นทุนของโรงงานเหล็ก",
-            "why": "ปริมาณการผลิตเหล็กส่งผลโดยตรงต่ออัตราการใช้กำลังการผลิตของโรงงาน เมื่อผลผลิตเหล็กผันผวน การใช้วัสดุขัดแต่งผิวและลบครีบก็จะเปลี่ยนไปตามด้วย",
-            "action": "ติดต่อสื่อสารกับลูกค้ากลุ่มแปรรูปโลหะอย่างใกล้ชิดเพื่อคาดการณ์การเพิ่มขึ้นหรือลดลงของการใช้วัสดุขัด"
           }
         }
       ]
