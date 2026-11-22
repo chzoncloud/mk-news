@@ -3,64 +3,64 @@ window.NEWS_ARCHIVE = {
   "days": [
     {
       "date": "2026-11-22",
-      "summary": "There is limited new industrial news today as major EV investments and tariff policies were covered in previous days; focus turns to potential Vietjet MRO investment at U-Tapao, pollution crackdowns on substandard steel mills, and regional furniture export expansion.",
-      "directCount": 0,
+      "summary": "Few new stories today as major automotive EV updates were already covered. Current news highlights continued momentum in U-Tapao aerospace MRO expansion and regulatory tightening in standard steel manufacturing, presenting steady opportunities for specialized abrasives.",
+      "directCount": 1,
       "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มาก เนื่องจากประเด็นการลงทุนยานยนต์ไฟฟ้าและมาตรการภาษีหลักถูกรายงานไปแล้ว ข่าวสำคัญจึงอยู่ที่ความเป็นไปได้ในการลงทุนศูนย์ซ่อม MRO ของเวียตเจ็ทที่อู่ตะเภา การกวาดล้างมลพิษโรงงานเหล็กไม่ได้มาตรฐาน และการขยายตัวของภาคส่งออกเฟอร์นิเจอร์"
+        "summary": "วันนี้มีข่าวใหม่ไม่มากเนื่องจากข่าวยานยนต์หลักถูกรายงานไปแล้ว ข่าวเด่นอยู่ที่การเดินหน้าโครงการศูนย์ซ่อมอากาศยาน MRO อู่ตะเภา และการคุมเข้มโรงงานเหล็กมาตรฐาน ซึ่งช่วยเปิดทางสำหรับสินค้าวัสดุขัดเกรดเฉพาะทางของ MK"
       },
       "items": [
         {
           "id": "20261122-1",
           "tag": "aero",
-          "rating": "amber",
-          "source": "Thansettakij",
-          "date": "2026-06-16",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pbFFnQlhiSG5UMVBfTjVmMUZtNXc4ZkYyOFljMVFtQlQwalZ5WUpidFlzX3prejlBWGoydDYzUUZXMlY4bE56VFUwZnZrLVJfWlRtV2t0Wi0xOWkzeVFLTUFJOVIwUQ?oc=5",
-          "title": "EECO Awaits Vietjet Feasibility Study for U-Tapao Aircraft MRO Hub",
-          "summary": "The Eastern Economic Corridor Office (EECO) is supporting Vietjet in conducting an investment feasibility study to establish an aircraft maintenance, repair, and overhaul (MRO) facility at U-Tapao. The project aims to expand private commercial maintenance capacity alongside national carrier hangars.",
-          "why": "New airline operators establishing dedicated MRO facilities in Thailand will generate long-term demand for aerospace-grade abrasives, surface prep tools, and precision finishing products.",
-          "action": "Track Vietjet's engineering and MRO facility planning to prepare MK's aerospace-grade abrasive product line for future vendor qualification.",
+          "rating": "green",
+          "source": "posttoday",
+          "date": "2026-07-27",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lak5sZXQtNktSd3dqWTVQcmdhN2JJdGVhSEUxUzk5RFI5TUs4T3kzMzBqVDdNUnp4N2k3M2FBalNXd0UwaS1XeUxkczM4Rzg4QnVBQXJR?oc=5",
+          "title": "EECO Drives Funding to Establish U-Tapao as Regional Aviation MRO Hub",
+          "summary": "EECO is actively mobilizing investments to develop the U-Tapao aircraft maintenance center into a primary regional hub. The project will generate long-term demand for high-precision surface finishing and airframe maintenance consumables.",
+          "why": "Aviation maintenance requires certified, precision abrasives for turbine blades and airframe finishing, directly matching MK's target expansion into aerospace MRO.",
+          "action": "Map out aviation-grade abrasive product lines and audit vendor qualification standards required by aerospace MRO contractors.",
           "th": {
-            "title": "อีอีซีรอเวียตเจ็ทศึกษาแผนลงทุน ปักหมุดศูนย์ซ่อมบำรุงอากาศยาน MRO อู่ตะเภา",
-            "summary": "สกพอ. อยู่ระหว่างรอผลการศึกษาความเป็นไปได้ของสายการบินเวียตเจ็ทในการลงทุนตั้งศูนย์ซ่อมบำรุงอากาศยาน (MRO) ณ สนามบินอู่ตะเภา เพื่อขยายศักยภาพศูนย์ซ่อมอากาศยานในพื้นที่ EEC",
-            "why": "การที่สายการบินพาณิชย์เข้ามาตั้งโรงซ่อมบำรุงในไทยเพิ่มขึ้น จะเป็นโอกาสระยะยาวสำหรับวัสดุขัดเกรดการบินในงานลบครีบ ขัดผิว และซ่อมบำรุงชิ้นส่วนโลหะ",
-            "action": "ติดตามความคืบหน้าทีมจัดซื้อและวิศวกรรมการบินของเวียตเจ็ทในไทย เพื่อเตรียมนัดนำเสนอวัสดุขัดเกรดอากาศยาน"
+            "title": "EECO ระดมทุน ดันอุตสาหกรรม MRO ปั้นอู่ตะเภาสู่ศูนย์กลางซ่อมอากาศยานภูมิภาค",
+            "summary": "สกพอ. เร่งระดมทุนผลักดันศูนย์ซ่อมอากาศยานอู่ตะเภาเป็นฮับของภูมิภาค หนุนความต้องการงานซ่อมบำรุงและเตรียมผิวโลหะขั้นสูงในระยะยาว",
+            "why": "งาน MRO อากาศยานต้องใช้วัสดุขัดความแม่นยำสูงและมีมาตรฐานรับรอง ซึ่งตรงกับเป้าหมายการขยายตลาดเกรดการบินของ MK โดยตรง",
+            "action": "รวบรวมแคตตาล็อกวัสดุขัดเกรดการบินและศึกษาเกณฑ์การขึ้นทะเบียนเป็นคู่ค้าของกลุ่มผู้รับเหมาซ่อมอากาศยาน"
           }
         },
         {
           "id": "20261122-2",
-          "tag": "steel",
+          "tag": "aero",
           "rating": "amber",
-          "source": "Policy Watch",
-          "date": "2026-11-10",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VWmVLbmlkZW1CRGdoLWM0OWZSaUJlU1RzT2hMR2pOYk55V3JLemhRTWlmU1pqU1l0SThEX0dLMGowSHhEd21GSVdLUDZmR2tUMjIxZkw2ZmNNVGxpdEltNEF0ZC0xVm1w?oc=5",
-          "title": "Environmental Scrutiny Tightens on Substandard Steel Smelters in Prachinburi",
-          "summary": "Authorities and civic groups are cracking down on hazardous waste and red dust pollution from steel smelting plants in Prachinburi. The ongoing pressure is accelerating shutdowns of non-compliant induction furnace operators while enforcing higher environmental compliance on active plants.",
-          "why": "Stricter regulatory enforcement pushes out low-standard smelters but consolidates volume toward compliant steel and fabrication plants that rely on reliable industrial abrasives and grinding consumables.",
-          "action": "Refocus steel-sector sales outreach onto certified, standard-compliant steel fabricators and EAF plants, minimizing credit risk from vulnerable sub-scale smelters.",
+          "source": "LINE TODAY",
+          "date": "2025-11-24",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGRUZSdllROFR5LVMtQ1plTjJMNkFvRmNOeEtsWTJCNGxBbHFYNndUcWc0VVc4c05RVjdrdEIzVlZ3MXZWMGN0TWZ2RzFycWFyODBCYVdR?oc=5",
+          "title": "THAI and Bangkok Airways Partner to Develop 10-Billion-Baht U-Tapao MRO Facilities",
+          "summary": "Thai Airways and Bangkok Airways have agreed to allocate and manage maintenance areas at U-Tapao in a joint 10-billion-baht development. This dual-airline commitment accelerates hangar readiness and maintenance supply chain operations.",
+          "why": "Partnership between two major local carriers speeds up hangar construction and broadens procurement channels for heavy maintenance abrasives.",
+          "action": "Identify maintenance procurement contacts across both Bangkok Airways and THAI Technical departments to present specialized grinding solutions.",
           "th": {
-            "title": "คุมเข้มมลพิษโรงงานหลอมเหล็กในปราจีนบุรี ท่ามกลางวิกฤตฝุ่นแดงและขยะอุตสาหกรรม",
-            "summary": "ภาครัฐและภาคประชาชนยกระดับการตรวจสอบปัญหามลพิษฝุ่นแดงและกากของเสียอันตรายจากโรงงานหลอมเหล็กใน จ.ปราจีนบุรี ส่งผลให้โรงงานที่ไม่ได้มาตรฐานเสี่ยงต่อการถูกสั่งปิดและต้องเผชิญเกณฑ์สิ่งแวดล้อมที่เข้มงวด",
-            "why": "การกวาดล้างโรงงานเหล็กที่ไม่ได้มาตรฐานจะช่วยคัดกรองตลาด ให้ปริมาณงานไหลไปยังโรงงานแปรรูปเหล็กมาตรฐานที่ใช้วัสดุขัดและใบเจียรคุณภาพสูง",
-            "action": "มุ่งขยายฐานลูกค้าไปยังโรงงานแปรรูปโครงสร้างเหล็กมาตรฐานและโรงงานเตา EAF ที่ผ่านเกณฑ์สิ่งแวดล้อม พร้อมระวังความเสี่ยงเครดิตในกลุ่มโรงหลอมขนาดเล็ก"
+            "title": "THAI-BA จับมือลุยศูนย์ซ่อมอากาศยานอู่ตะเภาหมื่นล้าน ร่วมแบ่งพื้นที่บริหาร",
+            "summary": "การบินไทยและบางกอกแอร์เวย์สจับมือแบ่งพื้นที่บริหารศูนย์ซ่อมอากาศยานอู่ตะเภามูลค่าหมื่นล้านบาท เร่งเตรียมความพร้อมโรงซ่อมและห่วงโซ่อุปทาน",
+            "why": "การร่วมมือของสองสายการบินใหญ่ช่วยให้โครงการเดินหน้าเร็วขึ้น เพิ่มโอกาสขายวัสดุขัดสำหรับงานซ่อมบำรุงอากาศยาน",
+            "action": "ทำแผนเข้าพบฝ่ายจัดซื้อแผนกช่างและวิศวกรรมของทั้งสองสายการบินเพื่อนำเสนอโซลูชันวัสดุขัดงานซ่อมบำรุง"
           }
         },
         {
           "id": "20261122-3",
-          "tag": "furniture",
+          "tag": "steel",
           "rating": "amber",
-          "source": "posttoday",
-          "date": "2026-02-20",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxXzVZOHRNaDlMYzJBM2F6S1FPc0Vkcy1Sc2JWRnl1VklJY2ZCSEpsOUJ0RG13b0I1cHBpXzBUOUhlSHdpdV9uV1cyZGJHT2pNaF83cw?oc=5",
-          "title": "ASEAN Furniture Exports Expand with Top Four Nations Controlling 90% Share",
-          "summary": "ASEAN's furniture manufacturing sector continues to expand, driven by regional supply chain shifts where four primary exporters, including Thailand, account for 90% of total outbound volume. Manufacturers are investing in surface quality and automated finishing to satisfy export standards.",
-          "why": "Healthy wooden and metal furniture export production sustains steady consumption of wide sanding belts, disc sandpaper, and fine-grit polishing sheets across manufacturing plants.",
-          "action": "Target export-oriented wooden and metal furniture factories in Eastern and Central Thailand with MK wide sanding belts and random orbital sanding discs.",
+          "source": "bangkokbiznews",
+          "date": "2026-06-09",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1BZE5wSV9tN3JIMkxoeTBjenRHaWFGTThOMkNUWUgwUm4ybm02TTlNLWJ5U1RFdVFRQVBwSldqVWEyUHBIVXhfTnNiSHpzQXhoVDhUYjJoMVAyakhp?oc=5",
+          "title": "Domestic Steel Producers Urge Action Against Substandard Induction Smelters",
+          "summary": "Thai steel associations are petitioning authorities to strictly inspect and regulate substandard induction furnace mills like Xin Ke Yuan to protect industry safety. Stricter oversight helps protect certified domestic manufacturers from substandard market dumping.",
+          "why": "Certified standard steelmakers and metal fabricators who prioritize process quality are MK's core customers for heavy-duty grinding discs and belts.",
+          "action": "Direct sales efforts toward compliant, standard-certified steel and fabrication plants that value consumable durability over low-end price wars.",
           "th": {
-            "title": "อุตสาหกรรมเฟอร์นิเจอร์อาเซียนโตต่อเนื่อง 4 ชาติหลักกวาดสัดส่วนส่งออก 90%",
-            "summary": "อุตสาหกรรมเฟอร์นิเจอร์ในภูมิภาคอาเซียนขยายตัวต่อเนื่อง โดยมี 4 ประเทศหลักรวมถึงไทยครองสัดส่วนการส่งออกกว่า 90% ของทั้งภูมิภาค ทำให้โรงงานต้องเร่งยกระดับคุณภาพงานขัดผิวเพื่อแข่งขันในตลาดโลก",
-            "why": "การขยายตัวของการผลิตเฟอร์นิเจอร์ไม้และโลหะเพื่อการส่งออก ช่วยรักษาความต้องการใช้งานกระดาษทรายสายพานหน้ากว้างและจานขัดกลมอย่างต่อเนื่อง",
-            "action": "เจาะกลุ่มโรงงานผลิตเฟอร์นิเจอร์ส่งออกในแถบภาคกลางและภาคตะวันออก นำเสนอกระดาษทรายสายพานหน้ากว้างและจานขัดกระดาษทรายของ MK"
+            "title": "ผู้ผลิตเหล็กไทยร้องกรมโรงงานสกัดโรงงานเหล็กไม่ได้มาตรฐาน",
+            "summary": "กลุ่มผู้ผลิตเหล็กไทยเรียกร้องให้กรมโรงงานอุตสาหกรรมเข้มงวดการตรวจสอบโรงงานที่ไม่ได้มาตรฐาน เพื่อปกป้องความปลอดภัยและลดการทุ่มตลาดที่บิดเบือนราคา",
+            "why": "โรงงานเหล็กและแปรรูปโลหะที่ได้มาตรฐานเป็นลูกค้าหลักของ MK ซึ่งเน้นสินค้าคุณภาพและอายุการใช้งานที่ทนทาน",
+            "action": "มุ่งเน้นการขยายฐานลูกค้าในกลุ่มโรงงานเหล็กและงานโครงสร้างโลหะที่ได้มาตรฐาน มอก. เพื่อหลีกเลี่ยงสงครามราคาตัดเกรดต่ำ"
           }
         }
       ],
