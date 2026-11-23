@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-11-22",
+  "updated": "2026-11-23",
   "days": [
+    {
+      "date": "2026-11-23",
+      "summary": "Today's global briefing focuses on stainless steel overcapacity projections, US steel tariff shifts, and EV/smart factory manufacturing adjustments that directly impact metal fabrication and surface finishing demand.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปทิศรทางโลกวันนี้เน้นไปที่การคาดการณ์กำลังการผลิตสเตนเลสส่วนเกิน การปรับเปลี่ยนนโยบายภาษีเหล็กของสหรัฐฯ และการปรับตัวของโรงงานอัจฉริยะ/EV ซึ่งส่งผลโดยตรงต่อความต้องการงานแปรรูปโลหะและขัดผิว"
+      },
+      "items": [
+        {
+          "id": "20261123-w1",
+          "tag": "steel",
+          "rating": "green",
+          "source": "SteelOrbis",
+          "date": "2026-10-29",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOajN6bENva3ZfazkzX3oza09SSkVIbW00a1VuMHFSTlBLVVlFcGdUTDJud0JZNHNDdmw5Vm9TcFk1QlZtUUM1dXkxVmFmVEROZnZrVkpTQ2ZqZjZXNDYxNF9CMGJBb19XeVdIMktqSXY0aHlzYnNxMXd3OUd5V1VUWUJHamg0QnV6Y3ZsYS1nMWNyM1BzLURldEIyNk9TR1UyQ1ZIektrRmNIOVFkSlVJRXJCZUh6Y0F5QnZBc041V0kzT1k1ZmxHQ3RRSDE4dHF5LS1Oczk0UzBRODZkaEVHTEZnUDZwTVZ5QmFPdHMwcGRIYUtuV1U1TS1FbUJGRWc?oc=5",
+          "title": "BIR: Global stainless steel production expected to exceed 70 million mt in 2027 despite overcapacity concerns",
+          "summary": "Global stainless steel production is projected to surpass 70 million metric tons by 2027, driven by persistent demand despite ongoing market overcapacity issues.",
+          "why": "Higher stainless steel output directly increases the need for industrial grinding, deburring, and surface finishing abrasives.",
+          "action": "Ensure adequate stock of heavy-duty abrasive belts and discs suited for stainless steel fabrication.",
+          "th": {
+            "title": "BIR คาดการณ์การผลิตสเตนเลสโลกจะทะลุ 70 ล้านตันในปี 2027 แม้กังวลเรื่องกำลังการผลิตส่วนเกิน",
+            "summary": "การผลิตสเตนเลสทั่วโลกคาดว่าจะสูงถึง 70 ล้านตันภายในปี 2027 จากความต้องการที่ยังคงเติบโตต่อเนื่อง",
+            "why": "ปริมาณการผลิตสเตนเลสที่เพิ่มขึ้นส่งผลให้ความต้องการกระดาษทรายและหินเจียรสำหรับงานขัดผิวโลหะเพิ่มสูงขึ้นตามไปด้วย",
+            "action": "เตรียมสต็อกสินค้ากลุ่มกระดาษทรายสายพานและแผ่นขัดที่รองรับงานสเตนเลสให้พร้อม"
+          }
+        },
+        {
+          "id": "20261123-w2",
+          "tag": "steel",
+          "rating": "green",
+          "source": "economy.ac",
+          "date": "2026-08-07",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YQWhOYlJ3eW9jTUhwa25XdE55eHh3a2JoODhWdDAtOW00UzhXcWwtNnJJXzZGMjMtNXN6MTYwTUhib3ZHUDNXaTdIbWY2N092QXNsOXFfdw?oc=5",
+          "title": "'Trump Tariffs and AI Boom' Propel U.S. Steel Past Japan to World No. 3 for First Time in 26 Years",
+          "summary": "Fueled by domestic trade protections and tech sector demand, U.S. steel production has risen to become the world's third largest.",
+          "why": "Shifts in regional steel production alter global supply chains and local metalworking activity, affecting consumable abrasive purchasing patterns.",
+          "action": "Monitor how shifting regional metal output influences local manufacturing supply chains.",
+          "th": {
+            "title": "'ภาษีทรัมป์และบูม AI' ดันเหล็กสหรัฐฯ แซงญี่ปุ่นขึ้นเบอร์ 3 ของโลกครั้งแรกในรอบ 26 ปี",
+            "summary": "การเติบโตของอุตสาหกรรมเหล็กในสหรัฐฯ จากมาตรการปกป้องทางการค้าและภาคเทคโนโลยี ทำให้ขยับขึ้นเป็นผู้ผลิตอันดับ 3 ของโลก",
+            "why": "การเปลี่ยนแปลงของแหล่งผลิตเหล็กระดับโลกส่งผลต่อห่วงโซ่อุปทานและการใช้งานวัสดุสิ้นเปลืองอย่างสารขัดถูในแต่ละภูมิภาค",
+            "action": "ติดตามดูผลกระทบจากการย้ายฐานและปริมาณการผลิตเหล็กที่อาจเปลี่ยนทิศทางตลาด"
+          }
+        },
+        {
+          "id": "20261123-w3",
+          "tag": "auto",
+          "rating": "green",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-11-06",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPU0NJV1VEcllWeWRPU21VOHlULVpnYWR2ZXVmMk5QSHVZNHFYRC1nN2hlUnJ5VmdXNl9LWmRPTmR2X1lzRlBqcl8tOTZxdE9pNkVTRG14R2NpRHIxNTQ2S2NWcGxQeGF5bWxHdGFxWEN5em12c09Wb1piMnlUejBGc08xemxCQjZUd0llY2k4MmxfVUlkaHlIN21FQ1RPeVl2a3YyZ1BZSE4zeVhHWUVFemF6R3ZyR0lLa0lEMUY1R0k3T0ZlblpKZUFKVEFYV3ZDYlZNQTZYSDRYVjRvSjVLSkE2RTlzdl9tNEctT2JWblVNYndVZnNJeg?oc=5",
+          "title": "Register now: Smart factory trends and lessons for 2027: Flexibility, AI and global competitiveness",
+          "summary": "Automotive and general manufacturers are accelerating smart factory adoption, prioritizing automation, AI integration, and operational flexibility.",
+          "why": "Automated production lines require consistent, high-durability robotic abrasive tools and automated surface prep solutions.",
+          "action": "Explore trends in automated robotic sanding and grinding solutions for industrial clients.",
+          "th": {
+            "title": "เทรนด์โรงงานอัจฉริยะปี 2027: ความยืดหยุ่น AI และความสามารถในการแข่งขันระดับโลก",
+            "summary": "อุตสาหกรรมยานยนต์และโรงงานทั่วไปกำลังเร่งนำเทคโนโลยีสมาร์ทแฟคทอรีมาใช้ โดยเน้นระบบอัตโนมัติ AI และความยืดหยุ่นในการผลิต",
+            "why": "ไลน์ผลิตแบบอัตโนมัติจำเป็นต้องใช้อุปกรณ์ขัดและกระดาษทรายที่มีความแม่นยำสูงและทนทานเป็นพิเศษสำหรับหุ่นยนต์อุตสาหกรรม",
+            "action": "ศึกษาและติดตามเทคโนโลยีหัวขัดและกระดาษทรายที่รองรับระบบแขนกลอัตโนมัติ (Robotic Sanding)"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-11-22",
       "summary": "Today's briefing highlights critical developments in global metal fabrication, industrial grinding mats, and automotive manufacturing shifts, offering insights into upcoming material demand and factory automation.",
@@ -848,70 +912,6 @@ window.WORLD_ARCHIVE = {
             "summary": "การประชุมที่บา๋อถูเน้นย้ำถึงการเปลี่ยนแปลงในการผลิตโลหะแร่หายาก ซึ่งส่งผลต่ออุตสาหกรรมโลหะผสมไฮเทคและชิ้นส่วนวิศวกรรมความแม่นยำสูงทั่วโลก",
             "why": "โลหะพิเศษและโลหะผสมขั้นสูงจำเป็นต้องมีการเตรียมผิวและการขัดละเอียดอย่างเข้มงวดโดยใช้วัสดุขัดถูสมรรถนะสูง",
             "action": "สำรวจกลุ่มสินค้าประเภทเซรามิกหรือกระดาษทรายเกรดพรีเมียมที่เหมาะกับงานแปรรูปโลหะอัลลอยด์แข็ง"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-11-09",
-      "summary": "Today's briefing focuses on global manufacturing shifts, including automation in abrasive belts and aluminum oxide fabrics, alongside steel industry surplus challenges and EV market updates.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปข้อมูลประเด็นสำคัญประจำวันนี้ เน้นการเปลี่ยนแปลงการผลิตระดับโลก เช่น ระบบอัตโนมัติในสายพานขัดและผ้าทรายขัดอลูมิเนียมออกไซด์ ควบคู่ไปกับปัญหาล้นตลาดของอุตสาหกรรมเหล็กและแนวโน้มตลาด EV"
-      },
-      "items": [
-        {
-          "id": "20261109-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-11-08",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRE9XR0d6cEx2R0ZmTk43NnZpVWZGU2kzUHZkdWZSX3pQTWxFVzZvSDgwdmc0Zmx5OUVtQmdVbVUtVGxBa2g4MHd4RkdiNUJRSFlxWE4wdFU2X0NDNGd1RFhWTWdBRTRNelo4VzByeHMtaHdySjJCWWgzSHZBbjlfTnZHb0twOFI3ZGNqMlV3b0lnT1VHdXc1QWs4OTRobWUtVDRJRkVpbXY4SHBMWURhUFByVmJNeklESWlNSzNHMjBoTWR5M0h2TVdPUFNxUXNpWkU4?oc=5",
-          "title": "Abrasive Belts Market To 2035: Automation in Metalworking and Auto Finishing Fuels Growth",
-          "summary": "The global abrasive belts market is expanding rapidly, driven by increased automation in metalworking and automotive finishing sectors.",
-          "why": "Higher adoption of automated grinding machinery means increased demand for high-performance, durable abrasive belts.",
-          "action": "Ensure our inventory aligns with automated applications requiring long-lasting abrasive belts.",
-          "th": {
-            "title": "ตลาดสายพานขัดถึงปี 2035: ระบบอัตโนมัติในงานโลหะและการตกแต่งรถยนต์ขับเคลื่อนการเติบโต",
-            "summary": "ตลาดสายพานขัดทั่วโลกกำลังขยายตัวอย่างรวดเร็ว โดยได้รับแรงหนุนจากการใช้ระบบอัตโนมัติที่เพิ่มขึ้นในอุตสาหกรรมโลหะและการตกแต่งยานยนต์",
-            "why": "การใช้เครื่องจักรขัดแบบอัตโนมัติที่สูงขึ้น ส่งผลให้ความต้องการสายพานขัดที่มีประสิทธิภาพสูงและทนทานเพิ่มสูงขึ้นตามไปด้วย",
-            "action": "ตรวจสอบสต็อกสินค้าให้สอดคล้องกับการใช้งานแบบอัตโนมัติที่ต้องการสายพานขัดความทนทานสูง"
-          }
-        },
-        {
-          "id": "20261109-w2",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-11-08",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYWxiTlJSV3E4b05JV2NRYkFPeHJWbEx3Nm9Wb09ZVjNMc2prYkZTdkZsd0NNbHZjRDZhbU1TQ0FIMnp6Y0YwZ2l4dWlGOU84SmlOQVk0R29UdFowWkpiYzRyS051RWRUVHk3NWU5dlA0WWRZNVJHQXBuRDRmZmFVd0YzTWxPTmRzWU5tQl9IVHZWWUlHMDY4OTNpUE15c2xFRHpoRGxWNS1kRU1XN1VPbGZheE1HeVRUTWo3bXA1VTg0d1RIYVgyRW1pQVBXdDNpdU1Va2JfSTJSVVk2bmJIMA?oc=5",
-          "title": "Aluminum Oxide Abrasive Fabrics Market To 2035: Automotive Refinishing and Metal Fabrication Fuel Forward Growth",
-          "summary": "Demand for aluminum oxide abrasive fabrics continues to grow, heavily supported by automotive refinishing and general metal fabrication needs.",
-          "why": "Aluminum oxide remains a primary material for standard metal and automotive sanding work, directly impacting our core product lines.",
-          "action": "Monitor supply stability and pricing for aluminum oxide raw materials.",
-          "th": {
-            "title": "ตลาดผ้าทรายขัดอลูมิเนียมออกไซด์ถึงปี 2035: การซ่อมสีรถยนต์และการผลิตโลหะขับเคลื่อนการเติบโต",
-            "summary": "ความต้องการผ้าทรายขัดอลูมิเนียมออกไซด์ยังคงเติบโตอย่างต่อเนื่อง ซึ่งสนับสนุนโดยงานซ่อมสีรถยนต์และการผลิตโลหะทั่วไป",
-            "why": "อลูมิเนียมออกไซด์ยังคงเป็นวัสดุหลักสำหรับงานขัดโลหะและยานยนต์ทั่วไป ซึ่งส่งผลโดยตรงต่อกลุ่มผลิตภัณฑ์หลักของเรา",
-            "action": "ติดตามเสถียรภาพของอุปทานและราคาวัตถุดิบอลูมิเนียมออกไซด์"
-          }
-        },
-        {
-          "id": "20261109-w3",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "S&P Global",
-          "date": "2026-01-12",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
-          "title": "Global steel industry battles surplus supply, protectionism",
-          "summary": "The global steel sector is currently facing headwinds from surplus supply capacities and rising international trade protectionism.",
-          "why": "Fluctuations in steel production directly affect metal fabrication output and subsequent demand for grinding supplies.",
-          "action": "Keep an eye on local metal manufacturing activity as regional steel supply dynamics shift.",
-          "th": {
-            "title": "อุตสาหกรรมเหล็กโลกต่อสู้กับภาวะอุปทานส่วนเกินและลัทธิกีดกันทางการค้า",
-            "summary": "ภาคอุตสาหกรรมเหล็กทั่วโลกกำลังเผชิญกับอุปสรรคจากกำลังการผลิตที่ล้นเกินและลัทธิกีดกันทางการค้าระหว่างประเทศที่เพิ่มขึ้น",
-            "why": "ความผันผวนของการผลิตเหล็กส่งผลโดยตรงต่อปริมาณการผลิตชิ้นงานโลหะและความต้องการใช้อุปกรณ์ขัด",
-            "action": "คอยสังเกตการณ์กิจกรรมการผลิตโลหะในท้องถิ่นท่ามกลางความเปลี่ยนแปลงของอุปทานเหล็กในภูมิภาค"
           }
         }
       ]
