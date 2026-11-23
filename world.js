@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-11-23",
-      "summary": "Today's briefing focuses on global manufacturing shifts, including European steel reckoning under CBAM regulations, metal price pressures, and evolving surface finishing and coating technologies.",
+      "summary": "Today's briefing highlights shifts in global steel production, including stainless steel overcapacity projections for 2027, U.S. steel ranking surges under tariffs and AI booms, and China's metal surface finishing rankings.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปข่าววันนี้เน้นการเปลี่ยนแปลงของภาคการผลิตโลก เช่น วิกฤตอุตสาหกรรมเหล็กยุโรปภายใต้กฎระเบียบ CBAM แรงกดดันจากราคารวมถึงเทคโนโลยีการเคลือบผิวและตกแต่งพื้นผิวใหม่ๆ"
+        "summary": "สรุปประเด็นข่าววันนี้เน้นการเปลี่ยนแปลงในการผลิตเหล็กทั่วโลก รวมถึงการคาดการณ์กำลังCผลิตเหล็กสเตนเลสส่วนเกินในปี 2027 อันดับเหล็กของสหรัฐฯ ที่พุ่งสูงขึ้นจากภาษีศุลกากรและบูม AI รวมถึงการจัดอันดับผู้ให้บริการขัดแต่งผิวโลหะในจีน"
       },
       "items": [
         {
           "id": "20261123-w1",
           "tag": "steel",
-          "rating": "amber",
-          "source": "S&P Global",
-          "date": "2026-01-07",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSDJTcGFGbUFvRm15ZDhrczNqYkRzbHlXMTJZTHJpUF9CTjRHaTNXak4tdVBkbnBWcnNrRDRneXpBd1Z5SUJGSFZWTzJMNWhfcVl5czkzR0lSSjd4aTJzMTg3N2FWM3pHQ2NxbHg2dEp2ckNiNC16cWdJZ0t3anl3TzlUYldVajhqM05JQVEyWWdZYVdaYkEzZUpvUEJGdHAxXzRKdDRnNG1pQl9LaEN6Q0lpbFpPMTBOeElqT3V2NUdUSlJJNjZWOEpiMWc?oc=5",
-          "title": "Europe's steel industry faces its 2026 reckoning with CBAM",
-          "summary": "Europe's steel sector faces critical structural tests in 2026 as the Carbon Border Adjustment Mechanism (CBAM) takes full effect, pushing mills toward lower-carbon production.",
-          "why": "Stricter environmental rules on European steel impact overall metal processing techniques, potentially changing surface prep and finishing specs for imported and local parts.",
-          "action": "Monitor how European green-steel standards affect finishing requirements for metal components exported to or from Europe.",
+          "rating": "green",
+          "source": "SteelOrbis",
+          "date": "2026-10-29",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOajN6bENva3ZfazkzX3oza09SSkVIbW00a1VuMHFSTlBLVVlFcGdUTDJud0JZNHNDdmw5Vm9TcFk1QlZtUUM1dXkxVmFmVEROZnZrVkpTQ2ZqZjZXNDYxNF9CMGJBb19XeVdIMktqSXY0aHlzYnNxMXd3OUd5V1VUWUJHamg0QnV6Y3ZsYS1nMWNyM1BzLURldEIyNk9TR1UyQ1ZIektrRmNIOVFkSlVJRXJCZUh6Y0F5QnZBc041V0kzT1k1ZmxHQ3RRSDE4dHF5LS1Oczk0UzBRODZkaEVHTEZnUDZwTVZ5QmFPdHMwcGRIYUtuV1U1TS1FbUJGRWc?oc=5",
+          "title": "BIR: Global stainless steel production expected to exceed 70 million mt in 2027 despite overcapacity concerns",
+          "summary": "Global stainless steel production is projected to surpass 70 million metric tons by 2027, driven by sustained demand despite ongoing concerns regarding market overcapacity.",
+          "why": "Higher stainless steel output directly increases the requirement for industrial abrasives used in grinding, deburring, and surface finishing of corrosion-resistant metals.",
+          "action": "Prepare for stable to growing demand in stainless steel fabrication segments and check stock for heavy-duty grinding belts and discs.",
           "th": {
-            "title": "อุตสาหกรรมเหล็กยุโรปเผชิญบททดสอบสำคัญในปี 2026 ด้วยมาตรการ CBAM",
-            "summary": "ภาคอุตสาหกรรมเหล็กของยุโรปต้องเผชิญกับการปรับตัวครั้งใหญ่ในปี 2026 จากมาตรการปรับคาร์บอนก่อนข้ามพรมแดน (CBAM) ที่บังคับใช้เต็มรูปแบบ ผลักดันให้โรงงานต้องลดการปล่อยคาร์บอน",
-            "why": "กฎระเบียบด้านสิ่งแวดล้อมที่เข้มงวดขึ้นต่อเหล็กยุโรป ส่งผลต่อกระบวนการแปรรูปโลหะและอาจเปลี่ยนสเปกการเตรียมผิวและการขัดแต่งสำหรับชิ้นส่วน",
-            "action": "ติดตามว่ามาตรฐานเหล็กเขียวของยุโรปส่งผลอย่างไรต่อความต้องการงานขัดชิ้นส่วนโลหะที่ส่งออกหรือนำเข้า"
+            "title": "BIR คาดการณ์การผลิตเหล็กสเตนเลสทั่วโลกจะเกิน 70 ล้านตันในปี 2027 แม้กังวลเรื่องกำลังการผลิตล้นเกิน",
+            "summary": "การผลิตเหล็กสเตนเลสทั่วโลกคาดว่าจะทะยานเกิน 70 ล้านเมตริกตันภายในปี 2027 หนุนโดยความต้องการที่ต่อเนื่องแม้จะมีความกังวลเรื่องกำลังการผลิตล้นตลาด",
+            "why": "ปริมาณการผลิตเหล็กสเตนเลสที่สูงขึ้นเพิ่มความต้องการใช้วัสดุขัดอุตสาหกรรมสำหรับการเจียร ลบคม และขัดแต่งผิวโลหะทนการกัดกร่อนโดยตรง",
+            "action": "เตรียมพร้อมรับมือกับความต้องการที่มั่นคงหรือเติบโตในกลุ่มแปรรูปเหล็กสเตนเลส และตรวจสอบสต็อกสินค้าสายพานขัดและแผ่นขัดสำหรับงานหนัก"
           }
         },
         {
           "id": "20261123-w2",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "Vocal",
-          "date": "2025-10-13",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSjhETXFLbHUxYjZYLU5JZkpSYmJkRHJRT0NTcjFsNEJmOHBaUllZSThKSEZRb2E0cFk5b3JlWXkyRVJqdFlZX0hkb0Y2WE9rem84OWQ4ekwwSkdZUENOenI2akNkZkNZWkdQQUpoZU9ONXFtLW1qcFdSS2VKc0VzRHNlbUkya1ltZG9pc1dkWDZJQTZKMVpodVlRZC1XQzQ?oc=5",
-          "title": "Paints and Coatings Market: Market Drivers, Investments and Outlook 2033",
-          "summary": "The global paints and coatings market continues its strong trajectory, driven by industrial investments, sustainability requirements, and new application technologies.",
-          "why": "Abrasives and surface prep are the crucial preliminary step before any industrial coating application; coating market growth directly signals underlying surface finishing demand.",
-          "action": "Keep an eye on fast-growing industrial coating segments that require specialized surface preparation and sanding profiles.",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndyStar",
+          "date": "2026-11-17",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb3cySlBsZ0F0ZXgzcmxzMUZTbXFmX2ZOTXVfWUVJRXBXVjJLejZkV3l0SDN4NnVRNXVDNldMX2ZESFpaeGtpUHlKTWVkbi1wc0tfcjNUTHVZdnhaa0xaNXpyc2YzR3hvOVZERl9MdUI2OGFiWGFVMEtwbTlkLVZOSVVwUEh4TnFDN1l1M3c4di1WVkxTcVVFanhfM3g5VXRkTDVSSkljajA0dTRPSVo3Y05ta2xWcmk2YlNjU1hjdmk1Z3VpQ3RxdQ?oc=5",
+          "title": "Top 5 Metal Surface Finishing Solutions Suppliers in China: Ranked Comparison",
+          "summary": "A recent market ranking highlights the top five metal surface finishing and solution suppliers operating in China, reflecting competitive trends in polishing and treatment technologies.",
+          "why": "China remains a dominant manufacturing hub for metal parts and finishing solutions; monitoring their supplier landscape gives insight into regional pricing and technological shifts.",
+          "action": "Benchmark local competitive pressures against Chinese surface finishing standards and evaluate product quality offerings.",
           "th": {
-            "title": "ตลาดสีและสารเคลือบ: ปัจจัยขับเคลื่อน การลงทุน และแนวโน้มถึงปี 2033",
-            "summary": "ตลาดสีและสารเคลือบผิวทั่วโลกยังคงเติบโตอย่างต่อเนื่อง ขับเคลื่อนโดยการลงทุนในภาคอุตสาหกรรม ข้อกำหนดด้านความยั่งยืน และเทคโนโลยีการเคลือบใหม่ๆ",
-            "why": "กระดาษทรายและการเตรียมพื้นผิวคือขั้นตอนสำคัญก่อนการพ่นเคลือบสีทุกครั้ง การเติบโตของตลาดสารเคลือบสะท้อนถึงความต้องการงานขัดผิวโดยตรง",
-            "action": "จับตากลุ่มอุตสาหกรรมสารเคลือบที่เติบโตเร็ว ซึ่งจำเป็นต้องใช้กระบวนการเตรียมผิวและโปรไฟล์ความหยาบที่จำเพาะเจาะจง"
+            "title": "การเปรียบเทียบจัดอันดับ 5 ซัพพลายเออร์โซลูชันการขัดแต่งผิวโลหะชั้นนำในจีน",
+            "summary": "การจัดอันดับตลาดล่าสุดเน้นย้ำถึง 5 ซัพพลายเออร์ชั้นนำด้านการขัดแต่งผิวโลหะและโซลูชันในประเทศจีน ซึ่งสะท้อนถึงแนวโน้มการแข่งขันในด้านเทคโนโลยีการขัดเงาและการรักษาพื้นผิว",
+            "why": "จีนยังคงเป็นฐานการผลิตชิ้นส่วนโลหะและโซลูชันการขัดแต่งผิวที่สำคัญ การติดตามภูมิทัศน์ซัพพลายเออร์ช่วยให้เห็นภาพด้านราคาและการเปลี่ยนแปลงทางเทคโนโลยีในภูมิภาค",
+            "action": "เปรียบเทียบแรงกดดันจากการแข่งขันในท้องถิ่นกับมาตรฐานการขัดแต่งผิวของจีน และประเมินข้อเสนอด้านคุณภาพสินค้า"
           }
         },
         {
           "id": "20261123-w3",
           "tag": "steel",
           "rating": "amber",
-          "source": "World Bank Blogs",
-          "date": "2026-06-11",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONzBKVVZhYkZoRERBTm8wSUNzYUY3Y0lZTVhlRXhoMk9qWGUybnc0SFA2dC1KT1ZOV2puSzlLRzhmdDRUVDkwejhFM3JtNm1SY2RpbFoyYWR2Q1J2eHJTME0zd25GSjlaRE1qWG1sQjZsaUpXdjBJd0oyZlBEUklMNkxuNGVWZ3FZVGhZOHJwOWdiZw?oc=5",
-          "title": "Metal prices surge as supply pressures intensify",
-          "summary": "Global metal prices have experienced significant surges as supply chain disruptions and geopolitical pressures intensify raw material market tightness.",
-          "why": "Higher metal and raw material costs put pressure on fabrication and manufacturing shops to reduce scrap and optimize material usage, impacting how they choose grinding consumables.",
-          "action": "Promote cost-efficiency and high-durability abrasives to manufacturing clients looking to optimize operations amidst rising metal input costs.",
+          "source": "https://economy.ac/",
+          "date": "2026-08-07",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YQWhOYlJ3eW9jTUhwa25XdE55eHh3a2JoODhWdDAtOW00UzhXcWwtNnJJXzZGMjMtNXN6MTYwTUhib3ZHUDNXaTdIbWY2N092QXNsOXFfdw?oc=5",
+          "title": "‘Trump Tariffs and AI Boom’ Propel U.S. Steel Past Japan to World No. 3 for First Time in 26 Years",
+          "summary": "Fueled by trade policies and industrial demand driven by the AI infrastructure boom, U.S. steel production has climbed to the world's number three spot, surpassing Japan.",
+          "why": "Shifts in global steel manufacturing hubs alter the geographic distribution of metal processing, tooling, and surface prep consumable demands.",
+          "action": "Keep track of shifting North American metal manufacturing volumes and related export-import trends for abrasives.",
           "th": {
-            "title": "ราคาโลหะพุ่งสูงขึ้นท่ามกลางแรงกดดันด้านอุปทานที่รุนแรงขึ้น",
-            "summary": "ราคาโลหะทั่วโลกปรับตัวสูงขึ้นอย่างมากจากปัญหาการหยุดชะงักของห่วงโซ่อุปทานและแรงกดดันทางภูมิรัฐศาสตร์ที่ทำให้ตลาดวัตถุดิบตึงตัวขึ้น",
-            "why": "ต้นทุนโลหะและวัตถุดิบที่สูงขึ้นทำให้โรงงานผลิตต้องลดของเสียและเพิ่มประสิทธิภาพการใช้วัสดุ ซึ่งส่งผลต่อการเลือกใช้วัสดุสิ้นเปลืองในงานขัด",
-            "action": "แนะนำผลิตภัณฑ์กระดาษทรายที่มีความคุ้มค่าและทนทานสูงแก่ลูกค้าโรงงานที่ต้องการลดต้นทุนท่ามกลางราคาวัตถุดิบโลหะที่สูงขึ้น"
+            "title": "ภาษีทรัมป์และกระแสบูม AI ผลักดันให้เหล็กสหรัฐฯแซงญี่ปุ่นขึ้นสู่อันดับ 3 ของโลกเป็นครั้งแรกในรอบ 26 ปี",
+            "summary": "ด้วยแรงหนุนจากนโยบายการค้าและความต้องการทางอุตสาหกรรมจากบูมโครงสร้างพื้นฐาน AI การผลิตเหล็กของสหรัฐฯ ได้ขยับขึ้นสู่อันดับ 3 ของโลกแซงหน้าญี่ปุ่น",
+            "why": "การเปลี่ยนแปลงของศูนย์กลางการผลิตเหล็กโลกส่งผลต่อการกระจายตัวทางภูมิศาสตร์ของความต้องการวัสดุแปรรูปโลหะ เครื่องมือ และวัสดุสิ้นเปลืองสำหรับเตรียมพื้นผิว",
+            "action": "ติดตามปริมาณการผลิตโลหะในอเมริกาเหนือที่เปลี่ยนแปลงไปและแนวโน้มการส่งออก-นำเข้าที่เกี่ยวข้องกับวัสดุขัด"
           }
         }
       ]
