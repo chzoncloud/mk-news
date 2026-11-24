@@ -4,10 +4,10 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-11-24",
-      "summary": "Today's briefing highlights precision manufacturing growth driving the abrasives market, specialized diamond tools for hard materials, and intense global steel overcapacity and trade protectionism.",
+      "summary": "Today's intelligence highlights strong growth in bonded abrasives driven by automotive lightweighting, innovations in robot deburring for complex castings, and expanding applications for diamond flap discs.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปข่าววันนี้เน้นย้ำถึงการเติบโตของอุตสาหกรรมการผลิตที่มีความแม่นยำซึ่งขับเคลื่อนตลาดวัสดุขัด, เครื่องมือเพชรเฉพาะทางสำหรับวัสดุแข็ง, รวมถึงปัญหาภาวะอุปทานส่วนเกินและการกีดกันทางการค้าในตลาดเหล็กโลก"
+        "summary": "สรุปข่าววันนี้เน้นการเติบโตของกลุ่มสินค้าอับราซิฟแบบยึดติด (Bonded Abrasives) จากเทรนด์ลดน้ำหนักตัวถังยานยนต์ นวัตกรรมหุ่นยนต์ขจัดครีบชิ้นงานหล่อ และการขยายตัวของแผ่นเจียรเพชร"
       },
       "items": [
         {
@@ -15,53 +15,53 @@ window.WORLD_ARCHIVE = {
           "tag": "abrasive",
           "rating": "green",
           "source": "IndexBox",
-          "date": "2026-11-20",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUVVrRmxLbmt4TDNDdmEwM2JqMmZ5Y1FyX21JQzkwc1VRX2o4dDBPeDAwZ1BRQjJBbHRPcWx0aW1KLUdhQXJJUTZpWV9LdG1iaUxPOVZ2UmVaVHN6dUJrRUE1YU02ZGk2Z1BxbkNCbno5SVFZdzU0djRrcXVjWUZMVVpiRzlMRUdrNHNIekRLb0Z0Z0ItT215YWtzNXZmQ192NkNERVFJa3E4Yk43aGVoRA?oc=5",
-          "title": "Abrasives Market To 2035: Precision Manufacturing Demand Drives Expansion",
-          "summary": "Global demand for abrasives is expanding steadily through 2035, heavily driven by the growth of precision manufacturing across metal fabrication and industrial sectors.",
-          "why": "Direct market validation: strong precision manufacturing demand means ongoing, stable consumption of coated and bonded abrasives for deburring and surface finishing.",
-          "action": "Ensure stable stock and technical support for high-precision metal finishing segments.",
+          "date": "2026-11-23",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOUQ1Y3pMMTQ1Zk1IdTVkMXk1OW9seEFZVUx4Z3JabWJBUWY1WGh6bWJYbE5YdVZHOHBvSHFoLUN0cGpYeHV4MVZtMVdKUVVBVlA5Vlg0bGpOZ19iU2lza0lzenVxRG5yUXp6dVVOdjI4RUpSa3lDVmQzSURyNjZGSWk0VDNrcl9tVFU3QnA5WkVpV2NGUkdsQ01URjJzWXRPWHk5b0xMX2M3MVMzaFFGdExZMV83NDVNaDE2ZFlEcUV1VWJPNDlKMlNESDY1OWNCQ2ZxRXFUYWg?oc=5",
+          "title": "Bonded Abrasives Market Forecast to 2035: Growth Driven by Automotive Lightweighting and Precision Manufacturing",
+          "summary": "The global bonded abrasives market is projected to expand significantly through 2035, heavily fueled by automotive lightweighting initiatives and high-precision manufacturing requirements.",
+          "why": "Bonded grinding wheels and cutting discs are core product categories; rising EV and lightweight metal production directly increases demand for heavy-stock removal and precision grinding tools.",
+          "action": "Ensure our inventory of high-performance bonded wheels and precision grinding discs is aligned with industrial metal-fabrication and automotive standards.",
           "th": {
-            "title": "ตลาดวัสดุขัดถึงปี 2035: ความต้องการด้านการผลิตที่มีความแม่นยำขับเคลื่อนการขยายตัว",
-            "summary": "ความต้องการวัสดุขัดทั่วโลกขยายตัวอย่างต่อเนื่องจนถึงปี 2035 โดยได้รับแรงหนุนจากการเติบโตของการผลิตที่มีความแม่นยำในอุตสาหกรรมโลหะและภาคอุตสาหกรรม",
-            "why": "การยืนยันตลาดโดยตรง: ความต้องการการผลิตที่แม่นยำสูงหมายถึงการบริโภควัสดุขัดแบบเคลือบและแบบอัดก้อนอย่างต่อเนื่องสำหรับงานลบคมและตกแต่งผิว",
-            "action": "รักษาเสถียรภาพสต็อกสินค้าและการสนับสนุนทางเทคนิคสำหรับกลุ่มงานตกแต่งผิวโลหะที่มีความแม่นยำสูง"
+            "title": "ตลาดสินค้าหินเจียรและอับราซิฟแบบยึดติดเติบโตถึงปี 2035 ขับเคลื่อนโดยการลดน้ำหนักยานยนต์และการผลิตที่มีความแม่นยำ",
+            "summary": "ตลาดหินเจียรและแผ่นตัดทั่วโลกมีแนวโน้มขยายตัวอย่างต่อเนื่องถึงปี 2035 จากความต้องการชิ้นส่วนยานยนต์ที่เบาขึ้นและการผลิตที่แม่นยำสูง",
+            "why": "หินเจียรและแผ่นตัดคือกลุ่มผลิตภัณฑ์หลักของเรา ความต้องการชิ้นส่วนโลหะน้ำหนักเบาในอุตสาหกรรมยานยนต์และ EV จะช่วยเพิ่มความต้องการใช้เครื่องมือขัดและตัดโลหะโดยตรง",
+            "action": "ตรวจสอบสต็อกหินเจียรและแผ่นตัดประสิทธิภาพสูงให้สอดคล้องกับมาตรฐานงานโลหะและอุตสาหกรรมยานยนต์"
           }
         },
         {
           "id": "20261124-w2",
           "tag": "abrasive",
           "rating": "green",
-          "source": "The Detroit News",
-          "date": "2026-11-23",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLWtDaTdXWW5lT1djUkx0dno1bTl6eXhuZzJZRjR3YUZ4VmlybEE4ZVc2ai1FdjNDdDdJbDhMaWtHYlJBUlotMkVKOXhrVnBWZHhGLWZaOEJITWNNYjRaVmhNdEgtQmRnVlNHRUJUNkVtMmliT1JIUHZiT0NSVmhSak84dWliQXpORHJKOHRXWEtWWWlKTEtwQkxhTlVFc1lLcUc4X1pHZXlYUC1NakRHNmZUR1p6Z3J5ZEgzU1Q4NnBfOTg?oc=5",
-          "title": "Top 10 Diamond Flap Disc Suppliers Ranked for Stone, Glass and Ceramic",
-          "summary": "The ranking highlights leading suppliers of diamond flap discs tailored for demanding hard materials like stone, glass, and specialized ceramics.",
-          "why": "Highlights the rising importance of diamond-based abrasives for extreme hardness materials, expanding beyond standard metal applications.",
-          "action": "Explore niche market opportunities for diamond and superabrasive tools in non-metal hard surface processing.",
+          "source": "IndexBox",
+          "date": "2026-11-14",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMXRjNVNGMllObGVPVGRPQ05TTDlxUEQ3V0xRWFItTHFyRVo4UWpyaGphUzQ0Slg1ZkRqNHdXSUJLUzhONEZTNmdwMjhaQ1c4bkdlQlllVjZKdFRKNDZVY19CZ2ZaMm9Fdkl3Q1lESmRUNVJsOXRmNU5JbnRmWWp6NnpNSWV2LVNhdmlYME1XbVJ2a1BkdUdVVHZ0RzF2QjdObnpLdzZkTmhxQ3d4S0lkWXVlOWx4ZlJnU2pqZndnWVlqUURteDI3X2FaRzQ?oc=5",
+          "title": "Robot Deburring Tools Market To 2035: Automotive Casting Quality Drives Forward Growth",
+          "summary": "The robot deburring tools market is seeing robust expansion as automotive casting manufacturers adopt automated finishing to maintain strict quality standards.",
+          "why": "Automated deburring relies heavily on specialized abrasive filaments, mounted points, and flexible grinding heads designed for robotic arms rather than manual labor.",
+          "action": "Explore abrasive product lines suited for automated robotic finishing systems to prepare for industrial automation trends.",
           "th": {
-            "title": "จัดอันดับ 10 ซัพพลายเออร์จานทรายซ้อนเพชรชั้นนำสำหรับหิน กระจก และเซรามิก",
-            "summary": "การจัดอันดับนี้เน้นย้ำถึงซัพพลายเออร์ชั้นนำของจานทรายซ้อนเพชรที่ออกแบบมาสำหรับวัสดุแข็งที่ใช้งานยาก เช่น หิน กระจก และเซรามิกพิเศษ",
-            "why": "เน้นย้ำถึงความสำคัญที่เพิ่มขึ้นของวัสดุขัดที่มีส่วนผสมของเพชรสำหรับวัสดุที่มีความแข็งสูง ซึ่งขยายขอบเขตเกินกว่างานโลหะทั่วไป",
-            "action": "สำรวจโอกาสในตลาดเฉพาะกลุ่มสำหรับเครื่องมือเพชรและซูเปอร์abrasives ในการแปรรูปพื้นผิวแข็งที่ไม่ใช่โลหะ"
+            "title": "ตลาดเครื่องมือลบคมด้วยหุ่นยนต์ถึงปี 2035: คุณภาพงานหล่อรถยนต์ขับเคลื่อนการเติบโต",
+            "summary": "ตลาดเครื่องมือขจัดครีบและลบคมด้วยหุ่นยนต์กำลังขยายตัวอย่างรวดเร็ว เนื่องจากผู้ผลิตชิ้นส่วนหล่อรถยนต์หันมาใช้ระบบอัตโนมัติเพื่อรักษามาตรฐานคุณภาพ",
+            "why": "ระบบขจัดครีบอัตโนมัติพึ่งพาแปรงขัด หัวเจียร และวัสดุขัดผิวแบบยืดหยุ่นที่ออกแบบมาสำหรับแขนกลหุ่นยนต์มากกว่าแรงงานคน",
+            "action": "ศึกษาผลิตภัณฑ์กลุ่มอับราซิฟที่รองรับระบบขจัดครีบอัตโนมัติด้วยหุ่นยนต์เพื่อเตรียมรับมือกับเทรนด์โรงงานอัจฉริยะ"
           }
         },
         {
           "id": "20261124-w3",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "S&P Global",
-          "date": "2026-01-07",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSDJTcGFGbUFvRm15ZDhrczNqYkRzbHlXMTJZTHJpUF9CTjRHaTNXak4tdVBkbnBWcnNrRDRneXpBd1Z5SUJGSFZWTzJMNWhfcVl5czkzR0lSSjd4aTJzMTg3N2FWM3pHQ2NxbHg2dEp2ckNiNC16cWdJZ0t3anl3TzlUYldVajhqM05JQVEyWWdZYVdaYkEzZUpvUEJGdHAxXzRKdDRnNG1pQl9LaEN6Q0lpbFpPMTBOeElqT3V2NUdUSlJJNjZWOEpiMWc?oc=5",
-          "title": "Europe's steel industry faces its 2026 reckoning with CBAM",
-          "summary": "European steel producers face significant pressure as the Carbon Border Adjustment Mechanism (CBAM) enters critical implementation phases, altering production costs and trade.",
-          "why": "Steel production costs and regional shifts directly impact metal fabrication activity and surface preparation standards in Europe.",
-          "action": "Monitor how environmental compliance and carbon regulations impact European metal processing and tool demand.",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "The Detroit News",
+          "date": "2026-11-23",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLWtDaTdXWW5lT1djUkx0dno1bTl6eXhuZzJZRjR3YUZ4VmlybEE4ZVc2ai1FdjNDdDdJbDhMaWtHYlJBUlotMkVKOXhrVnBWZHhGLWZaOEJITWNNYjRaVmhNdEgtQmRnVlNHRUJUNkVtMmliT1JIUHZiT0NSVmhSak84dWliQXpORHJKOHRXWEtWWWlKTEtwQkxhTlVFc1lLcUc4X1pHZXlYUC1NakRHNmZUR1p6Z3J5ZEgzU1Q4NnBfOTg?oc=5",
+          "title": "Top 10 Diamond Flap Disc Suppliers Ranked for Stone, Glass and Ceramic",
+          "summary": "A new industry ranking highlights top suppliers of diamond flap discs tailored for hard, brittle materials like stone, glass, and ceramics.",
+          "why": "Diamond abrasives represent high-margin, specialized tools for demanding surface applications beyond standard metals.",
+          "action": "Review our catalog for specialty diamond abrasive products (like diamond flap discs) to target non-metal hard surface finishing segments.",
           "th": {
-            "title": "อุตสาหกรรมเหล็กของยุโรปเผชิญจุดเปลี่ยนในปี 2026 กับมาตรการ CBAM",
-            "summary": "ผู้ผลิตเหล็กในยุโรปเผชิญกับแรงกดดันครั้งใหญ่เนื่องจากกลไกการปรับคาร์บอนก่อนข้ามพรมแดน (CBAM) เข้าสู่ช่วงการดำเนินการที่สำคัญ ซึ่งส่งผลต่อต้นทุนการผลิตและการค้า",
-            "why": "ต้นทุนการผลิตเหล็กและการเปลี่ยนแปลงระดับภูมิภาคส่งผลโดยตรงต่อกิจกรรมการแปรรูปโลหะและมาตรฐานการเตรียมพื้นผิวในยุโรป",
-            "action": "ติดตามว่าการปฏิบัติตามกฎระเบียบด้านสิ่งแวดล้อมและคาร์บอนส่งผลกระทบต่อการแปรรูปโลหะและความต้องการเครื่องมือในยุโรปอย่างไร"
+            "title": "จัดอันดับ 10 ซัพพลายเออร์แผ่นขัดเพชร (Diamond Flap Disc) ชั้นนำสำหรับหิน กระจก และเซรามิก",
+            "summary": "การจัดอันดับอุตสาหกรรมล่าสุดระบุผู้ผลิตแผ่นขัดเพชรชั้นนำที่ออกแบบมาสำหรับวัสดุแข็งและเปราะ เช่น หิน กระจก และเซรามิก",
+            "why": "วัสดุขัดเพชรเป็นกลุ่มผลิตภัณฑ์เฉพาะทางที่มีราคาสูงและทำกำไรดี สำหรับงานตกแต่งพื้นผิวที่ยากเกินกว่าโลหะทั่วไป",
+            "action": "ตรวจสอบแคตตาล็อกสินค้าอับราซิฟเพชรพิเศษ (เช่น แผ่นเจียรเพชร) เพื่อเจาะตลาดกลุ่มงานขัดผิววัสดุแข็งที่ไม่ใช่โลหะ"
           }
         }
       ]
