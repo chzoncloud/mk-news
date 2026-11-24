@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-11-23",
+  "updated": "2026-11-24",
   "days": [
+    {
+      "date": "2026-11-24",
+      "summary": "Today's briefing highlights precision manufacturing growth driving the abrasives market, specialized diamond tools for hard materials, and intense global steel overcapacity and trade protectionism.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปข่าววันนี้เน้นย้ำถึงการเติบโตของอุตสาหกรรมการผลิตที่มีความแม่นยำซึ่งขับเคลื่อนตลาดวัสดุขัด, เครื่องมือเพชรเฉพาะทางสำหรับวัสดุแข็ง, รวมถึงปัญหาภาวะอุปทานส่วนเกินและการกีดกันทางการค้าในตลาดเหล็กโลก"
+      },
+      "items": [
+        {
+          "id": "20261124-w1",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-11-20",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUVVrRmxLbmt4TDNDdmEwM2JqMmZ5Y1FyX21JQzkwc1VRX2o4dDBPeDAwZ1BRQjJBbHRPcWx0aW1KLUdhQXJJUTZpWV9LdG1iaUxPOVZ2UmVaVHN6dUJrRUE1YU02ZGk2Z1BxbkNCbno5SVFZdzU0djRrcXVjWUZMVVpiRzlMRUdrNHNIekRLb0Z0Z0ItT215YWtzNXZmQ192NkNERVFJa3E4Yk43aGVoRA?oc=5",
+          "title": "Abrasives Market To 2035: Precision Manufacturing Demand Drives Expansion",
+          "summary": "Global demand for abrasives is expanding steadily through 2035, heavily driven by the growth of precision manufacturing across metal fabrication and industrial sectors.",
+          "why": "Direct market validation: strong precision manufacturing demand means ongoing, stable consumption of coated and bonded abrasives for deburring and surface finishing.",
+          "action": "Ensure stable stock and technical support for high-precision metal finishing segments.",
+          "th": {
+            "title": "ตลาดวัสดุขัดถึงปี 2035: ความต้องการด้านการผลิตที่มีความแม่นยำขับเคลื่อนการขยายตัว",
+            "summary": "ความต้องการวัสดุขัดทั่วโลกขยายตัวอย่างต่อเนื่องจนถึงปี 2035 โดยได้รับแรงหนุนจากการเติบโตของการผลิตที่มีความแม่นยำในอุตสาหกรรมโลหะและภาคอุตสาหกรรม",
+            "why": "การยืนยันตลาดโดยตรง: ความต้องการการผลิตที่แม่นยำสูงหมายถึงการบริโภควัสดุขัดแบบเคลือบและแบบอัดก้อนอย่างต่อเนื่องสำหรับงานลบคมและตกแต่งผิว",
+            "action": "รักษาเสถียรภาพสต็อกสินค้าและการสนับสนุนทางเทคนิคสำหรับกลุ่มงานตกแต่งผิวโลหะที่มีความแม่นยำสูง"
+          }
+        },
+        {
+          "id": "20261124-w2",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "The Detroit News",
+          "date": "2026-11-23",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLWtDaTdXWW5lT1djUkx0dno1bTl6eXhuZzJZRjR3YUZ4VmlybEE4ZVc2ai1FdjNDdDdJbDhMaWtHYlJBUlotMkVKOXhrVnBWZHhGLWZaOEJITWNNYjRaVmhNdEgtQmRnVlNHRUJUNkVtMmliT1JIUHZiT0NSVmhSak84dWliQXpORHJKOHRXWEtWWWlKTEtwQkxhTlVFc1lLcUc4X1pHZXlYUC1NakRHNmZUR1p6Z3J5ZEgzU1Q4NnBfOTg?oc=5",
+          "title": "Top 10 Diamond Flap Disc Suppliers Ranked for Stone, Glass and Ceramic",
+          "summary": "The ranking highlights leading suppliers of diamond flap discs tailored for demanding hard materials like stone, glass, and specialized ceramics.",
+          "why": "Highlights the rising importance of diamond-based abrasives for extreme hardness materials, expanding beyond standard metal applications.",
+          "action": "Explore niche market opportunities for diamond and superabrasive tools in non-metal hard surface processing.",
+          "th": {
+            "title": "จัดอันดับ 10 ซัพพลายเออร์จานทรายซ้อนเพชรชั้นนำสำหรับหิน กระจก และเซรามิก",
+            "summary": "การจัดอันดับนี้เน้นย้ำถึงซัพพลายเออร์ชั้นนำของจานทรายซ้อนเพชรที่ออกแบบมาสำหรับวัสดุแข็งที่ใช้งานยาก เช่น หิน กระจก และเซรามิกพิเศษ",
+            "why": "เน้นย้ำถึงความสำคัญที่เพิ่มขึ้นของวัสดุขัดที่มีส่วนผสมของเพชรสำหรับวัสดุที่มีความแข็งสูง ซึ่งขยายขอบเขตเกินกว่างานโลหะทั่วไป",
+            "action": "สำรวจโอกาสในตลาดเฉพาะกลุ่มสำหรับเครื่องมือเพชรและซูเปอร์abrasives ในการแปรรูปพื้นผิวแข็งที่ไม่ใช่โลหะ"
+          }
+        },
+        {
+          "id": "20261124-w3",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "S&P Global",
+          "date": "2026-01-07",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSDJTcGFGbUFvRm15ZDhrczNqYkRzbHlXMTJZTHJpUF9CTjRHaTNXak4tdVBkbnBWcnNrRDRneXpBd1Z5SUJGSFZWTzJMNWhfcVl5czkzR0lSSjd4aTJzMTg3N2FWM3pHQ2NxbHg2dEp2ckNiNC16cWdJZ0t3anl3TzlUYldVajhqM05JQVEyWWdZYVdaYkEzZUpvUEJGdHAxXzRKdDRnNG1pQl9LaEN6Q0lpbFpPMTBOeElqT3V2NUdUSlJJNjZWOEpiMWc?oc=5",
+          "title": "Europe's steel industry faces its 2026 reckoning with CBAM",
+          "summary": "European steel producers face significant pressure as the Carbon Border Adjustment Mechanism (CBAM) enters critical implementation phases, altering production costs and trade.",
+          "why": "Steel production costs and regional shifts directly impact metal fabrication activity and surface preparation standards in Europe.",
+          "action": "Monitor how environmental compliance and carbon regulations impact European metal processing and tool demand.",
+          "th": {
+            "title": "อุตสาหกรรมเหล็กของยุโรปเผชิญจุดเปลี่ยนในปี 2026 กับมาตรการ CBAM",
+            "summary": "ผู้ผลิตเหล็กในยุโรปเผชิญกับแรงกดดันครั้งใหญ่เนื่องจากกลไกการปรับคาร์บอนก่อนข้ามพรมแดน (CBAM) เข้าสู่ช่วงการดำเนินการที่สำคัญ ซึ่งส่งผลต่อต้นทุนการผลิตและการค้า",
+            "why": "ต้นทุนการผลิตเหล็กและการเปลี่ยนแปลงระดับภูมิภาคส่งผลโดยตรงต่อกิจกรรมการแปรรูปโลหะและมาตรฐานการเตรียมพื้นผิวในยุโรป",
+            "action": "ติดตามว่าการปฏิบัติตามกฎระเบียบด้านสิ่งแวดล้อมและคาร์บอนส่งผลกระทบต่อการแปรรูปโลหะและความต้องการเครื่องมือในยุโรปอย่างไร"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-11-23",
       "summary": "Today's briefing highlights shifts in global steel production, including stainless steel overcapacity projections for 2027, U.S. steel ranking surges under tariffs and AI booms, and China's metal surface finishing rankings.",
@@ -848,70 +912,6 @@ window.WORLD_ARCHIVE = {
             "summary": "ผู้ผลิตกำลังนำระบบอัตโนมัติที่ขับเคลื่อนด้วย AI มาใช้เพื่อปรับ1สายการผลิตให้เหมาะสมและรักษาความสามารถในการแข่งขัน",
             "why": "โรงงานอัจฉริยะต้องการโซลูชันการขัดและลบคมด้วยหุ่นยนต์อัตโนมัติที่เชื่อมต่อกับระบบ AI เพื่อคุณภาพผิวงานที่สม่ำเสมอ",
             "action": "ศึกษาว่าระบบการตกแต่งผิวด้วยหุ่นยนต์อัตโนมัติใช้สายพานขัดและแผ่นขัดที่มีความสม่ำเสมอสูงอย่างไร"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-11-10",
-      "summary": "Today's briefing focuses on global manufacturing shifts, including European steel decarbonization under CBAM rules, COP31 EV production realities, and rare earth supply dynamics impacting precision engineering sectors.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปทิศทางอุตสาหกรรมโลกวันนี้เน้นการปรับตัวของเหล็กยุโรปภายใต้กฎระเบียบ CBAM, ความจริงในการผลิตรถยนต์ EV หลังการประชุม COP31 และสถานการณ์แร่หายากที่ส่งผลต่ออุตสาหกรรมการผลิตที่มีความแม่นยำสูง"
-      },
-      "items": [
-        {
-          "id": "20261110-w1",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "S&P Global",
-          "date": "2026-01-07",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSDJTcGFGbUFvRm15ZDhrczNqYkRzbHlXMTJZTHJpUF9CTjRHaTNXak4tdVBkbnBWcnNrRDRneXpBd1Z5SUJGSFZWTzJMNWhfcVl5czkzR0lSSjd4aTJzMTg3N2FWM3pHQ2NxbHg2dEp2ckNiNC16cWdJZ0t3anl3TzlUYldVajhqM05JQVEyWWdZYVdaYkEzZUpvUEJGdHAxXzRKdDRnNG1pQl9LaEN6Q0lpbFpPMTBOeElqT3V2NUdUSlJJNjZWOEpiMWc?oc=5",
-          "title": "Europe's steel industry faces its 2026 reckoning with CBAM",
-          "summary": "Europe's steel sector is undergoing a major structural test as Carbon Border Adjustment Mechanism (CBAM) rules take full effect, forcing mills to accelerate green transitions and operational changes.",
-          "why": "European steel mills upgrading processes will require specialized surface conditioning, grinding, and finishing abrasives compliant with strict environmental standards.",
-          "action": "Monitor European client demands for eco-certified or sustainable abrasive supply chains.",
-          "th": {
-            "title": "อุตสาหกรรมเหล็กยุโรปเผชิญบททดสอบสำคัญในปี 2026 ด้วยกฎระเบียบ CBAM",
-            "summary": "ภาคอุตสาหกรรมเหล็กของยุโรปกำลังเผชิญกับการทดสอบโครงสร้างครั้งใหญ่เมื่อกฎไตร่ตรองคาร์บอนข้ามพรมแดน (CBAM) มีผลบังคับใช้เต็มรูปแบบ บังคับให้โรงงานต้องเร่งปรับตัวสู่สีเขียว",
-            "why": "โรงงานเหล็กยุโรปที่กำลังอัปเกรดกระบวนการผลิตจะต้องการกระดาษทรายและหินเจียรเฉพาะทางที่ได้มาตรฐานสิ่งแวดล้อมเข้มงวด",
-            "action": "ติดตามความต้องการของลูกค้าฝั่งยุโรปที่มองหาห่วงโซ่อุปทานวัสดุขัดถูที่เป็นมิตรต่อสิ่งแวดล้อม"
-          }
-        },
-        {
-          "id": "20261110-w2",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-11-09",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUEhWWFVvZ013aGRlbWZoTlRpblBlTFZRRC1yX1FzUDhCN2FSTGVuV1lYTS00XzViRGsxREtkb1hKYzN0T2NLd1BySWZzTzdKVG9XLXlhS1RZQXJ2dS1yOFJlWTVwaDFfV2otN29fR2ota1dzcm5aU1dHZTZJcGNYZ2dQQk90MGY1bVd0LWdodXNELUczNUFidXctNjNCUDZBa2c1WnZmZUR0YUVnVnphMnRaUG9JLWNpWXM4R3ZkbE1pNUs3?oc=5",
-          "title": "COP31 electrification shake-up: EV rules meet factory reality",
-          "summary": "Automotive manufacturers globally are balancing aggressive electrification goals against factory floor realities and supply chain economics following recent climate talks.",
-          "why": "Shifts in EV production timelines and component designs directly affect machining, weld-seam grinding, and body panel finishing requirements.",
-          "action": "Keep in close touch with tier-1 automotive part makers to adapt our metal-finishing product offerings.",
-          "th": {
-            "title": "ความสั่นคลอนด้านยานยนต์ไฟฟ้าจาก COP31: กฎระเบียบ EV พบกับความจริงในโรงงาน",
-            "summary": "ผู้ผลิตรถยนต์ทั่วโลกกำลังสร้างความสมดุลระหว่างเป้าหมายการเปลี่ยนผ่านสู่ไฟฟ้าและความจริงหน้างานผลิตหลังการเจรจาสภาพภูมิอากาศล่าสุด",
-            "why": "การปรับเปลี่ยนไทม์ไลน์การผลิต EV และดีไซน์ชิ้นส่วนส่งผลโดยตรงต่อความต้องการงานตัดแต่งรอยเชื่อมและขัดผิวโลหะ",
-            "action": "รักษาความสัมพันธ์ใกล้ชิดกับผู้ผลิตชิ้นส่วนยานยนต์ระดับ Tier-1 เพื่อปรับกลุ่มผลิตภัณฑ์งานขัดโลหะให้สอดคล้อง"
-          }
-        },
-        {
-          "id": "20261110-w3",
-          "tag": "steel",
-          "rating": "green",
-          "source": "Rare Earth Exchanges",
-          "date": "2026-11-09",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxcHNiVEdiMXl0bWZLQ3ZtbkkwX0ZLcG96UWs2NURzRzJOSGplQloxTEw1YVgyU2RDcmJXLXZXMU5TUGRDbjNXNnNqbVIwaWpPY1QxaVNyYmd4eVkwS1ZKazBFVVltd1ZQZ1RteHdCOUNtSmhFdG5fZ1pzc0pDcVk?oc=5",
-          "title": "CREIA Baotou Summit Rare Earth Metal Production 2026",
-          "summary": "The recent Baotou summit highlighted shifts in rare earth metal production, influencing high-tech alloy manufacturing and precision engineering components globally.",
-          "why": "Specialty metals and advanced alloys require rigorous surface preparation and micro-finishing using high-performance abrasives.",
-          "action": "Explore niche ceramic or high-end abrasive products suited for processing hard alloy metals.",
-          "th": {
-            "title": "การประชุมสุดยอด CREIA Baotou 2026 ว่าด้วยการผลิตโลหะแร่หายาก",
-            "summary": "การประชุมที่บา๋อถูเน้นย้ำถึงการเปลี่ยนแปลงในการผลิตโลหะแร่หายาก ซึ่งส่งผลต่ออุตสาหกรรมโลหะผสมไฮเทคและชิ้นส่วนวิศวกรรมความแม่นยำสูงทั่วโลก",
-            "why": "โลหะพิเศษและโลหะผสมขั้นสูงจำเป็นต้องมีการเตรียมผิวและการขัดละเอียดอย่างเข้มงวดโดยใช้วัสดุขัดถูสมรรถนะสูง",
-            "action": "สำรวจกลุ่มสินค้าประเภทเซรามิกหรือกระดาษทรายเกรดพรีเมียมที่เหมาะกับงานแปรรูปโลหะอัลลอยด์แข็ง"
           }
         }
       ]
