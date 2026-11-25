@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-11-24",
+  "updated": "2026-11-25",
   "days": [
+    {
+      "date": "2026-11-25",
+      "summary": "Today's briefing features 3 fresh global signals focusing on metal surface finishing supplier rankings, smart factory trends, and evolving EV production realities. These developments highlight where precision manufacturing and automation are heading.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปข่าวประจำวันนี้คัดเลือก 3 สัญญาณเด่นจากทั่วโลกที่เน้นเรื่องการจัดอันดับผู้ให้บริการตกแต่งพื้นผิวโลหะ เทรนด์โรงงานอัจฉริยะ และความเป็นจริงในการผลิต EV ที่กำลังเปลี่ยนไป ซึ่งสะท้อนทิศทางของอุตสาหกรรมการผลิตที่มีความแม่นยำสูง"
+      },
+      "items": [
+        {
+          "id": "20261125-w1",
+          "tag": "steel",
+          "rating": "green",
+          "source": "The Detroit News",
+          "date": "2026-11-24",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOV2NSZkoweU9KLXZTdElkem9ZNTN5dVlkajVoZ2FTSGNzd0pEalFya0Z3NlBuTUNxUmoxUFB5elI0ZU5iYUtWUDNjbHFLdU4wZHFzLXFmN0hCNlp3VzRkdlNhLVVZbWJUcWFhTjlUZHZ4X0R3SUZOOGxCcmdPS2lZd0lHRk9sRF94YjZNSlktSHhJQ0Vycm5EZ1lzZlRwZ2Z1dGdZc1ItTzRyT0tQSklhV1luRmdvbDdLUkRidGN0a1FVQkRIZ0R2cklmUQ?oc=5",
+          "title": "Metal Surface Finishing Suppliers: A Ranked Comparison of Ten Global Players",
+          "summary": "A comprehensive comparison evaluates ten global leaders in metal surface finishing, highlighting capabilities and competitive positioning in the industrial market.",
+          "why": "Understanding who leads the global surface finishing supply chain helps us benchmark product quality and identify advanced finishing techniques used by top players.",
+          "action": "Review the ranked finishing suppliers to identify emerging technical standards in global metal processing.",
+          "th": {
+            "title": "ซัพพลายเออร์ด้านการตกแต่งพื้นผิวโลหะ: การเปรียบเทียบอันดับ 10 ผู้เล่นระดับโลก",
+            "summary": "บทความเปรียบเทียบเชิงลึกเกี่ยวกับผู้นำระดับโลก 10 รายด้านการตกแต่งพื้นผิวโลหะ พร้อมเน้นย้ำถึงขีดความสามารถและตำแหน่งทางการแข่งขันในตลาดอุตสาหกรรม",
+            "why": "การทำความเข้าใจผู้นำในห่วงโซ่อุปทานการตกแต่งพื้นผิวระดับโลกช่วยให้เราสามารถเปรียบเทียบคุณภาพสินค้าและเทคนิคการขัดขั้นสูงที่ผู้เล่นระดับนำใช้งาน",
+            "action": "ศึกษาอันดับซัพพลายเออร์งานขัดและตกแต่งผิวเพื่อระบุมาตรฐานทางเทคนิคใหม่ๆ ในกระบวนการแปรรูปโลหะระดับโลก"
+          }
+        },
+        {
+          "id": "20261125-w2",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-11-06",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPU0NJV1VEcllWeWRPU21VOHlULVpnYWR2ZXVmMk5QSHVZNHFYRC1nN2hlUnJ5VmdXNl9LWmRPTmR2X1lzRlBqcl8tOTZxdE9pNkVTRG14R2NpRHIxNTQ2S2NWcGxQeGF5bWxHdGFxWEN5em12c09Wb1piMnlUejBGc08xemxCQjZUd0llY2k4MmxfVUlkaHlIN21FQ1RPeVl2a3YyZ1BZSE4zeVhHWUVFemF6R3ZyR0lLa0lEMUY1R0k3T0ZlblpKZUFKVEFYV3ZDYlZNQTZYSDRYVjRvSjVLSkE2RTlzdl9tNEctT2JWblVNYndVZnNJeg?oc=5",
+          "title": "Register now: Smart factory trends and lessons for 2027: Flexibility, AI and global competitiveness",
+          "summary": "Industry experts outline key smart factory trends focusing on manufacturing flexibility, AI integration, and maintaining global competitiveness heading into 2027.",
+          "why": "Automotive and industrial factories are shifting toward flexible, AI-driven automation, which changes how they procure consumable tooling like abrasives.",
+          "action": "Anticipate higher demand for consistent, automation-friendly abrasive products suited for robotic grinding cells.",
+          "th": {
+            "title": "เปิดลงทะเบียน: เทรนด์โรงงานอัจฉริยะและบทเรียนสำหรับปี 2027: ความยืดหยุ่น AI และความสามารถในการแข่งขันระดับโลก",
+            "summary": "ผู้เชี่ยวชาญในอุตสาหกรรมระบุเทรนด์หลักของโรงงานอัจฉริยะ โดยเน้นความยืดหยุ่นในการผลิต การบูรณาการ AI และการรักษาความสามารถในการแข่งขันระดับโลกมุ่งสู่ปี 2027",
+            "why": "โรงงานในอุตสาหกรรมยานยนต์และอุตสาหกรรมทั่วไปกำลังเปลี่ยนผ่านสู่ระบบอัตโนมัติที่ขับเคลื่อนด้วย AI ซึ่งเปลี่ยนพฤติกรรมการจัดซื้อเครื่องมือสิ้นเปลืองเช่นกระดาษทรายและหินเจียร",
+            "action": "เตรียมรับมือกับความต้องการสินค้ากลุ่มวัสดุขัดที่ได้มาตรฐานสม่ำเสมอและรองรับระบบอัตโนมัติหรือแขนกลหุ่นยนต์เพิ่มมากขึ้น"
+          }
+        },
+        {
+          "id": "20261125-w3",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "IEA - International Energy Agency",
+          "date": "2026-05-20",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBdlRidlFWTllkZFUwX0tURmp4UmxwenFiRk5tT29WQndpN0xVbU55TV9VRGFJaFBGMm1weTZyczc5MjJ5aDZDVlhqSnh6Mk5EMV84UE0wWk1JWXFjWGpfY0EwN2JXcjZuckx0dVJ1LWFFTjU5bnpSc1lPek1SMWc?oc=5",
+          "title": "Manufacturing and trade - Global EV Outlook 2026",
+          "summary": "The IEA's Global EV Outlook highlights the shifting landscapes of electric vehicle manufacturing, global supply chains, and international trade dynamics.",
+          "why": "EV production structures dictate metal casting, body frame stamping, and component finishing requirements, directly influencing high-end abrasive consumption.",
+          "action": "Monitor EV manufacturing hubs to spot shifting regional demand for metal preparation and deburring supplies.",
+          "th": {
+            "title": "การผลิตและการค้า - รายงานแนวโน้มรถยนต์ไฟฟ้าโลกปี 2026",
+            "summary": "รายงานแนวโน้ม EV โลกจาก IEA เผยภาพความเปลี่ยนแปลงของการผลิตรถยนต์ไฟฟ้า ห่วงโซ่อุปทานระดับโลก และพลวัตการค้าระหว่างประเทศ",
+            "why": "โครงสร้างการผลิต EV เป็นตัวกำหนดความต้องการในการหล่อโลหะ การปั๊มขึ้นรูปโครงรถ และการตกแต่งชิ้นส่วน ซึ่งส่งผลโดยตรงต่อการใช้วัสดุขัดเกรดสูง",
+            "action": "ติดตามศูนย์กลางการผลิต EV เพื่อมองหาความต้องการใหม่ๆ ในระดับภูมิภาคสำหรับสินค้าเตรียมผิวโลหะและงานลบคม"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-11-24",
       "summary": "Today's global briefing highlights long-term projections for precision abrasives, EV manufacturing realities post-COP31, and structural shifts in global steel production, offering clear signals for high-end surface preparation demand.",
@@ -866,70 +930,6 @@ window.WORLD_ARCHIVE = {
             "summary": "ตลาดกรดดองเหล็กกำลังเติบโต โดยได้รับแรงหนุนจากความต้องการในการบำบัดผิวเหล็กและข้อกำหนดด้านการรีไซเคิลสิ่งแวดล้อมที่เข้มงวดขึ้น",
             "why": "กระบวนการดองเหล็กเป็นขั้นตอนเตรียมการสำคัญก่อนการเคลือบและการตกแต่งผิวโลหะ",
             "action": "ทำความเข้าใจว่าการเปลี่ยนแปลงในการเตรียมผิวโลหะส่งผลต่อความต้องการขัดทำความสะอาดและตกแต่งผิวด้วยวัสดุขัดอย่างไร"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-11-11",
-      "summary": "Today's briefing highlights shifts in primary metal manufacturing with a focus on green steel, smart factory trends emphasizing flexibility and AI, and ongoing structural adjustments in China's automotive sector.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปข่าวประจำวันนี้เน้นการเปลี่ยนแปลงในอุตสาหกรรมการผลิตโลหะขั้นต้นโดยเน้นเหล็กสีเขียว (Green Steel) แนวโน้มโรงงานอัจฉริยะที่เน้นความยืดหยุ่นและ AI รวมถึงการปรับโครงสร้างอย่างต่อเนื่องในภาคยานยนต์ของจีน"
-      },
-      "items": [
-        {
-          "id": "20261111-w1",
-          "tag": "steel",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-11-10",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSl9TT1Vad2ZPV1IxemlRdHEza1lfN3ZUUE01RHRseHdiX0JMLUFTZ3pUWWt0dFE3WDVFTGxZdEtaQk5yZjRONVdKa1k3XzVKbXowcUxSSFgyc0txMXk5VWFJQ0VNYl9NbVdVTVNTaXRUTVl1U1FXRE45ajB1alk3V1k5Q0hZNDkxUjBpVGdwZjhodFI4dUtnd1NmS2ctRHh4ZlByekhQd3ZQa1VVYmhncGdtOXBFS2lwNndLaXNtRGVacnNIWFpXT3Vn?oc=5",
-          "title": "Primary Metal Manufacturing Market To 2035: Green Steel and Electrification Drive Growth",
-          "summary": "Primary metal manufacturing is evolving rapidly towards green steel production and electrification, impacting upstream metal processing and finishing needs.",
-          "why": "Green steel production requires rigorous surface preparation, scaling up demand for specialized heavy-duty grinding and deburring abrasives.",
-          "action": "Monitor green steel manufacturing standards and evaluate product readiness for advanced metal preparation.",
-          "th": {
-            "title": "ตลาดการผลิตโลหะขั้นต้นถึงปี 2035: เหล็กสีเขียวและการขับเคลื่อนด้วยไฟฟ้า",
-            "summary": "อุตสาหกรรมการผลิตโลหะขั้นต้นกำลังพัฒนาอย่างรวดเร็วไปสู่การผลิตเหล็กสีเขียวและการใช้ไฟฟ้า ซึ่งส่งผลกระทบต่อความต้องการในการแปรรูปและตกแต่งโลหะขั้นต้น",
-            "why": "การผลิตเหล็กสีเขียวต้องมีการเตรียมพื้นผิวที่เข้มงวด ซึ่งช่วยเพิ่มความต้องการใช้วัสดุขัดสำหรับการเจียรและลบคมงานหนัก",
-            "action": "ติดตามมาตรฐานการผลิตเหล็กสีเขียวและประเมินความพร้อมของผลิตภัณฑ์สำหรับการเตรียมผิวโลหะขั้นสูง"
-          }
-        },
-        {
-          "id": "20261111-w2",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-10-28",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMExMd0h3VTZZUGVhTmVoNENZT0RDYkZhOFlTUzZUd3RmT0RNRGJKVjlQVTBmRnkwa21iZEl6ZlNJYmIzVTjjQzU1eGhrcTFPOHhNQWRlSWVWaDlwR2FIVGZmSWJlQk00ZmNRUE5oc1owOGtPSzM2QzNCY0R4YXJNdjdwWExHVzNDM1JXSGRpMnNTdHQ1QXdnWlk2MFlFc21GRXd5QjVVYVItalFMN2hjZmZqZi1nd2I5aVBhYlRhbTQ?oc=5",
-          "title": "China's car industry consolidation begins: who will survive?",
-          "summary": "China's massive automotive sector is undergoing consolidation, shifting supplier networks and changing production volumes for components.",
-          "why": "Consolidation among Chinese automakers affects regional manufacturing output, shifting demand patterns for automotive finishing and component deburring abrasives.",
-          "action": "Track shifts in OEM supply chains in Asia to anticipate where component surface finishing demand will concentrate.",
-          "th": {
-            "title": "การควบรวมกิจการอุตสาหกรรมรถยนต์ของจีนเริ่มต้นขึ้น: ใครจะอยู่รอด?",
-            "summary": "ภาคยานยนต์ขนาดใหญ่ของจีนกำลังผ่านกระบวนการควบรวมกิจการ ซึ่งเปลี่ยนเครือข่ายซัพพลายเออร์และปริมาณการผลิตชิ้นส่วน",
-            "why": "การควบรวมกิจการของผู้ผลิตรถยนต์ในจีนส่งผลต่อปริมาณการผลิตในภูมิภาค และเปลี่ยนรูปแบบความต้องการใช้วัสดุขัดสำหรับตกแต่งผิวและลบคมชิ้นส่วนยานยนต์",
-            "action": "ติดตามการเปลี่ยนแปลงของห่วงโซ่อุปทาน OEM ในเอเชียเพื่อคาดการณ์จุดศูนย์กลางความต้องการตกแต่งผิวชิ้นส่วน"
-          }
-        },
-        {
-          "id": "20261111-w3",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-09-16",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPU0NJV1VEcllWeWRPU21VOHlULVpnYWR2ZXVmMk5QSHVZNHFYRC1nN2hlUnJ5VmdXNl9LWmRPTmR2X1lzRlBqcl8tOTZxdE9pNkVTRG14R2NpRHIxNTQ2S2NWcGxQeGF5bWxHdGFxWEN5em12c09Wb1piMnlUejBGc08xemxCQjZUd0llY2k4MmxfVUlkaHlIN21FQ1RPeVl2a3YyZ1BZSE4zeVhHWUVFemF6R3ZyR0lLa0lEMUY1R0k3T0ZlblpKZUFKVEFYV3ZDYlZNQTZYSDRYVjRvSjVLSkE2RTlzdl9tNEctT2JWblVNYndVZnNJeg?oc=5",
-          "title": "Smart factory trends and lessons for 2027: Flexibility, AI and global competitiveness",
-          "summary": "Manufacturers are adopting AI-driven flexible automation systems to optimize production lines and maintain competitiveness.",
-          "why": "Smart factories require automated robotic sanding and deburring solutions that integrate with AI systems for consistent finish quality.",
-          "action": "Explore how automated robotic finishing setups utilize high-consistency abrasive belts and discs.",
-          "th": {
-            "title": "เทรนด์โรงงานอัจฉริยะและบทเรียนสำหรับปี 2027: ความยืดหยุ่น AI และความสามารถในการแข่งขันระดับโลก",
-            "summary": "ผู้ผลิตกำลังนำระบบอัตโนมัติที่ขับเคลื่อนด้วย AI มาใช้เพื่อปรับ1สายการผลิตให้เหมาะสมและรักษาความสามารถในการแข่งขัน",
-            "why": "โรงงานอัจฉริยะต้องการโซลูชันการขัดและลบคมด้วยหุ่นยนต์อัตโนมัติที่เชื่อมต่อกับระบบ AI เพื่อคุณภาพผิวงานที่สม่ำเสมอ",
-            "action": "ศึกษาว่าระบบการตกแต่งผิวด้วยหุ่นยนต์อัตโนมัติใช้สายพานขัดและแผ่นขัดที่มีความสม่ำเสมอสูงอย่างไร"
           }
         }
       ]
