@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-11-25",
-      "summary": "Today's global briefings highlight a growing $72.2B abrasives market driven by precision manufacturing, robotic deburring advancements in automotive casting, and ongoing overcapacity struggles in the global steel sector.",
+      "summary": "Today's global briefing highlights specialized metal finishing rankings and technical developments in surface preparation for stone, glass, and ceramics, alongside ongoing shifts in global steel markets.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปทิศทางโลกประจำวัน: ตลาดวัสดุขัดถูโตแตะ 7,2200 ล้านดอลลาร์จากความต้องการงานความแม่นยำสูง, เทคโนโลยีหุ่นยนต์ขัดครีบชิ้นส่วนรถยนต์ และปัญหาอุตสาหกรรมเหล็กโลกที่เผชิญภาวะล้นตลาด"
+        "summary": "สรุปข่าวเด่นระดับโลกวันนี้เน้นการจัดอันดับผู้ให้บริการขัดแต่งผิวโลหะระดับโลกและเทคโนโลยีการเตรียมพื้นผิวสำหรับหิน กระจก และเซรามิก พร้อมกับแนวโน้มตลาดเหล็กโลกที่ยังคงเปลี่ยนแปลงอย่างต่อเนื่อง"
       },
       "items": [
         {
           "id": "20261125-w1",
           "tag": "abrasive",
           "rating": "green",
-          "source": "EIN News",
-          "date": "2026-10-19",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM2VsRTlqVWR6dlpoUXpZQ04wNnJsRUNBbndKSnNQODIyUXdnTTlIT0hZMC10bGhEUUk0clZ5ZWZRN0I2eVhiVHVPVmRYd05xWUdJdDJldTBsTkZEUVNBNG5qaE9WeXdDN2dSVzJ2TzNsVFhBNVMzakhwZFR6Z0dQeFFVS0ZPa0dmWmh1dHhiYXVXWWRrbk9XS251Ul9SVS1SZ3NON0VXRWxfOWtzazlNcXhUMVBnU2liODhqaXF6OEdGb2NEYkRoaG9uNmx6MlNjMUd2N3Q0emZnUXltZk1wbg?oc=5",
-          "title": "Abrasives Market to Reach $72.2 Billion by 2030, Growing at a 7.6% CAGR Driven by Precision Finishing Demand",
-          "summary": "The global abrasives market is projected to hit $72.2 billion by 2030, expanding at a robust 7.6% CAGR propelled by increasing requirements for high-precision surface finishing.",
-          "why": "Confirms strong long-term macroeconomic tailwinds for our core business, particularly in high-tolerance industrial applications.",
-          "action": "Align our product catalog with high-precision finishing requirements to capture growing high-end demand.",
+          "source": "The Detroit News",
+          "date": "2026-11-24",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOV2NSZkoweU9KLXZTdElkem9ZNTN5dVlkajVoZ2FTSGNzd0pEalFya0Z3NlBuTUNxUmoxUFB5elI0ZU5iYUtXUDNjbHFLdU4wZHFzLXFmN0hCNlp3VzRkdlNhLVVZbWJUcWFhTjlUZHZ4X0R3SUZOOGxCcmdPS2lZd0lHRk9sRF94YjZNSlktSHhJQ0Vycm5EZ1lzZlRwZ2Z1dGdZc1ItTzRyT0tQSklhV1luRmdvbDdLUkRidGN0a1FVQkRIZ0R2cklmUQ?oc=5",
+          "title": "Metal Surface Finishing Suppliers: A Ranked Comparison of Ten Global Players",
+          "summary": "A new comparative analysis ranks ten major global metal surface finishing suppliers, offering insights into competitive benchmarks for industrial polishing and deburring.",
+          "why": "Benchmarking top global finishing players helps MK understand technology standards, surface quality expectations, and competitive positioning in industrial abrasives.",
+          "action": "Review the ranked capabilities of these global players to identify potential product gaps or high-demand finishing segments we can target.",
           "th": {
-            "title": "ตลาดวัสดุขัดถูพุ่งแตะ 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 โต 7.6% ต่อปี หนุนโดยงานผิวสำเร็จความแม่นยำสูง",
-            "summary": "ตลาดวัสดุขัดถูทั่วโลกคาดว่าจะเติบโตถึง 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 ขับเคลื่อนด้วยความต้องการงานตกแต่งพื้นผิวที่มีความแม่นยำสูง",
-            "why": "ยืนยันแนวโน้มการเติบโตในระยะยาวที่ดีเยี่ยมสำหรับธุรกิจหลักของเรา โดยเฉพาะในกลุ่มงานอุตสาหกรรมที่ต้องการความแม่นยำ",
-            "action": "ปรับปรุงกลุ่มสินค้าให้ตอบโจทย์งานขัดความแม่นยำสูงเพื่อคว้าโอกาสจากตลาดพรีเมียมที่กำลังขยายตัว"
+            "title": "ซัพพลายเออร์ผู้ให้บริการขัดแต่งผิวโลหะ: การเปรียบเทียบจัดอันดับ 10 ผู้เล่นระดับโลก",
+            "summary": "บทวิเคราะห์เปรียบเทียบผู้ให้บริการขัดแต่งผิวโลหะรายใหญ่ 10 รายทั่วโลก เพื่อให้เห็นภาพรวมเกณฑ์มาตรฐานการแข่งขันด้านการขัดเงาและลบคมในอุตสาหกรรม",
+            "why": "การศึกษาเกณฑ์มาตรฐานของผู้นำระดับโลกช่วยให้ MK เข้าใจมาตรฐานเทคโนโลยี ความคาดหวังด้านคุณภาพผิวงาน และตำแหน่งทางการแข่งขันในตลาดวัสดุขัด",
+            "action": "ตรวจสอบความสามารถของบริษัทชั้นนำเหล่านี้เพื่อระบุช่องว่างด้านผลิตภัณฑ์หรือกลุ่มงานขัดที่กำลังมีความต้องการสูง"
           }
         },
         {
           "id": "20261125-w2",
-          "tag": "auto",
+          "tag": "abrasive",
           "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-11-14",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMXRjNVNGMllObGVPVGRPQ05TTDlxUEQ3V0xRWFItTHFyRVo4UWpyaGphUzQ0Slg1ZkRqNHdXSUJLUzhONEZTNmdwMjhaQ1c4bkdlQlllVjZKdFRKNDZVY19CZ2ZaMm9Fdkl3Q1lESmRUNVJsOXRmNU5JbnRmWWp6NnpNSWV2LVNhdmlYME1XbVJ2a1BkdUdVVHZ0RzF2QjdObnpLdzZkTmhxQ3d4S0lkWXVlOWx4ZlJnU2pqZndnWVlqUURteDI3X2FaRzQ?oc=5",
-          "title": "Robot Deburring Tools Market To 2035: Automotive Casting Quality Drives Forward Growth",
-          "summary": "The market for robotic deburring tools is growing rapidly, driven by strict automotive casting quality standards and automated manufacturing plants.",
-          "why": "Automated deburring and robotic surface prep require specialized, durable abrasive tools built for machine integration rather than manual use.",
-          "action": "Explore partnerships or product lines suited for automated robotic grinding and deburring cells in factories.",
+          "source": "The Detroit News",
+          "date": "2026-11-23",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLWtDaTdXWW5lT1djUkx0dno1bTl6eXhuZzJZRjR3YUZ4VmlybEE4ZVc2ai1FdjNDdDdJbDhMaWtHYlJBUlotMkVKOXhrVnBWZHhGLWZaOEJITWNNYjRaVmhNdEgtQmRnVlNHRUJUNkVtMmliT1JIUHZiT0NSVmhSak84dWliQXpORHJKOHRXWEtWWWlKTEtwQkxhTlVFc1lLcUc4X1pHZXlYUC1NakRHNmZUR1p6Z3J5ZEgzU1Q4NnBfOTg?oc=5",
+          "title": "Top 10 Diamond Flap Disc Suppliers Ranked for Stone, Glass and Ceramic",
+          "summary": "An industry ranking identifies the top suppliers of diamond flap discs tailored for demanding hard-material applications including stone, glass, and ceramics.",
+          "why": "Diamond-based abrasives represent high-value segments outside standard metal applications, opening up expansion opportunities into hard substrate finishing.",
+          "action": "Evaluate our current portfolio for hard-material grinding and consider expanding our reach into specialized diamond abrasive applications.",
           "th": {
-            "title": "ตลาดเครื่องมือขัดครีบด้วยหุ่นยนต์ถึงปี 2035: คุณภาพงานหล่อรถยนต์ขับเคลื่อนการเติบโต",
-            "summary": "ตลาดเครื่องมือขัดครีบอัตโนมัติเติบโตอย่างรวดเร็ว จากมาตรฐานคุณภาพชิ้นส่วนหล่อรถยนต์ที่เข้มงวดและโรงงานอัจฉริยะ",
-            "why": "งานขัดครีบและเตรียมพื้นผิวด้วยหุ่นยนต์ต้องการวัสดุขัดที่มีความทนทานสูงและออกแบบมาเพื่อใช้งานกับเครื่องจักรโดยเฉพาะ",
-            "action": "ศึกษาหาลู่ทางจัดจำหน่ายสินค้าที่รองรับระบบงานขัดอัตโนมัติของโรงงานอุตสาหกรรม"
+            "title": "10 อันดับซัพพลายเออร์แผ่นเจียรเพชร (Diamond Flap Disc) สำหรับงานหิน กระจก และเซรามิก",
+            "summary": "การจัดอันดับผู้ผลิตชั้นนำสำหรับแผ่นเจียรเคลือบเพชรที่ออกแบบมาโดยเฉพาะสำหรับวัสดุแข็ง เช่น หิน กระจก และเซรามิก",
+            "why": "วัสดุขัดประเภทเพชร (Diamond Abrasives) ถือเป็นกลุ่มสินค้ามูลค่าสูงนอกเหนือจากงานโลหะทั่วไป ซึ่งช่วยเพิ่มโอกาสขยายตลาดสู่การขัดพื้นผิววัสดุแข็ง",
+            "action": "ประเมินกลุ่มผลิตภัณฑ์สำหรับงานวัสดุแข็งของเรา และพิจารณาขยายตลาดเข้าสู่กลุ่มผลิตภัณฑ์วัสดุขัดเพชรเฉพาะทาง"
           }
         },
         {
           "id": "20261125-w3",
           "tag": "steel",
-          "rating": "green",
+          "rating": "amber",
           "source": "S&P Global",
           "date": "2026-01-12",
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
           "title": "Global steel industry battles surplus supply, protectionism",
-          "summary": "The international steel sector continues to face oversupply challenges and rising trade protectionism, forcing producers to rethink output and operational costs.",
-          "why": "Steel production volume directly impacts metal fabrication activity and the baseline demand for industrial grinding and cut-off wheels.",
-          "action": "Monitor metal fabrication client output closely to adjust abrasive inventory levels accordingly.",
+          "summary": "The worldwide steel market continues to navigate oversupply conditions and rising trade protectionism, impacting manufacturing cost structures globally.",
+          "why": "Steel demand and mill activity directly dictate the volume of heavy grinding, deburring, and surface prep consumables used by metal fabricators.",
+          "action": "Monitor local steel fabrication activity closely to adjust abrasive inventory levels in response to fluctuating metal production.",
           "th": {
-            "title": "อุตสาหกรรมเหล็กโลกเผชิญศึกหนักจากภาวะล้นตลาดและมาตรการกีดกันทางการค้า",
-            "summary": "ภาคอุตสาหกรรมเหล็กสากลยังคงเผชิญกับปัญหาซัพพลายล้นตลาดและการปกป้องทางการค้าที่สูงขึ้น ส่งผลให้ผู้ผลิตต้องปรับแผนการผลิตและต้นทุน",
-            "why": "ปริมาณการผลิตเหล็กส่งผลโดยตรงต่อกิจกรรมการแปรรูปโลหะและความต้องการใช้งานใบตัดใบเจียรในอุตสาหกรรม",
-            "action": "ติดตามปริมาณงานของลูกค้ากลุ่มแปรรูปโลหะอย่างใกล้ชิดเพื่อบริหารสต็อกสินค้าให้สอดคล้องกัน"
+            "title": "อุตสาหกรรมเหล็กโลกเผชิญหน้ากับภาวะล้นตลาดและลัทธิกีดกันทางการค้า",
+            "summary": "ตลาดเหล็กทั่วโลกยังคงต้องรับมือกับภาวะอุปทานล้นเกินและมาตรการกีดกันทางการค้าที่เพิ่มขึ้น ซึ่งส่งผลต่อโครงสร้างต้นทุนการผลิตทั่วโลก",
+            "why": "ความต้องการใช้เหล็กและกิจกรรมของโรงงานผลิตเหล็กส่งผลโดยตรงต่อปริมาณการใช้วัสดุสิ้นเปลืองสำหรับงานเจียร ลบคม และเตรียมพื้นผิวของผู้รับเหมางานโลหะ",
+            "action": "ติดตามกิจกรรมการผลิตในอุตสาหกรรมเหล็กในประเทศอย่างใกล้ชิด เพื่อปรับระดับสินค้าคงคลังกลุ่มวัสดุขัดให้สอดคล้องกับความผันผวนของการผลิตโลหะ"
           }
         }
       ]
