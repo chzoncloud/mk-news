@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-11-25",
-      "summary": "Today's briefing features 3 fresh global signals focusing on metal surface finishing supplier rankings, smart factory trends, and evolving EV production realities. These developments highlight where precision manufacturing and automation are heading.",
+      "summary": "Today's global briefings highlight a growing $72.2B abrasives market driven by precision manufacturing, robotic deburring advancements in automotive casting, and ongoing overcapacity struggles in the global steel sector.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปข่าวประจำวันนี้คัดเลือก 3 สัญญาณเด่นจากทั่วโลกที่เน้นเรื่องการจัดอันดับผู้ให้บริการตกแต่งพื้นผิวโลหะ เทรนด์โรงงานอัจฉริยะ และความเป็นจริงในการผลิต EV ที่กำลังเปลี่ยนไป ซึ่งสะท้อนทิศทางของอุตสาหกรรมการผลิตที่มีความแม่นยำสูง"
+        "summary": "สรุปทิศทางโลกประจำวัน: ตลาดวัสดุขัดถูโตแตะ 7,2200 ล้านดอลลาร์จากความต้องการงานความแม่นยำสูง, เทคโนโลยีหุ่นยนต์ขัดครีบชิ้นส่วนรถยนต์ และปัญหาอุตสาหกรรมเหล็กโลกที่เผชิญภาวะล้นตลาด"
       },
       "items": [
         {
           "id": "20261125-w1",
-          "tag": "steel",
+          "tag": "abrasive",
           "rating": "green",
-          "source": "The Detroit News",
-          "date": "2026-11-24",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOV2NSZkoweU9KLXZTdElkem9ZNTN5dVlkajVoZ2FTSGNzd0pEalFya0Z3NlBuTUNxUmoxUFB5elI0ZU5iYUtWUDNjbHFLdU4wZHFzLXFmN0hCNlp3VzRkdlNhLVVZbWJUcWFhTjlUZHZ4X0R3SUZOOGxCcmdPS2lZd0lHRk9sRF94YjZNSlktSHhJQ0Vycm5EZ1lzZlRwZ2Z1dGdZc1ItTzRyT0tQSklhV1luRmdvbDdLUkRidGN0a1FVQkRIZ0R2cklmUQ?oc=5",
-          "title": "Metal Surface Finishing Suppliers: A Ranked Comparison of Ten Global Players",
-          "summary": "A comprehensive comparison evaluates ten global leaders in metal surface finishing, highlighting capabilities and competitive positioning in the industrial market.",
-          "why": "Understanding who leads the global surface finishing supply chain helps us benchmark product quality and identify advanced finishing techniques used by top players.",
-          "action": "Review the ranked finishing suppliers to identify emerging technical standards in global metal processing.",
+          "source": "EIN News",
+          "date": "2026-10-19",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM2VsRTlqVWR6dlpoUXpZQ04wNnJsRUNBbndKSnNQODIyUXdnTTlIT0hZMC10bGhEUUk0clZ5ZWZRN0I2eVhiVHVPVmRYd05xWUdJdDJldTBsTkZEUVNBNG5qaE9WeXdDN2dSVzJ2TzNsVFhBNVMzakhwZFR6Z0dQeFFVS0ZPa0dmWmh1dHhiYXVXWWRrbk9XS251Ul9SVS1SZ3NON0VXRWxfOWtzazlNcXhUMVBnU2liODhqaXF6OEdGb2NEYkRoaG9uNmx6MlNjMUd2N3Q0emZnUXltZk1wbg?oc=5",
+          "title": "Abrasives Market to Reach $72.2 Billion by 2030, Growing at a 7.6% CAGR Driven by Precision Finishing Demand",
+          "summary": "The global abrasives market is projected to hit $72.2 billion by 2030, expanding at a robust 7.6% CAGR propelled by increasing requirements for high-precision surface finishing.",
+          "why": "Confirms strong long-term macroeconomic tailwinds for our core business, particularly in high-tolerance industrial applications.",
+          "action": "Align our product catalog with high-precision finishing requirements to capture growing high-end demand.",
           "th": {
-            "title": "ซัพพลายเออร์ด้านการตกแต่งพื้นผิวโลหะ: การเปรียบเทียบอันดับ 10 ผู้เล่นระดับโลก",
-            "summary": "บทความเปรียบเทียบเชิงลึกเกี่ยวกับผู้นำระดับโลก 10 รายด้านการตกแต่งพื้นผิวโลหะ พร้อมเน้นย้ำถึงขีดความสามารถและตำแหน่งทางการแข่งขันในตลาดอุตสาหกรรม",
-            "why": "การทำความเข้าใจผู้นำในห่วงโซ่อุปทานการตกแต่งพื้นผิวระดับโลกช่วยให้เราสามารถเปรียบเทียบคุณภาพสินค้าและเทคนิคการขัดขั้นสูงที่ผู้เล่นระดับนำใช้งาน",
-            "action": "ศึกษาอันดับซัพพลายเออร์งานขัดและตกแต่งผิวเพื่อระบุมาตรฐานทางเทคนิคใหม่ๆ ในกระบวนการแปรรูปโลหะระดับโลก"
+            "title": "ตลาดวัสดุขัดถูพุ่งแตะ 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 โต 7.6% ต่อปี หนุนโดยงานผิวสำเร็จความแม่นยำสูง",
+            "summary": "ตลาดวัสดุขัดถูทั่วโลกคาดว่าจะเติบโตถึง 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 ขับเคลื่อนด้วยความต้องการงานตกแต่งพื้นผิวที่มีความแม่นยำสูง",
+            "why": "ยืนยันแนวโน้มการเติบโตในระยะยาวที่ดีเยี่ยมสำหรับธุรกิจหลักของเรา โดยเฉพาะในกลุ่มงานอุตสาหกรรมที่ต้องการความแม่นยำ",
+            "action": "ปรับปรุงกลุ่มสินค้าให้ตอบโจทย์งานขัดความแม่นยำสูงเพื่อคว้าโอกาสจากตลาดพรีเมียมที่กำลังขยายตัว"
           }
         },
         {
           "id": "20261125-w2",
           "tag": "auto",
-          "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-11-06",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPU0NJV1VEcllWeWRPU21VOHlULVpnYWR2ZXVmMk5QSHVZNHFYRC1nN2hlUnJ5VmdXNl9LWmRPTmR2X1lzRlBqcl8tOTZxdE9pNkVTRG14R2NpRHIxNTQ2S2NWcGxQeGF5bWxHdGFxWEN5em12c09Wb1piMnlUejBGc08xemxCQjZUd0llY2k4MmxfVUlkaHlIN21FQ1RPeVl2a3YyZ1BZSE4zeVhHWUVFemF6R3ZyR0lLa0lEMUY1R0k3T0ZlblpKZUFKVEFYV3ZDYlZNQTZYSDRYVjRvSjVLSkE2RTlzdl9tNEctT2JWblVNYndVZnNJeg?oc=5",
-          "title": "Register now: Smart factory trends and lessons for 2027: Flexibility, AI and global competitiveness",
-          "summary": "Industry experts outline key smart factory trends focusing on manufacturing flexibility, AI integration, and maintaining global competitiveness heading into 2027.",
-          "why": "Automotive and industrial factories are shifting toward flexible, AI-driven automation, which changes how they procure consumable tooling like abrasives.",
-          "action": "Anticipate higher demand for consistent, automation-friendly abrasive products suited for robotic grinding cells.",
+          "rating": "green",
+          "source": "IndexBox",
+          "date": "2026-11-14",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMXRjNVNGMllObGVPVGRPQ05TTDlxUEQ3V0xRWFItTHFyRVo4UWpyaGphUzQ0Slg1ZkRqNHdXSUJLUzhONEZTNmdwMjhaQ1c4bkdlQlllVjZKdFRKNDZVY19CZ2ZaMm9Fdkl3Q1lESmRUNVJsOXRmNU5JbnRmWWp6NnpNSWV2LVNhdmlYME1XbVJ2a1BkdUdVVHZ0RzF2QjdObnpLdzZkTmhxQ3d4S0lkWXVlOWx4ZlJnU2pqZndnWVlqUURteDI3X2FaRzQ?oc=5",
+          "title": "Robot Deburring Tools Market To 2035: Automotive Casting Quality Drives Forward Growth",
+          "summary": "The market for robotic deburring tools is growing rapidly, driven by strict automotive casting quality standards and automated manufacturing plants.",
+          "why": "Automated deburring and robotic surface prep require specialized, durable abrasive tools built for machine integration rather than manual use.",
+          "action": "Explore partnerships or product lines suited for automated robotic grinding and deburring cells in factories.",
           "th": {
-            "title": "เปิดลงทะเบียน: เทรนด์โรงงานอัจฉริยะและบทเรียนสำหรับปี 2027: ความยืดหยุ่น AI และความสามารถในการแข่งขันระดับโลก",
-            "summary": "ผู้เชี่ยวชาญในอุตสาหกรรมระบุเทรนด์หลักของโรงงานอัจฉริยะ โดยเน้นความยืดหยุ่นในการผลิต การบูรณาการ AI และการรักษาความสามารถในการแข่งขันระดับโลกมุ่งสู่ปี 2027",
-            "why": "โรงงานในอุตสาหกรรมยานยนต์และอุตสาหกรรมทั่วไปกำลังเปลี่ยนผ่านสู่ระบบอัตโนมัติที่ขับเคลื่อนด้วย AI ซึ่งเปลี่ยนพฤติกรรมการจัดซื้อเครื่องมือสิ้นเปลืองเช่นกระดาษทรายและหินเจียร",
-            "action": "เตรียมรับมือกับความต้องการสินค้ากลุ่มวัสดุขัดที่ได้มาตรฐานสม่ำเสมอและรองรับระบบอัตโนมัติหรือแขนกลหุ่นยนต์เพิ่มมากขึ้น"
+            "title": "ตลาดเครื่องมือขัดครีบด้วยหุ่นยนต์ถึงปี 2035: คุณภาพงานหล่อรถยนต์ขับเคลื่อนการเติบโต",
+            "summary": "ตลาดเครื่องมือขัดครีบอัตโนมัติเติบโตอย่างรวดเร็ว จากมาตรฐานคุณภาพชิ้นส่วนหล่อรถยนต์ที่เข้มงวดและโรงงานอัจฉริยะ",
+            "why": "งานขัดครีบและเตรียมพื้นผิวด้วยหุ่นยนต์ต้องการวัสดุขัดที่มีความทนทานสูงและออกแบบมาเพื่อใช้งานกับเครื่องจักรโดยเฉพาะ",
+            "action": "ศึกษาหาลู่ทางจัดจำหน่ายสินค้าที่รองรับระบบงานขัดอัตโนมัติของโรงงานอุตสาหกรรม"
           }
         },
         {
           "id": "20261125-w3",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "IEA - International Energy Agency",
-          "date": "2026-05-20",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBdlRidlFWTllkZFUwX0tURmp4UmxwenFiRk5tT29WQndpN0xVbU55TV9VRGFJaFBGMm1weTZyczc5MjJ5aDZDVlhqSnh6Mk5EMV84UE0wWk1JWXFjWGpfY0EwN2JXcjZuckx0dVJ1LWFFTjU5bnpSc1lPek1SMWc?oc=5",
-          "title": "Manufacturing and trade - Global EV Outlook 2026",
-          "summary": "The IEA's Global EV Outlook highlights the shifting landscapes of electric vehicle manufacturing, global supply chains, and international trade dynamics.",
-          "why": "EV production structures dictate metal casting, body frame stamping, and component finishing requirements, directly influencing high-end abrasive consumption.",
-          "action": "Monitor EV manufacturing hubs to spot shifting regional demand for metal preparation and deburring supplies.",
+          "tag": "steel",
+          "rating": "green",
+          "source": "S&P Global",
+          "date": "2026-01-12",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2dWZXlTOFZfOHJFLXpFNlJrbExESXByZC1xMjZWUmdKWHI2MXdYemRLcVpjc0psLVRDZkVWb3ZkczVSeVBqZTNGYmkyTjZ2V3kzdk85WlNra3ZzVTFTT0JRbmVZNzByVWF2RHpXUHVsNEoycFJfVzRCYXVWYkN4cm1VN3IzcmN2d3RaaHVER1d6dE1BVkx3Q19uSWhFUVdpekZHWWNWV3IzVDNuQVl5RjZHcWhRa1ltLVZvUWk2bHg5S3Z1bkZONVNaR3F4Zw?oc=5",
+          "title": "Global steel industry battles surplus supply, protectionism",
+          "summary": "The international steel sector continues to face oversupply challenges and rising trade protectionism, forcing producers to rethink output and operational costs.",
+          "why": "Steel production volume directly impacts metal fabrication activity and the baseline demand for industrial grinding and cut-off wheels.",
+          "action": "Monitor metal fabrication client output closely to adjust abrasive inventory levels accordingly.",
           "th": {
-            "title": "การผลิตและการค้า - รายงานแนวโน้มรถยนต์ไฟฟ้าโลกปี 2026",
-            "summary": "รายงานแนวโน้ม EV โลกจาก IEA เผยภาพความเปลี่ยนแปลงของการผลิตรถยนต์ไฟฟ้า ห่วงโซ่อุปทานระดับโลก และพลวัตการค้าระหว่างประเทศ",
-            "why": "โครงสร้างการผลิต EV เป็นตัวกำหนดความต้องการในการหล่อโลหะ การปั๊มขึ้นรูปโครงรถ และการตกแต่งชิ้นส่วน ซึ่งส่งผลโดยตรงต่อการใช้วัสดุขัดเกรดสูง",
-            "action": "ติดตามศูนย์กลางการผลิต EV เพื่อมองหาความต้องการใหม่ๆ ในระดับภูมิภาคสำหรับสินค้าเตรียมผิวโลหะและงานลบคม"
+            "title": "อุตสาหกรรมเหล็กโลกเผชิญศึกหนักจากภาวะล้นตลาดและมาตรการกีดกันทางการค้า",
+            "summary": "ภาคอุตสาหกรรมเหล็กสากลยังคงเผชิญกับปัญหาซัพพลายล้นตลาดและการปกป้องทางการค้าที่สูงขึ้น ส่งผลให้ผู้ผลิตต้องปรับแผนการผลิตและต้นทุน",
+            "why": "ปริมาณการผลิตเหล็กส่งผลโดยตรงต่อกิจกรรมการแปรรูปโลหะและความต้องการใช้งานใบตัดใบเจียรในอุตสาหกรรม",
+            "action": "ติดตามปริมาณงานของลูกค้ากลุ่มแปรรูปโลหะอย่างใกล้ชิดเพื่อบริหารสต็อกสินค้าให้สอดคล้องกัน"
           }
         }
       ]
