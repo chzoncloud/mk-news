@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-11-25",
+  "updated": "2026-11-26",
   "days": [
+    {
+      "date": "2026-11-26",
+      "summary": "Today's briefing highlights global shifts in automotive manufacturing, particularly China's EV market evolution emphasizing innovation over price cuts, alongside industrial developments in metal casting and industrial coatings growth.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปประเด็นข่าววันนี้เน้นการเปลี่ยนแปลงระดับโลกในอุตสาหกรรมการผลิตยานยนต์ โดยเฉพาะตลาด EV ของจีนที่เน้นนวัตกรรมมากกว่าการลดราคา ควบคู่ไปกับการพัฒนาในอุตสาหกรรมการหล่อโลหะและการเติบโตของสีเคลือบอุตสาหกรรม"
+      },
+      "items": [
+        {
+          "id": "20261126-w1",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2025-10-15",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU1ZfWl9XM09kcWJoajJKYmMtRS1tVjlUUjdQMG5VOEpuTnJSYzRqUmZHNjRWZDdCaVlPYmI1SHBzTXBmbjNFS2hQR3pxeG1pRmU0NnNrN3lFU3JQWkhzQ3F2UFQ0Z1p2akFsbmF2dHZLSTNvZkg5Qzl0b0hkYm1Bb3BYV3VDdDBkazRvNTRWcnNuUEVDV1lMUGljZkQyZm05N0p6Z2UwdWhZV1l0YnhYLXNvRlBlZGRQ?oc=5",
+          "title": "China's EV market shift: Innovation beats price cuts",
+          "summary": "Chinese electric vehicle manufacturers are shifting strategies from aggressive price wars toward advanced product innovation and higher manufacturing quality standards.",
+          "why": "Higher manufacturing quality and product innovation in EVs mean stricter surface finish requirements for body panels, lightweight frames, and interior components.",
+          "action": "Monitor high-precision finishing requirements for next-generation EV parts.",
+          "th": {
+            "title": "การเปลี่ยนผ่านของตลาด EV ในจีน: นวัตกรรมเหนือสงครามราคา",
+            "summary": "ผู้ผลิตรถยนต์ไฟฟ้าในจีนกำลังเปลี่ยนกลยุทธ์จากการทำสงครามราคาดุเดือด ไปสู่การพัฒนานวัตกรรมผลิตภัณฑ์ขั้นสูงและมาตรฐานคุณภาพการผลิตที่สูงขึ้น",
+            "why": "คุณภาพการผลิตและนวัตกรรมที่สูงขึ้นในรถยนต์ EV หมายถึงข้อกำหนดด้านการตกแต่งพื้นผิวที่เข้มงวดขึ้นสำหรับชิ้นส่วนตัวถัง โครงสร้างน้ำหนักเบา และชิ้นส่วนภายใน",
+            "action": "ติดตามความต้องการด้านการขัดแต่งความแม่นยำสูงสำหรับชิ้นส่วน EV รุ่นใหม่"
+          }
+        },
+        {
+          "id": "20261126-w2",
+          "tag": "steel",
+          "rating": "green",
+          "source": "Fortune Business Insights",
+          "date": "2026-11-02",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kYlp3TXBwdU5JVl9Gc0pFd3lJSFpjSUhLeEFGOVZVS19BbHBoTFNGb1BFOC1UNEN4c1o0c2xjdTFZYXhVdGRVb0dIeXZqakt1bTJkQy10SC0wRlh0RVVBZHZaWDFYbDk3cHdUbXBsYnRyYTlFVEE?oc=5",
+          "title": "Metal Casting Market Growth Analysis & Industry Forecast, 2034",
+          "summary": "The global metal casting market is projected for steady expansion, driven by demand from automotive, aerospace, and general industrial sectors.",
+          "why": "Metal casting processes generate substantial burrs, rough surfaces, and flashings, creating continuous demand for grinding wheels, abrasive belts, and deburring tools.",
+          "action": "Ensure strong stock availability of heavy-duty grinding and deburring abrasives for foundries.",
+          "th": {
+            "title": "การวิเคราะห์การเติบโตของตลาดการหล่อโลหะและการคาดการณ์อุตสาหกรรมถึงปี 2034",
+            "summary": "ตลาดการหล่อโลหะทั่วโลกคาดว่าจะเติบโตอย่างต่อเนื่อง ขับเคลื่อนโดยความต้องการจากภาคยานยนต์ อากาศยาน และอุตสาหกรรมทั่วไป",
+            "why": "กระบวนการหล่อโลหะทำให้เกิดครีบส่วนเกิน พื้นผิวขรุขระ และรอยต่อ ซึ่งสร้างความต้องการใช้อย่างต่อเนื่องสำหรับล้อเจียร สายพานขัด และเครื่องมือลบคม",
+            "action": "ตรวจสอบสต็อกสินค้ากลุ่มล้อเจียรและอุปกรณ์ลบคมสำหรับงานหล่อโลหะให้เพียงพอ"
+          }
+        },
+        {
+          "id": "20261126-w3",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "Precedence Research",
+          "date": "2020-08-05",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mTzdaZ0FCMS01d2xsN0RxaVZ0RTNGdGhLN2luSzNZY2pTdUI3Q1A5OEVQLUo3cjBNazBoRGU1T0VkQWo5Z3FOVk1aNjZ1SDhPbmFUa3Zrc2FtaFEwYzA4ZVdfVFh3OHlaUk1RR09R?oc=5",
+          "title": "Industrial Coatings Market Companies, Size & Trends 2026-2035",
+          "summary": "The industrial coatings market continues to evolve with a focus on advanced surface protection, durability, and environmentally friendly coating technologies.",
+          "why": "Industrial coatings require precise surface preparation, sanding, and profiling of substrates to ensure proper adhesion and finish quality.",
+          "action": "Align surface preparation abrasives with primer and coating prep requirements.",
+          "th": {
+            "title": "บริษัท ขนาด และแนวโน้มตลาดสีเคลือบอุตสาหกรรม 2026-2035",
+            "summary": "ตลาดสีเคลือบอุตสาหกรรมยังคงพัฒนาอย่างต่อเนื่องโดยเน้นที่การป้องกันพื้นผิวขั้นสูง ความทนทาน และเทคโนโลยีการเคลือบที่เป็นมิตรต่อสิ่งแวดล้อม",
+            "why": "สีเคลือบอุตสาหกรรมจำเป็นต้องมีการเตรียมพื้นผิว การขัดกระดาษทราย และการปรับสภาพผิวชิ้นงานที่แม่นยำ เพื่อให้มั่นใจในเรื่องการยึดเกาะและคุณภาพของผิวเคลือบ",
+            "action": "จับคู่ผลิตภัณฑ์กระดาษทรายเตรียมพื้นผิวให้สอดคล้องกับข้อกำหนดในการเตรียมงานพ่นสีและเคลือบ"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-11-25",
       "summary": "Today's global briefing highlights specialized metal finishing rankings and technical developments in surface preparation for stone, glass, and ceramics, alongside ongoing shifts in global steel markets.",
@@ -866,70 +930,6 @@ window.WORLD_ARCHIVE = {
             "summary": "อุตสาหกรรมสีและสารเคลือบกำลังพัฒนาผ่านโครงการริเริ่มด้านความยั่งยืน การบูรณาการดิจิทัล และเทคโนโลยีปกป้องพื้นผิว",
             "why": "นวัตกรรมสารเคลือบมีผลโดยตรงต่อวิธีการเตรียมพื้นผิวโลหะและไม้ก่อนพ่น รวมถึงการขัดแต่งหลังเคลือบ",
             "action": "ติดตามสารเคลือบประสิทธิภาพสูงรุ่นใหม่ๆ ที่อาจต้องใช้เทคนิคการเตรียมพื้นผิวแบบพิเศษ"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-11-12",
-      "summary": "Today's intelligence focuses on the evolving polishing media and industrial abrasives markets driven by precision manufacturing, alongside steel sector pressures from carbon regulations like CBAM.",
-      "directCount": 3,
-      "th": {
-        "summary": "ข้อมูลเชิงลึกวันนี้มุ่งเน้นไปที่ตลาดวัสดุขัดเงาและ abrasives อุตสาหกรรมที่ขับเคลื่อนด้วยการผลิตที่มีความแม่นยำ ควบคู่ไปกับแรงกดดันในภาคเหล็กจากกฎระเบียบคาร์บอน CBAM"
-      },
-      "items": [
-        {
-          "id": "20261112-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-11-11",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdEJFdUVxZ1A4UDJQVEhmQ043cnlQNEExRzgzU3k4Q0dlVHJ2ZGlFYWQ3Vk5RLWZWZ1M2VVIzOHpIX3NCbEI1NE5WVTRkNXFGdlBfb0l4SlN1dEZqMzBoZUxMTGFHQjBUaWdhYk0xY1NNcnBMOU90aXE2Z1Bfa1hLOFVlbDEtNUNGZXM4SGpEV0h6YmZMQzVIMHhoQUMteGNqdnlVRWQ3TGVOMnIwU0VfUGVCMW1tb0JrR2Ixc1M5QQ?oc=5",
-          "title": "Polishing Media Market To 2035: Precision Manufacturing Demand Drives Growth",
-          "summary": "The global polishing media market is projected for steady growth up to 2035, heavily driven by increasing requirements in precision manufacturing.",
-          "why": "Directly impacts our core business area of surface finishing and polishing supplies for high-tech and industrial components.",
-          "action": "Monitor trends in precision polishing media to identify emerging product categories for our B2B catalog.",
-          "th": {
-            "title": "ตลาดสื่อขัดเงาถึงปี 2035: ความต้องการการผลิตที่แม่นยำขับเคลื่อนการเติบโต",
-            "summary": "ตลาดสื่อขัดเงาทั่วโลกคาดว่าจะเติบโตอย่างต่อเนื่องจนถึงปี 2035 ขับเคลื่อนโดยความต้องการที่เพิ่มขึ้นในการผลิตที่มีความแม่นยำสูง",
-            "why": "ส่งผลโดยตรงต่อธุรกิจหลักของเราในด้านผลิตภัณฑ์ตกแต่งพื้นผิวและขัดเงาสำหรับชิ้นส่วนไฮเทคและอุตสาหกรรม",
-            "action": "ติดตามแนวโน้มของสื่อขัดเงาที่มีความแม่นยำเพื่อระบุหมวดหมู่ผลิตภัณฑ์ใหม่สำหรับแคตตาล็อก B2B ของเรา"
-          }
-        },
-        {
-          "id": "20261112-w2",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "IndexBox",
-          "date": "2026-11-10",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONHdPZnJuT3k0blZHdldSaWJVaVE4QWhEemV2U216RjN3dE9GZ0dYN0otNFpEc0V6dGUtTUlrNkZlRV9ZdU5JY2w1UjliREJ1ME1BVW9NRlYxcElLYkdjSUtmSEFoRXR3SE5NTnFtci1fY19mOC1lSVdfcjdPSjdBUG9fZWhtYm9RdlphUmtUVFZBRWZKZTZmSnY3Nm43NEhXZWRpMkkyRlFFdGNKQVZLaUlRTWhkaXdsSWpQNm5QVEhZTTlMRGc?oc=5",
-          "title": "Ramming Mass Market Forecast to 2035: Steel Ladle Demand and Foundry Upgrades Drive Forward Growth",
-          "summary": "Demand for ramming mass is expanding due to steel ladle requirements and ongoing foundry modernizations worldwide.",
-          "why": "Foundries and steel mills are major end-users of heavy grinding and metal preparation tools.",
-          "action": "Keep an eye on foundry upgrade cycles as an indicator of heavy metal fabrication activity.",
-          "th": {
-            "title": "แนวโน้มตลาด Ramming Mass ถึงปี 2035: ความต้องการเหล็กหล่อและการอัปเกรดโรงหล่อขับเคลื่อนการเติบโต",
-            "summary": "ความต้องการวัสดุ Ramming mass กำลังขยายตัวเนื่องจากข้อกำหนดของทัพพีเหล็กและการปรับปรุงโรงหล่อทั่วโลก",
-            "why": "โรงหล่อและโรงงานเหล็กคือผู้ใช้รายใหญ่ของเครื่องมือเจียรหนักและการเตรียมผิวโลหะ",
-            "action": "จับตาดูรอบการอัปเกรดของโรงหล่อเพื่อใช้เป็นตัวชี้วัดกิจกรรมการผลิตโลหะหนัก"
-          }
-        },
-        {
-          "id": "20261112-w3",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "IndexBox",
-          "date": "2026-11-11",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYVJwVGx6OUpnSXNGRWlUZmNVWEF2X1hTbk9senZQWnZuOURQNlB0UDJNaWxLQjM0c1U5ZnJ1TzFua2pDLU9iU2NsS2ZFbENNWnhuSlNTTnkxVF9uSnJVRjNYVDhDbGhjTnJrUnNlY2ZXMjNJeVZwSjRJM0t5czRXRFJrdkJ3cUd1YjFJaU5nMEJDYS1yaUZfNEJLQ0kxQkxxRktRS2UtOFF2ZFRhXzl2Z0RfWUpKOE0wZE1rekpfTlloMnJMbEJfbVdR?oc=5",
-          "title": "Pickling Acids Market Forecast to 2035: Growth Driven by Steel Pickling Demand and Recycling Mandates",
-          "summary": "The pickling acids market is growing, sustained by steel surface treatment needs and stricter environmental recycling mandates.",
-          "why": "Steel pickling is a key preparatory step before metal surface finishing and coating applications.",
-          "action": "Understand how metal pretreatment shifts affect downstream abrasive cleaning and finishing demand.",
-          "th": {
-            "title": "การคาดการณ์ตลาดกรดดองเหล็กถึงปี 2035: เติบโตจากความต้องการดองเหล็กและข้อกำหนดรีไซเคิล",
-            "summary": "ตลาดกรดดองเหล็กกำลังเติบโต โดยได้รับแรงหนุนจากความต้องการในการบำบัดผิวเหล็กและข้อกำหนดด้านการรีไซเคิลสิ่งแวดล้อมที่เข้มงวดขึ้น",
-            "why": "กระบวนการดองเหล็กเป็นขั้นตอนเตรียมการสำคัญก่อนการเคลือบและการตกแต่งผิวโลหะ",
-            "action": "ทำความเข้าใจว่าการเปลี่ยนแปลงในการเตรียมผิวโลหะส่งผลต่อความต้องการขัดทำความสะอาดและตกแต่งผิวด้วยวัสดุขัดอย่างไร"
           }
         }
       ]
