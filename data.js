@@ -3,82 +3,64 @@ window.NEWS_ARCHIVE = {
   "days": [
     {
       "date": "2026-11-26",
-      "summary": "News flow is relatively light today. The standout development is the Thai government pivoting policies to support Japanese hybrid vehicles, sustaining mechanical parts fabrication and abrasive demand, while external trade risks emerge from potential U.S. tariffs.",
+      "summary": "Limited fresh news today as most major auto and steel stories were reported earlier this week. The government's pledge to safeguard local automotive parts suppliers provides stability for our core abrasive customer base amidst structural industrial transitions.",
       "directCount": 1,
       "th": {
-        "summary": "วันนี้มีข่าวใหม่ไม่มาก โดยมีประเด็นเด่นคือรัฐบาลปรับนโยบายสนับสนุนรถยนต์ไฮบริดเพื่อช่วยค่ายรถญี่ปุ่น ซึ่งจะช่วยพยุงการผลิตชิ้นส่วนกลไกและความต้องการใช้วัสดุขัด ในขณะที่เริ่มมีความเสี่ยงด้านการค้าจากภาษีนำเข้าสหรัฐฯ"
+        "summary": "วันนี้มีข่าวใหม่ไม่มาก เนื่องจากประเด็นหลักด้านยานยนต์และเหล็กส่วนใหญ่ได้รับการรายงานไปแล้วในช่วงต้นสัปดาห์ จุดเด่นอยู่ที่คำยืนยันของรัฐบาลในการปกป้องผู้ผลิตชิ้นส่วนยานยนต์ในประเทศ ซึ่งช่วยสร้างความมั่นคงให้กับฐานลูกค้าวัสดุขัดหลักของเราท่ามกลางช่วงเปลี่ยนผ่านของอุตสาหกรรม"
       },
       "items": [
         {
           "id": "20261126-1",
           "tag": "auto",
           "rating": "green",
-          "source": "Thansettakij",
+          "source": "bangkokbiznews",
           "date": "2026-11-25",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UQTZORjhVcGVwRVdaRkJGYVZ5TVNsLW9zWHNiTG1nTEdYeU1yRy1hTEhFRy0xYzRON3ZFMllvTXNLcGR3di1VMnRma2Y3c1B3WmR3LUNFUDdWdk0?oc=5",
-          "title": "Thai Government Pivots EV Policy to Support Japanese Hybrids, Prompting New Toyota and Honda Investments",
-          "summary": "The government is recalibrating vehicle incentives to accommodate hybrid electric vehicles (HEVs), leading major Japanese automakers like Toyota and Honda to initiate fresh manufacturing investments in Thailand.",
-          "why": "Hybrids retain internal combustion engines and intricate transmissions, protecting high-volume metal cutting, deburring, and abrasive finishing demands in Japanese parts supply chains.",
-          "action": "Target Japanese Tier-1 and Tier-2 powertrain and metal stamping suppliers currently expanding production for new hybrid model lines.",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vYzNEQVdrd1k3TV91MzdyLTVrbXI4dTQyNkxyLU8td01xTkRKRnNVMUNnb2FQNTRZaFRadlo5M1N1bjBOTGJrVUF2d25UT3g5d0YwSGhhV1lheV9K?oc=5",
+          "title": "Government Pledges Protection for Domestic Automotive Parts Supply Chain and Jobs",
+          "summary": "Deputy PM Anutin reaffirmed that the government will actively support local auto parts manufacturers to protect Thailand's manufacturing footprint and domestic workforce during the EV transition.",
+          "why": "Sustaining Tier-1 and Tier-2 auto parts makers directly protects MK's largest customer segment for metal grinding, deburring, and surface finishing abrasives.",
+          "action": "Maintain close engagement with existing Japanese Tier-1 auto parts accounts to reaffirm supply stability and offer cost-saving abrasive solutions.",
           "th": {
-            "title": "รัฐบาลปรับหมาก EV เอื้อไฮบริดญี่ปุ่น โตโยต้า-ฮอนด้า ลุยลงทุนใหม่",
-            "summary": "รัฐบาลปรับโครงสร้างส่งเสริมยานยนต์โดยหันมาสนับสนุนกลุ่มรถยนต์ไฮบริด (HEV) ส่งผลให้ค่ายรถยนต์ญี่ปุ่นรายใหญ่อย่างโตโยต้าและฮอนด้าเตรียมขยายการลงทุนในสายการผลิตที่ไทยต่อเนื่อง",
-            "why": "รถยนต์ไฮบริดยังคงต้องใช้เครื่องยนต์และระบบส่งกำลังโลหะ ช่วยรักษาปริมาณการใช้หินเจียร จานขัด และสายพานขัดในซัพพลายเชนญี่ปุ่นไม่ให้หดตัวลงอย่างรวดเร็วเหมือนกรณี EV ล้วน",
-            "action": "เร่งจัดทีมขายเข้าพบโรงงาน Tier-1 และ Tier-2 ค่ายญี่ปุ่นในกลุ่มเครื่องยนต์และชิ้นส่วนปั๊มขึ้นรูปที่กำลังเตรียมสายการผลิตสำหรับรถยนต์ไฮบริด"
+            "title": "รัฐบาลยันไม่ทิ้งอุตสาหกรรมยานยนต์ไทย มุ่งรักษาฐานผลิตชิ้นส่วนและการจ้างงาน",
+            "summary": "นายกฯ อนุทิน ยืนยันรัฐบาลพร้อมสนับสนุนผู้ผลิตชิ้นส่วนยานยนต์ในประเทศ เพื่อรักษาฐานการผลิตและการจ้างงานในไทยท่ามกลางการเปลี่ยนผ่านสู่ยานยนต์ไฟฟ้า",
+            "why": "การรักษาผู้ผลิตชิ้นส่วนยานยนต์ Tier-1 และ Tier-2 ในประเทศช่วยปกป้องฐานลูกค้ากลุ่มใหญ่ที่สุดของ MK ที่ใช้วัสดุขัดสำหรับงานเจียร ลบครีบ และเตรียมผิวโลหะ",
+            "action": "รักษาการติดต่ออย่างใกล้ชิดกับลูกค้าชิ้นส่วนยานยนต์ญี่ปุ่น Tier-1 เพื่อสร้างความมั่นใจในห่วงโซ่อุปทานพร้อมนำเสนอโซลูชันวัสดุขัดที่ช่วยลดต้นทุน"
           }
         },
         {
           "id": "20261126-2",
-          "tag": "steel",
+          "tag": "auto",
           "rating": "amber",
-          "source": "Thansettakij",
-          "date": "2026-11-26",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kNk9oT3VBcDNxQXZIbkxxRmw3cjB4MU15NGxDZ2UyMENVRmhHVFBpRnJmdTFqV19DRWpPcGl3eDZpSG1YVy04OW5wQ3FSMGhUWWRXbEdB?oc=5",
-          "title": "USTR Report Signals Looming U.S. Tariff Hikes of Up to 18% on Thai Exports",
-          "summary": "A newly analyzed USTR report highlights trade imbalance concerns that could expose Thai manufactured goods to punitive U.S. import tariffs reaching up to 18%.",
-          "why": "Higher export tariffs threaten production volumes at export-focused Thai metal fabricators and automotive suppliers, potentially dampening plant-level abrasive usage.",
-          "action": "Audit our portfolio of export-oriented metalworking customers and prepare value-tier abrasive lines to assist them in managing operational costs.",
+          "source": "THE BETTER",
+          "date": "2026-11-24",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84NmVsejZxVjhIWmhwN3ZNRWhiS1F2SVhJeDJub3ZiQTFkOXVXSnBoX1R4SUNKY3hFZE1QM3lyaXRfT2xhcG1yWFdTVk94Q1RiclR5cUszTmdfUEE?oc=5",
+          "title": "Thai Automotive Industry Reaches Critical Crossroads Amid Restructuring Pressures",
+          "summary": "Industry analysts warn that Thailand's automotive ecosystem must overhaul manufacturing capabilities to prevent losing production bases to regional competitors as global vehicle architectures shift.",
+          "why": "Structural transitions push metalworking factories to either upgrade precision grinding processes for EV/hybrid components or risk closure, shifting abrasive demand toward higher-precision grades.",
+          "action": "Introduce high-grit finishing films and precision grinding wheels targeted at suppliers retooling for hybrid and EV powertrain assemblies.",
           "th": {
-            "title": "เจาะรายงาน USTR: เบื้องหลังสหรัฐฯ จ่อขึ้นภาษีสินค้าไทยสูงสุด 18%",
-            "summary": "รายงานเชิงลึกของ USTR ชี้ให้เห็นความเสี่ยงที่สินค้าส่งออกจากไทยอาจเผชิญกำแพงภาษีจากสหรัฐฯ สูงสุดถึง 18% จากประเด็นความไม่สมดุลทางการค้าและการตรวจสอบแหล่งกำเนิดสินค้า",
-            "why": "ภาษีนำเข้าที่สูงขึ้นอาจกระทบยอดผลิตของผู้ผลิตชิ้นส่วนโลหะและยานยนต์เพื่อการส่งออก ส่งผลทางอ้อมให้โรงงานเหล่านี้ต้องควบคุมต้นทุนและลดการใช้วัสดุขัดสิ้นเปลือง",
-            "action": "ตรวจสอบรายชื่อลูกค้ากลุ่มแปรรูปโลหะที่เน้นส่งออกสหรัฐฯ พร้อมนำเสนอสินค้าวัสดุขัดกลุ่มที่เน้นความคุ้มค่าด้านราคาเพื่อช่วยโรงงานประหยัดต้นทุน"
+            "title": "ยานยนต์ไทยถึงทางแยก เร่งยกเครื่องกระบวนการผลิตก่อนเสียฐานการผลิตในภูมิภาค",
+            "summary": "นักวิเคราะห์เตือนระบบนิเวศยานยนต์ไทยจำเป็นต้องเร่งยกเครื่องขีดความสามารถการผลิตเพื่อป้องกันการสูญเสียฐานการผลิตให้คู่แข่งในภูมิภาคตามทิศทางยานยนต์โลก",
+            "why": "การปรับโครงสร้างบีบให้โรงงานแปรรูปโลหะต้องยกระดับงานขัดเจียรความแม่นยำสูงสำหรับชิ้นส่วนไฮบริด/EV หรือเสี่ยงปิดตัว ส่งผลให้ความต้องการขยับสู่วัสดุขัดเกรดพรีเมียม",
+            "action": "นำเสนอฟิล์มขัดละเอียดและหินเจียรความแม่นยำสูงให้แก่กลุ่มโรงงานที่กำลังปรับสายการผลิตสำหรับชิ้นส่วนระบบส่งกำลังไฮบริดและ EV"
           }
         },
         {
           "id": "20261126-3",
           "tag": "steel",
           "rating": "amber",
-          "source": "เดลินิวส์",
-          "date": "2026-09-25",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4a1pPNWdwN2tnQnhGMnNoaUpZYnJJbzhLaHNWWkJQNFF6YllrakFyWDlXOC1KTFRtU01OWmdxRmRQOXVoQUNCaXNDQjF3VERtMXdr?oc=5",
-          "title": "Ten Steel Associations Urge Ministry to Mandate Rebar Standards Against Import Surge",
-          "summary": "Ten Thai steel industry associations petitioned the Ministry of Industry to swiftly enforce mandatory TIS standards on rebar to halt surging substandard foreign imports.",
-          "why": "Safeguarding standardized domestic rolling mills and fabricators stabilizes capacity utilization among heavy cutting and grinding abrasive consumers.",
-          "action": "Engage compliant domestic structural steel mills and rebar processors with bulk commercial terms on heavy-duty cutoff wheels and grinding discs.",
+          "source": "Policy Watch",
+          "date": "2026-11-10",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VWmVLbmlkZW1CRGdoLWM0OWZSaUJlU1RzT2hMR2pOYk55V3JLemhRTWlmU1pqU1l0SThEX0dLMGowSHhEd21GSVdLUDZmR2tUMjIxZkw2ZmNNVGxpdEltNEF0ZC0xVm1w?oc=5",
+          "title": "Environmental Crackdown Hits Prachinburi Steel Smelters Over Hazardous Red Dust",
+          "summary": "Regulators and local authorities are intensifying inspections and enforcement actions against non-compliant steel recycling mills in Prachinburi causing severe red dust pollution and toxic waste leaks.",
+          "why": "Heightened regulatory pressure risks temporary shutdowns of secondary steel smelters while shifting metal processing business toward certified, legally compliant fabrication mills.",
+          "action": "Audit industrial accounts in Prachinburi and Eastern Seaboard, shifting sales focus toward fully compliant, certified steel and metal fabrication facilities.",
           "th": {
-            "title": "10 สมาคมเหล็กพบ ก.อุตฯ จี้บังคับใช้ มอก. เหล็กเส้น สกัดสินค้านำเข้าทะลัก",
-            "summary": "10 สมาคมผู้ผลิตเหล็กเข้าพบกระทรวงอุตสาหกรรม เรียกร้องให้ออกและบังคับใช้มาตรฐาน มอก. เหล็กเส้นอย่างเร่งด่วนเพื่อสกัดกั้นเหล็กนำเข้าราคาถูกที่กำลังไหลเข้าประเทศ",
-            "why": "การปกป้องโรงงานรีดและแปรรูปเหล็กมาตรฐานในประเทศช่วยรักษาฐานการผลิต ไม่ให้โรงงานลูกค้าที่ต้องใช้ใบตัดและใบเจียรเหล็กต้องลดรอบการทำงานลง",
-            "action": "เร่งเจาะกลุ่มโรงงานผลิตโครงสร้างเหล็กและผู้แปรรูปเหล็กเส้นมาตรฐานในไทย พร้อมเสนอโปรโมชันสำหรับใบตัดและใบเจียรเกรดงานหนัก"
-          }
-        },
-        {
-          "id": "20261126-4",
-          "tag": "furniture",
-          "rating": "amber",
-          "source": "kasikornbank.com",
-          "date": "2025-10-09",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR0I3LUFaeENxbzdDQVF4UDdVMFlmRWp4Y3BBdFZ6OGFQeUdZZ3Y5dHA5Q2ZxRXJIaTUtLVNVY29QM3RuSk1RMmpaeXhucHEwLWRiMFlsbkJRNEtYY3RWSDZNNXRBUXdfb0hDV0IzR1pkRW5ERC1xSkQtN21WZTVveUNtdURRYmN3QjQxUDRHS2g1dDNkSGdRVVJGU2tBNGJ3WDREcGh1N2VrdnN6MExB?oc=5",
-          "title": "Thai Furniture Exports Projected to Contract 4.5% After Tariff Front-Loading Cycle",
-          "summary": "Research indicates Thai furniture exports will contract by 4.5% once temporary front-loading demand from U.S. buyers subsides.",
-          "why": "A contraction in export furniture manufacturing softens industrial consumption of wide sanding belts and disc abrasives in woodworking factories.",
-          "action": "Rebalance industrial wood abrasive stock and expand retail-pack sanding paper sales across Shopee and TikTok to capture growing DIY home workshop demand.",
-          "th": {
-            "title": "ส่งออกเฟอร์นิเจอร์ไทยจ่อหดตัว 4.5% หลังหมดรอบเร่งนำเข้าสต็อกสหรัฐฯ",
-            "summary": "ศูนย์วิจัยกสิกรไทยคาดการณ์ว่าการส่งออกเฟอร์นิเจอร์ของไทยจะพลิกกลับมาหดตัว 4.5% หลังผ่านพ้นช่วงที่ผู้ซื้อในสหรัฐฯ เร่งสต็อกสินค้าล่วงหน้า",
-            "why": "การชะลอตัวของโรงงานเฟอร์นิเจอร์ส่งออกจะทำให้ยอดการสั่งซื้อกระดาษทรายสายพานและจานขัดงานไม้ในโรงงานขนาดใหญ่ซบเซาลงตามกำลังการผลิต",
-            "action": "ปรับการสต็อกสายพานขัดงานไม้ให้กระชับขึ้น พร้อมผลักดันกระดาษทรายขัดไม้แบบแพ็กย่อยเจาะตลาดช่างและงาน DIY บน Shopee และ TikTok เพื่อเสริมรายได้"
+            "title": "ภาครัฐเดินหน้าตรวจสอบเข้มโรงหลอมเหล็กปราจีนบุรี ปมวิกฤตฝุ่นแดงและกากพิษ",
+            "summary": "หน่วยงานกำกับดูแลและท้องถิ่นยกระดับการตรวจสอบและบังคับใช้กฎหมายต่อโรงงานหลอมเศษเหล็กในปราจีนบุรีที่สร้างมลพิษฝุ่นแดงและการรั่วไหลของกากอุตสาหกรรม",
+            "why": "การคุมเข้มมลพิษอาจนำไปสู่การสั่งพักการผลิตของโรงหลอมเหล็กที่ไม่ได้มาตรฐาน และผลักดันยอดผลิตไปยังโรงงานแปรรูปเหล็กที่ได้มาตรฐานสิ่งแวดล้อม",
+            "action": "ตรวจสอบสถานะโรงงานลูกค้าในแถบปราจีนบุรีและอีสเทิร์นซีบอร์ด เพื่อมุ่งเน้นการขายให้กับโรงงานเหล็กและงานโลหะที่ได้มาตรฐานและปลอดภัยจากการถูกสั่งปิด"
           }
         }
       ],
