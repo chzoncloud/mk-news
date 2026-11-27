@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-11-27",
-      "summary": "Today's briefing highlights new technological innovations in steel production aiming to cut costs, shifting trends in advanced coatings and digital manufacturing, and evolving global EV market dynamics.",
+      "summary": "Today's briefing focuses on global manufacturing shifts, including stainless steel production forecasts, metal finishing supply chain comparisons, and smart factory trends for 2027.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปทิศทางโลกประจำวันนี้เน้นย้ำถึงนวัตกรรมใหม่ในการผลิตเหล็กเพื่อลดต้นทุน, แนวโน้มการเคลือบผิวขั้นสูงและการผลิตดิจิทัล รวมถึงพลวัตตลาด EV โลกที่กำลังเปลี่ยนแปลง"
+        "summary": "สรุปรายงานประจำวันนี้เน้นการเปลี่ยนแปลงในภาคการผลิตระดับโลก รวมถึงการคาดการณ์การผลิตสแตนเลส การเปรียบเทียบห่วงโซ่อุปทานการตกแต่งผิวโลหะ และเทรนด์โรงงานอัจฉริยะสำหรับปี 2027"
       },
       "items": [
         {
           "id": "20261127-w1",
           "tag": "steel",
           "rating": "amber",
-          "source": "S&P Global",
-          "date": "2026-03-31",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNdVZyZkhzLWJHVGdpaV9Fc1dkc3RPZnpnRXRMemNZRHJkRWxTZzN2WFpLSHJDQzJMdWNsMUE2b1JTVlNwZUVoT3hHay1LSXBHTmJ4ZDdhdTRqcFJnb1lFYmtPSzdqUlBkeVlqcERsZHNNZndMRlZIZjkyX2dYSEd4a2E1cHh5OXI5Y2NJcVVVMlpiMEl2bjVSWUw5MFlyQTdEQk1jR2VSekQ5d0xjcGpxSnA1T0xabWNNQmRQeS1la1NCYURrQV9HQWs0RFpPaEtZZE5PWGYxZGxPSlVoY1VjaERMa1Judk1Ma3hrNlNGeE4xdw?oc=5",
-          "title": "CERAWEEK INTERVIEW: New technology could cut steel production costs 20%, Hertha CEO says",
-          "summary": "New manufacturing technology developments aim to significantly reduce steel production costs by up to 20%, potentially altering global steel output and factory investments.",
-          "why": "Lower production costs and new steelmaking processes can drive changes in mill investments and demand for finishing and grinding consumables.",
-          "action": "Monitor how new steel manufacturing efficiencies affect customer purchasing power and plant modernization budgets.",
+          "source": "SteelOrbis",
+          "date": "2026-10-29",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOajN6bENva3ZfazkzX3oza09SSkVIbW00a1VuMHFSTlBLVVlFcGdUTDJud0JZNHNDdmw5Vm9TcFk1QlZtUUM1dXkxVmFmVEROZnZrVkpTQ2ZqZjZXNDYxNF9CMGJBb19XeVdIMktqSXY0aHlzYnNxMXd3OUd5V1VUWUJHamg0QnV6Y3ZsYS1nMWNyM1BzLURldEIyNk9TR1UyQ1ZIektrRmNIOVFkSlVJRXJCZUh6Y0F5QnZBc041V0kzT1k1ZmxHQ3RRSDE4dHF5LS1Oczk0UzBRODZkaEVHTEZnUDZwTVZ5QmFPdHMwcGRIYUtuV1U1TS1FbUJGRWc?oc=5",
+          "title": "BIR: Global stainless steel production expected to exceed 70 million mt in 2027 despite overcapacity concerns",
+          "summary": "Global stainless steel production is projected to surpass 70 million metric tons in 2027, driven by sustained demand despite ongoing overcapacity issues.",
+          "why": "Higher stainless steel production directly correlates with increased demand for grinding, deburring, and surface finishing abrasives.",
+          "action": "Prepare for stable to higher demand in stainless steel fabrication and stock up on specialized grinding belts and discs.",
           "th": {
-            "title": "บทสัมภาษณ์ CERAWEEK: เทคโนโลยีใหม่อาจช่วยลดต้นทุนการผลิตเหล็กได้ถึง 20% ตามที่ซีอีโอ Hertha กล่าว",
-            "summary": "การพัฒนาเทคโนโลยีการผลิตใหม่ๆ มีเป้าหมายเพื่อลดต้นทุนการผลิตเหล็ก5ลงสูงสุด 20% ซึ่งอาจเปลี่ยนแปรงปริมาณการผลิตเหล็กทั่วโลกและการลงทุนในโรงงาน",
-            "why": "ต้นทุนการผลิตที่ลดลงและกระบวนการทำเหล็กแบบใหม่อาจขับเคลื่อนการเปลี่ยนแปลงในการลงทุนของโรงรีดเหล็กและความต้องการใช้วัสดุขัดและเจียร",
-            "action": "ติดตามดูว่าประสิทธิภาพการผลิตเหล็กใหม่ๆ ส่งผลกระทบต่ออำนาจซื้อของลูกค้าและงบประมาณการปรับปรุงโรงงานอย่างไร"
+            "title": "BIR: คาดการณ์การผลิตสแตนเลสทั่วโลกจะเกิน 70 ล้านตันในปี 2027 แม้มีความกังวลเรื่องกำลังผลิตส่วนเกิน",
+            "summary": "การผลิตสแตนเลสทั่วโลกคาดว่าจะทะยานเกิน 70 ล้านตันในปี 2027 จากความต้องการที่ยังคงมีอยู่อย่างต่อเนื่อง",
+            "why": "ปริมาณการผลิตสแตนเลสที่เพิ่มขึ้นส่งผลโดยตรงต่อความต้องการใช้กระดาษทราย แผ่นเจียร และผลิตภัณฑ์ขัดผิว",
+            "action": "เตรียมพร้อมรับมือกับความต้องการในกลุ่มอุตสาหกรรมแปรรูปสแตนเลส และสำรองสินค้ากลุ่มใบเจียรและสายพานขัดให้พร้อม"
           }
         },
         {
           "id": "20261127-w2",
-          "tag": "coating",
+          "tag": "abrasive",
           "rating": "green",
-          "source": "European Coatings",
-          "date": "2026-09-09",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
-          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
-          "summary": "The European coatings sector focuses on next-generation innovation, strict sustainability goals, and digital integration in surface preparation and application.",
-          "why": "Shifts in coating materials and sustainability requirements directly change how metals and surfaces need to be prepped and sanded.",
-          "action": "Keep an eye on eco-friendly and advanced coating formulations that require specialized abrasive finishing techniques.",
+          "source": "IndyStar",
+          "date": "2026-11-17",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb3cySlBsZ0F0ZXgzcmxzMUZTbXFmX2ZOTXVfWUVJRXBXVjJLejZkV3l0SDN4NnVRNXVDNldMX2ZESFpaeGtpUHlKTWVkbi1wc0tfcjNUTHVZdnhaa0xaNXpyc2YzR3hvOVZERl9MdUI2OGFiWGFVMEtwbTlkLVZOSVVwUEh4TnFDN1l1M3c4di1WVkxTcVVFanhfM3g5VXRkTDVSSkljajA0dTRPSVo3Y05ta2xWcmk2YlNjU1hjdmk1Z3VpQ3RxdQ?oc=5",
+          "title": "Top 5 Metal Surface Finishing Solutions Suppliers in China: Ranked Comparison",
+          "summary": "A comprehensive comparison highlights the top metal surface finishing suppliers in China, showcasing competitive technologies and market positioning.",
+          "why": "Chinese competitors and suppliers heavily influence global pricing and technological standards in metal surface finishing and abrasives.",
+          "action": "Monitor competitor pricing strategies and manufacturing capabilities emerging from Chinese suppliers to maintain market competitiveness.",
           "th": {
-            "title": "กำหนดอนาคตยุคใหม่ของการเคลือบผิว: นวัตกรรม ความยั่งยืน และพลังแห่งดิจิทัล",
-            "summary": "อุตสาหกรรมการเคลือบผิวในยุโรปมุ่งเน้นไปที่นวัตกรรมยุคถัดไป เป้าหมายด้านความยั่งยืนที่เข้มงวด และการบูรณาการดิจิทัลในการเตรียมพื้นผิวและการใช้งาน",
-            "why": "การเปลี่ยนแปลงของวัสดุเคลือบผิวและข้อกำหนดด้านความยั่งยืนส่งผลโดยตรงต่อวิธีที่โลหะและพื้นผิวต่างๆ จำเป็นต้องได้รับการเตรียมและขัดแต่ง",
-            "action": "จับตาดูสูตรสารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมและขั้นสูง ซึ่งต้องอาศัยเทคนิคการขัดผิวแบบเฉพาะทาง"
+            "title": "5 อันดับซัพพลายเออร์โซลูชันการตกแต่งผิวโลหะชั้นนำในจีน: การเปรียบเทียบจัดอันดับ",
+            "summary": "บทวิเคราะห์เปรียบเทียบซัพพลายเออร์ด้านการตกแต่งผิวโลหะในจีน แสดงให้เห็นถึงเทคโนโลยีและการแข่งขันในตลาด",
+            "why": "ผู้ผลิตและซัพพลายเออร์จากจีนมีอิทธิพลอย่างมากต่อโครงสร้างราคาและมาตรฐานเทคโนโลยีการขัดแต่งผิวโลหะทั่วโลก",
+            "action": "ติดตามกลยุทธ์ด้านราคาและเทคโนโลยีจากซัพพลายเออร์จีน เพื่อรักษาความสามารถในการแข่งขันในตลาด"
           }
         },
         {
           "id": "20261127-w3",
           "tag": "auto",
           "rating": "amber",
-          "source": "Automotive News",
-          "date": "2026-10-27",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNUJfVkZHR05MSjFfSVpWeWRYbTJydDU4dW85TFNpWENDc1hOVk9MY1RzZzk1Q2lOTk9Vd1pZa2lLZmtsMEdxSFpBbnNIdk4wcFNfUHlpaUU3Q25UUUdqOG91Y3RTeW5Pc2hIdDluQW40SEUtbnZ1MmJyZ3VJOVVsbDNHRldrQQ?oc=5",
-          "title": "How the U.S. is becoming an outlier in the global EV race",
-          "summary": "The United States shows distinct policy and adoption trends that make it an outlier compared to global EV manufacturing trajectories.",
-          "why": "Automotive manufacturing shifts across major regions dictate localized factory tooling, welding, and surface finishing demand.",
-          "action": "Expect regional divergence in automotive factory setups and adjust supply chain focus to stable manufacturing hubs.",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-11-06",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPU0NJV1VEcllWeWRPU21VOHlULVpnYWR2ZXVmMk5QSHVZNHFYRC1nN2hlUnJ5VmdXNl9LWmRPTmR2X1lzRlBqcl8tOTZxdE9pNkVTRG14R2NpRHIxNTQ2S2NWcGxQeGF5bWxHdGFxWEN5em12c09Wb1piMnlUejBGc08xemxCQjZUd0llY2k4MmxfVUlkaHlIN21FQ1RPeVl2a3YyZ1BZSE4zeVhHWUVFemF6R3ZyR0lLa0lEMUY1R0k3T0ZlblpKZUFKVEFYV3ZDYlZNQTZYSDRYVjRvSjVLSkE2RTlzdl9tNEctT2JWblVNYndVZnNJeg?oc=5",
+          "title": "Register now: Smart factory trends and lessons for 2027: Flexibility, AI and global competitiveness",
+          "summary": "Industry leaders outline smart factory strategies for 2027, emphasizing AI integration, operational flexibility, and global manufacturing competitiveness.",
+          "why": "Automotive and industrial plants are upgrading production lines with automation, changing how surface prep and robotic grinding are applied.",
+          "action": "Explore how our abrasive products can integrate with automated robotic sanding and grinding systems for industrial clients.",
           "th": {
-            "title": "สหรัฐฯ กำลังกลายเป็นประเทศนอกกลุ่มในตลาดรถยนต์ไฟฟ้าโลกได้อย่างไร",
-            "summary": "สหรัฐอเมริกาแสดงแนวโน้มด้านนโยบายและการยอมรับที่แตกต่าง ซึ่งทำให้กลายเป็นประเทศนอกกลุ่มเมื่อเทียบกับเส้นทางการผลิต EV ทั่วโลก",
-            "why": "การเปลี่ยนแปลงของการผลิตยานยนต์ในภูมิภาคหลักๆ เป็นตัวกำหนดความต้องการเครื่องมือในโรงงาน การเชื่อม และการขัดผิวในท้องถิ่น",
-            "action": "คาดการณ์ความแตกต่างระดับภูมิภาคในการตั้งค่าโรงงานยานยนต์ และปรับโฟกัสห่วงโซ่อุปทานไปยังฮับการผลิตที่มีเสถียรภาพ"
+            "title": "ลงทะเบียนด่วน: เทรนด์โรงงานอัจฉริยะและบทเรียนสำหรับปี 2027 ความยืดหยุ่น AI และความสามารถในการแข่งขันระดับโลก",
+            "summary": "ผู้นำอุตสาหกรรมวางกลยุทธ์โรงงานอัจฉริยะสำหรับปี 2027 โดยเน้นการบูรณาการ AI ความยืดหยุ่น และการแข่งขัน",
+            "why": "โรงงานยานยนต์และอุตสาหกรรมกำลังยกระดับสู่ระบบอัตโนมัติ ซึ่งส่งผลต่อรูปแบบการเตรียมพื้นผิวและการขัดด้วยหุ่นยนต์",
+            "action": "ศึกษาแนวทางการนำผลิตภัณฑ์วัสดุขัดไปใช้งานร่วมกับระบบหุ่นยนต์ขัดอัตโนมัติสำหรับลูกค้าภาคอุตสาหกรรม"
           }
         }
       ]
