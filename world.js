@@ -4,64 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-11-27",
-      "summary": "Today's briefing features 3 key global trends focusing on metal surface finishing, advanced graphene coatings, and automotive pre-treatment technologies.",
+      "summary": "Today's briefing highlights new technological innovations in steel production aiming to cut costs, shifting trends in advanced coatings and digital manufacturing, and evolving global EV market dynamics.",
       "directCount": 3,
       "th": {
-        "summary": "สรุปข่าวประจำวันนี้เน้น 3 เทรนด์สำคัญระดับโลก ได้แก่ การตกแต่งพื้นผิวโลหะ เทคโนโลยีการเคลือบกราฟีนขั้นสูง และกระบวนการเตรียมผิวชิ้นส่วนยานยนต์"
+        "summary": "สรุปทิศทางโลกประจำวันนี้เน้นย้ำถึงนวัตกรรมใหม่ในการผลิตเหล็กเพื่อลดต้นทุน, แนวโน้มการเคลือบผิวขั้นสูงและการผลิตดิจิทัล รวมถึงพลวัตตลาด EV โลกที่กำลังเปลี่ยนแปลง"
       },
       "items": [
         {
           "id": "20261127-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "IndyStar",
-          "date": "2026-11-17",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb3cySlBsZ0F0ZXgzcmxzMUZTbXFmX2ZOTXVfWUVJRXBXVjJLejZkV3l0SDN4NnVRNXVDNldMX2ZESFpaeGtpUHlKTWVkbi1wc0tfcjNUTHVZdnhaa0xaNXpyc2YzR3hvOVZERl9MdUI2OGFiWGFVMEtwbTlkLVZOSVVwUEh4TnFDN1l1M3c4di1WVkxTcVVFanhfM3g5VXRkTDVSSkljajA0dTRPSVo3Y05ta2xWcmk2YlNjU1hjdmk1Z3VpQ3RxdQ?oc=5",
-          "title": "Top 5 Metal Surface Finishing Solutions Suppliers in China: Ranked Comparison",
-          "summary": "A detailed market ranking highlights key players and competitive solutions in the Chinese metal surface finishing sector.",
-          "why": "Understanding major Chinese finishing suppliers helps us benchmark global manufacturing standards and material pricing pressures.",
-          "action": "Monitor Chinese surface finishing competitors for shifts in abrasive technology and pricing.",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "S&P Global",
+          "date": "2026-03-31",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNdVZyZkhzLWJHVGdpaV9Fc1dkc3RPZnpnRXRMemNZRHJkRWxTZzN2WFpLSHJDQzJMdWNsMUE2b1JTVlNwZUVoT3hHay1LSXBHTmJ4ZDdhdTRqcFJnb1lFYmtPSzdqUlBkeVlqcERsZHNNZndMRlZIZjkyX2dYSEd4a2E1cHh5OXI5Y2NJcVVVMlpiMEl2bjVSWUw5MFlyQTdEQk1jR2VSekQ5d0xjcGpxSnA1T0xabWNNQmRQeS1la1NCYURrQV9HQWs0RFpPaEtZZE5PWGYxZGxPSlVoY1VjaERMa1Judk1Ma3hrNlNGeE4xdw?oc=5",
+          "title": "CERAWEEK INTERVIEW: New technology could cut steel production costs 20%, Hertha CEO says",
+          "summary": "New manufacturing technology developments aim to significantly reduce steel production costs by up to 20%, potentially altering global steel output and factory investments.",
+          "why": "Lower production costs and new steelmaking processes can drive changes in mill investments and demand for finishing and grinding consumables.",
+          "action": "Monitor how new steel manufacturing efficiencies affect customer purchasing power and plant modernization budgets.",
           "th": {
-            "title": "การเปรียบเทียบและจัดอันดับ 5 ผู้ให้บริการโซลูชันตกแต่งพื้นผิวโลหะชั้นนำในจีน",
-            "summary": "การจัดอันดับตลาดโดยละเอียดเน้นย้ำถึงผู้เล่นหลักและโซลูชันที่มีความสามารถในการแข่งขันสูงในภาคการตกแต่งพื้นผิวโลหะของจีน",
-            "why": "การทำความเข้าใจผู้เล่นหลักด้านการเตรียมพื้นผิวของจีนช่วยให้เราประเมินมาตรฐานการผลิตระดับโลกและแรงกดดันด้านราคาได้",
-            "action": "ติดตามคู่แข่งด้านการตกแต่งพื้นผิวจากจีนเพื่อดูการเปลี่ยนแปลงของเทคโนโลยีสารขัดถูและราคา"
+            "title": "บทสัมภาษณ์ CERAWEEK: เทคโนโลยีใหม่อาจช่วยลดต้นทุนการผลิตเหล็กได้ถึง 20% ตามที่ซีอีโอ Hertha กล่าว",
+            "summary": "การพัฒนาเทคโนโลยีการผลิตใหม่ๆ มีเป้าหมายเพื่อลดต้นทุนการผลิตเหล็ก5ลงสูงสุด 20% ซึ่งอาจเปลี่ยนแปรงปริมาณการผลิตเหล็กทั่วโลกและการลงทุนในโรงงาน",
+            "why": "ต้นทุนการผลิตที่ลดลงและกระบวนการทำเหล็กแบบใหม่อาจขับเคลื่อนการเปลี่ยนแปลงในการลงทุนของโรงรีดเหล็กและความต้องการใช้วัสดุขัดและเจียร",
+            "action": "ติดตามดูว่าประสิทธิภาพการผลิตเหล็กใหม่ๆ ส่งผลกระทบต่ออำนาจซื้อของลูกค้าและงบประมาณการปรับปรุงโรงงานอย่างไร"
           }
         },
         {
           "id": "20261127-w2",
           "tag": "coating",
           "rating": "green",
-          "source": "Grand View Research",
-          "date": "2025-01-20",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWFBnYWlSdVI1UzZJbzBQMHZTbm9BLV9fVW5tQm1yczhTMjEybkVIeXFBQnRtT2lMVVM0T0gzODJMOXNCbFd2OUxpTUdiMVVyTThDNV9CVXJzd2Q2ejJsQlNkNk1vVVUtVmJkd2F4b2EwYVF5RVcyRjhuMHRFaGlvc3BSTzZJRVYyQ2c?oc=5",
-          "title": "Graphene Coating Market Size & Share Report, 2025-2030",
-          "summary": "The global graphene coating market continues its expansion phase, driven by high demand for superior anti-corrosion and wear-resistant properties.",
-          "why": "Advanced coatings like graphene require extreme surface preparation, impacting the demand for specialized high-performance abrasives.",
-          "action": "Keep an eye on ultra-hard coating trends that necessitate specialized prep and sanding methods.",
+          "source": "European Coatings",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
+          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
+          "summary": "The European coatings sector focuses on next-generation innovation, strict sustainability goals, and digital integration in surface preparation and application.",
+          "why": "Shifts in coating materials and sustainability requirements directly change how metals and surfaces need to be prepped and sanded.",
+          "action": "Keep an eye on eco-friendly and advanced coating formulations that require specialized abrasive finishing techniques.",
           "th": {
-            "title": "รายงานขนาดและส่วนแบ่งตลาดสารเคลือบกราฟีน ปี 2025-2030",
-            "summary": "ตลาดสารเคลือบกราฟีนทั่วโลกยังคงขยายตัวอย่างต่อเนื่อง ขับเคลื่อนโดยความต้องการคุณสมบัติป้องกันการกัดกร่อนและการสึกหรอที่เหนือกว่า",
-            "why": "สารเคลือบขั้นสูงอย่างกราฟีนต้องอาศัยการเตรียมพื้นผิวที่มีความแม่นยำสูง ซึ่งส่งผลต่อความต้องการสารขัดถูประสิทธิภาพสูงเฉพาะทาง",
-            "action": "จับตาดูเทรนด์การเคลือบผิวแข็งพิเศษที่ต้องใช้กรรมวิธีการเตรียมผิวและการขัดกระดาษทรายแบบเฉพาะเจาะจง"
+            "title": "กำหนดอนาคตยุคใหม่ของการเคลือบผิว: นวัตกรรม ความยั่งยืน และพลังแห่งดิจิทัล",
+            "summary": "อุตสาหกรรมการเคลือบผิวในยุโรปมุ่งเน้นไปที่นวัตกรรมยุคถัดไป เป้าหมายด้านความยั่งยืนที่เข้มงวด และการบูรณาการดิจิทัลในการเตรียมพื้นผิวและการใช้งาน",
+            "why": "การเปลี่ยนแปลงของวัสดุเคลือบผิวและข้อกำหนดด้านความยั่งยืนส่งผลโดยตรงต่อวิธีที่โลหะและพื้นผิวต่างๆ จำเป็นต้องได้รับการเตรียมและขัดแต่ง",
+            "action": "จับตาดูสูตรสารเคลือบที่เป็นมิตรต่อสิ่งแวดล้อมและขั้นสูง ซึ่งต้องอาศัยเทคนิคการขัดผิวแบบเฉพาะทาง"
           }
         },
         {
           "id": "20261127-w3",
           "tag": "auto",
           "rating": "amber",
-          "source": "European Coatings",
-          "date": "2025-06-17",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd21RWG1HSjhUUkpxbnAzbHotdG5VREtScy1uanpIZG9wQUZUc2hhZmROMDdfNnFRZEZ4anNGb2lWaFJTNVZLRGg4T2NFSzhvZk9NVDZPeFRLTEhRNXVveEZxSnAtdHZNYXZiWU5YaGxBMkFJMDZkbTBocDhfVGppVkZBSEtISkUtN19oZ2JldEE1N3JGZVMzMm13SHkyeXRMYS1sRkFTc3RyQUxHenF6SzBIenZ2S1lBeEJSOVJFUFdqb29EMHh1RUxB?oc=5",
-          "title": "Trends in pre-treatment and electrodeposition coating for automotive bodies",
-          "summary": "Automotive manufacturers are refining pre-treatment and e-coat processes to improve corrosion protection and finish quality for next-gen vehicles.",
-          "why": "Metal pre-treatment phases directly dictate the sanding, deburring, and surface conditioning tools required in automotive assembly plants.",
-          "action": "Explore business opportunities tied to automotive body pre-treatment and weld seam preparation.",
+          "source": "Automotive News",
+          "date": "2026-10-27",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNUJfVkZHR05MSjFfSVpWeWRYbTJydDU4dW85TFNpWENDc1hOVk9MY1RzZzk1Q2lOTk9Vd1pZa2lLZmtsMEdxSFpBbnNIdk4wcFNfUHlpaUU3Q25UUUdqOG91Y3RTeW5Pc2hIdDluQW40SEUtbnZ1MmJyZ3VJOVVsbDNHRldrQQ?oc=5",
+          "title": "How the U.S. is becoming an outlier in the global EV race",
+          "summary": "The United States shows distinct policy and adoption trends that make it an outlier compared to global EV manufacturing trajectories.",
+          "why": "Automotive manufacturing shifts across major regions dictate localized factory tooling, welding, and surface finishing demand.",
+          "action": "Expect regional divergence in automotive factory setups and adjust supply chain focus to stable manufacturing hubs.",
           "th": {
-            "title": "เทรนด์การเตรียมพื้นผิวและการเคลือบอีเลคโตรดิปปิ้งสำหรับตัวถังรถยนต์",
-            "summary": "ผู้ผลิตรถยนต์กำลังปรับปรุงกระบวนการเตรียมผิวและเคลือบสีกันสนิม (E-coat) เพื่อยกระดับการป้องกันสนิมและคุณภาพผิวงานสำหรับยานยนต์รุ่นใหม่",
-            "why": "ขั้นตอนการเตรียมผิวโลหะส่งผลโดยตรงต่อเครื่องมือขัด ลบคม และปรับสภาพผิวที่จำเป็นในโรงงานประกอบรถยนต์",
-            "action": "สำรวจโอกาสทางธุรกิจที่เกี่ยวข้องกับการเตรียมผิวตัวถังรถยนต์และการเตรียมรอยเชื่อม"
+            "title": "สหรัฐฯ กำลังกลายเป็นประเทศนอกกลุ่มในตลาดรถยนต์ไฟฟ้าโลกได้อย่างไร",
+            "summary": "สหรัฐอเมริกาแสดงแนวโน้มด้านนโยบายและการยอมรับที่แตกต่าง ซึ่งทำให้กลายเป็นประเทศนอกกลุ่มเมื่อเทียบกับเส้นทางการผลิต EV ทั่วโลก",
+            "why": "การเปลี่ยนแปลงของการผลิตยานยนต์ในภูมิภาคหลักๆ เป็นตัวกำหนดความต้องการเครื่องมือในโรงงาน การเชื่อม และการขัดผิวในท้องถิ่น",
+            "action": "คาดการณ์ความแตกต่างระดับภูมิภาคในการตั้งค่าโรงงานยานยนต์ และปรับโฟกัสห่วงโซ่อุปทานไปยังฮับการผลิตที่มีเสถียรภาพ"
           }
         }
       ]
