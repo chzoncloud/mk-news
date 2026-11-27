@@ -1,7 +1,71 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-11-26",
+  "updated": "2026-11-27",
   "days": [
+    {
+      "date": "2026-11-27",
+      "summary": "Today's briefing features 3 key global trends focusing on metal surface finishing, advanced graphene coatings, and automotive pre-treatment technologies.",
+      "directCount": 3,
+      "th": {
+        "summary": "สรุปข่าวประจำวันนี้เน้น 3 เทรนด์สำคัญระดับโลก ได้แก่ การตกแต่งพื้นผิวโลหะ เทคโนโลยีการเคลือบกราฟีนขั้นสูง และกระบวนการเตรียมผิวชิ้นส่วนยานยนต์"
+      },
+      "items": [
+        {
+          "id": "20261127-w1",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "IndyStar",
+          "date": "2026-11-17",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb3cySlBsZ0F0ZXgzcmxzMUZTbXFmX2ZOTXVfWUVJRXBXVjJLejZkV3l0SDN4NnVRNXVDNldMX2ZESFpaeGtpUHlKTWVkbi1wc0tfcjNUTHVZdnhaa0xaNXpyc2YzR3hvOVZERl9MdUI2OGFiWGFVMEtwbTlkLVZOSVVwUEh4TnFDN1l1M3c4di1WVkxTcVVFanhfM3g5VXRkTDVSSkljajA0dTRPSVo3Y05ta2xWcmk2YlNjU1hjdmk1Z3VpQ3RxdQ?oc=5",
+          "title": "Top 5 Metal Surface Finishing Solutions Suppliers in China: Ranked Comparison",
+          "summary": "A detailed market ranking highlights key players and competitive solutions in the Chinese metal surface finishing sector.",
+          "why": "Understanding major Chinese finishing suppliers helps us benchmark global manufacturing standards and material pricing pressures.",
+          "action": "Monitor Chinese surface finishing competitors for shifts in abrasive technology and pricing.",
+          "th": {
+            "title": "การเปรียบเทียบและจัดอันดับ 5 ผู้ให้บริการโซลูชันตกแต่งพื้นผิวโลหะชั้นนำในจีน",
+            "summary": "การจัดอันดับตลาดโดยละเอียดเน้นย้ำถึงผู้เล่นหลักและโซลูชันที่มีความสามารถในการแข่งขันสูงในภาคการตกแต่งพื้นผิวโลหะของจีน",
+            "why": "การทำความเข้าใจผู้เล่นหลักด้านการเตรียมพื้นผิวของจีนช่วยให้เราประเมินมาตรฐานการผลิตระดับโลกและแรงกดดันด้านราคาได้",
+            "action": "ติดตามคู่แข่งด้านการตกแต่งพื้นผิวจากจีนเพื่อดูการเปลี่ยนแปลงของเทคโนโลยีสารขัดถูและราคา"
+          }
+        },
+        {
+          "id": "20261127-w2",
+          "tag": "coating",
+          "rating": "green",
+          "source": "Grand View Research",
+          "date": "2025-01-20",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWFBnYWlSdVI1UzZJbzBQMHZTbm9BLV9fVW5tQm1yczhTMjEybkVIeXFBQnRtT2lMVVM0T0gzODJMOXNCbFd2OUxpTUdiMVVyTThDNV9CVXJzd2Q2ejJsQlNkNk1vVVUtVmJkd2F4b2EwYVF5RVcyRjhuMHRFaGlvc3BSTzZJRVYyQ2c?oc=5",
+          "title": "Graphene Coating Market Size & Share Report, 2025-2030",
+          "summary": "The global graphene coating market continues its expansion phase, driven by high demand for superior anti-corrosion and wear-resistant properties.",
+          "why": "Advanced coatings like graphene require extreme surface preparation, impacting the demand for specialized high-performance abrasives.",
+          "action": "Keep an eye on ultra-hard coating trends that necessitate specialized prep and sanding methods.",
+          "th": {
+            "title": "รายงานขนาดและส่วนแบ่งตลาดสารเคลือบกราฟีน ปี 2025-2030",
+            "summary": "ตลาดสารเคลือบกราฟีนทั่วโลกยังคงขยายตัวอย่างต่อเนื่อง ขับเคลื่อนโดยความต้องการคุณสมบัติป้องกันการกัดกร่อนและการสึกหรอที่เหนือกว่า",
+            "why": "สารเคลือบขั้นสูงอย่างกราฟีนต้องอาศัยการเตรียมพื้นผิวที่มีความแม่นยำสูง ซึ่งส่งผลต่อความต้องการสารขัดถูประสิทธิภาพสูงเฉพาะทาง",
+            "action": "จับตาดูเทรนด์การเคลือบผิวแข็งพิเศษที่ต้องใช้กรรมวิธีการเตรียมผิวและการขัดกระดาษทรายแบบเฉพาะเจาะจง"
+          }
+        },
+        {
+          "id": "20261127-w3",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "European Coatings",
+          "date": "2025-06-17",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd21RWG1HSjhUUkpxbnAzbHotdG5VREtScy1uanpIZG9wQUZUc2hhZmROMDdfNnFRZEZ4anNGb2lWaFJTNVZLRGg4T2NFSzhvZk9NVDZPeFRLTEhRNXVveEZxSnAtdHZNYXZiWU5YaGxBMkFJMDZkbTBocDhfVGppVkZBSEtISkUtN19oZ2JldEE1N3JGZVMzMm13SHkyeXRMYS1sRkFTc3RyQUxHenF6SzBIenZ2S1lBeEJSOVJFUFdqb29EMHh1RUxB?oc=5",
+          "title": "Trends in pre-treatment and electrodeposition coating for automotive bodies",
+          "summary": "Automotive manufacturers are refining pre-treatment and e-coat processes to improve corrosion protection and finish quality for next-gen vehicles.",
+          "why": "Metal pre-treatment phases directly dictate the sanding, deburring, and surface conditioning tools required in automotive assembly plants.",
+          "action": "Explore business opportunities tied to automotive body pre-treatment and weld seam preparation.",
+          "th": {
+            "title": "เทรนด์การเตรียมพื้นผิวและการเคลือบอีเลคโตรดิปปิ้งสำหรับตัวถังรถยนต์",
+            "summary": "ผู้ผลิตรถยนต์กำลังปรับปรุงกระบวนการเตรียมผิวและเคลือบสีกันสนิม (E-coat) เพื่อยกระดับการป้องกันสนิมและคุณภาพผิวงานสำหรับยานยนต์รุ่นใหม่",
+            "why": "ขั้นตอนการเตรียมผิวโลหะส่งผลโดยตรงต่อเครื่องมือขัด ลบคม และปรับสภาพผิวที่จำเป็นในโรงงานประกอบรถยนต์",
+            "action": "สำรวจโอกาสทางธุรกิจที่เกี่ยวข้องกับการเตรียมผิวตัวถังรถยนต์และการเตรียมรอยเชื่อม"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-11-26",
       "summary": "Today's briefing highlights global shifts in automotive manufacturing, particularly China's EV market evolution emphasizing innovation over price cuts, alongside industrial developments in metal casting and industrial coatings growth.",
@@ -866,70 +930,6 @@ window.WORLD_ARCHIVE = {
             "summary": "ความต้องการกรดดองเหล็กกำลังเติบโตเนื่องจากความต้องการดองเหล็กที่สูงขึ้นและกฎข้อบังคับด้านการรีไซเคิลที่เข้มงวดขึ้น",
             "why": "กระบวนการดองเหล็กเป็นขั้นตอนเตรียมผิวก่อนการแปรรูปทางกลและการขัดแต่งผิวในอุตสาหกรรมโลหะ",
             "action": "ติดตามแนวโน้มการเตรียมผิวเหล็กซึ่งมักเกิดขึ้นก่อนกระบวนการเจียระไนและการพ่นขัด"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-11-13",
-      "summary": "Today's briefing focuses on global manufacturing shifts, including the $72.2B abrasives market growth driven by precision finishing, EAF steelmaking trends linked to scrap shears, and green coatings innovations. These shifts highlight expanding opportunities in high-precision metal fabrication and surface preparation.",
-      "directCount": 3,
-      "th": {
-        "summary": "สรุปทิศทางอุตสาหกรรมโลกประจำวันนี้เน้นการเติบโตของตลาดวัสดุขัดถูมูลค่า 7.2 หมื่นล้านดอลลาร์จากความต้องการงานขัดผิวความแม่นยำสูง แนวโน้มการผลิตเหล็กด้วยเตา EAF และนวัตกรรมสีเคลือบที่เป็นมิตรต่อสิ่งแวดล้อม ซึ่งทั้งหมดนี้สะท้อนถึงโอกาสที่ขยายตัวในงานโลหะและการเตรียมพื้นผิว"
-      },
-      "items": [
-        {
-          "id": "20261113-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "EIN News",
-          "date": "2026-10-19",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM2VsRTlqVWR6dlpoUXpZQ04wNnJsRUNBbndKSnNQODIyUXdnTTlIT0hZMC10bGhEUUk0clZ5ZWZRN0I2eVhiVHVPVmRYd05xWUdJdDJldTBsTkZEUVNBNG5qaE9WeXdDN2dSVzJ2TzNsVFhBNVMzakhwZFR6Z0dQeFFVS0ZPa0dmWmh1dHhiYXVXWWRrbk9XS251Ul9SVS1SZ3NON0VXRWxfOWtzazlNcXhUMVBnU2liODhqaXF6OEdGb2NEYkRoaG9uNmx6MlNjMUd2N3Q0emZnUXltZk1wbg?oc=5",
-          "title": "Abrasives Market to Reach $72.2 Billion by 2030, Growing at a 7.6% CAGR Driven by Precision Finishing Demand",
-          "summary": "The global abrasives market is projected to reach $72.2 billion by 2030, fueled by rising demand for high-precision finishing across manufacturing sectors.",
-          "why": "Validates long-term global market expansion and robust demand for surface preparation products.",
-          "action": "Ensure our product portfolio aligns with high-precision finishing requirements.",
-          "th": {
-            "title": "ตลาดวัสดุขัดถู (Abrasives) จะเติบโตแตะ 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 หนุนโดยความต้องการงานขัดตกแต่งผิวความแม่นยำสูง",
-            "summary": "ตลาดวัสดุขัดถูทั่วโลกคาดว่าจะเติบโตถึง 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 ขับเคลื่อนโดยความต้องการงานขัดผิวที่แม่นยำในภาคการผลิต",
-            "why": "ยืนยันการขยายตัวของตลาดในระยะยาวและความต้องการที่แข็งแกร่งสำหรับผลิตภัณฑ์เตรียมพื้นผิว",
-            "action": "ตรวจสอบให้แน่ใจว่ากลุ่มผลิตภัณฑ์ของเราสอดคล้องกับความต้องการงานขัดผิวความแม่นยำสูง"
-          }
-        },
-        {
-          "id": "20261113-w2",
-          "tag": "steel",
-          "rating": "green",
-          "source": "IndexBox",
-          "date": "2026-11-12",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSU9XRjlZWWxycHlFMmU2dVZteTctbGxLS2tieXI4SjZmRW9acXVkSVlMTTBwYmxGdzNTVTVNbWZFcXZpT3E5TUx0aEVIQzFiUWRxRkZiSXIwX0IyOS14R1M5UUc2YjgzQVQzeTJJM0xEa3I5LUxmM3lVMTBmUFhieFpvZnNGNmFLS21keEFxVlZLQWdYNDExNnhaWkQwcllLOV9vdUpwV2YxTmhHM3ZvQVRhLTZEeHFRNkxqMA?oc=5",
-          "title": "Scrap Shears Market Forecast to 2035: Growth Driven by EAF Steelmaking and Circular Economy",
-          "summary": "The scrap shears market is expanding as electric arc furnace (EAF) steelmaking grows, driven by circular economy mandates in the steel industry.",
-          "why": "EAF steel production and scrap metal processing create continuous heavy-duty metal grinding and deburring needs.",
-          "action": "Track growth in EAF steel mills and metal recycling yards as key industrial clients for grinding wheels and heavy abrasives.",
-          "th": {
-            "title": "ตลาดกรรไกรตัดเศษเหล็ก (Scrap Shears) สู่ปี 2035: เติบโตจากกระบวนการผลิตเหล็กเตา EAF และเศรษฐกิจหมุนเวียน",
-            "summary": "ตลาดเครื่องมือตัดเศษเหล็กกำลังขยายตัวตามการเติบโตของการผลิตเหล็กด้วยเตาอาร์กไฟฟ้า (EAF) และนโยบายเศรษฐกิจหมุนเวียนในอุตสาหกรรมเหล็ก",
-            "why": "การผลิตเหล็ก EAF และการรีไซเคิลโลหะสร้างความต้องการใช้งานเจียรและลบคมโลหะหนักอย่างต่อเนื่อง",
-            "action": "ติดตามการเติบโตของโรงงานเหล็ก EAF และลานรีไซเคิลโลหะในฐานะลูกค้าอุตสาหกรรมสำคัญสำหรับล้อหินเจียรและกระดาษทรายเพื่องานหนัก"
-          }
-        },
-        {
-          "id": "20261113-w3",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "European Coatings",
-          "date": "2026-09-09",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNTg4eEZpVTNoaWNxY09TTHc5ZUhTazRxTkktYlZGOFhPeDctTXB4bm1TUW14MlhvSXI4b3dYdVRlVmNuRG9oMHBibXB5VTBKU0FQUEhNakZQRFd6Y3ZYcFB6dnplOVFiY292SEJvazh0X1h1V0J5Wm9XVmQ1ajFBcFBvbVRzdDlwdTdPb09hMkRvT0tCQlQtMHIzODUtSGhoQzdTSGFfaVlrMjhmejRxaUExQzIySm5oZ3Z3RmdyX1k?oc=5",
-          "title": "Shaping the next era of coatings: Innovation, sustainability and the power of digital",
-          "summary": "The coatings industry is advancing through sustainability initiatives, digital integration, and innovative surface protection technologies.",
-          "why": "Coating innovation directly influences how metal and wood surfaces are prepared before and finished after application.",
-          "action": "Keep an eye on emerging high-performance coatings that may require specialized surface preparation techniques.",
-          "th": {
-            "title": "กำหนดอนาคตใหม่แห่งงานเคลือบผิว: นวัตกรรม ความยั่งยืน และพลังแห่งดิจิทัล",
-            "summary": "อุตสาหกรรมสีและสารเคลือบกำลังพัฒนาผ่านโครงการริเริ่มด้านความยั่งยืน การบูรณาการดิจิทัล และเทคโนโลยีปกป้องพื้นผิว",
-            "why": "นวัตกรรมสารเคลือบมีผลโดยตรงต่อวิธีการเตรียมพื้นผิวโลหะและไม้ก่อนพ่น รวมถึงการขัดแต่งหลังเคลือบ",
-            "action": "ติดตามสารเคลือบประสิทธิภาพสูงรุ่นใหม่ๆ ที่อาจต้องใช้เทคนิคการเตรียมพื้นผิวแบบพิเศษ"
           }
         }
       ]
