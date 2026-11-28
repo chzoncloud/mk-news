@@ -4,82 +4,64 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-11-28",
-      "summary": "Today's briefing focuses on steel production shifts towards electric arc furnaces (EAF), evolving metal trade and tariff policies, and innovations in automotive pre-treatments and coatings.",
-      "directCount": 4,
+      "summary": "Today's briefing focuses on global manufacturing shifts, including U.S. steel ascending to world number three driven by tariffs and AI, alongside technological advancements in coating additives and powder coatings shaping future surface finishing.",
+      "directCount": 1,
       "th": {
-        "summary": "สรุปทิศทางโลกประจำวันนี้เน้นการเปลี่ยนผ่านการผลิตเหล็กสู่เตาอาร์คไฟฟ้า (EAF) นโยบายการค้าและภาษีโลหะ รวมถึงนวัตกรรมสารเคลือบและเตรียมพื้นผิวในยานยนต์"
+        "summary": "สรุปรายงานวันนี้เน้นการเปลี่ยนแปลงของภาคการผลิตโลก โดยเหล็กสหรัฐฯ ขยับขึ้นสู่อันดับ 3 ของโลกจากปัจจัยภาษีและกระแส AI พร้อมทั้งความก้าวหน้าด้านเทคโนโลยีสารเติมแต่งสารเคลือบและสีฝุ่นที่ขับเคลื่อนงานตกแต่งพื้นผิวในอนาคต"
       },
       "items": [
         {
           "id": "20261128-w1",
           "tag": "steel",
-          "rating": "green",
-          "source": "McKinsey & Company",
-          "date": "2026-06-30",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ1lIMXpVNV9qTXBac1FLRlBEWVhTbUo3Z1h4b1R1NXBNQzRJZlpuU01sM0g3UFlVRHM4Ui1LREZKUENoUmhFWEZpMVllYUFZZU9kYXVxUmNTV1A4bFhQazhadEpaakw5LTE3SnBIS3BjNzFPWW1EZU4ybzdOSXdkSEtB?oc=5",
-          "title": "EAF steel: Beyond the blast furnace",
-          "summary": "McKinsey highlights the global industry transition toward Electric Arc Furnace (EAF) steelmaking, which changes scrap metal usage and recycling flows.",
-          "why": "EAF steel production often generates different surface scale and defect profiles compared to blast furnace steel, influencing the types and volumes of heavy-duty grinding and deburring abrasives required.",
-          "action": "Monitor EAF steel mills' surface preparation requirements and align our heavy grinding product offerings accordingly.",
+          "rating": "amber",
+          "source": "https://economy.ac/",
+          "date": "2026-08-07",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YQWhOYlJ3eW9jTUhwa25XdE55eHh3a2JoODhWdDAtOW00UzhXcWwtNnJJXzZGMjMtNXN6MTYwTUhib3ZHUDNXaTdIbWY2N092QXNsOXFfdw?oc=5",
+          "title": "‘Trump Tariffs and AI Boom’ Propel U.S. Steel Past Japan to World No. 3 for First Time in 26 Years",
+          "summary": "Driven by trade policies and tech-sector demand, U.S. steel production has surpassed Japan for the first time in over two decades, signaling regional shifts in heavy metal manufacturing.",
+          "why": "Changes in global steel production hubs directly impact heavy metal fabrication, structural steel grinding, and demand for industrial abrasive consumables in North America.",
+          "action": "Monitor regional shifts in metal fabrication output to anticipate shifting export and local supply chain demands.",
           "th": {
-            "title": "เหล็ก EAF: ก้าวข้ามเตาถลุงเหล็กแบบดั้งเดิม",
-            "summary": "McKinsey ระบุถึงการเปลี่ยนผ่านของอุตสาหกรรมโลกไปสู่การผลิตเหล็กด้วยเตาอาร์คไฟฟ้า (EAF) ซึ่งเปลี่ยนรูปแบบการใช้เศษเหล็กและกระบวนการรีไซเคิล",
-            "why": "การผลิตเหล็ก EAF มักสร้างสภาพพื้นผิวและคราบสะเก็ดที่ต่างจากเตาถลุงทั่วไป ซึ่งส่งผลต่อประเภทและปริมาณของผลิตภัณฑ์ขัดและลบคมที่จำเป็นต้องใช้",
-            "action": "ติดตามความต้องการเตรียมพื้นผิวของโรงงานเหล็ก EAF และปรับกลุ่มผลิตภัณฑ์งานขัดหยาบให้สอดคล้องกัน"
+            "title": "มาตรการภาษีและบูม AI ดันเหล็กสหรัฐฯแซงญี่ปุ่นขึ้นเบอร์ 3 ของโลกในรอบ 26 ปี",
+            "summary": "การขับเคลื่อนด้วยนโยบายการการค้าและความต้องการจากภาคเทคโนโลยี ทำให้การผลิตเหล็กของสหรัฐฯ แซงหน้าญี่ปุ่นเป็นครั้งแรกในรอบกว่าสองทศวรรษ สะท้อนการเปลี่ยนแปลงระดับภูมิภาคในการผลิตโลหะหนัก",
+            "why": "การเปลี่ยนแปลงของศูนย์กลางการผลิตเหล็กระดับโลกส่งผลโดยตรงต่ออุตสาหกรรมแปรรูปโลหะหนัก การเจียรเหล็กโครงสร้าง และความต้องการใช้วัสดุขัดกระดาษทรายในอเมริกาเหนือ",
+            "action": "ติดตามการเปลี่ยนแปลงระดับภูมิภาคของปริมาณการผลิตโลหะ เพื่อคาดการณ์ความต้องการในห่วงโซ่อุปทานและการส่งออกที่อาจเปลี่ยนไป"
           }
         },
         {
           "id": "20261128-w2",
-          "tag": "steel",
+          "tag": "coating",
           "rating": "amber",
-          "source": "White & Case LLP",
-          "date": "2026-04-07",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQnRsZWd5QXNYSGNPeUpkRG9sTExzZzFGNlBSU3h5OGxQYVpFOUc1ODdRQklrMFlXOTVMczJseEN2M092NExBUmItUEVRQnFSc3l2QzN2U2tZZFFVWE10UXZQdnNyTE80dFRkbXVIRFRsMDRTUllXbFFMOWdkc1JXc1dlVnhveUxGek9XX2lxVks0NVp3ckRZUzIyLW5jWmE2YkFxU1BqdEtoVjFj?oc=5",
-          "title": "United States modifies steel, aluminum, and copper Section 232 tariffs",
-          "summary": "The US has updated Section 232 tariffs on steel, aluminum, and copper, altering trade flows and metal sourcing worldwide.",
-          "why": "Shifting metal trade routes impact local metal processing hubs globally as mills adjust export destinations, directly affecting regional fabrication and metal finishing activity.",
-          "action": "Keep an eye on how local metal fabricators react to fluctuating imported metal costs and availability.",
+          "source": "Fortune Business Insights",
+          "date": "2026-11-02",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE10TVNUVVlScmhhc1JDQ2FXMUJVUnk4Y1l0NEdHQW93bkZpVUhoSC1Ia01lYk5YRjMzanJCTklyak14NkdXSU1BeWZ6ZE5odnRtZ0NXTmUyLWV4VXRzRHd1cEJHSHplc25GV25TVkNXeXV3YW5EWXNiU3BRUQ?oc=5",
+          "title": "Coating Additives Market Size, Share & Growth Report, 2034",
+          "summary": "The global coating additives market continues to expand steadily through 2034, driven by performance demands across automotive, industrial, and architectural applications.",
+          "why": "Advances in surface coatings often require upgraded pre-treatment, sanding, and surface preparation processes before application.",
+          "action": "Keep track of new coating formulations that might demand finer surface prep or specialized abrasive profiles.",
           "th": {
-            "title": "สหรัฐฯ ปรับแก้มาตรการภาษีเหล็ก อลูมิเนียม และทองแดง ตามมาตรา 232",
-            "summary": "สหรัฐฯ ปรับปรุงภาษีนำเข้าเหล็ก อลูมิเนียม และทองแดง ส่งผลให้ทิศทางการค้าและแหล่งจัดหาโลหะทั่วโลกเปลี่ยนไป",
-            "why": "การเปลี่ยนเส้นทางการค้าโลหะส่งผลกระทบต่อศูนย์กลางแปรรูปโลหะทั่วโลก เนื่องจากโรงงานต้องปรับตลาดส่งออก ซึ่งกระทบโดยตรงต่อกิจกรรมการขึ้นรูปและการตกแต่งผิวโลหะในภูมิภาค",
-            "action": "จับตาดูว่าผู้ประกอบการแปรรูปโลหะในท้องถิ่นปรับตัวอย่างไรต่อต้นทุนและความพร้อมของโลหะนำเข้าที่ผันผวน"
+            "title": "รายงานขนาด ส่วนแบ่ง และการเติบโตของตลาดสารเติมแต่งสารเคลือบ ถึงปี 2034",
+            "summary": "ตลาดสารเติมแต่งสารเคลือบระดับโลกยังคงเติบโตอย่างต่อเนื่องจนถึงปี 2034 โดยได้รับแรงหนุนจากความต้องการด้านประสิทธิภาพในงานยานยนต์ อุตสาหกรรม และสถาปัตยกรรม",
+            "why": "ความก้าวหน้าของสารเคลือบพื้นผิว มักมาพร้อมกับความต้องการกระบวนการเตรียมผิว การขัดกระดาษทราย และการปรับสภาพพื้นผิวที่ดีขึ้นก่อนการเคลือบ",
+            "action": "ติดตามสูตรสารเคลือบใหม่ๆ ที่อาจต้องการกระบวนการเตรียมผิวที่ละเอียดยิ่งขึ้น หรือรูปแบบวัสดุขัดที่จำเพาะเจาะจง"
           }
         },
         {
           "id": "20261128-w3",
           "tag": "coating",
           "rating": "amber",
-          "source": "European Coatings",
-          "date": "2025-06-17",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd21RWG1HSjhUUkpxbnAzbHotdG5VREtScy1uanpIZG9wQUZUc2hhZmROMDdfNnFRZEZ4anNGb2lWaFJTNVZLRGg4T2NFSzhvZk9NVDZPeFRLTEhRNXVveEZxSnAtdHZNYXZiWU5YaGxBMkFJMDZkbTBocDhfVGppVkZBSEtISkUtN19oZ2JldEE1N3JGZVMzMm13SHkyeXRMYS1sRkFTc3RyQUxHenF6SzBIenZ2S1lBeEJSOVJFUFdqb29EMHh1RUxB?oc=5",
-          "title": "Trends in pre-treatment and electrodeposition coating for automotive bodies",
-          "summary": "Recent analyses outline advanced pre-treatment and e-coat technologies designed to improve corrosion resistance and adherence on complex vehicle bodies.",
-          "why": "Surface pre-treatment methods dictate how abrasives are used for mechanical keying, weld cleaning, and body smoothing prior to painting in automotive manufacturing.",
-          "action": "Note the trend toward tighter pre-treatment standards, ensuring our sanding products match advanced coating adhesion requirements.",
+          "source": "MarketsandMarkets",
+          "date": "2026-08-23",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNemtIMHFiZUJnSkx6VkNqNjlnbndvRjh4WUNDbHNESmhLYVRnc0R4a1EzRW1YQUxvLXZ4Q3V6djlKQnRYczZyUFFybUEzemVSNjhzZ2pMa3h1Um1yWFQ4eDY0QUxvdF8tSG90QmFET1MzUzkxWkxwU2I1eGtrNjJfSjYyYmg0NjBhcTBDcA?oc=5",
+          "title": "US Powder Coatings Market Size, Share, Trends, Growth Analysis Report, 2031",
+          "summary": "The US powder coatings sector shows robust growth trends heading into 2031, favored for durability and eco-friendly manufacturing profiles.",
+          "why": "Powder coating requires stringent metal surface profiling and mechanical prep to ensure proper adhesion on industrial components.",
+          "action": "Understand how powder-coated metal preparation specs impact the surface roughness (Ra value) required from abrasives.",
           "th": {
-            "title": "แนวโน้มการเตรียมพื้นผิวและสีชุบไฟฟ้าสำหรับตัวถังรถยนต์",
-            "summary": "บทวิเคราะห์ล่าสุดระบุถึงเทคโนโลยีการเตรียมพื้นผิวและสีชุบไฟฟ้า (e-coat) ขั้นสูงที่ออกแบบมาเพื่อเพิ่มความทนทานต่อการกัดกร่อนและการยึดเกาะบนตัวถังรถยนต์",
-            "why": "วิธีการเตรียมพื้นผิวเป็นตัวกำหนดการใช้กระดาษทรายและผลิตภัณฑ์ขัดในการสร้างความหยาบเพื่อยึดเกาะ ทำความสะอาดรอยเชื่อม และปรับเรียบตัวถังก่อนพ่นสี",
-            "action": "สังเกตแนวโน้มมาตรฐานการเตรียมพื้นผิวที่เข้มงวดขึ้น เพื่อให้แน่ใจว่าผลิตภัณฑ์ขัดของเราตอบสนองความต้องการในการยึดเกาะของสารเคลือบขั้นสูง"
-          }
-        },
-        {
-          "id": "20261128-w4",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "Automotive Manufacturing Solutions",
-          "date": "2026-11-06",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPU0NJV1VEcllWeWRPU21VOHlULVpnYWR2ZXVmMk5QSHVZNHFYRC1nN2hlUnJ5VmdXNl9LWmRPTmR2X1lzRlBqcl8tOTZxdE9pNkVTRG14R2NpRHIxNTQ2S2NWcGxQeGF5bWxHdGFxWEN5em12c09Wb1piMnlUejBGc08xemxCQjZUd0llY2k4MmxfVUlkaHlIN21FQ1RPeVl2a3YyZ1BZSE4zeVhHWUVFemF6R3ZyR0lLa0lEMUY1R0k3T0ZlblpKZUFKVEFYV3ZDYlZNQTZYSDRYVjRvSjVLSkE2RTlzdl9tNEctT2JWblVNYndVZnNJeg?oc=5",
-          "title": "Smart factory trends and lessons for 2027: Flexibility, AI and global competitiveness",
-          "summary": "Automotive manufacturers are accelerating smart factory investments focusing on production line flexibility, AI-driven quality control, and global cost competitiveness.",
-          "why": "Automated finishing cells in smart factories require consistent, high-performance robotic abrasives and automated disc changers rather than manual sanding sheets.",
-          "action": "Explore partnerships or product lines suitable for robotic sanding and automated metal finishing systems.",
-          "th": {
-            "title": "เทรนด์โรงงานอัจฉริยะสำหรับปี 2027: ความยืดหยุ่น AI และความสามารถในการแข่งขันระดับโลก",
-            "summary": "ผู้ผลิตยานยนต์เร่งลงทุนในโรงงานอัจฉริยะโดยเน้นความยืดหยุ่นของสายการผลิต การควบคุมคุณภาพด้วย AI และการแข่งขันด้านต้นทุน",
-            "why": "เซลล์ขัดผิวอัตโนมัติในโรงงานอัจฉริยะต้องการกระดาษทรายและผลิตภัณฑ์ขัดสำหรับหุ่นยนต์ที่มีคุณภาพสูงสม่ำเสมอ แทนการใช้มือขัดแบบเดิม",
-            "action": "สำรวจพันธมิตรทางธุรกิจหรือกลุ่มผลิตภัณฑ์ที่เหมาะสมกับระบบขัดผิวด้วยหุ่นยนต์และงานอัตโนมัติ"
+            "title": "รายงานขนาด ส่วนแบ่ง แนวโน้ม และการวิเคราะห์การเติบโตของตลาดสีฝุ่นในสหรัฐฯ ถึงปี 2031",
+            "summary": "ภาคอุตสาหกรรมสีฝุ่นในสหรัฐฯ แสดงแนวโน้มการเติบโตที่แข็งแกร่งจนถึงปี 2031 เนื่องจากความทนทานและกระบวนการผลิตที่เป็นมิตรต่อสิ่งแวดล้อม",
+            "why": "การเคลือบสีฝุ่นจำเป็นต้องมีการเตรียมผิวโลหะและการเตรียมพื้นผิวทางกลที่ได้มาตรฐาน เพื่อให้มั่นใจว่าสีจะยึดเกาะกับชิ้นส่วนอุตสาหกรรมได้อย่างดี",
+            "action": "ทำความเข้าใจว่าข้อกำหนดการเตรียมผิวโลหะสำหรับเคลือบสีฝุ่น ส่งผลอย่างไรต่อค่าความหยาบของพื้นผิว (ค่า Ra) ที่ต้องการจากกระบวนการขัด"
           }
         }
       ]
