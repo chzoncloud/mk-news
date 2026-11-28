@@ -3,100 +3,64 @@ window.NEWS_ARCHIVE = {
   "days": [
     {
       "date": "2026-11-28",
-      "summary": "Key policy adjustments supporting Japanese hybrid vehicles provide an immediate boost to engine parts machining and deburring demand, while long-term aerospace MRO commitments in the EEC continue to solidify. Today brings fresh strategic updates across automotive and aviation sectors.",
+      "summary": "Today has limited new developments compared to recent reports, but BYD's expansion in Thailand presents a key positive opportunity for local parts suppliers, while steel and furniture exports face persistent headwinds.",
       "directCount": 1,
       "th": {
-        "summary": "การปรับนโยบายภาครัฐที่เอื้อต่อรถยนต์ไฮบริดของค่ายญี่ปุ่นช่วยกระตุ้นความต้องการขัดลบครีบและเตรียมผิวชิ้นส่วนเครื่องยนต์โลหะโดยตรง ขณะที่โครงการศูนย์ซ่อม MRO การบินในพื้นที่ EEC มีความชัดเจนเป็นรูปธรรมขึ้นอย่างต่อเนื่อง"
+        "summary": "วันนี้มีข่าวใหม่ไม่มากเมื่อเทียบกับประเด็นที่รายงานไปแล้ว โดยมีไฮไลต์สำคัญคือการขยายฐานผลิตและชิ้นส่วนของ BYD ซึ่งส่งผลบวกต่อผู้ผลิตชิ้นส่วนในไทย ขณะที่อุตสาหกรรมเหล็กและส่งออกเฟอร์นิเจอร์ยังเผชิญแรงกดดันต่อเนื่อง"
       },
       "items": [
         {
           "id": "20261128-1",
           "tag": "auto",
           "rating": "green",
-          "source": "Thansettakij",
-          "date": "2026-11-25",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UQTZORjhVcGVwRVdaRkJGYVZ5TVNsLW9zWHNiTG1nTEdYeU1yRy1hTEhFRy0xYzRON3ZFMllvTXNLcGR3di1VMnRma2Y3c1B3WmR3LUNFUDdWdk0?oc=5",
-          "title": "Government Shifts EV Policy to Support Japanese Hybrids, Spurring Toyota and Honda Reinvestment",
-          "summary": "The Thai government has recalibrated its automotive incentives to support hybrid vehicle production, prompting fresh capital commitments from Japanese giants Toyota and Honda. This shift aims to preserve the existing domestic combustion and hybrid powertrain supply chain.",
-          "why": "Hybrid vehicles require internal combustion engine blocks, transmissions, and precision metal parts, generating far higher abrasive demand for deburring and grinding compared to pure BEVs. This directly secures workload for our core Japanese Tier-1 and Tier-2 automotive clients.",
-          "action": "Target Japanese metal-stamping and powertrain component makers immediately with tailored grinding wheel and abrasive belt trials for hybrid engine lines.",
+          "source": "ภูมิใจ ไทย",
+          "date": "2026-11-20",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5hdjlkQ21VVWpjYWFkLUhzZUw1YklWRWhNX05wZ2J5WkRIRWk4VDNmV01Fb2RnVXZlb2lLdEJRb2Z1SXU0ZGZIZTlRTQ?oc=5",
+          "title": "BYD Plans Expansion of Thai EV Production Base, Boosting Domestic Parts Sourcing",
+          "summary": "BYD is preparing to expand its EV manufacturing footprint in Thailand to serve both global exports and domestic sales, emphasizing greater integration of local auto parts.",
+          "why": "Increased local component sourcing directly drives metal stamping, machining, and surface prep activity, raising demand for cutting and deburring abrasives.",
+          "action": "Map and pitch abrasive discs, belts, and wheels to Tier-1 and Tier-2 stamping suppliers entering the BYD supply chain.",
           "th": {
-            "title": "รัฐบาลปรับหมาก EV เอื้อไฮบริดญี่ปุ่น โตโยต้า-ฮอนด้า ลุยลงทุนใหม่",
-            "summary": "รัฐบาลไทยปรับเปลี่ยนนโยบายส่งเสริมยานยนต์โดยหันมาสนับสนุนรถยนต์ไฮบริด ส่งผลให้ค่ายรถยนต์ยักษ์ใหญ่สัญชาติญี่ปุ่นอย่างโตโยต้าและฮอนด้าเตรียมลุยลงทุนรอบใหม่เพื่อรักษาห่วงโซ่อุปทานเดิม",
-            "why": "เครื่องยนต์ไฮบริดยังต้องใช้บล็อกเครื่องยนต์ เกียร์ และชิ้นงานโลหะความแม่นยำสูง ซึ่งใช้วัสดุขัดลบครีบและเจียรผิวมากกว่ารถ EV ล้วนอย่างมาก ช่วยรักษาปริมาณงานโรงงานญี่ปุ่นที่เป็นลูกค้าหลักของเรา",
-            "action": "เร่งเข้าพบฝ่ายจัดซื้อโรงงานผลิตชิ้นส่วนยานยนต์และปั๊มขึ้นรูปโลหะค่ายญี่ปุ่นเพื่อเสนอจานขัดและสายพานผ้าทรายสำหรับไลน์ชิ้นส่วนไฮบริด"
+            "title": "BYD เตรียมขยายฐานผลิต EV ในไทย ดันใช้ชิ้นส่วนในประเทศและส่งออกทั่วโลก",
+            "summary": "BYD เตรียมขยายโรงงานผลิตรถยนต์ไฟฟ้าในไทยเพื่อส่งออกและขายในประเทศ พร้อมเน้นย้ำนโยบายดึงชิ้นส่วนยานยนต์ในไทยเข้าสู่ห่วงโซ่การผลิต",
+            "why": "การเพิ่มสัดส่วนชิ้นส่วนในประเทศส่งผลให้โรงงานปั๊มขึ้นรูปโลหะและชิ้นส่วนยานยนต์ผลิตงานมากขึ้น ผลักดันความต้องการวัสดุขัดลบครีบและเตรียมผิว",
+            "action": "รุกติดต่อโรงงาน Tier-1/Tier-2 ฝ่ายปั๊มและกลึงชิ้นส่วนโลหะที่อยู่ในซัพพลายเชนของ BYD เพื่อนำเสนอจานขัดและสายพานผ้าทราย"
           }
         },
         {
           "id": "20261128-2",
-          "tag": "auto",
+          "tag": "steel",
           "rating": "amber",
-          "source": "Thansettakij",
-          "date": "2026-11-27",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5ZFBWTnV2aWhQeW50UnhoY3UtdFVXME9IZjFQRGRvRldYWnljbi1OejVjcXhNb2NxeDFWN2VQSlFBcmJwdUREOXdRWFhPWl90bWZFOWxn?oc=5",
-          "title": "EEC Confirms Resilient Thai EV Base, Projecting Minimal Exposure to US Tariffs",
-          "summary": "The Eastern Economic Corridor Office stated that Thailand's EV production hub remains robust against potential US tariff adjustments, as local output primarily serves domestic and regional ASEAN markets. Automotive investment projects across Rayong and Chonburi proceed as scheduled.",
-          "why": "Stable production targets in the Eastern Economic Corridor ensure predictable operating rates and abrasive consumption across automotive assembly and parts plants.",
-          "action": "Audit consignment abrasive inventory levels for contract accounts operating inside Eastern Seaboard industrial estates.",
+          "source": "LINE TODAY",
+          "date": "2025-12-28",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MbDY2SkFDN1VRQXdMaUF1Nmhlb3U0dTZLVzlMUkVDTTJlTy1UMFhMWFctVHJzWEhCd1lZUXZzaGpCMnJoNDBFOXRUclB2TXZ1ZkVlbjZB?oc=5",
+          "title": "10 Thai Steel Associations Urge Crackdown on Influx of Cheap Chinese Finished Steel",
+          "summary": "Ten domestic steel trade groups are sounding alarms over severe margin compression from dumped Chinese steel and are petitioning the government for strict import curbs.",
+          "why": "Struggling local steel mills and fabricators may cut shifts and reduce fabrication output, temporarily slowing abrasive consumption in heavy structural steel.",
+          "action": "Shift abrasive sales focus away from basic construction steel fabricators toward specialized industrial equipment and precision metal fabricators.",
           "th": {
-            "title": "EECO การันตีฐานผลิต EV ไทยแกร่ง ชี้ภาษีสหรัฐฯ กระทบรถไทยจำกัด",
-            "summary": "สำนักงาน EEC ยืนยันฐานการผลิตยานยนต์และ EV ของไทยยังคงแข็งแกร่งและได้รับผลกระทบจำกัดจากนโยบายภาษีสหรัฐฯ เนื่องจากเน้นส่งออกในอาเซียนและจำหน่ายในประเทศ โครงการลงทุนในระยอง-ชลบุรียังเดินหน้าตามแผน",
-            "why": "ความมั่นคงของฐานการผลิตในเขต EEC ช่วยให้อัตราการเดินเครื่องจักรและยอดใช้วัสดุขัดในโรงงานประกอบและชิ้นส่วนยานยนต์ไม่สะดุด",
-            "action": "ตรวจสอบระดับสต็อกสินค้าฝากขาย (Consignment) ของกลุ่มลูกค้าโรงงานในนิคมอุตสาหกรรมแถบอีสเทิร์นซีบอร์ดเพื่อพร้อมจ่ายสินค้าต่อเนื่อง"
+            "title": "10 สมาคมเหล็กรับมือวิกฤตสินค้าจีนทุ่มตลาด จี้รัฐคุมเข้มห้ามนำเข้าเหล็กสำเร็จรูป",
+            "summary": "10 สมาคมเหล็กไทยร้องเรียนผลกระทบจากเหล็กราคาถูกจากจีนทะลักเข้ามากระทบผู้ผลิตในประเทศอย่างรุนแรง พร้อมเสนอให้รัฐบาลควบคุมการนำเข้าเหล็กสำเร็จรูป",
+            "why": "โรงงานเหล็กและงานแปรรูปโครงสร้างเหล็กในประเทศที่ชะลอการผลิตจะลดการใช้วัสดุขัดเจียรผิวโลหะพื้นฐาน",
+            "action": "ปรับสัดส่วนการขายวัสดุขัดจากกลุ่มแปรรูปเหล็กโครงสร้างทั่วไป ไปยังกลุ่มโรงงานแปรรูปโลหะเฉพาะทางและเครื่องจักรที่มีมาร์จิ้นสูงกว่า"
           }
         },
         {
           "id": "20261128-3",
-          "tag": "aero",
-          "rating": "amber",
-          "source": "ผู้จัดการออนไลน์",
-          "date": "2026-10-06",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIazdnNjc2TVdpRWNOSTNQS2tlaWFWdl9KbE5OaEdlLWlZX0RaWERWWjhJV1l0MjdTejNaSHVhOEMwSThnWmtFaUJMWVAydHIxVkFKTktiQ0pXb09KVVRLWg?oc=5",
-          "title": "EEC and Thai Airways Formalize 10-Billion-Baht U-Tapao Aviation MRO Hub",
-          "summary": "EEC and Thai Airways signed a definitive agreement for a 10-billion-baht regional maintenance, repair, and overhaul (MRO) facility at U-Tapao Airport, scheduled for groundbreaking in 2027 and operation by 2030. The hub targets projected annual revenues of 4 to 6 billion baht from airframe and engine servicing.",
-          "why": "Formal execution of this mega-project guarantees long-term regional demand for certified aerospace-grade abrasives, surface conditioning tools, and high-precision polishing media.",
-          "action": "Initiate research on aerospace-standard surface finishing qualifications to pre-qualify abrasive product lines before maintenance tooling tenders begin.",
-          "th": {
-            "title": "เซ็นแล้ว! EEC - การบินไทย ลงทุน MRO อู่ตะเภาหมื่นล้าน คาดตอกเข็มปี 70 เปิดปี 73",
-            "summary": "อีอีซีลงนามร่วมกับการบินไทยลุยลงทุนศูนย์ซ่อมบำรุงอากาศยาน (MRO) มูลค่าหมื่นล้านบาท ณ สนามบินอู่ตะเภา เตรียมลงเสาเข็มปี 2570 และเปิดบริการปี 2573 คาดสร้างรายได้ปีละ 4-6 พันล้านบาท",
-            "why": "การลงนามสัญญาจริงยืนยันการเกิดขึ้นของอุตสาหกรรมซ่อมบำรุงอากาศยานในไทย ซึ่งต้องใช้วัสดุขัดเกรดการบินและงานเตรียมผิวโลหะมาตรฐานสูงในระยะยาว",
-            "action": "เริ่มศึกษาเกณฑ์มาตรฐานการรับรองวัสดุขัดผิวสำหรับงานอากาศยาน เพื่อเตรียมความพร้อมของแบรนด์ก่อนเปิดประมูลจัดซื้อเครื่องมือบำรุงรักษา"
-          }
-        },
-        {
-          "id": "20261128-4",
-          "tag": "aero",
-          "rating": "amber",
-          "source": "Thansettakij",
-          "date": "2026-08-01",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJbG91NDM0Z1ZuZmRPYUc4dlRzSXYwVXRnb1l5dGZyZUJLSDZqUXhOSnVzSXVQeTdRME04Y1c5TVB5SC0wOENDcm9VeDhaT3Fha0ZocE90aEgzNXpNOGVmYklR?oc=5",
-          "title": "Thai Airways Commits 100 Billion Baht to Expand Commercial Fleet to 150 Aircraft",
-          "summary": "Thai Airways announced a 100-billion-baht fleet expansion to reach 150 aircraft, aiming to reclaim market leadership across global and regional flight routes. The expanded fleet will significantly increase routine local airframe maintenance workloads.",
-          "why": "A rapidly expanding domestic aircraft fleet directly multiplies routine maintenance cycles, engine overhaul operations, and localized composite and aluminum skin polishing requirements.",
-          "action": "Connect with Thai Airways technical maintenance procurement officers to introduce specialized micro-finishing films and non-woven blending discs.",
-          "th": {
-            "title": "การบินไทย ฝ่าตะวันออกกลาง ทุ่มแสนล้าน ดันฝูงบิน 150 ลำ ทวงบัลลังก์สายการบินระดับโลก",
-            "summary": "การบินไทยเดินหน้าแผนขยายฝูงบินสู่ 150 ลำ ด้วยงบลงทุนกว่าแสนล้านบาท เพื่อเสริมขีดความสามารถการบินระดับโลก ซึ่งจะเพิ่มปริมาณงานตรวจเช็กและซ่อมบำรุงโครงสร้างอากาศยานในประเทศ",
-            "why": "จำนวนฝูงบินที่เพิ่มขึ้นจะช่วยขยายรอบการซ่อมบำรุงชิ้นส่วนอลูมิเนียม โลหะผสม และวัสดุคอมโพสิตของเครื่องบิน ซึ่งเป็นงานที่ต้องใช้วัสดุขัดความละเอียดสูง",
-            "action": "เข้าติดต่อฝ่ายจัดซื้อช่างซ่อมบำรุงอากาศยานเพื่อแนะนำผลิตภัณฑ์แผ่นฟิล์มขัดผิวละเอียดและแผ่นใยสังเคราะห์ขัดเงาโลหะเฉพาะทาง"
-          }
-        },
-        {
-          "id": "20261128-5",
           "tag": "furniture",
           "rating": "amber",
-          "source": "เดลินิวส์",
-          "date": "2026-09-03",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQOG53VVJYRkd4MUZabFczX0FkeTVGTGNFYmZGUUxkTnJ6VjNmeklDTUZEYXlVRkpjS1gzeUxQczJHMXJRS3c1dEdWSk14eVVqczJN?oc=5",
-          "title": "TIWF 2026 Prepares Regional Woodworking and Furniture Manufacturing Showcase",
-          "summary": "Organizers of TIWF 2026 announced broad readiness for Thailand's premier woodworking and furniture machinery exhibition, designed to elevate regional export production standards. The trade fair connects industrial machinery suppliers with solid wood and panel processing factories across ASEAN.",
-          "why": "Industrial woodworking and commercial furniture fabrication represent high-volume recurring consumers of wide sanding belts, hook-and-loop discs, and portable sandpaper rolls.",
-          "action": "Register for vendor attendance or exhibition space at TIWF 2026 to showcase our heavy-duty wide sanding belt conversion capabilities to export-oriented furniture makers.",
+          "source": "kasikornbank.com",
+          "date": "2025-10-09",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR0I3LUFaeENxbzdDQVF4UDdVMFlmRWp4Y3BBdFZ6OGFQeUdZZ3Y5dHA5Q2ZxRXJIaTUtLVNVY29QM3RuSk1RMmpaeXhucHEwLWRiMFlsbkJRNEtYY3RWSDZNNXRBUXdfb0hDV0IzR1pkRW5ERC1xSkQtN21WZTVveUNtdURRYmN3QjQxUDRHS2g1dDNkSGdRVVJGU2tBNGJ3WDREcGh1N2VrdnN6MExB?oc=5",
+          "title": "Thai Furniture Exports Projected to Contract 4.5% After Surge in US Demand Normalizes",
+          "summary": "Kasikorn Research projects Thai furniture exports to contract by 4.5% as front-loaded orders from the US normalize and economic uncertainty weighs on global furniture consumption.",
+          "why": "A slowdown in export-oriented wooden furniture manufacturing will reduce production volume and demand for wide sanding belts and finishing paper in export mills.",
+          "action": "Balance wood-sanding revenue by driving DIY and renovation retail sales via Shopee and TikTok, offsetting export factory slowdowns.",
           "th": {
-            "title": "TIWF 2026 ประกาศความพร้อม จัดงานใหญ่ระดับภูมิภาค ยกระดับอุตสาหกรรมไม้และเฟอร์นิเจอร์",
-            "summary": "ผู้จัดงาน TIWF 2026 ประกาศความพร้อมจัดงานแสดงสินค้าเครื่องจักรอุตสาหกรรมไม้และเฟอร์นิเจอร์ระดับอาเซียน เพื่อยกระดับเทคโนโลยีการแปรรูปไม้และการผลิตเฟอร์นิเจอร์ส่งออกของไทย",
-            "why": "โรงงานแปรรูปไม้และเฟอร์นิเจอร์ส่งออกเป็นกลุ่มที่ใช้สายพานผ้าทรายหน้ากว้าง กระดาษทรายกลม และม้วนผ้าทรายในปริมาณมากและสม่ำเสมอ",
-            "action": "วางแผนเข้าร่วมงานหรือออกบูธในงาน TIWF 2026 เพื่อโปรโมตความสามารถในการตัดต่อสายพานผ้าทรายหน้ากว้างป้อนโรงงานเฟอร์นิเจอร์รายใหญ่"
+            "title": "ส่งออกเฟอร์นิเจอร์ไทยจ่อหดตัว 4.5% หลังแรงหนุนสต็อกสินค้าสหรัฐฯ คลี่คลาย",
+            "summary": "ศูนย์วิจัยกสิกรไทยคาดการณ์ส่งออกเฟอร์นิเจอร์ไทยพลิกกลับมาหดตัว 4.5% หลังจากตลาดสหรัฐฯ ชะลอการเร่งนำเข้าสต็อกและกำลังซื้อชะลอตัว",
+            "why": "การชะลอตัวของโรงงานเฟอร์นิเจอร์ไม้ส่งออกจะทำให้รอบการใช้งานกระดาษทรายสายพานกว้างและจานทรายขัดไม้ในโรงงานอุตสาหกรรมลดลง",
+            "action": "เร่งผลักดันยอดขายสินค้าขัดงานไม้สำหรับงาน DIY ช่างท้องถิ่น และรีโนเวทบ้านผ่านช่องทาง Shopee และ TikTok เพื่อชดเชยการชะลอตัวของโรงงานส่งออก"
           }
         }
       ],
