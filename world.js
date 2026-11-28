@@ -1,7 +1,89 @@
 /* auto-generated ทุกเช้าโดย GitHub Actions — ข่าวเทรนด์โลก เก็บย้อนหลัง 14 วัน อย่าแก้มือ */
 window.WORLD_ARCHIVE = {
-  "updated": "2026-11-27",
+  "updated": "2026-11-28",
   "days": [
+    {
+      "date": "2026-11-28",
+      "summary": "Today's briefing focuses on steel production shifts towards electric arc furnaces (EAF), evolving metal trade and tariff policies, and innovations in automotive pre-treatments and coatings.",
+      "directCount": 4,
+      "th": {
+        "summary": "สรุปทิศทางโลกประจำวันนี้เน้นการเปลี่ยนผ่านการผลิตเหล็กสู่เตาอาร์คไฟฟ้า (EAF) นโยบายการค้าและภาษีโลหะ รวมถึงนวัตกรรมสารเคลือบและเตรียมพื้นผิวในยานยนต์"
+      },
+      "items": [
+        {
+          "id": "20261128-w1",
+          "tag": "steel",
+          "rating": "green",
+          "source": "McKinsey & Company",
+          "date": "2026-06-30",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ1lIMXpVNV9qTXBac1FLRlBEWVhTbUo3Z1h4b1R1NXBNQzRJZlpuU01sM0g3UFlVRHM4Ui1LREZKUENoUmhFWEZpMVllYUFZZU9kYXVxUmNTV1A4bFhQazhadEpaakw5LTE3SnBIS3BjNzFPWW1EZU4ybzdOSXdkSEtB?oc=5",
+          "title": "EAF steel: Beyond the blast furnace",
+          "summary": "McKinsey highlights the global industry transition toward Electric Arc Furnace (EAF) steelmaking, which changes scrap metal usage and recycling flows.",
+          "why": "EAF steel production often generates different surface scale and defect profiles compared to blast furnace steel, influencing the types and volumes of heavy-duty grinding and deburring abrasives required.",
+          "action": "Monitor EAF steel mills' surface preparation requirements and align our heavy grinding product offerings accordingly.",
+          "th": {
+            "title": "เหล็ก EAF: ก้าวข้ามเตาถลุงเหล็กแบบดั้งเดิม",
+            "summary": "McKinsey ระบุถึงการเปลี่ยนผ่านของอุตสาหกรรมโลกไปสู่การผลิตเหล็กด้วยเตาอาร์คไฟฟ้า (EAF) ซึ่งเปลี่ยนรูปแบบการใช้เศษเหล็กและกระบวนการรีไซเคิล",
+            "why": "การผลิตเหล็ก EAF มักสร้างสภาพพื้นผิวและคราบสะเก็ดที่ต่างจากเตาถลุงทั่วไป ซึ่งส่งผลต่อประเภทและปริมาณของผลิตภัณฑ์ขัดและลบคมที่จำเป็นต้องใช้",
+            "action": "ติดตามความต้องการเตรียมพื้นผิวของโรงงานเหล็ก EAF และปรับกลุ่มผลิตภัณฑ์งานขัดหยาบให้สอดคล้องกัน"
+          }
+        },
+        {
+          "id": "20261128-w2",
+          "tag": "steel",
+          "rating": "amber",
+          "source": "White & Case LLP",
+          "date": "2026-04-07",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQnRsZWd5QXNYSGNPeUpkRG9sTExzZzFGNlBSU3h5OGxQYVpFOUc1ODdRQklrMFlXOTVMczJseEN2M092NExBUmItUEVRQnFSc3l2QzN2U2tZZFFVWE10UXZQdnNyTE80dFRkbXVIRFRsMDRTUllXbFFMOWdkc1JXc1dlVnhveUxGek9XX2lxVks0NVp3ckRZUzIyLW5jWmE2YkFxU1BqdEtoVjFj?oc=5",
+          "title": "United States modifies steel, aluminum, and copper Section 232 tariffs",
+          "summary": "The US has updated Section 232 tariffs on steel, aluminum, and copper, altering trade flows and metal sourcing worldwide.",
+          "why": "Shifting metal trade routes impact local metal processing hubs globally as mills adjust export destinations, directly affecting regional fabrication and metal finishing activity.",
+          "action": "Keep an eye on how local metal fabricators react to fluctuating imported metal costs and availability.",
+          "th": {
+            "title": "สหรัฐฯ ปรับแก้มาตรการภาษีเหล็ก อลูมิเนียม และทองแดง ตามมาตรา 232",
+            "summary": "สหรัฐฯ ปรับปรุงภาษีนำเข้าเหล็ก อลูมิเนียม และทองแดง ส่งผลให้ทิศทางการค้าและแหล่งจัดหาโลหะทั่วโลกเปลี่ยนไป",
+            "why": "การเปลี่ยนเส้นทางการค้าโลหะส่งผลกระทบต่อศูนย์กลางแปรรูปโลหะทั่วโลก เนื่องจากโรงงานต้องปรับตลาดส่งออก ซึ่งกระทบโดยตรงต่อกิจกรรมการขึ้นรูปและการตกแต่งผิวโลหะในภูมิภาค",
+            "action": "จับตาดูว่าผู้ประกอบการแปรรูปโลหะในท้องถิ่นปรับตัวอย่างไรต่อต้นทุนและความพร้อมของโลหะนำเข้าที่ผันผวน"
+          }
+        },
+        {
+          "id": "20261128-w3",
+          "tag": "coating",
+          "rating": "amber",
+          "source": "European Coatings",
+          "date": "2025-06-17",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd21RWG1HSjhUUkpxbnAzbHotdG5VREtScy1uanpIZG9wQUZUc2hhZmROMDdfNnFRZEZ4anNGb2lWaFJTNVZLRGg4T2NFSzhvZk9NVDZPeFRLTEhRNXVveEZxSnAtdHZNYXZiWU5YaGxBMkFJMDZkbTBocDhfVGppVkZBSEtISkUtN19oZ2JldEE1N3JGZVMzMm13SHkyeXRMYS1sRkFTc3RyQUxHenF6SzBIenZ2S1lBeEJSOVJFUFdqb29EMHh1RUxB?oc=5",
+          "title": "Trends in pre-treatment and electrodeposition coating for automotive bodies",
+          "summary": "Recent analyses outline advanced pre-treatment and e-coat technologies designed to improve corrosion resistance and adherence on complex vehicle bodies.",
+          "why": "Surface pre-treatment methods dictate how abrasives are used for mechanical keying, weld cleaning, and body smoothing prior to painting in automotive manufacturing.",
+          "action": "Note the trend toward tighter pre-treatment standards, ensuring our sanding products match advanced coating adhesion requirements.",
+          "th": {
+            "title": "แนวโน้มการเตรียมพื้นผิวและสีชุบไฟฟ้าสำหรับตัวถังรถยนต์",
+            "summary": "บทวิเคราะห์ล่าสุดระบุถึงเทคโนโลยีการเตรียมพื้นผิวและสีชุบไฟฟ้า (e-coat) ขั้นสูงที่ออกแบบมาเพื่อเพิ่มความทนทานต่อการกัดกร่อนและการยึดเกาะบนตัวถังรถยนต์",
+            "why": "วิธีการเตรียมพื้นผิวเป็นตัวกำหนดการใช้กระดาษทรายและผลิตภัณฑ์ขัดในการสร้างความหยาบเพื่อยึดเกาะ ทำความสะอาดรอยเชื่อม และปรับเรียบตัวถังก่อนพ่นสี",
+            "action": "สังเกตแนวโน้มมาตรฐานการเตรียมพื้นผิวที่เข้มงวดขึ้น เพื่อให้แน่ใจว่าผลิตภัณฑ์ขัดของเราตอบสนองความต้องการในการยึดเกาะของสารเคลือบขั้นสูง"
+          }
+        },
+        {
+          "id": "20261128-w4",
+          "tag": "auto",
+          "rating": "amber",
+          "source": "Automotive Manufacturing Solutions",
+          "date": "2026-11-06",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPU0NJV1VEcllWeWRPU21VOHlULVpnYWR2ZXVmMk5QSHVZNHFYRC1nN2hlUnJ5VmdXNl9LWmRPTmR2X1lzRlBqcl8tOTZxdE9pNkVTRG14R2NpRHIxNTQ2S2NWcGxQeGF5bWxHdGFxWEN5em12c09Wb1piMnlUejBGc08xemxCQjZUd0llY2k4MmxfVUlkaHlIN21FQ1RPeVl2a3YyZ1BZSE4zeVhHWUVFemF6R3ZyR0lLa0lEMUY1R0k3T0ZlblpKZUFKVEFYV3ZDYlZNQTZYSDRYVjRvSjVLSkE2RTlzdl9tNEctT2JWblVNYndVZnNJeg?oc=5",
+          "title": "Smart factory trends and lessons for 2027: Flexibility, AI and global competitiveness",
+          "summary": "Automotive manufacturers are accelerating smart factory investments focusing on production line flexibility, AI-driven quality control, and global cost competitiveness.",
+          "why": "Automated finishing cells in smart factories require consistent, high-performance robotic abrasives and automated disc changers rather than manual sanding sheets.",
+          "action": "Explore partnerships or product lines suitable for robotic sanding and automated metal finishing systems.",
+          "th": {
+            "title": "เทรนด์โรงงานอัจฉริยะสำหรับปี 2027: ความยืดหยุ่น AI และความสามารถในการแข่งขันระดับโลก",
+            "summary": "ผู้ผลิตยานยนต์เร่งลงทุนในโรงงานอัจฉริยะโดยเน้นความยืดหยุ่นของสายการผลิต การควบคุมคุณภาพด้วย AI และการแข่งขันด้านต้นทุน",
+            "why": "เซลล์ขัดผิวอัตโนมัติในโรงงานอัจฉริยะต้องการกระดาษทรายและผลิตภัณฑ์ขัดสำหรับหุ่นยนต์ที่มีคุณภาพสูงสม่ำเสมอ แทนการใช้มือขัดแบบเดิม",
+            "action": "สำรวจพันธมิตรทางธุรกิจหรือกลุ่มผลิตภัณฑ์ที่เหมาะสมกับระบบขัดผิวด้วยหุ่นยนต์และงานอัตโนมัติ"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-11-27",
       "summary": "Today's briefing focuses on global manufacturing shifts, including stainless steel production forecasts, metal finishing supply chain comparisons, and smart factory trends for 2027.",
@@ -866,70 +948,6 @@ window.WORLD_ARCHIVE = {
             "summary": "การผลิตยานยนต์ระดับโลกกำลังรับมือกับจุดตัดระหว่างนโยบาย EV ที่เข้มข้นและความเป็นจริงในการดำเนินงานของโรงงาน ซึ่งนำไปสู่การปรับเปลี่ยนสายการผลิต",
             "why": "การปรับปรุงสายการผลิตในโรงงานยานยนต์ส่งผลโดยตรงต่อข้อกำหนดในการลบครีบ การเจียร และการขัดแต่งผิวโลหะสำหรับชิ้นส่วน EV ใหม่ๆ",
             "action": "ติดตามการเปลี่ยนแปลงของฐานการผลิตยานยนต์และข้อกำหนดเฉพาะในการขัดแต่งชิ้นส่วน"
-          }
-        }
-      ]
-    },
-    {
-      "date": "2026-11-14",
-      "summary": "Today's intelligence highlights strong long-term growth in the global abrasives market driven by precision finishing, alongside evolving EV wiring and steel market dynamics.",
-      "directCount": 3,
-      "th": {
-        "summary": "ข่าวกรองวันนี้เน้นย้ำถึงการเติบโตในระยะยาวของตลาดวัสดุขัดถูทั่วโลกที่ขับเคลื่อนด้วยความต้องการงานขัดผิวความแม่นยำสูง ควบคู่ไปกับพลวัตของตลาดสายไฟ EV และเหล็กกล้า"
-      },
-      "items": [
-        {
-          "id": "20261114-w1",
-          "tag": "abrasive",
-          "rating": "green",
-          "source": "The National Law Review",
-          "date": "2026-11-04",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObldMWTRKR1NaSHRFeGotWDBCZjVfZ29qVzY0cEswMnZiN1U2Wi1ZeFBXdGtvM1g5R0tFaUdLMWZtWXBDamtXZmJGd1JsOWJHMlhxTy1xRmdIZWZ6U2RRNGU0bFpWejVSdTQ1dVdLWmktTU9oN0dkb1hLNEU2WnBOQk5LSEtJXzJJZ1NSYmlRblN0Q25vMWw4b2ZJVDZHNG1Sb2RidUV1MlhB?oc=5",
-          "title": "Abrasives Market to Reach $72.2 Billion by 2030, Growing at a 7.6% CAGR Driven by Precision Finishing Demand",
-          "summary": "The global abrasives market is projected to reach $72.2 billion by 2030, expanding at a solid 7.6% CAGR due to rising industrial demand for precision finishing.",
-          "why": "Confirms steady long-term global growth for our core product category, especially in high-precision surface preparation sectors.",
-          "action": "Prepare inventory strategies to capture rising demand for high-end precision grinding and finishing products.",
-          "th": {
-            "title": "ตลาดวัสดุขัดถูคาดว่าจะแตะ 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 เติบโต 7.6% ต่อปี หนุนโดยความต้องการงานขัดความแม่นยำสูง",
-            "summary": "ตลาดวัสดุขัดถูทั่วโลกคาดว่าจะเติบโตถึง 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 ด้วยอัตราการเติบโตเฉลี่ย 7.6% จากความต้องการทางอุตสาหกรรมที่เพิ่มขึ้น",
-            "why": "ยืนยันการเติบโตในระยะยาวสำหรับกลุ่มผลิตภัณฑ์หลักของเรา โดยเฉพาะในภาคส่วนการเตรียมผิวที่มีความแม่นยำสูง",
-            "action": "เตรียมกลยุทธ์สินค้าคงคลังเพื่อรองรับความต้องการสินค้ากลุ่มขัดและตกแต่งผิวความละเอียดสูงที่กำลังเติบโต"
-          }
-        },
-        {
-          "id": "20261114-w2",
-          "tag": "auto",
-          "rating": "amber",
-          "source": "IndexBox",
-          "date": "2026-11-13",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYjd2c1psS2c2M3g3UlRVOVNIYWdHal9zN2hRYUxOX0g4ajZJWjdVOWc2c29VclU2cjJSYkJzcE1aYTJwcWdPX0FlNHBhbGRydXNWeGd2TmVuUXlrZ01BbWdRLVhsWm9pMkM1QjQ2M2RWeE1JdkJ3Yk92djI5Q2J1X2g4WnBqTWNlRmtwdGdJczZlbUlZNEhsVlpYeWs2MEhLSkVSUWkzdHhhNnpLRXNQQk9CZw?oc=5",
-          "title": "EV Wires Market To 2035: Growth Driven by Global EV Production Ramp-Up",
-          "summary": "The EV wires market is expanding rapidly through 2035 as global electric vehicle production scales up significantly.",
-          "why": "EV manufacturing growth impacts metal components, machining, and wire-drawing tooling that require specialized abrasive finishing.",
-          "action": "Monitor growth in EV component manufacturing for new opportunities in metal deburring and polishing applications.",
-          "th": {
-            "title": "ตลาดสายไฟ EV สู่ปี 2035: การเติบโตขับเคลื่อนจากการเร่งผลิตรถยนต์ไฟฟ้าทั่วโลก",
-            "summary": "ตลาดสายไฟรถยนต์ไฟฟ้ากำลังขยายตัวอย่างรวดเร็วจึงถึงปี 2035 ตามการเพิ่มขึ้นของการผลิตยานยนต์ไฟฟ้าทั่วโลก",
-            "why": "การเติบโตของการผลิต EV ส่งผลกระทบต่อชิ้นส่วนโลหะ งานขึ้นรูป และเครื่องมือดึงลวด ซึ่งจำเป็นต้องใช้วัสดุขัดที่จำเพาะ",
-            "action": "ติดตามการเติบโตในการผลิตชิ้นส่วน EV เพื่อหาโอกาสใหม่ๆ ในงานลบคมและขัดผิวโลหะ"
-          }
-        },
-        {
-          "id": "20261114-w3",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "IndexBox",
-          "date": "2026-11-11",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYVJwVGx6OUpnSXNGRWlUZmNVWEF2X1hTbk9senZQWnZuOURQNlB0UDJNaWxLQjM0c1U5ZnJ1TzFua2pDLU9iU2NsS2ZFbENNWnhuSlNTTnkxVF9uSnJVRjNYVDhDbGhjTnJrUnNlY2ZXMjNJeVZwSjRJM0t5czRXRFJrdkJ3cUd1YjFJaU5nMEJDYS1yaUZfNEJLQ0kxQkxxRktRS2UtOFF2ZFRhXzl2Z0RfWUpKOE0wZE1rekpfTlloMnJMbEJfbVdR?oc=5",
-          "title": "Pickling Acids Market To 2035: Steel Pickling Demand and Recycling Mandates Drive Growth",
-          "summary": "Demand for pickling acids is growing due to heightened steel pickling requirements and stricter industrial recycling mandates.",
-          "why": "Steel pickling is a crucial pre-treatment step before mechanical processing and surface finishing in metal fabrication.",
-          "action": "Keep an eye on steel surface treatment trends that precede grinding and abrasive blasting processes.",
-          "th": {
-            "title": "ตลาดกรดดองเหล็กสู่ปี 2035: ความต้องการดองเหล็กและกฎระเบียบรีไซเคิลผลักดันการเติบโต",
-            "summary": "ความต้องการกรดดองเหล็กกำลังเติบโตเนื่องจากความต้องการดองเหล็กที่สูงขึ้นและกฎข้อบังคับด้านการรีไซเคิลที่เข้มงวดขึ้น",
-            "why": "กระบวนการดองเหล็กเป็นขั้นตอนเตรียมผิวก่อนการแปรรูปทางกลและการขัดแต่งผิวในอุตสาหกรรมโลหะ",
-            "action": "ติดตามแนวโน้มการเตรียมผิวเหล็กซึ่งมักเกิดขึ้นก่อนกระบวนการเจียระไนและการพ่นขัด"
           }
         }
       ]
