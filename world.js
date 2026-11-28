@@ -4,64 +4,28 @@ window.WORLD_ARCHIVE = {
   "days": [
     {
       "date": "2026-11-28",
-      "summary": "Today's briefing focuses on global manufacturing shifts, including U.S. steel ascending to world number three driven by tariffs and AI, alongside technological advancements in coating additives and powder coatings shaping future surface finishing.",
-      "directCount": 1,
+      "summary": "Global trends highlight steady growth in the abrasives and metal surface finishing sectors, driven by demand for precision finishing, green steel regulations, and advanced coating technologies.",
+      "directCount": 5,
       "th": {
-        "summary": "สรุปรายงานวันนี้เน้นการเปลี่ยนแปลงของภาคการผลิตโลก โดยเหล็กสหรัฐฯ ขยับขึ้นสู่อันดับ 3 ของโลกจากปัจจัยภาษีและกระแส AI พร้อมทั้งความก้าวหน้าด้านเทคโนโลยีสารเติมแต่งสารเคลือบและสีฝุ่นที่ขับเคลื่อนงานตกแต่งพื้นผิวในอนาคต"
+        "summary": "แนวโน้มโลกชี้ให้เห็นการเติบโตอย่างต่อเนื่องในภาคธุรกิจวัสดุขัดและงานตกแต่งพื้นผิวโลหะ ซึ่งขับเคลื่อนโดยความต้องการงานขัดผิวความแม่นยำสูง กฎระเบียบเหล็กสีเขียว และเทคโนโลยีการเคลือบขั้นสูง"
       },
       "items": [
         {
           "id": "20261128-w1",
-          "tag": "steel",
-          "rating": "amber",
-          "source": "https://economy.ac/",
-          "date": "2026-08-07",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YQWhOYlJ3eW9jTUhwa25XdE55eHh3a2JoODhWdDAtOW00UzhXcWwtNnJJXzZGMjMtNXN6MTYwTUhib3ZHUDNXaTdIbWY2N092QXNsOXFfdw?oc=5",
-          "title": "‘Trump Tariffs and AI Boom’ Propel U.S. Steel Past Japan to World No. 3 for First Time in 26 Years",
-          "summary": "Driven by trade policies and tech-sector demand, U.S. steel production has surpassed Japan for the first time in over two decades, signaling regional shifts in heavy metal manufacturing.",
-          "why": "Changes in global steel production hubs directly impact heavy metal fabrication, structural steel grinding, and demand for industrial abrasive consumables in North America.",
-          "action": "Monitor regional shifts in metal fabrication output to anticipate shifting export and local supply chain demands.",
+          "tag": "abrasive",
+          "rating": "green",
+          "source": "EIN News",
+          "date": "2026-10-19",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM2VsRTlqVWR6dlpoUXpZQ04wNnJsRUNBbndKSnNQODIyUXdnTTlIT0hZMC10bGhEUUk0clZ5ZWZRN0I2eVhiVHVPVmRYd05xWUdJdDJldTBsTkZEUVNBNG5qaE9WeXdDN2dSVzJ2TzNsVFhBNVMzakhwZFR6Z0dQeFFVS0ZPa0dmWmh1dHhiYXVXWWRrbk9XS251Ul9SVS1SZ3NON0VXRWxfOWtzazlNcXhUMVBnU2liODhqaFExOEdGb2NEYkRoaG9uNmx6MlNjMUd2N3Q0emZnUXltZk1wbg?oc=5",
+          "title": "Abrasives Market to Reach $72.2 Billion by 2030, Growing at a 7.6% CAGR Driven by Precision Finishing Demand",
+          "summary": "The global abrasives market is expanding rapidly, projected to hit $72.2 billion by 2030 with a 7.6% CAGR, heavily driven by the need for high-precision finishing in manufacturing.",
+          "why": "Confirms strong long-term macroeconomic demand for abrasive consumable products worldwide, supporting expansion strategies.",
+          "action": "Keep inventory secure and monitor premium high-precision abrasive lines to capture higher margins.",
           "th": {
-            "title": "มาตรการภาษีและบูม AI ดันเหล็กสหรัฐฯแซงญี่ปุ่นขึ้นเบอร์ 3 ของโลกในรอบ 26 ปี",
-            "summary": "การขับเคลื่อนด้วยนโยบายการการค้าและความต้องการจากภาคเทคโนโลยี ทำให้การผลิตเหล็กของสหรัฐฯ แซงหน้าญี่ปุ่นเป็นครั้งแรกในรอบกว่าสองทศวรรษ สะท้อนการเปลี่ยนแปลงระดับภูมิภาคในการผลิตโลหะหนัก",
-            "why": "การเปลี่ยนแปลงของศูนย์กลางการผลิตเหล็กระดับโลกส่งผลโดยตรงต่ออุตสาหกรรมแปรรูปโลหะหนัก การเจียรเหล็กโครงสร้าง และความต้องการใช้วัสดุขัดกระดาษทรายในอเมริกาเหนือ",
-            "action": "ติดตามการเปลี่ยนแปลงระดับภูมิภาคของปริมาณการผลิตโลหะ เพื่อคาดการณ์ความต้องการในห่วงโซ่อุปทานและการส่งออกที่อาจเปลี่ยนไป"
-          }
-        },
-        {
-          "id": "20261128-w2",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "Fortune Business Insights",
-          "date": "2026-11-02",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE10TVNUVVlScmhhc1JDQ2FXMUJVUnk4Y1l0NEdHQW93bkZpVUhoSC1Ia01lYk5YRjMzanJCTklyak14NkdXSU1BeWZ6ZE5odnRtZ0NXTmUyLWV4VXRzRHd1cEJHSHplc25GV25TVkNXeXV3YW5EWXNiU3BRUQ?oc=5",
-          "title": "Coating Additives Market Size, Share & Growth Report, 2034",
-          "summary": "The global coating additives market continues to expand steadily through 2034, driven by performance demands across automotive, industrial, and architectural applications.",
-          "why": "Advances in surface coatings often require upgraded pre-treatment, sanding, and surface preparation processes before application.",
-          "action": "Keep track of new coating formulations that might demand finer surface prep or specialized abrasive profiles.",
-          "th": {
-            "title": "รายงานขนาด ส่วนแบ่ง และการเติบโตของตลาดสารเติมแต่งสารเคลือบ ถึงปี 2034",
-            "summary": "ตลาดสารเติมแต่งสารเคลือบระดับโลกยังคงเติบโตอย่างต่อเนื่องจนถึงปี 2034 โดยได้รับแรงหนุนจากความต้องการด้านประสิทธิภาพในงานยานยนต์ อุตสาหกรรม และสถาปัตยกรรม",
-            "why": "ความก้าวหน้าของสารเคลือบพื้นผิว มักมาพร้อมกับความต้องการกระบวนการเตรียมผิว การขัดกระดาษทราย และการปรับสภาพพื้นผิวที่ดีขึ้นก่อนการเคลือบ",
-            "action": "ติดตามสูตรสารเคลือบใหม่ๆ ที่อาจต้องการกระบวนการเตรียมผิวที่ละเอียดยิ่งขึ้น หรือรูปแบบวัสดุขัดที่จำเพาะเจาะจง"
-          }
-        },
-        {
-          "id": "20261128-w3",
-          "tag": "coating",
-          "rating": "amber",
-          "source": "MarketsandMarkets",
-          "date": "2026-08-23",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNemtIMHFiZUJnSkx6VkNqNjlnbndvRjh4WUNDbHNESmhLYVRnc0R4a1EzRW1YQUxvLXZ4Q3V6djlKQnRYczZyUFFybUEzemVSNjhzZ2pMa3h1Um1yWFQ4eDY0QUxvdF8tSG90QmFET1MzUzkxWkxwU2I1eGtrNjJfSjYyYmg0NjBhcTBDcA?oc=5",
-          "title": "US Powder Coatings Market Size, Share, Trends, Growth Analysis Report, 2031",
-          "summary": "The US powder coatings sector shows robust growth trends heading into 2031, favored for durability and eco-friendly manufacturing profiles.",
-          "why": "Powder coating requires stringent metal surface profiling and mechanical prep to ensure proper adhesion on industrial components.",
-          "action": "Understand how powder-coated metal preparation specs impact the surface roughness (Ra value) required from abrasives.",
-          "th": {
-            "title": "รายงานขนาด ส่วนแบ่ง แนวโน้ม และการวิเคราะห์การเติบโตของตลาดสีฝุ่นในสหรัฐฯ ถึงปี 2031",
-            "summary": "ภาคอุตสาหกรรมสีฝุ่นในสหรัฐฯ แสดงแนวโน้มการเติบโตที่แข็งแกร่งจนถึงปี 2031 เนื่องจากความทนทานและกระบวนการผลิตที่เป็นมิตรต่อสิ่งแวดล้อม",
-            "why": "การเคลือบสีฝุ่นจำเป็นต้องมีการเตรียมผิวโลหะและการเตรียมพื้นผิวทางกลที่ได้มาตรฐาน เพื่อให้มั่นใจว่าสีจะยึดเกาะกับชิ้นส่วนอุตสาหกรรมได้อย่างดี",
-            "action": "ทำความเข้าใจว่าข้อกำหนดการเตรียมผิวโลหะสำหรับเคลือบสีฝุ่น ส่งผลอย่างไรต่อค่าความหยาบของพื้นผิว (ค่า Ra) ที่ต้องการจากกระบวนการขัด"
+            "title": "ตลาดวัสดุขัดทั่วโลกคาดว่าจะแตะ 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 เติบโต 7.6% ต่อปี",
+            "summary": "ตลาดวัสดุขัดทั่วโลกกำลังขยายตัวอย่างรวดเร็ว โดยคาดว่าจะแตะ 7.22 หมื่นล้านดอลลาร์ภายในปี 2030 ด้วยอัตราการเติบโตเฉลี่ย 7.6% ขับเคลื่อนโดยความต้องการงานขัดผิวความแม่นยำสูงในภาคการผลิต",
+            "why": "ยืนยันความต้องการในระยะยาวที่แข็งแกร่งสำหรับผลิตภัณฑ์วัสดุขัดทั่วโลก ซึ่งสนับสนุนกลยุทธ์การขยายธุรกิจ",
+            "action": "รักษาสต็อกสินค้าให้พร้อมและติดตามกลุ่มผลิตภัณฑ์วัสดุขัดความแม่นยำสูงเพื่อทำกำไรให้มากขึ้น"
           }
         }
       ]
